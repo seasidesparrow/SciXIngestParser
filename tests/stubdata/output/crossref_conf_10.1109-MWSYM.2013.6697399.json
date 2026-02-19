@@ -1,0 +1,113 @@
+{
+  "authors": [
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Karlsruhe Institute of Technology (KIT), Institut fu\u00a8r Hochfrequenztechnik und Elektronik, Karlsruhe, Germany"
+        }
+      ],
+      "name": {
+        "given_name": "Ulrich J.",
+        "surname": "Lewark"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Fraunhofer IAF, Freiburg, Germany Universita\u00a8t Stuttgart, Institute of Robust Power Semiconductor Systems, Stuttgart, Germany"
+        }
+      ],
+      "name": {
+        "given_name": "Axel",
+        "surname": "Tessmann"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Fraunhofer IAF, Freiburg, Germany Universita\u00a8t Stuttgart, Institute of Robust Power Semiconductor Systems, Stuttgart, Germany"
+        }
+      ],
+      "name": {
+        "given_name": "Hermann",
+        "surname": "Massler"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Fraunhofer IAF, Freiburg, Germany Universita\u00a8t Stuttgart, Institute of Robust Power Semiconductor Systems, Stuttgart, Germany"
+        }
+      ],
+      "name": {
+        "given_name": "Arnulf",
+        "surname": "Leuther"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Karlsruhe Institute of Technology (KIT), Institut fu\u00a8r Hochfrequenztechnik und Elektronik, Karlsruhe, Germany"
+        }
+      ],
+      "name": {
+        "given_name": "Thomas",
+        "surname": "Zwick"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Fraunhofer IAF, Freiburg, Germany Universita\u00a8t Stuttgart, Institute of Robust Power Semiconductor Systems, Stuttgart, Germany"
+        }
+      ],
+      "name": {
+        "given_name": "Ingmar",
+        "surname": "Kallfass"
+      }
+    }
+  ],
+  "doctype": "inproceedings",
+  "esources": [
+    {
+      "location": "https://ieeexplore.ieee.org/document/6697399/",
+      "source": "pub_html"
+    }
+  ],
+  "pagination": {
+    "firstPage": "1",
+    "lastPage": "3"
+  },
+  "persistentIDs": [
+    {
+      "DOI": "10.1109/MWSYM.2013.6697399",
+      "ISBN": [
+        {
+          "isbnString": "978-1-4673-6176-7",
+          "pubtype": "electronic"
+        }
+      ]
+    }
+  ],
+  "pubDate": {
+    "printDate": "2013-06-00"
+  },
+  "publication": {
+    "confLocation": "Seattle, WA, USA",
+    "confName": "2013 IEEE/MTT-S International Microwave Symposium - MTT 2013",
+    "pubName": "2013 IEEE MTT-S International Microwave Symposium Digest (MTT)",
+    "pubYear": "2013",
+    "publisher": "IEEE"
+  },
+  "recordData": {
+    "createdTime": "",
+    "loadFormat": "OtherXML",
+    "loadLocation": "",
+    "loadType": "fromFile",
+    "parsedTime": "",
+    "recordOrigin": ""
+  },
+  "title": {
+    "textEnglish": "An active 600 GHz frequency multiplier-by-six S-MMIC"
+  }
+}

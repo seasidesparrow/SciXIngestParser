@@ -1,0 +1,86 @@
+{
+  "abstract": {
+    "textEnglish": "Delores Knipp's textbook Understanding Space Weather and the Physics Behind It provides a comprehensive resource for space physicists teaching in a variety of academic departments to introduce space weather to advanced undergraduates. The book benefits from Knipp's extensive experience teaching introductory and advanced undergraduate physics courses at the U.S. Air Force Academy. The fundamental physics concepts are clearly explained and are connected directly to the space physics concepts being discussed. To expand upon the relevant basic physics, current research areas and new observations are highlighted, with many of the chapters including contributions from a number of leading space physicists."
+  },
+  "authors": [
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "University of Michigan USA"
+        }
+      ],
+      "name": {
+        "given_name": "Mark",
+        "surname": "Moldwin"
+      }
+    }
+  ],
+  "copyright": {
+    "statement": "\u00a92012. American Geophysical Union. All Rights Reserved.",
+    "status": true
+  },
+  "keywords": [
+    {
+      "keyString": "Space Weather",
+      "keySystem": "Wiley"
+    },
+    {
+      "keyString": "Space Physics",
+      "keySystem": "Wiley"
+    },
+    {
+      "keyString": "Textbook Review",
+      "keySystem": "Wiley"
+    }
+  ],
+  "pagination": {
+    "firstPage": "S08004",
+    "pageCount": "2"
+  },
+  "persistentIDs": [
+    {
+      "DOI": "10.1029/2012SW000823"
+    }
+  ],
+  "pubDate": {
+    "electrDate": "2012-08-03",
+    "printDate": "2012-08-00"
+  },
+  "publication": {
+    "ISSN": [
+      {
+        "issnString": "1542-7390",
+        "pubtype": "print"
+      },
+      {
+        "issnString": "1542-7390",
+        "pubtype": "electronic"
+      }
+    ],
+    "issueNum": "8",
+    "pubName": "Space Weather",
+    "pubYear": "2012",
+    "volumeNum": "10"
+  },
+  "publisherIDs": [
+    {
+      "Identifier": "2012SW000823",
+      "attribute": "editorialOffice"
+    },
+    {
+      "Identifier": "SWE539",
+      "attribute": "unit"
+    }
+  ],
+  "recordData": {
+    "createdTime": "",
+    "loadFormat": "Wiley",
+    "loadLocation": "",
+    "loadType": "fromFile",
+    "parsedTime": "",
+    "recordOrigin": ""
+  },
+  "title": {
+    "textEnglish": "Book Review: Dolores Knipp's Understanding Space Weather and the Physics Behind It"
+  }
+}

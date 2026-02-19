@@ -1,0 +1,1187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doi_records>
+  <doi_record owner="10.1080" timestamp="2023-05-11 12:40:25">
+    <crossref>
+      <journal>
+        <journal_metadata language="en">
+          <full_title>Atmosphere-Ocean</full_title>
+          <abbrev_title>Atmosphere-Ocean</abbrev_title>
+          <issn media_type="print">0705-5900</issn>
+          <issn media_type="electronic">1480-9214</issn>
+        </journal_metadata>
+        <journal_issue>
+          <publication_date media_type="print">
+            <month>03</month>
+            <year>2003</year>
+          </publication_date>
+          <journal_volume>
+            <volume>41</volume>
+          </journal_volume>
+          <issue>1</issue>
+        </journal_issue>
+        <journal_article publication_type="full_text">
+          <titles>
+            <title>An overview of the past, present and future of gravity‐wave drag parametrization for numerical climate and weather prediction models</title>
+          </titles>
+          <contributors>
+            <person_name sequence="first" contributor_role="author">
+              <given_name>Survey</given_name>
+              <surname>Article</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Young‐Joon</given_name>
+              <surname>Kim</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Stephen D.</given_name>
+              <surname>Eckermann</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Hye‐Yeong</given_name>
+              <surname>Chun</surname>
+            </person_name>
+          </contributors>
+          <publication_date media_type="print">
+            <month>03</month>
+            <year>2003</year>
+          </publication_date>
+          <pages>
+            <first_page>65</first_page>
+            <last_page>98</last_page>
+          </pages>
+          <publisher_item>
+            <item_number item_number_type="sequence-number">5</item_number>
+            <identifier id_type="doi">10.3137/ao.410105</identifier>
+          </publisher_item>
+          <doi_data>
+            <doi>10.3137/ao.410105</doi>
+            <resource>http://www.tandfonline.com/doi/abs/10.3137/ao.410105</resource>
+            <collection property="crawler-based">
+              <item crawler="iParadigms">
+                <resource>http://www.tandfonline.com/doi/pdf/10.3137/ao.410105</resource>
+              </item>
+            </collection>
+          </doi_data>
+          <citation_list>
+            <citation key="CIT0001">
+              <doi>10.1029/2000JD900520</doi>
+            </citation>
+            <citation key="CIT0002">
+              <doi>10.1029/95JD02046</doi>
+            </citation>
+            <citation key="CIT0003">
+              <doi>10.1175/1520-0469(1995)052&lt;2212:TGWRAD&gt;2.0.CO;2</doi>
+            </citation>
+            <citation key="CIT0004">
+              <doi>10.1029/96JD02197</doi>
+            </citation>
+            <citation key="CIT0005">
+              <doi>10.1175/1520-0469(1999)056&lt;4167:ASPOMF&gt;2.0.CO;2</doi>
+            </citation>
+            <citation key="CIT0006">
+              <doi>10.1029/2000JD900326</doi>
+            </citation>
+            <citation key="CIT0007">
+              <doi>10.1175/1520-0469(2002)059&lt;1394:LVOIGW&gt;2.0.CO;2</doi>
+            </citation>
+            <citation key="CIT0008">
+              <unstructured_citation>Alpert, J., Hong, S.‐Y. and Kim, Y.‐J. Sensitivity of cyclogenesis to lower tropospheric enhancement of gravity wave drag using the environmental modeling center medium range model. Preprints. 11th Conference on NWP. August19–231996. pp.322–323. Norfolk, Virginia: Am. Meteorol. Soc.</unstructured_citation>
+            </citation>
+            <citation key="CIT0009">
+              <doi>10.1175/1520-0442(2002)015&lt;1969:TNTSC&gt;2.0.CO;2</doi>
+            </citation>
+            <citation key="CIT0010">
+              <doi>10.5194/angeo-19-99-2001</doi>
+            </citation>
+            <citation key="CIT0011">
+              <doi>10.1098/rsta.1987.0115</doi>
+            </citation>
+            <citation key="CIT0012">
+              <unstructured_citation>
+                _____, Holton, J.R. and Leovy, C.B.
+                <i>Middle atmosphere dynamics.</i>
+                , 489San Diego, Calif: Academic Press.
+              </unstructured_citation>
+            </citation>
+            <citation key="CIT0013">
+              <doi>10.1175/1520-0469(1993)050&lt;0377:MWDITS&gt;2.0.CO;2</doi>
+            </citation>
+            <citation key="CIT0014">
+              <doi>10.1175/1520-0469(1988)045&lt;0063:OHDSON&gt;2.0.CO;2</doi>
+            </citation>
+            <citation key="CIT0015">
+              <doi>10.1029/95JD03835</doi>
+            </citation>
+            <citation key="CIT0016">
+              <doi>10.1175/1520-0469(1999)056&lt;1913:MTFIBA&gt;2.0.CO;2</doi>
+            </citation>
+            <citation key="CIT0017">
+              <doi>10.1063/1.869916</doi>
+            </citation>
+            <citation key="CIT0018">
+              <doi>10.1175/1520-0469(1999)056&lt;0483:TLDOAS&gt;2.0.CO;2</doi>
+            </citation>
+            <citation key="CIT0019">
+              <doi provider="crossref">10.1016/S0301-9322(97)88112-8</doi>
+              <unstructured_citation>
+                Baines, P.G. 1995.
+                <i>Topographic effects in stratified flows.</i>
+                , 482Cambridge Univ. Press.
+              </unstructured_citation>
+            </citation>
+            <citation key="CIT0020">
+              <doi>10.1016/0169-8095(95)00037-2</doi>
+            </citation>
+            <citation key="CIT0021">
+              <doi>10.1126/science.1063315</doi>
+            </citation>
+            <citation key="CIT0022">
+              <doi>10.1175/1520-0469(2001)058&lt;3971:SNFOAA&gt;2.0.CO;2</doi>
+            </citation>
+            <citation key="CIT0023">
+              <doi>10.1002/qj.49712454906</doi>
+            </citation>
+            <citation key="CIT0024">
+              <doi>10.1146/annurev.fluid.30.1.507</doi>
+            </citation>
+            <citation key="CIT0025">
+              <doi>10.1098/rsta.1991.0003</doi>
+            </citation>
+            <citation key="CIT0026">
+              <doi>10.1175/1520-0469(1994)051&lt;3791:EWADFF&gt;2.0.CO;2</doi>
+            </citation>
+            <citation key="CIT0027">
+              <doi>10.1080/07055900.1984.9649208</doi>
+            </citation>
+            <citation key="CIT0028">
+              <doi>10.1175/1520-0442(1988)001&lt;0789:SRCTEO&gt;2.0.CO;2</doi>
+            </citation>
+            <citation key="CIT0029">
+              <journal_title>J. Geophys. Res.</journal_title>
+              <author>_____</author>
+              <first_page>12771</first_page>
+              <volume>97</volume>
+              <cYear>1992</cYear>
+              <doi provider="crossref">10.1029/92JD00722</doi>
+            </citation>
+            <citation key="CIT0030">
+              <doi>10.1007/s00585-998-0238-z</doi>
+            </citation>
+            <citation key="CIT0031">
+              <journal_title>Ann. Geophysicae</journal_title>
+              <author>Bougeault P.</author>
+              <first_page>395</first_page>
+              <volume>11</volume>
+              <cYear>1993</cYear>
+            </citation>
+            <citation key="CIT0032">
+              <doi>10.1175/1520-0477(2001)082&lt;0433:TMSOP&gt;2.3.CO;2</doi>
+            </citation>
+            <citation key="CIT0033">
+              <doi>10.1175/1520-0469(1986)043&lt;1711:WFIIAG&gt;2.0.CO;2</doi>
+            </citation>
+            <citation key="CIT0034">
+              <doi>10.1175/1520-0442(1991)004&lt;0469:SOSCTM&gt;2.0.CO;2</doi>
+            </citation>
+            <citation key="CIT0035">
+              <doi>10.1029/95JD00095</doi>
+            </citation>
+            <citation key="CIT0036">
+              <doi>10.1175/1520-0469(1992)049&lt;0785:EWIASG&gt;2.0.CO;2</doi>
+            </citation>
+            <citation key="CIT0037">
+              <doi>10.1175/1520-0434(2001)016&lt;0281:OOMWIP&gt;2.0.CO;2</doi>
+            </citation>
+            <citation key="CIT0038">
+              <doi>10.1175/1520-0469(1988)045&lt;0081:GVATLR&gt;2.0.CO;2</doi>
+            </citation>
+            <citation key="CIT0039">
+              <doi>10.1002/qj.49712152806</doi>
+            </citation>
+            <citation key="CIT0040">
+              <journal_title>Q. J. R. Meteorol. Soc.</journal_title>
+              <author>_____</author>
+              <first_page>1625</first_page>
+              <volume>122</volume>
+              <cYear>1996</cYear>
+            </citation>
+            <citation key="CIT0041">
+              <doi>10.1002/qj.49712555711</doi>
+            </citation>
+            <citation key="CIT0042">
+              <doi>10.1007/s007030050001</doi>
+            </citation>
+            <citation key="CIT0043">
+              <doi>10.1175/1520-0442(1992)005&lt;1181:TEOOOM&gt;2.0.CO;2</doi>
+            </citation>
+            <citation key="CIT0044">
+              <doi>10.1002/qj.49712757108</doi>
+            </citation>
+            <citation key="CIT0045">
+              <doi>10.1175/1520-0469(1999)056&lt;3764:OSGGWT&gt;2.0.CO;2</doi>
+            </citation>
+            <citation key="CIT0046">
+              <doi>10.1175/1520-0469(1999)056&lt;3749:OSGGWT&gt;2.0.CO;2</doi>
+            </citation>
+            <citation key="CIT0047">
+              <doi>10.1029/96RS03468</doi>
+            </citation>
+            <citation key="CIT0048">
+              <doi>10.2151/jmsj.80.335</doi>
+            </citation>
+            <citation key="CIT0049">
+              <journal_title>J. Meteorol. Soc. Jpn.</journal_title>
+              <author>Chun H.‐Y.</author>
+              <first_page>685</first_page>
+              <volume>73</volume>
+              <cYear>1995</cYear>
+              <doi provider="crossref">10.2151/jmsj1965.73.3_685</doi>
+            </citation>
+            <citation key="CIT0050">
+              <journal_title>J. Korean Meteorol. Soc.</journal_title>
+              <author>_____</author>
+              <first_page>581</first_page>
+              <volume>32</volume>
+              <cYear>1996</cYear>
+            </citation>
+            <citation key="CIT0051">
+              <doi>10.1175/1520-0469(1998)055&lt;3299:MFBTII&gt;2.0.CO;2</doi>
+            </citation>
+            <citation key="CIT0052">
+              <doi>10.1175/1520-0469(2001)058&lt;0302:EOGWDI&gt;2.0.CO;2</doi>
+            </citation>
+            <citation key="CIT0053">
+              <doi>10.1175/1520-0469(2002)059&lt;1006:AUPOCF&gt;2.0.CO;2</doi>
+            </citation>
+            <citation key="CIT0054">
+              <doi>10.1175/1520-0469(1989)046&lt;0817:OEFAII&gt;2.0.CO;2</doi>
+            </citation>
+            <citation key="CIT0055">
+              <doi>10.1175/1520-0469(1984)041&lt;0329:SDWCIT&gt;2.0.CO;2</doi>
+            </citation>
+            <citation key="CIT0056">
+              <doi>10.1002/qj.49711247402</doi>
+            </citation>
+            <citation key="CIT0057">
+              <doi>10.1029/JD091iD02p02749</doi>
+            </citation>
+            <citation key="CIT0058">
+              <volume_title>Numerical Methods in Atmospheric Modelling. The André Robert memorial volume.</volume_title>
+              <author>Cullen M.J.P.</author>
+              <first_page>425</first_page>
+              <cYear>1997</cYear>
+            </citation>
+            <citation key="CIT0059">
+              <doi>10.1256/smsqj.56012</doi>
+            </citation>
+            <citation key="CIT0060">
+              <doi>10.1111/j.1600-0870.1988.tb00409.x</doi>
+            </citation>
+            <citation key="CIT0061">
+              <doi>10.1002/qj.49712757405</doi>
+            </citation>
+            <citation key="CIT0062">
+              <doi>10.1029/98GL00640</doi>
+            </citation>
+            <citation key="CIT0063">
+              <doi>10.1029/JC078i021p04451</doi>
+            </citation>
+            <citation key="CIT0064">
+              <doi>10.1007/s007030070027</doi>
+            </citation>
+            <citation key="CIT0065">
+              <doi>10.1175/1520-0493(2000)128&lt;0901:AIOMPW&gt;2.0.CO;2</doi>
+            </citation>
+            <citation key="CIT0066">
+              <doi>10.1175/1520-0469(2002)059&lt;0186:TDOMWI&gt;2.0.CO;2</doi>
+            </citation>
+            <citation key="CIT0067">
+              <doi>10.1256/qj.01.205</doi>
+            </citation>
+            <citation key="CIT0068">
+              <doi>10.1029/2000JD900194</doi>
+            </citation>
+            <citation key="CIT0069">
+              <doi>10.1007/BF00874465</doi>
+            </citation>
+            <citation key="CIT0070">
+              <journal_title>J. Geophys. Res.</journal_title>
+              <author>_____</author>
+              <first_page>26,053</first_page>
+              <volume>102</volume>
+              <cYear>1997</cYear>
+              <doi provider="crossref">10.1029/96JD02999</doi>
+            </citation>
+            <citation key="CIT0071">
+              <volume_title>Atmospheric Processes over Complex Terrain</volume_title>
+              <author>Durran D.R.</author>
+              <cYear>1990</cYear>
+            </citation>
+            <citation key="CIT0072">
+              <journal_title>Meteorol. Monogr. Am. Meteorol. Soc.</journal_title>
+              <author>Blumen W.</author>
+              <first_page>59</first_page>
+              <volume>23</volume>
+            </citation>
+            <citation key="CIT0073">
+              <doi>10.1175/1520-0469(1982)039&lt;2152:OTEOMO&gt;2.0.CO;2</doi>
+            </citation>
+            <citation key="CIT0074">
+              <doi>10.1175/1520-0469(1982)039&lt;2490:TEOMOT&gt;2.0.CO;2</doi>
+            </citation>
+            <citation key="CIT0075">
+              <doi>10.1175/1520-0469(1987)044&lt;3402:ALADWP&gt;2.0.CO;2</doi>
+            </citation>
+            <citation key="CIT0076">
+              <doi>10.1029/95JD00987</doi>
+            </citation>
+            <citation key="CIT0077">
+              <doi>10.1029/96JD01660</doi>
+            </citation>
+            <citation key="CIT0078">
+              <doi>10.1126/science.286.5444.1534</doi>
+            </citation>
+            <citation key="CIT0079">
+              <journal_title>Geofys. Publ.</journal_title>
+              <author>Eliassen A.</author>
+              <first_page>1</first_page>
+              <volume>22</volume>
+              <cYear>1961</cYear>
+            </citation>
+            <citation key="CIT0080">
+              <doi>10.1175/1520-0469(2001)058&lt;1051:TDEIHD&gt;2.0.CO;2</doi>
+            </citation>
+            <citation key="CIT0081">
+              <doi>10.1175/1520-0493(1973)101&lt;0708:GWFST&gt;2.3.CO;2</doi>
+            </citation>
+            <citation key="CIT0082">
+              <volume_title>Transport processes in the middle atmosphere.</volume_title>
+              <author>Fels S.B.</author>
+              <first_page>371</first_page>
+              <cYear>1987</cYear>
+              <doi provider="crossref">10.1007/978-94-009-3973-8_24</doi>
+            </citation>
+            <citation key="CIT0083">
+              <doi>10.1029/2001JD000479</doi>
+            </citation>
+            <citation key="CIT0084">
+              <doi>10.1017/S0022112094003046</doi>
+            </citation>
+            <citation key="CIT0085">
+              <doi>10.1175/1520-0469(2000)057&lt;1236:BATSQS&gt;2.0.CO;2</doi>
+            </citation>
+            <citation key="CIT0086">
+              <doi>10.1175/1520-0469(1992)049&lt;1427:NSOCGS&gt;2.0.CO;2</doi>
+            </citation>
+            <citation key="CIT0087">
+              <doi>10.1029/RG022i003p00275</doi>
+            </citation>
+            <citation key="CIT0088">
+              <doi>10.1007/BF00874464</doi>
+            </citation>
+            <citation key="CIT0089">
+              <doi>10.1175/1520-0469(1985)042&lt;0549:FOHACD&gt;2.0.CO;2</doi>
+            </citation>
+            <citation key="CIT0090">
+              <doi>10.1175/1520-0469(1993)050&lt;3695:SEOGWE&gt;2.0.CO;2</doi>
+            </citation>
+            <citation key="CIT0091">
+              <doi>10.1175/1520-0469(1993)050&lt;3714:SEOGWE&gt;2.0.CO;2</doi>
+            </citation>
+            <citation key="CIT0092">
+              <doi>10.1175/1520-0469(1993)050&lt;3685:SEOGWE&gt;2.0.CO;2</doi>
+            </citation>
+            <citation key="CIT0093">
+              <series_title>AGU Geophysical Monograph Series</series_title>
+              <volume_title>Atmospheric Science Across the Stratopause</volume_title>
+              <author>_____</author>
+              <first_page>143</first_page>
+              <volume>123</volume>
+              <cYear>2000</cYear>
+              <doi provider="crossref">10.1029/GM123p0143</doi>
+            </citation>
+            <citation key="CIT0094">
+              <journal_title>Rev. Geophys.</journal_title>
+              <author>_____</author>
+            </citation>
+            <citation key="CIT0095">
+              <series_title>AGU Geophysical Monograph Series</series_title>
+              <volume_title>Atmospheric Science Across the Stratopause</volume_title>
+              <author>Garcia R.R.</author>
+              <first_page>161</first_page>
+              <volume>123</volume>
+              <cYear>2000</cYear>
+              <doi provider="crossref">10.1029/GM123p0161</doi>
+            </citation>
+            <citation key="CIT0096">
+              <doi>10.1016/0021-9169(96)00027-X</doi>
+            </citation>
+            <citation key="CIT0097">
+              <doi>10.1175/1520-0477(1992)073&lt;1962:ATAMIP&gt;2.0.CO;2</doi>
+            </citation>
+            <citation key="CIT0098">
+              <doi>10.1175/1520-0469(2001)058&lt;3563:OTTOMB&gt;2.0.CO;2</doi>
+            </citation>
+            <citation key="CIT0099">
+              <unstructured_citation>
+                Gill, A.E. 1982.
+                <i>Atmosphere‐ocean dynamics.</i>
+                , 488New York: Academic Press.
+              </unstructured_citation>
+            </citation>
+            <citation key="CIT0100">
+              <unstructured_citation>
+                Gossard, E.E. and Hooke, W.H. 1975.
+                <i>Waves in the atmosphere.</i>
+                , 456New York: Elsevier.
+              </unstructured_citation>
+            </citation>
+            <citation key="CIT0101">
+              <doi>10.1002/qj.49712454606</doi>
+            </citation>
+            <citation key="CIT0102">
+              <doi>10.1175/1520-0469(2000)057&lt;0737:IGWOIT&gt;2.0.CO;2</doi>
+            </citation>
+            <citation key="CIT0103">
+              <doi>10.1029/93JD03478</doi>
+            </citation>
+            <citation key="CIT0104">
+              <doi>10.1016/0021-9169(96)00028-1</doi>
+            </citation>
+            <citation key="CIT0105">
+              <unstructured_citation>_____. Preface. Proc. NATO Advanced Research Workshop “Gravity wave processes and their parameterization in global climate models”. Edited by: Hamilton, K. Vol. 1–50, pp.404Springer‐Verlag. NATO ASI Series</unstructured_citation>
+            </citation>
+            <citation key="CIT0106">
+              <unstructured_citation>_____. The role of parameterized drag in a troposphere‐stratosphere‐mesosphere general circulation model. Proc. NATO Advanced Research Workshop “Gravity wave processes and their parameterization in global climate models”. Edited by: Hamilton, K. Vol. 1–50, pp.337–350. Springer‐Verlag. NATO ASI Series</unstructured_citation>
+            </citation>
+            <citation key="CIT0107">
+              <journal_title>Atmosphere‐Ocean</journal_title>
+              <author>_____</author>
+              <first_page>319</first_page>
+              <volume>36</volume>
+              <cYear>1998</cYear>
+              <doi provider="crossref">10.1080/07055900.1998.9649616</doi>
+            </citation>
+            <citation key="CIT0108">
+              <doi>10.1016/S1364-6826(98)00118-7</doi>
+            </citation>
+            <citation key="CIT0109">
+              <doi>10.1175/1520-0469(1995)052&lt;0005:COTSTG&gt;2.0.CO;2</doi>
+            </citation>
+            <citation key="CIT0110">
+              <doi>10.1175/1520-0469(1999)056&lt;3829:MASWHV&gt;2.0.CO;2</doi>
+            </citation>
+            <citation key="CIT0111">
+              <doi>10.1175/1520-0469(2001)058&lt;3271:SSQLOS&gt;2.0.CO;2</doi>
+            </citation>
+            <citation key="CIT0112">
+              <doi>10.1002/qj.49711548606</doi>
+            </citation>
+            <citation key="CIT0113">
+              <doi>10.1007/BF00874467</doi>
+            </citation>
+            <citation key="CIT0114">
+              <doi>10.1175/1520-0469(1991)048&lt;0651:OTCOED&gt;2.0.CO;2</doi>
+            </citation>
+            <citation key="CIT0115">
+              <journal_title>J. Meteorol. Soc. Jpn.</journal_title>
+              <author>Helfand H.M.</author>
+              <first_page>729</first_page>
+              <cYear>1987</cYear>
+            </citation>
+            <citation key="CIT0116">
+              <journal_title>Q. J. R. Meteorol. Soc.</journal_title>
+              <author>Hereil P.</author>
+              <first_page>2053</first_page>
+              <volume>125</volume>
+              <cYear>1999</cYear>
+              <doi provider="crossref">10.1002/qj.49712555807</doi>
+            </citation>
+            <citation key="CIT0117">
+              <doi>10.1175/1520-0469(1991)048&lt;1380:TSOGWI&gt;2.0.CO;2</doi>
+            </citation>
+            <citation key="CIT0118">
+              <doi>10.1016/0021-9169(92)90070-2</doi>
+            </citation>
+            <citation key="CIT0119">
+              <doi>10.1016/S1364-6826(96)00079-X</doi>
+            </citation>
+            <citation key="CIT0120">
+              <doi>10.1016/S1364-6826(96)00080-6</doi>
+            </citation>
+            <citation key="CIT0121">
+              <doi>10.1175/1520-0469(1988)045&lt;1462:EOTKWC&gt;2.0.CO;2</doi>
+            </citation>
+            <citation key="CIT0122">
+              <unstructured_citation>Hogan, T.F., Rosmond, T.E. and Pauley, R.L. The Navy Operational Global Atmospheric Prediction System: Recent changes and testing of gravity wave and cumulus parameterizations. Preprints. 13th Conference on NWP. 13–17 Sept. 1999. pp.60–65. Denver, Colorado: Am. Meteorol. Soc.</unstructured_citation>
+            </citation>
+            <citation key="CIT0123">
+              <doi>10.1175/1520-0469(1982)039&lt;0791:TROGWI&gt;2.0.CO;2</doi>
+            </citation>
+            <citation key="CIT0124">
+              <doi>10.1175/1520-0469(1983)040&lt;2497:TIOGWB&gt;2.0.CO;2</doi>
+            </citation>
+            <citation key="CIT0125">
+              <unstructured_citation>
+                _____. 1992.
+                <i>An introduction to dynamic meteorology.</i>
+                , Third Ed., 511Academic Press.
+              </unstructured_citation>
+            </citation>
+            <citation key="CIT0126">
+              <doi>10.1175/1520-0469(1972)029&lt;1076:AUTFTQ&gt;2.0.CO;2</doi>
+            </citation>
+            <citation key="CIT0127">
+              <doi>10.1007/BF01586455</doi>
+            </citation>
+            <citation key="CIT0128">
+              <journal_title>Tellus</journal_title>
+              <author>_____</author>
+              <first_page>45</first_page>
+              <volume>51</volume>
+              <cYear>1999</cYear>
+              <doi provider="crossref">10.3402/tellusb.v51i1.16259</doi>
+            </citation>
+            <citation key="CIT0129">
+              <series_title>AGU Geophysical Monograph Series</series_title>
+              <volume_title>Atmospheric Science Across the Stratopause</volume_title>
+              <author>_____</author>
+              <first_page>21</first_page>
+              <volume>123</volume>
+              <cYear>2000</cYear>
+              <doi provider="crossref">10.1029/GM123p0021</doi>
+            </citation>
+            <citation key="CIT0130">
+              <journal_title>J. Atmos. Sci.</journal_title>
+              <author>_____</author>
+              <first_page>2019</first_page>
+              <volume>58</volume>
+              <cYear>2002</cYear>
+            </citation>
+            <citation key="CIT0131">
+              <volume_title>Mesoscale meteorology and forecasting</volume_title>
+              <author>Hooke W.H.</author>
+              <first_page>272</first_page>
+              <cYear>1986</cYear>
+              <doi provider="crossref">10.1007/978-1-935704-20-1_12</doi>
+            </citation>
+            <citation key="CIT0132">
+              <doi>10.1175/1520-0450(1975)014&lt;0031:FSOTAG&gt;2.0.CO;2</doi>
+            </citation>
+            <citation key="CIT0133">
+              <doi>10.1175/1520-0469(1998)055&lt;0502:WMFIAW&gt;2.0.CO;2</doi>
+            </citation>
+            <citation key="CIT0134">
+              <doi>10.1002/qj.49710443902</doi>
+            </citation>
+            <citation key="CIT0135">
+              <journal_title>J. Meteorol. Soc. Jpn.</journal_title>
+              <author>Iwasaki T.</author>
+              <first_page>245</first_page>
+              <volume>64</volume>
+              <cYear>1986</cYear>
+              <doi provider="crossref">10.2151/jmsj1965.64.2_245</doi>
+            </citation>
+            <citation key="CIT0136">
+              <journal_title>J. Meteorol. Soc. Jpn.</journal_title>
+              <author>_____</author>
+              <first_page>11</first_page>
+              <volume>67</volume>
+              <cYear>1989</cYear>
+              <doi provider="crossref">10.2151/jmsj1965.67.1_11</doi>
+            </citation>
+            <citation key="CIT0137">
+              <doi>10.1002/qj.49711951106</doi>
+            </citation>
+            <citation key="CIT0138">
+              <doi>10.1002/qj.49712052007</doi>
+            </citation>
+            <citation key="CIT0139">
+              <doi>10.1175/1520-0469(2001)058&lt;2000:AUCOTT&gt;2.0.CO;2</doi>
+            </citation>
+            <citation key="CIT0140">
+              <doi>10.1029/94GL01287</doi>
+            </citation>
+            <citation key="CIT0141">
+              <doi>10.1175/1520-0469(1997)054&lt;1107:AVHRGC&gt;2.0.CO;2</doi>
+            </citation>
+            <citation key="CIT0142">
+              <doi>10.1029/96GL00023</doi>
+            </citation>
+            <citation key="CIT0143">
+              <doi>10.1175/1520-0469(1973)030&lt;1229:SEWALS&gt;2.0.CO;2</doi>
+            </citation>
+            <citation key="CIT0144">
+              <doi>10.1002/qj.49712152505</doi>
+            </citation>
+            <citation key="CIT0145">
+              <doi>10.1175/1520-0442(1998)011&lt;1131:TNCFAR&gt;2.0.CO;2</doi>
+            </citation>
+            <citation key="CIT0146">
+              <doi>10.1175/1520-0469(1992)049&lt;0735:MTBGW&gt;2.0.CO;2</doi>
+            </citation>
+            <citation key="CIT0147">
+              <doi>10.1175/1520-0442(1996)009&lt;2698:ROSSOE&gt;2.0.CO;2</doi>
+            </citation>
+            <citation key="CIT0148">
+              <doi>10.1175/1520-0469(1995)052&lt;1875:IOOGWP&gt;2.0.CO;2</doi>
+            </citation>
+            <citation key="CIT0149">
+              <journal_title>J. Meteorol. Soc. Jpn.</journal_title>
+              <author>_____</author>
+              <first_page>695</first_page>
+              <volume>76</volume>
+              <cYear>1998</cYear>
+              <doi provider="crossref">10.2151/jmsj1965.76.5_695</doi>
+            </citation>
+            <citation key="CIT0150">
+              <doi>10.1175/1520-0469(1978)035&lt;0078:NSOHMW&gt;2.0.CO;2</doi>
+            </citation>
+            <citation key="CIT0151">
+              <doi>10.1175/1520-0469(1992)049&lt;0608:TDOMDI&gt;2.0.CO;2</doi>
+            </citation>
+            <citation key="CIT0152">
+              <doi>10.1175/1520-0469(1997)054&lt;0967:GNBCAI&gt;2.0.CO;2</doi>
+            </citation>
+            <citation key="CIT0153">
+              <journal_title>J. Atmos. Sci.</journal_title>
+              <author>Koch S.E.</author>
+              <first_page>2570</first_page>
+              <volume>116</volume>
+              <cYear>1988</cYear>
+            </citation>
+            <citation key="CIT0154">
+              <doi>10.1175/1520-0434(1997)012&lt;0253:OFADOM&gt;2.0.CO;2</doi>
+            </citation>
+            <citation key="CIT0155">
+              <doi>10.1175/1520-0493(1999)127&lt;2854:MGWATE&gt;2.0.CO;2</doi>
+            </citation>
+            <citation key="CIT0156">
+              <doi>10.1029/1999JD900814</doi>
+            </citation>
+            <citation key="CIT0157">
+              <doi>10.1175/1520-0469(2001)058&lt;0329:THKESA&gt;2.0.CO;2</doi>
+            </citation>
+            <citation key="CIT0158">
+              <doi>10.1016/S1364-6826(98)00104-7</doi>
+            </citation>
+            <citation key="CIT0159">
+              <doi>10.1256/smsqj.47602</doi>
+            </citation>
+            <citation key="CIT0160">
+              <doi>10.1175/1520-0493(1997)125&lt;0292:BSAPIA&gt;2.0.CO;2</doi>
+            </citation>
+            <citation key="CIT0161">
+              <doi>10.1175/1520-0469(2001)058&lt;1249:NMOGWG&gt;2.0.CO;2</doi>
+            </citation>
+            <citation key="CIT0162">
+              <doi provider="crossref">10.1007/978-3-642-60654-0_20</doi>
+              <unstructured_citation>Lawrence, B.N. The effect of parameterized gravity wave drag on simulations of the middle atmosphere during northern winter 1991/1992 ‐general evolution. Proc. NATO Advanced Research Workshop “Gravity wave processes and their parameterization in global climate models”. Edited by: Hamilton, K. Vol. 1–50, pp.291–307. Springer‐Verlag. NATO ASI Series</unstructured_citation>
+            </citation>
+            <citation key="CIT0163">
+              <doi>10.1029/97JD01771</doi>
+            </citation>
+            <citation key="CIT0164">
+              <journal_title>Q. J. R. Meteorol. Soc.</journal_title>
+              <author>_____</author>
+              <first_page>2005</first_page>
+              <volume>127</volume>
+              <cYear>2001</cYear>
+              <doi provider="crossref">10.1002/qj.49712757608</doi>
+            </citation>
+            <citation key="CIT0165">
+              <doi>10.1175/1520-0469(1998)055&lt;2473:IGWBIT&gt;2.0.CO;2</doi>
+            </citation>
+            <citation key="CIT0166">
+              <doi>10.1175/1520-0469(1964)021&lt;0327:SMOTDM&gt;2.0.CO;2</doi>
+            </citation>
+            <citation key="CIT0167">
+              <doi>10.1175/1520-0469(2000)057&lt;3090:TPOMWI&gt;2.0.CO;2</doi>
+            </citation>
+            <citation key="CIT0168">
+              <doi>10.1175/1520-0469(1987)044&lt;1375:TDROAS&gt;2.0.CO;2</doi>
+            </citation>
+            <citation key="CIT0169">
+              <doi>10.1175/1520-0469(1986)043&lt;0040:TDOANA&gt;2.0.CO;2</doi>
+            </citation>
+            <citation key="CIT0170">
+              <doi>10.1175/1520-0469(1991)048&lt;2476:EODCIA&gt;2.0.CO;2</doi>
+            </citation>
+            <citation key="CIT0171">
+              <doi>10.1029/JC086iC10p09707</doi>
+            </citation>
+            <citation key="CIT0172">
+              <volume_title>Dynamics of the Middle Atmosphere.</volume_title>
+              <author>_____</author>
+              <first_page>3</first_page>
+              <cYear>1984</cYear>
+            </citation>
+            <citation key="CIT0173">
+              <doi>10.1175/1520-0469(1985)042&lt;0301:MGWBL&gt;2.0.CO;2</doi>
+            </citation>
+            <citation key="CIT0174">
+              <doi>10.1175/1520-0469(1988)045&lt;0705:SOVPIG&gt;2.0.CO;2</doi>
+            </citation>
+            <citation key="CIT0175">
+              <doi>10.1175/1520-0469(1968)025&lt;1095:ATOTQB&gt;2.0.CO;2</doi>
+            </citation>
+            <citation key="CIT0176">
+              <doi>10.1175/1520-0493(1989)117&lt;2575:CVAHR&gt;2.0.CO;2</doi>
+            </citation>
+            <citation key="CIT0177">
+              <journal_title>J. Geophys. Res.</journal_title>
+              <author>Liu H.L.</author>
+              <first_page>12,329</first_page>
+              <volume>105</volume>
+              <cYear>2000</cYear>
+              <doi provider="crossref">10.1029/2000JD900054</doi>
+            </citation>
+            <citation key="CIT0178">
+              <doi>10.1175/1520-0469(1999)056&lt;2152:ANSOGW&gt;2.0.CO;2</doi>
+            </citation>
+            <citation key="CIT0179">
+              <doi>10.1175/1520-0493(1999)127&lt;0788:AOSBIA&gt;2.0.CO;2</doi>
+            </citation>
+            <citation key="CIT0180">
+              <doi>10.1002/qj.49712353704</doi>
+            </citation>
+            <citation key="CIT0181">
+              <series_title>NATO ASI Series</series_title>
+              <volume_title>Gravity wave processes: their parameterization in global climate models</volume_title>
+              <author>_____</author>
+              <first_page>275</first_page>
+              <volume>1</volume>
+              <cYear>1997</cYear>
+            </citation>
+            <citation key="CIT0182">
+              <doi>10.1175/1520-0469(1993)050&lt;0104:GWEBGA&gt;2.0.CO;2</doi>
+            </citation>
+            <citation key="CIT0183">
+              <doi>10.1016/S1364-6826(01)00097-9</doi>
+            </citation>
+            <citation key="CIT0184">
+              <doi>10.1029/98JD02274</doi>
+            </citation>
+            <citation key="CIT0185">
+              <doi>10.1175/1520-0469(1995)052&lt;1959:ATDNRT&gt;2.0.CO;2</doi>
+            </citation>
+            <citation key="CIT0186">
+              <unstructured_citation>Mason, P.J. On the parameterization of orographic drag. Proc. Seminar/Workshop on observation, theory and modeling of orographic effects. Sept.1986. Vol. 1, pp.167–194. Shinfield Park, Reading, UK: ECMWF.</unstructured_citation>
+            </citation>
+            <citation key="CIT0187">
+              <journal_title>J. Meteorol. Soc. Jpn.</journal_title>
+              <author>Matsuno T.</author>
+              <first_page>215</first_page>
+              <volume>60</volume>
+              <cYear>1982</cYear>
+              <doi provider="crossref">10.2151/jmsj1965.60.1_215</doi>
+            </citation>
+            <citation key="CIT0188">
+              <doi>10.1175/1520-0469(1987)044&lt;1775:TEOOEG&gt;2.0.CO;2</doi>
+            </citation>
+            <citation key="CIT0189">
+              <journal_title>J. Meteor. Soc. Jpn.</journal_title>
+              <author>_____</author>
+              <first_page>713</first_page>
+              <cYear>1987</cYear>
+            </citation>
+            <citation key="CIT0190">
+              <unstructured_citation>_____, McLandress, C. and Beagley, S. Seasonal simulations with the Canadian Middle Atmosphere Model: Sensitivity to a combination of orographic and Doppler spread parameterization of gravity wave drag. Proc. NATO Advanced Research Workshop “Gravity wave processes and their parameterization in global climate models”. Edited by: Hamilton, K. Vol. 1–50, pp.351–366. Springer‐Verlag. NATO ASI Series</unstructured_citation>
+            </citation>
+            <citation key="CIT0191">
+              <journal_title>J. Geophys. Res.</journal_title>
+              <author>McIntrye M.E.</author>
+              <first_page>14,617</first_page>
+              <volume>94</volume>
+              <cYear>1989</cYear>
+              <doi provider="crossref">10.1029/JD094iD12p14617</doi>
+            </citation>
+            <citation key="CIT0192">
+              <doi>10.1016/S0273-1177(01)00304-0</doi>
+            </citation>
+            <citation key="CIT0193">
+              <doi>10.1175/1520-0469(2000)057&lt;1214:PVIOAH&gt;2.0.CO;2</doi>
+            </citation>
+            <citation key="CIT0194">
+              <doi provider="crossref">10.1007/978-3-642-60654-0_17</doi>
+              <unstructured_citation>McLandress, C. Sensitivity studies using the Hines and Fritts gravity wave drag parameterizations. Proc. NATO Advanced Research Workshop “Gravity wave processes and their parameterization in global climate models”. Edited by: Hamilton, K. Vol. 1–50, pp.245–255. Springer‐Verlag. NATO ASI Series</unstructured_citation>
+            </citation>
+            <citation key="CIT0195">
+              <doi>10.1016/S1364-6826(98)00061-3</doi>
+            </citation>
+            <citation key="CIT0196">
+              <doi>10.1175/1520-0469(1993)050&lt;1966:IBOGWD&gt;2.0.CO;2</doi>
+            </citation>
+            <citation key="CIT0197">
+              <doi>10.1029/2000JD900097</doi>
+            </citation>
+            <citation key="CIT0198">
+              <doi>10.1016/0021-9169(95)00008-P</doi>
+            </citation>
+            <citation key="CIT0199">
+              <doi>10.1029/95JD02533</doi>
+            </citation>
+            <citation key="CIT0200">
+              <doi>10.1029/98GL50177</doi>
+            </citation>
+            <citation key="CIT0201">
+              <doi>10.1016/S1364-6826(00)00067-5</doi>
+            </citation>
+            <citation key="CIT0202">
+              <doi>10.1029/2000GL011676</doi>
+            </citation>
+            <citation key="CIT0203">
+              <doi>10.1029/95GL03059</doi>
+            </citation>
+            <citation key="CIT0204">
+              <unstructured_citation>Mesinger, F. and Collins, W.G. Review of the representation of mountains in numerical weather prediction models. Proc. Seminar/Workshop on observation, theory and modeling of orographic effects. Vol. 2, 15–20 Sept. pp.1–28. Shinfield Park, Reading, U. K: ECMWF. 1986, Vol. 2</unstructured_citation>
+            </citation>
+            <citation key="CIT0205">
+              <unstructured_citation>_____ and Janjic, Z.I. Numerical techniques for the representation of mountains. Proc. Seminar/Workshop on observation, theory and modeling of orographic effects. Vol. 2, pp.29–80. Shinfield Park, Reading, U. K. Sept: ECMWF. 1986</unstructured_citation>
+            </citation>
+            <citation key="CIT0206">
+              <doi>10.1007/BF01027469</doi>
+            </citation>
+            <citation key="CIT0207">
+              <doi>10.1175/1520-0493(1996)124&lt;2023:TIOPSS&gt;2.0.CO;2</doi>
+            </citation>
+            <citation key="CIT0208">
+              <doi>10.1175/1520-0469(1997)054&lt;1574:CLRITD&gt;2.0.CO;2</doi>
+            </citation>
+            <citation key="CIT0209">
+              <journal_title>Q. J. R. Meteorol. Soc.</journal_title>
+              <author>_____</author>
+              <first_page>1341</first_page>
+              <volume>125</volume>
+              <cYear>1999</cYear>
+              <doi provider="crossref">10.1002/qj.1999.49712555612</doi>
+            </citation>
+            <citation key="CIT0210">
+              <doi>10.1175/1520-0442(1994)007&lt;1815:TIOAEO&gt;2.0.CO;2</doi>
+            </citation>
+            <citation key="CIT0211">
+              <doi>10.1175/1520-0469(1997)054&lt;2275:AMSONT&gt;2.0.CO;2</doi>
+            </citation>
+            <citation key="CIT0212">
+              <doi>10.1175/1520-0469(1998)055&lt;1429:AMSONT&gt;2.0.CO;2</doi>
+            </citation>
+            <citation key="CIT0213">
+              <doi>10.1175/1520-0469(1992)049&lt;1075:WEBTGS&gt;2.0.CO;2</doi>
+            </citation>
+            <citation key="CIT0214">
+              <doi>10.1029/96JD03784</doi>
+            </citation>
+            <citation key="CIT0215">
+              <doi>10.1029/2000JD000061</doi>
+            </citation>
+            <citation key="CIT0216">
+              <doi>10.1029/1999JD901102</doi>
+            </citation>
+            <citation key="CIT0217">
+              <doi>10.1029/2000JD900270</doi>
+            </citation>
+            <citation key="CIT0218">
+              <doi>10.1029/1999JD900961</doi>
+            </citation>
+            <citation key="CIT0219">
+              <doi>10.1175/1520-0469(1997)054&lt;0193:TEORAS&gt;2.0.CO;2</doi>
+            </citation>
+            <citation key="CIT0220">
+              <doi>10.1175/1520-0469(1997)054&lt;0479:BAUCIA&gt;2.0.CO;2</doi>
+            </citation>
+            <citation key="CIT0221">
+              <unstructured_citation>
+                Osprey, S.M. 2001.
+                <i>Climate response to a variable gravity‐wave source</i>
+                , 175New Zealand: Dept. Physics, University of Canterbury. Ph. D. thesis
+              </unstructured_citation>
+            </citation>
+            <citation key="CIT0222">
+              <doi>10.1175/1520-0469(1995)052&lt;3695:GOIWIA&gt;2.0.CO;2</doi>
+            </citation>
+            <citation key="CIT0223">
+              <doi>10.1002/qj.49711247304</doi>
+            </citation>
+            <citation key="CIT0224">
+              <doi>10.1002/qj.49711247406</doi>
+            </citation>
+            <citation key="CIT0225">
+              <doi>10.1175/1520-0469(1999)056&lt;2434:LSGWAC&gt;2.0.CO;2</doi>
+            </citation>
+            <citation key="CIT0226">
+              <doi>10.1029/2000JD900480</doi>
+            </citation>
+            <citation key="CIT0227">
+              <journal_title>Q. J. R. Meteorol Soc.</journal_title>
+              <author>Pawson S.</author>
+              <first_page>1343</first_page>
+              <volume>124</volume>
+              <cYear>1998</cYear>
+            </citation>
+            <citation key="CIT0228">
+              <doi>10.1175/1520-0477(2000)081&lt;0781:TGIPFS&gt;2.3.CO;2</doi>
+            </citation>
+            <citation key="CIT0229">
+              <doi>10.1175/1520-0469(1979)036&lt;1498:TEASOF&gt;2.0.CO;2</doi>
+            </citation>
+            <citation key="CIT0230">
+              <doi>10.1002/qj.49712152307</doi>
+            </citation>
+            <citation key="CIT0231">
+              <doi>10.1175/1520-0469(1993)050&lt;1058:MDITTS&gt;2.0.CO;2</doi>
+            </citation>
+            <citation key="CIT0232">
+              <doi>10.1175/1520-0469(2000)057&lt;3689:ANSOTD&gt;2.0.CO;2</doi>
+            </citation>
+            <citation key="CIT0233">
+              <unstructured_citation>Pierrehumbert, R.T. An essay on the parameterization of orographic gravity‐wave drag. Proc. Seminar/Workshop on observation, theory and modeling of orographic effects. Vol. 1, 15–20 Sept. pp.251–282. Shinfield Park, Reading, U.K.: ECMWF. 1986</unstructured_citation>
+            </citation>
+            <citation key="CIT0234">
+              <doi>10.1175/1520-0493(1997)125&lt;1838:NMSOAM&gt;2.0.CO;2</doi>
+            </citation>
+            <citation key="CIT0235">
+              <doi>10.1016/S0273-1177(01)00231-9</doi>
+            </citation>
+            <citation key="CIT0236">
+              <doi>10.1175/1520-0469(1996)053&lt;2186:PABAHA&gt;2.0.CO;2</doi>
+            </citation>
+            <citation key="CIT0237">
+              <journal_title>Q. J. R. Meteorol. Soc.</journal_title>
+              <author>Reeder M.J.</author>
+              <first_page>1175</first_page>
+              <volume>122</volume>
+              <cYear>1996</cYear>
+            </citation>
+            <citation key="CIT0238">
+              <doi>10.1175/1520-0450(2000)039&lt;0733:IOSEOG&gt;2.0.CO;2</doi>
+            </citation>
+            <citation key="CIT0239">
+              <doi>10.1175/1520-0469(2000)057&lt;3461:TEOEWB&gt;2.0.CO;2</doi>
+            </citation>
+            <citation key="CIT0240">
+              <doi>10.1175/1520-0450(1987)026&lt;0661:NSOOEO&gt;2.0.CO;2</doi>
+            </citation>
+            <citation key="CIT0241">
+              <doi>10.1175/1520-0450(1989)028&lt;0241:TROSFI&gt;2.0.CO;2</doi>
+            </citation>
+            <citation key="CIT0242">
+              <doi>10.1175/1520-0469(1988)045&lt;0329:TGGCMA&gt;2.0.CO;2</doi>
+            </citation>
+            <citation key="CIT0243">
+              <doi>10.1175/1520-0469(1987)044&lt;0458:TRTLEH&gt;2.0.CO;2</doi>
+            </citation>
+            <citation key="CIT0244">
+              <doi>10.1175/1520-0469(1993)050&lt;0518:SSWDOB&gt;2.0.CO;2</doi>
+            </citation>
+            <citation key="CIT0245">
+              <doi>10.1175/1520-0469(1999)056&lt;1005:GWAIAH&gt;2.0.CO;2</doi>
+            </citation>
+            <citation key="CIT0246">
+              <doi>10.1175/1520-0469(1982)039&lt;2546:FAROOS&gt;2.0.CO;2</doi>
+            </citation>
+            <citation key="CIT0247">
+              <doi>10.1002/qj.49708536304</doi>
+            </citation>
+            <citation key="CIT0248">
+              <doi>10.1029/2000GL011625</doi>
+            </citation>
+            <citation key="CIT0249">
+              <doi>10.1175/1520-0469(1997)054&lt;0534:VFAVSI&gt;2.0.CO;2</doi>
+            </citation>
+            <citation key="CIT0250">
+              <doi>10.1175/1520-0469(1978)035&lt;0577:TZACOT&gt;2.0.CO;2</doi>
+            </citation>
+            <citation key="CIT0251">
+              <doi>10.2151/jmsj.80.939</doi>
+            </citation>
+            <citation key="CIT0252">
+              <doi>10.1175/1520-0469(2000)057&lt;0653:TNFOLS&gt;2.0.CO;2</doi>
+            </citation>
+            <citation key="CIT0253">
+              <doi>10.1002/qj.49712656802</doi>
+            </citation>
+            <citation key="CIT0254">
+              <doi>10.1175/1520-0469(1983)040&lt;0396:SWALW&gt;2.0.CO;2</doi>
+            </citation>
+            <citation key="CIT0255">
+              <doi>10.1016/S1364-6826(00)00114-0</doi>
+            </citation>
+            <citation key="CIT0256">
+              <doi>10.1029/96JD01994</doi>
+            </citation>
+            <citation key="CIT0257">
+              <doi>10.1002/qj.49712152504</doi>
+            </citation>
+            <citation key="CIT0258">
+              <journal_title>Q. J. R. Meteorol. Soc.</journal_title>
+              <author>_____</author>
+              <first_page>1421</first_page>
+              <volume>124</volume>
+              <cYear>1998</cYear>
+            </citation>
+            <citation key="CIT0259">
+              <journal_title>Bull. Am. Meteorol. Soc.</journal_title>
+              <author>Smagorinsky J.</author>
+              <first_page>89</first_page>
+              <volume>46</volume>
+              <cYear>1967</cYear>
+            </citation>
+            <citation key="CIT0260">
+              <doi>10.1175/1520-0469(1978)035&lt;1644:AMOMD&gt;2.0.CO;2</doi>
+            </citation>
+            <citation key="CIT0261">
+              <journal_title>Adv. Geophys.</journal_title>
+              <author>_____</author>
+              <first_page>87</first_page>
+              <volume>33</volume>
+              <cYear>1979</cYear>
+            </citation>
+            <citation key="CIT0262">
+              <doi>10.1111/j.2153-3490.1980.tb00962.x</doi>
+            </citation>
+            <citation key="CIT0263">
+              <doi>10.1111/j.1600-0870.1989.tb00381.x</doi>
+            </citation>
+            <citation key="CIT0264">
+              <volume_title>Environmental Stratified Flows, Topics In Environmental Fluid Mechanics</volume_title>
+              <author>_____</author>
+              <first_page>121</first_page>
+              <volume>3</volume>
+              <cYear>2001</cYear>
+            </citation>
+            <citation key="CIT0265">
+              <doi>10.1002/qj.49710845605</doi>
+            </citation>
+            <citation key="CIT0266">
+              <doi>10.1175/1520-0469(2002)059&lt;2073:MWOMBI&gt;2.0.CO;2</doi>
+            </citation>
+            <citation key="CIT0267">
+              <doi>10.1175/1520-0469(1987)044&lt;1404:EFASSO&gt;2.0.CO;2</doi>
+            </citation>
+            <citation key="CIT0268">
+              <doi>10.1175/1520-0469(2001)058&lt;0349:ACONGM&gt;2.0.CO;2</doi>
+            </citation>
+            <citation key="CIT0269">
+              <doi>10.1175/1520-0493(1989)117&lt;1751:SEOTFG&gt;2.0.CO;2</doi>
+            </citation>
+            <citation key="CIT0270">
+              <doi>10.1175/1520-0469(1995)052&lt;3214:IGWEIT&gt;2.0.CO;2</doi>
+            </citation>
+            <citation key="CIT0271">
+              <doi>10.1256/smsqj.47003</doi>
+            </citation>
+            <citation key="CIT0272">
+              <doi>10.1029/95GL03413</doi>
+            </citation>
+            <citation key="CIT0273">
+              <doi>10.1175/1520-0469(1992)049&lt;1020:ATDSOT&gt;2.0.CO;2</doi>
+            </citation>
+            <citation key="CIT0274">
+              <doi>10.1175/1520-0442(2002)015&lt;1421:SCTNHW&gt;2.0.CO;2</doi>
+            </citation>
+            <citation key="CIT0275">
+              <doi>10.1016/S0065-2687(08)60045-X</doi>
+            </citation>
+            <citation key="CIT0276">
+              <doi>10.1029/94JD00354</doi>
+            </citation>
+            <citation key="CIT0277">
+              <journal_title>J. Geophys. Res.</journal_title>
+              <author>_____</author>
+              <first_page>7257</first_page>
+              <volume>99</volume>
+              <cYear>2000</cYear>
+            </citation>
+            <citation key="CIT0278">
+              <doi>10.1175/1520-0493(1987)115&lt;0721:TSSAPE&gt;2.0.CO;2</doi>
+            </citation>
+            <citation key="CIT0279">
+              <doi>10.1175/1520-0469(2001)058&lt;2249:GWRAMR&gt;2.0.CO;2</doi>
+            </citation>
+            <citation key="CIT0280">
+              <doi>10.1029/GL009i005p00575</doi>
+            </citation>
+            <citation key="CIT0281">
+              <doi>10.1029/2000JD900196</doi>
+            </citation>
+            <citation key="CIT0282">
+              <doi>10.1002/qj.49712353705</doi>
+            </citation>
+            <citation key="CIT0283">
+              <doi>10.1002/qj.49712455211</doi>
+            </citation>
+            <citation key="CIT0284">
+              <doi>10.1002/qj.49710946202</doi>
+            </citation>
+            <citation key="CIT0285">
+              <doi>10.1029/2000JD900207</doi>
+            </citation>
+            <citation key="CIT0286">
+              <doi>10.1175/1520-0469(1996)053&lt;3213:OTPADO&gt;2.0.CO;2</doi>
+            </citation>
+            <citation key="CIT0287">
+              <journal_title>Earth Planets Space</journal_title>
+              <author>_____</author>
+              <first_page>475</first_page>
+              <volume>51</volume>
+              <cYear>1999</cYear>
+              <doi provider="crossref">10.1186/BF03353209</doi>
+            </citation>
+            <citation key="CIT0288">
+              <doi>10.1175/1520-0469(2001)058&lt;1837:AUSPFN&gt;2.0.CO;2</doi>
+            </citation>
+            <citation key="CIT0289">
+              <doi>10.1175/1520-0469(1990)047&lt;2211:SAUSOG&gt;2.0.CO;2</doi>
+            </citation>
+            <citation key="CIT0290">
+              <doi>10.1175/1520-0493(1989)117&lt;2518:RANIOO&gt;2.0.CO;2</doi>
+            </citation>
+            <citation key="CIT0291">
+              <doi>10.1175/1520-0469(1999)056&lt;1344:EAIGWS&gt;2.0.CO;2</doi>
+            </citation>
+            <citation key="CIT0292">
+              <doi>10.1023/A:1002017732694</doi>
+            </citation>
+            <citation key="CIT0293">
+              <doi>10.1002/qj.49711951402</doi>
+            </citation>
+            <citation key="CIT0294">
+              <journal_title>Q. J. R. Meteorol. Soc.</journal_title>
+              <author>_____</author>
+              <first_page>759</first_page>
+              <volume>127</volume>
+              <cYear>2001</cYear>
+            </citation>
+            <citation key="CIT0295">
+              <doi>10.1080/01431160151144396</doi>
+            </citation>
+            <citation key="CIT0296">
+              <doi>10.1029/96RS02190</doi>
+            </citation>
+            <citation key="CIT0297">
+              <doi>10.1175/1520-0442(2001)014&lt;2563:SOSCMS&gt;2.0.CO;2</doi>
+            </citation>
+            <citation key="CIT0298">
+              <doi>10.1175/1520-0469(1987)044&lt;3269:AASOAT&gt;2.0.CO;2</doi>
+            </citation>
+            <citation key="CIT0299">
+              <doi>10.1146/annurev.fl.28.010196.002241</doi>
+            </citation>
+            <citation key="CIT0300">
+              <doi>10.1029/JD092iD10p11993</doi>
+            </citation>
+            <citation key="CIT0301">
+              <doi>10.1007/s00376-000-0001-1</doi>
+            </citation>
+            <citation key="CIT0302">
+              <doi>10.1002/qj.49712757702</doi>
+            </citation>
+            <citation key="CIT0303">
+              <doi>10.1002/qj.49712253206</doi>
+            </citation>
+          </citation_list>
+        </journal_article>
+      </journal>
+    </crossref>
+  </doi_record>
+</doi_records>

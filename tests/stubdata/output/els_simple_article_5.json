@@ -1,0 +1,108 @@
+{
+  "authors": [
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Department of ECE, Karunya Institute of Technology and Sciences, Coimbatore, India"
+        }
+      ],
+      "name": {
+        "given_name": "D. Jude",
+        "surname": "Hemanth"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Department of Computer Science, Faculty of Sciences, University of Craiova, Craiova, Romania"
+        }
+      ],
+      "name": {
+        "given_name": "Claudiu-Ionut",
+        "surname": "Popirlan"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Department of Medical Informatics and Biostatistics, University of Medicine and Pharmacy of Craiova, Craiova, Romania"
+        }
+      ],
+      "attrib": {
+        "email": "raluca.danciulescu@umfcv.ro"
+      },
+      "name": {
+        "given_name": "Raluca Christiana",
+        "surname": "Danciulescu"
+      }
+    }
+  ],
+  "copyright": {
+    "statement": "\u00a9 2024 Elsevier B.V. All rights reserved.",
+    "status": true
+  },
+  "doctype": "article",
+  "editorialHistory": {
+    "acceptedDate": "2024-02-04",
+    "receivedDates": [
+      "2024-02-02"
+    ]
+  },
+  "esources": [
+    {
+      "location": "http://dx.doi.org/10.1016/j.plrev.2024.02.002",
+      "source": "pub_html"
+    }
+  ],
+  "pagination": {
+    "firstPage": "203",
+    "lastPage": "204"
+  },
+  "persistentIDs": [
+    {
+      "DOI": "10.1016/j.plrev.2024.02.002"
+    }
+  ],
+  "pubDate": {
+    "printDate": "2024-03-00"
+  },
+  "publication": {
+    "ISSN": [
+      {
+        "issnString": "1571-0645",
+        "pubtype": "not specified"
+      }
+    ],
+    "pubName": "Physics of Life Reviews",
+    "pubYear": "2024",
+    "publisher": "Elsevier B.V.",
+    "volumeNum": "48"
+  },
+  "publisherIDs": [
+    {
+      "Identifier": "S1571-0645(24)00009-5",
+      "attribute": "PII"
+    }
+  ],
+  "recordData": {
+    "createdTime": "",
+    "loadFormat": "Elsevier",
+    "loadLocation": "",
+    "loadType": "fromFile",
+    "parsedTime": "",
+    "recordOrigin": ""
+  },
+  "references": [
+    "<sb:reference id=\"sbref0001\"><sb:contribution langtype=\"en\"><sb:authors><sb:author><ce:surname>Pereira</ce:surname></sb:author><sb:et-al/></sb:authors><sb:title><sb:maintitle>Advancements in non-invasive microwave brain stimulation: a comprehensive survey</sb:maintitle></sb:title></sb:contribution><sb:host><sb:issue><sb:series><sb:title><sb:maintitle>Phys Life Rev</sb:maintitle></sb:title><sb:volume-nr>48</sb:volume-nr></sb:series><sb:date>2024</sb:date></sb:issue><sb:pages><sb:first-page>132</sb:first-page><sb:last-page>161</sb:last-page></sb:pages></sb:host><sb:comment>this issue</sb:comment></sb:reference>",
+    "<sb:reference id=\"sbref0002\"><sb:contribution langtype=\"en\"><sb:authors><sb:author><ce:surname>Harid</ce:surname></sb:author><sb:et-al/></sb:authors><sb:title><sb:maintitle>A method for non-destructive microwave focusing for deep brain and tissue stimulation</sb:maintitle></sb:title></sb:contribution><sb:host><sb:issue><sb:series><sb:title><sb:maintitle>PLoS ONE</sb:maintitle></sb:title><sb:volume-nr>18</sb:volume-nr></sb:series><sb:issue-nr>2</sb:issue-nr><sb:date>2023</sb:date></sb:issue><sb:article-number>e0278765</sb:article-number></sb:host></sb:reference>",
+    "<sb:reference id=\"sbref0003\"><sb:contribution langtype=\"en\"><sb:authors><sb:author><ce:surname>Felipe</ce:surname></sb:author><sb:et-al/></sb:authors><sb:title><sb:maintitle>Repeated electromagnetic field stimulation lowers amyloid-\u03b2 peptide levels in primary human mixed brain tissue cultures</sb:maintitle></sb:title></sb:contribution><sb:host><sb:issue><sb:series><sb:title><sb:maintitle>Sci Rep</sb:maintitle></sb:title><sb:volume-nr>11</sb:volume-nr></sb:series><sb:date>2021</sb:date></sb:issue><sb:pages><sb:first-page>621</sb:first-page></sb:pages><ce:doi>10.1038/s41598-020-77808-2</ce:doi></sb:host></sb:reference>",
+    "<sb:reference id=\"sbref0004\"><sb:contribution langtype=\"en\"><sb:authors><sb:author><ce:surname>Wang</ce:surname></sb:author><sb:et-al/></sb:authors><sb:title><sb:maintitle>Comparing transcranial direct current stimulation (tDCS) with other non-invasive brain stimulation (NIBS) in the treatment of Alzheimer's disease: a literature review</sb:maintitle></sb:title></sb:contribution><sb:host><sb:issue><sb:series><sb:title><sb:maintitle>J Med Biol Eng</sb:maintitle></sb:title><sb:volume-nr>43</sb:volume-nr></sb:series><sb:date>2023</sb:date></sb:issue><sb:pages><sb:first-page>362</sb:first-page><sb:last-page>375</sb:last-page></sb:pages></sb:host></sb:reference>",
+    "<sb:reference id=\"sbref0005\"><sb:contribution langtype=\"en\"><sb:authors><sb:author><ce:surname>Surajit</ce:surname></sb:author><sb:et-al/></sb:authors><sb:title><sb:maintitle>How can static and oscillating electric fields serve in decomposing Alzheimer's and other senile plaques?</sb:maintitle></sb:title></sb:contribution><sb:host><sb:issue><sb:series><sb:title><sb:maintitle>J Am Chem Soc</sb:maintitle></sb:title><sb:volume-nr>145</sb:volume-nr></sb:series><sb:date>2023</sb:date></sb:issue><sb:pages><sb:first-page>3543</sb:first-page><sb:last-page>3553</sb:last-page></sb:pages></sb:host></sb:reference>"
+  ],
+  "subtitle": {
+    "textEnglish": "Comment on \u201cInfluences of Microwave Antenna on brain stimulation\u201d by Pereira et al."
+  },
+  "title": {
+    "textEnglish": "Advancements in non-invasive microwave brain stimulation"
+  }
+}

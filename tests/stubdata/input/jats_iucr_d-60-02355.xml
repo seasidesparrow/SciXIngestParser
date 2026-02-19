@@ -1,0 +1,448 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.1 20151215//EN" "/UnixComm/scripts/sh/pio/share/xml/dtds/external/NLM/JATS1.1/JATS-journalpublishing1-mathml3.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ali="http://www.niso.org/schemas/ali/1.0/" article-type="research-article" dtd-version="1.1" xml:lang="EN"><front>
+      <journal-meta>
+         <journal-id journal-id-type="publisher-id">Acta Cryst. D</journal-id>
+         <journal-title-group>
+            <journal-title>Acta Crystallographica Section D</journal-title>
+            <journal-subtitle/>
+            <abbrev-journal-title>Acta Crystallogr D Biol Crystallogr</abbrev-journal-title>
+         </journal-title-group>
+         <issn pub-type="epub">0907-4449</issn>
+         <publisher>
+            <publisher-name>International Union of Crystallography</publisher-name>
+         </publisher>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="publisher-id">ts5037</article-id>
+         <article-id pub-id-type="doi">10.1107/S0907444904026307</article-id>
+         <article-id pub-id-type="coden">ABCRE6</article-id>
+         <article-id pub-id-type="pii">S0907444904026307</article-id>
+         <article-categories>
+            <subj-group subj-group-type="heading">
+               <subject>crystallization papers</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>Crystallization of parasporin-2, a <italic toggle="yes">Bacillus thuringiensis</italic> crystal protein with selective cytocidal activity against human cells</article-title>
+            <alt-title>Parasporin-2</alt-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <name name-style="western">
+                  <surname>Akiba</surname>
+                  <given-names>Toshihiko</given-names>
+               </name>
+               <xref ref-type="aff" rid="a">a</xref>
+            </contrib>
+            <contrib contrib-type="author">
+               <name name-style="western">
+                  <surname>Abe</surname>
+                  <given-names>Yuichi</given-names>
+               </name>
+               <xref ref-type="aff" rid="b">b</xref>
+            </contrib>
+            <contrib contrib-type="author">
+               <name name-style="western">
+                  <surname>Kitada</surname>
+                  <given-names>Sakae</given-names>
+               </name>
+               <xref ref-type="aff" rid="b">b</xref>
+            </contrib>
+            <contrib contrib-type="author">
+               <name name-style="western">
+                  <surname>Kusaka</surname>
+                  <given-names>Yoshitomo</given-names>
+               </name>
+               <xref ref-type="aff" rid="b">b</xref>
+            </contrib>
+            <contrib contrib-type="author">
+               <name name-style="western">
+                  <surname>Ito</surname>
+                  <given-names>Akio</given-names>
+               </name>
+               <xref ref-type="aff" rid="b">b</xref>
+            </contrib>
+            <contrib contrib-type="author">
+               <name name-style="western">
+                  <surname>Ichimatsu</surname>
+                  <given-names>Tokio</given-names>
+               </name>
+               <xref ref-type="aff" rid="c">c</xref>
+            </contrib>
+            <contrib contrib-type="author">
+               <name name-style="western">
+                  <surname>Katayama</surname>
+                  <given-names>Hideki</given-names>
+               </name>
+               <xref ref-type="aff" rid="c">c</xref>
+            </contrib>
+            <contrib contrib-type="author">
+               <name name-style="western">
+                  <surname>Akao</surname>
+                  <given-names>Tetsuyuki</given-names>
+               </name>
+               <xref ref-type="aff" rid="c">c</xref>
+            </contrib>
+            <contrib contrib-type="author">
+               <name name-style="western">
+                  <surname>Higuchi</surname>
+                  <given-names>Kazuhiko</given-names>
+               </name>
+               <xref ref-type="aff" rid="c">c</xref>
+            </contrib>
+            <contrib contrib-type="author">
+               <name name-style="western">
+                  <surname>Mizuki</surname>
+                  <given-names>Eiichi</given-names>
+               </name>
+               <xref ref-type="aff" rid="c">c</xref>
+            </contrib>
+            <contrib contrib-type="author">
+               <name name-style="western">
+                  <surname>Ohba</surname>
+                  <given-names>Michio</given-names>
+               </name>
+               <xref ref-type="aff" rid="d">d</xref>
+            </contrib>
+            <contrib contrib-type="author">
+               <name name-style="western">
+                  <surname>Kanai</surname>
+                  <given-names>Ryuta</given-names>
+               </name>
+               <xref ref-type="aff" rid="a">a</xref>
+            </contrib>
+            <contrib contrib-type="author">
+               <name name-style="western">
+                  <surname>Harata</surname>
+                  <given-names>Kazuaki</given-names>
+               </name>
+               <xref ref-type="aff" rid="a">a</xref>
+               <xref ref-type="corresp" rid="cor">*</xref>
+            </contrib>
+            <aff id="a">
+               <label>a</label>Biological Information Research Center, AIST, Tsukuba, Ibaraki 305-8566, <country>Japan</country>
+            </aff>
+            <aff id="b">
+               <label>b</label>Department of Chemistry, Faculty of Science, Kyushu University, Fukuoka 812-8581, <country>Japan</country>
+            </aff>
+            <aff id="c">
+               <label>c</label>Biotechnology and Food Research Institute, Fukuoka Industrial Technology Center, Kurume, Fukuoka 839-0861, <country>Japan</country>
+            </aff>
+            <aff id="d">
+               <label>d</label>Department of Applied Genetics and Pest Management, Faculty of Agriculture, Kyushu University, Fukuoka 812-8581, <country>Japan</country>
+            </aff>
+         </contrib-group>
+         <author-notes>
+            <corresp id="cor">Correspondence e-mail: <email>k-harata@aist.go.jp</email>
+            </corresp>
+         </author-notes>
+         <pub-date pub-type="collection">
+            <day>01</day>
+            <month>12</month>
+            <year>2004</year>
+         </pub-date>
+         <pub-date pub-type="epub">
+            <day>26</day>
+            <month>11</month>
+            <year>2004</year>
+         </pub-date>
+         <volume>60</volume>
+         <issue>Pt 12</issue>
+         <issue-id pub-id-type="publisher-id">d041202</issue-id>
+         <fpage>2355</fpage>
+         <lpage>2357</lpage>
+         <history>
+            <date date-type="received">
+               <day>10</day>
+               <month>08</month>
+               <year>2004</year>
+            </date>
+            <date date-type="accepted">
+               <day>18</day>
+               <month>10</month>
+               <year>2004</year>
+            </date>
+         </history>
+         <permissions>
+            <copyright-statement>&#169; International Union of Crystallography 2004</copyright-statement>
+            <copyright-year>2004</copyright-year>
+            <license license-type="iucr" xlink:href="http://journals.iucr.org/services/copyrightpolicy.html">
+               <license-p>Prior permission is not required to reproduce short quotations, tables and figures from this article, provided the original authors and
+                                                    source are cited. For more information, see http://journals.iucr.org/services/copyrightpolicy.html.</license-p>
+               <ali:license_ref>http://journals.iucr.org/services/copyrightpolicy.html</ali:license_ref>
+            </license>
+         </permissions>
+         <self-uri xlink:href="https://doi.org/10.1107/S0907444904026307">A full version of this article is available from Crystallography Journals Online.</self-uri>
+         <abstract abstract-type="toc">
+            <p>An active form of parasporin-2, a <italic toggle="yes">B. thuringiensis</italic> crystal protein toxic to particular human cells, has been crystallized. Native data have been collected to 2.75&#8197;&#197; resolution.</p>
+         </abstract>
+         <abstract>
+            <p>
+               <italic toggle="yes">Bacillus thuringiensis</italic> is a valuable source of protein toxins that are specifically effective against certain insects and worms but harmless to mammals. In contrast, a protein toxin obtained from <italic toggle="yes">B.&#160;thuringiensis</italic> strain A1547, designated parasporin-2, is not insecticidal but has a strong cytocidal activity against human cells with markedly divergent target specificity. The 37&#8197;kDa inactive protein is proteolytically activated to a 30&#8197;kDa active form. The active form of the recombinant protein toxin was crystallized in the presence of ethylene glycol and polyethylene glycol 8000 at neutral pH. The crystals belong to the hexagonal space group <italic toggle="yes">P</italic>6<sub>1</sub> or <italic toggle="yes">P</italic>6<sub>5</sub>, with unit-cell parameters <italic toggle="yes">a</italic> = <italic toggle="yes">b</italic> = 134.37, <italic toggle="yes">c</italic> = 121.24&#8197;&#197;. Diffraction data from a native crystal were collected to 2.75&#8197;&#197; resolution using a synchrotron-radiation source.</p>
+         </abstract>
+         <kwd-group>
+            <kwd>
+               <italic toggle="yes">Bacillus thuringiensis</italic>
+            </kwd>
+            <kwd>crystal proteins</kwd>
+            <kwd>bacterial toxins</kwd>
+            <kwd>cytotoxicity</kwd>
+            <kwd>parasporins</kwd>
+         </kwd-group>
+         <counts>
+            <page-count count="undef"/>
+         </counts>
+      </article-meta>
+   </front>
+   <body>
+      <sec id="sec1" sec-type="introduction">
+         <label>1</label>
+         <title>Introduction &#160; </title>
+         <p>The common soil bacterium <italic toggle="yes">Bacillus thuringiensis</italic> (Bt) has been successfully utilized as a biological insecticide for several decades (de Maagd <italic toggle="yes">et al.</italic>, 1999<xref ref-type="bibr" rid="bb13"/>). The bacteria owe this value to a parasporal crystalline inclusion that they produce during sporulation; the inclusion, which is composed of one or more proteins with a large variety in size and composition among Bt strains, often contains proteins that are toxins against insects. Cyt and Cry proteins are two major families of these toxins (Schnepf <italic toggle="yes">et al.</italic>, 1998<xref ref-type="bibr" rid="bb21"/>; de Maagd <italic toggle="yes">et al.</italic>, 2003<xref ref-type="bibr" rid="bb14"/>). The Cyt proteins have a broad cytolytic activity against invertebrate and vertebrate cells including insect cells and mammalian erythrocytes. The Cry protein category consists of phylogenetically heterogeneous proteins. Historically, the Cry proteins have been regarded as toxins that are specifically effective against certain insect species of orders that include Lepidoptera, Diptera and Coleoptera, but the current classification of Bt parasporal proteins groups several non-insecticidal proteins into the Cry proteins based on sequence homology (<ext-link ext-link-type="uri" xlink:href="http://www.biols.susx.ac.uk/Home/Neil_Crickmore/Bt/index.html">http://www.biols.susx.ac.uk/Home/Neil_Crickmore/Bt/index.html</ext-link>; Crickmore <italic toggle="yes">et al.</italic>, 1998<xref ref-type="bibr" rid="bb2"/>). Identification of these insecticidal proteins and cloning of their genes have led to the production of genetically modified crop plants expressing these toxins and thereby presenting resistance to harmful insects. Research efforts devoted to these toxins include the crystal structure determination of four Cry proteins (Li <italic toggle="yes">et al.</italic>, 1991<xref ref-type="bibr" rid="bb11"/>; Grochulski <italic toggle="yes">et al.</italic>, 1995<xref ref-type="bibr" rid="bb5"/>; Galitsky <italic toggle="yes">et al.</italic>, 2001<xref ref-type="bibr" rid="bb4"/>; Morse <italic toggle="yes">et al.</italic>, 2001<xref ref-type="bibr" rid="bb18"/>) and one Cyt protein (Li <italic toggle="yes">et al.</italic>, 1996<xref ref-type="bibr" rid="bb12"/>).</p>
+         <p>Recent screening of non-insecticidal Bt strains for cytocidal activity has identified several strains that produce a group of unique Cry proteins, designated parasporins, with preferential cytotoxicity against particular human carcinoma cells (Mizuki <italic toggle="yes">et al.</italic>, 1999<xref ref-type="bibr" rid="bb16"/>, 2000<xref ref-type="bibr" rid="bb17"/>; Lee <italic toggle="yes">et al.</italic>, 2000<xref ref-type="bibr" rid="bb9"/>, 2001<xref ref-type="bibr" rid="bb10"/>; Kim <italic toggle="yes">et al.</italic>, 2003<xref ref-type="bibr" rid="bb8"/>). Parasporins are distinguished from other Cry proteins by their lack of insecticidal activity and also from Cyt proteins by their lack of broad cytolytic activity such as haemolytic activity. This novel group of protein toxins may have potential for medical applications such as cancer treatment.</p>
+         <p>Bt strain A1547 (previously designated as strain 90-F-45-14) has been isolated from Japanese soil as one of the strains that are neither insecticidal nor haemolytic but highly cytocidal against human MOLT-4 leukaemia T cells (Mizuki <italic toggle="yes">et al.</italic>, 1999<xref ref-type="bibr" rid="bb16"/>). A protein responsible for the toxicity has been identified and its gene cloned (Ito <italic toggle="yes">et al.</italic>, 2004<xref ref-type="bibr" rid="bb7"/>). The full-length recombinant protein (37&#160;kDa) is not cytocidal and requires proteolytic activation to develop toxicity, as do Cry and Cyt proteins; a 30&#8197;kDa active toxin is produced by the removal of 51 amino-acid residues from the N-terminus and a short segment from the C-terminus of the inactive protoxin. The activated form of the protein is strongly cytocidal against human cells with markedly divergent target specificity and preferentially kills liver and colon cancer cells without damaging normal cells in the tumour tissue slices. When exposed to the toxin, susceptible cells swell and finally burst into fragments. Hereafter, we will call the protein parasporin-2.</p>
+         <p>Compared with the three-domain Cry proteins, which make up the largest and the best-characterized subgroup of the insecticidal Cry proteins (de Maagd <italic toggle="yes">et al.</italic>, 2003<xref ref-type="bibr" rid="bb14"/>), parasporin-2 is half their size and lacks the block sequences that are conserved in them (H&#246;fte &amp; Whiteley, 1989<xref ref-type="bibr" rid="bb6"/>). Moreover, the protein does not have an appreciable sequence homology to most of the established Bt toxins. An exception is Cry 15Aa1, which has 23.5% sequence identity to parasporin-2. From the view of sequence homology Cry 15Aa1 itself is an outlier among the Bt toxins, but it is significantly homologous to the mosquitocidal Mtx2 and Mtx3 toxins of <italic toggle="yes">B.&#160;sphaericus</italic> (de Maagd <italic toggle="yes">et al.</italic>, 2003<xref ref-type="bibr" rid="bb14"/>). These mosquitocidal toxins show homology to aerolysin from <italic toggle="yes">Aeromonas hydorophyla</italic>, which forms &#946;-barrel-lined membrane pores (Parker <italic toggle="yes">et al.</italic>, 1994<xref ref-type="bibr" rid="bb20"/>).</p>
+         <p>These comparisons of sequence homology and the observed actions of parasporin-2 on susceptible cells suggest that the protein should be a pore-forming toxin with a novel structure distinct from the known structures of Cry and Cyt proteins. Here, we describe the crystallization of the activated form of parasporin-2 and the crystallographic characterization of the crystals.</p>
+      </sec>
+      <sec id="sec2" sec-type="materials|methods">
+         <label>2</label>
+         <title>Materials and methods &#160; </title>
+         <sec id="sec2.1">
+            <label>2.1</label>
+            <title>Preparation of an activated form of recombinant parasporin-2 &#160; </title>
+            <p>The active toxin protein was prepared from a recombinant form of N-terminal truncated parasporin-2, which consists of the N-terminal methionine, Asp52&#8211;Asn338 of the protoxin and a hexahistidine tag at the C-terminus (Ito <italic toggle="yes">et al.</italic>, 2004<xref ref-type="bibr" rid="bb7"/>). The recombinant protein was expressed in <italic toggle="yes">Escherichia coli</italic> and purified by metal-chelating chromatography. Purified protein (1&#8197;mg&#8197;ml<sup>&#8722;1</sup>) was activated by partial proteolysis with proteinase-K (Merck, Darmstadt, Germany; final concentration 0.1&#8197;mg&#8197;ml<sup>&#8722;1</sup>) at 310&#8197;K for 30&#8197;min; the reaction was stopped by the addition of 1&#8197;m<italic toggle="yes">M</italic> phenylmethylsulfonyl fluoride. The activated protein was separated from the mixture by anion-exchange chromatography using a Q-Sepharose Fast Flow column (Amersham Biosciences, Piscataway, USA). After dialysis against storage solution (20&#8197;m<italic toggle="yes">M</italic> Tris&#8211;HCl pH 8.0, 50&#8197;m<italic toggle="yes">M</italic> Na<sub>2</sub>CO<sub>3</sub>, 500&#8197;m<italic toggle="yes">M</italic> NaCl), the protein was concentrated by ultrafiltration and stored at 277&#8197;K until use.</p>
+         </sec>
+         <sec id="sec2.2">
+            <label>2.2</label>
+            <title>MALDI&#8211;TOF mass spectrometry of activated parasporin-2 &#160; </title>
+            <p>The activated parasporin-2 solution was mixed with a matrix solution of sinapinic acid saturated in a 1:2 mixture of acetonitrile and water with a TFA content of 0.1%(<italic toggle="yes">v</italic>/<italic toggle="yes">v</italic>). The mixture was analyzed with an Autoflex mass spectrometer (Bruker Daltonics, Billerica, USA). The spectrometer was calibrated using ubiquitin, myoglobin, trypsin&#173;ogen and bovine serum albumin as molecular-weight standards.</p>
+         </sec>
+         <sec id="sec2.3">
+            <label>2.3</label>
+            <title>Crystallization &#160; </title>
+            <p>An aliquot of the protein solution was dialyzed against 100&#8197;m<italic toggle="yes">M</italic> 3-(cyclohexylamino)propanesulfonic acid&#8211;NaOH (CAPS&#8211;NaOH) pH 12.0, 4&#8197;m<italic toggle="yes">M</italic> &#946;-mercaptoethanol (&#946;-ME) for 5&#8197;h and then against 10&#8197;m<italic toggle="yes">M</italic> CAPS&#8211;NaOH pH 12.0, 4&#8197;m<italic toggle="yes">M</italic> &#946;-ME for more than 5&#8197;h. After dialysis, the collected sample solution was filtered through a 0.22&#8197;&#181;m Ultrafree-MC filter (Millipore, Billerica, USA).</p>
+            <p>Initial screening for crystallization conditions was carried out at 298&#8197;K by the sitting-drop vapour-diffusion method using standard solutions from commercial kits: Crystal Screen, Crystal Screen 2, Crystal Screen Lite and MembFac (Hampton Research, Laguna Niguel, USA). Drops were prepared by mixing 2&#8197;&#181;l protein solution (7.5&#8211;10.0&#8197;mg&#8197;ml<sup>&#8722;1</sup>) with an equal volume of reservoir solution and were equilibrated against 100&#8197;&#181;l reservoir solution. Similar procedures were used in the optimization of conditions.</p>
+         </sec>
+         <sec id="sec2.4">
+            <label>2.4</label>
+            <title>Data collection &#160; </title>
+            <p>The crystals were mounted in a nylon-fibre loop, dipped briefly into reservoir solution supplemented with 15% glycerol and flash-frozen in a nitrogen-gas stream at 95&#8197;K. X-ray diffraction data from the frozen crystals were collected on beamline NW12 at PF-AR (KEK, Tsukuba) using a Quantum-210 CCD detector (Area Detector Systems Corporation, Poway, USA). The data were processed with <italic toggle="yes">HKL</italic>2000 (Otwinowski &amp; Minor, 1997<xref ref-type="bibr" rid="bb19"/>) and reduced to structure-factor amplitudes with <italic toggle="yes">TRUNCATE</italic> (French &amp; Wilson, 1978<xref ref-type="bibr" rid="bb3"/>; Collaborative Computational Project, Number 4, 1994<xref ref-type="bibr" rid="bb1"/>).</p>
+         </sec>
+      </sec>
+      <sec id="sec3" sec-type="discussion|interpretation">
+         <label>3</label>
+         <title>Results and discussion &#160; </title>
+         <p>The final purification status of activated parasporin-2 was characterized by MALDI&#8211;TOF mass spectrometry (Fig. 1<xref ref-type="fig" rid="fig1"/>). The spectrum showed two major peaks. The peak at <italic toggle="yes">m</italic>/<italic toggle="yes">z</italic>&#160;=&#160;27&#8197;505.3 corresponds to the calculated molecular weight of a polypeptide composed of the N-terminal methionine and Asp52&#8211;Gln302 of the protoxin (27&#8197;516.7&#8197;Da); the second peak at <italic toggle="yes">m</italic>/<italic toggle="yes">z</italic> = 27&#8197;021.0 corresponds to the weight of another derivative containing the N-terminal methionine and Asp52&#8211;Leu299 (27&#8197;031.2&#8197;Da). The low peak at <italic toggle="yes">m</italic>/<italic toggle="yes">z</italic> = 13&#8197;759.2 is assigned to a doubly charged species with a molecular mass of 27&#8197;516.7. Thus, the preparation of activated parasporin-2 contained two major molecular species that differ by three residues in length at the C-terminus; we consider it to be suitable for crystallization. The results also demonstrate that during the activation of the parasporin-2 protoxin proteinase-K removes 36 or 40 residues from the C-&#173;terminus of the protoxin in addition to the N-terminal 51 residues.</p>
+         <p>The initial crystallization lead was obtained using solution No. 37 of Crystal Screen [10%(<italic toggle="yes">w</italic>/<italic toggle="yes">v</italic>) polyethylene glycol (PEG) 8000, 8%(<italic toggle="yes">v</italic>/<italic toggle="yes">v</italic>) ethylene glycol, 100&#8197;m<italic toggle="yes">M</italic> HEPES&#8211;NaOH pH&#160;7.5] as a reservoir solution; dodecahedral crystals with sharp edges appeared in 3&#8197;d and grew to 0.1&#8197;mm in the maximum dimension after a month. The reservoir solution was optimized by changing several parameters including the molecular weight and concentration of the PEG, the concentration and substitution of the ethylene glycol, the use of additives and the variation of the pH.</p>
+         <p>Crystals suitable for data collection were obtained with reservoir solution containing 16%(<italic toggle="yes">v</italic>/<italic toggle="yes">v</italic>) ethylene glycol, 8%(<italic toggle="yes">w</italic>/<italic toggle="yes">v</italic>) PEG 3350, 1&#8197;m<italic toggle="yes">M</italic> CaCl<sub>2</sub>, 50&#8197;m<italic toggle="yes">M</italic> HEPES&#8211;NaOH pH 7.0. The incubation temperature was set to 277&#8197;K for the first 12&#8197;h, 288&#8197;K for the next 6&#8197;h and then 298&#8197;K. Dodecahedral crystals appeared within three weeks and grew slowly over three months to reach 0.3&#8197;mm in the maximum dimension (Fig. 2<xref ref-type="fig" rid="fig2"/>).</p>
+         <p>Preparative dialysis against a highly alkaline buffer was necessary prior to crystallization; crystallization setups without this step led to a swarm of microcrystals. A tendency for parasporin-2 to form large aggregates is suggested by the observation that the protein formed heavy precipitates two or three weeks after concentration to more than 4&#8197;mg&#8197;ml<sup>&#8722;1</sup> at pH 8.0. Therefore, the highly alkaline conditions presumably dissolve residual aggregates that are probably formed during storage and prepare a monodisperse solution suitable for crystallization. The initial incubation at low temperature was also necessary to reduce excess nucleation.</p>
+         <p>X-ray diffraction data from a native crystal were collected to 2.75&#8197;&#197; resolution (Table 1<xref ref-type="table" rid="table1"/>). The crystals belong to the hexagonal space group <italic toggle="yes">P</italic>6<sub>1</sub> or <italic toggle="yes">P</italic>6<sub>5</sub>, with unit-cell parameters <italic toggle="yes">a</italic> = <italic toggle="yes">b</italic> = 134.37, <italic toggle="yes">c</italic> = 121.24&#8197;&#197;. To examine the presence of non-crystallographic symmetry, a self-rotation function was calculated. The &#967; = 180&#176; section of a map (Fig. 3<xref ref-type="fig" rid="fig3"/>) shows a clear peak of height 5.2&#963; at polar angles &#952; = 90&#176;, &#966; = 22.7&#176;, which corresponds to a non-crystallographic dyad lying perpendicular to the crystallographic sixfold axis. No distinct peak was found in the &#967; = 120, 90 or 60&#176; sections. Assuming two, four or six protein molecules each with a molecular weight of 27.5&#8197;kDa in the asymmetric unit, the Matthews coefficient (<italic toggle="yes">V</italic>
+            <sub>M</sub>) was 5.7, 2.9 and 1.9&#8197;&#197;<sup>3</sup>&#8197;Da<sup>&#8722;1</sup>, respectively (Matthews, 1968<xref ref-type="bibr" rid="bb15"/>). The first value is higher than the normal <italic toggle="yes">V</italic>
+            <sub>M</sub> range (1.7&#8211;3.5&#8197;&#197;<sup>3</sup>&#8197;Da<sup>&#8722;1</sup>) but is still acceptable, while the others are within the normal range. Thus, the asymmetric unit contains two, four or six molecules with one non-crystallographic twofold axis. A search for suitable heavy-atom derivatives is in progress.</p>
+
+      </sec>
+   </body>
+   <back>
+      <sec id="table-wraps" sec-type="display-objects">
+         <title>Figures and Tables</title>
+         <fig id="fig1" position="float" orientation="portrait">
+            <label>Figure 1</label>
+            <caption>
+               <p>Mass spectrum of the activated parasporin-2 preparation.</p>
+            </caption>
+            <graphic xlink:href="d-60-02355-fig1.tif" position="float" orientation="portrait"/>
+         </fig>
+         <fig id="fig2" position="float" orientation="portrait">
+            <label>Figure 2</label>
+            <caption>
+               <p>Crystal of activated parasporin-2. The scale bar is 0.3&#8197;mm in length.</p>
+            </caption>
+            <graphic xlink:href="d-60-02355-fig2.tif" position="float" orientation="portrait"/>
+         </fig>
+         <fig id="fig3" position="float" orientation="portrait">
+            <label>Figure 3</label>
+            <caption>
+               <p>&#967; = 180&#176; section of the self-rotation function for the activated parasporin-2 crystal. The calculation with <italic toggle="yes">MOLREP</italic> (Vagin &amp; Teplyakov, 1997<xref ref-type="bibr" rid="bb22"/>) used an integration radius of 20&#8197;&#197; and a resolution range of 10&#8211;3.5 &#197;. The section is contoured at 1&#963; intervals.</p>
+            </caption>
+            <graphic xlink:href="d-60-02355-fig3.tif" position="float" orientation="portrait"/>
+         </fig>
+         <table-wrap id="table1" position="float" orientation="portrait">
+            <label>Table 1</label>
+            <caption>
+               <title>X-ray diffraction data statistics</title>
+               <p>Values in parentheses are for the last resolution shell.</p>
+            </caption>
+            <table frame="hsides" rules="groups">
+               <tbody valign="top">
+                  <tr>
+                     <td rowspan="1" colspan="1" align="left" valign="top">Space group</td>
+                     <td rowspan="1" colspan="1" align="left" valign="top">
+                        <italic toggle="yes">P</italic>6<sub>1</sub> or <italic toggle="yes">P</italic>6<sub>5</sub>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td rowspan="1" colspan="1" align="left" valign="top">Unit-cell parameters (&#197;)</td>
+                     <td rowspan="1" colspan="1" align="left" valign="top">&#160;</td>
+                  </tr>
+                  <tr>
+                     <td rowspan="1" colspan="1" align="left" valign="top">&#8195;
+                        <italic toggle="yes">a</italic> = <italic toggle="yes">b</italic>
+                     </td>
+                     <td rowspan="1" colspan="1" align="left" valign="top">134.37</td>
+                  </tr>
+                  <tr>
+                     <td rowspan="1" colspan="1" align="left" valign="top">&#8195;
+                        <italic toggle="yes">c</italic>
+                     </td>
+                     <td rowspan="1" colspan="1" align="left" valign="top">121.24</td>
+                  </tr>
+                  <tr>
+                     <td rowspan="1" colspan="1" align="left" valign="top">Resolution range (&#197;)</td>
+                     <td rowspan="1" colspan="1" align="left" valign="top">25&#8211;2.75 (2.9&#8211;2.75)</td>
+                  </tr>
+                  <tr>
+                     <td rowspan="1" colspan="1" align="left" valign="top">No. observed reflections</td>
+                     <td rowspan="1" colspan="1" align="left" valign="top">364966 (51159)</td>
+                  </tr>
+                  <tr>
+                     <td rowspan="1" colspan="1" align="left" valign="top">No. unique reflections</td>
+                     <td rowspan="1" colspan="1" align="left" valign="top">32275 (4690)</td>
+                  </tr>
+                  <tr>
+                     <td rowspan="1" colspan="1" align="left" valign="top">Multiplicity</td>
+                     <td rowspan="1" colspan="1" align="left" valign="top">11.3 (10.9)</td>
+                  </tr>
+                  <tr>
+                     <td rowspan="1" colspan="1" align="left" valign="top">Completeness (%)</td>
+                     <td rowspan="1" colspan="1" align="left" valign="top">99.7 (100.0)</td>
+                  </tr>
+                  <tr>
+                     <td rowspan="1" colspan="1" align="left" valign="top">&#9001;<italic toggle="yes">I</italic>&#9002;/&#9001;&#963;(<italic toggle="yes">I</italic>)&#9002;</td>
+                     <td rowspan="1" colspan="1" align="left" valign="top">30.0 (4.4)</td>
+                  </tr>
+                  <tr>
+                     <td rowspan="1" colspan="1" align="left" valign="top">
+                        <italic toggle="yes">R</italic>
+                        <sub>merge</sub>
+                        <xref ref-type="table-fn" rid="tfn1">&#8224;</xref> (%)</td>
+                     <td rowspan="1" colspan="1" align="left" valign="top">6.7 (56.6)</td>
+                  </tr>
+                  <tr>
+                     <td rowspan="1" colspan="1" align="left" valign="top">Wilson <italic toggle="yes">B</italic> factor (&#197;<sup>2</sup>)</td>
+                     <td rowspan="1" colspan="1" align="left" valign="top">75.6</td>
+                  </tr>
+               </tbody>
+            </table>
+            <table-wrap-foot>
+               <fn id="tfn1">
+                  <label>&#8224;</label>
+                  <p>
+                     <italic toggle="yes">R</italic>
+                     <sub>merge</sub> = <inline-formula>
+                        <inline-formula>
+                           <inline-graphic xlink:href="d-60-02355-efi1.gif" mimetype="image" mime-subtype="gif"/>
+                        </inline-formula>
+                     </inline-formula>
+                     <inline-formula>
+                        <inline-formula>
+                           <inline-graphic xlink:href="d-60-02355-efi2.gif" mimetype="image" mime-subtype="gif"/>
+                        </inline-formula>
+                     </inline-formula>, where <italic toggle="yes">I</italic>
+                     <sub>
+                        <italic toggle="yes">h</italic>,<italic toggle="yes">i</italic>
+                     </sub> is the <italic toggle="yes">i</italic>th observation of reflection <italic toggle="yes">h</italic> and &#9001;<italic toggle="yes">I<sub>h</sub>
+                     </italic>&#9002; is the mean intensity of reflection <italic toggle="yes">h</italic>.</p>
+               </fn>
+            </table-wrap-foot>
+         </table-wrap>
+      </sec>
+      <ack>
+         <p>KH is supported by the New Energy and Industrial Technology Development Organ&#173;ization (NEDO).</p>
+      </ack>
+      <ref-list>
+         <title>References</title>
+         <ref id="bb1">
+            <mixed-citation publication-type="journal">Collaborative Computational Project, Number 4 (1994). <italic toggle="yes">Acta Cryst.</italic> D<bold>50</bold>, 760&#8211;763.</mixed-citation>
+         </ref>
+         <ref id="bb2">
+            <mixed-citation publication-type="journal">Crickmore, N., Zeigler, D. R., Feitelson, J., Schnepf, E., Van Rie, J., Lereclus, D., Baum, J. &amp; Dean, D. H. (1998). <italic toggle="yes">Microbiol. Mol. Biol. Rev.</italic>
+               <bold>62</bold>, 807&#8211;813.</mixed-citation>
+         </ref>
+         <ref id="bb3">
+            <mixed-citation publication-type="journal">French, G. S. &amp; Wilson, K. S. (1978). <italic toggle="yes">Acta Cryst.</italic> A<bold>34</bold>, 517&#8211;525.</mixed-citation>
+         </ref>
+         <ref id="bb4">
+            <mixed-citation publication-type="journal">Galitsky, N., Cody, V., Wojtczak, A., Ghosh, D., Luft, J. R., Pangborn, W. &amp; English, L. (2001). <italic toggle="yes">Acta Cryst.</italic> D<bold>57</bold>, 1101&#8211;1109.</mixed-citation>
+         </ref>
+         <ref id="bb5">
+            <mixed-citation publication-type="journal">Grochulski, P., Masson, L., Borisova, S., Pusztai-Carey, M., Schwartz, J. L., Brousseau, R. &amp; Cygler, M. (1995). <italic toggle="yes">J. Mol. Biol.</italic>
+               <bold>254</bold>, 447&#8211;464.</mixed-citation>
+         </ref>
+         <ref id="bb6">
+            <mixed-citation publication-type="journal">H&#246;fte, H. &amp; Whiteley, H. R. (1989). <italic toggle="yes">Microbiol. Rev.</italic>
+               <bold>53</bold>, 242&#8211;255.</mixed-citation>
+         </ref>
+         <ref id="bb7">
+            <mixed-citation publication-type="journal">Ito, A., Sasaguri, Y., Kitada, S., Kusaka, Y., Kuwano, K., Masutomi, K., Mizuki, E., Akao, T. &amp; Ohba, M. (2004). <italic toggle="yes">J. Biol. Chem.</italic>
+               <bold>279</bold>, 21282&#8211;21286.</mixed-citation>
+         </ref>
+         <ref id="bb8">
+            <mixed-citation publication-type="journal">Kim, H. S., Saitoh, H., Yamashita, S., Akao, T., Park, Y. S., Maeda, M., Tanaka, R., Mizuki, E. &amp; Ohba, M. (2003). <italic toggle="yes">Curr. Microbiol.</italic>
+               <bold>46</bold>, 33&#8211;38.</mixed-citation>
+         </ref>
+         <ref id="bb9">
+            <mixed-citation publication-type="journal">Lee, D., Akao, T., Yamashita, S., Katayama, H., Maeda, M., Saitoh, H., Mizuki, E. &amp; Ohba, M. (2000). <italic toggle="yes">Biochem. Biophys. Res. Commun.</italic>
+               <bold>272</bold>, 218&#8211;223.</mixed-citation>
+         </ref>
+         <ref id="bb10">
+            <mixed-citation publication-type="journal">Lee, D., Katayama, H., Akao, T., Maeda, M., Tanaka, R., Yamashita, S., Saitoh, H., Mizuki, E. &amp; Ohba, M. (2001). <italic toggle="yes">Biochem. Biophys. Acta</italic>, <bold>1547</bold>, 57&#8211;63.</mixed-citation>
+         </ref>
+         <ref id="bb11">
+            <mixed-citation publication-type="journal">Li, J., Carroll, J. &amp; Ellar, D. J. (1991). <italic toggle="yes">Nature (London)</italic>, <bold>353</bold>, 815&#8211;821.</mixed-citation>
+         </ref>
+         <ref id="bb12">
+            <mixed-citation publication-type="journal">Li, J., Koni, P. A. &amp; Ellar, D. J. (1996). <italic toggle="yes">J. Mol. Biol.</italic>
+               <bold>257</bold>, 129&#8211;152.</mixed-citation>
+         </ref>
+         <ref id="bb13">
+            <mixed-citation publication-type="journal">Maagd, R. A. de, Bosch, D. &amp; Stiekema, W. (1999). <italic toggle="yes">Trends Plant Sci.</italic>
+               <bold>4</bold>, 9&#8211;13.</mixed-citation>
+         </ref>
+         <ref id="bb14">
+            <mixed-citation publication-type="journal">Maagd, R. A. de, Bravo, A., Berry, C., Crickmore, N. &amp; Schnepf, H. E. (2003). <italic toggle="yes">Annu. Rev. Genet.</italic>
+               <bold>37</bold>, 409&#8211;433.</mixed-citation>
+         </ref>
+         <ref id="bb15">
+            <mixed-citation publication-type="journal">Matthews, B. W. (1968). <italic toggle="yes">J. Mol. Biol.</italic>
+               <bold>33</bold>, 491&#8211;497.</mixed-citation>
+         </ref>
+         <ref id="bb16">
+            <mixed-citation publication-type="journal">Mizuki, E., Ohba, M., Akao, T., Yamashita, S., Saitoh, H. &amp; Park, Y. S. (1999). <italic toggle="yes">J. Appl. Microbiol.</italic>
+               <bold>86</bold>, 477&#8211;486.</mixed-citation>
+         </ref>
+         <ref id="bb17">
+            <mixed-citation publication-type="journal">Mizuki, E., Park, Y. S., Saitoh, H., Yamashita, S., Akao, T., Higuchi, K. &amp; Ohba, M. (2000). <italic toggle="yes">Clin. Diagn. Lab. Immunol.</italic>
+               <bold>7</bold>, 625&#8211;634.</mixed-citation>
+         </ref>
+         <ref id="bb18">
+            <mixed-citation publication-type="journal">Morse, R. J., Yamamoto, T. &amp; Stroud, R. M. (2001). <italic toggle="yes">Structure</italic>, <bold>9</bold>, 409&#8211;417.</mixed-citation>
+         </ref>
+         <ref id="bb19">
+            <mixed-citation publication-type="other">Otwinowski, Z. &amp; Minor, W. (1997). <italic toggle="yes">Methods Enzymol.</italic>
+               <bold>276</bold>, 307&#8211;326.</mixed-citation>
+         </ref>
+         <ref id="bb20">
+            <mixed-citation publication-type="journal">Parker, M. W., Buckley, J. T., Postma, J. P. M., Tucker, A. D., Leonard, K., Pattus, F. &amp; Tsernoglou, D. (1994). <italic toggle="yes">Nature (London)</italic>, <bold>367</bold>, 292&#8211;295.</mixed-citation>
+         </ref>
+         <ref id="bb21">
+            <mixed-citation publication-type="journal">Schnepf, E., Crickmore, N., Van Rie, J., Lereclus, D., Baum, J., Feitelson, J., Zeigler, D. R. &amp; Dean, D. H. (1998). <italic toggle="yes">Microbiol. Mol. Biol. Rev.</italic>
+               <bold>62</bold>, 775&#8211;806.</mixed-citation>
+         </ref>
+         <ref id="bb22">
+            <mixed-citation publication-type="journal">Vagin, A. &amp; Teplyakov, A. (1997). <italic toggle="yes">J. Appl. Cryst.</italic>
+               <bold>30</bold>, 1022&#8211;1025.</mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

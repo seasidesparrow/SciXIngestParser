@@ -1,0 +1,129 @@
+{
+  "abstract": {
+    "textEnglish": "Isolation of complex patterns of correlation between variables, association among samples and anomaly identification, through conventional parametric multivariate statistical procedures, may be obscured by the presence of multivariate outliers and non-normal variable distributions. Procedures such as k-means clustering generally require substantial data pre-processing. Unsupervised neural networks (UNN) have the capacity to cluster multivariate data, using a modified form of the standard unsupervised Kohonen self-organizing map that is non-linear, non-parametric, rapid and robust. The number of clusters into which samples are allocated is determined by the unsupervised neural network and is directly dependent upon the original input data.\nUNN and k-means clustering was performed on stream sediment geochemical data from 1670 sub-catchments in the northeast region of New South Wales. Both methods produced clusters for the feldspar-associated elements that were closely related to sub-catchment geology and topography. UNN clustering revealed more subtle variations within the major lithological groups. UNN clustering of CuPbZn produced ten main clusters and identified 26 anomalies, that were mainly from sub-catchments, containing significant base metal mineralization occurrences. K-means clustering of transformed CuPbZn yielded five major clusters and only 19 anomalies. Progressive increase in k from eight to 20 did not substantially alter the k-means classification of samples between common groups and anomalies. Some catchments identified only as anomalous by UNN clustering contain known base metal mineralization."
+  },
+  "authors": [
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Neural Mining Solutions, 1 Alfred Street, Sydney, NSW 2000, Australia"
+        }
+      ],
+      "name": {
+        "given_name": "A. P.",
+        "surname": "Clare"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "School of Geology, University of New South Wales, Sydney, NSW 2052, Australia"
+        }
+      ],
+      "attrib": {
+        "email": "d.cohen@unsw.edu.au"
+      },
+      "name": {
+        "given_name": "D. R.",
+        "surname": "Cohen"
+      }
+    }
+  ],
+  "copyright": {
+    "statement": "\u00a9 2001 AAG/The Geological Society of London",
+    "status": true
+  },
+  "keywords": [
+    {
+      "keyString": "exploration geochemistry",
+      "keySystem": "misc"
+    },
+    {
+      "keyString": "neural network",
+      "keySystem": "misc"
+    },
+    {
+      "keyString": "clustering",
+      "keySystem": "misc"
+    },
+    {
+      "keyString": "anomaly",
+      "keySystem": "misc"
+    },
+    {
+      "keyString": "New England",
+      "keySystem": "misc"
+    }
+  ],
+  "pagination": {
+    "firstPage": "119",
+    "lastPage": "134",
+    "pageRange": "119-134"
+  },
+  "persistentIDs": [
+    {
+      "DOI": "10.1144/geochem.1.2.119"
+    }
+  ],
+  "pubDate": {
+    "printDate": "2001-05-00"
+  },
+  "publication": {
+    "ISSN": [
+      {
+        "issnString": "1467-7873",
+        "pubtype": "ppub"
+      },
+      {
+        "issnString": "2041-4943",
+        "pubtype": "epub"
+      }
+    ],
+    "issueNum": "2",
+    "pubName": "Geochemistry: Exploration, Environment, Analysis",
+    "pubYear": "2001",
+    "publisher": "The Geological Society of London",
+    "volumeNum": "1"
+  },
+  "publisherIDs": [
+    {
+      "Identifier": "119",
+      "attribute": "publisher-id"
+    }
+  ],
+  "recordData": {
+    "createdTime": "",
+    "loadFormat": "JATS",
+    "loadLocation": "",
+    "loadType": "fromFile",
+    "parsedTime": "",
+    "recordOrigin": ""
+  },
+  "references": [
+    "<ref id=\"B1\"> <mixed-citation><named-content content-type=\"arthw-firstauthor\"><named-content content-type=\"arthw-snm\">BARNES</named-content>, <named-content content-type=\"arthw-fnm\">R. G.</named-content></named-content>, BROWNLOW, J, ALDER, D. &amp; 6 others <year>1996</year>. Mineral resources. <italic toggle=\"yes\">In</italic>: <italic toggle=\"yes\">Regional Report of Upper North East New South Wales, Volume 5; Socio-economic Values</italic>. Resource and Conservation Assessment Council, Sydney, 73154.</mixed-citation> </ref>",
+    "<ref id=\"B2\"> <mixed-citation><named-content content-type=\"arthw-firstauthor\"><named-content content-type=\"arthw-snm\">BENEDIKTSSON</named-content>, <named-content content-type=\"arthw-fnm\">J. A.</named-content></named-content>, SWAIN, P. H. &amp; ERSOY, O. K. <year>1990</year>. Neural network approaches versus statistical methods in classification of multisource remote sensing data. <source><italic toggle=\"yes\">IEEE Transactions on Geoscience and Remote Sensing</italic></source> <volume><italic toggle=\"yes\">4</italic></volume>, <fpage>540</fpage>-552.</mixed-citation> </ref>",
+    "<ref id=\"B3\"> <mixed-citation><named-content content-type=\"arthw-firstauthor\"><named-content content-type=\"arthw-snm\">BONHAM-CARTER</named-content>, <named-content content-type=\"arthw-fnm\">G. F.</named-content></named-content> <year>1994</year>. <italic toggle=\"yes\">Geographic Information Systems for Geoscientists: Modelling with GIS</italic>. Pergamon Publishing, Oxford.</mixed-citation> </ref>",
+    "<ref id=\"B4\"> <mixed-citation><named-content content-type=\"arthw-firstauthor\"><named-content content-type=\"arthw-snm\">BOX</named-content>, <named-content content-type=\"arthw-fnm\">G. E. P.</named-content></named-content> &amp; COX, D. R. <year>1964</year>. An analysis of transformations. <source><italic toggle=\"yes\">Journal of the Royal Statistical Society, Series B</italic></source> <volume><italic toggle=\"yes\">26</italic></volume>, <fpage>211</fpage>-243.</mixed-citation> </ref>",
+    "<ref id=\"B5\"> <mixed-citation><named-content content-type=\"arthw-firstauthor\"><named-content content-type=\"arthw-snm\">CHENG</named-content>, <named-content content-type=\"arthw-fnm\">Q.</named-content></named-content>, AGTERBERG, F. P. &amp; BONHAM-CARTER, G. F. <year>1996</year>. A spatial analysis method for geochemical anomaly separation. <source><italic toggle=\"yes\">Journal of Geochemical Exploration</italic></source> <volume><italic toggle=\"yes\">56</italic></volume>, <fpage>183</fpage>-195.</mixed-citation> </ref>",
+    "<ref id=\"B6\"> <mixed-citation><named-content content-type=\"arthw-firstauthor\"><named-content content-type=\"arthw-snm\">CHORK</named-content>, <named-content content-type=\"arthw-fnm\">C. Y.</named-content></named-content> &amp; ROUSSEEUW, P. J. <year>1992</year>. Integrating a high-breakdown option into discriminant analysis in exploration geochemistry. <source><italic toggle=\"yes\">Journal of Geochemical Exploration</italic></source> <volume><italic toggle=\"yes\">43</italic></volume>, <fpage>191</fpage>-203.</mixed-citation> </ref>",
+    "<ref id=\"B7\"> <mixed-citation><named-content content-type=\"arthw-firstauthor\"><named-content content-type=\"arthw-snm\">CHORK</named-content>, <named-content content-type=\"arthw-fnm\">C. Y.</named-content></named-content> <year>1990</year>. Unmasking multivariate anomalous observations in exploration geochemical data from sheeted vein tin mineralization near Emmaville, N.S.W, Australia. <source><italic toggle=\"yes\">Journal of Geochemical Exploration</italic></source> <volume><italic toggle=\"yes\">37</italic></volume>, <fpage>205</fpage>-223.</mixed-citation> </ref>",
+    "<ref id=\"B8\"> <mixed-citation><named-content content-type=\"arthw-firstauthor\"><named-content content-type=\"arthw-snm\">CLARE</named-content>, <named-content content-type=\"arthw-fnm\">A. P.</named-content></named-content> &amp; COHEN, D. R. <year>1999</year>. An unsupervised neural network approach to the analysis of multi-element stream sediment data, northeastern NSW, Australia. <italic toggle=\"yes\">In</italic>: <italic toggle=\"yes\">Proceedings of the 19th International Geochemical Exploration Symposium</italic>, Vancouver, 1216 April, 1999.</mixed-citation> </ref>",
+    "<ref id=\"B9\"> <mixed-citation><named-content content-type=\"arthw-firstauthor\"><named-content content-type=\"arthw-snm\">COHEN</named-content>, <named-content content-type=\"arthw-fnm\">D. R.</named-content></named-content>, RUTHERFORD, N. F. &amp; GARNETT, D. L. <year>1995</year>. <italic toggle=\"yes\">A Geochemical Survey of the Upper Northeast Region, New South Wales</italic>. NSW Department of Mineral Resources, Sydney.</mixed-citation> </ref>",
+    "<ref id=\"B10\"> <mixed-citation><named-content content-type=\"arthw-firstauthor\"><named-content content-type=\"arthw-snm\">COHEN</named-content>, <named-content content-type=\"arthw-fnm\">D. R.</named-content></named-content>, SILVA-SANTISTEBAN, C. M, RUTHERFORD, N. F, GARNETT, D. L. &amp; WALDRON, H. M. <year>1999</year>. Comparison of vegetation and stream sediment geochemical patterns in the north eastern region of New South Wales. <source><italic toggle=\"yes\">Journal of Geochemical Exploration</italic></source> <volume><italic toggle=\"yes\">66</italic></volume>, <fpage>469</fpage>-489.</mixed-citation> </ref>",
+    "<ref id=\"B11\"> <mixed-citation><named-content content-type=\"arthw-firstauthor\"><named-content content-type=\"arthw-snm\">DAYHOFF</named-content>, <named-content content-type=\"arthw-fnm\">J. E.</named-content></named-content> <year>1990</year>. <italic toggle=\"yes\">Neural Network Architectures: An Introduction</italic>. Van Nostrand, New York.</mixed-citation> </ref>",
+    "<ref id=\"B12\"> <mixed-citation><named-content content-type=\"arthw-firstauthor\"><named-content content-type=\"arthw-snm\">FOODY</named-content>, <named-content content-type=\"arthw-fnm\">G. M.</named-content></named-content> <year>1997</year>. Fully fuzzy supervised classification of land cover from remotely sensed imagery with an artificial neural network. <source><italic toggle=\"yes\">Neural Computing and Applications</italic></source> <volume><italic toggle=\"yes\">5</italic></volume>, <fpage>238</fpage>-247.</mixed-citation> </ref>",
+    "<ref id=\"B13\"> <mixed-citation><named-content content-type=\"arthw-firstauthor\"><named-content content-type=\"arthw-snm\">GARRETT</named-content>, <named-content content-type=\"arthw-fnm\">R. G.</named-content></named-content> <year>1989</year>. The chi-square plot: a tool for multivariate outlier recognition. <source><italic toggle=\"yes\">Journal of Geochemical Exploration</italic></source> <volume><italic toggle=\"yes\">32</italic></volume>, <fpage>319</fpage>-341.</mixed-citation> </ref>",
+    "<ref id=\"B14\"> <mixed-citation><named-content content-type=\"arthw-firstauthor\"><named-content content-type=\"arthw-snm\">GILLIGAN</named-content>, <named-content content-type=\"arthw-fnm\">L. B.</named-content></named-content> &amp; BARNES, R. G. <year>1990</year>. New England Fold Belt, New South Wales  Regional Geology and Mineralisation. <italic toggle=\"yes\">In</italic>: Hughes, F.E. (ed) . <italic toggle=\"yes\">Geology of the Mineral Deposits of Australia and Papua New Guinea</italic>. Australian Institute of Mining and Metallurgy. Monograph, <bold>14</bold>, <fpage>1417</fpage>-1423.</mixed-citation> </ref>",
+    "<ref id=\"B15\"> <mixed-citation><named-content content-type=\"arthw-firstauthor\"><named-content content-type=\"arthw-snm\">HOWARTH</named-content>, <named-content content-type=\"arthw-fnm\">R. J.</named-content></named-content> <year>1983</year>. Statistics and Data Analysis in Geochemical Prospecting. <italic toggle=\"yes\">In</italic>: Govett, G.J.S. (ed) . <italic toggle=\"yes\">Handbook of Exploration Geochemistry, Volume 2</italic>. Elsevier, Amsterdam.</mixed-citation> </ref>",
+    "<ref id=\"B16\"> <mixed-citation><named-content content-type=\"arthw-firstauthor\"><named-content content-type=\"arthw-snm\">KAMGAR-PARSI</named-content>, <named-content content-type=\"arthw-fnm\">B.</named-content></named-content>, GUALTIERI, J. A. &amp; DEVANEY, J. E. <year>1990</year>. Clustering with neural networks. <source><italic toggle=\"yes\">Biological Cybernetics</italic></source> <volume><italic toggle=\"yes\">63</italic></volume>, <fpage>210</fpage>-208.</mixed-citation> </ref>",
+    "<ref id=\"B17\"> <mixed-citation><named-content content-type=\"arthw-firstauthor\"><named-content content-type=\"arthw-snm\">KASKI</named-content>, <named-content content-type=\"arthw-fnm\">S.</named-content></named-content> <year>1997</year>. <italic toggle=\"yes\">Data exploration using self-organizing maps</italic>. Acta Polytechnica Scandinavica, Mathematics, Computing and Management in Engineering Series, <bold>82</bold>.</mixed-citation> </ref>",
+    "<ref id=\"B18\"> <mixed-citation><named-content content-type=\"arthw-firstauthor\"><named-content content-type=\"arthw-snm\">KOHONEN</named-content>, <named-content content-type=\"arthw-fnm\">T.</named-content></named-content> <year>1989</year>. <italic toggle=\"yes\">Self-organisation and Associative Memory</italic>. Springer-Verlag, Berlin.</mixed-citation> </ref>",
+    "<ref id=\"B19\"> <mixed-citation><named-content content-type=\"arthw-firstauthor\"><named-content content-type=\"arthw-snm\">KOHONEN</named-content>, <named-content content-type=\"arthw-fnm\">T.</named-content></named-content> <year>1990</year>. The self-organizing map. <source><italic toggle=\"yes\">Proceedings of the IEEE</italic></source> <volume><italic toggle=\"yes\">78</italic></volume>, <fpage>1464</fpage>-1480.</mixed-citation> </ref>",
+    "<ref id=\"B20\"> <mixed-citation><named-content content-type=\"arthw-firstauthor\"><named-content content-type=\"arthw-snm\">KOHONEN</named-content>, <named-content content-type=\"arthw-fnm\">T.</named-content></named-content> <year>1995</year>. <italic toggle=\"yes\">Self-Organizing Maps</italic>. Springer-Verlag, Berlin.</mixed-citation> </ref>",
+    "<ref id=\"B21\"> <mixed-citation><named-content content-type=\"arthw-firstauthor\"><named-content content-type=\"arthw-snm\">MACQUEEN</named-content>, <named-content content-type=\"arthw-fnm\">J.</named-content></named-content> <year>1967</year>. Some methods for classification and analysis of multivariate observations. <italic toggle=\"yes\">In</italic>: Le Cam, L.M, Neyman, &amp; J. (eds) . <italic toggle=\"yes\">Proceedings of the Fifth Berkeley Symposium on Mathematical Statistics and Probability, Volume 1</italic>. University of California Press, Berkeley<fpage>281</fpage>-297.</mixed-citation> </ref>",
+    "<ref id=\"B22\"> <mixed-citation><named-content content-type=\"arthw-firstauthor\"><named-content content-type=\"arthw-snm\">MANCEY</named-content>, <named-content content-type=\"arthw-fnm\">S. J.</named-content></named-content> &amp; HOWARTH, R. J. <year>1980</year>. Power-transform removal of skewness from large data sets. <source><italic toggle=\"yes\">Institute for Mining and Metallurgy Transactions, Section B</italic></source> <volume><italic toggle=\"yes\">89</italic></volume>, <fpage>92</fpage>-97.</mixed-citation> </ref>"
+  ],
+  "title": {
+    "textEnglish": "A comparison of unsupervised neural networks and k-means clustering in the analysis of multi-element stream sediment data"
+  }
+}

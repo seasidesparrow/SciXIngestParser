@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component xmlns="http://www.wiley.com/namespaces/wiley" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:wiley="http://www.wiley.com/namespaces/wiley/wiley" type="serialArticle" version="1.0.3" xml:lang="en" xml:id="swe539">
+<header>
+<publicationMeta level="product">
+<doi>10.1002/(ISSN)1542-7390</doi>
+<issn type="print">1542-7390</issn>
+<issn type="electronic">1542-7390</issn>
+<idGroup>
+<id type="product" value="SWE"/>
+<id type="coden" value="SWPEAX"/>
+</idGroup>
+<titleGroup>
+<title type="main" xml:lang="en" sort="SPACE WEATHER">Space Weather</title>
+<title type="short">Space Weather</title>
+</titleGroup>
+</publicationMeta>
+<publicationMeta level="part" position="80">
+<doi>10.1002/swe.v10.8</doi>
+<numberingGroup>
+<numbering type="journalVolume" number="10">10</numbering>
+<numbering type="journalIssue">8</numbering>
+</numberingGroup>
+<coverDate startDate="2012-08">August 2012</coverDate>
+</publicationMeta>
+<publicationMeta level="unit" type="letter" position="30" status="forIssue">
+<doi>10.1029/2012SW000823</doi>
+<idGroup>
+<id type="editorialOffice" value="2012SW000823"/>
+<id type="society" value="S08004"/>
+<id type="unit" value="SWE539"/>
+</idGroup>
+<countGroup>
+<count type="pageTotal" number="2"/>
+</countGroup>
+<copyright ownership="thirdParty">©2012. American Geophysical Union. All Rights Reserved.</copyright>
+<eventGroup>
+<event type="firstOnline" date="2012-08-03"/>
+<event type="publishedOnlineFinalForm" date="2012-08-03"/>
+<event type="xmlConverted" agent="SPi Global Converter:AGUv5.2_TO_WileyML3Gv1.0.3 version:1.3; WileyML 3G Packaging Tool v1.0" date="2013-01-03"/>
+</eventGroup>
+<numberingGroup>
+<numbering type="pageFirst">n/a</numbering>
+<numbering type="pageLast">n/a</numbering>
+</numberingGroup>
+<subjectInfo>
+EDUCATION
+<subjectInfo>
+Post&amp;#x2010;secondary education
+</subjectInfo>
+SPACE WEATHER
+<subjectInfo>
+General or miscellaneous
+</subjectInfo>
+</subjectInfo>
+
+</publicationMeta>
+<contentMeta>
+<countGroup>
+<count type="wordTotal" number="1000"/>
+</countGroup>
+<titleGroup>
+<title type="main">Book Review: Dolores Knipp's Understanding Space Weather and the Physics Behind It</title>
+<title type="shortAuthors">Moldwin</title>
+</titleGroup>
+<creators>
+<creator xml:id="swe539-cr-0001" creatorRole="author" affiliationRef="#swe539-aff-0001">
+<personName><givenNames>Mark</givenNames><familyName>Moldwin</familyName></personName>
+</creator>
+</creators>
+<affiliationGroup>
+<affiliation xml:id="swe539-aff-0001" countryCode="US" type="organization">
+<unparsedAffiliation>University of Michigan USA</unparsedAffiliation>
+</affiliation>
+</affiliationGroup>
+<keywordGroup type="author">
+<keyword xml:id="swe539-kwd-0001">Space Weather</keyword>
+<keyword xml:id="swe539-kwd-0002">Space Physics</keyword>
+<keyword xml:id="swe539-kwd-0003">Textbook Review</keyword>
+</keywordGroup>
+<abstractGroup>
+<abstract type="main">
+<p xml:id="swe539-para-0001">Delores Knipp's textbook Understanding Space Weather and the Physics Behind It provides a comprehensive resource for space physicists teaching in a variety of academic departments to introduce space weather to advanced undergraduates. The book benefits from Knipp's extensive experience teaching introductory and advanced undergraduate physics courses at the U.S. Air Force Academy. The fundamental physics concepts are clearly explained and are connected directly to the space physics concepts being discussed. To expand upon the relevant basic physics, current research areas and new observations are highlighted, with many of the chapters including contributions from a number of leading space physicists.</p>
+</abstract>
+<abstract type="short">
+<title type="main">Key Points</title>
+<p xml:id="swe539-para-0002">
+<list style="bulleted">
+<listItem>[]</listItem>
+<listItem>[]</listItem>
+<listItem>[]</listItem>
+</list></p>
+</abstract>
+</abstractGroup>
+</contentMeta>
+</header>
+</component>

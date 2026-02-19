@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://datacite.org/schema/kernel-4" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
+  <identifier identifierType="DOI">10.26033/089P-C283</identifier>
+  <creators>
+    <creator>
+      <creatorName nameType="Personal">DeMeo, Francesca</creatorName>
+      <givenName>Francesca</givenName>
+      <familyName>DeMeo</familyName>
+      <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org">https://orcid.org/0000-0002-8397-4219</nameIdentifier>
+    </creator>
+    <creator>
+      <creatorName nameType="Personal">Binzel, Richard P.</creatorName>
+      <givenName>Richard P.</givenName>
+      <familyName>Binzel</familyName>
+      <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org">https://orcid.org/0000-0002-9995-7341</nameIdentifier>
+    </creator>
+    <creator>
+      <creatorName nameType="Personal">Slivan, Stephen M.</creatorName>
+      <givenName>Stephen M.</givenName>
+      <familyName>Slivan</familyName>
+      <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org">https://orcid.org/0000-0003-3291-8708</nameIdentifier>
+    </creator>
+    <creator>
+      <creatorName nameType="Personal">Bus, Schelte J.</creatorName>
+      <givenName>Schelte J.</givenName>
+      <familyName>Bus</familyName>
+      <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org">https://orcid.org/0000-0003-4191-6536</nameIdentifier>
+    </creator>
+  </creators>
+  <titles>
+    <title>Bus-DeMeo Asteroid Taxonomy Bundle V1.0</title>
+  </titles>
+  <publisher>NASA Planetary Data System </publisher>
+  <publicationYear>2020</publicationYear>
+  <resourceType resourceTypeGeneral="Dataset">PDS4 Refereed Data Bundle </resourceType>
+  <subjects>
+    <subject subjectScheme="Unified Astronomy Thesaurus" schemeURI="http://astrothesaurus.org/uat" valueURI="http://astrothesaurus.org/uat/72">Asteroids</subject>
+  </subjects>
+  <contributors>
+    <contributor contributorType="DataCurator">
+      <contributorName nameType="Organizational">PDS Small Bodies Node</contributorName>
+      <nameIdentifier nameIdentifierScheme="" schemeURI=""/>
+    </contributor>
+  </contributors>
+  <dates>
+    <date dateType="Available">2020-08-14</date>
+  </dates>
+  <sizes/>
+  <formats/>
+  <version/>
+  <alternateIdentifiers>
+    <alternateIdentifier alternateIdentifierType="PDS4 Bundle LIDVID">urn:nasa:pds:ast.bus-demeo.taxonomy::1.0</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+    <relatedIdentifier relatedIdentifierType="DOI" relationType="IsSupplementTo">10.1016/j.icarus.2009.02.005</relatedIdentifier>
+  </relatedIdentifiers>
+  <descriptions>
+    <description descriptionType="Abstract">The Bus-DeMeo asteroid taxonomy classification system, described in DeMeo et al. (2009), is based on reflectance spectrum characteristics for 371 asteroids measured over the wavelength 0.45 to 2.45 microns. This system of 24 classes is constructed using principal component analysis, following most closely the visible wavelength taxonomy of Bus (1999), which itself builds upon the system of Tholen (1984). Nearly all of the Bus taxonomy classes are preserved, with one new class (Sv) defined. This data set includes a table of classifications in the Bus-DeMeo system for the 371 asteroids upon which the system is based. It also includes mean spectra for each of the classes.</description>
+  </descriptions>
+</resource>

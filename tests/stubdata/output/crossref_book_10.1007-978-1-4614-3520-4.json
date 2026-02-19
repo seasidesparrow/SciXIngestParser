@@ -1,0 +1,68 @@
+{
+  "doctype": "book",
+  "esources": [
+    {
+      "location": "http://link.springer.com/10.1007/978-1-4614-3520-4",
+      "source": "pub_html"
+    }
+  ],
+  "otherContributor": [
+    {
+      "contrib": {
+        "name": {
+          "given_name": "Eric D.",
+          "surname": "Feigelson"
+        }
+      },
+      "role": "editor"
+    },
+    {
+      "contrib": {
+        "name": {
+          "given_name": "G. Jogesh",
+          "surname": "Babu"
+        }
+      },
+      "role": "editor"
+    }
+  ],
+  "persistentIDs": [
+    {
+      "DOI": "10.1007/978-1-4614-3520-4",
+      "ISBN": [
+        {
+          "isbnString": "978-1-4614-3519-8",
+          "pubtype": "print"
+        },
+        {
+          "isbnString": "978-1-4614-3520-4",
+          "pubtype": "electronic"
+        }
+      ]
+    }
+  ],
+  "pubDate": {
+    "printDate": "2012-00-00"
+  },
+  "publication": {
+    "bookSeries": {
+      "seriesDescription": "issn",
+      "seriesID": "0930-0325",
+      "seriesName": "Lecture Notes in Statistics"
+    },
+    "pubYear": "2012",
+    "publisher": "Springer New York",
+    "volumeNum": "902"
+  },
+  "recordData": {
+    "createdTime": "",
+    "loadFormat": "OtherXML",
+    "loadLocation": "",
+    "loadType": "fromFile",
+    "parsedTime": "",
+    "recordOrigin": ""
+  },
+  "title": {
+    "textEnglish": "Statistical Challenges in Modern Astronomy V"
+  }
+}

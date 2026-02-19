@@ -1,0 +1,1056 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doi_records>
+  <doi_record owner="10.3847" timestamp="2022-11-08 13:40:56">
+    <crossref>
+      <journal>
+        <journal_metadata>
+          <full_title>The Astrophysical Journal</full_title>
+          <abbrev_title>ApJ</abbrev_title>
+          <issn media_type="print">0004-637X</issn>
+          <issn media_type="electronic">1538-4357</issn>
+        </journal_metadata>
+        <journal_issue>
+          <publication_date media_type="online">
+            <month>11</month>
+            <day>08</day>
+            <year>2022</year>
+          </publication_date>
+          <publication_date media_type="print">
+            <month>11</month>
+            <day>01</day>
+            <year>2022</year>
+          </publication_date>
+          <journal_volume>
+            <volume>939</volume>
+          </journal_volume>
+          <issue>2</issue>
+        </journal_issue>
+        <journal_article publication_type="full_text" reference_distribution_opts="any">
+          <titles>
+            <title>Implications from the Velocity Profile of the M87 Jet: A Possibility of a Slowly Rotating Black Hole Magnetosphere</title>
+          </titles>
+          <contributors>
+            <person_name sequence="first" contributor_role="author">
+              <given_name>Motoki</given_name>
+              <surname>Kino</surname>
+              <ORCID authenticated="true">http://orcid.org/0000-0002-2709-7338</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Masaaki</given_name>
+              <surname>Takahashi</surname>
+              <ORCID authenticated="false">http://orcid.org/0000-0001-9360-0846</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Tomohisa</given_name>
+              <surname>Kawashima</surname>
+              <ORCID authenticated="true">http://orcid.org/0000-0001-8527-0496</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Jongho</given_name>
+              <surname>Park</surname>
+              <ORCID authenticated="false">http://orcid.org/0000-0001-6558-9053</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Kazuhiro</given_name>
+              <surname>Hada</surname>
+              <ORCID authenticated="true">http://orcid.org/0000-0001-6906-772X</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Hyunwook</given_name>
+              <surname>Ro</surname>
+              <ORCID authenticated="true">http://orcid.org/0000-0002-7322-6436</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Yuzhu</given_name>
+              <surname>Cui</surname>
+              <ORCID authenticated="false">http://orcid.org/0000-0001-6311-4345</ORCID>
+            </person_name>
+          </contributors>
+          <abstract>
+            <title>Abstract</title>
+            <p>
+              Motivated by the measured velocity profile of the M87 jet using the Korean very-long-baseline interferometry (VLBI) network (KVN) and VLBI Exploration of Radio Astrometry (VERA) Array (KaVA) by Park et al. indicating that the starting position of the jet acceleration is farther from the central engine of the jet than predicted in general relativistic magnetohydrodynamic simulations, we explore how to mitigate the apparent discrepancy between the simulations and the KaVA observation. We use a semi-analytic jet model proposed by Tomimatsu &amp; Takahashi consistently solving the transmagnetic field structure but neglecting any dissipation effects. By comparing the jet model with the observed M87 jet velocity profile, we find that the model can reproduce the logarithmic feature of the velocity profile and can fit the observed data when choosing
+              <italic>c</italic>
+              /(100
+              <italic>r</italic>
+              <sub>
+                <italic>g</italic>
+              </sub>
+              ) ≲ Ω
+              <sub>
+                <italic>F</italic>
+              </sub>
+              ≲
+              <italic>c</italic>
+              /(70
+              <italic>r</italic>
+              <sub>
+                <italic>g</italic>
+              </sub>
+              ), where
+              <italic>r</italic>
+              <sub>
+                <italic>g</italic>
+              </sub>
+              is the gravitational radius. While a total specific energy (
+              <inline-formula>
+                <tex-math>
+                  <?CDATA ${ \mathcal E }$?>
+                </tex-math>
+                <math overflow="scroll">
+                  <mi mathvariant="italic"></mi>
+                </math>
+                <inline-graphic href="apjac8c2fieqn1.gif" type="simple" />
+              </inline-formula>
+              ) of the jet changes the terminal bulk Lorentz factor of the jet, a slower angular velocity of the black hole magnetosphere (Ω
+              <sub>
+                <italic>F</italic>
+              </sub>
+              ) makes a light-cylinder radius (
+              <italic>r</italic>
+              <sub>lc</sub>
+              ) larger, and it consequently pushes out a location of a starting point of the jet acceleration. Using the estimated Ω
+              <sub>
+                <italic>F</italic>
+              </sub>
+              we further estimate the magnetic field strength on the event horizon scale in M87 by assuming Blandford–Znajek process is in action. The corresponding magnetic flux threading the event horizon of M87 is in good agreement with a magnetically arrested disk regime.
+            </p>
+          </abstract>
+          <publication_date media_type="online">
+            <month>11</month>
+            <day>08</day>
+            <year>2022</year>
+          </publication_date>
+          <publication_date media_type="print">
+            <month>11</month>
+            <day>01</day>
+            <year>2022</year>
+          </publication_date>
+          <pages>
+            <first_page>83</first_page>
+          </pages>
+          <crossmark>
+            <crossmark_policy>http://dx.doi.org/10.1088/crossmark-policy</crossmark_policy>
+            <crossmark_domains>
+              <crossmark_domain>
+                <domain>iopscience.iop.org</domain>
+              </crossmark_domain>
+            </crossmark_domains>
+            <custom_metadata>
+              <assertion label="Article Title" name="article_title">Implications from the Velocity Profile of the M87 Jet: A Possibility of a Slowly Rotating Black Hole Magnetosphere</assertion>
+              <assertion label="Journal Title" name="journal_title">The Astrophysical Journal</assertion>
+              <assertion label="Article Type" name="article_type">paper</assertion>
+              <assertion label="Copyright Information" name="copyright_information">© 2022. The Author(s). Published by the American Astronomical Society.</assertion>
+              <assertion label="Date Received" name="date_received" group_name="publication_dates" group_label="Publication dates">2022-04-05</assertion>
+              <assertion label="Date Accepted" name="date_accepted" group_name="publication_dates" group_label="Publication dates">2022-08-22</assertion>
+              <assertion label="Online publication date" name="date_epub" group_name="publication_dates" group_label="Publication dates">2022-11-08</assertion>
+              <program name="AccessIndicators">
+                <license_ref applies_to="vor" start_date="2022-11-08">http://creativecommons.org/licenses/by/4.0/</license_ref>
+                <license_ref applies_to="tdm" start_date="2022-11-08">https://iopscience.iop.org/info/page/text-and-data-mining</license_ref>
+              </program>
+            </custom_metadata>
+          </crossmark>
+          <doi_data>
+            <doi>10.3847/1538-4357/ac8c2f</doi>
+            <resource content_version="vor" mime_type="text/html">https://iopscience.iop.org/article/10.3847/1538-4357/ac8c2f</resource>
+            <collection property="crawler-based">
+              <item crawler="iParadigms">
+                <resource content_version="vor" mime_type="application/pdf">https://iopscience.iop.org/article/10.3847/1538-4357/ac8c2f/pdf</resource>
+              </item>
+            </collection>
+            <collection property="syndication">
+              <item>
+                <resource content_version="vor" mime_type="application/pdf">https://iopscience.iop.org/article/10.3847/1538-4357/ac8c2f/pdf</resource>
+              </item>
+            </collection>
+            <collection property="text-mining">
+              <item>
+                <resource content_version="vor" mime_type="text/html">https://iopscience.iop.org/article/10.3847/1538-4357/ac8c2f</resource>
+              </item>
+              <item>
+                <resource content_version="vor" mime_type="application/pdf">https://iopscience.iop.org/article/10.3847/1538-4357/ac8c2f/pdf</resource>
+              </item>
+            </collection>
+          </doi_data>
+          <citation_list>
+            <citation key="apjac8c2fbib1">
+              <journal_title>ApJ</journal_title>
+              <author>Abramowski</author>
+              <doi>10.1088/0004-637X/746/2/151</doi>
+              <volume>746</volume>
+              <first_page>151</first_page>
+              <cYear>2012</cYear>
+            </citation>
+            <citation key="apjac8c2fbib2">
+              <journal_title>NatAs</journal_title>
+              <author>An</author>
+              <doi>10.1038/s41550-017-0277-z</doi>
+              <volume>2</volume>
+              <first_page>118</first_page>
+              <cYear>2018</cYear>
+            </citation>
+            <citation key="apjac8c2fbib3">
+              <journal_title>ApJL</journal_title>
+              <author>Asada</author>
+              <doi>10.1088/2041-8205/745/2/L28</doi>
+              <volume>745</volume>
+              <first_page>L28</first_page>
+              <cYear>2012</cYear>
+            </citation>
+            <citation key="apjac8c2fbib4">
+              <journal_title>ApJL</journal_title>
+              <author>Asada</author>
+              <doi>10.1088/2041-8205/781/1/L2</doi>
+              <volume>781</volume>
+              <first_page>L2</first_page>
+              <cYear>2014</cYear>
+            </citation>
+            <citation key="apjac8c2fbib5">
+              <author>Asada</author>
+              <cYear>2017</cYear>
+            </citation>
+            <citation key="apjac8c2fbib6">
+              <journal_title>ApJ</journal_title>
+              <author>Begelman</author>
+              <doi>10.1086/174061</doi>
+              <volume>426</volume>
+              <first_page>269</first_page>
+              <cYear>1994</cYear>
+            </citation>
+            <citation key="apjac8c2fbib7">
+              <author>Beskin</author>
+              <cYear>2010</cYear>
+            </citation>
+            <citation key="apjac8c2fbib8">
+              <journal_title>NCimB</journal_title>
+              <author>Beskin</author>
+              <volume>115</volume>
+              <first_page>795</first_page>
+              <cYear>2000</cYear>
+            </citation>
+            <citation key="apjac8c2fbib9">
+              <journal_title>MNRAS</journal_title>
+              <author>Beskin</author>
+              <doi>10.1046/j.1365-8711.1998.01659.x</doi>
+              <volume>299</volume>
+              <first_page>341</first_page>
+              <cYear>1998</cYear>
+            </citation>
+            <citation key="apjac8c2fbib10">
+              <journal_title>ApJ</journal_title>
+              <author>Bicknell</author>
+              <doi>10.1086/177636</doi>
+              <volume>467</volume>
+              <first_page>597</first_page>
+              <cYear>1996</cYear>
+            </citation>
+            <citation key="apjac8c2fbib11">
+              <journal_title>ApJ</journal_title>
+              <author>Biretta</author>
+              <doi>10.1086/307499</doi>
+              <volume>520</volume>
+              <first_page>621</first_page>
+              <cYear>1999</cYear>
+            </citation>
+            <citation key="apjac8c2fbib12">
+              <journal_title>ARA&amp;A</journal_title>
+              <author>Blandford</author>
+              <doi>10.1146/annurev-astro-081817-051948</doi>
+              <volume>57</volume>
+              <first_page>467</first_page>
+              <cYear>2019</cYear>
+            </citation>
+            <citation key="apjac8c2fbib13">
+              <journal_title>MNRAS</journal_title>
+              <author>Blandford</author>
+              <doi>10.1093/mnras/179.3.433</doi>
+              <volume>179</volume>
+              <first_page>433</first_page>
+              <cYear>1977</cYear>
+            </citation>
+            <citation key="apjac8c2fbib14">
+              <journal_title>A&amp;A</journal_title>
+              <author>Camenzind</author>
+              <volume>162</volume>
+              <first_page>32</first_page>
+              <cYear>1986</cYear>
+            </citation>
+            <citation key="apjac8c2fbib15">
+              <journal_title>MNRAS</journal_title>
+              <author>Chatterjee</author>
+              <doi>10.1093/mnras/stz2626</doi>
+              <volume>490</volume>
+              <first_page>2200</first_page>
+              <cYear>2019</cYear>
+            </citation>
+            <citation key="apjac8c2fbib16">
+              <journal_title>ApJL</journal_title>
+              <author>Chen</author>
+              <doi>10.3847/2041-8213/aad8ab</doi>
+              <volume>863</volume>
+              <first_page>L31</first_page>
+              <cYear>2018</cYear>
+            </citation>
+            <citation key="apjac8c2fbib17">
+              <journal_title>ApJ</journal_title>
+              <author>Cohen</author>
+              <doi>10.1088/0004-637X/787/2/151</doi>
+              <volume>787</volume>
+              <first_page>151</first_page>
+              <cYear>2014</cYear>
+            </citation>
+            <citation key="apjac8c2fbib18">
+              <journal_title>A&amp;A</journal_title>
+              <author>de Gasperin</author>
+              <doi>10.1051/0004-6361/201220209</doi>
+              <volume>547</volume>
+              <first_page>A56</first_page>
+              <cYear>2012</cYear>
+            </citation>
+            <citation key="apjac8c2fbib19">
+              <journal_title>MNRAS</journal_title>
+              <author>Dexter</author>
+              <doi>10.1111/j.1365-2966.2012.20409.x</doi>
+              <volume>421</volume>
+              <first_page>1517</first_page>
+              <cYear>2012</cYear>
+            </citation>
+            <citation key="apjac8c2fbib20">
+              <journal_title>ApJL</journal_title>
+              <author>Algaba</author>
+              <doi>10.3847/2041-8213/abef71</doi>
+              <volume>911</volume>
+              <first_page>L11</first_page>
+              <cYear>2021</cYear>
+            </citation>
+            <citation key="apjac8c2fbib21">
+              <journal_title>ApJL</journal_title>
+              <author />
+              <doi>10.3847/2041-8213/ab0ec7</doi>
+              <volume>875</volume>
+              <first_page>L1</first_page>
+              <cYear>2019a</cYear>
+            </citation>
+            <citation key="apjac8c2fbib22">
+              <journal_title>ApJL</journal_title>
+              <author />
+              <doi>10.3847/2041-8213/ab0c96</doi>
+              <volume>875</volume>
+              <first_page>L2</first_page>
+              <cYear>2019b</cYear>
+            </citation>
+            <citation key="apjac8c2fbib23">
+              <journal_title>ApJL</journal_title>
+              <author />
+              <doi>10.3847/2041-8213/ab0c57</doi>
+              <volume>875</volume>
+              <first_page>L3</first_page>
+              <cYear>2019c</cYear>
+            </citation>
+            <citation key="apjac8c2fbib24">
+              <journal_title>ApJL</journal_title>
+              <author />
+              <doi>10.3847/2041-8213/ab0e85</doi>
+              <volume>875</volume>
+              <first_page>L4</first_page>
+              <cYear>2019d</cYear>
+            </citation>
+            <citation key="apjac8c2fbib25">
+              <journal_title>ApJL</journal_title>
+              <author />
+              <doi>10.3847/2041-8213/ab0f43</doi>
+              <volume>875</volume>
+              <first_page>L5</first_page>
+              <cYear>2019e</cYear>
+            </citation>
+            <citation key="apjac8c2fbib26">
+              <journal_title>ApJL</journal_title>
+              <author />
+              <doi>10.3847/2041-8213/ab1141</doi>
+              <volume>875</volume>
+              <first_page>L6</first_page>
+              <cYear>2019f</cYear>
+            </citation>
+            <citation key="apjac8c2fbib27">
+              <journal_title>ApJL</journal_title>
+              <author>Akiyama</author>
+              <doi>10.3847/2041-8213/abe4de</doi>
+              <volume>910</volume>
+              <first_page>L13</first_page>
+              <cYear>2021</cYear>
+            </citation>
+            <citation key="apjac8c2fbib28">
+              <journal_title>ApJ</journal_title>
+              <author>Fishbone</author>
+              <doi>10.1086/154565</doi>
+              <volume>207</volume>
+              <first_page>962</first_page>
+              <cYear>1976</cYear>
+            </citation>
+            <citation key="apjac8c2fbib29">
+              <journal_title>A&amp;A</journal_title>
+              <author>Giroletti</author>
+              <doi>10.1051/0004-6361/201218794</doi>
+              <volume>538</volume>
+              <first_page>L10</first_page>
+              <cYear>2012</cYear>
+            </citation>
+            <citation key="apjac8c2fbib30">
+              <journal_title>Natur</journal_title>
+              <author>Hada</author>
+              <doi>10.1038/nature10387</doi>
+              <volume>477</volume>
+              <first_page>185</first_page>
+              <cYear>2011</cYear>
+            </citation>
+            <citation key="apjac8c2fbib32">
+              <journal_title>ApJ</journal_title>
+              <author>Hada</author>
+              <doi>10.1088/0004-637X/788/2/165</doi>
+              <volume>788</volume>
+              <first_page>165</first_page>
+              <cYear>2014</cYear>
+            </citation>
+            <citation key="apjac8c2fbib31">
+              <journal_title>ApJ</journal_title>
+              <author>Hada</author>
+              <doi>10.1088/0004-637X/775/1/70</doi>
+              <volume>775</volume>
+              <first_page>70</first_page>
+              <cYear>2013</cYear>
+            </citation>
+            <citation key="apjac8c2fbib33">
+              <journal_title>ApJ</journal_title>
+              <author>Hada</author>
+              <doi>10.3847/0004-637X/817/2/131</doi>
+              <volume>817</volume>
+              <first_page>131</first_page>
+              <cYear>2016</cYear>
+            </citation>
+            <citation key="apjac8c2fbib34">
+              <journal_title>PASJ</journal_title>
+              <author>Hada</author>
+              <doi>10.1093/pasj/psx054</doi>
+              <volume>69</volume>
+              <first_page>71</first_page>
+              <cYear>2017</cYear>
+            </citation>
+            <citation key="apjac8c2fbib35">
+              <journal_title>ApJ</journal_title>
+              <author>Hawley</author>
+              <doi>10.1086/500385</doi>
+              <volume>641</volume>
+              <first_page>103</first_page>
+              <cYear>2006</cYear>
+            </citation>
+            <citation key="apjac8c2fbib36">
+              <journal_title>Galax</journal_title>
+              <author>Hirotani</author>
+              <doi>10.3390/galaxies6040122</doi>
+              <volume>6</volume>
+              <first_page>122</first_page>
+              <cYear>2018</cYear>
+            </citation>
+            <citation key="apjac8c2fbib37">
+              <journal_title>ApJ</journal_title>
+              <author>Hirotani</author>
+              <doi>10.1086/305479</doi>
+              <volume>497</volume>
+              <first_page>563</first_page>
+              <cYear>1998</cYear>
+            </citation>
+            <citation key="apjac8c2fbib38">
+              <journal_title>ApJ</journal_title>
+              <author>Hirotani</author>
+              <doi>10.3847/0004-637X/818/1/50</doi>
+              <volume>818</volume>
+              <first_page>50</first_page>
+              <cYear>2016</cYear>
+            </citation>
+            <citation key="apjac8c2fbib39">
+              <journal_title>ApJ</journal_title>
+              <author>Huang</author>
+              <doi>10.3847/1538-4357/ab86a3</doi>
+              <volume>894</volume>
+              <first_page>45</first_page>
+              <cYear>2020</cYear>
+            </citation>
+            <citation key="apjac8c2fbib40">
+              <journal_title>ApJ</journal_title>
+              <author>Igumenshchev</author>
+              <doi>10.1086/375769</doi>
+              <volume>592</volume>
+              <first_page>1042</first_page>
+              <cYear>2003</cYear>
+            </citation>
+            <citation key="apjac8c2fbib41">
+              <journal_title>Natur</journal_title>
+              <author>Junor</author>
+              <doi>10.1038/44780</doi>
+              <volume>401</volume>
+              <first_page>891</first_page>
+              <cYear>1999</cYear>
+            </citation>
+            <citation key="apjac8c2fbib42">
+              <journal_title>ApJ</journal_title>
+              <author>Katsoulakos</author>
+              <doi>10.3847/1538-4357/ab8fa1</doi>
+              <volume>895</volume>
+              <first_page>99</first_page>
+              <cYear>2020</cYear>
+            </citation>
+            <citation key="apjac8c2fbib43">
+              <journal_title>ApJ</journal_title>
+              <author>Kawashima</author>
+              <doi>10.3847/1538-4357/ab19c0</doi>
+              <volume>878</volume>
+              <first_page>27</first_page>
+              <cYear>2019</cYear>
+            </citation>
+            <citation key="apjac8c2fbib44">
+              <author>Kawashima</author>
+              <cYear>2021</cYear>
+            </citation>
+            <citation key="apjac8c2fbib45">
+              <journal_title>A&amp;A</journal_title>
+              <author>Kim</author>
+              <doi>10.1051/0004-6361/201732421</doi>
+              <volume>610</volume>
+              <first_page>L5</first_page>
+              <cYear>2018</cYear>
+            </citation>
+            <citation key="apjac8c2fbib46">
+              <journal_title>ApJL</journal_title>
+              <author>King</author>
+              <doi>10.3847/2041-8213/ac19a1</doi>
+              <volume>918</volume>
+              <first_page>L22</first_page>
+              <cYear>2021</cYear>
+            </citation>
+            <citation key="apjac8c2fbib47">
+              <journal_title>PKAS</journal_title>
+              <author>Kino</author>
+              <doi>10.5303/PKAS.2015.30.2.633</doi>
+              <volume>30</volume>
+              <first_page>633</first_page>
+              <cYear>2015a</cYear>
+            </citation>
+            <citation key="apjac8c2fbib48">
+              <journal_title>ApJ</journal_title>
+              <author>Kino</author>
+              <doi>10.1088/0004-637X/803/1/30</doi>
+              <volume>803</volume>
+              <first_page>30</first_page>
+              <cYear>2015b</cYear>
+            </citation>
+            <citation key="apjac8c2fbib49">
+              <journal_title>ApJ</journal_title>
+              <author>Kino</author>
+              <doi>10.1088/0004-637X/786/1/5</doi>
+              <volume>786</volume>
+              <first_page>5</first_page>
+              <cYear>2014</cYear>
+            </citation>
+            <citation key="apjac8c2fbib50">
+              <journal_title>ApJ</journal_title>
+              <author>Kisaka</author>
+              <doi>10.3847/1538-4357/abb46c</doi>
+              <volume>902</volume>
+              <first_page>80</first_page>
+              <cYear>2020</cYear>
+            </citation>
+            <citation key="apjac8c2fbib51">
+              <journal_title>MNRAS</journal_title>
+              <author>Komissarov</author>
+              <doi>10.1111/j.1365-2966.2004.07598.x</doi>
+              <volume>350</volume>
+              <first_page>427</first_page>
+              <cYear>2004</cYear>
+            </citation>
+            <citation key="apjac8c2fbib52">
+              <journal_title>MNRAS</journal_title>
+              <author>Komissarov</author>
+              <doi>10.1093/mnras/stab2686</doi>
+              <volume>512</volume>
+              <first_page>2798</first_page>
+              <cYear>2022</cYear>
+            </citation>
+            <citation key="apjac8c2fbib53">
+              <journal_title>MNRAS</journal_title>
+              <author>Komissarov</author>
+              <doi>10.1111/j.1365-2966.2007.12050.x</doi>
+              <volume>380</volume>
+              <first_page>51</first_page>
+              <cYear>2007</cYear>
+            </citation>
+            <citation key="apjac8c2fbib54">
+              <journal_title>ApJL</journal_title>
+              <author>Kovalev</author>
+              <doi>10.1086/522603</doi>
+              <volume>668</volume>
+              <first_page>L27</first_page>
+              <cYear>2007</cYear>
+            </citation>
+            <citation key="apjac8c2fbib55">
+              <journal_title>A&amp;A</journal_title>
+              <author>Kozlowski</author>
+              <volume>63</volume>
+              <first_page>209</first_page>
+              <cYear>1978</cYear>
+            </citation>
+            <citation key="apjac8c2fbib56">
+              <journal_title>A&amp;A</journal_title>
+              <author>Levinson</author>
+              <doi>10.1051/0004-6361/201832915</doi>
+              <volume>616</volume>
+              <first_page>A184</first_page>
+              <cYear>2018</cYear>
+            </citation>
+            <citation key="apjac8c2fbib57">
+              <journal_title>MNRAS</journal_title>
+              <author>Levinson</author>
+              <doi>10.1093/mnras/stw459</doi>
+              <volume>458</volume>
+              <first_page>2269</first_page>
+              <cYear>2016</cYear>
+            </citation>
+            <citation key="apjac8c2fbib58">
+              <journal_title>ApJ</journal_title>
+              <author>Levinson</author>
+              <doi>10.1088/0004-637X/730/2/123</doi>
+              <volume>730</volume>
+              <first_page>123</first_page>
+              <cYear>2011</cYear>
+            </citation>
+            <citation key="apjac8c2fbib59">
+              <journal_title>PhRvD</journal_title>
+              <author>Levinson</author>
+              <doi>10.1103/PhysRevD.96.123006</doi>
+              <volume>96</volume>
+              <cYear>2017</cYear>
+            </citation>
+            <citation key="apjac8c2fbib60">
+              <journal_title>ApJ</journal_title>
+              <author>Lisakov</author>
+              <doi>10.3847/1538-4357/abe1bd</doi>
+              <volume>910</volume>
+              <first_page>35</first_page>
+              <cYear>2021</cYear>
+            </citation>
+            <citation key="apjac8c2fbib61">
+              <journal_title>ApJ</journal_title>
+              <author>Lyubarsky</author>
+              <doi>10.1088/0004-637X/698/2/1570</doi>
+              <volume>698</volume>
+              <first_page>1570</first_page>
+              <cYear>2009</cYear>
+            </citation>
+            <citation key="apjac8c2fbib62">
+              <journal_title>MNRAS</journal_title>
+              <author>Acciari</author>
+              <doi>10.1093/mnras/staa014</doi>
+              <volume>492</volume>
+              <first_page>5354</first_page>
+              <cYear>2020</cYear>
+            </citation>
+            <citation key="apjac8c2fbib63">
+              <journal_title>MNRAS</journal_title>
+              <author>McKinney</author>
+              <doi>10.1111/j.1365-2966.2006.10256.x</doi>
+              <volume>368</volume>
+              <first_page>1561</first_page>
+              <cYear>2006</cYear>
+            </citation>
+            <citation key="apjac8c2fbib64">
+              <journal_title>A&amp;A</journal_title>
+              <author>Mertens</author>
+              <doi>10.1051/0004-6361/201628829</doi>
+              <volume>595</volume>
+              <first_page>A54</first_page>
+              <cYear>2016</cYear>
+            </citation>
+            <citation key="apjac8c2fbib65">
+              <journal_title>ApJ</journal_title>
+              <author>Michel</author>
+              <doi>10.1086/151956</doi>
+              <volume>180</volume>
+              <first_page>207</first_page>
+              <cYear>1973</cYear>
+            </citation>
+            <citation key="apjac8c2fbib66">
+              <journal_title>A&amp;A</journal_title>
+              <author>Mościbrodzka</author>
+              <doi>10.1051/0004-6361/201526630</doi>
+              <volume>586</volume>
+              <first_page>A38</first_page>
+              <cYear>2016</cYear>
+            </citation>
+            <citation key="apjac8c2fbib67">
+              <journal_title>ApJ</journal_title>
+              <author>Mościbrodzka</author>
+              <doi>10.1088/0004-637X/735/1/9</doi>
+              <volume>735</volume>
+              <first_page>9</first_page>
+              <cYear>2011</cYear>
+            </citation>
+            <citation key="apjac8c2fbib68">
+              <journal_title>ApJL</journal_title>
+              <author>Murchikova</author>
+              <doi>10.3847/2041-8213/ac75c3</doi>
+              <volume>932</volume>
+              <first_page>L21</first_page>
+              <cYear>2022</cYear>
+            </citation>
+            <citation key="apjac8c2fbib69">
+              <journal_title>ApJ</journal_title>
+              <author>Nakamura</author>
+              <doi>10.3847/1538-4357/aaeb2d</doi>
+              <volume>868</volume>
+              <first_page>146</first_page>
+              <cYear>2018</cYear>
+            </citation>
+            <citation key="apjac8c2fbib70">
+              <journal_title>PASJ</journal_title>
+              <author>Narayan</author>
+              <doi>10.1093/pasj/55.6.L69</doi>
+              <volume>55</volume>
+              <first_page>L69</first_page>
+              <cYear>2003</cYear>
+            </citation>
+            <citation key="apjac8c2fbib71">
+              <journal_title>MNRAS</journal_title>
+              <author>Narayan</author>
+              <doi>10.1111/j.1365-2966.2012.22002.x</doi>
+              <volume>426</volume>
+              <first_page>3241</first_page>
+              <cYear>2012</cYear>
+            </citation>
+            <citation key="apjac8c2fbib72">
+              <journal_title>ApJ</journal_title>
+              <author>Nathanail</author>
+              <doi>10.1088/0004-637X/788/2/186</doi>
+              <volume>788</volume>
+              <first_page>186</first_page>
+              <cYear>2014</cYear>
+            </citation>
+            <citation key="apjac8c2fbib73">
+              <journal_title>PASJ</journal_title>
+              <author>Niinuma</author>
+              <doi>10.1093/pasj/psu104</doi>
+              <volume>66</volume>
+              <first_page>103</first_page>
+              <cYear>2014</cYear>
+            </citation>
+            <citation key="apjac8c2fbib74">
+              <journal_title>MNRAS</journal_title>
+              <author>Nitta</author>
+              <doi>10.1093/mnras/284.4.899</doi>
+              <volume>284</volume>
+              <first_page>899</first_page>
+              <cYear>1997</cYear>
+            </citation>
+            <citation key="apjac8c2fbib75">
+              <journal_title>ApJ</journal_title>
+              <author>Ogihara</author>
+              <doi>10.3847/1538-4357/abe61b</doi>
+              <volume>911</volume>
+              <first_page>34</first_page>
+              <cYear>2021</cYear>
+            </citation>
+            <citation key="apjac8c2fbib76">
+              <author>Okino</author>
+              <cYear>2021</cYear>
+            </citation>
+            <citation key="apjac8c2fbib77">
+              <journal_title>ApJ</journal_title>
+              <author>Owen</author>
+              <doi>10.1086/317151</doi>
+              <volume>543</volume>
+              <first_page>611</first_page>
+              <cYear>2000</cYear>
+            </citation>
+            <citation key="apjac8c2fbib78">
+              <journal_title>PhRvL</journal_title>
+              <author>Parfrey</author>
+              <doi>10.1103/PhysRevLett.122.035101</doi>
+              <volume>122</volume>
+              <cYear>2019</cYear>
+            </citation>
+            <citation key="apjac8c2fbib79">
+              <journal_title>ApJ</journal_title>
+              <author>Park</author>
+              <doi>10.3847/1538-4357/aaf9a9</doi>
+              <volume>871</volume>
+              <first_page>257</first_page>
+              <cYear>2019a</cYear>
+            </citation>
+            <citation key="apjac8c2fbib80">
+              <journal_title>ApJ</journal_title>
+              <author>Park</author>
+              <doi>10.3847/1538-4357/ab5584</doi>
+              <volume>887</volume>
+              <first_page>147</first_page>
+              <cYear>2019b</cYear>
+            </citation>
+            <citation key="apjac8c2fbib81">
+              <journal_title>MNRAS</journal_title>
+              <author>Penna</author>
+              <doi>10.1093/mnras/stt1860</doi>
+              <volume>436</volume>
+              <first_page>3741</first_page>
+              <cYear>2013</cYear>
+            </citation>
+            <citation key="apjac8c2fbib82">
+              <journal_title>ApJS</journal_title>
+              <author>Porth</author>
+              <doi>10.3847/1538-4365/ab29fd</doi>
+              <volume>243</volume>
+              <first_page>26</first_page>
+              <cYear>2019</cYear>
+            </citation>
+            <citation key="apjac8c2fbib83">
+              <journal_title>ApJ</journal_title>
+              <author>Pu</author>
+              <doi>10.1088/0004-637X/801/1/56</doi>
+              <volume>801</volume>
+              <first_page>56</first_page>
+              <cYear>2015</cYear>
+            </citation>
+            <citation key="apjac8c2fbib84">
+              <journal_title>ApJ</journal_title>
+              <author>Pu</author>
+              <doi>10.3847/1538-4357/ab77ab</doi>
+              <volume>892</volume>
+              <first_page>37</first_page>
+              <cYear>2020</cYear>
+            </citation>
+            <citation key="apjac8c2fbib85">
+              <journal_title>MNRAS</journal_title>
+              <author>Ressler</author>
+              <doi>10.1093/mnras/stz3605</doi>
+              <volume>492</volume>
+              <first_page>3272</first_page>
+              <cYear>2020a</cYear>
+            </citation>
+            <citation key="apjac8c2fbib86">
+              <journal_title>ApJL</journal_title>
+              <author>Ressler</author>
+              <doi>10.3847/2041-8213/ab9532</doi>
+              <volume>896</volume>
+              <first_page>L6</first_page>
+              <cYear>2020b</cYear>
+            </citation>
+            <citation key="apjac8c2fbib87">
+              <journal_title>MNRAS</journal_title>
+              <author>Reynolds</author>
+              <doi>10.1093/mnras/283.3.873</doi>
+              <volume>283</volume>
+              <first_page>873</first_page>
+              <cYear>1996</cYear>
+            </citation>
+            <citation key="apjac8c2fbib88">
+              <journal_title>ApJ</journal_title>
+              <author>Ripperda</author>
+              <doi>10.3847/1538-4357/ababab</doi>
+              <volume>900</volume>
+              <first_page>100</first_page>
+              <cYear>2020a</cYear>
+            </citation>
+            <citation key="apjac8c2fbib90">
+              <journal_title>ApJS</journal_title>
+              <author>Ripperda</author>
+              <doi>10.3847/1538-4365/ab3922</doi>
+              <volume>244</volume>
+              <first_page>10</first_page>
+              <cYear>2019</cYear>
+            </citation>
+            <citation key="apjac8c2fbib89">
+              <journal_title>ApJL</journal_title>
+              <author>Ripperda</author>
+              <doi>10.3847/2041-8213/ac46a1</doi>
+              <volume>924</volume>
+              <first_page>L32</first_page>
+              <cYear>2022b</cYear>
+            </citation>
+            <citation key="apjac8c2fbib91">
+              <journal_title>ApJ</journal_title>
+              <author>Sikora</author>
+              <doi>10.1086/511972</doi>
+              <volume>658</volume>
+              <first_page>815</first_page>
+              <cYear>2007</cYear>
+            </citation>
+            <citation key="apjac8c2fbib92">
+              <journal_title>ApJL</journal_title>
+              <author>Sironi</author>
+              <doi>10.3847/2041-8213/abd9bc</doi>
+              <volume>907</volume>
+              <first_page>L44</first_page>
+              <cYear>2021</cYear>
+            </citation>
+            <citation key="apjac8c2fbib93">
+              <journal_title>MNRAS</journal_title>
+              <author>Stawarz</author>
+              <doi>10.1111/j.1365-2966.2006.10525.x</doi>
+              <volume>370</volume>
+              <first_page>981</first_page>
+              <cYear>2006</cYear>
+            </citation>
+            <citation key="apjac8c2fbib94">
+              <journal_title>ApJ</journal_title>
+              <author>Takahashi</author>
+              <doi>10.3847/0004-637X/826/1/23</doi>
+              <volume>826</volume>
+              <first_page>23</first_page>
+              <cYear>2016</cYear>
+            </citation>
+            <citation key="apjac8c2fbib95">
+              <journal_title>ApJ</journal_title>
+              <author>Takahashi</author>
+              <doi>10.3847/1538-4357/aae832</doi>
+              <volume>868</volume>
+              <first_page>82</first_page>
+              <cYear>2018</cYear>
+            </citation>
+            <citation key="apjac8c2fbib96">
+              <journal_title>PhRvD</journal_title>
+              <author>Takahashi</author>
+              <doi>10.1103/PhysRevD.104.103004</doi>
+              <volume>104</volume>
+              <cYear>2021</cYear>
+            </citation>
+            <citation key="apjac8c2fbib97">
+              <journal_title>ApJ</journal_title>
+              <author>Takahashi</author>
+              <doi>10.1086/169331</doi>
+              <volume>363</volume>
+              <first_page>206</first_page>
+              <cYear>1990</cYear>
+            </citation>
+            <citation key="apjac8c2fbib98">
+              <journal_title>PASJ</journal_title>
+              <author>Takahashi</author>
+              <doi>10.1093/pasj/50.2.271</doi>
+              <volume>50</volume>
+              <first_page>271</first_page>
+              <cYear>1998</cYear>
+            </citation>
+            <citation key="apjac8c2fbib99">
+              <journal_title>PhRvD</journal_title>
+              <author>Takahashi</author>
+              <doi>10.1103/PhysRevD.78.023012</doi>
+              <volume>78</volume>
+              <cYear>2008</cYear>
+            </citation>
+            <citation key="apjac8c2fbib100">
+              <journal_title>MNRAS</journal_title>
+              <author>Tchekhovskoy</author>
+              <doi>10.1111/j.1365-2966.2008.13425.x</doi>
+              <volume>388</volume>
+              <first_page>551</first_page>
+              <cYear>2008</cYear>
+            </citation>
+            <citation key="apjac8c2fbib101">
+              <journal_title>ApJ</journal_title>
+              <author>Tchekhovskoy</author>
+              <doi>10.1088/0004-637X/711/1/50</doi>
+              <volume>711</volume>
+              <first_page>50</first_page>
+              <cYear>2010</cYear>
+            </citation>
+            <citation key="apjac8c2fbib102">
+              <journal_title>MNRAS</journal_title>
+              <author>Tchekhovskoy</author>
+              <doi>10.1111/j.1745-3933.2011.01147.x</doi>
+              <volume>418</volume>
+              <first_page>L79</first_page>
+              <cYear>2011</cYear>
+            </citation>
+            <citation key="apjac8c2fbib103">
+              <journal_title>PTEP</journal_title>
+              <author>Thoelecke</author>
+              <doi>10.1093/ptep/ptz097</doi>
+              <volume>2019</volume>
+              <cYear>2019</cYear>
+            </citation>
+            <citation key="apjac8c2fbib104">
+              <journal_title>PhRvD</journal_title>
+              <author>Thoelecke</author>
+              <doi>10.1103/PhysRevD.95.063008</doi>
+              <volume>95</volume>
+              <cYear>2017</cYear>
+            </citation>
+            <citation key="apjac8c2fbib105">
+              <journal_title>ApJ</journal_title>
+              <author>Toma</author>
+              <doi>10.1088/0004-637X/754/2/148</doi>
+              <volume>754</volume>
+              <first_page>148</first_page>
+              <cYear>2012</cYear>
+            </citation>
+            <citation key="apjac8c2fbib106">
+              <journal_title>MNRAS</journal_title>
+              <author>Toma</author>
+              <doi>10.1093/mnras/stu1053</doi>
+              <volume>442</volume>
+              <first_page>2855</first_page>
+              <cYear>2014</cYear>
+            </citation>
+            <citation key="apjac8c2fbib107">
+              <journal_title>PASJ</journal_title>
+              <author>Tomimatsu</author>
+              <volume>46</volume>
+              <first_page>123</first_page>
+              <cYear>1994</cYear>
+            </citation>
+            <citation key="apjac8c2fbib108">
+              <journal_title>ApJ</journal_title>
+              <author>Tomimatsu</author>
+              <doi>10.1086/375579</doi>
+              <volume>592</volume>
+              <first_page>321</first_page>
+              <cYear>2003</cYear>
+            </citation>
+            <citation key="apjac8c2fbib109">
+              <author>Wajima</author>
+              <first_page>81</first_page>
+              <cYear>2016</cYear>
+            </citation>
+            <citation key="apjac8c2fbib110">
+              <journal_title>ApJ</journal_title>
+              <author>Walker</author>
+              <doi>10.3847/1538-4357/aaafcc</doi>
+              <volume>855</volume>
+              <first_page>128</first_page>
+              <cYear>2018</cYear>
+            </citation>
+            <citation key="apjac8c2fbib111">
+              <journal_title>ApJ</journal_title>
+              <author>Wong</author>
+              <doi>10.3847/1538-4357/abd0f9</doi>
+              <volume>907</volume>
+              <first_page>73</first_page>
+              <cYear>2021</cYear>
+            </citation>
+            <citation key="apjac8c2fbib112">
+              <journal_title>Natur</journal_title>
+              <author>Zamaninasab</author>
+              <doi>10.1038/nature13399</doi>
+              <volume>510</volume>
+              <first_page>126</first_page>
+              <cYear>2014</cYear>
+            </citation>
+            <citation key="apjac8c2fbib113">
+              <journal_title>MNRAS</journal_title>
+              <author>Znajek</author>
+              <doi>10.1093/mnras/179.3.457</doi>
+              <volume>179</volume>
+              <first_page>457</first_page>
+              <cYear>1977</cYear>
+            </citation>
+          </citation_list>
+        </journal_article>
+      </journal>
+    </crossref>
+  </doi_record>
+</doi_records>

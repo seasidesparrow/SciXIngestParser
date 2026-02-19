@@ -1,0 +1,3597 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v3.0 20080202//EN" "http://ej.iop.org/dtd/nlm-3.0/journalpublishing3.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" article-type="research-article">
+<front>
+<journal-meta>
+<journal-id journal-id-type="publisher-id">apj</journal-id>
+<journal-title-group>
+<journal-title>The Astrophysical Journal</journal-title>
+<abbrev-journal-title abbrev-type="AAS">APJ</abbrev-journal-title>
+<abbrev-journal-title abbrev-type="publisher">Astrophys. J.</abbrev-journal-title>
+</journal-title-group>
+<issn pub-type="ppub">0004-637X</issn>
+<issn pub-type="epub">1538-4357</issn>
+<publisher>
+<publisher-name>The American Astronomical Society</publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="publisher-id">apjaab9bb</article-id>
+<article-id pub-id-type="doi">10.3847/1538-4357/aab9bb</article-id>
+<article-id pub-id-type="manuscript">aab9bb</article-id>
+<article-id pub-id-type="other">AAS07560</article-id>
+<article-categories>
+<subj-group subj-group-type="section">
+<subject content-type="order">310</subject>
+<subject content-type="heading">Galaxies and Cosmology</subject>
+</subj-group>
+</article-categories>
+<title-group>
+<article-title>The Complete Light-curve Sample of Spectroscopically Confirmed SNe Ia from Pan-STARRS1 and Cosmological Constraints from the Combined Pantheon Sample</article-title>
+<alt-title alt-title-type="ascii">The Complete Light-curve Sample of Spectroscopically Confirmed SNe Ia from Pan-STARRS1 and Cosmological Constraints from the Combined Pantheon Sample</alt-title>
+<alt-title alt-title-type="toc-author">D. M. Scolnic, D. O. Jones, A. Rest, Y. C. Pan, R. Chornock, R. J. Foley, M. E. Huber, R. Kessler, G. Narayan, A. G. Riess, S. Rodney, E. Berger, D. J. Brout, P. J. Challis, M. Drout, D. Finkbeiner, R. Lunnan, R. P. Kirshner, N. E. Sanders, E. Schlafly, S. Smartt, C. W. Stubbs, J. Tonry, W. M. Wood-Vasey, M. Foley, J. Hand, E. Johnson, W. S. Burgett, K. C. Chambers, P. W. Draper, K. W. Hodapp, N. Kaiser, R. P. Kudritzki, E. A. Magnier, N. Metcalfe, F. Bresolin, E. Gall, R. Kotak, M. McCrum, and K. W. Smith</alt-title>
+</title-group>
+<contrib-group content-type="all">
+<contrib contrib-type="author">
+<name>
+<surname>Scolnic</surname>
+<given-names>D. M.</given-names>
+</name>
+<xref ref-type="aff" rid="apjaab9bbaf1">1</xref>
+<xref ref-type="fn" rid="apjaab9bbafn1">21</xref>
+<xref ref-type="aff" rid="apjaab9bbem1"/>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname>Jones</surname>
+<given-names>D. O.</given-names>
+</name>
+<xref ref-type="aff" rid="apjaab9bbaf2">2</xref>
+<ext-link ext-link-type="orcid">0000-0002-6230-0151</ext-link>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname>Rest</surname>
+<given-names>A.</given-names>
+</name>
+<xref ref-type="aff" rid="apjaab9bbaf2">2</xref>
+<xref ref-type="aff" rid="apjaab9bbaf3">3</xref>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname>Pan</surname>
+<given-names>Y. C.</given-names>
+</name>
+<xref ref-type="aff" rid="apjaab9bbaf4">4</xref>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname>Chornock</surname>
+<given-names>R.</given-names>
+</name>
+<xref ref-type="aff" rid="apjaab9bbaf5">5</xref>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname>Foley</surname>
+<given-names>R. J.</given-names>
+</name>
+<xref ref-type="aff" rid="apjaab9bbaf4">4</xref>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname>Huber</surname>
+<given-names>M. E.</given-names>
+</name>
+<xref ref-type="aff" rid="apjaab9bbaf6">6</xref>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname>Kessler</surname>
+<given-names>R.</given-names>
+</name>
+<xref ref-type="aff" rid="apjaab9bbaf1">1</xref>
+<ext-link ext-link-type="orcid">0000-0003-3221-0419</ext-link>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname>Narayan</surname>
+<given-names>G.</given-names>
+</name>
+<xref ref-type="aff" rid="apjaab9bbaf3">3</xref>
+<ext-link ext-link-type="orcid">0000-0001-6022-0484</ext-link>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname>Riess</surname>
+<given-names>A. G.</given-names>
+</name>
+<xref ref-type="aff" rid="apjaab9bbaf3">3</xref>
+<xref ref-type="aff" rid="apjaab9bbaf2">2</xref>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname>Rodney</surname>
+<given-names>S.</given-names>
+</name>
+<xref ref-type="aff" rid="apjaab9bbaf7">7</xref>
+<ext-link ext-link-type="orcid">0000-0003-1947-687X</ext-link>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname>Berger</surname>
+<given-names>E.</given-names>
+</name>
+<xref ref-type="aff" rid="apjaab9bbaf8">8</xref>
+<ext-link ext-link-type="orcid">0000-0002-9392-9681</ext-link>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname>Brout</surname>
+<given-names>D. J.</given-names>
+</name>
+<xref ref-type="aff" rid="apjaab9bbaf9">9</xref>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname>Challis</surname>
+<given-names>P. J.</given-names>
+</name>
+<xref ref-type="aff" rid="apjaab9bbaf8">8</xref>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname>Drout</surname>
+<given-names>M.</given-names>
+</name>
+<xref ref-type="aff" rid="apjaab9bbaf10">10</xref>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname>Finkbeiner</surname>
+<given-names>D.</given-names>
+</name>
+<xref ref-type="aff" rid="apjaab9bbaf11">11</xref>
+<ext-link ext-link-type="orcid">0000-0003-2808-275X</ext-link>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname>Lunnan</surname>
+<given-names>R.</given-names>
+</name>
+<xref ref-type="aff" rid="apjaab9bbaf12">12</xref>
+<ext-link ext-link-type="orcid">0000-0001-9454-4639</ext-link>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname>Kirshner</surname>
+<given-names>R. P.</given-names>
+</name>
+<xref ref-type="aff" rid="apjaab9bbaf8">8</xref>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname>Sanders</surname>
+<given-names>N. E.</given-names>
+</name>
+<xref ref-type="aff" rid="apjaab9bbaf13">13</xref>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname>Schlafly</surname>
+<given-names>E.</given-names>
+</name>
+<xref ref-type="aff" rid="apjaab9bbaf14">14</xref>
+<ext-link ext-link-type="orcid">0000-0002-3569-7421</ext-link>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname>Smartt</surname>
+<given-names>S.</given-names>
+</name>
+<xref ref-type="aff" rid="apjaab9bbaf15">15</xref>
+<ext-link ext-link-type="orcid">0000-0002-8229-1731</ext-link>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname>Stubbs</surname>
+<given-names>C. W.</given-names>
+</name>
+<xref ref-type="aff" rid="apjaab9bbaf11">11</xref>
+<xref ref-type="aff" rid="apjaab9bbaf8">8</xref>
+<ext-link ext-link-type="orcid">0000-0003-0347-1724</ext-link>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname>Tonry</surname>
+<given-names>J.</given-names>
+</name>
+<xref ref-type="aff" rid="apjaab9bbaf6">6</xref>
+<ext-link ext-link-type="orcid">0000-0003-2858-9657</ext-link>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname>Wood-Vasey</surname>
+<given-names>W. M.</given-names>
+</name>
+<xref ref-type="aff" rid="apjaab9bbaf16">16</xref>
+<ext-link ext-link-type="orcid">0000-0001-7113-1233</ext-link>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname>Foley</surname>
+<given-names>M.</given-names>
+</name>
+<xref ref-type="aff" rid="apjaab9bbaf17">17</xref>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname>Hand</surname>
+<given-names>J.</given-names>
+</name>
+<xref ref-type="aff" rid="apjaab9bbaf16">16</xref>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname>Johnson</surname>
+<given-names>E.</given-names>
+</name>
+<xref ref-type="aff" rid="apjaab9bbaf18">18</xref>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname>Burgett</surname>
+<given-names>W. S.</given-names>
+</name>
+<xref ref-type="aff" rid="apjaab9bbaf19">19</xref>
+<ext-link ext-link-type="orcid">0000-0003-4401-9582</ext-link>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname>Chambers</surname>
+<given-names>K. C.</given-names>
+</name>
+<xref ref-type="aff" rid="apjaab9bbaf6">6</xref>
+<ext-link ext-link-type="orcid">0000-0001-6965-7789</ext-link>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname>Draper</surname>
+<given-names>P. W.</given-names>
+</name>
+<xref ref-type="aff" rid="apjaab9bbaf20">20</xref>
+<ext-link ext-link-type="orcid">0000-0002-7204-9802</ext-link>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname>Hodapp</surname>
+<given-names>K. W.</given-names>
+</name>
+<xref ref-type="aff" rid="apjaab9bbaf6">6</xref>
+<ext-link ext-link-type="orcid">0000-0003-0786-2140</ext-link>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname>Kaiser</surname>
+<given-names>N.</given-names>
+</name>
+<xref ref-type="aff" rid="apjaab9bbaf6">6</xref>
+<ext-link ext-link-type="orcid">0000-0001-6511-4306</ext-link>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname>Kudritzki</surname>
+<given-names>R. P.</given-names>
+</name>
+<xref ref-type="aff" rid="apjaab9bbaf6">6</xref>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname>Magnier</surname>
+<given-names>E. A.</given-names>
+</name>
+<xref ref-type="aff" rid="apjaab9bbaf6">6</xref>
+<ext-link ext-link-type="orcid">0000-0002-7965-2815</ext-link>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname>Metcalfe</surname>
+<given-names>N.</given-names>
+</name>
+<xref ref-type="aff" rid="apjaab9bbaf20">20</xref>
+<ext-link ext-link-type="orcid">0000-0001-9034-4402</ext-link>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname>Bresolin</surname>
+<given-names>F.</given-names>
+</name>
+<xref ref-type="aff" rid="apjaab9bbaf6">6</xref>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname>Gall</surname>
+<given-names>E.</given-names>
+</name>
+<xref ref-type="aff" rid="apjaab9bbaf15">15</xref>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname>Kotak</surname>
+<given-names>R.</given-names>
+</name>
+<xref ref-type="aff" rid="apjaab9bbaf15">15</xref>
+<ext-link ext-link-type="orcid">0000-0001-5455-3653</ext-link>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname>McCrum</surname>
+<given-names>M.</given-names>
+</name>
+<xref ref-type="aff" rid="apjaab9bbaf15">15</xref>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname>Smith</surname>
+<given-names>K. W.</given-names>
+</name>
+<xref ref-type="aff" rid="apjaab9bbaf15">15</xref>
+</contrib>
+<aff id="apjaab9bbaf1">
+<label>1</label>Kavli Institute for Cosmological Physics, <institution>The University of Chicago</institution>, Chicago, IL 60637, <country>USA</country>; <ext-link ext-link-type="email" id="apjaab9bbem1">dscolnic@kicp.uchicago.edu</ext-link>
+</aff>
+<aff id="apjaab9bbaf2">
+<label>2</label>Department of Physics and Astronomy, <institution>Johns Hopkins University</institution>, 3400 North Charles Street, Baltimore, MD 21218, <country>USA</country>
+</aff>
+<aff id="apjaab9bbaf3">
+<label>3</label>
+<institution>Space Telescope Science Institute</institution>, 3700 San Martin Drive, Baltimore, MD 21218, <country>USA</country>
+</aff>
+<aff id="apjaab9bbaf4">
+<label>4</label>Department of Astronomy and Astrophysics, <institution>University of California</institution>, Santa Cruz, CA 92064, <country>USA</country>
+</aff>
+<aff id="apjaab9bbaf5">
+<label>5</label>Astrophysical Institute, Department of Physics and Astronomy, 251B Clippinger Lab, <institution>Ohio University</institution>, Athens, OH 45701, <country>USA</country>
+</aff>
+<aff id="apjaab9bbaf6">
+<label>6</label>Institute for Astronomy, <institution>University of Hawaii</institution>, 2680 Woodlawn Drive, Honolulu, HI 96822, USA</aff>
+<aff id="apjaab9bbaf7">
+<label>7</label>Department of Physics and Astronomy, <institution>University of South Carolina</institution>, 712 Main St., Columbia, SC 29208, <country>USA</country>
+</aff>
+<aff id="apjaab9bbaf8">
+<label>8</label>Harvard-Smithsonian Center for Astrophysics, 60 Garden Street, Cambridge, MA 02138, <country>USA</country>
+</aff>
+<aff id="apjaab9bbaf9">
+<label>9</label>Department of Physics and Astronomy, <institution>University of Pennsylvania</institution>, Philadelphia, PA 19104, <country>USA</country>
+</aff>
+<aff id="apjaab9bbaf10">
+<label>10</label>
+<institution>The Observatories of the Carnegie Institution for Science</institution>, 813 Santa Barbara St., Pasadena, CA 91101, <country>USA</country>
+</aff>
+<aff id="apjaab9bbaf11">
+<label>11</label>Department of Physics, <institution>Harvard University</institution>, 17 Oxford Street, Cambridge, MA 02138, <country>USA</country>
+</aff>
+<aff id="apjaab9bbaf12">
+<label>12</label>Department of Astronomy, <institution>Stockholm University</institution>, SE, <country>Sweden</country>
+</aff>
+<aff id="apjaab9bbaf13">
+<label>13</label>Private Researcher</aff>
+<aff id="apjaab9bbaf14">
+<label>14</label>Lawrence Berkeley National Laboratory, One Cyclotron Road, Berkeley, CA 94720, <country>USA</country>
+</aff>
+<aff id="apjaab9bbaf15">
+<label>15</label>Astrophysics Research Centre, School of Mathematics and Physics, <institution>Queens University Belfast</institution>, Belfast, BT71NN, <country>UK</country>
+</aff>
+<aff id="apjaab9bbaf16">
+<label>16</label>PITT PACC, Department of Physics and Astronomy, <institution>University of Pittsburgh</institution>, Pittsburgh, PA 15260, <country>USA</country>
+</aff>
+<aff id="apjaab9bbaf17">
+<label>17</label>Department of Physics, <institution>University of Notre Dame</institution>, 225 Nieuwland Science Hall, Notre Dame, IN, 46556-5670, <country>USA</country>
+</aff>
+<aff id="apjaab9bbaf18">
+<label>18</label>Department of Astrophysics and Planetary Science, <institution>Villanova University</institution>, Villanova, PA 19085, <country>USA</country>
+</aff>
+<aff id="apjaab9bbaf19">
+<label>19</label>GMTO Corporation, 251 S. Lake Ave., Suite 300, Pasadena, CA 91101, <country>USA</country>
+</aff>
+<aff id="apjaab9bbaf20">
+<label>20</label>Department of Physics, <institution>University of Durham Science Laboratories</institution>, South Road Durham DH1 3LE, <country>UK</country>
+</aff>
+<author-comment content-type="short-author-list">
+<p>Scolnic et al.</p>
+</author-comment>
+</contrib-group>
+<author-notes>
+<fn id="apjaab9bbafn1">
+<label>21</label>
+<p>Hubble, KICP Fellow.</p>
+</fn>
+</author-notes>
+<pub-date pub-type="ppub">
+<day>1</day>
+<month>6</month>
+<year>2018</year>
+</pub-date>
+<pub-date pub-type="epub">
+<day>29</day>
+<month>05</month>
+<year>2018</year>
+</pub-date>
+<volume>859</volume>
+<issue>2</issue>
+<elocation-id content-type="artnum">101</elocation-id>
+<history>
+<date date-type="received">
+<day>1</day>
+<month>10</month>
+<year>2017</year>
+</date>
+<date date-type="rev-recd">
+<day>13</day>
+<month>3</month>
+<year>2018</year>
+</date>
+<date date-type="accepted">
+<day>14</day>
+<month>3</month>
+<year>2018</year>
+</date>
+</history>
+<permissions>
+<copyright-statement>&copy; 2018. The American Astronomical Society. All rights reserved.</copyright-statement>
+<copyright-year>2018</copyright-year>
+</permissions>
+<self-uri xlink:href="http://stacks.iop.org/apj/859/101"/>
+<abstract>
+<title>Abstract</title>
+<p>We present optical light curves, redshifts, and classifications for <inline-formula>
+<tex-math>
+<?CDATA $365$?>
+</tex-math>
+<!-- <mml:math>
+<mml:mn>365</mml:mn>
+</mml:math> -->
+<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="apjaab9bbieqn1.gif"/>
+</inline-formula>&nbsp;spectroscopically confirmed Type Ia supernovae (SNe Ia) discovered by the Pan-STARRS1 (PS1) Medium Deep Survey. We detail improvements to the PS1 SN photometry, astrometry, and calibration that reduce the systematic uncertainties in the PS1 SN Ia distances. We combine the subset of <inline-formula>
+<tex-math>
+<?CDATA $279$?>
+</tex-math>
+<!-- <mml:math>
+<mml:mn>279</mml:mn>
+</mml:math> -->
+<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="apjaab9bbieqn2.gif"/>
+</inline-formula>&nbsp;PS1 SNe Ia (0.03&nbsp;&lt;&nbsp;<italic>z</italic>&nbsp;&lt;&nbsp;0.68) with useful distance estimates of SNe Ia from the Sloan Digital Sky Survey (SDSS), SNLS, and various low-<italic>z</italic> and <italic>Hubble Space Telescope</italic> samples to form the largest combined sample of SNe Ia, consisting of a total of <inline-formula>
+<tex-math>
+<?CDATA $1048$?>
+</tex-math>
+<!-- <mml:math>
+<mml:mn>1048</mml:mn>
+</mml:math> -->
+<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="apjaab9bbieqn3.gif"/>
+</inline-formula>&nbsp;SNe Ia in the range of 0.01&nbsp;&lt;&nbsp;<italic>z</italic>&nbsp;&lt;&nbsp;2.3, which we call the &ldquo;Pantheon Sample.&rdquo; When combining <italic>Planck 2015</italic> cosmic microwave background (CMB) measurements with the Pantheon SN sample, we find <inline-formula>
+<tex-math>
+<?CDATA ${{\rm{\Omega }}}_{m}=0.307\pm 0.012$?>
+</tex-math>
+<!-- <mml:math>
+<mml:msub>
+<mml:mrow>
+<mml:mi mathvariant="normal">&OHgr;</mml:mi>
+</mml:mrow>
+<mml:mrow>
+<mml:mi>m</mml:mi>
+</mml:mrow>
+</mml:msub>
+<mml:mo>&equals;</mml:mo>
+<mml:mn>0.307</mml:mn>
+<mml:mo>&PlusMinus;</mml:mo>
+<mml:mn>0.012</mml:mn>
+</mml:math> -->
+<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="apjaab9bbieqn4.gif"/>
+</inline-formula> and <inline-formula>
+<tex-math>
+<?CDATA $w=-1.026\pm 0.041$?>
+</tex-math>
+<!-- <mml:math>
+<mml:mi>w</mml:mi>
+<mml:mo>&equals;</mml:mo>
+<mml:mo>&minus;</mml:mo>
+<mml:mn>1.026</mml:mn>
+<mml:mo>&PlusMinus;</mml:mo>
+<mml:mn>0.041</mml:mn>
+</mml:math> -->
+<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="apjaab9bbieqn5.gif"/>
+</inline-formula> for the <italic>w</italic>CDM&nbsp;model. When the SN and CMB constraints are combined with constraints from BAO and local <italic>H</italic><sub>0</sub> measurements, the analysis yields the most precise measurement of dark energy to date: <inline-formula>
+<tex-math>
+<?CDATA ${w}_{0}=-1.007\pm 0.089$?>
+</tex-math>
+<!-- <mml:math>
+<mml:msub>
+<mml:mrow>
+<mml:mi>w</mml:mi>
+</mml:mrow>
+<mml:mrow>
+<mml:mn>0</mml:mn>
+</mml:mrow>
+</mml:msub>
+<mml:mo>&equals;</mml:mo>
+<mml:mo>&minus;</mml:mo>
+<mml:mn>1.007</mml:mn>
+<mml:mo>&PlusMinus;</mml:mo>
+<mml:mn>0.089</mml:mn>
+</mml:math> -->
+<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="apjaab9bbieqn6.gif"/>
+</inline-formula> and <inline-formula>
+<tex-math>
+<?CDATA ${w}_{a}=-0.222\pm 0.407$?>
+</tex-math>
+<!-- <mml:math>
+<mml:msub>
+<mml:mrow>
+<mml:mi>w</mml:mi>
+</mml:mrow>
+<mml:mrow>
+<mml:mi>a</mml:mi>
+</mml:mrow>
+</mml:msub>
+<mml:mo>&equals;</mml:mo>
+<mml:mo>&minus;</mml:mo>
+<mml:mn>0.222</mml:mn>
+<mml:mo>&PlusMinus;</mml:mo>
+<mml:mn>0.407</mml:mn>
+</mml:math> -->
+<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="apjaab9bbieqn7.gif"/>
+</inline-formula> for the <inline-formula>
+<tex-math>
+<?CDATA ${w}_{0}{w}_{a}$?>
+</tex-math>
+<!-- <mml:math>
+<mml:msub>
+<mml:mrow>
+<mml:mi>w</mml:mi>
+</mml:mrow>
+<mml:mrow>
+<mml:mn>0</mml:mn>
+</mml:mrow>
+</mml:msub>
+<mml:msub>
+<mml:mrow>
+<mml:mi>w</mml:mi>
+</mml:mrow>
+<mml:mrow>
+<mml:mi>a</mml:mi>
+</mml:mrow>
+</mml:msub>
+</mml:math> -->
+<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="apjaab9bbieqn8.gif"/>
+</inline-formula>CDM&nbsp;model. Tension with a cosmological constant previously seen in an analysis of PS1 and low-<italic>z</italic> SNe has diminished after an increase of 2&times;&nbsp;in the statistics of the PS1 sample, improved calibration and photometry, and stricter light-curve quality cuts. We find that the systematic uncertainties in our measurements of dark energy are almost as large as the statistical uncertainties, primarily due to limitations of modeling the low-redshift sample. This must be addressed for future progress in using SNe Ia to measure dark energy.</p>
+</abstract>
+<kwd-group kwd-group-type="AAS">
+<kwd>cosmology: observations</kwd>
+<kwd>dark energy</kwd>
+<kwd>supernovae: general</kwd>
+</kwd-group>
+<counts>
+<page-count count="28"/>
+</counts>
+<custom-meta-group>
+<custom-meta>
+<meta-name>ccc</meta-name>
+<meta-value>0004-637X/18/101&plus;28&dollar;33.00</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>crossmark</meta-name>
+<meta-value>yes</meta-value>
+</custom-meta>
+</custom-meta-group>
+</article-meta>
+</front>
+<body>
+<p>REDACTED</p>
+</body>
+<back>
+<ack>
+<p>The Pan-STARRS1 Surveys have been made possible through contributions of the Institute for Astronomy, the University of Hawaii, the Pan-STARRS Project Office, the Max-Planck Society and its participating institutes, the Max Planck Institute for Astronomy, Heidelberg, the Max Planck Institute for Extraterrestrial Physics, Garching, Johns Hopkins University, Durham University, the University of Edinburgh, Queen&rsquo;s University Belfast, the Harvard-Smithsonian Center for Astrophysics, the Las Cumbres Observatory Global Telescope Network Incorporated, the National Central University of Taiwan, the Space Telescope Science Institute, the National Aeronautics and Space Administration under grant no. NNX08AR22G issued through the Planetary Science Division of the NASA Science Mission Directorate, the National Science Foundation under grant no. AST-1238877, the University of Maryland, and Eotvos Lorand University (ELTE). Some observations reported here were obtained at the MMT Observatory, a joint facility of the Smithsonian Institution and the University of Arizona. Based on observations obtained at the Gemini Observatory, which is operated by the Association of Universities for Research in Astronomy, Inc., under a cooperative agreement with the NSF on behalf of the Gemini partnership: the National Science Foundation (United States), the National Research Council (Canada), CONICYT (Chile), the Australian Research Council (Australia), Minist&eacute;rio da Ci&ecirc;ncia, Tecnologia e Inova&ccedil;&atilde;o (Brazil), and Ministerio de Ciencia, Tecnolog&iacute;a e Innovaci&oacute;n Productiva (Argentina). This paper includes data gathered with the 6.5 m Magellan Telescopes located at Las Campanas Observatory, Chile. Based on observations obtained with the Apache Point Observatory 3.5 m telescope, which is owned and operated by the Astrophysical Research Consortium. C.W.S. and G.N. thank the DOE Office of Science for their support under grant ER41843. Partial support for this work was provided by National Science Foundation grant AST-1009749. The ESSENCE/SuperMACHO data reduction pipeline <italic>photpipe</italic> was developed with support from National Science Foundation grant AST-0507574 and <italic>HST</italic> programs GO-10583 and GO-10903. R.P.K.&rsquo;s supernova research is supported in part by NSF grant AST-1211196 and <italic>HST</italic> program GO-13046. Some of the computations in this paper were run on the Odyssey cluster supported by the FAS Science Division Research Computing Group at Harvard University. Much of the analysis was done using the Midway-RCC computing cluster at University of Chicago. This research has made use of the CfA Supernova Archive, which is funded in part by the National Science Foundation through grant AST 0907903. This research has made use of NASA&rsquo;s Astrophysics Data System. This work was generated as part of NASA WFIRST Preparatory Science program 14-WPS14-0048 and is supported in part by the U.S. Department of Energy under contract DE-AC02-76CH03000. This work was supported in part by the Kavli Institute for Cosmological Physics at the University of Chicago through grant NSF PHY-1125897 and an endowment from the Kavli Foundation and its founder Fred Kavli. We gratefully acknowledge support from NASA grant 14-WPS14-0048. D.S. is supported by NASA through Hubble Fellowship grant <italic>HST</italic>-HF2-51383.001 awarded by the Space Telescope Science Institute, which is operated by the Association of Universities for Research in Astronomy, Inc., for NASA, under contract NAS 5-26555. D.O.J. is supported by the Gordon and Betty Moore Foundation postdoctoral fellowship at the University of California, Santa Cruz. R.C. thanks the Kavli Institute for Theoretical Physics for its hospitality while this work was in the final stages of preparation. This research was supported in part by the National Science Foundation under grant no. NSF PHY11-25915. R.K. is supported by DOE grant DEAC02-76CH03000. The computations in this paper used a combination of three computing clusters. The bulk of the final analysis was performed using the University of Chicago Research Computing Center, and the earlier analysis was done at the Odyssey cluster at Harvard University. The Odyssey cluster is supported by the FAS Division of Science, Research Computing Group at Harvard University. Supernova light-curve reprocessing would not have been possible without the Data-Scope project at the Institute for Data Intensive Engineering and Science at Johns Hopkins University.</p>
+<p><italic>Facilities:</italic> <named-content content-type="facility" xlink:href="PS1">PS1 (GPC1)</named-content>, <named-content content-type="facility" xlink:href="Gemini:South">Gemini:South (GMOS)</named-content>, <named-content content-type="facility" xlink:href="Gemini:North">Gemini:North (GMOS)</named-content>, <named-content content-type="facility" xlink:href="MMT">MMT (Blue Channel spectrograph)</named-content>, <named-content content-type="facility" xlink:href="MMT">MMT (Hectospec)</named-content>, <named-content content-type="facility" xlink:href="Magellan:Baade">Magellan:Baade (IMACS)</named-content>, <named-content content-type="facility" xlink:href="Magellan:Clay">Magellan:Clay (LDSS3)</named-content>, <named-content content-type="facility" xlink:href="APO">APO (DIS)</named-content>.</p>
+</ack>
+<app-group id="apjaab9bbapp">
+<app id="apjaab9bbapp1">
+<label>Appendix A</label>
+<p>REDACTED</p>
+</app>
+<app id="apjaab9bbapp2">
+<label>Appendix B</label>
+<p>REDACTED</p>
+</app>
+<app id="apjaab9bbapp3">
+<label>Appendix C</label>
+<p>REDACTED</p>
+</app>
+</app-group>
+<ref-list content-type="alphabetical">
+<title>References</title>
+<ref id="apjaab9bbbib1">
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Alam</surname>
+<given-names>S.</given-names>
+</name>
+<name>
+<surname>Albareti</surname>
+<given-names>F. D.</given-names>
+</name>
+<name>
+<surname>Allende Prieto</surname>
+<given-names>C.</given-names>
+</name>
+<etal/>
+</person-group>
+<year>2015</year>
+<source>ApJS</source>
+<volume>219</volume>
+<fpage>12</fpage>
+<ext-link ext-link-type="bibcode">2015ApJS..219...12A</ext-link>
+<pub-id pub-id-type="doi">10.1088/0067-0049/219/1/12</pub-id>
+</element-citation>
+</ref>
+<ref id="apjaab9bbbib2">
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Alam</surname>
+<given-names>S.</given-names>
+</name>
+<name>
+<surname>Ata</surname>
+<given-names>M.</given-names>
+</name>
+<name>
+<surname>Bailey</surname>
+<given-names>S.</given-names>
+</name>
+<etal/>
+</person-group>
+<year>2017</year>
+<source>MNRAS</source>
+<volume>470</volume>
+<fpage>2617</fpage>
+<ext-link ext-link-type="bibcode">2017MNRAS.470.2617A</ext-link>
+<pub-id pub-id-type="doi">10.1093/mnras/stx721</pub-id>
+</element-citation>
+</ref>
+<ref id="apjaab9bbbib3">
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Anderson</surname>
+<given-names>L.</given-names>
+</name>
+<name>
+<surname>Aubourg</surname>
+<given-names>&Eacute;.</given-names>
+</name>
+<name>
+<surname>Bailey</surname>
+<given-names>S.</given-names>
+</name>
+<etal/>
+</person-group>
+<year>2014</year>
+<source>MNRAS</source>
+<volume>441</volume>
+<fpage>24</fpage>
+<ext-link ext-link-type="bibcode">2014MNRAS.441...24A</ext-link>
+<pub-id pub-id-type="doi">10.1093/mnras/stu523</pub-id>
+</element-citation>
+</ref>
+<ref id="apjaab9bbbib4">
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Astier</surname>
+<given-names>P.</given-names>
+</name>
+<name>
+<surname>El Hage</surname>
+<given-names>P.</given-names>
+</name>
+<name>
+<surname>Guy</surname>
+<given-names>J.</given-names>
+</name>
+<etal/>
+</person-group>
+<year>2013</year>
+<source>A&amp;A</source>
+<volume>557</volume>
+<fpage>A55</fpage>
+<ext-link ext-link-type="bibcode">2013A&amp;A...557A..55A</ext-link>
+<pub-id pub-id-type="doi">10.1051/0004-6361/201321668</pub-id>
+</element-citation>
+</ref>
+<ref id="apjaab9bbbib5">
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Astier</surname>
+<given-names>P.</given-names>
+</name>
+<name>
+<surname>Guy</surname>
+<given-names>J.</given-names>
+</name>
+<name>
+<surname>Regnault</surname>
+<given-names>N.</given-names>
+</name>
+<etal/>
+</person-group>
+<year>2006</year>
+<source>A&amp;A</source>
+<volume>447</volume>
+<fpage>31</fpage>
+<ext-link ext-link-type="bibcode">2006A&amp;A...447...31A</ext-link>
+<pub-id pub-id-type="doi">10.1051/0004-6361:20054185</pub-id>
+</element-citation>
+</ref>
+<ref id="apjaab9bbbib6">
+<element-citation publication-type="preprint">
+<person-group person-group-type="author">
+<name>
+<surname>Becker</surname>
+<given-names>A.</given-names>
+</name>
+</person-group>
+<year>2015</year>
+<article-title>HOTPANTS: High Order Transform of PSF ANd Template Subtraction</article-title>
+<source>Astrophysics Source Code Library</source>
+<comment>ascl:<ext-link ext-link-type="uri" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://www.ascl.net/1504.004">1504.004</ext-link>
+</comment>
+</element-citation>
+</ref>
+<ref id="apjaab9bbbib7">
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Bennett</surname>
+<given-names>C. L.</given-names>
+</name>
+<name>
+<surname>Halpern</surname>
+<given-names>M.</given-names>
+</name>
+<name>
+<surname>Hinshaw</surname>
+<given-names>G.</given-names>
+</name>
+<etal/>
+</person-group>
+<year>2003</year>
+<source>ApJS</source>
+<volume>148</volume>
+<fpage>1</fpage>
+<ext-link ext-link-type="bibcode">2003ApJS..148....1B</ext-link>
+<pub-id pub-id-type="doi">10.1086/377253</pub-id>
+</element-citation>
+</ref>
+<ref id="apjaab9bbbib8">
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Bertin</surname>
+<given-names>E.</given-names>
+</name>
+<name>
+<surname>Arnouts</surname>
+<given-names>S.</given-names>
+</name>
+</person-group>
+<year>1996</year>
+<source>A&amp;AS</source>
+<volume>117</volume>
+<fpage>393</fpage>
+<ext-link ext-link-type="bibcode">1996A&amp;AS..117..393B</ext-link>
+<pub-id pub-id-type="doi">10.1051/aas:1996164</pub-id>
+</element-citation>
+</ref>
+<ref id="apjaab9bbbib9">
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Betoule</surname>
+<given-names>M.</given-names>
+</name>
+<name>
+<surname>Kessler</surname>
+<given-names>R.</given-names>
+</name>
+<name>
+<surname>Guy</surname>
+<given-names>J.</given-names>
+</name>
+<etal/>
+</person-group>
+<year>2014</year>
+<source>A&amp;A</source>
+<volume>568</volume>
+<fpage>A22</fpage>
+<ext-link ext-link-type="bibcode">2014A&amp;A...568A..22B</ext-link>
+<pub-id pub-id-type="doi">10.1051/0004-6361/201423413</pub-id>
+</element-citation>
+</ref>
+<ref id="apjaab9bbbib10">
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Betoule</surname>
+<given-names>M.</given-names>
+</name>
+<name>
+<surname>Marriner</surname>
+<given-names>J.</given-names>
+</name>
+<name>
+<surname>Regnault</surname>
+<given-names>N.</given-names>
+</name>
+<etal/>
+</person-group>
+<year>2013</year>
+<source>A&amp;A</source>
+<volume>552</volume>
+<fpage>A124</fpage>
+<ext-link ext-link-type="bibcode">2013A&amp;A...552A.124B</ext-link>
+<pub-id pub-id-type="doi">10.1051/0004-6361/201220610</pub-id>
+</element-citation>
+</ref>
+<ref id="apjaab9bbbib11">
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Bohlin</surname>
+<given-names>R. C.</given-names>
+</name>
+<name>
+<surname>Gordon</surname>
+<given-names>K. D.</given-names>
+</name>
+<name>
+<surname>Tremblay</surname>
+<given-names>P.-E.</given-names>
+</name>
+</person-group>
+<year>2014</year>
+<source>PASP</source>
+<volume>126</volume>
+<fpage>711</fpage>
+<ext-link ext-link-type="bibcode">2014PASP..126..711B</ext-link>
+<pub-id pub-id-type="doi">10.1086/677655</pub-id>
+</element-citation>
+</ref>
+<ref id="apjaab9bbbib12">
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Branchini</surname>
+<given-names>E.</given-names>
+</name>
+<name>
+<surname>Teodoro</surname>
+<given-names>L.</given-names>
+</name>
+<name>
+<surname>Frenk</surname>
+<given-names>C. S.</given-names>
+</name>
+<etal/>
+</person-group>
+<year>1999</year>
+<source>MNRAS</source>
+<volume>308</volume>
+<fpage>1</fpage>
+<ext-link ext-link-type="bibcode">1999MNRAS.308....1B</ext-link>
+<pub-id pub-id-type="doi">10.1046/j.1365-8711.1999.02514.x</pub-id>
+</element-citation>
+</ref>
+<ref id="apjaab9bbbib13">
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Burns</surname>
+<given-names>C. R.</given-names>
+</name>
+<name>
+<surname>Stritzinger</surname>
+<given-names>M.</given-names>
+</name>
+<name>
+<surname>Phillips</surname>
+<given-names>M. M.</given-names>
+</name>
+<etal/>
+</person-group>
+<year>2011</year>
+<source>AJ</source>
+<volume>141</volume>
+<fpage>19</fpage>
+<ext-link ext-link-type="bibcode">2011AJ....141...19B</ext-link>
+<pub-id pub-id-type="doi">10.1088/0004-6256/141/1/19</pub-id>
+</element-citation>
+</ref>
+<ref id="apjaab9bbbib14">
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Cardelli</surname>
+<given-names>J. A.</given-names>
+</name>
+<name>
+<surname>Clayton</surname>
+<given-names>G. C.</given-names>
+</name>
+<name>
+<surname>Mathis</surname>
+<given-names>J. S.</given-names>
+</name>
+</person-group>
+<year>1989</year>
+<source>ApJ</source>
+<volume>345</volume>
+<fpage>245</fpage>
+<ext-link ext-link-type="bibcode">1989ApJ...345..245C</ext-link>
+<pub-id pub-id-type="doi">10.1086/167900</pub-id>
+</element-citation>
+</ref>
+<ref id="apjaab9bbbib15">
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Carrick</surname>
+<given-names>J.</given-names>
+</name>
+<name>
+<surname>Turnbull</surname>
+<given-names>S. J.</given-names>
+</name>
+<name>
+<surname>Lavaux</surname>
+<given-names>G.</given-names>
+</name>
+<name>
+<surname>Hudson</surname>
+<given-names>M. J.</given-names>
+</name>
+</person-group>
+<year>2015</year>
+<source>MNRAS</source>
+<volume>450</volume>
+<fpage>317</fpage>
+<ext-link ext-link-type="bibcode">2015MNRAS.450..317C</ext-link>
+<pub-id pub-id-type="doi">10.1093/mnras/stv547</pub-id>
+</element-citation>
+</ref>
+<ref id="apjaab9bbbib16">
+<element-citation publication-type="preprint">
+<person-group person-group-type="author">
+<name>
+<surname>Chambers</surname>
+<given-names>K. C.</given-names>
+</name>
+<name>
+<surname>Magnier</surname>
+<given-names>E. A.</given-names>
+</name>
+<name>
+<surname>Metcalfe</surname>
+<given-names>N.</given-names>
+</name>
+<etal/>
+</person-group>
+<year>2016</year>
+<comment>arXiv:<ext-link ext-link-type="arxiv" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://arxiv.org/abs/1612.05560">1612.05560</ext-link>
+</comment>
+</element-citation>
+</ref>
+<ref id="apjaab9bbbib17">
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Childress</surname>
+<given-names>M. J.</given-names>
+</name>
+<name>
+<surname>Wolf</surname>
+<given-names>C.</given-names>
+</name>
+<name>
+<surname>Zahid</surname>
+<given-names>H. J.</given-names>
+</name>
+</person-group>
+<year>2014</year>
+<source>MNRAS</source>
+<volume>445</volume>
+<fpage>1898</fpage>
+<ext-link ext-link-type="bibcode">2014MNRAS.445.1898C</ext-link>
+<pub-id pub-id-type="doi">10.1093/mnras/stu1892</pub-id>
+</element-citation>
+</ref>
+<ref id="apjaab9bbbib18">
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Chotard</surname>
+<given-names>N.</given-names>
+</name>
+<name>
+<surname>Gangler</surname>
+<given-names>E.</given-names>
+</name>
+<name>
+<surname>Aldering</surname>
+<given-names>G.</given-names>
+</name>
+<etal/>
+</person-group>
+<year>2011</year>
+<source>A&amp;A</source>
+<volume>529</volume>
+<fpage>L4</fpage>
+<ext-link ext-link-type="bibcode">2011A&amp;A...529L...4C</ext-link>
+<pub-id pub-id-type="doi">10.1051/0004-6361/201116723</pub-id>
+</element-citation>
+</ref>
+<ref id="apjaab9bbbib19">
+<element-citation publication-type="preprint">
+<person-group person-group-type="author">
+<name>
+<surname>Cinabro</surname>
+<given-names>D.</given-names>
+</name>
+<name>
+<surname>Scolnic</surname>
+<given-names>D.</given-names>
+</name>
+<name>
+<surname>Kessler</surname>
+<given-names>R.</given-names>
+</name>
+<name>
+<surname>Li</surname>
+<given-names>A.</given-names>
+</name>
+<name>
+<surname>Miller</surname>
+<given-names>J.</given-names>
+</name>
+</person-group>
+<year>2017</year>
+<source>MNRAS</source>
+<volume>466</volume>
+<fpage>884</fpage>
+<ext-link ext-link-type="bibcode">2017MNRAS.466..884C</ext-link>
+<pub-id pub-id-type="doi">10.1093/mnras/stw3109</pub-id>
+</element-citation>
+</ref>
+<ref id="apjaab9bbbib20">
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Conley</surname>
+<given-names>A.</given-names>
+</name>
+<name>
+<surname>Guy</surname>
+<given-names>J.</given-names>
+</name>
+<name>
+<surname>Sullivan</surname>
+<given-names>M.</given-names>
+</name>
+<etal/>
+</person-group>
+<year>2011</year>
+<source>ApJS</source>
+<volume>192</volume>
+<fpage>1</fpage>
+<ext-link ext-link-type="bibcode">2011ApJS..192....1C</ext-link>
+<pub-id pub-id-type="doi">10.1088/0067-0049/192/1/1</pub-id>
+</element-citation>
+</ref>
+<ref id="apjaab9bbbib21">
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Contreras</surname>
+<given-names>C.</given-names>
+</name>
+<name>
+<surname>Hamuy</surname>
+<given-names>M.</given-names>
+</name>
+<name>
+<surname>Phillips</surname>
+<given-names>M. M.</given-names>
+</name>
+<etal/>
+</person-group>
+<year>2010</year>
+<source>AJ</source>
+<volume>139</volume>
+<fpage>519</fpage>
+<ext-link ext-link-type="bibcode">2010AJ....139..519C</ext-link>
+<pub-id pub-id-type="doi">10.1088/0004-6256/139/2/519</pub-id>
+</element-citation>
+</ref>
+<ref id="apjaab9bbbib22">
+<element-citation publication-type="confproc">
+<person-group person-group-type="author">
+<name>
+<surname>da Cunha</surname>
+<given-names>E.</given-names>
+</name>
+<name>
+<surname>Charlot</surname>
+<given-names>S.</given-names>
+</name>
+<name>
+<surname>Dunne</surname>
+<given-names>L.</given-names>
+</name>
+<name>
+<surname>Smith</surname>
+<given-names>D.</given-names>
+</name>
+<name>
+<surname>Rowlands</surname>
+<given-names>K.</given-names>
+</name>
+</person-group>
+<year>2012</year>
+<conf-name>IAU Symp. 284, The Spectral Energy Distribution of Galaxies&mdash;SED 2011</conf-name>
+<person-group person-group-type="editor">
+<name>
+<surname>Tuffs</surname>
+<given-names>R. J.</given-names>
+</name>
+<name>
+<surname>Popescu</surname>
+<given-names>C. C.</given-names>
+</name>
+</person-group>
+<publisher-loc>Cambridge</publisher-loc>
+<publisher-name>Cambridge Univ Press</publisher-name>
+<fpage>292</fpage>
+<ext-link ext-link-type="bibcode">2012IAUS..284..292D</ext-link>
+</element-citation>
+</ref>
+<ref id="apjaab9bbbib23">
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Dai</surname>
+<given-names>M.</given-names>
+</name>
+<name>
+<surname>Wang</surname>
+<given-names>Y.</given-names>
+</name>
+</person-group>
+<year>2016</year>
+<source>MNRAS</source>
+<volume>459</volume>
+<fpage>1819</fpage>
+<ext-link ext-link-type="bibcode">2016MNRAS.459.1819D</ext-link>
+<pub-id pub-id-type="doi">10.1093/mnras/stw762</pub-id>
+</element-citation>
+</ref>
+<ref id="apjaab9bbbib24">
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Dam</surname>
+<given-names>L. H.</given-names>
+</name>
+<name>
+<surname>Heinesen</surname>
+<given-names>A.</given-names>
+</name>
+<name>
+<surname>Wiltshire</surname>
+<given-names>D. L.</given-names>
+</name>
+</person-group>
+<year>2017</year>
+<source>MNRAS</source>
+<volume>472</volume>
+<fpage>835</fpage>
+<ext-link ext-link-type="bibcode">2017MNRAS.472..835D</ext-link>
+<pub-id pub-id-type="doi">10.1093/mnras/stx1858</pub-id>
+</element-citation>
+</ref>
+<ref id="apjaab9bbbib25">
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Doi</surname>
+<given-names>M.</given-names>
+</name>
+<name>
+<surname>Tanaka</surname>
+<given-names>M.</given-names>
+</name>
+<name>
+<surname>Fukugita</surname>
+<given-names>M.</given-names>
+</name>
+<etal/>
+</person-group>
+<year>2010</year>
+<source>AJ</source>
+<volume>139</volume>
+<fpage>1628</fpage>
+<ext-link ext-link-type="bibcode">2010AJ....139.1628D</ext-link>
+<pub-id pub-id-type="doi">10.1088/0004-6256/139/4/1628</pub-id>
+</element-citation>
+</ref>
+<ref id="apjaab9bbbib26">
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Dressler</surname>
+<given-names>A.</given-names>
+</name>
+<name>
+<surname>Bigelow</surname>
+<given-names>B.</given-names>
+</name>
+<name>
+<surname>Hare</surname>
+<given-names>T.</given-names>
+</name>
+<etal/>
+</person-group>
+<year>2011</year>
+<source>PASP</source>
+<volume>123</volume>
+<fpage>288</fpage>
+<ext-link ext-link-type="bibcode">2011PASP..123..288D</ext-link>
+<pub-id pub-id-type="doi">10.1086/658908</pub-id>
+</element-citation>
+</ref>
+<ref id="apjaab9bbbib27">
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Eisenstein</surname>
+<given-names>D. J.</given-names>
+</name>
+<name>
+<surname>Zehavi</surname>
+<given-names>I.</given-names>
+</name>
+<name>
+<surname>Hogg</surname>
+<given-names>D. W.</given-names>
+</name>
+<etal/>
+</person-group>
+<year>2005</year>
+<source>ApJ</source>
+<volume>633</volume>
+<fpage>560</fpage>
+<ext-link ext-link-type="bibcode">2005ApJ...633..560E</ext-link>
+<pub-id pub-id-type="doi">10.1086/466512</pub-id>
+</element-citation>
+</ref>
+<ref id="apjaab9bbbib28">
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Faber</surname>
+<given-names>S. M.</given-names>
+</name>
+<name>
+<surname>Phillips</surname>
+<given-names>A. C.</given-names>
+</name>
+<name>
+<surname>Kibrick</surname>
+<given-names>R. I.</given-names>
+</name>
+<etal/>
+</person-group>
+<year>2003</year>
+<source>Proc. SPIE</source>
+<volume>4841</volume>
+<fpage>1657</fpage>
+<ext-link ext-link-type="bibcode">2003SPIE.4841.1657F</ext-link>
+<pub-id pub-id-type="doi">10.1117/12.460346</pub-id>
+</element-citation>
+</ref>
+<ref id="apjaab9bbbib29">
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Fabricant</surname>
+<given-names>D.</given-names>
+</name>
+<name>
+<surname>Fata</surname>
+<given-names>R.</given-names>
+</name>
+<name>
+<surname>Roll</surname>
+<given-names>J.</given-names>
+</name>
+<etal/>
+</person-group>
+<year>2005</year>
+<source>PASP</source>
+<volume>117</volume>
+<fpage>1411</fpage>
+<ext-link ext-link-type="bibcode">2005PASP..117.1411F</ext-link>
+<pub-id pub-id-type="doi">10.1086/497385</pub-id>
+</element-citation>
+</ref>
+<ref id="apjaab9bbbib30">
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Finkbeiner</surname>
+<given-names>D. P.</given-names>
+</name>
+<name>
+<surname>Schlafly</surname>
+<given-names>E. F.</given-names>
+</name>
+<name>
+<surname>Schlegel</surname>
+<given-names>D. J.</given-names>
+</name>
+<etal/>
+</person-group>
+<year>2016</year>
+<source>ApJ</source>
+<volume>822</volume>
+<fpage>66</fpage>
+<ext-link ext-link-type="bibcode">2016ApJ...822...66F</ext-link>
+<pub-id pub-id-type="doi">10.3847/0004-637X/822/2/66</pub-id>
+</element-citation>
+</ref>
+<ref id="apjaab9bbbib31">
+<element-citation publication-type="preprint">
+<person-group person-group-type="author">
+<name>
+<surname>Fioc</surname>
+<given-names>M.</given-names>
+</name>
+<name>
+<surname>Rocca-Volmerange</surname>
+<given-names>B.</given-names>
+</name>
+</person-group>
+<year>1999</year>
+<comment>arXiv:<ext-link ext-link-type="arxiv" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://arxiv.org/abs/astro-ph/9912179">astro-ph/9912179</ext-link>
+</comment>
+<ext-link ext-link-type="bibcode">1999astro.ph.12179F</ext-link>
+</element-citation>
+</ref>
+<ref id="apjaab9bbbib32">
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Fitzpatrick</surname>
+<given-names>E. L.</given-names>
+</name>
+</person-group>
+<year>1999</year>
+<source>PASP</source>
+<volume>111</volume>
+<fpage>63</fpage>
+<ext-link ext-link-type="bibcode">1999PASP..111...63F</ext-link>
+<pub-id pub-id-type="doi">10.1086/316293</pub-id>
+</element-citation>
+</ref>
+<ref id="apjaab9bbbib33">
+<element-citation publication-type="preprint">
+<person-group person-group-type="author">
+<name>
+<surname>Flewelling</surname>
+<given-names>H. A.</given-names>
+</name>
+<name>
+<surname>Magnier</surname>
+<given-names>E. A.</given-names>
+</name>
+<name>
+<surname>Chambers</surname>
+<given-names>K. C.</given-names>
+</name>
+<etal/>
+</person-group>
+<year>2016</year>
+<comment>arXiv:<ext-link ext-link-type="arxiv" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://arxiv.org/abs/1612.05243">1612.05243</ext-link>
+</comment>
+</element-citation>
+</ref>
+<ref id="apjaab9bbbib34">
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Folatelli</surname>
+<given-names>G.</given-names>
+</name>
+<name>
+<surname>Phillips</surname>
+<given-names>M. M.</given-names>
+</name>
+<name>
+<surname>Burns</surname>
+<given-names>C. R.</given-names>
+</name>
+<etal/>
+</person-group>
+<year>2010</year>
+<source>AJ</source>
+<volume>139</volume>
+<fpage>120</fpage>
+<ext-link ext-link-type="bibcode">2010AJ....139..120F</ext-link>
+<pub-id pub-id-type="doi">10.1088/0004-6256/139/1/120</pub-id>
+</element-citation>
+</ref>
+<ref id="apjaab9bbbib35">
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Foley</surname>
+<given-names>R. J.</given-names>
+</name>
+<name>
+<surname>Kasen</surname>
+<given-names>D.</given-names>
+</name>
+</person-group>
+<year>2011</year>
+<source>ApJ</source>
+<volume>729</volume>
+<fpage>55</fpage>
+<ext-link ext-link-type="bibcode">2011ApJ...729...55F</ext-link>
+<pub-id pub-id-type="doi">10.1088/0004-637X/729/1/55</pub-id>
+</element-citation>
+</ref>
+<ref id="apjaab9bbbib36">
+<element-citation publication-type="preprint">
+<person-group person-group-type="author">
+<name>
+<surname>Foley</surname>
+<given-names>R. J.</given-names>
+</name>
+<name>
+<surname>Scolnic</surname>
+<given-names>D.</given-names>
+</name>
+<name>
+<surname>Rest</surname>
+<given-names>A.</given-names>
+</name>
+<etal/>
+</person-group>
+<year>2018</year>
+<source>MNRAS</source>
+<volume>475</volume>
+<fpage>193</fpage>
+<ext-link ext-link-type="bibcode">2018MNRAS.475..193F</ext-link>
+<pub-id pub-id-type="doi">10.1093/mnras/stx3136</pub-id>
+</element-citation>
+</ref>
+<ref id="apjaab9bbbib37">
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Frieman</surname>
+<given-names>J. A.</given-names>
+</name>
+<name>
+<surname>Bassett</surname>
+<given-names>B.</given-names>
+</name>
+<name>
+<surname>Becker</surname>
+<given-names>A.</given-names>
+</name>
+<etal/>
+</person-group>
+<year>2008</year>
+<source>AJ</source>
+<volume>135</volume>
+<fpage>338</fpage>
+<ext-link ext-link-type="bibcode">2008AJ....135..338F</ext-link>
+<pub-id pub-id-type="doi">10.1088/0004-6256/135/1/338</pub-id>
+</element-citation>
+</ref>
+<ref id="apjaab9bbbib38">
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Ganeshalingam</surname>
+<given-names>M.</given-names>
+</name>
+<name>
+<surname>Li</surname>
+<given-names>W.</given-names>
+</name>
+<name>
+<surname>Filippenko</surname>
+<given-names>A. V.</given-names>
+</name>
+</person-group>
+<year>2013</year>
+<source>MNRAS</source>
+<volume>433</volume>
+<fpage>2240</fpage>
+<pub-id pub-id-type="doi">10.1093/mnras/stt893</pub-id>
+<ext-link ext-link-type="bibcode">2013MNRAS.433.2240G</ext-link>
+</element-citation>
+</ref>
+<ref id="apjaab9bbbib39">
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Graur</surname>
+<given-names>O.</given-names>
+</name>
+<name>
+<surname>Rodney</surname>
+<given-names>S. A.</given-names>
+</name>
+<name>
+<surname>Maoz</surname>
+<given-names>D.</given-names>
+</name>
+<etal/>
+</person-group>
+<year>2014</year>
+<source>ApJ</source>
+<volume>783</volume>
+<fpage>28</fpage>
+<ext-link ext-link-type="bibcode">2014ApJ...783...28G</ext-link>
+<pub-id pub-id-type="doi">10.1088/0004-637X/783/1/28</pub-id>
+</element-citation>
+</ref>
+<ref id="apjaab9bbbib40">
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Guy</surname>
+<given-names>J.</given-names>
+</name>
+<name>
+<surname>Sullivan</surname>
+<given-names>M.</given-names>
+</name>
+<name>
+<surname>Conley</surname>
+<given-names>A.</given-names>
+</name>
+<etal/>
+</person-group>
+<year>2010</year>
+<source>A&amp;A</source>
+<volume>523</volume>
+<fpage>A7</fpage>
+<ext-link ext-link-type="bibcode">2010A&amp;A...523A...7G</ext-link>
+<pub-id pub-id-type="doi">10.1051/0004-6361/201014468</pub-id>
+</element-citation>
+</ref>
+<ref id="apjaab9bbbib41">
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Hayden</surname>
+<given-names>B. T.</given-names>
+</name>
+<name>
+<surname>Gupta</surname>
+<given-names>R. R.</given-names>
+</name>
+<name>
+<surname>Garnavich</surname>
+<given-names>P. M.</given-names>
+</name>
+<etal/>
+</person-group>
+<year>2013</year>
+<source>ApJ</source>
+<volume>764</volume>
+<fpage>191</fpage>
+<ext-link ext-link-type="bibcode">2013ApJ...764..191H</ext-link>
+<pub-id pub-id-type="doi">10.1088/0004-637X/764/2/191</pub-id>
+</element-citation>
+</ref>
+<ref id="apjaab9bbbib42">
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Hicken</surname>
+<given-names>M.</given-names>
+</name>
+<name>
+<surname>Challis</surname>
+<given-names>P.</given-names>
+</name>
+<name>
+<surname>Jha</surname>
+<given-names>S.</given-names>
+</name>
+<etal/>
+</person-group>
+<year>2009a</year>
+<source>ApJ</source>
+<volume>700</volume>
+<fpage>331</fpage>
+<ext-link ext-link-type="bibcode">2009ApJ...700..331H</ext-link>
+<pub-id pub-id-type="doi">10.1088/0004-637X/700/1/331</pub-id>
+</element-citation>
+</ref>
+<ref id="apjaab9bbbib43">
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Hicken</surname>
+<given-names>M.</given-names>
+</name>
+<name>
+<surname>Challis</surname>
+<given-names>P.</given-names>
+</name>
+<name>
+<surname>Kirshner</surname>
+<given-names>R. P.</given-names>
+</name>
+<etal/>
+</person-group>
+<year>2012</year>
+<source>ApJS</source>
+<volume>200</volume>
+<fpage>12</fpage>
+<ext-link ext-link-type="bibcode">2012ApJS..200...12H</ext-link>
+<pub-id pub-id-type="doi">10.1088/0067-0049/200/2/12</pub-id>
+</element-citation>
+</ref>
+<ref id="apjaab9bbbib44">
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Hicken</surname>
+<given-names>M.</given-names>
+</name>
+<name>
+<surname>Wood-Vasey</surname>
+<given-names>W. M.</given-names>
+</name>
+<name>
+<surname>Blondin</surname>
+<given-names>S.</given-names>
+</name>
+<etal/>
+</person-group>
+<year>2009b</year>
+<source>ApJ</source>
+<volume>700</volume>
+<fpage>1097</fpage>
+<ext-link ext-link-type="bibcode">2009ApJ...700.1097H</ext-link>
+<pub-id pub-id-type="doi">10.1088/0004-637X/700/2/1097</pub-id>
+</element-citation>
+</ref>
+<ref id="apjaab9bbbib45">
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Hinshaw</surname>
+<given-names>G.</given-names>
+</name>
+<name>
+<surname>Larson</surname>
+<given-names>D.</given-names>
+</name>
+<name>
+<surname>Komatsu</surname>
+<given-names>E.</given-names>
+</name>
+<etal/>
+</person-group>
+<year>2013</year>
+<source>ApJS</source>
+<volume>208</volume>
+<fpage>19</fpage>
+<ext-link ext-link-type="bibcode">2013ApJS..208...19H</ext-link>
+<pub-id pub-id-type="doi">10.1088/0067-0049/208/2/19</pub-id>
+</element-citation>
+</ref>
+<ref id="apjaab9bbbib46">
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Holtzman</surname>
+<given-names>J. A.</given-names>
+</name>
+<name>
+<surname>Marriner</surname>
+<given-names>J.</given-names>
+</name>
+<name>
+<surname>Kessler</surname>
+<given-names>R.</given-names>
+</name>
+<etal/>
+</person-group>
+<year>2008</year>
+<source>AJ</source>
+<volume>136</volume>
+<fpage>2306</fpage>
+<ext-link ext-link-type="bibcode">2008AJ....136.2306H</ext-link>
+<pub-id pub-id-type="doi">10.1088/0004-6256/136/6/2306</pub-id>
+</element-citation>
+</ref>
+<ref id="apjaab9bbbib47">
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Hook</surname>
+<given-names>I. M.</given-names>
+</name>
+<name>
+<surname>J&oslash;rgensen</surname>
+<given-names>I.</given-names>
+</name>
+<name>
+<surname>Allington-Smith</surname>
+<given-names>J. R.</given-names>
+</name>
+<etal/>
+</person-group>
+<year>2004</year>
+<source>PASP</source>
+<volume>116</volume>
+<fpage>425</fpage>
+<ext-link ext-link-type="bibcode">2004PASP..116..425H</ext-link>
+<pub-id pub-id-type="doi">10.1086/383624</pub-id>
+</element-citation>
+</ref>
+<ref id="apjaab9bbbib48">
+<element-citation publication-type="preprint">
+<person-group person-group-type="author">
+<name>
+<surname>Hounsell</surname>
+<given-names>R.</given-names>
+</name>
+<name>
+<surname>Scolnic</surname>
+<given-names>D.</given-names>
+</name>
+<name>
+<surname>Foley</surname>
+<given-names>R. J.</given-names>
+</name>
+<etal/>
+</person-group>
+<year>2017</year>
+<comment>arXiv:<ext-link ext-link-type="arxiv" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://arxiv.org/abs/1702.01747">1702.01747</ext-link>
+</comment>
+</element-citation>
+</ref>
+<ref id="apjaab9bbbib49">
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Hudson</surname>
+<given-names>M. J.</given-names>
+</name>
+<name>
+<surname>Smith</surname>
+<given-names>R. J.</given-names>
+</name>
+<name>
+<surname>Lucey</surname>
+<given-names>J. R.</given-names>
+</name>
+<name>
+<surname>Branchini</surname>
+<given-names>E.</given-names>
+</name>
+</person-group>
+<year>2004</year>
+<source>MNRAS</source>
+<volume>352</volume>
+<fpage>61</fpage>
+<ext-link ext-link-type="bibcode">2004MNRAS.352...61H</ext-link>
+<pub-id pub-id-type="doi">10.1111/j.1365-2966.2004.07893.x</pub-id>
+</element-citation>
+</ref>
+<ref id="apjaab9bbbib50">
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Hui</surname>
+<given-names>L.</given-names>
+</name>
+<name>
+<surname>Greene</surname>
+<given-names>P. B.</given-names>
+</name>
+</person-group>
+<year>2006</year>
+<source>PhRvD</source>
+<volume>73</volume>
+<fpage>123526</fpage>
+<ext-link ext-link-type="bibcode">2006PhRvD..73l3526H</ext-link>
+<pub-id pub-id-type="doi">10.1103/PhysRevD.73.123526</pub-id>
+</element-citation>
+</ref>
+<ref id="apjaab9bbbib51">
+<element-citation publication-type="preprint">
+<person-group person-group-type="author">
+<name>
+<surname>Huterer</surname>
+<given-names>D.</given-names>
+</name>
+<name>
+<surname>Shafer</surname>
+<given-names>D.</given-names>
+</name>
+<name>
+<surname>Scolnic</surname>
+<given-names>D.</given-names>
+</name>
+<name>
+<surname>Schmidt</surname>
+<given-names>F.</given-names>
+</name>
+</person-group>
+<year>2017</year>
+<source>JCAP</source>
+<volume>5</volume>
+<fpage>015</fpage>
+<ext-link ext-link-type="bibcode">2017JCAP...05..015H</ext-link>
+<pub-id pub-id-type="doi">10.1088/1475-7516/2017/05/015</pub-id>
+</element-citation>
+</ref>
+<ref id="apjaab9bbbib52">
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Jha</surname>
+<given-names>S.</given-names>
+</name>
+<name>
+<surname>Kirshner</surname>
+<given-names>R. P.</given-names>
+</name>
+<name>
+<surname>Challis</surname>
+<given-names>P.</given-names>
+</name>
+<etal/>
+</person-group>
+<year>2006</year>
+<source>AJ</source>
+<volume>131</volume>
+<fpage>527</fpage>
+<ext-link ext-link-type="bibcode">2006AJ....131..527J</ext-link>
+<pub-id pub-id-type="doi">10.1086/497989</pub-id>
+</element-citation>
+</ref>
+<ref id="apjaab9bbbib53">
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Jha</surname>
+<given-names>S.</given-names>
+</name>
+<name>
+<surname>Riess</surname>
+<given-names>A. G.</given-names>
+</name>
+<name>
+<surname>Kirshner</surname>
+<given-names>R. P.</given-names>
+</name>
+</person-group>
+<year>2007</year>
+<source>ApJ</source>
+<volume>659</volume>
+<fpage>122</fpage>
+<ext-link ext-link-type="bibcode">2007ApJ...659..122J</ext-link>
+<pub-id pub-id-type="doi">10.1086/512054</pub-id>
+</element-citation>
+</ref>
+<ref id="apjaab9bbbib54">
+<element-citation publication-type="preprint">
+<person-group person-group-type="author">
+<name>
+<surname>Jones</surname>
+<given-names>D. O.</given-names>
+</name>
+<name>
+<surname>Scolnic</surname>
+<given-names>D. M.</given-names>
+</name>
+<name>
+<surname>Riess</surname>
+<given-names>A. G.</given-names>
+</name>
+<etal/>
+</person-group>
+<year>2018</year>
+<source>ApJ</source>
+<volume>857</volume>
+<fpage>51</fpage>
+<ext-link ext-link-type="bibcode">2018ApJ...857...51J</ext-link>
+<pub-id pub-id-type="doi">10.3847/1538-4357/aab6b1</pub-id>
+</element-citation>
+</ref>
+<ref id="apjaab9bbbib55">
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Jones</surname>
+<given-names>D. O.</given-names>
+</name>
+<name>
+<surname>Scolnic</surname>
+<given-names>D. M.</given-names>
+</name>
+<name>
+<surname>Riess</surname>
+<given-names>A. G.</given-names>
+</name>
+<etal/>
+</person-group>
+<year>2017</year>
+<source>ApJ</source>
+<volume>843</volume>
+<fpage>6</fpage>
+<ext-link ext-link-type="bibcode">2017ApJ...843....6J</ext-link>
+<pub-id pub-id-type="doi">10.3847/1538-4357/aa767b</pub-id>
+</element-citation>
+</ref>
+<ref id="apjaab9bbbib56">
+<element-citation publication-type="preprint">
+<person-group person-group-type="author">
+<name>
+<surname>Jones</surname>
+<given-names>D. O.</given-names>
+</name>
+<name>
+<surname>Scolnic</surname>
+<given-names>D. M.</given-names>
+</name>
+<name>
+<surname>Rodney</surname>
+<given-names>S. A.</given-names>
+</name>
+</person-group>
+<year>2015</year>
+<article-title>PythonPhot: Simple DAOPHOT-type photometry in Python</article-title>
+<source>Astrophysics Source Code Library</source>
+<comment>ascl:<ext-link ext-link-type="uri" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://www.ascl.net/1501.010">1501.010</ext-link>
+</comment>
+</element-citation>
+</ref>
+<ref id="apjaab9bbbib57">
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>J&ouml;nsson</surname>
+<given-names>J.</given-names>
+</name>
+<name>
+<surname>Sullivan</surname>
+<given-names>M.</given-names>
+</name>
+<name>
+<surname>Hook</surname>
+<given-names>I.</given-names>
+</name>
+<etal/>
+</person-group>
+<year>2010</year>
+<source>MNRAS</source>
+<volume>405</volume>
+<fpage>535</fpage>
+<ext-link ext-link-type="bibcode">2010MNRAS.405..535J</ext-link>
+<pub-id pub-id-type="doi">10.1111/j.1365-2966.2010.16467.x</pub-id>
+</element-citation>
+</ref>
+<ref id="apjaab9bbbib58">
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Kaiser</surname>
+<given-names>N.</given-names>
+</name>
+<name>
+<surname>Burgett</surname>
+<given-names>W.</given-names>
+</name>
+<name>
+<surname>Chambers</surname>
+<given-names>K.</given-names>
+</name>
+<etal/>
+</person-group>
+<year>2010</year>
+<source>Proc. SPIE</source>
+<volume>7733</volume>
+<fpage>77330E</fpage>
+<ext-link ext-link-type="bibcode">2010SPIE.7733E..0EK</ext-link>
+<pub-id pub-id-type="doi">10.1117/12.859188</pub-id>
+</element-citation>
+</ref>
+<ref id="apjaab9bbbib59">
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Kelly</surname>
+<given-names>P. L.</given-names>
+</name>
+<name>
+<surname>Hicken</surname>
+<given-names>M.</given-names>
+</name>
+<name>
+<surname>Burke</surname>
+<given-names>D. L.</given-names>
+</name>
+<name>
+<surname>Mandel</surname>
+<given-names>K. S.</given-names>
+</name>
+<name>
+<surname>Kirshner</surname>
+<given-names>R. P.</given-names>
+</name>
+</person-group>
+<year>2010</year>
+<source>ApJ</source>
+<volume>715</volume>
+<fpage>743</fpage>
+<ext-link ext-link-type="bibcode">2010ApJ...715..743K</ext-link>
+<pub-id pub-id-type="doi">10.1088/0004-637X/715/2/743</pub-id>
+</element-citation>
+</ref>
+<ref id="apjaab9bbbib60">
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Kessler</surname>
+<given-names>R.</given-names>
+</name>
+<name>
+<surname>Becker</surname>
+<given-names>A. C.</given-names>
+</name>
+<name>
+<surname>Cinabro</surname>
+<given-names>D.</given-names>
+</name>
+<etal/>
+</person-group>
+<year>2009a</year>
+<source>ApJS</source>
+<volume>185</volume>
+<fpage>32</fpage>
+<ext-link ext-link-type="bibcode">2009ApJS..185...32K</ext-link>
+<pub-id pub-id-type="doi">10.1088/0067-0049/185/1/32</pub-id>
+</element-citation>
+</ref>
+<ref id="apjaab9bbbib61">
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Kessler</surname>
+<given-names>R.</given-names>
+</name>
+<name>
+<surname>Bernstein</surname>
+<given-names>J. P.</given-names>
+</name>
+<name>
+<surname>Cinabro</surname>
+<given-names>D.</given-names>
+</name>
+<etal/>
+</person-group>
+<year>2009b</year>
+<source>PASP</source>
+<volume>121</volume>
+<fpage>1028</fpage>
+<ext-link ext-link-type="bibcode">2009PASP..121.1028K</ext-link>
+<pub-id pub-id-type="doi">10.1086/605984</pub-id>
+</element-citation>
+</ref>
+<ref id="apjaab9bbbib62">
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Kessler</surname>
+<given-names>R.</given-names>
+</name>
+<name>
+<surname>Guy</surname>
+<given-names>J.</given-names>
+</name>
+<name>
+<surname>Marriner</surname>
+<given-names>J.</given-names>
+</name>
+<etal/>
+</person-group>
+<year>2013</year>
+<source>ApJ</source>
+<volume>764</volume>
+<fpage>48</fpage>
+<ext-link ext-link-type="bibcode">2013ApJ...764...48K</ext-link>
+<pub-id pub-id-type="doi">10.1088/0004-637X/764/1/48</pub-id>
+</element-citation>
+</ref>
+<ref id="apjaab9bbbib63">
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Kessler</surname>
+<given-names>R.</given-names>
+</name>
+<name>
+<surname>Marriner</surname>
+<given-names>J.</given-names>
+</name>
+<name>
+<surname>Childress</surname>
+<given-names>M.</given-names>
+</name>
+<etal/>
+</person-group>
+<year>2015</year>
+<source>AJ</source>
+<volume>150</volume>
+<fpage>172</fpage>
+<ext-link ext-link-type="bibcode">2015AJ....150..172K</ext-link>
+<pub-id pub-id-type="doi">10.1088/0004-6256/150/6/172</pub-id>
+</element-citation>
+</ref>
+<ref id="apjaab9bbbib64">
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Kessler</surname>
+<given-names>R.</given-names>
+</name>
+<name>
+<surname>Scolnic</surname>
+<given-names>D.</given-names>
+</name>
+</person-group>
+<year>2017</year>
+<source>ApJ</source>
+<volume>836</volume>
+<fpage>56</fpage>
+<ext-link ext-link-type="bibcode">2017ApJ...836...56K</ext-link>
+<pub-id pub-id-type="doi">10.3847/1538-4357/836/1/56</pub-id>
+</element-citation>
+</ref>
+<ref id="apjaab9bbbib65">
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Lampeitl</surname>
+<given-names>H.</given-names>
+</name>
+<name>
+<surname>Smith</surname>
+<given-names>M.</given-names>
+</name>
+<name>
+<surname>Nichol</surname>
+<given-names>R. C.</given-names>
+</name>
+<etal/>
+</person-group>
+<year>2010</year>
+<source>ApJ</source>
+<volume>722</volume>
+<fpage>566</fpage>
+<ext-link ext-link-type="bibcode">2010ApJ...722..566L</ext-link>
+<pub-id pub-id-type="doi">10.1088/0004-637X/722/1/566</pub-id>
+</element-citation>
+</ref>
+<ref id="apjaab9bbbib66">
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Landolt</surname>
+<given-names>A. U.</given-names>
+</name>
+</person-group>
+<year>1992</year>
+<source>AJ</source>
+<volume>104</volume>
+<fpage>340</fpage>
+<ext-link ext-link-type="bibcode">1992AJ....104..340L</ext-link>
+<pub-id pub-id-type="doi">10.1086/116242</pub-id>
+</element-citation>
+</ref>
+<ref id="apjaab9bbbib67">
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Leaman</surname>
+<given-names>J.</given-names>
+</name>
+<name>
+<surname>Li</surname>
+<given-names>W.</given-names>
+</name>
+<name>
+<surname>Chornock</surname>
+<given-names>R.</given-names>
+</name>
+<name>
+<surname>Filippenko</surname>
+<given-names>A. V.</given-names>
+</name>
+</person-group>
+<year>2011</year>
+<source>MNRAS</source>
+<volume>412</volume>
+<fpage>1419</fpage>
+<ext-link ext-link-type="bibcode">2011MNRAS.412.1419L</ext-link>
+<pub-id pub-id-type="doi">10.1111/j.1365-2966.2011.18158.x</pub-id>
+</element-citation>
+</ref>
+<ref id="apjaab9bbbib68">
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Le Borgne</surname>
+<given-names>D.</given-names>
+</name>
+<name>
+<surname>Rocca-Volmerange</surname>
+<given-names>B.</given-names>
+</name>
+</person-group>
+<year>2002</year>
+<source>A&amp;A</source>
+<volume>386</volume>
+<fpage>446</fpage>
+<ext-link ext-link-type="bibcode">2002A&amp;A...386..446L</ext-link>
+<pub-id pub-id-type="doi">10.1051/0004-6361:20020259</pub-id>
+</element-citation>
+</ref>
+<ref id="apjaab9bbbib69">
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Lewis</surname>
+<given-names>A.</given-names>
+</name>
+<name>
+<surname>Bridle</surname>
+<given-names>S.</given-names>
+</name>
+</person-group>
+<year>2002</year>
+<source>PhRvD</source>
+<volume>66</volume>
+<fpage>103511</fpage>
+<ext-link ext-link-type="bibcode">2002PhRvD..66j3511L</ext-link>
+<pub-id pub-id-type="doi">10.1103/PhysRevD.66.103511</pub-id>
+</element-citation>
+</ref>
+<ref id="apjaab9bbbib70">
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Li</surname>
+<given-names>T. S.</given-names>
+</name>
+<name>
+<surname>DePoy</surname>
+<given-names>D. L.</given-names>
+</name>
+<name>
+<surname>Marshall</surname>
+<given-names>J. L.</given-names>
+</name>
+<etal/>
+</person-group>
+<year>2016</year>
+<source>AJ</source>
+<volume>151</volume>
+<fpage>157</fpage>
+<ext-link ext-link-type="bibcode">2016AJ....151..157L</ext-link>
+<pub-id pub-id-type="doi">10.3847/0004-6256/151/6/157</pub-id>
+</element-citation>
+</ref>
+<ref id="apjaab9bbbib71">
+<element-citation publication-type="preprint">
+<person-group person-group-type="author">
+<name>
+<surname>Magnier</surname>
+<given-names>E. A.</given-names>
+</name>
+<name>
+<surname>Chambers</surname>
+<given-names>K. C.</given-names>
+</name>
+<name>
+<surname>Flewelling</surname>
+<given-names>H. A.</given-names>
+</name>
+<etal/>
+</person-group>
+<year>2016a</year>
+<comment>arXiv:<ext-link ext-link-type="arxiv" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://arxiv.org/abs/1612.05240">1612.05240</ext-link>
+</comment>
+</element-citation>
+</ref>
+<ref id="apjaab9bbbib72">
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Magnier</surname>
+<given-names>E. A.</given-names>
+</name>
+<name>
+<surname>Schlafly</surname>
+<given-names>E.</given-names>
+</name>
+<name>
+<surname>Finkbeiner</surname>
+<given-names>D.</given-names>
+</name>
+<etal/>
+</person-group>
+<year>2013</year>
+<source>ApJS</source>
+<volume>205</volume>
+<fpage>20</fpage>
+<ext-link ext-link-type="bibcode">2013ApJS..205...20M</ext-link>
+<pub-id pub-id-type="doi">10.1088/0067-0049/205/2/20</pub-id>
+</element-citation>
+</ref>
+<ref id="apjaab9bbbib73">
+<element-citation publication-type="preprint">
+<person-group person-group-type="author">
+<name>
+<surname>Magnier</surname>
+<given-names>E. A.</given-names>
+</name>
+<name>
+<surname>Schlafly</surname>
+<given-names>E. F.</given-names>
+</name>
+<name>
+<surname>Finkbeiner</surname>
+<given-names>D. P.</given-names>
+</name>
+<etal/>
+</person-group>
+<year>2016b</year>
+<comment>arXiv:<ext-link ext-link-type="arxiv" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://arxiv.org/abs/1612.05242">1612.05242</ext-link>
+</comment>
+</element-citation>
+</ref>
+<ref id="apjaab9bbbib74">
+<element-citation publication-type="preprint">
+<person-group person-group-type="author">
+<name>
+<surname>Magnier</surname>
+<given-names>E. A.</given-names>
+</name>
+<name>
+<surname>Sweeney</surname>
+<given-names>W. E.</given-names>
+</name>
+<name>
+<surname>Chambers</surname>
+<given-names>K. C.</given-names>
+</name>
+<etal/>
+</person-group>
+<year>2016c</year>
+<comment>arXiv:<ext-link ext-link-type="arxiv" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://arxiv.org/abs/1612.05244">1612.05244</ext-link>
+</comment>
+</element-citation>
+</ref>
+<ref id="apjaab9bbbib75">
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Mandel</surname>
+<given-names>K. S.</given-names>
+</name>
+<name>
+<surname>Foley</surname>
+<given-names>R. J.</given-names>
+</name>
+<name>
+<surname>Kirshner</surname>
+<given-names>R. P.</given-names>
+</name>
+</person-group>
+<year>2014</year>
+<source>ApJ</source>
+<volume>797</volume>
+<fpage>75</fpage>
+<ext-link ext-link-type="bibcode">2014ApJ...797...75M</ext-link>
+<pub-id pub-id-type="doi">10.1088/0004-637X/797/2/75</pub-id>
+</element-citation>
+</ref>
+<ref id="apjaab9bbbib76">
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Mandel</surname>
+<given-names>K. S.</given-names>
+</name>
+<name>
+<surname>Narayan</surname>
+<given-names>G.</given-names>
+</name>
+<name>
+<surname>Kirshner</surname>
+<given-names>R. P.</given-names>
+</name>
+</person-group>
+<year>2011</year>
+<source>ApJ</source>
+<volume>731</volume>
+<fpage>120</fpage>
+<ext-link ext-link-type="bibcode">2011ApJ...731..120M</ext-link>
+<pub-id pub-id-type="doi">10.1088/0004-637X/731/2/120</pub-id>
+</element-citation>
+</ref>
+<ref id="apjaab9bbbib77">
+<element-citation publication-type="preprint">
+<person-group person-group-type="author">
+<name>
+<surname>Mandel</surname>
+<given-names>K. S.</given-names>
+</name>
+<name>
+<surname>Scolnic</surname>
+<given-names>D.</given-names>
+</name>
+<name>
+<surname>Shariff</surname>
+<given-names>H.</given-names>
+</name>
+<name>
+<surname>Foley</surname>
+<given-names>R. J.</given-names>
+</name>
+<name>
+<surname>Kirshner</surname>
+<given-names>R. P.</given-names>
+</name>
+</person-group>
+<year>2017</year>
+<source>ApJ</source>
+<volume>842</volume>
+<fpage>93</fpage>
+<ext-link ext-link-type="bibcode">2017ApJ...842...93M</ext-link>
+<pub-id pub-id-type="doi">10.3847/1538-4357/aa6038</pub-id>
+</element-citation>
+</ref>
+<ref id="apjaab9bbbib78">
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Marriner</surname>
+<given-names>J.</given-names>
+</name>
+<name>
+<surname>Bernstein</surname>
+<given-names>J. P.</given-names>
+</name>
+<name>
+<surname>Kessler</surname>
+<given-names>R.</given-names>
+</name>
+<etal/>
+</person-group>
+<year>2011</year>
+<source>ApJ</source>
+<volume>740</volume>
+<fpage>72</fpage>
+<ext-link ext-link-type="bibcode">2011ApJ...740...72M</ext-link>
+<pub-id pub-id-type="doi">10.1088/0004-637X/740/2/72</pub-id>
+</element-citation>
+</ref>
+<ref id="apjaab9bbbib79">
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Marshall</surname>
+<given-names>J. L.</given-names>
+</name>
+<name>
+<surname>Burles</surname>
+<given-names>S.</given-names>
+</name>
+<name>
+<surname>Thompson</surname>
+<given-names>I. B.</given-names>
+</name>
+<etal/>
+</person-group>
+<year>2008</year>
+<source>Proc. SPIE</source>
+<volume>7014</volume>
+<fpage>169</fpage>
+<ext-link ext-link-type="bibcode">2008SPIE.7014E.169M</ext-link>
+<pub-id pub-id-type="doi">10.1117/12.789972</pub-id>
+</element-citation>
+</ref>
+<ref id="apjaab9bbbib80">
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Miknaitis</surname>
+<given-names>G.</given-names>
+</name>
+<name>
+<surname>Pignata</surname>
+<given-names>G.</given-names>
+</name>
+<name>
+<surname>Rest</surname>
+<given-names>A.</given-names>
+</name>
+<etal/>
+</person-group>
+<year>2007</year>
+<source>ApJ</source>
+<volume>666</volume>
+<fpage>674</fpage>
+<ext-link ext-link-type="bibcode">2007ApJ...666..674M</ext-link>
+<pub-id pub-id-type="doi">10.1086/519986</pub-id>
+</element-citation>
+</ref>
+<ref id="apjaab9bbbib81">
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Milne</surname>
+<given-names>P. A.</given-names>
+</name>
+<name>
+<surname>Foley</surname>
+<given-names>R. J.</given-names>
+</name>
+<name>
+<surname>Brown</surname>
+<given-names>P. J.</given-names>
+</name>
+<name>
+<surname>Narayan</surname>
+<given-names>G.</given-names>
+</name>
+</person-group>
+<year>2015</year>
+<source>ApJ</source>
+<volume>803</volume>
+<fpage>20</fpage>
+<ext-link ext-link-type="bibcode">2015ApJ...803...20M</ext-link>
+<pub-id pub-id-type="doi">10.1088/0004-637X/803/1/20</pub-id>
+</element-citation>
+</ref>
+<ref id="apjaab9bbbib82">
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Mosher</surname>
+<given-names>J.</given-names>
+</name>
+<name>
+<surname>Guy</surname>
+<given-names>J.</given-names>
+</name>
+<name>
+<surname>Kessler</surname>
+<given-names>R.</given-names>
+</name>
+<etal/>
+</person-group>
+<year>2014</year>
+<source>ApJ</source>
+<volume>793</volume>
+<fpage>16</fpage>
+<ext-link ext-link-type="bibcode">2014ApJ...793...16M</ext-link>
+<pub-id pub-id-type="doi">10.1088/0004-637X/793/1/16</pub-id>
+</element-citation>
+</ref>
+<ref id="apjaab9bbbib83">
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Narayan</surname>
+<given-names>G.</given-names>
+</name>
+<name>
+<surname>Rest</surname>
+<given-names>A.</given-names>
+</name>
+<name>
+<surname>Tucker</surname>
+<given-names>B. E.</given-names>
+</name>
+<etal/>
+</person-group>
+<year>2016</year>
+<source>ApJS</source>
+<volume>224</volume>
+<fpage>3</fpage>
+<ext-link ext-link-type="bibcode">2016ApJS..224....3N</ext-link>
+<pub-id pub-id-type="doi">10.3847/0067-0049/224/1/3</pub-id>
+</element-citation>
+</ref>
+<ref id="apjaab9bbbib84">
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Nielsen</surname>
+<given-names>J. T.</given-names>
+</name>
+<name>
+<surname>Guffanti</surname>
+<given-names>A.</given-names>
+</name>
+<name>
+<surname>Sarkar</surname>
+<given-names>S.</given-names>
+</name>
+</person-group>
+<year>2016</year>
+<source>NatSR</source>
+<volume>6</volume>
+<fpage>35596</fpage>
+<ext-link ext-link-type="bibcode">2016NatSR...635596N</ext-link>
+<pub-id pub-id-type="doi">10.1038/srep35596</pub-id>
+</element-citation>
+</ref>
+<ref id="apjaab9bbbib85">
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Pan</surname>
+<given-names>Y.-C.</given-names>
+</name>
+<name>
+<surname>Sullivan</surname>
+<given-names>M.</given-names>
+</name>
+<name>
+<surname>Maguire</surname>
+<given-names>K.</given-names>
+</name>
+<etal/>
+</person-group>
+<year>2014</year>
+<source>MNRAS</source>
+<volume>438</volume>
+<fpage>1391</fpage>
+<ext-link ext-link-type="bibcode">2014MNRAS.438.1391P</ext-link>
+<pub-id pub-id-type="doi">10.1093/mnras/stt2287</pub-id>
+</element-citation>
+</ref>
+<ref id="apjaab9bbbib86">
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Perlmutter</surname>
+<given-names>S.</given-names>
+</name>
+<name>
+<surname>Aldering</surname>
+<given-names>G.</given-names>
+</name>
+<name>
+<surname>Goldhaber</surname>
+<given-names>G.</given-names>
+</name>
+<etal/>
+</person-group>
+<year>1999</year>
+<source>ApJ</source>
+<volume>517</volume>
+<fpage>565</fpage>
+<ext-link ext-link-type="bibcode">1999ApJ...517..565P</ext-link>
+<pub-id pub-id-type="doi">10.1086/307221</pub-id>
+</element-citation>
+</ref>
+<ref id="apjaab9bbbib87">
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<collab>Planck Collaboration</collab>
+<name>
+<surname>Ade</surname>
+<given-names>P. A. R.</given-names>
+</name>
+<name>
+<surname>Aghanim</surname>
+<given-names>N.</given-names>
+</name>
+<etal/>
+</person-group>
+<year>2016a</year>
+<source>A&amp;A</source>
+<volume>594</volume>
+<fpage>A13</fpage>
+<ext-link ext-link-type="bibcode">2016A&amp;A...594A..13P</ext-link>
+<pub-id pub-id-type="doi">10.1051/0004-6361/201525830</pub-id>
+</element-citation>
+</ref>
+<ref id="apjaab9bbbib88">
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<collab>Planck Collaboration</collab>
+<name>
+<surname>Ade</surname>
+<given-names>P. A. R.</given-names>
+</name>
+<name>
+<surname>Aghanim</surname>
+<given-names>N.</given-names>
+</name>
+<etal/>
+</person-group>
+<year>2016b</year>
+<source>A&amp;A</source>
+<volume>594</volume>
+<fpage>A14</fpage>
+<ext-link ext-link-type="bibcode">2016A&amp;A...594A..14P</ext-link>
+<pub-id pub-id-type="doi">10.1051/0004-6361/201525814</pub-id>
+</element-citation>
+</ref>
+<ref id="apjaab9bbbib89">
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Rest</surname>
+<given-names>A.</given-names>
+</name>
+<name>
+<surname>Scolnic</surname>
+<given-names>D.</given-names>
+</name>
+<name>
+<surname>Foley</surname>
+<given-names>R. J.</given-names>
+</name>
+<etal/>
+</person-group>
+<year>2014</year>
+<source>ApJ</source>
+<volume>795</volume>
+<fpage>44</fpage>
+<ext-link ext-link-type="bibcode">2014ApJ...795...44R</ext-link>
+<pub-id pub-id-type="doi">10.1088/0004-637X/795/1/44</pub-id>
+</element-citation>
+</ref>
+<ref id="apjaab9bbbib90">
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Rest</surname>
+<given-names>A.</given-names>
+</name>
+<name>
+<surname>Stubbs</surname>
+<given-names>C.</given-names>
+</name>
+<name>
+<surname>Becker</surname>
+<given-names>A. C.</given-names>
+</name>
+<etal/>
+</person-group>
+<year>2005</year>
+<source>ApJ</source>
+<volume>634</volume>
+<fpage>1103</fpage>
+<ext-link ext-link-type="bibcode">2005ApJ...634.1103R</ext-link>
+<pub-id pub-id-type="doi">10.1086/497060</pub-id>
+</element-citation>
+</ref>
+<ref id="apjaab9bbbib91">
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Riess</surname>
+<given-names>A. G.</given-names>
+</name>
+<name>
+<surname>Filippenko</surname>
+<given-names>A. V.</given-names>
+</name>
+<name>
+<surname>Challis</surname>
+<given-names>P.</given-names>
+</name>
+<etal/>
+</person-group>
+<year>1998</year>
+<source>AJ</source>
+<volume>116</volume>
+<fpage>1009</fpage>
+<ext-link ext-link-type="bibcode">1998AJ....116.1009R</ext-link>
+<pub-id pub-id-type="doi">10.1086/300499</pub-id>
+</element-citation>
+</ref>
+<ref id="apjaab9bbbib92">
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Riess</surname>
+<given-names>A. G.</given-names>
+</name>
+<name>
+<surname>Kirshner</surname>
+<given-names>R. P.</given-names>
+</name>
+<name>
+<surname>Schmidt</surname>
+<given-names>B. P.</given-names>
+</name>
+<etal/>
+</person-group>
+<year>1999</year>
+<source>AJ</source>
+<volume>117</volume>
+<fpage>707</fpage>
+<ext-link ext-link-type="bibcode">1999AJ....117..707R</ext-link>
+<pub-id pub-id-type="doi">10.1086/300738</pub-id>
+</element-citation>
+</ref>
+<ref id="apjaab9bbbib93">
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Riess</surname>
+<given-names>A. G.</given-names>
+</name>
+<name>
+<surname>Macri</surname>
+<given-names>L. M.</given-names>
+</name>
+<name>
+<surname>Hoffmann</surname>
+<given-names>S. L.</given-names>
+</name>
+<etal/>
+</person-group>
+<year>2016</year>
+<source>ApJ</source>
+<volume>826</volume>
+<fpage>56</fpage>
+<ext-link ext-link-type="bibcode">2016ApJ...826...56R</ext-link>
+<pub-id pub-id-type="doi">10.3847/0004-637X/826/1/56</pub-id>
+</element-citation>
+</ref>
+<ref id="apjaab9bbbib94">
+<element-citation publication-type="preprint">
+<person-group person-group-type="author">
+<name>
+<surname>Riess</surname>
+<given-names>A. G.</given-names>
+</name>
+<name>
+<surname>Rodney</surname>
+<given-names>S. A.</given-names>
+</name>
+<name>
+<surname>Scolnic</surname>
+<given-names>D. M.</given-names>
+</name>
+<etal/>
+</person-group>
+<year>2018</year>
+<source>ApJ</source>
+<volume>853</volume>
+<fpage>126</fpage>
+<ext-link ext-link-type="bibcode">2018ApJ...853..126R</ext-link>
+<pub-id pub-id-type="doi">10.3847/1538-4357/aaa5a9</pub-id>
+</element-citation>
+</ref>
+<ref id="apjaab9bbbib95">
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Riess</surname>
+<given-names>A. G.</given-names>
+</name>
+<name>
+<surname>Strolger</surname>
+<given-names>L.-G.</given-names>
+</name>
+<name>
+<surname>Casertano</surname>
+<given-names>S.</given-names>
+</name>
+<etal/>
+</person-group>
+<year>2007</year>
+<source>ApJ</source>
+<volume>659</volume>
+<fpage>98</fpage>
+<ext-link ext-link-type="bibcode">2007ApJ...659...98R</ext-link>
+<pub-id pub-id-type="doi">10.1086/510378</pub-id>
+</element-citation>
+</ref>
+<ref id="apjaab9bbbib96">
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Riess</surname>
+<given-names>A. G.</given-names>
+</name>
+<name>
+<surname>Strolger</surname>
+<given-names>L.-G.</given-names>
+</name>
+<name>
+<surname>Tonry</surname>
+<given-names>J.</given-names>
+</name>
+<etal/>
+</person-group>
+<year>2004</year>
+<source>ApJ</source>
+<volume>607</volume>
+<fpage>665</fpage>
+<ext-link ext-link-type="bibcode">2004ApJ...607..665R</ext-link>
+<pub-id pub-id-type="doi">10.1086/383612</pub-id>
+</element-citation>
+</ref>
+<ref id="apjaab9bbbib97">
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Rigault</surname>
+<given-names>M.</given-names>
+</name>
+<name>
+<surname>Copin</surname>
+<given-names>Y.</given-names>
+</name>
+<name>
+<surname>Aldering</surname>
+<given-names>G.</given-names>
+</name>
+<etal/>
+</person-group>
+<year>2013</year>
+<source>A&amp;A</source>
+<volume>560</volume>
+<fpage>A66</fpage>
+<ext-link ext-link-type="bibcode">2013A&amp;A...560A..66R</ext-link>
+<pub-id pub-id-type="doi">10.1051/0004-6361/201322104</pub-id>
+</element-citation>
+</ref>
+<ref id="apjaab9bbbib98">
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Rodney</surname>
+<given-names>S. A.</given-names>
+</name>
+<name>
+<surname>Riess</surname>
+<given-names>A. G.</given-names>
+</name>
+<name>
+<surname>Strolger</surname>
+<given-names>L.-G.</given-names>
+</name>
+<etal/>
+</person-group>
+<year>2014</year>
+<source>AJ</source>
+<volume>148</volume>
+<fpage>13</fpage>
+<ext-link ext-link-type="bibcode">2014AJ....148...13R</ext-link>
+<pub-id pub-id-type="doi">10.1088/0004-6256/148/1/13</pub-id>
+</element-citation>
+</ref>
+<ref id="apjaab9bbbib99">
+<element-citation publication-type="preprint">
+<person-group person-group-type="author">
+<name>
+<surname>Roman</surname>
+<given-names>M.</given-names>
+</name>
+<name>
+<surname>Hardin</surname>
+<given-names>D.</given-names>
+</name>
+<name>
+<surname>Betoule</surname>
+<given-names>M.</given-names>
+</name>
+<etal/>
+</person-group>
+<year>2017</year>
+<source>A&amp;A</source>
+<pub-id pub-id-type="doi">10.1051/0004-6361/201731425</pub-id>
+<comment>in press</comment>
+</element-citation>
+</ref>
+<ref id="apjaab9bbbib100">
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Ross</surname>
+<given-names>A. J.</given-names>
+</name>
+<name>
+<surname>Samushia</surname>
+<given-names>L.</given-names>
+</name>
+<name>
+<surname>Howlett</surname>
+<given-names>C.</given-names>
+</name>
+<etal/>
+</person-group>
+<year>2015</year>
+<source>MNRAS</source>
+<volume>449</volume>
+<fpage>835</fpage>
+<ext-link ext-link-type="bibcode">2015MNRAS.449..835R</ext-link>
+<pub-id pub-id-type="doi">10.1093/mnras/stv154</pub-id>
+</element-citation>
+</ref>
+<ref id="apjaab9bbbib101">
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Rubin</surname>
+<given-names>D.</given-names>
+</name>
+<name>
+<surname>Hayden</surname>
+<given-names>B.</given-names>
+</name>
+</person-group>
+<year>2016</year>
+<source>ApJL</source>
+<volume>833</volume>
+<fpage>L30</fpage>
+<ext-link ext-link-type="bibcode">2016ApJ...833L..30R</ext-link>
+<pub-id pub-id-type="doi">10.3847/2041-8213/833/2/L30</pub-id>
+</element-citation>
+</ref>
+<ref id="apjaab9bbbib102">
+<element-citation publication-type="preprint">
+<person-group person-group-type="author">
+<name>
+<surname>Sako</surname>
+<given-names>M.</given-names>
+</name>
+<name>
+<surname>Bassett</surname>
+<given-names>B.</given-names>
+</name>
+<name>
+<surname>Becker</surname>
+<given-names>A. C.</given-names>
+</name>
+<etal/>
+</person-group>
+<year>2014</year>
+<comment>arXiv:<ext-link ext-link-type="arxiv" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://arxiv.org/abs/1401.3317">1401.3317</ext-link>
+</comment>
+</element-citation>
+</ref>
+<ref id="apjaab9bbbib103">
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Schlafly</surname>
+<given-names>E. F.</given-names>
+</name>
+<name>
+<surname>Finkbeiner</surname>
+<given-names>D. P.</given-names>
+</name>
+</person-group>
+<year>2011</year>
+<source>ApJ</source>
+<volume>737</volume>
+<fpage>103</fpage>
+<ext-link ext-link-type="bibcode">2011ApJ...737..103S</ext-link>
+<pub-id pub-id-type="doi">10.1088/0004-637X/737/2/103</pub-id>
+</element-citation>
+</ref>
+<ref id="apjaab9bbbib104">
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Schlafly</surname>
+<given-names>E. F.</given-names>
+</name>
+<name>
+<surname>Finkbeiner</surname>
+<given-names>D. P.</given-names>
+</name>
+<name>
+<surname>Juri&cacute;</surname>
+<given-names>M.</given-names>
+</name>
+<etal/>
+</person-group>
+<year>2012</year>
+<source>ApJ</source>
+<volume>756</volume>
+<fpage>158</fpage>
+<ext-link ext-link-type="bibcode">2012ApJ...756..158S</ext-link>
+<pub-id pub-id-type="doi">10.1088/0004-637X/756/2/158</pub-id>
+</element-citation>
+</ref>
+<ref id="apjaab9bbbib105">
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Schlegel</surname>
+<given-names>D. J.</given-names>
+</name>
+<name>
+<surname>Finkbeiner</surname>
+<given-names>D. P.</given-names>
+</name>
+<name>
+<surname>Davis</surname>
+<given-names>M.</given-names>
+</name>
+</person-group>
+<year>1998</year>
+<source>ApJ</source>
+<volume>500</volume>
+<fpage>525</fpage>
+<ext-link ext-link-type="bibcode">1998ApJ...500..525S</ext-link>
+<pub-id pub-id-type="doi">10.1086/305772</pub-id>
+</element-citation>
+</ref>
+<ref id="apjaab9bbbib106">
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Schmidt</surname>
+<given-names>G. D.</given-names>
+</name>
+<name>
+<surname>Weymann</surname>
+<given-names>R. J.</given-names>
+</name>
+<name>
+<surname>Foltz</surname>
+<given-names>C. B.</given-names>
+</name>
+</person-group>
+<year>1989</year>
+<source>PASP</source>
+<volume>101</volume>
+<fpage>713</fpage>
+<ext-link ext-link-type="bibcode">1989PASP..101..713S</ext-link>
+<pub-id pub-id-type="doi">10.1086/132495</pub-id>
+</element-citation>
+</ref>
+<ref id="apjaab9bbbib107">
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Scolnic</surname>
+<given-names>D.</given-names>
+</name>
+<name>
+<surname>Casertano</surname>
+<given-names>S.</given-names>
+</name>
+<name>
+<surname>Riess</surname>
+<given-names>A.</given-names>
+</name>
+<etal/>
+</person-group>
+<year>2015</year>
+<source>ApJ</source>
+<volume>815</volume>
+<fpage>117</fpage>
+<ext-link ext-link-type="bibcode">2015ApJ...815..117S</ext-link>
+<pub-id pub-id-type="doi">10.1088/0004-637X/815/2/117</pub-id>
+</element-citation>
+</ref>
+<ref id="apjaab9bbbib108">
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Scolnic</surname>
+<given-names>D.</given-names>
+</name>
+<name>
+<surname>Kessler</surname>
+<given-names>R.</given-names>
+</name>
+</person-group>
+<year>2016</year>
+<source>ApJL</source>
+<volume>822</volume>
+<fpage>L35</fpage>
+<ext-link ext-link-type="bibcode">2016ApJ...822L..35S</ext-link>
+<pub-id pub-id-type="doi">10.3847/2041-8205/822/2/L35</pub-id>
+</element-citation>
+</ref>
+<ref id="apjaab9bbbib109">
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Scolnic</surname>
+<given-names>D.</given-names>
+</name>
+<name>
+<surname>Rest</surname>
+<given-names>A.</given-names>
+</name>
+<name>
+<surname>Riess</surname>
+<given-names>A.</given-names>
+</name>
+<etal/>
+</person-group>
+<year>2014a</year>
+<source>ApJ</source>
+<volume>795</volume>
+<fpage>45</fpage>
+<ext-link ext-link-type="bibcode">2014ApJ...795...45S</ext-link>
+<pub-id pub-id-type="doi">10.1088/0004-637X/795/1/45</pub-id>
+</element-citation>
+</ref>
+<ref id="apjaab9bbbib110">
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Scolnic</surname>
+<given-names>D. M.</given-names>
+</name>
+<name>
+<surname>Riess</surname>
+<given-names>A. G.</given-names>
+</name>
+<name>
+<surname>Foley</surname>
+<given-names>R. J.</given-names>
+</name>
+<etal/>
+</person-group>
+<year>2014b</year>
+<source>ApJ</source>
+<volume>780</volume>
+<fpage>37</fpage>
+<ext-link ext-link-type="bibcode">2014ApJ...780...37S</ext-link>
+<pub-id pub-id-type="doi">10.1088/0004-637X/780/1/37</pub-id>
+</element-citation>
+</ref>
+<ref id="apjaab9bbbib111">
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Skrutskie</surname>
+<given-names>M. F.</given-names>
+</name>
+<name>
+<surname>Cutri</surname>
+<given-names>R. M.</given-names>
+</name>
+<name>
+<surname>Stiening</surname>
+<given-names>R.</given-names>
+</name>
+<etal/>
+</person-group>
+<year>2006</year>
+<source>AJ</source>
+<volume>131</volume>
+<fpage>1163</fpage>
+<ext-link ext-link-type="bibcode">2006AJ....131.1163S</ext-link>
+<pub-id pub-id-type="doi">10.1086/498708</pub-id>
+</element-citation>
+</ref>
+<ref id="apjaab9bbbib112">
+<element-citation publication-type="preprint">
+<person-group person-group-type="author">
+<name>
+<surname>Spergel</surname>
+<given-names>D.</given-names>
+</name>
+<name>
+<surname>Gehrels</surname>
+<given-names>N.</given-names>
+</name>
+<name>
+<surname>Baltay</surname>
+<given-names>C.</given-names>
+</name>
+<etal/>
+</person-group>
+<year>2015</year>
+<comment>arXiv:<ext-link ext-link-type="arxiv" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://arxiv.org/abs/1503.03757">1503.03757</ext-link>
+</comment>
+</element-citation>
+</ref>
+<ref id="apjaab9bbbib113">
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Stetson</surname>
+<given-names>P. B.</given-names>
+</name>
+</person-group>
+<year>1987</year>
+<source>PASP</source>
+<volume>99</volume>
+<fpage>191</fpage>
+<ext-link ext-link-type="bibcode">1987PASP...99..191S</ext-link>
+<pub-id pub-id-type="doi">10.1086/131977</pub-id>
+</element-citation>
+</ref>
+<ref id="apjaab9bbbib114">
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Stritzinger</surname>
+<given-names>M. D.</given-names>
+</name>
+<name>
+<surname>Phillips</surname>
+<given-names>M. M.</given-names>
+</name>
+<name>
+<surname>Boldt</surname>
+<given-names>L. N.</given-names>
+</name>
+<etal/>
+</person-group>
+<year>2011</year>
+<source>AJ</source>
+<volume>142</volume>
+<fpage>156</fpage>
+<ext-link ext-link-type="bibcode">2011AJ....142..156S</ext-link>
+<pub-id pub-id-type="doi">10.1088/0004-6256/142/5/156</pub-id>
+</element-citation>
+</ref>
+<ref id="apjaab9bbbib115">
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Sullivan</surname>
+<given-names>M.</given-names>
+</name>
+<name>
+<surname>Conley</surname>
+<given-names>A.</given-names>
+</name>
+<name>
+<surname>Howell</surname>
+<given-names>D. A.</given-names>
+</name>
+<etal/>
+</person-group>
+<year>2010</year>
+<source>MNRAS</source>
+<volume>406</volume>
+<fpage>782</fpage>
+<ext-link ext-link-type="bibcode">2010MNRAS.406..782S</ext-link>
+<pub-id pub-id-type="doi">10.1111/j.1365-2966.2010.16731.x</pub-id>
+</element-citation>
+</ref>
+<ref id="apjaab9bbbib116">
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Sullivan</surname>
+<given-names>M.</given-names>
+</name>
+<name>
+<surname>Guy</surname>
+<given-names>J.</given-names>
+</name>
+<name>
+<surname>Conley</surname>
+<given-names>A.</given-names>
+</name>
+<etal/>
+</person-group>
+<year>2011</year>
+<source>ApJ</source>
+<volume>737</volume>
+<fpage>102</fpage>
+<ext-link ext-link-type="bibcode">2011ApJ...737..102S</ext-link>
+<pub-id pub-id-type="doi">10.1088/0004-637X/737/2/102</pub-id>
+</element-citation>
+</ref>
+<ref id="apjaab9bbbib117">
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Suzuki</surname>
+<given-names>N.</given-names>
+</name>
+<name>
+<surname>Rubin</surname>
+<given-names>D.</given-names>
+</name>
+<name>
+<surname>Lidman</surname>
+<given-names>C.</given-names>
+</name>
+<etal/>
+</person-group>
+<year>2012</year>
+<source>ApJ</source>
+<volume>746</volume>
+<fpage>85</fpage>
+<ext-link ext-link-type="bibcode">2012ApJ...746...85S</ext-link>
+<pub-id pub-id-type="doi">10.1088/0004-637X/746/1/85</pub-id>
+</element-citation>
+</ref>
+<ref id="apjaab9bbbib118">
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Tonry</surname>
+<given-names>J. L.</given-names>
+</name>
+</person-group>
+<year>2011</year>
+<source>PASP</source>
+<volume>123</volume>
+<fpage>58</fpage>
+<ext-link ext-link-type="bibcode">2011PASP..123...58T</ext-link>
+<pub-id pub-id-type="doi">10.1086/657997</pub-id>
+</element-citation>
+</ref>
+<ref id="apjaab9bbbib119">
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Tonry</surname>
+<given-names>J. L.</given-names>
+</name>
+<name>
+<surname>Stubbs</surname>
+<given-names>C. W.</given-names>
+</name>
+<name>
+<surname>Lykke</surname>
+<given-names>K. R.</given-names>
+</name>
+<etal/>
+</person-group>
+<year>2012</year>
+<source>ApJ</source>
+<volume>750</volume>
+<fpage>99</fpage>
+<ext-link ext-link-type="bibcode">2012ApJ...750...99T</ext-link>
+<pub-id pub-id-type="doi">10.1088/0004-637X/750/2/99</pub-id>
+</element-citation>
+</ref>
+<ref id="apjaab9bbbib120">
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Tripp</surname>
+<given-names>R.</given-names>
+</name>
+</person-group>
+<year>1998</year>
+<source>A&amp;A</source>
+<volume>331</volume>
+<fpage>815</fpage>
+<ext-link ext-link-type="bibcode">1998A&amp;A...331..815T</ext-link>
+</element-citation>
+</ref>
+<ref id="apjaab9bbbib121">
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Wang</surname>
+<given-names>Y.</given-names>
+</name>
+</person-group>
+<year>2008</year>
+<source>PhRvD</source>
+<volume>77</volume>
+<fpage>123525</fpage>
+<ext-link ext-link-type="bibcode">2008PhRvD..77l3525W</ext-link>
+<pub-id pub-id-type="doi">10.1103/PhysRevD.77.123525</pub-id>
+</element-citation>
+</ref>
+<ref id="apjaab9bbbib122">
+<element-citation publication-type="preprint">
+<person-group person-group-type="author">
+<name>
+<surname>Waters</surname>
+<given-names>C. Z.</given-names>
+</name>
+<name>
+<surname>Magnier</surname>
+<given-names>E. A.</given-names>
+</name>
+<name>
+<surname>Price</surname>
+<given-names>P. A.</given-names>
+</name>
+<etal/>
+</person-group>
+<year>2016</year>
+<comment>arXiv:<ext-link ext-link-type="arxiv" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://arxiv.org/abs/1612.05245">1612.05245</ext-link>
+</comment>
+</element-citation>
+</ref>
+<ref id="apjaab9bbbib123">
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Wood-Vasey</surname>
+<given-names>W. M.</given-names>
+</name>
+<name>
+<surname>Miknaitis</surname>
+<given-names>G.</given-names>
+</name>
+<name>
+<surname>Stubbs</surname>
+<given-names>C. W.</given-names>
+</name>
+<etal/>
+</person-group>
+<year>2007</year>
+<source>ApJ</source>
+<volume>666</volume>
+<fpage>694</fpage>
+<ext-link ext-link-type="bibcode">2007ApJ...666..694W</ext-link>
+<pub-id pub-id-type="doi">10.1086/518642</pub-id>
+</element-citation>
+</ref>
+<ref id="apjaab9bbbib124">
+<element-citation publication-type="preprint">
+<person-group person-group-type="author">
+<name>
+<surname>Zhang</surname>
+<given-names>B. R.</given-names>
+</name>
+<name>
+<surname>Childress</surname>
+<given-names>M. J.</given-names>
+</name>
+<name>
+<surname>Davis</surname>
+<given-names>T. M.</given-names>
+</name>
+<etal/>
+</person-group>
+<year>2017</year>
+<source>MNRAS</source>
+<volume>471</volume>
+<fpage>2254</fpage>
+<ext-link ext-link-type="bibcode">2017MNRAS.471.2254Z</ext-link>
+<pub-id pub-id-type="doi">10.1093/mnras/stx1600</pub-id>
+</element-citation>
+</ref>
+</ref-list>
+</back>
+</article>

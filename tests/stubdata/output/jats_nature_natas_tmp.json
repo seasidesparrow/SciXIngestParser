@@ -1,0 +1,1527 @@
+{
+  "abstract": {
+    "textEnglish": "It is commonly accepted that exoplanets with orbital periods shorter than one day, also known as ultra-short-period (USP) planets, formed further out within their natal protoplanetary disks before migrating to their current-day orbits via dynamical interactions. One of the most accepted theories suggests a violent scenario involving high-eccentricity migration followed by tidal circularization. Here we present the discovery of a four-planet system orbiting the bright (V = 10.5) K6 dwarf star TOI-500. The innermost planet is a transiting, Earth-sized USP planet with an orbital period of ~13 hours, a mass of 1.42 \u00b1 0.18 M<sub>\u2295</sub>, a radius of <inline-formula><mml:math><mml:mrow><mml:mn>1.16</mml:mn><mml:msubsup><mml:mrow><mml:mn>6</mml:mn></mml:mrow><mml:mrow><mml:mo>\u2212</mml:mo><mml:mn>0.058</mml:mn></mml:mrow><mml:mrow><mml:mo>+</mml:mo><mml:mn>0.061</mml:mn></mml:mrow></mml:msubsup><mml:mspace></mml:mspace><mml:msub><mml:mrow><mml:mi>R</mml:mi></mml:mrow><mml:mrow><mml:mo>\u2295</mml:mo></mml:mrow></mml:msub></mml:mrow></mml:math></inline-formula> and a mean density of <inline-formula><mml:math><mml:mrow><mml:mn>4.8</mml:mn><mml:msubsup><mml:mrow><mml:mn>9</mml:mn></mml:mrow><mml:mrow><mml:mo>\u2212</mml:mo><mml:mn>0.88</mml:mn></mml:mrow><mml:mrow><mml:mo>+</mml:mo><mml:mn>1.03</mml:mn></mml:mrow></mml:msubsup><mml:mspace></mml:mspace><mml:mi>g</mml:mi><mml:mspace></mml:mspace><mml:msup><mml:mrow><mml:mi>cm</mml:mi></mml:mrow><mml:mrow><mml:mo>\u2212</mml:mo><mml:mn>3</mml:mn></mml:mrow></mml:msup></mml:mrow></mml:math></inline-formula>. Via Doppler spectroscopy, we discovered that the system hosts 3 outer planets on nearly circular orbits with periods of 6.6, 26.2 and 61.3 days and minimum masses of 5.03 \u00b1 0.41 M<sub>\u2295</sub>, 33.12 \u00b1 0.88 M<sub>\u2295</sub> and <inline-formula><mml:math><mml:mrow><mml:mn>15.0</mml:mn><mml:msubsup><mml:mrow><mml:mn>5</mml:mn></mml:mrow><mml:mrow><mml:mo>\u2212</mml:mo><mml:mn>1.11</mml:mn></mml:mrow><mml:mrow><mml:mo>+</mml:mo><mml:mn>1.12</mml:mn></mml:mrow></mml:msubsup><mml:mspace></mml:mspace><mml:msub><mml:mrow><mml:mi>M</mml:mi></mml:mrow><mml:mrow><mml:mo>\u2295</mml:mo></mml:mrow></mml:msub></mml:mrow></mml:math></inline-formula>, respectively. The presence of both a USP planet and a low-mass object on a 6.6-day orbit indicates that the architecture of this system can be explained via a scenario in which the planets started on low-eccentricity orbits then moved inwards through a quasi-static secular migration. Our numerical simulations show that this migration channel can bring TOI-500 b to its current location in 2 Gyr, starting from an initial orbit of 0.02 au. TOI-500 is the first four-planet system known to host a USP Earth analogue whose current architecture can be explained via a non-violent migration scenario."
+  },
+  "authors": [
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "grid.7605.4",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0001 2336 6580",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Dipartimento di Fisica, Universit\u00e0 degli Studi di Torino, Turin, Italy"
+        }
+      ],
+      "attrib": {
+        "corresp": true,
+        "email": "luisamaria.serrano@unito.it",
+        "orcid": "0000-0001-9211-3691"
+      },
+      "name": {
+        "given_name": "Luisa Maria",
+        "surname": "Serrano"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "grid.7605.4",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0001 2336 6580",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Dipartimento di Fisica, Universit\u00e0 degli Studi di Torino, Turin, Italy"
+        }
+      ],
+      "name": {
+        "given_name": "Davide",
+        "surname": "Gandolfi"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "grid.4514.4",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0001 0930 2361",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Lund Observatory, Department of Astronomy and Theoretical Physics, Lund University, Lund, Sweden"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0002-2086-3642"
+      },
+      "name": {
+        "given_name": "Alexander J.",
+        "surname": "Mustill"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "grid.4991.5",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0004 1936 8948",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Sub-department of Astrophysics, Department of Physics, University of Oxford, Oxford, UK"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0003-0563-0493"
+      },
+      "name": {
+        "given_name": "Oscar",
+        "surname": "Barrag\u00e1n"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "grid.5371.0",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0001 0775 6028",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Department of Space, Earth and Environment, Astronomy and Plasma Physics, Chalmers University of Technology, Gothenburg, Sweden"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0002-0076-6239"
+      },
+      "name": {
+        "given_name": "Judith",
+        "surname": "Korth"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "grid.20861.3d",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000000107068890",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Division of Geological and Planetary Sciences, Pasadena, CA, USA"
+        }
+      ],
+      "name": {
+        "given_name": "Fei",
+        "surname": "Dai"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "grid.268117.b",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0001 2293 7601",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Astronomy Department and Van Vleck Observatory, Wesleyan University, Middletown, CT, USA"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0003-3786-3486"
+      },
+      "name": {
+        "given_name": "Seth",
+        "surname": "Redfield"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "grid.5132.5",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0001 2312 1970",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Leiden Observatory, Leiden University, Leiden, the Netherlands"
+        },
+        {
+          "affPubID": [
+            {
+              "affID": "grid.5371.0",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0001 0775 6028",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Department of Space, Earth and Environment, Chalmers University of Technology, Onsala Space Observatory, Onsala, Sweden"
+        }
+      ],
+      "name": {
+        "given_name": "Malcolm",
+        "surname": "Fridlund"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "grid.6734.6",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0001 2292 8254",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Center for Astronomy and Astrophysics, TU Berlin, Berlin, Germany"
+        }
+      ],
+      "name": {
+        "given_name": "Kristine W. F.",
+        "surname": "Lam"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "grid.443909.3",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0004 0385 4466",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Departamento de Astronom\u00eda, Universidad de Chile, Santiago, Chile"
+        },
+        {
+          "affPubID": [
+            {
+              "affID": "grid.440392.8",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0004 0478 8990",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Las Campanas Observatory, Carnegie Institution of Washington, La Serena, Chile"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0002-2100-3257"
+      },
+      "name": {
+        "given_name": "Mat\u00edas R.",
+        "surname": "D\u00edaz"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "grid.465289.4",
+              "affIDType": "GRID"
+            }
+          ],
+          "affPubRaw": "Rheinisches Institut f\u00fcr Umweltforschung an der Universit\u00e4t zu K\u00f6ln, Cologne, Germany"
+        }
+      ],
+      "name": {
+        "given_name": "Sascha",
+        "surname": "Grziwa"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "grid.455754.2",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0001 1781 4754",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Center for Astrophysics \u2223 Harvard & Smithsonian, Cambridge, MA, USA"
+        }
+      ],
+      "name": {
+        "given_name": "Karen A.",
+        "surname": "Collins"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "grid.26999.3d",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0001 2151 536X",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Department of Astronomy, University of Tokyo, Tokyo, Japan"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0002-4881-3620"
+      },
+      "name": {
+        "given_name": "John H.",
+        "surname": "Livingston"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "grid.89336.37",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0004 1936 9924",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Department of Astronomy and McDonald Observatory, University of Texas at Austin, Austin, TX, USA"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0001-9662-3496"
+      },
+      "name": {
+        "given_name": "William D.",
+        "surname": "Cochran"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "grid.9757.c",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0004 0415 6205",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Astrophysics Group, Keele University, Staffordshire, UK"
+        }
+      ],
+      "name": {
+        "given_name": "Coel",
+        "surname": "Hellier"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "grid.7605.4",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0001 2336 6580",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Dipartimento di Fisica, Universit\u00e0 degli Studi di Torino, Turin, Italy"
+        }
+      ],
+      "name": {
+        "given_name": "Salvatore E.",
+        "surname": "Bellomo"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "grid.429508.2",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0004 0491 677X",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Max Planck Institut f\u00fcr Astronomie, Heidelberg, Germany"
+        },
+        {
+          "affPubID": [
+            {
+              "affID": "grid.11355.33",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0001 2192 3275",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Department of Astronomy, Faculty of Physics, University of Sofia, Sofia, Bulgaria"
+        }
+      ],
+      "name": {
+        "given_name": "Trifon",
+        "surname": "Trifonov"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "grid.440369.c",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0004 0545 276X",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "European Southern Observatory, Santiago de Chile, Chile"
+        }
+      ],
+      "name": {
+        "given_name": "Florian",
+        "surname": "Rodler"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "grid.440369.c",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0004 0545 276X",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "European Southern Observatory, Santiago de Chile, Chile"
+        }
+      ],
+      "name": {
+        "given_name": "Javier",
+        "surname": "Alarcon"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "grid.419075.e",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0001 1955 7990",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "NASA Ames Research Center, Moffett Field, CA, USA"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0002-4715-9460"
+      },
+      "name": {
+        "given_name": "Jon M.",
+        "surname": "Jenkins"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "grid.455754.2",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0001 1781 4754",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Harvard\u2013Smithsonian Center for Astrophysics, Cambridge, MA, USA"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0001-9911-7388"
+      },
+      "name": {
+        "given_name": "David W.",
+        "surname": "Latham"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "grid.116068.8",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0001 2341 2786",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Department of Physics and Kavli Institute for Astrophysics and Space Research, Massachusetts Institute of Technology, Cambridge, MA, USA"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0003-2058-6662"
+      },
+      "name": {
+        "given_name": "George",
+        "surname": "Ricker"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "grid.116068.8",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0001 2341 2786",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Department of Physics and Kavli Institute for Astrophysics and Space Research, Massachusetts Institute of Technology, Cambridge, MA, USA"
+        },
+        {
+          "affPubID": [
+            {
+              "affID": "grid.116068.8",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0001 2341 2786",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Department of Earth, Atmospheric and Planetary Sciences, Massachusetts Institute of Technology, Cambridge, MA, USA"
+        },
+        {
+          "affPubID": [
+            {
+              "affID": "grid.116068.8",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0001 2341 2786",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Department of Aeronautics and Astronautics, MIT, Cambridge, MA, USA"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0002-6892-6948"
+      },
+      "name": {
+        "given_name": "Sara",
+        "surname": "Seager"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "grid.116068.8",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0001 2341 2786",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Department of Physics and Kavli Institute for Astrophysics and Space Research, Massachusetts Institute of Technology, Cambridge, MA, USA"
+        }
+      ],
+      "name": {
+        "given_name": "Roland",
+        "surname": "Vanderspeck"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "grid.16750.35",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0001 2097 5006",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Department of Astrophysical Sciences, Princeton University, Princeton, NJ, USA"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0002-4265-047X"
+      },
+      "name": {
+        "given_name": "Joshua N.",
+        "surname": "Winn"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "grid.7048.b",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0001 1956 2722",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Stellar Astrophysics Centre, Department of Physics and Astronomy, Aarhus University, Midtbyen, Denmark"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0003-1762-8235"
+      },
+      "name": {
+        "given_name": "Simon",
+        "surname": "Albrecht"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "grid.22448.38",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0004 1936 8032",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "George Mason University, Fairfax, VA, USA"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0003-2781-3207"
+      },
+      "name": {
+        "given_name": "Kevin I.",
+        "surname": "Collins"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "grid.7551.6",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0000 8983 7915",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Institute of Planetary Research, German Aerospace Center (DLR), Berlin, Germany"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0001-6803-9698"
+      },
+      "name": {
+        "given_name": "Szil\u00e1rd",
+        "surname": "Csizmadia"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "grid.116068.8",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0001 2341 2786",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Department of Physics and Kavli Institute for Astrophysics and Space Research, Massachusetts Institute of Technology, Cambridge, MA, USA"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0002-6939-9211"
+      },
+      "name": {
+        "given_name": "Tansu",
+        "surname": "Daylan"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "grid.17423.33",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0004 1767 6621",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Instituto de Astrof\u00edsica de Canarias (IAC), La Laguna, Spain"
+        },
+        {
+          "affPubID": [
+            {
+              "affID": "grid.10041.34",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000000121060879",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Departamento de Astrof\u00edsica, Universidad de La Laguna (ULL), La Laguna, Spain"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0003-0047-4241"
+      },
+      "name": {
+        "given_name": "Hans J.",
+        "surname": "Deeg"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "grid.440503.6",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0004 0646 0278",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Th\u00fcringer Landessternwarte Tautenburg, Tautenburg, Germany"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0002-6893-4534"
+      },
+      "name": {
+        "given_name": "Massimiliano",
+        "surname": "Esposito"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "grid.116068.8",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0001 2341 2786",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Department of Physics and Kavli Institute for Astrophysics and Space Research, Massachusetts Institute of Technology, Cambridge, MA, USA"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0002-9113-7162"
+      },
+      "name": {
+        "given_name": "Michael",
+        "surname": "Fausnaugh"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "grid.5132.5",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0001 2312 1970",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Leiden Observatory, Leiden University, Leiden, the Netherlands"
+        }
+      ],
+      "name": {
+        "given_name": "Iskra",
+        "surname": "Georgieva"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "grid.7605.4",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0001 2336 6580",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Dipartimento di Fisica, Universit\u00e0 degli Studi di Torino, Turin, Italy"
+        },
+        {
+          "affPubID": [
+            {
+              "affID": "grid.440503.6",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0004 0646 0278",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Th\u00fcringer Landessternwarte Tautenburg, Tautenburg, Germany"
+        }
+      ],
+      "name": {
+        "given_name": "Elisa",
+        "surname": "Goffo"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "grid.440503.6",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0004 0646 0278",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Th\u00fcringer Landessternwarte Tautenburg, Tautenburg, Germany"
+        }
+      ],
+      "name": {
+        "given_name": "Eike",
+        "surname": "Guenther"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "grid.440503.6",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0004 0646 0278",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Th\u00fcringer Landessternwarte Tautenburg, Tautenburg, Germany"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0002-3404-8358"
+      },
+      "name": {
+        "given_name": "Artie P.",
+        "surname": "Hatzes"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "grid.419075.e",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0001 1955 7990",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "NASA Ames Research Center, Moffett Field, CA, USA"
+        }
+      ],
+      "name": {
+        "given_name": "Steve B.",
+        "surname": "Howell"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "grid.264430.7",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0001 0940 5491",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Department of Physics & Astronomy, Swarthmore College, Swarthmore, PA, USA"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0002-4625-7333"
+      },
+      "name": {
+        "given_name": "Eric L. N.",
+        "surname": "Jensen"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "grid.17423.33",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0004 1767 6621",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Instituto de Astrof\u00edsica de Canarias (IAC), La Laguna, Spain"
+        },
+        {
+          "affPubID": [
+            {
+              "affID": "grid.10041.34",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000000121060879",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Departamento de Astrof\u00edsica, Universidad de La Laguna (ULL), La Laguna, Spain"
+        }
+      ],
+      "name": {
+        "given_name": "Rafael",
+        "surname": "Luque"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "grid.10698.36",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000000122483208",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Department of Physics and Astronomy, The University of North Carolina at Chapel Hill, Chapel Hill, NC, USA"
+        }
+      ],
+      "name": {
+        "given_name": "Andrew W.",
+        "surname": "Mann"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "grid.17423.33",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0004 1767 6621",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Instituto de Astrof\u00edsica de Canarias (IAC), La Laguna, Spain"
+        },
+        {
+          "affPubID": [
+            {
+              "affID": "grid.10041.34",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000000121060879",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Departamento de Astrof\u00edsica, Universidad de La Laguna (ULL), La Laguna, Spain"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0001-9087-1245"
+      },
+      "name": {
+        "given_name": "Felipe",
+        "surname": "Murgas"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "grid.83440.3b",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000000121901201",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Mullard Space Science Laboratory, University College London, Dorking, UK"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0002-4143-4767"
+      },
+      "name": {
+        "given_name": "Hannah L. M.",
+        "surname": "Osborne"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "grid.17423.33",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0004 1767 6621",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Instituto de Astrof\u00edsica de Canarias (IAC), La Laguna, Spain"
+        },
+        {
+          "affPubID": [
+            {
+              "affID": "grid.10041.34",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000000121060879",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Departamento de Astrof\u00edsica, Universidad de La Laguna (ULL), La Laguna, Spain"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0003-0987-1593"
+      },
+      "name": {
+        "given_name": "Enric",
+        "surname": "Palle"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "grid.5132.5",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0001 2312 1970",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Leiden Observatory, Leiden University, Leiden, the Netherlands"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0003-1257-5146"
+      },
+      "name": {
+        "given_name": "Carina M.",
+        "surname": "Persson"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "grid.453096.d",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0004 0514 8135",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Royal Astronomical Society, London, UK"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0002-4829-7101"
+      },
+      "name": {
+        "given_name": "Pam",
+        "surname": "Rowden"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "grid.116068.8",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0001 2341 2786",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Department of Physics and Kavli Institute for Astrophysics and Space Research, Massachusetts Institute of Technology, Cambridge, MA, USA"
+        }
+      ],
+      "name": {
+        "given_name": "Alexander",
+        "surname": "Rudat"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "grid.7551.6",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0000 8983 7915",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Institute for Planetary Research, German Aerospace Center (DLR), Berlin, Germany"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0002-2386-4341"
+      },
+      "name": {
+        "given_name": "Alexis M. S.",
+        "surname": "Smith"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "grid.419075.e",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0001 1955 7990",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "NASA Ames Research Center, Moffett Field, CA, USA"
+        },
+        {
+          "affPubID": [
+            {
+              "affID": "grid.422128.f",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0001 2115 2810",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "SETI Institute, Mountain View, CA, USA"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0002-6778-7552"
+      },
+      "name": {
+        "given_name": "Joseph D.",
+        "surname": "Twicken"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "grid.83440.3b",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000000121901201",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Mullard Space Science Laboratory, University College London, Dorking, UK"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0001-5542-8870"
+      },
+      "name": {
+        "given_name": "Vincent",
+        "surname": "Van Eylen"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "grid.264303.0",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0001 0754 4420",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Department of Physics, Engineering and Astronomy, Stephen F. Austin State University, Nacogdoches, TX, USA"
+        }
+      ],
+      "name": {
+        "given_name": "Carl",
+        "surname": "Ziegler"
+      }
+    }
+  ],
+  "copyright": {
+    "statement": "\u00a9 The Author(s), under exclusive licence to Springer Nature Limited 2022",
+    "status": true
+  },
+  "editorialHistory": {
+    "acceptedDate": "2022-02-23",
+    "receivedDates": [
+      "2021-08-06"
+    ]
+  },
+  "funding": [
+    {
+      "agencyname": "CRT foundation under Grant No. 2018.2323 ``Gaseous or rocky? Unveiling the nature of small worlds\""
+    },
+    {
+      "agencyname": "Swedish National Space Agency (DNR 174/18, 65/19, 120/19C)"
+    },
+    {
+      "agencyname": "Swedish National Space Agency (DNR 2020-00104)"
+    },
+    {
+      "agencyname": "DFG grants RA714/14-1 within the DFG Schwerpunkt SPP 1992, \u201cExploring the Diversity of Extrasolar Planets\u201d"
+    },
+    {
+      "agencyname": "Comisi\u00f2on Nacional de Investigaci\u00f2n Cient\u00ecfica y Tecnol\u00f2gica (CONICYT)-PFCHA/Doctorado Nacional-21140646, Chile"
+    },
+    {
+      "agencyname": "T.T. acknowledges support by the DFG Research Unit FOR 2544 \"Blue Planets around Red Stars\" project No. KU 3625/2-1. T.T. further acknowledges support by the BNSF program \"VIHREN-2021\" project No. \u041a\u041f-06-\u0414\u0412/5."
+    },
+    {
+      "agencyname": "MIT\u2019s Kavli Institute as a Kavli postdoctoral fellow"
+    },
+    {
+      "agencyname": "Th\u00fcringer Ministerium f\u00fcr Wirtschaft, Wissenschaft und Digitale Gesellschaft"
+    }
+  ],
+  "pagination": {
+    "firstPage": "1",
+    "lastPage": "15",
+    "pageRange": "1-15"
+  },
+  "persistentIDs": [
+    {
+      "DOI": "10.1038/s41550-022-01641-y"
+    }
+  ],
+  "pubDate": {
+    "electrDate": "2022-04-28"
+  },
+  "publication": {
+    "ISSN": [
+      {
+        "issnString": "2397-3366",
+        "pubtype": "epub"
+      }
+    ],
+    "pubName": "Nature Astronomy",
+    "pubYear": "2022",
+    "publisher": "Nature Publishing Group UK"
+  },
+  "publisherIDs": [
+    {
+      "Identifier": "s41550-022-01641-y",
+      "attribute": "publisher-id"
+    },
+    {
+      "Identifier": "1641",
+      "attribute": "manuscript"
+    }
+  ],
+  "recordData": {
+    "createdTime": "",
+    "loadFormat": "JATS",
+    "loadLocation": "",
+    "loadType": "fromFile",
+    "parsedTime": "",
+    "recordOrigin": ""
+  },
+  "references": [
+    "<ref id=\"CR1\"><label>1.</label><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><collab>Gaia Collaboration</collab><etal/></person-group><article-title xml:lang=\"en\">Gaia data release 2. Summary of the contents and survey properties</article-title><source>Astron. Astrophys.</source><year>2018</year><volume>616</volume><fpage>A1</fpage><pub-id pub-id-type=\"doi\">10.1051/0004-6361/201833051</pub-id></mixed-citation></ref>",
+    "<ref id=\"CR2\"><label>2.</label><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><name><surname>Mermilliod</surname><given-names>JC</given-names></name></person-group><article-title xml:lang=\"en\">UBV photoelectric photometry catalogue (1986): I. The original data</article-title><source>Astron. Astrophys. Suppl. Ser.</source><year>1987</year><volume>71</volume><fpage>413</fpage><pub-id pub-id-type=\"bibcode\">1987A&amp;AS...71..413M</pub-id></mixed-citation></ref>",
+    "<ref id=\"CR3\"><label>3.</label><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><name><surname>Ricker</surname><given-names>GR</given-names></name><etal/></person-group><article-title xml:lang=\"en\">Transiting Exoplanet Survey Satellite (TESS)</article-title><source>J. Astro. Telesc. Instrum. Syst.</source><year>2015</year><volume>1</volume><fpage>014003</fpage><pub-id pub-id-type=\"bibcode\">2015JATIS...1a4003R</pub-id><pub-id pub-id-type=\"doi\">10.1117/1.JATIS.1.1.014003</pub-id></mixed-citation></ref>",
+    "<ref id=\"CR4\"><label>4.</label><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><name><surname>Jenkins</surname><given-names>JM</given-names></name><etal/></person-group><article-title xml:lang=\"en\">The TESS science processing operations center</article-title><source>Proc. SPIE Int. Soc. Opt. Eng.</source><year>2016</year><volume>9913</volume><fpage>93133E</fpage></mixed-citation></ref>",
+    "<ref id=\"CR5\"><label>5.</label><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><name><surname>Cabrera</surname><given-names>J</given-names></name><name><surname>Csizmadia</surname><given-names>S</given-names></name><name><surname>Erikson</surname><given-names>A</given-names></name><name><surname>Rauer</surname><given-names>H</given-names></name><name><surname>Kirste</surname><given-names>S</given-names></name></person-group><article-title xml:lang=\"en\">A study of the performance of the transit detection tool DST in space-based surveys. Application of the CoRoT pipeline to Kepler data</article-title><source>Astron. Astrophys.</source><year>2012</year><volume>548</volume><fpage>A44</fpage><pub-id pub-id-type=\"bibcode\">2012A&amp;A...548A..44C</pub-id><pub-id pub-id-type=\"doi\">10.1051/0004-6361/201219337</pub-id></mixed-citation></ref>",
+    "<ref id=\"CR6\"><label>6.</label><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><name><surname>Hippke</surname><given-names>M</given-names></name><name><surname>Heller</surname><given-names>R</given-names></name></person-group><article-title xml:lang=\"en\">Optimized transit detection algorithm to search for periodic transits of small planets</article-title><source>Astron. Astrophys.</source><year>2019</year><volume>623</volume><fpage>A39</fpage><pub-id pub-id-type=\"bibcode\">2019A&amp;A...623A..39H</pub-id><pub-id pub-id-type=\"doi\">10.1051/0004-6361/201834672</pub-id></mixed-citation></ref>",
+    "<ref id=\"CR7\"><label>7.</label><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><name><surname>Brown</surname><given-names>TM</given-names></name><etal/></person-group><article-title xml:lang=\"en\">Las Cumbres Observatory Global Telescope Network</article-title><source>Publ. Astron. Soc. Pac.</source><year>2013</year><volume>125</volume><fpage>1031</fpage><pub-id pub-id-type=\"bibcode\">2013PASP..125.1031B</pub-id><pub-id pub-id-type=\"doi\">10.1086/673168</pub-id></mixed-citation></ref>",
+    "<ref id=\"CR8\"><label>8.</label><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><name><surname>Mayor</surname><given-names>M</given-names></name><etal/></person-group><article-title xml:lang=\"en\">Setting new standards with HARPS</article-title><source>The Messenger</source><year>2003</year><volume>114</volume><fpage>20</fpage><lpage>24</lpage><pub-id pub-id-type=\"bibcode\">2003Msngr.114...20M</pub-id></mixed-citation></ref>",
+    "<ref id=\"CR9\"><label>9.</label><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><name><surname>Barrag\u00e1n</surname><given-names>O</given-names></name><name><surname>Gandolfi</surname><given-names>D</given-names></name><name><surname>Antoniciello</surname><given-names>G</given-names></name></person-group><article-title xml:lang=\"en\">PYANETI: a fast and powerful software suite for multiplanet radial velocity and transit fitting</article-title><source>Mon. Not. R. Astron. Soc.</source><year>2019</year><volume>482</volume><fpage>1017</fpage><lpage>1030</lpage><pub-id pub-id-type=\"bibcode\">2019MNRAS.482.1017B</pub-id><pub-id pub-id-type=\"doi\">10.1093/mnras/sty2472</pub-id></mixed-citation></ref>",
+    "<ref id=\"CR10\"><label>10.</label><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><name><surname>Valenti</surname><given-names>JA</given-names></name><name><surname>Piskunov</surname><given-names>N</given-names></name></person-group><article-title xml:lang=\"en\">Spectroscopy made easy: a new tool for fitting observations with synthetic spectra</article-title><source>Astron. Astrophys. Suppl. Ser.</source><year>1996</year><volume>118</volume><fpage>595</fpage><lpage>603</lpage><pub-id pub-id-type=\"bibcode\">1996A&amp;AS..118..595V</pub-id><pub-id pub-id-type=\"doi\">10.1051/aas:1996222</pub-id></mixed-citation></ref>",
+    "<ref id=\"CR11\"><label>11.</label><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><name><surname>Piskunov</surname><given-names>N</given-names></name><name><surname>Valenti</surname><given-names>JA</given-names></name></person-group><article-title xml:lang=\"en\">Spectroscopy made easy: evolution</article-title><source>Astron. Astrophys.</source><year>2017</year><volume>597</volume><fpage>A16</fpage><pub-id pub-id-type=\"bibcode\">2017A&amp;A...597A..16P</pub-id><pub-id pub-id-type=\"doi\">10.1051/0004-6361/201629124</pub-id></mixed-citation></ref>",
+    "<ref id=\"CR12\"><label>12.</label><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><name><surname>da Silva</surname><given-names>L</given-names></name><etal/></person-group><article-title xml:lang=\"en\">Basic physical parameters of a selected sample of evolved stars</article-title><source>Astron. Astrophys.</source><year>2006</year><volume>458</volume><fpage>609</fpage><lpage>623</lpage><pub-id pub-id-type=\"bibcode\">2006A&amp;A...458..609D</pub-id><pub-id pub-id-type=\"doi\">10.1051/0004-6361:20065105</pub-id></mixed-citation></ref>",
+    "<ref id=\"CR13\"><label>13.</label><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><name><surname>Pollacco</surname><given-names>DL</given-names></name><etal/></person-group><article-title xml:lang=\"en\">The WASP project and the SuperWASP cameras</article-title><source>Publ. Astron. Soc. Pac.</source><year>2006</year><volume>118</volume><fpage>1407</fpage><lpage>1418</lpage><pub-id pub-id-type=\"bibcode\">2006PASP..118.1407P</pub-id><pub-id pub-id-type=\"doi\">10.1086/508556</pub-id></mixed-citation></ref>",
+    "<ref id=\"CR14\"><label>14.</label><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><name><surname>Oelkers</surname><given-names>RJ</given-names></name><etal/></person-group><article-title xml:lang=\"en\">Variability properties of four million sources in the TESS input catalog observed with the Kilodegree Extremely Little Telescope survey</article-title><source>Astron. J.</source><year>2018</year><volume>155</volume><fpage>39</fpage><pub-id pub-id-type=\"bibcode\">2018AJ....155...39O</pub-id><pub-id pub-id-type=\"doi\">10.3847/1538-3881/aa9bf4</pub-id></mixed-citation></ref>",
+    "<ref id=\"CR15\"><label>15.</label><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><name><surname>Pepe</surname><given-names>F</given-names></name><etal/></person-group><article-title xml:lang=\"en\">An Earth-sized planet with an Earth-like density</article-title><source>Nature</source><year>2013</year><volume>503</volume><fpage>377</fpage><lpage>380</lpage><pub-id pub-id-type=\"bibcode\">2013Natur.503..377P</pub-id><pub-id pub-id-type=\"doi\">10.1038/nature12768</pub-id></mixed-citation></ref>",
+    "<ref id=\"CR16\"><label>16.</label><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><name><surname>L\u00e9ger</surname><given-names>A</given-names></name><etal/></person-group><article-title xml:lang=\"en\">Transiting exoplanets from the CoRoT space mission. VIII. CoRoT-7b: the first super-Earth with measured radius</article-title><source>Astron. Astrophys.</source><year>2009</year><volume>506</volume><fpage>287</fpage><lpage>302</lpage><pub-id pub-id-type=\"bibcode\">2009A&amp;A...506..287L</pub-id><pub-id pub-id-type=\"doi\">10.1051/0004-6361/200911933</pub-id></mixed-citation></ref>",
+    "<ref id=\"CR17\"><label>17.</label><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><name><surname>Winn</surname><given-names>JN</given-names></name><name><surname>Sanchis-Ojeda</surname><given-names>R</given-names></name><name><surname>Rappaport</surname><given-names>S</given-names></name></person-group><article-title xml:lang=\"en\">Kepler-78 and the ultra-short-period planets</article-title><source>New Astron. Rev.</source><year>2018</year><volume>83</volume><fpage>37</fpage><lpage>48</lpage><pub-id pub-id-type=\"bibcode\">2018NewAR..83...37W</pub-id><pub-id pub-id-type=\"doi\">10.1016/j.newar.2019.03.006</pub-id></mixed-citation></ref>",
+    "<ref id=\"CR18\"><label>18.</label><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><name><surname>Lam</surname><given-names>KWF</given-names></name><etal/></person-group><article-title xml:lang=\"en\">GJ 367b: a dense, ultrashort-period sub-Earth planet transiting a nearby red dwarf star</article-title><source>Science</source><year>2021</year><volume>374</volume><fpage>1271</fpage><lpage>1275</lpage><pub-id pub-id-type=\"bibcode\">2021Sci...374.1271L</pub-id><pub-id pub-id-type=\"doi\">10.1126/science.aay3253</pub-id></mixed-citation></ref>",
+    "<ref id=\"CR19\"><label>19.</label><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><name><surname>Tabernero</surname><given-names>HM</given-names></name><etal/></person-group><article-title xml:lang=\"en\">HORuS transmission spectroscopy of 55 Cnc e</article-title><source>Mon. Not. R. Astron. Soc.</source><year>2020</year><volume>498</volume><fpage>4222</fpage><lpage>4229</lpage><pub-id pub-id-type=\"bibcode\">2020MNRAS.498.4222T</pub-id><pub-id pub-id-type=\"doi\">10.1093/mnras/staa2583</pub-id></mixed-citation></ref>",
+    "<ref id=\"CR20\"><label>20.</label><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><name><surname>Madhusudhan</surname><given-names>N</given-names></name><name><surname>Redfield</surname><given-names>S</given-names></name></person-group><article-title xml:lang=\"en\">Optimal measures for characterizing water-rich super-Earths</article-title><source>Int. J. Astrobiol.</source><year>2015</year><volume>14</volume><fpage>177</fpage><lpage>189</lpage><pub-id pub-id-type=\"bibcode\">2015IJAsB..14..177M</pub-id><pub-id pub-id-type=\"doi\">10.1017/S1473550414000421</pub-id></mixed-citation></ref>",
+    "<ref id=\"CR21\"><label>21.</label><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><name><surname>Otegi</surname><given-names>JF</given-names></name><name><surname>Bouchy</surname><given-names>F</given-names></name><name><surname>Helled</surname><given-names>R</given-names></name></person-group><article-title xml:lang=\"en\">Revisited mass\u2013radius relations for exoplanets below 120\u2009<italic>M</italic><sub>\u2295</sub></article-title><source>Astron. Astrophys.</source><year>2020</year><volume>634</volume><fpage>A43</fpage><pub-id pub-id-type=\"bibcode\">2020A&amp;A...634A..43O</pub-id><pub-id pub-id-type=\"doi\">10.1051/0004-6361/201936482</pub-id></mixed-citation></ref>",
+    "<ref id=\"CR22\"><label>22.</label><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><name><surname>Rein</surname><given-names>H</given-names></name><name><surname>Liu</surname><given-names>SF</given-names></name></person-group><article-title xml:lang=\"en\">REBOUND: an open-source multi-purpose N-body code for collisional dynamics</article-title><source>Astron. Astrophys.</source><year>2012</year><volume>537</volume><fpage>A128</fpage><pub-id pub-id-type=\"bibcode\">2012A&amp;A...537A.128R</pub-id><pub-id pub-id-type=\"doi\">10.1051/0004-6361/201118085</pub-id></mixed-citation></ref>",
+    "<ref id=\"CR23\"><label>23.</label><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><name><surname>Tamayo</surname><given-names>D</given-names></name><name><surname>Rein</surname><given-names>H</given-names></name><name><surname>Shi</surname><given-names>P</given-names></name><name><surname>Hernandez</surname><given-names>DM</given-names></name></person-group><article-title xml:lang=\"en\">REBOUNDx: a library for adding conservative and dissipative forces to otherwise symplectic N-body integrations</article-title><source>Mon. Not. R. Astron. Soc.</source><year>2020</year><volume>491</volume><fpage>2885</fpage><lpage>2901</lpage><pub-id pub-id-type=\"bibcode\">2020MNRAS.491.2885T</pub-id><pub-id pub-id-type=\"doi\">10.1093/mnras/stz2870</pub-id></mixed-citation></ref>",
+    "<ref id=\"CR24\"><label>24.</label><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><name><surname>Isella</surname><given-names>A</given-names></name><name><surname>Testi</surname><given-names>L</given-names></name><name><surname>Natta</surname><given-names>A</given-names></name></person-group><article-title xml:lang=\"en\">Large dust grains in the inner region of circumstellar disks</article-title><source>Astron. Astrophys.</source><year>2006</year><volume>451</volume><fpage>951</fpage><lpage>959</lpage><pub-id pub-id-type=\"bibcode\">2006A&amp;A...451..951I</pub-id><pub-id pub-id-type=\"doi\">10.1051/0004-6361:20054647</pub-id></mixed-citation></ref>",
+    "<ref id=\"CR25\"><label>25.</label><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><name><surname>Schlaufman</surname><given-names>KC</given-names></name></person-group><article-title xml:lang=\"en\">Evidence of possible spin-orbit misalignment along the line of sight in transiting exoplanet systems</article-title><source>Astrophys. J.</source><year>2010</year><volume>719</volume><fpage>602</fpage><lpage>611</lpage><pub-id pub-id-type=\"bibcode\">2010ApJ...719..602S</pub-id><pub-id pub-id-type=\"doi\">10.1088/0004-637X/719/1/602</pub-id></mixed-citation></ref>",
+    "<ref id=\"CR26\"><label>26.</label><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><name><surname>Steffen</surname><given-names>JH</given-names></name><name><surname>Farr</surname><given-names>WM</given-names></name></person-group><article-title xml:lang=\"en\">A lack of short-period multiplanet systems with close-proximity pairs and the curious case of Kepler-42</article-title><source>Astrophys. J.</source><year>2013</year><volume>774</volume><fpage>L12</fpage><pub-id pub-id-type=\"bibcode\">2013ApJ...774L..12S</pub-id><pub-id pub-id-type=\"doi\">10.1088/2041-8205/774/1/L12</pub-id></mixed-citation></ref>",
+    "<ref id=\"CR27\"><label>27.</label><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><name><surname>Dai</surname><given-names>F</given-names></name><name><surname>Masuda</surname><given-names>K</given-names></name><name><surname>Winn</surname><given-names>JN</given-names></name></person-group><article-title xml:lang=\"en\">Larger mutual inclinations for the shortest-period planets</article-title><source>Astrophys. J.</source><year>2018</year><volume>864</volume><fpage>L38</fpage><pub-id pub-id-type=\"bibcode\">2018ApJ...864L..38D</pub-id><pub-id pub-id-type=\"doi\">10.3847/2041-8213/aadd4f</pub-id></mixed-citation></ref>",
+    "<ref id=\"CR28\"><label>28.</label><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><name><surname>Lee</surname><given-names>EJ</given-names></name><name><surname>Chiang</surname><given-names>E</given-names></name></person-group><article-title xml:lang=\"en\">Magnetospheric truncation, tidal inspiral, and the creation of short-period and ultra-short-period planets</article-title><source>Astrophys. J.</source><year>2017</year><volume>842</volume><fpage>40</fpage><pub-id pub-id-type=\"bibcode\">2017ApJ...842...40L</pub-id><pub-id pub-id-type=\"doi\">10.3847/1538-4357/aa6fb3</pub-id></mixed-citation></ref>",
+    "<ref id=\"CR29\"><label>29.</label><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><name><surname>Petrovich</surname><given-names>C</given-names></name><name><surname>Deibert</surname><given-names>E</given-names></name><name><surname>Wu</surname><given-names>Y</given-names></name></person-group><article-title xml:lang=\"en\">Ultra-short-period planets from secular chaos</article-title><source>Astron. J.</source><year>2019</year><volume>157</volume><fpage>180</fpage><pub-id pub-id-type=\"bibcode\">2019AJ....157..180P</pub-id><pub-id pub-id-type=\"doi\">10.3847/1538-3881/ab0e0a</pub-id></mixed-citation></ref>",
+    "<ref id=\"CR30\"><label>30.</label><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><name><surname>Pu</surname><given-names>B</given-names></name><name><surname>Lai</surname><given-names>D</given-names></name></person-group><article-title xml:lang=\"en\">Low-eccentricity migration of ultra-short-period planets in multiplanet systems</article-title><source>Mon. Not. R. Astron. Soc.</source><year>2019</year><volume>488</volume><fpage>3568</fpage><lpage>3587</lpage><pub-id pub-id-type=\"bibcode\">2019MNRAS.488.3568P</pub-id><pub-id pub-id-type=\"doi\">10.1093/mnras/stz1817</pub-id></mixed-citation></ref>",
+    "<ref id=\"CR31\"><label>31.</label><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><name><surname>Millholland</surname><given-names>SC</given-names></name><name><surname>Spalding</surname><given-names>C</given-names></name></person-group><article-title xml:lang=\"en\">Formation of ultra-short-period planets by obliquity-driven tidal runaway</article-title><source>Astrophys. J.</source><year>2020</year><volume>905</volume><fpage>71</fpage><pub-id pub-id-type=\"bibcode\">2020ApJ...905...71M</pub-id><pub-id pub-id-type=\"doi\">10.3847/1538-4357/abc4e5</pub-id></mixed-citation></ref>",
+    "<ref id=\"CR32\"><label>32.</label><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><name><surname>Laskar</surname><given-names>J</given-names></name></person-group><article-title xml:lang=\"en\">Large scale chaos and the spacing of the inner planets</article-title><source>Astron. Astrophys.</source><year>1997</year><volume>317</volume><fpage>L75</fpage><lpage>L78</lpage><pub-id pub-id-type=\"bibcode\">1997A&amp;A...317L..75L</pub-id></mixed-citation></ref>",
+    "<ref id=\"CR33\"><label>33.</label><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><name><surname>Fabrycky</surname><given-names>DC</given-names></name><etal/></person-group><article-title xml:lang=\"en\">Transit timing observations from Kepler. IV. Confirmation of four multiple-planet systems by simple physical models</article-title><source>Astrophys. J.</source><year>2012</year><volume>750</volume><fpage>114</fpage><pub-id pub-id-type=\"bibcode\">2012ApJ...750..114F</pub-id><pub-id pub-id-type=\"doi\">10.1088/0004-637X/750/2/114</pub-id></mixed-citation></ref>",
+    "<ref id=\"CR34\"><label>34.</label><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><name><surname>Kamiaka</surname><given-names>S</given-names></name><etal/></person-group><article-title xml:lang=\"en\">The misaligned orbit of the Earth-sized planet Kepler-408b</article-title><source>Astron. J.</source><year>2019</year><volume>157</volume><fpage>137</fpage><pub-id pub-id-type=\"bibcode\">2019AJ....157..137K</pub-id><pub-id pub-id-type=\"doi\">10.3847/1538-3881/ab04a9</pub-id></mixed-citation></ref>",
+    "<ref id=\"CR35\"><label>35.</label><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><name><surname>Lacedelli</surname><given-names>G</given-names></name><etal/></person-group><article-title xml:lang=\"en\">An unusually low density ultra-short period super-Earth and three mini-Neptunes around the old star TOI-561</article-title><source>Mon. Not. R. Astron. Soc.</source><year>2021</year><volume>501</volume><fpage>4148</fpage><lpage>4166</lpage><pub-id pub-id-type=\"bibcode\">2021MNRAS.501.4148L</pub-id><pub-id pub-id-type=\"doi\">10.1093/mnras/staa3728</pub-id></mixed-citation></ref>",
+    "<ref id=\"CR36\"><label>36.</label><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><name><surname>Queloz</surname><given-names>D</given-names></name><etal/></person-group><article-title xml:lang=\"en\">The CoRoT-7 planetary system: two orbiting super-Earths</article-title><source>Astron. Astrophys.</source><year>2009</year><volume>506</volume><fpage>303</fpage><lpage>319</lpage><pub-id pub-id-type=\"bibcode\">2009A&amp;A...506..303Q</pub-id><pub-id pub-id-type=\"doi\">10.1051/0004-6361/200913096</pub-id></mixed-citation></ref>",
+    "<ref id=\"CR37\"><label>37.</label><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><name><surname>Hatzes</surname><given-names>AP</given-names></name><etal/></person-group><article-title xml:lang=\"en\">An investigation into the radial velocity variations of CoRoT-7</article-title><source>Astron. Astrophys.</source><year>2010</year><volume>520</volume><fpage>A93</fpage><pub-id pub-id-type=\"doi\">10.1051/0004-6361/201014795</pub-id></mixed-citation></ref>",
+    "<ref id=\"CR38\"><label>38.</label><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><name><surname>Haywood</surname><given-names>RD</given-names></name><etal/></person-group><article-title xml:lang=\"en\">Planets and stellar activity: hide and seek in the CoRoT-7 system</article-title><source>Mon. Not. R. Astron. Soc.</source><year>2014</year><volume>443</volume><fpage>2517</fpage><lpage>2531</lpage><pub-id pub-id-type=\"bibcode\">2014MNRAS.443.2517H</pub-id><pub-id pub-id-type=\"doi\">10.1093/mnras/stu1320</pub-id></mixed-citation></ref>",
+    "<ref id=\"CR39\"><label>39.</label><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><name><surname>Faria</surname><given-names>JP</given-names></name><etal/></person-group><article-title xml:lang=\"en\">Uncovering the planets and stellar activity of CoRoT-7 using only radial velocities</article-title><source>Astron. Astrophys.</source><year>2016</year><volume>588</volume><fpage>A31</fpage><pub-id pub-id-type=\"doi\">10.1051/0004-6361/201527899</pub-id></mixed-citation></ref>",
+    "<ref id=\"CR40\"><label>40.</label><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><name><surname>Smith</surname><given-names>JC</given-names></name><etal/></person-group><article-title xml:lang=\"en\">Kepler presearch data conditioning II\u2014a Bayesian approach to systematic error correction</article-title><source>Publ. Astron. Soc. Pac.</source><year>2012</year><volume>124</volume><fpage>1000</fpage><pub-id pub-id-type=\"bibcode\">2012PASP..124.1000S</pub-id><pub-id pub-id-type=\"doi\">10.1086/667697</pub-id></mixed-citation></ref>",
+    "<ref id=\"CR41\"><label>41.</label><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><name><surname>Stumpe</surname><given-names>MC</given-names></name><etal/></person-group><article-title xml:lang=\"en\">Kepler presearch data conditioning I. Architecture and algorithms for error correction in Kepler light curves</article-title><source>Publ. Astron. Soc. Pac.</source><year>2012</year><volume>124</volume><fpage>985</fpage><pub-id pub-id-type=\"bibcode\">2012PASP..124..985S</pub-id><pub-id pub-id-type=\"doi\">10.1086/667698</pub-id></mixed-citation></ref>",
+    "<ref id=\"CR42\"><label>42.</label><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><name><surname>Stumpe</surname><given-names>MC</given-names></name><etal/></person-group><article-title xml:lang=\"en\">Multiscale systematic error correction via wavelet-based bandsplitting in Kepler Data</article-title><source>Publ. Astron. Soc. Pac.</source><year>2014</year><volume>126</volume><fpage>100</fpage><pub-id pub-id-type=\"bibcode\">2014PASP..126..100S</pub-id><pub-id pub-id-type=\"doi\">10.1086/674989</pub-id></mixed-citation></ref>",
+    "<ref id=\"CR43\"><label>43.</label><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><name><surname>Twicken</surname><given-names>JD</given-names></name><etal/></person-group><article-title xml:lang=\"en\">Kepler data validation I. Architecture, diagnostic tests, and data products for vetting transiting planet candidates</article-title><source>Publ. Astron. Soc. Pac.</source><year>2018</year><volume>130</volume><fpage>064502</fpage><pub-id pub-id-type=\"bibcode\">2018PASP..130f4502T</pub-id><pub-id pub-id-type=\"doi\">10.1088/1538-3873/aab694</pub-id></mixed-citation></ref>",
+    "<ref id=\"CR44\"><label>44.</label><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><name><surname>Li</surname><given-names>J</given-names></name><etal/></person-group><article-title xml:lang=\"en\">Kepler data validation II\u2014transit model fitting and multiple-planet search</article-title><source>Publ. Astron. Soc. Pac.</source><year>2019</year><volume>131</volume><fpage>024506</fpage><pub-id pub-id-type=\"bibcode\">2019PASP..131b4506L</pub-id><pub-id pub-id-type=\"doi\">10.1088/1538-3873/aaf44d</pub-id></mixed-citation></ref>",
+    "<ref id=\"CR45\"><label>45.</label><mixed-citation publication-type=\"other\">McCully, C. et al. Real-time processing of the imaging data from the network of Las Cumbres Observatory Telescopes using BANZAI. (eds. Guzman, J. C. and Ibsen, J.) Software and Cyberinfrastructure for Astronomy V, <italic>Proc SPIE</italic> Vol. 10707 107070K (2018).</mixed-citation></ref>",
+    "<ref id=\"CR46\"><label>46.</label><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><name><surname>Collins</surname><given-names>KA</given-names></name><name><surname>Kielkopf</surname><given-names>JF</given-names></name><name><surname>Stassun</surname><given-names>KG</given-names></name><name><surname>Hessman</surname><given-names>FV</given-names></name></person-group><article-title xml:lang=\"en\">AstroImageJ: image processing and photometric extraction for ultra-precise astronomical light curves</article-title><source>Astron. J.</source><year>2017</year><volume>153</volume><fpage>77</fpage><pub-id pub-id-type=\"bibcode\">2017AJ....153...77C</pub-id><pub-id pub-id-type=\"doi\">10.3847/1538-3881/153/2/77</pub-id></mixed-citation></ref>",
+    "<ref id=\"CR47\"><label>47.</label><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><name><surname>Maxted</surname><given-names>PFL</given-names></name><etal/></person-group><article-title xml:lang=\"en\">WASP-41b: a transiting hot Jupiter planet orbiting a magnetically active G8V star</article-title><source>Publ. Astron. Soc. Pac.</source><year>2011</year><volume>123</volume><fpage>547</fpage><pub-id pub-id-type=\"bibcode\">2011PASP..123..547M</pub-id><pub-id pub-id-type=\"doi\">10.1086/660007</pub-id></mixed-citation></ref>",
+    "<ref id=\"CR48\"><label>48.</label><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><name><surname>Ciardi</surname><given-names>DR</given-names></name><name><surname>Beichman</surname><given-names>CA</given-names></name><name><surname>Horch</surname><given-names>EP</given-names></name><name><surname>Howell</surname><given-names>SB</given-names></name></person-group><article-title xml:lang=\"en\">Understanding the effects of stellar multiplicity on the derived planet radii from transit surveys: implications for Kepler, K2, and TESS</article-title><source>Astrophys. J.</source><year>2015</year><volume>805</volume><fpage>16</fpage><pub-id pub-id-type=\"bibcode\">2015ApJ...805...16C</pub-id><pub-id pub-id-type=\"doi\">10.1088/0004-637X/805/1/16</pub-id></mixed-citation></ref>",
+    "<ref id=\"CR49\"><label>49.</label><mixed-citation publication-type=\"other\">Scott, N. J. \u2018Alopeke, Zorro, and NESSI: three dual-channel speckle imaging instruments at Gemini-North, Gemini-South, and the WIYN telescopes. In <italic>AAS/Division for Extreme Solar Systems Abstracts</italic>, Bulletin of the American Astronomical Society, Vol. 51 330.15 (2019).</mixed-citation></ref>",
+    "<ref id=\"CR50\"><label>50.</label><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><name><surname>Howell</surname><given-names>SB</given-names></name><name><surname>Everett</surname><given-names>ME</given-names></name><name><surname>Sherry</surname><given-names>W</given-names></name><name><surname>Horch</surname><given-names>E</given-names></name><name><surname>Ciardi</surname><given-names>DR</given-names></name></person-group><article-title xml:lang=\"en\">Speckle camera observations for the NASA Kepler mission follow-up program</article-title><source>Astron. J.</source><year>2011</year><volume>142</volume><fpage>19</fpage><pub-id pub-id-type=\"bibcode\">2011AJ....142...19H</pub-id><pub-id pub-id-type=\"doi\">10.1088/0004-6256/142/1/19</pub-id></mixed-citation></ref>",
+    "<ref id=\"CR51\"><label>51.</label><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><name><surname>Tokovinin</surname><given-names>A</given-names></name></person-group><article-title xml:lang=\"en\">Ten years of speckle interferometry at SOAR</article-title><source>Publ. Astron. Soc. Pac.</source><year>2018</year><volume>130</volume><fpage>035002</fpage><pub-id pub-id-type=\"bibcode\">2018PASP..130c5002T</pub-id><pub-id pub-id-type=\"doi\">10.1088/1538-3873/aaa7d9</pub-id></mixed-citation></ref>",
+    "<ref id=\"CR52\"><label>52.</label><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><name><surname>Ziegler</surname><given-names>C</given-names></name><etal/></person-group><article-title xml:lang=\"en\">SOAR TESS survey. I. Sculpting of TESS planetary systems by stellar companions</article-title><source>Astron. J.</source><year>2020</year><volume>159</volume><fpage>19</fpage><pub-id pub-id-type=\"bibcode\">2020AJ....159...19Z</pub-id><pub-id pub-id-type=\"doi\">10.3847/1538-3881/ab55e9</pub-id></mixed-citation></ref>",
+    "<ref id=\"CR53\"><label>53.</label><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><name><surname>Martin</surname><given-names>RG</given-names></name><etal/></person-group><article-title xml:lang=\"en\">The Kozai\u2013Lidov mechanism in hydrodynamical disks</article-title><source>Astrophys. J.</source><year>2014</year><volume>792</volume><fpage>L33</fpage><pub-id pub-id-type=\"bibcode\">2014ApJ...792L..33M</pub-id><pub-id pub-id-type=\"doi\">10.1088/2041-8205/792/2/L33</pub-id></mixed-citation></ref>",
+    "<ref id=\"CR54\"><label>54.</label><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><name><surname>Jang-Condell</surname><given-names>H</given-names></name></person-group><article-title xml:lang=\"en\">On the likelihood of planet formation in close binaries</article-title><source>Astrophys. J.</source><year>2015</year><volume>799</volume><fpage>147</fpage><pub-id pub-id-type=\"bibcode\">2015ApJ...799..147J</pub-id><pub-id pub-id-type=\"doi\">10.1088/0004-637X/799/2/147</pub-id></mixed-citation></ref>",
+    "<ref id=\"CR55\"><label>55.</label><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><name><surname>Cieza</surname><given-names>LA</given-names></name><etal/></person-group><article-title xml:lang=\"en\">Primordial circumstellar disks in binary systems: evidence for reduced lifetimes</article-title><source>Astrophys. J.</source><year>2009</year><volume>696</volume><fpage>L84</fpage><lpage>L88</lpage><pub-id pub-id-type=\"bibcode\">2009ApJ...696L..84C</pub-id><pub-id pub-id-type=\"doi\">10.1088/0004-637X/696/1/L84</pub-id></mixed-citation></ref>",
+    "<ref id=\"CR56\"><label>56.</label><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><name><surname>Kraus</surname><given-names>AL</given-names></name><name><surname>Ireland</surname><given-names>MJ</given-names></name><name><surname>Hillenbrand</surname><given-names>LA</given-names></name><name><surname>Martinache</surname><given-names>F</given-names></name></person-group><article-title xml:lang=\"en\">The role of multiplicity in disk evolution and planet formation</article-title><source>Astrophys. J.</source><year>2012</year><volume>745</volume><fpage>19</fpage><pub-id pub-id-type=\"bibcode\">2012ApJ...745...19K</pub-id><pub-id pub-id-type=\"doi\">10.1088/0004-637X/745/1/19</pub-id></mixed-citation></ref>",
+    "<ref id=\"CR57\"><label>57.</label><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><name><surname>Baranne</surname><given-names>A</given-names></name><etal/></person-group><article-title xml:lang=\"en\">ELODIE: a spectrograph for accurate radial velocity measurements</article-title><source>Astron. Astrophys. Suppl. Ser.</source><year>1996</year><volume>119</volume><fpage>373</fpage><lpage>390</lpage><pub-id pub-id-type=\"bibcode\">1996A&amp;AS..119..373B</pub-id><pub-id pub-id-type=\"doi\">10.1051/aas:1996251</pub-id></mixed-citation></ref>",
+    "<ref id=\"CR58\"><label>58.</label><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><name><surname>Pepe</surname><given-names>F</given-names></name><etal/></person-group><article-title xml:lang=\"en\">The CORALIE survey for southern extra-solar planets VII. Two short-period Saturnian companions to HD 108147 and HD 168746</article-title><source>Astron. Astrophys.</source><year>2002</year><volume>388</volume><fpage>632</fpage><lpage>638</lpage><pub-id pub-id-type=\"bibcode\">2002A&amp;A...388..632P</pub-id><pub-id pub-id-type=\"doi\">10.1051/0004-6361:20020433</pub-id></mixed-citation></ref>",
+    "<ref id=\"CR59\"><label>59.</label><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><name><surname>Lovis</surname><given-names>C</given-names></name><name><surname>Pepe</surname><given-names>F</given-names></name></person-group><article-title xml:lang=\"en\">A new list of thorium and argon spectral lines in the visible</article-title><source>Astron. Astrophys.</source><year>2007</year><volume>468</volume><fpage>1115</fpage><lpage>1121</lpage><pub-id pub-id-type=\"bibcode\">2007A&amp;A...468.1115L</pub-id><pub-id pub-id-type=\"doi\">10.1051/0004-6361:20077249</pub-id></mixed-citation></ref>",
+    "<ref id=\"CR60\"><label>60.</label><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><name><surname>Anglada-Escud\u00e9</surname><given-names>G</given-names></name><name><surname>Butler</surname><given-names>RP</given-names></name></person-group><article-title xml:lang=\"en\">The HARPS-TERRA project. I. Description of the algorithms, performance, and new measurements on a few remarkable stars observed by HARPS</article-title><source>Astrophys. J. Suppl. Ser.</source><year>2012</year><volume>200</volume><fpage>15</fpage><pub-id pub-id-type=\"bibcode\">2012ApJS..200...15A</pub-id><pub-id pub-id-type=\"doi\">10.1088/0067-0049/200/2/15</pub-id></mixed-citation></ref>",
+    "<ref id=\"CR61\"><label>61.</label><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><name><surname>Zechmeister</surname><given-names>M</given-names></name><etal/></person-group><article-title xml:lang=\"en\">Spectrum radial velocity analyser (SERVAL). High-precision radial velocities and two alternative spectral indicators</article-title><source>Astron. Astrophys.</source><year>2018</year><volume>609</volume><fpage>A12</fpage><pub-id pub-id-type=\"doi\">10.1051/0004-6361/201731483</pub-id></mixed-citation></ref>",
+    "<ref id=\"CR62\"><label>62.</label><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><name><surname>Zechmeister</surname><given-names>M</given-names></name><name><surname>K\u00fcrster</surname><given-names>M</given-names></name></person-group><article-title xml:lang=\"en\">The generalised Lomb\u2013Scargle periodogram. A new formalism for the floating-mean and Keplerian periodograms</article-title><source>Astron. Astrophys.</source><year>2009</year><volume>496</volume><fpage>577</fpage><lpage>584</lpage><pub-id pub-id-type=\"bibcode\">2009A&amp;A...496..577Z</pub-id><pub-id pub-id-type=\"doi\">10.1051/0004-6361:200811296</pub-id></mixed-citation></ref>",
+    "<ref id=\"CR63\"><label>63.</label><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><name><surname>Gandolfi</surname><given-names>D</given-names></name><etal/></person-group><article-title xml:lang=\"en\">The transiting multi-planet system HD 3167: A 5.7\u2009<italic>M</italic><sub>\u2295</sub> super-Earth and an 8.3\u2009<italic>M</italic><sub>\u2295</sub> mini-Neptune</article-title><source>Astron. J.</source><year>2017</year><volume>154</volume><fpage>123</fpage><pub-id pub-id-type=\"bibcode\">2017AJ....154..123G</pub-id><pub-id pub-id-type=\"doi\">10.3847/1538-3881/aa832a</pub-id></mixed-citation></ref>",
+    "<ref id=\"CR64\"><label>64.</label><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><name><surname>Murdoch</surname><given-names>KA</given-names></name><name><surname>Hearnshaw</surname><given-names>JB</given-names></name><name><surname>Clark</surname><given-names>M</given-names></name></person-group><article-title xml:lang=\"en\">A search for substellar companions to southern solar-type stars</article-title><source>Astrophys. J.</source><year>1993</year><volume>413</volume><fpage>349</fpage><pub-id pub-id-type=\"bibcode\">1993ApJ...413..349M</pub-id><pub-id pub-id-type=\"doi\">10.1086/173003</pub-id></mixed-citation></ref>",
+    "<ref id=\"CR65\"><label>65.</label><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><name><surname>Gustafsson</surname><given-names>B</given-names></name><etal/></person-group><article-title xml:lang=\"en\">A grid of MARCS model atmospheres for late-type stars. I. Methods and general properties</article-title><source>Astron. Astrophys.</source><year>2008</year><volume>486</volume><fpage>951</fpage><lpage>970</lpage><pub-id pub-id-type=\"bibcode\">2008A&amp;A...486..951G</pub-id><pub-id pub-id-type=\"doi\">10.1051/0004-6361:200809724</pub-id></mixed-citation></ref>",
+    "<ref id=\"CR66\"><label>66.</label><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><name><surname>Ryabchikova</surname><given-names>T</given-names></name><etal/></person-group><article-title xml:lang=\"en\">A major upgrade of the VALD database</article-title><source>Phys. Scr.</source><year>2015</year><volume>90</volume><fpage>054005</fpage><pub-id pub-id-type=\"bibcode\">2015PhyS...90e4005R</pub-id><pub-id pub-id-type=\"doi\">10.1088/0031-8949/90/5/054005</pub-id></mixed-citation></ref>",
+    "<ref id=\"CR67\"><label>67.</label><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><name><surname>Fridlund</surname><given-names>M</given-names></name><etal/></person-group><article-title xml:lang=\"en\">K2-111 b\u2014a short period super-Earth transiting a metal poor, evolved old star</article-title><source>Astron. Astrophys.</source><year>2017</year><volume>604</volume><fpage>A16</fpage><pub-id pub-id-type=\"doi\">10.1051/0004-6361/201730822</pub-id></mixed-citation></ref>",
+    "<ref id=\"CR68\"><label>68.</label><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><name><surname>Persson</surname><given-names>CM</given-names></name><etal/></person-group><article-title xml:lang=\"en\">Super-Earth of 8\u2009<italic>M</italic><sub>\u2295</sub> in a 2.2-day orbit around the K5V star K2-216</article-title><source>Astron. Astrophys.</source><year>2018</year><volume>618</volume><fpage>A33</fpage><pub-id pub-id-type=\"doi\">10.1051/0004-6361/201832867</pub-id></mixed-citation></ref>",
+    "<ref id=\"CR69\"><label>69.</label><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><name><surname>Gray</surname><given-names>DF</given-names></name></person-group><article-title xml:lang=\"en\">Measurements of rotation and turbulence in F, G and K dwarfs</article-title><source>Astrophys. J.</source><year>1984</year><volume>281</volume><fpage>719</fpage><lpage>722</lpage><pub-id pub-id-type=\"bibcode\">1984ApJ...281..719G</pub-id><pub-id pub-id-type=\"doi\">10.1086/162149</pub-id></mixed-citation></ref>",
+    "<ref id=\"CR70\"><label>70.</label><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><name><surname>Bruntt</surname><given-names>H</given-names></name><etal/></person-group><article-title xml:lang=\"en\">Accurate fundamental parameters for 23 bright solar-type stars</article-title><source>Mon. Not. R. Astron. Soc.</source><year>2010</year><volume>405</volume><fpage>1907</fpage><lpage>1923</lpage><pub-id pub-id-type=\"bibcode\">2010MNRAS.405.1907B</pub-id></mixed-citation></ref>",
+    "<ref id=\"CR71\"><label>71.</label><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><name><surname>Doyle</surname><given-names>AP</given-names></name><name><surname>Davies</surname><given-names>GR</given-names></name><name><surname>Smalley</surname><given-names>B</given-names></name><name><surname>Chaplin</surname><given-names>WJ</given-names></name><name><surname>Elsworth</surname><given-names>Y</given-names></name></person-group><article-title xml:lang=\"en\">Determining stellar macroturbulence using asteroseismic rotational velocities from Kepler</article-title><source>Mon. Not. R. Astron. Soc.</source><year>2014</year><volume>444</volume><fpage>3592</fpage><lpage>3602</lpage><pub-id pub-id-type=\"bibcode\">2014MNRAS.444.3592D</pub-id><pub-id pub-id-type=\"doi\">10.1093/mnras/stu1692</pub-id></mixed-citation></ref>",
+    "<ref id=\"CR72\"><label>72.</label><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><name><surname>Yee</surname><given-names>SW</given-names></name><name><surname>Petigura</surname><given-names>EA</given-names></name><name><surname>von Braun</surname><given-names>K</given-names></name></person-group><article-title xml:lang=\"en\">Precision stellar characterization of FGKM stars using an empirical spectral library</article-title><source>Astrophys. J.</source><year>2017</year><volume>836</volume><fpage>77</fpage><pub-id pub-id-type=\"bibcode\">2017ApJ...836...77Y</pub-id><pub-id pub-id-type=\"doi\">10.3847/1538-4357/836/1/77</pub-id></mixed-citation></ref>",
+    "<ref id=\"CR73\"><label>73.</label><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><name><surname>Gandolfi</surname><given-names>D</given-names></name><etal/></person-group><article-title xml:lang=\"en\">The star formation in the L1615/L1616 cometary cloud</article-title><source>Astrophys. J.</source><year>2008</year><volume>687</volume><fpage>1303</fpage><lpage>1322</lpage><pub-id pub-id-type=\"bibcode\">2008ApJ...687.1303G</pub-id><pub-id pub-id-type=\"doi\">10.1086/591729</pub-id></mixed-citation></ref>",
+    "<ref id=\"CR74\"><label>74.</label><mixed-citation publication-type=\"other\">Cutri, R. M. et al. <italic>2MASS All Sky Catalog of Point Sources. VizieR Online Data Catalog</italic> (2003).</mixed-citation></ref>",
+    "<ref id=\"CR75\"><label>75.</label><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><name><surname>Baraffe</surname><given-names>I</given-names></name><name><surname>Homeier</surname><given-names>D</given-names></name><name><surname>Allard</surname><given-names>F</given-names></name><name><surname>Chabrier</surname><given-names>G</given-names></name></person-group><article-title xml:lang=\"en\">New evolutionary models for pre-main sequence and main sequence low-mass stars down to the hydrogen-burning limit</article-title><source>Astron. Astrophys.</source><year>2015</year><volume>577</volume><fpage>A42</fpage><pub-id pub-id-type=\"bibcode\">2015A&amp;A...577A..42B</pub-id><pub-id pub-id-type=\"doi\">10.1051/0004-6361/201425481</pub-id></mixed-citation></ref>",
+    "<ref id=\"CR76\"><label>76.</label><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><name><surname>Cardelli</surname><given-names>JA</given-names></name><name><surname>Clayton</surname><given-names>GC</given-names></name><name><surname>Mathis</surname><given-names>JS</given-names></name></person-group><article-title xml:lang=\"en\">The relationship between infrared, optical, and ultraviolet extinction</article-title><source>Astrophys. J.</source><year>1989</year><volume>345</volume><fpage>245</fpage><pub-id pub-id-type=\"bibcode\">1989ApJ...345..245C</pub-id><pub-id pub-id-type=\"doi\">10.1086/167900</pub-id></mixed-citation></ref>",
+    "<ref id=\"CR77\"><label>77.</label><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><name><surname>Stassun</surname><given-names>KG</given-names></name><name><surname>Torres</surname><given-names>G</given-names></name></person-group><article-title xml:lang=\"en\">Evidence for a systematic offset of \u221280\u2009\u03bcas in the Gaia DR2 parallaxes</article-title><source>Astrophys. J.</source><year>2018</year><volume>862</volume><fpage>61</fpage><pub-id pub-id-type=\"bibcode\">2018ApJ...862...61S</pub-id><pub-id pub-id-type=\"doi\">10.3847/1538-4357/aacafc</pub-id></mixed-citation></ref>",
+    "<ref id=\"CR78\"><label>78.</label><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><name><surname>Zinn</surname><given-names>JC</given-names></name><name><surname>Pinsonneault</surname><given-names>MH</given-names></name><name><surname>Huber</surname><given-names>D</given-names></name><name><surname>Stello</surname><given-names>D</given-names></name></person-group><article-title xml:lang=\"en\">Confirmation of the Gaia DR2 parallax zero-point offset using asteroseismology and spectroscopy in the Kepler field</article-title><source>Astrophys. J.</source><year>2019</year><volume>878</volume><fpage>136</fpage><pub-id pub-id-type=\"bibcode\">2019ApJ...878..136Z</pub-id><pub-id pub-id-type=\"doi\">10.3847/1538-4357/ab1f66</pub-id></mixed-citation></ref>",
+    "<ref id=\"CR79\"><label>79.</label><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><name><surname>Mamajek</surname><given-names>EE</given-names></name><name><surname>Hillenbrand</surname><given-names>LA</given-names></name></person-group><article-title xml:lang=\"en\">Improved age estimation for solar-type dwarfs using activity-rotation diagnostics</article-title><source>Astrophys. J.</source><year>2008</year><volume>687</volume><fpage>1264</fpage><lpage>1293</lpage><pub-id pub-id-type=\"bibcode\">2008ApJ...687.1264M</pub-id><pub-id pub-id-type=\"doi\">10.1086/591785</pub-id></mixed-citation></ref>",
+    "<ref id=\"CR80\"><label>80.</label><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><name><surname>Reddy</surname><given-names>BE</given-names></name><name><surname>Lambert</surname><given-names>DL</given-names></name><name><surname>Allende Prieto</surname><given-names>C</given-names></name></person-group><article-title xml:lang=\"en\">Elemental abundance survey of the Galactic thick disc</article-title><source>Mon. Not. R. Astron. Soc.</source><year>2006</year><volume>367</volume><fpage>1329</fpage><lpage>1366</lpage><pub-id pub-id-type=\"bibcode\">2006MNRAS.367.1329R</pub-id><pub-id pub-id-type=\"doi\">10.1111/j.1365-2966.2006.10148.x</pub-id></mixed-citation></ref>",
+    "<ref id=\"CR81\"><label>81.</label><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><name><surname>Carrillo</surname><given-names>A</given-names></name><name><surname>Hawkins</surname><given-names>K</given-names></name><name><surname>Bowler</surname><given-names>BP</given-names></name><name><surname>Cochran</surname><given-names>W</given-names></name><name><surname>Vanderburg</surname><given-names>A</given-names></name></person-group><article-title xml:lang=\"en\">Know thy star, know thy planet: chemo-kinematically characterizing TESS targets</article-title><source>Mon. Not. R. Astron. Soc.</source><year>2020</year><volume>491</volume><fpage>4365</fpage><lpage>4381</lpage><pub-id pub-id-type=\"bibcode\">2020MNRAS.491.4365C</pub-id><pub-id pub-id-type=\"doi\">10.1093/mnras/stz3255</pub-id></mixed-citation></ref>",
+    "<ref id=\"CR82\"><label>82.</label><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><name><surname>Savitzky</surname><given-names>A</given-names></name><name><surname>Golay</surname><given-names>MJE</given-names></name></person-group><article-title xml:lang=\"en\">Smoothing and differentiation of data by simplified least squares procedures</article-title><source>Anal. Chem.</source><year>1964</year><volume>36</volume><fpage>1627</fpage><lpage>1639</lpage><pub-id pub-id-type=\"bibcode\">1964AnaCh..36.1627S</pub-id><pub-id pub-id-type=\"doi\">10.1021/ac60214a047</pub-id></mixed-citation></ref>",
+    "<ref id=\"CR83\"><label>83.</label><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><name><surname>Grziwa</surname><given-names>S</given-names></name><etal/></person-group><article-title xml:lang=\"en\">K2-31B, a grazing transiting hot Jupiter on a 1.26-day orbit around a bright G7V star</article-title><source>Astron. J.</source><year>2016</year><volume>152</volume><fpage>132</fpage><pub-id pub-id-type=\"bibcode\">2016AJ....152..132G</pub-id><pub-id pub-id-type=\"doi\">10.3847/0004-6256/152/5/132</pub-id></mixed-citation></ref>",
+    "<ref id=\"CR84\"><label>84.</label><mixed-citation publication-type=\"other\">Kov\u00e1cs, G., Zucker, S. &amp; Mazeh, T. BLS: Box-fitting Least Squares (ASCL, 2016).</mixed-citation></ref>",
+    "<ref id=\"CR85\"><label>85.</label><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><name><surname>Hippke</surname><given-names>M</given-names></name><name><surname>David</surname><given-names>TJ</given-names></name><name><surname>Mulders</surname><given-names>GD</given-names></name><name><surname>Heller</surname><given-names>R</given-names></name></person-group><article-title xml:lang=\"en\">W\u014dtan: comprehensive time-series detrending in Python</article-title><source>Astron. J.</source><year>2019</year><volume>158</volume><fpage>143</fpage><pub-id pub-id-type=\"bibcode\">2019AJ....158..143H</pub-id><pub-id pub-id-type=\"doi\">10.3847/1538-3881/ab3984</pub-id></mixed-citation></ref>",
+    "<ref id=\"CR86\"><label>86.</label><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><name><surname>Burt</surname><given-names>JA</given-names></name><etal/></person-group><article-title xml:lang=\"en\">TOI-824 b: a new planet on the lower edge of the hot Neptune desert</article-title><source>Astron. J.</source><year>2020</year><volume>160</volume><fpage>153</fpage><pub-id pub-id-type=\"bibcode\">2020AJ....160..153B</pub-id><pub-id pub-id-type=\"doi\">10.3847/1538-3881/abac0c</pub-id></mixed-citation></ref>",
+    "<ref id=\"CR87\"><label>87.</label><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><name><surname>Wong</surname><given-names>I</given-names></name><etal/></person-group><article-title xml:lang=\"en\">Systematic phase curve study of known transiting systems from year one of the TESS mission</article-title><source>Astron. J.</source><year>2020</year><volume>160</volume><fpage>155</fpage><pub-id pub-id-type=\"bibcode\">2020AJ....160..155W</pub-id><pub-id pub-id-type=\"doi\">10.3847/1538-3881/ababad</pub-id></mixed-citation></ref>",
+    "<ref id=\"CR88\"><label>88.</label><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><name><surname>Ikwut-Ukwa</surname><given-names>M</given-names></name><etal/></person-group><article-title xml:lang=\"en\">The K2 and TESS synergy. I. Updated ephemerides and parameters for K2-114, K2-167, K2-237, and K2-261</article-title><source>Astron. J.</source><year>2020</year><volume>160</volume><fpage>209</fpage><pub-id pub-id-type=\"bibcode\">2020AJ....160..209I</pub-id><pub-id pub-id-type=\"doi\">10.3847/1538-3881/aba964</pub-id></mixed-citation></ref>",
+    "<ref id=\"CR89\"><label>89.</label><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><name><surname>Mandel</surname><given-names>K</given-names></name><name><surname>Agol</surname><given-names>E</given-names></name></person-group><article-title xml:lang=\"en\">Analytic light curves for planetary transit searches</article-title><source>Astrophys. J.</source><year>2002</year><volume>580</volume><fpage>L171</fpage><lpage>L175</lpage><pub-id pub-id-type=\"bibcode\">2002ApJ...580L.171M</pub-id><pub-id pub-id-type=\"doi\">10.1086/345520</pub-id></mixed-citation></ref>",
+    "<ref id=\"CR90\"><label>90.</label><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><name><surname>Kipping</surname><given-names>DM</given-names></name></person-group><article-title xml:lang=\"en\">Efficient, uninformative sampling of limb darkening coefficients for two-parameter laws</article-title><source>Mon. Not. R. Astron. Soc.</source><year>2013</year><volume>435</volume><fpage>2152</fpage><lpage>2160</lpage><pub-id pub-id-type=\"bibcode\">2013MNRAS.435.2152K</pub-id><pub-id pub-id-type=\"doi\">10.1093/mnras/stt1435</pub-id></mixed-citation></ref>",
+    "<ref id=\"CR91\"><label>91.</label><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><name><surname>Anderson</surname><given-names>DR</given-names></name><etal/></person-group><article-title xml:lang=\"en\">Thermal emission at 4.5 and 8\u2009\u03bcm of WASP-17b, an extremely large planet in a slightly eccentric orbit</article-title><source>Mon. Not. R. Astron. Soc.</source><year>2011</year><volume>416</volume><fpage>2108</fpage><lpage>2122</lpage><pub-id pub-id-type=\"bibcode\">2011MNRAS.416.2108A</pub-id><pub-id pub-id-type=\"doi\">10.1111/j.1365-2966.2011.19182.x</pub-id></mixed-citation></ref>",
+    "<ref id=\"CR92\"><label>92.</label><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><name><surname>Claret</surname><given-names>A</given-names></name></person-group><article-title xml:lang=\"en\">Limb and gravity-darkening coefficients for the TESS satellite at several metallicities, surface gravities, and microturbulent velocities</article-title><source>Astron. Astrophys.</source><year>2017</year><volume>600</volume><fpage>A30</fpage><pub-id pub-id-type=\"bibcode\">2017A&amp;A...600A..30C</pub-id><pub-id pub-id-type=\"doi\">10.1051/0004-6361/201629705</pub-id></mixed-citation></ref>",
+    "<ref id=\"CR93\"><label>93.</label><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><name><surname>Hatzes</surname><given-names>AP</given-names></name><etal/></person-group><article-title xml:lang=\"en\">The mass of CoRoT-7b</article-title><source>Astrophys. J.</source><year>2011</year><volume>743</volume><fpage>75</fpage><pub-id pub-id-type=\"bibcode\">2011ApJ...743...75H</pub-id><pub-id pub-id-type=\"doi\">10.1088/0004-637X/743/1/75</pub-id></mixed-citation></ref>",
+    "<ref id=\"CR94\"><label>94.</label><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><name><surname>Barrag\u00e1n</surname><given-names>O</given-names></name><etal/></person-group><article-title xml:lang=\"en\">K2-141 b. A 5-<italic>M</italic><sub>\u2295</sub> super-Earth transiting a K7 V star every 6.7\u2009h</article-title><source>Astron. Astrophys.</source><year>2018</year><volume>612</volume><fpage>A95</fpage><pub-id pub-id-type=\"doi\">10.1051/0004-6361/201732217</pub-id></mixed-citation></ref>",
+    "<ref id=\"CR95\"><label>95.</label><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><name><surname>Rajpaul</surname><given-names>V</given-names></name><name><surname>Aigrain</surname><given-names>S</given-names></name><name><surname>Osborne</surname><given-names>MA</given-names></name><name><surname>Reece</surname><given-names>S</given-names></name><name><surname>Roberts</surname><given-names>S</given-names></name></person-group><article-title xml:lang=\"en\">A Gaussian process framework for modelling stellar activity signals in radial velocity data</article-title><source>Mon. Not. R. Astron. Soc.</source><year>2015</year><volume>452</volume><fpage>2269</fpage><lpage>2291</lpage><pub-id pub-id-type=\"bibcode\">2015MNRAS.452.2269R</pub-id><pub-id pub-id-type=\"doi\">10.1093/mnras/stv1428</pub-id></mixed-citation></ref>",
+    "<ref id=\"CR96\"><label>96.</label><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><name><surname>Barrag\u00e1n</surname><given-names>O</given-names></name><name><surname>Aigrain</surname><given-names>S</given-names></name><name><surname>Rajpaul</surname><given-names>VM</given-names></name><name><surname>Zicher</surname><given-names>N</given-names></name></person-group><article-title xml:lang=\"en\">pyaneti II: A multi-dimensional Gaussian process approach to analysing spectroscopic time-series</article-title><source>Mon. Not. R. Astron. Soc.</source><year>2021</year><volume>9</volume><fpage>866</fpage><lpage>883</lpage><pub-id pub-id-type=\"doi\">10.1093/mnras/stab2889</pub-id></mixed-citation></ref>",
+    "<ref id=\"CR97\"><label>97.</label><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><name><surname>Barrag\u00e1n</surname><given-names>O</given-names></name><etal/></person-group><article-title xml:lang=\"en\">Radial velocity confirmation of K2-100b: a young, highly irradiated, and low-density transiting hot Neptune</article-title><source>Mon. Not. R. Astron. Soc.</source><year>2019</year><volume>490</volume><fpage>698</fpage><lpage>708</lpage><pub-id pub-id-type=\"bibcode\">2019MNRAS.490..698B</pub-id><pub-id pub-id-type=\"doi\">10.1093/mnras/stz2569</pub-id></mixed-citation></ref>",
+    "<ref id=\"CR98\"><label>98.</label><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><name><surname>Rein</surname><given-names>H</given-names></name><name><surname>Spiegel</surname><given-names>DS</given-names></name></person-group><article-title xml:lang=\"en\">IAS15: a fast, adaptive, high-order integrator for gravitational dynamics, accurate to machine precision over a billion orbits</article-title><source>Mon. Not. R. Astron. Soc.</source><year>2015</year><volume>446</volume><fpage>1424</fpage><lpage>1437</lpage><pub-id pub-id-type=\"bibcode\">2015MNRAS.446.1424R</pub-id><pub-id pub-id-type=\"doi\">10.1093/mnras/stu2164</pub-id></mixed-citation></ref>",
+    "<ref id=\"CR99\"><label>99.</label><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><name><surname>Tamayo</surname><given-names>D</given-names></name><etal/></person-group><article-title xml:lang=\"en\">Predicting the long-term stability of compact multiplanet systems</article-title><source>Proc. Natl Acad. Sci. USA</source><year>2020</year><volume>117</volume><fpage>18194</fpage><lpage>18205</lpage><pub-id pub-id-type=\"bibcode\">2020PNAS..11718194T</pub-id><pub-id pub-id-type=\"amsid\">4242696</pub-id><pub-id pub-id-type=\"doi\">10.1073/pnas.2001258117</pub-id></mixed-citation></ref>",
+    "<ref id=\"CR100\"><label>100.</label><mixed-citation publication-type=\"other\">Murray, C. D. &amp; Dermott, S. F. <italic>Solar System Dynamics</italic>, Cambridge University Press (1999).</mixed-citation></ref>",
+    "<ref id=\"CR101\"><label>101.</label><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><name><surname>Jackson</surname><given-names>B</given-names></name><name><surname>Greenberg</surname><given-names>R</given-names></name><name><surname>Barnes</surname><given-names>R</given-names></name></person-group><article-title xml:lang=\"en\">Tidal evolution of close-in extrasolar planets</article-title><source>Astrophys. J.</source><year>2008</year><volume>678</volume><fpage>1396</fpage><lpage>1406</lpage><pub-id pub-id-type=\"bibcode\">2008ApJ...678.1396J</pub-id><pub-id pub-id-type=\"doi\">10.1086/529187</pub-id></mixed-citation></ref>",
+    "<ref id=\"CR102\"><label>102.</label><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><name><surname>Ray</surname><given-names>RD</given-names></name><name><surname>Eanes</surname><given-names>RJ</given-names></name><name><surname>Lemoine</surname><given-names>FG</given-names></name></person-group><article-title xml:lang=\"en\">Constraints on energy dissipation in the Earth\u2019s body tide from satellite tracking and altimetry</article-title><source>Geophys. J. Int.</source><year>2001</year><volume>144</volume><fpage>471</fpage><lpage>480</lpage><pub-id pub-id-type=\"bibcode\">2001GeoJI.144..471R</pub-id><pub-id pub-id-type=\"doi\">10.1046/j.1365-246x.2001.00356.x</pub-id></mixed-citation></ref>",
+    "<ref id=\"CR103\"><label>103.</label><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><name><surname>Williams</surname><given-names>JG</given-names></name><etal/></person-group><article-title xml:lang=\"en\">Lunar interior properties from the GRAIL mission</article-title><source>J. Geophys. Res. Planets</source><year>2014</year><volume>119</volume><fpage>1546</fpage><lpage>1578</lpage><pub-id pub-id-type=\"bibcode\">2014JGRE..119.1546W</pub-id><pub-id pub-id-type=\"doi\">10.1002/2013JE004559</pub-id></mixed-citation></ref>",
+    "<ref id=\"CR104\"><label>104.</label><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><name><surname>Jacobson</surname><given-names>RA</given-names></name><name><surname>Lainey</surname><given-names>V</given-names></name></person-group><article-title xml:lang=\"en\">Martian satellite orbits and ephemerides</article-title><source>Planet. Space Sci.</source><year>2014</year><volume>102</volume><fpage>35</fpage><lpage>44</lpage><pub-id pub-id-type=\"bibcode\">2014P&amp;SS..102...35J</pub-id><pub-id pub-id-type=\"doi\">10.1016/j.pss.2013.06.003</pub-id></mixed-citation></ref>",
+    "<ref id=\"CR105\"><label>105.</label><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><name><surname>Lainey</surname><given-names>V</given-names></name><name><surname>Arlot</surname><given-names>J-E</given-names></name><name><surname>Karatekin</surname><given-names>\u00d6</given-names></name><name><surname>van Hoolst</surname><given-names>T</given-names></name></person-group><article-title xml:lang=\"en\">Strong tidal dissipation in Io and Jupiter from astrometric observations</article-title><source>Nature</source><year>2009</year><volume>459</volume><fpage>957</fpage><lpage>959</lpage><pub-id pub-id-type=\"bibcode\">2009Natur.459..957L</pub-id><pub-id pub-id-type=\"doi\">10.1038/nature08108</pub-id></mixed-citation></ref>",
+    "<ref id=\"CR106\"><label>106.</label><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><name><surname>Virtanen</surname><given-names>P</given-names></name><etal/></person-group><article-title xml:lang=\"en\">SciPy 1.0: fundamental algorithms for scientific computing in Python</article-title><source>Nat. Methods</source><year>2020</year><volume>17</volume><fpage>261</fpage><lpage>272</lpage><pub-id pub-id-type=\"doi\">10.1038/s41592-019-0686-2</pub-id></mixed-citation></ref>",
+    "<ref id=\"CR107\"><label>107.</label><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><name><surname>Owen</surname><given-names>JE</given-names></name><name><surname>Wu</surname><given-names>Y</given-names></name></person-group><article-title xml:lang=\"en\">Atmospheres of low-mass planets: the \u201cboil-off\u201d</article-title><source>Astrophys. J.</source><year>2016</year><volume>817</volume><fpage>107</fpage><pub-id pub-id-type=\"bibcode\">2016ApJ...817..107O</pub-id><pub-id pub-id-type=\"doi\">10.3847/0004-637X/817/2/107</pub-id></mixed-citation></ref>",
+    "<ref id=\"CR108\"><label>108.</label><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><name><surname>Cauley</surname><given-names>PW</given-names></name><name><surname>Redfield</surname><given-names>S</given-names></name><name><surname>Jensen</surname><given-names>AG</given-names></name></person-group><article-title xml:lang=\"en\">A decade of H<italic>\u03b1</italic> transits for HD 189733 b: stellar activity versus absorption in the extended atmosphere</article-title><source>Astron. J.</source><year>2017</year><volume>153</volume><fpage>217</fpage><pub-id pub-id-type=\"bibcode\">2017AJ....153..217C</pub-id><pub-id pub-id-type=\"doi\">10.3847/1538-3881/aa6a15</pub-id></mixed-citation></ref>",
+    "<ref id=\"CR109\"><label>109.</label><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><name><surname>Mura</surname><given-names>A</given-names></name><etal/></person-group><article-title xml:lang=\"en\">Comet-like tail-formation of exospheres of hot rocky exoplanets: possible implications for CoRoT-7b</article-title><source>Icarus</source><year>2011</year><volume>211</volume><fpage>1</fpage><lpage>9</lpage><pub-id pub-id-type=\"bibcode\">2011Icar..211....1M</pub-id><pub-id pub-id-type=\"doi\">10.1016/j.icarus.2010.08.015</pub-id></mixed-citation></ref>",
+    "<ref id=\"CR110\"><label>110.</label><mixed-citation publication-type=\"other\">Briot, D. &amp; Schneider, J. Occurrence, physical conditions, and observations of super-Ios and hyper-Ios. In <italic>Astronomical Society of the Pacific Conference Series</italic> Vol. 430 <italic>(</italic>eds. Foresto, V. C. du et al.) The Society, 409 (2010).</mixed-citation></ref>",
+    "<ref id=\"CR111\"><label>111.</label><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><name><surname>Rouan</surname><given-names>D</given-names></name><etal/></person-group><article-title xml:lang=\"en\">The orbital phases and secondary transits of Kepler-10b. A physical interpretation based on the lava-ocean planet model</article-title><source>Astrophys. J.</source><year>2011</year><volume>741</volume><fpage>L30</fpage><pub-id pub-id-type=\"bibcode\">2011ApJ...741L..30R</pub-id><pub-id pub-id-type=\"doi\">10.1088/2041-8205/741/2/L30</pub-id></mixed-citation></ref>",
+    "<ref id=\"CR112\"><label>112.</label><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><name><surname>Barnes</surname><given-names>R</given-names></name><name><surname>Raymond</surname><given-names>SN</given-names></name><name><surname>Greenberg</surname><given-names>R</given-names></name><name><surname>Jackson</surname><given-names>B</given-names></name><name><surname>Kaib</surname><given-names>NA</given-names></name></person-group><article-title xml:lang=\"en\">CoRoT-7b: super-Earth or super-Io?</article-title><source>Astrophys. J.</source><year>2010</year><volume>709</volume><fpage>L95</fpage><lpage>L98</lpage><pub-id pub-id-type=\"bibcode\">2010ApJ...709L..95B</pub-id><pub-id pub-id-type=\"doi\">10.1088/2041-8205/709/2/L95</pub-id></mixed-citation></ref>",
+    "<ref id=\"CR113\"><label>113.</label><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><name><surname>Schaefer</surname><given-names>L</given-names></name><name><surname>Fegley</surname><given-names>B</given-names></name></person-group><article-title xml:lang=\"en\">Chemistry of silicate atmospheres of evaporating super-Earths</article-title><source>Astrophys. J.</source><year>2009</year><volume>703</volume><fpage>L113</fpage><lpage>L117</lpage><pub-id pub-id-type=\"bibcode\">2009ApJ...703L.113S</pub-id><pub-id pub-id-type=\"doi\">10.1088/0004-637X/703/2/L113</pub-id></mixed-citation></ref>",
+    "<ref id=\"CR114\"><label>114.</label><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><name><surname>Ito</surname><given-names>Y</given-names></name><etal/></person-group><article-title xml:lang=\"en\">Theoretical emission spectra of atmospheres of hot rocky super-Earths</article-title><source>Astrophys. J.</source><year>2015</year><volume>801</volume><fpage>144</fpage><pub-id pub-id-type=\"bibcode\">2015ApJ...801..144I</pub-id><pub-id pub-id-type=\"doi\">10.1088/0004-637X/801/2/144</pub-id></mixed-citation></ref>",
+    "<ref id=\"CR115\"><label>115.</label><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><name><surname>Miguel</surname><given-names>Y</given-names></name></person-group><article-title xml:lang=\"en\">Observability of molecular species in a nitrogen dominated atmosphere for 55 Cancri e</article-title><source>Mon. Not. R. Astron. Soc.</source><year>2019</year><volume>482</volume><fpage>2893</fpage><lpage>2901</lpage><pub-id pub-id-type=\"bibcode\">2019MNRAS.482.2893M</pub-id></mixed-citation></ref>",
+    "<ref id=\"CR116\"><label>116.</label><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><name><surname>Niraula</surname><given-names>P</given-names></name><etal/></person-group><article-title xml:lang=\"en\">Three super-Earths transiting the nearby star GJ 9827</article-title><source>Astron. J.</source><year>2017</year><volume>154</volume><fpage>266</fpage><pub-id pub-id-type=\"bibcode\">2017AJ....154..266N</pub-id><pub-id pub-id-type=\"doi\">10.3847/1538-3881/aa957c</pub-id></mixed-citation></ref>",
+    "<ref id=\"CR117\"><label>117.</label><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><name><surname>Kempton</surname><given-names>EMR</given-names></name><etal/></person-group><article-title xml:lang=\"en\">A framework for prioritizing the TESS planetary candidates most amenable to atmospheric characterization</article-title><source>Publ. Astron. Soc. Pac.</source><year>2018</year><volume>130</volume><fpage>114401</fpage><pub-id pub-id-type=\"bibcode\">2018PASP..130k4401K</pub-id><pub-id pub-id-type=\"doi\">10.1088/1538-3873/aadf6f</pub-id></mixed-citation></ref>",
+    "<ref id=\"CR118\"><label>118.</label><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><name><surname>Miller-Ricci</surname><given-names>E</given-names></name><name><surname>Meyer</surname><given-names>MR</given-names></name><name><surname>Seager</surname><given-names>S</given-names></name><name><surname>Elkins-Tanton</surname><given-names>L</given-names></name></person-group><article-title xml:lang=\"en\">On the emergent spectra of hot protoplanet collision afterglows</article-title><source>Astrophys. J.</source><year>2009</year><volume>704</volume><fpage>770</fpage><lpage>780</lpage><pub-id pub-id-type=\"bibcode\">2009ApJ...704..770M</pub-id><pub-id pub-id-type=\"doi\">10.1088/0004-637X/704/1/770</pub-id></mixed-citation></ref>",
+    "<ref id=\"CR119\"><label>119.</label><mixed-citation publication-type=\"other\">Cutri, R. M. et al. <italic>VizieR Online Data Catalog: AllWISE Data Release (Cutri+ 2013)</italic> (February 2021).</mixed-citation></ref>",
+    "<ref id=\"CR120\"><label>120.</label><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><name><surname>Southworth</surname><given-names>J</given-names></name><etal/></person-group><article-title xml:lang=\"en\">Kepler photometry of KIC 10661783: a binary star with total eclipses and <italic>\u03b4</italic> Scuti pulsations</article-title><source>Mon. Not. R. Astron. Soc.</source><year>2011</year><volume>414</volume><fpage>2413</fpage><lpage>2423</lpage><pub-id pub-id-type=\"bibcode\">2011MNRAS.414.2413S</pub-id><pub-id pub-id-type=\"doi\">10.1111/j.1365-2966.2011.18559.x</pub-id></mixed-citation></ref>",
+    "<ref id=\"CR121\"><label>121.</label><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><name><surname>Zeng</surname><given-names>L</given-names></name><name><surname>Sasselov</surname><given-names>DD</given-names></name><name><surname>Jacobsen</surname><given-names>SB</given-names></name></person-group><article-title xml:lang=\"en\">Mass\u2013radius relation for rocky planets based on PREM</article-title><source>Astrophys. J.</source><year>2016</year><volume>819</volume><fpage>127</fpage><pub-id pub-id-type=\"bibcode\">2016ApJ...819..127Z</pub-id><pub-id pub-id-type=\"doi\">10.3847/0004-637X/819/2/127</pub-id></mixed-citation></ref>",
+    "<ref id=\"CR122\"><label>122.</label><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><name><surname>Southworth</surname><given-names>J</given-names></name></person-group><article-title xml:lang=\"en\">Homogeneous studies of transiting extrasolar planets\u2014IV. Thirty systems with space-based light curves</article-title><source>Mon. Not. R. Astron. Soc.</source><year>2011</year><volume>417</volume><fpage>2166</fpage><lpage>2196</lpage><pub-id pub-id-type=\"bibcode\">2011MNRAS.417.2166S</pub-id><pub-id pub-id-type=\"doi\">10.1111/j.1365-2966.2011.19399.x</pub-id></mixed-citation></ref>",
+    "<ref id=\"CR123\"><label>123.</label><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><name><surname>Malavolta</surname><given-names>L</given-names></name><etal/></person-group><article-title xml:lang=\"en\">An ultra-short period rocky super-Earth with a secondary eclipse and a Neptune-like companion around K2-141</article-title><source>Astron. J.</source><year>2018</year><volume>155</volume><fpage>107</fpage><pub-id pub-id-type=\"bibcode\">2018AJ....155..107M</pub-id><pub-id pub-id-type=\"doi\">10.3847/1538-3881/aaa5b5</pub-id></mixed-citation></ref>",
+    "<ref id=\"CR124\"><label>124.</label><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><name><surname>Mann</surname><given-names>AW</given-names></name><etal/></person-group><article-title xml:lang=\"en\">The gold standard: accurate stellar and planetary parameters for eight Kepler M dwarf systems enabled by parallaxes</article-title><source>Astron. J.</source><year>2017</year><volume>153</volume><fpage>267</fpage><pub-id pub-id-type=\"bibcode\">2017AJ....153..267M</pub-id><pub-id pub-id-type=\"doi\">10.3847/1538-3881/aa7140</pub-id></mixed-citation></ref>",
+    "<ref id=\"CR125\"><label>125.</label><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><name><surname>Muirhead</surname><given-names>PS</given-names></name><etal/></person-group><article-title xml:lang=\"en\">Characterizing the cool KOIs. III. KOI 961: a small star with large proper motion and three small planets</article-title><source>Astrophys. J.</source><year>2012</year><volume>747</volume><fpage>144</fpage><pub-id pub-id-type=\"bibcode\">2012ApJ...747..144M</pub-id><pub-id pub-id-type=\"doi\">10.1088/0004-637X/747/2/144</pub-id></mixed-citation></ref>",
+    "<ref id=\"CR126\"><label>126.</label><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><name><surname>Livingston</surname><given-names>JH</given-names></name><etal/></person-group><article-title xml:lang=\"en\">Sixty validated planets from K2 campaigns 5\u20138</article-title><source>Astron. J.</source><year>2018</year><volume>156</volume><fpage>277</fpage><pub-id pub-id-type=\"bibcode\">2018AJ....156..277L</pub-id><pub-id pub-id-type=\"doi\">10.3847/1538-3881/aae778</pub-id></mixed-citation></ref>",
+    "<ref id=\"CR127\"><label>127.</label><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><name><surname>Adams</surname><given-names>ER</given-names></name><etal/></person-group><article-title xml:lang=\"en\">Ultra-short-period planets in K2 with companions: a double transiting system for EPIC 220674823</article-title><source>Astron. J.</source><year>2017</year><volume>153</volume><fpage>82</fpage><pub-id pub-id-type=\"bibcode\">2017AJ....153...82A</pub-id><pub-id pub-id-type=\"doi\">10.3847/1538-3881/153/2/82</pub-id></mixed-citation></ref>",
+    "<ref id=\"CR128\"><label>128.</label><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><name><surname>Sinukoff</surname><given-names>E</given-names></name><etal/></person-group><article-title xml:lang=\"en\">K2-66b and K2-106b: two extremely hot sub-Neptune-size planets with high densities</article-title><source>Astron. J.</source><year>2017</year><volume>153</volume><fpage>271</fpage><pub-id pub-id-type=\"bibcode\">2017AJ....153..271S</pub-id><pub-id pub-id-type=\"doi\">10.3847/1538-3881/aa725f</pub-id></mixed-citation></ref>",
+    "<ref id=\"CR129\"><label>129.</label><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><name><surname>Guenther</surname><given-names>EW</given-names></name><etal/></person-group><article-title xml:lang=\"en\">K2-106, a system containing a metal-rich planet and a planet of lower density</article-title><source>Astron. Astrophys.</source><year>2017</year><volume>608</volume><fpage>A93</fpage><pub-id pub-id-type=\"doi\">10.1051/0004-6361/201730885</pub-id></mixed-citation></ref>",
+    "<ref id=\"CR130\"><label>130.</label><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><name><surname>Santerne</surname><given-names>A</given-names></name><etal/></person-group><article-title xml:lang=\"en\">An Earth-sized exoplanet with a Mercury-like composition</article-title><source>Nat. Astron.</source><year>2018</year><volume>2</volume><fpage>393</fpage><lpage>400</lpage><pub-id pub-id-type=\"bibcode\">2018NatAs...2..393S</pub-id><pub-id pub-id-type=\"doi\">10.1038/s41550-018-0420-5</pub-id></mixed-citation></ref>",
+    "<ref id=\"CR131\"><label>131.</label><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><name><surname>Marcy</surname><given-names>GW</given-names></name><etal/></person-group><article-title xml:lang=\"en\">Masses, radii, and orbits of small Kepler planets: the transition from gaseous to rocky planets</article-title><source>Astrophys. J. Suppl. Ser.</source><year>2014</year><volume>210</volume><fpage>20</fpage><pub-id pub-id-type=\"bibcode\">2014ApJS..210...20M</pub-id><pub-id pub-id-type=\"doi\">10.1088/0067-0049/210/2/20</pub-id></mixed-citation></ref>",
+    "<ref id=\"CR132\"><label>132.</label><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><name><surname>Butler</surname><given-names>RP</given-names></name><name><surname>Marcy</surname><given-names>GW</given-names></name><name><surname>Williams</surname><given-names>E</given-names></name><name><surname>Hauser</surname><given-names>H</given-names></name><name><surname>Shirts</surname><given-names>P</given-names></name></person-group><article-title xml:lang=\"en\">Three new \u201c51 Pegasi-type\u201d planets</article-title><source>Astrophys. J.</source><year>1997</year><volume>474</volume><fpage>L115</fpage><lpage>L118</lpage><pub-id pub-id-type=\"bibcode\">1997ApJ...474L.115B</pub-id><pub-id pub-id-type=\"doi\">10.1086/310444</pub-id></mixed-citation></ref>",
+    "<ref id=\"CR133\"><label>133.</label><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><name><surname>McArthur</surname><given-names>BE</given-names></name><etal/></person-group><article-title xml:lang=\"en\">Detection of a Neptune-mass planet in the <italic>\u03c1</italic><sup>1</sup> Cancri system using the Hobby\u2013Eberly telescope</article-title><source>Astrophys. J.</source><year>2004</year><volume>614</volume><fpage>L81</fpage><lpage>L84</lpage><pub-id pub-id-type=\"bibcode\">2004ApJ...614L..81M</pub-id><pub-id pub-id-type=\"doi\">10.1086/425561</pub-id></mixed-citation></ref>",
+    "<ref id=\"CR134\"><label>134.</label><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><name><surname>Marcy</surname><given-names>GW</given-names></name><etal/></person-group><article-title xml:lang=\"en\">A planet at 5\u2009<sc>au</sc> around 55 Cancri</article-title><source>Astrophys. J.</source><year>2002</year><volume>581</volume><fpage>1375</fpage><lpage>1388</lpage><pub-id pub-id-type=\"bibcode\">2002ApJ...581.1375M</pub-id><pub-id pub-id-type=\"doi\">10.1086/344298</pub-id></mixed-citation></ref>",
+    "<ref id=\"CR135\"><label>135.</label><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><name><surname>Fischer</surname><given-names>DA</given-names></name><etal/></person-group><article-title xml:lang=\"en\">Five planets orbiting 55 Cancri</article-title><source>Astrophys. J.</source><year>2008</year><volume>675</volume><fpage>790</fpage><lpage>801</lpage><pub-id pub-id-type=\"bibcode\">2008ApJ...675..790F</pub-id><pub-id pub-id-type=\"doi\">10.1086/525512</pub-id></mixed-citation></ref>",
+    "<ref id=\"CR136\"><label>136.</label><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><name><surname>von Braun</surname><given-names>K</given-names></name><etal/></person-group><article-title xml:lang=\"en\">55 Cancri: stellar astrophysical parameters, a planet in the habitable zone, and implications for the radius of a transiting super-Earth</article-title><source>Astrophys. J.</source><year>2011</year><volume>740</volume><fpage>49</fpage><pub-id pub-id-type=\"bibcode\">2011ApJ...740...49V</pub-id><pub-id pub-id-type=\"doi\">10.1088/0004-637X/740/1/49</pub-id></mixed-citation></ref>",
+    "<ref id=\"CR137\"><label>137.</label><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><name><surname>Winn</surname><given-names>JN</given-names></name><etal/></person-group><article-title xml:lang=\"en\">A super-Earth transiting a naked-eye star</article-title><source>Astrophys. J.</source><year>2011</year><volume>737</volume><fpage>L18</fpage><pub-id pub-id-type=\"bibcode\">2011ApJ...737L..18W</pub-id><pub-id pub-id-type=\"doi\">10.1088/2041-8205/737/1/L18</pub-id></mixed-citation></ref>",
+    "<ref id=\"CR138\"><label>138.</label><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><name><surname>Nowak</surname><given-names>G</given-names></name><etal/></person-group><article-title xml:lang=\"en\">The CARMENES search for exoplanets around M dwarfs. Two planets on opposite sides of the radius gap transiting the nearby M dwarf LTT 3780</article-title><source>Astron. Astrophys.</source><year>2020</year><volume>642</volume><fpage>A173</fpage><pub-id pub-id-type=\"doi\">10.1051/0004-6361/202037867</pub-id></mixed-citation></ref>",
+    "<ref id=\"CR139\"><label>139.</label><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><name><surname>Cloutier</surname><given-names>R</given-names></name><etal/></person-group><article-title xml:lang=\"en\">A pair of TESS planets spanning the radius valley around the nearby mid-M dwarf LTT 3780</article-title><source>Astron. J.</source><year>2020</year><volume>160</volume><fpage>3</fpage><pub-id pub-id-type=\"bibcode\">2020AJ....160....3C</pub-id><pub-id pub-id-type=\"doi\">10.3847/1538-3881/ab91c2</pub-id></mixed-citation></ref>",
+    "<ref id=\"CR140\"><label>140.</label><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><name><surname>Hellier</surname><given-names>C</given-names></name><etal/></person-group><article-title xml:lang=\"en\">Seven transiting hot Jupiters from WASP-South, Euler and TRAPPIST: WASP-47b, WASP-55b, WASP-61b, WASP-62b, WASP-63b, WASP-66b and WASP-67b</article-title><source>Mon. Not. R. Astron. Soc.</source><year>2012</year><volume>426</volume><fpage>739</fpage><lpage>750</lpage><pub-id pub-id-type=\"bibcode\">2012MNRAS.426..739H</pub-id><pub-id pub-id-type=\"doi\">10.1111/j.1365-2966.2012.21780.x</pub-id></mixed-citation></ref>",
+    "<ref id=\"CR141\"><label>141.</label><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><name><surname>Sanchis-Ojeda</surname><given-names>R</given-names></name><etal/></person-group><article-title xml:lang=\"en\">A low stellar obliquity for WASP-47, a compact multiplanet system with a hot Jupiter and an ultra-short period planet</article-title><source>Astrophys. J.</source><year>2015</year><volume>812</volume><fpage>L11</fpage><pub-id pub-id-type=\"bibcode\">2015ApJ...812L..11S</pub-id><pub-id pub-id-type=\"doi\">10.1088/2041-8205/812/1/L11</pub-id></mixed-citation></ref>",
+    "<ref id=\"CR142\"><label>142.</label><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><name><surname>Becker</surname><given-names>JC</given-names></name><name><surname>Vanderburg</surname><given-names>A</given-names></name><name><surname>Adams</surname><given-names>FC</given-names></name><name><surname>Rappaport</surname><given-names>SA</given-names></name><name><surname>Schwengeler</surname><given-names>HM</given-names></name></person-group><article-title xml:lang=\"en\">WASP-47: a hot Jupiter system with two additional planets discovered by K2</article-title><source>Astrophys. J.</source><year>2015</year><volume>812</volume><fpage>L18</fpage><pub-id pub-id-type=\"bibcode\">2015ApJ...812L..18B</pub-id><pub-id pub-id-type=\"doi\">10.1088/2041-8205/812/2/L18</pub-id></mixed-citation></ref>",
+    "<ref id=\"CR143\"><label>143.</label><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><name><surname>Almenara</surname><given-names>JM</given-names></name><name><surname>D\u00edaz</surname><given-names>RF</given-names></name><name><surname>Bonfils</surname><given-names>X</given-names></name><name><surname>Udry</surname><given-names>S</given-names></name></person-group><article-title xml:lang=\"en\">Absolute densities, masses, and radii of the WASP-47 system determined dynamically</article-title><source>Astron. Astrophys.</source><year>2016</year><volume>595</volume><fpage>L5</fpage><pub-id pub-id-type=\"bibcode\">2016A&amp;A...595L...5A</pub-id><pub-id pub-id-type=\"doi\">10.1051/0004-6361/201629770</pub-id></mixed-citation></ref>",
+    "<ref id=\"CR144\"><label>144.</label><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><name><surname>Neveu-VanMalle</surname><given-names>M</given-names></name><etal/></person-group><article-title xml:lang=\"en\">Hot Jupiters with relatives: discovery of additional planets in orbit around WASP-41 and WASP-47</article-title><source>Astron. Astrophys.</source><year>2016</year><volume>586</volume><fpage>A93</fpage><pub-id pub-id-type=\"doi\">10.1051/0004-6361/201526965</pub-id></mixed-citation></ref>",
+    "<ref id=\"CR145\"><label>145.</label><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><name><surname>Vanderburg</surname><given-names>A</given-names></name><etal/></person-group><article-title xml:lang=\"en\">Precise masses in the WASP-47 system</article-title><source>Astron. J.</source><year>2017</year><volume>154</volume><fpage>237</fpage><pub-id pub-id-type=\"bibcode\">2017AJ....154..237V</pub-id><pub-id pub-id-type=\"doi\">10.3847/1538-3881/aa918b</pub-id></mixed-citation></ref>",
+    "<ref id=\"CR146\"><label>146.</label><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><name><surname>Batalha</surname><given-names>NM</given-names></name><etal/></person-group><article-title xml:lang=\"en\">Kepler\u2019s first rocky planet: Kepler-10b</article-title><source>Astrophys. J.</source><year>2011</year><volume>729</volume><fpage>27</fpage><pub-id pub-id-type=\"bibcode\">2011ApJ...729...27B</pub-id><pub-id pub-id-type=\"doi\">10.1088/0004-637X/729/1/27</pub-id></mixed-citation></ref>",
+    "<ref id=\"CR147\"><label>147.</label><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><name><surname>Fressin</surname><given-names>F</given-names></name><etal/></person-group><article-title xml:lang=\"en\">Kepler-10 c: a 2.2 Earth radius transiting planet in a multiple system</article-title><source>Astrophys. J. Suppl. Ser.</source><year>2011</year><volume>197</volume><fpage>5</fpage><pub-id pub-id-type=\"bibcode\">2011ApJS..197....5F</pub-id><pub-id pub-id-type=\"doi\">10.1088/0067-0049/197/1/5</pub-id></mixed-citation></ref>",
+    "<ref id=\"CR148\"><label>148.</label><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><name><surname>Santos</surname><given-names>NC</given-names></name><etal/></person-group><article-title xml:lang=\"en\">Constraining planet structure from stellar chemistry: the cases of CoRoT-7, Kepler-10, and Kepler-93</article-title><source>Astron. Astrophys.</source><year>2015</year><volume>580</volume><fpage>L13</fpage><pub-id pub-id-type=\"bibcode\">2015A&amp;A...580L..13S</pub-id><pub-id pub-id-type=\"doi\">10.1051/0004-6361/201526850</pub-id></mixed-citation></ref>",
+    "<ref id=\"CR149\"><label>149.</label><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><name><surname>Fogtmann-Schulz</surname><given-names>A</given-names></name><etal/></person-group><article-title xml:lang=\"en\">Accurate parameters of the oldest known rocky-exoplanet hosting system: Kepler-10 revisited</article-title><source>Astrophys. J.</source><year>2014</year><volume>781</volume><fpage>67</fpage><pub-id pub-id-type=\"bibcode\">2014ApJ...781...67F</pub-id><pub-id pub-id-type=\"doi\">10.1088/0004-637X/781/2/67</pub-id></mixed-citation></ref>",
+    "<ref id=\"CR150\"><label>150.</label><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><name><surname>Weiss</surname><given-names>LM</given-names></name><etal/></person-group><article-title xml:lang=\"en\">Revised masses and densities of the planets around Kepler-10</article-title><source>Astrophys. J.</source><year>2016</year><volume>819</volume><fpage>83</fpage><pub-id pub-id-type=\"bibcode\">2016ApJ...819...83W</pub-id><pub-id pub-id-type=\"doi\">10.3847/0004-637X/819/1/83</pub-id></mixed-citation></ref>",
+    "<ref id=\"CR151\"><label>151.</label><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><name><surname>Rajpaul</surname><given-names>V</given-names></name><name><surname>Buchhave</surname><given-names>LA</given-names></name><name><surname>Aigrain</surname><given-names>S</given-names></name></person-group><article-title xml:lang=\"en\">Pinning down the mass of Kepler-10c: the importance of sampling and model comparison</article-title><source>Mon. Not. R. Astron. Soc.</source><year>2017</year><volume>471</volume><fpage>L125</fpage><lpage>L130</lpage><pub-id pub-id-type=\"bibcode\">2017MNRAS.471L.125R</pub-id><pub-id pub-id-type=\"doi\">10.1093/mnrasl/slx116</pub-id></mixed-citation></ref>",
+    "<ref id=\"CR152\"><label>152.</label><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><name><surname>Barros</surname><given-names>SCC</given-names></name><etal/></person-group><article-title xml:lang=\"en\">Revisiting the transits of CoRoT-7b at a lower activity level</article-title><source>Astron. Astrophys.</source><year>2014</year><volume>569</volume><fpage>A74</fpage><pub-id pub-id-type=\"doi\">10.1051/0004-6361/201423939</pub-id></mixed-citation></ref>",
+    "<ref id=\"CR153\"><label>153.</label><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><name><surname>Vanderburg</surname><given-names>A</given-names></name><etal/></person-group><article-title xml:lang=\"en\">Two small planets transiting HD 3167</article-title><source>Astrophys. J.</source><year>2016</year><volume>829</volume><fpage>L9</fpage><pub-id pub-id-type=\"bibcode\">2016ApJ...829L...9V</pub-id><pub-id pub-id-type=\"doi\">10.3847/2041-8205/829/1/L9</pub-id></mixed-citation></ref>",
+    "<ref id=\"CR154\"><label>154.</label><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><name><surname>Christiansen</surname><given-names>JL</given-names></name><etal/></person-group><article-title xml:lang=\"en\">Three\u2019s company: an additional non-transiting super-Earth in the bright HD 3167 system, and masses for all three planets</article-title><source>Astron. J.</source><year>2017</year><volume>154</volume><fpage>122</fpage><pub-id pub-id-type=\"bibcode\">2017AJ....154..122C</pub-id><pub-id pub-id-type=\"doi\">10.3847/1538-3881/aa832d</pub-id></mixed-citation></ref>",
+    "<ref id=\"CR155\"><label>155.</label><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><name><surname>Stassun</surname><given-names>KG</given-names></name><etal/></person-group><article-title xml:lang=\"en\">The TESS input catalog and candidate target list</article-title><source>Astron. J.</source><year>2018</year><volume>156</volume><fpage>102</fpage><pub-id pub-id-type=\"bibcode\">2018AJ....156..102S</pub-id><pub-id pub-id-type=\"doi\">10.3847/1538-3881/aad050</pub-id></mixed-citation></ref>",
+    "<ref id=\"CR156\"><label>156.</label><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><name><surname>Espinoza</surname><given-names>N</given-names></name><etal/></person-group><article-title xml:lang=\"en\">HD 213885b: a transiting 1-d-period super-Earth with an Earth-like composition around a bright (V\u2009=\u20097.9) star unveiled by TESS</article-title><source>Mon. Not. R. Astron. Soc.</source><year>2020</year><volume>491</volume><fpage>2982</fpage><lpage>2999</lpage><pub-id pub-id-type=\"bibcode\">2020MNRAS.491.2982E</pub-id><pub-id pub-id-type=\"doi\">10.1093/mnras/stz3150</pub-id></mixed-citation></ref>"
+  ],
+  "title": {
+    "textEnglish": "A low-eccentricity migration pathway for a 13-h-period Earth analogue in a four-planet system"
+  }
+}

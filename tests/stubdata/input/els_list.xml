@@ -1,0 +1,1141 @@
+<doc:document
+	xmlns:doc="http://www.elsevier.com/xml/document/schema"
+	xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+	xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+	xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+	xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+	xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+	xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+	xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+	xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+	xmlns:ce="http://www.elsevier.com/xml/common/schema"
+	xmlns:mml="http://www.w3.org/1998/Math/MathML"
+	xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+	xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+	xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+	xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+	xmlns:xlink="http://www.w3.org/1999/xlink">
+	<rdf:RDF>
+		<rdf:Description rdf:about="http://dx.doi.org/10.1016/j.lssr.2023.03.009">
+			<dct:format>application/xml</dct:format>
+			<dct:title>Development of a NASA roadmap for planetary protection to prepare for the first human missions to Mars</dct:title>
+			<dct:creator>Bette Siegel</dct:creator>
+			<dct:creator>J.Andy Spry</dct:creator>
+			<dct:creator>James Broyan</dct:creator>
+			<dct:creator>Sarah L. Castro-Wallace</dct:creator>
+			<dct:creator>Kevin Sato</dct:creator>
+			<dct:creator>Erin Mahoney</dct:creator>
+			<dct:creator>Julie Robinson</dct:creator>
+			<dct:subject>
+				<rdf:Bag>
+					<rdf:li>Planetary protection</rdf:li>
+					<rdf:li>Mars</rdf:li>
+					<rdf:li>Crewed missions</rdf:li>
+					<rdf:li>Human missions</rdf:li>
+					<rdf:li>Quarantine</rdf:li>
+					<rdf:li>COSPAR</rdf:li>
+				</rdf:Bag>
+			</dct:subject>
+			<dct:description>Life Sciences in Space Research 38 (2023) 1-7. doi:10.1016/j.lssr.2023.03.009</dct:description>
+			<prism:aggregationType>journal</prism:aggregationType>
+			<prism:publicationName>Life Sciences in Space Research</prism:publicationName>
+			<prism:copyright>&#169; 2023 Published by Elsevier B.V. on behalf of The Committee on Space Research (COSPAR).</prism:copyright>
+			<dct:publisher>Elsevier B.V.</dct:publisher>
+			<prism:issn>2214-5524</prism:issn>
+			<prism:volume>38</prism:volume>
+			<prism:coverDisplayDate>August 2023</prism:coverDisplayDate>
+			<prism:pageRange>1-7</prism:pageRange>
+			<prism:startingPage>1</prism:startingPage>
+			<prism:endingPage>7</prism:endingPage>
+			<prism:doi>10.1016/j.lssr.2023.03.009</prism:doi>
+			<prism:url>http://dx.doi.org/10.1016/j.lssr.2023.03.009</prism:url>
+			<dct:identifier>doi:10.1016/j.lssr.2023.03.009</dct:identifier>
+			<dp:availableOnlineInformation>
+				<bam:availableOnline
+					xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2023-03-31T00:00:00.000Z
+				</bam:availableOnline>
+				<bam:vorAvailableOnline
+					xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2023-04-13T00:00:00.000Z
+				</bam:vorAvailableOnline>
+			</dp:availableOnlineInformation>
+		</rdf:Description>
+	</rdf:RDF>
+	<dp:document-properties>
+		<dp:aggregation-type>Journals</dp:aggregation-type>
+		<dp:version-number>S300.1</dp:version-number>
+	</dp:document-properties>
+	<ja:article docsubtype="fla" version="5.6" xml:lang="en">
+		<ja:item-info>
+			<ja:jid>LSSR</ja:jid>
+			<ja:aid>447</ja:aid>
+			<ce:pii>S2214-5524(23)00027-5</ce:pii>
+			<ce:doi>10.1016/j.lssr.2023.03.009</ce:doi>
+			<ce:copyright type="unknown" year="2023"/>
+		</ja:item-info>
+		<ce:floats>
+			<ce:figure id="fig0001">
+				<ce:label>Fig. 1</ce:label>
+				<ce:caption id="cap0001">
+					<ce:simple-para id="spara001" view="all">Comparison of Planetary Protection Requirements for Moon and Mars, interpretation derived from COSPAR Policy 2021.</ce:simple-para>
+				</ce:caption>
+				<ce:alt-text id="alt0001" role="short">Fig 1:</ce:alt-text>
+				<ce:link id="celink0001" locator="gr1" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S2214552423000275/gr1"/>
+			</ce:figure>
+			<ce:figure id="fig0002">
+				<ce:label>Fig. 2</ce:label>
+				<ce:caption id="cap0002">
+					<ce:simple-para id="spara002" view="all">Planetary Protection Roadmap page 1 with Use Cases highlighted.</ce:simple-para>
+				</ce:caption>
+				<ce:alt-text id="alt0002" role="short">Fig 2:</ce:alt-text>
+				<ce:link id="celink0002" locator="gr2" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S2214552423000275/gr2"/>
+			</ce:figure>
+			<ce:figure id="fig0003">
+				<ce:label>Fig. 3</ce:label>
+				<ce:caption id="cap0003">
+					<ce:simple-para id="spara003" view="all">Planetary Protection Roadmap page 2 with Use Cases highlighted.</ce:simple-para>
+				</ce:caption>
+				<ce:alt-text id="alt0003" role="short">Fig 3:</ce:alt-text>
+				<ce:link id="celink0003" locator="gr3" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S2214552423000275/gr3"/>
+			</ce:figure>
+		</ce:floats>
+		<ja:head>
+			<ce:article-footnote>
+				<ce:note-para id="tfn1" view="all">(Note: This paper was also given as an oral presentation in the PPP1 Session at the 44th COSPAR General Assembly Meeting in Athens [PPP.1-0012-22])</ce:note-para>
+			</ce:article-footnote>
+			<ce:title id="tte0002">Development of a NASA roadmap for planetary protection to prepare for the first human missions to Mars
+				<ce:cross-ref id="opt1T9dFxvMjL" refid="tfn1">
+					<ce:sup loc="post">&#x2730;</ce:sup>
+				</ce:cross-ref>
+			</ce:title>
+			<ce:author-group id="aut0001">
+				<ce:author id="au0001" author-id="S2214552423000275-cfb0d6ac2781eeb7a330751d9eab52b5" orcid="0000-0002-5553-120X">
+					<ce:given-name>Bette</ce:given-name>
+					<ce:surname>Siegel</ce:surname>
+					<ce:cross-ref id="crf0002" refid="aff0001">
+						<ce:sup loc="post">a</ce:sup>
+					</ce:cross-ref>
+					<ce:cross-ref id="kio" refid="PC_corlO2yoeWf2R">
+						<ce:sup loc="post">&#x2217;</ce:sup>
+					</ce:cross-ref>
+					<ce:e-address type="email" id="mjk" xlink:href="mailto:bette.siegel@nasa.gov">bette.siegel@nasa.gov</ce:e-address>
+				</ce:author>
+				<ce:author id="au0002" author-id="S2214552423000275-e5cc57f9ee4b7750f241319ef5db308e">
+					<ce:given-name>J.Andy</ce:given-name>
+					<ce:surname>Spry</ce:surname>
+					<ce:cross-ref id="crf0003" refid="aff0002">
+						<ce:sup loc="post">b</ce:sup>
+					</ce:cross-ref>
+				</ce:author>
+				<ce:author id="au0003" author-id="S2214552423000275-39d2c9dc5597ba6ebe8a14dbad1d301c">
+					<ce:given-name>James</ce:given-name>
+					<ce:surname>Broyan</ce:surname>
+					<ce:cross-ref id="crf0004" refid="aff0003">
+						<ce:sup loc="post">c</ce:sup>
+					</ce:cross-ref>
+				</ce:author>
+				<ce:author id="au0004" author-id="S2214552423000275-9b9f96ca0cb53d91cf382a33a2ab163a">
+					<ce:given-name>Sarah L.</ce:given-name>
+					<ce:surname>Castro-Wallace</ce:surname>
+					<ce:cross-ref id="crf0005" refid="aff0004">
+						<ce:sup loc="post">d</ce:sup>
+					</ce:cross-ref>
+				</ce:author>
+				<ce:author id="au0005" author-id="S2214552423000275-6c65a914724864a00cb6feb7bd709b56">
+					<ce:given-name>Kevin</ce:given-name>
+					<ce:surname>Sato</ce:surname>
+					<ce:cross-ref id="crf0006" refid="aff0005">
+						<ce:sup loc="post">e</ce:sup>
+					</ce:cross-ref>
+				</ce:author>
+				<ce:author id="au0006" author-id="S2214552423000275-b6cee606effeb9953f79fe409940359f">
+					<ce:given-name>Erin</ce:given-name>
+					<ce:surname>Mahoney</ce:surname>
+					<ce:cross-ref id="crf0007" refid="aff0006">
+						<ce:sup loc="post">f</ce:sup>
+					</ce:cross-ref>
+				</ce:author>
+				<ce:author id="au0007" author-id="S2214552423000275-6dfe1afb241ebaa58b8a3d541aae0535">
+					<ce:given-name>Julie</ce:given-name>
+					<ce:surname>Robinson</ce:surname>
+					<ce:cross-ref id="crf0008" refid="aff0007">
+						<ce:sup loc="post">g</ce:sup>
+					</ce:cross-ref>
+				</ce:author>
+				<ce:affiliation id="aff0001" affiliation-id="S2214552423000275-e8999e91ad20128cdd3f71a1ade1c47b">
+					<ce:label>a</ce:label>
+					<ce:textfn id="cetextfn0001">NASA HQ, ESDMD, Washington, DC, United States</ce:textfn>
+					<sa:affiliation>
+						<sa:organization>NASA HQ</sa:organization>
+						<sa:organization>ESDMD</sa:organization>
+						<sa:city>Washington</sa:city>
+						<sa:state>DC</sa:state>
+						<sa:country>United States</sa:country>
+					</sa:affiliation>
+					<ce:source-text id="staff0001">aNASA HQ, ESDMD, Washington, DC, United States</ce:source-text>
+				</ce:affiliation>
+				<ce:affiliation id="aff0002" affiliation-id="S2214552423000275-c7de6252cc4b7ff022402dce0c8c0d6d">
+					<ce:label>b</ce:label>
+					<ce:textfn id="cetextfn0002">SETI Institute, Silver Spring, MD, United States</ce:textfn>
+					<sa:affiliation>
+						<sa:organization>SETI Institute</sa:organization>
+						<sa:city>Silver Spring</sa:city>
+						<sa:state>MD</sa:state>
+						<sa:country>United States</sa:country>
+					</sa:affiliation>
+					<ce:source-text id="staff0002">bSETI Institute, Silver Spring, MD, United States</ce:source-text>
+				</ce:affiliation>
+				<ce:affiliation id="aff0003" affiliation-id="S2214552423000275-02671d64544fa4c46a9cb0a769c6f5c3">
+					<ce:label>c</ce:label>
+					<ce:textfn id="cetextfn0003">NASA JSC, Houston, TX, United States</ce:textfn>
+					<sa:affiliation>
+						<sa:organization>NASA JSC</sa:organization>
+						<sa:city>Houston</sa:city>
+						<sa:state>TX</sa:state>
+						<sa:country>United States</sa:country>
+					</sa:affiliation>
+					<ce:source-text id="staff0003">cNASA JSC, Houston, TX, United States</ce:source-text>
+				</ce:affiliation>
+				<ce:affiliation id="aff0004" affiliation-id="S2214552423000275-17424aed8408f17f4b65d12156534241">
+					<ce:label>d</ce:label>
+					<ce:textfn id="cetextfn0004">NASA JSC, Biomedical Research and Environmental Sciences Division, Houston, TX, United States</ce:textfn>
+					<sa:affiliation>
+						<sa:organization>NASA JSC</sa:organization>
+						<sa:organization>Biomedical Research and Environmental Sciences Division</sa:organization>
+						<sa:city>Houston</sa:city>
+						<sa:state>TX</sa:state>
+						<sa:country>United States</sa:country>
+					</sa:affiliation>
+					<ce:source-text id="staff0004">dNASA JSC, Biomedical Research and Environmental Sciences Division, Houston, TX, United States</ce:source-text>
+				</ce:affiliation>
+				<ce:affiliation id="aff0005" affiliation-id="S2214552423000275-9dd941de6229d0c248a23e02df5437ad">
+					<ce:label>e</ce:label>
+					<ce:textfn id="cetextfn0005">NASA HQ, Biological and Physical Sciences Division, Science Mission Directorate Washington, DC, United States</ce:textfn>
+					<sa:affiliation>
+						<sa:organization>NASA HQ</sa:organization>
+						<sa:organization>Biological and Physical Sciences Division</sa:organization>
+						<sa:organization>Science Mission Directorate Washington</sa:organization>
+						<sa:state>DC</sa:state>
+						<sa:country>United States</sa:country>
+					</sa:affiliation>
+					<ce:source-text id="staff0005">eNASA HQ, Biological and Physical Sciences Division, Science Mission Directorate Washington, DC, United States</ce:source-text>
+				</ce:affiliation>
+				<ce:affiliation id="aff0006" affiliation-id="S2214552423000275-87ae36c6bcdf25352123778ecdd9bc3e">
+					<ce:label>f</ce:label>
+					<ce:textfn id="cetextfn0006">Stardog Union, Arlington, VA, United States</ce:textfn>
+					<sa:affiliation>
+						<sa:organization>Stardog Union</sa:organization>
+						<sa:city>Arlington</sa:city>
+						<sa:state>VA</sa:state>
+						<sa:country>United States</sa:country>
+					</sa:affiliation>
+					<ce:source-text id="staff0006">fStardog Union, Arlington, VA, United States</ce:source-text>
+				</ce:affiliation>
+				<ce:affiliation id="aff0007" affiliation-id="S2214552423000275-fa35483b3f789cf2bcade742d0e3fbfb">
+					<ce:label>g</ce:label>
+					<ce:textfn id="cetextfn0007">NASA HQ, Science Mission Directorate, Washington, DC, United States</ce:textfn>
+					<sa:affiliation>
+						<sa:organization>NASA HQ</sa:organization>
+						<sa:organization>Science Mission Directorate</sa:organization>
+						<sa:city>Washington</sa:city>
+						<sa:state>DC</sa:state>
+						<sa:country>United States</sa:country>
+					</sa:affiliation>
+					<ce:source-text id="staff0007">gNASA HQ, Science Mission Directorate, Washington, DC, United States</ce:source-text>
+				</ce:affiliation>
+				<ce:correspondence id="PC_corlO2yoeWf2R">
+					<ce:label>&#x2217;</ce:label>
+					<ce:text>Corresponding author.</ce:text>
+				</ce:correspondence>
+			</ce:author-group>
+			<ce:date-received day="16" month="2" year="2023"/>
+			<ce:date-revised day="27" month="3" year="2023"/>
+			<ce:date-accepted day="30" month="3" year="2023"/>
+			<ce:abstract id="abs0001" view="all" class="author">
+				<ce:section-title id="cesectitle0001">Abstract</ce:section-title>
+				<ce:abstract-sec id="abss0001" view="all">
+					<ce:simple-para id="spara004" view="all">As part of planning for future space exploration, COSPAR (The Committee on Space Research) together with participating space agencies, organized and held interdisciplinary meetings to consider next steps in addressing knowledge gaps for planetary protection for future human missions to Mars. Beginning with the results of these meetings and earlier work by NASA, ESA, and COSPAR (e.g., Criswell et&#160;al., 2005; Hogan et&#160;al., 2006; Rummel et&#160;al., 2008) as a base the authors of this paper carried out a follow-on NASA planning activity to identify the necessary steps to be accomplished to close knowledge gaps. We identified significant overlap between the planetary protection needs and other sets of Mars preparation roadmaps (1) microbial monitoring requirements for crew health and medical systems, (2) studies of the microbiome of the built environment, (3) environmental control and life support systems (ECLSS), (4) waste management, and (5) planetary surface operations. In many cases, efforts to mature exploration class systems for Mars that are occurring in other domains can be leveraged with minor changes to address planetary protection gaps as well. In other cases, work planned for testing on the International Space Station (ISS) as an analog for crew Mars transit, or on the lunar surface as an analog for Mars surface operations can be used to close planetary protection technology and knowledge gaps. An overall strategic framework that combines these domains has the advantage of being more comprehensive, efficient, and timely for closing gaps.</ce:simple-para>
+					<ce:simple-para id="spara005" view="all">This approach has led to the development of a NASA roadmap for addressing planetary protection integrated with other related roadmaps. NASA's development and execution of the planetary protection is now viewed in an integrated way with related technology development and testing. Key features of the integrated capabilities roadmap include:
+						<ce:list id="celist0001">
+							<ce:list-item id="celistitem0001">
+								<ce:label>&#x2022;</ce:label>
+								<ce:para id="para0002" view="all">A focus on microbial monitoring needs for crewed systems overall, and the additional work needed to develop and demonstrate baseline vs. abnormal changes in microbial communities over time.</ce:para>
+							</ce:list-item>
+							<ce:list-item id="celistitem0002">
+								<ce:label>&#x2022;</ce:label>
+								<ce:para id="para0003" view="all">Integrated consideration of planetary protection and crew health requirements relevant to crew quarantine and science sample transportation.</ce:para>
+							</ce:list-item>
+							<ce:list-item id="celistitem0003">
+								<ce:label>&#x2022;</ce:label>
+								<ce:para id="para0004" view="all">Specific and targeted studies of microbial growth and biofilms in microgravity and lunar surface ECLSS systems.</ce:para>
+							</ce:list-item>
+							<ce:list-item id="celistitem0004">
+								<ce:label>&#x2022;</ce:label>
+								<ce:para id="para0005" view="all">Development of sterilization, cleaning, and waste handling technologies that meet habitation needs as well as planetary protection needs.</ce:para>
+							</ce:list-item>
+						</ce:list>
+					</ce:simple-para>
+				</ce:abstract-sec>
+			</ce:abstract>
+			<ce:keywords id="keys0001" view="all" class="keyword">
+				<ce:section-title id="cesectitle0002">Keywords</ce:section-title>
+				<ce:keyword id="key0001">
+					<ce:text id="cetext0001">Planetary protection</ce:text>
+				</ce:keyword>
+				<ce:keyword id="key0002">
+					<ce:text id="cetext0002">Mars</ce:text>
+				</ce:keyword>
+				<ce:keyword id="key0003">
+					<ce:text id="cetext0003">Crewed missions</ce:text>
+				</ce:keyword>
+				<ce:keyword id="key0004">
+					<ce:text id="cetext0004">Human missions</ce:text>
+				</ce:keyword>
+				<ce:keyword id="key0005">
+					<ce:text id="cetext0005">Quarantine</ce:text>
+				</ce:keyword>
+				<ce:keyword id="key0006">
+					<ce:text id="cetext0006">COSPAR</ce:text>
+				</ce:keyword>
+			</ce:keywords>
+		</ja:head>
+		<ja:body view="all">
+			<ce:sections>
+				<ce:section id="sec0001" view="all">
+					<ce:label>1</ce:label>
+					<ce:section-title id="cesectitle0003">Overview</ce:section-title>
+					<ce:para id="para0006" view="all">When developing human Mars mission concepts, NASA acknowledges COSPAR policy (
+						<ce:cross-ref id="crf0009" refid="bib0005">COSPAR,&#160;2021</ce:cross-ref>) as the guideline for protecting Mars from Earth Microbes and protecting Earth from possible Martian microbes. Artemis missions to the Moon will take place before human missions to Mars, but this paper focuses solely on planetary protection for Mars because the COSPAR policy for the Moon is relatively simple based on research that indicates there is no extant life on the Moon (
+						<ce:cross-ref id="optYApMZEeTRF" refid="bib19">NASA,&#160;1971</ce:cross-ref>). COSPAR policy for the Moon requires documentation of organics delivered to the surface, and specifically for the polar regions, a list of volatiles onboard. Since we anticipate Mars will still be being investigated for evidence of past or present life after the Mars Sample Return mission (
+						<ce:cross-ref id="crf0010" refid="bib0017">Tait&#160;et&#160;al., 2022</ce:cross-ref>), the envisaged requirements for human missions with regard to forward and backward contamination are much greater, but not impossible to meet (
+						<ce:cross-ref id="crf0011" refid="fig0001">Fig.&#160;1</ce:cross-ref>
+						<ce:float-anchor refid="fig0001"/>).
+					</ce:para>
+					<ce:para id="para0007" view="all">The current COSPAR policy (
+						<ce:cross-ref id="crf0012" refid="bib0005">COSPAR,&#160;2021</ce:cross-ref>) for crewed missions to Mars, is based on the text originally added to the policy in 2008, and is qualitative, lacking clear parameters that would help engineers design COSPAR compliant systems for human missions to the Red Planet. To develop quantitative requirements for a human mission to Mars, COSPAR, together with participating space agencies, has sponsored a series of interdisciplinary meetings to consider next steps in addressing knowledge gaps in the planetary protection discipline, ahead of future human missions to Mars and beyond. The objective is to incrementally move from the current qualitative COSPAR Planetary Protection &#x201c;Principles and Guidelines&#x201d; toward the development of quantitative Planetary Protection requirements for future human missions to deep space destinations like Mars. The workshops and meetings in this series have involved participants from COSPAR, the U.S. National Aeronautics and Space Administration (NASA), the European Space Agency (ESA), the Japan Aerospace Exploration Agency (JAXA), other international space agencies, the scientific and technical community, and commercial and private stakeholders (
+						<ce:cross-ref id="crf0013" refid="bib0013">Race&#160;et&#160;al., 2019</ce:cross-ref>).
+					</ce:para>
+					<ce:para id="para0008" view="all">As a follow-on to previous work e.g.,
+						<ce:cross-ref id="crf0014" refid="bib0006">Criswell&#160;et&#160;al., 2005</ce:cross-ref>;
+						<ce:cross-ref id="crf0015" refid="bib0007">Hogan&#160;et&#160;al., 2006</ce:cross-ref>;
+						<ce:cross-ref id="crf0016" refid="bib0014">Rummel&#160;et&#160;al., 2008</ce:cross-ref> and the 2015 NASA workshop, and 2016, 2018&#160;and 2019 COSPAR workshops (and resulting
+						<ce:cross-ref id="crf0017" refid="bib0011">Race&#160;et&#160;al., 2015</ce:cross-ref>,
+						<ce:cross-ref id="crf0018" refid="bib0008">Kminek&#160;et&#160;al., 2016</ce:cross-ref>,
+						<ce:cross-ref id="crf0019" refid="bib0012">Race&#160;et&#160;al., 2018</ce:cross-ref> and
+						<ce:cross-ref id="crf0020" refid="bib0013">Race&#160;et&#160;al., 2019</ce:cross-ref> reports) in planetary protection for human missions to Mars, COSPAR supported three virtual meetings &#x2014; two in 2020 one in 2022 (
+						<ce:cross-ref id="optqfRkDrSvBp" refid="bib0015">Spry&#160;et&#160;al., 2020</ce:cross-ref>). The earlier meetings first identified and then prioritized important knowledge gaps in science and technology areas related to planetary protection for crewed missions, including developing a timeline to assist in ensuring timely closure of the knowledge gaps. Subsequent meetings had considered implementation of strategies to close these knowledge gaps in the areas of &#x201c;Microbial and human health monitoring&#x201d;, the &#x201c;Natural transport of contamination on Mars&#x201d; and &#x201c;Technology and operations for contamination control&#x201d;, to determine potential strategies in managing the contamination in- and outflow of crewed systems on the surface of Mars. Following these workshops, NASA conducted an internal study on methods to prevent backward contamination from Mars and developed assumptions and guidelines concerning management of crew health and possible need for quarantine upon their return to Earth.
+					</ce:para>
+					<ce:para id="para0009" view="all">NASA used the results from the COSPAR meetings to develop a roadmap to define proper engineering requirements and assess technical solutions for future human-rated flight systems. As stated earlier, Artemis missions to the Moon will occur before human missions to Mars. Even though the COSPAR policy for the Moon is much simpler than for Mars, NASA's architecture philosophy and investment strategy is, to the extent possible, to develop lunar systems with the intent to demonstrate and validate their capabilities for Mars. The roadmap is a tool for identifying early opportunities to close planetary protection knowledge gaps and helps guide NASA's investments on Earth, in low-Earth orbit, at the Moon, and at Mars.</ce:para>
+					<ce:para id="para0010" view="all">High level knowledge gaps were organized by their priority and where they could be studied, for example if they could be studied on the ground, aboard the International Space Station (ISS), Gateway, the lunar surface, in Mars transit or the Martian surface. Within NASA, a timeline was developed using the knowledge gaps, and including g technology gaps and policy gaps as well. These became part of the agency's capability gaps which are integrated across the human exploration activity of the Moon to Mars program. The capability gaps cover all aspects that we need to know in order to safely get a crewed mission to the Mars surface and back. The Planetary Protection capability gaps were then organized to form the roadmap and ordered as a timeline from left to right. When these steps were taken, overlaps with other roadmaps were identified, such as with Environmental Control and Life Support Systems (ECLSS), Crew Health &amp; Microbial Monitoring and Biological &amp; Physical Sciences. This assists with optimizing activities and funding to support closing the capability gaps in the most efficient way.</ce:para>
+					<ce:para id="para0011" view="all">Groups of planetary protection Capability Gaps related to crewed exploration were organized into four discipline areas.
+						<ce:cross-ref id="crf0021" refid="fig0002">Fig.&#160;2</ce:cross-ref>
+						<ce:float-anchor refid="fig0002"/> shows the first three roadmap categories: Management and Coordination, Microbial Monitoring, and Assessment of Microbial Management on Mars.
+						<ce:cross-ref id="crf0022" refid="fig0003">Fig.&#160;3</ce:cross-ref>
+						<ce:float-anchor refid="fig0003"/> shows the final Mitigation techniques category. The different colors relate to where the research to close the gaps can be done, i.e., on the ground, aboard ISS, aboard Gateway (
+						<ce:cross-ref id="crf0023" refid="bib0009">NASA,&#160;2022a</ce:cross-ref>), on the lunar surface or in transit to Mars.
+					</ce:para>
+					<ce:para id="para0012" view="all">When these steps were taken, overlaps with other NASA technology/capability roadmaps were identified, for example with Environmental Control and Life Support Systems (ECLSS), Crew Health, Microbial Monitoring and Biological &amp; Physical Sciences. This coordination activity assists with optimizing activities and funding to support closing the capability gaps in the most efficient way.</ce:para>
+					<ce:para id="para0013" view="all">The Microbial Monitoring Integration Team was formed by NASA once it was realized that many different parts of NASA were studying aspects of microbial occurrence and survival. The purpose was to coordinate efforts across the agency, inform team members about what work was already being funded and to eliminate unnecessary duplication.</ce:para>
+					<ce:para id="para0014" view="all">Microbial Monitoring is a key capability where planetary protection overlaps with crew health applications. Microbial Monitoring can refer to identifying and characterizing changes of microbes within the human and within the environment. Monitoring microbes is needed within the crewed environment is for:
+						<ce:list id="celist0002">
+							<ce:list-item id="celistitem0005">
+								<ce:label>&#183;</ce:label>
+								<ce:para id="para0015" view="all">Mitigating a contamination threat to Mars (forward planetary protection)</ce:para>
+							</ce:list-item>
+							<ce:list-item id="celistitem0006">
+								<ce:label>&#183;</ce:label>
+								<ce:para id="para0016" view="all">Maintaining a healthy and functional environment for the crew to live in</ce:para>
+							</ce:list-item>
+							<ce:list-item id="celistitem0007">
+								<ce:label>&#183;</ce:label>
+								<ce:para id="para0017" view="all">Mitigating a contamination threat to Earth (backward planetary protection)</ce:para>
+							</ce:list-item>
+						</ce:list>
+					</ce:para>
+					<ce:para id="para0018" view="all">Similarly, microbial monitoring for human health is needed to ensure that it is possible to tell if a sick crew member is just sick, or if they are potentially infected by a putative Martian microbiology, prior to their returning to Earth (
+						<ce:cross-ref id="crf0024" refid="bib0013">Race&#160;et&#160;al., 2019</ce:cross-ref>). The recommendation from the 2019 meeting was that the ISS was the best platform currently for developing technology for monitoring microbes and to use the best technology available, i.e., nanopore sequencing with the MinION .
+					</ce:para>
+				</ce:section>
+				<ce:section id="sec0002" view="all">
+					<ce:label>2</ce:label>
+					<ce:section-title id="cesectitle0004">Technology coordination</ce:section-title>
+					<ce:para id="para0019" view="all">Other groups within NASA are also studying microbes and products from their roadmaps feed into the Planetary Protection Roadmap. For example, the Human Research Program studies microbes to protect crew health. They want to know if the microbes change over time and possibly become more virulent. Is there an increase in microbial colonization of the crew habitats? In addition, these scientists want to know if the human immune system changes in space over time. Does the immune response weaken?</ce:para>
+					<ce:para id="para0020" view="all">There is a clear need to monitor initial bioburden loads, gather systematic data on the status and evolution of microbial communities on both the crew and the crew vehicles, and to understand levels of biological and organic contamination release from crew vehicle systems. This data is not only critical for establishing quantitative planetary protection standards for human missions to Mars, but will also be needed for the design of hardware and operations in compliance with evolving planetary protection requirements (
+						<ce:cross-ref id="crf0025" refid="bib0013">Race&#160;et&#160;al., 2019</ce:cross-ref>).
+					</ce:para>
+					<ce:para id="para0021" view="all">The scientists and engineers who are developing the Environmental Control Life Support Systems (ECLSS)-Crew Health and Performance (CHP) systems for Mars, including microbial mitigation and monitoring technologies, have planetary protection-related topics addressed in their multiyear technology development roadmap.</ce:para>
+					<ce:para id="para0022" view="all">The ECLSS-CHP roadmap intersects with the Planetary Protection Roadmap in the area of microbial mitigation, where experts agree that there should be common microbial mitigation approaches rather than separate approaches for ECLSS-CHP and planetary protection. Microbial mitigation includes the use of filters and biocides inside water and urine processing hardware, HEPA filtering of the cabin air to remove dust, dander, and microbial cells as well as the use of disinfectant wipes for general cleaning of high crew contact spacecraft cabin surfaces. Disinfectant selection is limited by the need to avoid compounds (e.g., halogens, alcohols, ammoniacals) that can damage ECLSS hardware or be difficult to remove from the cabin atmosphere.</ce:para>
+				</ce:section>
+				<ce:section id="sec0003" view="all">
+					<ce:label>3</ce:label>
+					<ce:section-title id="cesectitle0005">NASA use cases</ce:section-title>
+					<ce:para id="para0023" view="all">Use Cases that address overlapping discipline roadmaps have been developed by the agency. Examples of how the roadmap can address multiple capability needs are described in the following three Use Case examples and are identified in
+						<ce:cross-ref id="crf0026" refid="fig0002">Figs.&#160;2</ce:cross-ref> and
+						<ce:cross-ref id="crf0027" refid="fig0003">3</ce:cross-ref>.
+					</ce:para>
+					<ce:para id="para0024" view="all">The three Use Case topics identified in the roadmaps are:
+						<ce:list id="celist0003">
+							<ce:list-item id="celistitem0008">
+								<ce:label>1</ce:label>
+								<ce:para id="para0025" view="all">A capability to monitor microbial contamination. We know that microorganisms are ubiquitous in crewed systems with a changing population over time, both in terms of the abundance and occurrence of different microbial species (e.g.,
+									<ce:cross-ref id="crf0028" refid="bib0016">Stahl-Rommel&#160;et&#160;al., 2021</ce:cross-ref>). Microbial monitoring technology has been developed over time for crew health and spacecraft environmental monitoring purposes. This work needs to be further expanded to address planetary protection concerns as part of a Use Case, with generated data being used to develop the capability to detect changes in the spacecraft microbiome resulting from exposure to the Martian environment and/or Martian microorganisms, to inform planetary protection decision-making during human expeditions on the surface of Mars.
+								</ce:para>
+							</ce:list-item>
+							<ce:list-item id="celistitem0009">
+								<ce:label>2</ce:label>
+								<ce:para id="para0026" view="all">An ability to be able to understand and track microbial growth and contamination is needed. The occurrence and fate of terrestrial microbiology in the spacecraft environment and exposed to Mars needs to be understood down to the species level, in order that contamination threat can be managed.</ce:para>
+							</ce:list-item>
+							<ce:list-item id="celistitem0010">
+								<ce:label>3</ce:label>
+								<ce:para id="para0027" view="all">It is then necessary to be able to mitigate microbial contamination as it is identified or anticipated. Thus, capabilities to process (either by disinfection or sterilization processes) elements of hardware and/or to be able to isolate contaminated material from cleaner environments, either by isolation or containment.</ce:para>
+							</ce:list-item>
+						</ce:list>
+					</ce:para>
+					<ce:para id="para0028" view="all">Each of these three capabilities have clear opportunities to be tested and verified by precursor missions in the cis-lunar environment, and the Use Cases are developed in the examples to follow:</ce:para>
+					<ce:section id="sec0004" view="all">
+						<ce:label>3.1</ce:label>
+						<ce:section-title id="cesectitle0006">Use case 1 &#x2013; microbial monitoring for crew health</ce:section-title>
+						<ce:para id="para0029" view="all">
+							<ce:bold>Why:</ce:bold> The crew health requirements to perform in-flight microbial monitoring of ISS water, air, and surfaces reside within the ISS Medical Operations Requirements Document (MORD). As such, this monitoring has been performed routinely since the habitation of the first ISS module (
+							<ce:cross-ref id="crf0029" refid="bib0003">Castro&#160;et&#160;al., &#160;2004</ce:cross-ref>;
+							<ce:cross-ref id="crf0030" refid="bib0018">Yamaguchi&#160;et&#160;al., 2014</ce:cross-ref>). The monitoring can be viewed as an assessment of microbial controls that are in place: are the HEPA filters clear and functioning, is the Water Processor Assembly (WPA) performing as designed, and are housekeeping operations being followed? The current monitoring practice relies on the crew collecting samples onto microbial growth media, five days of ambient temperature incubation, and performing a high-level quantification through comparison to a density chart. The slides or culture plates must then be returned to the ground for microbial identification. Following Earth-based analysis, this monitoring strategy provides approximate levels and identities of the cultured microorganisms, which are then used to assess overall risk. This data guides remediation based on both the overall levels as well as the medical significance of the organisms isolated. The ISS microbial monitoring practice has resulted in an overall healthy vehicle and crew, but the significant limitation is the requirement of sample return. Additionally, the reliance on culture produces both a bias to those organisms that can be cultured and a substantial delay between sample collection and analytical results. It is critical to establish and validate a means of near real-time environmental and human health diagnostics for exploration missions.
+						</ce:para>
+						<ce:para id="para0030" view="all">
+							<ce:bold>What:</ce:bold> Nanopore sequencing has become commonplace onboard the ISS, where continuous operations have occurred since 2016.
+							<ce:italic>In situ</ce:italic> analysis was made possible by the emergence of portable molecular biology tools, such as miniPCR bio's
+							<ce:italic>miniPCR</ce:italic> thermal cycler and Oxford Nanopore Technologies&#x2019;
+							<ce:italic>MinION</ce:italic> nucleic acid sequencer. Both platforms were tested onboard the ISS in 2016, marking the first PCR (polymerase chain reaction) and sequencing to take place beyond the bounds of Earth (
+							<ce:cross-ref id="crf0031" refid="bib0004">Castro-Wallace&#160;et&#160;al., 2017</ce:cross-ref>;
+							<ce:cross-ref id="crf0032" refid="bib0001">Boguraev&#160;et&#160;al., 2017</ce:cross-ref>). Following these initial demonstrations, a method was developed around these technologies to aid in microbial identifications aboard the ISS. In 2017, a crewmember collected cells from a culture slide used for nominal microbial monitoring, extracted and amplified DNA, generated sequencing libraries, and sequenced the resulting DNA with the MinION (
+							<ce:cross-ref id="crf0033" refid="bib0002">Burton&#160;et&#160;al., 2020</ce:cross-ref>) . From three colonies, two identifications were obtained. Following return of the culture slide to Earth and analysis following standard laboratory operating procedures, the two identifications obtained aboard the ISS were validated for the three colonies; two colonies were the same organism. This was the first-time that microbes had been collected, cultured, and identified off-Earth. To move beyond the need to culture potentially harmful microbes, a culture-independent, swab-to-sequencer process was developed and tested for the first-time aboard ISS in 2018. During this testing, two crewmembers performed four independent swab-to-sequencer experiments. The data revealed a high similarity with the human microbiome as well as previous culture-based ISS data (
+							<ce:cross-ref id="crf0034" refid="bib0016">Stahl-Rommel&#160;et&#160;al., 2021</ce:cross-ref>). Not surprisingly, much higher diversity was noted with the swab-to-sequencer method in comparison to the historical culture-based data, as a significant number of difficult-to-culture microorganisms were present (
+							<ce:cross-ref id="crf0035" refid="bib0016">Stahl-Rommel&#160;et&#160;al., 2021</ce:cross-ref>). Continued onboard validation of this swab-to-sequencer method for surface analysis is ongoing as a part of the ISS Crew Health Care Systems (CHeCS) standard medical operations testing with the goal of moving beyond culture-based analysis for exploration. Additionally, similar MinION-focused, culture-independent water and air analysis methods are undergoing laboratory testing with spaceflight demonstrations planned for the near future. This technology is amenable to a wide range of different sample matrices, expands insight beyond the limitations of traditional culture, and provides a means of in situ molecular characterization that is critical for the expansion of spaceflight missions. Importantly, significant evaluation of both ground- and ISS-generated molecular data has established that it is favorable for use in the current risk assessment framework.
+						</ce:para>
+						<ce:para id="para0031" view="all">
+							<ce:bold>Who:</ce:bold> While the focus of the previous work has been directed toward the medical operations community within NASA's Space Operations Mission Directorate (SOMD) including the international partners, it is extendable to all stakeholders with the goal of microbial analysis. These groups include, but are not limited to: Offices of Safety and Mission Assurance, Planetary Protection, Science Mission Directorate, Human Research Program the Mars Architecture team, and space industry.
+						</ce:para>
+						<ce:para id="para0032" view="all">
+							<ce:bold>Where:</ce:bold> Currently, this work is being routinely performed onboard the ISS, but the process has been baselined for Gateway, known as the Microbial Surface Monitor (MSM). Moreover, the method and consumables (including shelf life) are suitable for the lunar surface. Based on the methods developed and tested, a high-fidelity concept of operations for in situ microbial profiling exists for these exploration destinations (see &#x201c;How&#x201d;).
+						</ce:para>
+						<ce:para id="para0033" view="all">
+							<ce:bold>When:</ce:bold> Due to the decades of data and understanding of the Environmental Control and Life Support Systems (ECLSS), microbial monitoring now occurs quarterly onboard the ISS Yamaguchi, 20,14
+							<ce:cross-ref id="crf0036" refid="bib0016">Stahl-Rommel&#160;et&#160;al., 2021</ce:cross-ref>. For new exploration modules and vehicles, a pre-flight baseline of the air and surface microbiome should be established. For short-duration Gateway missions, sampling should occur at least once per mission. With the addition of new/changing architecture of systems (air and water revitalization), sampling should be performed as frequently as crew time allows, with monthly monitoring being ideal. With the routine use of a completed Gateway or lunar base, sampling could be reduced over time as insight is gained (similar to ISS). However, it is critical to monitor to understand the impact of additions of new biological payloads such as plants or animals.
+						</ce:para>
+						<ce:para id="para0034" view="all">
+							<ce:bold>How:</ce:bold> The following is a concept of operations for swab-based analysis. Air and water methods are in work with planned ISS demonstrations in 2023. Briefly, a swab is used to collect a sample from an internal (IVA) or external (EVA) surface. All subsequent steps will take place within a glovebox. Cells from the swab are lysed to free DNA using a combination of enzymes and heat. A paramagnetic bead-based purification can then be used to purify the extracted DNA from the cellular debris (
+							<ce:cross-ref id="crf0037" refid="bib0016">Stahl-Rommel&#160;et&#160;al., 2021</ce:cross-ref>). The purified DNA will then be subjected to amplification within miniPCR as required by the scientific goals. Following amplification or other barcoding strategy, all samples will be pooled into one reaction and purified using the same bead-based approach, as previously employed. Sequencing libraries will be generated from the purified product by the addition of reagents followed by a brief incubation at ambient temperature. After placing a flow cell into the MinION, the prepared sequencing libraries will be injected into the flow cell, and sequencing will be initiated through the graphical user interface on the MinION screen. Following completion of the run, the data will be transferred from the MinION for in-depth analysis to inform decision making aimed at risk assessment, maintaining cleanliness levels, and other needed planetary protection actions.
+						</ce:para>
+					</ce:section>
+					<ce:section id="sec0005" view="all">
+						<ce:label>3.2</ce:label>
+						<ce:section-title id="cesectitle0007">Use case 2 -terrestrial organism microbial monitoring and survivability</ce:section-title>
+						<ce:para id="para0035" view="all">
+							<ce:bold>Why:</ce:bold> The microorganisms of Earth's biosphere are ubiquitous, including in engineered vehicles, and humans. It is virtually impossible to maintain a microbiology-free environment in any closed or open systems. If an engineered vehicle comes into direct or indirect contact with humans and other non-sterile surfaces and environments, microbiological transfer can take place. Thus, it is a given fact that where humans and their engineering products go in the solar systems, the associated microorganisms will travel to those destinations, too. As a result, a risk to contamination of exploration destinations exists that could compromise studies to discover, identify, and study indigenous life and their organic chemical signatures on other planets and potentially may seed life at those destinations. Conversely, if viable microbiological organisms are discovered on other planets, the risks exist that these organisms could colonize vehicles and astronauts resulting in the unintentional return to and contamination of the Earth's ecosystem. Therefore, studies are necessary to understand microbial ecosystems and their dynamics concerning mobility, transfer, and survivability in order to accurately define the level of risk, risk factors, and risk mitigation actions concerning human exploration on other planets and return to Earth.
+						</ce:para>
+						<ce:para id="para0036" view="all">
+							<ce:bold>What:</ce:bold> The current microbiological characterization and monitoring studies of the built environment conducted on ISS do not faithfully replicate the environment of deep space, the Moon (as an exploration analog for Mars), and Mars. The ISS has relatively little material and equipment transfer from the interior to the exterior compared to Mars estimates where there will be a high EVA frequency (
+							<ce:cross-ref id="crf0038" refid="bib0010">NASA,&#160;2022b</ce:cross-ref>). Furthermore, data concerning mechanisms and modes of microbial migration, transfer, and survival within a vehicle are very limited, including for data available for these same factors for microorganisms on the external surfaces of a space vehicle. Therefore, studies are necessary that investigate microbial ecosystems of exploration vehicles and the astronauts in the actual environment where these missions will occur. The data from microbiological studies conducted in deep space and the lunar environment are critical for understanding the future risk to Mars exploration. The data is important for identifying and filling knowledge gaps concerning microbial mobility, transfer, and survival as it relates to risks to forward contamination of Mars and backward contamination to Earth. Ultimately, the data from these studies will result in developing models of microbial ecosystems and dynamics that may be used for Mars and beyond exploration and defining effective engineering solutions to mitigate risks for microbial contamination.
+						</ce:para>
+						<ce:para id="para0037" view="all">
+							<ce:bold>Who:</ce:bold> The microbiological ecosystem is associated with and impacts multiple areas of exploration systems, sciences, and missions. As such the following are anticipated to be stakeholders: Office of Safety and Mission Assurance (OMSA), Office of Planetary Protection, Science Mission Directorate (SMD)-Planetary Sciences Division/Planetary Protection Research Program, Exploration System Development Mission Directorate (ESDMD), Space Operations Mission Directorate (SOMD), space industry, international partners, academia, and SMD-Biological and Physical Sciences (BPS) Division.
+						</ce:para>
+						<ce:para id="para0038" view="all">
+							<ce:bold>Where:</ce:bold> The studies on the microbial ecosystem must be conducted in the actual exploration environment, including the transit environment. The elements of these studies include the transit capsules and vehicles (crewed and uncrewed), Gateway, Human Landing Systems, temporary and permanent surface habitats, rovers, surface traverse suits, astronaut body surfaces, and, as accessible, unmanned surface landers and rovers. These studies are conducted on all elements for both lunar and Mars transit and surface exploration.
+						</ce:para>
+						<ce:para id="para0039" view="all">
+							<ce:bold>When:</ce:bold> The studies are initiated with the collection of surface samples prior to the launch of any of the mission elements for baseline data collection. Samples are collected during all phases of a mission, including elements that return to Earth. The studies start with the first human occupancy of the Gateway and HLS landing on the Moon. If a direct to Moon plan is implemented, the studies will start with the first lunar landing mission to the moon. If possible, earlier sample collections may be requested for Artemis missions that are lunar orbit only. Overtime, regular monitoring is implemented for all lunar and Mars missions in order to study the microbial ecosystems and its dynamics over time and how it may evolve.
+						</ce:para>
+						<ce:para id="para0040" view="all">
+							<ce:bold>How:</ce:bold> Samples are regularly collected from designated surfaces (internal and external; transit, orbital, and surface), crew body, ECLSS, water systems, and air circulation systems at defined timepoints during a mission. In addition, sample are collected pre-flight for baseline data collection and post-flight. It will be important to develop standardized methods for sample collections, sample processing, and sample analyses to get data that can be compared over time and between different missions. The capabilities that will be needed to conduct the microbial investigations include crew time; upmass and volume (sample collection kits and supplies); return mass and volume for collected specimens; in-situ analytical instruments; automated microbial detection and identification devices; air sampling devices; water sampling devices; Glove Box; Incubators; and Microscope.
+						</ce:para>
+					</ce:section>
+					<ce:section id="sec0006" view="all">
+						<ce:label>3.3</ce:label>
+						<ce:section-title id="cesectitle0008">Use case 3 &#x2013; microbial mitigation with in-mission production of disinfection agents</ce:section-title>
+						<ce:para id="para0041" view="all">
+							<ce:bold>Why:</ce:bold> The existing number of disinfection agents compatible for use in a closed space habitat is limited by compatibly with life support equipment, human toxicity, and shelf life. Currently each system and payload independently manifests cleaning and disinfectant wipes and they are not necessarily interchangeable. While wet wipe consumables are readily launched from earth to ISS, deep space missions will require each system planning for its own consumables nominal plus contingencies which can increase overall vehicle departure mass or increased mission and or science completion risks. Currently, no disinfectants are generated in-mission. Wipes are launched wet and individually packaged, with the liquid disinfectant fraction represents &#x223c;80% of the overall wipe mass. If the liquid disinfectant could be generated on orbit and applied to a wipe, then only dry wipes would need to be launched. This would provide a mass savings. It also allows disinfectant to be used for other applications for more extensive cleaning, of interest to PP, of surfaces, tools, or spacesuit components than can be achieved today. For long duration surface missions, laundry of clothing begins to trade favorably over disposable clothing. Once laundry is developed, the wipe substrate could also be laundered if the disinfectant solution is able to be generated. This would reduce the need for launching contingency wipe supplies if wipe reuse is possible.
+						</ce:para>
+						<ce:para id="para0042" view="all">ISS life support technologies currently have difficulty in removing alcohol-based solvents. Ammonia and halogenated disinfectant solvents can irritate crew or animal senses and contaminate material science in addition to being a challenge for trace contaminant removal systems. Active chemical species can utilize sorbent capacities decreasing their ability to sorbe their targeted chemical species or displace chemical species previously adsorbed. Halogens can also damage catalysts and degrade their performance. Disinfectants that decompose to hydrogen and oxygen (e.g., H
+							<ce:inf loc="post">2</ce:inf>O
+							<ce:inf loc="post">2</ce:inf>, O
+							<ce:inf loc="post">3</ce:inf>, OH
+							<ce:sup loc="post">&#x2212;</ce:sup>) are generally compatible with closed loop life support systems and do not pose a risk to sorbent or catalysts.
+						</ce:para>
+						<ce:para id="para0043" view="all">
+							<ce:bold>What:</ce:bold> An integrated in-mission production of disinfection agents is needed. Disinfection agents should be based on hydrogen and oxygen and should be used for a wide range of mission needs, including: spacecraft interior surface cleaning; life support water system dormancy recovery (tubing/component microbial shock treatment); clothing/fabrics; utilization experiment cleaning; disinfecting EVA items prior to EVA, and; planned/unplanned surface cleaning of material brought into the habitat. A conceptual implementation would be to generate a range of concentrations and volumes of disinfectant solutions. The solution could be applied to dry wipes thereby saving &#x223c;80% of current wet wipe launch mass. Sharing a common dry wipe could reduce contingency wipe mass. It may be possible to reapply disinfectant solution to a wipe (particularly in partial gravity) to allow increased ability to clean larger surface areas. A liquid disinfectant could be aerosolized to provide gaseous treatment of gloveboxes or other spacecraft volumes. Notionally, hydrogen peroxide can be generated from life support portable water used on a wipe or made into an aerosol. The hydrogen peroxide will reduce to oxygen and water with will then be recycled via removal of water vapor from the cabin air via the condensing heat exchanger.
+						</ce:para>
+						<ce:para id="para0044" view="all">
+							<ce:bold>Who:</ce:bold> Requires coordinated activity of NASA's SMD, SOMD and ESDMD.
+						</ce:para>
+						<ce:para id="para0045" view="all">
+							<ce:bold>Where:</ce:bold> The technology infusion opportunities are primarily on Mars transit and surface missions, but there are potential significant mass benefits for lunar surface and Gateway missions. Prior to these infusions, a microgravity technology demonstration on ISS is required to test with real ISS potable water with trace contaminants, to validate gas bubble management, and long-term generation capability to determine the long-term operation of electrodes and any chemical additives
+						</ce:para>
+						<ce:para id="para0046" view="all">
+							<ce:bold>When:</ce:bold> To meet these infusion points, it requires standardization of Use Cases (volumes, concentrations, frequency of use, duration from use identified need to dispense, and liquid/gas state) from the &#x2018;who.&#x2019; Demonstration of microbial efficacy and dispensing to required form should be validated with &#x2018;who&#x2019; stakeholders throughout the development processes. NASA has microgravity-compatible hydrogen peroxide generation prototype underway under the small business innovation research program (SBIR). Ideally this technology should be further matured leading to an ISS technology demonstration starting in 2026 to inform critical design reviews for lunar surface habitats and Mars transit elements in the 2027&#x2013;2029 timeframe. The ISS technology demonstration should continue through FY29 to represent at least 3 years of microgravity operation. This should be augmented with ground testing to understand consumable/spares life.
+						</ce:para>
+					</ce:section>
+				</ce:section>
+				<ce:section id="sec0007" role="conclusion" view="all">
+					<ce:label>4</ce:label>
+					<ce:section-title id="cesectitle0009">Conclusion</ce:section-title>
+					<ce:para id="para0047" view="all">The planetary protection example Use Cases presented lead to needed closure of the knowledge and technology gaps. There were three examples discussed but more need to be addressed. Additional examples to be developed include waste disposal/management on the Mars surface, en-route to Mars and in Mars orbit, spacesuit leakage rates of viable microbes, and others. Knowledge gap closure is essential for development of planetary protection policy and developing requirements for crewed missions to Mars. This will enable timely flow down of Agency level Planetary Protection requirements and adoption into spacecraft design and architecture requirements. Thoughtful and collaborative investments are essential to close these knowledge gaps.</ce:para>
+					<ce:para id="para0048" view="all">It is important to remember that this a roadmap on how to close the knowledge gaps and not the only roadmap. It will need to be updated as we fill in some of the roadmaps or develop new technologies.
+						<ce:list id="celist0004">
+							<ce:list-item id="celistitem0011">
+								<ce:label>&#x2022;</ce:label>
+								<ce:para id="para0049" view="all">Planetary Protection Use Cases presented lead to closure of knowledge gaps.</ce:para>
+							</ce:list-item>
+							<ce:list-item id="celistitem0012">
+								<ce:label>&#x2022;</ce:label>
+								<ce:para id="para0050" view="all">Knowledge gaps closure is essential for development of Planetary Protection policy and requirements for crewed missions, at the Agency level.</ce:para>
+							</ce:list-item>
+							<ce:list-item id="celistitem0013">
+								<ce:label>&#x2022;</ce:label>
+								<ce:para id="para0051" view="all">Timely flow down of Agency level Planetary Protection requirements and adoption into spacecraft design/architecture requirements for the first crewed Mars mission can then occur.</ce:para>
+							</ce:list-item>
+							<ce:list-item id="celistitem0014">
+								<ce:label>&#x2022;</ce:label>
+								<ce:para id="para0052" view="all">NASA recognizes that new investments are essential to close these knowledge gaps.</ce:para>
+							</ce:list-item>
+						</ce:list>
+					</ce:para>
+				</ce:section>
+				<ce:section id="sec0008" view="all">
+					<ce:section-title id="cesectitle0010">Funding</ce:section-title>
+					<ce:para id="para0053" view="all">The work for this paper was funded by
+						<ce:grant-sponsor id="gs0001" xlink:type="simple" xlink:role="http://www.elsevier.com/xml/linking-roles/grant-sponsor">NASA Exploration Systems Mission Development</ce:grant-sponsor>.
+					</ce:para>
+				</ce:section>
+			</ce:sections>
+			<ce:conflict-of-interest id="coi0001" view="all">
+				<ce:section-title id="cesectitle0012">Declaration of Competing Interest</ce:section-title>
+				<ce:para id="para0055" view="all">The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.</ce:para>
+			</ce:conflict-of-interest>
+		</ja:body>
+		<ja:tail view="all">
+			<ce:bibliography id="cebibl1" view="all">
+				<ce:section-title id="cesectitle0013">References</ce:section-title>
+				<ce:bibliography-sec id="cebibsec1" view="all">
+					<ce:bib-reference id="bib0001">
+						<ce:label>Boguraev et&#160;al., 2017</ce:label>
+						<sb:reference id="sbref0001">
+							<sb:contribution langtype="en">
+								<sb:authors>
+									<sb:author>
+										<ce:given-name>A.S.</ce:given-name>
+										<ce:surname>Boguraev</ce:surname>
+									</sb:author>
+									<sb:author>
+										<ce:given-name>H.C.</ce:given-name>
+										<ce:surname>Christensen</ce:surname>
+									</sb:author>
+									<sb:author>
+										<ce:given-name>A.R.</ce:given-name>
+										<ce:surname>Bonneau</ce:surname>
+									</sb:author>
+									<sb:et-al/>
+								</sb:authors>
+								<sb:title>
+									<sb:maintitle>Successful amplification of DNA aboard the International Space Station</sb:maintitle>
+								</sb:title>
+							</sb:contribution>
+							<sb:host>
+								<sb:issue>
+									<sb:series>
+										<sb:title>
+											<sb:maintitle>npj Microgravity</sb:maintitle>
+										</sb:title>
+										<sb:volume-nr>3</sb:volume-nr>
+									</sb:series>
+									<sb:date>2017</sb:date>
+								</sb:issue>
+								<sb:pages>
+									<sb:first-page>26</sb:first-page>
+								</sb:pages>
+								<ce:doi>10.1038/s41526-017-0033-9</ce:doi>
+							</sb:host>
+						</sb:reference>
+						<ce:source-text id="srctxt0001">Boguraev, A.S., Christensen, H.C., Bonneau, A.R. et&#160;al., (2017) Successful amplification of DNA aboard the International Space Station. npj Microgravity 3, 26. https://doi.org/10.1038/s41526-017-0033-9</ce:source-text>
+					</ce:bib-reference>
+					<ce:bib-reference id="bib0002">
+						<ce:label>Burton et&#160;al., 2020</ce:label>
+						<sb:reference id="sbref0002">
+							<sb:contribution langtype="en">
+								<sb:authors>
+									<sb:author>
+										<ce:given-name>A.S.</ce:given-name>
+										<ce:surname>Burton</ce:surname>
+									</sb:author>
+									<sb:author>
+										<ce:given-name>S.E.</ce:given-name>
+										<ce:surname>Stahl</ce:surname>
+									</sb:author>
+									<sb:author>
+										<ce:given-name>K.J.</ce:given-name>
+										<ce:surname>John</ce:surname>
+									</sb:author>
+									<sb:author>
+										<ce:given-name>M.</ce:given-name>
+										<ce:surname>Jain</ce:surname>
+									</sb:author>
+									<sb:author>
+										<ce:given-name>S.</ce:given-name>
+										<ce:surname>Juul</ce:surname>
+									</sb:author>
+									<sb:author>
+										<ce:given-name>D.J.</ce:given-name>
+										<ce:surname>Turner</ce:surname>
+									</sb:author>
+									<sb:author>
+										<ce:given-name>E.D.</ce:given-name>
+										<ce:surname>Harrington</ce:surname>
+									</sb:author>
+									<sb:author>
+										<ce:given-name>D.</ce:given-name>
+										<ce:surname>Stoddart</ce:surname>
+									</sb:author>
+									<sb:author>
+										<ce:given-name>B.</ce:given-name>
+										<ce:surname>Paten</ce:surname>
+									</sb:author>
+									<sb:author>
+										<ce:given-name>M.</ce:given-name>
+										<ce:surname>Akeson</ce:surname>
+									</sb:author>
+									<sb:author>
+										<ce:given-name>S.L.</ce:given-name>
+										<ce:surname>Castro-Wallace</ce:surname>
+									</sb:author>
+								</sb:authors>
+								<sb:title>
+									<sb:maintitle>Off Earth identification of bacterial populations using 16S rDNA nanopore sequencing</sb:maintitle>
+								</sb:title>
+							</sb:contribution>
+							<sb:host>
+								<sb:issue>
+									<sb:series>
+										<sb:title>
+											<sb:maintitle>Genes (Basel)</sb:maintitle>
+										</sb:title>
+										<sb:volume-nr>11</sb:volume-nr>
+									</sb:series>
+									<sb:issue-nr>1</sb:issue-nr>
+									<sb:date>2020</sb:date>
+								</sb:issue>
+								<sb:pages>
+									<sb:first-page>76</sb:first-page>
+								</sb:pages>
+							</sb:host>
+						</sb:reference>
+						<ce:source-text id="srctxt0002">Burton, A.S., Stahl, S.E., John, K.J., Jain, M., Juul, S., Turner, D.J., Harrington, E.D., Stoddart, D., Paten, B., Akeson, M., and Castro-Wallace, S.L. (2020) Off Earth identification of bacterial populations using 16S rDNA nanopore sequencing. Genes (Basel). 11(1), 76.</ce:source-text>
+					</ce:bib-reference>
+					<ce:bib-reference id="bib0003">
+						<ce:label>Castro et&#160;al., 2004</ce:label>
+						<sb:reference id="sbref0003">
+							<sb:contribution langtype="en">
+								<sb:authors>
+									<sb:author>
+										<ce:given-name>V.A.</ce:given-name>
+										<ce:surname>Castro</ce:surname>
+									</sb:author>
+									<sb:author>
+										<ce:given-name>A.N.</ce:given-name>
+										<ce:surname>Thrasher</ce:surname>
+									</sb:author>
+									<sb:author>
+										<ce:given-name>M.</ce:given-name>
+										<ce:surname>Healy</ce:surname>
+									</sb:author>
+									<sb:author>
+										<ce:given-name>C.M.</ce:given-name>
+										<ce:surname>Ott</ce:surname>
+									</sb:author>
+									<sb:author>
+										<ce:given-name>D.L.</ce:given-name>
+										<ce:surname>Pierson</ce:surname>
+									</sb:author>
+								</sb:authors>
+								<sb:title>
+									<sb:maintitle>Microbial characterization during the early habitation of the international space station</sb:maintitle>
+								</sb:title>
+							</sb:contribution>
+							<sb:host>
+								<sb:issue>
+									<sb:series>
+										<sb:title>
+											<sb:maintitle>Microb. Ecol.</sb:maintitle>
+										</sb:title>
+										<sb:volume-nr>47</sb:volume-nr>
+									</sb:series>
+									<sb:date>2004</sb:date>
+								</sb:issue>
+								<sb:pages>
+									<sb:first-page>119</sb:first-page>
+									<sb:last-page>126</sb:last-page>
+								</sb:pages>
+							</sb:host>
+						</sb:reference>
+						<ce:source-text id="srctxt0003">Castro, V.A.; Thrasher, A.N.; Healy, M.; Ott, C.M.; Pierson, D.L. Microbial characterization during the early habitation of the international space station. Microb. Ecol. 2004, 47, 119&#x2013;126.</ce:source-text>
+					</ce:bib-reference>
+					<ce:bib-reference id="bib0004">
+						<ce:label>Castro-Wallace et&#160;al., 2017</ce:label>
+						<sb:reference id="sbref0004">
+							<sb:contribution langtype="en">
+								<sb:authors>
+									<sb:author>
+										<ce:given-name>S.L.</ce:given-name>
+										<ce:surname>Castro-Wallace</ce:surname>
+									</sb:author>
+									<sb:author>
+										<ce:given-name>C.Y.</ce:given-name>
+										<ce:surname>Chiu</ce:surname>
+									</sb:author>
+									<sb:author>
+										<ce:given-name>K.K.</ce:given-name>
+										<ce:surname>John</ce:surname>
+									</sb:author>
+									<sb:author>
+										<ce:given-name>S.E.</ce:given-name>
+										<ce:surname>Stahl</ce:surname>
+									</sb:author>
+									<sb:author>
+										<ce:given-name>K.H.</ce:given-name>
+										<ce:surname>Rubins</ce:surname>
+									</sb:author>
+									<sb:author>
+										<ce:given-name>A.B.R.</ce:given-name>
+										<ce:surname>McIntyre</ce:surname>
+									</sb:author>
+									<sb:author>
+										<ce:given-name>J.P.</ce:given-name>
+										<ce:surname>Dworkin</ce:surname>
+									</sb:author>
+									<sb:author>
+										<ce:given-name>M.L.</ce:given-name>
+										<ce:surname>Lupisella</ce:surname>
+									</sb:author>
+									<sb:author>
+										<ce:given-name>D.J.</ce:given-name>
+										<ce:surname>Smith</ce:surname>
+									</sb:author>
+									<sb:author>
+										<ce:given-name>D.J.</ce:given-name>
+										<ce:surname>Botkin</ce:surname>
+									</sb:author>
+									<sb:author>
+										<ce:given-name>T.A.</ce:given-name>
+										<ce:surname>Stephenson</ce:surname>
+									</sb:author>
+									<sb:author>
+										<ce:given-name>S.</ce:given-name>
+										<ce:surname>Juul</ce:surname>
+									</sb:author>
+									<sb:author>
+										<ce:given-name>D.J.</ce:given-name>
+										<ce:surname>Turner</ce:surname>
+									</sb:author>
+									<sb:author>
+										<ce:given-name>F.</ce:given-name>
+										<ce:surname>Izquierdo</ce:surname>
+									</sb:author>
+									<sb:author>
+										<ce:given-name>S.</ce:given-name>
+										<ce:surname>Federman</ce:surname>
+									</sb:author>
+									<sb:author>
+										<ce:given-name>D.</ce:given-name>
+										<ce:surname>Stryke</ce:surname>
+									</sb:author>
+									<sb:author>
+										<ce:given-name>S.</ce:given-name>
+										<ce:surname>Somasekar</ce:surname>
+									</sb:author>
+									<sb:author>
+										<ce:given-name>N.</ce:given-name>
+										<ce:surname>Alexander</ce:surname>
+									</sb:author>
+									<sb:author>
+										<ce:given-name>G.</ce:given-name>
+										<ce:surname>Yu</ce:surname>
+									</sb:author>
+									<sb:author>
+										<ce:given-name>C.E.</ce:given-name>
+										<ce:surname>Mason</ce:surname>
+									</sb:author>
+									<sb:author>
+										<ce:given-name>A.S.</ce:given-name>
+										<ce:surname>Burton</ce:surname>
+									</sb:author>
+								</sb:authors>
+								<sb:title>
+									<sb:maintitle>Nanopore DNA sequencing and genome assembly on the international space station</sb:maintitle>
+								</sb:title>
+							</sb:contribution>
+							<sb:host>
+								<sb:issue>
+									<sb:series>
+										<sb:title>
+											<sb:maintitle>Sci. Rep.</sb:maintitle>
+										</sb:title>
+										<sb:volume-nr>7</sb:volume-nr>
+									</sb:series>
+									<sb:date>2017</sb:date>
+								</sb:issue>
+								<sb:pages>
+									<sb:first-page>18022</sb:first-page>
+								</sb:pages>
+							</sb:host>
+						</sb:reference>
+						<ce:source-text id="srctxt0004">Castro-Wallace, S.L., Chiu, C.Y., John, K.K., Stahl, S.E., Rubins, K.H., McIntyre, A.B.R., Dworkin, J.P., Lupisella, M.L., Smith, D.J., Botkin, D.J., Stephenson, T.A., Juul, S., Turner, D.J., Izquierdo, F., Federman, S., Stryke, D., Somasekar, S., Alexander, N., Yu, G., Mason, C.E., and Burton, A.S. (2017) Nanopore DNA sequencing and genome assembly on the international space station. Sci. Rep. 7:18022.</ce:source-text>
+					</ce:bib-reference>
+					<ce:bib-reference id="bib0005">
+						<ce:label>COSPAR 2021</ce:label>
+						<ce:other-ref id="sbref0005">
+							<ce:textref>COSPAR (2021) COSPAR policy on planetary protection
+								<ce:inter-ref id="interref0001" xlink:href="https://cosparhq.cnes.fr/assets/uploads/2021/07/PPPolicy_2021_3-June.pdf" xlink:type="simple">https://cosparhq.cnes.fr/assets/uploads/2021/07/PPPolicy_2021_3-June.pdf</ce:inter-ref>.
+							</ce:textref>
+						</ce:other-ref>
+					</ce:bib-reference>
+					<ce:bib-reference id="bib0006">
+						<ce:label>Criswell et&#160;al., 2005</ce:label>
+						<sb:reference id="sbref0006">
+							<sb:contribution langtype="en">
+								<sb:authors>
+									<sb:author>
+										<ce:given-name>M.E.</ce:given-name>
+										<ce:surname>Criswell</ce:surname>
+									</sb:author>
+									<sb:author>
+										<ce:given-name>M.S.</ce:given-name>
+										<ce:surname>Race</ce:surname>
+									</sb:author>
+									<sb:author>
+										<ce:given-name>J.D.</ce:given-name>
+										<ce:surname>Rummel</ce:surname>
+									</sb:author>
+									<sb:author>
+										<ce:given-name>A.</ce:given-name>
+										<ce:surname>Baker</ce:surname>
+									</sb:author>
+								</sb:authors>
+								<sb:title>
+									<sb:maintitle>Planetary Protection Issues in the Human Exploration of Mars</sb:maintitle>
+								</sb:title>
+							</sb:contribution>
+							<sb:host>
+								<sb:book>
+									<sb:date>2005</sb:date>
+									<sb:publisher>
+										<sb:name>NASA Conference Publi-cation 2005-213461</sb:name>
+										<sb:location>NASA, Moffett Field, CA</sb:location>
+									</sb:publisher>
+								</sb:book>
+							</sb:host>
+						</sb:reference>
+						<ce:source-text id="srctxt0006">Criswell, M.E., Race, M.S., Rummel, J.D., &amp; Baker, A. (2005). Planetary Protection Issues in the Human Exploration of Mars. NASA Conference Publi-cation 2005-213461, NASA, Moffett Field, CA.</ce:source-text>
+					</ce:bib-reference>
+					<ce:bib-reference id="bib0007">
+						<ce:label>Hogan et&#160;al., 2006</ce:label>
+						<sb:reference id="sbref0007">
+							<sb:contribution langtype="en">
+								<sb:authors>
+									<sb:author>
+										<ce:given-name>J.A.</ce:given-name>
+										<ce:surname>Hogan</ce:surname>
+									</sb:author>
+									<sb:author>
+										<ce:given-name>M.S.</ce:given-name>
+										<ce:surname>Race</ce:surname>
+									</sb:author>
+									<sb:author>
+										<ce:given-name>J.W.</ce:given-name>
+										<ce:surname>Fisher</ce:surname>
+									</sb:author>
+									<sb:author>
+										<ce:given-name>J.A.</ce:given-name>
+										<ce:surname>Joshi</ce:surname>
+									</sb:author>
+									<sb:author>
+										<ce:given-name>J.D.</ce:given-name>
+										<ce:surname>Rummel</ce:surname>
+									</sb:author>
+								</sb:authors>
+								<sb:title>
+									<sb:maintitle>Life Support and Habitation and Planetary Protection Workshop. Final Report</sb:maintitle>
+								</sb:title>
+							</sb:contribution>
+							<sb:host>
+								<sb:book>
+									<sb:date>2006</sb:date>
+									<sb:publisher>
+										<sb:name>NASA Technical Memorandum 2006-213485</sb:name>
+										<sb:location>NASA, Moffett Field, CA</sb:location>
+									</sb:publisher>
+								</sb:book>
+							</sb:host>
+						</sb:reference>
+						<ce:source-text id="srctxt0007">Hogan, J.A., Race, M.S., Fisher, J.W., Joshi, J.A., &amp; Rummel, J.D. (2006). Life Support and Habitation and Planetary Protection Workshop. Final Report, NASA Technical Memorandum 2006-213485, NASA, Moffett Field, CA.</ce:source-text>
+					</ce:bib-reference>
+					<ce:bib-reference id="bib0008">
+						<ce:label>Kminek et&#160;al., 2016</ce:label>
+						<ce:other-ref id="sbref0008">
+							<ce:textref>Kminek, G. et&#160;al., (2016) Report of the 1st COSPAR workshop on refining planetary protection requirements for human missions. Retrieved from:
+								<ce:inter-ref id="interref0002" xlink:href="https://sma.nasa.gov/docs/default-source/sma-disciplines-and-programs/planetary-protection/report-cospar-workshop-refining-planetary-protection-requirements-for-human-missions-final20180424.pdf?sfvrsn=a3fcfff8_2" xlink:type="simple">https://sma.nasa.gov/docs/default-source/sma-disciplines-and-programs/planetary-protection/report-cospar-workshop-refining-planetary-protection-requirements-for-human-missions-final20180424.pdf?sfvrsn=a3fcfff8_2</ce:inter-ref>.
+							</ce:textref>
+						</ce:other-ref>
+					</ce:bib-reference>
+					<ce:bib-reference id="bib19">
+						<ce:label>NASA, 1971</ce:label>
+						<ce:other-ref id="tboref0001">
+							<ce:textref>NASA (1971) Apollo Quarantine Discontinued. KSC News Release KSC-96-71 p50. Available at:
+								<ce:inter-ref id="kutr" xlink:href="https://www.nasa.gov/centers/kennedy/pdf/744322main_1971.pdf" xlink:type="simple">https://www.nasa.gov/centers/kennedy/pdf/744322main_1971.pdf</ce:inter-ref>, accessed 3/22/2023.
+							</ce:textref>
+						</ce:other-ref>
+					</ce:bib-reference>
+					<ce:bib-reference id="bib0009">
+						<ce:label>NASA 2022a</ce:label>
+						<ce:other-ref id="sbref0009">
+							<ce:textref>NASA (2022a) Gateway integrated spacecraft configuration (downloadable at
+								<ce:inter-ref id="interref0003" xlink:href="https://www.nasa.gov/gateway/overview" xlink:type="simple">https://www.nasa.gov/gateway/overview</ce:inter-ref>, accessed 3/22/2023.
+							</ce:textref>
+						</ce:other-ref>
+					</ce:bib-reference>
+					<ce:bib-reference id="bib0010">
+						<ce:label>NASA 2022b</ce:label>
+						<ce:other-ref id="sbref0010">
+							<ce:textref>NASA (2022b)
+								<ce:italic>Reference Surface Activities For Crewed Mars Mission Systems and Utilization HEOMD-415 NASA</ce:italic> Washington, DC
+								<ce:inter-ref id="interref0004" xlink:href="https://ntrs.nasa.gov/citations/20220000589" xlink:type="simple">https://ntrs.nasa.gov/citations/20220000589</ce:inter-ref>.
+							</ce:textref>
+						</ce:other-ref>
+					</ce:bib-reference>
+					<ce:bib-reference id="bib0011">
+						<ce:label>Race et&#160;al., 2015</ce:label>
+						<ce:other-ref id="sbref0011">
+							<ce:textref>Race, M. et&#160;al. (2015) NASA report of planetary protection knowledge gaps for human extraterrestrial missions
+								<ce:inter-ref id="interref0005" xlink:href="https://sma.nasa.gov/docs/default-source/sma-disciplines-and-programs/planetary-protection/2015-report.pdf?sfvrsn=b2fcfff8_6" xlink:type="simple">https://sma.nasa.gov/docs/default-source/sma-disciplines-and-programs/planetary-protection/2015-report.pdf?sfvrsn=b2fcfff8_6</ce:inter-ref>.
+							</ce:textref>
+						</ce:other-ref>
+					</ce:bib-reference>
+					<ce:bib-reference id="bib0012">
+						<ce:label>Race et&#160;al., 2018</ce:label>
+						<ce:other-ref id="sbref0012">
+							<ce:textref>Race, M. et&#160;al., (2018) Report of the 2nd COSPAR Workshop on refining planetary protection requirements for human missions, and COSPAR work meeting on developing payload requirements for addressing planetary protection gaps on natural transport of contaminants on mars. Retrieved from:
+								<ce:inter-ref id="interref0006" xlink:href="https://sma.nasa.gov/docs/default-source/sma-disciplines-and-programs/planetary-protection/cospar-2019-2nd-workshop-on-refining-planetary-protection-requirements-for-human-missions-and-work-meeting-on-developing-payload-requirements-for-addressing-planetary-protection-gaps-on-nat.pdf?sfvrsn=507ff8f8_8" xlink:type="simple">https://sma.nasa.gov/docs/default-source/sma-disciplines-and-programs/planetary-protection/cospar-2019-2nd-workshop-on-refining-planetary-protection-requirements-for-human-missions-and-work-meeting-on-developing-payload-requirements-for-addressing-planetary-protection-gaps-on-nat.pdf?sfvrsn=507ff8f8_8</ce:inter-ref>.
+							</ce:textref>
+						</ce:other-ref>
+					</ce:bib-reference>
+					<ce:bib-reference id="bib0013">
+						<ce:label>Race et&#160;al., 2019</ce:label>
+						<ce:other-ref id="sbref0013">
+							<ce:textref>Race, M. et&#160;al., (2019) 3rd COSPAR meeting on refining planetary protection requirements for human missions to mars
+								<ce:inter-ref id="interref0007" xlink:href="https://sma.nasa.gov/docs/default-source/sma-disciplines-and-programs/planetary-protection/cospar-2019-report-final-20200618.pdf?sfvrsn=559bc2f8_" xlink:type="simple">https://sma.nasa.gov/docs/default-source/sma-disciplines-and-programs/planetary-protection/cospar-2019-report-final-20200618.pdf?sfvrsn=559bc2f8_</ce:inter-ref>.
+							</ce:textref>
+						</ce:other-ref>
+					</ce:bib-reference>
+					<ce:bib-reference id="bib0014">
+						<ce:label>Rummel, 2008</ce:label>
+						<sb:reference id="sbref0014">
+							<sb:contribution langtype="en">
+								<sb:authors>
+									<sb:author>
+										<ce:given-name>J.D.</ce:given-name>
+										<ce:surname>Rummel</ce:surname>
+									</sb:author>
+								</sb:authors>
+								<sb:title>
+									<sb:maintitle>and the COSPAR panel on planetary protection</sb:maintitle>
+								</sb:title>
+							</sb:contribution>
+							<sb:host>
+								<sb:book>
+									<sb:title>
+										<sb:maintitle>Report of the Workshop on Planetary Protection</sb:maintitle>
+									</sb:title>
+									<sb:date>2008</sb:date>
+									<sb:publisher>
+										<sb:name>COSPAR</sb:name>
+										<sb:location>Paris, France</sb:location>
+									</sb:publisher>
+								</sb:book>
+							</sb:host>
+						</sb:reference>
+						<ce:source-text id="srctxt0014">Rummel, J.D., and the COSPAR panel on planetary protection. (2008) Report of the Workshop on Planetary Protection, COSPAR, Paris, France</ce:source-text>
+					</ce:bib-reference>
+					<ce:bib-reference id="bib0015">
+						<ce:label>Spry et&#160;al., 2020</ce:label>
+						<ce:other-ref id="sbref0015">
+							<ce:textref>Spry, J.A. et&#160;al., (2020) 4th COSPAR (Virtual) workshop on refining planetary protection requirements for human missions
+								<ce:inter-ref id="interref0008" xlink:href="https://sma.nasa.gov/docs/default-source/sma-disciplines-and-programs/planetary-protection/2020-cospar-pp-for-human-missions-meeting-report-v1-0-508.pdf?sfvrsn=e855c1f8_0" xlink:type="simple">https://sma.nasa.gov/docs/default-source/sma-disciplines-and-programs/planetary-protection/2020-cospar-pp-for-human-missions-meeting-report-v1-0-508.pdf?sfvrsn=e855c1f8_0</ce:inter-ref>.
+							</ce:textref>
+						</ce:other-ref>
+					</ce:bib-reference>
+					<ce:bib-reference id="bib0016">
+						<ce:label>Stahl-Rommel et&#160;al., 2021</ce:label>
+						<sb:reference id="sbref0016">
+							<sb:contribution langtype="en">
+								<sb:authors>
+									<sb:author>
+										<ce:given-name>S.</ce:given-name>
+										<ce:surname>Stahl-Rommel</ce:surname>
+									</sb:author>
+									<sb:author>
+										<ce:given-name>M.</ce:given-name>
+										<ce:surname>Jain</ce:surname>
+									</sb:author>
+									<sb:author>
+										<ce:given-name>H.N.</ce:given-name>
+										<ce:surname>Nguyen</ce:surname>
+									</sb:author>
+									<sb:author>
+										<ce:given-name>R.R.</ce:given-name>
+										<ce:surname>Arnold</ce:surname>
+									</sb:author>
+									<sb:author>
+										<ce:given-name>S.M.</ce:given-name>
+										<ce:surname>Aunon-Chancellor</ce:surname>
+									</sb:author>
+									<sb:author>
+										<ce:given-name>G.M.</ce:given-name>
+										<ce:surname>Sharp</ce:surname>
+									</sb:author>
+									<sb:author>
+										<ce:given-name>C.</ce:given-name>
+										<ce:surname>Castro</ce:surname>
+									</sb:author>
+									<sb:author>
+										<ce:given-name>K.K.</ce:given-name>
+										<ce:surname>John</ce:surname>
+									</sb:author>
+									<sb:author>
+										<ce:given-name>S.</ce:given-name>
+										<ce:surname>Juul</ce:surname>
+									</sb:author>
+									<sb:author>
+										<ce:given-name>D.J.</ce:given-name>
+										<ce:surname>Turner</ce:surname>
+									</sb:author>
+									<sb:author>
+										<ce:given-name>D.</ce:given-name>
+										<ce:surname>Stoddart</ce:surname>
+									</sb:author>
+									<sb:author>
+										<ce:given-name>B.</ce:given-name>
+										<ce:surname>Paten</ce:surname>
+									</sb:author>
+									<sb:author>
+										<ce:given-name>M.</ce:given-name>
+										<ce:surname>Akeson</ce:surname>
+									</sb:author>
+									<sb:author>
+										<ce:given-name>A.S.</ce:given-name>
+										<ce:surname>Burton</ce:surname>
+									</sb:author>
+									<sb:author>
+										<ce:given-name>S.L.</ce:given-name>
+										<ce:surname>Castro-Wallace</ce:surname>
+									</sb:author>
+								</sb:authors>
+								<sb:title>
+									<sb:maintitle>Real-time culture-independent microbial profiling aboard the international space station using nanopore sequencing</sb:maintitle>
+								</sb:title>
+							</sb:contribution>
+							<sb:host>
+								<sb:issue>
+									<sb:series>
+										<sb:title>
+											<sb:maintitle>Genes (Basel)</sb:maintitle>
+										</sb:title>
+										<sb:volume-nr>12</sb:volume-nr>
+									</sb:series>
+									<sb:issue-nr>1</sb:issue-nr>
+									<sb:date>2021</sb:date>
+								</sb:issue>
+								<sb:pages>
+									<sb:first-page>106</sb:first-page>
+								</sb:pages>
+							</sb:host>
+						</sb:reference>
+						<ce:source-text id="srctxt0016">Stahl-Rommel, S., Jain, M., Nguyen H.N., Arnold, R.R., Aunon-Chancellor, S.M., Sharp, G.M., Castro, C., John, K.K., Juul, S., Turner, D.J., Stoddart, D., Paten, B., Akeson, M., Burton, A.S., and Castro-Wallace, S.L. (2021) Real-time culture-independent microbial profiling aboard the international space station using nanopore sequencing. Genes (Basel). 12(1) 106</ce:source-text>
+					</ce:bib-reference>
+					<ce:bib-reference id="bib0017">
+						<ce:label>Tait et&#160;al., 2022</ce:label>
+						<ce:other-ref id="sbref0017">
+							<ce:textref>Tait, K.T., McCubbin, F.J., Smith, C.L., Agee, C.B., Busemann, H., Debaille, V., Hutzler, A., Usui, T., Kmniek, G., Meyer, M.A., Beaty, D.W., Carrier, B.L., Haltigin, T., Hays, LFk, Preliminary planning for mars sample return (MSR) curation activities in a samole receiving Facility (SRF) Published Online:2 Jun 2022https://doi.org/10.1089/ast.2021.0105.</ce:textref>
+						</ce:other-ref>
+					</ce:bib-reference>
+					<ce:bib-reference id="bib0018">
+						<ce:label>Yamaguchi et&#160;al., 2014</ce:label>
+						<sb:reference id="sbref0018">
+							<sb:contribution langtype="en">
+								<sb:authors>
+									<sb:author>
+										<ce:given-name>N.</ce:given-name>
+										<ce:surname>Yamaguchi</ce:surname>
+									</sb:author>
+									<sb:author>
+										<ce:given-name>M.</ce:given-name>
+										<ce:surname>Roberts</ce:surname>
+									</sb:author>
+									<sb:author>
+										<ce:given-name>S.</ce:given-name>
+										<ce:surname>Castro</ce:surname>
+									</sb:author>
+									<sb:author>
+										<ce:given-name>C.</ce:given-name>
+										<ce:surname>Oubre</ce:surname>
+									</sb:author>
+									<sb:author>
+										<ce:given-name>K.</ce:given-name>
+										<ce:surname>Makimura</ce:surname>
+									</sb:author>
+									<sb:author>
+										<ce:given-name>N.</ce:given-name>
+										<ce:surname>Leys</ce:surname>
+									</sb:author>
+									<sb:author>
+										<ce:given-name>E.</ce:given-name>
+										<ce:surname>Grohmann</ce:surname>
+									</sb:author>
+									<sb:author>
+										<ce:given-name>T.</ce:given-name>
+										<ce:surname>Sugita</ce:surname>
+									</sb:author>
+									<sb:author>
+										<ce:given-name>T.</ce:given-name>
+										<ce:surname>Ichijo</ce:surname>
+									</sb:author>
+									<sb:author>
+										<ce:given-name>M.</ce:given-name>
+										<ce:surname>Nasu</ce:surname>
+									</sb:author>
+								</sb:authors>
+								<sb:title>
+									<sb:maintitle>Microbial monitoring of crewed habitats in space&#x2014;current status and future perspectives</sb:maintitle>
+								</sb:title>
+							</sb:contribution>
+							<sb:host>
+								<sb:issue>
+									<sb:series>
+										<sb:title>
+											<sb:maintitle>Microbes Environ.</sb:maintitle>
+										</sb:title>
+										<sb:volume-nr>29</sb:volume-nr>
+									</sb:series>
+									<sb:date>2014</sb:date>
+								</sb:issue>
+								<sb:pages>
+									<sb:first-page>250</sb:first-page>
+									<sb:last-page>260</sb:last-page>
+								</sb:pages>
+							</sb:host>
+						</sb:reference>
+						<ce:source-text id="srctxt0018">Yamaguchi, N.; Roberts, M.; Castro, S.; Oubre, C.; Makimura, K.; Leys, N.; Grohmann, E.; Sugita, T.; Ichijo, T.; Nasu, M. Microbial monitoring of crewed habitats in space&#x2014;current status and future perspectives. Microbes Environ. 2014, 29, 250&#x2013;260.</ce:source-text>
+					</ce:bib-reference>
+				</ce:bibliography-sec>
+			</ce:bibliography>
+		</ja:tail>
+	</ja:article>
+</doc:document>

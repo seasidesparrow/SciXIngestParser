@@ -1,0 +1,1090 @@
+<?xml version="1.0"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema" xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema" xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dct="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/" xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/" xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/" xmlns:cja="http://www.elsevier.com/xml/cja/schema" xmlns:ja="http://www.elsevier.com/xml/ja/schema" xmlns:bk="http://www.elsevier.com/xml/bk/schema" xmlns:ce="http://www.elsevier.com/xml/common/schema" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:cals="http://www.elsevier.com/xml/common/cals/schema" xmlns:tb="http://www.elsevier.com/xml/common/table/schema" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <rdf:RDF>
+    <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.heliyon.2023.e12960">
+      <dct:format>application/xml</dct:format>
+      <dct:title>The importance of prenatal diagnosis for the surgical strategy of giant cystic meconium peritonitis: A case report</dct:title>
+      <dct:creator>Gunadi</dct:creator>
+      <dct:creator>Saskia Prathana</dct:creator>
+      <dct:creator>Verrell Christopher Amadeus</dct:creator>
+      <dct:creator>Ramadhita</dct:creator>
+      <dct:creator>Kristy Iskandar</dct:creator>
+      <dct:creator>Alifah Anggraini</dct:creator>
+      <dct:subject>
+        <rdf:Bag>
+          <rdf:li>Challenge in diagnosis</rdf:li>
+          <rdf:li>Giant cystic meconium peritonitis</rdf:li>
+          <rdf:li>Infant</rdf:li>
+          <rdf:li>Prenatal diagnosis</rdf:li>
+          <rdf:li>Prompt surgical treatment</rdf:li>
+        </rdf:Bag>
+      </dct:subject>
+      <dct:description>Heliyon 9 (2023). doi:10.1016/j.heliyon.2023.e12960</dct:description>
+      <prism:aggregationType>journal</prism:aggregationType>
+      <prism:publicationName>Heliyon</prism:publicationName>
+      <prism:copyright>&#xA9; 2023 The Authors. Published by Elsevier Ltd.</prism:copyright>
+      <dct:publisher>Elsevier Ltd</dct:publisher>
+      <prism:issn>2405-8440</prism:issn>
+      <prism:volume>9</prism:volume>
+      <prism:number>1</prism:number>
+      <prism:coverDisplayDate>January 2023</prism:coverDisplayDate>
+      <prism:doi>10.1016/j.heliyon.2023.e12960</prism:doi>
+      <prism:url>http://dx.doi.org/10.1016/j.heliyon.2023.e12960</prism:url>
+      <dct:identifier>doi:10.1016/j.heliyon.2023.e12960</dct:identifier>
+      <bam:articleNumber>e12960</bam:articleNumber>
+      <oa:openAccessInformation>
+        <oa:openAccessStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://vtw.elsevier.com/data/voc/oa/OpenAccessStatus#Full</oa:openAccessStatus>
+        <oa:openAccessEffective xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2023-01-12T01:15:17Z</oa:openAccessEffective>
+        <oa:sponsor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+          <oa:sponsorType>http://vtw.elsevier.com/data/voc/oa/SponsorType#ElsevierWaived</oa:sponsorType>
+        </oa:sponsor>
+        <oa:userLicense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://creativecommons.org/licenses/by-nc-nd/4.0/</oa:userLicense>
+      </oa:openAccessInformation>
+      <dp:availableOnlineInformation>
+        <bam:availableOnline xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2023-01-15T00:00:00.000Z</bam:availableOnline>
+        <bam:vorAvailableOnline xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2023-01-20T00:00:00.000Z</bam:vorAvailableOnline>
+      </dp:availableOnlineInformation>
+      <cp:licenseLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">This is an open access article under the CC BY-NC-ND license.</cp:licenseLine>
+    </rdf:Description>
+  </rdf:RDF>
+  <dp:document-properties>
+    <dp:aggregation-type>Journals</dp:aggregation-type>
+    <dp:version-number>S300.1</dp:version-number>
+  </dp:document-properties>
+  <ja:article docsubtype="crp" version="5.6" xml:lang="en">
+    <ja:item-info>
+      <ja:jid>HLY</ja:jid>
+      <ja:aid>12960</ja:aid>
+      <ce:article-number>e12960</ce:article-number>
+      <ce:pii>S2405-8440(23)00167-6</ce:pii>
+      <ce:doi>10.1016/j.heliyon.2023.e12960</ce:doi>
+      <ce:copyright type="unknown" year="2023"/>
+    </ja:item-info>
+    <ce:floats>
+      <ce:figure id="fig1">
+        <ce:label>Fig. 1</ce:label>
+        <ce:caption id="cap0010">
+          <ce:simple-para id="fspara0010" view="all">Antenatal sonography showed a cystic intraabdominal mass.</ce:simple-para>
+        </ce:caption>
+        <ce:alt-text role="short" id="alttext0010">Fig. 1</ce:alt-text>
+        <ce:link locator="gr1" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S2405844023001676/gr1"/>
+      </ce:figure>
+      <ce:figure id="fig2">
+        <ce:label>Fig. 2</ce:label>
+        <ce:caption id="cap0015">
+          <ce:simple-para id="fspara0015" view="all">(a) A babygram showed a dilated small and large bowel. (b) An abdominal CT scan revealed a cystic mass with calcifications at the right lumbar region consistent with meconium calcified peritonitis measuring 10 cm.</ce:simple-para>
+        </ce:caption>
+        <ce:alt-text role="short" id="alttext0015">Fig. 2</ce:alt-text>
+        <ce:link locator="gr2" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S2405844023001676/gr2"/>
+      </ce:figure>
+      <ce:figure id="fig3">
+        <ce:label>Fig. 3</ce:label>
+        <ce:caption id="cap0020">
+          <ce:simple-para id="fspara0020" view="all">A 10 cm cystic mass adhered to the surrounding viscera, uterus, right fallopian tube, and ovary.</ce:simple-para>
+        </ce:caption>
+        <ce:alt-text role="short" id="alttext0020">Fig. 3</ce:alt-text>
+        <ce:link locator="gr3" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S2405844023001676/gr3"/>
+      </ce:figure>
+      <ce:figure id="fig4">
+        <ce:label>Fig. 4</ce:label>
+        <ce:caption id="cap0025">
+          <ce:simple-para id="fspara0025" view="all">Histopathological findings showed an epithelial lining with necrotic tissue and bilirubin fragments, consistent with findings of a meconium cyst.</ce:simple-para>
+        </ce:caption>
+        <ce:alt-text role="short" id="alttext0025">Fig. 4</ce:alt-text>
+        <ce:link locator="gr4" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S2405844023001676/gr4"/>
+      </ce:figure>
+    </ce:floats>
+    <ja:head>
+      <ce:dochead id="dhead0010">
+        <ce:textfn>Case report</ce:textfn>
+      </ce:dochead>
+      <ce:title id="title0010">The importance of prenatal diagnosis for the surgical strategy of giant cystic meconium peritonitis: A case report</ce:title>
+      <ce:author-group id="augrp0010">
+        <ce:author id="au1" orcid="0000-0002-4707-6526" author-id="S2405844023001676-5393ff982485d70f858164130b1cd06d">
+          <ce:surname>Gunadi</ce:surname>
+          <ce:cross-ref refid="aff1" id="crosref0010">
+            <ce:sup loc="post">a</ce:sup>
+          </ce:cross-ref>
+          <ce:cross-ref refid="cor1" id="crosref0015">
+            <ce:sup loc="post">&#x2217;</ce:sup>
+          </ce:cross-ref>
+          <ce:e-address type="email" xlink:href="mailto:drgunadi@ugm.ac.id" id="eadd0010">drgunadi@ugm.ac.id</ce:e-address>
+        </ce:author>
+        <ce:author id="au2" author-id="S2405844023001676-bdef8570f31bb67599f8433c65ed9c87">
+          <ce:given-name>Saskia</ce:given-name>
+          <ce:surname>Prathana</ce:surname>
+          <ce:cross-ref refid="aff1" id="crosref0020">
+            <ce:sup loc="post">a</ce:sup>
+          </ce:cross-ref>
+          <ce:e-address type="email" xlink:href="mailto:saskia.prathana@yahoo.com" id="eadd0015">saskia.prathana@yahoo.com</ce:e-address>
+        </ce:author>
+        <ce:author id="au3" orcid="0000-0003-4791-2069" author-id="S2405844023001676-603e1941f87001acfd28eaabf43ef7bc">
+          <ce:given-name>Verrell Christopher</ce:given-name>
+          <ce:surname>Amadeus</ce:surname>
+          <ce:cross-ref refid="aff1" id="crosref0025">
+            <ce:sup loc="post">a</ce:sup>
+          </ce:cross-ref>
+          <ce:e-address type="email" xlink:href="mailto:verrellc@gmail.com" id="eadd0020">verrellc@gmail.com</ce:e-address>
+        </ce:author>
+        <ce:author id="au4" author-id="S2405844023001676-53f27b1594b7f938ed0a33ef8f1838e5">
+          <ce:surname>Ramadhita</ce:surname>
+          <ce:cross-ref refid="aff1" id="crosref0030">
+            <ce:sup loc="post">a</ce:sup>
+          </ce:cross-ref>
+          <ce:e-address type="email" xlink:href="mailto:ramadaridesa@yahoo.com" id="eadd0025">ramadaridesa@yahoo.com</ce:e-address>
+        </ce:author>
+        <ce:author id="au5" author-id="S2405844023001676-81a0d905389d1caef44d9081242a043c">
+          <ce:given-name>Kristy</ce:given-name>
+          <ce:surname>Iskandar</ce:surname>
+          <ce:cross-ref refid="aff2" id="crosref0035">
+            <ce:sup loc="post">b</ce:sup>
+          </ce:cross-ref>
+          <ce:e-address type="email" xlink:href="mailto:kristy.iskandar@ugm.ac.id" id="eadd0030">kristy.iskandar@ugm.ac.id</ce:e-address>
+        </ce:author>
+        <ce:author id="au6" author-id="S2405844023001676-634a1d82735f7d3be59048a2ff94895c">
+          <ce:given-name>Alifah</ce:given-name>
+          <ce:surname>Anggraini</ce:surname>
+          <ce:cross-ref refid="aff3" id="crosref0040">
+            <ce:sup loc="post">c</ce:sup>
+          </ce:cross-ref>
+          <ce:e-address type="email" xlink:href="mailto:alifahanggraini@ugm.ac.id" id="eadd0035">alifahanggraini@ugm.ac.id</ce:e-address>
+        </ce:author>
+        <ce:affiliation id="aff1" affiliation-id="S2405844023001676-adce9e3ffb17f98c26c57bf2d32f253f">
+          <ce:label>a</ce:label>
+          <ce:textfn>Pediatric Surgery Division, Department of Surgery, Faculty of Medicine, Public Health and Nursing, Universitas Gadjah Mada/Dr. Sardjito Hospital, Yogyakarta 55281, Indonesia</ce:textfn>
+          <sa:affiliation>
+            <sa:organization>Pediatric Surgery Division</sa:organization>
+            <sa:organization>Department of Surgery</sa:organization>
+            <sa:organization>Faculty of Medicine, Public Health and Nursing</sa:organization>
+            <sa:organization>Universitas Gadjah Mada/Dr. Sardjito Hospital</sa:organization>
+            <sa:city>Yogyakarta</sa:city>
+            <sa:postal-code>55281</sa:postal-code>
+            <sa:country>Indonesia</sa:country>
+          </sa:affiliation>
+          <ce:source-text id="srct0010">Pediatric Surgery Division, Department of Surgery, Faculty of Medicine, Public Health and Nursing, Universitas Gadjah Mada/Dr. Sardjito Hospital, Yogyakarta 55281, Indonesia</ce:source-text>
+        </ce:affiliation>
+        <ce:affiliation id="aff2" affiliation-id="S2405844023001676-2ab33979b49b9f666477feb00bb5b25e">
+          <ce:label>b</ce:label>
+          <ce:textfn>Department of Child Health, Faculty of Medicine, Public Health and Nursing, Universitas Gadjah Mada/UGM Academic Hospital, Yogyakarta 55291, Indonesia</ce:textfn>
+          <sa:affiliation>
+            <sa:organization>Department of Child Health</sa:organization>
+            <sa:organization>Faculty of Medicine, Public Health and Nursing</sa:organization>
+            <sa:organization>Universitas Gadjah Mada/UGM Academic Hospital</sa:organization>
+            <sa:city>Yogyakarta</sa:city>
+            <sa:postal-code>55291</sa:postal-code>
+            <sa:country>Indonesia</sa:country>
+          </sa:affiliation>
+          <ce:source-text id="srct0015">Department of Child Health, Faculty of Medicine, Public Health and Nursing, Universitas Gadjah Mada/UGM Academic Hospital, Yogyakarta 55291, Indonesia</ce:source-text>
+        </ce:affiliation>
+        <ce:affiliation id="aff3" affiliation-id="S2405844023001676-25a55f0aa0542fbe7357ee5860b93bbd">
+          <ce:label>c</ce:label>
+          <ce:textfn>Neonatology Division, Department of Child Health, Faculty of Medicine, Public Health and Nursing, Universitas Gadjah Mada/Dr. Sardjito Hospital, Yogyakarta 55291, Indonesia</ce:textfn>
+          <sa:affiliation>
+            <sa:organization>Neonatology Division</sa:organization>
+            <sa:organization>Department of Child Health</sa:organization>
+            <sa:organization>Faculty of Medicine, Public Health and Nursing</sa:organization>
+            <sa:organization>Universitas Gadjah Mada/Dr. Sardjito Hospital</sa:organization>
+            <sa:city>Yogyakarta</sa:city>
+            <sa:postal-code>55291</sa:postal-code>
+            <sa:country>Indonesia</sa:country>
+          </sa:affiliation>
+          <ce:source-text id="srct0020">Neonatology Division, Department of Child Health, Faculty of Medicine, Public Health and Nursing, Universitas Gadjah Mada/Dr. Sardjito Hospital, Yogyakarta 55291, Indonesia</ce:source-text>
+        </ce:affiliation>
+        <ce:correspondence id="cor1">
+          <ce:label>&#x2217;</ce:label>
+          <ce:text>Corresponding author. Pediatric Surgery Division, Department of Surgery, Faculty of Medicine, Public Health and Nursing, Universitas Gadjah Mada/Dr. Sardjito Hospital, Jl. Kesehatan No. 1, Yogyakarta 55281, Indonesia.</ce:text>
+          <sa:affiliation>
+            <sa:organization>Pediatric Surgery Division</sa:organization>
+            <sa:organization>Department of Surgery</sa:organization>
+            <sa:organization>Faculty of Medicine, Public Health and Nursing</sa:organization>
+            <sa:organization>Universitas Gadjah Mada/Dr. Sardjito Hospital</sa:organization>
+            <sa:address-line>Jl. Kesehatan No. 1</sa:address-line>
+            <sa:city>Yogyakarta</sa:city>
+            <sa:postal-code>55281</sa:postal-code>
+            <sa:country>Indonesia</sa:country>
+          </sa:affiliation>
+        </ce:correspondence>
+      </ce:author-group>
+      <ce:date-received day="10" month="8" year="2022"/>
+      <ce:date-revised day="27" month="12" year="2022"/>
+      <ce:date-accepted day="10" month="1" year="2023"/>
+      <ce:abstract xml:lang="en" id="abs0010" view="all" class="author">
+        <ce:section-title id="sectitle0010">Abstract</ce:section-title>
+        <ce:abstract-sec role="background" id="abssec0010" view="all">
+          <ce:section-title id="sectitle0015">Background</ce:section-title>
+          <ce:simple-para id="abspara0010" view="all">Giant cystic meconium peritonitis (MP) is a relatively rare entity. Prompt surgical treatment is required to manage the underlying etiology and reestablish the continuity of the intestines. Despite perinatal and postoperative care improvements, the overall mortality rate is still relatively high. We reported a giant cystic MP that was recognized using antenatal sonography (US). It was successfully treated with primary anastomosis.</ce:simple-para>
+        </ce:abstract-sec>
+        <ce:abstract-sec id="abssec0015" view="all">
+          <ce:section-title id="sectitle0020">Case presentation</ce:section-title>
+          <ce:simple-para id="abspara0015" view="all">We presented a female newborn with a chief complaint of abdominal mass. The prenatal sonography showed an intraabdominal cyst at the 28th week of gestation. She was born at the gestational age of 38 weeks via vaginal delivery from a primigravid mother without complications, with a birth weight of 3275&#xA0;g. Elective surgery was performed at the age of eight days, and a calcified 10 cm cyst was revealed along with severe adhesions. The cyst was found to communicate with the ileum located 30 cm proximal from the ileocecal junction. No malrotation and volvulus were found. The cyst and a portion of the ileum were resected, followed by a primary end-to-end anastomosis. Pathologic examination showed necrotic tissue lined with epithelial tissue with microcalcifications containing bilirubin pigments, consistent with cystic MP. The patient has uneventfully discharged on postoperative day 17. The patient has normal growth and development, except for delayed walking, at the last follow-up of two years of age.</ce:simple-para>
+        </ce:abstract-sec>
+        <ce:abstract-sec role="conclusion" id="abssec0020" view="all">
+          <ce:section-title id="sectitle0025">Conclusion</ce:section-title>
+          <ce:simple-para id="abspara0020" view="all">Giant cystic MP is a rare disorder that can be detected early using the antenatal US. Our case highlights the importance of early diagnosis for giant cystic MP using the antenatal US leads to prompt surgical treatment and a more favorable prognosis.</ce:simple-para>
+        </ce:abstract-sec>
+      </ce:abstract>
+      <ce:keywords xml:lang="en" id="kwrds0010" view="all" class="keyword">
+        <ce:section-title id="sectitle0030">Keywords</ce:section-title>
+        <ce:keyword id="kwrd0010">
+          <ce:text>Challenge in diagnosis</ce:text>
+        </ce:keyword>
+        <ce:keyword id="kwrd0015">
+          <ce:text>Giant cystic meconium peritonitis</ce:text>
+        </ce:keyword>
+        <ce:keyword id="kwrd0020">
+          <ce:text>Infant</ce:text>
+        </ce:keyword>
+        <ce:keyword id="kwrd0025">
+          <ce:text>Prenatal diagnosis</ce:text>
+        </ce:keyword>
+        <ce:keyword id="kwrd0030">
+          <ce:text>Prompt surgical treatment</ce:text>
+        </ce:keyword>
+      </ce:keywords>
+      <ce:keywords class="abr" id="pc_pbX8kVhQFUBTMIaFnQr5b4Ik6VX4AZ5t" view="all">
+        <ce:section-title id="pc_FI4NlOG0NY">Abbreviations</ce:section-title>
+        <ce:keyword id="pc_ccs7gbEN3N">
+          <ce:text>MP</ce:text>
+          <ce:keyword id="pc_JkoubX12iF">
+            <ce:text>meconium peritonitis</ce:text>
+          </ce:keyword>
+        </ce:keyword>
+        <ce:keyword id="pc_xKr04qe3MU">
+          <ce:text>US</ce:text>
+          <ce:keyword id="pc_eBWL76llDl">
+            <ce:text>sonography</ce:text>
+          </ce:keyword>
+        </ce:keyword>
+        <ce:keyword id="pc_h9tDX29WmL">
+          <ce:text>CT</ce:text>
+          <ce:keyword id="pc_7O2Xbjij5v">
+            <ce:text>computed tomography</ce:text>
+          </ce:keyword>
+        </ce:keyword>
+        <ce:keyword id="pc_KeaVMM5L05">
+          <ce:text>POD</ce:text>
+          <ce:keyword id="pc_YxjcYMbwvn">
+            <ce:text>postoperative day</ce:text>
+          </ce:keyword>
+        </ce:keyword>
+        <ce:keyword id="pc_Zz9EByO1lx">
+          <ce:text>CF</ce:text>
+          <ce:keyword id="pc_mNYlVn0B9s">
+            <ce:text>cystic fibrosis</ce:text>
+          </ce:keyword>
+        </ce:keyword>
+        <ce:keyword id="pc_oZg6NXTv5X">
+          <ce:text>Ref</ce:text>
+          <ce:keyword id="pc_KK1bzZbACj">
+            <ce:text>Reference</ce:text>
+          </ce:keyword>
+        </ce:keyword>
+      </ce:keywords>
+    </ja:head>
+    <ja:body view="all">
+      <ce:sections>
+        <ce:section id="sec1" role="background" view="all">
+          <ce:label>1</ce:label>
+          <ce:section-title id="sectitle0035">Background</ce:section-title>
+          <ce:para id="p0010" view="all">Meconium peritonitis (MP) is sterile chemical peritonitis due to meconium leakage into the peritoneal cavity caused by antenatal perforation of the intestines. This leads to a secondary inflammatory response [<ce:cross-ref refid="bib1" id="crosref0045">1</ce:cross-ref>]. The perforation can translate into bacterial contamination after delivery [<ce:cross-ref refid="bib2" id="crosref0050">2</ce:cross-ref>]. Several underlying pathologies have been reported: perforation with obstruction (intestinal atresia, meconium ileus, and volvulus) and perforation without obstruction (perforated appendicitis, vascular insufficiency, and Meckel's diverticulum) [<ce:cross-ref refid="bib1" id="crosref0055">1</ce:cross-ref>,<ce:cross-ref refid="bib3" id="crosref0060">3</ce:cross-ref>].</ce:para>
+          <ce:para id="p0015" view="all">MP is classified into three groups: generalized, fibro-adhesive, and cystic. The frequency of MP with pseudocyst is rare, at approximately 1:35,000 live births. Some cases may resolve spontaneously in utero or clinically inapparent at birth [<ce:cross-ref refid="bib3" id="crosref0065">3</ce:cross-ref>]. Intraabdominal calcification is a pathognomonic finding detected by plain x-ray or ultrasound (US) [<ce:cross-ref refid="bib4" id="crosref0070">4</ce:cross-ref>]. Currently, the survival rate of MP patients has improved to &gt;90% due to an advance in prenatal diagnosis, surgical procedures, and neonatal intensive care, while around the 1950s&#x2013;1960s, MP was considered a deadly disorder with a mortality rate of &gt;80% [<ce:cross-ref refid="bib5" id="crosref0075">5</ce:cross-ref>,<ce:cross-ref refid="bib6" id="crosref0080">6</ce:cross-ref>].</ce:para>
+          <ce:para id="p0020" view="all">It has been suggested that a fetus diagnosed with MP should undergo early surgical treatment to increase the survival rate and prognosis of the patient [<ce:cross-ref refid="bib4" id="crosref0085">4</ce:cross-ref>,<ce:cross-ref refid="bib7" id="crosref0090">7</ce:cross-ref>]. However, the surgical approach option remains controversial: primary anastomosis or enterostomy depends on many factors [<ce:cross-ref refid="bib7" id="crosref0095">7</ce:cross-ref>]. We reported a giant cystic MP that was recognized using antenatal sonography (US). It was successfully treated with primary anastomosis.</ce:para>
+        </ce:section>
+        <ce:section id="sec2" role="case-report" view="all">
+          <ce:label>2</ce:label>
+          <ce:section-title id="sectitle0040">Case presentation</ce:section-title>
+          <ce:para id="p0025" view="all">A female neonate was consulted to our division due to findings consistent with intraabdominal mass. The mother had routine antenatal sonography (US) screenings. The fetus had suspected cystic intraabdominal mass since the third trimester (<ce:cross-ref refid="fig1" id="crosref0100">Fig. 1</ce:cross-ref><ce:float-anchor refid="fig1"/>). She was born at the gestational age of 38 weeks via vaginal delivery from a primigravid mother without complications with a birth weight of 3275&#xA0;g. She remained in stable condition and was fed until the surgical consultation. It was noted that she passed meconium on her first day of life without any complaints suggesting intestinal obstruction. Physical examination revealed a distended abdomen with a firm, palpable mass at the right of the umbilicus measuring around 10 cm. Babygram showed a dilated small and large bowel (<ce:cross-ref refid="fig2" id="crosref0105">Fig. 2</ce:cross-ref><ce:float-anchor refid="fig2"/>a). The neonate had undergone an abdominal computed tomography (CT) scan at four days old. CT scan revealed a cystic mass with calcifications at the right lumbar region, consistent with meconium calcified peritonitis measuring 10 cm (<ce:cross-ref refid="fig2" id="crosref0110">Fig. 2</ce:cross-ref>b).</ce:para>
+          <ce:para id="p0030" view="all">Elective exploratory laparotomy was decided since the baby was stable and laboratory findings were normal, including prothrombin time (PT) (13 s; Reference [Ref]: 14.0&#x2013;15.8 s), activated partial thromboplastin time (aPTT) (38.3 s; Ref: 31.4&#x2013;40.8 s), and international normalized ratio (INR) (1.01; Ref: 0.90&#x2013;1.10). She underwent surgery at the age of 8 days; we selected a transverse supraumbilical approach. Upon entering the abdomen, we found severe bowel adhesions to each other and the peritoneum. After releasing the adhesion, we identified a 10 cm cystic mass that adhered to the surrounding viscera along with the uterus, right fallopian tube, and ovary (<ce:cross-ref refid="fig3" id="crosref0115">Fig. 3</ce:cross-ref><ce:float-anchor refid="fig3"/>). No malrotation and volvulus were found. After meticulous dissection and successful mass mobilization, we found an ileal perforation at the base, located 30 cm proximal from the ileocecal junction. As we found the distal bowel viable, we decided to perform a resection of the perforated ileum segment with primary end-to-end anastomosis. The mass was sent to the Anatomical Pathology Department for analysis. It was found to have an epithelial lining with necrotic tissue and bilirubin fragments, consistent with findings of a meconium cyst (<ce:cross-ref refid="fig4" id="crosref0120">Fig. 4</ce:cross-ref><ce:float-anchor refid="fig4"/>).</ce:para>
+          <ce:para id="p0035" view="all">The neonate was started on oral trophic feedings with breast milk on a postoperative day (POD) 9 after minimal gastric residue and had defecation. The neonate was uneventfully discharged from the Neonatology Unit after achieving full feeds at POD 17. We did not conduct genetic testing for cystic fibrosis (CF). Moreover, the patient has normal growth and development, except for delayed walking, at the last follow-up of two years of age.</ce:para>
+        </ce:section>
+        <ce:section id="sec3" role="conclusion" view="all">
+          <ce:label>3</ce:label>
+          <ce:section-title id="sectitle0045">Discussion and conclusions</ce:section-title>
+          <ce:para id="p0040" view="all">Because of the advancement in prenatal diagnosis, surgical techniques, and perinatal care, the survival rate of MP patients has improved to &gt;80% [<ce:cross-ref refid="bib8" id="crosref0125">8</ce:cross-ref>]. The pathogenesis of meconium peritonitis is still not well understood. Bowel ischemia due to decreased mesenteric blood flow may lead to mucosal necrosis and bowel obstruction, resulting in the perforation of the intestinal wall. However, ischemia is not the only etiology of MP. Intraluminal and extramural conditions causing obstruction might cause subsequent intestinal wall perforation [<ce:cross-ref refid="bib5" id="crosref0130">5</ce:cross-ref>]. Several possible pathogeneses of MP have been proposed, including ischemia in the mesentery, meconium ileus, volvulus, intestinal atresia, and CF [<ce:cross-ref refid="bib5" id="crosref0135">5</ce:cross-ref>]. For CF, genetic testing for <ce:italic>CFTR</ce:italic> mutation was not performed. In addition, the incidence of CF is scarce in the Asian population [<ce:cross-ref refid="bib5" id="crosref0140">5</ce:cross-ref>]. It has been proposed that CF patients have a thrombophilic predisposition [<ce:cross-ref refid="bib9" id="crosref0145">9</ce:cross-ref>]. Our case had a normal coagulation profile, including PPT, APTT, and INR levels. MP patients might show different backgrounds, clinical manifestations, and etiologies [<ce:cross-ref refid="bib6" id="crosref0150">6</ce:cross-ref>]. In addition, a previous study suggested that meconium-related ileum pathology has been included in the surgical intestinal disorders group [<ce:cross-ref refid="bib10" id="crosref0155">10</ce:cross-ref>].</ce:para>
+          <ce:para id="p0045" view="all">Advances in medical imaging technology result in an increased number of antenatal diagnoses of MP by fetus, including US [<ce:cross-ref refid="bib7" id="crosref0160">7</ce:cross-ref>], as in our case. Earlier diagnosis of MP by the antenatal US in our case has warned the neonatologist, obstetrician, and pediatric surgeon in our hospital to look for possible complications (such as bacterial peritonitis and septic shock), and prepared the surgical management for the patient since prenatal. In addition, fetal magnetic resonance imaging (MRI) has a beneficial role in detecting various findings of MP, such as ascites, micro-colorectum, bowel dilatation, and peritoneal calcifications [<ce:cross-ref refid="bib11" id="crosref0165">11</ce:cross-ref>]. Unfortunately, fetal MRI is not routinely performed in our hospital yet. Moreover, one study suggested that prenatal diagnosis is important as the first stage of treatment for MP and will determine the surgical option for MP [<ce:cross-ref refid="bib12" id="crosref0170">12</ce:cross-ref>].</ce:para>
+          <ce:para id="p0050" view="all">The US findings of calcification vary from 0% to 94%. The calcification is caused by calcium deposition in the inflamed areas due to peritonitis. A previous report showed that ascites, intraperitoneal calcification, and echogenic bowel in the fetal US are strongly associated with MP. Fetal US shows a 100% specificity; however, only &#x223C;20% sensitivity for the detection of meconium pseudocyst [<ce:cross-ref refid="bib13" id="crosref0175">13</ce:cross-ref>]. A postnatal CT scan is helpful to confirm further the calcification that remains undetectable by the US due to the calcification being finely dispersed in the peritoneal cavity. Other US findings of MP are ascites and dilated bowel loops [<ce:cross-ref refid="bib2" id="crosref0180">2</ce:cross-ref>]. Although helpful in confirming the calcified meconium peritonitis as in our case, it should be noted that the CT scan has a radiation exposure. Therefore, a CT scan is not recommended unless there is a discrepancy between US and plain radiograph results [<ce:cross-ref refid="bib14" id="crosref0185">14</ce:cross-ref>].</ce:para>
+          <ce:para id="p0055" view="all">The clinical manifestation of MP varies from spontaneous resolved to prompt mortality. It depends on the onset of the perforation and if it continues postnatal [<ce:cross-ref refid="bib3" id="crosref0190">3</ce:cross-ref>]. Early diagnosis and subsequent early surgical treatment for neonates have been demonstrated to improve the prognosis of MP patients. Early surgery effectively reduces intraabdominal and systemic inflammation, enhancing the outcomes of severely affected patients. Unfortunately, as of now, there is still no standardized operative procedure for MP [<ce:cross-ref refid="bib7" id="crosref0195">7</ce:cross-ref>]. We performed ileum resection with primary end-to-end anastomosis in our patient, which had a favorable outcome following this approach. One study suggested an ileostomy for treating bowel disorders in newborns, including meconium disorders, particularly in extremely low-birthweight and premature babies [<ce:cross-ref refid="bib15" id="crosref0200">15</ce:cross-ref>].</ce:para>
+          <ce:para id="p0060" view="all">Our patient started an oral trophic feeding with breast milk on POD 9. It has been shown that the patients with enteral feeding at POD 8 (8.7&#xA0;&#xB1;&#xA0;4.1) showed a better outcome than the patients with enteral feeding at POD 6 (9.4&#xA0;&#xB1;&#xA0;6.0) [<ce:cross-ref refid="bib7" id="crosref0205">7</ce:cross-ref>].</ce:para>
+          <ce:para id="p0065" view="all">Notably, this is only a case report, not case series. These facts should be considered during the interpretation of our findings.</ce:para>
+          <ce:para id="p0070" view="all">In conclusion, giant cystic MP is a rare disorder that can be detected early using the antenatal US. Our case also highlights the importance of early diagnosis of the disorder by antenatal screening and postnatal confirmation, followed by early surgical treatment. We found that in our case, antenatal diagnosis and prompt surgical treatment are possible before severe clinical deterioration, resulting in the possibility of single-stage surgery to reduce the morbidities and mortality associated with this disorder.</ce:para>
+        </ce:section>
+        <ce:section id="sec4" view="all">
+          <ce:section-title id="sectitle0050">Ethics approval and consent to participate</ce:section-title>
+          <ce:para id="p0075" view="all">This study was exempted by the Institutional Review Board of the Faculty of Medicine, Universitas Gadjah Mada/Dr. Sardjito Hospital, Yogyakarta, Indonesia, because of a case report. Written informed consent was obtained from the patient's parents for participating in this study.</ce:para>
+        </ce:section>
+        <ce:section id="sec5" view="all">
+          <ce:section-title id="sectitle0055">Authors' contributions</ce:section-title>
+          <ce:para id="p0080" view="all">G conceived the study. SP and G drafted the manuscript, and R, VCA, KI, and AA critically revised the manuscript for important intellectual content. G, SP, R, VCA, KI, and AA facilitated all project-related tasks. All authors have approved the submitted version and have agreed on both to be personally accountable for the author's contributions and to ensure that questions related to the accuracy or integrity of any part of the work, even ones in which the author was not personally involved, are appropriately investigated, resolved, and the resolution documented in the literature.</ce:para>
+        </ce:section>
+        <ce:section id="sec6" view="all">
+          <ce:section-title id="sectitle0060">Funding</ce:section-title>
+          <ce:para id="p0085" view="all">Not applicable.</ce:para>
+        </ce:section>
+        <ce:section id="sec7" view="all">
+          <ce:section-title id="sectitle0065">Availability of data and material</ce:section-title>
+          <ce:para id="p0090" view="all">All data generated or analyzed during this study are included in the submission.</ce:para>
+        </ce:section>
+        <ce:section id="sec8" view="all">
+          <ce:section-title id="sectitle0070">Consent for publication</ce:section-title>
+          <ce:para id="p0095" view="all">Written and informed consent was taken from the patient's parents for publication of this case report and the associated images.</ce:para>
+        </ce:section>
+      </ce:sections>
+      <ce:conflict-of-interest id="coi0010" view="all">
+        <ce:section-title id="sectitle0075">Declaration of competing interest</ce:section-title>
+        <ce:para id="p0100" view="all">The authors declared no potential conflicts of interest concerning the research, authorship, and/or publication of this article.</ce:para>
+      </ce:conflict-of-interest>
+      <ce:acknowledgment id="ack0010" view="all">
+        <ce:section-title id="sectitle0080">Acknowledgements</ce:section-title>
+        <ce:para id="p0105" view="all">We thank all staff and nurses involved in the patient's care.</ce:para>
+      </ce:acknowledgment>
+    </ja:body>
+    <ja:tail view="all">
+      <ce:bibliography id="cebib0010" view="all">
+        <ce:section-title id="sectitle0090">References</ce:section-title>
+        <ce:bibliography-sec id="cebibsec0010" view="all">
+          <ce:bib-reference id="bib1">
+            <ce:label>[1]</ce:label>
+            <sb:reference id="sref1">
+              <sb:contribution langtype="en">
+                <sb:authors>
+                  <sb:author>
+                    <ce:given-name>C.W.</ce:given-name>
+                    <ce:surname>Chen</ce:surname>
+                  </sb:author>
+                  <sb:author>
+                    <ce:given-name>C.C.</ce:given-name>
+                    <ce:surname>Peng</ce:surname>
+                  </sb:author>
+                  <sb:author>
+                    <ce:given-name>C.H.</ce:given-name>
+                    <ce:surname>Hsu</ce:surname>
+                  </sb:author>
+                  <sb:author>
+                    <ce:given-name>J.H.</ce:given-name>
+                    <ce:surname>Chang</ce:surname>
+                  </sb:author>
+                  <sb:author>
+                    <ce:given-name>C.Y.</ce:given-name>
+                    <ce:surname>Lin</ce:surname>
+                  </sb:author>
+                  <sb:author>
+                    <ce:given-name>W.T.</ce:given-name>
+                    <ce:surname>Jim</ce:surname>
+                  </sb:author>
+                  <sb:et-al/>
+                </sb:authors>
+                <sb:title>
+                  <sb:maintitle>Value of prenatal diagnosis of meconium peritoneum: comparison of outcomes of prenatal and postnatal diagnosis</sb:maintitle>
+                </sb:title>
+              </sb:contribution>
+              <sb:host>
+                <sb:issue>
+                  <sb:series>
+                    <sb:title>
+                      <sb:maintitle>Medicine</sb:maintitle>
+                    </sb:title>
+                    <sb:volume-nr>98</sb:volume-nr>
+                  </sb:series>
+                  <sb:issue-nr>39</sb:issue-nr>
+                  <sb:date>2019</sb:date>
+                </sb:issue>
+                <sb:pages>
+                  <sb:first-page>7</sb:first-page>
+                  <sb:last-page>10</sb:last-page>
+                </sb:pages>
+              </sb:host>
+            </sb:reference>
+            <ce:source-text id="srct0025">Chen CW, Peng CC, Hsu CH, Chang JH, Lin CY, Jim WT, et al. Value of prenatal diagnosis of meconium peritoneum: Comparison of outcomes of prenatal and postnatal diagnosis. Med (United States). 2019;98(39):7-10.</ce:source-text>
+          </ce:bib-reference>
+          <ce:bib-reference id="bib2">
+            <ce:label>[2]</ce:label>
+            <sb:reference id="sref2">
+              <sb:contribution langtype="en">
+                <sb:authors>
+                  <sb:author>
+                    <ce:given-name>K.L.</ce:given-name>
+                    <ce:surname>Chan</ce:surname>
+                  </sb:author>
+                  <sb:author>
+                    <ce:given-name>M.H.Y.</ce:given-name>
+                    <ce:surname>Tang</ce:surname>
+                  </sb:author>
+                  <sb:author>
+                    <ce:given-name>H.Y.</ce:given-name>
+                    <ce:surname>Tse</ce:surname>
+                  </sb:author>
+                  <sb:author>
+                    <ce:given-name>R.Y.K.</ce:given-name>
+                    <ce:surname>Tang</ce:surname>
+                  </sb:author>
+                  <sb:author>
+                    <ce:given-name>P.K.H.</ce:given-name>
+                    <ce:surname>Tam</ce:surname>
+                  </sb:author>
+                </sb:authors>
+                <sb:title>
+                  <sb:maintitle>Meconium peritonitis: prenatal diagnosis, postnatal management and outcome</sb:maintitle>
+                </sb:title>
+              </sb:contribution>
+              <sb:host>
+                <sb:issue>
+                  <sb:series>
+                    <sb:title>
+                      <sb:maintitle>Prenat. Diagn.</sb:maintitle>
+                    </sb:title>
+                    <sb:volume-nr>25</sb:volume-nr>
+                  </sb:series>
+                  <sb:issue-nr>8</sb:issue-nr>
+                  <sb:date>2005</sb:date>
+                </sb:issue>
+                <sb:pages>
+                  <sb:first-page>676</sb:first-page>
+                  <sb:last-page>682</sb:last-page>
+                </sb:pages>
+              </sb:host>
+            </sb:reference>
+            <ce:source-text id="srct0030">Chan KL, Tang MHY, Tse HY, Tang RYK, Tam PKH. Meconium peritonitis: Prenatal diagnosis, postnatal management and outcome. Prenat Diagn. 2005;25(8):676-682.</ce:source-text>
+          </ce:bib-reference>
+          <ce:bib-reference id="bib3">
+            <ce:label>[3]</ce:label>
+            <sb:reference id="sref3">
+              <sb:contribution langtype="en">
+                <sb:authors>
+                  <sb:author>
+                    <ce:given-name>B.</ce:given-name>
+                    <ce:surname>Malhotra</ce:surname>
+                  </sb:author>
+                  <sb:author>
+                    <ce:given-name>N.</ce:given-name>
+                    <ce:surname>Mittal</ce:surname>
+                  </sb:author>
+                  <sb:author>
+                    <ce:given-name>A.</ce:given-name>
+                    <ce:surname>Jha</ce:surname>
+                  </sb:author>
+                  <sb:author>
+                    <ce:given-name>N.K.</ce:given-name>
+                    <ce:surname>Mittal</ce:surname>
+                  </sb:author>
+                </sb:authors>
+                <sb:title>
+                  <sb:maintitle>Meconium pseudocyst revisited</sb:maintitle>
+                </sb:title>
+              </sb:contribution>
+              <sb:host>
+                <sb:issue>
+                  <sb:series>
+                    <sb:title>
+                      <sb:maintitle>Int. J. Contemp. Pediatr.</sb:maintitle>
+                    </sb:title>
+                    <sb:volume-nr>6</sb:volume-nr>
+                  </sb:series>
+                  <sb:issue-nr>4</sb:issue-nr>
+                  <sb:date>2019</sb:date>
+                </sb:issue>
+                <sb:pages>
+                  <sb:first-page>1753</sb:first-page>
+                </sb:pages>
+              </sb:host>
+            </sb:reference>
+            <ce:source-text id="srct0035">Malhotra B, Mittal N, Jha A, Mittal NK. Meconium pseudocyst revisited. Int J Contemp Pediatr. 2019;6(4):1753.</ce:source-text>
+          </ce:bib-reference>
+          <ce:bib-reference id="bib4">
+            <ce:label>[4]</ce:label>
+            <sb:reference id="sref4">
+              <sb:contribution langtype="en">
+                <sb:authors>
+                  <sb:author>
+                    <ce:given-name>Y.C.</ce:given-name>
+                    <ce:surname>Lee</ce:surname>
+                  </sb:author>
+                  <sb:author>
+                    <ce:given-name>C.J.</ce:given-name>
+                    <ce:surname>Chen</ce:surname>
+                  </sb:author>
+                </sb:authors>
+                <sb:title>
+                  <sb:maintitle>Meconium pseudocyst: a classical and successfully treated case</sb:maintitle>
+                </sb:title>
+              </sb:contribution>
+              <sb:host>
+                <sb:issue>
+                  <sb:series>
+                    <sb:title>
+                      <sb:maintitle>J. Formos. Med. Assoc.</sb:maintitle>
+                    </sb:title>
+                    <sb:volume-nr>108</sb:volume-nr>
+                  </sb:series>
+                  <sb:issue-nr>3</sb:issue-nr>
+                  <sb:date>2009</sb:date>
+                </sb:issue>
+                <sb:pages>
+                  <sb:first-page>247</sb:first-page>
+                  <sb:last-page>252</sb:last-page>
+                </sb:pages>
+                <ce:doi>10.1016/S0929-6646(09)60059-0</ce:doi>
+              </sb:host>
+              <sb:comment>Available from:</sb:comment>
+            </sb:reference>
+            <ce:source-text id="srct0040">Lee YC, Chen CJ. Meconium pseudocyst: A classical and successfully treated case. J Formos Med Assoc [Internet]. 2009;108(3):247-252. Available from: http://dx.doi.org/10.1016/S0929-6646(09)60059-0</ce:source-text>
+          </ce:bib-reference>
+          <ce:bib-reference id="bib5">
+            <ce:label>[5]</ce:label>
+            <sb:reference id="sref5">
+              <sb:contribution langtype="en">
+                <sb:authors>
+                  <sb:author>
+                    <ce:given-name>S.H.</ce:given-name>
+                    <ce:surname>Nam</ce:surname>
+                  </sb:author>
+                  <sb:author>
+                    <ce:given-name>S.C.</ce:given-name>
+                    <ce:surname>Kim</ce:surname>
+                  </sb:author>
+                  <sb:author>
+                    <ce:given-name>D.Y.</ce:given-name>
+                    <ce:surname>Kim</ce:surname>
+                  </sb:author>
+                  <sb:author>
+                    <ce:given-name>A.R.</ce:given-name>
+                    <ce:surname>Kim</ce:surname>
+                  </sb:author>
+                  <sb:author>
+                    <ce:given-name>K.S.</ce:given-name>
+                    <ce:surname>Kim</ce:surname>
+                  </sb:author>
+                  <sb:author>
+                    <ce:given-name>S.Y.</ce:given-name>
+                    <ce:surname>Pi</ce:surname>
+                  </sb:author>
+                  <sb:et-al/>
+                </sb:authors>
+                <sb:title>
+                  <sb:maintitle>Experience with meconium peritonitis</sb:maintitle>
+                </sb:title>
+              </sb:contribution>
+              <sb:host>
+                <sb:issue>
+                  <sb:series>
+                    <sb:title>
+                      <sb:maintitle>J. Pediatr. Surg.</sb:maintitle>
+                    </sb:title>
+                    <sb:volume-nr>42</sb:volume-nr>
+                  </sb:series>
+                  <sb:issue-nr>11</sb:issue-nr>
+                  <sb:date>2007</sb:date>
+                </sb:issue>
+                <sb:pages>
+                  <sb:first-page>1822</sb:first-page>
+                  <sb:last-page>1825</sb:last-page>
+                </sb:pages>
+              </sb:host>
+            </sb:reference>
+            <ce:source-text id="srct0045">Nam SH, Kim SC, Kim DY, Kim AR, Kim KS, Pi SY, et al. Experience with meconium peritonitis. J Pediatr Surg. 2007;42(11):1822-1825.</ce:source-text>
+          </ce:bib-reference>
+          <ce:bib-reference id="bib6">
+            <ce:label>[6]</ce:label>
+            <sb:reference id="sref6">
+              <sb:contribution langtype="en">
+                <sb:authors>
+                  <sb:author>
+                    <ce:given-name>K.</ce:given-name>
+                    <ce:surname>Uchida</ce:surname>
+                  </sb:author>
+                  <sb:author>
+                    <ce:given-name>Y.</ce:given-name>
+                    <ce:surname>Koike</ce:surname>
+                  </sb:author>
+                  <sb:author>
+                    <ce:given-name>K.</ce:given-name>
+                    <ce:surname>Matsushita</ce:surname>
+                  </sb:author>
+                  <sb:author>
+                    <ce:given-name>Y.</ce:given-name>
+                    <ce:surname>Nagano</ce:surname>
+                  </sb:author>
+                  <sb:author>
+                    <ce:given-name>K.</ce:given-name>
+                    <ce:surname>Hashimoto</ce:surname>
+                  </sb:author>
+                  <sb:author>
+                    <ce:given-name>K.</ce:given-name>
+                    <ce:surname>Otake</ce:surname>
+                  </sb:author>
+                  <sb:et-al/>
+                </sb:authors>
+                <sb:title>
+                  <sb:maintitle>Meconium peritonitis: prenatal diagnosis of a rare entity and postnatal management</sb:maintitle>
+                </sb:title>
+              </sb:contribution>
+              <sb:host>
+                <sb:issue>
+                  <sb:series>
+                    <sb:title>
+                      <sb:maintitle>Intractable Rare Dis. Res.</sb:maintitle>
+                    </sb:title>
+                    <sb:volume-nr>4</sb:volume-nr>
+                  </sb:series>
+                  <sb:issue-nr>2</sb:issue-nr>
+                  <sb:date>2015</sb:date>
+                </sb:issue>
+                <sb:pages>
+                  <sb:first-page>93</sb:first-page>
+                  <sb:last-page>97</sb:last-page>
+                </sb:pages>
+              </sb:host>
+            </sb:reference>
+            <ce:source-text id="srct0050">Uchida K, Koike Y, Matsushita K, Nagano Y, Hashimoto K, Otake K, et al. Meconium peritonitis: Prenatal diagnosis of a rare entity and postnatal management. Intractable Rare Dis Res. 2015;4(2):93-97.</ce:source-text>
+          </ce:bib-reference>
+          <ce:bib-reference id="bib7">
+            <ce:label>[7]</ce:label>
+            <sb:reference id="sref7">
+              <sb:contribution langtype="en">
+                <sb:authors>
+                  <sb:author>
+                    <ce:given-name>Y.</ce:given-name>
+                    <ce:surname>Jiang</ce:surname>
+                  </sb:author>
+                  <sb:author>
+                    <ce:given-name>W.</ce:given-name>
+                    <ce:surname>Pan</ce:surname>
+                  </sb:author>
+                  <sb:author>
+                    <ce:given-name>W.</ce:given-name>
+                    <ce:surname>Wu</ce:surname>
+                  </sb:author>
+                  <sb:author>
+                    <ce:given-name>W.</ce:given-name>
+                    <ce:surname>Wang</ce:surname>
+                  </sb:author>
+                  <sb:author>
+                    <ce:given-name>S.</ce:given-name>
+                    <ce:surname>Sun</ce:surname>
+                  </sb:author>
+                  <sb:author>
+                    <ce:given-name>J.</ce:given-name>
+                    <ce:surname>Wang</ce:surname>
+                  </sb:author>
+                </sb:authors>
+                <sb:title>
+                  <sb:maintitle>Can early surgery improve the outcome of patients with meconium peritonitis? A single-center experience over 16 years</sb:maintitle>
+                </sb:title>
+              </sb:contribution>
+              <sb:host>
+                <sb:issue>
+                  <sb:series>
+                    <sb:title>
+                      <sb:maintitle>BMC Pediatr.</sb:maintitle>
+                    </sb:title>
+                    <sb:volume-nr>19</sb:volume-nr>
+                  </sb:series>
+                  <sb:issue-nr>1</sb:issue-nr>
+                  <sb:date>2019</sb:date>
+                </sb:issue>
+                <sb:pages>
+                  <sb:first-page>4</sb:first-page>
+                  <sb:last-page>9</sb:last-page>
+                </sb:pages>
+              </sb:host>
+            </sb:reference>
+            <ce:source-text id="srct0055">Jiang Y, Pan W, Wu W, Wang W, Sun S, Wang J. Can early surgery improve the outcome of patients with meconium peritonitis? A single-center experience over 16 years. BMC Pediatr. 2019;19(1):4-9.</ce:source-text>
+          </ce:bib-reference>
+          <ce:bib-reference id="bib8">
+            <ce:label>[8]</ce:label>
+            <sb:reference id="sref8">
+              <sb:contribution langtype="en">
+                <sb:authors>
+                  <sb:author>
+                    <ce:given-name>R.K.</ce:given-name>
+                    <ce:surname>Kitamura</ce:surname>
+                  </sb:author>
+                  <sb:author>
+                    <ce:given-name>P.</ce:given-name>
+                    <ce:surname>Midulla</ce:surname>
+                  </sb:author>
+                  <sb:author>
+                    <ce:given-name>T.</ce:given-name>
+                    <ce:surname>Mirensky</ce:surname>
+                  </sb:author>
+                </sb:authors>
+                <sb:title>
+                  <sb:maintitle>Meconium peritonitis following intestinal atresia: a case report</sb:maintitle>
+                </sb:title>
+              </sb:contribution>
+              <sb:host>
+                <sb:issue>
+                  <sb:series>
+                    <sb:title>
+                      <sb:maintitle>J. Pediatr. Surg. Case Rep.</sb:maintitle>
+                    </sb:title>
+                    <sb:volume-nr>9</sb:volume-nr>
+                  </sb:series>
+                  <sb:date>2016</sb:date>
+                </sb:issue>
+                <sb:pages>
+                  <sb:first-page>9</sb:first-page>
+                  <sb:last-page>10</sb:last-page>
+                </sb:pages>
+              </sb:host>
+            </sb:reference>
+            <ce:source-text id="srct0060">Kitamura RK, Midulla P, Mirensky T. Meconium peritonitis following intestinal atresia: A case report. J Pediatr Surg Case Reports. 2016;9:9-10.</ce:source-text>
+          </ce:bib-reference>
+          <ce:bib-reference id="bib9">
+            <ce:label>[9]</ce:label>
+            <sb:reference id="sref9">
+              <sb:contribution langtype="en">
+                <sb:authors>
+                  <sb:author>
+                    <ce:given-name>V.</ce:given-name>
+                    <ce:surname>Terlizzi</ce:surname>
+                  </sb:author>
+                  <sb:author>
+                    <ce:given-name>A.</ce:given-name>
+                    <ce:surname>Sciarrone</ce:surname>
+                  </sb:author>
+                  <sb:author>
+                    <ce:given-name>A.C.</ce:given-name>
+                    <ce:surname>Cook</ce:surname>
+                  </sb:author>
+                  <sb:author>
+                    <ce:given-name>G.</ce:given-name>
+                    <ce:surname>Botta</ce:surname>
+                  </sb:author>
+                  <sb:author>
+                    <ce:given-name>E.</ce:given-name>
+                    <ce:surname>Chiappa</ce:surname>
+                  </sb:author>
+                </sb:authors>
+                <sb:title>
+                  <sb:maintitle>Extensive myocardial infarction in a fetus with cystic fibrosis and meconium peritonitis</sb:maintitle>
+                </sb:title>
+              </sb:contribution>
+              <sb:host>
+                <sb:issue>
+                  <sb:series>
+                    <sb:title>
+                      <sb:maintitle>J. Ultrasound Med.</sb:maintitle>
+                    </sb:title>
+                    <sb:volume-nr>35</sb:volume-nr>
+                  </sb:series>
+                  <sb:issue-nr>8</sb:issue-nr>
+                  <sb:date>2016</sb:date>
+                </sb:issue>
+                <sb:pages>
+                  <sb:first-page>1826</sb:first-page>
+                  <sb:last-page>1828</sb:last-page>
+                </sb:pages>
+              </sb:host>
+            </sb:reference>
+            <ce:source-text id="srct0065">Terlizzi V, Sciarrone A, Cook AC, Botta G, Chiappa E. Extensive Myocardial Infarction in a Fetus With Cystic Fibrosis and Meconium Peritonitis. J Ultrasound Med. 2016;35(8):1826-1828.</ce:source-text>
+          </ce:bib-reference>
+          <ce:bib-reference id="bib10">
+            <ce:label>[10]</ce:label>
+            <sb:reference id="sref10">
+              <sb:contribution langtype="en">
+                <sb:authors>
+                  <sb:author>
+                    <ce:given-name>C.</ce:given-name>
+                    <ce:surname>Pellegrino</ce:surname>
+                  </sb:author>
+                  <sb:author>
+                    <ce:given-name>F.</ce:given-name>
+                    <ce:surname>Molinaro</ce:surname>
+                  </sb:author>
+                  <sb:author>
+                    <ce:given-name>F.</ce:given-name>
+                    <ce:surname>Ferrara</ce:surname>
+                  </sb:author>
+                  <sb:author>
+                    <ce:given-name>E.</ce:given-name>
+                    <ce:surname>Bindi</ce:surname>
+                  </sb:author>
+                  <sb:author>
+                    <ce:given-name>G.</ce:given-name>
+                    <ce:surname>Fusi</ce:surname>
+                  </sb:author>
+                  <sb:author>
+                    <ce:given-name>M.</ce:given-name>
+                    <ce:surname>Messina</ce:surname>
+                  </sb:author>
+                  <sb:author>
+                    <ce:given-name>R.</ce:given-name>
+                    <ce:surname>Angotti</ce:surname>
+                  </sb:author>
+                </sb:authors>
+                <sb:title>
+                  <sb:maintitle>Meconium-related ileum in preterm and low birth weight children</sb:maintitle>
+                </sb:title>
+              </sb:contribution>
+              <sb:host>
+                <sb:issue>
+                  <sb:series>
+                    <sb:title>
+                      <sb:maintitle>Chirurgia</sb:maintitle>
+                    </sb:title>
+                    <sb:volume-nr>32</sb:volume-nr>
+                  </sb:series>
+                  <sb:issue-nr>5</sb:issue-nr>
+                  <sb:date>2019</sb:date>
+                </sb:issue>
+                <sb:pages>
+                  <sb:first-page>236</sb:first-page>
+                  <sb:last-page>239</sb:last-page>
+                </sb:pages>
+              </sb:host>
+            </sb:reference>
+            <ce:source-text id="srct0070">Pellegrino C, Molinaro F, Ferrara F, Bindi E, Fusi G, Messina M, Angotti R. Meconium-related ileum in preterm and low birth weight children. Chirurgia (Turin). 2019;32(5):236-239.</ce:source-text>
+          </ce:bib-reference>
+          <ce:bib-reference id="bib11">
+            <ce:label>[11]</ce:label>
+            <sb:reference id="sref11">
+              <sb:contribution langtype="en">
+                <sb:authors>
+                  <sb:author>
+                    <ce:given-name>Y.</ce:given-name>
+                    <ce:surname>Lu</ce:surname>
+                  </sb:author>
+                  <sb:author>
+                    <ce:given-name>B.</ce:given-name>
+                    <ce:surname>Ai</ce:surname>
+                  </sb:author>
+                  <sb:author>
+                    <ce:given-name>W.</ce:given-name>
+                    <ce:surname>Zhang</ce:surname>
+                  </sb:author>
+                  <sb:author>
+                    <ce:given-name>H.</ce:given-name>
+                    <ce:surname>Liu</ce:surname>
+                  </sb:author>
+                </sb:authors>
+                <sb:title>
+                  <sb:maintitle>Fetal magnetic resonance imaging contributes to the diagnosis and treatment of meconium peritonitis</sb:maintitle>
+                </sb:title>
+              </sb:contribution>
+              <sb:host>
+                <sb:issue>
+                  <sb:series>
+                    <sb:title>
+                      <sb:maintitle>BMC Med. Imag.</sb:maintitle>
+                    </sb:title>
+                    <sb:volume-nr>20</sb:volume-nr>
+                  </sb:series>
+                  <sb:issue-nr>1</sb:issue-nr>
+                  <sb:date>2020</sb:date>
+                </sb:issue>
+                <sb:pages>
+                  <sb:first-page>55</sb:first-page>
+                </sb:pages>
+              </sb:host>
+            </sb:reference>
+            <ce:source-text id="srct0075">Lu Y, Ai B, Zhang W, Liu H. Fetal magnetic resonance imaging contributes to the diagnosis and treatment of meconium peritonitis. BMC Med Imaging. 2020;20(1):55.</ce:source-text>
+          </ce:bib-reference>
+          <ce:bib-reference id="bib12">
+            <ce:label>[12]</ce:label>
+            <sb:reference id="sref12">
+              <sb:contribution langtype="en">
+                <sb:authors>
+                  <sb:author>
+                    <ce:given-name>K.</ce:given-name>
+                    <ce:surname>Uchida</ce:surname>
+                  </sb:author>
+                  <sb:author>
+                    <ce:given-name>Y.</ce:given-name>
+                    <ce:surname>Koike</ce:surname>
+                  </sb:author>
+                  <sb:author>
+                    <ce:given-name>K.</ce:given-name>
+                    <ce:surname>Matsushita</ce:surname>
+                  </sb:author>
+                  <sb:author>
+                    <ce:given-name>Y.</ce:given-name>
+                    <ce:surname>Nagano</ce:surname>
+                  </sb:author>
+                  <sb:author>
+                    <ce:given-name>K.</ce:given-name>
+                    <ce:surname>Hashimoto</ce:surname>
+                  </sb:author>
+                  <sb:author>
+                    <ce:given-name>K.</ce:given-name>
+                    <ce:surname>Otake</ce:surname>
+                  </sb:author>
+                  <sb:author>
+                    <ce:given-name>M.</ce:given-name>
+                    <ce:surname>Inoue</ce:surname>
+                  </sb:author>
+                  <sb:author>
+                    <ce:given-name>M.</ce:given-name>
+                    <ce:surname>Kusunoki</ce:surname>
+                  </sb:author>
+                </sb:authors>
+                <sb:title>
+                  <sb:maintitle>Meconium peritonitis: prenatal diagnosis of a rare entity and postnatal management</sb:maintitle>
+                </sb:title>
+              </sb:contribution>
+              <sb:host>
+                <sb:issue>
+                  <sb:series>
+                    <sb:title>
+                      <sb:maintitle>Intractable Rare Dis. Res.</sb:maintitle>
+                    </sb:title>
+                    <sb:volume-nr>4</sb:volume-nr>
+                  </sb:series>
+                  <sb:issue-nr>2</sb:issue-nr>
+                  <sb:date>2015</sb:date>
+                </sb:issue>
+                <sb:pages>
+                  <sb:first-page>93</sb:first-page>
+                  <sb:last-page>97</sb:last-page>
+                </sb:pages>
+              </sb:host>
+            </sb:reference>
+            <ce:source-text id="srct0080">Uchida K, Koike Y, Matsushita K, Nagano Y, Hashimoto K, Otake K, Inoue M, Kusunoki M. Meconium peritonitis: Prenatal diagnosis of a rare entity and postnatal management. Intractable Rare Dis Res. 2015;4(2):93-97.</ce:source-text>
+          </ce:bib-reference>
+          <ce:bib-reference id="bib13">
+            <ce:label>[13]</ce:label>
+            <sb:reference id="sref13">
+              <sb:contribution langtype="en">
+                <sb:authors>
+                  <sb:author>
+                    <ce:given-name>L.M.</ce:given-name>
+                    <ce:surname>Ping</ce:surname>
+                  </sb:author>
+                  <sb:author>
+                    <ce:given-name>V.S.</ce:given-name>
+                    <ce:surname>Rajadurai</ce:surname>
+                  </sb:author>
+                  <sb:author>
+                    <ce:given-name>S.E.</ce:given-name>
+                    <ce:surname>Saffari</ce:surname>
+                  </sb:author>
+                  <sb:author>
+                    <ce:given-name>S.</ce:given-name>
+                    <ce:surname>Chandran</ce:surname>
+                  </sb:author>
+                </sb:authors>
+                <sb:title>
+                  <sb:maintitle>Meconium peritonitis: correlation of antenatal diagnosis and postnatal outcome &#x2013; an institutional experience over 10 years</sb:maintitle>
+                </sb:title>
+              </sb:contribution>
+              <sb:host>
+                <sb:issue>
+                  <sb:series>
+                    <sb:title>
+                      <sb:maintitle>Fetal Diagn. Ther.</sb:maintitle>
+                    </sb:title>
+                    <sb:volume-nr>42</sb:volume-nr>
+                  </sb:series>
+                  <sb:issue-nr>1</sb:issue-nr>
+                  <sb:date>2017</sb:date>
+                </sb:issue>
+                <sb:pages>
+                  <sb:first-page>57</sb:first-page>
+                  <sb:last-page>62</sb:last-page>
+                </sb:pages>
+              </sb:host>
+            </sb:reference>
+            <ce:source-text id="srct0085">Ping LM, Rajadurai VS, Saffari SE, Chandran S. Meconium Peritonitis: Correlation of Antenatal Diagnosis and Postnatal Outcome - An Institutional Experience over 10 Years. Fetal Diagn Ther. 2017;42(1):57-62.</ce:source-text>
+          </ce:bib-reference>
+          <ce:bib-reference id="bib14">
+            <ce:label>[14]</ce:label>
+            <sb:reference id="sref14">
+              <sb:contribution langtype="en">
+                <sb:authors>
+                  <sb:author>
+                    <ce:given-name>H.G.</ce:given-name>
+                    <ce:surname>Park</ce:surname>
+                  </sb:author>
+                  <sb:author>
+                    <ce:given-name>K.S.</ce:given-name>
+                    <ce:surname>Kim</ce:surname>
+                  </sb:author>
+                  <sb:author>
+                    <ce:given-name>S.Y.</ce:given-name>
+                    <ce:surname>Choi</ce:surname>
+                  </sb:author>
+                  <sb:author>
+                    <ce:given-name>I.K.</ce:given-name>
+                    <ce:surname>Yu</ce:surname>
+                  </sb:author>
+                </sb:authors>
+                <sb:title>
+                  <sb:maintitle>Diagnostic usefulness of CT in meconium pseudocyst in a newborn: a case report</sb:maintitle>
+                </sb:title>
+              </sb:contribution>
+              <sb:host>
+                <sb:issue>
+                  <sb:series>
+                    <sb:title>
+                      <sb:maintitle>J. Korean Soc. Radiol.</sb:maintitle>
+                    </sb:title>
+                    <sb:volume-nr>70</sb:volume-nr>
+                  </sb:series>
+                  <sb:issue-nr>2</sb:issue-nr>
+                  <sb:date>2014</sb:date>
+                </sb:issue>
+                <sb:pages>
+                  <sb:first-page>159</sb:first-page>
+                  <sb:last-page>162</sb:last-page>
+                </sb:pages>
+              </sb:host>
+            </sb:reference>
+            <ce:source-text id="srct0090">Park HG, Kim KS, Choi SY, Yu IK. Diagnostic Usefulness of CT in Meconium Pseudocyst in a Newborn: A Case Report. J Korean Soc Radiol. 2014; 70(2): 159-162.</ce:source-text>
+          </ce:bib-reference>
+          <ce:bib-reference id="bib15">
+            <ce:label>[15]</ce:label>
+            <sb:reference id="sref15">
+              <sb:contribution langtype="en">
+                <sb:authors>
+                  <sb:author>
+                    <ce:given-name>F.</ce:given-name>
+                    <ce:surname>Ferrara</ce:surname>
+                  </sb:author>
+                  <sb:author>
+                    <ce:given-name>R.</ce:given-name>
+                    <ce:surname>Angotti</ce:surname>
+                  </sb:author>
+                  <sb:author>
+                    <ce:given-name>A.</ce:given-name>
+                    <ce:surname>Burgio</ce:surname>
+                  </sb:author>
+                  <sb:author>
+                    <ce:given-name>G.</ce:given-name>
+                    <ce:surname>Di Maggio</ce:surname>
+                  </sb:author>
+                  <sb:author>
+                    <ce:given-name>F.</ce:given-name>
+                    <ce:surname>Molinaro</ce:surname>
+                  </sb:author>
+                  <sb:author>
+                    <ce:given-name>M.</ce:given-name>
+                    <ce:surname>Messina</ce:surname>
+                  </sb:author>
+                </sb:authors>
+                <sb:title>
+                  <sb:maintitle>Ileostomy in extremely low birth weight and premature neonates</sb:maintitle>
+                </sb:title>
+              </sb:contribution>
+              <sb:host>
+                <sb:issue>
+                  <sb:series>
+                    <sb:title>
+                      <sb:maintitle>Minerva Pediatr.</sb:maintitle>
+                    </sb:title>
+                    <sb:volume-nr>65</sb:volume-nr>
+                  </sb:series>
+                  <sb:issue-nr>4</sb:issue-nr>
+                  <sb:date>2013</sb:date>
+                </sb:issue>
+                <sb:pages>
+                  <sb:first-page>411</sb:first-page>
+                  <sb:last-page>415</sb:last-page>
+                </sb:pages>
+              </sb:host>
+            </sb:reference>
+            <ce:source-text id="srct0095">Ferrara F, Angotti R, Burgio A, Di Maggio G, Molinaro F, Messina M. Ileostomy in extremely low birth weight and premature neonates. Minerva Pediatr. 2013;65(4):411-415.</ce:source-text>
+          </ce:bib-reference>
+        </ce:bibliography-sec>
+      </ce:bibliography>
+    </ja:tail>
+  </ja:article>
+</doc:document>

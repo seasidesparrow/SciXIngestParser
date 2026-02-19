@@ -1,0 +1,72 @@
+{
+  "copyright": {
+    "statement": "Copyright \u00a9 EPLA, 2023",
+    "status": true
+  },
+  "editorialHistory": {
+    "acceptedDate": "2023-04-25",
+    "receivedDates": [
+      "2023-04-25"
+    ]
+  },
+  "openAccess": {
+    "license": "This article is available under the terms of the IOP-Standard License.",
+    "licenseURL": "https://publishingsupport.iopscience.iop.org/iop-standard/v1"
+  },
+  "pagination": {
+    "electronicID": "30000",
+    "pageCount": "2"
+  },
+  "persistentIDs": [
+    {
+      "DOI": "10.1209/0295-5075/acd024"
+    }
+  ],
+  "pubDate": {
+    "electrDate": "2023-05-02",
+    "printDate": "2023-05-01"
+  },
+  "publication": {
+    "ISSN": [
+      {
+        "issnString": "0295-5075",
+        "pubtype": "ppub"
+      },
+      {
+        "issnString": "1286-4854",
+        "pubtype": "epub"
+      }
+    ],
+    "issueNum": "3",
+    "pubName": "Europhysics Letters",
+    "pubYear": "2023",
+    "publisher": "EDP Sciences, IOP Publishing and Societ\u00e0 Italiana di Fisica",
+    "volumeNum": "142"
+  },
+  "publisherIDs": [
+    {
+      "Identifier": "epl23100304",
+      "attribute": "publisher-id"
+    },
+    {
+      "Identifier": "acd024",
+      "attribute": "manuscript"
+    }
+  ],
+  "recordData": {
+    "createdTime": "",
+    "loadFormat": "JATS",
+    "loadLocation": "",
+    "loadType": "fromFile",
+    "parsedTime": "",
+    "recordOrigin": ""
+  },
+  "references": [
+    "<ref id=\"epl23100304bib1\"><label>1</label><element-citation publication-type=\"journal\" xlink:type=\"simple\"><person-group person-group-type=\"author\"> <name name-style=\"western\"><surname>Letchford</surname><given-names>Adrian</given-names></name> <name name-style=\"western\"><surname>Moat Helen</surname><given-names>Susannah</given-names></name> <name name-style=\"western\"><surname>Preis</surname><given-names>Tobias</given-names></name> </person-group><year>2015</year><source>R. Soc. Open Sci.</source><volume>2</volume><elocation-id content-type=\"artnum\">150266</elocation-id></element-citation></ref>",
+    "<ref id=\"epl23100304bib2\"><label>2</label><element-citation publication-type=\"journal\" xlink:type=\"simple\"><person-group person-group-type=\"author\"> <name name-style=\"western\"><surname>Li</surname><given-names>Kun</given-names></name> <etal/> </person-group><year>2019</year><source>EPL</source><volume>128</volume><elocation-id content-type=\"artnum\">38002</elocation-id></element-citation></ref>",
+    "<ref id=\"epl23100304bib3\"><label>3</label><element-citation publication-type=\"journal\" xlink:type=\"simple\"><person-group person-group-type=\"author\"> <name name-style=\"western\"><surname>Yang</surname><given-names>Mu</given-names></name> <name name-style=\"western\"><surname>Liu</surname><given-names>Haitao</given-names></name> </person-group><year>2022</year><source>EPL</source><volume>139</volume><elocation-id content-type=\"artnum\">61002</elocation-id></element-citation></ref>"
+  ],
+  "title": {
+    "textEnglish": "Editorial \u2014How to write a good letter for EPL"
+  }
+}

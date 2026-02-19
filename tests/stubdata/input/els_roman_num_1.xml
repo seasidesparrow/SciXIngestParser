@@ -1,0 +1,124 @@
+<doc:document
+	xmlns:doc="http://www.elsevier.com/xml/document/schema"
+	xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+	xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+	xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+	xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+	xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+	xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+	xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+	xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+	xmlns:ce="http://www.elsevier.com/xml/common/schema"
+	xmlns:mml="http://www.w3.org/1998/Math/MathML"
+	xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+	xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+	xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+	xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+	xmlns:xlink="http://www.w3.org/1999/xlink">
+	<rdf:RDF>
+		<rdf:Description rdf:about="http://dx.doi.org/10.1016/0038-0717(95)90036-5">
+			<dct:format>application/xml</dct:format>
+			<dct:title>Preface</dct:title>
+			<dct:creator>H.V.A. Bushby</dct:creator>
+			<dct:creator>R.A. Date</dct:creator>
+			<dct:creator>P.J. Dart</dct:creator>
+			<dct:description>Soil Biology and Biochemistry 27 (1995) vii-viii. doi:10.1016/0038-0717(95)90036-5</dct:description>
+			<prism:aggregationType>journal</prism:aggregationType>
+			<prism:publicationName>Soil Biology and Biochemistry</prism:publicationName>
+			<prism:copyright>Copyright @ unknown. Published by Elsevier Ltd</prism:copyright>
+			<dct:publisher>Elsevier Ltd</dct:publisher>
+			<prism:issn>0038-0717</prism:issn>
+			<prism:volume>27</prism:volume>
+			<prism:number>4</prism:number>
+			<prism:coverDisplayDate/>
+			<prism:coverDate>1995</prism:coverDate>
+			<prism:pageRange>vii-viii</prism:pageRange>
+			<prism:startingPage>vii</prism:startingPage>
+			<prism:endingPage>viii</prism:endingPage>
+			<prism:doi>10.1016/0038-0717(95)90036-5</prism:doi>
+			<prism:url>http://dx.doi.org/10.1016/0038-0717(95)90036-5</prism:url>
+			<dct:identifier>doi:10.1016/0038-0717(95)90036-5</dct:identifier>
+			<dp:availableOnlineInformation>
+				<bam:availableOnline
+					xmlns:cp="http://www.elsevier.com/xml/common/consyn-properties/schema"
+					xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2003-12-09T00:00:00.000Z
+
+				</bam:availableOnline>
+				<bam:vorAvailableOnline
+					xmlns:cp="http://www.elsevier.com/xml/common/consyn-properties/schema"
+					xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+				</dp:availableOnlineInformation>
+			</rdf:Description>
+		</rdf:RDF>
+		<dp:document-properties>
+			<dp:raw-text
+				xmlns:cp="http://www.elsevier.com/xml/common/consyn-properties/schema"
+				xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">	Soil Biol. Biochem. Vol. 27, No. 4/5, pp. vii-viii, 1995
+Pergamon	Elsevier Science Ltd. Printed in Great Britain
+
+PREFACE
+
+This issue of Soil Biology &amp; Biochemistry contains many of the contributions presented at the 10th Australian Nitrogen Fixation Conference held in Brisbane, Australia on the 7-10 September 1993. These conferences are presented by the Australian Society for Nitrogen Fixation.
+	The first conference (1955) arose from a recognition of a critical need for attention to the quality and use of legume inoculants, especially in the context of problems faced by the then fledgling commercial inoculant manufacturing industry. The two subsequent conferences concentrated on a similar theme, whereas the 4th and 5th conferences emphasized the importance of selection of strains of Rhizobium and Bradyrhizobium, factors affecting nodulation and the physiology of fixation. Reflecting the increased diversity (and specialization) of research on all aspects of N2 fixation, the 6th and 7th conferences (1979 and 1984, respectively) included sections on the ecology of root-nodule bacteria in soil and rhizosphere, biochemistry and physiology of the N2-reduction process and techniques of N measurement. Also included in the 7th conference were sections on non-legume symbioses and asymbiotic N2 fixation. Interest in the molecular genetics of nodulation and the N2-fixation process has expanded rapidly since the 6th meeting, in which there was only one paper, to be a predominant proportion of the contributions at the last three conferences. There were fewer papers on the ecology of rhizobia or bradyrhizobia in this meeting compared to the 9th conference (5 vs 14 papers) but an increase in the number of papers reporting on N2 fixation in agricultural production systems (11 vs 16). The emphasis in molecular studies changed from methodology and sequencing details to the significance of results for the end user. This may reflect the impact of simpler and more reliable techniques and may herald a resurgence of interest in ecological studies.
+	Recognizing the diverse specialities of those involved in research on N2 fixation, the theme of the 10th conference, Genetics, Microbial Ecology and Nitrogen Fixation-Is there a Sustainable Symbiosis?, was an attempt to integrate the sometimes separate disciplines of microbial ecology, molecular biology, genetics and the varied studies on N2 fixation. The theme also reflected an increasingly difficult research environment in which resources are more limited than in earlier times and the words "relevance", "sustainability" and "increased efficiency" consistently appear in reports from scientific administrators, funding bodies and politicians.
+	Participants in the 10th conference were invited to contribute to discussion of seven topics: metabolic pathways associated with N2 fixation; nodulation and N2 fixation with trees and shrubs; non-symbiotic N2 fixation; microbe-plant genetic interactions in N2 fixation; N2 fixation in agricultural production systems; nodulation and N2 fixation under environmental stress; and advances in inoculant and seed inoculation technology. In addition, three workshops considered the special topics of: the future of N2 fixation research in Australia; t5N methodology; and research and commercial legume growers.
+	Although primarily a national conference, international participants from 16 countries reflected the wide interest in N2 fixation for both primary production and sustainability.
+	The 11th Australian Nitrogen Fixation Conference will be in Perth, Western Australia, 23-27 September 1996. For further information contact:
+
+The Secretary
+
+Australian Society for Nitrogen Fixation
+Faculty of Agriculture/CLIMA
+University of Western Australia
+Nedlands, WA 6009
+Australia
+
+	All papers were accepted for publication on the basis of scientific merit between 1 December 1993 and 31 January 1994.
+
+vii
+viii 	Preface
+
+Acknowledgements-We are grateful to John S. Waid, Executive editor of Soil Biology &amp; Biochemistry for his encouragement and editorial assistance in preparing the papers for publication in the journal.The Australian Society for Nitrogen Fixation gratefully acknowledges the support received for the conference and presenting these proceedings from the following businesses and institutions: Australian International Development Assistance Bureau; Bio-Care Technology Pty Ltd; CSIRO, Division of Tropical Crops and Pastures; Grains Research and Development Corporation; Inoculant Services Australia Pty Ltd; Pacific Seeds Pty Ltd; Queensland Department of Primary Industry, Plant Protection Division; University of Queensland, Department of Agriculture.
+
+H. V. A. BUSHBY, R. A. DATE and P. J. DART
+
+Guest Editors
+
+
+			</dp:raw-text>
+			<dp:aggregation-type>Journals</dp:aggregation-type>
+			<dp:version-number>S350.2</dp:version-number>
+		</dp:document-properties>
+		<ja:simple-article version="5.0" xml:lang="en" docsubtype="edi">
+			<ja:item-info>
+				<ja:jid>SBB</ja:jid>
+				<ja:aid>90036</ja:aid>
+				<ce:pii>0038-0717(95)90036-5</ce:pii>
+				<ce:doi>10.1016/0038-0717(95)90036-5</ce:doi>
+				<ce:copyright type="unknown" year="1995"/>
+			</ja:item-info>
+			<ja:simple-head>
+				<ce:title>Preface</ce:title>
+				<ce:author-group>
+					<ce:author>
+						<ce:given-name>H.V.A.</ce:given-name>
+						<ce:surname>Bushby</ce:surname>
+						<ce:roles>Guest Editor</ce:roles>
+					</ce:author>
+					<ce:author>
+						<ce:given-name>R.A.</ce:given-name>
+						<ce:surname>Date</ce:surname>
+						<ce:roles>Guest Editor</ce:roles>
+					</ce:author>
+					<ce:author>
+						<ce:given-name>P.J.</ce:given-name>
+						<ce:surname>Dart</ce:surname>
+						<ce:roles>Guest Editor</ce:roles>
+					</ce:author>
+				</ce:author-group>
+			</ja:simple-head>
+		</ja:simple-article>
+	</doc:document>

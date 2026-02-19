@@ -1,0 +1,91 @@
+{
+  "authors": [
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Cognitive Electrophysiology Lab, Department of Psychology, University of Milano-Bicocca, Piazza dell'AteneoNuovo, 1, Milan 20162, Italy"
+        }
+      ],
+      "attrib": {
+        "email": "mado.proverbio@unimib.it",
+        "orcid": "0000-0002-5138-1523"
+      },
+      "name": {
+        "given_name": "Alice Mado",
+        "surname": "Proverbio"
+      }
+    }
+  ],
+  "copyright": {
+    "statement": "\u00a9 2024 Elsevier B.V. All rights reserved.",
+    "status": true
+  },
+  "doctype": "article",
+  "editorialHistory": {
+    "acceptedDate": "2024-01-23",
+    "receivedDates": [
+      "2024-01-18"
+    ]
+  },
+  "esources": [
+    {
+      "location": "http://dx.doi.org/10.1016/j.plrev.2024.01.006",
+      "source": "pub_html"
+    }
+  ],
+  "pagination": {
+    "firstPage": "174",
+    "lastPage": "175"
+  },
+  "persistentIDs": [
+    {
+      "DOI": "10.1016/j.plrev.2024.01.006"
+    }
+  ],
+  "pubDate": {
+    "printDate": "2024-03-00"
+  },
+  "publication": {
+    "ISSN": [
+      {
+        "issnString": "1571-0645",
+        "pubtype": "not specified"
+      }
+    ],
+    "pubName": "Physics of Life Reviews",
+    "pubYear": "2024",
+    "publisher": "Elsevier B.V.",
+    "volumeNum": "48"
+  },
+  "publisherIDs": [
+    {
+      "Identifier": "S1571-0645(24)00006-X",
+      "attribute": "PII"
+    }
+  ],
+  "recordData": {
+    "createdTime": "",
+    "loadFormat": "Elsevier",
+    "loadLocation": "",
+    "loadType": "fromFile",
+    "parsedTime": "",
+    "recordOrigin": ""
+  },
+  "references": [
+    "<sb:reference id=\"sbref0001\"><sb:contribution langtype=\"en\"><sb:authors><sb:author><ce:given-name>N.</ce:given-name><ce:surname>Dijkstra</ce:surname></sb:author><sb:author><ce:given-name>S.E.</ce:given-name><ce:surname>Bosch</ce:surname></sb:author><sb:author><ce:given-name>M.A.</ce:given-name><ce:surname>van Gerven</ce:surname></sb:author></sb:authors><sb:title><sb:maintitle>Vividness of visual imagery depends on the neural overlap with perception in visual areas</sb:maintitle></sb:title></sb:contribution><sb:host><sb:issue><sb:series><sb:title><sb:maintitle>J Neurosci</sb:maintitle></sb:title><sb:volume-nr>37</sb:volume-nr></sb:series><sb:issue-nr>5</sb:issue-nr><sb:date>2017</sb:date></sb:issue><sb:pages><sb:first-page>1367</sb:first-page><sb:last-page>1373</sb:last-page></sb:pages></sb:host><sb:comment>Feb 1</sb:comment></sb:reference>",
+    "<sb:reference id=\"sbref0002\"><sb:contribution langtype=\"en\"><sb:authors><sb:author><ce:given-name>A.</ce:given-name><ce:surname>Spagna</ce:surname></sb:author><sb:author><ce:given-name>Z.</ce:given-name><ce:surname>Heidenry</ce:surname></sb:author><sb:author><ce:given-name>M.</ce:given-name><ce:surname>Miselevich</ce:surname></sb:author><sb:author><ce:given-name>C.</ce:given-name><ce:surname>Lambert</ce:surname></sb:author><sb:author><ce:given-name>B.E.</ce:given-name><ce:surname>Eisenstadt</ce:surname></sb:author><sb:author><ce:given-name>L.</ce:given-name><ce:surname>Tremblay</ce:surname></sb:author><sb:author><ce:given-name>Z.</ce:given-name><ce:surname>Liu</ce:surname></sb:author><sb:author><ce:given-name>J.</ce:given-name><ce:surname>Liu</ce:surname></sb:author><sb:author><ce:given-name>P.</ce:given-name><ce:surname>Bartolomeo</ce:surname></sb:author></sb:authors><sb:title><sb:maintitle>Visual mental imagery: evidence for a heterarchical neural architecture</sb:maintitle></sb:title></sb:contribution><sb:host><sb:issue><sb:series><sb:title><sb:maintitle>Phys Life Rev</sb:maintitle></sb:title></sb:series><sb:date>2023</sb:date></sb:issue><sb:pages><sb:first-page>113</sb:first-page><sb:last-page>131</sb:last-page></sb:pages></sb:host><sb:comment>this issue</sb:comment></sb:reference>",
+    "<sb:reference id=\"sbref0003\"><sb:contribution langtype=\"en\"><sb:authors><sb:author><ce:given-name>N.</ce:given-name><ce:surname>Dijkstra</ce:surname></sb:author><sb:author><ce:given-name>P.</ce:given-name><ce:surname>Mostert</ce:surname></sb:author><sb:author><ce:given-name>F.P.</ce:given-name><ce:surname>Lange</ce:surname></sb:author><sb:author><ce:given-name>S.</ce:given-name><ce:surname>Bosch</ce:surname></sb:author><sb:author><ce:given-name>M.A.</ce:given-name><ce:surname>van Gerven</ce:surname></sb:author></sb:authors><sb:title><sb:maintitle>Differential temporal dynamics during visual imagery and perception</sb:maintitle></sb:title></sb:contribution><sb:host><sb:issue><sb:series><sb:title><sb:maintitle>Elife</sb:maintitle></sb:title><sb:volume-nr>7</sb:volume-nr></sb:series><sb:date>2018</sb:date></sb:issue><sb:pages><sb:first-page>e33904</sb:first-page></sb:pages></sb:host><sb:comment>May 29</sb:comment></sb:reference>",
+    "<sb:reference id=\"sbref0004\"><sb:contribution langtype=\"en\"><sb:authors><sb:author><ce:given-name>S.H.</ce:given-name><ce:surname>Lee</ce:surname></sb:author><sb:author><ce:given-name>D.J.</ce:given-name><ce:surname>Kravitz</ce:surname></sb:author><sb:author><ce:given-name>C.I.</ce:given-name><ce:surname>Baker</ce:surname></sb:author></sb:authors><sb:title><sb:maintitle>Disentangling visual imagery and perception of real-world objects</sb:maintitle></sb:title></sb:contribution><sb:host><sb:issue><sb:series><sb:title><sb:maintitle>Neuroimage</sb:maintitle></sb:title><sb:volume-nr>59</sb:volume-nr></sb:series><sb:issue-nr>4</sb:issue-nr><sb:date>2012</sb:date></sb:issue><sb:pages><sb:first-page>4064</sb:first-page><sb:last-page>4073</sb:last-page></sb:pages></sb:host><sb:comment>Feb 15</sb:comment></sb:reference>",
+    "<sb:reference id=\"sbref0005\"><sb:contribution langtype=\"en\"><sb:authors><sb:author><ce:given-name>S.</ce:given-name><ce:surname>Xie</ce:surname></sb:author><sb:author><ce:given-name>D.</ce:given-name><ce:surname>Kaiser</ce:surname></sb:author><sb:author><ce:given-name>R.M.</ce:given-name><ce:surname>Cichy</ce:surname></sb:author></sb:authors><sb:title><sb:maintitle>Visual imagery and perception share neural representations in the alpha frequency band</sb:maintitle></sb:title></sb:contribution><sb:host><sb:issue><sb:series><sb:title><sb:maintitle>Curr Biol</sb:maintitle></sb:title><sb:volume-nr>30</sb:volume-nr></sb:series><sb:issue-nr>15</sb:issue-nr><sb:date>2020</sb:date></sb:issue><sb:pages><sb:first-page>3062</sb:first-page></sb:pages></sb:host><sb:comment>Aug 3</sb:comment></sb:reference>",
+    "<sb:reference id=\"sbref0006\"><sb:contribution langtype=\"en\"><sb:authors><sb:author><ce:given-name>J.W.</ce:given-name><ce:surname>Page</ce:surname></sb:author><sb:author><ce:given-name>P.</ce:given-name><ce:surname>Duhamel</ce:surname></sb:author><sb:author><ce:given-name>M.A.</ce:given-name><ce:surname>Crognale</ce:surname></sb:author></sb:authors><sb:title><sb:maintitle>ERP evidence of visualization at early stages of visual processing</sb:maintitle></sb:title></sb:contribution><sb:host><sb:issue><sb:series><sb:title><sb:maintitle>Brain Cogn</sb:maintitle></sb:title><sb:volume-nr>75</sb:volume-nr></sb:series><sb:issue-nr>2</sb:issue-nr><sb:date>2011</sb:date></sb:issue><sb:pages><sb:first-page>141</sb:first-page><sb:last-page>146</sb:last-page></sb:pages></sb:host><sb:comment>Mar</sb:comment></sb:reference>",
+    "<sb:reference id=\"sbref0007\"><sb:contribution langtype=\"en\"><sb:authors><sb:author><ce:given-name>F.R.</ce:given-name><ce:surname>Llorella</ce:surname></sb:author><sb:author><ce:given-name>G.</ce:given-name><ce:surname>Patow</ce:surname></sb:author><sb:author><ce:given-name>J.M.</ce:given-name><ce:surname>Azor\u00edn</ce:surname></sb:author></sb:authors><sb:title><sb:maintitle>Convolutional neural networks and genetic algorithm for visual imagery classification</sb:maintitle></sb:title></sb:contribution><sb:host><sb:issue><sb:series><sb:title><sb:maintitle>Phys Eng Sci Med</sb:maintitle></sb:title><sb:volume-nr>43</sb:volume-nr></sb:series><sb:issue-nr>3</sb:issue-nr><sb:date>2020</sb:date></sb:issue><sb:pages><sb:first-page>973</sb:first-page><sb:last-page>983</sb:last-page></sb:pages></sb:host><sb:comment>Sep</sb:comment></sb:reference>",
+    "<sb:reference id=\"sbref0008\"><sb:contribution langtype=\"en\"><sb:authors><sb:author><ce:given-name>R.C.</ce:given-name><ce:surname>Lanfranco</ce:surname></sb:author><sb:author><ce:given-name>\u00c1.</ce:given-name><ce:surname>Rivera-Rei</ce:surname></sb:author><sb:author><ce:given-name>D.</ce:given-name><ce:surname>Huepe</ce:surname></sb:author><sb:author><ce:given-name>A.</ce:given-name><ce:surname>Ib\u00e1\u00f1ez</ce:surname></sb:author><sb:author><ce:given-name>A.</ce:given-name><ce:surname>Canales-Johnson</ce:surname></sb:author></sb:authors><sb:title><sb:maintitle>Beyond imagination: hypnotic visual hallucination induces greater lateralised brain activity than visual mental imagery</sb:maintitle></sb:title></sb:contribution><sb:host><sb:issue><sb:series><sb:title><sb:maintitle>Neuroimage</sb:maintitle></sb:title><sb:volume-nr>239</sb:volume-nr></sb:series><sb:date>2021</sb:date></sb:issue><sb:article-number>118282</sb:article-number></sb:host><sb:comment>Oct 1</sb:comment></sb:reference>",
+    "<sb:reference id=\"sbref0009\"><sb:contribution langtype=\"en\"><sb:authors><sb:author><ce:given-name>A.M.</ce:given-name><ce:surname>Proverbio</ce:surname></sb:author><sb:author><ce:given-name>M.</ce:given-name><ce:surname>Tacchini</ce:surname></sb:author><sb:author><ce:given-name>K.</ce:given-name><ce:surname>Jiang</ce:surname></sb:author></sb:authors><sb:title><sb:maintitle>What do you have in mind? ERP markers of visual and auditory imagery</sb:maintitle></sb:title></sb:contribution><sb:host><sb:issue><sb:series><sb:title><sb:maintitle>Brain Cogn</sb:maintitle></sb:title><sb:volume-nr>166</sb:volume-nr></sb:series><sb:date>2023</sb:date></sb:issue><sb:article-number>105954</sb:article-number></sb:host><sb:comment>Mar</sb:comment></sb:reference>",
+    "<sb:reference id=\"sbref0010\"><sb:contribution langtype=\"en\"><sb:authors><sb:author><ce:given-name>A.M.</ce:given-name><ce:surname>Proverbio</ce:surname></sb:author><sb:author><ce:given-name>F.</ce:given-name><ce:surname>Pischedda</ce:surname></sb:author></sb:authors><sb:title><sb:maintitle>Measuring brain potentials of imagination linked to physiological needs and motivational states</sb:maintitle></sb:title></sb:contribution><sb:host><sb:issue><sb:series><sb:title><sb:maintitle>Front Hum Neurosci</sb:maintitle></sb:title><sb:volume-nr>17</sb:volume-nr></sb:series><sb:date>2023</sb:date></sb:issue><sb:article-number>1146789</sb:article-number><ce:doi>10.3389/fnhum.2023.1146789</ce:doi></sb:host><sb:comment>Mar 15</sb:comment></sb:reference>",
+    "<sb:reference id=\"sbref0011\"><sb:contribution langtype=\"en\"><sb:authors><sb:author><ce:given-name>J.</ce:given-name><ce:surname>Leoni</ce:surname></sb:author><sb:author><ce:given-name>S.C.</ce:given-name><ce:surname>Strada</ce:surname></sb:author><sb:author><ce:given-name>M.</ce:given-name><ce:surname>Tanelli</ce:surname></sb:author><sb:author><ce:given-name>A.M.</ce:given-name><ce:surname>Proverbio</ce:surname></sb:author></sb:authors><sb:title><sb:maintitle>Miracle: mind reading classification engine</sb:maintitle></sb:title></sb:contribution><sb:host><sb:issue><sb:series><sb:title><sb:maintitle>IEEE Trans Neural Syst Rehabil Eng</sb:maintitle></sb:title><sb:volume-nr>31</sb:volume-nr></sb:series><sb:date>2023</sb:date></sb:issue><sb:pages><sb:first-page>3212</sb:first-page><sb:last-page>3222</sb:last-page></sb:pages></sb:host></sb:reference>",
+    "<sb:reference id=\"sbref0012\"><sb:contribution langtype=\"en\"><sb:authors><sb:author><ce:given-name>J.</ce:given-name><ce:surname>Leoni</ce:surname></sb:author><sb:author><ce:given-name>S.C.</ce:given-name><ce:surname>Strada</ce:surname></sb:author><sb:author><ce:given-name>M.</ce:given-name><ce:surname>Tanelli</ce:surname></sb:author><sb:author><ce:given-name>K.</ce:given-name><ce:surname>Jiang</ce:surname></sb:author><sb:author><ce:given-name>A.</ce:given-name><ce:surname>Brusa</ce:surname></sb:author><sb:author><ce:given-name>A.M.</ce:given-name><ce:surname>Proverbio</ce:surname></sb:author></sb:authors><sb:title><sb:maintitle>Automatic stimuli classification from ERP data for augmented communication via brain-computer interfaces</sb:maintitle></sb:title></sb:contribution><sb:host><sb:issue><sb:series><sb:title><sb:maintitle>Expert Syst Appl</sb:maintitle></sb:title><sb:volume-nr>184</sb:volume-nr></sb:series><sb:date>2021</sb:date></sb:issue><sb:article-number>115572</sb:article-number><ce:doi>10.1016/j.eswa.2021.115572</ce:doi></sb:host></sb:reference>"
+  ],
+  "title": {
+    "textEnglish": "The temporal dynamics of visual imagery and BCI: Comment on \u201cVisual mental imagery: Evidence for a heterarchical neural architecture\u201d by Spagna et al."
+  }
+}

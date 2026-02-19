@@ -1,0 +1,58 @@
+{
+  "copyright": {
+    "statement": "\u00a9 Springer Nature Limited 2006",
+    "status": true
+  },
+  "pagination": {
+    "firstPage": "xi",
+    "lastPage": "xi",
+    "pageRange": "xi-xi"
+  },
+  "persistentIDs": [
+    {
+      "DOI": "10.1038/7082xib"
+    }
+  ],
+  "pubDate": {
+    "electrDate": "2006-03-15",
+    "printDate": "2006-03-16"
+  },
+  "publication": {
+    "ISSN": [
+      {
+        "issnString": "0028-0836",
+        "pubtype": "ppub"
+      },
+      {
+        "issnString": "1476-4687",
+        "pubtype": "epub"
+      }
+    ],
+    "issueNum": "7082",
+    "pubName": "Nature",
+    "pubYear": "2006",
+    "publisher": "Nature Publishing Group UK",
+    "volumeNum": "440"
+  },
+  "publisherIDs": [
+    {
+      "Identifier": "7082xib",
+      "attribute": "publisher-id"
+    },
+    {
+      "Identifier": "BF7082xib",
+      "attribute": "manuscript"
+    }
+  ],
+  "recordData": {
+    "createdTime": "",
+    "loadFormat": "JATS",
+    "loadLocation": "",
+    "loadType": "fromFile",
+    "parsedTime": "",
+    "recordOrigin": ""
+  },
+  "title": {
+    "textEnglish": "Abstractions"
+  }
+}

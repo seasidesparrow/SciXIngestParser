@@ -1,0 +1,70 @@
+{
+  "authors": [
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Institute of Oceanology, Moscow, USSR"
+        }
+      ],
+      "name": {
+        "given_name": "A. S.",
+        "surname": "Monin"
+      }
+    }
+  ],
+  "copyright": {
+    "statement": "\u00a9 Kluwer Academic Publishers 1988",
+    "status": true
+  },
+  "pagination": {
+    "firstPage": "vii",
+    "lastPage": "vii",
+    "pageRange": "vii-vii"
+  },
+  "persistentIDs": [
+    {
+      "DOI": "10.1007/BF00153965"
+    }
+  ],
+  "pubDate": {
+    "printDate": "1988-04-00"
+  },
+  "publication": {
+    "ISSN": [
+      {
+        "issnString": "0006-8314",
+        "pubtype": "ppub"
+      },
+      {
+        "issnString": "1573-1472",
+        "pubtype": "epub"
+      }
+    ],
+    "issueNum": "1-2",
+    "pubName": "Boundary-Layer Meteorology",
+    "pubYear": "1988",
+    "publisher": "Kluwer Academic Publishers",
+    "volumeNum": "43"
+  },
+  "publisherIDs": [
+    {
+      "Identifier": "Art2",
+      "attribute": "publisher-id"
+    },
+    {
+      "Identifier": "BF00153965",
+      "attribute": "manuscript"
+    }
+  ],
+  "recordData": {
+    "createdTime": "",
+    "loadFormat": "JATS",
+    "loadLocation": "",
+    "loadType": "fromFile",
+    "parsedTime": "",
+    "recordOrigin": ""
+  },
+  "title": {
+    "textEnglish": "Obituary"
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "abstract": {
+    "textEnglish": "This PDF file contains the front matter associated with SPIE Proceedings Volume 12512, including the Title Page, Copyright information, Table of Contents, and Conference Committee information."
+  },
+  "copyright": {
+    "statement": "COPYRIGHT SPIE. Downloading of the abstract is permitted for personal use only.",
+    "status": true
+  },
+  "openAccess": {
+    "open": true
+  },
+  "otherContributor": [
+    {
+      "contrib": {
+        "affiliation": [
+          {
+            "affPubRaw": "Argo AI, LLC (United States)"
+          }
+        ],
+        "name": {
+          "given_name": "Mark A.",
+          "surname": "Itzler"
+        }
+      },
+      "role": "editor"
+    },
+    {
+      "contrib": {
+        "affiliation": [
+          {
+            "affPubRaw": "National Institute of Standards and Technology (United States)"
+          }
+        ],
+        "name": {
+          "given_name": "Joshua C.",
+          "surname": "Bienfang"
+        }
+      },
+      "role": "editor"
+    },
+    {
+      "contrib": {
+        "affiliation": [
+          {
+            "affPubRaw": "MIT Lincoln Lab. (United States)"
+          }
+        ],
+        "name": {
+          "given_name": "K. Alex",
+          "surname": "McIntosh"
+        }
+      },
+      "role": "editor"
+    }
+  ],
+  "pagination": {
+    "firstPage": "1251201",
+    "lastPage": "1251201-6",
+    "pageRange": "1251201-1251201-6"
+  },
+  "persistentIDs": [
+    {
+      "DOI": "10.1117/12.2690579"
+    }
+  ],
+  "pubDate": {
+    "electrDate": "2023-06-15",
+    "printDate": "2023-06-15"
+  },
+  "publication": {
+    "ISSN": [
+      {
+        "issnString": "0277-786X"
+      }
+    ],
+    "confName": "Defense + Commercial Sensing",
+    "pubYear": "2023",
+    "publisher": "SPIE",
+    "volumeNum": "12512"
+  },
+  "recordData": {
+    "createdTime": "",
+    "loadFormat": "JATS",
+    "loadLocation": "",
+    "loadType": "fromFile",
+    "parsedTime": "",
+    "recordOrigin": ""
+  },
+  "title": {
+    "textEnglish": "Front Matter: Volume 12512"
+  }
+}

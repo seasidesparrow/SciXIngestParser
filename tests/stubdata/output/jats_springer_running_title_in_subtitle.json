@@ -1,0 +1,305 @@
+{
+  "abstract": {
+    "textEnglish": "In this study, we considered the optical wavelength of Gaia Data Release 3 (DR3) to analyze poorly studied three newly open star clusters, namely OCSN 203, OCSN 213, and OCSN 244 clusters with ASTECA code. Here, we identified 227, 200, and 551 candidates with highly probable (<inline-formula><mml:math><mml:mrow><mml:mi>P</mml:mi><mml:mo>\u2265</mml:mo><mml:mn>50</mml:mn></mml:mrow></mml:math></inline-formula>%) members. Fitting King\u2019s profile within radial density profiles allows us to estimate inner stellar structures like core (<inline-formula><mml:math><mml:mrow><mml:mn>0.190</mml:mn><mml:mo>\u2264</mml:mo><mml:msub><mml:mi>r</mml:mi><mml:mtext>c</mml:mtext></mml:msub><mml:mspace></mml:mspace><mml:mrow><mml:mo>(</mml:mo><mml:mi>pc</mml:mi><mml:mo>)</mml:mo></mml:mrow><mml:mo>\u2264</mml:mo><mml:mn>1.284</mml:mn></mml:mrow></mml:math></inline-formula>) and the limiting (<inline-formula><mml:math><mml:mrow><mml:mn>0.327</mml:mn><mml:mo>\u2264</mml:mo><mml:msub><mml:mi>r</mml:mi><mml:mtext>cl</mml:mtext></mml:msub><mml:mspace></mml:mspace><mml:mrow><mml:mo>(</mml:mo><mml:mi>pc</mml:mi><mml:mo>)</mml:mo></mml:mrow><mml:mo>\u2264</mml:mo><mml:mn>1.302</mml:mn></mml:mrow></mml:math></inline-formula>) radii. Constructing color-magnitude diagrams (CMDs) fitted with suitable <inline-formula><mml:math><mml:mrow><mml:mo>log</mml:mo><mml:mtext>age</mml:mtext></mml:mrow></mml:math></inline-formula> (yr) between (<inline-formula><mml:math><mml:mrow><mml:mo>log</mml:mo><mml:mi>t</mml:mi></mml:mrow></mml:math></inline-formula>; 6.52\u20137.05) and metallicities (Z; 0.01308\u20130.01413) isochrones. Therefore, the estimated photometric parameters with CMDs reflect the heliocentric distances are <inline-formula><mml:math><mml:mrow><mml:mn>332</mml:mn><mml:mo>\u00b1</mml:mo><mml:mn>18</mml:mn></mml:mrow></mml:math></inline-formula>, <inline-formula><mml:math><mml:mrow><mml:mn>529</mml:mn><mml:mo>\u00b1</mml:mo><mml:mn>23</mml:mn></mml:mrow></mml:math></inline-formula>, and <inline-formula><mml:math><mml:mrow><mml:mn>506</mml:mn><mml:mo>\u00b1</mml:mo><mml:mn>23</mml:mn></mml:mrow></mml:math></inline-formula> (pc) for OCSN 203, OCSN 213, and OCSN 244, respectively. Furthermore, the collective mass (<inline-formula><mml:math><mml:msub><mml:mi>M</mml:mi><mml:mi>C</mml:mi></mml:msub></mml:math></inline-formula>) in solar mass units is calculated with MLR as <inline-formula><mml:math><mml:mrow><mml:mn>67</mml:mn><mml:mo>\u00b1</mml:mo><mml:mn>8.19</mml:mn></mml:mrow></mml:math></inline-formula>, <inline-formula><mml:math><mml:mrow><mml:mn>91</mml:mn><mml:mo>\u00b1</mml:mo><mml:mn>9.54</mml:mn></mml:mrow></mml:math></inline-formula>, and <inline-formula><mml:math><mml:mrow><mml:mn>353</mml:mn><mml:mo>\u00b1</mml:mo><mml:mn>18.79</mml:mn></mml:mrow></mml:math></inline-formula>. Additionally, LF determined that the mean absolute magnitudes are <inline-formula><mml:math><mml:mrow><mml:mn>9.54</mml:mn><mml:mo>\u00b1</mml:mo><mml:mn>3.09</mml:mn></mml:mrow></mml:math></inline-formula>, <inline-formula><mml:math><mml:mrow><mml:mn>8.52</mml:mn><mml:mo>\u00b1</mml:mo><mml:mn>2.92</mml:mn></mml:mrow></mml:math></inline-formula>, and <inline-formula><mml:math><mml:mrow><mml:mn>7.60</mml:mn><mml:mo>\u00b1</mml:mo><mml:mn>2.76</mml:mn></mml:mrow></mml:math></inline-formula> for these clusters, respectively. The overall mass function reflects the slopes (<inline-formula><mml:math><mml:mi>\u03b1</mml:mi></mml:math></inline-formula>) for Salpeter within the uncertainty are (<inline-formula><mml:math><mml:mrow><mml:msub><mml:mi>\u03b1</mml:mi><mml:mrow><mml:mi>OCSN</mml:mi><mml:mspace></mml:mspace><mml:mn>203</mml:mn></mml:mrow></mml:msub><mml:mo>=</mml:mo><mml:mn>2.41</mml:mn><mml:mo>\u00b1</mml:mo><mml:mn>0.06</mml:mn></mml:mrow></mml:math></inline-formula>), (<inline-formula><mml:math><mml:mrow><mml:msub><mml:mi>\u03b1</mml:mi><mml:mrow><mml:mi>OCSN</mml:mi><mml:mspace></mml:mspace><mml:mn>213</mml:mn></mml:mrow></mml:msub><mml:mo>=</mml:mo><mml:mn>2.13</mml:mn><mml:mo>\u00b1</mml:mo><mml:mn>0.07</mml:mn></mml:mrow></mml:math></inline-formula>), and (<inline-formula><mml:math><mml:mrow><mml:msub><mml:mi>\u03b1</mml:mi><mml:mrow><mml:mi>OCSN</mml:mi><mml:mspace></mml:mspace><mml:mn>244</mml:mn></mml:mrow></mml:msub><mml:mo>=</mml:mo><mml:mn>2.28</mml:mn><mml:mo>\u00b1</mml:mo><mml:mn>0.07</mml:mn></mml:mrow></mml:math></inline-formula>). The results of this study, which employed a dynamical analysis over varying timescales, indicate that OCSN 203 and OCSN 244 are clusters that have undergone significant relaxation, with a dynamical evolution parameter (<inline-formula><mml:math><mml:mi>\u03c4</mml:mi></mml:math></inline-formula>) that is much greater than one. In contrast, OCSN 213 exhibits characteristics of a non-relaxed cluster. A kinematic analysis of these open clusters was carried out, encompassing aspects of their apex position (<inline-formula><mml:math><mml:mrow><mml:msub><mml:mi>A</mml:mi><mml:mtext>o</mml:mtext></mml:msub><mml:mo>,</mml:mo><mml:msub><mml:mi>D</mml:mi><mml:mtext>o</mml:mtext></mml:msub></mml:mrow></mml:math></inline-formula>) using the AD diagrams. Therefore, the numerical convergent point coordinates are <inline-formula><mml:math><mml:mrow><mml:msup><mml:mn>76</mml:mn><mml:mo>\u2218</mml:mo></mml:msup><mml:mo>.</mml:mo><mml:mn>77</mml:mn><mml:mo>\u00b1</mml:mo><mml:msup><mml:mn>0</mml:mn><mml:mo>\u2218</mml:mo></mml:msup><mml:mo>.</mml:mo><mml:mn>01</mml:mn></mml:mrow></mml:math></inline-formula>, <inline-formula><mml:math><mml:mrow><mml:mo>-</mml:mo><mml:msup><mml:mn>0</mml:mn><mml:mo>\u2218</mml:mo></mml:msup><mml:mo>.</mml:mo><mml:mn>23</mml:mn><mml:mo>\u00b1</mml:mo><mml:msup><mml:mn>0</mml:mn><mml:mo>\u2218</mml:mo></mml:msup><mml:mo>.</mml:mo><mml:mn>00</mml:mn></mml:mrow></mml:math></inline-formula> (OCSN 203), <inline-formula><mml:math><mml:mrow><mml:msup><mml:mn>85</mml:mn><mml:mo>\u2218</mml:mo></mml:msup><mml:mo>.</mml:mo><mml:mn>71</mml:mn><mml:mo>\u00b1</mml:mo><mml:msup><mml:mn>0</mml:mn><mml:mo>\u2218</mml:mo></mml:msup><mml:mo>.</mml:mo><mml:mn>11</mml:mn></mml:mrow></mml:math></inline-formula>, <inline-formula><mml:math><mml:mrow><mml:mo>-</mml:mo><mml:msup><mml:mn>9</mml:mn><mml:mo>\u2218</mml:mo></mml:msup><mml:mo>.</mml:mo><mml:mn>63</mml:mn><mml:mo>\u00b1</mml:mo><mml:msup><mml:mn>0</mml:mn><mml:mo>\u2218</mml:mo></mml:msup><mml:mo>.</mml:mo><mml:mn>03</mml:mn></mml:mrow></mml:math></inline-formula> (OCSN 213), and <inline-formula><mml:math><mml:mrow><mml:msup><mml:mn>88</mml:mn><mml:mo>\u2218</mml:mo></mml:msup><mml:mo>.</mml:mo><mml:mn>19</mml:mn><mml:mo>\u00b1</mml:mo><mml:msup><mml:mn>0</mml:mn><mml:mo>\u2218</mml:mo></mml:msup><mml:mo>.</mml:mo><mml:mn>11</mml:mn></mml:mrow></mml:math></inline-formula>, <inline-formula><mml:math><mml:mrow><mml:mo>-</mml:mo><mml:msup><mml:mn>4</mml:mn><mml:mo>\u2218</mml:mo></mml:msup><mml:mo>.</mml:mo><mml:mn>04</mml:mn><mml:mo>\u00b1</mml:mo><mml:msup><mml:mn>0</mml:mn><mml:mo>\u2218</mml:mo></mml:msup><mml:mo>.</mml:mo><mml:mn>01</mml:mn></mml:mrow></mml:math></inline-formula> (OCSN 244). We found that the three OCSN clusters are young stellar disc members using dynamic orbit parameters."
+  },
+  "authors": [
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "https://ror.org/03j9tzj20",
+              "affIDType": "ROR"
+            },
+            {
+              "affID": "grid.449533.c",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0004 1757 2152",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Department of Physics, College of Science, Northern Border University, Arar, Saudi Arabia"
+        }
+      ],
+      "attrib": {
+        "corresp": true,
+        "email": "elsanhoury@nbu.edu.sa",
+        "orcid": "0000-0002-2298-4026"
+      },
+      "name": {
+        "given_name": "W. H.",
+        "surname": "Elsanhoury"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "https://ror.org/02ma4wv74",
+              "affIDType": "ROR"
+            },
+            {
+              "affID": "grid.412125.1",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0001 0619 1117",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Astronomy and Space Science Department, Faculty of Science, King Abdulaziz University, Jeddah, Kingdom of Saudi Arabia"
+        }
+      ],
+      "name": {
+        "given_name": "A. A.",
+        "surname": "Haroon"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "https://ror.org/03j9tzj20",
+              "affIDType": "ROR"
+            },
+            {
+              "affID": "grid.449533.c",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0004 1757 2152",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Department of Physics, College of Science, Northern Border University, Arar, Saudi Arabia"
+        },
+        {
+          "affPubID": [
+            {
+              "affID": "https://ror.org/01cb2rv04",
+              "affIDType": "ROR"
+            },
+            {
+              "affID": "grid.459886.e",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0000 9905 739X",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Astronomy Department, National Research Institute of Astronomy and Geophysics (NRIAG), 11421, Helwan, Cairo, Egypt"
+        }
+      ],
+      "name": {
+        "given_name": "E. A.",
+        "surname": "Elkholy"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "https://ror.org/03a5qrr21",
+              "affIDType": "ROR"
+            },
+            {
+              "affID": "grid.9601.e",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0001 2166 6619",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Istanbul University, Institute of Graduate Studies in Science, Programme of Astronomy and Space Sciences, 34116, Beyaz\u0131t, Istanbul, Turkey"
+        }
+      ],
+      "name": {
+        "given_name": "D. C.",
+        "surname": "\u00c7inar"
+      }
+    }
+  ],
+  "copyright": {
+    "statement": "\u00a9 Indian Academy of Sciences 2025",
+    "status": true
+  },
+  "editorialHistory": {
+    "acceptedDate": "2024-12-10",
+    "receivedDates": [
+      "2024-05-09"
+    ]
+  },
+  "keywords": [
+    {
+      "keyString": "Star clusters: OCSN clusters",
+      "keySystem": "misc"
+    },
+    {
+      "keyString": "astrometric",
+      "keySystem": "misc"
+    },
+    {
+      "keyString": "color magnitude diagrams",
+      "keySystem": "misc"
+    },
+    {
+      "keyString": "photometric",
+      "keySystem": "misc"
+    },
+    {
+      "keyString": "kinematics",
+      "keySystem": "misc"
+    },
+    {
+      "keyString": "orbit parameters",
+      "keySystem": "misc"
+    }
+  ],
+  "pagination": {
+    "electronicID": "21"
+  },
+  "persistentIDs": [
+    {
+      "DOI": "10.1007/s12036-025-10044-0"
+    }
+  ],
+  "pubDate": {
+    "electrDate": "2025-03-19",
+    "otherDate": [
+      {
+        "otherDateType": "collection",
+        "otherDateValue": "2025-06-00"
+      }
+    ]
+  },
+  "publication": {
+    "ISSN": [
+      {
+        "issnString": "0973-7758",
+        "pubtype": "epub"
+      }
+    ],
+    "issueNum": "1",
+    "pubName": "Journal of Astrophysics and Astronomy",
+    "pubYear": "2025",
+    "publisher": "Springer India",
+    "volumeNum": "46"
+  },
+  "publisherIDs": [
+    {
+      "Identifier": "s12036-025-10044-0",
+      "attribute": "publisher-id"
+    },
+    {
+      "Identifier": "10044",
+      "attribute": "manuscript"
+    }
+  ],
+  "recordData": {
+    "createdTime": "",
+    "loadFormat": "JATS",
+    "loadLocation": "",
+    "loadType": "fromFile",
+    "parsedTime": "",
+    "recordOrigin": ""
+  },
+  "references": [
+    "<ref id=\"CR1\"><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><name><surname>Adams</surname><given-names>FC</given-names></name><name><surname>Myers</surname><given-names>PC</given-names></name></person-group><source>ApJ</source><year>2001</year><volume>553</volume><fpage>744</fpage><pub-id assigning-authority=\"NASA Astrophysics Data System\" pub-id-type=\"other\">2001ApJ...553..744A</pub-id><pub-id pub-id-type=\"doi\">10.1086/320941</pub-id></mixed-citation></ref>",
+    "<ref id=\"CR2\"><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><name><surname>Ak</surname><given-names>T</given-names></name><name><surname>Bilir</surname><given-names>S</given-names></name><name><surname>\u00d6zd\u00f6nmez</surname><given-names>A</given-names></name><etal/></person-group><source>Astrophysics and Space Science</source><year>2015</year><volume>357</volume><fpage>72</fpage><pub-id assigning-authority=\"NASA Astrophysics Data System\" pub-id-type=\"other\">2015Ap&amp;SS.357...72A</pub-id><pub-id pub-id-type=\"doi\">10.1007/s10509-015-2245-3</pub-id></mixed-citation></ref>",
+    "<ref id=\"CR3\"><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><name><surname>Allende</surname><given-names>PC</given-names></name><name><surname>Majewski</surname><given-names>SR</given-names></name><name><surname>Schiavon</surname><given-names>R</given-names></name><etal/></person-group><source>Astronomische Nachrichten</source><year>2008</year><volume>329</volume><fpage>1018</fpage><pub-id assigning-authority=\"NASA Astrophysics Data System\" pub-id-type=\"other\">2008AN....329.1018A</pub-id><pub-id pub-id-type=\"doi\">10.1002/asna.200811080</pub-id></mixed-citation></ref>",
+    "<ref id=\"CR4\"><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><name><surname>Balaguer-N\u00fanez</surname><given-names>L</given-names></name><name><surname>Tian</surname><given-names>KP</given-names></name><name><surname>Zhao</surname><given-names>JL</given-names></name></person-group><source>A &amp;A Suppl. Series</source><year>1998</year><volume>133</volume><fpage>387</fpage><pub-id assigning-authority=\"NASA Astrophysics Data System\" pub-id-type=\"other\">1998A&amp;AS..133..387B</pub-id><pub-id pub-id-type=\"doi\">10.1051/aas:1998324</pub-id></mixed-citation></ref>",
+    "<ref id=\"CR5\"><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><name><surname>Baumgardt</surname><given-names>H</given-names></name><name><surname>Makino</surname><given-names>J</given-names></name></person-group><source>MNRAS</source><year>2003</year><volume>340</volume><fpage>227</fpage><pub-id assigning-authority=\"NASA Astrophysics Data System\" pub-id-type=\"other\">2003MNRAS.340..227B</pub-id><pub-id pub-id-type=\"doi\">10.1046/j.1365-8711.2003.06286.x</pub-id></mixed-citation></ref>",
+    "<ref id=\"CR6\"><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><name><surname>Baumgardt</surname><given-names>H</given-names></name><name><surname>Parmentier</surname><given-names>G</given-names></name><name><surname>Gieles</surname><given-names>M</given-names></name><name><surname>Vesperini</surname><given-names>E</given-names></name></person-group><source>MNRAS</source><year>2010</year><volume>401</volume><fpage>1832</fpage><pub-id assigning-authority=\"NASA Astrophysics Data System\" pub-id-type=\"other\">2010MNRAS.401.1832B</pub-id><pub-id pub-id-type=\"doi\">10.1111/j.1365-2966.2009.15758.x</pub-id></mixed-citation></ref>",
+    "<ref id=\"CR7\"><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><name><surname>Bica</surname><given-names>E</given-names></name><name><surname>Bonatto</surname><given-names>C</given-names></name><name><surname>Dutra</surname><given-names>CM</given-names></name><name><surname>Santos</surname><given-names>JFC</given-names></name></person-group><source>MNRAS</source><year>2008</year><volume>389</volume><fpage>678</fpage><pub-id assigning-authority=\"NASA Astrophysics Data System\" pub-id-type=\"other\">2008MNRAS.389..678B</pub-id><pub-id pub-id-type=\"doi\">10.1111/j.1365-2966.2008.13612.x</pub-id></mixed-citation></ref>",
+    "<ref id=\"CR8\"><mixed-citation publication-type=\"other\">Bisht D., Elsanhoury W. H., Zhu Q. <italic>et al.</italic> 2020, AJ, 160, 119</mixed-citation></ref>",
+    "<ref id=\"CR9\"><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><name><surname>Bisht</surname><given-names>D</given-names></name><name><surname>Yadav</surname><given-names>RKS</given-names></name><name><surname>Durgapal</surname><given-names>AK</given-names></name></person-group><source>New Astronomy</source><year>2017</year><volume>52</volume><fpage>55</fpage><pub-id assigning-authority=\"NASA Astrophysics Data System\" pub-id-type=\"other\">2017NewA...52...55B</pub-id><pub-id pub-id-type=\"doi\">10.1016/j.newast.2016.10.009</pub-id></mixed-citation></ref>",
+    "<ref id=\"CR10\"><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><name><surname>Bisht</surname><given-names>D</given-names></name><name><surname>Yadav</surname><given-names>RKS</given-names></name><name><surname>Ganesh</surname><given-names>S</given-names></name><etal/></person-group><source>MNRAS</source><year>2019</year><volume>482</volume><fpage>1471</fpage><pub-id assigning-authority=\"NASA Astrophysics Data System\" pub-id-type=\"other\">2019MNRAS.482.1471B</pub-id><pub-id pub-id-type=\"doi\">10.1093/mnras/sty2781</pub-id></mixed-citation></ref>",
+    "<ref id=\"CR11\"><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><name><surname>Bland-Hawthorn</surname><given-names>J</given-names></name><name><surname>Sharma</surname><given-names>S</given-names></name><name><surname>Tepper-Garcia</surname><given-names>T</given-names></name><etal/></person-group><source>MNRAS</source><year>2019</year><volume>486</volume><fpage>1167</fpage><pub-id assigning-authority=\"NASA Astrophysics Data System\" pub-id-type=\"other\">2019MNRAS.486.1167B</pub-id><pub-id pub-id-type=\"doi\">10.1093/mnras/stz217</pub-id></mixed-citation></ref>",
+    "<ref id=\"CR12\"><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><name><surname>Bonatto</surname><given-names>C</given-names></name><name><surname>Bica</surname><given-names>E</given-names></name></person-group><source>MNRAS</source><year>2007</year><volume>377</volume><fpage>1301</fpage><pub-id assigning-authority=\"NASA Astrophysics Data System\" pub-id-type=\"other\">2007MNRAS.377.1301B</pub-id><pub-id pub-id-type=\"doi\">10.1111/j.1365-2966.2007.11691.x</pub-id></mixed-citation></ref>",
+    "<ref id=\"CR13\"><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><name><surname>Bonatto</surname><given-names>C</given-names></name><name><surname>Bica</surname><given-names>E</given-names></name></person-group><source>MNRAS</source><year>2009</year><volume>397</volume><fpage>1915</fpage><pub-id assigning-authority=\"NASA Astrophysics Data System\" pub-id-type=\"other\">2009MNRAS.397.1915B</pub-id><pub-id pub-id-type=\"doi\">10.1111/j.1365-2966.2009.14877.x</pub-id></mixed-citation></ref>",
+    "<ref id=\"CR14\"><mixed-citation publication-type=\"other\">Boss L. J. 1908, AJ, 26, 31</mixed-citation></ref>",
+    "<ref id=\"CR15\"><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><name><surname>Bovy</surname><given-names>J</given-names></name></person-group><source>The Astrophysical Journal</source><year>2015</year><volume>216</volume><fpage>29</fpage><pub-id pub-id-type=\"doi\">10.1088/0067-0049/216/2/29</pub-id></mixed-citation></ref>",
+    "<ref id=\"CR16\"><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><name><surname>Bressan</surname><given-names>A</given-names></name><name><surname>Marigo</surname><given-names>P</given-names></name><name><surname>Girardi</surname><given-names>L</given-names></name><etal/></person-group><source>MNRAS</source><year>2012</year><volume>427</volume><fpage>127</fpage><pub-id assigning-authority=\"NASA Astrophysics Data System\" pub-id-type=\"other\">2012MNRAS.427..127B</pub-id><pub-id pub-id-type=\"doi\">10.1111/j.1365-2966.2012.21948.x</pub-id></mixed-citation></ref>",
+    "<ref id=\"CR17\"><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><name><surname>Bukowiecki</surname><given-names>\u0141</given-names></name><name><surname>Maciejewski</surname><given-names>G</given-names></name><name><surname>Konorski</surname><given-names>P</given-names></name><name><surname>Strobel</surname><given-names>A</given-names></name></person-group><source>Acta Astronomica</source><year>2011</year><volume>61</volume><fpage>231</fpage><pub-id assigning-authority=\"NASA Astrophysics Data System\" pub-id-type=\"other\">2011AcA....61..231B</pub-id></mixed-citation></ref>",
+    "<ref id=\"CR18\"><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><name><surname>Cantat-Gaudin</surname><given-names>T</given-names></name><name><surname>Jordi</surname><given-names>C</given-names></name><name><surname>Vallenari</surname><given-names>A</given-names></name><etal/></person-group><source>Astronomy and Astrophysics</source><year>2018</year><volume>618</volume><fpage>A93</fpage><pub-id pub-id-type=\"doi\">10.1051/0004-6361/201833476</pub-id></mixed-citation></ref>",
+    "<ref id=\"CR19\"><mixed-citation publication-type=\"other\">Casagrande L., VandenBerg D. A. 2018, MNRAS, 479, L102</mixed-citation></ref>",
+    "<ref id=\"CR20\"><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><name><surname>Chupina</surname><given-names>NV</given-names></name><name><surname>Reva</surname><given-names>VG</given-names></name><name><surname>Vereshchagin</surname><given-names>SV</given-names></name></person-group><source>A &amp;A</source><year>2001</year><volume>371</volume><fpage>115</fpage><pub-id assigning-authority=\"NASA Astrophysics Data System\" pub-id-type=\"other\">2001A&amp;A...371..115C</pub-id></mixed-citation></ref>",
+    "<ref id=\"CR21\"><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><name><surname>Chupina</surname><given-names>NV</given-names></name><name><surname>Reva</surname><given-names>VG</given-names></name><name><surname>Vereshchagin</surname><given-names>SV</given-names></name></person-group><source>A &amp;A</source><year>2006</year><volume>451</volume><fpage>909</fpage><pub-id assigning-authority=\"NASA Astrophysics Data System\" pub-id-type=\"other\">2006A&amp;A...451..909C</pub-id></mixed-citation></ref>",
+    "<ref id=\"CR22\"><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><name><surname>De Silva</surname><given-names>GM</given-names></name><name><surname>Freeman</surname><given-names>KC</given-names></name><name><surname>Bland-Hawthorn</surname><given-names>J</given-names></name><etal/></person-group><source>MNRAS</source><year>2015</year><volume>449</volume><fpage>2604</fpage><pub-id assigning-authority=\"NASA Astrophysics Data System\" pub-id-type=\"other\">2015MNRAS.449.2604D</pub-id><pub-id pub-id-type=\"doi\">10.1093/mnras/stv327</pub-id></mixed-citation></ref>",
+    "<ref id=\"CR23\"><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><name><surname>de Wit</surname><given-names>WJ</given-names></name><name><surname>Testi</surname><given-names>L</given-names></name><name><surname>Palla</surname><given-names>F</given-names></name><name><surname>Zinnecker</surname><given-names>H</given-names></name></person-group><source>A &amp;A</source><year>2005</year><volume>437</volume><fpage>247</fpage><pub-id assigning-authority=\"NASA Astrophysics Data System\" pub-id-type=\"other\">2005A&amp;A...437..247D</pub-id></mixed-citation></ref>",
+    "<ref id=\"CR24\"><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><name><surname>Dib</surname><given-names>S</given-names></name><name><surname>Basu</surname><given-names>S</given-names></name></person-group><source>A &amp;A</source><year>2018</year><volume>614</volume><fpage>A43</fpage></mixed-citation></ref>",
+    "<ref id=\"CR25\"><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><name><surname>Durgapal</surname><given-names>AK</given-names></name><name><surname>Pandey</surname><given-names>AK</given-names></name></person-group><source>A &amp;A</source><year>2001</year><volume>375</volume><fpage>840</fpage><pub-id assigning-authority=\"NASA Astrophysics Data System\" pub-id-type=\"other\">2001A&amp;A...375..840D</pub-id></mixed-citation></ref>",
+    "<ref id=\"CR26\"><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><name><surname>Dursun</surname><given-names>DC</given-names></name><name><surname>Tasdemir</surname><given-names>S</given-names></name><name><surname>Koc</surname><given-names>S</given-names></name><name><surname>Iyer</surname><given-names>S</given-names></name></person-group><source>Physics and Astronomy Reports</source><year>2024</year><volume>2</volume><fpage>1</fpage></mixed-citation></ref>",
+    "<ref id=\"CR27\"><mixed-citation publication-type=\"other\">Eggen O. J. 1984, AJ, 89, 1350</mixed-citation></ref>",
+    "<ref id=\"CR28\"><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><name><surname>Elsanhoury</surname><given-names>WH</given-names></name><name><surname>Amin</surname><given-names>MY</given-names></name><name><surname>Haroon</surname><given-names>AA</given-names></name><name><surname>Awad</surname><given-names>Z</given-names></name></person-group><source>Journal of Astrophysics and Astronomy</source><year>2022</year><volume>43</volume><fpage>26</fpage><pub-id assigning-authority=\"NASA Astrophysics Data System\" pub-id-type=\"other\">2022JApA...43...26E</pub-id><pub-id pub-id-type=\"doi\">10.1007/s12036-022-09810-1</pub-id></mixed-citation></ref>",
+    "<ref id=\"CR29\"><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><name><surname>Elsanhoury</surname><given-names>WH</given-names></name><name><surname>Postnikova</surname><given-names>ES</given-names></name><name><surname>Chupina</surname><given-names>NV</given-names></name><etal/></person-group><source>Ap &amp;SS</source><year>2018</year><volume>363</volume><fpage>58</fpage><pub-id assigning-authority=\"NASA Astrophysics Data System\" pub-id-type=\"other\">2018Ap&amp;SS.363...58E</pub-id></mixed-citation></ref>",
+    "<ref id=\"CR30\"><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><name><surname>Evans</surname><given-names>DW</given-names></name><name><surname>Riello</surname><given-names>M</given-names></name><name><surname>De Angeli</surname><given-names>F</given-names></name><etal/></person-group><source>A &amp;A</source><year>2018</year><volume>616</volume><fpage>A4</fpage></mixed-citation></ref>",
+    "<ref id=\"CR31\"><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><name><surname>Fich</surname><given-names>M</given-names></name><name><surname>Tremaine</surname><given-names>S</given-names></name></person-group><source>Annu. Rev. A &amp;A</source><year>1991</year><volume>29</volume><fpage>409</fpage><pub-id assigning-authority=\"NASA Astrophysics Data System\" pub-id-type=\"other\">1991ARA&amp;A..29..409F</pub-id><pub-id pub-id-type=\"doi\">10.1146/annurev.aa.29.090191.002205</pub-id></mixed-citation></ref>",
+    "<ref id=\"CR32\"><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><name><surname>Friel</surname><given-names>ED</given-names></name><name><surname>Janes</surname><given-names>KA</given-names></name></person-group><source>A &amp;A</source><year>1993</year><volume>267</volume><fpage>75</fpage><pub-id assigning-authority=\"NASA Astrophysics Data System\" pub-id-type=\"other\">1993A&amp;A...267...75F</pub-id></mixed-citation></ref>",
+    "<ref id=\"CR33\"><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><name><surname>Fukushige</surname><given-names>T</given-names></name><name><surname>Heggie</surname><given-names>DC</given-names></name></person-group><source>MNRAS</source><year>2000</year><volume>318</volume><fpage>753</fpage><pub-id assigning-authority=\"NASA Astrophysics Data System\" pub-id-type=\"other\">2000MNRAS.318..753F</pub-id><pub-id pub-id-type=\"doi\">10.1046/j.1365-8711.2000.03811.x</pub-id></mixed-citation></ref>",
+    "<ref id=\"CR34\"><mixed-citation publication-type=\"other\">Gaia Collaboration, Brown A. G. A., Vallenari A. <italic>et al.</italic> 2021, A &amp;A, 649, A1</mixed-citation></ref>",
+    "<ref id=\"CR35\"><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><name><surname>Galli</surname><given-names>PAB</given-names></name><name><surname>Teixeira</surname><given-names>R</given-names></name><name><surname>Ducourant</surname><given-names>C</given-names></name><name><surname>Bertout</surname><given-names>C</given-names></name><name><surname>Benevides-Soares</surname><given-names>P</given-names></name></person-group><source>A &amp;A</source><year>2012</year><volume>538</volume><fpage>A23</fpage></mixed-citation></ref>",
+    "<ref id=\"CR36\"><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><name><surname>Gilmore</surname><given-names>G</given-names></name><name><surname>Randich</surname><given-names>S</given-names></name><name><surname>Asplund</surname><given-names>M</given-names></name><etal/></person-group><source>The Messenger</source><year>2012</year><volume>147</volume><fpage>25</fpage><pub-id assigning-authority=\"NASA Astrophysics Data System\" pub-id-type=\"other\">2012Msngr.147...25G</pub-id></mixed-citation></ref>",
+    "<ref id=\"CR37\"><mixed-citation publication-type=\"other\">Gunn J. E., Griffin R. F., Griffin R. E. M., Zimmerman B. A. 1988, AJ, 96, 198</mixed-citation></ref>",
+    "<ref id=\"CR38\"><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><name><surname>He</surname><given-names>Z</given-names></name><name><surname>Wang</surname><given-names>K</given-names></name><name><surname>Luo</surname><given-names>Y</given-names></name><etal/></person-group><source>ApJS</source><year>2022</year><volume>262</volume><fpage>7</fpage><pub-id assigning-authority=\"NASA Astrophysics Data System\" pub-id-type=\"other\">2022ApJS..262....7H</pub-id><pub-id pub-id-type=\"doi\">10.3847/1538-4365/ac7c17</pub-id></mixed-citation></ref>",
+    "<ref id=\"CR39\"><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><name><surname>He</surname><given-names>Z</given-names></name><name><surname>Li</surname><given-names>C</given-names></name><name><surname>Zhong</surname><given-names>J</given-names></name><etal/></person-group><source>ApJS</source><year>2022</year><volume>260</volume><fpage>8</fpage><pub-id assigning-authority=\"NASA Astrophysics Data System\" pub-id-type=\"other\">2022ApJS..260....8H</pub-id><pub-id pub-id-type=\"doi\">10.3847/1538-4365/ac5cbb</pub-id></mixed-citation></ref>",
+    "<ref id=\"CR40\"><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><name><surname>He</surname><given-names>Z-H</given-names></name><name><surname>Xu</surname><given-names>Y</given-names></name><name><surname>Hao</surname><given-names>C-J</given-names></name><name><surname>Wu</surname><given-names>Z-Y</given-names></name><name><surname>Li</surname><given-names>J-J</given-names></name></person-group><source>Research in Astronomy and Astrophysics</source><year>2021</year><volume>21</volume><fpage>093</fpage><pub-id assigning-authority=\"NASA Astrophysics Data System\" pub-id-type=\"other\">2021RAA....21...93H</pub-id><pub-id pub-id-type=\"doi\">10.1088/1674-4527/21/4/93</pub-id></mixed-citation></ref>",
+    "<ref id=\"CR41\"><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><name><surname>Hunt</surname><given-names>EL</given-names></name><name><surname>Reffert</surname><given-names>S</given-names></name></person-group><source>A &amp;A</source><year>2024</year><volume>686</volume><fpage>A42</fpage></mixed-citation></ref>",
+    "<ref id=\"CR42\"><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><name><surname>Inagaki</surname><given-names>S</given-names></name><name><surname>Saslaw</surname><given-names>WC</given-names></name></person-group><source>ApJ</source><year>1985</year><volume>292</volume><fpage>339</fpage><pub-id assigning-authority=\"NASA Astrophysics Data System\" pub-id-type=\"other\">1985ApJ...292..339I</pub-id><pub-id pub-id-type=\"doi\">10.1086/163164</pub-id></mixed-citation></ref>",
+    "<ref id=\"CR43\"><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><name><surname>Javakhishvili</surname><given-names>G</given-names></name><name><surname>Kukhianidze</surname><given-names>V</given-names></name><name><surname>Todua</surname><given-names>M</given-names></name><name><surname>Inasaridze</surname><given-names>R</given-names></name></person-group><source>A &amp;A</source><year>2006</year><volume>447</volume><fpage>915</fpage><pub-id assigning-authority=\"NASA Astrophysics Data System\" pub-id-type=\"other\">2006A&amp;A...447..915J</pub-id></mixed-citation></ref>",
+    "<ref id=\"CR44\"><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><name><surname>Joshi</surname><given-names>YC</given-names></name><name><surname>Maurya</surname><given-names>J</given-names></name><name><surname>John</surname><given-names>AA</given-names></name><etal/></person-group><source>MNRAS</source><year>2020</year><volume>492</volume><fpage>3602</fpage><pub-id assigning-authority=\"NASA Astrophysics Data System\" pub-id-type=\"other\">2020MNRAS.492.3602J</pub-id><pub-id pub-id-type=\"doi\">10.1093/mnras/staa029</pub-id></mixed-citation></ref>",
+    "<ref id=\"CR45\"><mixed-citation publication-type=\"other\">Juri\u0107 M., Ivezi\u0107 \u017d, Brooks A. <italic>et al</italic>. 2008, AJ, 673, 864</mixed-citation></ref>",
+    "<ref id=\"CR46\"><mixed-citation publication-type=\"other\">King I. 1962, AJ, 67, 471</mixed-citation></ref>",
+    "<ref id=\"CR47\"><mixed-citation publication-type=\"other\">King I. R. 1966, AJ, 71, 64</mixed-citation></ref>",
+    "<ref id=\"CR48\"><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><name><surname>Krone-Martins</surname><given-names>A</given-names></name><name><surname>Moitinho</surname><given-names>A</given-names></name></person-group><source>A &amp;A</source><year>2014</year><volume>561</volume><fpage>A57</fpage></mixed-citation></ref>",
+    "<ref id=\"CR49\"><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><name><surname>K\u00fcpper</surname><given-names>AHW</given-names></name><name><surname>MacLeod</surname><given-names>A</given-names></name><name><surname>Heggie</surname><given-names>DC</given-names></name></person-group><source>MNRAS</source><year>2008</year><volume>387</volume><fpage>1248</fpage><pub-id assigning-authority=\"NASA Astrophysics Data System\" pub-id-type=\"other\">2008MNRAS.387.1248K</pub-id><pub-id pub-id-type=\"doi\">10.1111/j.1365-2966.2008.13323.x</pub-id></mixed-citation></ref>",
+    "<ref id=\"CR50\"><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><name><surname>Lada</surname><given-names>CJ</given-names></name><name><surname>Lada</surname><given-names>EA</given-names></name></person-group><source>Annu. Rev. A &amp;A</source><year>2003</year><volume>41</volume><fpage>57</fpage><pub-id assigning-authority=\"NASA Astrophysics Data System\" pub-id-type=\"other\">2003ARA&amp;A..41...57L</pub-id><pub-id pub-id-type=\"doi\">10.1146/annurev.astro.41.011802.094844</pub-id></mixed-citation></ref>",
+    "<ref id=\"CR51\"><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><name><surname>Liu</surname><given-names>JC</given-names></name><name><surname>Zhu</surname><given-names>Z</given-names></name><name><surname>Hu</surname><given-names>B</given-names></name></person-group><source>A &amp;A</source><year>2011</year><volume>536</volume><fpage>A102</fpage></mixed-citation></ref>",
+    "<ref id=\"CR52\"><mixed-citation publication-type=\"other\">Maciejewski G., Niedzielski A. 2007, A &amp;A, 467, 1065</mixed-citation></ref>",
+    "<ref id=\"CR53\"><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><name><surname>Maia</surname><given-names>FFS</given-names></name><name><surname>Piatti</surname><given-names>AE</given-names></name><name><surname>Santos</surname><given-names>JFC</given-names></name></person-group><source>MNRAS</source><year>2014</year><volume>437</volume><fpage>2005</fpage><pub-id assigning-authority=\"NASA Astrophysics Data System\" pub-id-type=\"other\">2014MNRAS.437.2005M</pub-id><pub-id pub-id-type=\"doi\">10.1093/mnras/stt2039</pub-id></mixed-citation></ref>",
+    "<ref id=\"CR54\"><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><name><surname>McInnes</surname><given-names>L</given-names></name><name><surname>Healy</surname><given-names>J</given-names></name><name><surname>Astels</surname><given-names>S</given-names></name></person-group><source>The Journal of Open Source Software</source><year>2017</year><volume>2</volume><fpage>205</fpage><pub-id assigning-authority=\"NASA Astrophysics Data System\" pub-id-type=\"other\">2017JOSS....2..205M</pub-id><pub-id pub-id-type=\"doi\">10.21105/joss.00205</pub-id></mixed-citation></ref>",
+    "<ref id=\"CR55\"><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><name><surname>Perren</surname><given-names>GI</given-names></name><name><surname>Giorgi</surname><given-names>EE</given-names></name><name><surname>Moitinho</surname><given-names>A</given-names></name><etal/></person-group><source>A &amp;A</source><year>2020</year><volume>637</volume><fpage>A95</fpage></mixed-citation></ref>",
+    "<ref id=\"CR56\"><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><name><surname>Perren</surname><given-names>GI</given-names></name><name><surname>V\u00e1zquez</surname><given-names>RA</given-names></name><name><surname>Piatti</surname><given-names>AE</given-names></name></person-group><source>A &amp;A</source><year>2015</year><volume>576</volume><fpage>A6</fpage></mixed-citation></ref>",
+    "<ref id=\"CR57\"><mixed-citation publication-type=\"other\">Phelps R. L., Janes K. A. 1993, AJ, 106, 1870</mixed-citation></ref>",
+    "<ref id=\"CR58\"><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><name><surname>Piatti</surname><given-names>AE</given-names></name></person-group><source>Research Notes of the American Astronomical Society</source><year>2019</year><volume>3</volume><fpage>104</fpage><pub-id assigning-authority=\"NASA Astrophysics Data System\" pub-id-type=\"other\">2019RNAAS...3..104P</pub-id></mixed-citation></ref>",
+    "<ref id=\"CR59\"><mixed-citation publication-type=\"other\">Piatti A. E., Bica E., Santos J. F. C., J., Clari\u00e1 J. J. 2002, A &amp;A, 387, 108</mixed-citation></ref>",
+    "<ref id=\"CR60\"><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><name><surname>Piskunov</surname><given-names>AE</given-names></name><name><surname>Belikov</surname><given-names>AN</given-names></name><name><surname>Kharchenko</surname><given-names>NV</given-names></name><name><surname>Sagar</surname><given-names>R</given-names></name><name><surname>Subramaniam</surname><given-names>A</given-names></name></person-group><source>MNRAS</source><year>2004</year><volume>349</volume><fpage>1449</fpage><pub-id assigning-authority=\"NASA Astrophysics Data System\" pub-id-type=\"other\">2004MNRAS.349.1449P</pub-id><pub-id pub-id-type=\"doi\">10.1111/j.1365-2966.2004.07620.x</pub-id></mixed-citation></ref>",
+    "<ref id=\"CR61\"><mixed-citation publication-type=\"other\">Portegies Zwart S., F., McMillan S. L. W., Gieles M. 2010, Annu. Rev. A &amp;A, 48, 431</mixed-citation></ref>",
+    "<ref id=\"CR62\"><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><name><surname>Postnikova</surname><given-names>ES</given-names></name><name><surname>Elsanhoury</surname><given-names>WH</given-names></name><name><surname>Sariya</surname><given-names>DP</given-names></name><etal/></person-group><source>Research in Astronomy and Astrophysics</source><year>2020</year><volume>20</volume><fpage>016</fpage><pub-id assigning-authority=\"NASA Astrophysics Data System\" pub-id-type=\"other\">2020RAA....20...16P</pub-id><pub-id pub-id-type=\"doi\">10.1088/1674-4527/20/2/16</pub-id></mixed-citation></ref>",
+    "<ref id=\"CR63\"><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><name><surname>Qin</surname><given-names>S</given-names></name><name><surname>Zhong</surname><given-names>J</given-names></name><name><surname>Tang</surname><given-names>T</given-names></name><name><surname>Chen</surname><given-names>L</given-names></name></person-group><source>ApJS</source><year>2023</year><volume>265</volume><fpage>12</fpage><pub-id assigning-authority=\"NASA Astrophysics Data System\" pub-id-type=\"other\">2023ApJS..265...12Q</pub-id><pub-id pub-id-type=\"doi\">10.3847/1538-4365/acadd6</pub-id></mixed-citation></ref>",
+    "<ref id=\"CR64\"><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><name><surname>Qin</surname><given-names>S-M</given-names></name><name><surname>Li</surname><given-names>J</given-names></name><name><surname>Chen</surname><given-names>L</given-names></name><name><surname>Zhong</surname><given-names>J</given-names></name></person-group><source>Research in Astronomy and Astrophysics</source><year>2021</year><volume>21</volume><fpage>045</fpage><pub-id assigning-authority=\"NASA Astrophysics Data System\" pub-id-type=\"other\">2021RAA....21...45Q</pub-id><pub-id pub-id-type=\"doi\">10.1088/1674-4527/21/2/45</pub-id></mixed-citation></ref>",
+    "<ref id=\"CR65\"><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><name><surname>Rangwal</surname><given-names>G</given-names></name><name><surname>Yadav</surname><given-names>RKS</given-names></name><name><surname>Durgapal</surname><given-names>A</given-names></name><name><surname>Bisht</surname><given-names>D</given-names></name><name><surname>Nardiello</surname><given-names>D</given-names></name></person-group><source>MNRAS</source><year>2019</year><volume>490</volume><fpage>1383</fpage><pub-id assigning-authority=\"NASA Astrophysics Data System\" pub-id-type=\"other\">2019MNRAS.490.1383R</pub-id><pub-id pub-id-type=\"doi\">10.1093/mnras/stz2642</pub-id></mixed-citation></ref>",
+    "<ref id=\"CR66\"><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><name><surname>R\u00f6ser</surname><given-names>S</given-names></name><name><surname>Schilbach</surname><given-names>E</given-names></name></person-group><source>A &amp;A</source><year>2019</year><volume>627</volume><fpage>A4</fpage></mixed-citation></ref>",
+    "<ref id=\"CR67\"><mixed-citation publication-type=\"other\">\u0160ablevi\u010di\u016bt\u0117 I., Vansevi\u010dius V., Kodaira K. <italic>et al</italic>. 2006, Baltic Astronomy, 15, 547</mixed-citation></ref>",
+    "<ref id=\"CR68\"><mixed-citation publication-type=\"other\">Salpeter E. E. 1955, ApJ, 121, 161</mixed-citation></ref>",
+    "<ref id=\"CR69\"><mixed-citation publication-type=\"other\">Santos-Silva T., Gregorio-Hetem J. 2012, A &amp;A, 547, A107</mixed-citation></ref>",
+    "<ref id=\"CR70\"><mixed-citation publication-type=\"other\">Scalo J. 1998, in Astronomical Society of the Pacific Conference Series, Vol. 142, The Stellar Initial Mass Function (38th Herstmonceux Conference) (eds) Gilmore G., Howell D., 201</mixed-citation></ref>",
+    "<ref id=\"CR71\"><mixed-citation publication-type=\"other\">Scott D. W. 1992, Multivariate Density Estimation (New York)</mixed-citation></ref>",
+    "<ref id=\"CR72\"><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><name><surname>Soubiran</surname><given-names>C</given-names></name><name><surname>Cantat-Gaudin</surname><given-names>T</given-names></name><name><surname>Romero-G\u00f3mez</surname><given-names>M</given-names></name><etal/></person-group><source>A &amp;A</source><year>2018</year><volume>619</volume><fpage>A155</fpage></mixed-citation></ref>",
+    "<ref id=\"CR73\"><mixed-citation publication-type=\"other\">Spitzer L. J., Hart M. H. 1971, ApJ, 164, 399</mixed-citation></ref>",
+    "<ref id=\"CR74\"><mixed-citation publication-type=\"other\">Sung H., Bessell M. S. 2004, AJ, 127, 1014</mixed-citation></ref>",
+    "<ref id=\"CR75\"><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><name><surname>Ta\u015fdemir</surname><given-names>S</given-names></name><name><surname>Yontan</surname><given-names>T</given-names></name></person-group><source>Physics and Astronomy Reports</source><year>2023</year><volume>1</volume><fpage>1</fpage><pub-id pub-id-type=\"doi\">10.26650/PAR.2023.00001</pub-id></mixed-citation></ref>",
+    "<ref id=\"CR76\"><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><name><surname>Vereshchagin</surname><given-names>SV</given-names></name><name><surname>Chupina</surname><given-names>NV</given-names></name><name><surname>Sariya</surname><given-names>DP</given-names></name><name><surname>Yadav</surname><given-names>RKS</given-names></name><name><surname>Kumar</surname><given-names>B</given-names></name></person-group><source>New Astronomy</source><year>2014</year><volume>31</volume><fpage>43</fpage><pub-id assigning-authority=\"NASA Astrophysics Data System\" pub-id-type=\"other\">2014NewA...31...43V</pub-id><pub-id pub-id-type=\"doi\">10.1016/j.newast.2014.02.008</pub-id></mixed-citation></ref>",
+    "<ref id=\"CR77\"><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><name><surname>von Hoerner</surname><given-names>S</given-names></name></person-group><source>ApJ</source><year>1957</year><volume>125</volume><fpage>451</fpage><pub-id assigning-authority=\"NASA Astrophysics Data System\" pub-id-type=\"other\">1957ApJ...125..451V</pub-id><pub-id pub-id-type=\"doi\">10.1086/146321</pub-id></mixed-citation></ref>",
+    "<ref id=\"CR78\"><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><name><surname>Wayman</surname><given-names>PA</given-names></name><name><surname>Symms</surname><given-names>LST</given-names></name><name><surname>Blackwell</surname><given-names>KC</given-names></name></person-group><source>Royal Greenwich Observatory Bulletins</source><year>1965</year><volume>98</volume><fpage>33</fpage><pub-id assigning-authority=\"NASA Astrophysics Data System\" pub-id-type=\"other\">1965RGOB...98...33W</pub-id></mixed-citation></ref>",
+    "<ref id=\"CR79\"><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><name><surname>Weiler</surname><given-names>M</given-names></name></person-group><source>A &amp;A</source><year>2018</year><volume>617</volume><fpage>A138</fpage></mixed-citation></ref>",
+    "<ref id=\"CR80\"><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><name><surname>Yadav</surname><given-names>RKS</given-names></name><name><surname>Glushkhova</surname><given-names>EV</given-names></name><name><surname>Sariya</surname><given-names>DP</given-names></name><etal/></person-group><source>MNRAS</source><year>2011</year><volume>414</volume><fpage>652</fpage><pub-id assigning-authority=\"NASA Astrophysics Data System\" pub-id-type=\"other\">2011MNRAS.414..652Y</pub-id><pub-id pub-id-type=\"doi\">10.1111/j.1365-2966.2011.18430.x</pub-id></mixed-citation></ref>",
+    "<ref id=\"CR81\"><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><name><surname>Yadav</surname><given-names>RKS</given-names></name><name><surname>Sagar</surname><given-names>R</given-names></name></person-group><source>MNRAS</source><year>2002</year><volume>337</volume><fpage>133</fpage><pub-id assigning-authority=\"NASA Astrophysics Data System\" pub-id-type=\"other\">2002MNRAS.337..133Y</pub-id><pub-id pub-id-type=\"doi\">10.1046/j.1365-8711.2002.05888.x</pub-id></mixed-citation></ref>",
+    "<ref id=\"CR82\"><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><name><surname>Yadav</surname><given-names>RKS</given-names></name><name><surname>Sagar</surname><given-names>R</given-names></name></person-group><source>MNRAS</source><year>2004</year><volume>349</volume><fpage>1481</fpage><pub-id assigning-authority=\"NASA Astrophysics Data System\" pub-id-type=\"other\">2004MNRAS.349.1481Y</pub-id><pub-id pub-id-type=\"doi\">10.1111/j.1365-2966.2004.07623.x</pub-id></mixed-citation></ref>",
+    "<ref id=\"CR83\"><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><name><surname>Yadav</surname><given-names>RKS</given-names></name><name><surname>Sariya</surname><given-names>DP</given-names></name><name><surname>Sagar</surname><given-names>R</given-names></name></person-group><source>MNRAS</source><year>2013</year><volume>430</volume><fpage>3350</fpage><pub-id assigning-authority=\"NASA Astrophysics Data System\" pub-id-type=\"other\">2013MNRAS.430.3350Y</pub-id><pub-id pub-id-type=\"doi\">10.1093/mnras/stt136</pub-id></mixed-citation></ref>",
+    "<ref id=\"CR84\"><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><name><surname>Yontan</surname><given-names>T</given-names></name><name><surname>Canbay</surname><given-names>R</given-names></name></person-group><source>Physics and Astronomy Reports</source><year>2023</year><volume>1</volume><fpage>65</fpage><pub-id pub-id-type=\"doi\">10.26650/PAR.2023.00008</pub-id></mixed-citation></ref>",
+    "<ref id=\"CR85\"><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><name><surname>Yucel</surname><given-names>G</given-names></name><name><surname>Canbay</surname><given-names>R</given-names></name><name><surname>Bakis</surname><given-names>V</given-names></name></person-group><source>Physics and Astronomy Reports</source><year>2024</year><volume>2</volume><fpage>18</fpage></mixed-citation></ref>",
+    "<ref id=\"CR86\"><mixed-citation publication-type=\"other\">Zeidler P., Nota A., Grebel E. K. <italic>et al.</italic> 2017, AJ, 153, 122</mixed-citation></ref>",
+    "<ref id=\"CR87\"><mixed-citation publication-type=\"other\">Zhong J., Chen L., Kouwenhoven M. B. N. <italic>et al</italic>. 2019, A &amp;A, 624, A34</mixed-citation></ref>"
+  ],
+  "title": {
+    "textEnglish": "Deeply comprehensive astrometric, photometric, and kinematic studies of the three OCSN open clusters with Gaia DR3"
+  }
+}

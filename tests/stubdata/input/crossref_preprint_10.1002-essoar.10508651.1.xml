@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doi_records>
+  <doi_record owner="10.1002" timestamp="2022-12-05 16:22:55">
+    <crossref>
+      <posted_content language="en" type="preprint">
+        <group_title>Solar System Physics</group_title>
+        <contributors>
+          <person_name contributor_role="author" sequence="first">
+            <given_name>Roberto</given_name>
+            <surname>Livi</surname>
+            <affiliation>University of California</affiliation>
+            <ORCID authenticated="false">https://orcid.org/0000-0002-0396-0547</ORCID>
+          </person_name>
+          <person_name contributor_role="author" sequence="additional">
+            <given_name>Davin E</given_name>
+            <surname>Larson</surname>
+            <affiliation>University of California</affiliation>
+          </person_name>
+          <person_name contributor_role="author" sequence="additional">
+            <given_name>Justin C</given_name>
+            <surname>Kasper</surname>
+            <affiliation>University of Michigan</affiliation>
+            <affiliation>Smithsonian Astrophysical Observatory</affiliation>
+          </person_name>
+          <person_name contributor_role="author" sequence="additional">
+            <given_name>Robert</given_name>
+            <surname>Abiad</surname>
+            <affiliation>University of California</affiliation>
+          </person_name>
+          <person_name contributor_role="author" sequence="additional">
+            <given_name>Anthony W</given_name>
+            <surname>Case</surname>
+            <affiliation>Smithsonian Astrophysical Observatory</affiliation>
+          </person_name>
+          <person_name contributor_role="author" sequence="additional">
+            <given_name>Kristopher G</given_name>
+            <surname>Klein</surname>
+            <affiliation>University of Michigan</affiliation>
+            <affiliation>University of Arizona</affiliation>
+          </person_name>
+          <person_name contributor_role="author" sequence="additional">
+            <given_name>David W</given_name>
+            <surname>Curtis</surname>
+            <affiliation>University of California</affiliation>
+          </person_name>
+          <person_name contributor_role="author" sequence="additional">
+            <given_name>Gregory</given_name>
+            <surname>Dalton</surname>
+            <affiliation>University of California</affiliation>
+          </person_name>
+          <person_name contributor_role="author" sequence="additional">
+            <given_name>Michael</given_name>
+            <surname>Stevens</surname>
+            <affiliation>Smithsonian Astrophysical Observatory</affiliation>
+          </person_name>
+          <person_name contributor_role="author" sequence="additional">
+            <given_name>Kelly E</given_name>
+            <surname>Korreck</surname>
+            <affiliation>Smithsonian Astrophysical Observatory</affiliation>
+          </person_name>
+          <person_name contributor_role="author" sequence="additional">
+            <given_name>George</given_name>
+            <surname>Ho</surname>
+            <affiliation>Applied Physics Laboratory, Johns Hopkins University</affiliation>
+          </person_name>
+          <person_name contributor_role="author" sequence="additional">
+            <given_name>Miles</given_name>
+            <surname>Robinson</surname>
+            <affiliation>University of California</affiliation>
+          </person_name>
+          <person_name contributor_role="author" sequence="additional">
+            <given_name>Chris</given_name>
+            <surname>Tiu</surname>
+            <affiliation>NASA</affiliation>
+          </person_name>
+          <person_name contributor_role="author" sequence="additional">
+            <given_name>Phyllis L</given_name>
+            <surname>Whittlesey</surname>
+            <affiliation>University of California</affiliation>
+          </person_name>
+          <person_name contributor_role="author" sequence="additional">
+            <given_name>J L</given_name>
+            <surname>Verniero</surname>
+            <affiliation>University of California</affiliation>
+          </person_name>
+          <person_name contributor_role="author" sequence="additional">
+            <given_name>Jasper</given_name>
+            <surname>Halekas</surname>
+            <affiliation>University of Iowa</affiliation>
+          </person_name>
+          <person_name contributor_role="author" sequence="additional">
+            <given_name>James</given_name>
+            <surname>Mcfadden</surname>
+            <affiliation>University of California</affiliation>
+          </person_name>
+          <person_name contributor_role="author" sequence="additional">
+            <given_name>Mario</given_name>
+            <surname>Marckwordt</surname>
+            <affiliation>University of California</affiliation>
+          </person_name>
+          <person_name contributor_role="author" sequence="additional">
+            <given_name>Amanda</given_name>
+            <surname>Slagle</surname>
+            <affiliation>University of California</affiliation>
+          </person_name>
+          <person_name contributor_role="author" sequence="additional">
+            <given_name>Mamuda</given_name>
+            <surname>Abatcha</surname>
+            <affiliation>University of California</affiliation>
+          </person_name>
+          <person_name contributor_role="author" sequence="additional">
+            <given_name>Ali</given_name>
+            <surname>Rahmati</surname>
+            <affiliation>University of California</affiliation>
+          </person_name>
+        </contributors>
+        <titles>
+          <title>The Solar Probe ANalyzer -Ions on Parker Solar Probe</title>
+        </titles>
+        <posted_date media_type="online">
+          <month>11</month>
+          <day>08</day>
+          <year>2021</year>
+        </posted_date>
+        <institution>
+          <institution_name>Earth and Space Science Open Archive</institution_name>
+          <institution_acronym>ESSOAr</institution_acronym>
+        </institution>
+        <program name="fundref">
+          <assertion name="fundgroup">
+            <assertion name="funder_name">
+              National Aeronautics and Space Administration
+              <assertion name="funder_identifier">100000104</assertion>
+            </assertion>
+            <assertion name="award_number">NNN06AA01C</assertion>
+          </assertion>
+        </program>
+        <doi_data>
+          <doi>10.1002/essoar.10508651.1</doi>
+          <resource>https://essopenarchive.org/doi/full/10.1002/essoar.10508651.1</resource>
+        </doi_data>
+        <citation_list />
+      </posted_content>
+    </crossref>
+  </doi_record>
+</doi_records>

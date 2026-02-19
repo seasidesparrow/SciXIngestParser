@@ -1,0 +1,126 @@
+{
+  "abstract": {
+    "textEnglish": "In this letter, the estimation of passivity based on data is considered. We extend an existing estimation method that is based on iterative input&#x2013;output experiments and can determine the passivity of systems, but requires many experiments for each iteration. Therefore, we propose a method that reduces the number of experiments. Some of the measurements for the update of the input is omitted in the method, and as a result, the number of experiments is halved."
+  },
+  "authors": [
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Graduate School of Engineering, Nagoya University, Nagoya, Japan"
+        }
+      ],
+      "attrib": {
+        "email": "masaya.tanemura@mae.nagoya-u.ac.jp",
+        "orcid": "0000-0003-0912-212X"
+      },
+      "name": {
+        "given_name": "Masaya",
+        "surname": "Tanemura"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Graduate School of Engineering, Nagoya University, Nagoya, Japan"
+        }
+      ],
+      "attrib": {
+        "email": "shunichi.azuma@mae.nagoya-u.ac.jp",
+        "orcid": "0000-0002-7274-0708"
+      },
+      "name": {
+        "given_name": "Shun-ichi",
+        "surname": "Azuma"
+      }
+    }
+  ],
+  "copyright": {
+    "statement": "2018 IEEE. 2475-1456 \u00a9 2018 IEEE. Personal use is permitted, but republication/redistribution requires IEEE permission. See http://www.ieee.org/publications_standards/publications/rights/index.html for more information.",
+    "status": true
+  },
+  "funding": [
+    {
+      "agencyname": "Japan Science and Technology Agency",
+      "awardnumber": "JPMJCR15K1"
+    }
+  ],
+  "keywords": [
+    {
+      "keyString": "Estimation",
+      "keySystem": "IEEE"
+    },
+    {
+      "keyString": "Iterative methods",
+      "keySystem": "IEEE"
+    },
+    {
+      "keyString": "Indexes",
+      "keySystem": "IEEE"
+    },
+    {
+      "keyString": "Eigenvalues and eigenfunctions",
+      "keySystem": "IEEE"
+    },
+    {
+      "keyString": "Mathematical model",
+      "keySystem": "IEEE"
+    },
+    {
+      "keyString": "Aerospace electronics",
+      "keySystem": "IEEE"
+    },
+    {
+      "keyString": "Linear systems",
+      "keySystem": "IEEE"
+    },
+    {
+      "keyString": "Data-driven estimation",
+      "keySystem": "IEEEFree"
+    },
+    {
+      "keyString": "passivity",
+      "keySystem": "IEEEFree"
+    },
+    {
+      "keyString": "gradient methods",
+      "keySystem": "IEEEFree"
+    }
+  ],
+  "pagination": {
+    "firstPage": "398",
+    "lastPage": "403"
+  },
+  "pubDate": {
+    "electrDate": "2019-1-4",
+    "printDate": "2019-04-00"
+  },
+  "publication": {
+    "ISSN": [
+      {
+        "issnString": "2475-1456",
+        "pubtype": "Electronic"
+      }
+    ],
+    "issueNum": "2",
+    "pubName": "IEEE Control Systems Letters",
+    "pubYear": "2019",
+    "volumeNum": "3"
+  },
+  "publisherIDs": [
+    {
+      "Identifier": "10.1109/LCSYS.7782633",
+      "attribute": "doi"
+    }
+  ],
+  "recordData": {
+    "createdTime": "",
+    "loadFormat": "IEEE",
+    "loadLocation": "",
+    "loadType": "fromFile",
+    "parsedTime": "",
+    "recordOrigin": ""
+  },
+  "title": {
+    "textEnglish": "Efficient Data-Driven Estimation of Passivity Properties"
+  }
+}

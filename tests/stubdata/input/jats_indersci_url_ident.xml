@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" article-type="research-article" xml:lang="en" dtd-version="1.0">
+<front>
+<journal-meta>
+<journal-id journal-id-type="publisher-id">ijogct</journal-id>
+<journal-title-group>
+<journal-title>International Journal of Oil, Gas and Coal Technology</journal-title>
+</journal-title-group>
+<issn pub-type="ppub">1753-3309</issn>
+<issn pub-type="epub">1753-3317</issn>
+<publisher>
+<publisher-name>Inderscience Publishers (IEL)</publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="url">https://www.inderscienceonline.com/doi/10.1504/IJOGCT.2024.139531</article-id>
+<title-group>
+<article-title>Simulation study on frictional resistance and influencing factors of flexible screen pipe tripping into horizontal wellbore</article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author"><string-name name-style="western"><given-names>Zhongzhi</given-names> <surname>Hu</surname></string-name><xref ref-type="aff" rid="A1"><sup>1</sup></xref><x xml:space="preserve">, </x></contrib>
+<contrib contrib-type="author"><string-name name-style="western"><given-names>Junliang</given-names> <surname>Li</surname></string-name><xref ref-type="aff" rid="A2"><sup>2</sup></xref><x xml:space="preserve">, </x></contrib>
+<contrib contrib-type="author"><string-name name-style="western"><given-names>Li</given-names> <surname>Wang</surname></string-name><xref ref-type="aff" rid="A3"><sup>3</sup></xref><x xml:space="preserve">, </x></contrib>
+<contrib contrib-type="author"><string-name name-style="western"><given-names>Jinbo</given-names> <surname>Wang</surname></string-name><xref ref-type="aff" rid="A4"><sup>4</sup></xref><x xml:space="preserve">, </x></contrib>
+<contrib contrib-type="author"><string-name name-style="western"><given-names>Xinyang</given-names> <surname>Liu</surname></string-name><xref ref-type="aff" rid="A5"><sup>5</sup></xref><x xml:space="preserve">, </x></contrib>
+<contrib contrib-type="author"><string-name name-style="western"><given-names>Yang</given-names> <surname>Kong</surname></string-name><xref ref-type="aff" rid="A6"><sup>6</sup></xref></contrib>
+<aff id="A1"><label><sup>1</sup></label>School of Mechanical Engineering, Sichuan University of Science &amp; Engineering, No.1 Baita Road, Yibin, Sichuan, 644002, China</aff>
+<aff id="A2"><label><sup>2</sup></label>Production Engineering Research Institute, Daqing Oilfield, CNPC, No. 9 Xibin Road, Daqing, Heilongjiang, 163712, China</aff>
+<aff id="A3"><label><sup>3</sup></label>Production Engineering Research Institute, Daqing Oilfield, CNPC, No. 9 Xibin Road, Daqing, Heilongjiang, 163712, China</aff>
+<aff id="A4"><label><sup>4</sup></label>Dongying Ruifeng Petroleum Technical Development Co., Ltd., No. 5 Juzhou Road, Dongying, Shandong, 257299, China</aff>
+<aff id="A5"><label><sup>5</sup></label>Bulk Material Transportation Equipment Business Unit, Chengdu Gongbei Intelligent Technology Co., Ltd., No. 7 Guanghua Street, Chengdu, Sichuan, 610011, China</aff>
+<aff id="A6"><label><sup>6</sup></label>Dongying Ruifeng Petroleum Technical Development Co., Ltd., No. 5 Juzhou Road, Dongying, Shandong, 257299, China</aff>
+</contrib-group>
+<pub-date pub-type="ppub">
+<year>2024</year>
+</pub-date>
+<pub-date pub-type="epub">
+<day>03</day>
+<month>7</month>
+<year>2024</year>
+</pub-date>
+<volume>36</volume>
+<issue>1</issue>
+<fpage>55</fpage>
+<lpage>76</lpage>
+<permissions>
+<copyright-statement>Copyright © 2024 Inderscience Enterprises Ltd.</copyright-statement>
+<copyright-year>2024</copyright-year>
+<license><license-p></license-p></license>
+</permissions>
+<self-uri content-type="pdf" xlink:href="ijogct.2024.139531.pdf"></self-uri>
+<abstract xml:lang="en">
+<p>Flexible sand control screens play a crucial role in the operation and economic benefits of ultra-short radius wells. We established a calculation model for the motion friction resistance of flexible screens and a criterion for contact between screen units and wellbore walls. Case analysis clarified the correlation between several key factors (e.g., maximum allowed swing angle, friction coefficient, insertion speed, and total length of screen units) and the frictional resistance of flexible screens. We utilised the overall distribution of contact point positions and the compressed distance between adjacent screen unit centroids to analyse the conversion mechanism of screen friction resistance from linear to nonlinear rapid accumulation. We also explored measures to improve the extension capacity of flexible screens. Our findings provide a basis for the optimisation design of flexible screen structures and the assessment of their maximum extension capacity. [Received: June 2, 2023; Accepted: February 13, 2024]</p>
+</abstract>
+<kwd-group xml:lang="en">
+<kwd>flexible screen</kwd><x xml:space="preserve">, </x>
+<kwd>sand control</kwd><x xml:space="preserve">, </x>
+<kwd>multi-body dynamics simulation</kwd><x xml:space="preserve">, </x>
+<kwd>frictional resistance</kwd>
+</kwd-group>
+<counts>
+<page-count count="21"></page-count>
+</counts>
+</article-meta>
+</front>
+</article>

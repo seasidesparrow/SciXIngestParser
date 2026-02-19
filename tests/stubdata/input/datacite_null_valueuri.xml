@@ -1,0 +1,58 @@
+<record>
+<header>
+<identifier>doi:10.26033/cmyd-ab77</identifier>
+<datestamp>2022-02-10T18:14:49Z</datestamp>
+<setSpec>SBN</setSpec>
+<setSpec>SBN.ARCHIVE</setSpec>
+</header>
+<metadata>
+<oai_datacite xmlns="http://schema.datacite.org/oai/oai-1.1/" xsi:schemaLocation="http://schema.datacite.org/oai/oai-1.1/ http://schema.datacite.org/oai/oai-1.1/oai.xsd">
+<schemaVersion>9</schemaVersion>
+<datacentreSymbol>SBN.ARCHIVE</datacentreSymbol>
+<payload>
+<resource xmlns="http://datacite.org/schema/kernel-4" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
+<identifier identifierType="DOI">10.26033/CMYD-AB77</identifier>
+<creators>
+<creator>
+<creatorName nameType="Personal">Fieber-Beyer, Sherry</creatorName>
+<givenName>Sherry</givenName>
+<familyName>Fieber-Beyer</familyName>
+<nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org">https://orcid.org/0000-0003-1982-0474</nameIdentifier>
+</creator>
+</creators>
+<titles>
+<title>Fieber-Beyer IRTF Mainbelt Asteroid Spectra Bundle V1.0</title>
+</titles>
+<publisher>NASA Planetary Data System </publisher>
+<publicationYear>2020</publicationYear>
+<resourceType resourceTypeGeneral="Dataset">PDS4 Refereed Data Bundle </resourceType>
+<subjects>
+<subject subjectScheme="Unified Astronomy Thesaurus">Main belt asteroids</subject>
+</subjects>
+<contributors>
+<contributor contributorType="DataCurator">
+<contributorName nameType="Organizational">PDS Small Bodies Node</contributorName>
+<nameIdentifier nameIdentifierScheme="" schemeURI=""/>
+<affiliation/>
+</contributor>
+</contributors>
+<dates>
+<date dateType="Available">2020-03-19</date>
+</dates>
+<sizes/>
+<formats/>
+<version/>
+<relatedIdentifiers>
+<relatedIdentifier relatedIdentifierType="DOI" relationType="IsObsoletedBy" resourceTypeGeneral="Dataset">10.26033/zmce-bv77</relatedIdentifier>
+</relatedIdentifiers>
+<alternateIdentifiers>
+<alternateIdentifier alternateIdentifierType="PDS4 Bundle LIDVID">urn:nasa:pds:gbo.ast.fieber-beyer.spectra::1.0</alternateIdentifier>
+</alternateIdentifiers>
+<descriptions>
+<description descriptionType="Abstract">The data set contains observations obtained with the NASA IRTF SpeX instrument covering the 0.7 to 2.5 micron near-infrared portion of the spectrum. The data set archives reduced, calibrated spectra which were obtained and used in Sherry Fieber-Beyer's Ph.D. dissertation at the University of North Dakota and archives reduced, calibrated spectra subsequent 2010. The research focused on asteroids in a zone centered on the 3:1 resonance. These spectra were used to mineralogically characterize asteroids in this zone in an attempt to identify their meteorite analogs.</description>
+</descriptions>
+</resource>
+</payload>
+</oai_datacite>
+</metadata>
+</record>

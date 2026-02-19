@@ -1,0 +1,189 @@
+{
+  "abstract": {
+    "textEnglish": "Garlic and chitosan are well-known have an antimicrobial activity to terminate or inhibit the growth of bacteria. This study aims to synthesize, characterize chitosan-garlic film using FTIR, SEM, UV-VIS Spectrophotometry, and swelling analysis; and obtain antimicrobial activity during period time. The variation processes were a type of garlic extract, type of bacteria, and the concentration of garlic extract 1%, 2%, 3%, 10%, and 20%. Chitosan-garlic composite film as a product has an elastic and greasy texture. FTIR analysis shows that chitosan-garlic composite film has ionic interaction between chitosan and garlic extract. The water absorption ability of chitosan-garlic composite film cannot be well determined as not using a crosslinking agent that links garlic extract to composite film. SEM analysis shows the heterogeneous morphology surface of the chitosan-garlic film. Chitosan-garlic powder composite film at 20% concentration (b/v) tested against S. aureus has the highest antimicrobial activity with OD<sub>600</sub> 0,001342. Chitosan-garlic oil composite film at 20% concentration (v/v) tested against S. aureus has the highest antimicrobial activity with OD<sub>600</sub> 0,0013. Spectrophotometry UV-VIS method confirmed that the antimicrobial activity of chitosan-garlic composite film increased compared to the concentration of garlic extract and decreased compared to storage time. The elasticity of chitosan-garlic composite film decreased compared to the concentration of garlic extract."
+  },
+  "authors": [
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Chemical Engineering Department, University of Surabaya, Surabaya 60293, Indonesia"
+        }
+      ],
+      "attrib": {
+        "corresp": true,
+        "email": "savitri_ma@staff.ubaya.ac.id"
+      },
+      "name": {
+        "given_name": "Emma",
+        "surname": "Savitri"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Chemical Engineering Department, University of Surabaya, Surabaya 60293, Indonesia"
+        }
+      ],
+      "name": {
+        "given_name": "Maria Irine",
+        "surname": "Tjahayani"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Chemical Engineering Department, University of Surabaya, Surabaya 60293, Indonesia"
+        }
+      ],
+      "name": {
+        "given_name": "Anastasia Apriyani Ngene",
+        "surname": "Say"
+      }
+    }
+  ],
+  "copyright": {
+    "statement": "\u00a9 2022 Author(s)",
+    "status": true
+  },
+  "keywords": [
+    {
+      "keyString": "POWER SYSTEM AND SMART ENERGY MANAGEMENT",
+      "keySystem": "subject"
+    }
+  ],
+  "openAccess": {
+    "license": "Published by AIP Publishing."
+  },
+  "otherContributor": [
+    {
+      "contrib": {
+        "affiliation": [
+          {
+            "affPubRaw": "Universitas Surabaya, Surabaya, Indonesia"
+          }
+        ],
+        "name": {
+          "given_name": "Joniarto",
+          "surname": "Parung"
+        }
+      },
+      "role": "Conference Editor"
+    },
+    {
+      "contrib": {
+        "affiliation": [
+          {
+            "affPubRaw": "Universitas Surabaya, Surabaya, Indonesia"
+          }
+        ],
+        "name": {
+          "given_name": "Nemuel Daniel",
+          "surname": "Pah"
+        }
+      },
+      "role": "Conference Editor"
+    },
+    {
+      "contrib": {
+        "affiliation": [
+          {
+            "affPubRaw": "Universitas Surabaya, Surabaya, Indonesia"
+          }
+        ],
+        "name": {
+          "given_name": "Putu Doddy",
+          "surname": "Sutrisna"
+        }
+      },
+      "role": "Conference Editor"
+    },
+    {
+      "contrib": {
+        "affiliation": [
+          {
+            "affPubRaw": "Universitas Surabaya, Surabaya, Indonesia"
+          }
+        ],
+        "name": {
+          "given_name": "Marcellinus Ferdinand",
+          "surname": "Suciadi"
+        }
+      },
+      "role": "Conference Editor"
+    }
+  ],
+  "pagination": {
+    "electronicID": "040010",
+    "pageCount": "9"
+  },
+  "persistentIDs": [
+    {
+      "DOI": "10.1063/5.0080203",
+      "ISBN": [
+        {
+          "isbnString": "978-0-7354-4180-4",
+          "pubtype": "conf-proc"
+        }
+      ]
+    }
+  ],
+  "pubDate": {
+    "printDate": "2022-04-25"
+  },
+  "publication": {
+    "ISSN": [
+      {
+        "issnString": "0094-243X",
+        "pubtype": "ppub"
+      },
+      {
+        "issnString": "1551-7616",
+        "pubtype": "epub"
+      }
+    ],
+    "confDates": "25\u201326 August 2021",
+    "confLocation": "Surabaya, Indonesia",
+    "confName": "INTERNATIONAL CONFERENCE ON INFORMATICS, TECHNOLOGY, AND ENGINEERING 2021 (InCITE 2021): Leveraging Smart Engineering",
+    "issueNum": "1",
+    "pubName": "AIP Conference Proceedings",
+    "pubYear": "2022",
+    "publisher": "AIP Publishing LLC",
+    "volumeNum": "2470"
+  },
+  "publisherIDs": [
+    {
+      "Identifier": "AIPCP21-AR-InCITE2021-00025",
+      "attribute": "manuscript"
+    }
+  ],
+  "recordData": {
+    "createdTime": "",
+    "loadFormat": "JATS",
+    "loadLocation": "",
+    "loadType": "fromFile",
+    "parsedTime": "",
+    "recordOrigin": ""
+  },
+  "references": [
+    "<ref id=\"c1\"><label>1.</label><mixed-citation publication-type=\"journal\"><string-name><given-names>S.</given-names> <surname>Qomariah</surname></string-name>, Lisdiana, and <string-name><given-names>W.</given-names> <surname>Christijanti</surname></string-name>, <source>Unnes Journal of Life Science</source>, <volume>79</volume>, (<year>2014</year>).</mixed-citation></ref>",
+    "<ref id=\"c2\"><label>2.</label><mixed-citation publication-type=\"journal\"><string-name><given-names>I.</given-names> <surname>Nofikasari</surname></string-name>, <string-name><given-names>A.</given-names> <surname>Rufaida</surname></string-name>, <string-name><given-names>C.</given-names> <surname>Aqmarina</surname></string-name>, Failasofia, <string-name><given-names>A.</given-names> <surname>Fauzia</surname></string-name>, and <string-name><given-names>J.</given-names> <surname>Handajani</surname></string-name>, <source>Majalah Kedokteran Gigi Indonesia</source>, <fpage>53</fpage>\u2013<lpage>59</lpage>. (<year>2016</year>)</mixed-citation></ref>",
+    "<ref id=\"c3\"><label>3.</label><mixed-citation publication-type=\"other\"><string-name><given-names>R.</given-names> <surname>Sivamani</surname></string-name>, Ma, <string-name><given-names>R.</given-names> <surname>Brian</surname></string-name>, <string-name><given-names>L.</given-names> <surname>Wehrli</surname></string-name>, and <string-name><given-names>E.</given-names> <surname>Maverakis</surname></string-name>, US National Library of Medicine National Institutes of Health, <source>Adv Wound Care (New Rochelle)</source>, <fpage>213</fpage>\u2013<lpage>217</lpage>. (<year>2012</year>)</mixed-citation></ref>",
+    "<ref id=\"c4\"><label>4.</label><mixed-citation publication-type=\"journal\"><string-name><given-names>A.</given-names> <surname>Johan</surname></string-name>, <source>J. of Polym and Env.</source> <fpage>41</fpage>\u2013<lpage>51</lpage>. (<year>2005</year>)</mixed-citation></ref>",
+    "<ref id=\"c5\"><label>5.</label><mixed-citation publication-type=\"other\"><string-name><given-names>I.</given-names> <surname>Hidayati</surname></string-name>, <source>Uji Aktivitas Salep Ekstrak Daun Binahong (Anredera cordifolia) sebagai Penyembuh Luka Bakar pada Kulit Punggung Kelinci.</source> (<year>2009</year>)</mixed-citation></ref>",
+    "<ref id=\"c6\"><label>6.</label><mixed-citation publication-type=\"other\">Sayekti. Sifat Saponin. (<year>2008</year>)</mixed-citation></ref>",
+    "<ref id=\"c7\"><label>7.</label><mixed-citation publication-type=\"other\"><string-name><given-names>E.</given-names> <surname>Septiningsih</surname></string-name>, <source>Efek Penyembuhan Luka Bakar Eksrak Etanol 70% Daun Pepaya dalam Sediaan Gel pada Kulit Punggung Kelinci New Zealand.</source>(<year>2008</year>)</mixed-citation></ref>",
+    "<ref id=\"c8\"><label>8.</label><mixed-citation publication-type=\"other\">Robinson. <source>Ekstraksi dan Fraksinasi Komponen Ekstrak Daun Tumbuhan Senduduk serta Pengujian Efek Sediaan Krim terhadap Penyembuhan Luka Bakar.</source>(<year>1995</year>)</mixed-citation></ref>",
+    "<ref id=\"c9\"><label>9.</label><mixed-citation publication-type=\"journal\"><string-name><given-names>R.</given-names> <surname>Kumar</surname></string-name>, and <string-name><given-names>N.</given-names> <surname>Majeti</surname></string-name>, <source>React. Func. Polym.</source> <fpage>1</fpage>\u2013<lpage>27</lpage>. (<year>2000</year>).<pub-id pub-id-type=\"doi\" specific-use=\"metadata\">10.1016/S1381-5148(00)00038-9</pub-id></mixed-citation></ref>",
+    "<ref id=\"c10\"><label>10.</label><mixed-citation publication-type=\"other\"><string-name><given-names>N.</given-names> <surname>Rokhati</surname></string-name>, <string-name><given-names>B.</given-names> <surname>Pramudono</surname></string-name>, <string-name><given-names>I.</given-names> <surname>Widiasa</surname></string-name>, and <string-name><given-names>H.</given-names> <surname>Susanto</surname></string-name>, <string-name><given-names>H.</given-names> <surname>Reaktor</surname></string-name>. <volume><bold>14</bold></volume>. <fpage>158</fpage>\u2013<lpage>164</lpage>. (<year>2012</year>).</mixed-citation></ref>",
+    "<ref id=\"c11\"><label>11.</label><mixed-citation publication-type=\"journal\"><string-name><given-names>M.</given-names> <surname>Majewski</surname></string-name> M. <source>J Natl Ins Public Health.</source> <volume><bold>65</bold></volume> (<issue>1</issue>) <fpage>1</fpage>\u2013<lpage>8</lpage>. (<year>2014</year>)</mixed-citation></ref>",
+    "<ref id=\"c12\"><label>12.</label><mixed-citation publication-type=\"other\"><string-name><given-names>J.</given-names> <surname>Rodriguez-Nunez</surname></string-name>, <string-name><given-names>J.</given-names> <surname>Madera-Santana</surname></string-name>, <string-name><given-names>D.</given-names> <surname>Sanchez-Machado</surname></string-name>, <string-name><given-names>J.</given-names> <surname>Lopez-Cervantes</surname></string-name>, and <string-name><given-names>H.</given-names> <surname>Soto</surname></string-name>, H. (<year>2014</year>).</mixed-citation></ref>",
+    "<ref id=\"c13\"><label>13.</label><mixed-citation publication-type=\"journal\"><string-name><given-names>R.</given-names> <surname>Mustapa</surname></string-name>, <string-name><given-names>F.</given-names> <surname>Restuhadi</surname></string-name>, and <string-name><given-names>R.</given-names> <surname>Efendi</surname></string-name>, <source>JOM FAPERTA</source> Vol. <volume>4</volume> No.<issue>2</issue>, <fpage>1</fpage>\u2013<lpage>12</lpage>. (<year>2017</year>).</mixed-citation></ref>",
+    "<ref id=\"c14\"><label>14.</label><mixed-citation publication-type=\"journal\"><string-name><given-names>B.</given-names> <surname>Lawal</surname></string-name>, <string-name><given-names>O.K.</given-names> <surname>Shittu</surname></string-name>, <string-name><given-names>F.I.</given-names> <surname>Oibiokpa</surname></string-name>, <string-name><given-names>H.</given-names> <surname>Mohammed</surname></string-name>, S.I., Umar, and <string-name><given-names>G.M.</given-names> <surname>Haruna</surname></string-name>, <source>Journal of Acute Disease</source>, <fpage>296</fpage>\u2013<lpage>301</lpage>. (<year>2016</year>)<pub-id pub-id-type=\"doi\" specific-use=\"metadata\">10.1016/j.joad.2016.05.002</pub-id></mixed-citation></ref>",
+    "<ref id=\"c15\"><label>15.</label><mixed-citation publication-type=\"other\"><string-name><given-names>O.</given-names> <surname>Celline</surname></string-name>, and <string-name><surname>Ramdhani</surname>, <given-names>F. I.</given-names></string-name> <source>Sintesis dan Karakterisasi Film Komposit Selulosa Bakteri-Kitosan dari Gliserol. Laporan Penelitian. (2018)</source></mixed-citation></ref>",
+    "<ref id=\"c16\"><label>16.</label><mixed-citation publication-type=\"other\"><string-name><given-names>A.</given-names> <surname>Lucas</surname></string-name>, A. <source>Pengaruh Plasticizer terhadap Sifat Mekanik dan Struktur Kimia Film Kitosan-Pati. Penelitian.</source> (<year>2010</year>)</mixed-citation></ref>",
+    "<ref id=\"c17\"><label>17.</label><mixed-citation publication-type=\"journal\"><string-name><given-names>A.M.</given-names> <surname>Far\u00edas-Campomanes</surname></string-name>, <string-name><given-names>C. N.</given-names> <surname>Horita</surname></string-name>, <string-name><given-names>M.A.R.</given-names> <surname>Pollonio</surname></string-name>, <string-name><given-names>M. A. A.</given-names> <surname>Meireles</surname></string-name>. <article-title>Allicin-Rich Extract Obtained from Garlic by Pressurized Liquid Extraction: Quantitative Determination of Allicin in Garlic Samples</article-title>, <source>Food and Public Health</source> <volume>4</volume>(<issue>6</issue>): <fpage>272</fpage>\u2013<lpage>278</lpage> (<year>2014</year>)</mixed-citation></ref>"
+  ],
+  "title": {
+    "textEnglish": "Synthesis and characterization of chitosan-Allium sativum film"
+  }
+}

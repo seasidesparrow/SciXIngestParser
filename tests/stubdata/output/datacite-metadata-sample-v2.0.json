@@ -1,0 +1,100 @@
+{
+  "authors": [
+    {
+      "name": {
+        "given_name": "Nozawa",
+        "pubraw": "Toru, Nozawa",
+        "surname": "Toru"
+      }
+    },
+    {
+      "name": {
+        "given_name": "Awazon",
+        "pubraw": "Utor, Awazon",
+        "surname": "Utor"
+      }
+    }
+  ],
+  "doctype": "misc",
+  "keywords": [
+    {
+      "keyString": "Earth sciences and geology",
+      "keySystem": "datacite"
+    }
+  ],
+  "otherContributor": [
+    {
+      "contrib": {
+        "name": {
+          "given_name": "PANGAEA",
+          "pubraw": "PANGAEA"
+        }
+      },
+      "role": "DataManager"
+    },
+    {
+      "contrib": {
+        "attrib": {
+          "orcid": "0000-0000-0000-0000"
+        },
+        "name": {
+          "given_name": "John",
+          "pubraw": "Doe, John",
+          "surname": "Doe"
+        }
+      },
+      "role": "ContactPerson"
+    }
+  ],
+  "persistentIDs": [
+    {
+      "DOI": "10.1594/WDCC/CCSRNIES_SRES_B2"
+    }
+  ],
+  "pubDate": {
+    "electrDate": "2004",
+    "otherDate": [
+      {
+        "otherDateType": "Valid",
+        "otherDateValue": "2005-04-05"
+      },
+      {
+        "otherDateType": "Accepted",
+        "otherDateValue": "2005-01-01"
+      }
+    ]
+  },
+  "publication": {
+    "pubYear": "2004",
+    "publisher": "World Data Center for Climate (WDCC)"
+  },
+  "publisherIDs": [
+    {
+      "Identifier": "937-0-1234-56789-X",
+      "attribute": "ISBN"
+    }
+  ],
+  "recordData": {
+    "createdTime": "",
+    "loadFormat": "OtherXML",
+    "loadLocation": "",
+    "loadType": "fromFile",
+    "parsedTime": "",
+    "recordOrigin": ""
+  },
+  "references": [
+    "http://testing.ts/testpub"
+  ],
+  "relatedTo": [
+    {
+      "relatedDocID": "10.1234/testpub",
+      "relationship": "related"
+    }
+  ],
+  "subtitle": {
+    "textEnglish": "A survey"
+  },
+  "title": {
+    "textEnglish": "National Institute for Environmental Studies and Center for Climate System Research Japan"
+  }
+}

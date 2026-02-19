@@ -1,0 +1,216 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v3.0 20080202//EN" "http://dtd.nlm.nih.gov/publishing/3.0/journalpublishing3.dtd">
+<article article-type="proceedings" dtd-version="3.0" xml:lang="en" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<front>
+<journal-meta>
+<issn>0277-786X</issn>
+<isbn>9781510661387</isbn>
+<publisher>
+<publisher-name>SPIE</publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="doi">10.1117/12.2664418</article-id>
+<title-group>
+<article-title>
+Geiger-mode avalanche InGaAsInP photodiode focal plane arrays for 1.0um and 1.5um Lidar imaging
+</article-title>
+</title-group>
+<contrib-group content-type="volume">
+<contrib contrib-type="editor">
+<name>
+<surname>Itzler</surname>
+<given-names>Mark A.</given-names>
+</name>
+<xref ref-type="aff" rid="aff2" />
+</contrib>
+<contrib contrib-type="editor">
+<name>
+<surname>Bienfang</surname>
+<given-names>Joshua C.</given-names>
+</name>
+<xref ref-type="aff" rid="aff3" />
+</contrib>
+<contrib contrib-type="editor">
+<name>
+<surname>McIntosh</surname>
+<given-names>K. Alex</given-names>
+</name>
+<xref ref-type="aff" rid="aff4" />
+</contrib>
+</contrib-group>
+<contrib-group content-type="article">
+<contrib contrib-type="author">
+<name>
+<surname>Griggs</surname>
+<given-names>Steve</given-names>
+</name>
+<xref ref-type="aff" rid="aff1" />
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname>Zhu</surname>
+<given-names>Judy</given-names>
+</name>
+<xref ref-type="aff" rid="aff1" />
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname>Chan</surname>
+<given-names>Winston</given-names>
+</name>
+<xref ref-type="aff" rid="aff1" />
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname>Chodelka</surname>
+<given-names>David</given-names>
+</name>
+<xref ref-type="aff" rid="aff1" />
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname>Zalud</surname>
+<given-names>Peter</given-names>
+</name>
+<xref ref-type="aff" rid="aff1" />
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname>Senko</surname>
+<given-names>Tom</given-names>
+</name>
+<xref ref-type="aff" rid="aff1" />
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname>Hill</surname>
+<given-names>David</given-names>
+</name>
+<xref ref-type="aff" rid="aff1" />
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname>Zhang</surname>
+<given-names>Wei</given-names>
+</name>
+<xref ref-type="aff" rid="aff1" />
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname>Haber</surname>
+<given-names>Lewis</given-names>
+</name>
+<xref ref-type="aff" rid="aff1" />
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname>Shellenbarger</surname>
+<given-names>Zane</given-names>
+</name>
+<xref ref-type="aff" rid="aff1" />
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname>Wang</surname>
+<given-names>Xiaohui</given-names>
+</name>
+<xref ref-type="aff" rid="aff1" />
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname>Parks</surname>
+<given-names>Chris</given-names>
+</name>
+<xref ref-type="aff" rid="aff1" />
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname>Kim</surname>
+<given-names>James</given-names>
+</name>
+<xref ref-type="aff" rid="aff1" />
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname>Andrews</surname>
+<given-names>Jim</given-names>
+</name>
+<xref ref-type="aff" rid="aff1" />
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname>Farkas</surname>
+<given-names>Rob</given-names>
+</name>
+<xref ref-type="aff" rid="aff1" />
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname>Battaglia</surname>
+<given-names>Jesse</given-names>
+</name>
+<xref ref-type="aff" rid="aff1" />
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname>Tower</surname>
+<given-names>John</given-names>
+</name>
+<xref ref-type="aff" rid="aff1" />
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname>Paik</surname>
+<given-names>Namwoong</given-names>
+</name>
+<xref ref-type="aff" rid="aff1" />
+</contrib>
+</contrib-group>
+<aff id="aff1">SRI International (United States)</aff>
+<aff id="aff2">Argo AI, LLC (United States)</aff>
+<aff id="aff3">National Institute of Standards and Technology (United States)</aff>
+<aff id="aff4">MIT Lincoln Lab. (United States)</aff>
+<pub-date>
+<day>15</day>
+<month>6</month>
+<year>2023</year>
+</pub-date>
+<volume>12512</volume>
+<fpage>125120C</fpage>
+<lpage>125120C-9</lpage>
+<permissions>
+<copyright-statement>COPYRIGHT SPIE. Downloading of the abstract is permitted for personal use only.</copyright-statement>
+<copyright-year>2023</copyright-year>
+</permissions>
+<self-uri xlink:title="pdf" xlink:href="125120C.pdf"/>
+<abstract>
+Many Lidar system applications are best implemented with photon-counting sensors such as Geiger-mode avalanche photo diode arrays (GmAPD). To meet this emerging need, SRI has become a merchant supplier for custom GmAPD sensor arrays. SRI is currently building several different custom sensor chip assembly (SCA) designs for our customers. These entirely new sensors are based on our extensive GmAPD design and camera sensor manufacturing experience and designed to address lessons learned in the field. Our objective is to build GmAPD arrays that are truly ready for use in fielded mission critical systems. We report on our development of new ROICS and both planar and mesa type detectors at 1.0um and 1.5um and our packaging, assembly, and testing approach for these new single photon sensitive sensors.
+</abstract>
+<conference content-type="conf-level-1">
+<conf-date />
+<conf-name>Defense + Commercial Sensing</conf-name>
+<conf-acronym>DCS</conf-acronym>
+<conf-num>7</conf-num>
+</conference>
+<conference content-type="conf-level-2">
+<conf-date>2023-04-30|2023-05-05</conf-date>
+<conf-name>SPIE Defense + Commercial Sensing</conf-name>
+<conf-acronym>DCS23</conf-acronym>
+<conf-num>2619426</conf-num>
+<conf-loc>Orlando, Florida, United States</conf-loc>
+</conference>
+<conference content-type="volume">
+<conf-date />
+<conf-name>Advanced Photon Counting Techniques XVII</conf-name>
+<conf-num>12512</conf-num>
+</conference>
+<conference content-type="session">
+<conf-date />
+<conf-name>Lidar</conf-name>
+<conf-num>6</conf-num>
+</conference>
+</article-meta>
+</front>
+<back>
+</back>
+</article>

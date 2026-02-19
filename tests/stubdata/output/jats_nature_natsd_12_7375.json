@@ -1,0 +1,2377 @@
+{
+  "abstract": {
+    "textEnglish": "Gestational diabetes mellitus (GDM) plus rectus abdominis muscle (RAM) myopathy predicts long-term urinary incontinence (UI). Atrophic and stiff RAM are characteristics of diabetes-induced myopathy (DiM) in pregnant rats. This study aimed to determine whether swimming exercise (SE) has a therapeutic effect in mild hyperglycemic pregnant rats model. We hypothesized that SE training might help to reverse RAM DiM. Mild hyperglycemic pregnant rats model was obtained by a unique subcutaneous injection of 100 mg/kg streptozotocin (diabetic group) or citrate buffer (non-diabetic group) on the first day of life in Wistar female newborns. At 90 days of life, the rats are mated and randomly allocated to remain sedentary or subjected to a SE protocol. The SE protocol started at gestational day 0 and consisted of 60 min/day for 6 days/week in a period of 20 days in a swim tunnel. On day 21, rats were sacrificed, and RAM was collected and studied by picrosirius red, immunohistochemistry, and transmission electron microscopy. The SE protocol increased the fiber area and diameter, and the slow-twitch and fast-twitch fiber area and diameter in the diabetic exercised group, a finding was also seen in control sedentary animals. There was a decreased type I collagen but not type III collagen area and showed a similar type I/type III ratio compared with the control sedentary group. In conclusion, SE during pregnancy reversed the RAM DiM in pregnant rats. These findings may be a potential protocol to consider in patients with RAM damage caused by GDM."
+  },
+  "authors": [
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "grid.410543.7",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0001 2188 478X",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Postgraduate Program on Tocogynecology, Department of Gynecology and Obstetrics, Botucatu Medical School, S\u00e3o Paulo State University (UNESP), Botucatu, S\u00e3o Paulo, Brazil"
+        }
+      ],
+      "name": {
+        "given_name": "Bruna B.",
+        "surname": "Catinelli"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "grid.410543.7",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0001 2188 478X",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Department of Physiotherapy and Occupational Therapy, School of Philosophy and Sciences, S\u00e3o Paulo State University (UNESP), Mar\u00edlia, S\u00e3o Paulo, Brazil"
+        }
+      ],
+      "name": {
+        "given_name": "Patr\u00edcia S.",
+        "surname": "Rossignoli"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "grid.410543.7",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0001 2188 478X",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Postgraduate Program on Tocogynecology, Department of Gynecology and Obstetrics, Botucatu Medical School, S\u00e3o Paulo State University (UNESP), Botucatu, S\u00e3o Paulo, Brazil"
+        }
+      ],
+      "name": {
+        "given_name": "Juliana F.",
+        "surname": "Floriano"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "grid.410543.7",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0001 2188 478X",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Postgraduate Program on Tocogynecology, Department of Gynecology and Obstetrics, Botucatu Medical School, S\u00e3o Paulo State University (UNESP), Botucatu, S\u00e3o Paulo, Brazil"
+        }
+      ],
+      "name": {
+        "given_name": "Aline M.",
+        "surname": "Carr"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "grid.410543.7",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0001 2188 478X",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Postgraduate Program on Tocogynecology, Department of Gynecology and Obstetrics, Botucatu Medical School, S\u00e3o Paulo State University (UNESP), Botucatu, S\u00e3o Paulo, Brazil"
+        }
+      ],
+      "name": {
+        "given_name": "Rafael G.",
+        "surname": "de Oliveira"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "grid.410543.7",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0001 2188 478X",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Laboratory of Extracellular Matrix Biology, Department of Structural and Functional Biology, Institute of Biosciences of Botucatu, S\u00e3o Paulo State University (UNESP), Botucatu, S\u00e3o Paulo, Brazil"
+        },
+        {
+          "affPubID": [
+            {
+              "affID": "grid.411087.b",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0001 0723 2494",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Department of Structural and Functional Biology, Institute of Biology (IB), UNICAMP, University of Campinas (UNICAMP), Campinas, S\u00e3o Paulo, Brazil"
+        }
+      ],
+      "name": {
+        "given_name": "Nilton J.",
+        "surname": "dos Santos"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "University of Mar\u00edlia (UNIMAR), Mar\u00edlia, S\u00e3o Paulo, Brazil"
+        }
+      ],
+      "name": {
+        "given_name": "Lara C. C.",
+        "surname": "\u00dabeda"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Human Embryology Laboratory, Mar\u00edlia Medical School (FAMEMA), Mar\u00edlia, S\u00e3o Paulo, Brazil"
+        }
+      ],
+      "name": {
+        "given_name": "Maria Ang\u00e9lica",
+        "surname": "Spadella"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "grid.410543.7",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0001 2188 478X",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Postgraduate Program on Tocogynecology, Department of Gynecology and Obstetrics, Botucatu Medical School, S\u00e3o Paulo State University (UNESP), Botucatu, S\u00e3o Paulo, Brazil"
+        },
+        {
+          "affPubID": [
+            {
+              "affID": "grid.415155.1",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0001 2039 9627",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Pravara Institute of Medical Sciences (Deemed to be University), Loni, Rahata Taluk, 413736, Ahmednagar District, Maharashtra, India"
+        }
+      ],
+      "name": {
+        "given_name": "Raghavendra L. S.",
+        "surname": "Hallur"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "grid.410543.7",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0001 2188 478X",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Postgraduate Program on Tocogynecology, Department of Gynecology and Obstetrics, Botucatu Medical School, S\u00e3o Paulo State University (UNESP), Botucatu, S\u00e3o Paulo, Brazil"
+        },
+        {
+          "affPubID": [
+            {
+              "affID": "grid.7870.8",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0001 2157 0406",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Cellular and Molecular Physiology Laboratory (CMPL), Department of Obstetrics, Division of Obstetrics and Gynaecology, School of Medicine, Faculty of Medicine, Pontificia Universidad Cat\u00f3lica de Chile, 8330024, Santiago, Chile"
+        },
+        {
+          "affPubID": [
+            {
+              "affID": "grid.9224.d",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0001 2168 1229",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Department of Physiology, Faculty of Pharmacy, Universidad de Sevilla, 41012, Seville, Spain"
+        },
+        {
+          "affPubID": [
+            {
+              "affID": "grid.1003.2",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0000 9320 7537",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "University of Queensland Centre for Clinical Research (UQCCR), Faculty of Medicine and Biomedical Sciences, University of Queensland, 4029, Herston, QLD, Australia"
+        },
+        {
+          "affPubID": [
+            {
+              "affID": "grid.4494.d",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0000 9558 4598",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Division of Pathology, Department of Pathology and Medical Biology, University of Groningen, University Medical Center Groningen (UMCG), 9713GZ, Groningen, The Netherlands"
+        }
+      ],
+      "name": {
+        "given_name": "Luis",
+        "surname": "Sobrevia"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "grid.410543.7",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0001 2188 478X",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Laboratory of Extracellular Matrix Biology, Department of Structural and Functional Biology, Institute of Biosciences of Botucatu, S\u00e3o Paulo State University (UNESP), Botucatu, S\u00e3o Paulo, Brazil"
+        }
+      ],
+      "name": {
+        "given_name": "S\u00e9rgio L.",
+        "surname": "Felisbino"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "grid.410543.7",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0001 2188 478X",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Postgraduate Program on Tocogynecology, Department of Gynecology and Obstetrics, Botucatu Medical School, S\u00e3o Paulo State University (UNESP), Botucatu, S\u00e3o Paulo, Brazil"
+        }
+      ],
+      "name": {
+        "given_name": "Iracema M. P.",
+        "surname": "Calderon"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "grid.410543.7",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0001 2188 478X",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Postgraduate Program on Tocogynecology, Department of Gynecology and Obstetrics, Botucatu Medical School, S\u00e3o Paulo State University (UNESP), Botucatu, S\u00e3o Paulo, Brazil"
+        },
+        {
+          "affPubID": [
+            {
+              "affID": "grid.410543.7",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0001 2188 478X",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Department of Physiotherapy and Occupational Therapy, School of Philosophy and Sciences, S\u00e3o Paulo State University (UNESP), Mar\u00edlia, S\u00e3o Paulo, Brazil"
+        }
+      ],
+      "name": {
+        "given_name": "Ang\u00e9lica M. P.",
+        "surname": "Barbosa"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "grid.410543.7",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0001 2188 478X",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Postgraduate Program on Tocogynecology, Department of Gynecology and Obstetrics, Botucatu Medical School, S\u00e3o Paulo State University (UNESP), Botucatu, S\u00e3o Paulo, Brazil"
+        }
+      ],
+      "attrib": {
+        "corresp": true,
+        "email": "marilzarudge@gmail.com"
+      },
+      "name": {
+        "given_name": "Marilza V. C.",
+        "surname": "Rudge"
+      }
+    },
+    {
+      "attrib": {
+        "collab": true
+      },
+      "name": {
+        "collab": "The Diamater Study Group"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "grid.410543.7",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0001 2188 478X",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Postgraduate Program on Tocogynecology, Department of Gynecology and Obstetrics, Botucatu Medical School, S\u00e3o Paulo State University (UNESP), Botucatu, S\u00e3o Paulo, Brazil"
+        }
+      ]
+    },
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "grid.410543.7",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0001 2188 478X",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Postgraduate Program on Tocogynecology, Department of Gynecology and Obstetrics, Botucatu Medical School, S\u00e3o Paulo State University (UNESP), Botucatu, S\u00e3o Paulo, Brazil"
+        }
+      ],
+      "attrib": {
+        "collab": true
+      },
+      "name": {
+        "collab": "The Diamater Study Group",
+        "given_name": "M. V. C.",
+        "surname": "Rudge"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "grid.410543.7",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0001 2188 478X",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Postgraduate Program on Tocogynecology, Department of Gynecology and Obstetrics, Botucatu Medical School, S\u00e3o Paulo State University (UNESP), Botucatu, S\u00e3o Paulo, Brazil"
+        },
+        {
+          "affPubID": [
+            {
+              "affID": "grid.410543.7",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0001 2188 478X",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Department of Physiotherapy and Occupational Therapy, School of Philosophy and Sciences, S\u00e3o Paulo State University (UNESP), Mar\u00edlia, S\u00e3o Paulo, Brazil"
+        }
+      ],
+      "attrib": {
+        "collab": true
+      },
+      "name": {
+        "collab": "The Diamater Study Group",
+        "given_name": "A. M. P.",
+        "surname": "Barbosa"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "grid.410543.7",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0001 2188 478X",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Postgraduate Program on Tocogynecology, Department of Gynecology and Obstetrics, Botucatu Medical School, S\u00e3o Paulo State University (UNESP), Botucatu, S\u00e3o Paulo, Brazil"
+        }
+      ],
+      "attrib": {
+        "collab": true
+      },
+      "name": {
+        "collab": "The Diamater Study Group",
+        "given_name": "I. M. P.",
+        "surname": "Calderon"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "grid.410543.7",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0001 2188 478X",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Postgraduate Program on Tocogynecology, Department of Gynecology and Obstetrics, Botucatu Medical School, S\u00e3o Paulo State University (UNESP), Botucatu, S\u00e3o Paulo, Brazil"
+        },
+        {
+          "affPubID": [
+            {
+              "affID": "grid.7870.8",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0001 2157 0406",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Cellular and Molecular Physiology Laboratory (CMPL), Department of Obstetrics, Division of Obstetrics and Gynaecology, School of Medicine, Faculty of Medicine, Pontificia Universidad Cat\u00f3lica de Chile, 8330024, Santiago, Chile"
+        },
+        {
+          "affPubID": [
+            {
+              "affID": "grid.9224.d",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0001 2168 1229",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Department of Physiology, Faculty of Pharmacy, Universidad de Sevilla, 41012, Seville, Spain"
+        },
+        {
+          "affPubID": [
+            {
+              "affID": "grid.1003.2",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0000 9320 7537",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "University of Queensland Centre for Clinical Research (UQCCR), Faculty of Medicine and Biomedical Sciences, University of Queensland, 4029, Herston, QLD, Australia"
+        },
+        {
+          "affPubID": [
+            {
+              "affID": "grid.4494.d",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0000 9558 4598",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Division of Pathology, Department of Pathology and Medical Biology, University of Groningen, University Medical Center Groningen (UMCG), 9713GZ, Groningen, The Netherlands"
+        }
+      ],
+      "attrib": {
+        "collab": true
+      },
+      "name": {
+        "collab": "The Diamater Study Group",
+        "given_name": "L.",
+        "surname": "Sobrevia"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "grid.410543.7",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0001 2188 478X",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Department of Physics, Institute of Biosciences, Letters and Exact Sciences (IBILCE), Multiuser Center for Biomolecular Innovation (CMIB), S\u00e3o Paulo State University \u201cJ\u00falio de Mesquita Filho\u201d (UNESP), 15054-000, S\u00e3o Jos\u00e9 do Rio Preto, S\u00e3o Paulo, Brazil"
+        }
+      ],
+      "attrib": {
+        "collab": true
+      },
+      "name": {
+        "collab": "The Diamater Study Group",
+        "given_name": "F. P.",
+        "surname": "Souza"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "grid.412966.e",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0004 0480 1382",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Pelvic Care Center Maastricht, Maastricht University Medical Center, Maastricht, The Netherlands"
+        }
+      ],
+      "attrib": {
+        "collab": true
+      },
+      "name": {
+        "collab": "The Diamater Study Group",
+        "given_name": "B.",
+        "surname": "Berghmans"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "grid.25073.33",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0004 1936 8227",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Department of Clinical Epidemiology and Biostatistics, McMaster University, Hamilton, ON, Canada"
+        }
+      ],
+      "attrib": {
+        "collab": true
+      },
+      "name": {
+        "collab": "The Diamater Study Group",
+        "given_name": "L.",
+        "surname": "Thabane"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "grid.6363.0",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0001 2218 4662",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Department of Gynecology, Pelvic Floor Center Charit\u00e9, Charit\u00e9 University Hospital, Berlin, Germany"
+        }
+      ],
+      "attrib": {
+        "collab": true
+      },
+      "name": {
+        "collab": "The Diamater Study Group",
+        "given_name": "B.",
+        "surname": "Junginger"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "grid.410543.7",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0001 2188 478X",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "POSMAT-Post-Graduate Program in Materials Science and Technology, School of Sciences, S\u00e3o Paulo State University (UNESP), Bauru, S\u00e3o Paulo, Brazil"
+        }
+      ],
+      "attrib": {
+        "collab": true
+      },
+      "name": {
+        "collab": "The Diamater Study Group",
+        "given_name": "C. F. O.",
+        "surname": "Graeff"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "grid.410543.7",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0001 2188 478X",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Medical School of Botucatu, S\u00e3o Paulo State University (UNESP), Botucatu, S\u00e3o Paulo, Brazil"
+        }
+      ],
+      "attrib": {
+        "collab": true
+      },
+      "name": {
+        "collab": "The Diamater Study Group",
+        "given_name": "C. G.",
+        "surname": "Magalh\u00e3es"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "grid.410543.7",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0001 2188 478X",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Postgraduate Program on Tocogynecology, Department of Gynecology and Obstetrics, Botucatu Medical School, S\u00e3o Paulo State University (UNESP), Botucatu, S\u00e3o Paulo, Brazil"
+        }
+      ],
+      "attrib": {
+        "collab": true
+      },
+      "name": {
+        "collab": "The Diamater Study Group",
+        "given_name": "R. A.",
+        "surname": "Costa"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "grid.410543.7",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0001 2188 478X",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Department of Nursing, Botucatu Medical School (FMB), S\u00e3o Paulo State University (UNESP), Botucatu, S\u00e3o Paulo, Brazil"
+        }
+      ],
+      "attrib": {
+        "collab": true
+      },
+      "name": {
+        "collab": "The Diamater Study Group",
+        "given_name": "S. A. M.",
+        "surname": "Lima"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "grid.411869.3",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0000 9186 527X",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Stricto Sensu Graduate Program in Nursing at UNIVERITAS, Guarulhos University (UNG), Guarulhos, S\u00e3o Paulo, Brazil"
+        }
+      ],
+      "attrib": {
+        "collab": true
+      },
+      "name": {
+        "collab": "The Diamater Study Group",
+        "given_name": "M. R.",
+        "surname": "Kron-Rodrigues"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "grid.410543.7",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0001 2188 478X",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Laboratory of Extracellular Matrix Biology, Department of Structural and Functional Biology, Institute of Biosciences of Botucatu, S\u00e3o Paulo State University (UNESP), Botucatu, S\u00e3o Paulo, Brazil"
+        }
+      ],
+      "attrib": {
+        "collab": true
+      },
+      "name": {
+        "collab": "The Diamater Study Group",
+        "given_name": "S. L.",
+        "surname": "Felisbino"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "grid.410543.7",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0001 2188 478X",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Department of Clinical Medicine, Botucatu Medical School, S\u00e3o Paulo State University (UNESP), Av. Prof. M\u00e1rio Rubens Guimar\u00e3es Montenegro, s/n-UNESP, Botucatu, S\u00e3o Paulo, Brazil"
+        }
+      ],
+      "attrib": {
+        "collab": true
+      },
+      "name": {
+        "collab": "The Diamater Study Group",
+        "given_name": "W.",
+        "surname": "Barbosa"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "grid.410543.7",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0001 2188 478X",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Medical School of Botucatu, S\u00e3o Paulo State University (UNESP), Botucatu, S\u00e3o Paulo, Brazil"
+        }
+      ],
+      "attrib": {
+        "collab": true
+      },
+      "name": {
+        "collab": "The Diamater Study Group",
+        "given_name": "F. J.",
+        "surname": "Campos"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "grid.410543.7",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0001 2188 478X",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Postgraduate Program on Tocogynecology, Department of Gynecology and Obstetrics, Botucatu Medical School, S\u00e3o Paulo State University (UNESP), Botucatu, S\u00e3o Paulo, Brazil"
+        }
+      ],
+      "attrib": {
+        "collab": true
+      },
+      "name": {
+        "collab": "The Diamater Study Group",
+        "given_name": "G.",
+        "surname": "Bossolan"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "grid.410543.7",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0001 2188 478X",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Department of Biostatistics, Botucatu Institute of Biosciences, S\u00e3o Paulo State University/UNESP, S\u00e3o Paulo, tistics, Botucatu Institute of Biosciences, Brazil"
+        }
+      ],
+      "attrib": {
+        "collab": true
+      },
+      "name": {
+        "collab": "The Diamater Study Group",
+        "given_name": "J. E.",
+        "surname": "Corrente"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "grid.410543.7",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0001 2188 478X",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Medical School of Botucatu, S\u00e3o Paulo State University (UNESP), Botucatu, S\u00e3o Paulo, Brazil"
+        }
+      ],
+      "attrib": {
+        "collab": true
+      },
+      "name": {
+        "collab": "The Diamater Study Group",
+        "given_name": "H. R. C.",
+        "surname": "Nunes"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "grid.410543.7",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0001 2188 478X",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Medical School of Botucatu, S\u00e3o Paulo State University (UNESP), Botucatu, S\u00e3o Paulo, Brazil"
+        }
+      ],
+      "attrib": {
+        "collab": true
+      },
+      "name": {
+        "collab": "The Diamater Study Group",
+        "given_name": "J.",
+        "surname": "Abbade"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "grid.410543.7",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0001 2188 478X",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Department of Physiotherapy and Occupational Therapy, School of Philosophy and Sciences, S\u00e3o Paulo State University (UNESP), Mar\u00edlia, S\u00e3o Paulo, Brazil"
+        }
+      ],
+      "attrib": {
+        "collab": true
+      },
+      "name": {
+        "collab": "The Diamater Study Group",
+        "given_name": "P. S.",
+        "surname": "Rossignoli"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "grid.410543.7",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0001 2188 478X",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Department of Physiotherapy and Occupational Therapy, School of Philosophy and Sciences, S\u00e3o Paulo State University (UNESP), Mar\u00edlia, S\u00e3o Paulo, Brazil"
+        }
+      ],
+      "attrib": {
+        "collab": true
+      },
+      "name": {
+        "collab": "The Diamater Study Group",
+        "given_name": "C. R.",
+        "surname": "Pedroni"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "grid.411249.b",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0001 0514 7202",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Discipline of Evidence-Based Medicine, Paulista School of Medicine-Federal University of S\u00e3o Paulo (EPM-UNIFESP), S\u00e3o Paulo, Brazil"
+        }
+      ],
+      "attrib": {
+        "collab": true
+      },
+      "name": {
+        "collab": "The Diamater Study Group",
+        "given_name": "A. N.",
+        "surname": "Atallah"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "grid.411249.b",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0001 0514 7202",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Department of Gynecology, Federal University of S\u00e3o Paulo, UNIFESP, S\u00e3o Paulo, Brazil"
+        }
+      ],
+      "attrib": {
+        "collab": true
+      },
+      "name": {
+        "collab": "The Diamater Study Group",
+        "given_name": "Z. I. K. J.",
+        "surname": "Di Bella"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "grid.441972.d",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0001 2105 8867",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Department of Physical Therapy, Universidade Cat\u00f3lica de Pernambuco (UNICAP), Recife, PE, Brazil"
+        }
+      ],
+      "attrib": {
+        "collab": true
+      },
+      "name": {
+        "collab": "The Diamater Study Group",
+        "given_name": "S. M. M.",
+        "surname": "Uchoa"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "grid.11899.38",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0004 1937 0722",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Department of Operative Dentistry, Endodontics and Dental Materials, Bauru School of Dentistry, University of S\u00e3o Paulo, S\u00e3o Paulo, Brazil"
+        }
+      ],
+      "attrib": {
+        "collab": true
+      },
+      "name": {
+        "collab": "The Diamater Study Group",
+        "given_name": "M. A. H.",
+        "surname": "Duarte"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "grid.412294.8",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0000 9007 5698",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "University of Western S\u00e3o Paulo (UNOESTE), Presidente Prudente, S\u00e3o Paulo, Brazil"
+        }
+      ],
+      "attrib": {
+        "collab": true
+      },
+      "name": {
+        "collab": "The Diamater Study Group",
+        "given_name": "E. A.",
+        "surname": "Mareco"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "grid.411400.0",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0001 2193 3537",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Department of Anatomy, CCB, State University of Londrina (UEL), Caixa Postal 10011, Campus Universit\u00e1rio s/n, 86057-970, Londrina, Parana, Brazil"
+        }
+      ],
+      "attrib": {
+        "collab": true
+      },
+      "name": {
+        "collab": "The Diamater Study Group",
+        "given_name": "M. E.",
+        "surname": "Sakalem"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "University Center of Associated Colleges, S\u00e3o Jo\u00e3o da Boa Vista, S\u00e3o Paulo, Brazil"
+        },
+        {
+          "affPubID": [
+            {
+              "affID": "grid.441751.2",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0000 8820 7559",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Regional University Center of Esp\u00edrito Santo do Pinhal, UNIPINHAL, Esp\u00edrito Santo do Pinhal, S\u00e3o Paulo, Brazil"
+        }
+      ],
+      "attrib": {
+        "collab": true
+      },
+      "name": {
+        "collab": "The Diamater Study Group",
+        "given_name": "N.",
+        "surname": "Martinho"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "grid.410543.7",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0001 2188 478X",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Postgraduate Program on Tocogynecology, Department of Gynecology and Obstetrics, Botucatu Medical School, S\u00e3o Paulo State University (UNESP), Botucatu, S\u00e3o Paulo, Brazil"
+        },
+        {
+          "affPubID": [
+            {
+              "affID": "grid.415155.1",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0001 2039 9627",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Pravara Institute of Medical Sciences (Deemed to be University), Loni, Rahata Taluk, 413736, Ahmednagar District, Maharashtra, India"
+        }
+      ],
+      "attrib": {
+        "collab": true
+      },
+      "name": {
+        "collab": "The Diamater Study Group",
+        "given_name": "L. S. R.",
+        "surname": "Hallur"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "grid.410543.7",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0001 2188 478X",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Postgraduate Program on Tocogynecology, Department of Gynecology and Obstetrics, Botucatu Medical School, S\u00e3o Paulo State University (UNESP), Botucatu, S\u00e3o Paulo, Brazil"
+        }
+      ],
+      "attrib": {
+        "collab": true
+      },
+      "name": {
+        "collab": "The Diamater Study Group",
+        "given_name": "D. R. A.",
+        "surname": "Reyes"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "grid.410543.7",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0001 2188 478X",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Postgraduate Program on Tocogynecology, Department of Gynecology and Obstetrics, Botucatu Medical School, S\u00e3o Paulo State University (UNESP), Botucatu, S\u00e3o Paulo, Brazil"
+        }
+      ],
+      "attrib": {
+        "collab": true
+      },
+      "name": {
+        "collab": "The Diamater Study Group",
+        "given_name": "F. C. B.",
+        "surname": "Alves"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "grid.410543.7",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0001 2188 478X",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Postgraduate Program on Tocogynecology, Department of Gynecology and Obstetrics, Botucatu Medical School, S\u00e3o Paulo State University (UNESP), Botucatu, S\u00e3o Paulo, Brazil"
+        }
+      ],
+      "attrib": {
+        "collab": true
+      },
+      "name": {
+        "collab": "The Diamater Study Group",
+        "given_name": "J. P. C.",
+        "surname": "Marcondes"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "grid.410543.7",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0001 2188 478X",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Postgraduate Program on Tocogynecology, Department of Gynecology and Obstetrics, Botucatu Medical School, S\u00e3o Paulo State University (UNESP), Botucatu, S\u00e3o Paulo, Brazil"
+        }
+      ],
+      "attrib": {
+        "collab": true
+      },
+      "name": {
+        "collab": "The Diamater Study Group",
+        "given_name": "C. B.",
+        "surname": "Prudencio"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "grid.410543.7",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0001 2188 478X",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Postgraduate Program on Tocogynecology, Department of Gynecology and Obstetrics, Botucatu Medical School, S\u00e3o Paulo State University (UNESP), Botucatu, S\u00e3o Paulo, Brazil"
+        }
+      ],
+      "attrib": {
+        "collab": true
+      },
+      "name": {
+        "collab": "The Diamater Study Group",
+        "given_name": "F. A.",
+        "surname": "Pinheiro"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "grid.410543.7",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0001 2188 478X",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Postgraduate Program on Tocogynecology, Department of Gynecology and Obstetrics, Botucatu Medical School, S\u00e3o Paulo State University (UNESP), Botucatu, S\u00e3o Paulo, Brazil"
+        }
+      ],
+      "attrib": {
+        "collab": true
+      },
+      "name": {
+        "collab": "The Diamater Study Group",
+        "given_name": "C. I.",
+        "surname": "Sartor\u00e3oFilho"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "grid.410543.7",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0001 2188 478X",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Postgraduate Program on Tocogynecology, Department of Gynecology and Obstetrics, Botucatu Medical School, S\u00e3o Paulo State University (UNESP), Botucatu, S\u00e3o Paulo, Brazil"
+        }
+      ],
+      "attrib": {
+        "collab": true
+      },
+      "name": {
+        "collab": "The Diamater Study Group",
+        "given_name": "S. B. C. V.",
+        "surname": "Quiroz"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "grid.410543.7",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0001 2188 478X",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Postgraduate Program on Tocogynecology, Department of Gynecology and Obstetrics, Botucatu Medical School, S\u00e3o Paulo State University (UNESP), Botucatu, S\u00e3o Paulo, Brazil"
+        }
+      ],
+      "attrib": {
+        "collab": true
+      },
+      "name": {
+        "collab": "The Diamater Study Group",
+        "given_name": "T.",
+        "surname": "Pascon"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "grid.410543.7",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0001 2188 478X",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Postgraduate Program on Tocogynecology, Department of Gynecology and Obstetrics, Botucatu Medical School, S\u00e3o Paulo State University (UNESP), Botucatu, S\u00e3o Paulo, Brazil"
+        }
+      ],
+      "attrib": {
+        "collab": true
+      },
+      "name": {
+        "collab": "The Diamater Study Group",
+        "given_name": "S. K.",
+        "surname": "Nunes"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "grid.410543.7",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0001 2188 478X",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Postgraduate Program on Tocogynecology, Department of Gynecology and Obstetrics, Botucatu Medical School, S\u00e3o Paulo State University (UNESP), Botucatu, S\u00e3o Paulo, Brazil"
+        }
+      ],
+      "attrib": {
+        "collab": true
+      },
+      "name": {
+        "collab": "The Diamater Study Group",
+        "given_name": "B. B.",
+        "surname": "Catinelli"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "grid.410543.7",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0001 2188 478X",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Postgraduate Program on Tocogynecology, Department of Gynecology and Obstetrics, Botucatu Medical School, S\u00e3o Paulo State University (UNESP), Botucatu, S\u00e3o Paulo, Brazil"
+        }
+      ],
+      "attrib": {
+        "collab": true
+      },
+      "name": {
+        "collab": "The Diamater Study Group",
+        "given_name": "F. V. D. S.",
+        "surname": "Reis"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "grid.410543.7",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0001 2188 478X",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Postgraduate Program on Tocogynecology, Department of Gynecology and Obstetrics, Botucatu Medical School, S\u00e3o Paulo State University (UNESP), Botucatu, S\u00e3o Paulo, Brazil"
+        }
+      ],
+      "attrib": {
+        "collab": true
+      },
+      "name": {
+        "collab": "The Diamater Study Group",
+        "given_name": "R. G.",
+        "surname": "Oliveira"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "grid.410543.7",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0001 2188 478X",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Postgraduate Program on Tocogynecology, Department of Gynecology and Obstetrics, Botucatu Medical School, S\u00e3o Paulo State University (UNESP), Botucatu, S\u00e3o Paulo, Brazil"
+        }
+      ],
+      "attrib": {
+        "collab": true
+      },
+      "name": {
+        "collab": "The Diamater Study Group",
+        "given_name": "S.",
+        "surname": "Barneze"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "grid.410543.7",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0001 2188 478X",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Postgraduate Program on Tocogynecology, Department of Gynecology and Obstetrics, Botucatu Medical School, S\u00e3o Paulo State University (UNESP), Botucatu, S\u00e3o Paulo, Brazil"
+        }
+      ],
+      "attrib": {
+        "collab": true
+      },
+      "name": {
+        "collab": "The Diamater Study Group",
+        "given_name": "E. M. A.",
+        "surname": "Enriquez"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "grid.410543.7",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0001 2188 478X",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Postgraduate Program on Tocogynecology, Department of Gynecology and Obstetrics, Botucatu Medical School, S\u00e3o Paulo State University (UNESP), Botucatu, S\u00e3o Paulo, Brazil"
+        }
+      ],
+      "attrib": {
+        "collab": true
+      },
+      "name": {
+        "collab": "The Diamater Study Group",
+        "given_name": "L.",
+        "surname": "Takano"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "grid.410543.7",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0001 2188 478X",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Postgraduate Program on Tocogynecology, Department of Gynecology and Obstetrics, Botucatu Medical School, S\u00e3o Paulo State University (UNESP), Botucatu, S\u00e3o Paulo, Brazil"
+        }
+      ],
+      "attrib": {
+        "collab": true
+      },
+      "name": {
+        "collab": "The Diamater Study Group",
+        "given_name": "A. M.",
+        "surname": "Carr"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "grid.410543.7",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0001 2188 478X",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Postgraduate Program on Tocogynecology, Department of Gynecology and Obstetrics, Botucatu Medical School, S\u00e3o Paulo State University (UNESP), Botucatu, S\u00e3o Paulo, Brazil"
+        }
+      ],
+      "attrib": {
+        "collab": true
+      },
+      "name": {
+        "collab": "The Diamater Study Group",
+        "given_name": "A. B. M.",
+        "surname": "Magyori"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "grid.410543.7",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0001 2188 478X",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Postgraduate Program on Tocogynecology, Department of Gynecology and Obstetrics, Botucatu Medical School, S\u00e3o Paulo State University (UNESP), Botucatu, S\u00e3o Paulo, Brazil"
+        }
+      ],
+      "attrib": {
+        "collab": true
+      },
+      "name": {
+        "collab": "The Diamater Study Group",
+        "given_name": "L. F.",
+        "surname": "Iamundo"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "grid.410543.7",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0001 2188 478X",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Postgraduate Program on Tocogynecology, Department of Gynecology and Obstetrics, Botucatu Medical School, S\u00e3o Paulo State University (UNESP), Botucatu, S\u00e3o Paulo, Brazil"
+        }
+      ],
+      "attrib": {
+        "collab": true
+      },
+      "name": {
+        "collab": "The Diamater Study Group",
+        "given_name": "C. N. F.",
+        "surname": "Carvalho"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "grid.410543.7",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0001 2188 478X",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Postgraduate Program on Tocogynecology, Department of Gynecology and Obstetrics, Botucatu Medical School, S\u00e3o Paulo State University (UNESP), Botucatu, S\u00e3o Paulo, Brazil"
+        }
+      ],
+      "attrib": {
+        "collab": true
+      },
+      "name": {
+        "collab": "The Diamater Study Group",
+        "given_name": "M.",
+        "surname": "Jacomin"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "grid.410543.7",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0001 2188 478X",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Postgraduate Program on Tocogynecology, Department of Gynecology and Obstetrics, Botucatu Medical School, S\u00e3o Paulo State University (UNESP), Botucatu, S\u00e3o Paulo, Brazil"
+        }
+      ],
+      "attrib": {
+        "collab": true
+      },
+      "name": {
+        "collab": "The Diamater Study Group",
+        "given_name": "R. E.",
+        "surname": "Avramidis"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "grid.410543.7",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0001 2188 478X",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Department of Physiotherapy and Occupational Therapy, School of Philosophy and Sciences, S\u00e3o Paulo State University (UNESP), Mar\u00edlia, S\u00e3o Paulo, Brazil"
+        }
+      ],
+      "attrib": {
+        "collab": true
+      },
+      "name": {
+        "collab": "The Diamater Study Group",
+        "given_name": "A. J. B.",
+        "surname": "Silva"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "grid.410543.7",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0001 2188 478X",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Postgraduate Program on Tocogynecology, Department of Gynecology and Obstetrics, Botucatu Medical School, S\u00e3o Paulo State University (UNESP), Botucatu, S\u00e3o Paulo, Brazil"
+        }
+      ],
+      "attrib": {
+        "collab": true
+      },
+      "name": {
+        "collab": "The Diamater Study Group",
+        "given_name": "M. I. G.",
+        "surname": "Orlandi"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "grid.410543.7",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0001 2188 478X",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Postgraduate Program on Tocogynecology, Department of Gynecology and Obstetrics, Botucatu Medical School, S\u00e3o Paulo State University (UNESP), Botucatu, S\u00e3o Paulo, Brazil"
+        }
+      ],
+      "attrib": {
+        "collab": true
+      },
+      "name": {
+        "collab": "The Diamater Study Group",
+        "given_name": "T. D.",
+        "surname": "Dangi\u00f3"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "grid.410543.7",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0001 2188 478X",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Postgraduate Program on Tocogynecology, Department of Gynecology and Obstetrics, Botucatu Medical School, S\u00e3o Paulo State University (UNESP), Botucatu, S\u00e3o Paulo, Brazil"
+        }
+      ],
+      "attrib": {
+        "collab": true
+      },
+      "name": {
+        "collab": "The Diamater Study Group",
+        "given_name": "H. C. M.",
+        "surname": "Bassin"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "grid.410543.7",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0001 2188 478X",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Postgraduate Program on Tocogynecology, Department of Gynecology and Obstetrics, Botucatu Medical School, S\u00e3o Paulo State University (UNESP), Botucatu, S\u00e3o Paulo, Brazil"
+        }
+      ],
+      "attrib": {
+        "collab": true
+      },
+      "name": {
+        "collab": "The Diamater Study Group",
+        "given_name": "M. L. S.",
+        "surname": "Takemoto"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "grid.410543.7",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0001 2188 478X",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Postgraduate Program on Tocogynecology, Department of Gynecology and Obstetrics, Botucatu Medical School, S\u00e3o Paulo State University (UNESP), Botucatu, S\u00e3o Paulo, Brazil"
+        }
+      ],
+      "attrib": {
+        "collab": true
+      },
+      "name": {
+        "collab": "The Diamater Study Group",
+        "given_name": "T. D.",
+        "surname": "Caldeir\u00e3o"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "grid.410543.7",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0001 2188 478X",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Laboratory of Extracellular Matrix Biology, Department of Structural and Functional Biology, Institute of Biosciences of Botucatu, S\u00e3o Paulo State University (UNESP), Botucatu, S\u00e3o Paulo, Brazil"
+        },
+        {
+          "affPubID": [
+            {
+              "affID": "grid.411087.b",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0001 0723 2494",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Department of Structural and Functional Biology, Institute of Biology (IB), UNICAMP, University of Campinas (UNICAMP), Campinas, S\u00e3o Paulo, Brazil"
+        }
+      ],
+      "attrib": {
+        "collab": true
+      },
+      "name": {
+        "collab": "The Diamater Study Group",
+        "given_name": "N. J.",
+        "surname": "Santos"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "grid.410543.7",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0001 2188 478X",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Department of Physics, Institute of Biosciences, Letters and Exact Sciences (IBILCE), Multiuser Center for Biomolecular Innovation (CMIB), S\u00e3o Paulo State University \u201cJ\u00falio de Mesquita Filho\u201d (UNESP), 15054-000, S\u00e3o Jos\u00e9 do Rio Preto, S\u00e3o Paulo, Brazil"
+        }
+      ],
+      "attrib": {
+        "collab": true
+      },
+      "name": {
+        "collab": "The Diamater Study Group",
+        "given_name": "I. O.",
+        "surname": "Louren\u00e7o"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "grid.410543.7",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0001 2188 478X",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Department of Physics, Institute of Biosciences, Letters and Exact Sciences (IBILCE), Multiuser Center for Biomolecular Innovation (CMIB), S\u00e3o Paulo State University \u201cJ\u00falio de Mesquita Filho\u201d (UNESP), 15054-000, S\u00e3o Jos\u00e9 do Rio Preto, S\u00e3o Paulo, Brazil"
+        }
+      ],
+      "attrib": {
+        "collab": true
+      },
+      "name": {
+        "collab": "The Diamater Study Group",
+        "given_name": "J. Marostica",
+        "surname": "de S\u00e1"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "grid.410543.7",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0001 2188 478X",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Department of Physics, Institute of Biosciences, Letters and Exact Sciences (IBILCE), Multiuser Center for Biomolecular Innovation (CMIB), S\u00e3o Paulo State University \u201cJ\u00falio de Mesquita Filho\u201d (UNESP), 15054-000, S\u00e3o Jos\u00e9 do Rio Preto, S\u00e3o Paulo, Brazil"
+        }
+      ],
+      "attrib": {
+        "collab": true
+      },
+      "name": {
+        "collab": "The Diamater Study Group",
+        "given_name": "I. P.",
+        "surname": "Caruso"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "grid.412296.a",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0001 1484 3840",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Universidade do Sagrado Cora\u00e7\u00e3o (USC), Bauru, S\u00e3o Paulo, Brazil"
+        }
+      ],
+      "attrib": {
+        "collab": true
+      },
+      "name": {
+        "collab": "The Diamater Study Group",
+        "given_name": "L. T.",
+        "surname": "Rasmussen"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "grid.410543.7",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0001 2188 478X",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Postgraduate Program on Tocogynecology, Department of Gynecology and Obstetrics, Botucatu Medical School, S\u00e3o Paulo State University (UNESP), Botucatu, S\u00e3o Paulo, Brazil"
+        }
+      ],
+      "attrib": {
+        "collab": true
+      },
+      "name": {
+        "collab": "The Diamater Study Group",
+        "given_name": "G. A.",
+        "surname": "Garcia"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "grid.410543.7",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0001 2188 478X",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Department of Physical Education, Institute of Biosciences of Rio Claro, S\u00e3o Paulo State University (UNESP), Rio Claro, S\u00e3o Paulo, Brazil"
+        }
+      ],
+      "attrib": {
+        "collab": true
+      },
+      "name": {
+        "collab": "The Diamater Study Group",
+        "given_name": "G. T. A.",
+        "surname": "Nava"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Independent Researcher, Assis, S\u00e3o Paulo, Brazil"
+        }
+      ],
+      "attrib": {
+        "collab": true
+      },
+      "name": {
+        "collab": "The Diamater Study Group",
+        "given_name": "C. P.",
+        "surname": "Marques"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "grid.410543.7",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0001 2188 478X",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Department of Morphology and Pediatric Dentistry, Araraquara School of Dentistry, S\u00e3o Paulo State University (UNESP), Rua Humait\u00e1, 1680, 14801-903, Araraquara, S\u00e3o Paulo, Brazil"
+        }
+      ],
+      "attrib": {
+        "collab": true
+      },
+      "name": {
+        "collab": "The Diamater Study Group",
+        "given_name": "D. G.",
+        "surname": "Bussaneli"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "grid.410543.7",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0001 2188 478X",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Department of Morphology and Pediatric Dentistry, Araraquara School of Dentistry, S\u00e3o Paulo State University (UNESP), Rua Humait\u00e1, 1680, 14801-903, Araraquara, S\u00e3o Paulo, Brazil"
+        }
+      ],
+      "attrib": {
+        "collab": true
+      },
+      "name": {
+        "collab": "The Diamater Study Group",
+        "given_name": "V. K. C.",
+        "surname": "Nogueira"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Independent Researcher, Assis, S\u00e3o Paulo, Brazil"
+        }
+      ],
+      "attrib": {
+        "collab": true
+      },
+      "name": {
+        "collab": "The Diamater Study Group",
+        "given_name": "C. V. C.",
+        "surname": "Rudge"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Independent Researcher, Botucatu, SP, Brazil"
+        }
+      ],
+      "attrib": {
+        "collab": true
+      },
+      "name": {
+        "collab": "The Diamater Study Group",
+        "given_name": "F.",
+        "surname": "Piculo"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "grid.412296.a",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0001 1484 3840",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Health Sciences Center, University of the Sacred Heart (USC), Bauru, S\u00e3o Paulo, Brazil"
+        }
+      ],
+      "attrib": {
+        "collab": true
+      },
+      "name": {
+        "collab": "The Diamater Study Group",
+        "given_name": "G. M.",
+        "surname": "Prata"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "grid.441895.5",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0000 9898 9056",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Universidade de Mar\u00edlia (UNIMAR), Mar\u00edlia, S\u00e3o Paulo, Brazil"
+        }
+      ],
+      "attrib": {
+        "collab": true
+      },
+      "name": {
+        "collab": "The Diamater Study Group",
+        "given_name": "V. P.",
+        "surname": "Barbosa"
+      }
+    }
+  ],
+  "copyright": {
+    "statement": "\u00a9 The Author(s) 2022",
+    "status": true
+  },
+  "editorialHistory": {
+    "acceptedDate": "2022-03-29",
+    "receivedDates": [
+      "2021-11-09"
+    ]
+  },
+  "funding": [
+    {
+      "agencyid": {
+        "idschema": "doi",
+        "idvalue": "http://dx.doi.org/10.13039/501100001807"
+      },
+      "agencyname": "Funda\u00e7\u00e3o de Amparo \u00e0 Pesquisa do Estado de S\u00e3o Paulo",
+      "awardnumber": "2018/03361-8"
+    },
+    {
+      "agencyid": {
+        "idschema": "doi",
+        "idvalue": "http://dx.doi.org/10.13039/501100002850"
+      },
+      "agencyname": "Fondo Nacional de Desarrollo Cient\u00edfico y Tecnol\u00f3gico",
+      "awardnumber": "1190316"
+    }
+  ],
+  "openAccess": {
+    "license": "Open Access This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article's Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article's Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit http://creativecommons.org/licenses/by/4.0/.",
+    "licenseURL": "http://creativecommons.org/licenses/by/4.0/",
+    "open": true
+  },
+  "pagination": {
+    "electronicID": "7375"
+  },
+  "persistentIDs": [
+    {
+      "DOI": "10.1038/s41598-022-10801-z"
+    }
+  ],
+  "pubDate": {
+    "electrDate": "2022-05-05",
+    "otherDate": [
+      {
+        "otherDateType": "collection",
+        "otherDateValue": "2022-12-00"
+      }
+    ]
+  },
+  "publication": {
+    "ISSN": [
+      {
+        "issnString": "2045-2322",
+        "pubtype": "epub"
+      }
+    ],
+    "issueNum": "1",
+    "pubName": "Scientific Reports",
+    "pubYear": "2022",
+    "publisher": "Nature Publishing Group UK",
+    "volumeNum": "12"
+  },
+  "publisherIDs": [
+    {
+      "Identifier": "s41598-022-10801-z",
+      "attribute": "publisher-id"
+    },
+    {
+      "Identifier": "10801",
+      "attribute": "manuscript"
+    }
+  ],
+  "recordData": {
+    "createdTime": "",
+    "loadFormat": "JATS",
+    "loadLocation": "",
+    "loadType": "fromFile",
+    "parsedTime": "",
+    "recordOrigin": ""
+  },
+  "references": [
+    "<ref id=\"CR1\"> <label>1.</label> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <collab>Standards of Medical Care in Diabetes</collab> </person-group> <article-title xml:lang=\"en\">American Diabetes Association. 2. Classification and diagnosis of diabetes</article-title> <source>Diabetes Care</source> <year>2019</year> <volume>42</volume> <fpage>13</fpage> <lpage>28</lpage> </mixed-citation> </ref>",
+    "<ref id=\"CR2\"> <label>2.</label> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Hern\u00e1ndez-ochoa</surname> <given-names>EO</given-names> </name> <name> <surname>Llanos</surname> <given-names>P</given-names> </name> <name> <surname>Lanner</surname> <given-names>JT</given-names> </name> </person-group> <article-title xml:lang=\"en\">The underlying mechanisms of diabetic myopathy</article-title> <source>J. Diabetes Res.</source> <year>2017</year> <volume>2017</volume> <fpage>3</fpage> <lpage>6</lpage> </mixed-citation> </ref>",
+    "<ref id=\"CR3\"> <label>3.</label> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Perry</surname> <given-names>CGR</given-names> </name> <name> <surname>Hawke</surname> <given-names>TJ</given-names> </name> </person-group> <article-title xml:lang=\"en\">Diabetic myopathy : Current molecular understanding of this novel neuromuscular disorder</article-title> <source>Curr. Opin. Neurol.</source> <year>2017</year> <pub-id pub-id-type=\"doi\">10.1097/WCO.0000000000000479</pub-id> <pub-id pub-id-type=\"pmid\">28665810</pub-id> <pub-id pub-id-type=\"pmcid\">6051727</pub-id> </mixed-citation> </ref>",
+    "<ref id=\"CR4\"> <label>4.</label> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Rudge</surname> <given-names>MVC</given-names> </name> <etal/> </person-group> <article-title xml:lang=\"en\">Study protocol to investigate biomolecular muscle profile as predictors of long-term urinary incontinence in women with gestational diabetes mellitus</article-title> <source>BMC Pregnancy Childb.</source> <year>2020</year> <volume>20</volume> <fpage>1</fpage> <lpage>14</lpage> <pub-id pub-id-type=\"doi\">10.1186/s12884-020-2749-x</pub-id> <pub-id pub-id-type=\"coi\">1:CAS:528:DC%2BB3cXksFGltLs%3D</pub-id> </mixed-citation> </ref>",
+    "<ref id=\"CR5\"> <label>5.</label> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Barbosa</surname> <given-names>AMP</given-names> </name> <etal/> </person-group> <article-title xml:lang=\"en\">Urinary incontinence and vaginal squeeze pressure two years post-cesarean delivery in primiparous women with previous gestational diabetes mellitus</article-title> <source>Clinics</source> <year>2011</year> <volume>66</volume> <fpage>1341</fpage> <lpage>1346</lpage> <pub-id pub-id-type=\"pmid\">21915481</pub-id> <pub-id pub-id-type=\"pmcid\">3161209</pub-id> </mixed-citation> </ref>",
+    "<ref id=\"CR6\"> <label>6.</label> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Kim</surname> <given-names>C</given-names> </name> <name> <surname>McEwen</surname> <given-names>LN</given-names> </name> <name> <surname>Sarma</surname> <given-names>AV</given-names> </name> <name> <surname>Piette</surname> <given-names>JD</given-names> </name> <name> <surname>Herman</surname> <given-names>WH</given-names> </name> </person-group> <article-title xml:lang=\"en\">Stress urinary incontinence in women with a history of gestational diabetes mellitus</article-title> <source>J. Women\u2019s Health</source> <year>2008</year> <volume>17</volume> <fpage>783</fpage> <lpage>792</lpage> <pub-id pub-id-type=\"doi\">10.1089/jwh.2007.0616</pub-id> </mixed-citation> </ref>",
+    "<ref id=\"CR7\"> <label>7.</label> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Chuang</surname> <given-names>CM</given-names> </name> <etal/> </person-group> <article-title xml:lang=\"en\">The impact of gestational diabetes mellitus on postpartum urinary incontinence: A longitudinal cohort study on singleton pregnancies</article-title> <source>BJOG Int. J. Obstet. Gynaecol.</source> <year>2012</year> <volume>119</volume> <fpage>1334</fpage> <lpage>1343</lpage> <pub-id pub-id-type=\"doi\">10.1111/j.1471-0528.2012.03468.x</pub-id> </mixed-citation> </ref>",
+    "<ref id=\"CR8\"> <label>8.</label> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Piculo</surname> <given-names>F</given-names> </name> <etal/> </person-group> <article-title xml:lang=\"en\">Urethral striated muscle and extracellular matrix morphological characteristics among mildly diabetic pregnant rats: Translational approach</article-title> <source>Int. Urogynecol. J.</source> <year>2014</year> <volume>25</volume> <fpage>403</fpage> <lpage>415</lpage> <pub-id pub-id-type=\"pmid\">24043129</pub-id> <pub-id pub-id-type=\"doi\">10.1007/s00192-013-2218-4</pub-id> </mixed-citation> </ref>",
+    "<ref id=\"CR9\"> <label>9.</label> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Marini</surname> <given-names>G</given-names> </name> <name> <surname>Piculo</surname> <given-names>F</given-names> </name> <name> <surname>Vesentini</surname> <given-names>G</given-names> </name> <name> <surname>Barbosa</surname> <given-names>AMP</given-names> </name> <name> <surname>Damasceno</surname> <given-names>DC</given-names> </name> <name> <surname>Matheus</surname> <given-names>SMM</given-names> </name> <name> <surname>Rudge</surname> <given-names>M</given-names> </name> </person-group> <article-title xml:lang=\"en\">Effects of short-term severe and long-term mild STZ-induced diabetes in urethral tissue of female rats</article-title> <source>Neurourol. Urodyn.</source> <year>2017</year> <volume>36</volume> <fpage>574</fpage> <lpage>579</lpage> <pub-id pub-id-type=\"coi\">1:CAS:528:DC%2BC2sXks12ns7g%3D</pub-id> <pub-id pub-id-type=\"pmid\">26949929</pub-id> <pub-id pub-id-type=\"doi\">10.1002/nau.22974</pub-id> </mixed-citation> </ref>",
+    "<ref id=\"CR10\"> <label>10.</label> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Vesentini</surname> <given-names>G</given-names> </name> <etal/> </person-group> <article-title xml:lang=\"en\">Morphological changes in rat rectus abdominis muscle induced by diabetes and pregnancy</article-title> <source>J. Med. Biol. Res.</source> <year>2018</year> <volume>51</volume> <fpage>1</fpage> <lpage>10</lpage> </mixed-citation> </ref>",
+    "<ref id=\"CR11\"> <label>11.</label> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Vesentini</surname> <given-names>G</given-names> </name> <etal/> </person-group> <article-title xml:lang=\"en\">Alterations in the structural characteristics of rectus abdominis muscles caused by diabetes and pregnancy: A comparative study of the rat model and women</article-title> <source>PLoS ONE</source> <year>2020</year> <volume>15</volume> <fpage>1</fpage> <lpage>17</lpage> <pub-id pub-id-type=\"doi\">10.1371/journal.pone.0231096</pub-id> <pub-id pub-id-type=\"coi\">1:CAS:528:DC%2BB3cXnvVGmsLc%3D</pub-id> </mixed-citation> </ref>",
+    "<ref id=\"CR12\"> <label>12.</label> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Sartor\u00e3oFilho</surname> <given-names>CI</given-names> </name> <etal/> </person-group> <article-title xml:lang=\"en\">Impact of gestational diabetes on pelvic floor: A prospective cohort study with three-dimensional ultrasound during two-time points in pregnancy</article-title> <source>Neurourol. Urodyn.</source> <year>2020</year> <volume>39</volume> <fpage>2329</fpage> <lpage>2337</lpage> <pub-id pub-id-type=\"doi\">10.1002/nau.24491</pub-id> </mixed-citation> </ref>",
+    "<ref id=\"CR13\"> <label>13.</label> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Prudencio</surname> <given-names>CB</given-names> </name> <etal/> </person-group> <article-title xml:lang=\"en\">Negative impact of gestational diabetes mellitus on progress of pelvic floor muscle electromyography activity: Cohort study</article-title> <source>PLoS ONE</source> <year>2019</year> <volume>14</volume> <fpage>1</fpage> <lpage>13</lpage> <pub-id pub-id-type=\"doi\">10.1371/journal.pone.0223261</pub-id> <pub-id pub-id-type=\"coi\">1:CAS:528:DC%2BC1MXit1emt7%2FL</pub-id> </mixed-citation> </ref>",
+    "<ref id=\"CR14\"> <label>14.</label> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Floriano</surname> <given-names>JF</given-names> </name> <name> <surname>Willis</surname> <given-names>G</given-names> </name> <name> <surname>Catapano</surname> <given-names>F</given-names> </name> </person-group> <article-title xml:lang=\"en\">Exosomes could offer new options to combat the long-term complications inflicted by gestational diabetes mellitus</article-title> <source>Cells</source> <year>2020</year> <volume>9</volume> <fpage>675</fpage> <pub-id pub-id-type=\"coi\">1:CAS:528:DC%2BB3cXhsVSqtL3O</pub-id> <pub-id pub-id-type=\"pmcid\">7140615</pub-id> <pub-id pub-id-type=\"doi\">10.3390/cells9030675</pub-id> </mixed-citation> </ref>",
+    "<ref id=\"CR15\"> <label>15.</label> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Marianna Alperin</surname> <given-names>TK</given-names> </name> <name> <surname>Pichika</surname> <given-names>R</given-names> </name> <name> <surname>Esparza</surname> <given-names>MC</given-names> </name> <name> <surname>Lieber</surname> <given-names>RL</given-names> </name> </person-group> <article-title xml:lang=\"en\">Pregnancy-induced adaptations in intramuscular extracellular matrix of rat pelvic floor muscles</article-title> <source>Am. J. Obstet. Gynecol.</source> <year>2016</year> <pub-id pub-id-type=\"doi\">10.1016/j.ajog.2016.02.018</pub-id> <pub-id pub-id-type=\"pmid\">26953079</pub-id> <pub-id pub-id-type=\"pmcid\">5003683</pub-id> </mixed-citation> </ref>",
+    "<ref id=\"CR16\"> <label>16.</label> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Liu</surname> <given-names>G</given-names> </name> <name> <surname>Daneshgari</surname> <given-names>F</given-names> </name> </person-group> <article-title xml:lang=\"en\">Temporal diabetes- and diuresis-induced remodeling of the urinary bladder in the rat</article-title> <source>Am. J. Physiol. Regul. Integr. Comp. Physiol.</source> <year>2020</year> <volume>44195</volume> <fpage>837</fpage> <lpage>843</lpage> </mixed-citation> </ref>",
+    "<ref id=\"CR17\"> <label>17.</label> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Marini</surname> <given-names>G</given-names> </name> <etal/> </person-group> <article-title xml:lang=\"en\">The influence of hyperglycemia on the remodeling of urethral connective tissue in pregnant rats</article-title> <source>Eur. J. Obstet. Gynecol. Reprod. Biol.</source> <year>2018</year> <volume>221</volume> <fpage>81</fpage> <lpage>88</lpage> <pub-id pub-id-type=\"coi\">1:CAS:528:DC%2BC2sXitVaktbzI</pub-id> <pub-id pub-id-type=\"pmid\">29275277</pub-id> <pub-id pub-id-type=\"doi\">10.1016/j.ejogrb.2017.12.032</pub-id> </mixed-citation> </ref>",
+    "<ref id=\"CR18\"> <label>18.</label> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Agha-jaffar</surname> <given-names>R</given-names> </name> <name> <surname>Oliver</surname> <given-names>N</given-names> </name> <name> <surname>Johnston</surname> <given-names>D</given-names> </name> <name> <surname>Robinson</surname> <given-names>S</given-names> </name> </person-group> <article-title xml:lang=\"en\">Gestational diabetes mellitus : Does an effective prevention strategy exist ?</article-title> <source>Nat. Publ. Gr.</source> <year>2016</year> <volume>12</volume> <fpage>533</fpage> <lpage>546</lpage> </mixed-citation> </ref>",
+    "<ref id=\"CR19\"> <label>19.</label> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Russo</surname> <given-names>LM</given-names> </name> <name> <surname>Nobles</surname> <given-names>C</given-names> </name> <name> <surname>Whitcomb</surname> <given-names>BW</given-names> </name> <name> <surname>Ertel</surname> <given-names>KA</given-names> </name> <name> <surname>Chasan-taber</surname> <given-names>L</given-names> </name> </person-group> <article-title xml:lang=\"en\">Physical activity interventions in pregnancy and risk of gestational diabetes mellitus a systematic review and meta-analysis</article-title> <source>Obstet. Gynecol.</source> <year>2015</year> <volume>125</volume> <fpage>576</fpage> <lpage>582</lpage> <pub-id pub-id-type=\"pmid\">25730218</pub-id> <pub-id pub-id-type=\"doi\">10.1097/AOG.0000000000000691</pub-id> </mixed-citation> </ref>",
+    "<ref id=\"CR20\"> <label>20.</label> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Wang</surname> <given-names>C</given-names> </name> <etal/> </person-group> <article-title xml:lang=\"en\">Reports of major impact a randomized clinical trial of exercise during pregnancy to prevent gestational diabetes mellitus</article-title> <source>Am. J. Obstet. Gyecol.</source> <year>2017</year> <pub-id pub-id-type=\"doi\">10.1016/j.ajog.2017.01.037</pub-id> </mixed-citation> </ref>",
+    "<ref id=\"CR21\"> <label>21.</label> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Colberg</surname> <given-names>SR</given-names> </name> <name> <surname>Castorino</surname> <given-names>K</given-names> </name> <name> <surname>Jovanovi\u010d</surname> <given-names>L</given-names> </name> </person-group> <article-title xml:lang=\"en\">Prescribing physical activity to prevent and manage gestational diabetes</article-title> <source>World J. Diabetes</source> <year>2013</year> <volume>4</volume> <fpage>256</fpage> <lpage>262</lpage> <pub-id pub-id-type=\"pmid\">24379915</pub-id> <pub-id pub-id-type=\"pmcid\">3874484</pub-id> <pub-id pub-id-type=\"doi\">10.4239/wjd.v4.i6.256</pub-id> </mixed-citation> </ref>",
+    "<ref id=\"CR22\"> <label>22.</label> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <collab>Standards of Medical Care in Diabetes</collab> </person-group> <article-title xml:lang=\"en\">American Diabetes Association. 5. Lifestyle management</article-title> <source>Diabetes Care</source> <year>2019</year> <volume>42</volume> <fpage>46</fpage> <lpage>60</lpage> </mixed-citation> </ref>",
+    "<ref id=\"CR23\"> <label>23.</label> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Cordero</surname> <given-names>Y</given-names> </name> <name> <surname>Mottola</surname> <given-names>MF</given-names> </name> <name> <surname>Vargas</surname> <given-names>J</given-names> </name> <name> <surname>Blanco</surname> <given-names>M</given-names> </name> <name> <surname>Barakat</surname> <given-names>R</given-names> </name> </person-group> <article-title xml:lang=\"en\">Exercise is associated with a reduction in gestational diabetes mellitus</article-title> <source>Med. Sci. Sports Exerc.</source> <year>2015</year> <volume>47</volume> <fpage>1328</fpage> <lpage>1333</lpage> <pub-id pub-id-type=\"pmid\">25333246</pub-id> <pub-id pub-id-type=\"doi\">10.1249/MSS.0000000000000547</pub-id> </mixed-citation> </ref>",
+    "<ref id=\"CR24\"> <label>24.</label> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Di Biase</surname> <given-names>N</given-names> </name> <etal/> </person-group> <article-title xml:lang=\"en\">Review of general suggestions on physical activity to prevent and treat gestational and pre-existing diabetes during pregnancy and in postpartum</article-title> <source>Nutr. Metab. Cardiovasc. Dis.</source> <year>2019</year> <volume>29</volume> <fpage>115</fpage> <lpage>126</lpage> <pub-id pub-id-type=\"pmid\">30642790</pub-id> <pub-id pub-id-type=\"doi\">10.1016/j.numecd.2018.10.013</pub-id> </mixed-citation> </ref>",
+    "<ref id=\"CR25\"> <label>25.</label> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Huang</surname> <given-names>X</given-names> </name> <name> <surname>Huang</surname> <given-names>J</given-names> </name> <name> <surname>Wu</surname> <given-names>J</given-names> </name> <name> <surname>Li</surname> <given-names>M</given-names> </name> <name> <surname>Yang</surname> <given-names>Z</given-names> </name> <name> <surname>Liu</surname> <given-names>L</given-names> </name> <name> <surname>Lin</surname> <given-names>T</given-names> </name> <name> <surname>Lan</surname> <given-names>Y</given-names> </name> </person-group> <article-title xml:lang=\"en\">Different exercises for pregnant women with gestational diabetes: A meta-analysis of randomized controlled trials</article-title> <source>J. Sport. Med Phys Fit.</source> <year>2020</year> <volume>60</volume> <fpage>464</fpage> <lpage>471</lpage> </mixed-citation> </ref>",
+    "<ref id=\"CR26\"> <label>26.</label> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Davenport</surname> <given-names>MH</given-names> </name> <etal/> </person-group> <article-title xml:lang=\"en\">Prenatal exercise for the prevention of gestational diabetes mellitus and hypertensive disorders of pregnancy : A systematic review and meta-analysis</article-title> <source>Br. J. Sports Med.</source> <year>2019</year> <pub-id pub-id-type=\"doi\">10.1136/bjsports-2018-099355</pub-id> <pub-id pub-id-type=\"pmid\">31377724</pub-id> </mixed-citation> </ref>",
+    "<ref id=\"CR27\"> <label>27.</label> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Barakat</surname> <given-names>R</given-names> </name> <name> <surname>Perales</surname> <given-names>M</given-names> </name> <name> <surname>Cordero</surname> <given-names>Y</given-names> </name> <name> <surname>Bacchi</surname> <given-names>M</given-names> </name> <name> <surname>Mottola</surname> <given-names>MF</given-names> </name> </person-group> <article-title xml:lang=\"en\">Influence of land or water exercise in pregnancy on outcomes: A cross-sectional study</article-title> <source>Med. Sci. Sports Exerc.</source> <year>2017</year> <volume>49</volume> <fpage>1397</fpage> <lpage>1403</lpage> <pub-id pub-id-type=\"pmid\">28198729</pub-id> <pub-id pub-id-type=\"doi\">10.1249/MSS.0000000000001234</pub-id> </mixed-citation> </ref>",
+    "<ref id=\"CR28\"> <label>28.</label> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Alaca</surname> <given-names>N</given-names> </name> <etal/> </person-group> <article-title xml:lang=\"en\">Effects of different aerobic exercise frequencies on streptozotocin\u2013nicotinamide-induced type 2 diabetic rats: Continuous versus short bouts and weekend warrior exercises</article-title> <source>J. Diabetes</source> <year>2018</year> <volume>10</volume> <fpage>73</fpage> <lpage>84</lpage> <pub-id pub-id-type=\"amsid\">4246001</pub-id> <pub-id pub-id-type=\"coi\">1:CAS:528:DC%2BC1cXjtFGguw%3D%3D</pub-id> <pub-id pub-id-type=\"pmid\">28425181</pub-id> <pub-id pub-id-type=\"doi\">10.1111/1753-0407.12561</pub-id> </mixed-citation> </ref>",
+    "<ref id=\"CR29\"> <label>29.</label> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Martins</surname> <given-names>CEC</given-names> </name> <name> <surname>Lima</surname> <given-names>VBdS</given-names> </name> <name> <surname>Schoenfeld</surname> <given-names>BJ</given-names> </name> <name> <surname>Tirapegui</surname> <given-names>J</given-names> </name> </person-group> <article-title xml:lang=\"en\">Effects of leucine supplementation and resistance training on myopathy of diabetic rats</article-title> <source>Physiol. Rep.</source> <year>2017</year> <volume>5</volume> <fpage>1</fpage> <lpage>10</lpage> <pub-id pub-id-type=\"doi\">10.14814/phy2.13273</pub-id> <pub-id pub-id-type=\"coi\">1:CAS:528:DC%2BC2sXosl2ksLw%3D</pub-id> </mixed-citation> </ref>",
+    "<ref id=\"CR30\"> <label>30.</label> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Tedesco</surname> <given-names>FS</given-names> </name> <name> <surname>Dellavalle</surname> <given-names>A</given-names> </name> <name> <surname>Diaz-manera</surname> <given-names>J</given-names> </name> <name> <surname>Messina</surname> <given-names>G</given-names> </name> <name> <surname>Cossu</surname> <given-names>G</given-names> </name> </person-group> <article-title xml:lang=\"en\">Review series repairing skeletal muscle : Regenerative potential of skeletal muscle stem cells</article-title> <source>J. Clin. Invest.</source> <year>2010</year> <volume>120</volume> <fpage>16</fpage> <pub-id pub-id-type=\"doi\">10.1172/JCI40373</pub-id> <pub-id pub-id-type=\"coi\">1:CAS:528:DC%2BC3cXislWgsA%3D%3D</pub-id> </mixed-citation> </ref>",
+    "<ref id=\"CR31\"> <label>31.</label> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Bellamy</surname> <given-names>L</given-names> </name> <name> <surname>Casas</surname> <given-names>JP</given-names> </name> <name> <surname>Hingorani</surname> <given-names>AD</given-names> </name> <name> <surname>Williams</surname> <given-names>D</given-names> </name> </person-group> <article-title xml:lang=\"en\">Type 2 diabetes mellitus after gestational diabetes: A systematic review and meta-analysis</article-title> <source>Lancet</source> <year>2009</year> <volume>373</volume> <fpage>1773</fpage> <lpage>1779</lpage> <pub-id pub-id-type=\"coi\">1:CAS:528:DC%2BD1MXmtlektr4%3D</pub-id> <pub-id pub-id-type=\"pmid\">19465232</pub-id> <pub-id pub-id-type=\"doi\">10.1016/S0140-6736(09)60731-5</pub-id> </mixed-citation> </ref>",
+    "<ref id=\"CR32\"> <label>32.</label> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Souza</surname> <given-names>DMD</given-names> </name> <name> <surname>Al-sajee</surname> <given-names>D</given-names> </name> <name> <surname>Hawke</surname> <given-names>TJ</given-names> </name> <name> <surname>Pinheiro</surname> <given-names>CHJ</given-names> </name> </person-group> <article-title xml:lang=\"en\">Diabetic myopathy : Impact of diabetes mellitus on skeletal muscle progenitor cells</article-title> <source>Front. Physiol.</source> <year>2013</year> <volume>4</volume> <fpage>1</fpage> <lpage>7</lpage> <pub-id pub-id-type=\"doi\">10.3389/fphys.2013.00379</pub-id> </mixed-citation> </ref>",
+    "<ref id=\"CR33\"> <label>33.</label> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Hern\u00e1ndez-ochoa</surname> <given-names>EO</given-names> </name> <name> <surname>Vanegas</surname> <given-names>C</given-names> </name> </person-group> <article-title xml:lang=\"en\">Diabetic myopathy and mechanisms of disease</article-title> <source>Biochem. Pharmacol. (Los Angeles)</source> <year>2015</year> <volume>4</volume> <fpage>1</fpage> <lpage>5</lpage> </mixed-citation> </ref>",
+    "<ref id=\"CR34\"> <label>34.</label> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Krause</surname> <given-names>MP</given-names> </name> <name> <surname>Riddell</surname> <given-names>MC</given-names> </name> <name> <surname>Hawke</surname> <given-names>TJ</given-names> </name> </person-group> <article-title xml:lang=\"en\">Effects of type 1 diabetes mellitus on skeletal muscle: Clinical observations and physiological mechanisms</article-title> <source>Pediatr. Diabetes</source> <year>2011</year> <volume>12</volume> <fpage>345</fpage> <lpage>364</lpage> <pub-id pub-id-type=\"coi\">1:CAS:528:DC%2BC3MXoslOmu78%3D</pub-id> <pub-id pub-id-type=\"pmid\">20860561</pub-id> <pub-id pub-id-type=\"doi\">10.1111/j.1399-5448.2010.00699.x</pub-id> </mixed-citation> </ref>",
+    "<ref id=\"CR35\"> <label>35.</label> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Hanson</surname> <given-names>MA</given-names> </name> <name> <surname>Gluckman</surname> <given-names>PD</given-names> </name> <name> <surname>Ma</surname> <given-names>RCW</given-names> </name> <name> <surname>Matzen</surname> <given-names>P</given-names> </name> <name> <surname>Biesma</surname> <given-names>RG</given-names> </name> </person-group> <article-title xml:lang=\"en\">Early life opportunities for prevention of diabetes in low and middle income countries</article-title> <source>BMC Public Health</source> <year>2012</year> <volume>12</volume> <fpage>1</fpage> <pub-id pub-id-type=\"doi\">10.1186/1471-2458-12-1025</pub-id> </mixed-citation> </ref>",
+    "<ref id=\"CR36\"> <label>36.</label> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Poon</surname> <given-names>LC</given-names> </name> <name> <surname>McIntyre</surname> <given-names>HD</given-names> </name> <name> <surname>Hyett</surname> <given-names>JA</given-names> </name> <name> <surname>da Fonseca</surname> <given-names>EB</given-names> </name> <name> <surname>Hod</surname> <given-names>M</given-names> </name> </person-group> <article-title xml:lang=\"en\">The first-trimester of pregnancy\u2014A window of opportunity for prediction and prevention of pregnancy complications and future life</article-title> <source>Diabetes Res. Clin. Pract.</source> <year>2018</year> <volume>145</volume> <fpage>20</fpage> <lpage>30</lpage> <pub-id pub-id-type=\"pmid\">29852233</pub-id> <pub-id pub-id-type=\"doi\">10.1016/j.diabres.2018.05.002</pub-id> </mixed-citation> </ref>",
+    "<ref id=\"CR37\"> <label>37.</label> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Orleans</surname> <given-names>ED</given-names> </name> <etal/> </person-group> <article-title xml:lang=\"en\">Comparison betweent the effects of swimming and treadmill-based aerobic training protocols in diabetic rats</article-title> <source>Int. J. Cardiovasc. Sci.</source> <year>2018</year> <volume>31</volume> <fpage>610</fpage> <lpage>618</lpage> </mixed-citation> </ref>",
+    "<ref id=\"CR38\"> <label>38.</label> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Soares</surname> <given-names>TS</given-names> </name> <name> <surname>Moraes-Souza</surname> <given-names>RQ</given-names> </name> <name> <surname>Carneiro</surname> <given-names>TB</given-names> </name> <name> <surname>Araujo-Silva</surname> <given-names>VC</given-names> </name> <name> <surname>Schavinski</surname> <given-names>AZ</given-names> </name> <name> <surname>Gratao</surname> <given-names>TB</given-names> </name> <name> <surname>Damasceno</surname> <given-names>DC</given-names> </name> <name> <surname>Volpato</surname> <given-names>GT</given-names> </name> </person-group> <article-title xml:lang=\"en\">Maternal-fetal outcomes of exercise applied in rats with mild hyperglycemia after embryonic implantation</article-title> <source>Birth Defects Res.</source> <year>2020</year> <volume>113</volume> <fpage>1</fpage> </mixed-citation> </ref>",
+    "<ref id=\"CR39\"> <label>39.</label> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Harber</surname> <given-names>M</given-names> </name> <name> <surname>Trappe</surname> <given-names>S</given-names> </name> </person-group> <article-title xml:lang=\"en\">Single muscle fiber contractile properties of young competitive distance runners</article-title> <source>J. Appl. Physiol.</source> <year>2008</year> <volume>105</volume> <fpage>629</fpage> <lpage>636</lpage> <pub-id pub-id-type=\"pmid\">18535124</pub-id> <pub-id pub-id-type=\"doi\">10.1152/japplphysiol.00995.2007</pub-id> </mixed-citation> </ref>",
+    "<ref id=\"CR40\"> <label>40.</label> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Fry</surname> <given-names>CS</given-names> </name> <etal/> </person-group> <article-title xml:lang=\"en\">Fibre type-specific satellite cell response to aerobic training in sedentary adults</article-title> <source>J. Physiol.</source> <year>2014</year> <volume>592</volume> <fpage>2625</fpage> <lpage>2635</lpage> <pub-id pub-id-type=\"coi\">1:CAS:528:DC%2BC2cXps1Ojs7o%3D</pub-id> <pub-id pub-id-type=\"pmid\">24687582</pub-id> <pub-id pub-id-type=\"pmcid\">4080942</pub-id> <pub-id pub-id-type=\"doi\">10.1113/jphysiol.2014.271288</pub-id> </mixed-citation> </ref>",
+    "<ref id=\"CR41\"> <label>41.</label> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Qaisar</surname> <given-names>R</given-names> </name> <name> <surname>Bhaskaran</surname> <given-names>S</given-names> </name> <name> <surname>Remmen</surname> <given-names>HV</given-names> </name> </person-group> <article-title xml:lang=\"en\">Free radical biology and medicine muscle fiber type diversi fi cation during exercise and regeneration</article-title> <source>Free Radic. Biol. Med.</source> <year>2016</year> <volume>98</volume> <fpage>56</fpage> <lpage>67</lpage> <pub-id pub-id-type=\"coi\">1:CAS:528:DC%2BC28XltlOktbw%3D</pub-id> <pub-id pub-id-type=\"pmid\">27032709</pub-id> <pub-id pub-id-type=\"doi\">10.1016/j.freeradbiomed.2016.03.025</pub-id> </mixed-citation> </ref>",
+    "<ref id=\"CR42\"> <label>42.</label> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Marini</surname> <given-names>G</given-names> </name> <name> <surname>de Rinaldi</surname> <given-names>JC</given-names> </name> <name> <surname>Damasceno</surname> <given-names>DC</given-names> </name> <name> <surname>Felisbino</surname> <given-names>SL</given-names> </name> <name> <surname>Rudge</surname> <given-names>MVC</given-names> </name> </person-group> <article-title xml:lang=\"en\">Altera\u00e7\u00f5es da matriz extracelular causadas pelo diabetes: O impacto sobre a contin\u00eancia urin\u00e1ria</article-title> <source>Rev. Bras. Ginecol. Obs.</source> <year>2014</year> <volume>36</volume> <fpage>328</fpage> <lpage>333</lpage> <pub-id pub-id-type=\"doi\">10.1590/SO100-720320140005014</pub-id> </mixed-citation> </ref>",
+    "<ref id=\"CR43\"> <label>43.</label> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Marangon</surname> <given-names>L</given-names> </name> <name> <surname>Gobatto</surname> <given-names>C</given-names> </name> <name> <surname>de Mello</surname> <given-names>MKE</given-names> </name> </person-group> <article-title xml:lang=\"en\">Utilization of an hyperbolic model for the determination of the critical load in swimming rats</article-title> <source>Med. Sci. Sport. Exerc.</source> <year>2002</year> <volume>34</volume> <fpage>149</fpage> <pub-id pub-id-type=\"doi\">10.1097/00005768-200205001-00834</pub-id> </mixed-citation> </ref>",
+    "<ref id=\"CR44\"> <label>44.</label> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Manchado</surname> <given-names>FDB</given-names> </name> <name> <surname>Gobatto</surname> <given-names>CA</given-names> </name> <name> <surname>Contarteze</surname> <given-names>RVL</given-names> </name> <name> <surname>Papoti</surname> <given-names>MMM</given-names> </name> </person-group> <article-title xml:lang=\"en\">M\u00e1xima fase est\u00e1vel de lactato \u00e9 erg\u00f4metro-dependente em modelo experimental utilizando ratos</article-title> <source>Rev. Bras. Med. Esporte</source> <year>2006</year> <volume>6</volume> <fpage>259</fpage> <lpage>262</lpage> <pub-id pub-id-type=\"doi\">10.1590/S1517-86922006000500007</pub-id> </mixed-citation> </ref>",
+    "<ref id=\"CR45\"> <label>45.</label> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Volpato</surname> <given-names>GT</given-names> </name> <name> <surname>Damasceno</surname> <given-names>DC</given-names> </name> <name> <surname>Kempinas</surname> <given-names>WG</given-names> </name> <name> <surname>Rudge</surname> <given-names>MVC</given-names> </name> <name> <surname>Calderon</surname> <given-names>IMP</given-names> </name> </person-group> <article-title xml:lang=\"en\">Effect of exercise on the reproductive outcome and fetal development of diabetic rats</article-title> <source>Reprod. Biomed. Online</source> <year>2009</year> <volume>19</volume> <fpage>852</fpage> <lpage>858</lpage> <pub-id pub-id-type=\"coi\">1:STN:280:DC%2BD1Mfkt1Gitw%3D%3D</pub-id> <pub-id pub-id-type=\"pmid\">20031028</pub-id> <pub-id pub-id-type=\"doi\">10.1016/j.rbmo.2009.09.027</pub-id> </mixed-citation> </ref>",
+    "<ref id=\"CR46\"> <label>46.</label> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Damasceno</surname> <given-names>DC</given-names> </name> <etal/> </person-group> <article-title xml:lang=\"en\">Mild diabetes models and their maternal-fetal repercussions</article-title> <source>J. Diabetes Res.</source> <year>2013</year> <volume>2013</volume> <fpage>26</fpage> <pub-id pub-id-type=\"doi\">10.1155/2013/473575</pub-id> </mixed-citation> </ref>",
+    "<ref id=\"CR47\"> <label>47.</label> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Damasceno</surname> <given-names>DC</given-names> </name> <etal/> </person-group> <article-title xml:lang=\"en\">Streptozotocin-induced diabetes models : Pathophysiological mechanisms and fetal outcomes</article-title> <source>Biomed. Res. Int.</source> <year>2014</year> <volume>1</volume> <fpage>2014</fpage> </mixed-citation> </ref>",
+    "<ref id=\"CR48\"> <label>48.</label> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Sinzato</surname> <given-names>YK</given-names> </name> <name> <surname>Damasceno</surname> <given-names>DC</given-names> </name> <name> <surname>Laufer-Amorim</surname> <given-names>R</given-names> </name> <name> <surname>Rodrigues</surname> <given-names>MMP</given-names> </name> <name> <surname>Oshiiwa</surname> <given-names>M</given-names> </name> <name> <surname>Taylor</surname> <given-names>KN</given-names> </name> </person-group> <article-title xml:lang=\"en\">Plasma concentrations and placental immunostaining of interleukin-10 and tumornecrosis factor-\u03b1 as predictors of alterations in the embryo-fetal organism and the placental development of diabetic rats</article-title> <source>Braz. J. Med. Biol. Res.</source> <year>2011</year> <volume>44</volume> <fpage>206</fpage> <lpage>211</lpage> <pub-id pub-id-type=\"coi\">1:CAS:528:DC%2BC3MXlvVSlsrg%3D</pub-id> <pub-id pub-id-type=\"pmid\">21344139</pub-id> <pub-id pub-id-type=\"doi\">10.1590/S0100-879X2011007500015</pub-id> </mixed-citation> </ref>",
+    "<ref id=\"CR49\"> <label>49.</label> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Iessi</surname> <given-names>IL</given-names> </name> <etal/> </person-group> <article-title xml:lang=\"en\">Evaluation of neonatally-induced mild diabetes in rats: Maternal and fetal repercussions</article-title> <source>Diabetol. Metab. Syndr.</source> <year>2010</year> <volume>2</volume> <fpage>1</fpage> <lpage>8</lpage> <pub-id pub-id-type=\"doi\">10.1186/1758-5996-2-37</pub-id> <pub-id pub-id-type=\"coi\">1:CAS:528:DC%2BC3cXnsVCjsb4%3D</pub-id> </mixed-citation> </ref>",
+    "<ref id=\"CR50\"> <label>50.</label> <mixed-citation publication-type=\"other\">Damasceno, D.C., Kempinas, W.G., Volpato, G.T., Consoni, M., Rudge, M.V.C., Paumgartten, F. \t\t\t\t\t\t<italic>Anomalias Cong\u00eanitas</italic> <italic>: </italic> <italic>Estudos Experimentais</italic>. (Coopmed, 2008). \t\t\t\t\t</mixed-citation> </ref>",
+    "<ref id=\"CR51\"> <label>51.</label> <mixed-citation publication-type=\"other\">Nascimento, L. Avalia\u00e7\u00e3o de diferentes modelos de indu\u00e7\u00e3o do diabete moderado em ratas Wistar e suas repercuss\u00f5es no organismo materno-fetal. (2014).</mixed-citation> </ref>"
+  ],
+  "title": {
+    "textEnglish": "Reversal of diabetic-induced myopathy by swimming exercise in pregnant rats: a translational intervention study"
+  }
+}

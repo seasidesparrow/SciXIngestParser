@@ -1,0 +1,178 @@
+{
+  "authors": [
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "31400 Toulouse"
+        },
+        {
+          "affPubRaw": "Institut Sup\u00e9rieur de l\u2019A\u00e9ronautique et de l\u2019Espace ISAE-SUPAERO"
+        },
+        {
+          "affPubRaw": "10 Avenue Edouard Belin"
+        },
+        {
+          "affPubRaw": "France"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0001-5625-9706"
+      },
+      "name": {
+        "given_name": "M\u00e9lanie",
+        "surname": "Drilleau"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Institut de Physique du Globe de Paris, CNRS, Universit\u00e9 de Paris, 1 rue Jussieu, 75005 Paris - France"
+        }
+      ],
+      "name": {
+        "given_name": "Henri",
+        "surname": "Samuel"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Institut Sup\u00e9rieur de l\u2019A\u00e9ronautique et de l\u2019Espace ISAE-SUPAERO, 10 Avenue Edouard Belin, 31400 Toulouse, France"
+        }
+      ],
+      "name": {
+        "given_name": "Rapha\u00ebl F.",
+        "surname": "Garcia"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Royal Observatory of Belgium, Brussels, Belgium"
+        }
+      ],
+      "name": {
+        "given_name": "Attilio",
+        "surname": "Rivoldini"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Nantes Universit\u00e9, Universit\u00e9 d\u2019Angers, Le Mans Universit\u00e9, CNRS UMR 6112, Laboratoire de Plan\u00e9tologie et G\u00e9osciences, UAR 3281, Observatoire des Sciences de l\u2019Univers de Nantes Atlantique, F-44000 Nantes, France"
+        }
+      ],
+      "name": {
+        "given_name": "Cl\u00e9ment",
+        "surname": "Perrin"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Universit\u00e9 de Lyon, Ecole Normale Sup\u00e9rieure de Lyon, Universit\u00e9 Claude Bernard Lyon 1, CNRS, Laboratoire de G\u00e9ologie de Lyon : Terre, Plan\u00e8tes, Environnement, 69622 Villeurbanne, France"
+        }
+      ],
+      "name": {
+        "given_name": "Chlo\u00e9",
+        "surname": "Michaut"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Universit\u00e9 C\u00f4te d\u2019Azur, Observatoire de la C\u00f4te d\u2019Azur, CNRS, Laboratoire Lagrange, France."
+        }
+      ],
+      "name": {
+        "given_name": "Mark",
+        "surname": "Wieczorek"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Universit\u00e9 de Lyon, Ecole Normale Sup\u00e9rieure de Lyon, Universit\u00e9 Claude Bernard Lyon 1, CNRS, Laboratoire de G\u00e9ologie de Lyon : Terre, Plan\u00e8tes, Environnement, 69622 Villeurbanne, France"
+        }
+      ],
+      "name": {
+        "given_name": "Beno\u00eet",
+        "surname": "Tauzin"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Institute of Geophysics, ETH Zurich, Sonneggstrasse 5, Zurich, Switzerland"
+        }
+      ],
+      "name": {
+        "given_name": "James A. D.",
+        "surname": "Connolly"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Ecole et Observatoire des Sciences de la Terre, Universit\u00e9 de Strasbourg, 5 rue Ren\u00e9 Descartes, 67084 Strasbourg, France"
+        }
+      ],
+      "name": {
+        "given_name": "Pauline",
+        "surname": "Meyer"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Institut de Physique du Globe de Paris, CNRS, Universit\u00e9 de Paris, 1 rue Jussieu, 75005 Paris - France"
+        }
+      ],
+      "name": {
+        "given_name": "Philippe",
+        "surname": "Lognonn\u00e9"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Jet Propulsion Laboratory, California Institute of Technology, 4800 Oak Grove Drive, Pasadena, CA 91109, USA"
+        }
+      ],
+      "name": {
+        "given_name": "William B.",
+        "surname": "Banerdt"
+      }
+    }
+  ],
+  "doctype": "eprint",
+  "esources": [
+    {
+      "location": "https://essopenarchive.org/doi/full/10.1002/essoar.10511074.2",
+      "source": "pub_html"
+    }
+  ],
+  "persistentIDs": [
+    {
+      "DOI": "10.1002/essoar.10511074.2"
+    }
+  ],
+  "pubDate": {
+    "electrDate": "2022-04-11"
+  },
+  "publication": {
+    "pubYear": "2022",
+    "publisher": "Earth and Space Science Open Archive (ESSOAr)"
+  },
+  "recordData": {
+    "createdTime": "",
+    "loadFormat": "OtherXML",
+    "loadLocation": "",
+    "loadType": "fromFile",
+    "parsedTime": "",
+    "recordOrigin": ""
+  },
+  "title": {
+    "textEnglish": "Marsquake locations and 1-D seismic models for Mars from InSight data"
+  }
+}

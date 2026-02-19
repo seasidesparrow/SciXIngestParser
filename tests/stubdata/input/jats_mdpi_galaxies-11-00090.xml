@@ -1,0 +1,2106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.3 20210610//EN" "JATS-journalpublishing1-3.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" article-type="research-article" dtd-version="1.3" xml:lang="en">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">galaxies</journal-id>
+      <journal-title-group>
+        <journal-title>Galaxies</journal-title>
+        <abbrev-journal-title abbrev-type="publisher">Galaxies</abbrev-journal-title>
+        <abbrev-journal-title abbrev-type="pubmed">Galaxies</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2075-4434</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/galaxies11040090</article-id>
+      <article-id pub-id-type="publisher-id">galaxies-11-00090</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Article</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Infrared Spectroscopy of Be Stars: Influence of the Envelope Parameters on Brackett-Series Behaviour</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0002-2763-7250</contrib-id>
+          <name>
+            <surname>Cochetti</surname>
+            <given-names>Yanina Roxana</given-names>
+          </name>
+          <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Conceptualization" vocab-term-identifier="https://credit.niso.org/contributor-roles/conceptualization/">Conceptualization</role>
+          <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Methodology" vocab-term-identifier="https://credit.niso.org/contributor-roles/methodology/">Methodology</role>
+          <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Formal analysis" vocab-term-identifier="https://credit.niso.org/contributor-roles/formal-analysis/">Formal analysis</role>
+          <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Writing &#x2013; original draft" vocab-term-identifier="https://credit.niso.org/contributor-roles/writing-original-draft/">Writing &#x2013; original draft</role>
+          <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Writing &#x2013; review &amp; editing" vocab-term-identifier="https://credit.niso.org/contributor-roles/writing-review-editing/">Writing &#x2013; review &amp; editing</role>
+          <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Visualization" vocab-term-identifier="https://credit.niso.org/contributor-roles/visualization/">Visualization</role>
+          <xref rid="af1-galaxies-11-00090" ref-type="aff">1</xref>
+          <xref rid="af2-galaxies-11-00090" ref-type="aff">2</xref>
+          <xref rid="c1-galaxies-11-00090" ref-type="corresp">*</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Granada</surname>
+            <given-names>Anahi</given-names>
+          </name>
+          <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Conceptualization" vocab-term-identifier="https://credit.niso.org/contributor-roles/conceptualization/">Conceptualization</role>
+          <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Methodology" vocab-term-identifier="https://credit.niso.org/contributor-roles/methodology/">Methodology</role>
+          <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Formal analysis" vocab-term-identifier="https://credit.niso.org/contributor-roles/formal-analysis/">Formal analysis</role>
+          <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Writing &#x2013; review &amp; editing" vocab-term-identifier="https://credit.niso.org/contributor-roles/writing-review-editing/">Writing &#x2013; review &amp; editing</role>
+          <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Funding acquisition" vocab-term-identifier="https://credit.niso.org/contributor-roles/funding-acquisition/">Funding acquisition</role>
+          <xref rid="af3-galaxies-11-00090" ref-type="aff">3</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0002-4016-2501</contrib-id>
+          <name>
+            <surname>Arias</surname>
+            <given-names>Mar&#xED;a Laura</given-names>
+          </name>
+          <xref rid="af1-galaxies-11-00090" ref-type="aff">1</xref>
+          <xref rid="af2-galaxies-11-00090" ref-type="aff">2</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Torres</surname>
+            <given-names>Andrea Fabiana</given-names>
+          </name>
+          <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Conceptualization" vocab-term-identifier="https://credit.niso.org/contributor-roles/conceptualization/">Conceptualization</role>
+          <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Methodology" vocab-term-identifier="https://credit.niso.org/contributor-roles/methodology/">Methodology</role>
+          <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Formal analysis" vocab-term-identifier="https://credit.niso.org/contributor-roles/formal-analysis/">Formal analysis</role>
+          <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Writing &#x2013; review &amp; editing" vocab-term-identifier="https://credit.niso.org/contributor-roles/writing-review-editing/">Writing &#x2013; review &amp; editing</role>
+          <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Funding acquisition" vocab-term-identifier="https://credit.niso.org/contributor-roles/funding-acquisition/">Funding acquisition</role>
+          <xref rid="af1-galaxies-11-00090" ref-type="aff">1</xref>
+          <xref rid="af2-galaxies-11-00090" ref-type="aff">2</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0002-4825-4910</contrib-id>
+          <name>
+            <surname>Arcos</surname>
+            <given-names>Catalina</given-names>
+          </name>
+          <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Methodology" vocab-term-identifier="https://credit.niso.org/contributor-roles/methodology/">Methodology</role>
+          <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Writing &#x2013; review &amp; editing" vocab-term-identifier="https://credit.niso.org/contributor-roles/writing-review-editing/">Writing &#x2013; review &amp; editing</role>
+          <xref rid="af4-galaxies-11-00090" ref-type="aff">4</xref>
+        </contrib>
+      </contrib-group>
+      <contrib-group>
+        <contrib contrib-type="editor">
+          <name>
+            <surname>Vink</surname>
+            <given-names>Jorick Sandor</given-names>
+          </name>
+          <role>Academic Editor</role>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-galaxies-11-00090"><label>1</label>Instituto de Astrof&#xED;sica de La Plata (CCT La Plata&#x2014;CONICET, UNLP), Paseo del Bosque S/N, La Plata B1900FWA, Argentina</aff>
+      <aff id="af2-galaxies-11-00090"><label>2</label>Departamento de Espectroscop&#xED;a, Facultad de Ciencias Astron&#xF3;micas y Geof&#xED;sicas, Universidad Nacional de La Plata, La Plata B1900FWA, Argentina</aff>
+      <aff id="af3-galaxies-11-00090"><label>3</label>Centro Interdisciplinario de Telecomunicaciones, Electr&#xF3;nica, Computaci&#xF3;n y Ciencia Aplicada (CITECCA), Sede Andina, Universidad Nacional de R&#xED;o Negro, San Carlos de Bariloche R8400AHN, Argentina</aff>
+      <aff id="af4-galaxies-11-00090"><label>4</label>Instituto de F&#xED;sica y Astronom&#xED;a, Facultad de Ciencias, Universidad de Valpara&#xED;so, Valpara&#xED;so 2360102, Chile</aff>
+      <author-notes>
+        <corresp id="c1-galaxies-11-00090"><label>*</label>Correspondence: <email>cochetti@fcaglp.unlp.edu.ar</email></corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>17</day>
+        <month>08</month>
+        <year>2023</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>08</month>
+        <year>2023</year>
+      </pub-date>
+      <volume>11</volume>
+      <issue>4</issue>
+      <elocation-id>90</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>14</day>
+          <month>03</month>
+          <year>2023</year>
+        </date>
+        <date date-type="rev-recd">
+          <day>09</day>
+          <month>08</month>
+          <year>2023</year>
+        </date>
+        <date date-type="accepted">
+          <day>11</day>
+          <month>08</month>
+          <year>2023</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2023 by the authors.</copyright-statement>
+        <copyright-year>2023</copyright-year>
+        <license license-type="open-access">
+          <license-p>Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (<ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">https://creativecommons.org/licenses/by/4.0/</ext-link>).</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>The IR spectra of Be stars display numerous hydrogen recombination lines, constituting a great resource for obtaining information on the physical and dynamic structures of different regions within the circumstellar envelope. Nevertheless, this spectral region has not been analysed in depth, and there is a lack of synthetic spectra with which to compare observations. Therefore, we computed synthetic spectra with the HDUST code for different disc parameters. Here, we present our results on the spectral region that includes lines of the Brackett series. We discuss the dependence of the line series strengths on several parameters that describe the structure of the disc. We also compared model line profiles, fluxes, and EWs with observational data for two Be stars (MX Pup and <inline-formula><mml:math id="mm1"><mml:semantics><mml:mi>&#x3C0;</mml:mi></mml:semantics></mml:math></inline-formula> Aqr). Even though the synthetic spectra adequately fit our observations of both stars and allow us to constrain the parameters of the disc, there is a discrepancy with the observed data in the EW and flux measurements, especially in the case of MX Pup. It is possible that by including Brackett lines of higher terms or adding the analysis of other series, we may be able to better constrain the parameters of the observed disc.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>stars: early-type</kwd>
+        <kwd>stars: emission-line, Be</kwd>
+        <kwd>stars: individual: MX Pup, <italic>&#x3C0;</italic> Aqr</kwd>
+        <kwd>circumstellar matter</kwd>
+      </kwd-group>
+      <funding-group>
+        <award-group>
+          <funding-source>CONICET fellowship</funding-source>
+        </award-group>
+        <award-group>
+          <funding-source>Universidad Nacional de La Plata</funding-source>
+          <award-id>11/G160</award-id>
+        </award-group>
+        <award-group>
+          <funding-source>CONICET</funding-source>
+          <award-id>28720210100879CO</award-id>
+        </award-group>
+        <award-group>
+          <funding-source>Fondecyt Regular</funding-source>
+          <award-id>1230131</award-id>
+        </award-group>
+        <award-group>
+          <funding-source>European Union&#x2019;s Framework Programme for Research and Innovation Horizon 2020 (2014&#x2013;2020)</funding-source>
+          <award-id>823734</award-id>
+        </award-group>
+        <funding-statement>The authors would like to thank the reviewers for all their useful comments, which improved our manuscript. Y.R.C. acknowledges support from a CONICET fellowship. M.L.A. and A.F.T. acknowledge financial support from the Universidad Nacional de La Plata (Programa de Incentivos 11/G160). A.G. acknowledges the research project from CONICET, PIBAA 28720210100879CO. C.A. thanks Fondecyt Regular N. 1230131 for the support. This project has received funding from the European Union&#x2019;s Framework Programme for Research and Innovation Horizon 2020 (2014&#x2013;2020) under the Marie Sk&#x142;odowska-Curie Grant Agreement No. 823734.</funding-statement>
+      </funding-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec sec-type="intro" id="sec1-galaxies-11-00090">
+      <title>1. Introduction</title>
+      <p>Classical Be stars are non-supergiant B-type stars whose spectra show or have shown the H<inline-formula><mml:math id="mm2"><mml:semantics><mml:mi>&#x3B1;</mml:mi></mml:semantics></mml:math></inline-formula> line in emission [<xref ref-type="bibr" rid="B1-galaxies-11-00090">1</xref>,<xref ref-type="bibr" rid="B2-galaxies-11-00090">2</xref>]. These stars are rapidly rotating, and it is accepted that this emission originates in a circumstellar envelope, mostly compatible with a disc geometry in Keplerian rotation [<xref ref-type="bibr" rid="B3-galaxies-11-00090">3</xref>]. The model that best explains the observations of Be stars is the viscous decretion disc [<xref ref-type="bibr" rid="B4-galaxies-11-00090">4</xref>], which allows us not only to explain static discs but also to study their dynamical evolution [<xref ref-type="bibr" rid="B5-galaxies-11-00090">5</xref>].</p>
+      <p>In the infrared (IR) spectral region, Be spectra present a moderate flux excess and numerous hydrogen emission lines of the Paschen, Brackett, Pfund, and Humphreys series. Since these IR lines are formed in a region closer to the star than those observed in the optical spectral range, and the photospheric absorption is almost negligible for most of them, the study of these IR emission lines is a great tool to obtain information about the physical structure and dynamics within the innermost part of the disc [<xref ref-type="bibr" rid="B6-galaxies-11-00090">6</xref>,<xref ref-type="bibr" rid="B7-galaxies-11-00090">7</xref>,<xref ref-type="bibr" rid="B8-galaxies-11-00090">8</xref>,<xref ref-type="bibr" rid="B9-galaxies-11-00090">9</xref>,<xref ref-type="bibr" rid="B10-galaxies-11-00090">10</xref>].</p>
+      <p>This spectral region has gained importance in recent decades. An extensive atlas of the K- and L-bands of early-type stars, including Be stars, was published by Lenorzer et al. [<xref ref-type="bibr" rid="B11-galaxies-11-00090">11</xref>]. With those data, Lenorzer et al. [<xref ref-type="bibr" rid="B7-galaxies-11-00090">7</xref>] made a diagram with the flux ratios Hu14/Br<inline-formula><mml:math id="mm3"><mml:semantics><mml:mi>&#x3B1;</mml:mi></mml:semantics></mml:math></inline-formula> versus Hu14/Pf<inline-formula><mml:math id="mm4"><mml:semantics><mml:mi>&#x3B3;</mml:mi></mml:semantics></mml:math></inline-formula>. In this diagram, the location of the objects depends on the density of the emitting gas. Mennickent et al. [<xref ref-type="bibr" rid="B8-galaxies-11-00090">8</xref>] proposed a classification criterion based on the emission lines observed in the L-band: those stars on which the Humphreys lines present intensities similar to those of Br<inline-formula><mml:math id="mm5"><mml:semantics><mml:mi>&#x3B1;</mml:mi></mml:semantics></mml:math></inline-formula> and Pf<inline-formula><mml:math id="mm6"><mml:semantics><mml:mi>&#x3B4;</mml:mi></mml:semantics></mml:math></inline-formula> lines constitute Group I; stars with Br<inline-formula><mml:math id="mm7"><mml:semantics><mml:mi>&#x3B1;</mml:mi></mml:semantics></mml:math></inline-formula> and Pf<inline-formula><mml:math id="mm8"><mml:semantics><mml:mi>&#x3B4;</mml:mi></mml:semantics></mml:math></inline-formula> lines more intense than Humphreys lines are part of Group II; and stars without emission lines are part of Group III. Groups I and II fall in different regions of Lenorzer&#x2019;s diagram; thus, the group membership is probably connected to the density of the disc. Classifying a sample of Be stars using Mennickent&#x2019;s criterion, Granada et al. [<xref ref-type="bibr" rid="B9-galaxies-11-00090">9</xref>] found that the equivalent widths (EWs) of Br<inline-formula><mml:math id="mm9"><mml:semantics><mml:mi>&#x3B1;</mml:mi></mml:semantics></mml:math></inline-formula> and Br<inline-formula><mml:math id="mm10"><mml:semantics><mml:mi>&#x3B3;</mml:mi></mml:semantics></mml:math></inline-formula> lines are similar for Group I objects, while for stars in Group II, EW(Br<inline-formula><mml:math id="mm11"><mml:semantics><mml:mi>&#x3B3;</mml:mi></mml:semantics></mml:math></inline-formula>) is much larger (more than five times) than EW(Br<inline-formula><mml:math id="mm12"><mml:semantics><mml:mi>&#x3B1;</mml:mi></mml:semantics></mml:math></inline-formula>).</p>
+      <p>Up to the recent publication of Cochetti et al. [<xref ref-type="bibr" rid="B12-galaxies-11-00090">12</xref>]&#x2019;s atlas, most of the works that focused on the IR data of Be stars showed low-resolution data, analysed a small sample, or covered a small spectral range. The already-mentioned atlas comprises medium-resolution spectra in the near-IR region of a sample of Galactic Be stars. By measuring different parameters of the observed hydrogen recombination lines, these authors diagnosed the physical conditions in the circumstellar environment. They defined new complementary criteria to classify Be stars according to their disc opacity. This atlas provides valuable observational material available to be analysed and modelled. In particular, the behaviour of the fluxes of the hydrogen lines for different stars may give us clues about the properties of the discs. To perform better analysis, modelling synthetic spectra and comparing them with observations is essential.</p>
+      <p>In the last years, different observables from Be star discs have been successfully modelled in the framework of the viscous decretion disc model (VDD; [<xref ref-type="bibr" rid="B4-galaxies-11-00090">4</xref>,<xref ref-type="bibr" rid="B13-galaxies-11-00090">13</xref>]). In this model, the rapidly rotating central star continuously loses mass and angular momentum and puts material in a Keplerian orbit at the base of the disc. Beyond this inner edge, the material is expected to be driven outwards through some turbulent viscous process. The rotationally distorted star irradiates the disc, which is assumed to extend out to a radius of <inline-formula><mml:math id="mm13"><mml:semantics><mml:msub><mml:mi>R</mml:mi><mml:mi>d</mml:mi></mml:msub></mml:semantics></mml:math></inline-formula> equatorial radii, and the star-plus-disc system is viewed at an inclination angle (angle between the star&#x2019;s rotation axis and the line of sight) of <italic>i</italic>. Then, in state-of-the-art disc models such as HDUST [<xref ref-type="bibr" rid="B14-galaxies-11-00090">14</xref>] or Bedisc/BeRay [<xref ref-type="bibr" rid="B15-galaxies-11-00090">15</xref>,<xref ref-type="bibr" rid="B16-galaxies-11-00090">16</xref>], each computed observable is a function of four model parameters: <inline-formula><mml:math id="mm14"><mml:semantics><mml:msub><mml:mi>&#x3C1;</mml:mi><mml:mn>0</mml:mn></mml:msub></mml:semantics></mml:math></inline-formula>, <italic>n</italic>, <inline-formula><mml:math id="mm15"><mml:semantics><mml:msub><mml:mi>R</mml:mi><mml:mi>d</mml:mi></mml:msub></mml:semantics></mml:math></inline-formula>, and <italic>i</italic>, where <inline-formula><mml:math id="mm16"><mml:semantics><mml:msub><mml:mi>&#x3C1;</mml:mi><mml:mn>0</mml:mn></mml:msub></mml:semantics></mml:math></inline-formula> is the axisymmetric volume density at the innermost part of the disc, and <italic>n</italic> is the exponent of the radial power law usually used to describe the Be star disc&#x2019;s density.</p>
+      <p>The modelling of different observables has allowed constraints on Be disc parameters to be derived. In particular, modelling of the iconic H<inline-formula><mml:math id="mm17"><mml:semantics><mml:mi>&#x3B1;</mml:mi></mml:semantics></mml:math></inline-formula>-line emission has shown that this line typically forms within the innermost tens of stellar radii [<xref ref-type="bibr" rid="B3-galaxies-11-00090">3</xref>,<xref ref-type="bibr" rid="B17-galaxies-11-00090">17</xref>,<xref ref-type="bibr" rid="B18-galaxies-11-00090">18</xref>]. The modelling of the Br<inline-formula><mml:math id="mm18"><mml:semantics><mml:mi>&#x3B3;</mml:mi></mml:semantics></mml:math></inline-formula> line, in particular, from spectro-interferometric data [<xref ref-type="bibr" rid="B19-galaxies-11-00090">19</xref>] has allowed for constraining stellar parameters and also shown that the formation region of this line is, at most, 15 or 20 stellar radii. However, a smaller Brackett-series-forming region of a few stellar radii has been derived from near-IR spectra [<xref ref-type="bibr" rid="B20-galaxies-11-00090">20</xref>]. Unfortunately, the lack of simultaneous observations prevents a direct comparison between H<inline-formula><mml:math id="mm19"><mml:semantics><mml:mi>&#x3B1;</mml:mi></mml:semantics></mml:math></inline-formula>- and Br<inline-formula><mml:math id="mm20"><mml:semantics><mml:mi>&#x3B3;</mml:mi></mml:semantics></mml:math></inline-formula>-line-forming regions. The modelling of the near-IR hydrogen recombination lines allows us to explore the properties of their line-forming region, which is expected to be closer to the star than that of H<inline-formula><mml:math id="mm21"><mml:semantics><mml:mi>&#x3B1;</mml:mi></mml:semantics></mml:math></inline-formula> and, thus, contributes to better constraints on the parameters of the disc.</p>
+      <p>With this aim, we started to compute a grid of synthetic spectra covering the near-IR spectral range with the HDUST code [<xref ref-type="bibr" rid="B14-galaxies-11-00090">14</xref>,<xref ref-type="bibr" rid="B21-galaxies-11-00090">21</xref>]. As a first step, we computed the first lines of the Brackett series for a set of disc parameters and one central B-type star. Even though we do not expect to be able to describe the whole complexity of the star&#x2013;disc interphase, we seek to understand the impact on the emerging spectra of the different parameters involved in the modelling of Be stars in the viscous decretion disc framework, with the final goal of deducing disc properties from the IR spectra. From the synthetic spectra, we measured the equivalent widths and fluxes of the hydrogen lines and analysed the behaviour of the line series when varying the parameters that describe the disc density law. Finally, we compared the spectra and the line flux behaviour from the models with the observational data of two known Be stars: MX Pup and <inline-formula><mml:math id="mm22"><mml:semantics><mml:mi>&#x3C0;</mml:mi></mml:semantics></mml:math></inline-formula> Aqr.</p>
+    </sec>
+    <sec sec-type="methods" id="sec2-galaxies-11-00090">
+      <title>2. Methods</title>
+      <p>We used the HDUST code, developed by Carciofi and Bjorkman [<xref ref-type="bibr" rid="B14-galaxies-11-00090">14</xref>,<xref ref-type="bibr" rid="B21-galaxies-11-00090">21</xref>]. This three-dimensional non-LTE Monte Carlo code solves the radiative transfer, radiative equilibrium, and statistical equilibrium equations in a 3D geometry for different gas density and velocity distributions. This code has been used to discuss the properties of Be stars via the analysis of the spectral energy distribution (SED) based on different wavelengths, as well as some optical hydrogen lines [<xref ref-type="bibr" rid="B22-galaxies-11-00090">22</xref>,<xref ref-type="bibr" rid="B23-galaxies-11-00090">23</xref>,<xref ref-type="bibr" rid="B24-galaxies-11-00090">24</xref>,<xref ref-type="bibr" rid="B25-galaxies-11-00090">25</xref>].</p>
+      <p>The code includes a 25-level model for the hydrogen atom, of which the first 12 are explicit non-LTE levels, and the upper 13 are implicit levels with the LTE population. This default configuration of the code allowed us to compute the Brackett series from the Br<inline-formula><mml:math id="mm23"><mml:semantics><mml:mi>&#x3B1;</mml:mi></mml:semantics></mml:math></inline-formula> line to Br12. We also modelled the continuum in the range 1.4&#x2013;4.3 <inline-formula><mml:math id="mm24"><mml:semantics><mml:mi mathvariant="sans-serif">&#x3BC;</mml:mi></mml:semantics></mml:math></inline-formula>m.</p>
+      <p>The disc is considered to start at the stellar radius <inline-formula><mml:math id="mm25"><mml:semantics><mml:msub><mml:mi>R</mml:mi><mml:mo>&#x2605;</mml:mo></mml:msub></mml:semantics></mml:math></inline-formula>, and the density throughout it is modelled with the expression
+      <disp-formula id="FD1-galaxies-11-00090"><label>(1)</label><mml:math id="mm26" display="block"><mml:semantics><mml:mrow><mml:mi>&#x3C1;</mml:mi><mml:mrow><mml:mo>(</mml:mo><mml:mi>r</mml:mi><mml:mo>,</mml:mo><mml:mi>z</mml:mi><mml:mo>)</mml:mo></mml:mrow><mml:mo>=</mml:mo><mml:msub><mml:mi>&#x3C1;</mml:mi><mml:mn>0</mml:mn></mml:msub><mml:msup><mml:mfenced separators="" open="(" close=")"><mml:mfrac><mml:mi>r</mml:mi><mml:msub><mml:mi>R</mml:mi><mml:mo>&#x2605;</mml:mo></mml:msub></mml:mfrac></mml:mfenced><mml:mrow><mml:mo>&#x2212;</mml:mo><mml:mi>n</mml:mi></mml:mrow></mml:msup><mml:mspace width="0.166667em"/><mml:mi>e</mml:mi><mml:mi>x</mml:mi><mml:mi>p</mml:mi><mml:mfenced separators="" open="(" close=")"><mml:mo>&#x2212;</mml:mo><mml:mfrac><mml:msup><mml:mi>z</mml:mi><mml:mn>2</mml:mn></mml:msup><mml:mrow><mml:mn>2</mml:mn><mml:msup><mml:mi>H</mml:mi><mml:mn>2</mml:mn></mml:msup></mml:mrow></mml:mfrac></mml:mfenced></mml:mrow></mml:semantics></mml:math></disp-formula>
+      which includes a power law and a Gaussian distribution in the radial and vertical directions, respectively [<xref ref-type="bibr" rid="B14-galaxies-11-00090">14</xref>]. In this expression, <inline-formula><mml:math id="mm27"><mml:semantics><mml:mi>&#x3C1;</mml:mi></mml:semantics></mml:math></inline-formula> is the density at each pair of <inline-formula><mml:math id="mm28"><mml:semantics><mml:mrow><mml:mo>(</mml:mo><mml:mi>r</mml:mi><mml:mo>,</mml:mo><mml:mi>z</mml:mi><mml:mo>)</mml:mo></mml:mrow></mml:semantics></mml:math></inline-formula> coordinates, <inline-formula><mml:math id="mm29"><mml:semantics><mml:msub><mml:mi>&#x3C1;</mml:mi><mml:mn>0</mml:mn></mml:msub></mml:semantics></mml:math></inline-formula> is the density at the base of the disc, and <italic>H</italic> is the scale height of the disc. For a vertically isothermal disc, <italic>H</italic> is obtained with the expression
+      <disp-formula id="FD2-galaxies-11-00090"><label>(2)</label><mml:math id="mm30" display="block"><mml:semantics><mml:mrow><mml:mi>H</mml:mi><mml:mo>=</mml:mo><mml:mi>H</mml:mi><mml:mn>0</mml:mn><mml:msup><mml:mfenced separators="" open="(" close=")"><mml:mfrac><mml:mi>r</mml:mi><mml:msub><mml:mi>R</mml:mi><mml:mo>&#x2605;</mml:mo></mml:msub></mml:mfrac></mml:mfenced><mml:mrow><mml:mn>1.5</mml:mn></mml:mrow></mml:msup><mml:mo>,</mml:mo><mml:mi>H</mml:mi><mml:mn>0</mml:mn><mml:mo>=</mml:mo><mml:msqrt><mml:mfrac><mml:mrow><mml:mi>k</mml:mi><mml:mi>T</mml:mi></mml:mrow><mml:mrow><mml:mi>&#x3BC;</mml:mi><mml:mo>&#xB7;</mml:mo><mml:msub><mml:mi>m</mml:mi><mml:mi>H</mml:mi></mml:msub></mml:mrow></mml:mfrac></mml:msqrt><mml:mfrac><mml:mn>1</mml:mn><mml:msub><mml:mi>V</mml:mi><mml:mrow><mml:mi>o</mml:mi><mml:mi>r</mml:mi><mml:mi>b</mml:mi></mml:mrow></mml:msub></mml:mfrac><mml:msub><mml:mi>R</mml:mi><mml:mo>&#x2605;</mml:mo></mml:msub></mml:mrow></mml:semantics></mml:math></disp-formula>
+      where <italic>k</italic> is the Boltzmann constant, <inline-formula><mml:math id="mm31"><mml:semantics><mml:mi>&#x3BC;</mml:mi></mml:semantics></mml:math></inline-formula> is the mean molecular weight, <inline-formula><mml:math id="mm32"><mml:semantics><mml:msub><mml:mi>m</mml:mi><mml:mi>H</mml:mi></mml:msub></mml:semantics></mml:math></inline-formula> is the mass of the hydrogen atom, <inline-formula><mml:math id="mm33"><mml:semantics><mml:mrow><mml:msub><mml:mi>V</mml:mi><mml:mrow><mml:mi>o</mml:mi><mml:mi>r</mml:mi><mml:mi>b</mml:mi></mml:mrow></mml:msub><mml:mo>=</mml:mo><mml:msqrt><mml:mrow><mml:mi>G</mml:mi><mml:mspace width="0.166667em"/><mml:mi>M</mml:mi><mml:mo>/</mml:mo><mml:msub><mml:mi>R</mml:mi><mml:mrow><mml:mi>e</mml:mi><mml:mi>q</mml:mi></mml:mrow></mml:msub></mml:mrow></mml:msqrt></mml:mrow></mml:semantics></mml:math></inline-formula> is the disc orbital speed at the stellar equator <inline-formula><mml:math id="mm34"><mml:semantics><mml:msub><mml:mi>R</mml:mi><mml:mrow><mml:mi>e</mml:mi><mml:mi>q</mml:mi></mml:mrow></mml:msub></mml:semantics></mml:math></inline-formula>, and the temperature <italic>T</italic> has been set as 72% of the effective temperature <inline-formula><mml:math id="mm35"><mml:semantics><mml:msub><mml:mi>T</mml:mi><mml:mi>eff</mml:mi></mml:msub></mml:semantics></mml:math></inline-formula> of the star.</p>
+      <p>Despite the evidence of differential rotation reported in the literature (i.e., [<xref ref-type="bibr" rid="B26-galaxies-11-00090">26</xref>]), to date, there is not a comprehensive theory that covers all the observed physical phenomena occurring in the interior and photosphere of rapidly rotating stars. Then, the adoption of a solid and rigid approach is prevalent in their modelling, and particularly in this code.</p>
+      <p>We calculated models with <inline-formula><mml:math id="mm36"><mml:semantics><mml:msub><mml:mi>&#x3C1;</mml:mi><mml:mn>0</mml:mn></mml:msub></mml:semantics></mml:math></inline-formula> values between <inline-formula><mml:math id="mm37"><mml:semantics><mml:mrow><mml:mn>5</mml:mn><mml:mo>&#xD7;</mml:mo><mml:msup><mml:mn>10</mml:mn><mml:mrow><mml:mo>&#x2212;</mml:mo><mml:mn>12</mml:mn></mml:mrow></mml:msup></mml:mrow></mml:semantics></mml:math></inline-formula> and <inline-formula><mml:math id="mm38"><mml:semantics><mml:mrow><mml:mn>1</mml:mn><mml:mo>&#xD7;</mml:mo><mml:msup><mml:mn>10</mml:mn><mml:mrow><mml:mo>&#x2212;</mml:mo><mml:mn>10</mml:mn></mml:mrow></mml:msup></mml:mrow></mml:semantics></mml:math></inline-formula> g cm<inline-formula><mml:math id="mm39"><mml:semantics><mml:msup><mml:mrow/><mml:mrow><mml:mo>&#x2212;</mml:mo><mml:mn>3</mml:mn></mml:mrow></mml:msup></mml:semantics></mml:math></inline-formula><xref ref-type="fn" rid="fn001-galaxies-11-00090">1</xref> and values of the exponent <italic>n</italic> in the range 2.5&#x2013;4 [<xref ref-type="bibr" rid="B23-galaxies-11-00090">23</xref>]. These <inline-formula><mml:math id="mm40"><mml:semantics><mml:msub><mml:mi>&#x3C1;</mml:mi><mml:mn>0</mml:mn></mml:msub></mml:semantics></mml:math></inline-formula> values correspond to a steady-state decretion rate <inline-formula><mml:math id="mm41"><mml:semantics><mml:mover accent="true"><mml:mi>M</mml:mi><mml:mo>&#x2D9;</mml:mo></mml:mover></mml:semantics></mml:math></inline-formula> over the viscosity parameter <inline-formula><mml:math id="mm42"><mml:semantics><mml:mi>&#x3B1;</mml:mi></mml:semantics></mml:math></inline-formula> [<xref ref-type="bibr" rid="B27-galaxies-11-00090">27</xref>] in the range <inline-formula><mml:math id="mm43"><mml:semantics><mml:mrow><mml:mn>2.13</mml:mn><mml:mo>&#xD7;</mml:mo><mml:msup><mml:mn>10</mml:mn><mml:mrow><mml:mo>&#x2212;</mml:mo><mml:mn>13</mml:mn></mml:mrow></mml:msup><mml:msub><mml:mi>M</mml:mi><mml:mo>&#x2A00;</mml:mo></mml:msub></mml:mrow></mml:semantics></mml:math></inline-formula> yr<inline-formula><mml:math id="mm44"><mml:semantics><mml:mrow><mml:msup><mml:mrow/><mml:mrow><mml:mo>&#x2212;</mml:mo><mml:mn>1</mml:mn></mml:mrow></mml:msup><mml:mo>&#x2272;</mml:mo><mml:mover accent="true"><mml:mi>M</mml:mi><mml:mo>&#x2D9;</mml:mo></mml:mover><mml:mo>/</mml:mo><mml:mi>&#x3B1;</mml:mi><mml:mo>&#x2272;</mml:mo><mml:mn>2.13</mml:mn><mml:mo>&#xD7;</mml:mo><mml:msup><mml:mn>10</mml:mn><mml:mrow><mml:mo>&#x2212;</mml:mo><mml:mn>11</mml:mn></mml:mrow></mml:msup><mml:msub><mml:mi>M</mml:mi><mml:mo>&#x2A00;</mml:mo></mml:msub></mml:mrow></mml:semantics></mml:math></inline-formula> yr<inline-formula><mml:math id="mm45"><mml:semantics><mml:msup><mml:mrow/><mml:mrow><mml:mo>&#x2212;</mml:mo><mml:mn>1</mml:mn></mml:mrow></mml:msup></mml:semantics></mml:math></inline-formula> [<xref ref-type="bibr" rid="B23-galaxies-11-00090">23</xref>]. Following a procedure similar to the one described by Silaj et al. [<xref ref-type="bibr" rid="B28-galaxies-11-00090">28</xref>] for determining the convenient disc size for each <italic>n</italic>&#x2013;<inline-formula><mml:math id="mm46"><mml:semantics><mml:msub><mml:mi>&#x3C1;</mml:mi><mml:mn>0</mml:mn></mml:msub></mml:semantics></mml:math></inline-formula> pair, we analysed the change in the equivalent width of the modelled lines as a function of the disc size by increasing it by 10 <inline-formula><mml:math id="mm47"><mml:semantics><mml:msub><mml:mi>R</mml:mi><mml:mo>&#x2605;</mml:mo></mml:msub></mml:semantics></mml:math></inline-formula> each time. Then, we determined the minimum disc size at which the EW reached a stable value for each model. The required radius is larger for lower <italic>n</italic> values or higher central densities. By using this radius as the disc&#x2019;s outer radius <inline-formula><mml:math id="mm48"><mml:semantics><mml:msub><mml:mi>R</mml:mi><mml:mi>d</mml:mi></mml:msub></mml:semantics></mml:math></inline-formula>, we ensure that we include the entire emitting region. To check the convergence of the simulation, we plotted the disc temperature for the last iterations, ensuring a decreasing profile in the inner part of the disc and an increasing temperature in the outer disc (forming a typical U shape, [<xref ref-type="bibr" rid="B14-galaxies-11-00090">14</xref>]).</p>
+      <p>In <xref ref-type="table" rid="galaxies-11-00090-t001">Table 1</xref>, we show the envelope&#x2019;s outer radius <inline-formula><mml:math id="mm49"><mml:semantics><mml:msub><mml:mi>R</mml:mi><mml:mi>d</mml:mi></mml:msub></mml:semantics></mml:math></inline-formula> chosen for each <italic>n</italic>&#x2013;<inline-formula><mml:math id="mm50"><mml:semantics><mml:msub><mml:mi>&#x3C1;</mml:mi><mml:mn>0</mml:mn></mml:msub></mml:semantics></mml:math></inline-formula> combination employed in the modelling<xref ref-type="fn" rid="fn002-galaxies-11-00090">2</xref>. We computed models that have been found adequate to fit Be-star H<inline-formula><mml:math id="mm51"><mml:semantics><mml:mi>&#x3B1;</mml:mi></mml:semantics></mml:math></inline-formula> profiles and SEDs and are related to different dynamical stages of the disc: dissipating discs present <inline-formula><mml:math id="mm52"><mml:semantics><mml:mrow><mml:mi>n</mml:mi><mml:mo>&#x2272;</mml:mo><mml:mn>3</mml:mn></mml:mrow></mml:semantics></mml:math></inline-formula>, while the range <inline-formula><mml:math id="mm53"><mml:semantics><mml:mrow><mml:mn>3</mml:mn><mml:mo>&#x2272;</mml:mo><mml:mi>n</mml:mi><mml:mo>&#x2272;</mml:mo><mml:mn>3.5</mml:mn></mml:mrow></mml:semantics></mml:math></inline-formula> is for stable discs, and <inline-formula><mml:math id="mm54"><mml:semantics><mml:mrow><mml:mn>3.5</mml:mn><mml:mo>&#x2272;</mml:mo><mml:mi>n</mml:mi></mml:mrow></mml:semantics></mml:math></inline-formula> is related to discs in formation [<xref ref-type="bibr" rid="B23-galaxies-11-00090">23</xref>]. Models with a small exponent and high density <inline-formula><mml:math id="mm55"><mml:semantics><mml:msub><mml:mi>&#x3C1;</mml:mi><mml:mn>0</mml:mn></mml:msub></mml:semantics></mml:math></inline-formula> trace the &#x201C;forbidden zone&#x201D;, defined by Vieira et al. [<xref ref-type="bibr" rid="B23-galaxies-11-00090">23</xref>] as a region in the <italic>n</italic>&#x2013;<inline-formula><mml:math id="mm56"><mml:semantics><mml:msub><mml:mi>&#x3C1;</mml:mi><mml:mn>0</mml:mn></mml:msub></mml:semantics></mml:math></inline-formula> diagram with unobserved combinations of these parameters. Reaching this region would require very massive circumstellar discs.</p>
+      <p>As the first step for this work, we ran simulations for only one set of fundamental parameters for the central stellar model. We used a self-consistent rigid rotator with the following parameters: a mass <inline-formula><mml:math id="mm57"><mml:semantics><mml:mrow><mml:mi>M</mml:mi><mml:mo>=</mml:mo><mml:mn>10</mml:mn><mml:mspace width="0.166667em"/><mml:msub><mml:mi>M</mml:mi><mml:mo>&#x2A00;</mml:mo></mml:msub></mml:mrow></mml:semantics></mml:math></inline-formula>, a polar radius <inline-formula><mml:math id="mm58"><mml:semantics><mml:mrow><mml:msub><mml:mi>R</mml:mi><mml:mrow><mml:mi>p</mml:mi><mml:mi>o</mml:mi><mml:mi>l</mml:mi><mml:mi>e</mml:mi></mml:mrow></mml:msub><mml:mo>=</mml:mo><mml:mn>5.5</mml:mn><mml:mspace width="0.166667em"/><mml:msub><mml:mi>R</mml:mi><mml:mo>&#x2A00;</mml:mo></mml:msub></mml:mrow></mml:semantics></mml:math></inline-formula>, a luminosity <inline-formula><mml:math id="mm59"><mml:semantics><mml:mrow><mml:mi>L</mml:mi><mml:mo>=</mml:mo><mml:mn>7500</mml:mn><mml:mspace width="0.166667em"/><mml:msub><mml:mi>L</mml:mi><mml:mo>&#x2A00;</mml:mo></mml:msub></mml:mrow></mml:semantics></mml:math></inline-formula>, and a rotational rate <inline-formula><mml:math id="mm60"><mml:semantics><mml:mrow><mml:mi>W</mml:mi><mml:mo>=</mml:mo><mml:mn>0.7</mml:mn></mml:mrow></mml:semantics></mml:math></inline-formula>. We recall that <inline-formula><mml:math id="mm61"><mml:semantics><mml:mrow><mml:mi>W</mml:mi><mml:mo>=</mml:mo><mml:msub><mml:mi>V</mml:mi><mml:mrow><mml:mi>r</mml:mi><mml:mi>o</mml:mi><mml:mi>t</mml:mi></mml:mrow></mml:msub><mml:mo>/</mml:mo><mml:msub><mml:mi>V</mml:mi><mml:mrow><mml:mi>o</mml:mi><mml:mi>r</mml:mi><mml:mi>b</mml:mi></mml:mrow></mml:msub></mml:mrow></mml:semantics></mml:math></inline-formula>, where <inline-formula><mml:math id="mm62"><mml:semantics><mml:msub><mml:mi>V</mml:mi><mml:mrow><mml:mi>r</mml:mi><mml:mi>o</mml:mi><mml:mi>t</mml:mi></mml:mrow></mml:msub></mml:semantics></mml:math></inline-formula> is the rotational velocity at the equator of the star, and <inline-formula><mml:math id="mm63"><mml:semantics><mml:msub><mml:mi>V</mml:mi><mml:mrow><mml:mi>o</mml:mi><mml:mi>r</mml:mi><mml:mi>b</mml:mi></mml:mrow></mml:msub></mml:semantics></mml:math></inline-formula> is the equatorial circular orbital (Keplerian) velocity, as defined by Rivinius et al. [<xref ref-type="bibr" rid="B3-galaxies-11-00090">3</xref>]. This set of parameters corresponds to an early B star with <inline-formula><mml:math id="mm64"><mml:semantics><mml:mrow><mml:msub><mml:mi>T</mml:mi><mml:mi>eff</mml:mi></mml:msub><mml:mo>&#x2243;</mml:mo><mml:mn>24,250</mml:mn></mml:mrow></mml:semantics></mml:math></inline-formula> K and <inline-formula><mml:math id="mm65"><mml:semantics><mml:mrow><mml:msub><mml:mi>V</mml:mi><mml:mrow><mml:mi>r</mml:mi><mml:mi>o</mml:mi><mml:mi>t</mml:mi></mml:mrow></mml:msub><mml:mo>&#x2243;</mml:mo><mml:mn>370</mml:mn></mml:mrow></mml:semantics></mml:math></inline-formula> km s<inline-formula><mml:math id="mm66"><mml:semantics><mml:msup><mml:mrow/><mml:mrow><mml:mo>&#x2212;</mml:mo><mml:mn>1</mml:mn></mml:mrow></mml:msup></mml:semantics></mml:math></inline-formula>. For producing synthetic profiles with HDUST, the gravity-darkening effect is accounted for, considering a parameter <inline-formula><mml:math id="mm67"><mml:semantics><mml:mrow><mml:mi>&#x3B2;</mml:mi><mml:mo>=</mml:mo><mml:mn>0.188</mml:mn></mml:mrow></mml:semantics></mml:math></inline-formula> suitable for rapidly rotating stars [<xref ref-type="bibr" rid="B29-galaxies-11-00090">29</xref>]. As it has been proposed that late-type Be stars could have more tenuous discs than early-type Be stars due to the smaller variability observed [<xref ref-type="bibr" rid="B3-galaxies-11-00090">3</xref>,<xref ref-type="bibr" rid="B10-galaxies-11-00090">10</xref>], in a forthcoming article, we plan to include central stars with different spectral types to analyse the dependence on the disc parameters.</p>
+      <p>To obtain the synthetic spectra and measure the line parameters, the results were processed with PyHdust<xref ref-type="fn" rid="fn003-galaxies-11-00090">3</xref> and specutils<xref ref-type="fn" rid="fn004-galaxies-11-00090">4</xref> Python packages.</p>
+    </sec>
+    <sec sec-type="results" id="sec3-galaxies-11-00090">
+      <title>3. Results</title>
+      <p>For each simulation, we generated spectra for inclination angles in the range of 0&#x2013;60&#xB0;, with a 15&#xB0; step. In <xref ref-type="fig" rid="galaxies-11-00090-f001">Figure 1</xref>, we show as an example the normalised spectrum obtained for the model with <inline-formula><mml:math id="mm68"><mml:semantics><mml:mrow><mml:mi>n</mml:mi><mml:mo>=</mml:mo><mml:mn>3.5</mml:mn></mml:mrow></mml:semantics></mml:math></inline-formula> and <inline-formula><mml:math id="mm69"><mml:semantics><mml:mrow><mml:msub><mml:mi>&#x3C1;</mml:mi><mml:mn>0</mml:mn></mml:msub><mml:mo>=</mml:mo><mml:msup><mml:mn>10</mml:mn><mml:mrow><mml:mo>&#x2212;</mml:mo><mml:mn>11</mml:mn></mml:mrow></mml:msup></mml:mrow></mml:semantics></mml:math></inline-formula> g cm<inline-formula><mml:math id="mm70"><mml:semantics><mml:msup><mml:mrow/><mml:mrow><mml:mo>&#x2212;</mml:mo><mml:mn>3</mml:mn></mml:mrow></mml:msup></mml:semantics></mml:math></inline-formula>, viewed from a pole-on (<inline-formula><mml:math id="mm71"><mml:semantics><mml:mrow><mml:mi>i</mml:mi><mml:mo>=</mml:mo><mml:mn>0</mml:mn></mml:mrow></mml:semantics></mml:math></inline-formula>&#xB0;) orientation. In the following subsections, we will show the analysis performed for the 0&#xB0;, 30&#xB0;, and 60&#xB0; orientations.</p>
+      <sec id="sec3dot1-galaxies-11-00090">
+        <title>3.1. Brackett-Series Behaviour According to n and <inline-formula><mml:math id="mm72"><mml:semantics><mml:msub><mml:mi>&#x3C1;</mml:mi><mml:mn>0</mml:mn></mml:msub></mml:semantics></mml:math></inline-formula></title>
+        <p><xref ref-type="fig" rid="galaxies-11-00090-f002">Figure 2</xref>, <xref ref-type="fig" rid="galaxies-11-00090-f003">Figure 3</xref>, <xref ref-type="fig" rid="galaxies-11-00090-f004">Figure 4</xref> and <xref ref-type="fig" rid="galaxies-11-00090-f005">Figure 5</xref> show the synthetic line profiles for the Br<inline-formula><mml:math id="mm73"><mml:semantics><mml:mi>&#x3B1;</mml:mi></mml:semantics></mml:math></inline-formula> to Br12 lines for the different simulations for <inline-formula><mml:math id="mm74"><mml:semantics><mml:mrow><mml:mi>i</mml:mi><mml:mo>=</mml:mo><mml:mn>0</mml:mn></mml:mrow></mml:semantics></mml:math></inline-formula>&#xB0;. Each figure corresponds to a different value of <italic>n</italic>, and in each plot, the different colours are for different <inline-formula><mml:math id="mm75"><mml:semantics><mml:msub><mml:mi>&#x3C1;</mml:mi><mml:mn>0</mml:mn></mml:msub></mml:semantics></mml:math></inline-formula> values. Synthetic line profiles for <inline-formula><mml:math id="mm76"><mml:semantics><mml:mrow><mml:mi>i</mml:mi><mml:mo>=</mml:mo><mml:mn>30</mml:mn></mml:mrow></mml:semantics></mml:math></inline-formula>&#xB0; and <inline-formula><mml:math id="mm77"><mml:semantics><mml:mrow><mml:mi>i</mml:mi><mml:mo>=</mml:mo><mml:mn>60</mml:mn></mml:mrow></mml:semantics></mml:math></inline-formula>&#xB0; are in <xref ref-type="sec" rid="secAdot1-galaxies-11-00090">Appendix A.1</xref>.</p>
+        <p>For the behaviour across the series, we observe the following:<list list-type="bullet"><list-item><p>For <inline-formula><mml:math id="mm78"><mml:semantics><mml:mrow><mml:mi>n</mml:mi><mml:mo>=</mml:mo><mml:mn>2.5</mml:mn></mml:mrow></mml:semantics></mml:math></inline-formula> (<xref ref-type="fig" rid="galaxies-11-00090-f002">Figure 2</xref> and <xref ref-type="fig" rid="galaxies-11-00090-f0A1">Figure A1</xref>), which is the lowest <italic>n</italic> value and can only be combined with the lowest density (<inline-formula><mml:math id="mm79"><mml:semantics><mml:mrow><mml:msub><mml:mi>&#x3C1;</mml:mi><mml:mn>0</mml:mn></mml:msub><mml:mo>=</mml:mo><mml:msup><mml:mn>10</mml:mn><mml:mrow><mml:mo>&#x2212;</mml:mo><mml:mn>12</mml:mn></mml:mrow></mml:msup></mml:mrow></mml:semantics></mml:math></inline-formula> g cm<inline-formula><mml:math id="mm80"><mml:semantics><mml:msup><mml:mrow/><mml:mrow><mml:mo>&#x2212;</mml:mo><mml:mn>3</mml:mn></mml:mrow></mml:msup></mml:semantics></mml:math></inline-formula>), there is a strong intensification for the lines from Br12 to Br<inline-formula><mml:math id="mm81"><mml:semantics><mml:mi>&#x3B1;</mml:mi></mml:semantics></mml:math></inline-formula> for all the inclinations. The lines are more intense for lower inclinations.</p></list-item><list-item><p>For <inline-formula><mml:math id="mm82"><mml:semantics><mml:mrow><mml:mi>n</mml:mi><mml:mo>=</mml:mo><mml:mn>3.0</mml:mn></mml:mrow></mml:semantics></mml:math></inline-formula> (<xref ref-type="fig" rid="galaxies-11-00090-f003">Figure 3</xref> and <xref ref-type="fig" rid="galaxies-11-00090-f0A2">Figure A2</xref>), the height of each line relative to its adjacent continuum also increases from Br12 to Br<inline-formula><mml:math id="mm83"><mml:semantics><mml:mi>&#x3B1;</mml:mi></mml:semantics></mml:math></inline-formula>. The slope of the increase is different for each density: the lower the density, the stronger the increase. For <inline-formula><mml:math id="mm84"><mml:semantics><mml:mrow><mml:mi>i</mml:mi><mml:mo>=</mml:mo><mml:mn>0</mml:mn></mml:mrow></mml:semantics></mml:math></inline-formula>&#xB0; and <inline-formula><mml:math id="mm85"><mml:semantics><mml:mrow><mml:mi>i</mml:mi><mml:mo>=</mml:mo><mml:mn>30</mml:mn></mml:mrow></mml:semantics></mml:math></inline-formula>&#xB0;, the increase is higher than for <inline-formula><mml:math id="mm86"><mml:semantics><mml:mrow><mml:mi>i</mml:mi><mml:mo>=</mml:mo><mml:mn>60</mml:mn></mml:mrow></mml:semantics></mml:math></inline-formula>&#xB0;.</p></list-item><list-item><p>For <inline-formula><mml:math id="mm87"><mml:semantics><mml:mrow><mml:mi>n</mml:mi><mml:mo>=</mml:mo><mml:mn>3.5</mml:mn></mml:mrow></mml:semantics></mml:math></inline-formula> (<xref ref-type="fig" rid="galaxies-11-00090-f004">Figure 4</xref> and <xref ref-type="fig" rid="galaxies-11-00090-f0A3">Figure A3</xref>), the slope of the increase is also steeper for the lowest densities, but not as remarkable as for <inline-formula><mml:math id="mm88"><mml:semantics><mml:mrow><mml:mi>n</mml:mi><mml:mo>=</mml:mo><mml:mn>3.0</mml:mn></mml:mrow></mml:semantics></mml:math></inline-formula>. The higher increase for lower densities means that, even though the higher-order lines are more intense for the highest densities, the first members of the series present similar intensities for intermediate densities.</p></list-item><list-item><p>For <inline-formula><mml:math id="mm89"><mml:semantics><mml:mrow><mml:mi>n</mml:mi><mml:mo>=</mml:mo><mml:mn>4.0</mml:mn></mml:mrow></mml:semantics></mml:math></inline-formula> (<xref ref-type="fig" rid="galaxies-11-00090-f005">Figure 5</xref> and <xref ref-type="fig" rid="galaxies-11-00090-f0A4">Figure A4</xref>), the intensities are the smallest, with the increase not so different for each density from Br12 to Br<inline-formula><mml:math id="mm90"><mml:semantics><mml:mi>&#x3B1;</mml:mi></mml:semantics></mml:math></inline-formula>.</p></list-item></list></p>
+        <p>Since the <italic>n</italic> value is related to the dynamical state of the disc (forming, steady, or dissipating [<xref ref-type="bibr" rid="B23-galaxies-11-00090">23</xref>]), it was expected that different behaviour would be found for the line intensity across the series.</p>
+      </sec>
+      <sec id="sec3dot2-galaxies-11-00090">
+        <title>3.2. EW and Flux Ratios Relative to&#xA0;Br12</title>
+        <p>To deduce the contribution of the disc, we corrected the measured emission line EWs for photospheric absorption [<xref ref-type="bibr" rid="B12-galaxies-11-00090">12</xref>]. The corrected EW values for <inline-formula><mml:math id="mm91"><mml:semantics><mml:mrow><mml:mi>i</mml:mi><mml:mo>=</mml:mo><mml:mn>0</mml:mn></mml:mrow></mml:semantics></mml:math></inline-formula>&#xB0; for each <italic>n</italic> and <inline-formula><mml:math id="mm92"><mml:semantics><mml:msub><mml:mi>&#x3C1;</mml:mi><mml:mn>0</mml:mn></mml:msub></mml:semantics></mml:math></inline-formula> normalised to EW(Br12) are plotted in <xref ref-type="fig" rid="galaxies-11-00090-f006">Figure 6</xref>. Plots for <inline-formula><mml:math id="mm93"><mml:semantics><mml:mrow><mml:mi>i</mml:mi><mml:mo>=</mml:mo><mml:mn>30</mml:mn></mml:mrow></mml:semantics></mml:math></inline-formula>&#xB0; and <inline-formula><mml:math id="mm94"><mml:semantics><mml:mrow><mml:mi>i</mml:mi><mml:mo>=</mml:mo><mml:mn>60</mml:mn></mml:mrow></mml:semantics></mml:math></inline-formula>&#xB0; are in <xref ref-type="sec" rid="secAdot2-galaxies-11-00090">Appendix A.2</xref>. As we described before for the line profiles, for all the curves, there is an increase in the EW from Br12 to Br<inline-formula><mml:math id="mm95"><mml:semantics><mml:mi>&#x3B1;</mml:mi></mml:semantics></mml:math></inline-formula>, and in each panel (i.e., each density and inclination), the higher the <italic>n</italic> value, the smaller the slope of the curve.</p>
+        <p>We obtained the flux for each line using the corrected line EW and the flux of the continuum at each wavelength. The fluxes normalised to flux(Br12) are plotted in <xref ref-type="fig" rid="galaxies-11-00090-f007">Figure 7</xref> for <inline-formula><mml:math id="mm96"><mml:semantics><mml:mrow><mml:mi>i</mml:mi><mml:mo>=</mml:mo><mml:mn>0</mml:mn></mml:mrow></mml:semantics></mml:math></inline-formula>&#xB0; and in <xref ref-type="sec" rid="secAdot2-galaxies-11-00090">Appendix A.2</xref> for <inline-formula><mml:math id="mm97"><mml:semantics><mml:mrow><mml:mi>i</mml:mi><mml:mo>=</mml:mo><mml:mn>30</mml:mn></mml:mrow></mml:semantics></mml:math></inline-formula>&#xB0; and <inline-formula><mml:math id="mm98"><mml:semantics><mml:mrow><mml:mi>i</mml:mi><mml:mo>=</mml:mo><mml:mn>60</mml:mn></mml:mrow></mml:semantics></mml:math></inline-formula>&#xB0;. All the curves present non-monotonic behaviour, with fluxes increasing from Br12 to Br10 and then decreasing up to Br<inline-formula><mml:math id="mm99"><mml:semantics><mml:mi>&#x3B1;</mml:mi></mml:semantics></mml:math></inline-formula>. The lowest curve corresponds to the highest <italic>n</italic> value in each panel. For the lowest density, the maximum of the curve of line flux ratios is higher for lower <italic>n</italic>, but for the other densities, the maximum value is very similar for all the exponents.</p>
+        <p>In <xref ref-type="fig" rid="galaxies-11-00090-f008">Figure 8</xref>, we show the plot of EW(Br<inline-formula><mml:math id="mm100"><mml:semantics><mml:mi>&#x3B1;</mml:mi></mml:semantics></mml:math></inline-formula>) versus EW(Br<inline-formula><mml:math id="mm101"><mml:semantics><mml:mi>&#x3B3;</mml:mi></mml:semantics></mml:math></inline-formula>). We can see that the models with a higher exponent value present a smaller EW(Br<inline-formula><mml:math id="mm102"><mml:semantics><mml:mi>&#x3B1;</mml:mi></mml:semantics></mml:math></inline-formula>)/EW(Br<inline-formula><mml:math id="mm103"><mml:semantics><mml:mi>&#x3B3;</mml:mi></mml:semantics></mml:math></inline-formula>) ratio and are close to the relation expected for Group I objects [<xref ref-type="bibr" rid="B9-galaxies-11-00090">9</xref>,<xref ref-type="bibr" rid="B12-galaxies-11-00090">12</xref>]. The Group II locus seems to only contain objects with envelopes with the smallest density. For each <italic>n</italic>, the higher the density, the higher the EWs.</p>
+        <p>Finally, <xref ref-type="fig" rid="galaxies-11-00090-f009">Figure 9</xref> shows EW(Br12) versus EW(Br11). This plot shows that the different models we calculated follow a linear relation close to the expected ratio for case B recombination, similarly to that obtained by Steele and Clark [<xref ref-type="bibr" rid="B31-galaxies-11-00090">31</xref>] (see their <xref ref-type="fig" rid="galaxies-11-00090-f008">Figure 8</xref>, top). As for our <xref ref-type="fig" rid="galaxies-11-00090-f008">Figure 8</xref>, larger values of EWs are obtained for smaller <italic>n</italic> values, and for a fixed <italic>n</italic> value, the higher the density, the higher the EWs. The behaviour is similar for the different inclination angles computed.</p>
+      </sec>
+    </sec>
+    <sec sec-type="discussion" id="sec4-galaxies-11-00090">
+      <title>4. Discussion</title>
+      <p>We seek to explore whether the computed models successfully describe the observed data published by Cochetti et al. [<xref ref-type="bibr" rid="B12-galaxies-11-00090">12</xref>]. With this aim, we first perform Brackett line fitting and then compare the synthetic line ratios with those of the observed spectra. This way, we can analyse the possibility of determining the disc parameters <inline-formula><mml:math id="mm104"><mml:semantics><mml:msub><mml:mi>&#x3C1;</mml:mi><mml:mn>0</mml:mn></mml:msub></mml:semantics></mml:math></inline-formula> and <italic>n</italic>. Using the published sample in Cochetti et al. [<xref ref-type="bibr" rid="B12-galaxies-11-00090">12</xref>], we have chosen two stars with stellar parameters close to those used in our modelling: MX Pup and <inline-formula><mml:math id="mm105"><mml:semantics><mml:mi>&#x3C0;</mml:mi></mml:semantics></mml:math></inline-formula> Aqr. For these stars, spectra were obtained in June 2017 with the FIRE spectrograph installed at the Magellan Baade Telescope at Las Campanas Observatory.</p>
+      <p>For the comparison with observational data, we allow the inclinations to span the whole range of our computations, 0&#xB0;, 15&#xB0;, 30&#xB0;, 45&#xB0;, and 60&#xB0;. Theoretical spectra have been convolved with a Gaussian profile with FWHM = 60 km s<inline-formula><mml:math id="mm106"><mml:semantics><mml:msup><mml:mrow/><mml:mrow><mml:mo>&#x2212;</mml:mo><mml:mn>1</mml:mn></mml:mrow></mml:msup></mml:semantics></mml:math></inline-formula> to match the observed data&#x2019;s spectral resolution. The uncertainties for the measurements are around 10% for the EW and flux due to possible errors in the continuum determination.</p>
+      <sec id="sec4dot1-galaxies-11-00090">
+        <title>4.1. MX Pup (HD 68980)</title>
+        <p>For MX Pup, Fr&#xE9;mat et al. [<xref ref-type="bibr" rid="B32-galaxies-11-00090">32</xref>] determined an effective temperature <inline-formula><mml:math id="mm107"><mml:semantics><mml:mrow><mml:msub><mml:mi>T</mml:mi><mml:mi>eff</mml:mi></mml:msub><mml:mo>=</mml:mo><mml:mn>25,125</mml:mn><mml:mo>&#xB1;</mml:mo><mml:mn>642</mml:mn></mml:mrow></mml:semantics></mml:math></inline-formula> K and a projected rotational velocity <inline-formula><mml:math id="mm108"><mml:semantics><mml:mrow><mml:mi>V</mml:mi><mml:mo form="prefix">sin</mml:mo><mml:mi>i</mml:mi><mml:mo>=</mml:mo><mml:mn>152</mml:mn><mml:mo>&#xB1;</mml:mo><mml:mn>8</mml:mn></mml:mrow></mml:semantics></mml:math></inline-formula> km s<inline-formula><mml:math id="mm109"><mml:semantics><mml:msup><mml:mrow/><mml:mrow><mml:mo>&#x2212;</mml:mo><mml:mn>1</mml:mn></mml:mrow></mml:msup></mml:semantics></mml:math></inline-formula>. From fitting on the H<inline-formula><mml:math id="mm110"><mml:semantics><mml:mi>&#x3B1;</mml:mi></mml:semantics></mml:math></inline-formula> profile, Silaj et al. [<xref ref-type="bibr" rid="B33-galaxies-11-00090">33</xref>] found an inclination angle <inline-formula><mml:math id="mm111"><mml:semantics><mml:mrow><mml:mi>i</mml:mi><mml:mo>=</mml:mo><mml:mn>20</mml:mn></mml:mrow></mml:semantics></mml:math></inline-formula>&#xB0;, while Arcos et al. [<xref ref-type="bibr" rid="B18-galaxies-11-00090">18</xref>] determined <inline-formula><mml:math id="mm112"><mml:semantics><mml:mrow><mml:mi>i</mml:mi><mml:mo>=</mml:mo><mml:mn>50</mml:mn></mml:mrow></mml:semantics></mml:math></inline-formula>&#xB0; from data taken in 2013 and 2015.</p>
+        <p>We made a visual comparison between each model and the spectrum of MX Pup, and <xref ref-type="fig" rid="galaxies-11-00090-f010">Figure 10</xref> shows the best-fitting model. On the x-axis, in velocity units, we can see that the peak separation for higher-order members is larger than in Br<inline-formula><mml:math id="mm113"><mml:semantics><mml:mi>&#x3B3;</mml:mi></mml:semantics></mml:math></inline-formula>, indicating that their forming region is closer to the central star. Since HDUST does not include non-coherent electron scattering, which can affect the line profiles with extended wings [<xref ref-type="bibr" rid="B34-galaxies-11-00090">34</xref>], a difference in the wings still remains, meaning that the non-coherent electron scattering is significant. This could be improved in the future by convolving the model with a Gaussian to simulate the electron velocity [<xref ref-type="bibr" rid="B35-galaxies-11-00090">35</xref>]. It is also possible that a single power law is not enough to fit the complexity of the disc if the wings and the core are formed in very different regions of the disc [<xref ref-type="bibr" rid="B36-galaxies-11-00090">36</xref>]. Because of this, as the best-fitting model, we chose a compromise solution for both the central part of the line and the wings. The parameters of the model are <inline-formula><mml:math id="mm114"><mml:semantics><mml:mrow><mml:mi>n</mml:mi><mml:mo>=</mml:mo><mml:mn>3.0</mml:mn></mml:mrow></mml:semantics></mml:math></inline-formula>, <inline-formula><mml:math id="mm115"><mml:semantics><mml:mrow><mml:msub><mml:mi>&#x3C1;</mml:mi><mml:mn>0</mml:mn></mml:msub><mml:mo>=</mml:mo><mml:mn>5</mml:mn><mml:mo>&#xD7;</mml:mo><mml:msup><mml:mn>10</mml:mn><mml:mrow><mml:mo>&#x2212;</mml:mo><mml:mn>11</mml:mn></mml:mrow></mml:msup></mml:mrow></mml:semantics></mml:math></inline-formula> g cm<inline-formula><mml:math id="mm116"><mml:semantics><mml:msup><mml:mrow/><mml:mrow><mml:mo>&#x2212;</mml:mo><mml:mn>3</mml:mn></mml:mrow></mml:msup></mml:semantics></mml:math></inline-formula>, and <inline-formula><mml:math id="mm117"><mml:semantics><mml:mrow><mml:mi>i</mml:mi><mml:mo>=</mml:mo><mml:mn>60</mml:mn></mml:mrow></mml:semantics></mml:math></inline-formula>&#xB0;. Such parameters put this object in the stable/dissipating limit according to Vieira et al. [<xref ref-type="bibr" rid="B23-galaxies-11-00090">23</xref>]. With this inclination, the rotational velocity would be smaller than the one used for our modelling but inside the range of the true rotational velocity ratios expected for Be stars [<xref ref-type="bibr" rid="B37-galaxies-11-00090">37</xref>]. In the EW/EW(Br12) and flux/flux(Br12) plots (<xref ref-type="fig" rid="galaxies-11-00090-f011">Figure 11</xref>), the observed data agree with the curve for the values determined from the spectrum. Nevertheless, in the EW(Br11) vs. EW(Br12) plot in <xref ref-type="fig" rid="galaxies-11-00090-f012">Figure 12</xref>, the MX Pup position lies over the diagonal but far from the models. This difference may be caused by the poor fitting of the line wings.</p>
+      </sec>
+      <sec id="sec4dot2-galaxies-11-00090">
+        <title>4.2. <inline-formula><mml:math id="mm118"><mml:semantics><mml:mi>&#x3C0;</mml:mi></mml:semantics></mml:math></inline-formula> Aqr (HD 212571)</title>
+        <p>For this object, Fr&#xE9;mat et al. [<xref ref-type="bibr" rid="B32-galaxies-11-00090">32</xref>] determined an effective temperature <inline-formula><mml:math id="mm119"><mml:semantics><mml:mrow><mml:msub><mml:mi>T</mml:mi><mml:mi>eff</mml:mi></mml:msub><mml:mo>=</mml:mo><mml:mn>26,061</mml:mn><mml:mo>&#xB1;</mml:mo><mml:mn>736</mml:mn></mml:mrow></mml:semantics></mml:math></inline-formula> K and a projected rotational velocity <inline-formula><mml:math id="mm120"><mml:semantics><mml:mrow><mml:mi>V</mml:mi><mml:mo form="prefix">sin</mml:mo><mml:mi>i</mml:mi><mml:mo>=</mml:mo><mml:mn>233</mml:mn><mml:mo>&#xB1;</mml:mo><mml:mn>15</mml:mn></mml:mrow></mml:semantics></mml:math></inline-formula> km s<inline-formula><mml:math id="mm121"><mml:semantics><mml:msup><mml:mrow/><mml:mrow><mml:mo>&#x2212;</mml:mo><mml:mn>1</mml:mn></mml:mrow></mml:msup></mml:semantics></mml:math></inline-formula>. Both Silaj et al. [<xref ref-type="bibr" rid="B33-galaxies-11-00090">33</xref>] and Arcos et al. [<xref ref-type="bibr" rid="B18-galaxies-11-00090">18</xref>] reported inclination angles for this object, with <inline-formula><mml:math id="mm122"><mml:semantics><mml:mrow><mml:mi>i</mml:mi><mml:mo>=</mml:mo><mml:mn>45</mml:mn></mml:mrow></mml:semantics></mml:math></inline-formula>&#xB0; and <inline-formula><mml:math id="mm123"><mml:semantics><mml:mrow><mml:mi>i</mml:mi><mml:mo>=</mml:mo><mml:mn>60</mml:mn></mml:mrow></mml:semantics></mml:math></inline-formula>&#xB0;, respectively.</p>
+        <p>The best-fitting model found through a visual comparison is shown in <xref ref-type="fig" rid="galaxies-11-00090-f013">Figure 13</xref>. The peak separation for the higher-order lines is not as different from the one for Br<inline-formula><mml:math id="mm124"><mml:semantics><mml:mi>&#x3B3;</mml:mi></mml:semantics></mml:math></inline-formula> as in MX Pup. In this case, it does not seem to be necessary to add non-coherent scattering to fit the wings. The parameters are the following: <inline-formula><mml:math id="mm125"><mml:semantics><mml:mrow><mml:mi>n</mml:mi><mml:mo>=</mml:mo><mml:mn>3.5</mml:mn></mml:mrow></mml:semantics></mml:math></inline-formula>, <inline-formula><mml:math id="mm126"><mml:semantics><mml:mrow><mml:msub><mml:mi>&#x3C1;</mml:mi><mml:mn>0</mml:mn></mml:msub><mml:mo>=</mml:mo><mml:msup><mml:mn>10</mml:mn><mml:mrow><mml:mo>&#x2212;</mml:mo><mml:mn>11</mml:mn></mml:mrow></mml:msup></mml:mrow></mml:semantics></mml:math></inline-formula> g cm<inline-formula><mml:math id="mm127"><mml:semantics><mml:msup><mml:mrow/><mml:mrow><mml:mo>&#x2212;</mml:mo><mml:mn>3</mml:mn></mml:mrow></mml:msup></mml:semantics></mml:math></inline-formula>, and <inline-formula><mml:math id="mm128"><mml:semantics><mml:mrow><mml:mi>i</mml:mi><mml:mo>=</mml:mo><mml:mn>45</mml:mn></mml:mrow></mml:semantics></mml:math></inline-formula>&#xB0;. This corresponds to a forming/stable disc [<xref ref-type="bibr" rid="B23-galaxies-11-00090">23</xref>]. Although in the EW/EW(Br12) plot, <inline-formula><mml:math id="mm129"><mml:semantics><mml:mi>&#x3C0;</mml:mi></mml:semantics></mml:math></inline-formula> Aqr data follow the tendency of the model from the spectral fitting, in the flux/flux(Br12) plot, the behaviour of the observed lines does not follow the model&#x2019;s tendency (<xref ref-type="fig" rid="galaxies-11-00090-f014">Figure 14</xref>). <xref ref-type="fig" rid="galaxies-11-00090-f015">Figure 15</xref> shows the EW(Br12) vs. EW(Br11) plot, where <inline-formula><mml:math id="mm130"><mml:semantics><mml:mi>&#x3C0;</mml:mi></mml:semantics></mml:math></inline-formula> Aqr data agree with the parameters found previously.</p>
+      </sec>
+    </sec>
+    <sec sec-type="conclusions" id="sec5-galaxies-11-00090">
+      <title>5. Conclusions</title>
+      <p>We used the HDUST code to perform simulations that allowed us to obtain synthetic Brackett-series line profiles for one set of parameters for the central star corresponding to an early-type object, with different parameters for the density law throughout the disc. The calculations of the synthetic models were carried out for different inclination angles of the system (star-plus-disc). The parameter space of the models that we used has been found suitable to fit Be-star H<inline-formula><mml:math id="mm131"><mml:semantics><mml:mi>&#x3B1;</mml:mi></mml:semantics></mml:math></inline-formula> profiles (e.g., [<xref ref-type="bibr" rid="B23-galaxies-11-00090">23</xref>]).</p>
+      <p>After measuring the EW and flux of the Brackett-series line profiles and applying a correction for photospheric absorption, we analysed the behaviour of the series according to the disc parameters. We found that the line intensity increment through the series depends on those parameters. Regarding the EW(Br<inline-formula><mml:math id="mm132"><mml:semantics><mml:mi>&#x3B1;</mml:mi></mml:semantics></mml:math></inline-formula>) versus EW(Br<inline-formula><mml:math id="mm133"><mml:semantics><mml:mi>&#x3B3;</mml:mi></mml:semantics></mml:math></inline-formula>) behaviour, the calculated models lie in different loci according to the central density. In the EW(Br12) versus EW(Br11) plot, the models follow a linear relation close to the expected ratio for case B recombination [<xref ref-type="bibr" rid="B31-galaxies-11-00090">31</xref>].</p>
+      <p>By comparing our simulations with the data obtained for MX Pup and <inline-formula><mml:math id="mm134"><mml:semantics><mml:mi>&#x3C0;</mml:mi></mml:semantics></mml:math></inline-formula> Aqr, we were allowed to set some constraints on the disc parameter values. Even though the synthetic spectra adequately fit our observations of both stars, the derived values show a discrepancy with the observed data in the EW and flux plots. The discrepancy is more remarkable in the case of MX Pup, where non-coherent electron scattering and a more complex radial dependence for the density seem to be needed.</p>
+      <p>It is possible that by including Brackett lines of higher terms or adding a similar analysis to the one performed throughout this article to other hydrogen series, we may be able to improve the determination of the parameters of the observed disc. We defer such analysis to a forthcoming article.</p>
+    </sec>
+  </body>
+  <back>
+    <notes>
+      <title>Author Contributions</title>
+      <p>Conceptualisation, Y.R.C., A.G., M.L.A. and A.F.T.; methodology, Y.R.C., A.G., M.L.A., A.F.T. and C.A.; formal analysis, Y.R.C., A.G., M.L.A. and A.F.T.; writing&#x2014;original draft preparation, Y.R.C.; writing&#x2014;review and editing, Y.R.C., A.G., M.L.A., A.F.T. and C.A.; visualisation, Y.R.C.; funding acquisition, A.G., M.L.A. and A.F.T. All authors have read and agreed to the published version of the manuscript.</p>
+    </notes>
+    <notes>
+      <title>Data Availability Statement</title>
+      <p>The data presented in this study are available on request from the corresponding author.</p>
+    </notes>
+    <ack>
+      <title>Acknowledgments</title>
+      <p>This work made use of Astropy:<xref ref-type="fn" rid="fn005-galaxies-11-00090">5</xref> a community-developed core Python package and an ecosystem of tools and resources for astronomy [<xref ref-type="bibr" rid="B38-galaxies-11-00090">38</xref>,<xref ref-type="bibr" rid="B39-galaxies-11-00090">39</xref>,<xref ref-type="bibr" rid="B40-galaxies-11-00090">40</xref>]. The model calculations were performed with the cluster of CITECCA of Universidad Nacional de R&#xED;o Negro, Argentina, which has four processors with eight threads, 2.2 GHz speed, and 180 GB of RAM. This paper includes data gathered with the 6.5 m Magellan Telescopes located at Las Campanas Observatory, Chile.</p>
+    </ack>
+    <notes notes-type="COI-statement">
+      <title>Conflicts of Interest</title>
+      <p>The authors declare no conflict of interest.</p>
+    </notes>
+    <glossary>
+      <title>Abbreviations</title>
+      <p>The following abbreviations are used in this manuscript:
+      <array><tbody><tr><td align="left" valign="middle">EW</td><td align="left" valign="middle">Equivalent width</td></tr><tr><td align="left" valign="middle">IR</td><td align="left" valign="middle">Infrared</td></tr><tr><td align="left" valign="middle">LTE</td><td align="left" valign="middle">Local thermodynamic equilibrium</td></tr><tr><td align="left" valign="middle">SED</td><td align="left" valign="middle">Spectral energy distribution</td></tr></tbody></array></p>
+    </glossary>
+    <app-group>
+      <app id="app1-galaxies-11-00090">
+        <title>Appendix A</title>
+        <sec id="secAdot1-galaxies-11-00090">
+          <title>Appendix A.1. Synthetic Brackett Line Profiles Obtained for i = 30&#xB0; and i = 60&#xB0;</title>
+          <fig id="galaxies-11-00090-f0A1" position="anchor">
+            <label>Figure A1</label>
+            <caption>
+              <p>Synthetic Brackett line profiles obtained for an exponent of the density law <inline-formula><mml:math id="mm135"><mml:semantics><mml:mrow><mml:mi>n</mml:mi><mml:mo>=</mml:mo><mml:mn>2.5</mml:mn></mml:mrow></mml:semantics></mml:math></inline-formula>, <inline-formula><mml:math id="mm136"><mml:semantics><mml:mrow><mml:msub><mml:mi>&#x3C1;</mml:mi><mml:mn>0</mml:mn></mml:msub><mml:mo>=</mml:mo><mml:mn>1</mml:mn><mml:mo>&#xD7;</mml:mo><mml:msup><mml:mn>10</mml:mn><mml:mrow><mml:mo>&#x2212;</mml:mo><mml:mn>12</mml:mn></mml:mrow></mml:msup></mml:mrow></mml:semantics></mml:math></inline-formula> g cm<inline-formula><mml:math id="mm137"><mml:semantics><mml:msup><mml:mrow/><mml:mrow><mml:mo>&#x2212;</mml:mo><mml:mn>3</mml:mn></mml:mrow></mml:msup></mml:semantics></mml:math></inline-formula>, and inclinations <inline-formula><mml:math id="mm138"><mml:semantics><mml:mrow><mml:mi>i</mml:mi><mml:mo>=</mml:mo><mml:mn>30</mml:mn></mml:mrow></mml:semantics></mml:math></inline-formula>&#xB0; and <inline-formula><mml:math id="mm139"><mml:semantics><mml:mrow><mml:mi>i</mml:mi><mml:mo>=</mml:mo><mml:mn>60</mml:mn></mml:mrow></mml:semantics></mml:math></inline-formula>&#xB0;.</p>
+            </caption>
+            <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="galaxies-11-00090-g0A1.tif"/>
+          </fig>
+          <fig id="galaxies-11-00090-f0A2" position="anchor">
+            <label>Figure A2</label>
+            <caption>
+              <p>Synthetic Brackett line profiles obtained for an exponent of the density law <inline-formula><mml:math id="mm140"><mml:semantics><mml:mrow><mml:mi>n</mml:mi><mml:mo>=</mml:mo><mml:mn>3.0</mml:mn></mml:mrow></mml:semantics></mml:math></inline-formula>, different values of the central density, and inclinations <inline-formula><mml:math id="mm141"><mml:semantics><mml:mrow><mml:mi>i</mml:mi><mml:mo>=</mml:mo><mml:mn>30</mml:mn></mml:mrow></mml:semantics></mml:math></inline-formula>&#xB0; and <inline-formula><mml:math id="mm142"><mml:semantics><mml:mrow><mml:mi>i</mml:mi><mml:mo>=</mml:mo><mml:mn>60</mml:mn></mml:mrow></mml:semantics></mml:math></inline-formula>&#xB0;.</p>
+            </caption>
+            <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="galaxies-11-00090-g0A2.tif"/>
+          </fig>
+          <fig id="galaxies-11-00090-f0A3" position="anchor">
+            <label>Figure A3</label>
+            <caption>
+              <p>Synthetic Brackett line profiles obtained for an exponent of the density law <inline-formula><mml:math id="mm143"><mml:semantics><mml:mrow><mml:mi>n</mml:mi><mml:mo>=</mml:mo><mml:mn>3.5</mml:mn></mml:mrow></mml:semantics></mml:math></inline-formula>, different values of the central density, and inclinations <inline-formula><mml:math id="mm144"><mml:semantics><mml:mrow><mml:mi>i</mml:mi><mml:mo>=</mml:mo><mml:mn>30</mml:mn></mml:mrow></mml:semantics></mml:math></inline-formula>&#xB0; and <inline-formula><mml:math id="mm145"><mml:semantics><mml:mrow><mml:mi>i</mml:mi><mml:mo>=</mml:mo><mml:mn>60</mml:mn></mml:mrow></mml:semantics></mml:math></inline-formula>&#xB0;.</p>
+            </caption>
+            <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="galaxies-11-00090-g0A3.tif"/>
+          </fig>
+          <fig id="galaxies-11-00090-f0A4" position="anchor">
+            <label>Figure A4</label>
+            <caption>
+              <p>Synthetic Brackett line profiles obtained for an exponent of the density law <inline-formula><mml:math id="mm146"><mml:semantics><mml:mrow><mml:mi>n</mml:mi><mml:mo>=</mml:mo><mml:mn>4.0</mml:mn></mml:mrow></mml:semantics></mml:math></inline-formula>, different values of the central density, and inclinations <inline-formula><mml:math id="mm147"><mml:semantics><mml:mrow><mml:mi>i</mml:mi><mml:mo>=</mml:mo><mml:mn>30</mml:mn></mml:mrow></mml:semantics></mml:math></inline-formula>&#xB0; and <inline-formula><mml:math id="mm148"><mml:semantics><mml:mrow><mml:mi>i</mml:mi><mml:mo>=</mml:mo><mml:mn>60</mml:mn></mml:mrow></mml:semantics></mml:math></inline-formula>&#xB0;.</p>
+            </caption>
+            <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="galaxies-11-00090-g0A4.tif"/>
+          </fig>
+        </sec>
+        <sec id="secAdot2-galaxies-11-00090">
+          <title>Appendix A.2. EW and Flux Ratios for i = 30&#xB0; and i = 60&#xB0;</title>
+          <fig id="galaxies-11-00090-f0A5" position="anchor">
+            <label>Figure A5</label>
+            <caption>
+              <p>EW ratio for the Brackett lines relative to EW(Br12) for <inline-formula><mml:math id="mm149"><mml:semantics><mml:mrow><mml:mi>i</mml:mi><mml:mo>=</mml:mo><mml:mn>30</mml:mn></mml:mrow></mml:semantics></mml:math></inline-formula>&#xB0; and <inline-formula><mml:math id="mm150"><mml:semantics><mml:mrow><mml:mi>i</mml:mi><mml:mo>=</mml:mo><mml:mn>60</mml:mn></mml:mrow></mml:semantics></mml:math></inline-formula>&#xB0;. Each panel corresponds to a given central density <inline-formula><mml:math id="mm151"><mml:semantics><mml:msub><mml:mi>&#x3C1;</mml:mi><mml:mn>0</mml:mn></mml:msub></mml:semantics></mml:math></inline-formula>, and each curve represents a given <italic>n</italic> value.</p>
+            </caption>
+            <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="galaxies-11-00090-g0A5.tif"/>
+          </fig>
+          <fig id="galaxies-11-00090-f0A6" position="anchor">
+            <label>Figure A6</label>
+            <caption>
+              <p>Flux ratio for the Brackett lines relative to flux(Br12) for <inline-formula><mml:math id="mm152"><mml:semantics><mml:mrow><mml:mi>i</mml:mi><mml:mo>=</mml:mo><mml:mn>30</mml:mn></mml:mrow></mml:semantics></mml:math></inline-formula>&#xB0; and <inline-formula><mml:math id="mm153"><mml:semantics><mml:mrow><mml:mi>i</mml:mi><mml:mo>=</mml:mo><mml:mn>60</mml:mn></mml:mrow></mml:semantics></mml:math></inline-formula>&#xB0;. Each panel corresponds to a given central density <inline-formula><mml:math id="mm154"><mml:semantics><mml:msub><mml:mi>&#x3C1;</mml:mi><mml:mn>0</mml:mn></mml:msub></mml:semantics></mml:math></inline-formula>, and each curve represents a given <italic>n</italic> value.</p>
+            </caption>
+            <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="galaxies-11-00090-g0A6.tif"/>
+          </fig>
+        </sec>
+      </app>
+    </app-group>
+    <fn-group>
+      <title>Notes</title>
+      <fn id="fn001-galaxies-11-00090">
+        <label>1</label>
+        <p>The code actually uses <inline-formula><mml:math id="mm155"><mml:semantics><mml:msub><mml:mi>n</mml:mi><mml:mn>0</mml:mn></mml:msub></mml:semantics></mml:math></inline-formula>, the density in numerical units per cm<inline-formula><mml:math id="mm156"><mml:semantics><mml:msup><mml:mrow/><mml:mrow><mml:mo>&#x2212;</mml:mo><mml:mn>3</mml:mn></mml:mrow></mml:msup></mml:semantics></mml:math></inline-formula>. Both parameters are related via the expression <inline-formula><mml:math id="mm157"><mml:semantics><mml:mrow><mml:msub><mml:mi>&#x3C1;</mml:mi><mml:mn>0</mml:mn></mml:msub><mml:mo>=</mml:mo><mml:msub><mml:mi>n</mml:mi><mml:mn>0</mml:mn></mml:msub><mml:mo>&#xB7;</mml:mo><mml:mi>&#x3BC;</mml:mi><mml:mo>&#xB7;</mml:mo><mml:msub><mml:mi>m</mml:mi><mml:mi>H</mml:mi></mml:msub></mml:mrow></mml:semantics></mml:math></inline-formula>, where <inline-formula><mml:math id="mm158"><mml:semantics><mml:mrow><mml:mi>&#x3BC;</mml:mi><mml:mo>=</mml:mo><mml:mn>0.6</mml:mn></mml:mrow></mml:semantics></mml:math></inline-formula> is the mean molecular weight, and <inline-formula><mml:math id="mm159"><mml:semantics><mml:mrow><mml:msub><mml:mi>m</mml:mi><mml:mi>H</mml:mi></mml:msub><mml:mo>=</mml:mo><mml:mn>1.67</mml:mn><mml:mo>&#xD7;</mml:mo><mml:msup><mml:mn>10</mml:mn><mml:mrow><mml:mo>&#x2212;</mml:mo><mml:mn>24</mml:mn></mml:mrow></mml:msup></mml:mrow></mml:semantics></mml:math></inline-formula> g is the mass of the hydrogen atom. Then, <inline-formula><mml:math id="mm160"><mml:semantics><mml:mrow><mml:msub><mml:mi>&#x3C1;</mml:mi><mml:mn>0</mml:mn></mml:msub><mml:mo>&#x2243;</mml:mo><mml:msub><mml:mi>n</mml:mi><mml:mi>o</mml:mi></mml:msub><mml:mo>&#xD7;</mml:mo><mml:msup><mml:mn>10</mml:mn><mml:mrow><mml:mo>&#x2212;</mml:mo><mml:mn>24</mml:mn></mml:mrow></mml:msup></mml:mrow></mml:semantics></mml:math></inline-formula> g.</p>
+      </fn>
+      <fn id="fn002-galaxies-11-00090">
+        <label>2</label>
+        <p>Apart from the models that we present in <xref ref-type="table" rid="galaxies-11-00090-t001">Table 1</xref>, we computed additional models for each to account for the disc&#x2019;s outer radius. We computed around 50 models, which took approximately 150 hours of calculation in CITECCA&#x2019;s cluster (see Acknowledgments for more information).</p>
+      </fn>
+      <fn id="fn003-galaxies-11-00090">
+        <label>3</label>
+        <p>PyHdust provides analysis tools for multi-technique astronomical data and HDUST models.</p>
+      </fn>
+      <fn id="fn004-galaxies-11-00090">
+        <label>4</label>
+        <p>Specutils is a Python package for representing, loading, manipulating, and analysing astronomical spectroscopic data [<xref ref-type="bibr" rid="B30-galaxies-11-00090">30</xref>].</p>
+      </fn>
+      <fn id="fn005-galaxies-11-00090">
+        <label>5</label>
+        <p><uri>http://www.astropy.org</uri>, accessed on 15 August 2023.</p>
+      </fn>
+    </fn-group>
+    <ref-list>
+      <title>References</title>
+      <ref id="B1-galaxies-11-00090">
+        <label>1.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Jaschek</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Slettebak</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Jaschek</surname>
+              <given-names>C.</given-names>
+            </name>
+          </person-group>
+          <article-title>Be star terminology</article-title>
+          <source>Be Star Newsl.</source>
+          <year>1981</year>
+          <volume>4</volume>
+          <fpage>9</fpage>
+          <lpage>11</lpage>
+        </element-citation>
+      </ref>
+      <ref id="B2-galaxies-11-00090">
+        <label>2.</label>
+        <element-citation publication-type="confproc">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Collins</surname>
+              <given-names>G.W.</given-names>
+            </name>
+          </person-group>
+          <article-title>The Use of Terms and Definitions in the Study of Be Stars (Review Paper)</article-title>
+          <source>Proceedings of the 92nd Colloquium of the International Astronomical Union</source>
+          <conf-loc>Boulder, CO, USA</conf-loc>
+          <conf-date>18&#x2013;22 August 1986</conf-date>
+          <publisher-name>Cambridge University Press</publisher-name>
+          <publisher-loc>Cambridge, UK</publisher-loc>
+          <year>1987</year>
+          <fpage>3</fpage>
+          <pub-id pub-id-type="doi">10.1017/S0252921100115969</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B3-galaxies-11-00090">
+        <label>3.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Rivinius</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Carciofi</surname>
+              <given-names>A.C.</given-names>
+            </name>
+            <name>
+              <surname>Martayan</surname>
+              <given-names>C.</given-names>
+            </name>
+          </person-group>
+          <article-title>Classical Be stars. Rapidly rotating B stars with viscous Keplerian decretion disks</article-title>
+          <source>Astron. Astrophys. Rev.</source>
+          <year>2013</year>
+          <volume>21</volume>
+          <fpage>69</fpage>
+          <pub-id pub-id-type="doi">10.1007/s00159-013-0069-0</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B4-galaxies-11-00090">
+        <label>4.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lee</surname>
+              <given-names>U.</given-names>
+            </name>
+            <name>
+              <surname>Osaki</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Saio</surname>
+              <given-names>H.</given-names>
+            </name>
+          </person-group>
+          <article-title>Viscous excretion discs around Be stars</article-title>
+          <source>Mon. Not. R. Astron. Soc.</source>
+          <year>1991</year>
+          <volume>250</volume>
+          <fpage>432</fpage>
+          <lpage>437</lpage>
+          <pub-id pub-id-type="doi">10.1093/mnras/250.2.432</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5-galaxies-11-00090">
+        <label>5.</label>
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Carciofi</surname>
+              <given-names>A.C.</given-names>
+            </name>
+          </person-group>
+          <article-title>The circumstellar discs of Be stars</article-title>
+          <source>Proceedings of the Active OB Stars: Structure, Evolution, Mass Loss, and Critical Limits</source>
+          <person-group person-group-type="editor">
+            <name>
+              <surname>Neiner</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Wade</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Meynet</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Peters</surname>
+              <given-names>G.</given-names>
+            </name>
+          </person-group>
+          <publisher-name>Cambridge University Press</publisher-name>
+          <publisher-loc>Cambridge, UK</publisher-loc>
+          <year>2011</year>
+          <volume>Volume 272</volume>
+          <fpage>325</fpage>
+          <lpage>336</lpage>
+          <pub-id pub-id-type="doi">10.1017/S1743921311010738</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B6-galaxies-11-00090">
+        <label>6.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hony</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Waters</surname>
+              <given-names>L.B.F.M.</given-names>
+            </name>
+            <name>
+              <surname>Zaal</surname>
+              <given-names>P.A.</given-names>
+            </name>
+            <name>
+              <surname>de Koter</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Marlborough</surname>
+              <given-names>J.M.</given-names>
+            </name>
+            <name>
+              <surname>Millar</surname>
+              <given-names>C.E.</given-names>
+            </name>
+            <name>
+              <surname>Trams</surname>
+              <given-names>N.R.</given-names>
+            </name>
+            <name>
+              <surname>Morris</surname>
+              <given-names>P.W.</given-names>
+            </name>
+            <name>
+              <surname>de Graauw</surname>
+              <given-names>T.</given-names>
+            </name>
+          </person-group>
+          <article-title>The infrared spectrum of the Be star gamma Cassiopeiae</article-title>
+          <source>Astron. Astrophys.</source>
+          <year>2000</year>
+          <volume>355</volume>
+          <fpage>187</fpage>
+          <lpage>193</lpage>
+        </element-citation>
+      </ref>
+      <ref id="B7-galaxies-11-00090">
+        <label>7.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lenorzer</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>de Koter</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Waters</surname>
+              <given-names>L.B.F.M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Hydrogen infrared recombination lines as a diagnostic tool for the geometry of the circumstellar material of hot stars</article-title>
+          <source>Astron. Astrophys.</source>
+          <year>2002</year>
+          <volume>386</volume>
+          <fpage>L5</fpage>
+          <lpage>L8</lpage>
+          <pub-id pub-id-type="doi">10.1051/0004-6361:20020322</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B8-galaxies-11-00090">
+        <label>8.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Mennickent</surname>
+              <given-names>R.E.</given-names>
+            </name>
+            <name>
+              <surname>Sabogal</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Granada</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Cidale</surname>
+              <given-names>L.</given-names>
+            </name>
+          </person-group>
+          <article-title>L-Band Spectra of 13 Outbursting Be Stars</article-title>
+          <source>Publ. Astron. Soc. Pac.</source>
+          <year>2009</year>
+          <volume>121</volume>
+          <fpage>125</fpage>
+          <pub-id pub-id-type="doi">10.1086/597551</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B9-galaxies-11-00090">
+        <label>9.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Granada</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Arias</surname>
+              <given-names>M.L.</given-names>
+            </name>
+            <name>
+              <surname>Cidale</surname>
+              <given-names>L.S.</given-names>
+            </name>
+          </person-group>
+          <article-title>Simultaneous K- and L-band Spectroscopy of Be Stars: Circumstellar Envelope Properties from Hydrogen Emission Lines</article-title>
+          <source>Astron. J.</source>
+          <year>2010</year>
+          <volume>139</volume>
+          <fpage>1983</fpage>
+          <lpage>1992</lpage>
+          <pub-id pub-id-type="doi">10.1088/0004-6256/139/5/1983</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B10-galaxies-11-00090">
+        <label>10.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sabogal</surname>
+              <given-names>B.E.</given-names>
+            </name>
+            <name>
+              <surname>Ubaque</surname>
+              <given-names>K.Y.</given-names>
+            </name>
+            <name>
+              <surname>Garc&#xED;a-Varela</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>&#xC1;lvarez</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Salas</surname>
+              <given-names>L.</given-names>
+            </name>
+          </person-group>
+          <article-title>Evidence of Dissipation of Circumstellar Disks from L-band Spectra of Bright Galactic Be Stars</article-title>
+          <source>Publ. Astron. Soc. Pac.</source>
+          <year>2017</year>
+          <volume>129</volume>
+          <fpage>014203</fpage>
+          <pub-id pub-id-type="doi">10.1088/1538-3873/129/971/014203</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B11-galaxies-11-00090">
+        <label>11.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lenorzer</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Vandenbussche</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Morris</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>de Koter</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Geballe</surname>
+              <given-names>T.R.</given-names>
+            </name>
+            <name>
+              <surname>Waters</surname>
+              <given-names>L.B.F.M.</given-names>
+            </name>
+            <name>
+              <surname>Hony</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Kaper</surname>
+              <given-names>L.</given-names>
+            </name>
+          </person-group>
+          <article-title>An atlas of 2.4 to 4.1 &#x3BC;m ISO/SWS spectra of early-type stars</article-title>
+          <source>Astron. Astrophys.</source>
+          <year>2002</year>
+          <volume>384</volume>
+          <fpage>473</fpage>
+          <lpage>490</lpage>
+          <pub-id pub-id-type="doi">10.1051/0004-6361:20020032</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B12-galaxies-11-00090">
+        <label>12.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Cochetti</surname>
+              <given-names>Y.R.</given-names>
+            </name>
+            <name>
+              <surname>Arias</surname>
+              <given-names>M.L.</given-names>
+            </name>
+            <name>
+              <surname>Cidale</surname>
+              <given-names>L.S.</given-names>
+            </name>
+            <name>
+              <surname>Granada</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Torres</surname>
+              <given-names>A.F.</given-names>
+            </name>
+          </person-group>
+          <article-title>Simultaneous J-, H-, K- and L-band spectroscopic observations of galactic Be stars. I. IR atlas</article-title>
+          <source>Astron. Astrophys.</source>
+          <year>2022</year>
+          <volume>665</volume>
+          <fpage>A115</fpage>
+          <pub-id pub-id-type="doi">10.1051/0004-6361/202142914</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B13-galaxies-11-00090">
+        <label>13.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Okazaki</surname>
+              <given-names>A.T.</given-names>
+            </name>
+            <name>
+              <surname>Bate</surname>
+              <given-names>M.R.</given-names>
+            </name>
+            <name>
+              <surname>Ogilvie</surname>
+              <given-names>G.I.</given-names>
+            </name>
+            <name>
+              <surname>Pringle</surname>
+              <given-names>J.E.</given-names>
+            </name>
+          </person-group>
+          <article-title>Viscous effects on the interaction between the coplanar decretion disc and the neutron star in Be/X-ray binaries</article-title>
+          <source>Mon. Not. R. Astron. Soc.</source>
+          <year>2002</year>
+          <volume>337</volume>
+          <fpage>967</fpage>
+          <lpage>980</lpage>
+          <pub-id pub-id-type="doi">10.1046/j.1365-8711.2002.05960.x</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B14-galaxies-11-00090">
+        <label>14.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Carciofi</surname>
+              <given-names>A.C.</given-names>
+            </name>
+            <name>
+              <surname>Bjorkman</surname>
+              <given-names>J.E.</given-names>
+            </name>
+          </person-group>
+          <article-title>Non-LTE Monte Carlo Radiative Transfer. I. The Thermal Properties of Keplerian Disks around Classical Be Stars</article-title>
+          <source>Astrophys. J.</source>
+          <year>2006</year>
+          <volume>639</volume>
+          <fpage>1081</fpage>
+          <lpage>1094</lpage>
+          <pub-id pub-id-type="doi">10.1086/499483</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B15-galaxies-11-00090">
+        <label>15.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sigut</surname>
+              <given-names>T.A.A.</given-names>
+            </name>
+            <name>
+              <surname>Jones</surname>
+              <given-names>C.E.</given-names>
+            </name>
+          </person-group>
+          <article-title>The Thermal Structure of the Circumstellar Disk Surrounding the Classical Be Star &#x3B3; Cassiopeiae</article-title>
+          <source>Astrophys. J.</source>
+          <year>2007</year>
+          <volume>668</volume>
+          <fpage>481</fpage>
+          <lpage>491</lpage>
+          <pub-id pub-id-type="doi">10.1086/521209</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B16-galaxies-11-00090">
+        <label>16.</label>
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sigut</surname>
+              <given-names>T.A.A.</given-names>
+            </name>
+          </person-group>
+          <article-title>Spectral synthesis for Be stars</article-title>
+          <source>Proceedings of the Active OB Stars: Structure, Evolution, Mass Loss, and Critical Limits</source>
+          <person-group person-group-type="editor">
+            <name>
+              <surname>Neiner</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Wade</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Meynet</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Peters</surname>
+              <given-names>G.</given-names>
+            </name>
+          </person-group>
+          <publisher-name>Cambridge University Press</publisher-name>
+          <publisher-loc>Cambridge, UK</publisher-loc>
+          <year>2011</year>
+          <volume>Volume 6</volume>
+          <fpage>426</fpage>
+          <lpage>427</lpage>
+          <pub-id pub-id-type="doi">10.1017/S1743921311011045</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B17-galaxies-11-00090">
+        <label>17.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Miroshnichenko</surname>
+              <given-names>A.S.</given-names>
+            </name>
+            <name>
+              <surname>Bjorkman</surname>
+              <given-names>K.S.</given-names>
+            </name>
+            <name>
+              <surname>Morrison</surname>
+              <given-names>N.D.</given-names>
+            </name>
+            <name>
+              <surname>Wisniewski</surname>
+              <given-names>J.P.</given-names>
+            </name>
+            <name>
+              <surname>Manset</surname>
+              <given-names>N.</given-names>
+            </name>
+            <name>
+              <surname>Levato</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Grosso</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Pollmann</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Buil</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Knauth</surname>
+              <given-names>D.C.</given-names>
+            </name>
+          </person-group>
+          <article-title>Spectroscopy of the growing circumstellar disk in the delta Scorpii Be binary</article-title>
+          <source>Astron. Astrophys.</source>
+          <year>2003</year>
+          <volume>408</volume>
+          <fpage>305</fpage>
+          <lpage>311</lpage>
+          <pub-id pub-id-type="doi">10.1051/0004-6361:20030965</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B18-galaxies-11-00090">
+        <label>18.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Arcos</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Jones</surname>
+              <given-names>C.E.</given-names>
+            </name>
+            <name>
+              <surname>Sigut</surname>
+              <given-names>T.A.A.</given-names>
+            </name>
+            <name>
+              <surname>Kanaan</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Cur&#xE9;</surname>
+              <given-names>M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Evidence for Different Disk Mass Distributions between Early- and Late-type Be Stars in the BeSOS Survey</article-title>
+          <source>Astrophys. J.</source>
+          <year>2017</year>
+          <volume>842</volume>
+          <fpage>48</fpage>
+          <pub-id pub-id-type="doi">10.3847/1538-4357/aa6f5f</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B19-galaxies-11-00090">
+        <label>19.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Cochetti</surname>
+              <given-names>Y.R.</given-names>
+            </name>
+            <name>
+              <surname>Arcos</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Kanaan</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Meilland</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Cidale</surname>
+              <given-names>L.S.</given-names>
+            </name>
+            <name>
+              <surname>Cur&#xE9;</surname>
+              <given-names>M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Spectro-interferometric observations of a sample of Be stars. Setting limits to the geometry and kinematics of stable Be disks</article-title>
+          <source>Astron. Astrophys.</source>
+          <year>2019</year>
+          <volume>621</volume>
+          <fpage>A123</fpage>
+          <pub-id pub-id-type="doi">10.1051/0004-6361/201833551</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B20-galaxies-11-00090">
+        <label>20.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Chojnowski</surname>
+              <given-names>S.D.</given-names>
+            </name>
+            <name>
+              <surname>Whelan</surname>
+              <given-names>D.G.</given-names>
+            </name>
+            <name>
+              <surname>Wisniewski</surname>
+              <given-names>J.P.</given-names>
+            </name>
+            <name>
+              <surname>Majewski</surname>
+              <given-names>S.R.</given-names>
+            </name>
+            <name>
+              <surname>Hall</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Shetrone</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Beaton</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Burton</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Damke</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Eikenberry</surname>
+              <given-names>S.</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>High-Resolution H-Band Spectroscopy of Be Stars With SDSS-III/Apogee: I. New Be Stars, Line Identifications, and Line Profiles</article-title>
+          <source>Astron. J.</source>
+          <year>2015</year>
+          <volume>149</volume>
+          <fpage>7</fpage>
+          <pub-id pub-id-type="doi">10.1088/0004-6256/149/1/7</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B21-galaxies-11-00090">
+        <label>21.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Carciofi</surname>
+              <given-names>A.C.</given-names>
+            </name>
+            <name>
+              <surname>Bjorkman</surname>
+              <given-names>J.E.</given-names>
+            </name>
+          </person-group>
+          <article-title>Non-LTE Monte Carlo Radiative Transfer. II. Nonisothermal Solutions for Viscous Keplerian Disks</article-title>
+          <source>Astrophys. J.</source>
+          <year>2008</year>
+          <volume>684</volume>
+          <fpage>1374</fpage>
+          <lpage>1383</lpage>
+          <pub-id pub-id-type="doi">10.1086/589875</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B22-galaxies-11-00090">
+        <label>22.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Klement</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Carciofi</surname>
+              <given-names>A.C.</given-names>
+            </name>
+            <name>
+              <surname>Rivinius</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Matthews</surname>
+              <given-names>L.D.</given-names>
+            </name>
+            <name>
+              <surname>Vieira</surname>
+              <given-names>R.G.</given-names>
+            </name>
+            <name>
+              <surname>Ignace</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Bjorkman</surname>
+              <given-names>J.E.</given-names>
+            </name>
+            <name>
+              <surname>Mota</surname>
+              <given-names>B.C.</given-names>
+            </name>
+            <name>
+              <surname>Faes</surname>
+              <given-names>D.M.</given-names>
+            </name>
+            <name>
+              <surname>Bratcher</surname>
+              <given-names>A.D.</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Revealing the structure of the outer disks of Be stars</article-title>
+          <source>Astron. Astrophys.</source>
+          <year>2017</year>
+          <volume>601</volume>
+          <fpage>A74</fpage>
+          <pub-id pub-id-type="doi">10.1051/0004-6361/201629932</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B23-galaxies-11-00090">
+        <label>23.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Vieira</surname>
+              <given-names>R.G.</given-names>
+            </name>
+            <name>
+              <surname>Carciofi</surname>
+              <given-names>A.C.</given-names>
+            </name>
+            <name>
+              <surname>Bjorkman</surname>
+              <given-names>J.E.</given-names>
+            </name>
+            <name>
+              <surname>Rivinius</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Baade</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>R&#xED;mulo</surname>
+              <given-names>L.R.</given-names>
+            </name>
+          </person-group>
+          <article-title>The life cycles of Be viscous decretion discs: Time-dependent modelling of infrared continuum observations</article-title>
+          <source>Mon. Not. R. Astron. Soc.</source>
+          <year>2017</year>
+          <volume>464</volume>
+          <fpage>3071</fpage>
+          <lpage>3089</lpage>
+          <pub-id pub-id-type="doi">10.1093/mnras/stw2542</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B24-galaxies-11-00090">
+        <label>24.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Richardson</surname>
+              <given-names>N.D.</given-names>
+            </name>
+            <name>
+              <surname>Thizy</surname>
+              <given-names>O.</given-names>
+            </name>
+            <name>
+              <surname>Bjorkman</surname>
+              <given-names>J.E.</given-names>
+            </name>
+            <name>
+              <surname>Carciofi</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Rubio</surname>
+              <given-names>A.C.</given-names>
+            </name>
+            <name>
+              <surname>Thomas</surname>
+              <given-names>J.D.</given-names>
+            </name>
+            <name>
+              <surname>Bjorkman</surname>
+              <given-names>K.S.</given-names>
+            </name>
+            <name>
+              <surname>Labadie-Bartz</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Genaro</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Wisniewski</surname>
+              <given-names>J.P.</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Outbursts and stellar properties of the classical Be star HD 6226</article-title>
+          <source>Mon. Not. R. Astron. Soc.</source>
+          <year>2021</year>
+          <volume>508</volume>
+          <fpage>2002</fpage>
+          <lpage>2018</lpage>
+          <pub-id pub-id-type="doi">10.1093/mnras/stab2759</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B25-galaxies-11-00090">
+        <label>25.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Marr</surname>
+              <given-names>K.C.</given-names>
+            </name>
+            <name>
+              <surname>Jones</surname>
+              <given-names>C.E.</given-names>
+            </name>
+            <name>
+              <surname>Carciofi</surname>
+              <given-names>A.C.</given-names>
+            </name>
+            <name>
+              <surname>Rubio</surname>
+              <given-names>A.C.</given-names>
+            </name>
+            <name>
+              <surname>Mota</surname>
+              <given-names>B.C.</given-names>
+            </name>
+            <name>
+              <surname>Ghoreyshi</surname>
+              <given-names>M.R.</given-names>
+            </name>
+            <name>
+              <surname>Hatfield</surname>
+              <given-names>D.W.</given-names>
+            </name>
+            <name>
+              <surname>R&#xED;mulo</surname>
+              <given-names>L.R.</given-names>
+            </name>
+          </person-group>
+          <article-title>The Be Star 66 Ophiuchi: 60 Years of Disk Evolution</article-title>
+          <source>Astrophys. J.</source>
+          <year>2021</year>
+          <volume>912</volume>
+          <fpage>76</fpage>
+          <pub-id pub-id-type="doi">10.3847/1538-4357/abed4c</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B26-galaxies-11-00090">
+        <label>26.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Zorec</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Rieutord</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Espinosa Lara</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>Fr&#xE9;mat</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Domiciano de Souza</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Royer</surname>
+              <given-names>F.</given-names>
+            </name>
+          </person-group>
+          <article-title>Gravity darkening in stars with surface differential rotation</article-title>
+          <source>Astron. Astrophys.</source>
+          <year>2017</year>
+          <volume>606</volume>
+          <fpage>A32</fpage>
+          <pub-id pub-id-type="doi">10.1051/0004-6361/201730818</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B27-galaxies-11-00090">
+        <label>27.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Shakura</surname>
+              <given-names>N.I.</given-names>
+            </name>
+            <name>
+              <surname>Sunyaev</surname>
+              <given-names>R.A.</given-names>
+            </name>
+          </person-group>
+          <article-title>Black holes in binary systems. Observational appearance</article-title>
+          <source>Astron. Astrophys.</source>
+          <year>1973</year>
+          <volume>24</volume>
+          <fpage>337</fpage>
+          <lpage>355</lpage>
+        </element-citation>
+      </ref>
+      <ref id="B28-galaxies-11-00090">
+        <label>28.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Silaj</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Jones</surname>
+              <given-names>C.E.</given-names>
+            </name>
+            <name>
+              <surname>Sigut</surname>
+              <given-names>T.A.A.</given-names>
+            </name>
+            <name>
+              <surname>Tycner</surname>
+              <given-names>C.</given-names>
+            </name>
+          </person-group>
+          <article-title>The H<italic>&#x3B1;</italic> Profiles of Be Shell Stars</article-title>
+          <source>Astrophys. J.</source>
+          <year>2014</year>
+          <volume>795</volume>
+          <fpage>82</fpage>
+          <pub-id pub-id-type="doi">10.1088/0004-637X/795/1/82</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B29-galaxies-11-00090">
+        <label>29.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Espinosa Lara</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>Rieutord</surname>
+              <given-names>M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Gravity darkening in rotating stars</article-title>
+          <source>Astron. Astrophys.</source>
+          <year>2011</year>
+          <volume>533</volume>
+          <fpage>A43</fpage>
+          <pub-id pub-id-type="doi">10.1051/0004-6361/201117252</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B30-galaxies-11-00090">
+        <label>30.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Earl</surname>
+              <given-names>N.</given-names>
+            </name>
+            <name>
+              <surname>Tollerud</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>O&#x2019;Steen</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Brechmos</surname>
+            </name>
+            <name>
+              <surname>Kerzendorf</surname>
+              <given-names>W.</given-names>
+            </name>
+            <name>
+              <surname>Busko</surname>
+              <given-names>I.</given-names>
+            </name>
+            <name>
+              <surname>Shaileshahuja</surname>
+            </name>
+            <name>
+              <surname>D&#x2019;Avella</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Robitaille</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Ginsburg</surname>
+              <given-names>A.</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>astropy/specutils: v1.10.0</article-title>
+          <source>Zenodo</source>
+          <year>2023</year>
+          <pub-id pub-id-type="doi">10.5281/zenodo.7803739</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B31-galaxies-11-00090">
+        <label>31.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Steele</surname>
+              <given-names>I.A.</given-names>
+            </name>
+            <name>
+              <surname>Clark</surname>
+              <given-names>J.S.</given-names>
+            </name>
+          </person-group>
+          <article-title>A representative sample of Be stars III: H band spectroscopy</article-title>
+          <source>Astron. Astrophys.</source>
+          <year>2001</year>
+          <volume>371</volume>
+          <fpage>643</fpage>
+          <lpage>651</lpage>
+          <pub-id pub-id-type="doi">10.1051/0004-6361:20010381</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B32-galaxies-11-00090">
+        <label>32.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Fr&#xE9;mat</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Zorec</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Hubert</surname>
+              <given-names>A.M.</given-names>
+            </name>
+            <name>
+              <surname>Floquet</surname>
+              <given-names>M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Effects of gravitational darkening on the determination of fundamental parameters in fast-rotating B-type stars</article-title>
+          <source>Astron. Astrophys.</source>
+          <year>2005</year>
+          <volume>440</volume>
+          <fpage>305</fpage>
+          <lpage>320</lpage>
+          <pub-id pub-id-type="doi">10.1051/0004-6361:20042229</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B33-galaxies-11-00090">
+        <label>33.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Silaj</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Jones</surname>
+              <given-names>C.E.</given-names>
+            </name>
+            <name>
+              <surname>Tycner</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Sigut</surname>
+              <given-names>T.A.A.</given-names>
+            </name>
+            <name>
+              <surname>Smith</surname>
+              <given-names>A.D.</given-names>
+            </name>
+          </person-group>
+          <article-title>A Systematic Study of H<italic>&#x3B1;</italic> Profiles of Be Stars</article-title>
+          <source>Astrophys. J. Suppl.</source>
+          <year>2010</year>
+          <volume>187</volume>
+          <fpage>228</fpage>
+          <lpage>250</lpage>
+          <pub-id pub-id-type="doi">10.1088/0067-0049/187/1/228</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B34-galaxies-11-00090">
+        <label>34.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hummel</surname>
+              <given-names>W.</given-names>
+            </name>
+            <name>
+              <surname>Dachs</surname>
+              <given-names>J.</given-names>
+            </name>
+          </person-group>
+          <article-title>Non-coherent scattering in vertically extended Be star disks: Winebottle-type emission-line profiles</article-title>
+          <source>Astron. Astrophys.</source>
+          <year>1992</year>
+          <volume>262</volume>
+          <fpage>L17</fpage>
+        </element-citation>
+      </ref>
+      <ref id="B35-galaxies-11-00090">
+        <label>35.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Marr</surname>
+              <given-names>K.C.</given-names>
+            </name>
+            <name>
+              <surname>Jones</surname>
+              <given-names>C.E.</given-names>
+            </name>
+            <name>
+              <surname>Tycner</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Carciofi</surname>
+              <given-names>A.C.</given-names>
+            </name>
+            <name>
+              <surname>Silva</surname>
+              <given-names>A.C.F.</given-names>
+            </name>
+          </person-group>
+          <article-title>The Role of Disk Tearing and Precession in the Observed Variability of Pleione</article-title>
+          <source>Astrophys. J.</source>
+          <year>2022</year>
+          <volume>928</volume>
+          <fpage>145</fpage>
+          <pub-id pub-id-type="doi">10.3847/1538-4357/ac551b</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B36-galaxies-11-00090">
+        <label>36.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sigut</surname>
+              <given-names>T.A.A.</given-names>
+            </name>
+            <name>
+              <surname>Tycner</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Jansen</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Zavala</surname>
+              <given-names>R.T.</given-names>
+            </name>
+          </person-group>
+          <article-title>The Circumstellar Disk of the Be Star o Aquarii as Constrained by Simultaneous Spectroscopy and Optical Interferometry</article-title>
+          <source>Astrophys. J.</source>
+          <year>2015</year>
+          <volume>814</volume>
+          <fpage>159</fpage>
+          <pub-id pub-id-type="doi">10.1088/0004-637X/814/2/159</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B37-galaxies-11-00090">
+        <label>37.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Zorec</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Fr&#xE9;mat</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Domiciano de Souza</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Royer</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>Cidale</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Hubert</surname>
+              <given-names>A.M.</given-names>
+            </name>
+            <name>
+              <surname>Semaan</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Martayan</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Cochetti</surname>
+              <given-names>Y.R.</given-names>
+            </name>
+            <name>
+              <surname>Arias</surname>
+              <given-names>M.L.</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Critical study of the distribution of rotational velocities of Be stars. I. Deconvolution methods, effects due to gravity darkening, macroturbulence, and binarity</article-title>
+          <source>Astron. Astrophys.</source>
+          <year>2016</year>
+          <volume>595</volume>
+          <fpage>A132</fpage>
+          <pub-id pub-id-type="doi">10.1051/0004-6361/201628760</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B38-galaxies-11-00090">
+        <label>38.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <collab>Astropy Collaboration</collab>
+            <name>
+              <surname>Robitaille</surname>
+              <given-names>T.P.</given-names>
+            </name>
+            <name>
+              <surname>Tollerud</surname>
+              <given-names>E.J.</given-names>
+            </name>
+            <name>
+              <surname>Greenfield</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Droettboom</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Bray</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Aldcroft</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Davis</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Ginsburg</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Price-Whelan</surname>
+              <given-names>A.M.</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Astropy: A community Python package for astronomy</article-title>
+          <source>Astron. Astrophys.</source>
+          <year>2013</year>
+          <volume>558</volume>
+          <fpage>A33</fpage>
+          <pub-id pub-id-type="doi">10.1051/0004-6361/201322068</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B39-galaxies-11-00090">
+        <label>39.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <collab>Astropy Collaboration</collab>
+            <name>
+              <surname>Price-Whelan</surname>
+              <given-names>A.M.</given-names>
+            </name>
+            <name>
+              <surname>Sip&#x151;cz</surname>
+              <given-names>B.M.</given-names>
+            </name>
+            <name>
+              <surname>G&#xFC;nther</surname>
+              <given-names>H.M.</given-names>
+            </name>
+            <name>
+              <surname>Lim</surname>
+              <given-names>P.L.</given-names>
+            </name>
+            <name>
+              <surname>Crawford</surname>
+              <given-names>S.M.</given-names>
+            </name>
+            <name>
+              <surname>Conseil</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Shupe</surname>
+              <given-names>D.L.</given-names>
+            </name>
+            <name>
+              <surname>Craig</surname>
+              <given-names>M.W.</given-names>
+            </name>
+            <name>
+              <surname>Dencheva</surname>
+              <given-names>N.</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>The Astropy Project: Building an Open-science Project and Status of the v2.0 Core Package</article-title>
+          <source>Astron. J.</source>
+          <year>2018</year>
+          <volume>156</volume>
+          <fpage>123</fpage>
+          <pub-id pub-id-type="doi">10.3847/1538-3881/aabc4f</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B40-galaxies-11-00090">
+        <label>40.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <collab>Astropy Collaboration</collab>
+            <name>
+              <surname>Price-Whelan</surname>
+              <given-names>A.M.</given-names>
+            </name>
+            <name>
+              <surname>Lim</surname>
+              <given-names>P.L.</given-names>
+            </name>
+            <name>
+              <surname>Earl</surname>
+              <given-names>N.</given-names>
+            </name>
+            <name>
+              <surname>Starkman</surname>
+              <given-names>N.</given-names>
+            </name>
+            <name>
+              <surname>Bradley</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Shupe</surname>
+              <given-names>D.L.</given-names>
+            </name>
+            <name>
+              <surname>Patil</surname>
+              <given-names>A.A.</given-names>
+            </name>
+            <name>
+              <surname>Corrales</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Brasseur</surname>
+              <given-names>C.E.</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>The Astropy Project: Sustaining and Growing a Community-oriented Open-source Project and the Latest Major Release (v5.0) of the Core Package</article-title>
+          <source>Astrophys. J.</source>
+          <year>2022</year>
+          <volume>935</volume>
+          <fpage>167</fpage>
+          <pub-id pub-id-type="doi">10.3847/1538-4357/ac7c74</pub-id>
+        </element-citation>
+      </ref>
+    </ref-list>
+    <sec sec-type="display-objects">
+      <title>Figures and Table</title>
+      <fig id="galaxies-11-00090-f001" position="float">
+        <label>Figure 1</label>
+        <caption>
+          <p>Spectrum from the simulation with <inline-formula><mml:math id="mm161"><mml:semantics><mml:mrow><mml:mi>n</mml:mi><mml:mo>=</mml:mo><mml:mn>3.5</mml:mn></mml:mrow></mml:semantics></mml:math></inline-formula> and <inline-formula><mml:math id="mm162"><mml:semantics><mml:mrow><mml:msub><mml:mi>&#x3C1;</mml:mi><mml:mn>0</mml:mn></mml:msub><mml:mo>=</mml:mo><mml:msup><mml:mn>10</mml:mn><mml:mrow><mml:mo>&#x2212;</mml:mo><mml:mn>11</mml:mn></mml:mrow></mml:msup></mml:mrow></mml:semantics></mml:math></inline-formula> g cm<inline-formula><mml:math id="mm163"><mml:semantics><mml:msup><mml:mrow/><mml:mrow><mml:mo>&#x2212;</mml:mo><mml:mn>3</mml:mn></mml:mrow></mml:msup></mml:semantics></mml:math></inline-formula>, with a pole-on (<inline-formula><mml:math id="mm164"><mml:semantics><mml:mrow><mml:mi>i</mml:mi><mml:mo>=</mml:mo><mml:mn>0</mml:mn></mml:mrow></mml:semantics></mml:math></inline-formula>&#xB0;) orientation. Brackett lines are labelled.</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="galaxies-11-00090-g001.tif"/>
+      </fig>
+      <fig id="galaxies-11-00090-f002" position="float">
+        <label>Figure 2</label>
+        <caption>
+          <p>Synthetic Brackett line profiles obtained for <inline-formula><mml:math id="mm165"><mml:semantics><mml:mrow><mml:mi>i</mml:mi><mml:mo>=</mml:mo><mml:mn>0</mml:mn></mml:mrow></mml:semantics></mml:math></inline-formula>&#xB0;, an exponent of the density law <inline-formula><mml:math id="mm166"><mml:semantics><mml:mrow><mml:mi>n</mml:mi><mml:mo>=</mml:mo><mml:mn>2.5</mml:mn></mml:mrow></mml:semantics></mml:math></inline-formula>, and <inline-formula><mml:math id="mm167"><mml:semantics><mml:mrow><mml:msub><mml:mi>&#x3C1;</mml:mi><mml:mn>0</mml:mn></mml:msub><mml:mo>=</mml:mo><mml:mn>1</mml:mn><mml:mo>&#xD7;</mml:mo><mml:msup><mml:mn>10</mml:mn><mml:mrow><mml:mo>&#x2212;</mml:mo><mml:mn>12</mml:mn></mml:mrow></mml:msup></mml:mrow></mml:semantics></mml:math></inline-formula> g cm<inline-formula><mml:math id="mm168"><mml:semantics><mml:msup><mml:mrow/><mml:mrow><mml:mo>&#x2212;</mml:mo><mml:mn>3</mml:mn></mml:mrow></mml:msup></mml:semantics></mml:math></inline-formula>.</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="galaxies-11-00090-g002.tif"/>
+      </fig>
+      <fig id="galaxies-11-00090-f003" position="float">
+        <label>Figure 3</label>
+        <caption>
+          <p>Synthetic Brackett line profiles obtained for <inline-formula><mml:math id="mm169"><mml:semantics><mml:mrow><mml:mi>i</mml:mi><mml:mo>=</mml:mo><mml:mn>0</mml:mn></mml:mrow></mml:semantics></mml:math></inline-formula>&#xB0;, an exponent of the density law <inline-formula><mml:math id="mm170"><mml:semantics><mml:mrow><mml:mi>n</mml:mi><mml:mo>=</mml:mo><mml:mn>3.0</mml:mn></mml:mrow></mml:semantics></mml:math></inline-formula>, and different values of the central density.</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="galaxies-11-00090-g003.tif"/>
+      </fig>
+      <fig id="galaxies-11-00090-f004" position="float">
+        <label>Figure 4</label>
+        <caption>
+          <p>Synthetic Brackett line profiles obtained for <inline-formula><mml:math id="mm171"><mml:semantics><mml:mrow><mml:mi>i</mml:mi><mml:mo>=</mml:mo><mml:mn>0</mml:mn></mml:mrow></mml:semantics></mml:math></inline-formula>&#xB0;, an exponent of the density law <inline-formula><mml:math id="mm172"><mml:semantics><mml:mrow><mml:mi>n</mml:mi><mml:mo>=</mml:mo><mml:mn>3.5</mml:mn></mml:mrow></mml:semantics></mml:math></inline-formula>, and different values of the central density.</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="galaxies-11-00090-g004.tif"/>
+      </fig>
+      <fig id="galaxies-11-00090-f005" position="float">
+        <label>Figure 5</label>
+        <caption>
+          <p>Synthetic Brackett line profiles obtained for <inline-formula><mml:math id="mm173"><mml:semantics><mml:mrow><mml:mi>i</mml:mi><mml:mo>=</mml:mo><mml:mn>0</mml:mn></mml:mrow></mml:semantics></mml:math></inline-formula>&#xB0;, an exponent of the density law <inline-formula><mml:math id="mm174"><mml:semantics><mml:mrow><mml:mi>n</mml:mi><mml:mo>=</mml:mo><mml:mn>4.0</mml:mn></mml:mrow></mml:semantics></mml:math></inline-formula>, and different values of the central density.</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="galaxies-11-00090-g005.tif"/>
+      </fig>
+      <fig id="galaxies-11-00090-f006" position="float">
+        <label>Figure 6</label>
+        <caption>
+          <p>EW ratio for the Brackett lines relative to EW(Br12) for <inline-formula><mml:math id="mm175"><mml:semantics><mml:mrow><mml:mi>i</mml:mi><mml:mo>=</mml:mo><mml:mn>0</mml:mn></mml:mrow></mml:semantics></mml:math></inline-formula>&#xB0; (for other inclinations see <xref ref-type="fig" rid="galaxies-11-00090-f0A5">Figure A5</xref>). Each panel corresponds to a central density <inline-formula><mml:math id="mm176"><mml:semantics><mml:msub><mml:mi>&#x3C1;</mml:mi><mml:mn>0</mml:mn></mml:msub></mml:semantics></mml:math></inline-formula>, and each curve represents a given <italic>n</italic> value.</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="galaxies-11-00090-g006.tif"/>
+      </fig>
+      <fig id="galaxies-11-00090-f007" position="float">
+        <label>Figure 7</label>
+        <caption>
+          <p>Flux ratio for the Brackett lines relative to flux(Br12) for <inline-formula><mml:math id="mm177"><mml:semantics><mml:mrow><mml:mi>i</mml:mi><mml:mo>=</mml:mo><mml:mn>0</mml:mn></mml:mrow></mml:semantics></mml:math></inline-formula>&#xB0; (for other inclinations see <xref ref-type="fig" rid="galaxies-11-00090-f0A6">Figure A6</xref>). Each panel corresponds to a central density <inline-formula><mml:math id="mm178"><mml:semantics><mml:msub><mml:mi>&#x3C1;</mml:mi><mml:mn>0</mml:mn></mml:msub></mml:semantics></mml:math></inline-formula>, and each curve represents a given <italic>n</italic> value.</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="galaxies-11-00090-g007.tif"/>
+      </fig>
+      <fig id="galaxies-11-00090-f008" position="float">
+        <label>Figure 8</label>
+        <caption>
+          <p>EW(Br<inline-formula><mml:math id="mm179"><mml:semantics><mml:mi>&#x3B1;</mml:mi></mml:semantics></mml:math></inline-formula>) versus EW(Br<inline-formula><mml:math id="mm180"><mml:semantics><mml:mi>&#x3B3;</mml:mi></mml:semantics></mml:math></inline-formula>). Colours and symbols are the same as in <xref ref-type="fig" rid="galaxies-11-00090-f007">Figure 7</xref>. The symbol size is proportional to the central density of the model.</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="galaxies-11-00090-g008.tif"/>
+      </fig>
+      <fig id="galaxies-11-00090-f009" position="float">
+        <label>Figure 9</label>
+        <caption>
+          <p>EW(Br12) versus EW(Br11). Colours and symbols are the same as in <xref ref-type="fig" rid="galaxies-11-00090-f007">Figure 7</xref>. The symbol size is proportional to the central density of the model.</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="galaxies-11-00090-g009.tif"/>
+      </fig>
+      <fig id="galaxies-11-00090-f010" position="float">
+        <label>Figure 10</label>
+        <caption>
+          <p>Best-fitting model for MX Pup.</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="galaxies-11-00090-g010.tif"/>
+      </fig>
+      <fig id="galaxies-11-00090-f011" position="float">
+        <label>Figure 11</label>
+        <caption>
+          <p>Comparison of the curves of EW and flux relative to those of Br12 for <inline-formula><mml:math id="mm181"><mml:semantics><mml:mrow><mml:mi>i</mml:mi><mml:mo>=</mml:mo><mml:mn>60</mml:mn></mml:mrow></mml:semantics></mml:math></inline-formula>&#xB0; and different central densities <inline-formula><mml:math id="mm182"><mml:semantics><mml:msub><mml:mi>&#x3C1;</mml:mi><mml:mn>0</mml:mn></mml:msub></mml:semantics></mml:math></inline-formula> and <italic>n</italic> values with the data obtained for the Be star MX Pup.</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="galaxies-11-00090-g011.tif"/>
+      </fig>
+      <fig id="galaxies-11-00090-f012" position="float">
+        <label>Figure 12</label>
+        <caption>
+          <p>Location of the measurements for the star MX Pup in the EW(Br12) versus EW(Br11) plot for <inline-formula><mml:math id="mm183"><mml:semantics><mml:mrow><mml:mi>i</mml:mi><mml:mo>=</mml:mo><mml:mn>60</mml:mn></mml:mrow></mml:semantics></mml:math></inline-formula>&#xB0;. Colours and symbols are the same as in <xref ref-type="fig" rid="galaxies-11-00090-f007">Figure 7</xref>. The symbol size is proportional to the central density of the model.</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="galaxies-11-00090-g012.tif"/>
+      </fig>
+      <fig id="galaxies-11-00090-f013" position="float">
+        <label>Figure 13</label>
+        <caption>
+          <p>Best-fitting model for <inline-formula><mml:math id="mm184"><mml:semantics><mml:mi>&#x3C0;</mml:mi></mml:semantics></mml:math></inline-formula> Aqr.</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="galaxies-11-00090-g013.tif"/>
+      </fig>
+      <fig id="galaxies-11-00090-f014" position="float">
+        <label>Figure 14</label>
+        <caption>
+          <p>Comparison of the curves of EW and flux relative to those of Br12 for <inline-formula><mml:math id="mm185"><mml:semantics><mml:mrow><mml:mi>i</mml:mi><mml:mo>=</mml:mo><mml:mn>45</mml:mn></mml:mrow></mml:semantics></mml:math></inline-formula>&#xB0; and different central densities <inline-formula><mml:math id="mm186"><mml:semantics><mml:msub><mml:mi>&#x3C1;</mml:mi><mml:mn>0</mml:mn></mml:msub></mml:semantics></mml:math></inline-formula> and <italic>n</italic> values with the data obtained for the Be star <inline-formula><mml:math id="mm187"><mml:semantics><mml:mi>&#x3C0;</mml:mi></mml:semantics></mml:math></inline-formula> Aqr.</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="galaxies-11-00090-g014.tif"/>
+      </fig>
+      <fig id="galaxies-11-00090-f015" position="float">
+        <label>Figure 15</label>
+        <caption>
+          <p>Location of the measurements for the star <inline-formula><mml:math id="mm188"><mml:semantics><mml:mi>&#x3C0;</mml:mi></mml:semantics></mml:math></inline-formula> Aqr in the EW(Br12) versus EW(Br11) plot for <inline-formula><mml:math id="mm189"><mml:semantics><mml:mrow><mml:mi>i</mml:mi><mml:mo>=</mml:mo><mml:mn>45</mml:mn></mml:mrow></mml:semantics></mml:math></inline-formula>&#xB0;. Colours and symbols are the same as in <xref ref-type="fig" rid="galaxies-11-00090-f007">Figure 7</xref>. The symbol size is proportional to the central density of the model.</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="galaxies-11-00090-g015.tif"/>
+      </fig>
+      <table-wrap id="galaxies-11-00090-t001" position="float">
+        <object-id pub-id-type="pii">galaxies-11-00090-t001_Table 1</object-id>
+        <label>Table 1</label>
+        <caption>
+          <p>Envelope&#x2019;s outer radius <inline-formula><mml:math id="mm190"><mml:semantics><mml:msub><mml:mi>R</mml:mi><mml:mi>d</mml:mi></mml:msub></mml:semantics></mml:math></inline-formula> for each <italic>n</italic> and <inline-formula><mml:math id="mm191"><mml:semantics><mml:msub><mml:mi>&#x3C1;</mml:mi><mml:mn>0</mml:mn></mml:msub></mml:semantics></mml:math></inline-formula> combination. According to Vieira et al. [<xref ref-type="bibr" rid="B23-galaxies-11-00090">23</xref>], the <italic>n</italic> value is related to different disc stages: dissipating discs present <inline-formula><mml:math id="mm192"><mml:semantics><mml:mrow><mml:mi>n</mml:mi><mml:mo>&#x2272;</mml:mo><mml:mn>3</mml:mn></mml:mrow></mml:semantics></mml:math></inline-formula>, while the range <inline-formula><mml:math id="mm193"><mml:semantics><mml:mrow><mml:mn>3</mml:mn><mml:mo>&#x2272;</mml:mo><mml:mi>n</mml:mi><mml:mo>&#x2272;</mml:mo><mml:mn>3.5</mml:mn></mml:mrow></mml:semantics></mml:math></inline-formula> is for stable discs, and <inline-formula><mml:math id="mm194"><mml:semantics><mml:mrow><mml:mn>3.5</mml:mn><mml:mo>&#x2272;</mml:mo><mml:mi>n</mml:mi></mml:mrow></mml:semantics></mml:math></inline-formula> is related to discs in formation. For each model, we simulated the spectra for inclination angles in the range 0&#x2013;60&#xB0; with a 15&#xB0; step.</p>
+        </caption>
+        <table>
+          <thead>
+            <tr>
+              <th rowspan="2" align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin">
+                <italic>n</italic>
+              </th>
+              <th align="center" valign="middle" style="border-top:solid thin">
+                <inline-formula>
+                  <mml:math id="mm195">
+                    <mml:semantics>
+                      <mml:mstyle mathvariant="bold">
+                        <mml:mrow>
+                          <mml:msub>
+                            <mml:mi mathvariant="bold-italic">&#x3C1;</mml:mi>
+                            <mml:mn>0</mml:mn>
+                          </mml:msub>
+                          <mml:mo>=</mml:mo>
+                          <mml:mn>1</mml:mn>
+                          <mml:mo>&#xD7;</mml:mo>
+                          <mml:msup>
+                            <mml:mn>10</mml:mn>
+                            <mml:mrow>
+                              <mml:mo>&#x2212;</mml:mo>
+                              <mml:mn>12</mml:mn>
+                            </mml:mrow>
+                          </mml:msup>
+                        </mml:mrow>
+                      </mml:mstyle>
+                    </mml:semantics>
+                  </mml:math>
+                </inline-formula>
+              </th>
+              <th align="center" valign="middle" style="border-top:solid thin">
+                <inline-formula>
+                  <mml:math id="mm196">
+                    <mml:semantics>
+                      <mml:mstyle mathvariant="bold">
+                        <mml:mrow>
+                          <mml:msub>
+                            <mml:mi mathvariant="bold-italic">&#x3C1;</mml:mi>
+                            <mml:mn>0</mml:mn>
+                          </mml:msub>
+                          <mml:mo>=</mml:mo>
+                          <mml:mn>5</mml:mn>
+                          <mml:mo>&#xD7;</mml:mo>
+                          <mml:msup>
+                            <mml:mn>10</mml:mn>
+                            <mml:mrow>
+                              <mml:mo>&#x2212;</mml:mo>
+                              <mml:mn>12</mml:mn>
+                            </mml:mrow>
+                          </mml:msup>
+                        </mml:mrow>
+                      </mml:mstyle>
+                    </mml:semantics>
+                  </mml:math>
+                </inline-formula>
+              </th>
+              <th align="center" valign="middle" style="border-top:solid thin">
+                <inline-formula>
+                  <mml:math id="mm197">
+                    <mml:semantics>
+                      <mml:mstyle mathvariant="bold">
+                        <mml:mrow>
+                          <mml:msub>
+                            <mml:mi mathvariant="bold-italic">&#x3C1;</mml:mi>
+                            <mml:mn>0</mml:mn>
+                          </mml:msub>
+                          <mml:mo>=</mml:mo>
+                          <mml:mn>1</mml:mn>
+                          <mml:mo>&#xD7;</mml:mo>
+                          <mml:msup>
+                            <mml:mn>10</mml:mn>
+                            <mml:mrow>
+                              <mml:mo>&#x2212;</mml:mo>
+                              <mml:mn>11</mml:mn>
+                            </mml:mrow>
+                          </mml:msup>
+                        </mml:mrow>
+                      </mml:mstyle>
+                    </mml:semantics>
+                  </mml:math>
+                </inline-formula>
+              </th>
+              <th align="center" valign="middle" style="border-top:solid thin">
+                <inline-formula>
+                  <mml:math id="mm198">
+                    <mml:semantics>
+                      <mml:mstyle mathvariant="bold">
+                        <mml:mrow>
+                          <mml:msub>
+                            <mml:mi mathvariant="bold-italic">&#x3C1;</mml:mi>
+                            <mml:mn>0</mml:mn>
+                          </mml:msub>
+                          <mml:mo>=</mml:mo>
+                          <mml:mn>5</mml:mn>
+                          <mml:mo>&#xD7;</mml:mo>
+                          <mml:msup>
+                            <mml:mn>10</mml:mn>
+                            <mml:mrow>
+                              <mml:mo>&#x2212;</mml:mo>
+                              <mml:mn>11</mml:mn>
+                            </mml:mrow>
+                          </mml:msup>
+                        </mml:mrow>
+                      </mml:mstyle>
+                    </mml:semantics>
+                  </mml:math>
+                </inline-formula>
+              </th>
+              <th align="center" valign="middle" style="border-top:solid thin">
+                <inline-formula>
+                  <mml:math id="mm199">
+                    <mml:semantics>
+                      <mml:mstyle mathvariant="bold">
+                        <mml:mrow>
+                          <mml:msub>
+                            <mml:mi mathvariant="bold-italic">&#x3C1;</mml:mi>
+                            <mml:mn>0</mml:mn>
+                          </mml:msub>
+                          <mml:mo>=</mml:mo>
+                          <mml:mn>1</mml:mn>
+                          <mml:mo>&#xD7;</mml:mo>
+                          <mml:msup>
+                            <mml:mn>10</mml:mn>
+                            <mml:mrow>
+                              <mml:mo>&#x2212;</mml:mo>
+                              <mml:mn>10</mml:mn>
+                            </mml:mrow>
+                          </mml:msup>
+                        </mml:mrow>
+                      </mml:mstyle>
+                    </mml:semantics>
+                  </mml:math>
+                </inline-formula>
+              </th>
+            </tr>
+            <tr>
+              <th align="center" valign="middle" style="border-bottom:solid thin">
+                <bold>(g cm<inline-formula><mml:math id="mm200"><mml:semantics><mml:msup><mml:mrow/><mml:mrow><mml:mo>&#x2212;</mml:mo><mml:mn mathvariant="bold">3</mml:mn></mml:mrow></mml:msup></mml:semantics></mml:math></inline-formula>)</bold>
+              </th>
+              <th align="center" valign="middle" style="border-bottom:solid thin">
+                <bold>(g cm<inline-formula><mml:math id="mm201"><mml:semantics><mml:msup><mml:mrow/><mml:mrow><mml:mo>&#x2212;</mml:mo><mml:mn mathvariant="bold">3</mml:mn></mml:mrow></mml:msup></mml:semantics></mml:math></inline-formula>)</bold>
+              </th>
+              <th align="center" valign="middle" style="border-bottom:solid thin">
+                <bold>(g cm<inline-formula><mml:math id="mm202"><mml:semantics><mml:msup><mml:mrow/><mml:mrow><mml:mo>&#x2212;</mml:mo><mml:mn mathvariant="bold">3</mml:mn></mml:mrow></mml:msup></mml:semantics></mml:math></inline-formula>)</bold>
+              </th>
+              <th align="center" valign="middle" style="border-bottom:solid thin">
+                <bold>(g cm<inline-formula><mml:math id="mm203"><mml:semantics><mml:msup><mml:mrow/><mml:mrow><mml:mo>&#x2212;</mml:mo><mml:mn mathvariant="bold">3</mml:mn></mml:mrow></mml:msup></mml:semantics></mml:math></inline-formula>)</bold>
+              </th>
+              <th align="center" valign="middle" style="border-bottom:solid thin">
+                <bold>(g cm<inline-formula><mml:math id="mm204"><mml:semantics><mml:msup><mml:mrow/><mml:mrow><mml:mo>&#x2212;</mml:mo><mml:mn mathvariant="bold">3</mml:mn></mml:mrow></mml:msup></mml:semantics></mml:math></inline-formula>)</bold>
+              </th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td align="center" valign="middle">
+                <inline-formula>
+                  <mml:math id="mm205">
+                    <mml:semantics>
+                      <mml:mrow>
+                        <mml:mn>2.5</mml:mn>
+                      </mml:mrow>
+                    </mml:semantics>
+                  </mml:math>
+                </inline-formula>
+              </td>
+              <td align="center" valign="middle">30 <inline-formula><mml:math id="mm206"><mml:semantics><mml:msub><mml:mi>R</mml:mi><mml:mo>&#x2605;</mml:mo></mml:msub></mml:semantics></mml:math></inline-formula></td>
+              <td align="center" valign="middle">&#xD7;</td>
+              <td align="center" valign="middle">&#xD7;</td>
+              <td align="center" valign="middle">&#xD7;</td>
+              <td align="center" valign="middle">&#xD7;</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">
+                <inline-formula>
+                  <mml:math id="mm207">
+                    <mml:semantics>
+                      <mml:mrow>
+                        <mml:mn>3.0</mml:mn>
+                      </mml:mrow>
+                    </mml:semantics>
+                  </mml:math>
+                </inline-formula>
+              </td>
+              <td align="center" valign="middle">20 <inline-formula><mml:math id="mm208"><mml:semantics><mml:msub><mml:mi>R</mml:mi><mml:mo>&#x2605;</mml:mo></mml:msub></mml:semantics></mml:math></inline-formula></td>
+              <td align="center" valign="middle">20 <inline-formula><mml:math id="mm209"><mml:semantics><mml:msub><mml:mi>R</mml:mi><mml:mo>&#x2605;</mml:mo></mml:msub></mml:semantics></mml:math></inline-formula></td>
+              <td align="center" valign="middle">30 <inline-formula><mml:math id="mm210"><mml:semantics><mml:msub><mml:mi>R</mml:mi><mml:mo>&#x2605;</mml:mo></mml:msub></mml:semantics></mml:math></inline-formula></td>
+              <td align="center" valign="middle">50 <inline-formula><mml:math id="mm211"><mml:semantics><mml:msub><mml:mi>R</mml:mi><mml:mo>&#x2605;</mml:mo></mml:msub></mml:semantics></mml:math></inline-formula></td>
+              <td align="center" valign="middle">&#xD7;</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle">
+                <inline-formula>
+                  <mml:math id="mm212">
+                    <mml:semantics>
+                      <mml:mrow>
+                        <mml:mn>3.5</mml:mn>
+                      </mml:mrow>
+                    </mml:semantics>
+                  </mml:math>
+                </inline-formula>
+              </td>
+              <td align="center" valign="middle">20 <inline-formula><mml:math id="mm213"><mml:semantics><mml:msub><mml:mi>R</mml:mi><mml:mo>&#x2605;</mml:mo></mml:msub></mml:semantics></mml:math></inline-formula></td>
+              <td align="center" valign="middle">20 <inline-formula><mml:math id="mm214"><mml:semantics><mml:msub><mml:mi>R</mml:mi><mml:mo>&#x2605;</mml:mo></mml:msub></mml:semantics></mml:math></inline-formula></td>
+              <td align="center" valign="middle">20 <inline-formula><mml:math id="mm215"><mml:semantics><mml:msub><mml:mi>R</mml:mi><mml:mo>&#x2605;</mml:mo></mml:msub></mml:semantics></mml:math></inline-formula></td>
+              <td align="center" valign="middle">30 <inline-formula><mml:math id="mm216"><mml:semantics><mml:msub><mml:mi>R</mml:mi><mml:mo>&#x2605;</mml:mo></mml:msub></mml:semantics></mml:math></inline-formula></td>
+              <td align="center" valign="middle">30 <inline-formula><mml:math id="mm217"><mml:semantics><mml:msub><mml:mi>R</mml:mi><mml:mo>&#x2605;</mml:mo></mml:msub></mml:semantics></mml:math></inline-formula></td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" style="border-bottom:solid thin">
+                <inline-formula>
+                  <mml:math id="mm218">
+                    <mml:semantics>
+                      <mml:mrow>
+                        <mml:mn>4.0</mml:mn>
+                      </mml:mrow>
+                    </mml:semantics>
+                  </mml:math>
+                </inline-formula>
+              </td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">20 <inline-formula><mml:math id="mm219"><mml:semantics><mml:msub><mml:mi>R</mml:mi><mml:mo>&#x2605;</mml:mo></mml:msub></mml:semantics></mml:math></inline-formula></td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">20 <inline-formula><mml:math id="mm220"><mml:semantics><mml:msub><mml:mi>R</mml:mi><mml:mo>&#x2605;</mml:mo></mml:msub></mml:semantics></mml:math></inline-formula></td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">20 <inline-formula><mml:math id="mm221"><mml:semantics><mml:msub><mml:mi>R</mml:mi><mml:mo>&#x2605;</mml:mo></mml:msub></mml:semantics></mml:math></inline-formula></td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">20 <inline-formula><mml:math id="mm222"><mml:semantics><mml:msub><mml:mi>R</mml:mi><mml:mo>&#x2605;</mml:mo></mml:msub></mml:semantics></mml:math></inline-formula></td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">20 <inline-formula><mml:math id="mm223"><mml:semantics><mml:msub><mml:mi>R</mml:mi><mml:mo>&#x2605;</mml:mo></mml:msub></mml:semantics></mml:math></inline-formula></td>
+            </tr>
+          </tbody>
+        </table>
+      </table-wrap>
+    </sec>
+    <fn-group>
+      <fn>
+        <p><bold>Disclaimer/Publisher&#x2019;s Note:</bold> The statements, opinions and data contained in all publications are solely those of the individual author(s) and contributor(s) and not of MDPI and/or the editor(s). MDPI and/or the editor(s) disclaim responsibility for any injury to people or property resulting from any ideas, methods, instructions or products referred to in the content.</p>
+      </fn>
+    </fn-group>
+  </back>
+</article>

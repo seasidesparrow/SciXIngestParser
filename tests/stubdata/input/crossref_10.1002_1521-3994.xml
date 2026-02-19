@@ -1,0 +1,183 @@
+<?xml version="1.0"?>
+<record>
+  <header>
+    <identifier>info:doi/10.1002%2F1521-3994%28199903%29320%3A1%3C1%3A%3AAID-ASNA1%3E3.0.CO%3B2-8</identifier>
+    <datestamp>2021-06-30</datestamp>
+    <setSpec>J</setSpec>
+    <setSpec>J:10.1002</setSpec>
+    <setSpec>J:10.1002:337</setSpec>
+  </header>
+  <metadata>
+    <crossref xmlns="http://www.crossref.org/xschema/1.0" xsi:schemaLocation="http://www.crossref.org/xschema/1.0 http://www.crossref.org/schema/unixref1.0.xsd">
+      <journal>
+        <journal_metadata language="en">
+          <full_title>Astronomische Nachrichten</full_title>
+          <abbrev_title>Astron. Nachr.</abbrev_title>
+          <issn media_type="print">0004-6337</issn>
+          <issn media_type="electronic">1521-3994</issn>
+          <doi_data>
+            <doi>10.1002/(ISSN)1521-3994</doi>
+            <resource>http://doi.wiley.com/10.1002/%28ISSN%291521-3994</resource>
+          </doi_data>
+        </journal_metadata>
+        <journal_issue>
+          <publication_date media_type="print">
+            <month>03</month>
+            <year>1999</year>
+          </publication_date>
+          <journal_volume>
+            <volume>320</volume>
+          </journal_volume>
+          <issue>1</issue>
+          <doi_data>
+            <doi>10.1002/1521-3994(199903)320:1&lt;&gt;1.0.CO;2-F</doi>
+            <resource>http://doi.wiley.com/10.1002/1521-3994(199903)320:1&lt;&gt;1.0.CO;2-F</resource>
+          </doi_data>
+        </journal_issue>
+        <journal_article publication_type="full_text">
+          <titles>
+            <title>Cosmology without Big Bang within the framework of the Projective Unified Field Theory and the influence on the motion of cosmic objects</title>
+          </titles>
+          <contributors>
+            <person_name contributor_role="author" sequence="first">
+              <given_name>E.</given_name>
+              <surname>Schmutzer</surname>
+            </person_name>
+          </contributors>
+          <publication_date media_type="print">
+            <month>03</month>
+            <year>1999</year>
+          </publication_date>
+          <pages>
+            <first_page>1</first_page>
+            <last_page>19</last_page>
+          </pages>
+          <program xmlns:ai="http://www.crossref.org/AccessIndicators.xsd" name="AccessIndicators">
+            <ai:license_ref applies_to="tdm" start_date="2015-09-01">http://doi.wiley.com/10.1002/tdm_license_1.1</ai:license_ref>
+          </program>
+          <doi_data>
+            <doi>10.1002/1521-3994(199903)320:1&lt;1::AID-ASNA1&gt;3.0.CO;2-8</doi>
+            <resource>https://onlinelibrary.wiley.com/doi/10.1002/1521-3994(199903)320:1&lt;1::AID-ASNA1&gt;3.0.CO;2-8</resource>
+            <collection property="crawler-based">
+              <item crawler="iParadigms">
+                <resource>https://onlinelibrary.wiley.com/doi/full/10.1002/1521-3994(199903)320:1%3C1::AID-ASNA1%3E3.0.CO;2-8</resource>
+              </item>
+            </collection>
+            <collection property="text-mining">
+              <item>
+                <resource content_version="vor">https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1002%2F1521-3994(199903)320:1%3C1::AID-ASNA1%3E3.0.CO;2-8</resource>
+              </item>
+            </collection>
+          </doi_data>
+          <citation_list>
+            <citation key="10.1002/1521-3994(199903)320:1&lt;1::AID-ASNA1&gt;3.0.CO;2-8-BIB1">
+              <journal_title>Astron. Nachr.</journal_title>
+              <author>Avakian</author>
+              <volume>311</volume>
+              <first_page>343</first_page>
+              <cYear>1990</cYear>
+              <doi provider="crossref">10.1002/asna.2113110604</doi>
+            </citation>
+            <citation key="10.1002/1521-3994(199903)320:1&lt;1::AID-ASNA1&gt;3.0.CO;2-8-BIB2">
+              <journal_title>Phys. Rev.</journal_title>
+              <author>Brans</author>
+              <volume>124</volume>
+              <first_page>92</first_page>
+              <cYear>1961</cYear>
+              <doi provider="crossref">10.1103/PhysRev.124.925</doi>
+            </citation>
+            <citation key="10.1002/1521-3994(199903)320:1&lt;1::AID-ASNA1&gt;3.0.CO;2-8-BIB3">
+              <journal_title>Phys. Rev.</journal_title>
+              <author>Brans</author>
+              <volume>125125</volume>
+              <first_page>214</first_page>
+              <cYear>1962</cYear>
+            </citation>
+            <citation key="10.1002/1521-3994(199903)320:1&lt;1::AID-ASNA1&gt;3.0.CO;2-8-BIB4">
+              <author>De Sabbata</author>
+              <cYear>1983</cYear>
+              <unstructured_citation>and (eds.): 1983, Unified Field Theories of more than 4 Dimensions including Exact Solutions. World Scientific Singapore</unstructured_citation>
+            </citation>
+            <citation key="10.1002/1521-3994(199903)320:1&lt;1::AID-ASNA1&gt;3.0.CO;2-8-BIB5">
+              <author>Goenner</author>
+              <cYear>1994</cYear>
+              <unstructured_citation>: 1994, Einf&#xFC;hrung in die Kosmologie. Spektrum Akademischer Verlag, Heidelberg etc.</unstructured_citation>
+            </citation>
+            <citation key="10.1002/1521-3994(199903)320:1&lt;1::AID-ASNA1&gt;3.0.CO;2-8-BIB6">
+              <author>Jordan</author>
+              <cYear>1955</cYear>
+              <unstructured_citation>: 1955, Schwerkraft und Weltall. F.Vieweg &amp; Sohn Verlag, Braunschweig; 1961, Problems of Gravitation, Final Report II (with contributions of W. Kundt and J. Ehlers), Mikrokopie GmbH M&#xFC;nchen</unstructured_citation>
+            </citation>
+            <citation key="10.1002/1521-3994(199903)320:1&lt;1::AID-ASNA1&gt;3.0.CO;2-8-BIB7">
+              <author>Schmutzer</author>
+              <cYear>1968</cYear>
+              <unstructured_citation>: 1968, Relativistische Physik. B.G.Teubner Verlagsgesellschaft, Leipzig</unstructured_citation>
+            </citation>
+            <citation key="10.1002/1521-3994(199903)320:1&lt;1::AID-ASNA1&gt;3.0.CO;2-8-BIB8">
+              <author>Schmutzer</author>
+              <cYear>1983</cYear>
+              <unstructured_citation>(ed.): 1983, Proc. 9th International Conference on General Relativity and Gravitation, Deutscher Verlag der Wissenschaften Berlin</unstructured_citation>
+            </citation>
+            <citation key="10.1002/1521-3994(199903)320:1&lt;1::AID-ASNA1&gt;3.0.CO;2-8-BIB9">
+              <journal_title>Classical and Quantum Gravity</journal_title>
+              <author>Schmutzer</author>
+              <volume>5</volume>
+              <first_page>353</first_page>
+              <cYear>1988a</cYear>
+              <doi provider="crossref">10.1088/0264-9381/5/2/014</doi>
+            </citation>
+            <citation key="10.1002/1521-3994(199903)320:1&lt;1::AID-ASNA1&gt;3.0.CO;2-8-BIB10">
+              <journal_title>lassical and Quantum Gravity</journal_title>
+              <author>Schmutzer</author>
+              <volume>5</volume>
+              <first_page>1215</first_page>
+              <cYear>1988b</cYear>
+              <doi provider="crossref">10.1088/0264-9381/5/9/007</doi>
+            </citation>
+            <citation key="10.1002/1521-3994(199903)320:1&lt;1::AID-ASNA1&gt;3.0.CO;2-8-BIB11">
+              <journal_title>Astron. Nachr.</journal_title>
+              <author>Schmutzer</author>
+              <volume>311</volume>
+              <first_page>329</first_page>
+              <cYear>1990a</cYear>
+              <doi provider="crossref">10.1002/asna.2113110602</doi>
+            </citation>
+            <citation key="10.1002/1521-3994(199903)320:1&lt;1::AID-ASNA1&gt;3.0.CO;2-8-BIB12">
+              <journal_title>Ann. Physik (Leipzig)</journal_title>
+              <author>Schmutzer</author>
+              <volume>47</volume>
+              <first_page>219</first_page>
+              <cYear>1990b</cYear>
+              <doi provider="crossref">10.1002/andp.19905020218</doi>
+            </citation>
+            <citation key="10.1002/1521-3994(199903)320:1&lt;1::AID-ASNA1&gt;3.0.CO;2-8-BIB13">
+              <journal_title>Fortschritte der Physik</journal_title>
+              <author>Schmutzer</author>
+              <volume>43</volume>
+              <first_page>613</first_page>
+              <cYear>1995a</cYear>
+              <doi provider="crossref">10.1002/prop.2190430703</doi>
+            </citation>
+            <citation key="10.1002/1521-3994(199903)320:1&lt;1::AID-ASNA1&gt;3.0.CO;2-8-BIB14">
+              <journal_title>Ann. Physik (Leipzig)</journal_title>
+              <author>Schmutzer</author>
+              <volume>4</volume>
+              <first_page>251</first_page>
+              <cYear>1995b</cYear>
+              <doi provider="crossref">10.1002/andp.19955070308</doi>
+            </citation>
+            <citation key="10.1002/1521-3994(199903)320:1&lt;1::AID-ASNA1&gt;3.0.CO;2-8-BIB15">
+              <author>Schmutzer</author>
+              <cYear>1998</cYear>
+              <unstructured_citation>: 1998, Schriften der Sudetendeutschen Akademie der Wissenschaften und K&#xFC;nste in M&#xFC;nchen, 19, p. 153; Abstract in: P. Brosche et al. (eds.): &#x201C;The Message of the Angles - Astronomy from 1798 to 1998&#x201D;, H. Deutsch 1998, p. 259 (Conf. Astronomische Gesellschaft, Gotha, May 1998</unstructured_citation>
+            </citation>
+            <citation key="10.1002/1521-3994(199903)320:1&lt;1::AID-ASNA1&gt;3.0.CO;2-8-BIB16">
+              <author>Zimmermann</author>
+              <unstructured_citation>and : ABC-Lexikon Astronomie. 8th Edition, Spektrum Address of the author: Ernst Schmutzer Cospedaer Grund 57</unstructured_citation>
+            </citation>
+          </citation_list>
+        </journal_article>
+      </journal>
+    </crossref>
+  </metadata>
+</record>

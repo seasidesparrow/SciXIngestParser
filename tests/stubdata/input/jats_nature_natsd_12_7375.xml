@@ -1,0 +1,3099 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article SYSTEM "http://jats.nlm.nih.gov/archiving/1.2/JATS-archivearticle1.dtd">
+<article
+	xmlns:mml="http://www.w3.org/1998/Math/MathML"
+	xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.2" article-type="research-article" xml:lang="en">
+	<?properties open_access?>
+	<front>
+		<journal-meta>
+			<journal-id journal-id-type="publisher-id">41598</journal-id>
+			<journal-id journal-id-type="doi">10.1038/41598.2045-2322</journal-id>
+			<journal-title-group>
+				<journal-title>Scientific Reports</journal-title>
+				<abbrev-journal-title abbrev-type="publisher">Sci Rep</abbrev-journal-title>
+			</journal-title-group>
+			<issn pub-type="epub">2045-2322</issn>
+			<publisher>
+				<publisher-name>Nature Publishing Group UK</publisher-name>
+				<publisher-loc>London</publisher-loc>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="publisher-id">s41598-022-10801-z</article-id>
+			<article-id pub-id-type="manuscript">10801</article-id>
+			<article-id pub-id-type="doi">10.1038/s41598-022-10801-z</article-id>
+			<article-categories>
+				<subj-group subj-group-type="heading">
+					<subject>Article</subject>
+				</subj-group>
+				<subj-group subj-group-type="SubjectPath">
+					<subject>/631/443</subject>
+				</subj-group>
+				<subj-group subj-group-type="SubjectPath">
+					<subject>/692/698/1671/1668</subject>
+				</subj-group>
+				<subj-group subj-group-type="SubjectPath">
+					<subject>/692/699/2743/137/1926</subject>
+				</subj-group>
+				<subj-group subj-group-type="NatureArticleTypeID">
+					<subject>article</subject>
+				</subj-group>
+			</article-categories>
+			<title-group>
+				<article-title xml:lang="en">Reversal of diabetic-induced myopathy by swimming exercise in pregnant rats: a translational intervention study</article-title>
+			</title-group>
+			<contrib-group>
+				<contrib contrib-type="author" id="Au1">
+					<name>
+						<surname>Catinelli</surname>
+						<given-names>Bruna B.</given-names>
+					</name>
+					<xref ref-type="aff" rid="Aff1">1</xref>
+				</contrib>
+				<contrib contrib-type="author" id="Au2">
+					<name>
+						<surname>Rossignoli</surname>
+						<given-names>Patrícia S.</given-names>
+					</name>
+					<xref ref-type="aff" rid="Aff2">2</xref>
+				</contrib>
+				<contrib contrib-type="author" id="Au3">
+					<name>
+						<surname>Floriano</surname>
+						<given-names>Juliana F.</given-names>
+					</name>
+					<xref ref-type="aff" rid="Aff1">1</xref>
+				</contrib>
+				<contrib contrib-type="author" id="Au4">
+					<name>
+						<surname>Carr</surname>
+						<given-names>Aline M.</given-names>
+					</name>
+					<xref ref-type="aff" rid="Aff1">1</xref>
+				</contrib>
+				<contrib contrib-type="author" id="Au5">
+					<name>
+						<surname>de Oliveira</surname>
+						<given-names>Rafael G.</given-names>
+					</name>
+					<xref ref-type="aff" rid="Aff1">1</xref>
+				</contrib>
+				<contrib contrib-type="author" id="Au6">
+					<name>
+						<surname>dos Santos</surname>
+						<given-names>Nilton J.</given-names>
+					</name>
+					<xref ref-type="aff" rid="Aff3">3</xref>
+					<xref ref-type="aff" rid="Aff4">4</xref>
+				</contrib>
+				<contrib contrib-type="author" id="Au7">
+					<name>
+						<surname>Úbeda</surname>
+						<given-names>Lara C. C.</given-names>
+					</name>
+					<xref ref-type="aff" rid="Aff5">5</xref>
+				</contrib>
+				<contrib contrib-type="author" id="Au8">
+					<name>
+						<surname>Spadella</surname>
+						<given-names>Maria Angélica</given-names>
+					</name>
+					<xref ref-type="aff" rid="Aff6">6</xref>
+				</contrib>
+				<contrib contrib-type="author" id="Au9">
+					<name>
+						<surname>Hallur</surname>
+						<given-names>Raghavendra L. S.</given-names>
+					</name>
+					<xref ref-type="aff" rid="Aff1">1</xref>
+					<xref ref-type="aff" rid="Aff7">7</xref>
+				</contrib>
+				<contrib contrib-type="author" id="Au10">
+					<name>
+						<surname>Sobrevia</surname>
+						<given-names>Luis</given-names>
+					</name>
+					<xref ref-type="aff" rid="Aff1">1</xref>
+					<xref ref-type="aff" rid="Aff8">8</xref>
+					<xref ref-type="aff" rid="Aff9">9</xref>
+					<xref ref-type="aff" rid="Aff10">10</xref>
+					<xref ref-type="aff" rid="Aff11">11</xref>
+				</contrib>
+				<contrib contrib-type="author" id="Au11">
+					<name>
+						<surname>Felisbino</surname>
+						<given-names>Sérgio L.</given-names>
+					</name>
+					<xref ref-type="aff" rid="Aff3">3</xref>
+				</contrib>
+				<contrib contrib-type="author" id="Au12">
+					<name>
+						<surname>Calderon</surname>
+						<given-names>Iracema M. P.</given-names>
+					</name>
+					<xref ref-type="aff" rid="Aff1">1</xref>
+				</contrib>
+				<contrib contrib-type="author" id="Au13">
+					<name>
+						<surname>Barbosa</surname>
+						<given-names>Angélica M. P.</given-names>
+					</name>
+					<xref ref-type="aff" rid="Aff1">1</xref>
+					<xref ref-type="aff" rid="Aff2">2</xref>
+				</contrib>
+				<contrib contrib-type="author" corresp="yes" id="Au14">
+					<name>
+						<surname>Rudge</surname>
+						<given-names>Marilza V. C.</given-names>
+					</name>
+					<xref ref-type="aff" rid="Aff1">1</xref>
+					<xref ref-type="corresp" rid="IDs4159802210801z_cor14">q</xref>
+				</contrib>
+				<contrib contrib-type="author" id="IAu1">
+					<xref ref-type="aff" rid="Aff1">1</xref>
+					<collab>
+						<institution>The Diamater Study Group</institution>
+						<contrib-group>
+							<contrib contrib-type="author" id="Au15">
+								<name>
+									<surname>Rudge</surname>
+									<given-names>M. V. C.</given-names>
+								</name>
+								<xref ref-type="aff" rid="Aff1">1</xref>
+							</contrib>
+							<contrib contrib-type="author" id="Au16">
+								<name>
+									<surname>Barbosa</surname>
+									<given-names>A. M. P.</given-names>
+								</name>
+								<xref ref-type="aff" rid="Aff1">1</xref>
+								<xref ref-type="aff" rid="Aff2">2</xref>
+							</contrib>
+							<contrib contrib-type="author" id="Au17">
+								<name>
+									<surname>Calderon</surname>
+									<given-names>I. M. P.</given-names>
+								</name>
+								<xref ref-type="aff" rid="Aff1">1</xref>
+							</contrib>
+							<contrib contrib-type="author" id="Au18">
+								<name>
+									<surname>Sobrevia</surname>
+									<given-names>L.</given-names>
+								</name>
+								<xref ref-type="aff" rid="Aff1">1</xref>
+								<xref ref-type="aff" rid="Aff8">8</xref>
+								<xref ref-type="aff" rid="Aff9">9</xref>
+								<xref ref-type="aff" rid="Aff10">10</xref>
+								<xref ref-type="aff" rid="Aff11">11</xref>
+							</contrib>
+							<contrib contrib-type="author" id="Au19">
+								<name>
+									<surname>Souza</surname>
+									<given-names>F. P.</given-names>
+								</name>
+								<xref ref-type="aff" rid="Aff12">12</xref>
+							</contrib>
+							<contrib contrib-type="author" id="Au20">
+								<name>
+									<surname>Berghmans</surname>
+									<given-names>B.</given-names>
+								</name>
+								<xref ref-type="aff" rid="Aff13">13</xref>
+							</contrib>
+							<contrib contrib-type="author" id="Au21">
+								<name>
+									<surname>Thabane</surname>
+									<given-names>L.</given-names>
+								</name>
+								<xref ref-type="aff" rid="Aff14">14</xref>
+							</contrib>
+							<contrib contrib-type="author" id="Au22">
+								<name>
+									<surname>Junginger</surname>
+									<given-names>B.</given-names>
+								</name>
+								<xref ref-type="aff" rid="Aff15">15</xref>
+							</contrib>
+							<contrib contrib-type="author" id="Au23">
+								<name>
+									<surname>Graeff</surname>
+									<given-names>C. F. O.</given-names>
+								</name>
+								<xref ref-type="aff" rid="Aff16">16</xref>
+							</contrib>
+							<contrib contrib-type="author" id="Au24">
+								<name>
+									<surname>Magalhães</surname>
+									<given-names>C. G.</given-names>
+								</name>
+								<xref ref-type="aff" rid="Aff17">17</xref>
+							</contrib>
+							<contrib contrib-type="author" id="Au25">
+								<name>
+									<surname>Costa</surname>
+									<given-names>R. A.</given-names>
+								</name>
+								<xref ref-type="aff" rid="Aff1">1</xref>
+							</contrib>
+							<contrib contrib-type="author" id="Au26">
+								<name>
+									<surname>Lima</surname>
+									<given-names>S. A. M.</given-names>
+								</name>
+								<xref ref-type="aff" rid="Aff18">18</xref>
+							</contrib>
+							<contrib contrib-type="author" id="Au27">
+								<name>
+									<surname>Kron-Rodrigues</surname>
+									<given-names>M. R.</given-names>
+								</name>
+								<xref ref-type="aff" rid="Aff19">19</xref>
+							</contrib>
+							<contrib contrib-type="author" id="Au28">
+								<name>
+									<surname>Felisbino</surname>
+									<given-names>S. L.</given-names>
+								</name>
+								<xref ref-type="aff" rid="Aff3">3</xref>
+							</contrib>
+							<contrib contrib-type="author" id="Au29">
+								<name>
+									<surname>Barbosa</surname>
+									<given-names>W.</given-names>
+								</name>
+								<xref ref-type="aff" rid="Aff20">20</xref>
+							</contrib>
+							<contrib contrib-type="author" id="Au30">
+								<name>
+									<surname>Campos</surname>
+									<given-names>F. J.</given-names>
+								</name>
+								<xref ref-type="aff" rid="Aff17">17</xref>
+							</contrib>
+							<contrib contrib-type="author" id="Au31">
+								<name>
+									<surname>Bossolan</surname>
+									<given-names>G.</given-names>
+								</name>
+								<xref ref-type="aff" rid="Aff1">1</xref>
+							</contrib>
+							<contrib contrib-type="author" id="Au32">
+								<name>
+									<surname>Corrente</surname>
+									<given-names>J. E.</given-names>
+								</name>
+								<xref ref-type="aff" rid="Aff21">21</xref>
+							</contrib>
+							<contrib contrib-type="author" id="Au33">
+								<name>
+									<surname>Nunes</surname>
+									<given-names>H. R. C.</given-names>
+								</name>
+								<xref ref-type="aff" rid="Aff17">17</xref>
+							</contrib>
+							<contrib contrib-type="author" id="Au34">
+								<name>
+									<surname>Abbade</surname>
+									<given-names>J.</given-names>
+								</name>
+								<xref ref-type="aff" rid="Aff17">17</xref>
+							</contrib>
+							<contrib contrib-type="author" id="Au35">
+								<name>
+									<surname>Rossignoli</surname>
+									<given-names>P. S.</given-names>
+								</name>
+								<xref ref-type="aff" rid="Aff2">2</xref>
+							</contrib>
+							<contrib contrib-type="author" id="Au36">
+								<name>
+									<surname>Pedroni</surname>
+									<given-names>C. R.</given-names>
+								</name>
+								<xref ref-type="aff" rid="Aff2">2</xref>
+							</contrib>
+							<contrib contrib-type="author" id="Au37">
+								<name>
+									<surname>Atallah</surname>
+									<given-names>A. N.</given-names>
+								</name>
+								<xref ref-type="aff" rid="Aff22">22</xref>
+							</contrib>
+							<contrib contrib-type="author" id="Au38">
+								<name>
+									<surname>Di Bella</surname>
+									<given-names>Z. I. K. J.</given-names>
+								</name>
+								<xref ref-type="aff" rid="Aff23">23</xref>
+							</contrib>
+							<contrib contrib-type="author" id="Au39">
+								<name>
+									<surname>Uchoa</surname>
+									<given-names>S. M. M.</given-names>
+								</name>
+								<xref ref-type="aff" rid="Aff24">24</xref>
+							</contrib>
+							<contrib contrib-type="author" id="Au40">
+								<name>
+									<surname>Duarte</surname>
+									<given-names>M. A. H.</given-names>
+								</name>
+								<xref ref-type="aff" rid="Aff25">25</xref>
+							</contrib>
+							<contrib contrib-type="author" id="Au41">
+								<name>
+									<surname>Mareco</surname>
+									<given-names>E. A.</given-names>
+								</name>
+								<xref ref-type="aff" rid="Aff26">26</xref>
+							</contrib>
+							<contrib contrib-type="author" id="Au42">
+								<name>
+									<surname>Sakalem</surname>
+									<given-names>M. E.</given-names>
+								</name>
+								<xref ref-type="aff" rid="Aff27">27</xref>
+							</contrib>
+							<contrib contrib-type="author" id="Au43">
+								<name>
+									<surname>Martinho</surname>
+									<given-names>N.</given-names>
+								</name>
+								<xref ref-type="aff" rid="Aff28">28</xref>
+								<xref ref-type="aff" rid="Aff29">29</xref>
+							</contrib>
+							<contrib contrib-type="author" id="Au44">
+								<name>
+									<surname>Hallur</surname>
+									<given-names>L. S. R.</given-names>
+								</name>
+								<xref ref-type="aff" rid="Aff1">1</xref>
+								<xref ref-type="aff" rid="Aff7">7</xref>
+							</contrib>
+							<contrib contrib-type="author" id="Au45">
+								<name>
+									<surname>Reyes</surname>
+									<given-names>D. R. A.</given-names>
+								</name>
+								<xref ref-type="aff" rid="Aff1">1</xref>
+							</contrib>
+							<contrib contrib-type="author" id="Au46">
+								<name>
+									<surname>Alves</surname>
+									<given-names>F. C. B.</given-names>
+								</name>
+								<xref ref-type="aff" rid="Aff1">1</xref>
+							</contrib>
+							<contrib contrib-type="author" id="Au47">
+								<name>
+									<surname>Marcondes</surname>
+									<given-names>J. P. C.</given-names>
+								</name>
+								<xref ref-type="aff" rid="Aff1">1</xref>
+							</contrib>
+							<contrib contrib-type="author" id="Au48">
+								<name>
+									<surname>Prudencio</surname>
+									<given-names>C. B.</given-names>
+								</name>
+								<xref ref-type="aff" rid="Aff1">1</xref>
+							</contrib>
+							<contrib contrib-type="author" id="Au49">
+								<name>
+									<surname>Pinheiro</surname>
+									<given-names>F. A.</given-names>
+								</name>
+								<xref ref-type="aff" rid="Aff1">1</xref>
+							</contrib>
+							<contrib contrib-type="author" id="Au50">
+								<name>
+									<surname>SartorãoFilho</surname>
+									<given-names>C. I.</given-names>
+								</name>
+								<xref ref-type="aff" rid="Aff1">1</xref>
+							</contrib>
+							<contrib contrib-type="author" id="Au51">
+								<name>
+									<surname>Quiroz</surname>
+									<given-names>S. B. C. V.</given-names>
+								</name>
+								<xref ref-type="aff" rid="Aff1">1</xref>
+							</contrib>
+							<contrib contrib-type="author" id="Au52">
+								<name>
+									<surname>Pascon</surname>
+									<given-names>T.</given-names>
+								</name>
+								<xref ref-type="aff" rid="Aff1">1</xref>
+							</contrib>
+							<contrib contrib-type="author" id="Au53">
+								<name>
+									<surname>Nunes</surname>
+									<given-names>S. K.</given-names>
+								</name>
+								<xref ref-type="aff" rid="Aff1">1</xref>
+							</contrib>
+							<contrib contrib-type="author" id="Au54">
+								<name>
+									<surname>Catinelli</surname>
+									<given-names>B. B.</given-names>
+								</name>
+								<xref ref-type="aff" rid="Aff1">1</xref>
+							</contrib>
+							<contrib contrib-type="author" id="Au55">
+								<name>
+									<surname>Reis</surname>
+									<given-names>F. V. D. S.</given-names>
+								</name>
+								<xref ref-type="aff" rid="Aff1">1</xref>
+							</contrib>
+							<contrib contrib-type="author" id="Au56">
+								<name>
+									<surname>Oliveira</surname>
+									<given-names>R. G.</given-names>
+								</name>
+								<xref ref-type="aff" rid="Aff1">1</xref>
+							</contrib>
+							<contrib contrib-type="author" id="Au57">
+								<name>
+									<surname>Barneze</surname>
+									<given-names>S.</given-names>
+								</name>
+								<xref ref-type="aff" rid="Aff1">1</xref>
+							</contrib>
+							<contrib contrib-type="author" id="Au58">
+								<name>
+									<surname>Enriquez</surname>
+									<given-names>E. M. A.</given-names>
+								</name>
+								<xref ref-type="aff" rid="Aff1">1</xref>
+							</contrib>
+							<contrib contrib-type="author" id="Au59">
+								<name>
+									<surname>Takano</surname>
+									<given-names>L.</given-names>
+								</name>
+								<xref ref-type="aff" rid="Aff1">1</xref>
+							</contrib>
+							<contrib contrib-type="author" id="Au60">
+								<name>
+									<surname>Carr</surname>
+									<given-names>A. M.</given-names>
+								</name>
+								<xref ref-type="aff" rid="Aff1">1</xref>
+							</contrib>
+							<contrib contrib-type="author" id="Au61">
+								<name>
+									<surname>Magyori</surname>
+									<given-names>A. B. M.</given-names>
+								</name>
+								<xref ref-type="aff" rid="Aff1">1</xref>
+							</contrib>
+							<contrib contrib-type="author" id="Au62">
+								<name>
+									<surname>Iamundo</surname>
+									<given-names>L. F.</given-names>
+								</name>
+								<xref ref-type="aff" rid="Aff1">1</xref>
+							</contrib>
+							<contrib contrib-type="author" id="Au63">
+								<name>
+									<surname>Carvalho</surname>
+									<given-names>C. N. F.</given-names>
+								</name>
+								<xref ref-type="aff" rid="Aff1">1</xref>
+							</contrib>
+							<contrib contrib-type="author" id="Au64">
+								<name>
+									<surname>Jacomin</surname>
+									<given-names>M.</given-names>
+								</name>
+								<xref ref-type="aff" rid="Aff1">1</xref>
+							</contrib>
+							<contrib contrib-type="author" id="Au65">
+								<name>
+									<surname>Avramidis</surname>
+									<given-names>R. E.</given-names>
+								</name>
+								<xref ref-type="aff" rid="Aff1">1</xref>
+							</contrib>
+							<contrib contrib-type="author" id="Au66">
+								<name>
+									<surname>Silva</surname>
+									<given-names>A. J. B.</given-names>
+								</name>
+								<xref ref-type="aff" rid="Aff2">2</xref>
+							</contrib>
+							<contrib contrib-type="author" id="Au67">
+								<name>
+									<surname>Orlandi</surname>
+									<given-names>M. I. G.</given-names>
+								</name>
+								<xref ref-type="aff" rid="Aff1">1</xref>
+							</contrib>
+							<contrib contrib-type="author" id="Au68">
+								<name>
+									<surname>Dangió</surname>
+									<given-names>T. D.</given-names>
+								</name>
+								<xref ref-type="aff" rid="Aff1">1</xref>
+							</contrib>
+							<contrib contrib-type="author" id="Au69">
+								<name>
+									<surname>Bassin</surname>
+									<given-names>H. C. M.</given-names>
+								</name>
+								<xref ref-type="aff" rid="Aff1">1</xref>
+							</contrib>
+							<contrib contrib-type="author" id="Au70">
+								<name>
+									<surname>Takemoto</surname>
+									<given-names>M. L. S.</given-names>
+								</name>
+								<xref ref-type="aff" rid="Aff1">1</xref>
+							</contrib>
+							<contrib contrib-type="author" id="Au71">
+								<name>
+									<surname>Caldeirão</surname>
+									<given-names>T. D.</given-names>
+								</name>
+								<xref ref-type="aff" rid="Aff1">1</xref>
+							</contrib>
+							<contrib contrib-type="author" id="Au72">
+								<name>
+									<surname>Santos</surname>
+									<given-names>N. J.</given-names>
+								</name>
+								<xref ref-type="aff" rid="Aff3">3</xref>
+								<xref ref-type="aff" rid="Aff4">4</xref>
+							</contrib>
+							<contrib contrib-type="author" id="Au73">
+								<name>
+									<surname>Lourenço</surname>
+									<given-names>I. O.</given-names>
+								</name>
+								<xref ref-type="aff" rid="Aff12">12</xref>
+							</contrib>
+							<contrib contrib-type="author" id="Au74">
+								<name>
+									<surname>de Sá</surname>
+									<given-names>J. Marostica</given-names>
+								</name>
+								<xref ref-type="aff" rid="Aff12">12</xref>
+							</contrib>
+							<contrib contrib-type="author" id="Au75">
+								<name>
+									<surname>Caruso</surname>
+									<given-names>I. P.</given-names>
+								</name>
+								<xref ref-type="aff" rid="Aff12">12</xref>
+							</contrib>
+							<contrib contrib-type="author" id="Au76">
+								<name>
+									<surname>Rasmussen</surname>
+									<given-names>L. T.</given-names>
+								</name>
+								<xref ref-type="aff" rid="Aff30">30</xref>
+							</contrib>
+							<contrib contrib-type="author" id="Au77">
+								<name>
+									<surname>Garcia</surname>
+									<given-names>G. A.</given-names>
+								</name>
+								<xref ref-type="aff" rid="Aff1">1</xref>
+							</contrib>
+							<contrib contrib-type="author" id="Au78">
+								<name>
+									<surname>Nava</surname>
+									<given-names>G. T. A.</given-names>
+								</name>
+								<xref ref-type="aff" rid="Aff31">31</xref>
+							</contrib>
+							<contrib contrib-type="author" id="Au79">
+								<name>
+									<surname>Marques</surname>
+									<given-names>C. P.</given-names>
+								</name>
+								<xref ref-type="aff" rid="Aff32">32</xref>
+							</contrib>
+							<contrib contrib-type="author" id="Au80">
+								<name>
+									<surname>Bussaneli</surname>
+									<given-names>D. G.</given-names>
+								</name>
+								<xref ref-type="aff" rid="Aff33">33</xref>
+							</contrib>
+							<contrib contrib-type="author" id="Au81">
+								<name>
+									<surname>Nogueira</surname>
+									<given-names>V. K. C.</given-names>
+								</name>
+								<xref ref-type="aff" rid="Aff33">33</xref>
+							</contrib>
+							<contrib contrib-type="author" id="Au82">
+								<name>
+									<surname>Rudge</surname>
+									<given-names>C. V. C.</given-names>
+								</name>
+								<xref ref-type="aff" rid="Aff32">32</xref>
+							</contrib>
+							<contrib contrib-type="author" id="Au83">
+								<name>
+									<surname>Piculo</surname>
+									<given-names>F.</given-names>
+								</name>
+								<xref ref-type="aff" rid="Aff34">34</xref>
+							</contrib>
+							<contrib contrib-type="author" id="Au84">
+								<name>
+									<surname>Prata</surname>
+									<given-names>G. M.</given-names>
+								</name>
+								<xref ref-type="aff" rid="Aff35">35</xref>
+							</contrib>
+							<contrib contrib-type="author" id="Au85">
+								<name>
+									<surname>Barbosa</surname>
+									<given-names>V. P.</given-names>
+								</name>
+								<xref ref-type="aff" rid="Aff36">36</xref>
+							</contrib>
+						</contrib-group>
+					</collab>
+				</contrib>
+				<aff id="Aff1">
+					<label>1</label>
+					<institution-wrap>
+						<institution-id institution-id-type="GRID">grid.410543.7</institution-id>
+						<institution-id institution-id-type="ISNI">0000 0001 2188 478X</institution-id>
+						<institution content-type="org-division">Postgraduate Program on Tocogynecology, Department of Gynecology and Obstetrics, Botucatu Medical School</institution>
+						<institution content-type="org-name">São Paulo State University (UNESP)</institution>
+					</institution-wrap>
+					<addr-line content-type="city">Botucatu</addr-line>
+					<addr-line content-type="state">São Paulo</addr-line>
+					<country country="BR">Brazil</country>
+				</aff>
+				<aff id="Aff2">
+					<label>2</label>
+					<institution-wrap>
+						<institution-id institution-id-type="GRID">grid.410543.7</institution-id>
+						<institution-id institution-id-type="ISNI">0000 0001 2188 478X</institution-id>
+						<institution content-type="org-division">Department of Physiotherapy and Occupational Therapy, School of Philosophy and Sciences</institution>
+						<institution content-type="org-name">São Paulo State University (UNESP)</institution>
+					</institution-wrap>
+					<addr-line content-type="city">Marília</addr-line>
+					<addr-line content-type="state">São Paulo</addr-line>
+					<country country="BR">Brazil</country>
+				</aff>
+				<aff id="Aff3">
+					<label>3</label>
+					<institution-wrap>
+						<institution-id institution-id-type="GRID">grid.410543.7</institution-id>
+						<institution-id institution-id-type="ISNI">0000 0001 2188 478X</institution-id>
+						<institution content-type="org-division">Laboratory of Extracellular Matrix Biology, Department of Structural and Functional Biology, Institute of Biosciences of Botucatu</institution>
+						<institution content-type="org-name">São Paulo State University (UNESP)</institution>
+					</institution-wrap>
+					<addr-line content-type="city">Botucatu</addr-line>
+					<addr-line content-type="state">São Paulo</addr-line>
+					<country country="BR">Brazil</country>
+				</aff>
+				<aff id="Aff4">
+					<label>4</label>
+					<institution-wrap>
+						<institution-id institution-id-type="GRID">grid.411087.b</institution-id>
+						<institution-id institution-id-type="ISNI">0000 0001 0723 2494</institution-id>
+						<institution content-type="org-division">Department of Structural and Functional Biology, Institute of Biology (IB), UNICAMP</institution>
+						<institution content-type="org-name">University of Campinas (UNICAMP)</institution>
+					</institution-wrap>
+					<addr-line content-type="city">Campinas</addr-line>
+					<addr-line content-type="state">São Paulo</addr-line>
+					<country country="BR">Brazil</country>
+				</aff>
+				<aff id="Aff5">
+					<label>5</label>
+					<institution-wrap>
+						<institution content-type="org-name">University of Marília (UNIMAR)</institution>
+					</institution-wrap>
+					<addr-line content-type="city">Marília</addr-line>
+					<addr-line content-type="state">São Paulo</addr-line>
+					<country country="BR">Brazil</country>
+				</aff>
+				<aff id="Aff6">
+					<label>6</label>
+					<institution-wrap>
+						<institution content-type="org-division">Human Embryology Laboratory</institution>
+						<institution content-type="org-name">Marília Medical School (FAMEMA)</institution>
+					</institution-wrap>
+					<addr-line content-type="city">Marília</addr-line>
+					<addr-line content-type="state">São Paulo</addr-line>
+					<country country="BR">Brazil</country>
+				</aff>
+				<aff id="Aff7">
+					<label>7</label>
+					<institution-wrap>
+						<institution-id institution-id-type="GRID">grid.415155.1</institution-id>
+						<institution-id institution-id-type="ISNI">0000 0001 2039 9627</institution-id>
+						<institution content-type="org-name">Pravara Institute of Medical Sciences (Deemed to be University)</institution>
+					</institution-wrap>
+					<addr-line content-type="street">Loni, Rahata Taluk</addr-line>
+					<addr-line content-type="postcode">413736</addr-line>
+					<addr-line content-type="city">Ahmednagar District</addr-line>
+					<addr-line content-type="state">Maharashtra</addr-line>
+					<country country="IN">India</country>
+				</aff>
+				<aff id="Aff8">
+					<label>8</label>
+					<institution-wrap>
+						<institution-id institution-id-type="GRID">grid.7870.8</institution-id>
+						<institution-id institution-id-type="ISNI">0000 0001 2157 0406</institution-id>
+						<institution content-type="org-division">Cellular and Molecular Physiology Laboratory (CMPL), Department of Obstetrics, Division of Obstetrics and Gynaecology, School of Medicine, Faculty of Medicine</institution>
+						<institution content-type="org-name">Pontificia Universidad Católica de Chile</institution>
+					</institution-wrap>
+					<addr-line content-type="postcode">8330024</addr-line>
+					<addr-line content-type="city">Santiago</addr-line>
+					<country country="CL">Chile</country>
+				</aff>
+				<aff id="Aff9">
+					<label>9</label>
+					<institution-wrap>
+						<institution-id institution-id-type="GRID">grid.9224.d</institution-id>
+						<institution-id institution-id-type="ISNI">0000 0001 2168 1229</institution-id>
+						<institution content-type="org-division">Department of Physiology, Faculty of Pharmacy</institution>
+						<institution content-type="org-name">Universidad de Sevilla</institution>
+					</institution-wrap>
+					<addr-line content-type="postcode">41012</addr-line>
+					<addr-line content-type="city">Seville</addr-line>
+					<country country="ES">Spain</country>
+				</aff>
+				<aff id="Aff10">
+					<label>10</label>
+					<institution-wrap>
+						<institution-id institution-id-type="GRID">grid.1003.2</institution-id>
+						<institution-id institution-id-type="ISNI">0000 0000 9320 7537</institution-id>
+						<institution content-type="org-division">University of Queensland Centre for Clinical Research (UQCCR), Faculty of Medicine and Biomedical Sciences</institution>
+						<institution content-type="org-name">University of Queensland</institution>
+					</institution-wrap>
+					<addr-line content-type="postcode">4029</addr-line>
+					<addr-line content-type="city">Herston</addr-line>
+					<addr-line content-type="state">QLD</addr-line>
+					<country country="AU">Australia</country>
+				</aff>
+				<aff id="Aff11">
+					<label>11</label>
+					<institution-wrap>
+						<institution-id institution-id-type="GRID">grid.4494.d</institution-id>
+						<institution-id institution-id-type="ISNI">0000 0000 9558 4598</institution-id>
+						<institution content-type="org-division">Division of Pathology, Department of Pathology and Medical Biology</institution>
+						<institution content-type="org-name">University of Groningen, University Medical Center Groningen (UMCG)</institution>
+					</institution-wrap>
+					<addr-line content-type="postcode">9713GZ</addr-line>
+					<addr-line content-type="city">Groningen</addr-line>
+					<country country="NL">The Netherlands</country>
+				</aff>
+				<aff id="Aff12">
+					<label>12</label>
+					<institution-wrap>
+						<institution-id institution-id-type="GRID">grid.410543.7</institution-id>
+						<institution-id institution-id-type="ISNI">0000 0001 2188 478X</institution-id>
+						<institution content-type="org-division">Department of Physics, Institute of Biosciences, Letters and Exact Sciences (IBILCE), Multiuser Center for Biomolecular Innovation (CMIB)</institution>
+						<institution content-type="org-name">São Paulo State University “Júlio de Mesquita Filho” (UNESP)</institution>
+					</institution-wrap>
+					<addr-line content-type="postcode">15054-000</addr-line>
+					<addr-line content-type="city">São José do Rio Preto</addr-line>
+					<addr-line content-type="state">São Paulo</addr-line>
+					<country country="BR">Brazil</country>
+				</aff>
+				<aff id="Aff13">
+					<label>13</label>
+					<institution-wrap>
+						<institution-id institution-id-type="GRID">grid.412966.e</institution-id>
+						<institution-id institution-id-type="ISNI">0000 0004 0480 1382</institution-id>
+						<institution content-type="org-division">Pelvic Care Center Maastricht</institution>
+						<institution content-type="org-name">Maastricht University Medical Center</institution>
+					</institution-wrap>
+					<addr-line content-type="city">Maastricht</addr-line>
+					<country country="NL">The Netherlands</country>
+				</aff>
+				<aff id="Aff14">
+					<label>14</label>
+					<institution-wrap>
+						<institution-id institution-id-type="GRID">grid.25073.33</institution-id>
+						<institution-id institution-id-type="ISNI">0000 0004 1936 8227</institution-id>
+						<institution content-type="org-division">Department of Clinical Epidemiology and Biostatistics</institution>
+						<institution content-type="org-name">McMaster University</institution>
+					</institution-wrap>
+					<addr-line content-type="city">Hamilton</addr-line>
+					<addr-line content-type="state">ON</addr-line>
+					<country country="CA">Canada</country>
+				</aff>
+				<aff id="Aff15">
+					<label>15</label>
+					<institution-wrap>
+						<institution-id institution-id-type="GRID">grid.6363.0</institution-id>
+						<institution-id institution-id-type="ISNI">0000 0001 2218 4662</institution-id>
+						<institution content-type="org-division">Department of Gynecology, Pelvic Floor Center Charité</institution>
+						<institution content-type="org-name">Charité University Hospital</institution>
+					</institution-wrap>
+					<addr-line content-type="city">Berlin</addr-line>
+					<country country="DE">Germany</country>
+				</aff>
+				<aff id="Aff16">
+					<label>16</label>
+					<institution-wrap>
+						<institution-id institution-id-type="GRID">grid.410543.7</institution-id>
+						<institution-id institution-id-type="ISNI">0000 0001 2188 478X</institution-id>
+						<institution content-type="org-division">POSMAT-Post-Graduate Program in Materials Science and Technology, School of Sciences</institution>
+						<institution content-type="org-name">São Paulo State University (UNESP)</institution>
+					</institution-wrap>
+					<addr-line content-type="city">Bauru</addr-line>
+					<addr-line content-type="state">São Paulo</addr-line>
+					<country country="BR">Brazil</country>
+				</aff>
+				<aff id="Aff17">
+					<label>17</label>
+					<institution-wrap>
+						<institution-id institution-id-type="GRID">grid.410543.7</institution-id>
+						<institution-id institution-id-type="ISNI">0000 0001 2188 478X</institution-id>
+						<institution content-type="org-division">Medical School of Botucatu</institution>
+						<institution content-type="org-name">São Paulo State University (UNESP)</institution>
+					</institution-wrap>
+					<addr-line content-type="city">Botucatu</addr-line>
+					<addr-line content-type="state">São Paulo</addr-line>
+					<country country="BR">Brazil</country>
+				</aff>
+				<aff id="Aff18">
+					<label>18</label>
+					<institution-wrap>
+						<institution-id institution-id-type="GRID">grid.410543.7</institution-id>
+						<institution-id institution-id-type="ISNI">0000 0001 2188 478X</institution-id>
+						<institution content-type="org-division">Department of Nursing, Botucatu Medical School (FMB)</institution>
+						<institution content-type="org-name">São Paulo State University (UNESP)</institution>
+					</institution-wrap>
+					<addr-line content-type="city">Botucatu</addr-line>
+					<addr-line content-type="state">São Paulo</addr-line>
+					<country country="BR">Brazil</country>
+				</aff>
+				<aff id="Aff19">
+					<label>19</label>
+					<institution-wrap>
+						<institution-id institution-id-type="GRID">grid.411869.3</institution-id>
+						<institution-id institution-id-type="ISNI">0000 0000 9186 527X</institution-id>
+						<institution content-type="org-name">Stricto Sensu Graduate Program in Nursing at UNIVERITAS, Guarulhos University (UNG)</institution>
+					</institution-wrap>
+					<addr-line content-type="city">Guarulhos</addr-line>
+					<addr-line content-type="state">São Paulo</addr-line>
+					<country country="BR">Brazil</country>
+				</aff>
+				<aff id="Aff20">
+					<label>20</label>
+					<institution-wrap>
+						<institution-id institution-id-type="GRID">grid.410543.7</institution-id>
+						<institution-id institution-id-type="ISNI">0000 0001 2188 478X</institution-id>
+						<institution content-type="org-division">Department of Clinical Medicine, Botucatu Medical School</institution>
+						<institution content-type="org-name">São Paulo State University (UNESP)</institution>
+					</institution-wrap>
+					<addr-line content-type="street">Av. Prof. Mário Rubens Guimarães Montenegro, s/n-UNESP</addr-line>
+					<addr-line content-type="city">Botucatu</addr-line>
+					<addr-line content-type="state">São Paulo</addr-line>
+					<country country="BR">Brazil</country>
+				</aff>
+				<aff id="Aff21">
+					<label>21</label>
+					<institution-wrap>
+						<institution-id institution-id-type="GRID">grid.410543.7</institution-id>
+						<institution-id institution-id-type="ISNI">0000 0001 2188 478X</institution-id>
+						<institution content-type="org-division">Department of Biostatistics, Botucatu Institute of Biosciences</institution>
+						<institution content-type="org-name">São Paulo State University/UNESP</institution>
+					</institution-wrap>
+					<addr-line content-type="city">São Paulo</addr-line>
+					<addr-line content-type="state">tistics, Botucatu Institute of Biosciences</addr-line>
+					<country country="BR">Brazil</country>
+				</aff>
+				<aff id="Aff22">
+					<label>22</label>
+					<institution-wrap>
+						<institution-id institution-id-type="GRID">grid.411249.b</institution-id>
+						<institution-id institution-id-type="ISNI">0000 0001 0514 7202</institution-id>
+						<institution content-type="org-name">Discipline of Evidence-Based Medicine, Paulista School of Medicine-Federal University of São Paulo (EPM-UNIFESP)</institution>
+					</institution-wrap>
+					<addr-line content-type="city">São Paulo</addr-line>
+					<country country="BR">Brazil</country>
+				</aff>
+				<aff id="Aff23">
+					<label>23</label>
+					<institution-wrap>
+						<institution-id institution-id-type="GRID">grid.411249.b</institution-id>
+						<institution-id institution-id-type="ISNI">0000 0001 0514 7202</institution-id>
+						<institution content-type="org-division">Department of Gynecology</institution>
+						<institution content-type="org-name">Federal University of São Paulo, UNIFESP</institution>
+					</institution-wrap>
+					<addr-line content-type="city">São Paulo</addr-line>
+					<country country="BR">Brazil</country>
+				</aff>
+				<aff id="Aff24">
+					<label>24</label>
+					<institution-wrap>
+						<institution-id institution-id-type="GRID">grid.441972.d</institution-id>
+						<institution-id institution-id-type="ISNI">0000 0001 2105 8867</institution-id>
+						<institution content-type="org-division">Department of Physical Therapy</institution>
+						<institution content-type="org-name">Universidade Católica de Pernambuco (UNICAP)</institution>
+					</institution-wrap>
+					<addr-line content-type="city">Recife</addr-line>
+					<addr-line content-type="state">PE</addr-line>
+					<country country="BR">Brazil</country>
+				</aff>
+				<aff id="Aff25">
+					<label>25</label>
+					<institution-wrap>
+						<institution-id institution-id-type="GRID">grid.11899.38</institution-id>
+						<institution-id institution-id-type="ISNI">0000 0004 1937 0722</institution-id>
+						<institution content-type="org-division">Department of Operative Dentistry, Endodontics and Dental Materials, Bauru School of Dentistry</institution>
+						<institution content-type="org-name">University of São Paulo</institution>
+					</institution-wrap>
+					<addr-line content-type="city">São Paulo</addr-line>
+					<country country="BR">Brazil</country>
+				</aff>
+				<aff id="Aff26">
+					<label>26</label>
+					<institution-wrap>
+						<institution-id institution-id-type="GRID">grid.412294.8</institution-id>
+						<institution-id institution-id-type="ISNI">0000 0000 9007 5698</institution-id>
+						<institution content-type="org-name">University of Western São Paulo (UNOESTE)</institution>
+					</institution-wrap>
+					<addr-line content-type="city">Presidente Prudente</addr-line>
+					<addr-line content-type="state">São Paulo</addr-line>
+					<country country="BR">Brazil</country>
+				</aff>
+				<aff id="Aff27">
+					<label>27</label>
+					<institution-wrap>
+						<institution-id institution-id-type="GRID">grid.411400.0</institution-id>
+						<institution-id institution-id-type="ISNI">0000 0001 2193 3537</institution-id>
+						<institution content-type="org-division">Department of Anatomy, CCB</institution>
+						<institution content-type="org-name">State University of Londrina (UEL)</institution>
+					</institution-wrap>
+					<addr-line content-type="postbox">Caixa Postal 10011</addr-line>
+					<addr-line content-type="street">Campus Universitário s/n </addr-line>
+					<addr-line content-type="postcode">86057-970</addr-line>
+					<addr-line content-type="city">Londrina</addr-line>
+					<addr-line content-type="state">Parana</addr-line>
+					<country country="BR">Brazil</country>
+				</aff>
+				<aff id="Aff28">
+					<label>28</label>
+					<institution-wrap>
+						<institution content-type="org-name">University Center of Associated Colleges</institution>
+					</institution-wrap>
+					<addr-line content-type="city">São João da Boa Vista</addr-line>
+					<addr-line content-type="state">São Paulo</addr-line>
+					<country country="BR">Brazil</country>
+				</aff>
+				<aff id="Aff29">
+					<label>29</label>
+					<institution-wrap>
+						<institution-id institution-id-type="GRID">grid.441751.2</institution-id>
+						<institution-id institution-id-type="ISNI">0000 0000 8820 7559</institution-id>
+						<institution content-type="org-name">Regional University Center of Espírito Santo do Pinhal, UNIPINHAL</institution>
+					</institution-wrap>
+					<addr-line content-type="city">Espírito Santo do Pinhal</addr-line>
+					<addr-line content-type="state">São Paulo</addr-line>
+					<country country="BR">Brazil</country>
+				</aff>
+				<aff id="Aff30">
+					<label>30</label>
+					<institution-wrap>
+						<institution-id institution-id-type="GRID">grid.412296.a</institution-id>
+						<institution-id institution-id-type="ISNI">0000 0001 1484 3840</institution-id>
+						<institution content-type="org-name">Universidade do Sagrado Coração (USC)</institution>
+					</institution-wrap>
+					<addr-line content-type="city">Bauru</addr-line>
+					<addr-line content-type="state">São Paulo</addr-line>
+					<country country="BR">Brazil</country>
+				</aff>
+				<aff id="Aff31">
+					<label>31</label>
+					<institution-wrap>
+						<institution-id institution-id-type="GRID">grid.410543.7</institution-id>
+						<institution-id institution-id-type="ISNI">0000 0001 2188 478X</institution-id>
+						<institution content-type="org-division">Department of Physical Education, Institute of Biosciences of Rio Claro</institution>
+						<institution content-type="org-name">São Paulo State University (UNESP)</institution>
+					</institution-wrap>
+					<addr-line content-type="city">Rio Claro</addr-line>
+					<addr-line content-type="state">São Paulo</addr-line>
+					<country country="BR">Brazil</country>
+				</aff>
+				<aff id="Aff32">
+					<label>32</label>
+					<institution-wrap>
+						<institution content-type="org-name">Independent Researcher</institution>
+					</institution-wrap>
+					<addr-line content-type="city">Assis</addr-line>
+					<addr-line content-type="state">São Paulo</addr-line>
+					<country country="BR">Brazil</country>
+				</aff>
+				<aff id="Aff33">
+					<label>33</label>
+					<institution-wrap>
+						<institution-id institution-id-type="GRID">grid.410543.7</institution-id>
+						<institution-id institution-id-type="ISNI">0000 0001 2188 478X</institution-id>
+						<institution content-type="org-division">Department of Morphology and Pediatric Dentistry, Araraquara School of Dentistry</institution>
+						<institution content-type="org-name">São Paulo State University (UNESP)</institution>
+					</institution-wrap>
+					<addr-line content-type="street">Rua Humaitá, 1680</addr-line>
+					<addr-line content-type="postcode">14801-903</addr-line>
+					<addr-line content-type="city">Araraquara</addr-line>
+					<addr-line content-type="state">São Paulo</addr-line>
+					<country country="BR">Brazil</country>
+				</aff>
+				<aff id="Aff34">
+					<label>34</label>
+					<institution-wrap>
+						<institution content-type="org-name">Independent Researcher</institution>
+					</institution-wrap>
+					<addr-line content-type="city">Botucatu</addr-line>
+					<addr-line content-type="state">SP</addr-line>
+					<country country="BR">Brazil</country>
+				</aff>
+				<aff id="Aff35">
+					<label>35</label>
+					<institution-wrap>
+						<institution-id institution-id-type="GRID">grid.412296.a</institution-id>
+						<institution-id institution-id-type="ISNI">0000 0001 1484 3840</institution-id>
+						<institution content-type="org-division">Health Sciences Center</institution>
+						<institution content-type="org-name">University of the Sacred Heart (USC)</institution>
+					</institution-wrap>
+					<addr-line content-type="city">Bauru</addr-line>
+					<addr-line content-type="state">São Paulo</addr-line>
+					<country country="BR">Brazil</country>
+				</aff>
+				<aff id="Aff36">
+					<label>36</label>
+					<institution-wrap>
+						<institution-id institution-id-type="GRID">grid.441895.5</institution-id>
+						<institution-id institution-id-type="ISNI">0000 0000 9898 9056</institution-id>
+						<institution content-type="org-name">Universidade de Marília (UNIMAR)</institution>
+					</institution-wrap>
+					<addr-line content-type="city">Marília</addr-line>
+					<addr-line content-type="state">São Paulo</addr-line>
+					<country country="BR">Brazil</country>
+				</aff>
+			</contrib-group>
+			<author-notes>
+				<corresp id="IDs4159802210801z_cor14">
+					<label>q</label>
+					<email>marilzarudge@gmail.com</email>
+				</corresp>
+			</author-notes>
+			<pub-date date-type="pub" publication-format="electronic">
+				<day>5</day>
+				<month>5</month>
+				<year>2022</year>
+			</pub-date>
+			<pub-date date-type="collection" publication-format="electronic">
+				<month>12</month>
+				<year>2022</year>
+			</pub-date>
+			<volume>12</volume>
+			<issue seq="7375">1</issue>
+			<elocation-id>7375</elocation-id>
+			<history>
+				<date date-type="registration">
+					<day>14</day>
+					<month>4</month>
+					<year>2022</year>
+				</date>
+				<date date-type="received">
+					<day>9</day>
+					<month>11</month>
+					<year>2021</year>
+				</date>
+				<date date-type="accepted">
+					<day>29</day>
+					<month>3</month>
+					<year>2022</year>
+				</date>
+				<date date-type="online">
+					<day>5</day>
+					<month>5</month>
+					<year>2022</year>
+				</date>
+			</history>
+			<permissions>
+				<copyright-statement>© The Author(s) 2022</copyright-statement>
+				<copyright-year>2022</copyright-year>
+				<license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/4.0/">
+					<license-p>
+						<bold>Open Access</bold> This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article's Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article's Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit
+						<ext-link xlink:href="http://creativecommons.org/licenses/by/4.0/" ext-link-type="url">http://creativecommons.org/licenses/by/4.0/</ext-link>.
+					</license-p>
+				</license>
+			</permissions>
+			<abstract id="Abs1" xml:lang="en">
+				<title>Abstract</title>
+				<p id="Par1">Gestational diabetes mellitus (GDM) plus rectus abdominis muscle (RAM) myopathy predicts long-term urinary incontinence (UI). Atrophic and stiff RAM are characteristics of diabetes-induced myopathy (DiM) in pregnant rats. This study aimed to determine whether swimming exercise (SE) has a therapeutic effect in mild hyperglycemic pregnant rats model. We hypothesized that SE training might help to reverse RAM DiM. Mild hyperglycemic pregnant rats model was obtained by a unique subcutaneous injection of 100 mg/kg streptozotocin (diabetic group) or citrate buffer (non-diabetic group) on the first day of life in Wistar female newborns. At 90 days of life, the rats are mated and randomly allocated to remain sedentary or subjected to a SE protocol. The SE protocol started at gestational day 0 and consisted of 60 min/day for 6 days/week in a period of 20 days in a swim tunnel. On day 21, rats were sacrificed, and RAM was collected and studied by picrosirius red, immunohistochemistry, and transmission electron microscopy. The SE protocol increased the fiber area and diameter, and the slow-twitch and fast-twitch fiber area and diameter in the diabetic exercised group, a finding was also seen in control sedentary animals. There was a decreased type I collagen but not type III collagen area and showed a similar type I/type III ratio compared with the control sedentary group. In conclusion, SE during pregnancy reversed the RAM DiM in pregnant rats. These findings may be a potential protocol to consider in patients with RAM damage caused by GDM. </p>
+			</abstract>
+			<funding-group>
+				<award-group>
+					<funding-source>
+						<institution-wrap>
+							<institution>Fundação de Amparo à Pesquisa do Estado de São Paulo</institution>
+							<institution-id institution-id-type="doi" vocab="open-funder-registry">http://dx.doi.org/10.13039/501100001807</institution-id>
+						</institution-wrap>
+					</funding-source>
+					<award-id award-type="FundRef grant">2018/03361-8</award-id>
+					<award-id award-type="FundRef grant">2017/21783-4</award-id>
+					<award-id award-type="FundRef grant">2018/02979-8</award-id>
+					<award-id award-type="FundRef grant">2016/01743-5</award-id>
+					<principal-award-recipient>
+						<name>
+							<surname>Catinelli</surname>
+							<given-names>Bruna B.</given-names>
+						</name>
+					</principal-award-recipient>
+					<principal-award-recipient>
+						<name>
+							<surname>Floriano</surname>
+							<given-names>Juliana F.</given-names>
+						</name>
+					</principal-award-recipient>
+					<principal-award-recipient>
+						<name>
+							<surname>Hallur</surname>
+							<given-names>Raghavendra L. S.</given-names>
+						</name>
+					</principal-award-recipient>
+					<principal-award-recipient/>
+				</award-group>
+				<award-group>
+					<funding-source>
+						<institution-wrap>
+							<institution>Fondo Nacional de Desarrollo Científico y Tecnológico</institution>
+							<institution-id institution-id-type="doi" vocab="open-funder-registry">http://dx.doi.org/10.13039/501100002850</institution-id>
+						</institution-wrap>
+					</funding-source>
+					<award-id award-type="FundRef grant">1190316</award-id>
+					<principal-award-recipient>
+						<name>
+							<surname>Sobrevia</surname>
+							<given-names>Luis</given-names>
+						</name>
+					</principal-award-recipient>
+				</award-group>
+			</funding-group>
+			<custom-meta-group>
+				<custom-meta>
+					<meta-name>publisher-imprint-name</meta-name>
+					<meta-value>Nature Portfolio</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>volume-issue-count</meta-name>
+					<meta-value>1</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>issue-article-count</meta-name>
+					<meta-value>7375</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>issue-toc-levels</meta-name>
+					<meta-value>0</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>issue-pricelist-year</meta-name>
+					<meta-value>2022</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>issue-copyright-holder</meta-name>
+					<meta-value>The Author(s)</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>issue-copyright-year</meta-name>
+					<meta-value>2022</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>article-contains-esm</meta-name>
+					<meta-value>No</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>article-numbering-style</meta-name>
+					<meta-value>Unnumbered</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>article-registration-date-year</meta-name>
+					<meta-value>2022</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>article-registration-date-month</meta-name>
+					<meta-value>4</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>article-registration-date-day</meta-name>
+					<meta-value>14</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>article-toc-levels</meta-name>
+					<meta-value>0</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>toc-levels</meta-name>
+					<meta-value>0</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>volume-type</meta-name>
+					<meta-value>Regular</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>journal-product</meta-name>
+					<meta-value>NonStandardArchiveJournal</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>numbering-style</meta-name>
+					<meta-value>Unnumbered</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>article-grants-type</meta-name>
+					<meta-value>OpenChoice</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>metadata-grant</meta-name>
+					<meta-value>OpenAccess</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>abstract-grant</meta-name>
+					<meta-value>OpenAccess</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>bodypdf-grant</meta-name>
+					<meta-value>OpenAccess</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>bodyhtml-grant</meta-name>
+					<meta-value>OpenAccess</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>bibliography-grant</meta-name>
+					<meta-value>OpenAccess</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>esm-grant</meta-name>
+					<meta-value>OpenAccess</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>online-first</meta-name>
+					<meta-value>false</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>pdf-file-reference</meta-name>
+					<meta-value>BodyRef/PDF/41598_2022_Article_10801.pdf</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>pdf-type</meta-name>
+					<meta-value>Typeset</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>target-type</meta-name>
+					<meta-value>OnlinePDF</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>issue-type</meta-name>
+					<meta-value>Regular</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>article-type</meta-name>
+					<meta-value>OriginalPaper</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>journal-subject-primary</meta-name>
+					<meta-value>Science, Humanities and Social Sciences, multidisciplinary</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>journal-subject-secondary</meta-name>
+					<meta-value>Science, Humanities and Social Sciences, multidisciplinary</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>journal-subject-secondary</meta-name>
+					<meta-value>Science, multidisciplinary</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>journal-subject-collection</meta-name>
+					<meta-value>Science (multidisciplinary)</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>open-access</meta-name>
+					<meta-value>true</meta-value>
+				</custom-meta>
+			</custom-meta-group>
+		</article-meta>
+		<notes notes-type="AuthorContribution">
+			<p>These authors contributed equally: Bruna B. Catinelli and Patrícia S. Rossignoli.</p>
+		</notes>
+		<notes notes-type="AuthorContribution">
+			<p>These authors jointly supervised this work: Angélica M. P. Barbosa and Marilza V. C. Rudge.</p>
+		</notes>
+		<notes notes-type="AuthorContribution">
+			<p>A list of authors and their affiliations appears at the end of the paper.</p>
+		</notes>
+	</front>
+	<body>
+		<sec id="Sec1">
+			<title>Introduction</title>
+			<p id="Par2">Gestational diabetes mellitus (GDM) is known as a serious global health problem
+				<sup>
+					<xref ref-type="bibr" rid="CR1">1</xref>
+				</sup>. GDM can cause damage to the skeletal muscle and extracellular matrix (ECM) health and function, i.e. maternal hyperglycemic myopathy
+				<sup>
+					<xref ref-type="bibr" rid="CR2">2</xref>–
+					<xref ref-type="bibr" rid="CR4">4</xref>
+				</sup>. Maternal GDM leads to long-term pelvic floor muscle (PFM) dysfunction and urinary incontinence (UI)
+				<sup>
+					<xref ref-type="bibr" rid="CR5">5</xref>–
+					<xref ref-type="bibr" rid="CR7">7</xref>
+				</sup>, having pregnancy specific-urinary incontinence as a risk factor
+				<sup>
+					<xref ref-type="bibr" rid="CR5">5</xref>
+				</sup>. It is unknown how this link occurs
+				<sup>
+					<xref ref-type="bibr" rid="CR4">4</xref>
+				</sup> and how swimming exercise (SE) may alleviate this damage in mild hyperglycemic pregnancy (MHP).
+			</p>
+			<p id="Par3">Rat models of MHP also revealed myopathy of the PFM and rectus abdominis muscle (RAM) induced by diabetes (DiM). DiM characterized by muscle atrophy, a shift in the maternal fiber type composition, increased collagen deposition, and higher collagen type I/III ratio 
+				<sup>
+					<xref ref-type="bibr" rid="CR8">8</xref>–
+					<xref ref-type="bibr" rid="CR11">11</xref>
+				</sup>. The latter characteristics mimic those found in human hyperglycemic-associated PFM and RAM myopathy and are considered a profile of skeletal muscle injury caused by GDM during pregnancy in humans 
+				<sup>
+					<xref ref-type="bibr" rid="CR11">11</xref>–
+					<xref ref-type="bibr" rid="CR13">13</xref>
+				</sup>. Despite these observations, the link between GDM and maternal hyperglycemic myopathy remains largely unexplored and without an effective treatment 
+				<sup>
+					<xref ref-type="bibr" rid="CR14">14</xref>
+				</sup>.
+			</p>
+			<p id="Par4">Exercise has beneficial impacts on maternal glycaemia control and several lifestyle interventions have clarified mechanisms underlying GDM for preventing or minimizing this disease’s associated complications 
+				<sup>
+					<xref ref-type="bibr" rid="CR8">8</xref>,
+					<xref ref-type="bibr" rid="CR9">9</xref>,
+					<xref ref-type="bibr" rid="CR14">14</xref>–
+					<xref ref-type="bibr" rid="CR18">18</xref>
+				</sup>. However, different exercise patterns improve maternal glucose control in some but not all pregnant women with GDM 
+				<sup>
+					<xref ref-type="bibr" rid="CR19">19</xref>–
+					<xref ref-type="bibr" rid="CR21">21</xref>
+				</sup>. Thus, lifestyle interventions during pregnancy alone may not be sufficient to decrease the risk of developing GDM-associated alterations in maternal health 
+				<sup>
+					<xref ref-type="bibr" rid="CR22">22</xref>–
+					<xref ref-type="bibr" rid="CR27">27</xref>
+				</sup>.
+			</p>
+			<p id="Par5">Considering that pregnant women should avoid high-impact exercises with the risk of falling and with the risk of abdominal trauma, SE is considered ideal for pregnant women. Also, SE in a low-moderate intensity is effective in promoting glycemic control and preventing GDM 
+				<sup>
+					<xref ref-type="bibr" rid="CR21">21</xref>,
+					<xref ref-type="bibr" rid="CR24">24</xref>,
+					<xref ref-type="bibr" rid="CR27">27</xref>
+				</sup>. In addition, SE and resistance training influence the gastrocnemius and soleus muscles myopathy in rat models of type 2 diabetes mellitus (T2DM)
+				<sup>
+					<xref ref-type="bibr" rid="CR28">28</xref>,
+					<xref ref-type="bibr" rid="CR29">29</xref>
+				</sup>. However, there is limited evidence describing the effect of SE on diabetic myopathy in GDM 
+				<sup>
+					<xref ref-type="bibr" rid="CR22">22</xref>,
+					<xref ref-type="bibr" rid="CR30">30</xref>
+				</sup>. There are no studies revealing whether the exercise intervention during pregnancy recovers the muscle damage associated with GDM, even considering the regenerative skeletal muscle fibers potential 
+				<sup>
+					<xref ref-type="bibr" rid="CR31">31</xref>
+				</sup>.
+			</p>
+			<p id="Par6">The aim of this study was to determine whether SE has a therapeutic effect in MHP rats model resulting in attenuation of RAM DiM. We hypothesized that SE training would mitigate RAM DiM, thus reversing the RAM injury. A potential reversal of RAM DiM by SE may improve the handling of maternal hyperglycemic myopathy in women that developed GDM.</p>
+		</sec>
+		<sec id="Sec2" sec-type="results">
+			<title>Results</title>
+			<p id="Par7">The experimental design included three control groups, i.e., non-diabetic sedentary (NDsed), non-diabetic exercised (NDex), and diabetic sedentary allowing the analysis of the SE intervention in DiM in the authentic study group: the diabetic exercised (Dex). The OGTT showed that Dsed and Dex groups had two or more blood glucose measurements &gt; 140 mg/dl. These data confirm that the generation of MHP rats model was efficient, including the animals in the experimental groups. The aquatic exercise practice during pregnancy did not promote changes in blood glucose levels (Fig. 
+				<xref rid="Fig1" ref-type="fig">1</xref>).
+				<fig id="Fig1">
+					<label>Figure 1</label>
+					<caption xml:lang="en">
+						<p>Oral glucose tolerance test. Blood glucose level before the test and 10, 20, 30, 60 and 120 min after the administration of intragastric glucose solution in Dsed and Dex groups.</p>
+					</caption>
+					<p>
+						<graphic specific-use="HTML" mime-subtype="PNG" xlink:href="MediaObjects/41598_2022_10801_Fig1_HTML.png" id="MO1"/>
+					</p>
+				</fig>
+			</p>
+			<p id="Par8">The RAM DiM was confirmed in diabetic sedentary rats, demonstrated by the lower total muscle area and the fiber diameter compared with NDsed group (Fig. 
+				<xref rid="Fig2" ref-type="fig">2</xref>A,B). However, the fiber area was unaltered in Dsed compared with NDsed group.
+				<fig id="Fig2">
+					<label>Figure 2</label>
+					<caption xml:lang="en">
+						<p>Histological sections of rat rectus abdominis muscle (RAM), obtained from CellSens Dimension (Olympus Corporation®) Version 1.16 image analysis software—(
+							<ext-link xlink:href="https://www.olympus-lifescience.com/en/software/cellsens/" ext-link-type="url">https://www.olympus-lifescience.com/en/software/cellsens/</ext-link>).
+							<bold>(A</bold>) RAM samples were taken from non-diabetic sedentary (NDsed), non-diabetic exercised (NDex), diabetic sedentary (Dsed) and diabetic exercised (Dex) rats as described in “
+							<xref rid="Sec7" ref-type="sec">Materials and methods</xref>”. RAM samples were stained with picrosirius red and immunohistochemistry against myosin heavy chain of slow and fast RAM fibers.
+							<bold>(B)</bold> Picrosirius red staining for total muscle area, fiber area, and fiber diameter in RAM samples as in (
+							<bold>A</bold>). (
+							<bold>C</bold>) Immunohistochemistry for total slow-twitch fiber area,slow-twitch fiber area, and slow-twitch fiber diameter as in (
+							<bold>A</bold>). (
+							<bold>D</bold>) Immunohistochemistry for total fast-twitch fiber area,fast-twitch fiber area, and fast-twitch fiber diameter as in (
+							<bold>A</bold>). Values are means ± S.D. (n = 5 animals/group. *p &lt; 0.05, **p &lt; 0.01, ***p &lt; 0.001 and ****p &lt; 0.0001. Scale bar: 50 µm. Magnification: ×20.
+						</p>
+					</caption>
+					<p>
+						<graphic specific-use="HTML" mime-subtype="PNG" xlink:href="MediaObjects/41598_2022_10801_Fig2_HTML.png" id="MO2"/>
+					</p>
+				</fig>
+			</p>
+			<p id="Par9">The immunohistochemical analysis showed that the slow-twitch fiber area and diameter (Fig. 
+				<xref rid="Fig2" ref-type="fig">2</xref>C) were higher in Dsed compared with NDsed group. However, the fast-twitch fiber area and diameter (Fig. 
+				<xref rid="Fig2" ref-type="fig">2</xref>D) were unaltered in Dsed compared with NDsed group. The total collagen area and collagen I/III ratio (Fig. 
+				<xref rid="Fig3" ref-type="fig">3</xref>B) were unaltered in Dsed compared with NDsed group. However, type I collagen area and type III collagen area (Fig. 
+				<xref rid="Fig3" ref-type="fig">3</xref>C) were higher in Dsed compared with NDsed group.
+				<fig id="Fig3">
+					<label>Figure 3</label>
+					<caption xml:lang="en">
+						<p>Immunohistochemical sections of rat rectus abdominis muscle (RAM), obtained from CellSens Dimension (Olympus Corporation
+							<sup>®</sup>) Version 1.16 image analysis software—(
+							<ext-link xlink:href="https://www.olympus-lifescience.com/en/software/cellsens/" ext-link-type="url">https://www.olympus-lifescience.com/en/software/cellsens/</ext-link>). (
+							<bold>A</bold>) RAM samples were taken from non-diabetic sedentary (NDsed), non-diabetic exercised (NDex), diabetic sedentary (Dsed) and diabetic exercised (Dex) rats as described in
+							<xref rid="Sec7" ref-type="sec">Materials and methods</xref>. RAM samples were stained with Picrosirius red and immunohistochemistry using antibodies against type I and III collagen on RAM fibers.
+							<bold>(B)</bold> Picrosirius red staining for total collagen area and immunohistochemistry for type I/III ratio. (
+							<bold>C</bold>) Immunohistochemistry for type I and III collagen area as in (
+							<bold>A</bold>). Values are means ± S.D. (n = 5 animals/group. *p &lt; 0.05, **p &lt; 0.01, ***p &lt; 0.001 and ****p &lt; 0.0001. Scale bar: 50 µm. Magnification: ×20.
+						</p>
+					</caption>
+					<p>
+						<graphic specific-use="HTML" mime-subtype="PNG" xlink:href="MediaObjects/41598_2022_10801_Fig3_HTML.png" id="MO3"/>
+					</p>
+				</fig>
+			</p>
+			<p id="Par10">Electron micrographs of RAM from Dsed group showed disorganized Z lines, sarcomeres disruption areas and an increase in collagen deposition. Also, intermyofibrillar mitochondria, organized triads and myelin figures were observed (Fig. 
+				<xref rid="Fig4" ref-type="fig">4</xref>).
+				<fig id="Fig4">
+					<label>Figure 4</label>
+					<caption xml:lang="en">
+						<p>Electron micrographs of rectus abdominis muscle (RAM). Samples of RAM were obtained from non-diabetic sedentary (NDsed), non-diabetic exercised (NDex), diabetic sedentary (Dsed), and diabetic exercised (Dex) rats. Magnifications (20.000 x) show a detailled area of the micrograph. The micrographs show disorganized Z lines (white arrows), sarcomeres disruption areas (asterisk), intermyofibrillar mitochondria (m), myelin figures (M), organized triads (t) and an increase in collagen deposition ( +). Scale bar: 5 µm.</p>
+					</caption>
+					<p>
+						<graphic specific-use="HTML" mime-subtype="JPEG" xlink:href="MediaObjects/41598_2022_10801_Fig4_HTML.jpg" id="MO4"/>
+					</p>
+				</fig>
+			</p>
+			<sec id="Sec3">
+				<title>SE intervention in pregnancy in non-diabetic rats</title>
+				<p id="Par11">The diameter of RAM fibers was significantly lower in the NDex group compared with NDsed group. However, there was no significant difference in total muscle area and fiber area between both groups (Fig. 
+					<xref rid="Fig2" ref-type="fig">2</xref>A,
+					<xref rid="Fig2" ref-type="fig">B</xref>).
+				</p>
+				<p id="Par12">Immunohistochemical analysis showed that the slow-twitch fiber area and diameter were higher in NDex compared with NDsed (Fig. 
+					<xref rid="Fig2" ref-type="fig">2</xref>C). However, the total fast-twitch fiber area and fast-twitch fiber area and diameter were similar in NDex compared with NDsed (Fig. 
+					<xref rid="Fig2" ref-type="fig">2</xref>D). There was no difference in the total collagen area and type I/III collagen ratio between the groups (Fig. 
+					<xref rid="Fig3" ref-type="fig">3</xref>A,B). However, type I but not type III collagen area was increased in NDex compared to NDsed (Fig. 
+					<xref rid="Fig3" ref-type="fig">3</xref>C).
+				</p>
+				<p id="Par13">Electron micrographs of RAM from NDsed group showed disorganized Z lines, intermyofibrillar mitochondria, organized triads, and myelin figures associated with degenerated organelles (Fig. 
+					<xref rid="Fig4" ref-type="fig">4</xref>). However, the analysis of micrographs in samples from NDex group showed abundant intermyofibrillar mitochondria, organized triads, and myelin figures and organized Z lines.
+				</p>
+			</sec>
+			<sec id="Sec4">
+				<title>SE in pregnancy in diabetic rats</title>
+				<p id="Par14">In diabetic exercised rats, the fiber area and diameter was higher in Dex compared with Dsed group (Fig. 
+					<xref rid="Fig2" ref-type="fig">2</xref>A,B). However, the total muscle area was similar in both groups.
+				</p>
+				<p id="Par15">The immunohistochemical analysis showed that the slow-twitch fiber area and diameter (Fig. 
+					<xref rid="Fig2" ref-type="fig">2</xref>C) and the fast-twitch fiber area and diameter (Fig. 
+					<xref rid="Fig2" ref-type="fig">2</xref>D) were higher in Dex group compared with Dsed group. The total collagen area and type III collagen area were unaltered in Dex compared to Dsed group (Fig. 
+					<xref rid="Fig3" ref-type="fig">3</xref>A–C). However, type I collagen area and collagen I/III ratio in Dex were lower compared with Dsed group.
+				</p>
+				<p id="Par16">Ultrastructural analysis showed that Dex group presents with abundant intermyofibrillar mitochondria, disorganized Z lines, sarcomeres disruption areas, and increase in collagen deposition, as well as organized triads and myelin figures compared with RAM samples from Dsed group (Fig. 
+					<xref rid="Fig4" ref-type="fig">4</xref>).
+				</p>
+			</sec>
+			<sec id="Sec5">
+				<title>SE in pregnancy in Dex, NDsed, NDex and Dsed</title>
+				<p id="Par17">The fiber area and diameter were higher in Dex group compared with NDex group (Fig. 
+					<xref rid="Fig2" ref-type="fig">2</xref>A,B). However, the total muscle area was lower in Dex compared with NDex group.
+				</p>
+				<p id="Par18">The immunohistochemical analysis showed that the slow-twitch fiber area and diameter (Fig. 
+					<xref rid="Fig2" ref-type="fig">2</xref>C) and fast-twitch fiber area and diameter (Fig. 
+					<xref rid="Fig2" ref-type="fig">2</xref>D) were higher in Dex group compared with NDsed group. The total collagen area, type I collagen and collagen I/III ratio (Fig. 
+					<xref rid="Fig3" ref-type="fig">3</xref>A–C) were unaltered in Dex compared with Ndsed and NDexgroups. However, type III collagen area were higher in Dex group compared with NDsed group.
+				</p>
+				<p id="Par19">These results evidence that MHP rats after SE during the 3 weeks of pregnancy in a swim tunnel for up to 60 min/day, 6 days/week, that the study group (Dex) displays similar fiber area and diameter, slow-twitch, fast-twitch fiber area and diameter, total collagen area and type I/III collagen ratio compared to NDsed group (Figs.
+					<xref rid="Fig2" ref-type="fig">2</xref> and
+					<xref rid="Fig3" ref-type="fig">3</xref>).
+				</p>
+			</sec>
+		</sec>
+		<sec id="Sec6" sec-type="discussion">
+			<title>Discussion</title>
+			<p id="Par20">We investigated whether swimming exercise (SE) would alter the RAM DiM in rats. This preclinical study of SE started on the first day in MHP rats detailed the reversal of RAM skeletal atrophic and stiff muscle through an integrative morphological, ultrastructural and extracellular matrix (ECM) assessment. The main findings of the present study are as follows: first, the RAM DiM was confirmed, demonstrated by lower total muscle area and fiber diameter and increased type I collagen and type III collagen deposition in Dsed compared with NDsed group. These findings were already reported by our group. Second, SE during the whole pregnancy in MHP rats model reversed the RAM skeletal atrophy through an increase in fiber area and diameter, slow-twitch fiber area and diameter, fast-twitch fiber area and diameter in Dex group compared with NDsed group; and reduction in type I collagen area and type I/III collagen ratio compared with Dsed. Also, the similarity in total collagen area, type I collagen area and type I/III collagen ratio with NDsed rats were demonstrated. The close resemblance between RAM morphological, and ECM profile of MHP rats model submitted to SE (Dex group) and NDsed, suggest that SE since the beginning of pregnancy reversed the DiM. These findings support the hypothesis that DiM is inhibited by 21 days of SE training program through the entire pregnancy. Indeed, SE training plays a critical role in the reversion of DiM. It may be a sufficient duration and intensity to induce recovery of morphological changes in skeletal muscle.</p>
+			<p id="Par21">Women who develop GDM are more likely to develop type 2 diabetes and UI later in life
+				<sup>
+					<xref ref-type="bibr" rid="CR5">5</xref>–
+					<xref ref-type="bibr" rid="CR7">7</xref>,
+					<xref ref-type="bibr" rid="CR32">32</xref>
+				</sup>. The underlying mechanism linking GDM and long-term UI seems to be diabetic myopathy, characterized by loss of muscle mass and strength 
+				<sup>
+					<xref ref-type="bibr" rid="CR33">33</xref>,
+					<xref ref-type="bibr" rid="CR34">34</xref>
+				</sup>. Many clinical and experimental studies have associated both type 1 and type 2 diabetes to muscle structural changes, including a reduction in myofiber and myofibrilar diameter, reduced muscle mass 
+				<sup>
+					<xref ref-type="bibr" rid="CR3">3</xref>,
+					<xref ref-type="bibr" rid="CR33">33</xref>
+				</sup>, reduced muscle fiber size 
+				<sup>
+					<xref ref-type="bibr" rid="CR35">35</xref>
+				</sup>, and decreased capacity to repair from damage 
+				<sup>
+					<xref ref-type="bibr" rid="CR33">33</xref>
+				</sup>.
+			</p>
+			<p id="Par22">MHP rats is an experimental model that induces structural changes including reduced muscle area and increased slow-twitch fiber in pregnant rats in RAM 
+				<sup>
+					<xref ref-type="bibr" rid="CR10">10</xref>
+				</sup> and in urethral striated muscle 
+				<sup>
+					<xref ref-type="bibr" rid="CR8">8</xref>,
+					<xref ref-type="bibr" rid="CR9">9</xref>
+				</sup>, either in women or in rats 
+				<sup>
+					<xref ref-type="bibr" rid="CR11">11</xref>
+				</sup>. These structural harms may be related to functional changes as well as a decline in muscle strength and increased fatigability, which contributes to decreased physical capacity 
+				<sup>
+					<xref ref-type="bibr" rid="CR3">3</xref>,
+					<xref ref-type="bibr" rid="CR35">35</xref>
+				</sup>. Therefore, this damage to muscles involved in urinary continence may contribute to increased incidence of PS-UI, a predictor of long-term UI in previous GDM women 
+				<sup>
+					<xref ref-type="bibr" rid="CR5">5</xref>
+				</sup>. These findings allow us to adopt MHP’ rats model for studying the effects of SE on the RAM fiber-ECM structure, as it mimics GDM in women 
+				<sup>
+					<xref ref-type="bibr" rid="CR11">11</xref>
+				</sup>. Therefore, further study is necessary to elucidate the influence of exercise types and duration on the muscle fiber cross-sectional area of MHP rats' skeletal muscle.
+			</p>
+			<p id="Par23">SE started at the first day of pregnancy in MHP rats may be considered a preclinical study being developed as a prevention strategy of hyperglycemia in pregnancy for long-term UI. Our intention was for longer-lasting interventions leading to significant downstream impact in promoting long-term women’s health. The goals of this early intervention program in pregnancy are related to improving future maternal health in GDM women, one of the United Nation’s Eight Millennium Development Goals (MDGs) 
+				<sup>
+					<xref ref-type="bibr" rid="CR36">36</xref>,
+					<xref ref-type="bibr" rid="CR37">37</xref>
+				</sup>.
+			</p>
+			<p id="Par24">Pregnancy is the center of a program established by the International Federation of Gynecology and Obstetrics (FIGO) in the Non-Communicable Disease (NCD)—as early as possible but focusing on the first-trimester and follow-up post-pregnancy for mother and offspring, leading to prevent NCD. Pregnancy, in particular the first trimester, receive not only substantial attention but also many points of intervention, from pre-conception to postpartum 
+				<sup>
+					<xref ref-type="bibr" rid="CR37">37</xref>
+				</sup>. However, there are few studies evaluating the impact of hyperglycemia in pregnancy on structural muscles damage involved in urinary continence. This study tested the hypothesis that SE daily, since the beginning of pregnancy in MHP rats could act as a protective non-pharmacological intervention, so we studied its effects on RAM muscle looking at the reversal of muscle atrophy and stiffness.
+			</p>
+			<p id="Par25">Increased muscle fiber cross-sectional area, fiber area and diameter in RAM of diabetic pregnant rats after 21 days of SE is similar to the reported after 8 weeks of aerobic training 
+				<sup>
+					<xref ref-type="bibr" rid="CR38">38</xref>
+				</sup>. The results of this study revealed that SE daily, since the beginning of pregnancy in MHP rats, reverses the muscle atrophy caused by the maternal hyperglycemia environment. In short, these findings indicated that SE could reverse muscle atrophy in MHP rats, back into the NDsed group profile. In contrast, sarcomeres disruption areas were observed in both diabetic groups, which means that exercise had no impact on this parameter. Previous results demonstrate that RAM exposed to a hyperglycemic environment is characterized by a decrease in the number and area of the fast fiber and an increase in the number of slow fibers 
+				<sup>
+					<xref ref-type="bibr" rid="CR10">10</xref>
+				</sup>. In our study, daily SE during all pregnancy had an effect not only on increasing fast-twitch fiber area and diameter but also on slow-twitch fiber area and diameter of RAM muscle in both exercised groups.
+			</p>
+			<p id="Par26">The present study shows that both exercised groups regardless of diabetes had increased fast-twitch fiber area and diameter. These findings support the possibility that DiM model is inhibited by exercise training 
+				<sup>
+					<xref ref-type="bibr" rid="CR39">39</xref>
+				</sup>. Different SE modalities increased diameter of both slow-twitch and fast-twitch fibers on gastrocnemius and soleus muscles in the type 2 diabetes animal model 
+				<sup>
+					<xref ref-type="bibr" rid="CR28">28</xref>
+				</sup>. Thus, the high slow-twitch fiber area and diameter in the RA muscle of both exercised groups regardless of diabetes and high fast-twitch fiber area and diameter in diabetic exercised rats could be attributed to physiological adaptations from aerobic exercise during the whole pregnancy. Consistent with previous studies, we demonstrated that SE training during the whole pregnancy induces an increase not only in the cross-sectional area and slow-twitch fiber, but also the fast-twitch fiber 
+				<sup>
+					<xref ref-type="bibr" rid="CR40">40</xref>,
+					<xref ref-type="bibr" rid="CR41">41</xref>
+				</sup>. Indeed, SE applied in this study showed a significant reversal of muscle atrophy in pregnant hyperglycemic rats.
+			</p>
+			<p id="Par27">Exercise training plays an important role in the mitigation of muscular atrophy in DiM. Coherent with previous studies, a resistance training protocol enhanced muscle strength on extensor digitorum longus muscle, gastrocnemius and soleus muscles of male diabetic rats, improving muscle physical and motor function, minimizing the deleterious effect of diabetes on muscles
+				<sup>
+					<xref ref-type="bibr" rid="CR29">29</xref>
+				</sup>. Conversely, the fast and slow-twitch fiber area and diameter increase may be related to improved muscle endurance, possibly caused by mitochondrial biogenesis and increased mitochondrial enzymes activities. These findings enhance aerobic capacity and provide muscle contraction with less energy expenditure and greater oxygen uptake 
+				<sup>
+					<xref ref-type="bibr" rid="CR42">42</xref>
+				</sup>.
+			</p>
+			<p id="Par28">The urethral extracellular matrix also plays a role in the mechanism of urinary continence 
+				<sup>
+					<xref ref-type="bibr" rid="CR43">43</xref>
+				</sup>. In prior translational studies in rats, it was shown that diabetes during pregnancy results in damaged extracellular matrix (ECM) and urethral striated muscle suggestive of the high long-term UI prevalence in women 
+				<sup>
+					<xref ref-type="bibr" rid="CR8">8</xref>,
+					<xref ref-type="bibr" rid="CR9">9</xref>
+				</sup>. Other studies examined the relationship between ECM components (particularly collagens) and diabetes, PFDs and pregnancy, although few comparative data are available 
+				<sup>
+					<xref ref-type="bibr" rid="CR18">18</xref>
+				</sup>. The results in the present study show that SE in MHP rats did not reduce the total collagen area compared with the three other groups. However, SE in MHP rats decreases type I collagen area to similar levels of non-diabetic sedentary group and maintain high levels of type III collagen similar to SE MHP and SE non-diabetic group. The decrease in collagen type I/III ratio in SE-MHP suggests the reversal of a stiff into a soft healthy skeletal muscle. Our findings complement the results of four previously experimental studies, either in RAM or PFM 
+				<sup>
+					<xref ref-type="bibr" rid="CR8">8</xref>,
+					<xref ref-type="bibr" rid="CR10">10</xref>,
+					<xref ref-type="bibr" rid="CR18">18</xref>,
+					<xref ref-type="bibr" rid="CR43">43</xref>
+				</sup> indicating a complete muscle remodeling. It confirms the importance of this biological approach in DiM. This changeover in collagen type I/III ratio in SE in MHP favors normal soft RAM muscle, with likely normalization of biomechanical properties in muscles involved in urinary continence. All these changes allow suggesting SE for assessment as a potential treatment for maternal UI injured by the maternal hyperglycemic environment.
+			</p>
+			<p id="Par29">Although this set of results related to SE in mitigating the negative effects of the maternal hyperglycemic environment on DiM in the transformation into a soft health muscle, the molecular regulations of this gain muscle mass is unclear. It was suggested that distinct mechanisms regulate skeletal muscle mass recovery and hypertrophy 
+				<sup>
+					<xref ref-type="bibr" rid="CR44">44</xref>
+				</sup>. Further studies should address this fundamental mechanism. This study as a preclinical model in the obstetrical area, the maternal-placental and fetal (MPF) unit needs to be carefully considered. Although we conducted this experiment by using the same swimming protocol established previously 
+				<sup>
+					<xref ref-type="bibr" rid="CR45">45</xref>–
+					<xref ref-type="bibr" rid="CR47">47</xref>
+				</sup>, the whole MPF unit analysis was not performed. Thus, our successful results with SE in MHP rats environment may be analysed with caution to be considered in GDM women. Also, the present study has limitations regarding the experimental diabetes induction, which represents GDM blood glucose levels, but occurred before pregnancy 
+				<sup>
+					<xref ref-type="bibr" rid="CR47">47</xref>–
+					<xref ref-type="bibr" rid="CR49">49</xref>
+				</sup>. In addition, the guidelines recommend that pregnant women should exercise at least 150 min/week or 30 min/day most days of the week 
+				<sup>
+					<xref ref-type="bibr" rid="CR22">22</xref>,
+					<xref ref-type="bibr" rid="CR23">23</xref>,
+					<xref ref-type="bibr" rid="CR25">25</xref>
+				</sup>. Also, specific analysis of aerobic capacity and muscle function should be explored.
+			</p>
+			<p id="Par30">In conclusion, hyperglycemia exerts an impact on DiM generating an atrophic and stiff muscle. SE intervention training during whole pregnancy in rats imposes a positive influence on DiM being capable of reversing this muscle atrophy and transforming a stiff into a soft healthy skeletal muscle. Therefore, these findings of reversal myopathy suggest that SE training during the whole pregnancy may play a therapeutic role in regulating the damages caused by the maternal hyperglycemic environment and may be considered as a potential treatment for RAM damage caused by GDM.</p>
+		</sec>
+		<sec id="Sec7" sec-type="materials|methods">
+			<title>Materials and methods</title>
+			<p id="Par31">This current project corresponds to the translational part of the Diamater Study, a cohort Thematic Project with the financial support of São Paulo Research Foundation (FAPESP 2016/01743-5), a state research foundation in Brazil. The Diamater cohort project has been developed to investigate biomolecular muscle profiles as predictors for long-term urinary incontinence in women with Gestational Diabetes Mellitus 
+				<sup>
+					<xref ref-type="bibr" rid="CR4">4</xref>
+				</sup>. According to the requirement to develop innovative treatments for DiM, this translational project was developed.
+			</p>
+			<sec id="Sec8">
+				<title>Ethics and animals</title>
+				<p id="Par32">All animal experiments were approved by the Institutional Animal Care and Use Committee, Faculdade de Filosofia e Ciências, São Paulo State University (UNESP), in accordance with the Brazilian Council for Control of Animal Experimentation (CONCEA) (protocol number 007/2016). The study is reported in accordance with the ARRIVE guidelines.</p>
+				<p id="Par33">Female and male Wistar rats obtained from ANILAB were housed in a facility with constant temperature (22 ± 2 ˚C) and humidity (55 ± 5%) on a controlled 12 h light–12 h dark cycle with food and water ad libitum, in individual plastic cages during all experimental protocol. The experimental sequence is shown in Fig. 
+					<xref rid="Fig5" ref-type="fig">5</xref>.
+					<fig id="Fig5">
+						<label>Figure 5</label>
+						<caption xml:lang="en">
+							<p>Experimental sequence of groups.</p>
+						</caption>
+						<p>
+							<graphic specific-use="HTML" mime-subtype="PNG" xlink:href="MediaObjects/41598_2022_10801_Fig5_HTML.png" id="MO5"/>
+						</p>
+					</fig>
+				</p>
+			</sec>
+			<sec id="Sec9">
+				<title>Generation of MHP rats model</title>
+				<p id="Par34">The MHP model is the same as previous reports 
+					<sup>
+						<xref ref-type="bibr" rid="CR9">9</xref>–
+						<xref ref-type="bibr" rid="CR11">11</xref>,
+						<xref ref-type="bibr" rid="CR46">46</xref>,
+						<xref ref-type="bibr" rid="CR47">47</xref>
+					</sup>
+					<bold>.</bold> To induce MHP rats’ model, newborn female Wistar received in the first day of life subcutaneously injection of STZ (Sigma
+					<sup>®</sup>) diluted in citrate buffer (0.1 mol/l pH 4.5) in a dose of 100 mg/kg. Non-diabetic rats received subcutaneous injection of citrate buffer (0.1 mol/l pH 4.5) 
+					<sup>
+						<xref ref-type="bibr" rid="CR50">50</xref>
+					</sup>. All female newborn rats were maintained with their mothers until the end of the lactation period (21 days). After this period, the mother rats were euthanized by sodium thiopental injection(Thiopentax
+					<sup>®</sup>—80 mg/kg). The female newborns were maintained until adulthood. Fasting blood glucose level was determined in adult life, and used for inclusion or exclusion criteria in the study. Diabetic animals should present blood glucose level between 120 mg/dl and 300 mg/dl, and non-diabetic animals blood glucose level &lt; 120 mg/dl 
+					<sup>
+						<xref ref-type="bibr" rid="CR51">51</xref>
+					</sup>.
+				</p>
+			</sec>
+			<sec id="Sec10">
+				<title>Mating process</title>
+				<p id="Par35">At approximately day 90 of age, four diabetic and non-diabetic female rats were housed overnight with one adult male rat. The presence of spermatozoa in the vaginal smear was considered gestational day 0 [52]. After, rats were housed in individual cages until 21º day of pregnancy.</p>
+			</sec>
+			<sec id="Sec11">
+				<title>Experimental groups</title>
+				<p id="Par36">On gestational day 0, female rats were randomly allocated into four experimental groups according to sedentary lifestyle or swimming exercise: Non-Diabetic Sedentary (NDsed) (n = 13), Non-Diabetic Exercised (NDex) (n = 13), Diabetic Sedentary (Dsed) (n = 13) and Diabetic Exercised (Dex) (n = 13). Dex is the study group and the other three (NDsed, NDex and Dsed) are control groups.</p>
+			</sec>
+			<sec id="Sec12">
+				<title>Swimming exercise protocol</title>
+				<p id="Par37">The swimming exercise protocol was based on previous studies 
+					<sup>
+						<xref ref-type="bibr" rid="CR45">45</xref>–
+						<xref ref-type="bibr" rid="CR47">47</xref>
+					</sup> and considered to be a moderate intensity exercise protocol 
+					<sup>
+						<xref ref-type="bibr" rid="CR45">45</xref>
+					</sup>. The exercised animals were exposed to water daily temperature 31 ± 1°C for 6 days/week, from gestational day 0 until gestational day 20 on a pool at a depth of 40 cm at the water. The first training session started with 20 min, progressively increasing 10 min/day until 60 min. The sedentary rats were exposed to water daily for 15 min, at a depth of 10 cm at water temperature 31 ± 1 °C for 6 days/week, from gestational day 0 until gestational day 20, aiming not to promote physiological adaptations from exercise practice.
+				</p>
+			</sec>
+			<sec id="Sec13">
+				<title>Oral glucose tolerance test (OGTT)</title>
+				<p id="Par38">On  gestational day 17, an OGTT was performed to confirm the glucose intolerance in diabetics 
+					<sup>
+						<xref ref-type="bibr" rid="CR50">50</xref>
+					</sup>. Fasting glycemia and at 10, 20, 30, 60 and 120 min after administration of an intragastric glucose solution (0.2 g/mL) in a dose of 2.0 g/kg were measured. Diabetes diagnosis was confirmed with two or more blood glucose measurements &gt; 140 mg/dL 
+					<sup>
+						<xref ref-type="bibr" rid="CR51">51</xref>
+					</sup>.
+				</p>
+			</sec>
+			<sec id="Sec14">
+				<title>RAM tissue extraction</title>
+				<p id="Par39">At the end of pregnancy (gestational day 21) the dams were euthanized by sodium thiopental injection (Thiopentax, Brazil, 80 mg/kg dose). An abdominal incision was performed for RAM sample collection. The lower third on the right side of RAM was exposed, dissected, and removed for integrative morphological analysis. The fragments had approximately 0.25 cm
+					<sup>2</sup>. Then, a C-section was performed and fetuses and placentas were separately analyzed in different projects.
+				</p>
+			</sec>
+			<sec id="Sec15">
+				<title>Integrative morphological analysis</title>
+				<p id="Par40">The samples obtained were selected into separate parts according to methodological procedures. The integrative morphological analysis is composed by morphological, morphometric, immunohistochemistry and ultrastructural RAM analysis.</p>
+				<sec id="Sec16">
+					<title>Morphological analysis</title>
+					<p id="Par41">For morphological and morphometric analysis, RAM samples were immersed for 24 h in neutral 10% buffered formaldehyde, transferred to 70% alcohol and maintained at room temperature and then embedded in paraffin. The 4-µm-thick sections were cut in microtome (Reichert-Jung model 820) and fixed on microscope glass slides stained with Hematoxylin &amp; Eosin (H&amp;E) and Picrosirius Red. H&amp;E-stained slides were used to observe the general morphology of the RAM. Picrosirius Red-stained slides were analyzed with the color-segmentation method to determine the red (collagen) and yellow (muscle fiber) -stained tissue in the same section and used to determine muscle, fiber and collagen area and fiber diameter. The slides were analyzed in a light microscope (Olympus Corporation
+						<sup>®</sup>/BX41TF coupled with DP25-4 digital câmera). The photographs were obtained with
+						<italic>cell Sens</italic> Ver 1.18 Olympus Corporation
+						<sup>®</sup> software.
+					</p>
+				</sec>
+				<sec id="Sec17">
+					<title>Morphometric analysis</title>
+					<p id="Par42">For morphometric analysis of muscle and collagen area, 40 sections/group (5 animals/group, 8 sections/animal) were selected. For morphometric analysis of fiber area and diameter, 100 muscle fibers/group were selected. All analyzes were performed using CellSens Dimension Version 1.16 (Olympus Corporation
+						<sup>®</sup>) image analysis software (20 × magnification).
+					</p>
+				</sec>
+				<sec id="Sec18">
+					<title>Immunohistochemistry</title>
+					<p id="Par43">Immunohistochemical analysis was used to stain slow-twitch and fast-twitch muscle fibers and type I and III collagen. For immunohistochemistry (N = 5 samples/group), the samples were immersed for 24 h in neutral 10% buffered formaldehyde, transferred to 70% alcohol and maintained at room temperature and then embedded in paraffin. The 4-µm-thick sections were cut in the microtome. Sections were deparaffinized and incubated with antigenic recovery for 35 min in a pressure cooker. Endogenous peroxidase was blocked using H
+						<sub>2</sub>O
+						<sub>2</sub> in phosphate buffered saline (PBS). After washing, the sections were incubated with bovine serum albumin solution (BSA 3%) for 1 h. The sections were incubated overnight at 4 °C with primary antibodies against myosin heavy chain, slow (Novocastra, NCL-MHCs, #6009289, 1:20) and fast (Novocastra, NCL-MHCf, #6006929, 1:20) muscle fibers, type I Collagen (Sigma Aldrich, SAB4200678, #107M4839V, 1:100) and type III Collagen (Novus Biologicals, COL3A1, #G0809, 1:100). After incubation, the sections were washed three times for five minutes with PBS and incubated with secondary antibodies for 1 h 30 min (Goat Anti-Mouse, Abcam, 1:200). For staining, the sections were incubated with diaminobenzidine for 1 min and hematoxylin for 10 min. The slow-twitch and fast-twitch muscle fibers, and type I and III Collagen were analyzed using a light microscope (Olympus Corporation
+						<sup>®</sup>/BX41TF coupled with DP25-4 digital câmera) and 40 sections/group (5 animals/group, 8 sections/animal) were selected to quantify the fiber type area and collagen type area. Also, each muscle fiber was manually selected (~ 200 slow fibers/group; ~ 330 fast fibers/group) and fiber type area and diameter were quantified using CellSens Dimension (Olympus Corporation
+						<sup>®</sup>) Version 1.16 image analysis software (20 × magnification). The fiber type area was quantitatively determined, as described previously
+						<sup>
+							<xref ref-type="bibr" rid="CR10">10</xref>
+						</sup>.
+					</p>
+				</sec>
+				<sec id="Sec19">
+					<title>Ultrastructural analysis</title>
+					<p id="Par44">As previously described
+						<italic>,</italic> the RAM tissues obtained to ultrastructural analysis (3 samples/group) were cut into small strips and immediately immersed in Karnovsky fixative for 3 h at room temperature and transferred to the refrigerator to post-fixation in 1% osmium tetroxide for 24 h and afterward, the samples were embedded in epoxy resin. Ultra-thin sections were obtained at a longitudinal orientation and stained sections were examined using transmission electron microscopy using (JEM 1400, JEOL®).
+					</p>
+				</sec>
+			</sec>
+			<sec id="Sec20">
+				<title>Statistical analysis</title>
+				<p id="Par45">GraphPad Prism® v.8.0 software was used to analyze the data. Data are expressed as mean ± standard deviation (SD). Comparisons of measurements among groups were performed by two-way ANOVA followed by Tukey’s multiple comparison tests. For all statistical comparisons, p &lt; 0.05 was considered statistically significant.</p>
+			</sec>
+		</sec>
+	</body>
+	<back>
+		<ack>
+			<title>Acknowledgements</title>
+			<p>The authors thank the support from researchers and for the access to the infrastructure of UNIPEX (Experimental Research Unit) Botucatu Medical School—UNESP and Physiological Sciences Laboratory—School of Phylosophy and Sciences—UNESP.Special thanks to Augusto Nascimento from the Physiological Science Laboratory (Campus of Marília) and PauloGeorgete from UNIPEX (Campus of Botucatu) and Cirilo (University of Marília). Transmission electron microscopy images were obtained at the Centre of Microscopy and Image (CMI), Piracicaba Dental School, UNICAMP. Technical support of Flavia Sammartino Mariano Rodrigues is appreciated. This study was supported by FAPESP—Fundação de Amparo à Pesquisa do Estado de São Paulo (Grant number 2016/01743-5), CNPq—Conselho Nacional de DesenvolvimentoCientífico e Tecnológico to MVC Rudge (305116/2018-5). BB Catinelli received a master scholarship from FAPESP—Fundação de Amparo à Pesquisa do Estado de São Paulo (2018/03361-8), JF Floriano and RLS Hallur received Posdoc scholarships from FAPESP (Grant numbers 2017/21783-4 and 2018/02979-8). L Sobrevia thanks the support from the Fondo Nacional de Desarrollo Científico y Tecnológico (FONDECYT) (Grant number 1190316), Chile, and International Sabbaticals (University Medical Centre Groningen, University of Groningen, The Netherlands) from the Vicerectorate of Academic Affairs, Academic Development Office of the Pontificia Universidad Católica de Chile.</p>
+		</ack>
+		<sec sec-type="author-contribution">
+			<title>Author contributions</title>
+			<p>Conceptualization: M.V.C.R., A.M.P.B. and P.S.R. Data curation: B.B.C., M.V.C.R., A.M.P.B., P.S.R. and M.A.S. Formal analysis: B.B.C., P.S.R., A.M.P.B. and M.V.C.R. Funding acquisition: M.V.C.R., I.M.P.C. and A.M.P.B. Investigation/Methodology/Sample collection: B.B.C., P.S.R., A.M.C., J.F., M.A.S., S.L.F., R.G.O., N.J.S., L.C.C.U. Project administration: B.B.C., M.V.C.R., A.M.P.B., P.S.R. and I.M.P.C. Supervision: M.V.C.R., A.M.P.B. and P.S.R. Writing-original draft: B.B.C., P.S.R., M.A.S., S.L.F. Writing-review &amp; editing: B.B.C., L.S., P.S.R., A.M.C., J.F., S.L.F., R.H., M.A.S., R.G.O., N.J.S., L.C.C.U., I.M.P.C., A.M.P.B., M.V.C.R. The Diamater Study Group designated as authors qualify for authorship as a fundamental part of this study. B.B.C. master scholarship fromFapesp. All authors have approved the final version of the manuscript and agree to be accountable for all aspects of the work.</p>
+		</sec>
+		<sec sec-type="data-availability">
+			<title>Data availability</title>
+			<p>The datasets used and/or analyzed during the present study are available from the corresponding author on request.</p>
+		</sec>
+		<sec sec-type="ethics-statement">
+			<sec id="FPar1" sec-type="COI-statement">
+				<title>Competing interests</title>
+				<p id="Par46">The authors declare no competing interests.</p>
+			</sec>
+		</sec>
+		<ref-list id="Bib1">
+			<title>References
+</title>
+			<ref-list>
+				<ref id="CR1">
+					<label>1.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<collab>Standards of Medical Care in Diabetes</collab>
+						</person-group>
+						<article-title xml:lang="en">American Diabetes Association. 2. Classification and diagnosis of diabetes</article-title>
+						<source>Diabetes Care</source>
+						<year>2019</year>
+						<volume>42</volume>
+						<fpage>13</fpage>
+						<lpage>28</lpage>
+					</mixed-citation>
+				</ref>
+				<ref id="CR2">
+					<label>2.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Hernández-ochoa</surname>
+								<given-names>EO</given-names>
+							</name>
+							<name>
+								<surname>Llanos</surname>
+								<given-names>P</given-names>
+							</name>
+							<name>
+								<surname>Lanner</surname>
+								<given-names>JT</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">The underlying mechanisms of diabetic myopathy</article-title>
+						<source>J. Diabetes Res.</source>
+						<year>2017</year>
+						<volume>2017</volume>
+						<fpage>3</fpage>
+						<lpage>6</lpage>
+					</mixed-citation>
+				</ref>
+				<ref id="CR3">
+					<label>3.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Perry</surname>
+								<given-names>CGR</given-names>
+							</name>
+							<name>
+								<surname>Hawke</surname>
+								<given-names>TJ</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Diabetic myopathy : Current molecular understanding of this novel neuromuscular disorder</article-title>
+						<source>Curr. Opin. Neurol.</source>
+						<year>2017</year>
+						<pub-id pub-id-type="doi">10.1097/WCO.0000000000000479</pub-id>
+						<pub-id pub-id-type="pmid">28665810</pub-id>
+						<pub-id pub-id-type="pmcid">6051727</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR4">
+					<label>4.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Rudge</surname>
+								<given-names>MVC</given-names>
+							</name>
+							<etal/>
+						</person-group>
+						<article-title xml:lang="en">Study protocol to investigate biomolecular muscle profile as predictors of long-term urinary incontinence in women with gestational diabetes mellitus</article-title>
+						<source>BMC Pregnancy Childb.</source>
+						<year>2020</year>
+						<volume>20</volume>
+						<fpage>1</fpage>
+						<lpage>14</lpage>
+						<pub-id pub-id-type="doi">10.1186/s12884-020-2749-x</pub-id>
+						<pub-id pub-id-type="coi">1:CAS:528:DC%2BB3cXksFGltLs%3D</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR5">
+					<label>5.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Barbosa</surname>
+								<given-names>AMP</given-names>
+							</name>
+							<etal/>
+						</person-group>
+						<article-title xml:lang="en">Urinary incontinence and vaginal squeeze pressure two years post-cesarean delivery in primiparous women with previous gestational diabetes mellitus</article-title>
+						<source>Clinics</source>
+						<year>2011</year>
+						<volume>66</volume>
+						<fpage>1341</fpage>
+						<lpage>1346</lpage>
+						<pub-id pub-id-type="pmid">21915481</pub-id>
+						<pub-id pub-id-type="pmcid">3161209</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR6">
+					<label>6.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Kim</surname>
+								<given-names>C</given-names>
+							</name>
+							<name>
+								<surname>McEwen</surname>
+								<given-names>LN</given-names>
+							</name>
+							<name>
+								<surname>Sarma</surname>
+								<given-names>AV</given-names>
+							</name>
+							<name>
+								<surname>Piette</surname>
+								<given-names>JD</given-names>
+							</name>
+							<name>
+								<surname>Herman</surname>
+								<given-names>WH</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Stress urinary incontinence in women with a history of gestational diabetes mellitus</article-title>
+						<source>J. Women’s Health</source>
+						<year>2008</year>
+						<volume>17</volume>
+						<fpage>783</fpage>
+						<lpage>792</lpage>
+						<pub-id pub-id-type="doi">10.1089/jwh.2007.0616</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR7">
+					<label>7.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Chuang</surname>
+								<given-names>CM</given-names>
+							</name>
+							<etal/>
+						</person-group>
+						<article-title xml:lang="en">The impact of gestational diabetes mellitus on postpartum urinary incontinence: A longitudinal cohort study on singleton pregnancies</article-title>
+						<source>BJOG Int. J. Obstet. Gynaecol.</source>
+						<year>2012</year>
+						<volume>119</volume>
+						<fpage>1334</fpage>
+						<lpage>1343</lpage>
+						<pub-id pub-id-type="doi">10.1111/j.1471-0528.2012.03468.x</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR8">
+					<label>8.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Piculo</surname>
+								<given-names>F</given-names>
+							</name>
+							<etal/>
+						</person-group>
+						<article-title xml:lang="en">Urethral striated muscle and extracellular matrix morphological characteristics among mildly diabetic pregnant rats: Translational approach</article-title>
+						<source>Int. Urogynecol. J.</source>
+						<year>2014</year>
+						<volume>25</volume>
+						<fpage>403</fpage>
+						<lpage>415</lpage>
+						<pub-id pub-id-type="pmid">24043129</pub-id>
+						<pub-id pub-id-type="doi">10.1007/s00192-013-2218-4</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR9">
+					<label>9.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Marini</surname>
+								<given-names>G</given-names>
+							</name>
+							<name>
+								<surname>Piculo</surname>
+								<given-names>F</given-names>
+							</name>
+							<name>
+								<surname>Vesentini</surname>
+								<given-names>G</given-names>
+							</name>
+							<name>
+								<surname>Barbosa</surname>
+								<given-names>AMP</given-names>
+							</name>
+							<name>
+								<surname>Damasceno</surname>
+								<given-names>DC</given-names>
+							</name>
+							<name>
+								<surname>Matheus</surname>
+								<given-names>SMM</given-names>
+							</name>
+							<name>
+								<surname>Rudge</surname>
+								<given-names>M</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Effects of short-term severe and long-term mild STZ-induced diabetes in urethral tissue of female rats</article-title>
+						<source>Neurourol. Urodyn.</source>
+						<year>2017</year>
+						<volume>36</volume>
+						<fpage>574</fpage>
+						<lpage>579</lpage>
+						<pub-id pub-id-type="coi">1:CAS:528:DC%2BC2sXks12ns7g%3D</pub-id>
+						<pub-id pub-id-type="pmid">26949929</pub-id>
+						<pub-id pub-id-type="doi">10.1002/nau.22974</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR10">
+					<label>10.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Vesentini</surname>
+								<given-names>G</given-names>
+							</name>
+							<etal/>
+						</person-group>
+						<article-title xml:lang="en">Morphological changes in rat rectus abdominis muscle induced by diabetes and pregnancy</article-title>
+						<source>J. Med. Biol. Res.</source>
+						<year>2018</year>
+						<volume>51</volume>
+						<fpage>1</fpage>
+						<lpage>10</lpage>
+					</mixed-citation>
+				</ref>
+				<ref id="CR11">
+					<label>11.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Vesentini</surname>
+								<given-names>G</given-names>
+							</name>
+							<etal/>
+						</person-group>
+						<article-title xml:lang="en">Alterations in the structural characteristics of rectus abdominis muscles caused by diabetes and pregnancy: A comparative study of the rat model and women</article-title>
+						<source>PLoS ONE</source>
+						<year>2020</year>
+						<volume>15</volume>
+						<fpage>1</fpage>
+						<lpage>17</lpage>
+						<pub-id pub-id-type="doi">10.1371/journal.pone.0231096</pub-id>
+						<pub-id pub-id-type="coi">1:CAS:528:DC%2BB3cXnvVGmsLc%3D</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR12">
+					<label>12.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>SartorãoFilho</surname>
+								<given-names>CI</given-names>
+							</name>
+							<etal/>
+						</person-group>
+						<article-title xml:lang="en">Impact of gestational diabetes on pelvic floor: A prospective cohort study with three-dimensional ultrasound during two-time points in pregnancy</article-title>
+						<source>Neurourol. Urodyn.</source>
+						<year>2020</year>
+						<volume>39</volume>
+						<fpage>2329</fpage>
+						<lpage>2337</lpage>
+						<pub-id pub-id-type="doi">10.1002/nau.24491</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR13">
+					<label>13.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Prudencio</surname>
+								<given-names>CB</given-names>
+							</name>
+							<etal/>
+						</person-group>
+						<article-title xml:lang="en">Negative impact of gestational diabetes mellitus on progress of pelvic floor muscle electromyography activity: Cohort study</article-title>
+						<source>PLoS ONE</source>
+						<year>2019</year>
+						<volume>14</volume>
+						<fpage>1</fpage>
+						<lpage>13</lpage>
+						<pub-id pub-id-type="doi">10.1371/journal.pone.0223261</pub-id>
+						<pub-id pub-id-type="coi">1:CAS:528:DC%2BC1MXit1emt7%2FL</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR14">
+					<label>14.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Floriano</surname>
+								<given-names>JF</given-names>
+							</name>
+							<name>
+								<surname>Willis</surname>
+								<given-names>G</given-names>
+							</name>
+							<name>
+								<surname>Catapano</surname>
+								<given-names>F</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Exosomes could offer new options to combat the long-term complications inflicted by gestational diabetes mellitus</article-title>
+						<source>Cells</source>
+						<year>2020</year>
+						<volume>9</volume>
+						<fpage>675</fpage>
+						<pub-id pub-id-type="coi">1:CAS:528:DC%2BB3cXhsVSqtL3O</pub-id>
+						<pub-id pub-id-type="pmcid">7140615</pub-id>
+						<pub-id pub-id-type="doi">10.3390/cells9030675</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR15">
+					<label>15.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Marianna Alperin</surname>
+								<given-names>TK</given-names>
+							</name>
+							<name>
+								<surname>Pichika</surname>
+								<given-names>R</given-names>
+							</name>
+							<name>
+								<surname>Esparza</surname>
+								<given-names>MC</given-names>
+							</name>
+							<name>
+								<surname>Lieber</surname>
+								<given-names>RL</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Pregnancy-induced adaptations in intramuscular extracellular matrix of rat pelvic floor muscles</article-title>
+						<source>Am. J. Obstet. Gynecol.</source>
+						<year>2016</year>
+						<pub-id pub-id-type="doi">10.1016/j.ajog.2016.02.018</pub-id>
+						<pub-id pub-id-type="pmid">26953079</pub-id>
+						<pub-id pub-id-type="pmcid">5003683</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR16">
+					<label>16.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Liu</surname>
+								<given-names>G</given-names>
+							</name>
+							<name>
+								<surname>Daneshgari</surname>
+								<given-names>F</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Temporal diabetes- and diuresis-induced remodeling of the urinary bladder in the rat</article-title>
+						<source>Am. J. Physiol. Regul. Integr. Comp. Physiol.</source>
+						<year>2020</year>
+						<volume>44195</volume>
+						<fpage>837</fpage>
+						<lpage>843</lpage>
+					</mixed-citation>
+				</ref>
+				<ref id="CR17">
+					<label>17.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Marini</surname>
+								<given-names>G</given-names>
+							</name>
+							<etal/>
+						</person-group>
+						<article-title xml:lang="en">The influence of hyperglycemia on the remodeling of urethral connective tissue in pregnant rats</article-title>
+						<source>Eur. J. Obstet. Gynecol. Reprod. Biol.</source>
+						<year>2018</year>
+						<volume>221</volume>
+						<fpage>81</fpage>
+						<lpage>88</lpage>
+						<pub-id pub-id-type="coi">1:CAS:528:DC%2BC2sXitVaktbzI</pub-id>
+						<pub-id pub-id-type="pmid">29275277</pub-id>
+						<pub-id pub-id-type="doi">10.1016/j.ejogrb.2017.12.032</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR18">
+					<label>18.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Agha-jaffar</surname>
+								<given-names>R</given-names>
+							</name>
+							<name>
+								<surname>Oliver</surname>
+								<given-names>N</given-names>
+							</name>
+							<name>
+								<surname>Johnston</surname>
+								<given-names>D</given-names>
+							</name>
+							<name>
+								<surname>Robinson</surname>
+								<given-names>S</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Gestational diabetes mellitus : Does an effective prevention strategy exist ?</article-title>
+						<source>Nat. Publ. Gr.</source>
+						<year>2016</year>
+						<volume>12</volume>
+						<fpage>533</fpage>
+						<lpage>546</lpage>
+					</mixed-citation>
+				</ref>
+				<ref id="CR19">
+					<label>19.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Russo</surname>
+								<given-names>LM</given-names>
+							</name>
+							<name>
+								<surname>Nobles</surname>
+								<given-names>C</given-names>
+							</name>
+							<name>
+								<surname>Whitcomb</surname>
+								<given-names>BW</given-names>
+							</name>
+							<name>
+								<surname>Ertel</surname>
+								<given-names>KA</given-names>
+							</name>
+							<name>
+								<surname>Chasan-taber</surname>
+								<given-names>L</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Physical activity interventions in pregnancy and risk of gestational diabetes mellitus a systematic review and meta-analysis</article-title>
+						<source>Obstet. Gynecol.</source>
+						<year>2015</year>
+						<volume>125</volume>
+						<fpage>576</fpage>
+						<lpage>582</lpage>
+						<pub-id pub-id-type="pmid">25730218</pub-id>
+						<pub-id pub-id-type="doi">10.1097/AOG.0000000000000691</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR20">
+					<label>20.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Wang</surname>
+								<given-names>C</given-names>
+							</name>
+							<etal/>
+						</person-group>
+						<article-title xml:lang="en">Reports of major impact a randomized clinical trial of exercise during pregnancy to prevent gestational diabetes mellitus</article-title>
+						<source>Am. J. Obstet. Gyecol.</source>
+						<year>2017</year>
+						<pub-id pub-id-type="doi">10.1016/j.ajog.2017.01.037</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR21">
+					<label>21.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Colberg</surname>
+								<given-names>SR</given-names>
+							</name>
+							<name>
+								<surname>Castorino</surname>
+								<given-names>K</given-names>
+							</name>
+							<name>
+								<surname>Jovanovič</surname>
+								<given-names>L</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Prescribing physical activity to prevent and manage gestational diabetes</article-title>
+						<source>World J. Diabetes</source>
+						<year>2013</year>
+						<volume>4</volume>
+						<fpage>256</fpage>
+						<lpage>262</lpage>
+						<pub-id pub-id-type="pmid">24379915</pub-id>
+						<pub-id pub-id-type="pmcid">3874484</pub-id>
+						<pub-id pub-id-type="doi">10.4239/wjd.v4.i6.256</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR22">
+					<label>22.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<collab>Standards of Medical Care in Diabetes</collab>
+						</person-group>
+						<article-title xml:lang="en">American Diabetes Association. 5. Lifestyle management</article-title>
+						<source>Diabetes Care</source>
+						<year>2019</year>
+						<volume>42</volume>
+						<fpage>46</fpage>
+						<lpage>60</lpage>
+					</mixed-citation>
+				</ref>
+				<ref id="CR23">
+					<label>23.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Cordero</surname>
+								<given-names>Y</given-names>
+							</name>
+							<name>
+								<surname>Mottola</surname>
+								<given-names>MF</given-names>
+							</name>
+							<name>
+								<surname>Vargas</surname>
+								<given-names>J</given-names>
+							</name>
+							<name>
+								<surname>Blanco</surname>
+								<given-names>M</given-names>
+							</name>
+							<name>
+								<surname>Barakat</surname>
+								<given-names>R</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Exercise is associated with a reduction in gestational diabetes mellitus</article-title>
+						<source>Med. Sci. Sports Exerc.</source>
+						<year>2015</year>
+						<volume>47</volume>
+						<fpage>1328</fpage>
+						<lpage>1333</lpage>
+						<pub-id pub-id-type="pmid">25333246</pub-id>
+						<pub-id pub-id-type="doi">10.1249/MSS.0000000000000547</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR24">
+					<label>24.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Di Biase</surname>
+								<given-names>N</given-names>
+							</name>
+							<etal/>
+						</person-group>
+						<article-title xml:lang="en">Review of general suggestions on physical activity to prevent and treat gestational and pre-existing diabetes during pregnancy and in postpartum</article-title>
+						<source>Nutr. Metab. Cardiovasc. Dis.</source>
+						<year>2019</year>
+						<volume>29</volume>
+						<fpage>115</fpage>
+						<lpage>126</lpage>
+						<pub-id pub-id-type="pmid">30642790</pub-id>
+						<pub-id pub-id-type="doi">10.1016/j.numecd.2018.10.013</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR25">
+					<label>25.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Huang</surname>
+								<given-names>X</given-names>
+							</name>
+							<name>
+								<surname>Huang</surname>
+								<given-names>J</given-names>
+							</name>
+							<name>
+								<surname>Wu</surname>
+								<given-names>J</given-names>
+							</name>
+							<name>
+								<surname>Li</surname>
+								<given-names>M</given-names>
+							</name>
+							<name>
+								<surname>Yang</surname>
+								<given-names>Z</given-names>
+							</name>
+							<name>
+								<surname>Liu</surname>
+								<given-names>L</given-names>
+							</name>
+							<name>
+								<surname>Lin</surname>
+								<given-names>T</given-names>
+							</name>
+							<name>
+								<surname>Lan</surname>
+								<given-names>Y</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Different exercises for pregnant women with gestational diabetes: A meta-analysis of randomized controlled trials</article-title>
+						<source>J. Sport. Med Phys Fit.</source>
+						<year>2020</year>
+						<volume>60</volume>
+						<fpage>464</fpage>
+						<lpage>471</lpage>
+					</mixed-citation>
+				</ref>
+				<ref id="CR26">
+					<label>26.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Davenport</surname>
+								<given-names>MH</given-names>
+							</name>
+							<etal/>
+						</person-group>
+						<article-title xml:lang="en">Prenatal exercise for the prevention of gestational diabetes mellitus and hypertensive disorders of pregnancy : A systematic review and meta-analysis</article-title>
+						<source>Br. J. Sports Med.</source>
+						<year>2019</year>
+						<pub-id pub-id-type="doi">10.1136/bjsports-2018-099355</pub-id>
+						<pub-id pub-id-type="pmid">31377724</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR27">
+					<label>27.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Barakat</surname>
+								<given-names>R</given-names>
+							</name>
+							<name>
+								<surname>Perales</surname>
+								<given-names>M</given-names>
+							</name>
+							<name>
+								<surname>Cordero</surname>
+								<given-names>Y</given-names>
+							</name>
+							<name>
+								<surname>Bacchi</surname>
+								<given-names>M</given-names>
+							</name>
+							<name>
+								<surname>Mottola</surname>
+								<given-names>MF</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Influence of land or water exercise in pregnancy on outcomes: A cross-sectional study</article-title>
+						<source>Med. Sci. Sports Exerc.</source>
+						<year>2017</year>
+						<volume>49</volume>
+						<fpage>1397</fpage>
+						<lpage>1403</lpage>
+						<pub-id pub-id-type="pmid">28198729</pub-id>
+						<pub-id pub-id-type="doi">10.1249/MSS.0000000000001234</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR28">
+					<label>28.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Alaca</surname>
+								<given-names>N</given-names>
+							</name>
+							<etal/>
+						</person-group>
+						<article-title xml:lang="en">Effects of different aerobic exercise frequencies on streptozotocin–nicotinamide-induced type 2 diabetic rats: Continuous versus short bouts and weekend warrior exercises</article-title>
+						<source>J. Diabetes</source>
+						<year>2018</year>
+						<volume>10</volume>
+						<fpage>73</fpage>
+						<lpage>84</lpage>
+						<pub-id pub-id-type="amsid">4246001</pub-id>
+						<pub-id pub-id-type="coi">1:CAS:528:DC%2BC1cXjtFGguw%3D%3D</pub-id>
+						<pub-id pub-id-type="pmid">28425181</pub-id>
+						<pub-id pub-id-type="doi">10.1111/1753-0407.12561</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR29">
+					<label>29.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Martins</surname>
+								<given-names>CEC</given-names>
+							</name>
+							<name>
+								<surname>Lima</surname>
+								<given-names>VBdS</given-names>
+							</name>
+							<name>
+								<surname>Schoenfeld</surname>
+								<given-names>BJ</given-names>
+							</name>
+							<name>
+								<surname>Tirapegui</surname>
+								<given-names>J</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Effects of leucine supplementation and resistance training on myopathy of diabetic rats</article-title>
+						<source>Physiol. Rep.</source>
+						<year>2017</year>
+						<volume>5</volume>
+						<fpage>1</fpage>
+						<lpage>10</lpage>
+						<pub-id pub-id-type="doi">10.14814/phy2.13273</pub-id>
+						<pub-id pub-id-type="coi">1:CAS:528:DC%2BC2sXosl2ksLw%3D</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR30">
+					<label>30.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Tedesco</surname>
+								<given-names>FS</given-names>
+							</name>
+							<name>
+								<surname>Dellavalle</surname>
+								<given-names>A</given-names>
+							</name>
+							<name>
+								<surname>Diaz-manera</surname>
+								<given-names>J</given-names>
+							</name>
+							<name>
+								<surname>Messina</surname>
+								<given-names>G</given-names>
+							</name>
+							<name>
+								<surname>Cossu</surname>
+								<given-names>G</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Review series repairing skeletal muscle : Regenerative potential of skeletal muscle stem cells</article-title>
+						<source>J. Clin. Invest.</source>
+						<year>2010</year>
+						<volume>120</volume>
+						<fpage>16</fpage>
+						<pub-id pub-id-type="doi">10.1172/JCI40373</pub-id>
+						<pub-id pub-id-type="coi">1:CAS:528:DC%2BC3cXislWgsA%3D%3D</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR31">
+					<label>31.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Bellamy</surname>
+								<given-names>L</given-names>
+							</name>
+							<name>
+								<surname>Casas</surname>
+								<given-names>JP</given-names>
+							</name>
+							<name>
+								<surname>Hingorani</surname>
+								<given-names>AD</given-names>
+							</name>
+							<name>
+								<surname>Williams</surname>
+								<given-names>D</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Type 2 diabetes mellitus after gestational diabetes: A systematic review and meta-analysis</article-title>
+						<source>Lancet</source>
+						<year>2009</year>
+						<volume>373</volume>
+						<fpage>1773</fpage>
+						<lpage>1779</lpage>
+						<pub-id pub-id-type="coi">1:CAS:528:DC%2BD1MXmtlektr4%3D</pub-id>
+						<pub-id pub-id-type="pmid">19465232</pub-id>
+						<pub-id pub-id-type="doi">10.1016/S0140-6736(09)60731-5</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR32">
+					<label>32.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Souza</surname>
+								<given-names>DMD</given-names>
+							</name>
+							<name>
+								<surname>Al-sajee</surname>
+								<given-names>D</given-names>
+							</name>
+							<name>
+								<surname>Hawke</surname>
+								<given-names>TJ</given-names>
+							</name>
+							<name>
+								<surname>Pinheiro</surname>
+								<given-names>CHJ</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Diabetic myopathy : Impact of diabetes mellitus on skeletal muscle progenitor cells</article-title>
+						<source>Front. Physiol.</source>
+						<year>2013</year>
+						<volume>4</volume>
+						<fpage>1</fpage>
+						<lpage>7</lpage>
+						<pub-id pub-id-type="doi">10.3389/fphys.2013.00379</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR33">
+					<label>33.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Hernández-ochoa</surname>
+								<given-names>EO</given-names>
+							</name>
+							<name>
+								<surname>Vanegas</surname>
+								<given-names>C</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Diabetic myopathy and mechanisms of disease</article-title>
+						<source>Biochem. Pharmacol. (Los Angeles)</source>
+						<year>2015</year>
+						<volume>4</volume>
+						<fpage>1</fpage>
+						<lpage>5</lpage>
+					</mixed-citation>
+				</ref>
+				<ref id="CR34">
+					<label>34.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Krause</surname>
+								<given-names>MP</given-names>
+							</name>
+							<name>
+								<surname>Riddell</surname>
+								<given-names>MC</given-names>
+							</name>
+							<name>
+								<surname>Hawke</surname>
+								<given-names>TJ</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Effects of type 1 diabetes mellitus on skeletal muscle: Clinical observations and physiological mechanisms</article-title>
+						<source>Pediatr. Diabetes</source>
+						<year>2011</year>
+						<volume>12</volume>
+						<fpage>345</fpage>
+						<lpage>364</lpage>
+						<pub-id pub-id-type="coi">1:CAS:528:DC%2BC3MXoslOmu78%3D</pub-id>
+						<pub-id pub-id-type="pmid">20860561</pub-id>
+						<pub-id pub-id-type="doi">10.1111/j.1399-5448.2010.00699.x</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR35">
+					<label>35.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Hanson</surname>
+								<given-names>MA</given-names>
+							</name>
+							<name>
+								<surname>Gluckman</surname>
+								<given-names>PD</given-names>
+							</name>
+							<name>
+								<surname>Ma</surname>
+								<given-names>RCW</given-names>
+							</name>
+							<name>
+								<surname>Matzen</surname>
+								<given-names>P</given-names>
+							</name>
+							<name>
+								<surname>Biesma</surname>
+								<given-names>RG</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Early life opportunities for prevention of diabetes in low and middle income countries</article-title>
+						<source>BMC Public Health</source>
+						<year>2012</year>
+						<volume>12</volume>
+						<fpage>1</fpage>
+						<pub-id pub-id-type="doi">10.1186/1471-2458-12-1025</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR36">
+					<label>36.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Poon</surname>
+								<given-names>LC</given-names>
+							</name>
+							<name>
+								<surname>McIntyre</surname>
+								<given-names>HD</given-names>
+							</name>
+							<name>
+								<surname>Hyett</surname>
+								<given-names>JA</given-names>
+							</name>
+							<name>
+								<surname>da Fonseca</surname>
+								<given-names>EB</given-names>
+							</name>
+							<name>
+								<surname>Hod</surname>
+								<given-names>M</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">The first-trimester of pregnancy—A window of opportunity for prediction and prevention of pregnancy complications and future life</article-title>
+						<source>Diabetes Res. Clin. Pract.</source>
+						<year>2018</year>
+						<volume>145</volume>
+						<fpage>20</fpage>
+						<lpage>30</lpage>
+						<pub-id pub-id-type="pmid">29852233</pub-id>
+						<pub-id pub-id-type="doi">10.1016/j.diabres.2018.05.002</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR37">
+					<label>37.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Orleans</surname>
+								<given-names>ED</given-names>
+							</name>
+							<etal/>
+						</person-group>
+						<article-title xml:lang="en">Comparison betweent the effects of swimming and treadmill-based aerobic training protocols in diabetic rats</article-title>
+						<source>Int. J. Cardiovasc. Sci.</source>
+						<year>2018</year>
+						<volume>31</volume>
+						<fpage>610</fpage>
+						<lpage>618</lpage>
+					</mixed-citation>
+				</ref>
+				<ref id="CR38">
+					<label>38.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Soares</surname>
+								<given-names>TS</given-names>
+							</name>
+							<name>
+								<surname>Moraes-Souza</surname>
+								<given-names>RQ</given-names>
+							</name>
+							<name>
+								<surname>Carneiro</surname>
+								<given-names>TB</given-names>
+							</name>
+							<name>
+								<surname>Araujo-Silva</surname>
+								<given-names>VC</given-names>
+							</name>
+							<name>
+								<surname>Schavinski</surname>
+								<given-names>AZ</given-names>
+							</name>
+							<name>
+								<surname>Gratao</surname>
+								<given-names>TB</given-names>
+							</name>
+							<name>
+								<surname>Damasceno</surname>
+								<given-names>DC</given-names>
+							</name>
+							<name>
+								<surname>Volpato</surname>
+								<given-names>GT</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Maternal-fetal outcomes of exercise applied in rats with mild hyperglycemia after embryonic implantation</article-title>
+						<source>Birth Defects Res.</source>
+						<year>2020</year>
+						<volume>113</volume>
+						<fpage>1</fpage>
+					</mixed-citation>
+				</ref>
+				<ref id="CR39">
+					<label>39.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Harber</surname>
+								<given-names>M</given-names>
+							</name>
+							<name>
+								<surname>Trappe</surname>
+								<given-names>S</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Single muscle fiber contractile properties of young competitive distance runners</article-title>
+						<source>J. Appl. Physiol.</source>
+						<year>2008</year>
+						<volume>105</volume>
+						<fpage>629</fpage>
+						<lpage>636</lpage>
+						<pub-id pub-id-type="pmid">18535124</pub-id>
+						<pub-id pub-id-type="doi">10.1152/japplphysiol.00995.2007</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR40">
+					<label>40.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Fry</surname>
+								<given-names>CS</given-names>
+							</name>
+							<etal/>
+						</person-group>
+						<article-title xml:lang="en">Fibre type-specific satellite cell response to aerobic training in sedentary adults</article-title>
+						<source>J. Physiol.</source>
+						<year>2014</year>
+						<volume>592</volume>
+						<fpage>2625</fpage>
+						<lpage>2635</lpage>
+						<pub-id pub-id-type="coi">1:CAS:528:DC%2BC2cXps1Ojs7o%3D</pub-id>
+						<pub-id pub-id-type="pmid">24687582</pub-id>
+						<pub-id pub-id-type="pmcid">4080942</pub-id>
+						<pub-id pub-id-type="doi">10.1113/jphysiol.2014.271288</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR41">
+					<label>41.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Qaisar</surname>
+								<given-names>R</given-names>
+							</name>
+							<name>
+								<surname>Bhaskaran</surname>
+								<given-names>S</given-names>
+							</name>
+							<name>
+								<surname>Remmen</surname>
+								<given-names>HV</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Free radical biology and medicine muscle fiber type diversi fi cation during exercise and regeneration</article-title>
+						<source>Free Radic. Biol. Med.</source>
+						<year>2016</year>
+						<volume>98</volume>
+						<fpage>56</fpage>
+						<lpage>67</lpage>
+						<pub-id pub-id-type="coi">1:CAS:528:DC%2BC28XltlOktbw%3D</pub-id>
+						<pub-id pub-id-type="pmid">27032709</pub-id>
+						<pub-id pub-id-type="doi">10.1016/j.freeradbiomed.2016.03.025</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR42">
+					<label>42.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Marini</surname>
+								<given-names>G</given-names>
+							</name>
+							<name>
+								<surname>de Rinaldi</surname>
+								<given-names>JC</given-names>
+							</name>
+							<name>
+								<surname>Damasceno</surname>
+								<given-names>DC</given-names>
+							</name>
+							<name>
+								<surname>Felisbino</surname>
+								<given-names>SL</given-names>
+							</name>
+							<name>
+								<surname>Rudge</surname>
+								<given-names>MVC</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Alterações da matriz extracelular causadas pelo diabetes: O impacto sobre a continência urinária</article-title>
+						<source>Rev. Bras. Ginecol. Obs.</source>
+						<year>2014</year>
+						<volume>36</volume>
+						<fpage>328</fpage>
+						<lpage>333</lpage>
+						<pub-id pub-id-type="doi">10.1590/SO100-720320140005014</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR43">
+					<label>43.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Marangon</surname>
+								<given-names>L</given-names>
+							</name>
+							<name>
+								<surname>Gobatto</surname>
+								<given-names>C</given-names>
+							</name>
+							<name>
+								<surname>de Mello</surname>
+								<given-names>MKE</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Utilization of an hyperbolic model for the determination of the critical load in swimming rats</article-title>
+						<source>Med. Sci. Sport. Exerc.</source>
+						<year>2002</year>
+						<volume>34</volume>
+						<fpage>149</fpage>
+						<pub-id pub-id-type="doi">10.1097/00005768-200205001-00834</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR44">
+					<label>44.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Manchado</surname>
+								<given-names>FDB</given-names>
+							</name>
+							<name>
+								<surname>Gobatto</surname>
+								<given-names>CA</given-names>
+							</name>
+							<name>
+								<surname>Contarteze</surname>
+								<given-names>RVL</given-names>
+							</name>
+							<name>
+								<surname>Papoti</surname>
+								<given-names>MMM</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Máxima fase estável de lactato é ergômetro-dependente em modelo experimental utilizando ratos</article-title>
+						<source>Rev. Bras. Med. Esporte</source>
+						<year>2006</year>
+						<volume>6</volume>
+						<fpage>259</fpage>
+						<lpage>262</lpage>
+						<pub-id pub-id-type="doi">10.1590/S1517-86922006000500007</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR45">
+					<label>45.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Volpato</surname>
+								<given-names>GT</given-names>
+							</name>
+							<name>
+								<surname>Damasceno</surname>
+								<given-names>DC</given-names>
+							</name>
+							<name>
+								<surname>Kempinas</surname>
+								<given-names>WG</given-names>
+							</name>
+							<name>
+								<surname>Rudge</surname>
+								<given-names>MVC</given-names>
+							</name>
+							<name>
+								<surname>Calderon</surname>
+								<given-names>IMP</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Effect of exercise on the reproductive outcome and fetal development of diabetic rats</article-title>
+						<source>Reprod. Biomed. Online</source>
+						<year>2009</year>
+						<volume>19</volume>
+						<fpage>852</fpage>
+						<lpage>858</lpage>
+						<pub-id pub-id-type="coi">1:STN:280:DC%2BD1Mfkt1Gitw%3D%3D</pub-id>
+						<pub-id pub-id-type="pmid">20031028</pub-id>
+						<pub-id pub-id-type="doi">10.1016/j.rbmo.2009.09.027</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR46">
+					<label>46.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Damasceno</surname>
+								<given-names>DC</given-names>
+							</name>
+							<etal/>
+						</person-group>
+						<article-title xml:lang="en">Mild diabetes models and their maternal-fetal repercussions</article-title>
+						<source>J. Diabetes Res.</source>
+						<year>2013</year>
+						<volume>2013</volume>
+						<fpage>26</fpage>
+						<pub-id pub-id-type="doi">10.1155/2013/473575</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR47">
+					<label>47.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Damasceno</surname>
+								<given-names>DC</given-names>
+							</name>
+							<etal/>
+						</person-group>
+						<article-title xml:lang="en">Streptozotocin-induced diabetes models : Pathophysiological mechanisms and fetal outcomes</article-title>
+						<source>Biomed. Res. Int.</source>
+						<year>2014</year>
+						<volume>1</volume>
+						<fpage>2014</fpage>
+					</mixed-citation>
+				</ref>
+				<ref id="CR48">
+					<label>48.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Sinzato</surname>
+								<given-names>YK</given-names>
+							</name>
+							<name>
+								<surname>Damasceno</surname>
+								<given-names>DC</given-names>
+							</name>
+							<name>
+								<surname>Laufer-Amorim</surname>
+								<given-names>R</given-names>
+							</name>
+							<name>
+								<surname>Rodrigues</surname>
+								<given-names>MMP</given-names>
+							</name>
+							<name>
+								<surname>Oshiiwa</surname>
+								<given-names>M</given-names>
+							</name>
+							<name>
+								<surname>Taylor</surname>
+								<given-names>KN</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Plasma concentrations and placental immunostaining of interleukin-10 and tumornecrosis factor-α as predictors of alterations in the embryo-fetal organism and the placental development of diabetic rats</article-title>
+						<source>Braz. J. Med. Biol. Res.</source>
+						<year>2011</year>
+						<volume>44</volume>
+						<fpage>206</fpage>
+						<lpage>211</lpage>
+						<pub-id pub-id-type="coi">1:CAS:528:DC%2BC3MXlvVSlsrg%3D</pub-id>
+						<pub-id pub-id-type="pmid">21344139</pub-id>
+						<pub-id pub-id-type="doi">10.1590/S0100-879X2011007500015</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR49">
+					<label>49.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Iessi</surname>
+								<given-names>IL</given-names>
+							</name>
+							<etal/>
+						</person-group>
+						<article-title xml:lang="en">Evaluation of neonatally-induced mild diabetes in rats: Maternal and fetal repercussions</article-title>
+						<source>Diabetol. Metab. Syndr.</source>
+						<year>2010</year>
+						<volume>2</volume>
+						<fpage>1</fpage>
+						<lpage>8</lpage>
+						<pub-id pub-id-type="doi">10.1186/1758-5996-2-37</pub-id>
+						<pub-id pub-id-type="coi">1:CAS:528:DC%2BC3cXnsVCjsb4%3D</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR50">
+					<label>50.</label>
+					<mixed-citation publication-type="other">Damasceno, D.C., Kempinas, W.G., Volpato, G.T., Consoni, M., Rudge, M.V.C., Paumgartten, F.
+						<italic>Anomalias Congênitas</italic>
+						<italic>: </italic>
+						<italic>Estudos Experimentais</italic>. (Coopmed, 2008).
+					</mixed-citation>
+				</ref>
+				<ref id="CR51">
+					<label>51.</label>
+					<mixed-citation publication-type="other">Nascimento, L. Avaliação de diferentes modelos de indução do diabete moderado em ratas Wistar e suas repercussões no organismo materno-fetal. (2014).</mixed-citation>
+				</ref>
+			</ref-list>
+		</ref-list>
+		<notes notes-type="Misc">
+			<title>Publisher's note</title>
+			<p>Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.</p>
+		</notes>
+	</back>
+</article>

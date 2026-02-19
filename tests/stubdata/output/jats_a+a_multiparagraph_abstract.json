@@ -1,0 +1,406 @@
+{
+  "abstract": {
+    "textEnglish": "Context. V838 Monocerotis is a peculiar binary that underwent an immense stellar explosion in 2002, leaving behind an expanding cool supergiant and a hot B3V companion. Five years after the outburst, the B3V companion disappeared from view, and has not returned to its original state.\nAims. We investigate the changes in the light curve and spectral features to explain the behaviour of V838 Mon during the current long-lasting minimum.\nMethods. A monitoring campaign has been performed over the past 13 years with the Nordic Optical Telescope to obtain optical photometric and spectroscopic data. The datasets are used to analyse the temporal evolution of the spectral features and the spectral energy distribution, and to characterise the object.\nResults. Our photometric data show a steady brightening in all bands over the past 13 years, which is particularly prominent in the blue. This rise is also reflected in the spectra, showing a gradual relative increase in the continuum flux at shorter wavelengths. In addition, a slow brightening of the H\u03b1 emission line starting in 2015 was detected. These changes might imply that the B3V companion is slowly reappearing. During the same time interval, our analysis reveals a considerable change in the observed colours of the object along with a steady decrease in the strength and width of molecular absorption bands in our low-resolution spectra. These changes suggest a rising temperature of the cool supergiant along with a weakening of its wind, most likely combined with a slow recovery of the secondary due to the evaporation of the dust and accretion of the material from the shell in which the hot companion is embedded. From our medium-resolution spectra, we find that the heliocentric radial velocity of the atomic absorption line of Ti I 6556.06 \u00c5 has been stable for more than a decade. We propose that Ti I lines are tracing the velocity of the red supergiant in V838 Mon, and do not represent the infalling matter as previously stated.  \u22c6 Full Tables 2 and 4 and spectra (FITS files) are only available at the CDS via anonymous ftp to cdsarc.cds.unistra.fr (130.79.128.5) or via https://cdsarc.cds.unistra.fr/viz-bin/cat/J/A+A/670/A13"
+  },
+  "authors": [
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Astronomical Institute, Czech Academy of Sciences, Fri\u010dova 298, 25165, Ond\u0159ejov, Czech Republic"
+        },
+        {
+          "affPubRaw": "Tartu Observatory, University of Tartu, Observatooriumi 1, 61602, T\u00f5ravere, Estonia"
+        }
+      ],
+      "attrib": {
+        "corresp": true,
+        "orcid": "0000-0003-2196-9091"
+      },
+      "name": {
+        "given_name": "T.",
+        "surname": "Liimets"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Tartu Observatory, University of Tartu, Observatooriumi 1, 61602, T\u00f5ravere, Estonia"
+        }
+      ],
+      "name": {
+        "given_name": "I.",
+        "surname": "Kolka"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Astronomical Institute, Czech Academy of Sciences, Fri\u010dova 298, 25165, Ond\u0159ejov, Czech Republic"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0002-4502-6330"
+      },
+      "name": {
+        "given_name": "M.",
+        "surname": "Kraus"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Tartu Observatory, University of Tartu, Observatooriumi 1, 61602, T\u00f5ravere, Estonia"
+        }
+      ],
+      "name": {
+        "given_name": "T.",
+        "surname": "Eenm\u00e4e"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Tartu Observatory, University of Tartu, Observatooriumi 1, 61602, T\u00f5ravere, Estonia"
+        }
+      ],
+      "name": {
+        "given_name": "T.",
+        "surname": "Tuvikene"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Nordic Optical Telescope, Rambla Jos\u00e9 Ana Fern\u00e1ndez, P\u00e9rez 7, 38711, Bre\u00f1a Baja, Spain"
+        },
+        {
+          "affPubRaw": "Department of Physics and Astronomy, Aarhus University, Munkegade 120, 8000, Aarhus C, Denmark"
+        }
+      ],
+      "name": {
+        "given_name": "T.",
+        "surname": "Augusteijn"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Instituto de F\u00edsica y Astronom\u00eda, Universidad de Valpara\u00edso, Gran Breta\u00f1a 1111, Playa Ancha, Valpara\u00edso, 2360102, Chile"
+        }
+      ],
+      "name": {
+        "given_name": "L.",
+        "surname": "Antunes Amaral"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Nordic Optical Telescope, Rambla Jos\u00e9 Ana Fern\u00e1ndez, P\u00e9rez 7, 38711, Bre\u00f1a Baja, Spain"
+        },
+        {
+          "affPubRaw": "Department of Physics and Astronomy, Aarhus University, Munkegade 120, 8000, Aarhus C, Denmark"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0001-6316-9880"
+      },
+      "name": {
+        "given_name": "A. A.",
+        "surname": "Djupvik"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Nordic Optical Telescope, Rambla Jos\u00e9 Ana Fern\u00e1ndez, P\u00e9rez 7, 38711, Bre\u00f1a Baja, Spain"
+        },
+        {
+          "affPubRaw": "Department of Physics and Astronomy, Aarhus University, Munkegade 120, 8000, Aarhus C, Denmark"
+        }
+      ],
+      "name": {
+        "given_name": "J. H.",
+        "surname": "Telting"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Astronomical Institute, Czech Academy of Sciences, Fri\u010dova 298, 25165, Ond\u0159ejov, Czech Republic"
+        }
+      ],
+      "name": {
+        "given_name": "B.",
+        "surname": "Deshev"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Tuorla Observatory, Department of Physics and Astronomy, University of Turku, 20014, Turku, Finland"
+        }
+      ],
+      "name": {
+        "given_name": "E.",
+        "surname": "Kankare"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Astronomical Institute, Czech Academy of Sciences, Fri\u010dova 298, 25165, Ond\u0159ejov, Czech Republic"
+        }
+      ],
+      "name": {
+        "given_name": "J.",
+        "surname": "Kankare"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Astronomical Institute, Czech Academy of Sciences, Fri\u010dova 298, 25165, Ond\u0159ejov, Czech Republic"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0003-3811-4591"
+      },
+      "name": {
+        "given_name": "J. E.",
+        "surname": "Lindberg"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Viborg Katedralskole, Gl.Skivevej 2, 8800, Viborg, Denmark"
+        }
+      ],
+      "name": {
+        "given_name": "T. M.",
+        "surname": "Amby"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Nordic Optical Telescope, Rambla Jos\u00e9 Ana Fern\u00e1ndez, P\u00e9rez 7, 38711, Bre\u00f1a Baja, Spain"
+        },
+        {
+          "affPubRaw": "Department of Physics and Astronomy, Aarhus University, Munkegade 120, 8000, Aarhus C, Denmark"
+        }
+      ],
+      "name": {
+        "given_name": "T.",
+        "surname": "Pursimo"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Tuorla Observatory, Department of Physics and Astronomy, University of Turku, 20014, Turku, Finland"
+        }
+      ],
+      "name": {
+        "given_name": "A.",
+        "surname": "Somero"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Department of Physics, University of Warwick, Coventry, CV4 7AL, UK"
+        },
+        {
+          "affPubRaw": "Institut d\u2019astrophysique de Paris, CNRS, UMR 7095 & Sorbonne Universit\u00e9s, UPMC Paris 6, 98, Boulevard Arago, 75014, Paris, France"
+        }
+      ],
+      "name": {
+        "given_name": "A.",
+        "surname": "Thygesen"
+      }
+    },
+    {
+      "name": {
+        "given_name": "P. A.",
+        "surname": "Str\u00f8m"
+      }
+    }
+  ],
+  "copyright": {
+    "statement": "\u00a9 T. Liimets et al. 2023",
+    "status": true
+  },
+  "editorialHistory": {
+    "acceptedDate": "2022-11-12",
+    "receivedDates": [
+      "2021-12-20"
+    ]
+  },
+  "esources": [
+    {
+      "location": "https://www.aanda.org/articles/aa/full_html/2023/02/aa42959-21/aa42959-21.html",
+      "source": "pub_html"
+    },
+    {
+      "location": "https://www.aanda.org/articles/aa/pdf/2023/02/aa42959-21.pdf",
+      "source": "pub_pdf"
+    }
+  ],
+  "funding": [
+    {
+      "agencyid": {
+        "idvalue": "Czech Science Foundation"
+      },
+      "awardnumber": "20-00150S"
+    },
+    {
+      "agencyid": {
+        "idvalue": "European Union\u2019s Framework Programme for Research and Innovation Horizon 2020"
+      },
+      "awardnumber": "823734"
+    }
+  ],
+  "keywords": [
+    {
+      "keyString": "stars: individual: V838 Mon",
+      "keySystem": "misc"
+    },
+    {
+      "keyString": "stars: evolution",
+      "keySystem": "misc"
+    },
+    {
+      "keyString": "stars: peculiar",
+      "keySystem": "misc"
+    },
+    {
+      "keyString": "stars: mass-loss",
+      "keySystem": "misc"
+    },
+    {
+      "keyString": "techniques: photometric",
+      "keySystem": "misc"
+    },
+    {
+      "keyString": "techniques: spectroscopic",
+      "keySystem": "misc"
+    }
+  ],
+  "openAccess": {
+    "license": "Open Access article, published by EDP Sciences, under the terms of the Creative Commons Attribution License (https://creativecommons.org/licenses/by/4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.",
+    "licenseURL": "https://www.edpsciences.org",
+    "open": true
+  },
+  "pagination": {
+    "electronicID": "A13",
+    "pageCount": "13"
+  },
+  "persistentIDs": [
+    {
+      "DOI": "10.1051/0004-6361/202142959"
+    }
+  ],
+  "pubDate": {
+    "electrDate": "2023-01-27",
+    "printDate": "2023-02-00"
+  },
+  "publication": {
+    "ISSN": [
+      {
+        "issnString": "0004-6361",
+        "pubtype": "ppub"
+      },
+      {
+        "issnString": "1432-0746",
+        "pubtype": "epub"
+      }
+    ],
+    "pubName": "Astronomy & Astrophysics",
+    "pubYear": "2023",
+    "publisher": "EDP Sciences",
+    "volumeNum": "670"
+  },
+  "publisherIDs": [
+    {
+      "Identifier": "aa42959-21",
+      "attribute": "publisher-id"
+    },
+    {
+      "Identifier": "2023A%26A...670A..13L",
+      "attribute": "other"
+    }
+  ],
+  "recordData": {
+    "createdTime": "",
+    "loadFormat": "JATS",
+    "loadLocation": "",
+    "loadType": "fromFile",
+    "parsedTime": "",
+    "recordOrigin": ""
+  },
+  "references": [
+    "<ref id=\"R1\"> <mixed-citation publication-type=\"journal\"> <string-name><surname>Af\u015far</surname>, <given-names>M.</given-names></string-name>, &amp; <string-name><surname>Bond</surname>, <given-names>H. E.</given-names></string-name> <year>2007</year>, <source>AJ</source>, <volume>133</volume>, <fpage>387</fpage> </mixed-citation> </ref>",
+    "<ref id=\"R2\"> <mixed-citation publication-type=\"journal\"> <string-name><surname>Bessell</surname>, <given-names>M. S.</given-names></string-name>, &amp; <string-name><surname>Brett</surname>, <given-names>J. M.</given-names></string-name> <year>1988</year>, <source>PASP</source>, <volume>100</volume>, <fpage>1134</fpage> </mixed-citation> </ref>",
+    "<ref id=\"R3\"> <mixed-citation publication-type=\"journal\"> <string-name><surname>Bond</surname>, <given-names>H. E.</given-names></string-name> <year>2006</year>, <source>ATel</source>, <volume>966</volume>, <fpage>1</fpage> </mixed-citation> </ref>",
+    "<ref id=\"R4\"> <mixed-citation publication-type=\"journal\"> <string-name><surname>Bond</surname>, <given-names>H. E.</given-names></string-name> <year>2007</year>, <source>ASP Conf. Ser.</source>, <volume>363</volume>, <fpage>130</fpage> </mixed-citation> </ref>",
+    "<ref id=\"R5\"> <mixed-citation publication-type=\"journal\"> <string-name><surname>Bond</surname>, <given-names>H. E.</given-names></string-name>, <string-name><surname>Henden</surname>, <given-names>A.</given-names></string-name>, <string-name><surname>Levay</surname>, <given-names>Z. G.</given-names></string-name>, et al. <year>2003</year>, <source>Nature</source>, <volume>422</volume>, <fpage>405</fpage> </mixed-citation> </ref>",
+    "<ref id=\"R6\"> <mixed-citation publication-type=\"journal\"> <string-name><surname>Brown</surname>, <given-names>N. J.</given-names></string-name>, <string-name><surname>Waagen</surname>, <given-names>E. O.</given-names></string-name>, <string-name><surname>Scovil</surname>, <given-names>C.</given-names></string-name>, et al. <year>2002</year>, <source>IAU Circ.</source>, <volume>7785</volume>, <fpage>1</fpage> </mixed-citation> </ref>",
+    "<ref id=\"R7\"> <mixed-citation publication-type=\"journal\"> <string-name><surname>Cardelli</surname>, <given-names>J. A.</given-names></string-name>, <string-name><surname>Clayton</surname>, <given-names>G. C.</given-names></string-name>, &amp; <string-name><surname>Mathis</surname>, <given-names>J. S.</given-names></string-name> <year>1989</year>, <source>ApJ</source>, <volume>345</volume>, <fpage>245</fpage> </mixed-citation> </ref>",
+    "<ref id=\"R8\"> <mixed-citation publication-type=\"journal\"> <string-name><surname>Casagrande</surname>, <given-names>L.</given-names></string-name>, &amp; <string-name><surname>VandenBerg</surname>, <given-names>D. A.</given-names></string-name> <year>2014</year>, <source>MNRAS</source>, <volume>444</volume>, <fpage>392</fpage> </mixed-citation> </ref>",
+    "<ref id=\"R9\"> <mixed-citation publication-type=\"journal\"> <string-name><surname>Chesneau</surname>, <given-names>O.</given-names></string-name>, <string-name><surname>Millour</surname>, <given-names>F.</given-names></string-name>, <string-name><surname>De Marco</surname>, <given-names>O.</given-names></string-name>, et al. <year>2014</year>, <source>A&amp;A</source>, <volume>569</volume>, <fpage>L3</fpage> </mixed-citation> </ref>",
+    "<ref id=\"R10\"> <mixed-citation publication-type=\"journal\"> <string-name><surname>Crause</surname>, <given-names>L. A.</given-names></string-name>, <string-name><surname>Lawson</surname>, <given-names>W. A.</given-names></string-name>, <string-name><surname>Kilkenny</surname>, <given-names>D.</given-names></string-name>, et al. <year>2003</year>, <source>MNRAS</source>, <volume>341</volume>, <fpage>785</fpage> </mixed-citation> </ref>",
+    "<ref id=\"R11\"> <mixed-citation publication-type=\"journal\"> <string-name><surname>Crause</surname>, <given-names>L. A.</given-names></string-name>, <string-name><surname>Lawson</surname>, <given-names>W. A.</given-names></string-name>, <string-name><surname>Menzies</surname>, <given-names>J. W.</given-names></string-name>, &amp; <string-name><surname>Marang</surname>, <given-names>F.</given-names></string-name> <year>2005</year>, <source>MNRAS</source>, <volume>358</volume>, <fpage>1352</fpage> </mixed-citation> </ref>",
+    "<ref id=\"R12\"> <mixed-citation publication-type=\"journal\"> <string-name><surname>Davies</surname>, <given-names>B.</given-names></string-name>, <string-name><surname>Kudritzki</surname>, <given-names>R.-P.</given-names></string-name>, <string-name><surname>Plez</surname>, <given-names>B.</given-names></string-name>, et al. <year>2013</year>, <source>ApJ</source>, <volume>767</volume>, <fpage>3</fpage> </mixed-citation> </ref>",
+    "<ref id=\"R13\"> <mixed-citation publication-type=\"journal\"> <string-name><surname>Davies</surname>, <given-names>B.</given-names></string-name>, &amp; <string-name><surname>Plez</surname>, <given-names>B.</given-names></string-name> <year>2021</year>, <source>MNRAS</source>, <volume>508</volume>, <fpage>5757</fpage> </mixed-citation> </ref>",
+    "<ref id=\"R14\"> <mixed-citation publication-type=\"journal\"> <string-name><surname>Desidera</surname>, <given-names>S.</given-names></string-name>, &amp; <string-name><surname>Munari</surname>, <given-names>U.</given-names></string-name> <year>2002</year>, <source>IAU Circ.</source>, <volume>7982</volume>, <fpage>1</fpage> </mixed-citation> </ref>",
+    "<ref id=\"R15\"> <mixed-citation publication-type=\"journal\"> <string-name><surname>Evans</surname>, <given-names>A.</given-names></string-name>, <string-name><surname>Geballe</surname>, <given-names>T. R.</given-names></string-name>, <string-name><surname>Rushton</surname>, <given-names>M. T.</given-names></string-name>, et al. <year>2003</year>, <source>MNRAS</source>, <volume>343</volume>, <fpage>1054</fpage> </mixed-citation> </ref>",
+    "<ref id=\"R16\"> <mixed-citation publication-type=\"journal\"> <string-name><surname>Exter</surname>, <given-names>K. M.</given-names></string-name>, <string-name><surname>Cox</surname>, <given-names>N. L. J.</given-names></string-name>, <string-name><surname>Swinyard</surname>, <given-names>B. M.</given-names></string-name>, et al. <year>2016</year>, <source>A&amp;A</source>, <volume>596</volume>, <fpage>A96</fpage> </mixed-citation> </ref>",
+    "<ref id=\"R17\"> <mixed-citation publication-type=\"journal\"> <string-name><surname>Geballe</surname>, <given-names>T. R.</given-names></string-name>, <string-name><surname>Rushton</surname>, <given-names>M. T.</given-names></string-name>, <string-name><surname>Eyres</surname>, <given-names>S. P. S.</given-names></string-name>, et al. <year>2007</year>, <source>A&amp;A</source>, <volume>467</volume>, <fpage>269</fpage> </mixed-citation> </ref>",
+    "<ref id=\"R18\"> <mixed-citation publication-type=\"journal\"> <string-name><surname>Goranskij</surname>, <given-names>V.</given-names></string-name> <year>2006</year>, <source>ATel</source>, <volume>964</volume>, <fpage>1</fpage> </mixed-citation> </ref>",
+    "<ref id=\"R19\"> <mixed-citation publication-type=\"journal\"> <string-name><surname>Goranskij</surname>, <given-names>V. P.</given-names></string-name>, &amp; <string-name><surname>Barsukova</surname>, <given-names>E. A.</given-names></string-name> <year>2008</year>, <source>ATel</source>, <volume>1821</volume>, <fpage>1</fpage> </mixed-citation> </ref>",
+    "<ref id=\"R20\"> <mixed-citation publication-type=\"journal\"> <string-name><surname>Goranskij</surname>, <given-names>V. P.</given-names></string-name>, <string-name><surname>Shugarov</surname>, <given-names>S. Y.</given-names></string-name>, <string-name><surname>Barsukova</surname>, <given-names>E. A.</given-names></string-name>, &amp; <string-name><surname>Kroll</surname>, <given-names>P.</given-names></string-name> <year>2004</year>, <source>Info. Bull. Variable Stars</source>, <volume>5511</volume>, <fpage>1</fpage> </mixed-citation> </ref>",
+    "<ref id=\"R21\"> <mixed-citation publication-type=\"journal\"> <string-name><surname>Goranskij</surname>, <given-names>V. P.</given-names></string-name>, <string-name><surname>Barsukova</surname>, <given-names>E. A.</given-names></string-name>, <string-name><surname>Burenkov</surname>, <given-names>A. N.</given-names></string-name>, et al. <year>2020</year>, <source>Astrophys. Bull.</source>, <volume>75</volume>, <fpage>325</fpage> </mixed-citation> </ref>",
+    "<ref id=\"R22\"> <mixed-citation publication-type=\"journal\"> <string-name><surname>Henden</surname>, <given-names>A. A.</given-names></string-name> <year>2007</year>, <source>ASP Conf. Ser.</source>, <volume>363</volume>, <fpage>3</fpage> </mixed-citation> </ref>",
+    "<ref id=\"R23\"> <mixed-citation publication-type=\"journal\"> <string-name><surname>Henden</surname>, <given-names>A. A.</given-names></string-name>, <string-name><surname>Munari</surname>, <given-names>U.</given-names></string-name>, &amp; <string-name><surname>Schwartz</surname>, <given-names>M.</given-names></string-name> <year>2002</year>, <source>IAU Circ.</source>, <volume>7859</volume>, <fpage>1</fpage> </mixed-citation> </ref>",
+    "<ref id=\"R24\"> <mixed-citation publication-type=\"journal\"> <string-name><surname>Howarth</surname>, <given-names>I. D.</given-names></string-name> <year>2011</year>, <source>MNRAS</source>, <volume>413</volume>, <fpage>1515</fpage> </mixed-citation> </ref>",
+    "<ref id=\"R25\"> <mixed-citation publication-type=\"journal\"> <string-name><surname>Kami\u0144ski</surname>, <given-names>T.</given-names></string-name>, <string-name><surname>Schmidt</surname>, <given-names>M.</given-names></string-name>, <string-name><surname>Tylenda</surname>, <given-names>R.</given-names></string-name>, <string-name><surname>Konacki</surname>, <given-names>M.</given-names></string-name>, &amp; <string-name><surname>Gromadzki</surname>, <given-names>M.</given-names></string-name> <year>2009</year>, <source>A&amp;AS</source>, <volume>182</volume>, <fpage>33</fpage> </mixed-citation> </ref>",
+    "<ref id=\"R26\"> <mixed-citation publication-type=\"journal\"> <string-name><surname>Kami\u0144ski</surname>, <given-names>T.</given-names></string-name>, <string-name><surname>Tylenda</surname>, <given-names>R.</given-names></string-name>, &amp; <string-name><surname>Deguchi</surname>, <given-names>S.</given-names></string-name> <year>2011</year>, <source>A&amp;A</source>, <volume>529</volume>, <fpage>A48</fpage> </mixed-citation> </ref>",
+    "<ref id=\"R27\"> <mixed-citation publication-type=\"journal\"> <string-name><surname>Kami\u0144ski</surname>, <given-names>T.</given-names></string-name>, <string-name><surname>Tylenda</surname>, <given-names>R.</given-names></string-name>, <string-name><surname>Kiljan</surname>, <given-names>A.</given-names></string-name>, et al. <year>2021</year>, <source>A&amp;A</source>, <volume>655</volume>, <fpage>A32</fpage> </mixed-citation> </ref>",
+    "<ref id=\"R28\"> <mixed-citation publication-type=\"journal\"> <string-name><surname>Kimeswenger</surname>, <given-names>S.</given-names></string-name>, <string-name><surname>Lederle</surname>, <given-names>C.</given-names></string-name>, <string-name><surname>Schmeja</surname>, <given-names>S.</given-names></string-name>, &amp; <string-name><surname>Armsdorfer</surname>, <given-names>B.</given-names></string-name> <year>2002</year>, <source>MNRAS</source>, <volume>336</volume>, <fpage>L43</fpage> </mixed-citation> </ref>",
+    "<ref id=\"R29\"> <mixed-citation publication-type=\"journal\"> <string-name><surname>Kipper</surname>, <given-names>T.</given-names></string-name>, <string-name><surname>Klochkova</surname>, <given-names>V. G.</given-names></string-name>, <string-name><surname>Annuk</surname>, <given-names>K.</given-names></string-name>, et al. <year>2004</year>, <source>A&amp;A</source>, <volume>416</volume>, <fpage>1107</fpage> </mixed-citation> </ref>",
+    "<ref id=\"R30\"> <mixed-citation publication-type=\"journal\"> <string-name><surname>Kirkpatrick</surname>, <given-names>J. D.</given-names></string-name>, <string-name><surname>Reid</surname>, <given-names>I. N.</given-names></string-name>, <string-name><surname>Liebert</surname>, <given-names>J.</given-names></string-name>, et al. <year>1999</year>, <source>ApJ</source>, <volume>519</volume>, <fpage>802</fpage> </mixed-citation> </ref>",
+    "<ref id=\"R31\"> <mixed-citation publication-type=\"journal\"> <string-name><surname>Kiss</surname>, <given-names>L. L.</given-names></string-name>, <string-name><surname>Szab\u00f3</surname>, <given-names>G. M.</given-names></string-name>, &amp; <string-name><surname>Bedding</surname>, <given-names>T. R.</given-names></string-name> <year>2006</year>, <source>MNRAS</source>, <volume>372</volume>, <fpage>1721</fpage> </mixed-citation> </ref>",
+    "<ref id=\"R32\"> <mixed-citation publication-type=\"journal\"> <string-name><surname>Kolka</surname>, <given-names>I.</given-names></string-name>, <string-name><surname>Liimets</surname>, <given-names>T.</given-names></string-name>, <string-name><surname>Kankare</surname>, <given-names>E.</given-names></string-name>, <string-name><surname>Pursimo</surname>, <given-names>T.</given-names></string-name>, &amp; <string-name><surname>Datson</surname>, <given-names>J.</given-names></string-name> <year>2009</year>, <source>ATel</source>, <volume>2211</volume>, <fpage>1</fpage> </mixed-citation> </ref>",
+    "<ref id=\"R33\"> <mixed-citation publication-type=\"book\"> <string-name><surname>Levesque</surname>, <given-names>E. M.</given-names></string-name> <year>2017</year>, <source>Astrophysics of Red Supergiants</source> (<publisher-name>IOP Publishing</publisher-name>)</mixed-citation> </ref>",
+    "<ref id=\"R34\"> <mixed-citation publication-type=\"journal\"> <string-name><surname>Levesque</surname>, <given-names>E. M.</given-names></string-name>, <string-name><surname>Massey</surname>, <given-names>P.</given-names></string-name>, <string-name><surname>Olsen</surname>, <given-names>K. A. G.</given-names></string-name>, et al. <year>2005</year>, <source>ApJ</source>, <volume>628</volume>, <fpage>973</fpage> </mixed-citation> </ref>",
+    "<ref id=\"R35\"> <mixed-citation publication-type=\"journal\"> <string-name><surname>Liimets</surname>, <given-names>T.</given-names></string-name>, <string-name><surname>Kolka</surname>, <given-names>I.</given-names></string-name>, &amp; <string-name><surname>Kipper</surname>, <given-names>T.</given-names></string-name> <year>2007</year>, <source>ASP Conf. Ser.</source>, <volume>363</volume>, <fpage>174</fpage> </mixed-citation> </ref>",
+    "<ref id=\"R36\"> <mixed-citation publication-type=\"journal\"> <string-name><surname>Loebman</surname>, <given-names>S. R.</given-names></string-name>, <string-name><surname>Wisniewski</surname>, <given-names>J. P.</given-names></string-name>, <string-name><surname>Schmidt</surname>, <given-names>S. J.</given-names></string-name>, et al. <year>2015</year>, <source>AJ</source>, <volume>149</volume>, <fpage>17</fpage> </mixed-citation> </ref>",
+    "<ref id=\"R37\"> <mixed-citation publication-type=\"journal\"> <string-name><surname>Lomb</surname>, <given-names>N. R.</given-names></string-name> <year>1976</year>, <source>Ap&amp;SS</source>, <volume>39</volume>, <fpage>447</fpage> </mixed-citation> </ref>",
+    "<ref id=\"R38\"> <mixed-citation publication-type=\"journal\"> <string-name><surname>Massey</surname>, <given-names>P.</given-names></string-name> <year>1998</year>, <source>ApJ</source>, <volume>501</volume>, <fpage>153</fpage> </mixed-citation> </ref>",
+    "<ref id=\"R39\"> <mixed-citation publication-type=\"journal\"> <string-name><surname>Mobeen</surname>, <given-names>M. Z.</given-names></string-name>, <string-name><surname>Kami\u0144ski</surname>, <given-names>T.</given-names></string-name>, <string-name><surname>Matter</surname>, <given-names>A.</given-names></string-name>, <string-name><surname>Wittkowski</surname>, <given-names>M.</given-names></string-name>, &amp; <string-name><surname>Paladini</surname>, <given-names>C.</given-names></string-name> <year>2021</year>, <source>A&amp;A</source>, <volume>655</volume>, <fpage>A100</fpage> </mixed-citation> </ref>",
+    "<ref id=\"R40\"> <mixed-citation publication-type=\"journal\"> <string-name><surname>Munari</surname>, <given-names>U.</given-names></string-name>, <string-name><surname>Henden</surname>, <given-names>A.</given-names></string-name>, <string-name><surname>Kiyota</surname>, <given-names>S.</given-names></string-name>, et al. <year>2002</year>, <source>A&amp;A</source>, <volume>389</volume>, <fpage>L51</fpage> </mixed-citation> </ref>",
+    "<ref id=\"R41\"> <mixed-citation publication-type=\"journal\"> <string-name><surname>Munari</surname>, <given-names>U.</given-names></string-name>, <string-name><surname>Henden</surname>, <given-names>A.</given-names></string-name>, <string-name><surname>Vallenari</surname>, <given-names>A.</given-names></string-name>, et al. <year>2005</year>, <source>A&amp;A</source>, <volume>434</volume>, <fpage>1107</fpage> </mixed-citation> </ref>",
+    "<ref id=\"R42\"> <mixed-citation publication-type=\"journal\"> <string-name><surname>Munari</surname>, <given-names>U.</given-names></string-name>, <string-name><surname>Corradi</surname>, <given-names>R. L. M.</given-names></string-name>, <string-name><surname>Henden</surname>, <given-names>A.</given-names></string-name>, et al. <year>2007</year>a, <source>A&amp;A</source>, <volume>474</volume>, <fpage>585</fpage> </mixed-citation> </ref>",
+    "<ref id=\"R43\"> <mixed-citation publication-type=\"journal\"> <string-name><surname>Munari</surname>, <given-names>U.</given-names></string-name>, <string-name><surname>Navasardyan</surname>, <given-names>H.</given-names></string-name>, &amp; <string-name><surname>Villanova</surname>, <given-names>S.</given-names></string-name> <year>2007</year>b, <source>ASP Conf. Ser.</source>, <volume>363</volume>, <fpage>13</fpage> </mixed-citation> </ref>",
+    "<ref id=\"R44\"> <mixed-citation publication-type=\"journal\"> <string-name><surname>Ortiz-Le\u00f3n</surname>, <given-names>G. N.</given-names></string-name>, <string-name><surname>Menten</surname>, <given-names>K. M.</given-names></string-name>, <string-name><surname>Kami\u0144ski</surname>, <given-names>T.</given-names></string-name>, et al. <year>2020</year>, <source>A&amp;A</source>, <volume>638</volume>, <fpage>A17</fpage> </mixed-citation> </ref>",
+    "<ref id=\"R45\"> <mixed-citation publication-type=\"journal\"> <string-name><surname>Pavlenko</surname>, <given-names>Y. V.</given-names></string-name>, <string-name><surname>van Loon</surname>, <given-names>J. T.</given-names></string-name>, <string-name><surname>Evans</surname>, <given-names>A.</given-names></string-name>, et al. <year>2006</year>, <source>A&amp;A</source>, <volume>460</volume>, <fpage>245</fpage> </mixed-citation> </ref>",
+    "<ref id=\"R46\"> <mixed-citation publication-type=\"journal\"> <string-name><surname>Scargle</surname>, <given-names>J. D.</given-names></string-name> <year>1982</year>, <source>ApJ</source>, <volume>263</volume>, <fpage>835</fpage> </mixed-citation> </ref>",
+    "<ref id=\"R47\"> <mixed-citation publication-type=\"journal\"> <string-name><surname>Taniguchi</surname>, <given-names>D.</given-names></string-name>, <string-name><surname>Matsunaga</surname>, <given-names>N.</given-names></string-name>, <string-name><surname>Jian</surname>, <given-names>M.</given-names></string-name>, et al. <year>2021</year>, <source>MNRAS</source>, <volume>502</volume>, <fpage>4210</fpage> </mixed-citation> </ref>",
+    "<ref id=\"R48\"> <mixed-citation publication-type=\"journal\"> <string-name><surname>Tylenda</surname>, <given-names>R.</given-names></string-name> <year>2005</year>, <source>A&amp;A</source>, <volume>436</volume>, <fpage>1009</fpage> </mixed-citation> </ref>",
+    "<ref id=\"R49\"> <mixed-citation publication-type=\"journal\"> <string-name><surname>Tylenda</surname>, <given-names>R.</given-names></string-name>, &amp; <string-name><surname>Kami\u0144ski</surname>, <given-names>T.</given-names></string-name> <year>2012</year>, <source>A&amp;A</source>, <volume>548</volume>, <fpage>A23</fpage> </mixed-citation> </ref>",
+    "<ref id=\"R50\"> <mixed-citation publication-type=\"journal\"> <string-name><surname>Tylenda</surname>, <given-names>R.</given-names></string-name>, <string-name><surname>Kami\u0144ski</surname>, <given-names>T.</given-names></string-name>, &amp; <string-name><surname>Schmidt</surname>, <given-names>M.</given-names></string-name> <year>2009</year>, <source>A&amp;A</source>, <volume>503</volume>, <fpage>899</fpage> </mixed-citation> </ref>",
+    "<ref id=\"R51\"> <mixed-citation publication-type=\"journal\"> <string-name><surname>Tylenda</surname>, <given-names>R.</given-names></string-name>, <string-name><surname>Kami\u0144ski</surname>, <given-names>T.</given-names></string-name>, <string-name><surname>Schmidt</surname>, <given-names>M.</given-names></string-name>, <string-name><surname>Kurtev</surname>, <given-names>R.</given-names></string-name>, &amp; <string-name><surname>Tomov</surname>, <given-names>T.</given-names></string-name> <year>2011</year>, <source>A&amp;A</source>, <volume>532</volume>, <fpage>A138</fpage> </mixed-citation> </ref>",
+    "<ref id=\"R52\"> <mixed-citation publication-type=\"journal\"> <string-name><surname>Wagner</surname>, <given-names>R. M.</given-names></string-name>, &amp; <string-name><surname>Starrfield</surname>, <given-names>S. G.</given-names></string-name> <year>2002</year>, <source>IAU Circ.</source>, <volume>7992</volume>, <fpage>2</fpage> </mixed-citation> </ref>",
+    "<ref id=\"R53\"> <mixed-citation publication-type=\"journal\"> <string-name><surname>Wisniewski</surname>, <given-names>J. P.</given-names></string-name>, <string-name><surname>Clampin</surname>, <given-names>M.</given-names></string-name>, <string-name><surname>Bjorkman</surname>, <given-names>K. S.</given-names></string-name>, &amp; <string-name><surname>Barry</surname>, <given-names>R. K.</given-names></string-name> <year>2008</year>, <source>ApJ</source>, <volume>683</volume>, <fpage>L171</fpage> </mixed-citation> </ref>",
+    "<ref id=\"R54\"> <mixed-citation publication-type=\"journal\"> <string-name><surname>Woodward</surname>, <given-names>C. E.</given-names></string-name>, <string-name><surname>Evans</surname>, <given-names>A.</given-names></string-name>, <string-name><surname>Banerjee</surname>, <given-names>D. P. K.</given-names></string-name>, et al. <year>2021</year>, <source>AJ</source>, <volume>162</volume>, <fpage>183</fpage> </mixed-citation> </ref>",
+    "<ref id=\"R55\"> <mixed-citation publication-type=\"journal\"> <string-name><surname>Worthey</surname>, <given-names>G.</given-names></string-name>, &amp; <string-name><surname>Lee</surname>, <given-names>H.-C.</given-names></string-name> <year>2011</year>, <source>A&amp;AS</source>, <volume>193</volume>, <fpage>1</fpage> </mixed-citation> </ref>"
+  ],
+  "title": {
+    "textEnglish": "V838 Mon: A slow waking up of Sleeping Beauty?",
+    "textNotes": [
+      "\u22c6 Full Tables 2 and 4 and spectra (FITS files) are only available at the CDS via anonymous ftp to cdsarc.cds.unistra.fr (130.79.128.5) or via https://cdsarc.cds.unistra.fr/viz-bin/cat/J/A+A/670/A13"
+    ]
+  }
+}

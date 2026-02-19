@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article PUBLIC " -//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.2 20190208//EN" "JATS-journalpublishing1.dtd">
+
+<article article-type="research-article" xml:lang="en"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">mnrasl</journal-id>
+      <journal-title-group>
+        <journal-title>Monthly Notices of the Royal Astronomical Society: Letters</journal-title>
+        <abbrev-journal-title abbrev-type="pubmed">Mon. Not. R. Astron. Soc: Lett.</abbrev-journal-title>
+        <abbrev-journal-title abbrev-type="publisher">MNRASL</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="ppub">1745-3925</issn>
+      <issn pub-type="epub">1745-3933</issn>
+      <publisher>
+        <publisher-name>Oxford University Press</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.1093/mnrasl/slac044</article-id>
+      <article-id pub-id-type="publisher-id">slac044</article-id>
+      <article-categories>
+        <subj-group subj-group-type="category-toc-heading">
+          <subject>Letter</subject>
+        </subj-group>
+        <subj-group subj-group-type="category-taxonomy-collection">
+          <subject>AcademicSubjects/SCI00020</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>A holistic approach to understand Helium enrichment in Interplanetary coronal mass ejections: New insights</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="given-only">
+            <given-names>Yogesh</given-names>
+          </name>
+          <email xlink:type="simple">yphy22@gmail.com</email>
+          <aff>
+            <institution>Physical Research Laboratory</institution>, Navrangpura, Ahmedabad 380009, <country country="IN">India</country></aff>
+          <aff>
+            <institution>Indian Institute of Technology-Gandhinagar</institution>, Gandhinagar 382055, <country country="IN">India</country></aff>
+          <xref ref-type="corresp" rid="cor1" />
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Chakrabarty</surname>
+            <given-names>D</given-names>
+          </name>
+          <aff>
+            <institution>Physical Research Laboratory</institution>, Navrangpura, Ahmedabad 380009, <country country="IN">India</country></aff>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Srivastava</surname>
+            <given-names>N</given-names>
+          </name>
+          <aff>
+            <institution>Udaipur Solar Observatory, Physical Research Laboratory</institution>, Udaipur 313001, <country country="IN">India</country></aff>
+        </contrib>
+      </contrib-group>
+      <author-notes>
+        <corresp id="cor1">E-mail: <email xlink:type="simple">yphy22@gmail.com</email></corresp>
+      </author-notes>
+      <pub-date pub-type="epub" iso-8601-date="2022-04-27">
+        <day>27</day>
+        <month>04</month>
+        <year>2022</year>
+      </pub-date>
+      <elocation-id>slac044</elocation-id>
+      <supplementary-material id="sup1" content-type="data-supplement" xlink:href="slac044_supplemental_file.pdf" mimetype="text">
+        <label>slac044_Supplemental_File</label>
+      </supplementary-material>
+      <permissions>
+        <copyright-statement>© 2022 The Author(s) Published by Oxford University Press on behalf of the Royal Astronomical Society</copyright-statement>
+        <copyright-year>2022</copyright-year>
+        <license license-type="publisher-standard" xlink:href="https://academic.oup.com/journals/pages/open_access/funder_policies/chorus/standard_publication_model">
+          <license-p>This article is published and distributed under the terms of the Oxford University Press, Standard Journals Publication Model (<ext-link ext-link-type="uri" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://academic.oup.com/journals/pages/open_access/funder_policies/chorus/standard_publication_model">https://academic.oup.com/journals/pages/open_access/funder_policies/chorus/standard_publication_model</ext-link>)</license-p>
+        </license>
+      </permissions>
+      <self-uri xlink:href="slac044.pdf" />
+      <abstract abstract-type="abstract">
+        <title>Abstract</title>
+        <p>Despite helium abundance (<italic>A<sub>He</sub></italic> = <italic>n<sub>H</sub></italic>/<italic>n<sub>He</sub></italic>) is ∼ 8% at the solar photospheric/chromospheric heights, <italic>A<sub>He</sub></italic> can be found to exceed 8% in interplanetary coronal mass ejections (ICMEs) on many occasions. Although various factors like interplanetary shocks, chromospheric evaporation and “sludge removal” have been separately invoked in the past to address the <italic>A<sub>He</sub></italic> enhancements in ICMEs, none of these processes could explain the variability of <italic>A<sub>He</sub></italic> in ICMEs comprehensively. Based on extensive analysis of 275 ICME events, we show that there is a solar activity variation of ICME averaged <italic>A<sub>He</sub></italic> values. We also found that the first ionization potential effect as well as localized coronal heating due to magnetic reconnection are not the major contributing factors for <italic>A<sub>He</sub></italic> enhancements in ICMEs. Investigation on concurrent solar flares and ICME events for 63 cases reveals that chromospheric evaporation in tandem with gravitational settling determine the <italic>A<sub>He</sub></italic> enhancements and variabilities beyond 8% in ICMEs. While chromospheric evaporation releases the helium from chromosphere into the corona, the gravitationally settled helium is thrown out during the ICMEs. We show that the intensity and timing of the preceding flares from the same active region from where the CME erupts are important factors to understand the <italic>A<sub>He</sub></italic> enhancements in ICMEs.</p>
+      </abstract>
+      <kwd-group kwd-group-type="keywords">
+        <kwd>Sun: coronal mass ejections (CMEs)</kwd>
+        <kwd>Sun: Flares</kwd>
+        <kwd>Sun: abundances</kwd>
+        <kwd>solar wind</kwd>
+        <kwd>Sun: activity</kwd>
+      </kwd-group>
+      <custom-meta-group>
+        <custom-meta>
+          <meta-name>edited-state</meta-name>
+          <meta-value>accepted-manuscript</meta-value>
+        </custom-meta>
+        <custom-meta>
+          <meta-name>article-lifecycle</meta-name>
+          <meta-value>PAP</meta-value>
+        </custom-meta>
+      </custom-meta-group>
+    </article-meta>
+  </front>
+</article>

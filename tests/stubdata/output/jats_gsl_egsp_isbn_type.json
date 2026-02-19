@@ -1,0 +1,114 @@
+{
+  "abstract": {
+    "textEnglish": "Swelling and shrinking soils are soils that can experience large changes in volume due to changes in water content. This may be due to seasonal changes in moisture content, local site changes such as leakage from water supply pipes or drains, changes to surface drainage and landscaping, or following the planting, removal or severe pruning of trees or hedges. These soils represent a significant hazard to structural engineers across the world due to their shrink\u2013swell behaviour, with the cost of mitigation alone running into several billion pounds annually. These soils usually contain some form of clay mineral, such as smectite or vermiculite, and can be found in humid and arid/semi-arid environments where their expansive nature can cause significant damage to properties and infrastructure. This chapter discusses the properties and costs associated with shrink\u2013swell soils, their formation and distribution throughout the UK and the rest of the world, and their geological and geotechnical characterization. It also considers the mechanisms of shrink-swell soils and their behaviour, reviewing strategies for managing them in an engineering context, before finally outlining the problem of trees and shrink\u2013swell soils."
+  },
+  "authors": [
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "British Geological Survey, Environmental Science Centre, Nicker Hill, Keyworth, Nottingham, NG12 5GG"
+        }
+      ],
+      "attrib": {
+        "corresp": true,
+        "email": "ldjon@bgs.ac.uk"
+      },
+      "name": {
+        "given_name": "Lee",
+        "surname": "Jones"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "British Geological Survey, Environmental Science Centre, Nicker Hill, Keyworth, Nottingham, NG12 5GG"
+        }
+      ],
+      "name": {
+        "given_name": "Vanessa",
+        "surname": "Banks"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "School of Civil Engineering, University of Birmingham, Edgbaston, Birmingham, B15 2TT"
+        }
+      ],
+      "name": {
+        "given_name": "Ian",
+        "surname": "Jefferson"
+      }
+    }
+  ],
+  "copyright": {
+    "statement": "\u00a9 2020 [BGS \u00a9 UKRI All rights reserved]. Published by The Geological Society of London. All rights reserved",
+    "status": true
+  },
+  "pagination": {
+    "firstPage": "223",
+    "lastPage": "242",
+    "pageRange": "223-242"
+  },
+  "persistentIDs": [
+    {
+      "DOI": "10.1144/EGSP29.8",
+      "ISBN": [
+        {
+          "isbnString": "978-1-78620-464-6",
+          "pubtype": "electronic"
+        },
+        {
+          "isbnString": "978-1-78620-461-5",
+          "pubtype": "print"
+        }
+      ]
+    }
+  ],
+  "pubDate": {
+    "electrDate": "2020-06-09",
+    "printDate": "2020-00-00"
+  },
+  "publication": {
+    "ISSN": [
+      {
+        "issnString": "0267-9914",
+        "pubtype": "ppub"
+      },
+      {
+        "issnString": "2041-4730",
+        "pubtype": "epub"
+      }
+    ],
+    "issueNum": "1",
+    "pubName": "Geological Society, London, Engineering Geology Special Publications",
+    "pubYear": "2020",
+    "publisher": "The Geological Society of London",
+    "volumeNum": "29"
+  },
+  "publisherIDs": [
+    {
+      "Identifier": "EGSP29_8",
+      "attribute": "publisher-id"
+    }
+  ],
+  "recordData": {
+    "createdTime": "",
+    "loadFormat": "JATS",
+    "loadLocation": "",
+    "loadType": "fromFile",
+    "parsedTime": "",
+    "recordOrigin": ""
+  },
+  "references": [
+    "<ref id=\"EGSP29_8C77\"><mixed-citation publication-type=\"book\"><person-group person-group-type=\"editor\"><string-name name-style=\"western\"><surname>Al-Rawas</surname><given-names>A.A.</given-names></string-name> &amp; <string-name name-style=\"western\"><surname>Goosen</surname><given-names>M.F.A.</given-names></string-name></person-group> (eds). <year>2006</year>. <source>Expansive Soils: Recent Advances in Characterization and Treatement</source>. <publisher-name>Taylor &amp; Francis</publisher-name>, <publisher-loc>London</publisher-loc>.</mixed-citation></ref>",
+    "<ref id=\"EGSP29_8C78\"><mixed-citation publication-type=\"journal\"><collab>BRE</collab> <year>1993</year>. <article-title>Low-rise buildings on shrinkable clay soils</article-title>. <source>Building Research Establishment Digests</source>, <volume>240</volume>, <fpage>241</fpage>\u2013<lpage>242</lpage>.</mixed-citation></ref>",
+    "<ref id=\"EGSP29_8C79\"><mixed-citation publication-type=\"other\"><collab>BRAB</collab> <year>1968</year>. <chapter-title>Criteria for selection and design of residential slabs-on-ground</chapter-title>. <publisher-name>Building Regulations Advisory Body</publisher-name>, <publisher-loc>London</publisher-loc>.</mixed-citation></ref>",
+    "<ref id=\"EGSP29_8C80\"><mixed-citation publication-type=\"book\"><string-name name-style=\"western\"><surname>Fredlund</surname><given-names>D.G.</given-names></string-name> &amp; <string-name name-style=\"western\"><surname>Rahardjo</surname><given-names>H.</given-names></string-name> <year>1993</year>. <source>Soil Mechanics for Unsaturated Soils</source>. <publisher-name>Wiley</publisher-name>, <publisher-loc>New York</publisher-loc>.</mixed-citation></ref>",
+    "<ref id=\"EGSP29_8C81\"><mixed-citation publication-type=\"book\"><collab>TRB</collab> <year>1985</year>. <chapter-title>Evaluation and control of expansive soils</chapter-title>. <publisher-name>Transportation Research Board</publisher-name>, <publisher-loc>London</publisher-loc>.</mixed-citation></ref>",
+    "<ref id=\"EGSP29_8C82\"><mixed-citation publication-type=\"book\"><person-group person-group-type=\"editor\"><string-name name-style=\"western\"><surname>Vipulanandan</surname><given-names>C.</given-names></string-name>, <string-name name-style=\"western\"><surname>Addison</surname><given-names>M.B.</given-names></string-name> &amp; <string-name name-style=\"western\"><surname>Hasen</surname><given-names>M.</given-names></string-name></person-group> [eds] <year>2001</year>. <source>Expansive Clay Soils and Vegetative Influence on Shallow Foundations</source>. <series>Geotechnical Special Publication</series> <volume>115</volume>, <publisher-loc>Virginia</publisher-loc>: <publisher-name>American Society of Civil Engineers</publisher-name>.</mixed-citation></ref>"
+  ],
+  "title": {
+    "textEnglish": "Chapter 8 Swelling and shrinking soils"
+  }
+}

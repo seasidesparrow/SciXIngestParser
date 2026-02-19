@@ -1,0 +1,199 @@
+{
+  "abstract": {
+    "textEnglish": "Vortex-induced vibrations on wind turbine blades are a complex phenomenon not predictable by standard engineering models. For this reason, higher-fidelity computational fluid dynamics (CFD) methods are needed. However, the term CFD covers a broad range of fidelities, and this study investigates which choices have to be made when wanting to capture the vortex-induced vibration (VIV) phenomenon to a satisfying degree. The method studied is the so-called forced-motion (FM) approach, where the structural motion is imposed on the CFD blade surface through mode shape assumptions rather than fully coupled two-way fluid\u2013structure interaction. In the study, two independent CFD solvers, EllipSys3D and Ansys CFX, are used and five different turbulence models of varying fidelities are tested. Varying flow scenarios are studied with low to high inclination angles, which determine the component of the flow in the spanwise direction. In all scenarios, the cross-sectional component of the flow is close to perpendicular to the chord of the blade. It is found that the low-inclination-angle and high-inclination-angle scenarios, despite having a difference equivalent to up to only a 30\u2218 azimuth, have quite different requirements of both grid resolution and turbulence models. For high inclination angles, where the flow has a large spanwise component from the tip towards the root, satisfying results are found from quite affordable grid sizes, and even with unsteady Reynolds-averaged Navier\u2013Stokes (URANS) k\u2013\u03c9 turbulence, the result is quite consistent with models resolving more of the turbulent scales. For low inclination, which has a high degree of natural vortex shedding, the picture is the opposite. Here, even for scale-resolving turbulence models, a much finer grid resolution is needed. This allows us to capture the many incoherent vortices, which have a large impact on the coherent vortices, which in turn inject power into the blade or extract power. It is found that a good consistency is seen using different variations of the higher-fidelity hybrid RANS\u2013large eddy simulation (LES) turbulence models, like improved delayed detached eddy simulation (IDDES), stress-blended eddy simulation (SBES) and k\u2013\u03c9 scale-adaptive simulation (SAS) models, which agree well for various flow conditions and imposed amplitudes. This study shows that extensive care and consideration are needed when modeling 3D VIVs using CFD, as the flow phenomena, and thereby solver requirements, rapidly change for different scenarios."
+  },
+  "authors": [
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Department of Wind and Energy Systems, Technical University of Denmark, 2800, Kongens Lyngby, Denmark"
+        }
+      ],
+      "attrib": {
+        "email": "cgrinde@dtu.dk",
+        "orcid": "0000-0003-3095-9733"
+      },
+      "name": {
+        "given_name": "Christian",
+        "pubraw": "Christian Grinderslev",
+        "surname": "Grinderslev"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Siemens Gamesa Renewable Energy, Prinses Beatrixlaan 800, 2595BN The Hague, the Netherlands"
+        }
+      ],
+      "attrib": {
+        "email": "felix.houtin.ext@siemensgamesa.com"
+      },
+      "name": {
+        "given_name": "Felix",
+        "pubraw": "Felix Houtin-Mongrolle",
+        "surname": "Houtin-Mongrolle"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Department of Wind and Energy Systems, Technical University of Denmark, Ris\u00f8 Campus, 4000, Roskilde, Denmark"
+        }
+      ],
+      "attrib": {
+        "email": "nsqr@dtu.dk"
+      },
+      "name": {
+        "given_name": "Niels",
+        "pubraw": "Niels N\u00f8rmark S\u00f8rensen",
+        "surname": "N\u00f8rmark S\u00f8rensen"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Department of Wind and Energy Systems, Technical University of Denmark, Ris\u00f8 Campus, 4000, Roskilde, Denmark"
+        }
+      ],
+      "attrib": {
+        "email": "gepir@dtu.dk",
+        "orcid": "0000-0001-9260-1791"
+      },
+      "name": {
+        "given_name": "Georg",
+        "pubraw": "Georg Raimund Pirrung",
+        "surname": "Raimund Pirrung"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Siemens Gamesa Renewable Energy, Prinses Beatrixlaan 800, 2595BN The Hague, the Netherlands"
+        }
+      ],
+      "attrib": {
+        "email": "pim.jacobs.ext@siemensgamesa.com"
+      },
+      "name": {
+        "given_name": "Pim",
+        "pubraw": "Pim Jacobs",
+        "surname": "Jacobs"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Siemens Gamesa Renewable Energy, 685 Avenue de l'Universit\u00e9, Saint-\u00c9tienne-du-Rouvray, 76801, France"
+        }
+      ],
+      "attrib": {
+        "email": "aqeel.ahmed@siemensgamesa.com",
+        "orcid": "0000-0001-5371-9834"
+      },
+      "name": {
+        "given_name": "Aqeel",
+        "pubraw": "Aqeel Ahmed",
+        "surname": "Ahmed"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Siemens Gamesa Renewable Energy, 685 Avenue de l'Universit\u00e9, Saint-\u00c9tienne-du-Rouvray, 76801, France"
+        }
+      ],
+      "attrib": {
+        "email": "bastien.duboc@siemensgamesa.com"
+      },
+      "name": {
+        "given_name": "Bastien",
+        "pubraw": "Bastien Duboc",
+        "surname": "Duboc"
+      }
+    }
+  ],
+  "esources": [
+    {
+      "location": "https://wes.copernicus.org/articles/8/1625/2023/wes-8-1625-2023.pdf",
+      "source": "pub_pdf"
+    },
+    {
+      "location": "https://wes.copernicus.org/articles/8/1625/2023/wes-8-1625-2023.html",
+      "source": "pub_html"
+    }
+  ],
+  "pagination": {
+    "electronicID": "83",
+    "firstPage": "1625",
+    "lastPage": "1638"
+  },
+  "persistentIDs": [
+    {
+      "DOI": "10.5194/wes-8-1625-2023"
+    }
+  ],
+  "pubDate": {
+    "electrDate": "2023-10-27",
+    "printDate": "2023-10-27"
+  },
+  "publication": {
+    "ISSN": [
+      {
+        "issnString": "2366-7443",
+        "pubtype": "print"
+      },
+      {
+        "issnString": "2366-7451",
+        "pubtype": "electronic"
+      }
+    ],
+    "pubName": "Wind Energy Science",
+    "pubYear": "2023",
+    "volumeNum": "8"
+  },
+  "recordData": {
+    "createdTime": "",
+    "loadFormat": "Copernicus",
+    "loadLocation": "",
+    "loadType": "fromFile",
+    "parsedTime": "",
+    "recordOrigin": ""
+  },
+  "references": [
+    "<reference content_type=\"text\" numeration=\"1\">Bortolotti, P., Canet Tarr\u00e9s, H., Dykes, K., Merz, K., Sethuraman, L., Verelst, D., and Zahle, F.: Systems Engineering in Wind Energy \u2013 WP2.1 Reference Wind Turbines, Tech. rep., National Renewable Energy Laboratory (NREL), &lt;a href=\"https://www.osti.gov/biblio/1529216-iea-wind-tcp-task-systems-engineering-wind-energy-wp2-reference-wind-turbines\"&gt;https://www.osti.gov/biblio/1529216-iea-wind-tcp-task-systems-engineering-wind-energy-wp2-reference-wind-turbines&lt;/a&gt; (last access: 24\u00a0October\u00a02023), 2019.\u2002&lt;a href=\"#xref_paren.10\"&gt;a&lt;/a&gt;, &lt;a href=\"#xref_text.14\"&gt;b&lt;/a&gt;</reference>",
+    "<reference content_type=\"text\" numeration=\"2\">CFX, A.: Modeling guide, Release 21R2, &lt;span class=\"uri\"&gt;https://dl.cfdexperts.net/cfd_resources/Ansys_Documentation/CFX/Ansys_CFX-Solver_Modeling_Guide.pdf&lt;/span&gt; (last access: 24\u00a0October\u00a02023), 2021.\u2002&lt;a href=\"#xref_altparen.9\"&gt;a&lt;/a&gt;, &lt;a href=\"#xref_paren.25\"&gt;b&lt;/a&gt;</reference>",
+    "<reference content_type=\"text\" numeration=\"3\">CFX-Solver, A.: Theory guide, Release 21R2, &lt;span class=\"uri\"&gt;https://dl.cfdexperts.net/cfd_resources/Ansys_Documentation/CFX/Ansys_CFX-Solver_Theory_Guide.pdf&lt;/span&gt; (last access: 24\u00a0October\u00a02023), 2021.\u2002&lt;a href=\"#xref_paren.26\"&gt;a&lt;/a&gt;</reference>",
+    "<reference content_type=\"text\" numeration=\"4\">DTU Computing Center: DTU Computing Center resources, &lt;a href=\"https://doi.org/10.48714/DTU.HPC.0001\"&gt;https://doi.org/10.48714/DTU.HPC.0001&lt;/a&gt;, 2021. \u2002&lt;a href=\"#xref_paren.46\"&gt;a&lt;/a&gt;</reference>",
+    "<reference content_type=\"text\" numeration=\"5\">Egorov, Y., Menter, F., Lechner, R., and Cokljat, D.: The scale-adaptive simulation method for unsteady turbulent flow predictions. part 2: Application to complex flows, Flow, Turbulence and Combustion, 85, 139\u2013165, &lt;a href=\"https://doi.org/10.1007/s10494-010-9265-4\"&gt;https://doi.org/10.1007/s10494-010-9265-4&lt;/a&gt;, 2010.\u2002&lt;a href=\"#xref_paren.29\"&gt;a&lt;/a&gt;, &lt;a href=\"#xref_paren.35\"&gt;b&lt;/a&gt;</reference>",
+    "<reference content_type=\"text\" numeration=\"6\">Grinderslev, C., N\u00f8rmark S\u00f8rensen, N., Raimund Pirrung, G., and Gonz\u00e1lez Horcas, S.: Multiple limit cycle amplitudes in high-fidelity predictions of standstill wind turbine blade vibrations, Wind Energ. Sci., 7, 2201\u20132213, &lt;a href=\"https://doi.org/10.5194/wes-7-2201-2022\"&gt;https://doi.org/10.5194/wes-7-2201-2022&lt;/a&gt;, 2022.\u2002&lt;a href=\"#xref_text.4\"&gt;a&lt;/a&gt;, &lt;a href=\"#xref_text.12\"&gt;b&lt;/a&gt;, &lt;a href=\"#xref_paren.13\"&gt;c&lt;/a&gt;, &lt;a href=\"#xref_text.16\"&gt;d&lt;/a&gt;, &lt;a href=\"#xref_paren.24\"&gt;e&lt;/a&gt;, &lt;a href=\"#xref_text.38\"&gt;f&lt;/a&gt;, &lt;a href=\"#xref_paren.40\"&gt;g&lt;/a&gt;</reference>",
+    "<reference content_type=\"text\" numeration=\"7\">Gritskevich, M.\u00a0S., Garbaruk, A.\u00a0V., Sch\u00fctze, J., and Menter, F.\u00a0R.: Development of DDES and IDDES formulations for the k-&lt;span class=\"inline-formula\"&gt;&lt;i&gt;\u03c9&lt;/i&gt;&lt;/span&gt; shear stress transport model, Flow, Turbulence and Combustion, 88, 431\u2013449, &lt;a href=\"https://doi.org/10.1007/s10494-011-9378-4\"&gt;https://doi.org/10.1007/s10494-011-9378-4&lt;/a&gt;, 2012.\u2002&lt;a href=\"#xref_paren.20\"&gt;a&lt;/a&gt;, &lt;a href=\"#xref_paren.34\"&gt;b&lt;/a&gt;</reference>",
+    "<reference content_type=\"text\" numeration=\"8\">Hansen, M.\u00a0H.: Aeroelastic stability analysis of wind turbines using an eigenvalue approach, Wind Energy, 7, 133\u2013143, &lt;a href=\"https://doi.org/10.1002/we.116\"&gt;https://doi.org/10.1002/we.116&lt;/a&gt;, 2004.\u2002&lt;a href=\"#xref_paren.15\"&gt;a&lt;/a&gt;, &lt;a href=\"#xref_paren.39\"&gt;b&lt;/a&gt;</reference>",
+    "<reference content_type=\"text\" numeration=\"9\">Heinz, J., S\u00f8rensen, N., and Zahle, F.: Fluid-structure interaction computations for geometrically resolved rotor simulations using CFD, Wind Energy, 19, 2205\u20132221, 2016.\u2002&lt;a href=\"#xref_text.41\"&gt;a&lt;/a&gt;</reference>",
+    "<reference content_type=\"text\" numeration=\"10\">Horcas, S.\u00a0G., Barlas, T., Zahle, F., and S\u00f8rensen, N.: Vortex induced vibrations of wind turbine blades: Influence of the tip geometry, Phys. Fluids, 32, 065104, &lt;a href=\"https://doi.org/10.1063/5.0004005\"&gt;https://doi.org/10.1063/5.0004005&lt;/a&gt;, 2020.\u2002&lt;a href=\"#xref_text.1\"&gt;a&lt;/a&gt;, &lt;a href=\"#xref_text.3\"&gt;b&lt;/a&gt;, &lt;a href=\"#xref_text.5\"&gt;c&lt;/a&gt;, &lt;a href=\"#xref_paren.24\"&gt;d&lt;/a&gt;</reference>",
+    "<reference content_type=\"text\" numeration=\"11\">Horcas, S.\u00a0G., Madsen, M., S\u00f8rensen, N.N.\u00a0Zahle, F., and Barlas, T.: Influence of the installation of a trailing edge flap on the vortex induced vibrations of a wind turbine blade, J. Wind. Eng. Ind. Aerod., 229, 105118, &lt;a href=\"https://doi.org/10.1016/j.jweia.2022.105118\"&gt;https://doi.org/10.1016/j.jweia.2022.105118&lt;/a&gt;, 2022a.\u2002&lt;a href=\"#xref_text.1\"&gt;a&lt;/a&gt;, &lt;a href=\"#xref_text.3\"&gt;b&lt;/a&gt;, &lt;a href=\"#xref_text.5\"&gt;c&lt;/a&gt;</reference>",
+    "<reference content_type=\"text\" numeration=\"12\">Horcas, S.\u00a0G., S\u00f8rensen, N., Zahle, F., Pirrung, G.\u00a0R., and Barlas, T.: Vibrations of wind turbine blades in standstill: Mapping the influence of the inflow angles, Phys. Fluids, 34, 054105, &lt;a href=\"https://doi.org/10.1063/5.0088036\"&gt;https://doi.org/10.1063/5.0088036&lt;/a&gt;, 2022b.\u2002&lt;a href=\"#xref_text.1\"&gt;a&lt;/a&gt;, &lt;a href=\"#xref_text.2\"&gt;b&lt;/a&gt;, &lt;a href=\"#xref_text.11\"&gt;c&lt;/a&gt;, &lt;a href=\"#xref_paren.13\"&gt;d&lt;/a&gt;, &lt;a href=\"#xref_paren.17\"&gt;e&lt;/a&gt;, &lt;a href=\"#xref_paren.24\"&gt;f&lt;/a&gt;, &lt;a href=\"#xref_text.42\"&gt;g&lt;/a&gt;, &lt;a href=\"#xref_text.43\"&gt;h&lt;/a&gt;, &lt;a href=\"#xref_text.44\"&gt;i&lt;/a&gt;</reference>",
+    "<reference content_type=\"text\" numeration=\"13\">Hu, P., Sun, C., Zhu, X., and Du, Z.: Investigations on vortex-induced vibration of a wind turbine airfoil at a high angle of attack via modal analysis, J. Renew. Sustain. Ener., 13, 033306, &lt;a href=\"https://doi.org/10.1063/5.0040509\"&gt;https://doi.org/10.1063/5.0040509&lt;/a&gt;, 2021.\u2002&lt;a href=\"#xref_paren.7\"&gt;a&lt;/a&gt;</reference>",
+    "<reference content_type=\"text\" numeration=\"14\">IEA\u00a0Wind\u00a0Task\u00a037: IEA-10.0-198-RWT, GitHub [code], &lt;span class=\"uri\"&gt;https://github.com/IEAWindTask37/IEA-10.0-198-RWT&lt;/span&gt; (last access: 26\u00a0October\u00a02023), 2023.\u2002&lt;a href=\"#xref_paren.45\"&gt;a&lt;/a&gt;</reference>",
+    "<reference content_type=\"text\" numeration=\"15\">Jasak, H., Weller, H., and Gosman, A.: High resolution NVD differencing scheme for arbitrarily unstructured meshes, Int. J. Numer. Meth. Fl., 31, 431\u2013449, 1999.\u2002&lt;a href=\"#xref_paren.32\"&gt;a&lt;/a&gt;</reference>",
+    "<reference content_type=\"text\" numeration=\"16\">Leonard, B.: The ULTIMATE conservative difference scheme applied to unsteady one-dimensional advection, Comput. Method. Appl. M., 88, 17\u201374, 1991.\u2002&lt;a href=\"#xref_paren.31\"&gt;a&lt;/a&gt;</reference>",
+    "<reference content_type=\"text\" numeration=\"17\">Menter, F.: Zonal Two Equation Kappa\u2013Omega Turbulence Models for Aerodynamic Flows, in: 23rd\u00a0Fluid Dynamics, Plasmadynamics, and Lasers Conference, 6\u20139\u00a0July\u00a01993, Orlando, FL, USA, &lt;a href=\"https://doi.org/10.2514/6.1993-2906\"&gt;https://doi.org/10.2514/6.1993-2906&lt;/a&gt;, 1993.\u2002&lt;a href=\"#xref_paren.19\"&gt;a&lt;/a&gt;, &lt;a href=\"#xref_paren.28\"&gt;b&lt;/a&gt;, &lt;a href=\"#xref_paren.33\"&gt;c&lt;/a&gt;</reference>",
+    "<reference content_type=\"text\" numeration=\"18\">Menter, F.: Stress-Blended Eddy Simulation (SBES) \u2013 A New Paradigm in Hybrid RANS-LES Modeling, in: Progress in Hybrid RANS-LES Modelling, edited by: Hoarau, Y., Peng, S.-H., Schwamborn, D., and Revell, A., 27\u201337, Springer International Publishing, Cham, &lt;a href=\"https://doi.org/10.1007/978-3-319-70031-1_3\"&gt;https://doi.org/10.1007/978-3-319-70031-1_3&lt;/a&gt;, 2018. \u2002&lt;a href=\"#xref_paren.30\"&gt;a&lt;/a&gt;, &lt;a href=\"#xref_paren.36\"&gt;b&lt;/a&gt;</reference>",
+    "<reference content_type=\"text\" numeration=\"19\">Menter, F., Kuntz, M., and Langtry, R.: Ten Years of Industrial Experience with the SST Turbulence Model, in: Proceedings of the 4th\u00a0International Symposium on Turbulence, Heat and Mass Transfer, Begell House Inc., West Redding,  625\u2013632, 2003.\u2002&lt;a href=\"#xref_paren.34\"&gt;a&lt;/a&gt;</reference>",
+    "<reference content_type=\"text\" numeration=\"20\">Michelsen, J.: Basis3D \u2013 A Platform for Development of Multiblock PDE Solvers., Tech. rep., Ris\u00f8 National Laboratory, &lt;span class=\"uri\"&gt;https://backend.orbit.dtu.dk/ws/portalfiles/portal/272917945/Michelsen_J_Basis3D.pdf&lt;/span&gt; (last access: 24\u00a0October\u00a02023), 1992.\u2002&lt;a href=\"#xref_paren.8\"&gt;a&lt;/a&gt;, &lt;a href=\"#xref_paren.18\"&gt;b&lt;/a&gt;</reference>",
+    "<reference content_type=\"text\" numeration=\"21\">Michelsen, J.: Block Structured Multigrid Solution of 2D and 3D Elliptic PDE's., Tech. rep., Technical University of Denmark, 1994.\u2002&lt;a href=\"#xref_paren.18\"&gt;a&lt;/a&gt;</reference>",
+    "<reference content_type=\"text\" numeration=\"22\">Paz, M.: Structural dynamics: theory and computation, Springer Science &amp;amp; Business Media, &lt;a href=\"https://doi.org/10.1007/978-3-319-94743-3\"&gt;https://doi.org/10.1007/978-3-319-94743-3&lt;/a&gt;, 2012.\u2002&lt;a href=\"#xref_text.37\"&gt;a&lt;/a&gt;</reference>",
+    "<reference content_type=\"text\" numeration=\"23\">Placzek, A., Sigrist, J.\u00a0F., and Hamdouni, A.: Numerical simulation of an oscillating cylinder in a cross-flow at low Reynolds number: Forced and free oscillations, Computers and Fluids, 38, 80\u2013100, &lt;a href=\"https://doi.org/10.1016/j.compfluid.2008.01.007\"&gt;https://doi.org/10.1016/j.compfluid.2008.01.007&lt;/a&gt;, 2009.\u2002&lt;a href=\"#xref_paren.6\"&gt;a&lt;/a&gt;</reference>",
+    "<reference content_type=\"text\" numeration=\"24\">Raw, M.: Robustness of coupled algebraic multigrid for the Navier-Stokes equations, in: 34th Aerospace sciences meeting and exhibit, American Institute of Aeronautics and Astronautics, p.\u00a0297, &lt;a href=\"https://doi.org/10.2514/6.1996-297\"&gt;https://doi.org/10.2514/6.1996-297&lt;/a&gt;, 1996.\u2002&lt;a href=\"#xref_paren.27\"&gt;a&lt;/a&gt;</reference>",
+    "<reference content_type=\"text\" numeration=\"25\">Riva, R., Horcas, S.\u00a0G., S\u00f8rensen, N.\u00a0N., Grinderslev, C., and Pirrung, G.\u00a0R.: Stability analysis of vortex-induced vibrations on wind turbines, J. Phys. Conf. Ser., 2265, 042054, &lt;a href=\"https://doi.org/10.1088/1742-6596/2265/4/042054\"&gt;https://doi.org/10.1088/1742-6596/2265/4/042054&lt;/a&gt;, 2022.\u2002&lt;a href=\"#xref_paren.17\"&gt;a&lt;/a&gt;</reference>",
+    "<reference content_type=\"text\" numeration=\"26\">Shur, M.\u00a0L., Spalart, P.\u00a0R., Strelets, M.\u00a0K., and Travin, A.\u00a0K.: A hybrid RANS-LES approach with delayed-DES and wall-modelled LES capabilities, Int. J. Heat Fluid Fl., 29, 1638\u20131649, &lt;a href=\"https://doi.org/10.1016/j.ijheatfluidflow.2008.07.001\"&gt;https://doi.org/10.1016/j.ijheatfluidflow.2008.07.001&lt;/a&gt;, 2008.\u2002&lt;a href=\"#xref_paren.34\"&gt;a&lt;/a&gt;</reference>",
+    "<reference content_type=\"text\" numeration=\"27\">Skrzypi\u0144ski, W., Gaunaa, M., S\u00f8rensen, N., Zahle, F., and Heinz, J.: Vortex-induced vibrations of a DU96-W-180 airfoil at 90&lt;span class=\"inline-formula\"&gt;&lt;sup&gt;\u2218&lt;/sup&gt;&lt;/span&gt; angle of attack, Wind Energy, 17, 1495\u20131514, &lt;a href=\"https://doi.org/10.1002/we.1647\"&gt;https://doi.org/10.1002/we.1647&lt;/a&gt;, 2014.\u2002&lt;a href=\"#xref_paren.7\"&gt;a&lt;/a&gt;</reference>",
+    "<reference content_type=\"text\" numeration=\"28\">Strelets, M.: Detached eddy simulation of massively separated flows, 39th Aerospace Sciences Meeting and Exhibit, American Institute of Aeronautics and Astronautics, &lt;a href=\"https://doi.org/10.2514/6.2001-879\"&gt;https://doi.org/10.2514/6.2001-879&lt;/a&gt;, 2001.\u2002&lt;a href=\"#xref_text.21\"&gt;a&lt;/a&gt;</reference>",
+    "<reference content_type=\"text\" numeration=\"29\">S\u00f8rensen, N.: General purpose flow solver applied to flow over hills, PhD\u00a0thesis, Ris\u00f8 National Laboratory, &lt;span class=\"uri\"&gt;https://backend.orbit.dtu.dk/ws/portalfiles/portal/12280331/Ris_R_827.pdf&lt;/span&gt; (last access: 24\u00a0October\u00a02023), 1995.\u2002&lt;a href=\"#xref_paren.8\"&gt;a&lt;/a&gt;, &lt;a href=\"#xref_paren.18\"&gt;b&lt;/a&gt;</reference>",
+    "<reference content_type=\"text\" numeration=\"30\">S\u00f8rensen, N.: HypGrid2D. A 2-d mesh generator, Tech. rep., Ris\u00f8 National Laboratory, ISBN\u00a087-550-2368-1, &lt;span class=\"uri\"&gt;https://backend.orbit.dtu.dk/ws/portalfiles/portal/7750949/RIS_R_1035.pdf&lt;/span&gt; (last access: 24\u00a0October\u00a02023), 1998.\u2002&lt;a href=\"#xref_paren.23\"&gt;a&lt;/a&gt;</reference>",
+    "<reference content_type=\"text\" numeration=\"31\">Vir\u00e9, A., Derksen, A., Folkersma, M., and Sarwar, K.: Two-dimensional numerical simulations of vortex-induced vibrations for a cylinder in conditions representative of wind turbine towers, Wind Energ. Sci., 5, 793\u2013806, &lt;a href=\"https://doi.org/10.5194/wes-5-793-2020\"&gt;https://doi.org/10.5194/wes-5-793-2020&lt;/a&gt;, 2020.\u2002&lt;a href=\"#xref_paren.6\"&gt;a&lt;/a&gt;</reference>",
+    "<reference content_type=\"text\" numeration=\"32\">Zahle, F.: PGL \u2013 Parametric Geometry Library, &lt;span class=\"uri\"&gt;https://gitlab.windenergy.dtu.dk/frza/PGL&lt;/span&gt; (last access: 24\u00a0October\u00a02023), 2022.\u2002&lt;a href=\"#xref_paren.22\"&gt;a&lt;/a&gt;</reference>"
+  ],
+  "title": {
+    "textEnglish": "Forced-Motion Simulations Of Vortex-Induced Vibrations Of Wind Turbine Blades \u2013 A Study Of Sensitivities"
+  }
+}

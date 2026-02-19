@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component xmlns="http://www.wiley.com/namespaces/wiley" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:wiley="http://www.wiley.com/namespaces/wiley/wiley" type="serialArticle" version="1.0.3" xml:lang="en" xml:id="jgra12057">
+<header>
+<publicationMeta level="product">
+<doi>10.1002/(ISSN)2156-2202a</doi>
+<issn type="print">0148-0227</issn>
+<issn type="electronic">2156-2202</issn>
+<idGroup>
+<id type="product" value="JGRA"/>
+<id type="coden" value="JGREA2"/>
+</idGroup>
+<titleGroup>
+<title type="main" xml:lang="en" sort="JOURNAL OF GEOPHYSICAL RESEARCH: SPACE PHYSICS">Journal of Geophysical Research: Space Physics</title>
+<title type="short">J. Geophys. Res.</title>
+</titleGroup>
+</publicationMeta>
+<publicationMeta level="part" position="90">
+<doi>10.1002/jgra.v99.A9</doi>
+<idGroup>
+<id type="focusSection" value="1"/>
+</idGroup>
+<titleGroup>
+<title type="focusSection" xml:lang="en">Journal of Geophysical Research: Space Physics</title>
+</titleGroup>
+<numberingGroup>
+<numbering type="journalVolume" number="99">99</numbering>
+<numbering type="journalIssue">A9</numbering>
+</numberingGroup>
+<coverDate startDate="1994-09-01">1 September 1994</coverDate>
+</publicationMeta>
+<publicationMeta level="unit" type="article" position="80" status="forIssue">
+<doi>10.1029/94JA01259</doi>
+<idGroup>
+<id type="editorialOffice" value="94JA01259"/>
+<id type="unit" value="JGRA12057"/>
+</idGroup>
+<countGroup>
+<count type="pageTotal" number="15"/>
+</countGroup>
+<titleGroup>
+<title type="articleCategory">Papers on Magnetospheric Physics: Regular Papers</title>
+<title type="tocHeading1">Papers on Magnetospheric Physics</title>
+<title type="tocHeading2">Regular Papers</title>
+</titleGroup>
+<copyright ownership="thirdParty">Copyright 1994 by the American Geophysical Union.</copyright>
+<eventGroup>
+    <event type="manuscriptReceived" date="1993-05-24"/>
+    <event type="manuscriptAccepted" date="1994-05-12"/>
+    <event type="publishedPrint" date="1994-09-01"/>
+    <event type="firstOnline" date="2012-09-20"/>
+    <event type="publishedOnlineFinalForm" date="2012-09-20"/>
+    <event type="xmlConverted" agent="SPi Global Converter:AGUv1.0_TO_WileyML3Gv1.0.3 version:1.2; WileyML 3G Packaging Tool v1.0" date="2012-12-01"/>
+    <event type="xmlConverted" agent="Converter:WML3G_To_WML3G version:3.4.5" date="2013-03-05"/>
+</eventGroup>
+<numberingGroup>
+<numbering type="pageFirst">17259</numbering>
+<numbering type="pageLast">17273</numbering>
+</numberingGroup>
+<subjectInfo>
+IONOSPHERE
+<subjectInfo>
+Plasma convection
+Plasma waves and instabilities
+Wave/particle interactions
+</subjectInfo>
+MAGNETOSPHERIC PHYSICS
+<subjectInfo>
+Plasma convection
+Plasma waves and instabilities
+</subjectInfo>
+RADIO SCIENCE
+<subjectInfo>
+Waves in plasma
+</subjectInfo>
+SPACE PLASMA PHYSICS
+<subjectInfo>
+Wave/particle interactions
+</subjectInfo>
+</subjectInfo>
+<selfCitationGroup>
+<citation xml:id="jgra12057-cit-0000" type="self"><author><familyName>Horne</familyName>, <givenNames>R. B.</givenNames></author>, and <author><givenNames>R. M.</givenNames> <familyName>Thorne</familyName></author> (<pubYear year="1994">1994</pubYear>), <articleTitle>Convective instabilities of electromagnetic ion cyclotron waves in the outer magnetosphere</articleTitle>, <journalTitle>J. Geophys. Res.</journalTitle>, <vol>99</vol>(<issue>A9</issue>), <pageFirst>17259</pageFirst>–<pageLast>17273</pageLast>, doi:<accessionId ref="info:doi/10.1029/94JA01259">10.1029/94JA01259</accessionId>.</citation>
+</selfCitationGroup>
+
+</publicationMeta>
+<contentMeta>
+<titleGroup>
+<title type="main">Convective instabilities of electromagnetic ion cyclotron waves in the outer magnetosphere</title>
+<title type="shortAuthors">Horne and Thorne</title>
+</titleGroup>
+<creators>
+<creator xml:id="jgra12057-cr-0001">
+<personName><givenNames>Richard B.</givenNames><familyName>Horne</familyName></personName>
+</creator>
+<creator xml:id="jgra12057-cr-0002">
+<personName><givenNames>Richard M.</givenNames><familyName>Thorne</familyName></personName>
+</creator>
+</creators>
+<abstractGroup>
+<abstract type="main">
+<p xml:id="jgra12057-para-0001">The path‐integrated linear growth of electromagnetic ion cyclotron waves in the outer (<i>L</i> ≥ 7) magnetosphere is investigated using a realistic thermal plasma distribution with an additional anisotropic energetic ring current H<sup>+</sup> to provide free energy for instability. The results provide a realistic simulation of the recent AMPTE observations. For conditions typical of the dayside magnetosphere, high plasma beta effects reduce the group velocity and significantly increase the spatial growth rates for left‐hand polarized instabilities just below the helium gyrofrequency ΩHe<sup>+</sup>, and on the unguided mode above Ω&gt;He<sup>+</sup> but below the cross over frequency ω<i>cr</i>. Relatively high densities, typical of the afternoon local time sector, favor these low group velocity effects for predominantly field‐aligned waves. Lower densities, typical of those found in the early morning local time sector, increase the group velocity but allow strong convective instabilities at high normalized frequencies well above ΩHe<sup>+</sup>. These waves are reflected in the magnetosphere and can exist for several equatorial transits without significant damping. They are left‐hand polarized only on the first equatorial crossing and become linearly polarized for the remainder of the ray path. Consequently, these waves should be observed with basically linear polarization at all frequencies and all latitudes in the early morning local time sector. Wave growth below ΩHe<sup>+</sup> is severely limited owing to the narrow bandwidth for instability and the small resonant path lengths. In the afternoon sector, where plasma densities can exceed 10<sup>7</sup> m<sup>−3</sup>, intense convective amplification is possible both above and below ΩHe<sup>+</sup>. Waves below ΩHe<sup>+</sup> are not subject to reflection when the O<sup>+</sup> concentration is small and therefore should be observed with left‐hand polarization near the equator and essentially linear polarization at higher latitudes. Since the He<sup>+</sup> concentration is usually large in the afternoon sector, guided mode waves above ΩHe<sup>+</sup> reflect to form a background distribution with basically linear polarization. We suggest that the strong left‐hand polarized emissions observed by AMPTE in the afternoon sector near the equator are probably due to strongly growing low group velocity waves at frequencies just below ΩHe<sup>+</sup>, and on the unguided mode above ΩHe<sup>+</sup>.</p>
+</abstract>
+</abstractGroup>
+</contentMeta>
+</header>
+<body>
+<bibliography style="nameDate" xml:id="jgra12057-bibl-0001" cited="no">
+<title type="main">References</title>
+<bib xml:id="jgra12057-bib-0001">
+<citation type="journal" xml:id="jgra12057-cit-0001"><author><familyName>Anderson</familyName>, <givenNames>B. J.</givenNames></author>, <author><givenNames>D. C.</givenNames> <familyName>Hamilton</familyName></author>, <articleTitle>Electromagnetic ion cyclotron waves stimulated by modest magnetospheric compressions</articleTitle>, <journalTitle>J. Geophys. Res.</journalTitle>, <vol>98</vol><issue>11</issue>, <pageFirst>369</pageFirst>, <pubYear year="1993">1993</pubYear>.</citation>
+</bib>
+<bib xml:id="jgra12057-bib-0002">
+<citation type="journal" xml:id="jgra12057-cit-0002"><author><familyName>Anderson</familyName>, <givenNames>B. J.</givenNames></author>, <author><givenNames>K.</givenNames> <familyName>Takahashi</familyName></author>, <author><givenNames>R. E.</givenNames> <familyName>Erlandson</familyName></author>, <author><givenNames>L. J.</givenNames> <familyName>Zanetti</familyName></author>, <articleTitle>Pc1 pulsations observed by AMPTE/CCE in the Earth's outer magnetosphere</articleTitle>, <journalTitle>Geophys. Res. Lett.</journalTitle>, <vol>17</vol>, <pageFirst>1853</pageFirst>, <pubYear year="1990">1990</pubYear>.</citation>
+</bib>
+<bib xml:id="jgra12057-bib-0003">
+<citation type="journal" xml:id="jgra12057-cit-0003"><author><familyName>Anderson</familyName>, <givenNames>B. J.</givenNames></author>, <author><givenNames>R. E.</givenNames> <familyName>Erlandson</familyName></author>, <author><givenNames>L. J.</givenNames> <familyName>Zanetti</familyName></author>, <articleTitle>A statistical study of Pc 1–2 magnetic pulsations in the equatorial magnetosphere, 1, Equatorial occurrence distributions</articleTitle>, <journalTitle>J. Geophys. Res.</journalTitle>, <vol>97</vol>, <pageFirst>3075</pageFirst>, <pubYear year="1992">1992</pubYear>a.</citation>
+</bib>
+<bib xml:id="jgra12057-bib-0004">
+<citation type="journal" xml:id="jgra12057-cit-0004"><author><familyName>Anderson</familyName>, <givenNames>B. J.</givenNames></author>, <author><givenNames>R. E.</givenNames> <familyName>Erlandson</familyName></author>, <author><givenNames>L. J.</givenNames> <familyName>Zanetti</familyName></author>, <articleTitle>A statistical study of Pc 1–2 magnetic pulsations in the equatorial magnetosphere, 2, Wave properties</articleTitle>, <journalTitle>J. Geophys. Res.</journalTitle>, <vol>97</vol>, <pageFirst>3089</pageFirst>, <pubYear year="1992">1992</pubYear>b.</citation>
+</bib>
+<bib xml:id="jgra12057-bib-0005">
+<citation type="journal" xml:id="jgra12057-cit-0005"><author><familyName>André</familyName>, <givenNames>M.</givenNames></author>, <articleTitle>Dispersion surfaces</articleTitle>, <journalTitle>J. Plasma Phys.</journalTitle>, <vol>33</vol>, <pageFirst>1</pageFirst>, <pubYear year="1985">1985</pubYear>.</citation>
+</bib>
+<bib xml:id="jgra12057-bib-0006">
+<citation type="journal" xml:id="jgra12057-cit-0006"><author><familyName>Ashour‐ Abdalla</familyName>, <givenNames>M.</givenNames></author>, <author><givenNames>C. F.</givenNames> <familyName>Kennel</familyName></author>, <articleTitle>Nonconvective and convective electron cyclotron harmonic instabilities</articleTitle>, <journalTitle>J. Geophys. Res.</journalTitle>, <vol>83</vol>, <pageFirst>1531</pageFirst>, <pubYear year="1978">1978</pubYear>.</citation>
+</bib>
+<bib xml:id="jgra12057-bib-0007">
+<citation type="journal" xml:id="jgra12057-cit-0007"><author><familyName>Bossen</familyName>, <givenNames>M.</givenNames></author>, <author><givenNames>R. L.</givenNames> <familyName>McPherron</familyName></author>, <author><givenNames>C. T.</givenNames> <familyName>Russel</familyName></author>, <articleTitle>A statistical study of pc 1 magnetic pulsations at synchronous Orbit</articleTitle>, <journalTitle>J. Geophys. Res.</journalTitle>, <vol>81</vol>, <pageFirst>6083</pageFirst>, <pubYear year="1976">1976</pubYear>.</citation>
+</bib>
+<bib xml:id="jgra12057-bib-0008">
+<citation type="book" xml:id="jgra12057-cit-0008"><author><familyName>Budden</familyName>, <givenNames>K. G.</givenNames></author>, <bookTitle>The Propagation of Radio Waves</bookTitle>, <publisherName>Cambridge University Press</publisherName>, <publisherLoc>New York</publisherLoc>, <pubYear year="1985">1985</pubYear>.</citation>
+</bib>
+<bib xml:id="jgra12057-bib-0009">
+<citation type="journal" xml:id="jgra12057-cit-0009"><author><familyName>Cornwall</familyName>, <givenNames>J. M.</givenNames></author>, <author><givenNames>F. V.</givenNames> <familyName>Coroniti</familyName></author>, <author><givenNames>R. M.</givenNames> <familyName>Thorne</familyName></author>, <articleTitle>Turbulent loss of ring current protons</articleTitle>, <journalTitle>J. Geophys. Res.</journalTitle>, <vol>75</vol>, <pageFirst>4699</pageFirst>, <pubYear year="1970">1970</pubYear>.</citation>
+</bib>
+<bib xml:id="jgra12057-bib-0010">
+<citation type="journal" xml:id="jgra12057-cit-0010"><author><familyName>Cornwall</familyName>, <givenNames>J. M.</givenNames></author>, <author><givenNames>F. V.</givenNames> <familyName>Coroniti</familyName></author>, <author><givenNames>R. M.</givenNames> <familyName>Thorne</familyName></author>, <articleTitle>Unified theory of SAR arc formation at the plasmapause</articleTitle>, <journalTitle>J. Geophys. Res.</journalTitle>, <vol>76</vol>, <pageFirst>4428</pageFirst>, <pubYear year="1971">1971</pubYear>.</citation>
+</bib>
+<bib xml:id="jgra12057-bib-0011">
+<citation type="journal" xml:id="jgra12057-cit-0011"><author><familyName>Denton</familyName>, <givenNames>R. E.</givenNames></author>, <author><givenNames>M. K.</givenNames> <familyName>Hudson</familyName></author>, <author><givenNames>I.</givenNames> <familyName>Roth</familyName></author>, <articleTitle>Loss‐cone‐driven ion cyclotron waves in the magnetosphere</articleTitle>, <journalTitle>J. Geophys. Res.</journalTitle>, <vol>97</vol><issue>12</issue>, <pageFirst>093</pageFirst>, <pubYear year="1992">1992</pubYear>.</citation>
+</bib>
+<bib xml:id="jgra12057-bib-0012">
+<citation type="book" xml:id="jgra12057-cit-0012"><author><familyName>Fried</familyName>, <givenNames>B. D.</givenNames></author>, <author><givenNames>S. D.</givenNames> <familyName>Conte</familyName></author>, <bookTitle>The Plasma Dispersion Function</bookTitle>, <publisherName>Academic</publisherName>, <publisherLoc>San Diego, Calif.</publisherLoc>, <pubYear year="1961">1961</pubYear>.</citation>
+</bib>
+<bib xml:id="jgra12057-bib-0013">
+<citation type="journal" xml:id="jgra12057-cit-0013"><author><familyName>Fraser</familyName>, <givenNames>B. J.</givenNames></author>, <author><givenNames>W. J.</givenNames> <familyName>Kemp</familyName></author>, <author><givenNames>D. J.</givenNames> <familyName>Webster</familyName></author>, <articleTitle>Ground‐satellite study of a Pc 1 ion cyclotron wave event</articleTitle>, <journalTitle>J. Geophys. Res.</journalTitle>, <vol>94</vol><issue>11</issue>, <pageFirst>855</pageFirst>, <pubYear year="1989">1989</pubYear>.</citation>
+</bib>
+<bib xml:id="jgra12057-bib-0014">
+<citation type="journal" xml:id="jgra12057-cit-0014"><author><familyName>Fraser</familyName>, <givenNames>B. J.</givenNames></author>, <author><givenNames>R. L.</givenNames> <familyName>McPherron</familyName></author>, <articleTitle>Pc 1–2 magnetic pulsation spectra and heavy ion effects at synchronous orbit: ATS 6 results</articleTitle>, <journalTitle>J. Geophys. Res.</journalTitle>, <vol>87</vol>, <pageFirst>4560</pageFirst>, <pubYear year="1982">1982</pubYear>.</citation>
+</bib>
+<bib xml:id="jgra12057-bib-0015">
+<citation type="journal" xml:id="jgra12057-cit-0015"><author><familyName>Gendrin</familyName>, <givenNames>R.</givenNames></author>, <author><givenNames>A.</givenNames> <familyName>Roux</familyName></author>, <articleTitle>Energization of helium ions by proton induced hydromagnetic waves</articleTitle>, <journalTitle>J. Geophys. Res.</journalTitle>, <vol>85</vol>, <pageFirst>4577</pageFirst>, <pubYear year="1980">1980</pubYear>.</citation>
+</bib>
+<bib xml:id="jgra12057-bib-0016">
+<citation type="journal" xml:id="jgra12057-cit-0016"><author><familyName>Gendrin</familyName>, <givenNames>R.</givenNames></author>, <author><givenNames>M.</givenNames> <familyName>Ashour‐Abdalla</familyName></author>, <author><givenNames>Y.</givenNames> <familyName>Omura</familyName></author>, <author><givenNames>K.</givenNames> <familyName>Quest</familyName></author>, <articleTitle>Linear analysis of ion cyclotron interaction in a multicomponent plasma</articleTitle>, <journalTitle>J. Geophys. Res.</journalTitle>, <vol>89</vol>, <pageFirst>9119</pageFirst>, <pubYear year="1984">1984</pubYear>.</citation>
+</bib>
+<bib xml:id="jgra12057-bib-0017">
+<citation type="journal" xml:id="jgra12057-cit-0017"><author><familyName>Gloeckler</familyName>, <givenNames>G.</givenNames></author>, <author><givenNames>B.</givenNames> <familyName>Wilken</familyName></author>, <author><givenNames>W.</givenNames> <familyName>Studemann</familyName></author>, <author><givenNames>F. M.</givenNames> <familyName>Ipavich</familyName></author>, <author><givenNames>D.</givenNames> <familyName>Hovestadt</familyName></author>, <author><givenNames>D. C.</givenNames> <familyName>Hamilton</familyName></author>, <author><givenNames>G.</givenNames> <familyName>Kremser</familyName></author>, <articleTitle>First composition measurement of the bulk of the storm time ring‐current (1 to 300 keV/e) with AMPTE‐CCE</articleTitle>, <journalTitle>Geophys. Res. Lett.</journalTitle>, <vol>12</vol>, <pageFirst>325</pageFirst>, <pubYear year="1985">1985</pubYear>.</citation>
+</bib>
+<bib xml:id="jgra12057-bib-0018">
+<citation type="journal" xml:id="jgra12057-cit-0018"><author><familyName>Gomberoff</familyName>, <givenNames>L.</givenNames></author>, <author><givenNames>R.</givenNames> <familyName>Neira</familyName></author>, <articleTitle>Convective growth rate of ion cyclotron waves in a H<sup>+</sup>‐He<sup>+</sup> and H<sup>+</sup>‐He<sup>+</sup>‐O<sup>+</sup> plasma</articleTitle>, <journalTitle>J. Geophys. Res.</journalTitle>, <vol>88</vol>, <pageFirst>2170</pageFirst>, <pubYear year="1983">1983</pubYear>.</citation>
+</bib>
+<bib xml:id="jgra12057-bib-0019">
+<citation type="journal" xml:id="jgra12057-cit-0019"><author><familyName>Higel</familyName>, <givenNames>B.</givenNames></author>, <author><givenNames>L.</givenNames> <familyName>Wu</familyName></author>, <articleTitle>Electron density and plasmapause characteristics at 6.6<i>R<sub>E</sub></i>, A statistical study of the GEOS 2 relaxation sounder data</articleTitle>, <journalTitle>J. Geophys. Res.</journalTitle>, <vol>89</vol>, <pageFirst>1583</pageFirst>, <pubYear year="1984">1984</pubYear>.</citation>
+</bib>
+<bib xml:id="jgra12057-bib-0020">
+<citation type="journal" xml:id="jgra12057-cit-0020"><author><familyName>Horne</familyName>, <givenNames>R. B.</givenNames></author>, <articleTitle>Path‐integrated growth of electrostatic waves: The generation of terrestrial myriametric radiation</articleTitle>, <journalTitle>J. Geophys. Res.</journalTitle>, <vol>94</vol>, <pageFirst>8895</pageFirst>, <pubYear year="1989">1989</pubYear>.</citation>
+</bib>
+<bib xml:id="jgra12057-bib-0021">
+<citation type="journal" xml:id="jgra12057-cit-0021"><author><familyName>Horne</familyName>, <givenNames>R. B.</givenNames></author>, <author><givenNames>R. M.</givenNames> <familyName>Thorne</familyName></author>, <articleTitle>Ion cyclotron absorption at the second harmonic of the oxygen gyrofrequency</articleTitle>, <journalTitle>Geophys. Res. Lett.</journalTitle>, <vol>17</vol>, <pageFirst>2225</pageFirst>, <pubYear year="1990">1990</pubYear>.</citation>
+</bib>
+<bib xml:id="jgra12057-bib-0022">
+<citation type="journal" xml:id="jgra12057-cit-0022"><author><familyName>Horne</familyName>, <givenNames>R. B.</givenNames></author>, <author><givenNames>R. M.</givenNames> <familyName>Thorne</familyName></author>, <articleTitle>On the preferred source location for the convective amplification of ion cyclotron waves</articleTitle>, <journalTitle>J. Geophys. Res.</journalTitle>, <vol>98</vol>, <pageFirst>9233</pageFirst>, <pubYear year="1993">1993</pubYear>.</citation>
+</bib>
+<bib xml:id="jgra12057-bib-0023">
+<citation type="journal" xml:id="jgra12057-cit-0023"><author><familyName>Hu</familyName>, <givenNames>Y. D.</givenNames></author>, <author><givenNames>B. J.</givenNames> <familyName>Fraser</familyName></author>, <author><givenNames>J. V.</givenNames> <familyName>Olsen</familyName></author>, <articleTitle>Amplification of electromagnetic ion cyclotron waves along a wave path in the Earth's multi‐component magnetosphere</articleTitle>, <journalTitle>Geophys. Res., Lett.</journalTitle>, <vol>17</vol>, <pageFirst>1053</pageFirst>, <pubYear year="1990">1990</pubYear>.</citation>
+</bib>
+<bib xml:id="jgra12057-bib-0024">
+<citation type="journal" xml:id="jgra12057-cit-0024"><author><familyName>Hu</familyName>, <givenNames>Y. D.</givenNames></author>, <author><givenNames>B. J.</givenNames> <familyName>Fraser</familyName></author>, <articleTitle>Electromagnetic ion cyclotron wave amplification and source regions in the magnetosphere</articleTitle>, <journalTitle>J. Geophys. Res.</journalTitle>, <vol>99</vol>, <pageFirst>263</pageFirst>, <pubYear year="1994">1994</pubYear>.</citation>
+</bib>
+<bib xml:id="jgra12057-bib-0025">
+<citation type="journal" xml:id="jgra12057-cit-0025"><author><familyName>Inan</familyName>, <givenNames>U. S.</givenNames></author>, <author><givenNames>T. F.</givenNames> <familyName>Bell</familyName></author>, <articleTitle>The plasmapause as a VLF wave guide</articleTitle>, <journalTitle>J. Geophys. Res.</journalTitle>, <vol>19</vol>, <pageFirst>2819</pageFirst>, <pubYear year="1977">1977</pubYear>.</citation>
+</bib>
+<bib xml:id="jgra12057-bib-0026">
+<citation type="journal" xml:id="jgra12057-cit-0026"><author><familyName>Ishida</familyName>, <givenNames>I.</givenNames></author>, <author><givenNames>S.</givenNames> <familyName>Kokubun</familyName></author>, <author><givenNames>R. L.</givenNames> <familyName>McPherron</familyName></author>, <articleTitle>Substorm effects on spectral structures of Pc 1 waves at synchronous orbit</articleTitle>, <journalTitle>J. Geophys. Res.</journalTitle>, <vol>92</vol>, <pageFirst>143</pageFirst>, <pubYear year="1987">1987</pubYear>.</citation>
+</bib>
+<bib xml:id="jgra12057-bib-0027">
+<citation type="journal" xml:id="jgra12057-cit-0027"><author><familyName>Kennel</familyName>, <givenNames>C. F.</givenNames></author>, <author><givenNames>H. E.</givenNames> <familyName>Petschek</familyName></author>, <articleTitle>Limit on stably trapped particle fluxes</articleTitle>, <journalTitle>J. Geophys. Res.</journalTitle>, <vol>71</vol>, <pageFirst>1</pageFirst>, <pubYear year="1966">1966</pubYear>.</citation>
+</bib>
+<bib xml:id="jgra12057-bib-0028">
+<citation type="journal" xml:id="jgra12057-cit-0028"><author><familyName>Kintner</familyName>, <givenNames>P. M.</givenNames></author>, <author><givenNames>D. A.</givenNames> <familyName>Gurnett</familyName></author>, <articleTitle>Observations of ion cyclotron waves within the plasmaphere</articleTitle>, <journalTitle>J. Geophys. Res.</journalTitle>, <vol>82</vol>, <pageFirst>2314</pageFirst>, <pubYear year="1977">1977</pubYear>.</citation>
+</bib>
+<bib xml:id="jgra12057-bib-0029">
+<citation type="journal" xml:id="jgra12057-cit-0029"><author><familyName>Kozyra</familyName>, <givenNames>J. U.</givenNames></author>, <author><givenNames>T. E.</givenNames> <familyName>Cravens</familyName></author>, <author><givenNames>A. F.</givenNames> <familyName>Nagy</familyName></author>, <author><givenNames>E. G.</givenNames> <familyName>Fontheim</familyName></author>, <articleTitle>Effects of energetic heavy ions on electromagnetic ion cyclotron wave generation in the plasmapause region</articleTitle>, <journalTitle>J. Geophys. Res</journalTitle>, <vol>89</vol>, <pageFirst>2217</pageFirst>, <pubYear year="1984">1984</pubYear>.</citation>
+</bib>
+<bib xml:id="jgra12057-bib-0030">
+<citation type="journal" xml:id="jgra12057-cit-0030"><author><familyName>Krimigis</familyName>, <givenNames>S. M.</givenNames></author>, <author><givenNames>G.</givenNames> <familyName>Gloeckler</familyName></author>, <author><givenNames>R. W.</givenNames> <familyName>McEntire</familyName></author>, <author><givenNames>T. A.</givenNames> <familyName>Potemera</familyName></author>, <author><givenNames>F. L.</givenNames> <familyName>Scarf</familyName></author>, <author><givenNames>E. G.</givenNames> <familyName>Shelley</familyName></author>, <articleTitle>Magnetic storm of September 4, 1984: A synthesis of ring current spectra and energy densities measured with AMPTE/CCE</articleTitle>, <journalTitle>Geophys. Res. Lett.</journalTitle>, <vol>12</vol>, <pageFirst>329</pageFirst>, <pubYear year="1985">1985</pubYear>.</citation>
+</bib>
+<bib xml:id="jgra12057-bib-0031">
+<citation type="journal" xml:id="jgra12057-cit-0031"><author><familyName>Ludlow</familyName>, <givenNames>G. R.</givenNames></author>, <articleTitle>Growth of obliquely propagating ion cyclotron waves in the magnetosphere</articleTitle>, <journalTitle>J. Geophys. Res.</journalTitle>, <vol>94</vol><issue>15</issue>, <pageFirst>385</pageFirst>, <pubYear year="1989">1989</pubYear>.</citation>
+</bib>
+<bib xml:id="jgra12057-bib-0032">
+<citation type="journal" xml:id="jgra12057-cit-0032"><author><familyName>Mauk</familyName>, <givenNames>B. H.</givenNames></author>, <articleTitle>Helium resonance and dispersion effects on geostationary Alfven/ion cyclotron waves</articleTitle>, <journalTitle>J. Geophys. Res.</journalTitle>, <vol>87</vol>, <pageFirst>9107</pageFirst>, <pubYear year="1982">1982</pubYear>a.</citation>
+</bib>
+<bib xml:id="jgra12057-bib-0033">
+<citation type="journal" xml:id="jgra12057-cit-0033"><author><familyName>Mauk</familyName>, <givenNames>B. H.</givenNames></author>, <articleTitle>Electromagnetic wave energization of heavy ions by the electric “phase bunching” process</articleTitle>, <journalTitle>Geophys. Res. Lett.</journalTitle>, <vol>9</vol>, <pageFirst>1163</pageFirst>, <pubYear year="1982">1982</pubYear>b.</citation>
+</bib>
+<bib xml:id="jgra12057-bib-0034">
+<citation type="journal" xml:id="jgra12057-cit-0034"><author><familyName>Mauk</familyName>, <givenNames>B. H.</givenNames></author>, <articleTitle>Frequency gap formation in electromagnetic cyclotron wave distributions</articleTitle>, <journalTitle>Geophys. Res. Lett.</journalTitle>, <vol>10</vol>, <pageFirst>635</pageFirst>, <pubYear year="1983">1983</pubYear>.</citation>
+</bib>
+<bib xml:id="jgra12057-bib-0035">
+<citation type="journal" xml:id="jgra12057-cit-0035"><author><familyName>Mauk</familyName>, <givenNames>B. H.</givenNames></author>, <author><givenNames>C. E.</givenNames> <familyName>McIlwain</familyName></author>, <author><givenNames>R. L.</givenNames> <familyName>McPherron</familyName></author>, <articleTitle>Helium cyclotron resonance within the Earth's magnetosphere</articleTitle>, <journalTitle>Geophys. Res. Lett.</journalTitle>, <vol>8</vol>, <pageFirst>103</pageFirst>, <pubYear year="1981">1981</pubYear>.</citation>
+</bib>
+<bib xml:id="jgra12057-bib-0036">
+<citation type="journal" xml:id="jgra12057-cit-0036"><author><familyName>Olsen</familyName>, <givenNames>R. C.</givenNames></author>, <author><givenNames>S. D.</givenNames> <familyName>Shawhan</familyName></author>, <author><givenNames>D. L.</givenNames> <familyName>Gallagher</familyName></author>, <author><givenNames>J. L.</givenNames> <familyName>Green</familyName></author>, <author><givenNames>C. R.</givenNames> <familyName>Chappell</familyName></author>, <author><givenNames>R. R.</givenNames> <familyName>Anderson</familyName></author>, <articleTitle>Plasma observations at the Earth's magnetic equator</articleTitle>, <journalTitle>J. Geophys. Res.</journalTitle>, <vol>92</vol>, <pageFirst>2385</pageFirst>, <pubYear year="1987">1987</pubYear>.</citation>
+</bib>
+<bib xml:id="jgra12057-bib-0037">
+<citation type="journal" xml:id="jgra12057-cit-0037"><author><familyName>Perraut</familyName>, <givenNames>S.</givenNames></author>, <author><givenNames>R.</givenNames> <familyName>Gendrin</familyName></author>, <author><givenNames>A.</givenNames> <familyName>Roux</familyName></author>, <articleTitle>Amplification of ion cyclotron waves for various typical radial profiles of magnetospheric parameters</articleTitle>, <journalTitle>J. Atmos. Terr. Phys.</journalTitle>, <vol>38</vol>, <pageFirst>1191</pageFirst>, <pubYear year="1976">1976</pubYear>.</citation>
+</bib>
+<bib xml:id="jgra12057-bib-0038">
+<citation type="journal" xml:id="jgra12057-cit-0038"><author><familyName>Perraut</familyName>, <givenNames>S.</givenNames></author>, <author><givenNames>R.</givenNames> <familyName>Gendrin</familyName></author>, <author><givenNames>A.</givenNames> <familyName>Roux</familyName></author>, <author><givenNames>C.</givenNames> <familyNamePrefix>de</familyNamePrefix><familyName>Villedary</familyName></author>, <articleTitle>Ion cyclotron waves: Direct comparison between ground‐based measurements and observations in the source region</articleTitle>, <journalTitle>J. Geophys. Res.</journalTitle>, <vol>89</vol>, <pageFirst>195</pageFirst>, <pubYear year="1984">1984</pubYear>.</citation>
+</bib>
+<bib xml:id="jgra12057-bib-0039">
+<citation type="journal" xml:id="jgra12057-cit-0039"><author><familyName>Rauch</familyName>, <givenNames>J. L.</givenNames></author>, <author><givenNames>A.</givenNames> <familyName>Roux</familyName></author>, <articleTitle>Ray tracing of ULF waves in a multicomponent magnetospheric plasma: Consequences for the generation mechanism of ion cyclotron waves</articleTitle>, <journalTitle>J. Geophys. Res.</journalTitle>, <vol>87</vol>, <pageFirst>8191</pageFirst>, <pubYear year="1982">1982</pubYear>.</citation>
+</bib>
+<bib xml:id="jgra12057-bib-0040">
+<citation type="journal" xml:id="jgra12057-cit-0040"><author><familyName>Rönnmark</familyName>, <givenNames>K.</givenNames></author>, <author><givenNames>M.</givenNames> <familyName>André</familyName></author>, <articleTitle>Convection of ion cyclotron waves to ion‐heating regions</articleTitle>, <journalTitle>J. Geophys. Res.</journalTitle>, <vol>96</vol><issue>17</issue>, <pageFirst>573</pageFirst>, <pubYear year="1991">1991</pubYear>.</citation>
+</bib>
+<bib xml:id="jgra12057-bib-0041">
+<citation type="journal" xml:id="jgra12057-cit-0041"><author><familyName>Roux</familyName>, <givenNames>A.</givenNames></author>, <author><givenNames>S.</givenNames> <familyName>Perraut</familyName></author>, <author><givenNames>J. L.</givenNames> <familyName>Rauch</familyName></author>, <author><givenNames>C.</givenNames> <familyNamePrefix>de</familyNamePrefix><familyName>Villedary</familyName></author>, <articleTitle>Wave particle interactions near Ω<sub>He</sub> observed on board GEOS 1 and 2, 2, generation of ion cyclotron waves and heating of He<sup>+</sup> ions</articleTitle>, <journalTitle>J. Geophys. Res.</journalTitle>, <vol>87</vol>, <pageFirst>8174</pageFirst>, <pubYear year="1982">1982</pubYear>.</citation>
+</bib>
+<bib xml:id="jgra12057-bib-0042">
+<citation type="book" xml:id="jgra12057-cit-0042"><author><familyName>Swanson</familyName>, <givenNames>D. G.</givenNames></author>, <bookTitle>Plasma Waves</bookTitle>, <publisherName>Academic</publisherName>, <publisherLoc>San Diego, Calif.</publisherLoc>, <pubYear year="1989">1989</pubYear>.</citation>
+</bib>
+<bib xml:id="jgra12057-bib-0043">
+<citation type="journal" xml:id="jgra12057-cit-0043"><author><familyName>Sawada</familyName>, <givenNames>A.</givenNames></author>, <author><givenNames>Y.</givenNames> <familyName>Kasahara</familyName></author>, <author><givenNames>M.</givenNames> <familyName>Yamamoto</familyName></author>, <author><givenNames>I.</givenNames> <familyName>Kimura</familyName></author>, <articleTitle>ELF emissions observed by the EXOS‐D satellite around the geomagnetic equatorial region</articleTitle>, <journalTitle>Geophys. Res. Lett.</journalTitle>, <vol>18</vol>, <pageFirst>317</pageFirst>, <pubYear year="1991">1991</pubYear>.</citation>
+</bib>
+<bib xml:id="jgra12057-bib-0044">
+<citation type="journal" xml:id="jgra12057-cit-0044"><author><familyName>Taylor</familyName>, <givenNames>W. W. L.</givenNames></author>, <author><givenNames>B. K.</givenNames> <familyName>Paradt</familyName></author>, <author><givenNames>L. J.</givenNames> <familyName>Cahill</familyName> <nameSuffix>Jr.</nameSuffix></author>, <articleTitle>Explorer 45 observations of 1‐ to 30‐Hz magnetic fields near the plasmapause during magnetic storms</articleTitle>, <journalTitle>J. Geophys. Res.</journalTitle>, <vol>80</vol>, <pageFirst>1271</pageFirst>, <pubYear year="1975">1975</pubYear>.</citation>
+</bib>
+<bib xml:id="jgra12057-bib-0045">
+<citation type="journal" xml:id="jgra12057-cit-0045"><author><familyName>Taylor</familyName>, <givenNames>W. W. L.</givenNames></author>, <author><givenNames>L. R.</givenNames> <familyName>Lyons</familyName></author>, <articleTitle>Simultaneous equatorial observations of 1‐ to 30‐Hz waves and pitch‐angle distributions of ring current ions</articleTitle>, <journalTitle>J. Geophys. Res.</journalTitle>, <vol>81</vol>, <pageFirst>6177</pageFirst>, <pubYear year="1976">1976</pubYear>.</citation>
+</bib>
+<bib xml:id="jgra12057-bib-0046">
+<citation type="journal" xml:id="jgra12057-cit-0046"><author><familyName>Thorne</familyName>, <givenNames>R. M.</givenNames></author>, <author><givenNames>R. B.</givenNames> <familyName>Horne</familyName></author>, <articleTitle>The contribution of ion‐cyclotron waves to electron heating and SAR‐arc excitation near the storm‐time plasmapause</articleTitle>, <journalTitle>Geophys. Res. Lett.</journalTitle>, <vol>19</vol>, <pageFirst>417</pageFirst>, <pubYear year="1992">1992</pubYear>.</citation>
+</bib>
+<bib xml:id="jgra12057-bib-0047">
+<citation type="journal" xml:id="jgra12057-cit-0047"><author><familyName>Thorne</familyName>, <givenNames>R. M.</givenNames></author>, <author><givenNames>R. B.</givenNames> <familyName>Horne</familyName></author>, <articleTitle>Cyclotron absorption of ion‐ cyclotron waves at the bi‐ion frequency</articleTitle>, <journalTitle>Geophys. Res. Lett.</journalTitle>, <vol>20</vol>, <pageFirst>317</pageFirst>, <pubYear year="1993">1993</pubYear>.</citation>
+</bib>
+<bib xml:id="jgra12057-bib-0048">
+<citation type="journal" xml:id="jgra12057-cit-0048"><author><familyName>Wandzura</familyName>, <givenNames>S.</givenNames></author>, <author><givenNames>F. V.</givenNames> <familyName>Coroniti</familyName></author>, <articleTitle>Nonconvective ion cyclotron instability</articleTitle>, <journalTitle>Planet Space Sci.</journalTitle>, <vol>23</vol>, <pageFirst>123</pageFirst>, <pubYear year="1975">1975</pubYear>.</citation>
+</bib>
+<bib xml:id="jgra12057-bib-0049">
+<citation type="journal" xml:id="jgra12057-cit-0049"><author><familyName>Williams</familyName>, <givenNames>D. J.</givenNames></author>, <articleTitle>Ring current and radiation belts</articleTitle>, <journalTitle>Rev. of Geophys.</journalTitle>, <vol>25</vol>, <pageFirst>570</pageFirst>, <pubYear year="1987">1987</pubYear>.</citation>
+</bib>
+<bib xml:id="jgra12057-bib-0050">
+<citation type="journal" xml:id="jgra12057-cit-0050"><author><familyName>Young</familyName>, <givenNames>D. T.</givenNames></author>, <author><givenNames>S.</givenNames> <familyName>Perraut</familyName></author>, <author><givenNames>A.</givenNames> <familyName>Roux</familyName></author>, <author><givenNames>C.</givenNames> <familyNamePrefix>de</familyNamePrefix><familyName>Villedary</familyName></author>, <author><givenNames>R.</givenNames> <familyName>Gendrin</familyName></author>, <author><givenNames>A.</givenNames> <familyName>Korth</familyName></author>, <author><givenNames>G.</givenNames> <familyName>Kremser</familyName></author>, <author><givenNames>D.</givenNames> <familyName>Jones</familyName></author>, <articleTitle>Wave‐particle interactions near ΩHe<sup>+</sup> observed on GEOS 1 and 2, 1, Propagation of ion cyclotron waves in a He<sup>+</sup> rich plasma</articleTitle>, <journalTitle>J. Geophys. Res.</journalTitle>, <vol>86</vol>, <pageFirst>6755</pageFirst>, <pubYear year="1981">1981</pubYear>.</citation>
+</bib>
+</bibliography>
+</body>

@@ -1,0 +1,2045 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article
+  SYSTEM "http://jats.nlm.nih.gov/archiving/1.2/JATS-archivearticle1.dtd">
+<article
+	xmlns:mml="http://www.w3.org/1998/Math/MathML"
+	xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.2" article-type="research-article" xml:lang="en">
+	<?properties open_access?>
+	<front>
+		<journal-meta>
+			<journal-id journal-id-type="publisher-id">11663</journal-id>
+			<journal-id journal-id-type="doi">10.1007/11663.1543-1916</journal-id>
+			<journal-title-group>
+				<journal-title>Metallurgical and Materials Transactions B</journal-title>
+				<abbrev-journal-title abbrev-type="publisher">Metall Mater Trans B</abbrev-journal-title>
+			</journal-title-group>
+			<issn pub-type="ppub">1073-5615</issn>
+			<issn pub-type="epub">1543-1916</issn>
+			<publisher>
+				<publisher-name>Springer US</publisher-name>
+				<publisher-loc>New York</publisher-loc>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="publisher-id">s11663-021-02232-4</article-id>
+			<article-id pub-id-type="manuscript">2232</article-id>
+			<article-id pub-id-type="doi">10.1007/s11663-021-02232-4</article-id>
+			<article-categories>
+				<subj-group subj-group-type="heading">
+					<subject>Original Research Article</subject>
+				</subj-group>
+			</article-categories>
+			<title-group>
+				<article-title xml:lang="en">Effects of La
+					<sub>2</sub>O
+					<sub>3</sub> Addition into CaO-SiO
+					<sub>2</sub> Slag: Structural Evolution and Impurity Separation from Si-Sn Alloy
+				</article-title>
+			</title-group>
+			<contrib-group>
+				<contrib contrib-type="author" corresp="yes" id="Au1">
+					<name>
+						<surname>Zhu</surname>
+						<given-names>Mengyi</given-names>
+					</name>
+					<xref ref-type="aff" rid="Aff1">1</xref>
+					<xref ref-type="corresp" rid="IDs11663021022324_cor1">a</xref>
+				</contrib>
+				<contrib contrib-type="author" corresp="yes" id="Au2">
+					<name>
+						<surname>Wu</surname>
+						<given-names>Guixuan</given-names>
+					</name>
+					<xref ref-type="aff" rid="Aff2">2</xref>
+					<xref ref-type="aff" rid="Aff3">3</xref>
+					<xref ref-type="corresp" rid="IDs11663021022324_cor2">b</xref>
+				</contrib>
+				<contrib contrib-type="author" id="Au3">
+					<name>
+						<surname>Azarov</surname>
+						<given-names>Alexander</given-names>
+					</name>
+					<xref ref-type="aff" rid="Aff4">4</xref>
+				</contrib>
+				<contrib contrib-type="author" id="Au4">
+					<name>
+						<surname>Monakhov</surname>
+						<given-names>Eduard</given-names>
+					</name>
+					<xref ref-type="aff" rid="Aff4">4</xref>
+				</contrib>
+				<contrib contrib-type="author" id="Au5">
+					<name>
+						<surname>Tang</surname>
+						<given-names>Kai</given-names>
+					</name>
+					<xref ref-type="aff" rid="Aff5">5</xref>
+				</contrib>
+				<contrib contrib-type="author" id="Au6">
+					<name>
+						<surname>Müller</surname>
+						<given-names>Michael</given-names>
+					</name>
+					<xref ref-type="aff" rid="Aff2">2</xref>
+				</contrib>
+				<contrib contrib-type="author" id="Au7">
+					<name>
+						<surname>Safarian</surname>
+						<given-names>Jafar</given-names>
+					</name>
+					<xref ref-type="aff" rid="Aff1">1</xref>
+				</contrib>
+				<aff id="Aff1">
+					<label>1</label>
+					<institution-wrap>
+						<institution-id institution-id-type="GRID">grid.5947.f</institution-id>
+						<institution-id institution-id-type="ISNI">0000 0001 1516 2393</institution-id>
+						<institution content-type="org-division">Department of Materials Science and Engineering</institution>
+						<institution content-type="org-name">Norwegian University of Science and Technology (NTNU)</institution>
+					</institution-wrap>
+					<addr-line content-type="postcode">7491</addr-line>
+					<addr-line content-type="city">Trondheim</addr-line>
+					<country country="NO">Norway</country>
+				</aff>
+				<aff id="Aff2">
+					<label>2</label>
+					<institution-wrap>
+						<institution-id institution-id-type="GRID">grid.8385.6</institution-id>
+						<institution-id institution-id-type="ISNI">0000 0001 2297 375X</institution-id>
+						<institution content-type="org-division">Institute of Energy and Climate Research</institution>
+						<institution content-type="org-name">Microstructure and Properties of Materials (IEK-2), Forschungszentrum Jülich GmbH)</institution>
+					</institution-wrap>
+					<addr-line content-type="street">Leo-Brandt-Straße 1</addr-line>
+					<addr-line content-type="postcode">52425</addr-line>
+					<addr-line content-type="city">Jülich</addr-line>
+					<country country="DE">Germany</country>
+				</aff>
+				<aff id="Aff3">
+					<label>3</label>
+					<institution-wrap>
+						<institution-id institution-id-type="GRID">grid.506712.7</institution-id>
+						<institution content-type="org-name">GTT-Technologies</institution>
+					</institution-wrap>
+					<addr-line content-type="street">Kaiserstraße 103</addr-line>
+					<addr-line content-type="postcode">52134</addr-line>
+					<addr-line content-type="city">Herzogenrath</addr-line>
+					<country country="DE">Germany</country>
+				</aff>
+				<aff id="Aff4">
+					<label>4</label>
+					<institution-wrap>
+						<institution-id institution-id-type="GRID">grid.5510.1</institution-id>
+						<institution-id institution-id-type="ISNI">0000 0004 1936 8921</institution-id>
+						<institution content-type="org-division">Centre for Materials Science and Nanotechnology, Department of Physics</institution>
+						<institution content-type="org-name">University of Oslo</institution>
+					</institution-wrap>
+					<addr-line content-type="postbox">P.O. Box 1048</addr-line>
+					<addr-line content-type="street">Blindern</addr-line>
+					<addr-line content-type="postcode">0316</addr-line>
+					<addr-line content-type="city">Oslo</addr-line>
+					<country country="NO">Norway</country>
+				</aff>
+				<aff id="Aff5">
+					<label>5</label>
+					<institution-wrap>
+						<institution-id institution-id-type="GRID">grid.4319.f</institution-id>
+						<institution-id institution-id-type="ISNI">0000 0004 0448 3150</institution-id>
+						<institution content-type="org-name">SINTEF Industry</institution>
+					</institution-wrap>
+					<addr-line content-type="postcode">7465</addr-line>
+					<addr-line content-type="city">Trondheim</addr-line>
+					<country country="NO">Norway</country>
+				</aff>
+			</contrib-group>
+			<author-notes>
+				<corresp id="IDs11663021022324_cor1">
+					<label>a</label>
+					<email>mengyi.zhu@ntnu.no</email>
+				</corresp>
+				<corresp id="IDs11663021022324_cor2">
+					<label>b</label>
+					<email>g.wu@fz-juelich.de</email>
+				</corresp>
+			</author-notes>
+			<pub-date date-type="pub" publication-format="electronic">
+				<day>21</day>
+				<month>6</month>
+				<year>2021</year>
+			</pub-date>
+			<pub-date date-type="pub" publication-format="print">
+				<month>10</month>
+				<year>2021</year>
+			</pub-date>
+			<volume>52</volume>
+			<issue seq="19">5</issue>
+			<fpage>3045</fpage>
+			<lpage>3063</lpage>
+			<history>
+				<date date-type="registration">
+					<day>26</day>
+					<month>5</month>
+					<year>2021</year>
+				</date>
+				<date date-type="received">
+					<day>3</day>
+					<month>2</month>
+					<year>2021</year>
+				</date>
+				<date date-type="accepted">
+					<day>22</day>
+					<month>5</month>
+					<year>2021</year>
+				</date>
+				<date date-type="online">
+					<day>21</day>
+					<month>6</month>
+					<year>2021</year>
+				</date>
+			</history>
+			<permissions>
+				<copyright-statement>© The Author(s) 2021</copyright-statement>
+				<copyright-year>2021</copyright-year>
+				<license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/4.0/">
+					<license-p>
+						<bold>Open Access</bold>This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article's Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article's Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit
+						<ext-link xlink:href="http://creativecommons.org/licenses/by/4.0/" ext-link-type="url">http://creativecommons.org/licenses/by/4.0/</ext-link>.
+					</license-p>
+				</license>
+			</permissions>
+			<abstract id="Abs1" xml:lang="en">
+				<title>Abstract</title>
+				<p id="Par1">Boron (B) and phosphorus (P) are the most problematic impurities to be removed in the production of solar-grade silicon by the metallurgical process. In this work, the distribution of B and P between CaO-(La
+					<sub>2</sub>O
+					<sub>3</sub>)-SiO
+					<sub>2</sub> slags and Si-10 mass pct Sn melt was experimentally studied. B distribution coefficient increased from 2.93 in binary CaO-SiO
+					<sub>2</sub> slag to 3.33 and 3.65 with 2 and 10 mass pct La
+					<sub>2</sub>O
+					<sub>3</sub> additions, respectively. In the followed acid-leaching experiments, the slag-treated Si-Sn alloys exhibited higher B and P removal than that of the initial alloy without slag treatment. Molecular dynamics simulations were performed to study the effect of La
+					<sub>2</sub>O
+					<sub>3</sub> addition on the slag structural and transport properties. A novel oxygen classification method was proposed to distinguish the different structural roles of La and Ca in the CaO-La
+					<sub>2</sub>O
+					<sub>3</sub>-SiO
+					<sub>2</sub> system. It was found that La
+					<sup>3+</sup> prefers to stay in the depolymerized region, mostly connects with 6-7 non-bridging oxygen, and requires a weak charge compensation with Ca
+					<sup>2+</sup>. Possible silicothermic reduction was evaluated to discuss the slag chemistry and the mass transfer between slag and metal phase. A thermodynamic model was derived to theoretically study the alloying effect on impurity distribution in slag refining where positive interaction coefficient and high alloying concentration were found most beneficial to improve the impurity removal.
+				</p>
+			</abstract>
+			<funding-group>
+				<award-group>
+					<funding-source>
+						<institution-wrap>
+							<institution>NTNU Norwegian University of Science and Technology (incl St. Olavs Hospital - Trondheim University Hospital)</institution>
+						</institution-wrap>
+					</funding-source>
+				</award-group>
+			</funding-group>
+			<custom-meta-group>
+				<custom-meta>
+					<meta-name>publisher-imprint-name</meta-name>
+					<meta-value>Springer</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>volume-issue-count</meta-name>
+					<meta-value>6</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>issue-article-count</meta-name>
+					<meta-value>59</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>issue-toc-levels</meta-name>
+					<meta-value>0</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>issue-pricelist-year</meta-name>
+					<meta-value>2021</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>issue-copyright-holder</meta-name>
+					<meta-value>The Minerals, Metals &amp; Materials Society and ASM International</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>issue-copyright-year</meta-name>
+					<meta-value>2021</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>article-contains-esm</meta-name>
+					<meta-value>No</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>article-numbering-style</meta-name>
+					<meta-value>Unnumbered</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>article-registration-date-year</meta-name>
+					<meta-value>2021</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>article-registration-date-month</meta-name>
+					<meta-value>5</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>article-registration-date-day</meta-name>
+					<meta-value>26</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>article-toc-levels</meta-name>
+					<meta-value>0</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>toc-levels</meta-name>
+					<meta-value>0</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>volume-type</meta-name>
+					<meta-value>Regular</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>journal-product</meta-name>
+					<meta-value>NonStandardArchiveJournal</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>numbering-style</meta-name>
+					<meta-value>Unnumbered</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>article-grants-type</meta-name>
+					<meta-value>OpenChoice</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>metadata-grant</meta-name>
+					<meta-value>OpenAccess</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>abstract-grant</meta-name>
+					<meta-value>OpenAccess</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>bodypdf-grant</meta-name>
+					<meta-value>OpenAccess</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>bodyhtml-grant</meta-name>
+					<meta-value>OpenAccess</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>bibliography-grant</meta-name>
+					<meta-value>OpenAccess</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>esm-grant</meta-name>
+					<meta-value>OpenAccess</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>online-first</meta-name>
+					<meta-value>false</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>pdf-file-reference</meta-name>
+					<meta-value>BodyRef/PDF/11663_2021_Article_2232.pdf</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>pdf-type</meta-name>
+					<meta-value>Typeset</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>target-type</meta-name>
+					<meta-value>OnlinePDF</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>issue-online-date-year</meta-name>
+					<meta-value>2021</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>issue-online-date-month</meta-name>
+					<meta-value>9</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>issue-online-date-day</meta-name>
+					<meta-value>20</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>issue-print-date-year</meta-name>
+					<meta-value>2021</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>issue-print-date-month</meta-name>
+					<meta-value>9</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>issue-print-date-day</meta-name>
+					<meta-value>20</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>issue-type</meta-name>
+					<meta-value>Regular</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>article-type</meta-name>
+					<meta-value>OriginalPaper</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>journal-subject-primary</meta-name>
+					<meta-value>Materials Science</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>journal-subject-secondary</meta-name>
+					<meta-value>Metallic Materials</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>journal-subject-secondary</meta-name>
+					<meta-value>Characterization and Evaluation of Materials</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>journal-subject-secondary</meta-name>
+					<meta-value>Structural Materials</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>journal-subject-secondary</meta-name>
+					<meta-value>Surfaces and Interfaces, Thin Films</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>journal-subject-secondary</meta-name>
+					<meta-value>Nanotechnology</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>journal-subject-collection</meta-name>
+					<meta-value>Chemistry and Materials Science</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>open-access</meta-name>
+					<meta-value>true</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>body</meta-name>
+					<meta-value>absent</meta-value>
+				</custom-meta>
+			</custom-meta-group>
+		</article-meta>
+		<notes notes-type="Misc">
+			<p>Manuscript submitted 3 February 2021; accepted 22 May 2021.</p>
+		</notes>
+	</front>
+	<back>
+		<ref-list id="Bib1">
+			<title>References</title>
+			<ref-list>
+				<ref id="CR1">
+					<label>1.</label>
+					<mixed-citation publication-type="other">long-term strategy | Climate Action,
+						<ext-link xlink:href="https://ec.europa.eu/clima/policies/strategies/2050_en" ext-link-type="url">https://ec.europa.eu/clima/policies/strategies/2050_en</ext-link>. Accessed 2 January 2021.
+					</mixed-citation>
+				</ref>
+				<ref id="CR2">
+					<label>2.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Mallapay</surname>
+								<given-names>S.</given-names>
+							</name>
+						</person-group>
+						<source>Nature</source>
+						<year>2020</year>
+						<volume>586</volume>
+						<fpage>482</fpage>
+						<lpage>83</lpage>
+						<pub-id pub-id-type="doi">10.1038/d41586-020-02927-9</pub-id>
+						<pub-id pub-id-type="coi">1:CAS:528:DC%2BB3cXitFKjsr%2FE</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR3">
+					<label>3.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Safarian</surname>
+								<given-names>J.</given-names>
+							</name>
+							<name>
+								<surname>Tangstad</surname>
+								<given-names>M.</given-names>
+							</name>
+						</person-group>
+						<source>Energy Procedia</source>
+						<year>2012</year>
+						<volume>20</volume>
+						<fpage>88</fpage>
+						<lpage>97</lpage>
+						<pub-id pub-id-type="coi">1:CAS:528:DC%2BC38XpsVWku7o%3D</pub-id>
+						<pub-id pub-id-type="doi">10.1016/j.egypro.2012.03.011</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR4">
+					<label>4.</label>
+					<mixed-citation publication-type="book">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Murgau</surname>
+								<given-names>A.</given-names>
+							</name>
+							<name>
+								<surname>Safarian</surname>
+								<given-names>J.</given-names>
+							</name>
+						</person-group>
+						<source>In Silicon for the Chemical and Solar Industry XIV</source>
+						<year>2018</year>
+						<publisher-loc>Norway</publisher-loc>
+						<publisher-name>Svolvær</publisher-name>
+						<fpage>183</fpage>
+						<lpage>92</lpage>
+					</mixed-citation>
+				</ref>
+				<ref id="CR5">
+					<label>5.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Safarian</surname>
+								<given-names>J.</given-names>
+							</name>
+							<name>
+								<surname>Tranell</surname>
+								<given-names>G.</given-names>
+							</name>
+							<name>
+								<surname>Tangstad</surname>
+								<given-names>M.</given-names>
+							</name>
+						</person-group>
+						<source>Metall. Mater. Trans. B</source>
+						<year>2013</year>
+						<volume>44</volume>
+						<fpage>571</fpage>
+						<lpage>83</lpage>
+						<pub-id pub-id-type="coi">1:CAS:528:DC%2BC3sXntV2it74%3D</pub-id>
+						<pub-id pub-id-type="doi">10.1007/s11663-013-9823-y</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR6">
+					<label>6.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Safarian</surname>
+								<given-names>J.</given-names>
+							</name>
+						</person-group>
+						<source>Silicon</source>
+						<year>2019</year>
+						<volume>11</volume>
+						<fpage>437</fpage>
+						<lpage>51</lpage>
+						<pub-id pub-id-type="coi">1:CAS:528:DC%2BC1cXhtVyqsbnM</pub-id>
+						<pub-id pub-id-type="doi">10.1007/s12633-018-9919-8</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR7">
+					<label>7.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Chen</surname>
+								<given-names>H.</given-names>
+							</name>
+							<name>
+								<surname>Morita</surname>
+								<given-names>K.</given-names>
+							</name>
+							<name>
+								<surname>Ma</surname>
+								<given-names>X.</given-names>
+							</name>
+							<name>
+								<surname>Chen</surname>
+								<given-names>Z.</given-names>
+							</name>
+							<name>
+								<surname>Wang</surname>
+								<given-names>Y.</given-names>
+							</name>
+						</person-group>
+						<source>Sol. Energy Mater. Sol. Cells</source>
+						<year>2019</year>
+						<volume>203</volume>
+						<fpage>110169</fpage>
+						<pub-id pub-id-type="coi">1:CAS:528:DC%2BC1MXhslCnsrbI</pub-id>
+						<pub-id pub-id-type="doi">10.1016/j.solmat.2019.110169</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR8">
+					<label>8.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Zhu</surname>
+								<given-names>M.</given-names>
+							</name>
+							<name>
+								<surname>Azarov</surname>
+								<given-names>A.</given-names>
+							</name>
+							<name>
+								<surname>Monakhov</surname>
+								<given-names>E.</given-names>
+							</name>
+							<name>
+								<surname>Tang</surname>
+								<given-names>K.</given-names>
+							</name>
+							<name>
+								<surname>Safarian</surname>
+								<given-names>J.</given-names>
+							</name>
+						</person-group>
+						<source>Sep. Purif. Technol.</source>
+						<year>2020</year>
+						<volume>240</volume>
+						<fpage>16614</fpage>
+						<pub-id pub-id-type="doi">10.1016/j.seppur.2020.116614</pub-id>
+						<pub-id pub-id-type="coi">1:CAS:528:DC%2BB3cXisVaju7o%3D</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR9">
+					<label>9.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Zhu</surname>
+								<given-names>M.</given-names>
+							</name>
+							<name>
+								<surname>Yue</surname>
+								<given-names>SY.</given-names>
+							</name>
+							<name>
+								<surname>Tang</surname>
+								<given-names>K.</given-names>
+							</name>
+							<name>
+								<surname>Safarian</surname>
+								<given-names>J.</given-names>
+							</name>
+						</person-group>
+						<source>ACS Sustain. Chem. Eng.</source>
+						<year>2020</year>
+						<volume>8</volume>
+						<fpage>15953</fpage>
+						<lpage>66</lpage>
+						<pub-id pub-id-type="coi">1:CAS:528:DC%2BB3cXitVeqsr7L</pub-id>
+						<pub-id pub-id-type="doi">10.1021/acssuschemeng.0c05564</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR10">
+					<label>10.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Trumbore</surname>
+								<given-names>F.A.</given-names>
+							</name>
+						</person-group>
+						<source>Bell Syst. Tech. J.</source>
+						<year>1960</year>
+						<volume>39</volume>
+						<fpage>205</fpage>
+						<lpage>33</lpage>
+						<pub-id pub-id-type="doi">10.1002/j.1538-7305.1960.tb03928.x</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR11">
+					<label>11.</label>
+					<mixed-citation publication-type="other">S. Thomas, L. Huang, and M. Barati:
+						<italic>JOM</italic>, 2021, vol. 73, pp. 260–81.
+					</mixed-citation>
+				</ref>
+				<ref id="CR12">
+					<label>12.</label>
+					<mixed-citation publication-type="other">S. Thomas, M. Barati, and K. Morita:
+						<italic>JOM</italic>, 2021, vol. 73, pp. 282–92.
+					</mixed-citation>
+				</ref>
+				<ref id="CR13">
+					<label>13.</label>
+					<mixed-citation publication-type="other">A. Hosseinpour and L. Tafaghodi Khajavi:
+						<italic>Miner. Process. Extr. Metall. Rev.</italic>, 2018, vol. 39, pp. 308–18.
+					</mixed-citation>
+				</ref>
+				<ref id="CR14">
+					<label>14.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Wu</surname>
+								<given-names>J.</given-names>
+							</name>
+							<name>
+								<surname>Yang</surname>
+								<given-names>D.</given-names>
+							</name>
+							<name>
+								<surname>Xu</surname>
+								<given-names>M.</given-names>
+							</name>
+							<name>
+								<surname>Ma</surname>
+								<given-names>W.</given-names>
+							</name>
+							<name>
+								<surname>Zhou</surname>
+								<given-names>Q.</given-names>
+							</name>
+							<name>
+								<surname>Xia</surname>
+								<given-names>Z.</given-names>
+							</name>
+							<name>
+								<surname>Lei</surname>
+								<given-names>Y.</given-names>
+							</name>
+							<name>
+								<surname>Wei</surname>
+								<given-names>K.</given-names>
+							</name>
+							<name>
+								<surname>Li</surname>
+								<given-names>S.</given-names>
+							</name>
+							<name>
+								<surname>Chen</surname>
+								<given-names>Z.</given-names>
+							</name>
+							<name>
+								<surname>Xie</surname>
+								<given-names>K.</given-names>
+							</name>
+						</person-group>
+						<source>Sep. Purif. Rev.</source>
+						<year>2020</year>
+						<volume>49</volume>
+						<fpage>68</fpage>
+						<lpage>88</lpage>
+						<pub-id pub-id-type="coi">1:CAS:528:DC%2BC1cXhvVCgsr7L</pub-id>
+						<pub-id pub-id-type="doi">10.1080/15422119.2018.1523191</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR15">
+					<label>15.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Jakobsson</surname>
+								<given-names>L.K.</given-names>
+							</name>
+							<name>
+								<surname>Tangstad</surname>
+								<given-names>M.</given-names>
+							</name>
+						</person-group>
+						<source>Metall. Mater. Trans. B</source>
+						<year>2014</year>
+						<volume>45</volume>
+						<fpage>1644</fpage>
+						<lpage>55</lpage>
+						<pub-id pub-id-type="coi">1:CAS:528:DC%2BC2cXosFClurk%3D</pub-id>
+						<pub-id pub-id-type="doi">10.1007/s11663-014-0088-x</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR16">
+					<label>16.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Teixeira</surname>
+								<given-names>L.A.V.</given-names>
+							</name>
+							<name>
+								<surname>Tokuda</surname>
+								<given-names>Y.</given-names>
+							</name>
+							<name>
+								<surname>Yoko</surname>
+								<given-names>T.</given-names>
+							</name>
+							<name>
+								<surname>Morita</surname>
+								<given-names>K.</given-names>
+							</name>
+						</person-group>
+						<source>ISIJ Int.</source>
+						<year>2009</year>
+						<volume>49</volume>
+						<fpage>777</fpage>
+						<lpage>82</lpage>
+						<pub-id pub-id-type="coi">1:CAS:528:DC%2BD1MXotlWqsbo%3D</pub-id>
+						<pub-id pub-id-type="doi">10.2355/isijinternational.49.777</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR17">
+					<label>17.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Weiss</surname>
+								<given-names>T.</given-names>
+							</name>
+							<name>
+								<surname>Schwerdtfeger</surname>
+								<given-names>K.</given-names>
+							</name>
+						</person-group>
+						<source>Metall. Mater. Trans. B</source>
+						<year>1994</year>
+						<volume>25</volume>
+						<fpage>497</fpage>
+						<lpage>504</lpage>
+						<pub-id pub-id-type="doi">10.1007/BF02650071</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR18">
+					<label>18.</label>
+					<mixed-citation publication-type="other">K. Suzuki and N. Sano:
+						<italic>10th Eur. Photovolt. Sol. Energy Conf.</italic>, 1991, pp. 273–75.
+					</mixed-citation>
+				</ref>
+				<ref id="CR19">
+					<label>19.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Wei</surname>
+								<given-names>K.X.</given-names>
+							</name>
+							<name>
+								<surname>Lu</surname>
+								<given-names>H.F.</given-names>
+							</name>
+							<name>
+								<surname>Ma</surname>
+								<given-names>W.H.</given-names>
+							</name>
+							<name>
+								<surname>Li</surname>
+								<given-names>Y.L.</given-names>
+							</name>
+							<name>
+								<surname>Ding</surname>
+								<given-names>Z.</given-names>
+							</name>
+							<name>
+								<surname>Wu</surname>
+								<given-names>J.J.</given-names>
+							</name>
+							<name>
+								<surname>Dai</surname>
+								<given-names>Y.N.</given-names>
+							</name>
+						</person-group>
+						<source>Rare Met.</source>
+						<year>2015</year>
+						<volume>34</volume>
+						<fpage>522</fpage>
+						<lpage>26</lpage>
+						<pub-id pub-id-type="coi">1:CAS:528:DC%2BC2MXpt1ans7o%3D</pub-id>
+						<pub-id pub-id-type="doi">10.1007/s12598-015-0496-3</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR20">
+					<label>20.</label>
+					<mixed-citation publication-type="other">H.M. Liaw and F. Secco d’Aragona:
+						<italic>Sol. Cells</italic>, 1983, vol. 10, pp. 109–18.
+					</mixed-citation>
+				</ref>
+				<ref id="CR21">
+					<label>21.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>White</surname>
+								<given-names>JF.</given-names>
+							</name>
+							<name>
+								<surname>Allertz</surname>
+								<given-names>C.</given-names>
+							</name>
+							<name>
+								<surname>Du</surname>
+								<given-names>S.</given-names>
+							</name>
+						</person-group>
+						<source>Int. J. Mater. Res.</source>
+						<year>2013</year>
+						<volume>104</volume>
+						<fpage>229</fpage>
+						<lpage>34</lpage>
+						<pub-id pub-id-type="coi">1:CAS:528:DC%2BC3sXkvVOhtLw%3D</pub-id>
+						<pub-id pub-id-type="doi">10.3139/146.110867</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR22">
+					<label>22.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Jakobsson</surname>
+								<given-names>L.K.</given-names>
+							</name>
+							<name>
+								<surname>Tangstad</surname>
+								<given-names>M.</given-names>
+							</name>
+						</person-group>
+						<source>Metall. Mater. Trans. B</source>
+						<year>2015</year>
+						<volume>46</volume>
+						<fpage>595</fpage>
+						<lpage>605</lpage>
+						<pub-id pub-id-type="coi">1:CAS:528:DC%2BC2MXhvV2qs7c%3D</pub-id>
+						<pub-id pub-id-type="doi">10.1007/s11663-014-0268-8</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR23">
+					<label>23.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Safarian</surname>
+								<given-names>J.</given-names>
+							</name>
+							<name>
+								<surname>Tranell</surname>
+								<given-names>G.</given-names>
+							</name>
+							<name>
+								<surname>Tangstad</surname>
+								<given-names>M.</given-names>
+							</name>
+						</person-group>
+						<source>Metall. Mater. Trans. E</source>
+						<year>2015</year>
+						<volume>2</volume>
+						<fpage>109</fpage>
+						<lpage>18</lpage>
+						<pub-id pub-id-type="coi">1:CAS:528:DC%2BC28XhslKksL4%3D</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR24">
+					<label>24.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Teixeira</surname>
+								<given-names>L.A.V.</given-names>
+							</name>
+							<name>
+								<surname>Morita</surname>
+								<given-names>K.</given-names>
+							</name>
+						</person-group>
+						<source>ISIJ Int.</source>
+						<year>2009</year>
+						<volume>49</volume>
+						<fpage>783</fpage>
+						<lpage>87</lpage>
+						<pub-id pub-id-type="coi">1:CAS:528:DC%2BD1MXotlWqsbs%3D</pub-id>
+						<pub-id pub-id-type="doi">10.2355/isijinternational.49.783</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR25">
+					<label>25.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Jung</surname>
+								<given-names>E.J.</given-names>
+							</name>
+							<name>
+								<surname>Moon</surname>
+								<given-names>B.M.</given-names>
+							</name>
+							<name>
+								<surname>Seok</surname>
+								<given-names>S.H.</given-names>
+							</name>
+							<name>
+								<surname>Min</surname>
+								<given-names>D.J.</given-names>
+							</name>
+						</person-group>
+						<source>Energy</source>
+						<year>2014</year>
+						<volume>66</volume>
+						<fpage>35</fpage>
+						<lpage>40</lpage>
+						<pub-id pub-id-type="coi">1:CAS:528:DC%2BC3sXhsVSnsrrF</pub-id>
+						<pub-id pub-id-type="doi">10.1016/j.energy.2013.08.010</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR26">
+					<label>26.</label>
+					<mixed-citation publication-type="other">A. Hosseinpour and L. Tafaghodi Khajavi:
+						<italic>Metall. Mater. Trans. B</italic>, 2019, vol. 50, pp. 1773–81.
+					</mixed-citation>
+				</ref>
+				<ref id="CR27">
+					<label>27.</label>
+					<mixed-citation publication-type="other">A. Hosseinpour and L. Tafaghodi Khajavi:
+						<italic>J. Alloys Compd.</italic>, 2018, vol. 768, pp. 545–52.
+					</mixed-citation>
+				</ref>
+				<ref id="CR28">
+					<label>28.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Johnston</surname>
+								<given-names>M.D.</given-names>
+							</name>
+							<name>
+								<surname>Barati</surname>
+								<given-names>M.</given-names>
+							</name>
+						</person-group>
+						<source>Sol. Energy Mater. Sol. Cells</source>
+						<year>2010</year>
+						<volume>94</volume>
+						<fpage>2085</fpage>
+						<lpage>90</lpage>
+						<pub-id pub-id-type="coi">1:CAS:528:DC%2BC3cXht1eltrfJ</pub-id>
+						<pub-id pub-id-type="doi">10.1016/j.solmat.2010.06.025</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR29">
+					<label>29.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Jakobsson</surname>
+								<given-names>L.K.</given-names>
+							</name>
+							<name>
+								<surname>Tangstad</surname>
+								<given-names>M.</given-names>
+							</name>
+						</person-group>
+						<source>Metall. Mater. Trans. B</source>
+						<year>2018</year>
+						<volume>49</volume>
+						<fpage>1699</fpage>
+						<lpage>1708</lpage>
+						<pub-id pub-id-type="coi">1:CAS:528:DC%2BC1cXnt1egsb8%3D</pub-id>
+						<pub-id pub-id-type="doi">10.1007/s11663-018-1250-7</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR30">
+					<label>30.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Wang</surname>
+								<given-names>Y.</given-names>
+							</name>
+							<name>
+								<surname>Morita</surname>
+								<given-names>K.</given-names>
+							</name>
+						</person-group>
+						<source>J. Sustain. Metall.</source>
+						<year>2015</year>
+						<volume>1</volume>
+						<fpage>126</fpage>
+						<lpage>33</lpage>
+						<pub-id pub-id-type="doi">10.1007/s40831-015-0015-7</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR31">
+					<label>31.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Chen</surname>
+								<given-names>H.</given-names>
+							</name>
+							<name>
+								<surname>Wang</surname>
+								<given-names>Y.</given-names>
+							</name>
+							<name>
+								<surname>Zheng</surname>
+								<given-names>W.</given-names>
+							</name>
+							<name>
+								<surname>Li</surname>
+								<given-names>Q.</given-names>
+							</name>
+							<name>
+								<surname>Yuan</surname>
+								<given-names>X.</given-names>
+							</name>
+							<name>
+								<surname>Morita</surname>
+								<given-names>K.</given-names>
+							</name>
+						</person-group>
+						<source>Metall. Mater. Trans. B</source>
+						<year>2017</year>
+						<volume>48</volume>
+						<fpage>3219</fpage>
+						<lpage>27</lpage>
+						<pub-id pub-id-type="coi">1:CAS:528:DC%2BC2sXhs1Wgs7jF</pub-id>
+						<pub-id pub-id-type="doi">10.1007/s11663-017-1105-7</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR32">
+					<label>32.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Huang</surname>
+								<given-names>L.</given-names>
+							</name>
+							<name>
+								<surname>Lai</surname>
+								<given-names>H.</given-names>
+							</name>
+							<name>
+								<surname>Lu</surname>
+								<given-names>C.</given-names>
+							</name>
+							<name>
+								<surname>Fang</surname>
+								<given-names>M.</given-names>
+							</name>
+							<name>
+								<surname>Ma</surname>
+								<given-names>W.</given-names>
+							</name>
+							<name>
+								<surname>Xing</surname>
+								<given-names>P.</given-names>
+							</name>
+							<name>
+								<surname>Luo</surname>
+								<given-names>X.</given-names>
+							</name>
+							<name>
+								<surname>Li</surname>
+								<given-names>J.</given-names>
+							</name>
+						</person-group>
+						<source>J. Electron. Mater.</source>
+						<year>2016</year>
+						<volume>45</volume>
+						<fpage>541</fpage>
+						<lpage>52</lpage>
+						<pub-id pub-id-type="coi">1:CAS:528:DC%2BC2MXhvVGms7zF</pub-id>
+						<pub-id pub-id-type="doi">10.1007/s11664-015-4146-1</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR33">
+					<label>33.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Ma</surname>
+								<given-names>X.</given-names>
+							</name>
+							<name>
+								<surname>Yoshikawa</surname>
+								<given-names>T.</given-names>
+							</name>
+							<name>
+								<surname>Morita</surname>
+								<given-names>K.</given-names>
+							</name>
+						</person-group>
+						<source>Sep. Purif. Technol.</source>
+						<year>2014</year>
+						<volume>125</volume>
+						<fpage>264</fpage>
+						<lpage>68</lpage>
+						<pub-id pub-id-type="coi">1:CAS:528:DC%2BC2cXltFeqsLc%3D</pub-id>
+						<pub-id pub-id-type="doi">10.1016/j.seppur.2014.02.003</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR34">
+					<label>34.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Cheng</surname>
+								<given-names>H.</given-names>
+							</name>
+							<name>
+								<surname>Zheng</surname>
+								<given-names>S.</given-names>
+							</name>
+							<name>
+								<surname>Chen</surname>
+								<given-names>C.</given-names>
+							</name>
+						</person-group>
+						<source>JOM</source>
+						<year>2019</year>
+						<volume>71</volume>
+						<fpage>2120</fpage>
+						<lpage>27</lpage>
+						<pub-id pub-id-type="coi">1:CAS:528:DC%2BC1MXptFGiu70%3D</pub-id>
+						<pub-id pub-id-type="doi">10.1007/s11837-019-03450-7</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR35">
+					<label>35.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Johnston</surname>
+								<given-names>M.D.</given-names>
+							</name>
+							<name>
+								<surname>Barati</surname>
+								<given-names>M.</given-names>
+							</name>
+						</person-group>
+						<source>J. Non. Cryst. Solids</source>
+						<year>2011</year>
+						<volume>357</volume>
+						<fpage>970</fpage>
+						<lpage>75</lpage>
+						<pub-id pub-id-type="coi">1:CAS:528:DC%2BC3MXht1ymt7w%3D</pub-id>
+						<pub-id pub-id-type="doi">10.1016/j.jnoncrysol.2010.10.033</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR36">
+					<label>36.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Sakamoto</surname>
+								<given-names>M.</given-names>
+							</name>
+							<name>
+								<surname>Yanaba</surname>
+								<given-names>Y.</given-names>
+							</name>
+							<name>
+								<surname>Yamamura</surname>
+								<given-names>H.</given-names>
+							</name>
+							<name>
+								<surname>Morita</surname>
+								<given-names>K.</given-names>
+							</name>
+						</person-group>
+						<source>ISIJ Int.</source>
+						<year>2013</year>
+						<volume>53</volume>
+						<fpage>1143</fpage>
+						<lpage>51</lpage>
+						<pub-id pub-id-type="coi">1:CAS:528:DC%2BC3sXhtF2ntb%2FF</pub-id>
+						<pub-id pub-id-type="doi">10.2355/isijinternational.53.1143</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR37">
+					<label>37.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Kline</surname>
+								<given-names>J.</given-names>
+							</name>
+							<name>
+								<surname>Tangstad</surname>
+								<given-names>M.</given-names>
+							</name>
+							<name>
+								<surname>Tranell</surname>
+								<given-names>G.</given-names>
+							</name>
+						</person-group>
+						<source>Metall. Mater. Trans. B</source>
+						<year>2014</year>
+						<volume>46</volume>
+						<fpage>62</fpage>
+						<lpage>73</lpage>
+						<pub-id pub-id-type="doi">10.1007/s11663-014-0194-9</pub-id>
+						<pub-id pub-id-type="coi">1:CAS:528:DC%2BC2cXhs1Sht7bO</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR38">
+					<label>38.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Qian</surname>
+								<given-names>G.</given-names>
+							</name>
+							<name>
+								<surname>Wang</surname>
+								<given-names>Z.</given-names>
+							</name>
+							<name>
+								<surname>Gong</surname>
+								<given-names>X.</given-names>
+							</name>
+							<name>
+								<surname>Sun</surname>
+								<given-names>L.</given-names>
+							</name>
+						</person-group>
+						<source>Metall. Mater. Trans. B</source>
+						<year>2017</year>
+						<volume>48</volume>
+						<fpage>3239</fpage>
+						<lpage>50</lpage>
+						<pub-id pub-id-type="coi">1:CAS:528:DC%2BC2sXhs1GktLrF</pub-id>
+						<pub-id pub-id-type="doi">10.1007/s11663-017-1097-3</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR39">
+					<label>39.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Hou</surname>
+								<given-names>Y.</given-names>
+							</name>
+							<name>
+								<surname>Wu</surname>
+								<given-names>Y.D.</given-names>
+							</name>
+							<name>
+								<surname>Zhang</surname>
+								<given-names>G.H.</given-names>
+							</name>
+							<name>
+								<surname>Chou</surname>
+								<given-names>K.C.</given-names>
+							</name>
+						</person-group>
+						<source>Metall. Res. Technol.</source>
+						<year>2019</year>
+						<volume>116</volume>
+						<fpage>1</fpage>
+						<lpage>7</lpage>
+						<pub-id pub-id-type="doi">10.1051/metal/2019001</pub-id>
+						<pub-id pub-id-type="coi">1:CAS:528:DC%2BB3cXhtFeqtrzO</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR40">
+					<label>40.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Ma</surname>
+								<given-names>X.</given-names>
+							</name>
+							<name>
+								<surname>Yoshikawa</surname>
+								<given-names>T.</given-names>
+							</name>
+							<name>
+								<surname>Morita</surname>
+								<given-names>K.</given-names>
+							</name>
+						</person-group>
+						<source>Metall. Mater. Trans. B</source>
+						<year>2013</year>
+						<volume>44</volume>
+						<fpage>528</fpage>
+						<lpage>33</lpage>
+						<pub-id pub-id-type="coi">1:CAS:528:DC%2BC3sXntV2it78%3D</pub-id>
+						<pub-id pub-id-type="doi">10.1007/s11663-013-9812-1</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR41">
+					<label>41.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Li</surname>
+								<given-names>J.</given-names>
+							</name>
+							<name>
+								<surname>Cao</surname>
+								<given-names>P.</given-names>
+							</name>
+							<name>
+								<surname>Ni</surname>
+								<given-names>P.</given-names>
+							</name>
+							<name>
+								<surname>Li</surname>
+								<given-names>Y.</given-names>
+							</name>
+							<name>
+								<surname>Tan</surname>
+								<given-names>Y.</given-names>
+							</name>
+						</person-group>
+						<source>Sep. Sci. Technol.</source>
+						<year>2016</year>
+						<volume>51</volume>
+						<fpage>1</fpage>
+						<lpage>6</lpage>
+						<pub-id pub-id-type="doi">10.1080/01496395.2016.1165702</pub-id>
+						<pub-id pub-id-type="coi">1:CAS:528:DC%2BC28XnvFKltro%3D</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR42">
+					<label>42.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Al-khazraji</surname>
+								<given-names>R.</given-names>
+							</name>
+							<name>
+								<surname>Li</surname>
+								<given-names>Y.</given-names>
+							</name>
+							<name>
+								<surname>Zhang</surname>
+								<given-names>L.</given-names>
+							</name>
+						</person-group>
+						<source>Int. J. Miner. Metall. Mater.</source>
+						<year>2018</year>
+						<volume>25</volume>
+						<fpage>1439</fpage>
+						<lpage>46</lpage>
+						<pub-id pub-id-type="coi">1:CAS:528:DC%2BC1cXisFOntb3N</pub-id>
+						<pub-id pub-id-type="doi">10.1007/s12613-018-1698-0</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR43">
+					<label>43.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Li</surname>
+								<given-names>M.</given-names>
+							</name>
+							<name>
+								<surname>Utigard</surname>
+								<given-names>T.</given-names>
+							</name>
+							<name>
+								<surname>Barati</surname>
+								<given-names>M.</given-names>
+							</name>
+						</person-group>
+						<source>Metall. Mater. Trans. B</source>
+						<year>2014</year>
+						<volume>45</volume>
+						<fpage>221</fpage>
+						<lpage>28</lpage>
+						<pub-id pub-id-type="coi">1:CAS:528:DC%2BC2cXksFWnuw%3D%3D</pub-id>
+						<pub-id pub-id-type="doi">10.1007/s11663-013-0011-x</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR44">
+					<label>44.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Huang</surname>
+								<given-names>L.</given-names>
+							</name>
+							<name>
+								<surname>Lai</surname>
+								<given-names>H.</given-names>
+							</name>
+							<name>
+								<surname>Gan</surname>
+								<given-names>C.</given-names>
+							</name>
+							<name>
+								<surname>Xiong</surname>
+								<given-names>H.</given-names>
+							</name>
+							<name>
+								<surname>Xing</surname>
+								<given-names>P.</given-names>
+							</name>
+							<name>
+								<surname>Luo</surname>
+								<given-names>X.</given-names>
+							</name>
+						</person-group>
+						<source>Sep. Purif. Technol.</source>
+						<year>2016</year>
+						<volume>170</volume>
+						<fpage>408</fpage>
+						<lpage>16</lpage>
+						<pub-id pub-id-type="coi">1:CAS:528:DC%2BC28XhtFGjtb%2FE</pub-id>
+						<pub-id pub-id-type="doi">10.1016/j.seppur.2016.07.004</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR45">
+					<label>45.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Krystad</surname>
+								<given-names>E.</given-names>
+							</name>
+							<name>
+								<surname>Jakobsson</surname>
+								<given-names>L.K.</given-names>
+							</name>
+							<name>
+								<surname>Tang</surname>
+								<given-names>K.</given-names>
+							</name>
+							<name>
+								<surname>Tranell</surname>
+								<given-names>G.</given-names>
+							</name>
+						</person-group>
+						<source>Metall. Mater. Trans. B</source>
+						<year>2017</year>
+						<volume>48</volume>
+						<fpage>2574</fpage>
+						<lpage>82</lpage>
+						<pub-id pub-id-type="coi">1:CAS:528:DC%2BC2sXhtVWqtr7N</pub-id>
+						<pub-id pub-id-type="doi">10.1007/s11663-017-1015-8</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR46">
+					<label>46.</label>
+					<mixed-citation publication-type="other">M. Zhu, S. Yue, G. Wu, K. Tang, Y. Xu, and J. Safarian:
+						<italic>Sep. Purif. Technol.</italic>, 2021, p. 118675.
+					</mixed-citation>
+				</ref>
+				<ref id="CR47">
+					<label>47.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Zhu</surname>
+								<given-names>M.</given-names>
+							</name>
+							<name>
+								<surname>Wan</surname>
+								<given-names>D.</given-names>
+							</name>
+							<name>
+								<surname>Tang</surname>
+								<given-names>K.</given-names>
+							</name>
+							<name>
+								<surname>Safarian</surname>
+								<given-names>J.</given-names>
+							</name>
+						</person-group>
+						<source>Mater. Des.</source>
+						<year>2020</year>
+						<volume>198</volume>
+						<pub-id pub-id-type="doi">10.1016/j.matdes.2020.109348</pub-id>
+						<pub-id pub-id-type="coi">1:CAS:528:DC%2BB3cXis1agu7vO</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR48">
+					<label>48.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Plimpton</surname>
+								<given-names>S.</given-names>
+							</name>
+						</person-group>
+						<source>J. Comput. Phys.</source>
+						<year>1995</year>
+						<volume>117</volume>
+						<fpage>1</fpage>
+						<lpage>19</lpage>
+						<pub-id pub-id-type="coi">1:CAS:528:DyaK2MXlt1ejs7Y%3D</pub-id>
+						<pub-id pub-id-type="doi">10.1006/jcph.1995.1039</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR49">
+					<label>49.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Du</surname>
+								<given-names>J.</given-names>
+							</name>
+							<name>
+								<surname>Cormack</surname>
+								<given-names>AN.</given-names>
+							</name>
+						</person-group>
+						<source>J. Non. Cryst. Solids</source>
+						<year>2004</year>
+						<volume>349</volume>
+						<fpage>66</fpage>
+						<lpage>79</lpage>
+						<pub-id pub-id-type="coi">1:CAS:528:DC%2BD2cXhtVSrt7nF</pub-id>
+						<pub-id pub-id-type="doi">10.1016/j.jnoncrysol.2004.08.264</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR50">
+					<label>50.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Duffy</surname>
+								<given-names>J.A.</given-names>
+							</name>
+						</person-group>
+						<source>Phys. Chem. Glas.</source>
+						<year>2005</year>
+						<volume>46</volume>
+						<fpage>1</fpage>
+						<lpage>6</lpage>
+						<pub-id pub-id-type="coi">1:CAS:528:DC%2BD2MXht1Wqtr3J</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR51">
+					<label>51.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Waseda</surname>
+								<given-names>Y.</given-names>
+							</name>
+							<name>
+								<surname>Toguri</surname>
+								<given-names>J.M.</given-names>
+							</name>
+						</person-group>
+						<source>Metall. Trans. B</source>
+						<year>1977</year>
+						<volume>8</volume>
+						<fpage>563</fpage>
+						<lpage>68</lpage>
+						<pub-id pub-id-type="doi">10.1007/BF02669331</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR52">
+					<label>52.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Cicconi</surname>
+								<given-names>M.R.</given-names>
+							</name>
+							<name>
+								<surname>Giuli</surname>
+								<given-names>G.</given-names>
+							</name>
+							<name>
+								<surname>Paris</surname>
+								<given-names>E.</given-names>
+							</name>
+							<name>
+								<surname>Courtial</surname>
+								<given-names>P.</given-names>
+							</name>
+							<name>
+								<surname>Dingwell</surname>
+								<given-names>D.B.</given-names>
+							</name>
+						</person-group>
+						<source>J. Non. Cryst. Solids</source>
+						<year>2013</year>
+						<volume>362</volume>
+						<fpage>162</fpage>
+						<lpage>68</lpage>
+						<pub-id pub-id-type="coi">1:CAS:528:DC%2BC3sXhsFSrurg%3D</pub-id>
+						<pub-id pub-id-type="doi">10.1016/j.jnoncrysol.2012.11.035</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR53">
+					<label>53.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Angeli</surname>
+								<given-names>F.</given-names>
+							</name>
+							<name>
+								<surname>Charpentier</surname>
+								<given-names>T.</given-names>
+							</name>
+							<name>
+								<surname>Molières</surname>
+								<given-names>E.</given-names>
+							</name>
+							<name>
+								<surname>Soleilhavoup</surname>
+								<given-names>A.</given-names>
+							</name>
+							<name>
+								<surname>Jollivet</surname>
+								<given-names>P.</given-names>
+							</name>
+							<name>
+								<surname>Gin</surname>
+								<given-names>S.</given-names>
+							</name>
+						</person-group>
+						<source>J. Non. Cryst. Solids</source>
+						<year>2013</year>
+						<volume>376</volume>
+						<fpage>189</fpage>
+						<lpage>98</lpage>
+						<pub-id pub-id-type="coi">1:CAS:528:DC%2BC3sXht1Sqs7vP</pub-id>
+						<pub-id pub-id-type="doi">10.1016/j.jnoncrysol.2013.05.042</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR54">
+					<label>54.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Nesbitt</surname>
+								<given-names>H.W.</given-names>
+							</name>
+							<name>
+								<surname>Bancroft</surname>
+								<given-names>G.M.</given-names>
+							</name>
+							<name>
+								<surname>Henderson</surname>
+								<given-names>G.S.</given-names>
+							</name>
+							<name>
+								<surname>Ho</surname>
+								<given-names>R.</given-names>
+							</name>
+							<name>
+								<surname>Dalby</surname>
+								<given-names>K.N.</given-names>
+							</name>
+							<name>
+								<surname>Huang</surname>
+								<given-names>Y.</given-names>
+							</name>
+							<name>
+								<surname>Yan</surname>
+								<given-names>Z.</given-names>
+							</name>
+						</person-group>
+						<source>J. Non. Cryst. Solids</source>
+						<year>2011</year>
+						<volume>357</volume>
+						<fpage>170</fpage>
+						<lpage>80</lpage>
+						<pub-id pub-id-type="coi">1:CAS:528:DC%2BC3cXhsFahs7bE</pub-id>
+						<pub-id pub-id-type="doi">10.1016/j.jnoncrysol.2010.09.031</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR55">
+					<label>55.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Hehlen</surname>
+								<given-names>B.</given-names>
+							</name>
+							<name>
+								<surname>Neuville</surname>
+								<given-names>DR.</given-names>
+							</name>
+							<name>
+								<surname>Kilymis</surname>
+								<given-names>D.</given-names>
+							</name>
+							<name>
+								<surname>Ispas</surname>
+								<given-names>S.</given-names>
+							</name>
+						</person-group>
+						<source>J. Non. Cryst. Solids</source>
+						<year>2017</year>
+						<volume>469</volume>
+						<fpage>39</fpage>
+						<lpage>44</lpage>
+						<pub-id pub-id-type="coi">1:CAS:528:DC%2BC2sXmsFGltbY%3D</pub-id>
+						<pub-id pub-id-type="doi">10.1016/j.jnoncrysol.2017.04.009</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR56">
+					<label>56.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Le Losq</surname>
+								<given-names>C.</given-names>
+							</name>
+							<name>
+								<surname>Neuville</surname>
+								<given-names>D.R.</given-names>
+							</name>
+							<name>
+								<surname>Chen</surname>
+								<given-names>W.</given-names>
+							</name>
+							<name>
+								<surname>Florian</surname>
+								<given-names>P.</given-names>
+							</name>
+							<name>
+								<surname>Massiot</surname>
+								<given-names>D.</given-names>
+							</name>
+							<name>
+								<surname>Zhou</surname>
+								<given-names>Z.</given-names>
+							</name>
+							<name>
+								<surname>Greaves</surname>
+								<given-names>G.N.</given-names>
+							</name>
+						</person-group>
+						<source>Sci. Rep.</source>
+						<year>2017</year>
+						<volume>7</volume>
+						<fpage>1</fpage>
+						<lpage>12</lpage>
+						<pub-id pub-id-type="doi">10.1038/s41598-016-0028-x</pub-id>
+						<pub-id pub-id-type="coi">1:CAS:528:DC%2BC1cXhs1CltLvP</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR57">
+					<label>57.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Greaves</surname>
+								<given-names>G.N.</given-names>
+							</name>
+							<name>
+								<surname>Sen</surname>
+								<given-names>S.</given-names>
+							</name>
+						</person-group>
+						<source>Adv. Phys.</source>
+						<year>2007</year>
+						<volume>56</volume>
+						<fpage>1</fpage>
+						<lpage>166</lpage>
+						<pub-id pub-id-type="coi">1:CAS:528:DC%2BD2sXntlWnsrs%3D</pub-id>
+						<pub-id pub-id-type="doi">10.1080/00018730601147426</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR58">
+					<label>58.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Safarian</surname>
+								<given-names>J.</given-names>
+							</name>
+							<name>
+								<surname>Kolbeinsen</surname>
+								<given-names>L.</given-names>
+							</name>
+							<name>
+								<surname>Tangstad</surname>
+								<given-names>M.</given-names>
+							</name>
+						</person-group>
+						<source>J. Mater. Sci.</source>
+						<year>2012</year>
+						<volume>47</volume>
+						<fpage>5561</fpage>
+						<lpage>80</lpage>
+						<pub-id pub-id-type="coi">1:CAS:528:DC%2BC38XltlKntr0%3D</pub-id>
+						<pub-id pub-id-type="doi">10.1007/s10853-012-6449-4</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR59">
+					<label>59.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Yoshikawa</surname>
+								<given-names>T.</given-names>
+							</name>
+							<name>
+								<surname>Morita</surname>
+								<given-names>K.</given-names>
+							</name>
+						</person-group>
+						<source>Mater. Trans.</source>
+						<year>2005</year>
+						<volume>46</volume>
+						<fpage>1335</fpage>
+						<lpage>40</lpage>
+						<pub-id pub-id-type="coi">1:CAS:528:DC%2BD2MXosVentr8%3D</pub-id>
+						<pub-id pub-id-type="doi">10.2320/matertrans.46.1335</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR60">
+					<label>60.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Wu</surname>
+								<given-names>J.</given-names>
+							</name>
+							<name>
+								<surname>Wang</surname>
+								<given-names>C.</given-names>
+							</name>
+						</person-group>
+						<source>Acta Metall. Sin.</source>
+						<year>1988</year>
+						<volume>24</volume>
+						<fpage>233</fpage>
+						<lpage>38</lpage>
+					</mixed-citation>
+				</ref>
+				<ref id="CR61">
+					<label>61.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Morin</surname>
+								<given-names>E.I.</given-names>
+							</name>
+							<name>
+								<surname>Wu</surname>
+								<given-names>J.</given-names>
+							</name>
+							<name>
+								<surname>Stebbins</surname>
+								<given-names>J.F.</given-names>
+							</name>
+						</person-group>
+						<source>Appl. Phys. A Mater. Sci. Process.</source>
+						<year>2014</year>
+						<volume>116</volume>
+						<fpage>479</fpage>
+						<lpage>90</lpage>
+						<pub-id pub-id-type="coi">1:CAS:528:DC%2BC2cXlt1eqtLk%3D</pub-id>
+						<pub-id pub-id-type="doi">10.1007/s00339-014-8369-4</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR62">
+					<label>62.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Pacaud</surname>
+								<given-names>F.</given-names>
+							</name>
+							<name>
+								<surname>Salanne</surname>
+								<given-names>M.</given-names>
+							</name>
+							<name>
+								<surname>Charpentier</surname>
+								<given-names>T.</given-names>
+							</name>
+							<name>
+								<surname>Cormier</surname>
+								<given-names>L.</given-names>
+							</name>
+							<name>
+								<surname>Delaye</surname>
+								<given-names>J.M.</given-names>
+							</name>
+						</person-group>
+						<source>J. Non. Cryst. Solids</source>
+						<year>2018</year>
+						<volume>499</volume>
+						<fpage>371</fpage>
+						<lpage>79</lpage>
+						<pub-id pub-id-type="coi">1:CAS:528:DC%2BC1cXhsVWhsbzL</pub-id>
+						<pub-id pub-id-type="doi">10.1016/j.jnoncrysol.2018.07.049</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR63">
+					<label>63.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Bale</surname>
+								<given-names>C.W.</given-names>
+							</name>
+							<name>
+								<surname>Pelton</surname>
+								<given-names>A.D.</given-names>
+							</name>
+						</person-group>
+						<source>Metall. Mater. Trans. A</source>
+						<year>1990</year>
+						<volume>21A</volume>
+						<fpage>1997</fpage>
+						<lpage>2002</lpage>
+						<pub-id pub-id-type="coi">1:CAS:528:DyaK3cXlvF2jtb4%3D</pub-id>
+						<pub-id pub-id-type="doi">10.1007/BF02647247</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR64">
+					<label>64.</label>
+					<mixed-citation publication-type="other">L.K. Jakobsson: Distribution of boron between silicon and CaO2, MgO-SiO2, CaO-MgO-SiO2 and CaO-Al2O3-SiO2 slags at 1600 °C, Doctoral Thesis, NTNU, Trondheim, 2013.</mixed-citation>
+				</ref>
+				<ref id="CR65">
+					<label>65.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Shimpo</surname>
+								<given-names>T.</given-names>
+							</name>
+							<name>
+								<surname>Yoshikawa</surname>
+								<given-names>T.</given-names>
+							</name>
+							<name>
+								<surname>Morita</surname>
+								<given-names>K.</given-names>
+							</name>
+						</person-group>
+						<source>Metall. Mater. Trans. B</source>
+						<year>2004</year>
+						<volume>35B</volume>
+						<fpage>277</fpage>
+						<lpage>84</lpage>
+						<pub-id pub-id-type="coi">1:CAS:528:DC%2BD2cXivFCgtLc%3D</pub-id>
+						<pub-id pub-id-type="doi">10.1007/s11663-004-0029-1</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR66">
+					<label>66.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Tang</surname>
+								<given-names>K.</given-names>
+							</name>
+							<name>
+								<surname>Løvvik</surname>
+								<given-names>O.M.</given-names>
+							</name>
+							<name>
+								<surname>Safarian</surname>
+								<given-names>J.</given-names>
+							</name>
+							<name>
+								<surname>Ma</surname>
+								<given-names>X.</given-names>
+							</name>
+							<name>
+								<surname>Tangstad</surname>
+								<given-names>M.</given-names>
+							</name>
+						</person-group>
+						<source>Metall. Mater. Trans. E</source>
+						<year>2014</year>
+						<volume>1E</volume>
+						<fpage>257</fpage>
+						<lpage>62</lpage>
+					</mixed-citation>
+				</ref>
+			</ref-list>
+		</ref-list>
+	</back>
+</article>

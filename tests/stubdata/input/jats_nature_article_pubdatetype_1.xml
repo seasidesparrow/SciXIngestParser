@@ -1,0 +1,2552 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article SYSTEM "http://jats.nlm.nih.gov/archiving/1.2/JATS-archivearticle1.dtd">
+<article
+	xmlns:mml="http://www.w3.org/1998/Math/MathML"
+	xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.2" article-type="research-article" xml:lang="en">
+	<?properties open_access?>
+	<front>
+		<journal-meta>
+			<journal-id journal-id-type="publisher-id">41467</journal-id>
+			<journal-id journal-id-type="doi">10.1038/41467.2041-1723</journal-id>
+			<journal-title-group>
+				<journal-title>Nature Communications</journal-title>
+				<abbrev-journal-title abbrev-type="publisher">Nat Commun</abbrev-journal-title>
+			</journal-title-group>
+			<issn pub-type="epub">2041-1723</issn>
+			<publisher>
+				<publisher-name>Nature Publishing Group UK</publisher-name>
+				<publisher-loc>London</publisher-loc>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="publisher-id">s41467-024-48265-6</article-id>
+			<article-id pub-id-type="manuscript">48265</article-id>
+			<article-id pub-id-type="doi">10.1038/s41467-024-48265-6</article-id>
+			<article-categories>
+				<subj-group subj-group-type="heading">
+					<subject>Article</subject>
+				</subj-group>
+				<subj-group subj-group-type="SubjectPath">
+					<subject>/639/638/403/933</subject>
+				</subj-group>
+				<subj-group subj-group-type="SubjectPath">
+					<subject>/639/638/549/933</subject>
+				</subj-group>
+				<subj-group subj-group-type="SubjectPath">
+					<subject>/639/638/77/884</subject>
+				</subj-group>
+				<subj-group subj-group-type="TechniquePath">
+					<subject>/140/131</subject>
+				</subj-group>
+				<subj-group subj-group-type="TechniquePath">
+					<subject>/140/146</subject>
+				</subj-group>
+				<subj-group subj-group-type="NatureArticleTypeID">
+					<subject>article</subject>
+				</subj-group>
+			</article-categories>
+			<title-group>
+				<article-title xml:lang="en">Carbon–nitrogen transmutation in polycyclic arenol skeletons to access
+					<italic>N</italic>-heteroarenes
+				</article-title>
+			</title-group>
+			<contrib-group>
+				<contrib contrib-type="author" id="Au1">
+					<contrib-id contrib-id-type="orcid">http://orcid.org/0000-0003-3131-4558</contrib-id>
+					<name>
+						<surname>Lu</surname>
+						<given-names>Hong</given-names>
+					</name>
+					<xref ref-type="aff" rid="Aff1">1</xref>
+				</contrib>
+				<contrib contrib-type="author" id="Au2">
+					<name>
+						<surname>Zhang</surname>
+						<given-names>Yu</given-names>
+					</name>
+					<xref ref-type="aff" rid="Aff1">1</xref>
+				</contrib>
+				<contrib contrib-type="author" id="Au3">
+					<name>
+						<surname>Wang</surname>
+						<given-names>Xiu-Hong</given-names>
+					</name>
+					<xref ref-type="aff" rid="Aff1">1</xref>
+				</contrib>
+				<contrib contrib-type="author" id="Au4">
+					<name>
+						<surname>Zhang</surname>
+						<given-names>Ran</given-names>
+					</name>
+					<xref ref-type="aff" rid="Aff1">1</xref>
+				</contrib>
+				<contrib contrib-type="author" corresp="yes" id="Au5">
+					<contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-5746-758X</contrib-id>
+					<name>
+						<surname>Xu</surname>
+						<given-names>Peng-Fei</given-names>
+					</name>
+					<xref ref-type="aff" rid="Aff2">2</xref>
+					<xref ref-type="corresp" rid="IDs41467024482656_cor5">e</xref>
+				</contrib>
+				<contrib contrib-type="author" corresp="yes" id="Au6">
+					<contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-7951-683X</contrib-id>
+					<name>
+						<surname>Wei</surname>
+						<given-names>Hao</given-names>
+					</name>
+					<xref ref-type="aff" rid="Aff1">1</xref>
+					<xref ref-type="corresp" rid="IDs41467024482656_cor6">f</xref>
+				</contrib>
+				<aff id="Aff1">
+					<label>1</label>
+					<institution-wrap>
+						<institution-id institution-id-type="ROR">https://ror.org/00z3td547</institution-id>
+						<institution-id institution-id-type="GRID">grid.412262.1</institution-id>
+						<institution-id institution-id-type="ISNI">0000 0004 1761 5538</institution-id>
+						<institution content-type="org-division">Key Laboratory of Synthetic and Natural Functional Molecule of the Ministry of Education, College of Chemistry &amp; Materials Science</institution>
+						<institution content-type="org-name">Northwest University</institution>
+					</institution-wrap>
+					<addr-line content-type="postcode">710069</addr-line>
+					<addr-line content-type="city">Xi’an</addr-line>
+					<country country="CN">China</country>
+				</aff>
+				<aff id="Aff2">
+					<label>2</label>
+					<institution-wrap>
+						<institution-id institution-id-type="GRID">grid.32566.34</institution-id>
+						<institution-id institution-id-type="ISNI">0000 0000 8571 0482</institution-id>
+						<institution content-type="org-division">State Key Laboratory of Applied Organic Chemistry, College of Chemistry and Chemical Engineering</institution>
+						<institution content-type="org-name">Lanzhou University</institution>
+					</institution-wrap>
+					<addr-line content-type="postcode">730000</addr-line>
+					<addr-line content-type="city">Lanzhou</addr-line>
+					<country country="CN">China</country>
+				</aff>
+			</contrib-group>
+			<author-notes>
+				<corresp id="IDs41467024482656_cor5">
+					<label>e</label>
+					<email>xupf@lzu.edu.cn</email>
+				</corresp>
+				<corresp id="IDs41467024482656_cor6">
+					<label>f</label>
+					<email>haow@nwu.edu.cn</email>
+				</corresp>
+			</author-notes>
+			<pub-date date-type="pub" publication-format="electronic">
+				<day>4</day>
+				<month>5</month>
+				<year>2024</year>
+			</pub-date>
+			<pub-date date-type="collection" publication-format="electronic">
+				<month>12</month>
+				<year>2024</year>
+			</pub-date>
+			<volume>15</volume>
+			<issue seq="3772">1</issue>
+			<elocation-id>3772</elocation-id>
+			<history>
+				<date date-type="registration">
+					<day>26</day>
+					<month>4</month>
+					<year>2024</year>
+				</date>
+				<date date-type="received">
+					<day>29</day>
+					<month>1</month>
+					<year>2024</year>
+				</date>
+				<date date-type="accepted">
+					<day>25</day>
+					<month>4</month>
+					<year>2024</year>
+				</date>
+				<date date-type="online">
+					<day>4</day>
+					<month>5</month>
+					<year>2024</year>
+				</date>
+			</history>
+			<permissions>
+				<copyright-statement>© The Author(s) 2024</copyright-statement>
+				<copyright-year>2024</copyright-year>
+				<license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/4.0/">
+					<license-p>
+						<bold>Open Access</bold> This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article’s Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit
+						<ext-link xlink:href="http://creativecommons.org/licenses/by/4.0/" ext-link-type="url">http://creativecommons.org/licenses/by/4.0/</ext-link>.
+					</license-p>
+				</license>
+			</permissions>
+			<related-article related-article-type="companion" ext-link-type="doi" xlink:href="10.1038/s41929-024-01174-9"/>
+			<abstract id="Abs1" xml:lang="en">
+				<title>Abstract</title>
+				<p id="Par1">Developing skeletal editing tools is not a trivial task, and realizing the corresponding single-atom transmutation in a ring system without altering the ring size is even more challenging. Here, we introduce a skeletal editing strategy that enables polycyclic arenols, a highly prevalent motif in bioactive molecules, to be readily converted into
+					<italic>N</italic>-heteroarenes through carbon–nitrogen transmutation. The reaction features selective nitrogen insertion into the C–C bond of the arenol frameworks by azidative dearomatization and aryl migration, followed by ring-opening, and ring-closing (ANRORC) to achieve carbon-to-nitrogen transmutation in the aromatic framework of the arenol. Using widely available arenols as
+					<italic>N</italic>-heteroarene precursors, this alternative approach allows the streamlined assembly of complex polycyclic heteroaromatics with broad functional group tolerance. Finally, pertinent transformations of the products, including synthesis complex biheteroarene skeletons, were conducted and exhibited significant potential in materials chemistry.
+				</p>
+			</abstract>
+			<abstract id="Abs2" xml:lang="en">
+				<p id="Par2">Developing skeletal editing tools, especially to realize the single-atom transmutation in a ring system without altering the ring size is challenging. Here, the authors introduce a skeletal editing strategy that enables polycyclic arenols to be readily converted into
+					<italic>N</italic>-heteroarenes through carbon–nitrogen transmutation.
+				</p>
+			</abstract>
+			<funding-group>
+				<award-group>
+					<funding-source>
+						<institution-wrap>
+							<institution>National Natural Science Foundation of China (National Science Foundation of China)</institution>
+							<institution-id institution-id-type="doi" vocab="open-funder-registry">https://doi.org/10.13039/501100001809</institution-id>
+						</institution-wrap>
+					</funding-source>
+					<award-id award-type="FundRef grant">21971205</award-id>
+					<award-id award-type="FundRef grant">22271231</award-id>
+					<principal-award-recipient>
+						<name>
+							<surname>Wei</surname>
+							<given-names>Hao</given-names>
+						</name>
+					</principal-award-recipient>
+					<principal-award-recipient>
+						<name>
+							<surname>Wei</surname>
+							<given-names>Hao</given-names>
+						</name>
+					</principal-award-recipient>
+				</award-group>
+				<award-group>
+					<funding-source>
+						<institution-wrap>
+							<institution>Natural Science Basic Research Plan for Distinguished Young Scholars in Shaanxi Province of China (2022JC-08)</institution>
+						</institution-wrap>
+					</funding-source>
+				</award-group>
+				<award-group>
+					<funding-source>
+						<institution-wrap>
+							<institution>Natural Science Basic Research Plan in Shaanxi Province of China (2023-JC-YB-126)</institution>
+						</institution-wrap>
+					</funding-source>
+				</award-group>
+			</funding-group>
+			<custom-meta-group>
+				<custom-meta>
+					<meta-name>publisher-imprint-name</meta-name>
+					<meta-value>Nature Portfolio</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>volume-issue-count</meta-name>
+					<meta-value>1</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>issue-article-count</meta-name>
+					<meta-value>4297</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>issue-toc-levels</meta-name>
+					<meta-value>0</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>issue-pricelist-year</meta-name>
+					<meta-value>2024</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>issue-copyright-holder</meta-name>
+					<meta-value>Springer Nature Limited</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>issue-copyright-year</meta-name>
+					<meta-value>2024</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>article-contains-esm</meta-name>
+					<meta-value>Yes</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>article-numbering-style</meta-name>
+					<meta-value>Unnumbered</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>article-registration-date-year</meta-name>
+					<meta-value>2024</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>article-registration-date-month</meta-name>
+					<meta-value>4</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>article-registration-date-day</meta-name>
+					<meta-value>26</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>article-toc-levels</meta-name>
+					<meta-value>0</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>toc-levels</meta-name>
+					<meta-value>0</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>volume-type</meta-name>
+					<meta-value>Regular</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>journal-product</meta-name>
+					<meta-value>NonStandardArchiveJournal</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>numbering-style</meta-name>
+					<meta-value>Unnumbered</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>article-grants-type</meta-name>
+					<meta-value>OpenChoice</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>metadata-grant</meta-name>
+					<meta-value>OpenAccess</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>abstract-grant</meta-name>
+					<meta-value>OpenAccess</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>bodypdf-grant</meta-name>
+					<meta-value>OpenAccess</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>bodyhtml-grant</meta-name>
+					<meta-value>OpenAccess</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>bibliography-grant</meta-name>
+					<meta-value>OpenAccess</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>esm-grant</meta-name>
+					<meta-value>OpenAccess</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>online-first</meta-name>
+					<meta-value>false</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>pdf-file-reference</meta-name>
+					<meta-value>BodyRef/PDF/41467_2024_Article_48265.pdf</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>pdf-type</meta-name>
+					<meta-value>Typeset</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>target-type</meta-name>
+					<meta-value>OnlinePDF</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>issue-type</meta-name>
+					<meta-value>Regular</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>article-type</meta-name>
+					<meta-value>OriginalPaper</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>journal-subject-primary</meta-name>
+					<meta-value>Science, Humanities and Social Sciences, multidisciplinary</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>journal-subject-secondary</meta-name>
+					<meta-value>Science, Humanities and Social Sciences, multidisciplinary</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>journal-subject-secondary</meta-name>
+					<meta-value>Science, multidisciplinary</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>journal-subject-collection</meta-name>
+					<meta-value>Science (multidisciplinary)</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>open-access</meta-name>
+					<meta-value>true</meta-value>
+				</custom-meta>
+			</custom-meta-group>
+		</article-meta>
+		<notes notes-type="AuthorContribution">
+			<p>These authors contributed equally: Hong Lu, Yu Zhang.</p>
+		</notes>
+	</front>
+	<body>
+		<sec id="Sec1" sec-type="introduction">
+			<title>Introduction</title>
+			<p id="Par3">Organic synthesis underpins the evolution and advancement of broad areas of science, from materials to medicine. Arenes are among the most widely used rings in medicine and natural products. The functionalization of arenes is a particularly attractive tool for the production of pharmaceuticals, natural products, and molecular materials
+				<sup>
+					<xref ref-type="bibr" rid="CR1">1</xref>–
+					<xref ref-type="bibr" rid="CR4">4</xref>
+				</sup>. However, their application has so far been largely focused on C–H functionalization chemistry (peripheral editing), and the precise modification of the aromatic ring skeleton remains largely unexplored (Fig. 
+				<xref rid="Fig1" ref-type="fig">1A</xref>)
+				<sup>
+					<xref ref-type="bibr" rid="CR5">5</xref>–
+					<xref ref-type="bibr" rid="CR7">7</xref>
+				</sup>. Single-atom skeletal editing has become an extremely powerful tool for straightforwardly modifying the core skeleton of organic molecules. Recently, a limited number of single–atom insertion or deletion reactions have been developed to reshape the underlying molecular skeletons
+				<sup>
+					<xref ref-type="bibr" rid="CR8">8</xref>–
+					<xref ref-type="bibr" rid="CR21">21</xref>
+				</sup>. However, the direct modification of valuable core structures by replacing one atom in a ring system without changing the ring size and aromaticity remains elusive
+				<sup>
+					<xref ref-type="bibr" rid="CR22">22</xref>–
+					<xref ref-type="bibr" rid="CR31">31</xref>
+				</sup>, although it has been recognized as a highly desirable transformation.
+				<fig id="Fig1">
+					<label>Fig. 1</label>
+					<caption xml:lang="en">
+						<title>Examples of carbon–nitrogen transmutation and our reaction design.</title>
+						<p>
+							<bold>A</bold> Molecular editing of aromatic rings.
+							<bold>B</bold> Examples of the necessary nitrogen atom effect.
+							<bold>C</bold> Conversion of aryl azides to pyridines.
+							<bold>D</bold> This study.
+						</p>
+					</caption>
+					<p>
+						<graphic specific-use="HTML" mime-subtype="PNG" xlink:href="MediaObjects/41467_2024_48265_Fig1_HTML.png"/>
+					</p>
+				</fig>
+			</p>
+			<p id="Par4">One of the most studied among
+				<italic>N</italic>-heteroarenes are pyridines, which serve as a bioisosteric replacement of benzene counterparts within the parent molecules
+				<sup>
+					<xref ref-type="bibr" rid="CR32">32</xref>–
+					<xref ref-type="bibr" rid="CR34">34</xref>
+				</sup>. The replacement of carbon with nitrogen in aromatic ring systems can have several important effects on the molecular and physicochemical properties relevant to multiparameter optimization (Fig. 
+				<xref rid="Fig1" ref-type="fig">1B</xref>). This necessary nitrogen atom effect is a versatile high-impact design element for multiparameter optimization, which has been shown to improve various key pharmacological parameters
+				<sup>
+					<xref ref-type="bibr" rid="CR35">35</xref>
+				</sup>. Recently, Burns and Levin independently reported groundbreaking methods for the direct conversion of arenes to pyridines via nitrene internalization (Fig. 
+				<xref rid="Fig1" ref-type="fig">1C</xref>)
+				<sup>
+					<xref ref-type="bibr" rid="CR36">36</xref>,
+					<xref ref-type="bibr" rid="CR37">37</xref>
+				</sup>. In these process, additional steps for installation and isolation of aryl azides are always requried, which indicated that a selective, and straightforward transformation of diverse arenes into
+				<italic>N</italic>-heteroarenes remains an important goal
+				<sup>
+					<xref ref-type="bibr" rid="CR38">38</xref>
+				</sup>.
+			</p>
+			<p id="Par5">A key challenge in this transformation is the stability of the aromatic compounds. Our design overcomes this intrinsic challenge using arenols as substrates. Dearomatization of arenols disrupts the stability of the aromatic ring and promotes subsequent skeletal transformations
+				<sup>
+					<xref ref-type="bibr" rid="CR39">39</xref>–
+					<xref ref-type="bibr" rid="CR48">48</xref>
+				</sup>. Arenol can also act as a selectivity controlling element in site-selective skeletal editing. Our group’s recent work employing this dearomative strategy to promote ring expansion of arenols inspired us to continue investigating this strategy to more complex skeletal editing transformation
+				<sup>
+					<xref ref-type="bibr" rid="CR49">49</xref>
+				</sup>. In this work, we describe the direct carbon-to-nitrogen transmutations in arenols. This reaction involves two stages: ring expansion and contraction (Fig. 
+				<xref rid="Fig1" ref-type="fig">1D</xref>). In the first stage, the insertion of nitrogen atoms is achieved by azidative dearomatization of an arenol and intramolecular aryl migration. In the second stage, a carbon atom moves out of the ring skeleton through ring-opening, and ring-closing (ANRORC), which ultimately furnishes desired carbon–nitrogen transmutation in polycyclic arenol skeletons
+				<sup>
+					<xref ref-type="bibr" rid="CR50">50</xref>–
+					<xref ref-type="bibr" rid="CR52">52</xref>
+				</sup>.
+			</p>
+		</sec>
+		<sec id="Sec2" sec-type="results">
+			<title>Results</title>
+			<sec id="Sec3">
+				<title>Reaction optimization</title>
+				<p id="Par6">We began our investigation using methylphenanthren-9-ol
+					<bold>1a</bold> as the reaction partner. (PhO)
+					<sub>2</sub>POOH, NBS, and N(
+					<italic>n</italic>Bu)
+					<sub>4</sub>N
+					<sub>3</sub> were employed as reagents for the in situ formation of the azido ketone intermediate (see Supplementary Information, section 
+					<xref ref-type="supplementary-material" rid="MOESM1">2.2.2</xref>). For optimization, we observed the formation of desired product
+					<bold>1</bold> in 80% yield using FeBr
+					<sub>2</sub> and Cy
+					<sub>3</sub>PO as an effective catalyst–ligand combination in PhCl (Table 
+					<xref rid="Tab1" ref-type="table">1</xref>, entry 1). A control experiment revealed that an iron salt was essential for obtaining the desired product (Table 
+					<xref rid="Tab1" ref-type="table">1</xref>, entry 2). Other iron salts, including FeCl
+					<sub>2</sub>, Fe(OTf)
+					<sub>2</sub>, Fe(OAc)
+					<sub>2</sub>, and Fe(acac)
+					<sub>3</sub>, exhibited lower efficiency than inexpensive FeBr
+					<sub>2</sub> (Table 
+					<xref rid="Tab1" ref-type="table">1</xref>, entries 3 − 6). Furthermore, when other established metal nitrenoid formation catalysts, including copper, rhodium, cobalt, and ruthenium, were used, the desired product was not obtained satisfyingly (Table 
+					<xref rid="Tab1" ref-type="table">1</xref>, entries 7–10)
+					<sup>
+						<xref ref-type="bibr" rid="CR53">53</xref>,
+						<xref ref-type="bibr" rid="CR54">54</xref>
+					</sup>. Further optimization showed that this reaction was slightly improved using Cy
+					<sub>3</sub>PO (Table 
+					<xref rid="Tab1" ref-type="table">1</xref>, entry 11). The reaction appeared to be less sensitive to solvents, as replacing the PhCl with either toluene or THF furnished
+					<bold>1</bold> in good yield (Table 
+					<xref rid="Tab1" ref-type="table">1</xref>, entries 12 and 13). The yield decreased slightly when 10 mol% FeBr
+					<sub>2</sub> and 15 mol% Cy
+					<sub>3</sub>PO were used (Table 
+					<xref rid="Tab1" ref-type="table">1</xref>, entry 14).
+					<table-wrap id="Tab1">
+						<label>Table 1</label>
+						<caption xml:lang="en">
+							<p>Screening of reaction conditions.
+								<sup>a</sup>
+							</p>
+						</caption>
+						<table frame="hsides" rules="groups">
+							<thead>
+								<tr>
+									<th colspan="3">
+										<p>
+											<inline-graphic xlink:href="MediaObjects/41467_2024_48265_Taba_HTML.png"/>
+										</p>
+									</th>
+								</tr>
+								<tr>
+									<th>
+										<p>Entry</p>
+									</th>
+									<th>
+										<p>Variation from ‘
+											<italic>standard conditions</italic>’
+										</p>
+									</th>
+									<th>
+										<p>Yield (%)
+											<sup>b</sup>
+										</p>
+									</th>
+								</tr>
+							</thead>
+							<tbody>
+								<tr>
+									<td>
+										<p>1</p>
+									</td>
+									<td>
+										<p>None</p>
+									</td>
+									<td>
+										<p>80 (61)
+											<sup>c</sup>
+										</p>
+									</td>
+								</tr>
+								<tr>
+									<td>
+										<p>2</p>
+									</td>
+									<td>
+										<p>w/o FeBr
+											<sub>2</sub>
+										</p>
+									</td>
+									<td>
+										<p>trace</p>
+									</td>
+								</tr>
+								<tr>
+									<td>
+										<p>3</p>
+									</td>
+									<td>
+										<p>FeCl
+											<sub>2</sub> instead of FeBr
+											<sub>2</sub>
+										</p>
+									</td>
+									<td>
+										<p>71</p>
+									</td>
+								</tr>
+								<tr>
+									<td>
+										<p>4</p>
+									</td>
+									<td>
+										<p>Fe(OTf)
+											<sub>2</sub> instead of FeBr
+											<sub>2</sub>
+										</p>
+									</td>
+									<td>
+										<p>75</p>
+									</td>
+								</tr>
+								<tr>
+									<td>
+										<p>5</p>
+									</td>
+									<td>
+										<p>Fe(OAc)
+											<sub>2</sub> instead of FeBr
+											<sub>2</sub>
+										</p>
+									</td>
+									<td>
+										<p>32</p>
+									</td>
+								</tr>
+								<tr>
+									<td>
+										<p>6</p>
+									</td>
+									<td>
+										<p>Fe(acac)
+											<sub>3</sub> instead of FeBr
+											<sub>2</sub>
+										</p>
+									</td>
+									<td>
+										<p>10</p>
+									</td>
+								</tr>
+								<tr>
+									<td>
+										<p>7</p>
+									</td>
+									<td>
+										<p>Cu(OTf)
+											<sub>2</sub> instead of FeBr
+											<sub>2</sub>
+										</p>
+									</td>
+									<td>
+										<p>&lt;10</p>
+									</td>
+								</tr>
+								<tr>
+									<td>
+										<p>8</p>
+									</td>
+									<td>
+										<p>[[CH
+											<sub>3</sub>(CH
+											<sub>2</sub>)
+											<sub>6</sub>CO
+											<sub>2</sub>]
+											<sub>2</sub>Rh]
+											<sub>2</sub> instead of FeBr
+											<sub>2</sub>
+										</p>
+									</td>
+									<td>
+										<p>34</p>
+									</td>
+								</tr>
+								<tr>
+									<td>
+										<p>9</p>
+									</td>
+									<td>
+										<p>TMOPP-Co instead of FeBr
+											<sub>2</sub>
+										</p>
+									</td>
+									<td>
+										<p>trace</p>
+									</td>
+								</tr>
+								<tr>
+									<td>
+										<p>10</p>
+									</td>
+									<td>
+										<p>Ru
+											<sub>3</sub>(CO)
+											<sub>13</sub> instead of FeBr
+											<sub>2</sub>
+										</p>
+									</td>
+									<td>
+										<p>&lt;10</p>
+									</td>
+								</tr>
+								<tr>
+									<td>
+										<p>11</p>
+									</td>
+									<td>
+										<p>w/o Cy
+											<sub>3</sub>PO
+										</p>
+									</td>
+									<td>
+										<p>70</p>
+									</td>
+								</tr>
+								<tr>
+									<td>
+										<p>12</p>
+									</td>
+									<td>
+										<p>In toluene</p>
+									</td>
+									<td>
+										<p>75</p>
+									</td>
+								</tr>
+								<tr>
+									<td>
+										<p>13</p>
+									</td>
+									<td>
+										<p>In THF</p>
+									</td>
+									<td>
+										<p>70</p>
+									</td>
+								</tr>
+								<tr>
+									<td>
+										<p>14</p>
+									</td>
+									<td>
+										<p>10 mol% FeBr
+											<sub>2</sub> and 15 mol% Cy
+											<sub>3</sub>PO instead
+										</p>
+									</td>
+									<td>
+										<p>61</p>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+						<table-wrap-foot>
+							<p>
+								<sup>a</sup>Unless otherwise specified, all reactions were carried out using
+								<bold>1a</bold> (0.1 mmol), NBS (0.18 mmol), N(
+								<italic>n</italic>Bu
+								<sub>4</sub>)N
+								<sub>3</sub> (0.3 mmol), (PhO)
+								<sub>2</sub>POOH (0.075 mmol), FeBr
+								<sub>2</sub> (0.015 mmol), and Cy
+								<sub>3</sub>PO (0.02 mmol) in PhCl (1.0 mL) at 100 °C for 36 h.
+							</p>
+							<p>
+								<sup>b</sup>Isolated yields after chromatography.
+							</p>
+							<p>
+								<sup>c</sup>Scale-up reaction by using 1.0 mmol of
+								<bold>1a</bold>.
+							</p>
+						</table-wrap-foot>
+					</table-wrap>
+				</p>
+			</sec>
+			<sec id="Sec4">
+				<title>Substrate scope</title>
+				<p id="Par7">Considering the optimal reaction conditions, the substrate scope was determined (Fig. 
+					<xref rid="Fig2" ref-type="fig">2</xref>). Various arenols, including phenanthrol (
+					<bold>1</bold>–
+					<bold>10</bold>), naphthol (
+					<bold>11</bold>–
+					<bold>30</bold>), anthranol (
+					<bold>33</bold>) benzo(
+					<italic>a</italic>)anthranol (
+					<bold>34</bold>), and benzo[
+					<italic>c</italic>]phenanthrol (
+					<bold>35</bold>), can effectively undergo the desired carbon–nitrogen transmutation. Both electron-rich and electron-deficient aromatic substrates were suitable for the process. It was found that the substituents at the
+					<italic>ortho</italic> positions of the arenol are significant. When the substituent was an alkyl group, the corresponding arenols underwent atom transmutation smoothly in moderate-to-good yield and chemoselectivity. The presence of a phenyl group or an electron-withdrawing group such as CO
+					<sub>2</sub>Me at the
+					<italic>ortho</italic>-position can inhibit this reaction. However, various functional groups, such as ether (
+					<bold>4</bold> and
+					<bold>5</bold>), acetals (
+					<bold>6</bold> and
+					<bold>16</bold>), aryl halides (
+					<bold>7,</bold>
+					<bold>8,</bold>
+					<bold>17</bold> and
+					<bold>18</bold>), esters (
+					<bold>9</bold>), trifluoromethyl (
+					<bold>10</bold>), trimethylsilyl (TMS) (
+					<bold>19</bold>), alkenes (
+					<bold>20</bold>), and alkynes (
+					<bold>21</bold>), were tolerated in this transformation. In addition, several naphthyl-fused rings (
+					<bold>22</bold>–
+					<bold>25</bold>) were suitable substrates, affording the desired products in moderate-to-good yields. Heterocyclic moieties such as benzofuran (
+					<bold>26</bold>), furan (
+					<bold>27</bold>), dibenzofuran (
+					<bold>28</bold>), quinoline (
+					<bold>29</bold>), and phenoxathiine (
+					<bold>30</bold>) were also compatible. Moreover, fused heteroarenols such as naphtho[1,2-
+					<italic>b</italic>]thiophene (
+					<bold>31</bold>) and naphtho[1,2-
+					<italic>b</italic>]furan (
+					<bold>32</bold>) can be incorporated, providing pharmaceutically interesting fused-ring skeletons that are non-trivial to prepare. The structures of
+					<bold>3</bold> and
+					<bold>35</bold> were identified using X-ray crystallography.
+					<fig id="Fig2">
+						<label>Fig. 2</label>
+						<caption xml:lang="en">
+							<title>Substrate scope of the carbon–nitrogen transmutation in polycyclic arenol.</title>
+							<p>
+								<sup>a,b a</sup>Isolated yields after chromatography are shown. 
+								<sup>b</sup> Reaction conditions: substrate (0.1 mmol), NBS (0.18 mmol), N(
+								<italic>n</italic>Bu
+								<sub>4</sub>)N
+								<sub>3</sub> (0.3 mmol), (PhO)
+								<sub>2</sub>POOH (0.075 mmol), FeBr
+								<sub>2</sub> (0.015 mmol), and Cy
+								<sub>3</sub>PO (0.02 mmol) in PhCl (1.0 mL) at 100 °C for 36 h.
+							</p>
+						</caption>
+						<p>
+							<graphic specific-use="HTML" mime-subtype="PNG" xlink:href="MediaObjects/41467_2024_48265_Fig2_HTML.png"/>
+						</p>
+					</fig>
+				</p>
+			</sec>
+			<sec id="Sec5">
+				<title>Synthetic utility</title>
+				<p id="Par8">The successful development of the atom transmutation protocol offers a rapid and modular approach to access complex biheteroarene skeleton, a common structural motif found in bioactive compounds (Fig. 3A). Compound
+					<bold>37</bold> could be easily transformed to the iridium complexes
+					<bold>39</bold>, which could serve as the red-light-emitting electrochemical cell
+					<sup>
+						<xref ref-type="bibr" rid="CR55">55</xref>,
+						<xref ref-type="bibr" rid="CR56">56</xref>
+					</sup>. Next, the synthetic versatility of the C-to-N transmutation was demonstrated through the preparation of 3,6-disubstituted quinolines
+					<bold>42</bold>, which could not be obtained from directly electrophilic substitution of quinolines (Fig. 
+					<xref rid="Fig3" ref-type="fig">3B</xref>). Specifically, the successful development of the carbon–nitrogen transmutation offers exciting opportunities to devise more complex skeletal editing transformations via combinations of atom insertions and deletions. Benzo[1,4]diazepine
+					<bold>43</bold> can be accessed through a C–H azidation and aryl migration sequence from
+					<bold>11</bold>, presently the formal carbon deletion and two nitrogen insertion products of starting naphthol
+					<bold>11a</bold> (Fig. 
+					<xref rid="Fig3" ref-type="fig">3C</xref>).
+					<fig id="Fig3">
+						<label>Fig. 3</label>
+						<caption xml:lang="en">
+							<title>Application potential of carbon–nitrogen transmutation.</title>
+							<p>
+								<bold>A</bold> Applications that allow access to complex biheteroarene skeletons.
+								<bold>B</bold> Preparation of unconventionally 3,6-substituted quinolines.
+								<bold>C</bold> Sequential skeletal editing transformations of naphthol.
+							</p>
+						</caption>
+						<p>
+							<graphic specific-use="HTML" mime-subtype="PNG" xlink:href="MediaObjects/41467_2024_48265_Fig3_HTML.png"/>
+						</p>
+					</fig>
+				</p>
+			</sec>
+			<sec id="Sec6">
+				<title>Mechanistic considerations</title>
+				<p id="Par9">To elucidate the mechanism of this transformation, series control experiments were first conducted. The reactions without addition of NBS or N(
+					<italic>n</italic>Bu
+					<sub>4</sub>)N
+					<sub>3</sub> failed to produce the desired product (Fig. 
+					<xref rid="Fig4" ref-type="fig">4A</xref>, equations 1 and 2). And trace amount of
+					<bold>11</bold> was observed when (PhO)
+					<sub>2</sub>POOH was absent from the reaction mixture (Fig. 
+					<xref rid="Fig4" ref-type="fig">4A</xref>, equation 3). It’s worth noting that azide ketone
+					<bold>44</bold> could be isolated in 73% yield in the absense of Fe catalyst after 2 h (Fig. 
+					<xref rid="Fig4" ref-type="fig">4A</xref>, equation 4). These results indicated that the proposed azidative dearomatization of arenol might be involved (Fig. 
+					<xref rid="Fig1" ref-type="fig">1D</xref>)
+					<sup>
+						<xref ref-type="bibr" rid="CR57">57</xref>
+					</sup>. The azide ketone
+					<bold>44</bold> was then tested with and without the addition of the Fe catalyst (Fig. 
+					<xref rid="Fig4" ref-type="fig">4B</xref>). It was found that the desired product
+					<bold>11</bold> was formed in 40% yield, and 35% yield of
+					<bold>11a</bold> was isolated in presence of Fe catalyst, which demonstrated that the proposed azidation is a reversible process via successive single-electron transfer (SET) from Fe(II) to eliminate azide
+					<sup>
+						<xref ref-type="bibr" rid="CR58">58</xref>
+					</sup>. On the contrary, only trace amount of product
+					<bold>11</bold> and
+					<bold>11a</bold> was observed without Fe catalyst. And a byproduct
+					<bold>45</bold> was detected in 42% yield and recovered
+					<bold>44</bold> in 24%
+					<sup>
+						<xref ref-type="bibr" rid="CR59">59</xref>
+					</sup>. These results revealed that the Fe catalyst is not only involved in aryl migration, but is also essential for the ring contraction process
+					<sup>
+						<xref ref-type="bibr" rid="CR60">60</xref>
+					</sup>.
+					<fig id="Fig4">
+						<label>Fig. 4</label>
+						<caption xml:lang="en">
+							<title>Mechanistic studies.</title>
+							<p>
+								<bold>A</bold> Control experiments.
+								<bold>B</bold> Control experiments using azide intermediate showing that Fe catalyst is essential for aryl migration and ring contraction process.
+								<bold>C</bold> Proposed mechanism.
+							</p>
+						</caption>
+						<p>
+							<graphic specific-use="HTML" mime-subtype="PNG" xlink:href="MediaObjects/41467_2024_48265_Fig4_HTML.png"/>
+						</p>
+					</fig>
+				</p>
+				<p id="Par10">Based on the literature reports and our observations, a plausible mechanism is proposed (Fig. 
+					<xref rid="Fig4" ref-type="fig">4C</xref>). Initially, the
+					<italic>N</italic>-bromosuccinimide-mediated dearomatization of the corresponding naphthol of
+					<bold>11a</bold> afforded the brominated ketone intermediate
+					<bold>A</bold>, which subsequently reacted with N(
+					<italic>n</italic>Bu)
+					<sub>4</sub>N
+					<sub>3</sub> to generate azido ketone
+					<bold>B</bold>. Then iron salt reacted with
+					<bold>B</bold> can form metal−nitrene species, which would then undergo 1,2-aryl migration to form ring expansion intermediate
+					<bold>C</bold>. Subsequently, addition of hydroxide anion to the imine group of
+					<bold>C</bold> induces
+					<italic>N</italic>,
+					<italic>O</italic>-hemiketal
+					<bold>D</bold>. The collapse of
+					<bold>D</bold> with assistance of iron salt produces ring-opening amino-ketone intermediate
+					<bold>E</bold>
+					<sup>
+						<xref ref-type="bibr" rid="CR61">61</xref>,
+						<xref ref-type="bibr" rid="CR62">62</xref>
+					</sup>, which undergoes re-cyclization and dehydration to form stable benzoquinoline
+					<bold>11</bold> and release Fe catalyst.
+				</p>
+				<p id="Par11">In conclusion, this study proposed a unique strategy that enables straightforward carbon-to-nitrogen transmutations in arenols through a one-pot ring expansion-contraction sequence. This site-selective atom transformation is based on sequentially combining three transformations in one pot using aryl migration and imine transposition as key steps and opens new opportunities for single-atom skeletal edit design. Further preparation of complex biheteroarene skeleton and unconventionally substituted quinoline highlights the potential of this study. This provides an alternative for the development of
+					<italic>N</italic>-heteroarenes and demonstrates significant potential in materials chemistry.
+				</p>
+			</sec>
+		</sec>
+		<sec id="Sec7" sec-type="methods">
+			<title>Methods</title>
+			<sec id="Sec8">
+				<title>General condition for carbon–nitrogen transmutation</title>
+				<p id="Par12">Substrate (0.1 mmol), NBS (0.12 mmol), N(
+					<italic>n</italic>Bu
+					<sub>4</sub>)N
+					<sub>3</sub> (0.2 mmol), FeBr
+					<sub>2</sub> (0.015 mmol), tricyclohexylphosphine oxide (0.02 mmol), (PhO)
+					<sub>2</sub>POOH (0.05 mmol), and PhCl (1.0 mL) was successively added to an 10 mL sealed tube equipped with a Teflon-coated magnetic stir bar. The tube then was sealed with a Teflon screw cap and placed on a hotplate pre-heated to 100 °C with vigorous stirring. After 18 h, the reaction was cooled to room temperature and another portion of NBS (0.06 mmol, 0.6 equiv), N(
+					<italic>n</italic>Bu
+					<sub>4</sub>)N
+					<sub>3 </sub>(0.1 mmol) and (PhO)
+					<sub>2</sub>POOH (0.025 mmol) was successively added to the sealed tube. The tube then reacted at 100 °C with vigorous stirring. After 18 h, the reaction was cooled to room temperature. The solvent was evaporated and the residue was directly purified by flash column chromatography on silica gel (petroleum ether/ethyl acetate = 20/1) to give the desired products.
+				</p>
+			</sec>
+		</sec>
+	</body>
+	<back>
+		<ack>
+			<title>Acknowledgements</title>
+			<p>We are grateful for the financial support from the National Natural Science Foundation of China (22271231, H.W.), Key Research and Invention Program in Shaanxi Province of China (2021SF-299, H.W.), Natural Science Basic Research Program of Shaanxi (2020JQ-574, H.L.), Scientific Research Program of Shaanxi Education Department (20JK0937, H.L.) and Northwest University.</p>
+		</ack>
+		<sec sec-type="author-contribution">
+			<title>Author contributions</title>
+			<p>H.W. conceived and designed the project and composed the manuscript. H.L., Y.Z., X.W., and R.Z. conducted the experiments and analyzed the data. H.L. and P.X. discussed the experimental results and commented on the manuscript. H.W. conducted general guidance, project directing, and manuscript revisions.</p>
+		</sec>
+		<sec sec-type="peer-review">
+			<title>Peer review</title>
+			<sec id="FPar1">
+				<title>Peer review information</title>
+				<p id="Par13">:
+					<italic>Nature Communications</italic> thanks Yuhua Deng and the other anonymous reviewer(s) for their contribution to the peer review of this work. A peer review file is available.
+				</p>
+			</sec>
+		</sec>
+		<sec sec-type="data-availability">
+			<title>Data availability</title>
+			<p>Data relating to the optimization studies, mechanistic studies, general methods, and the characterization data of materials and products, are available in the Supplementary Information. Crystallographic data for the structures reported in this article have been deposited at the Cambridge Crystallographic Data Center, under deposition numbers CCDC 2285580 (
+				<bold>3</bold>), 2285872 (
+				<bold>35</bold>), 2310917 (
+				<bold>39</bold>) and 2308629 (
+				<bold>45</bold>). Copies of the data can be obtained free of charge via
+				<ext-link xlink:href="https://www.ccdc.cam.ac.uk/structures" ext-link-type="url">https://www.ccdc.cam.ac.uk/structures</ext-link>. All data are available from the corresponding author upon request.
+			</p>
+		</sec>
+		<sec sec-type="ethics-statement">
+			<sec id="FPar2" sec-type="COI-statement">
+				<title>Competing interests</title>
+				<p id="Par14">The authors declare no competing interests.</p>
+			</sec>
+		</sec>
+		<ref-list id="Bib1">
+			<title>References</title>
+			<ref-list>
+				<ref id="CR1">
+					<label>1.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Engle</surname>
+								<given-names>KM</given-names>
+							</name>
+							<name>
+								<surname>Mei</surname>
+								<given-names>T-S</given-names>
+							</name>
+							<name>
+								<surname>Wasa</surname>
+								<given-names>M</given-names>
+							</name>
+							<name>
+								<surname>Yu</surname>
+								<given-names>J-Q</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Weak coordination as a powerful means for developing broadly useful C–H functionalization reactions</article-title>
+						<source>Acc. Chem. Res.</source>
+						<year>2012</year>
+						<volume>45</volume>
+						<fpage>788</fpage>
+						<lpage>802</lpage>
+						<pub-id pub-id-type="coi">1:CAS:528:DC%2BC3MXhs1ajtr%2FI</pub-id>
+						<pub-id pub-id-type="pmid">22166158</pub-id>
+						<pub-id pub-id-type="doi">10.1021/ar200185g</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR2">
+					<label>2.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Neufeldt</surname>
+								<given-names>SR</given-names>
+							</name>
+							<name>
+								<surname>Sanford</surname>
+								<given-names>MS</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Controlling site selectivity in palladiumcatalyzed C–H bond functionalization</article-title>
+						<source>Acc. Chem. Res.</source>
+						<year>2012</year>
+						<volume>45</volume>
+						<fpage>936</fpage>
+						<lpage>946</lpage>
+						<pub-id pub-id-type="coi">1:CAS:528:DC%2BC38XmsVGlsL8%3D</pub-id>
+						<pub-id pub-id-type="pmid">22554114</pub-id>
+						<pub-id pub-id-type="pmcid">3378812</pub-id>
+						<pub-id pub-id-type="doi">10.1021/ar300014f</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR3">
+					<label>3.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Wencel-Delord</surname>
+								<given-names>J</given-names>
+							</name>
+							<name>
+								<surname>Glorius</surname>
+								<given-names>F</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">C–H bond activation enables the rapid construction and late-stage diversification of functional molecules</article-title>
+						<source>Nat. Chem.</source>
+						<year>2013</year>
+						<volume>5</volume>
+						<fpage>369</fpage>
+						<lpage>375</lpage>
+						<pub-id pub-id-type="coi">1:CAS:528:DC%2BC3sXmtlars7Y%3D</pub-id>
+						<pub-id pub-id-type="pmid">23609086</pub-id>
+						<pub-id pub-id-type="doi">10.1038/nchem.1607</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR4">
+					<label>4.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Abrams</surname>
+								<given-names>DJ</given-names>
+							</name>
+							<name>
+								<surname>Provencher</surname>
+								<given-names>PA</given-names>
+							</name>
+							<name>
+								<surname>Sorensen</surname>
+								<given-names>EJ</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Recent applications of C–H functionalization in complex natural product synthesis</article-title>
+						<source>Chem. Soc. Rev.</source>
+						<year>2018</year>
+						<volume>47</volume>
+						<fpage>8925</fpage>
+						<lpage>8967</lpage>
+						<pub-id pub-id-type="coi">1:CAS:528:DC%2BC1cXitFyqsrjJ</pub-id>
+						<pub-id pub-id-type="pmid">30426998</pub-id>
+						<pub-id pub-id-type="doi">10.1039/C8CS00716K</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR5">
+					<label>5.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Jurczyk</surname>
+								<given-names>J</given-names>
+							</name>
+							<etal/>
+						</person-group>
+						<article-title xml:lang="en">Single-Atom Logic for Heterocycle Editing</article-title>
+						<source>Nat. Synth.</source>
+						<year>2022</year>
+						<volume>1</volume>
+						<fpage>352</fpage>
+						<lpage>364</lpage>
+						<pub-id pub-id-type="bibcode">2022NatSy...1..352J</pub-id>
+						<pub-id pub-id-type="pmid">35935106</pub-id>
+						<pub-id pub-id-type="pmcid">9355079</pub-id>
+						<pub-id pub-id-type="doi">10.1038/s44160-022-00052-1</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR6">
+					<label>6.</label>
+					<mixed-citation publication-type="other">Liu, F., Anand, L. &amp; Szostak, M. Diversification of indoles and pyrroles by molecular editing: New frontiers in heterocycle-to-heterocycle transmutation.
+						<italic>Chem. Eur. J</italic>.
+						<bold>29</bold>, e202300096 (2023).
+					</mixed-citation>
+				</ref>
+				<ref id="CR7">
+					<label>7.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Zhaozhong</surname>
+								<given-names>L</given-names>
+							</name>
+							<name>
+								<surname>Paramasivam</surname>
+								<given-names>S</given-names>
+							</name>
+							<name>
+								<surname>Yongquan</surname>
+								<given-names>N</given-names>
+							</name>
+							<name>
+								<surname>Yong</surname>
+								<given-names>W</given-names>
+							</name>
+							<name>
+								<surname>Xihe</surname>
+								<given-names>B</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Skeletal editing of (hetero)arenes using carbenes</article-title>
+						<source>Chem. Eur. J.</source>
+						<year>2023</year>
+						<volume>29</volume>
+						<fpage>e202301227</fpage>
+						<pub-id pub-id-type="doi">10.1002/chem.202301227</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR8">
+					<label>8.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Roque</surname>
+								<given-names>JB</given-names>
+							</name>
+							<name>
+								<surname>Kuroda</surname>
+								<given-names>Y</given-names>
+							</name>
+							<name>
+								<surname>Göttemann</surname>
+								<given-names>LT</given-names>
+							</name>
+							<name>
+								<surname>Sarpong</surname>
+								<given-names>R</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Deconstructive diversification of cyclic amines</article-title>
+						<source>Nature</source>
+						<year>2018</year>
+						<volume>564</volume>
+						<fpage>244</fpage>
+						<lpage>248</lpage>
+						<pub-id pub-id-type="bibcode">2018Natur.564..244R</pub-id>
+						<pub-id pub-id-type="coi">1:CAS:528:DC%2BC1cXit1eiu7vN</pub-id>
+						<pub-id pub-id-type="pmid">30382193</pub-id>
+						<pub-id pub-id-type="pmcid">6317721</pub-id>
+						<pub-id pub-id-type="doi">10.1038/s41586-018-0700-3</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR9">
+					<label>9.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Dherange</surname>
+								<given-names>BD</given-names>
+							</name>
+							<name>
+								<surname>Kelly</surname>
+								<given-names>PQ</given-names>
+							</name>
+							<name>
+								<surname>Liles</surname>
+								<given-names>JP</given-names>
+							</name>
+							<name>
+								<surname>Sigman</surname>
+								<given-names>MS</given-names>
+							</name>
+							<name>
+								<surname>Levin</surname>
+								<given-names>MD</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Carbon atom insertion into pyrroles and indoles promoted by chlorodiazirines</article-title>
+						<source>J. Am. Chem. Soc.</source>
+						<year>2021</year>
+						<volume>143</volume>
+						<fpage>11337</fpage>
+						<lpage>11344</lpage>
+						<pub-id pub-id-type="coi">1:CAS:528:DC%2BB3MXhs1ars7bK</pub-id>
+						<pub-id pub-id-type="pmid">34286965</pub-id>
+						<pub-id pub-id-type="pmcid">8343525</pub-id>
+						<pub-id pub-id-type="doi">10.1021/jacs.1c06287</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR10">
+					<label>10.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Jurczyk</surname>
+								<given-names>J</given-names>
+							</name>
+							<etal/>
+						</person-group>
+						<article-title xml:lang="en">Photomediated ring contraction of saturated heterocycles</article-title>
+						<source>Science</source>
+						<year>2021</year>
+						<volume>373</volume>
+						<fpage>1004</fpage>
+						<lpage>1012</lpage>
+						<pub-id pub-id-type="bibcode">2021Sci...373.1004J</pub-id>
+						<pub-id pub-id-type="coi">1:CAS:528:DC%2BB3MXhvFWis7jE</pub-id>
+						<pub-id pub-id-type="pmid">34385352</pub-id>
+						<pub-id pub-id-type="pmcid">8627180</pub-id>
+						<pub-id pub-id-type="doi">10.1126/science.abi7183</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR11">
+					<label>11.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Kennedy</surname>
+								<given-names>SH</given-names>
+							</name>
+							<name>
+								<surname>Dherange</surname>
+								<given-names>BD</given-names>
+							</name>
+							<name>
+								<surname>Berger</surname>
+								<given-names>KJ</given-names>
+							</name>
+							<name>
+								<surname>Levin</surname>
+								<given-names>MD</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Skeletal editing through direct nitrogen deletion of secondary amines</article-title>
+						<source>Nature</source>
+						<year>2021</year>
+						<volume>593</volume>
+						<fpage>223</fpage>
+						<lpage>227</lpage>
+						<pub-id pub-id-type="bibcode">2021Natur.593..223K</pub-id>
+						<pub-id pub-id-type="coi">1:CAS:528:DC%2BB3MXhtVOksLfO</pub-id>
+						<pub-id pub-id-type="pmid">33981048</pub-id>
+						<pub-id pub-id-type="doi">10.1038/s41586-021-03448-9</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR12">
+					<label>12.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Woo</surname>
+								<given-names>J</given-names>
+							</name>
+							<etal/>
+						</person-group>
+						<article-title xml:lang="en">Scaffold hopping by net photochemical carbon deletion of azaarenes</article-title>
+						<source>Science</source>
+						<year>2022</year>
+						<volume>376</volume>
+						<fpage>527</fpage>
+						<lpage>532</lpage>
+						<pub-id pub-id-type="bibcode">2022Sci...376..527W</pub-id>
+						<pub-id pub-id-type="coi">1:CAS:528:DC%2BB38XhtF2nu7%2FL</pub-id>
+						<pub-id pub-id-type="pmid">35482853</pub-id>
+						<pub-id pub-id-type="pmcid">9107930</pub-id>
+						<pub-id pub-id-type="doi">10.1126/science.abo4282</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR13">
+					<label>13.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Bartholomew</surname>
+								<given-names>GL</given-names>
+							</name>
+							<name>
+								<surname>Carpaneto</surname>
+								<given-names>F</given-names>
+							</name>
+							<name>
+								<surname>Sarpong</surname>
+								<given-names>R</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Skeletal editing of pyrimidines to pyrazoles by formal carbon deletion</article-title>
+						<source>J. Am. Chem. Soc.</source>
+						<year>2022</year>
+						<volume>144</volume>
+						<fpage>22309</fpage>
+						<lpage>22315</lpage>
+						<pub-id pub-id-type="coi">1:CAS:528:DC%2BB38XivFGrs7rN</pub-id>
+						<pub-id pub-id-type="pmid">36441940</pub-id>
+						<pub-id pub-id-type="pmcid">10353523</pub-id>
+						<pub-id pub-id-type="doi">10.1021/jacs.2c10746</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR14">
+					<label>14.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Reisenbauer</surname>
+								<given-names>JC</given-names>
+							</name>
+							<name>
+								<surname>Green</surname>
+								<given-names>O</given-names>
+							</name>
+							<name>
+								<surname>Franchino</surname>
+								<given-names>A</given-names>
+							</name>
+							<name>
+								<surname>Finkelstein</surname>
+								<given-names>P</given-names>
+							</name>
+							<name>
+								<surname>Morandi</surname>
+								<given-names>B</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Late-stage diversification of indole skeletons through nitrogen atom insertion</article-title>
+						<source>Science</source>
+						<year>2022</year>
+						<volume>377</volume>
+						<fpage>1104</fpage>
+						<lpage>1109</lpage>
+						<pub-id pub-id-type="bibcode">2022Sci...377.1104R</pub-id>
+						<pub-id pub-id-type="coi">1:CAS:528:DC%2BB38XisVaqsLjJ</pub-id>
+						<pub-id pub-id-type="pmid">36048958</pub-id>
+						<pub-id pub-id-type="doi">10.1126/science.add1383</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR15">
+					<label>15.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Liu</surname>
+								<given-names>S</given-names>
+							</name>
+							<name>
+								<surname>Cheng</surname>
+								<given-names>X</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Insertion of ammonia into alkenes to build aromatic N-heterocycles</article-title>
+						<source>Nat. Commun.</source>
+						<year>2022</year>
+						<volume>13</volume>
+						<pub-id pub-id-type="bibcode">2022NatCo..13..425L</pub-id>
+						<pub-id pub-id-type="coi">1:CAS:528:DC%2BB38Xhs1Cmu7w%3D</pub-id>
+						<pub-id pub-id-type="pmid">35058468</pub-id>
+						<pub-id pub-id-type="pmcid">8776764</pub-id>
+						<pub-id pub-id-type="doi">10.1038/s41467-022-28099-w</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR16">
+					<label>16.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Kelly</surname>
+								<given-names>PQ</given-names>
+							</name>
+							<name>
+								<surname>Filatov</surname>
+								<given-names>AS</given-names>
+							</name>
+							<name>
+								<surname>Levin</surname>
+								<given-names>MD</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">A synthetic cycle for heteroarene synthesis by nitride insertion</article-title>
+						<source>Angew. Chem. Int. Ed.</source>
+						<year>2022</year>
+						<volume>61</volume>
+						<fpage>e202213041</fpage>
+						<pub-id pub-id-type="coi">1:CAS:528:DC%2BB38Xis12jsLfO</pub-id>
+						<pub-id pub-id-type="doi">10.1002/anie.202213041</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR17">
+					<label>17.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Wang</surname>
+								<given-names>J</given-names>
+							</name>
+							<name>
+								<surname>Lu</surname>
+								<given-names>H</given-names>
+							</name>
+							<name>
+								<surname>He</surname>
+								<given-names>Y</given-names>
+							</name>
+							<name>
+								<surname>Jing</surname>
+								<given-names>C</given-names>
+							</name>
+							<name>
+								<surname>Wei</surname>
+								<given-names>H</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Cobalt-catalyzed nitrogen atom insertion in arylcycloalkenes</article-title>
+						<source>J. Am. Chem. Soc.</source>
+						<year>2022</year>
+						<volume>144</volume>
+						<fpage>22433</fpage>
+						<lpage>22439</lpage>
+						<pub-id pub-id-type="coi">1:CAS:528:DC%2BB38XivFygs7rF</pub-id>
+						<pub-id pub-id-type="pmid">36449714</pub-id>
+						<pub-id pub-id-type="doi">10.1021/jacs.2c10570</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR18">
+					<label>18.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Finkelstein</surname>
+								<given-names>P</given-names>
+							</name>
+							<etal/>
+						</person-group>
+						<article-title xml:lang="en">Nitrogen atom insertion into indenes to access isoquinolines</article-title>
+						<source>Chem. Sci.</source>
+						<year>2023</year>
+						<volume>14</volume>
+						<fpage>2954</fpage>
+						<lpage>2959</lpage>
+						<pub-id pub-id-type="coi">1:CAS:528:DC%2BB3sXjslCjsL0%3D</pub-id>
+						<pub-id pub-id-type="pmid">36937579</pub-id>
+						<pub-id pub-id-type="pmcid">10016357</pub-id>
+						<pub-id pub-id-type="doi">10.1039/D2SC06952K</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR19">
+					<label>19.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Wight</surname>
+								<given-names>BA</given-names>
+							</name>
+							<etal/>
+						</person-group>
+						<article-title xml:lang="en">Skeletal editing approach to bridge-functionalized bicyclo[1.1.1]pentanes from azabicyclo[2.1.1]hexanes</article-title>
+						<source>J. Am. Chem. Soc.</source>
+						<year>2023</year>
+						<volume>145</volume>
+						<fpage>10960</fpage>
+						<lpage>10966</lpage>
+						<pub-id pub-id-type="doi">10.1021/jacs.3c02616</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR20">
+					<label>20.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Hang</surname>
+								<given-names>L</given-names>
+							</name>
+							<etal/>
+						</person-group>
+						<article-title xml:lang="en">Rhodium-catalyzed intramolecular nitrogen atom insertion into arene rings</article-title>
+						<source>J. Am. Chem. Soc.</source>
+						<year>2023</year>
+						<volume>145</volume>
+						<fpage>11750–</fpage>
+						<lpage>117576</lpage>
+					</mixed-citation>
+				</ref>
+				<ref id="CR21">
+					<label>21.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Zhong</surname>
+								<given-names>H</given-names>
+							</name>
+							<etal/>
+						</person-group>
+						<article-title xml:lang="en">Skeletal metalation of lactams through a carbonyl-to-nickel-exchange logic</article-title>
+						<source>Nat. Commun.</source>
+						<year>2023</year>
+						<volume>14</volume>
+						<pub-id pub-id-type="bibcode">2023NatCo..14.5273Z</pub-id>
+						<pub-id pub-id-type="coi">1:CAS:528:DC%2BB3sXhvVaru7%2FI</pub-id>
+						<pub-id pub-id-type="pmid">37644031</pub-id>
+						<pub-id pub-id-type="pmcid">10465567</pub-id>
+						<pub-id pub-id-type="doi">10.1038/s41467-023-40979-3</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR22">
+					<label>22.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Blakemore</surname>
+								<given-names>DC</given-names>
+							</name>
+							<etal/>
+						</person-group>
+						<article-title xml:lang="en">Organic synthesis provides opportunities to transform drug discovery</article-title>
+						<source>Nat. Chem.</source>
+						<year>2018</year>
+						<volume>10</volume>
+						<fpage>383</fpage>
+						<lpage>394</lpage>
+						<pub-id pub-id-type="coi">1:CAS:528:DC%2BC1cXos1Sktrk%3D</pub-id>
+						<pub-id pub-id-type="pmid">29568051</pub-id>
+						<pub-id pub-id-type="doi">10.1038/s41557-018-0021-z</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR23">
+					<label>23.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Campos</surname>
+								<given-names>KR</given-names>
+							</name>
+							<etal/>
+						</person-group>
+						<article-title xml:lang="en">The importance of synthetic chemistry in the pharmaceutical industry</article-title>
+						<source>Science</source>
+						<year>2019</year>
+						<volume>363</volume>
+						<pub-id pub-id-type="coi">1:CAS:528:DC%2BC1MXpvFCmtQ%3D%3D</pub-id>
+						<pub-id pub-id-type="pmid">30655413</pub-id>
+						<pub-id pub-id-type="doi">10.1126/science.aat0805</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR24">
+					<label>24.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Bartholomew</surname>
+								<given-names>GL</given-names>
+							</name>
+							<etal/>
+						</person-group>
+						<article-title xml:lang="en">
+							<sup>14</sup>N to
+							<sup>15</sup>N isotopic exchange of nitrogen heteroaromatics through skeletal editing
+						</article-title>
+						<source>J. Am. Chem. Soc.</source>
+						<year>2024</year>
+						<volume>146</volume>
+						<fpage>2950</fpage>
+						<lpage>2958</lpage>
+						<pub-id pub-id-type="coi">1:CAS:528:DC%2BB2cXitFWjur4%3D</pub-id>
+						<pub-id pub-id-type="pmid">38286797</pub-id>
+						<pub-id pub-id-type="doi">10.1021/jacs.3c11515</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR25">
+					<label>25.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Tolchin</surname>
+								<given-names>ZA</given-names>
+							</name>
+							<name>
+								<surname>Smith</surname>
+								<given-names>JM</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">
+							<sup>15</sup>NRORC: An azine labeling protocol
+						</article-title>
+						<source>J. Am. Chem. Soc.</source>
+						<year>2024</year>
+						<volume>146</volume>
+						<fpage>2939</fpage>
+						<lpage>2943</lpage>
+						<pub-id pub-id-type="coi">1:CAS:528:DC%2BB2cXhtV2gur8%3D</pub-id>
+						<pub-id pub-id-type="pmid">38215470</pub-id>
+						<pub-id pub-id-type="doi">10.1021/jacs.3c11618</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR26">
+					<label>26.</label>
+					<mixed-citation publication-type="other">Cheng, Q. et al. Skeletal editing of pyridines through atom-pair swap from CN to CC.
+						<italic>Nat. Chem</italic>.
+						<ext-link xlink:href="https://doi.org/10.1038/s41557-023-01428-2" ext-link-type="doi">https://doi.org/10.1038/s41557-023-01428-2</ext-link> (2024).
+					</mixed-citation>
+				</ref>
+				<ref id="CR27">
+					<label>27.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Morofuji</surname>
+								<given-names>T</given-names>
+							</name>
+							<name>
+								<surname>Nagai</surname>
+								<given-names>S</given-names>
+							</name>
+							<name>
+								<surname>Watanabe</surname>
+								<given-names>A</given-names>
+							</name>
+							<name>
+								<surname>Inagawa</surname>
+								<given-names>K</given-names>
+							</name>
+							<name>
+								<surname>Kano</surname>
+								<given-names>N</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Streptocyanine as an activation mode of amine catalysis for the conversion of pyridine rings to benzene rings</article-title>
+						<source>Chem. Sci.</source>
+						<year>2023</year>
+						<volume>14</volume>
+						<fpage>485</fpage>
+						<lpage>490</lpage>
+						<pub-id pub-id-type="coi">1:CAS:528:DC%2BB3sXjtFGlsA%3D%3D</pub-id>
+						<pub-id pub-id-type="pmid">36741523</pub-id>
+						<pub-id pub-id-type="doi">10.1039/D2SC06225A</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR28">
+					<label>28.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Morofuji</surname>
+								<given-names>T</given-names>
+							</name>
+							<name>
+								<surname>Inagawa</surname>
+								<given-names>K</given-names>
+							</name>
+							<name>
+								<surname>Kano</surname>
+								<given-names>N</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Sequential ring-opening and ring-closing reactions for converting para-substituted pyridines into meta-substituted anilines</article-title>
+						<source>Org. Lett.</source>
+						<year>2021</year>
+						<volume>23</volume>
+						<fpage>6126</fpage>
+						<lpage>6130</lpage>
+						<pub-id pub-id-type="coi">1:CAS:528:DC%2BB3MXhs1KqsrbP</pub-id>
+						<pub-id pub-id-type="pmid">34314185</pub-id>
+						<pub-id pub-id-type="doi">10.1021/acs.orglett.1c02225</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR29">
+					<label>29.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Morofuji</surname>
+								<given-names>T</given-names>
+							</name>
+							<name>
+								<surname>Kinoshita</surname>
+								<given-names>H</given-names>
+							</name>
+							<name>
+								<surname>Kano</surname>
+								<given-names>N</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Connecting a carbonyl and a π-conjugated group through a
+							<italic>p</italic>-phenylene linker by (5+1) benzene ring formation
+						</article-title>
+						<source>Chem. Commun.</source>
+						<year>2019</year>
+						<volume>55</volume>
+						<fpage>8575</fpage>
+						<lpage>8578</lpage>
+						<pub-id pub-id-type="coi">1:CAS:528:DC%2BC1MXhtlWiur%2FF</pub-id>
+						<pub-id pub-id-type="doi">10.1039/C9CC04012A</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR30">
+					<label>30.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Cabrera-Pardo</surname>
+								<given-names>JR</given-names>
+							</name>
+							<name>
+								<surname>Chai</surname>
+								<given-names>DI</given-names>
+							</name>
+							<name>
+								<surname>Kozmin</surname>
+								<given-names>SA</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Silver-promoted benzannulations of siloxyalkynes withpyridinium and isoquinolinium salts</article-title>
+						<source>Adv. Synth. Catal.</source>
+						<year>2013</year>
+						<volume>355</volume>
+						<fpage>2495</fpage>
+						<lpage>249</lpage>
+						<pub-id pub-id-type="coi">1:CAS:528:DC%2BC3sXhtlGlsb3M</pub-id>
+						<pub-id pub-id-type="pmid">24653670</pub-id>
+						<pub-id pub-id-type="pmcid">3956059</pub-id>
+						<pub-id pub-id-type="doi">10.1002/adsc.201300443</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR31">
+					<label>31.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Fout</surname>
+								<given-names>AR</given-names>
+							</name>
+							<name>
+								<surname>Bailey</surname>
+								<given-names>BC</given-names>
+							</name>
+							<name>
+								<surname>Tomaszewski</surname>
+								<given-names>J</given-names>
+							</name>
+							<name>
+								<surname>Mindiola</surname>
+								<given-names>DJ</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Cyclic denitrogenation of n-heterocycles applying a homogeneous titanium reagent</article-title>
+						<source>J. Am. Chem. Soc.</source>
+						<year>2007</year>
+						<volume>129</volume>
+						<fpage>12640</fpage>
+						<lpage>12641</lpage>
+						<pub-id pub-id-type="coi">1:CAS:528:DC%2BD2sXhtV2msLzP</pub-id>
+						<pub-id pub-id-type="pmid">17902671</pub-id>
+						<pub-id pub-id-type="doi">10.1021/ja075326n</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR32">
+					<label>32.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Karmacharya</surname>
+								<given-names>U</given-names>
+							</name>
+							<etal/>
+						</person-group>
+						<article-title xml:lang="en">Novel pyridine bioisostere of cabozantinib as a potent c-met kinase inhibitor: synthesis and anti-tumor activity against hepatocellular carcinoma</article-title>
+						<source>Int. J. Mol. Sci.</source>
+						<year>2021</year>
+						<volume>22</volume>
+						<fpage>9685</fpage>
+						<pub-id pub-id-type="coi">1:CAS:528:DC%2BB3MXitlGnsLvO</pub-id>
+						<pub-id pub-id-type="pmid">34575841</pub-id>
+						<pub-id pub-id-type="pmcid">8468607</pub-id>
+						<pub-id pub-id-type="doi">10.3390/ijms22189685</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR33">
+					<label>33.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Dossetter</surname>
+								<given-names>AG</given-names>
+							</name>
+							<name>
+								<surname>Douglas</surname>
+								<given-names>A</given-names>
+							</name>
+							<name>
+								<surname>O’Donnell</surname>
+								<given-names>C</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">A matched molecular pair analysis of in vitro human microsomal metabolic stability measurements for heterocyclic replacements of di-substituted benzene containing compounds − identification of those isosteres more likely to have beneficial effects</article-title>
+						<source>Med. Chem. Commun.</source>
+						<year>2012</year>
+						<volume>3</volume>
+						<fpage>1164</fpage>
+						<lpage>1169</lpage>
+						<pub-id pub-id-type="coi">1:CAS:528:DC%2BC38Xht1GitLbI</pub-id>
+						<pub-id pub-id-type="doi">10.1039/c2md20155k</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR34">
+					<label>34.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Sodano</surname>
+								<given-names>TM</given-names>
+							</name>
+							<name>
+								<surname>Combee</surname>
+								<given-names>LA</given-names>
+							</name>
+							<name>
+								<surname>Stephenson</surname>
+								<given-names>CRJ</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Recent advances and outlook for the isosteric replacement of anilines</article-title>
+						<source>ACS Med. Chem. Lett.</source>
+						<year>2020</year>
+						<volume>11</volume>
+						<fpage>1785</fpage>
+						<lpage>1788</lpage>
+						<pub-id pub-id-type="coi">1:CAS:528:DC%2BB3cXjsVeksro%3D</pub-id>
+						<pub-id pub-id-type="pmid">33062152</pub-id>
+						<pub-id pub-id-type="pmcid">7549097</pub-id>
+						<pub-id pub-id-type="doi">10.1021/acsmedchemlett.9b00687</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR35">
+					<label>35.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Pennington</surname>
+								<given-names>LD</given-names>
+							</name>
+							<name>
+								<surname>Moustakas</surname>
+								<given-names>DT</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">The necessary nitrogen atom: a versatile high-impact design element for multiparameter optimization</article-title>
+						<source>J. Med. Chem.</source>
+						<year>2017</year>
+						<volume>60</volume>
+						<fpage>3552</fpage>
+						<lpage>3579</lpage>
+						<pub-id pub-id-type="coi">1:CAS:528:DC%2BC2sXit1yit74%3D</pub-id>
+						<pub-id pub-id-type="pmid">28177632</pub-id>
+						<pub-id pub-id-type="doi">10.1021/acs.jmedchem.6b01807</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR36">
+					<label>36.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Patel</surname>
+								<given-names>SC</given-names>
+							</name>
+							<name>
+								<surname>Burns</surname>
+								<given-names>NZ</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Conversion of aryl azides to aminopyridines</article-title>
+						<source>J. Am. Chem. Soc.</source>
+						<year>2022</year>
+						<volume>144</volume>
+						<fpage>17797</fpage>
+						<lpage>17802</lpage>
+						<pub-id pub-id-type="coi">1:CAS:528:DC%2BB38XisVelurbE</pub-id>
+						<pub-id pub-id-type="pmid">36135802</pub-id>
+						<pub-id pub-id-type="doi">10.1021/jacs.2c08464</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR37">
+					<label>37.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Pearson</surname>
+								<given-names>TJ</given-names>
+							</name>
+							<etal/>
+						</person-group>
+						<article-title xml:lang="en">Aromatic nitrogen scanning by
+							<italic>ipso</italic>-selective nitrene internalization
+						</article-title>
+						<source>Science</source>
+						<year>2023</year>
+						<volume>381</volume>
+						<fpage>1474</fpage>
+						<lpage>1479</lpage>
+						<pub-id pub-id-type="bibcode">2023Sci...381.1474P</pub-id>
+						<pub-id pub-id-type="coi">1:CAS:528:DC%2BB3sXitVehu7zK</pub-id>
+						<pub-id pub-id-type="pmid">37769067</pub-id>
+						<pub-id pub-id-type="doi">10.1126/science.adj5331</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR38">
+					<label>38.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Woo</surname>
+								<given-names>J</given-names>
+							</name>
+							<name>
+								<surname>Stein</surname>
+								<given-names>C</given-names>
+							</name>
+							<name>
+								<surname>Christian</surname>
+								<given-names>AH</given-names>
+							</name>
+							<name>
+								<surname>Levin</surname>
+								<given-names>MD</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Carbon-to-nitrogen single-atom transmutation of azaarenes</article-title>
+						<source>Nature</source>
+						<year>2023</year>
+						<volume>632</volume>
+						<fpage>77</fpage>
+						<lpage>82</lpage>
+						<pub-id pub-id-type="bibcode">2023Natur.623...77W</pub-id>
+						<pub-id pub-id-type="doi">10.1038/s41586-023-06613-4</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR39">
+					<label>39.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Ding</surname>
+								<given-names>Q</given-names>
+							</name>
+							<name>
+								<surname>Ye</surname>
+								<given-names>Y</given-names>
+							</name>
+							<name>
+								<surname>Fan</surname>
+								<given-names>R</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Recent advances in phenol dearomatization and its application in complex syntheses</article-title>
+						<source>Synthesis</source>
+						<year>2012</year>
+						<volume>45</volume>
+						<fpage>1</fpage>
+						<lpage>14</lpage>
+						<pub-id pub-id-type="doi">10.1055/s-0032-1317575</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR40">
+					<label>40.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Zheng</surname>
+								<given-names>C</given-names>
+							</name>
+							<name>
+								<surname>You</surname>
+								<given-names>S-L</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Catalytic asymmetricdearomatization by transition-metal catalysis: a method for trans-formations of aromatic compounds</article-title>
+						<source>Chem</source>
+						<year>2016</year>
+						<volume>1</volume>
+						<fpage>830</fpage>
+						<lpage>857</lpage>
+						<pub-id pub-id-type="coi">1:CAS:528:DC%2BC2sXht1Ogu7s%3D</pub-id>
+						<pub-id pub-id-type="doi">10.1016/j.chempr.2016.11.005</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR41">
+					<label>41.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Wertjes</surname>
+								<given-names>WC</given-names>
+							</name>
+							<name>
+								<surname>Southgate</surname>
+								<given-names>EH</given-names>
+							</name>
+							<name>
+								<surname>Sarlah</surname>
+								<given-names>D</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Recent advances in chemical dearomatization of nonactivated arenes</article-title>
+						<source>Chem. Soc. Rev.</source>
+						<year>2018</year>
+						<volume>47</volume>
+						<fpage>7996</fpage>
+						<lpage>8017</lpage>
+						<pub-id pub-id-type="coi">1:CAS:528:DC%2BC1cXhsVentr7M</pub-id>
+						<pub-id pub-id-type="pmid">30073226</pub-id>
+						<pub-id pub-id-type="doi">10.1039/C8CS00389K</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR42">
+					<label>42.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Huck</surname>
+								<given-names>CJ</given-names>
+							</name>
+							<name>
+								<surname>Sarlah</surname>
+								<given-names>D</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Shaping molecular landscapes:Recent advances, opportunities, and challenges in dearomatization</article-title>
+						<source>Chem</source>
+						<year>2020</year>
+						<volume>6</volume>
+						<fpage>1589</fpage>
+						<lpage>1603</lpage>
+						<pub-id pub-id-type="coi">1:CAS:528:DC%2BB3cXhtlyjtbrF</pub-id>
+						<pub-id pub-id-type="pmid">32715154</pub-id>
+						<pub-id pub-id-type="pmcid">7380651</pub-id>
+						<pub-id pub-id-type="doi">10.1016/j.chempr.2020.06.015</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR43">
+					<label>43.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Li</surname>
+								<given-names>B</given-names>
+							</name>
+							<name>
+								<surname>Ruffoni</surname>
+								<given-names>A</given-names>
+							</name>
+							<name>
+								<surname>Leonori</surname>
+								<given-names>D</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">A photochemical strategy for ortho-aminophenol synthesis via dearomative-rearomative coupling between aryl azides and alcohols</article-title>
+						<source>Angew. Chem. Int. Ed.</source>
+						<year>2023</year>
+						<volume>62</volume>
+						<fpage>e202310540</fpage>
+						<pub-id pub-id-type="coi">1:CAS:528:DC%2BB3sXisVGnsLjL</pub-id>
+						<pub-id pub-id-type="doi">10.1002/anie.202310540</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR44">
+					<label>44.</label>
+					<mixed-citation publication-type="other">Mykura, R. et al. Synthesis of polysubstituted azepanes by dearomative ring expansion of nitroarenes.
+						<italic>Nat. Chem</italic>.
+						<ext-link xlink:href="https://doi.org/10.1038/s41557-023-01429-1" ext-link-type="doi">https://doi.org/10.1038/s41557-023-01429-1</ext-link>.
+					</mixed-citation>
+				</ref>
+				<ref id="CR45">
+					<label>45.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Li</surname>
+								<given-names>G</given-names>
+							</name>
+							<name>
+								<surname>Lavagnino</surname>
+								<given-names>MN</given-names>
+							</name>
+							<name>
+								<surname>Ali</surname>
+								<given-names>SZ</given-names>
+							</name>
+							<name>
+								<surname>Hu</surname>
+								<given-names>S</given-names>
+							</name>
+							<name>
+								<surname>Radosevich</surname>
+								<given-names>AT</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Tandem C/N-Difunctionalization of Nitroarenes: Reductive Amination and Annulation by a Ring Expansion/Contraction Sequence</article-title>
+						<source>J. Am. Chem. Soc.</source>
+						<year>2023</year>
+						<volume>145</volume>
+						<fpage>41</fpage>
+						<lpage>46</lpage>
+						<pub-id pub-id-type="coi">1:CAS:528:DC%2BB38XjtFOrsrnO</pub-id>
+						<pub-id pub-id-type="pmid">36562776</pub-id>
+						<pub-id pub-id-type="doi">10.1021/jacs.2c12450</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR46">
+					<label>46.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Sundberg</surname>
+								<given-names>RJ</given-names>
+							</name>
+							<name>
+								<surname>Suter</surname>
+								<given-names>SR</given-names>
+							</name>
+							<name>
+								<surname>Brenner</surname>
+								<given-names>M</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Photolysis of 0-substituted aryl azides in diethylamine. Formation and autoxidation of 2-diethylamino-1H-azepine intermediates</article-title>
+						<source>J. Am. Chem. Soc.</source>
+						<year>1972</year>
+						<volume>94</volume>
+						<fpage>513</fpage>
+						<lpage>520</lpage>
+						<pub-id pub-id-type="coi">1:CAS:528:DyaE38XntFOisg%3D%3D</pub-id>
+						<pub-id pub-id-type="doi">10.1021/ja00757a032</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR47">
+					<label>47.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Sundberg</surname>
+								<given-names>RJ</given-names>
+							</name>
+							<name>
+								<surname>Suter</surname>
+								<given-names>SR</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Structural rearrangements of aryl nitrenes and related intermediates</article-title>
+						<source>J. Org. Chem.</source>
+						<year>1970</year>
+						<volume>35</volume>
+						<fpage>827</fpage>
+						<lpage>828</lpage>
+						<pub-id pub-id-type="coi">1:CAS:528:DyaE3cXpvFygtQ%3D%3D</pub-id>
+						<pub-id pub-id-type="doi">10.1021/jo00828a067</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR48">
+					<label>48.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Sundberg</surname>
+								<given-names>RJ</given-names>
+							</name>
+							<name>
+								<surname>Das</surname>
+								<given-names>BP</given-names>
+							</name>
+							<name>
+								<surname>Smith</surname>
+								<given-names>RH</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Photochemical deoxygenation of aromatic nitro compounds in triethyl phosphite. Substituent effects and evidence for the involvement aryl nitrenes</article-title>
+						<source>J. Am. Chem. Soc.</source>
+						<year>1969</year>
+						<volume>91</volume>
+						<fpage>658</fpage>
+						<lpage>668</lpage>
+						<pub-id pub-id-type="coi">1:CAS:528:DyaF1MXmslegtw%3D%3D</pub-id>
+						<pub-id pub-id-type="doi">10.1021/ja01031a024</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR49">
+					<label>49.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>He</surname>
+								<given-names>Y</given-names>
+							</name>
+							<name>
+								<surname>Wang</surname>
+								<given-names>J</given-names>
+							</name>
+							<name>
+								<surname>Zhu</surname>
+								<given-names>Z</given-names>
+							</name>
+							<name>
+								<surname>Wei</surname>
+								<given-names>H</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Nitrogen atom insertion into arenols to access benzazepines</article-title>
+						<source>Chem. Sci.</source>
+						<year>2024</year>
+						<volume>15</volume>
+						<fpage>2612</fpage>
+						<lpage>2617</lpage>
+						<pub-id pub-id-type="coi">1:CAS:528:DC%2BB2cXht1WqtLs%3D</pub-id>
+						<pub-id pub-id-type="pmid">38362409</pub-id>
+						<pub-id pub-id-type="pmcid">10866339</pub-id>
+						<pub-id pub-id-type="doi">10.1039/D3SC05367A</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR50">
+					<label>50.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Schneider</surname>
+								<given-names>N</given-names>
+							</name>
+							<name>
+								<surname>Lowe</surname>
+								<given-names>DM</given-names>
+							</name>
+							<name>
+								<surname>Sayle</surname>
+								<given-names>RA</given-names>
+							</name>
+							<name>
+								<surname>Tarselli</surname>
+								<given-names>MA</given-names>
+							</name>
+							<name>
+								<surname>Landrum</surname>
+								<given-names>GA</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Big data from pharmaceutical patents: a computational analysis of medicinal chemists’ bread and butter</article-title>
+						<source>J. Med. Chem.</source>
+						<year>2016</year>
+						<volume>59</volume>
+						<fpage>4385</fpage>
+						<lpage>4402</lpage>
+						<pub-id pub-id-type="coi">1:CAS:528:DC%2BC28XltFGgurs%3D</pub-id>
+						<pub-id pub-id-type="pmid">27028220</pub-id>
+						<pub-id pub-id-type="doi">10.1021/acs.jmedchem.6b00153</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR51">
+					<label>51.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Taylor</surname>
+								<given-names>RD</given-names>
+							</name>
+							<name>
+								<surname>MacCoss</surname>
+								<given-names>M</given-names>
+							</name>
+							<name>
+								<surname>Lawson</surname>
+								<given-names>AD</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Rings in drugs</article-title>
+						<source>J. Med. Chem.</source>
+						<year>2014</year>
+						<volume>57</volume>
+						<fpage>5845</fpage>
+						<lpage>5859</lpage>
+						<pub-id pub-id-type="coi">1:CAS:528:DC%2BC2cXhtlCntbc%3D</pub-id>
+						<pub-id pub-id-type="pmid">24471928</pub-id>
+						<pub-id pub-id-type="doi">10.1021/jm4017625</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR52">
+					<label>52.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Brown</surname>
+								<given-names>DG</given-names>
+							</name>
+							<name>
+								<surname>Boström</surname>
+								<given-names>J</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Analysis of past and present synthetic methodologies on medicinal chemistry: where have all the new reactions gone?</article-title>
+						<source>J. Med. Chem.</source>
+						<year>2016</year>
+						<volume>59</volume>
+						<fpage>4443</fpage>
+						<lpage>4458</lpage>
+						<pub-id pub-id-type="coi">1:CAS:528:DC%2BC2MXhvVeqsrzM</pub-id>
+						<pub-id pub-id-type="pmid">26571338</pub-id>
+						<pub-id pub-id-type="doi">10.1021/acs.jmedchem.5b01409</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR53">
+					<label>53.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Yungeng</surname>
+								<given-names>L</given-names>
+							</name>
+							<name>
+								<surname>Ka-Pang</surname>
+								<given-names>S</given-names>
+							</name>
+							<name>
+								<surname>Vanessa Kar-Yan</surname>
+								<given-names>L</given-names>
+							</name>
+							<name>
+								<surname>Chi-Ming</surname>
+								<given-names>C</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Iron- and Ruthenium-Catalyzed C–N Bond Formation Reactions. Reactive Metal Imido/Nitrene Intermediates</article-title>
+						<source>ACS Catal.</source>
+						<year>2023</year>
+						<volume>13</volume>
+						<fpage>1103</fpage>
+						<lpage>1124</lpage>
+						<pub-id pub-id-type="doi">10.1021/acscatal.2c04830</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR54">
+					<label>54.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Luo</surname>
+								<given-names>Y</given-names>
+							</name>
+							<name>
+								<surname>Zhang</surname>
+								<given-names>X</given-names>
+							</name>
+							<name>
+								<surname>Xia</surname>
+								<given-names>Y</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Recent advances in transition-metal catalyzed nitrene transfer reactions with carbamates</article-title>
+						<source>Chin. Chem. Lett.</source>
+						<year>2024</year>
+						<volume>35</volume>
+						<fpage>108778</fpage>
+						<pub-id pub-id-type="coi">1:CAS:528:DC%2BB3sXis1OltbfL</pub-id>
+						<pub-id pub-id-type="doi">10.1016/j.cclet.2023.108778</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR55">
+					<label>55.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Sun</surname>
+								<given-names>H-C</given-names>
+							</name>
+							<etal/>
+						</person-group>
+						<article-title xml:lang="en">Solid-state white light-emitting electrochemical cells using iridium-based cationic transition metal complexes</article-title>
+						<source>J. Am. Chem. Soc.</source>
+						<year>2008</year>
+						<volume>130</volume>
+						<fpage>3413</fpage>
+						<lpage>3419</lpage>
+						<pub-id pub-id-type="doi">10.1021/ja076051e</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR56">
+					<label>56.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Namanga</surname>
+								<given-names>JE</given-names>
+							</name>
+							<etal/>
+						</person-group>
+						<article-title xml:lang="en">Fluorinated cationic iridium(iii) complex yielding an exceptional, efficient, and long-lived red-light-emitting electrochemical cell</article-title>
+						<source>ACS Appl. Energy Mater.</source>
+						<year>2020</year>
+						<volume>3</volume>
+						<fpage>9271</fpage>
+						<lpage>9277</lpage>
+						<pub-id pub-id-type="coi">1:CAS:528:DC%2BB3cXhs1GrsLrO</pub-id>
+						<pub-id pub-id-type="doi">10.1021/acsaem.0c01600</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR57">
+					<label>57.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Feng</surname>
+								<given-names>S</given-names>
+							</name>
+							<etal/>
+						</person-group>
+						<article-title xml:lang="en">Catalytic asymmetric [4 + 2] cycloaddition of ortho-alkenyl naphthols/phenols with ortho-quinone methides: Highly stereoselective synthesis of chiral 2,3,4-trisubstituted chromans</article-title>
+						<source>J. Org. Chem.</source>
+						<year>2020</year>
+						<volume>85</volume>
+						<fpage>5231</fpage>
+						<lpage>5244</lpage>
+						<pub-id pub-id-type="coi">1:CAS:528:DC%2BB3cXltFyitb8%3D</pub-id>
+						<pub-id pub-id-type="pmid">32186180</pub-id>
+						<pub-id pub-id-type="doi">10.1021/acs.joc.9b03302</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR58">
+					<label>58.</label>
+					<mixed-citation publication-type="other">Patonay, T., Micskei, K., Juhász-Tóth, É., Fekete, S. &amp; Pardi-Tóth, V. C. α-Azido ketones, Part 6
+						<sup>†</sup>. Reduction of acyclic and cyclic α-azido ketones into α-amino ketones: old problems and new solutions.
+						<italic>ARKIVOC</italic>
+						<bold>vi</bold>, 270−290 (2009).
+					</mixed-citation>
+				</ref>
+				<ref id="CR59">
+					<label>59.</label>
+					<mixed-citation publication-type="other">We proposed that the byproduct
+						<bold>45</bold> might be derived from [4+2] cyclization between ring expansion intermediate (Fig. 1D,
+						<bold>II</bold>) and azide elimination product of
+						<bold>44</bold>. The detailed procedure can be seen in Supplementary Information, section 2.4.
+					</mixed-citation>
+				</ref>
+				<ref id="CR60">
+					<label>60.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Wei</surname>
+								<given-names>K</given-names>
+							</name>
+							<name>
+								<surname>Yang</surname>
+								<given-names>T</given-names>
+							</name>
+							<name>
+								<surname>Chen</surname>
+								<given-names>Q</given-names>
+							</name>
+							<name>
+								<surname>Liang</surname>
+								<given-names>S</given-names>
+							</name>
+							<name>
+								<surname>Yu</surname>
+								<given-names>W</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Iron-catalysed 1,2-aryl migration of tertiary azides</article-title>
+						<source>Chem. Commun.</source>
+						<year>2020</year>
+						<volume>56</volume>
+						<fpage>11685</fpage>
+						<lpage>11688</lpage>
+						<pub-id pub-id-type="coi">1:CAS:528:DC%2BB3cXhs1Gjt7rM</pub-id>
+						<pub-id pub-id-type="doi">10.1039/D0CC04579A</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR61">
+					<label>61.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Szostak</surname>
+								<given-names>M</given-names>
+							</name>
+							<name>
+								<surname>Yao</surname>
+								<given-names>L</given-names>
+							</name>
+							<name>
+								<surname>Aubé</surname>
+								<given-names>J</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Proximity effects in nucleophilic addition reactions to medium-bridged twisted lactams: remarkably stable tetrahedral intermediates</article-title>
+						<source>J. Am. Chem. Soc.</source>
+						<year>2010</year>
+						<volume>132</volume>
+						<fpage>2078</fpage>
+						<lpage>2084</lpage>
+						<pub-id pub-id-type="coi">1:CAS:528:DC%2BC3cXptlyhuw%3D%3D</pub-id>
+						<pub-id pub-id-type="pmid">20095610</pub-id>
+						<pub-id pub-id-type="pmcid">2820158</pub-id>
+						<pub-id pub-id-type="doi">10.1021/ja909792h</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR62">
+					<label>62.</label>
+					<mixed-citation publication-type="other">Bagdanoff, J. T., Behenna, D. C., Stockdill, J. L. &amp; B. M. Stoltz. Enantioselective synthesis of caprolactam and enone precursors to the heterocyclic DEFG ring system of zoanthenol.
+						<italic>Eur. J. Org. Chem</italic>.
+						<bold>2016</bold>, 2101–2104 (2016).
+					</mixed-citation>
+				</ref>
+			</ref-list>
+		</ref-list>
+		<app-group>
+			<app id="App1">
+				<sec id="Sec9">
+					<title>Supplementary information</title>
+					<p id="Par15">
+						<supplementary-material content-type="local-data" id="MOESM1" xlink:title="Supplementary information">
+							<media xlink:href="MediaObjects/41467_2024_48265_MOESM1_ESM.pdf" mimetype="application" mime-subtype="pdf">
+								<caption xml:lang="en">
+									<p>Supplementary Information</p>
+								</caption>
+							</media>
+						</supplementary-material>
+						<supplementary-material content-type="local-data" id="MOESM2" xlink:title="Supplementary information">
+							<media xlink:href="MediaObjects/41467_2024_48265_MOESM2_ESM.pdf" mimetype="application" mime-subtype="pdf">
+								<caption xml:lang="en">
+									<p>Peer Review File</p>
+								</caption>
+							</media>
+						</supplementary-material>
+					</p>
+				</sec>
+			</app>
+		</app-group>
+		<notes notes-type="ESMHint">
+			<title>Supplementary information</title>
+			<p>The online version contains supplementary material available at
+				<ext-link xlink:href="https://doi.org/10.1038/s41467-024-48265-6" ext-link-type="doi">https://doi.org/10.1038/s41467-024-48265-6</ext-link>.
+			</p>
+		</notes>
+		<notes notes-type="Misc">
+			<p>
+				<bold>Publisher’s note</bold> Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+			</p>
+		</notes>
+	</back>
+</article>

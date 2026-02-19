@@ -1,0 +1,67 @@
+{
+  "authors": [
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Pennsylvania State University"
+        }
+      ],
+      "name": {
+        "given_name": "Elia",
+        "surname": "Merzari"
+      }
+    }
+  ],
+  "copyright": {
+    "statement": "\u00a9 2024 American Nuclear Society",
+    "status": true
+  },
+  "pagination": {
+    "firstPage": "iii",
+    "lastPage": "iii",
+    "pageCount": "1",
+    "pageRange": "iii-iii"
+  },
+  "persistentIDs": [
+    {
+      "DOI": "10.1080/00295450.2024.2346452"
+    }
+  ],
+  "pubDate": {
+    "printDate": "2024-07-02"
+  },
+  "publication": {
+    "ISSN": [
+      {
+        "issnString": "0029-5450",
+        "pubtype": "ppub"
+      },
+      {
+        "issnString": "1943-7471",
+        "pubtype": "epub"
+      }
+    ],
+    "issueNum": "7",
+    "pubName": "Nuclear Technology",
+    "pubYear": "2024",
+    "publisher": "Taylor & Francis",
+    "volumeNum": "210"
+  },
+  "publisherIDs": [
+    {
+      "Identifier": "2346452",
+      "attribute": "publisher-id"
+    }
+  ],
+  "recordData": {
+    "createdTime": "",
+    "loadFormat": "JATS",
+    "loadLocation": "",
+    "loadType": "fromFile",
+    "parsedTime": "",
+    "recordOrigin": ""
+  },
+  "title": {
+    "textEnglish": "Foreword: Special issue on the Nuclear Energy Advanced Modeling and Simulation Thermal Hydraulics Integrated Research Project"
+  }
+}

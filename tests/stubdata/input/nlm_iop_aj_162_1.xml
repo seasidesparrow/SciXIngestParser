@@ -1,0 +1,1822 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v3.0 20080202//EN" "http://ej.iop.org/dtd/nlm-3.0/journalpublishing3.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" article-type="research-article">
+<front>
+<journal-meta>
+<journal-id journal-id-type="publisher-id">aj</journal-id>
+<journal-title-group>
+<journal-title>The Astronomical Journal</journal-title>
+<abbrev-journal-title abbrev-type="AAS">AJ</abbrev-journal-title>
+<abbrev-journal-title abbrev-type="publisher">Astron. J.</abbrev-journal-title>
+</journal-title-group>
+<issn pub-type="ppub">0004-6256</issn>
+<issn pub-type="epub">1538-3881</issn>
+<publisher>
+<publisher-name>The American Astronomical Society</publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="publisher-id">ajabfdc9</article-id>
+<article-id pub-id-type="doi">10.3847/1538-3881/abfdc9</article-id>
+<article-id pub-id-type="manuscript">abfdc9</article-id>
+<article-id pub-id-type="other">AAS29268</article-id>
+<article-categories>
+<subj-group subj-group-type="section">
+<subject content-type="order">350</subject>
+<subject content-type="heading">The Solar System, Exoplanets, and Astrobiology</subject>
+</subj-group>
+</article-categories>
+<title-group>
+<article-title>Meteoroid Stream of Comet C/1961 T1 (Seki) and Its Relation to the December <italic>&rgr;</italic>-Virginids and <italic>&gamma;</italic>-Sagittariids</article-title>
+<alt-title alt-title-type="ascii">Meteoroid Stream of Comet C/1961 T1 (Seki) and Its Relation to the December <italic>&rgr;</italic>-Virginids and <italic>&gamma;</italic>-Sagittariids</alt-title>
+<alt-title alt-title-type="toc-author">Lubo&scaron; Neslu&scaron;an, and M&aacute;ria Hajdukov&aacute;</alt-title>
+</title-group>
+<contrib-group content-type="all">
+<contrib contrib-type="author" corresp="yes">
+<name>
+<surname>Neslu&scaron;an</surname>
+<given-names>Lubo&scaron;</given-names>
+</name>
+<xref ref-type="aff" rid="ajabfdc9af1">1</xref>
+<xref ref-type="aff" rid="ajabfdc9em1"/>
+<ext-link ext-link-type="orcid">0000-0001-9758-1144</ext-link>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname>Hajdukov&aacute;</surname>
+<given-names>M&aacute;ria</given-names>
+</name>
+<xref ref-type="aff" rid="ajabfdc9af2">2</xref>
+<ext-link ext-link-type="orcid">0000-0002-7837-2627</ext-link>
+</contrib>
+<aff id="ajabfdc9af1">
+<label>1</label>
+<institution>Astronomical Institute</institution>, Slovak Academy of Science, 05960 Tatransk&aacute; Lomnica, <country>Slovakia</country>; <ext-link id="ajabfdc9em1" ext-link-type="email">ne@ta3.sk</ext-link>
+</aff>
+<aff id="ajabfdc9af2">
+<label>2</label>
+<institution>Astronomical Institute</institution>, Slovak Academy of Science, D&uacute;bravsk&aacute; cesta 9, 84504 Bratislava, <country>Slovakia</country>
+</aff>
+<author-comment content-type="short-author-list">
+<p>Neslu&scaron;an &amp; Hajdukov&aacute;</p>
+</author-comment>
+</contrib-group>
+<pub-date pub-type="ppub">
+<month>7</month>
+<year>2021</year>
+</pub-date>
+<pub-date pub-type="epub">
+<day>18</day>
+<month>06</month>
+<year>2021</year>
+</pub-date>
+<volume>162</volume>
+<issue>1</issue>
+<elocation-id content-type="artnum">20</elocation-id>
+<history>
+<date date-type="received">
+<day>17</day>
+<month>12</month>
+<year>2020</year>
+</date>
+<date date-type="rev-recd">
+<day>8</day>
+<month>2</month>
+<year>2021</year>
+</date>
+<date date-type="accepted">
+<day>2</day>
+<month>5</month>
+<year>2021</year>
+</date>
+</history>
+<permissions>
+<copyright-statement>&copy; 2021. The American Astronomical Society. All rights reserved.</copyright-statement>
+<copyright-year>2021</copyright-year>
+</permissions>
+<self-uri xlink:href="http://stacks.iop.org/AJ/162/20"/>
+<abstract>
+<title>Abstract</title>
+<p>We answer the question of whether long-period comet C/1961 T1 (Seki) is the parent body of a meteor shower observed in Earth&rsquo;s atmosphere. We model discrete parts of a meteoroid stream associated with this comet and follow the orbital evolution of its particles via a numerical integration of their orbits. The gravitational perturbations of major planets and the Poynting&ndash;Robertson effect, which influences the motion of the particles, are taken into account. We predict two showers which are related to C/1961 T1. One of these showers was identified with the December <italic>&rgr;</italic>-Virginids, #502. This identification confirms an earlier suggested relationship between the shower and the comet. The second predicted shower was identified with the <italic>&gamma;</italic>-Sagittariids, #657. The radiant areas of both showers are symmetrical in respect to the apex of Earth&rsquo;s heliocentric motion.</p>
+</abstract>
+<kwd-group kwd-group-type="author">
+<title content-type="vocab">unified-astronomy-thesaurus</title>
+<compound-kwd>
+<compound-kwd-part content-type="vocab-term-identifier">http://astrothesaurus.org/uat/280</compound-kwd-part>
+<compound-kwd-part content-type="term">Comets</compound-kwd-part>
+<compound-kwd-part content-type="uat-code">280</compound-kwd-part>
+</compound-kwd>
+<compound-kwd>
+<compound-kwd-part content-type="vocab-term-identifier">http://astrothesaurus.org/uat/1035</compound-kwd-part>
+<compound-kwd-part content-type="term">Meteor streams</compound-kwd-part>
+<compound-kwd-part content-type="uat-code">1035</compound-kwd-part>
+</compound-kwd>
+<compound-kwd>
+<compound-kwd-part content-type="vocab-term-identifier">http://astrothesaurus.org/uat/1034</compound-kwd-part>
+<compound-kwd-part content-type="term">Meteor showers</compound-kwd-part>
+<compound-kwd-part content-type="uat-code">1034</compound-kwd-part>
+</compound-kwd>
+</kwd-group>
+<kwd-group kwd-group-type="AAS">
+<kwd>Comets</kwd>
+<kwd>Meteor streams</kwd>
+<kwd>Meteor showers</kwd>
+</kwd-group>
+<funding-group>
+<award-group>
+<funding-source>EC &mid; European Regional Development Fund (ERDF)<named-content content-type="funder-id">https://doi.org/10.13039/501100008530</named-content>
+</funding-source>
+<award-id>ITMS 26230120002</award-id>
+</award-group>
+<award-group>
+<funding-source>Slovak Research and Development Agency</funding-source>
+<award-id>APVV-16-0148</award-id>
+</award-group>
+<award-group>
+<funding-source>Slovak Grant Agency for Science, VEGA</funding-source>
+<award-id>2/0037/18</award-id>
+</award-group>
+</funding-group>
+<counts>
+<page-count count="9"/>
+</counts>
+<custom-meta-group>
+<custom-meta>
+<meta-name>ccc</meta-name>
+<meta-value>0004-6256/21/20&plus;9&dollar;33.00</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>crossmark</meta-name>
+<meta-value>yes</meta-value>
+</custom-meta>
+</custom-meta-group>
+</article-meta>
+</front>
+<body>[Removed]</body>
+<back>
+<ack>
+<p>The calculations of stream evolution in the models were performed using computing resources provided by the project SIVVP, ITMS 26230120002, supported by the Research and Development Operational Program funded by the European Regional Development Fund. Furthermore, the work was supported by the Slovak Research and Development Agency under the contract No. APVV-16-0148 and, in part, by the Slovak Grant Agency for Science (VEGA), grant No. 2/0037/18.</p>
+<p><italic>Software</italic>: MERCURY package (Chambers <xref ref-type="bibr" rid="ajabfdc9bib6">1999</xref>; Chambers &amp; Murison <xref ref-type="bibr" rid="ajabfdc9bib7">2000</xref>), IAU MDC database Porub&ccaron;an et al. (<xref ref-type="bibr" rid="ajabfdc9bib47">2011</xref>), Neslu&scaron;an et al. (<xref ref-type="bibr" rid="ajabfdc9bib43">2014</xref>), Gural (<xref ref-type="bibr" rid="ajabfdc9bib13">2011</xref>), Jenniskens et al. (<xref ref-type="bibr" rid="ajabfdc9bib19">2011</xref>, <xref ref-type="bibr" rid="ajabfdc9bib22">2016a</xref>, <xref ref-type="bibr" rid="ajabfdc9bib23">2016b</xref>, <xref ref-type="bibr" rid="ajabfdc9bib24">2016c</xref>) SonotaCo database (SonotaCo <xref ref-type="bibr" rid="ajabfdc9bib56">2009</xref>, <xref ref-type="bibr" rid="ajabfdc9bib57">2016</xref>), EDMOND database (Korno&scaron; et al. <xref ref-type="bibr" rid="ajabfdc9bib28">2014a</xref>, <xref ref-type="bibr" rid="ajabfdc9bib29">2014b</xref>), SAAMER meteor data (Pokorn&yacute; et al. <xref ref-type="bibr" rid="ajabfdc9bib46">2017</xref>), MAARSY meteor data (Schult et al. <xref ref-type="bibr" rid="ajabfdc9bib52">2018</xref>).</p>
+</ack>
+<ref-list content-type="alphabetical">
+<title>References</title>
+<ref id="ajabfdc9bib1">
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Abedin</surname>
+<given-names>A.</given-names>
+</name>
+<name>
+<surname>Spurn&yacute;</surname>
+<given-names>P.</given-names>
+</name>
+<name>
+<surname>Wiegert</surname>
+<given-names>P.</given-names>
+</name>
+<etal/>
+</person-group>
+<year>2015</year>
+<source>Icar</source>
+<volume>261</volume>
+<fpage>100</fpage>
+<ext-link ext-link-type="bibcode">2015Icar..261..100A</ext-link>
+<pub-id pub-id-type="doi">10.1016/j.icarus.2015.08.016</pub-id>
+</element-citation>
+</ref>
+<ref id="ajabfdc9bib2">
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Abedin</surname>
+<given-names>A.</given-names>
+</name>
+<name>
+<surname>Wiegert</surname>
+<given-names>P.</given-names>
+</name>
+<name>
+<surname>Janches</surname>
+<given-names>D.</given-names>
+</name>
+<etal/>
+</person-group>
+<year>2018</year>
+<source>Icar</source>
+<volume>300</volume>
+<fpage>360</fpage>
+<ext-link ext-link-type="bibcode">2018Icar..300..360A</ext-link>
+<pub-id pub-id-type="doi">10.1016/j.icarus.2017.07.015</pub-id>
+</element-citation>
+</ref>
+<ref id="ajabfdc9bib3">
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Abedin</surname>
+<given-names>A.</given-names>
+</name>
+<name>
+<surname>Wiegert</surname>
+<given-names>P.</given-names>
+</name>
+<name>
+<surname>Pokorn&yacute;</surname>
+<given-names>P.</given-names>
+</name>
+<name>
+<surname>Brown</surname>
+<given-names>P.</given-names>
+</name>
+</person-group>
+<year>2017</year>
+<source>Icar</source>
+<volume>281</volume>
+<fpage>417</fpage>
+<ext-link ext-link-type="bibcode">2017Icar..281..417A</ext-link>
+<pub-id pub-id-type="doi">10.1016/j.icarus.2016.08.017</pub-id>
+</element-citation>
+</ref>
+<ref id="ajabfdc9bib4">
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Babadzhanov</surname>
+<given-names>P. B.</given-names>
+</name>
+<name>
+<surname>Kokhirova</surname>
+<given-names>G. I.</given-names>
+</name>
+<name>
+<surname>Khamroev</surname>
+<given-names>U. K.</given-names>
+</name>
+</person-group>
+<year>2015a</year>
+<source>AdSpR</source>
+<volume>55</volume>
+<fpage>1784</fpage>
+<ext-link ext-link-type="bibcode">2015AdSpR..55.1784B</ext-link>
+<pub-id pub-id-type="doi">10.1016/j.asr.2015.01.012</pub-id>
+</element-citation>
+</ref>
+<ref id="ajabfdc9bib5">
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Babadzhanov</surname>
+<given-names>P. B.</given-names>
+</name>
+<name>
+<surname>Kokhirova</surname>
+<given-names>G. I.</given-names>
+</name>
+<name>
+<surname>Obrubov</surname>
+<given-names>Y. V.</given-names>
+</name>
+</person-group>
+<year>2015b</year>
+<source>A&amp;A</source>
+<volume>579</volume>
+<fpage>A119</fpage>
+<ext-link ext-link-type="bibcode">2015A&amp;A...579A.119B</ext-link>
+<pub-id pub-id-type="doi">10.1051/0004-6361/201424923</pub-id>
+</element-citation>
+</ref>
+<ref id="ajabfdc9bib62">
+<element-citation publication-type="confproc">
+<person-group person-group-type="author">
+<name>
+<surname>Brown</surname>
+<given-names>P.</given-names>
+</name>
+</person-group>
+<year>2016</year>
+<conf-name>Proc. Int. Meteor Conf.</conf-name>
+<person-group person-group-type="editor">
+<name>
+<surname>Roggemans</surname>
+<given-names>A.</given-names>
+</name>
+<name>
+<surname>Roggemans</surname>
+<given-names>P.</given-names>
+</name>
+</person-group>
+<publisher-loc>Poznan</publisher-loc>
+<publisher-name>A. Mickiewicz Univ. Press</publisher-name>
+<fpage>42</fpage>
+<ext-link ext-link-type="bibcode">2016pimo.conf...42B</ext-link>
+</element-citation>
+</ref>
+<ref id="ajabfdc9bib63">
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Brown</surname>
+<given-names>P.</given-names>
+</name>
+<name>
+<surname>Weryk</surname>
+<given-names>R. J.</given-names>
+</name>
+</person-group>
+<year>2020</year>
+<source>Icar</source>
+<volume>352</volume>
+<fpage>113975</fpage>
+<ext-link ext-link-type="bibcode">2020Icar..35213975B</ext-link>
+<pub-id pub-id-type="doi">10.1016/j.icarus.2020.113975</pub-id>
+</element-citation>
+</ref>
+<ref id="ajabfdc9bib64">
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Bruzzone</surname>
+<given-names>J. S.</given-names>
+</name>
+<name>
+<surname>Brown</surname>
+<given-names>P.</given-names>
+</name>
+<name>
+<surname>Weryk</surname>
+<given-names>R. J.</given-names>
+</name>
+<name>
+<surname>Campbell-Brown</surname>
+<given-names>M. D.</given-names>
+</name>
+</person-group>
+<year>2015</year>
+<source>MNRAS</source>
+<volume>446</volume>
+<fpage>1625</fpage>
+<ext-link ext-link-type="bibcode">2015MNRAS.446.1625B</ext-link>
+<pub-id pub-id-type="doi">10.1093/mnras/stu2200</pub-id>
+</element-citation>
+</ref>
+<ref id="ajabfdc9bib6">
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Chambers</surname>
+<given-names>J. E.</given-names>
+</name>
+</person-group>
+<year>1999</year>
+<source>MNRAS</source>
+<volume>304</volume>
+<fpage>793</fpage>
+<ext-link ext-link-type="bibcode">1999MNRAS.304..793C</ext-link>
+<pub-id pub-id-type="doi">10.1046/j.1365-8711.1999.02379.x</pub-id>
+</element-citation>
+</ref>
+<ref id="ajabfdc9bib7">
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Chambers</surname>
+<given-names>J. E.</given-names>
+</name>
+<name>
+<surname>Murison</surname>
+<given-names>M. A.</given-names>
+</name>
+</person-group>
+<year>2000</year>
+<source>AJ</source>
+<volume>119</volume>
+<fpage>425</fpage>
+<ext-link ext-link-type="bibcode">2000AJ....119..425C</ext-link>
+<pub-id pub-id-type="doi">10.1086/301161</pub-id>
+</element-citation>
+</ref>
+<ref id="ajabfdc9bib8">
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Egal</surname>
+<given-names>A.</given-names>
+</name>
+<name>
+<surname>Wiegert</surname>
+<given-names>P.</given-names>
+</name>
+<name>
+<surname>Brown</surname>
+<given-names>P. G.</given-names>
+</name>
+<etal/>
+</person-group>
+<year>2019</year>
+<source>Icar</source>
+<volume>330</volume>
+<fpage>123</fpage>
+<ext-link ext-link-type="bibcode">2019Icar..330..123E</ext-link>
+<pub-id pub-id-type="doi">10.1016/j.icarus.2019.04.021</pub-id>
+</element-citation>
+</ref>
+<ref id="ajabfdc9bib9">
+<element-citation publication-type="confproc">
+<person-group person-group-type="author">
+<name>
+<surname>Everhart</surname>
+<given-names>E.</given-names>
+</name>
+</person-group>
+<year>1985</year>
+<article-title>An efficient integrator that uses Gauss-Radau spacings</article-title>
+<conf-name>Dynamics of Comets: Their Origin and Evolution</conf-name>
+<person-group person-group-type="editor">
+<name>
+<surname>Carusi</surname>
+<given-names>A.</given-names>
+</name>
+<name>
+<surname>Valsecchi</surname>
+<given-names>G. B.</given-names>
+</name>
+</person-group>
+<publisher-loc>Dordrecht</publisher-loc>
+<publisher-name>Reidel</publisher-name>
+<fpage>185</fpage>
+<ext-link ext-link-type="bibcode">1985IAUCo..83..185E</ext-link>
+</element-citation>
+</ref>
+<ref id="ajabfdc9bib10">
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Giorgini</surname>
+<given-names>J. D.</given-names>
+</name>
+<name>
+<surname>Yeomans</surname>
+<given-names>D. K.</given-names>
+</name>
+<name>
+<surname>Chamberlin</surname>
+<given-names>A. B.</given-names>
+</name>
+<etal/>
+</person-group>
+<year>1996</year>
+<source>BAAS</source>
+<volume>28</volume>
+<fpage>1158</fpage>
+<ext-link ext-link-type="bibcode">1996BAAS...28.1158G</ext-link>
+</element-citation>
+</ref>
+<ref id="ajabfdc9bib11">
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Greaves</surname>
+<given-names>J.</given-names>
+</name>
+</person-group>
+<year>2000</year>
+<source>Rad</source>
+<volume>22</volume>
+<fpage>41</fpage>
+<ext-link ext-link-type="bibcode">2000Rad....22...41G</ext-link>
+</element-citation>
+</ref>
+<ref id="ajabfdc9bib12">
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Greaves</surname>
+<given-names>J.</given-names>
+</name>
+</person-group>
+<year>2019</year>
+<source>JIMO</source>
+<volume>47</volume>
+<fpage>156</fpage>
+<ext-link ext-link-type="bibcode">2019JIMO...47..156G</ext-link>
+</element-citation>
+</ref>
+<ref id="ajabfdc9bib13">
+<element-citation publication-type="confproc">
+<person-group person-group-type="author">
+<name>
+<surname>Gural</surname>
+<given-names>P. S.</given-names>
+</name>
+</person-group>
+<year>2011</year>
+<conf-name>Proc. Int. Meteor Conf.</conf-name>
+<person-group person-group-type="editor">
+<name>
+<surname>Asher</surname>
+<given-names>D. J.</given-names>
+</name>
+<etal/>
+</person-group>
+<publisher-loc>Mechelen</publisher-loc>
+<publisher-name>International Meteor Organization</publisher-name>
+<fpage>28</fpage>
+<ext-link ext-link-type="bibcode">2011pimo.conf...28G</ext-link>
+</element-citation>
+</ref>
+<ref id="ajabfdc9bib14">
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Hajdukov&aacute;</surname>
+<given-names>M.</given-names>
+</name>
+<name>
+<surname>Neslu&scaron;an</surname>
+<given-names>L.</given-names>
+</name>
+</person-group>
+<year>2017</year>
+<source>A&amp;A</source>
+<volume>605</volume>
+<fpage>A36</fpage>
+<ext-link ext-link-type="bibcode">2017A&amp;A...605A..36H</ext-link>
+<pub-id pub-id-type="doi">10.1051/0004-6361/201730646</pub-id>
+</element-citation>
+</ref>
+<ref id="ajabfdc9bib15">
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Hajdukov&aacute;</surname>
+<given-names>M.</given-names>
+</name>
+<name>
+<surname>Neslu&scaron;an</surname>
+<given-names>L.</given-names>
+</name>
+</person-group>
+<year>2019</year>
+<source>A&amp;A</source>
+<volume>627</volume>
+<fpage>A73</fpage>
+<ext-link ext-link-type="bibcode">2019A&amp;A...627A..73H</ext-link>
+<pub-id pub-id-type="doi">10.1051/0004-6361/201935630</pub-id>
+</element-citation>
+</ref>
+<ref id="ajabfdc9bib16">
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Hajdukov&aacute;</surname>
+<given-names>M.</given-names>
+</name>
+<name>
+<surname>Neslu&scaron;an</surname>
+<given-names>L.</given-names>
+</name>
+</person-group>
+<year>2020</year>
+<source>Icar</source>
+<volume>351</volume>
+<elocation-id content-type="artnum">113960</elocation-id>
+<ext-link ext-link-type="bibcode">2020Icar..35113960H</ext-link>
+<pub-id pub-id-type="doi">10.1016/j.icarus.2020.113960</pub-id>
+</element-citation>
+</ref>
+<ref id="ajabfdc9bib70">
+<element-citation publication-type="communication">
+<person-group person-group-type="author">
+<name>
+<surname>Hasegawa</surname>
+<given-names>I.</given-names>
+</name>
+</person-group>
+<year>1961</year>
+<comment>IAU Circular, No. 1781</comment>
+</element-citation>
+</ref>
+<ref id="ajabfdc9bib17">
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Ishiguro</surname>
+<given-names>M.</given-names>
+</name>
+<name>
+<surname>Kuroda</surname>
+<given-names>D.</given-names>
+</name>
+<name>
+<surname>Hanayama</surname>
+<given-names>H.</given-names>
+</name>
+<etal/>
+</person-group>
+<year>2015</year>
+<source>ApJL</source>
+<volume>798</volume>
+<fpage>L34</fpage>
+<ext-link ext-link-type="bibcode">2015ApJ...798L..34I</ext-link>
+<pub-id pub-id-type="doi">10.1088/2041-8205/798/2/L34</pub-id>
+</element-citation>
+</ref>
+<ref id="ajabfdc9bib18">
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Jakub&iacute;k</surname>
+<given-names>M.</given-names>
+</name>
+<name>
+<surname>Neslu&scaron;an</surname>
+<given-names>L.</given-names>
+</name>
+</person-group>
+<year>2015</year>
+<source>MNRAS</source>
+<volume>453</volume>
+<fpage>1186</fpage>
+<ext-link ext-link-type="bibcode">2015MNRAS.453.1186J</ext-link>
+<pub-id pub-id-type="doi">10.1093/mnras/stv1643</pub-id>
+</element-citation>
+</ref>
+<ref id="ajabfdc9bib65">
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Janches</surname>
+<given-names>D.</given-names>
+</name>
+<name>
+<surname>Bruzzone</surname>
+<given-names>J. S.</given-names>
+</name>
+<name>
+<surname>Weryk</surname>
+<given-names>R. J.</given-names>
+</name>
+<etal/>
+</person-group>
+<year>2020</year>
+<source>ApJL</source>
+<volume>895</volume>
+<fpage>L25</fpage>
+<ext-link ext-link-type="bibcode">2020ApJ...895L..25J</ext-link>
+<pub-id pub-id-type="doi">10.3847/2041-8213/ab9181</pub-id>
+</element-citation>
+</ref>
+<ref id="ajabfdc9bib66">
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Janches</surname>
+<given-names>D.</given-names>
+</name>
+<name>
+<surname>Close</surname>
+<given-names>S.</given-names>
+</name>
+<name>
+<surname>Hormaechea</surname>
+<given-names>J. L.</given-names>
+</name>
+<etal/>
+</person-group>
+<year>2015</year>
+<source>ApJ</source>
+<volume>809</volume>
+<fpage>36</fpage>
+<ext-link ext-link-type="bibcode">2015ApJ...809...36J</ext-link>
+<pub-id pub-id-type="doi">10.1088/0004-637X/809/1/36</pub-id>
+</element-citation>
+</ref>
+<ref id="ajabfdc9bib19">
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Jenniskens</surname>
+<given-names>P.</given-names>
+</name>
+<name>
+<surname>Gural</surname>
+<given-names>P. S.</given-names>
+</name>
+<name>
+<surname>Dynneson</surname>
+<given-names>L.</given-names>
+</name>
+<etal/>
+</person-group>
+<year>2011</year>
+<source>Icar</source>
+<volume>216</volume>
+<fpage>40</fpage>
+<ext-link ext-link-type="bibcode">2011Icar..216...40J</ext-link>
+<pub-id pub-id-type="doi">10.1016/j.icarus.2011.08.012</pub-id>
+</element-citation>
+</ref>
+<ref id="ajabfdc9bib20">
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Jenniskens</surname>
+<given-names>P.</given-names>
+</name>
+<name>
+<surname>Jopek</surname>
+<given-names>T. J.</given-names>
+</name>
+<name>
+<surname>Janches</surname>
+<given-names>D.</given-names>
+</name>
+<etal/>
+</person-group>
+<year>2020</year>
+<source>P&amp;SS</source>
+<volume>182</volume>
+<elocation-id content-type="artnum">104821</elocation-id>
+<ext-link ext-link-type="bibcode">2020P&amp;SS..18204821J</ext-link>
+<pub-id pub-id-type="doi">10.1016/j.pss.2019.104821</pub-id>
+</element-citation>
+</ref>
+<ref id="ajabfdc9bib21">
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Jenniskens</surname>
+<given-names>P.</given-names>
+</name>
+<name>
+<surname>N&eacute;non</surname>
+<given-names>Q.</given-names>
+</name>
+</person-group>
+<year>2016</year>
+<source>Icar</source>
+<volume>266</volume>
+<fpage>371</fpage>
+<ext-link ext-link-type="bibcode">2016Icar..266..371J</ext-link>
+<pub-id pub-id-type="doi">10.1016/j.icarus.2015.10.004</pub-id>
+</element-citation>
+</ref>
+<ref id="ajabfdc9bib22">
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Jenniskens</surname>
+<given-names>P.</given-names>
+</name>
+<name>
+<surname>N&eacute;non</surname>
+<given-names>Q.</given-names>
+</name>
+<name>
+<surname>Albers</surname>
+<given-names>J.</given-names>
+</name>
+<etal/>
+</person-group>
+<year>2016a</year>
+<source>Icar</source>
+<volume>266</volume>
+<fpage>331</fpage>
+<ext-link ext-link-type="bibcode">2016Icar..266..331J</ext-link>
+<pub-id pub-id-type="doi">10.1016/j.icarus.2015.09.013</pub-id>
+</element-citation>
+</ref>
+<ref id="ajabfdc9bib23">
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Jenniskens</surname>
+<given-names>P.</given-names>
+</name>
+<name>
+<surname>N&eacute;non</surname>
+<given-names>Q.</given-names>
+</name>
+<name>
+<surname>Gural</surname>
+<given-names>P. S.</given-names>
+</name>
+<etal/>
+</person-group>
+<year>2016b</year>
+<source>Icar</source>
+<volume>266</volume>
+<fpage>355</fpage>
+<ext-link ext-link-type="bibcode">2016Icar..266..355J</ext-link>
+<pub-id pub-id-type="doi">10.1016/j.icarus.2015.08.014</pub-id>
+</element-citation>
+</ref>
+<ref id="ajabfdc9bib24">
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Jenniskens</surname>
+<given-names>P.</given-names>
+</name>
+<name>
+<surname>N&eacute;non</surname>
+<given-names>Q.</given-names>
+</name>
+<name>
+<surname>Gural</surname>
+<given-names>P. S.</given-names>
+</name>
+<etal/>
+</person-group>
+<year>2016c</year>
+<source>Icar</source>
+<volume>266</volume>
+<fpage>384</fpage>
+<ext-link ext-link-type="bibcode">2016Icar..266..384J</ext-link>
+<pub-id pub-id-type="doi">10.1016/j.icarus.2015.11.009</pub-id>
+</element-citation>
+</ref>
+<ref id="ajabfdc9bib25">
+<element-citation publication-type="confproc">
+<person-group person-group-type="author">
+<name>
+<surname>Jopek</surname>
+<given-names>T. J.</given-names>
+</name>
+<name>
+<surname>Ka&ncaron;uchov&aacute;</surname>
+<given-names>Z.</given-names>
+</name>
+</person-group>
+<year>2014</year>
+<conf-name>Proc. Astronomical Conf., Meteoroids 2013</conf-name>
+<person-group person-group-type="editor">
+<name>
+<surname>Jopek</surname>
+<given-names>T. J.</given-names>
+</name>
+<etal/>
+</person-group>
+<publisher-loc>Poznan</publisher-loc>
+<publisher-name>A. Mickiewicz Univ. Press</publisher-name>
+<fpage>353</fpage>
+<ext-link ext-link-type="bibcode">2014me13.conf..353J</ext-link>
+</element-citation>
+</ref>
+<ref id="ajabfdc9bib26">
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Jopek</surname>
+<given-names>T. J.</given-names>
+</name>
+<name>
+<surname>Williams</surname>
+<given-names>I. P.</given-names>
+</name>
+</person-group>
+<year>2013</year>
+<source>MNRAS</source>
+<volume>430</volume>
+<fpage>2377</fpage>
+<ext-link ext-link-type="bibcode">2013MNRAS.430.2377J</ext-link>
+<pub-id pub-id-type="doi">10.1093/mnras/stt057</pub-id>
+</element-citation>
+</ref>
+<ref id="ajabfdc9bib27">
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Kla&ccaron;ka</surname>
+<given-names>J.</given-names>
+</name>
+</person-group>
+<year>2014</year>
+<source>MNRAS</source>
+<volume>443</volume>
+<fpage>213</fpage>
+<ext-link ext-link-type="bibcode">2014MNRAS.443..213K</ext-link>
+<pub-id pub-id-type="doi">10.1093/mnras/stu1133</pub-id>
+</element-citation>
+</ref>
+<ref id="ajabfdc9bib28">
+<element-citation publication-type="confproc">
+<person-group person-group-type="author">
+<name>
+<surname>Korno&scaron;</surname>
+<given-names>L.</given-names>
+</name>
+<name>
+<surname>Koukal</surname>
+<given-names>J.</given-names>
+</name>
+<name>
+<surname>Piffl</surname>
+<given-names>R.</given-names>
+</name>
+<name>
+<surname>T&oacute;th</surname>
+<given-names>J.</given-names>
+</name>
+</person-group>
+<year>2014a</year>
+<conf-name>Proc. Int. Meteor Conf.</conf-name>
+<person-group person-group-type="editor">
+<name>
+<surname>Gyssens</surname>
+<given-names>M.</given-names>
+</name>
+<name>
+<surname>Roggemans</surname>
+<given-names>P.</given-names>
+</name>
+<name>
+<surname>Zoladek</surname>
+<given-names>P.</given-names>
+</name>
+</person-group>
+<publisher-loc>Mechelen</publisher-loc>
+<publisher-name>International Meteor Organization</publisher-name>
+<fpage>23</fpage>
+<ext-link ext-link-type="bibcode">2014pim3.conf...23K</ext-link>
+</element-citation>
+</ref>
+<ref id="ajabfdc9bib29">
+<element-citation publication-type="confproc">
+<person-group person-group-type="author">
+<name>
+<surname>Korno&scaron;</surname>
+<given-names>L.</given-names>
+</name>
+<name>
+<surname>Matlovi&ccaron;</surname>
+<given-names>P.</given-names>
+</name>
+<name>
+<surname>Rudawska</surname>
+<given-names>R.</given-names>
+</name>
+<etal/>
+</person-group>
+<year>2014b</year>
+<conf-name>Proc. Astronomical Conf., Meteoroids 2013</conf-name>
+<person-group person-group-type="editor">
+<name>
+<surname>Jopek</surname>
+<given-names>T. J.</given-names>
+</name>
+<etal/>
+</person-group>
+<publisher-loc>Poznan</publisher-loc>
+<publisher-name>A. Mickiewicz Univ. Press</publisher-name>
+<fpage>225</fpage>
+<ext-link ext-link-type="bibcode">2014me13.conf..225K</ext-link>
+</element-citation>
+</ref>
+<ref id="ajabfdc9bib30">
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Korno&scaron;</surname>
+<given-names>L.</given-names>
+</name>
+<name>
+<surname>T&oacute;th</surname>
+<given-names>J.</given-names>
+</name>
+<name>
+<surname>Porub&ccaron;an</surname>
+<given-names>V.</given-names>
+</name>
+<etal/>
+</person-group>
+<year>2015</year>
+<source>P&amp;SS</source>
+<volume>118</volume>
+<fpage>48</fpage>
+<ext-link ext-link-type="bibcode">2015P&amp;SS..118...48K</ext-link>
+<pub-id pub-id-type="doi">10.1016/j.pss.2015.05.001</pub-id>
+</element-citation>
+</ref>
+<ref id="ajabfdc9bib31">
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Kov&aacute;&ccaron;ov&aacute;</surname>
+<given-names>M.</given-names>
+</name>
+<name>
+<surname>Nagy</surname>
+<given-names>R.</given-names>
+</name>
+<name>
+<surname>Korno&scaron;</surname>
+<given-names>L.</given-names>
+</name>
+<name>
+<surname>T&oacute;th</surname>
+<given-names>J.</given-names>
+</name>
+</person-group>
+<year>2020</year>
+<source>P&amp;SS</source>
+<volume>185</volume>
+<elocation-id content-type="artnum">104897</elocation-id>
+<ext-link ext-link-type="bibcode">2020P&amp;SS..18504897K</ext-link>
+<pub-id pub-id-type="doi">10.1016/j.pss.2020.104897</pub-id>
+</element-citation>
+</ref>
+<ref id="ajabfdc9bib32">
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Kronk</surname>
+<given-names>G. W.</given-names>
+</name>
+<name>
+<surname>Meyer</surname>
+<given-names>M.</given-names>
+</name>
+</person-group>
+<year>2010</year>
+<source>Cometography: A Catalog of Comets, Volume 5</source>
+<publisher-loc>Cambridge</publisher-loc>
+<publisher-name>Cambridge Univ. Press</publisher-name>
+<fpage>1</fpage>
+<ext-link ext-link-type="bibcode">2010come.book.....K</ext-link>
+</element-citation>
+</ref>
+<ref id="ajabfdc9bib33">
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Lyytinen</surname>
+<given-names>E.</given-names>
+</name>
+<name>
+<surname>Jenniskens</surname>
+<given-names>P.</given-names>
+</name>
+</person-group>
+<year>2003</year>
+<source>Icar</source>
+<volume>162</volume>
+<fpage>443</fpage>
+<ext-link ext-link-type="bibcode">2003Icar..162..443L</ext-link>
+<pub-id pub-id-type="doi">10.1016/S0019-1035(02)00071-4</pub-id>
+</element-citation>
+</ref>
+<ref id="ajabfdc9bib34">
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Marsden</surname>
+<given-names>B. G.</given-names>
+</name>
+<name>
+<surname>Sekanina</surname>
+<given-names>Z.</given-names>
+</name>
+<name>
+<surname>Everhart</surname>
+<given-names>E.</given-names>
+</name>
+</person-group>
+<year>1978</year>
+<source>AJ</source>
+<volume>83</volume>
+<fpage>64</fpage>
+<ext-link ext-link-type="bibcode">1978AJ.....83...64M</ext-link>
+<pub-id pub-id-type="doi">10.1086/112177</pub-id>
+</element-citation>
+</ref>
+<ref id="ajabfdc9bib35">
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Matlovi&ccaron;</surname>
+<given-names>P.</given-names>
+</name>
+<name>
+<surname>Korno&scaron;</surname>
+<given-names>L.</given-names>
+</name>
+<name>
+<surname>Kov&aacute;&ccaron;ov&aacute;</surname>
+<given-names>M.</given-names>
+</name>
+<name>
+<surname>T&oacute;th</surname>
+<given-names>J.</given-names>
+</name>
+<name>
+<surname>Licandro</surname>
+<given-names>J.</given-names>
+</name>
+</person-group>
+<year>2020</year>
+<source>A&amp;A</source>
+<volume>636</volume>
+<fpage>A122</fpage>
+<ext-link ext-link-type="bibcode">2020A&amp;A...636A.122M</ext-link>
+<pub-id pub-id-type="doi">10.1051/0004-6361/202037727</pub-id>
+</element-citation>
+</ref>
+<ref id="ajabfdc9bib67">
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Moorhead</surname>
+<given-names>A. V.</given-names>
+</name>
+<name>
+<surname>Brown</surname>
+<given-names>P. G.</given-names>
+</name>
+<name>
+<surname>Spurn&yacute;</surname>
+<given-names>P.</given-names>
+</name>
+<name>
+<surname>Cooke</surname>
+<given-names>W. J.</given-names>
+</name>
+<name>
+<surname>Shrben&yacute;</surname>
+<given-names>L.</given-names>
+</name>
+</person-group>
+<year>2015</year>
+<source>AJ</source>
+<volume>150</volume>
+<fpage>122</fpage>
+<ext-link ext-link-type="bibcode">2015AJ....150..122M</ext-link>
+<pub-id pub-id-type="doi">10.1088/0004-6256/150/4/122</pub-id>
+</element-citation>
+</ref>
+<ref id="ajabfdc9bib36">
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Neslu&scaron;an</surname>
+<given-names>L.</given-names>
+</name>
+</person-group>
+<year>1999</year>
+<source>A&amp;A</source>
+<volume>351</volume>
+<fpage>752</fpage>
+<ext-link ext-link-type="bibcode">1999A&amp;A...351..752N</ext-link>
+</element-citation>
+</ref>
+<ref id="ajabfdc9bib37">
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Neslu&scaron;an</surname>
+<given-names>L.</given-names>
+</name>
+<name>
+<surname>Hajdukov&aacute;</surname>
+<given-names>M.</given-names>
+</name>
+</person-group>
+<year>2014</year>
+<source>A&amp;A</source>
+<volume>566</volume>
+<fpage>A33</fpage>
+<ext-link ext-link-type="bibcode">2014A&amp;A...566A..33N</ext-link>
+<pub-id pub-id-type="doi">10.1051/0004-6361/201423382</pub-id>
+</element-citation>
+</ref>
+<ref id="ajabfdc9bib38">
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Neslu&scaron;an</surname>
+<given-names>L.</given-names>
+</name>
+<name>
+<surname>Hajdukov&aacute;</surname>
+<given-names>M.</given-names>
+</name>
+</person-group>
+<year>2018a</year>
+<source>A&amp;A</source>
+<volume>616</volume>
+<fpage>A162</fpage>
+<ext-link ext-link-type="bibcode">2018A&amp;A...616A.162N</ext-link>
+<pub-id pub-id-type="doi">10.1051/0004-6361/201832829</pub-id>
+</element-citation>
+</ref>
+<ref id="ajabfdc9bib39">
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Neslu&scaron;an</surname>
+<given-names>L.</given-names>
+</name>
+<name>
+<surname>Hajdukov&aacute;</surname>
+<given-names>M.</given-names>
+</name>
+</person-group>
+<year>2018b</year>
+<source>CoSka</source>
+<volume>48</volume>
+<fpage>554</fpage>
+<ext-link ext-link-type="bibcode">2018CoSka..48..554N</ext-link>
+</element-citation>
+</ref>
+<ref id="ajabfdc9bib40">
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Neslu&scaron;an</surname>
+<given-names>L.</given-names>
+</name>
+<name>
+<surname>Hajdukov&aacute;</surname>
+<given-names>M.</given-names>
+</name>
+</person-group>
+<year>2019</year>
+<source>A&amp;A</source>
+<volume>631</volume>
+<fpage>A112</fpage>
+<ext-link ext-link-type="bibcode">2019A&amp;A...631A.112N</ext-link>
+<pub-id pub-id-type="doi">10.1051/0004-6361/201936407</pub-id>
+</element-citation>
+</ref>
+<ref id="ajabfdc9bib41">
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Neslu&scaron;an</surname>
+<given-names>L.</given-names>
+</name>
+<name>
+<surname>Hajdukov&aacute;</surname>
+<given-names>M.</given-names>
+</name>
+</person-group>
+<year>2020</year>
+<source>MNRAS</source>
+<volume>498</volume>
+<fpage>1013</fpage>
+<ext-link ext-link-type="bibcode">2020MNRAS.498.1013N</ext-link>
+<pub-id pub-id-type="doi">10.1093/mnras/staa2374</pub-id>
+</element-citation>
+</ref>
+<ref id="ajabfdc9bib42">
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Neslu&scaron;an</surname>
+<given-names>L.</given-names>
+</name>
+<name>
+<surname>Hajdukov&aacute;</surname>
+<given-names>M.</given-names>
+</name>
+<name>
+<surname>Jakub&iacute;k</surname>
+<given-names>M.</given-names>
+</name>
+</person-group>
+<year>2013</year>
+<source>A&amp;A</source>
+<volume>560</volume>
+<fpage>A47</fpage>
+<ext-link ext-link-type="bibcode">2013A&amp;A...560A..47N</ext-link>
+<pub-id pub-id-type="doi">10.1051/0004-6361/201322228</pub-id>
+</element-citation>
+</ref>
+<ref id="ajabfdc9bib43">
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Neslu&scaron;an</surname>
+<given-names>L.</given-names>
+</name>
+<name>
+<surname>Porub&ccaron;an</surname>
+<given-names>V.</given-names>
+</name>
+<name>
+<surname>Svore&ncaron;</surname>
+<given-names>J.</given-names>
+</name>
+</person-group>
+<year>2014</year>
+<source>EM&amp;P</source>
+<volume>111</volume>
+<fpage>105</fpage>
+<ext-link ext-link-type="bibcode">2014EM&amp;P..111..105N</ext-link>
+<pub-id pub-id-type="doi">10.1007/s11038-013-9427-1</pub-id>
+</element-citation>
+</ref>
+<ref id="ajabfdc9bib44">
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Neslu&scaron;an</surname>
+<given-names>L.</given-names>
+</name>
+<name>
+<surname>Svore&ncaron;</surname>
+<given-names>J.</given-names>
+</name>
+<name>
+<surname>Porub&ccaron;an</surname>
+<given-names>V.</given-names>
+</name>
+</person-group>
+<year>1995</year>
+<source>EM&amp;P</source>
+<volume>68</volume>
+<fpage>427</fpage>
+<ext-link ext-link-type="bibcode">1995EM&amp;P...68..427N</ext-link>
+<pub-id pub-id-type="doi">10.1007/BF00671536</pub-id>
+</element-citation>
+</ref>
+<ref id="ajabfdc9bib45">
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Neslu&scaron;an</surname>
+<given-names>L.</given-names>
+</name>
+<name>
+<surname>Svore&ncaron;</surname>
+<given-names>J.</given-names>
+</name>
+<name>
+<surname>Porub&ccaron;an</surname>
+<given-names>V.</given-names>
+</name>
+</person-group>
+<year>1998</year>
+<source>A&amp;A</source>
+<volume>331</volume>
+<fpage>411</fpage>
+<ext-link ext-link-type="bibcode">1998A&amp;A...331..411N</ext-link>
+</element-citation>
+</ref>
+<ref id="ajabfdc9bib46">
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Pokorn&yacute;</surname>
+<given-names>P.</given-names>
+</name>
+<name>
+<surname>Janches</surname>
+<given-names>D.</given-names>
+</name>
+<name>
+<surname>Brown</surname>
+<given-names>P. G.</given-names>
+</name>
+<name>
+<surname>Hormaechea</surname>
+<given-names>J. L.</given-names>
+</name>
+</person-group>
+<year>2017</year>
+<source>Icar</source>
+<volume>290</volume>
+<fpage>162</fpage>
+<ext-link ext-link-type="bibcode">2017Icar..290..162P</ext-link>
+<pub-id pub-id-type="doi">10.1016/j.icarus.2017.02.025</pub-id>
+</element-citation>
+</ref>
+<ref id="ajabfdc9bib47">
+<element-citation publication-type="confproc">
+<person-group person-group-type="author">
+<name>
+<surname>Porub&ccaron;an</surname>
+<given-names>V.</given-names>
+</name>
+<name>
+<surname>Svore&ncaron;</surname>
+<given-names>J.</given-names>
+</name>
+<name>
+<surname>Neslu&scaron;an</surname>
+<given-names>L.</given-names>
+</name>
+<name>
+<surname>Schunov&aacute;</surname>
+<given-names>E.</given-names>
+</name>
+</person-group>
+<year>2011</year>
+<conf-name>Proc. Meteoroids Conf., Meteoroids: The Smallest Solar System Bodies</conf-name>
+<person-group person-group-type="editor">
+<name>
+<surname>Cooke</surname>
+<given-names>W. J.</given-names>
+</name>
+<etal/>
+</person-group>
+<publisher-loc>Huntsville, AL</publisher-loc>
+<publisher-name>NASA</publisher-name>
+<fpage>338</fpage>
+<ext-link ext-link-type="bibcode">2011msss.conf..338P</ext-link>
+</element-citation>
+</ref>
+<ref id="ajabfdc9bib48">
+<element-citation publication-type="confproc">
+<person-group person-group-type="author">
+<name>
+<surname>Rudawska</surname>
+<given-names>R.</given-names>
+</name>
+<name>
+<surname>Jenniskens</surname>
+<given-names>P.</given-names>
+</name>
+</person-group>
+<year>2014</year>
+<conf-name>Proc. Astronomical Conf., Meteoroids 2013</conf-name>
+<person-group person-group-type="editor">
+<name>
+<surname>Jopek</surname>
+<given-names>T. J.</given-names>
+</name>
+<etal/>
+</person-group>
+<publisher-loc>Poznan</publisher-loc>
+<publisher-name>A. Mickiewicz Univ. Press</publisher-name>
+<fpage>217</fpage>
+<ext-link ext-link-type="bibcode">2014me13.conf..217R</ext-link>
+</element-citation>
+</ref>
+<ref id="ajabfdc9bib49">
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Rudawska</surname>
+<given-names>R.</given-names>
+</name>
+<name>
+<surname>Vaubaillon</surname>
+<given-names>J.</given-names>
+</name>
+</person-group>
+<year>2015</year>
+<source>P&amp;SS</source>
+<volume>118</volume>
+<fpage>25</fpage>
+<ext-link ext-link-type="bibcode">2015P&amp;SS..118...25R</ext-link>
+<pub-id pub-id-type="doi">10.1016/j.pss.2015.04.014</pub-id>
+</element-citation>
+</ref>
+<ref id="ajabfdc9bib50">
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Rudawska</surname>
+<given-names>R.</given-names>
+</name>
+<name>
+<surname>Vaubaillon</surname>
+<given-names>J.</given-names>
+</name>
+<name>
+<surname>T&oacute;th</surname>
+<given-names>J.</given-names>
+</name>
+<name>
+<surname>Raetz</surname>
+<given-names>S.</given-names>
+</name>
+</person-group>
+<year>2016</year>
+<source>AAS/DPS Meeting</source>
+<volume>48</volume>
+<fpage>218.01</fpage>
+</element-citation>
+</ref>
+<ref id="ajabfdc9bib51">
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Ryabova</surname>
+<given-names>G. O.</given-names>
+</name>
+<name>
+<surname>Asher</surname>
+<given-names>D. J.</given-names>
+</name>
+<name>
+<surname>Campbell-Brown</surname>
+<given-names>M. J.</given-names>
+</name>
+</person-group>
+<year>2019</year>
+<source>Meteoroids: Sources of Meteors on Earth and Beyond</source>
+<publisher-loc>Cambridge</publisher-loc>
+<publisher-name>Cambridge Univ. Press</publisher-name>
+<ext-link ext-link-type="bibcode">2019msme.book.....R</ext-link>
+</element-citation>
+</ref>
+<ref id="ajabfdc9bib52">
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Schult</surname>
+<given-names>C.</given-names>
+</name>
+<name>
+<surname>Brown</surname>
+<given-names>P.</given-names>
+</name>
+<name>
+<surname>Pokorn&yacute;</surname>
+<given-names>P.</given-names>
+</name>
+<name>
+<surname>Stober</surname>
+<given-names>G.</given-names>
+</name>
+<name>
+<surname>Chau</surname>
+<given-names>J. L.</given-names>
+</name>
+</person-group>
+<year>2018</year>
+<source>Icar</source>
+<volume>309</volume>
+<fpage>177</fpage>
+<ext-link ext-link-type="bibcode">2018Icar..309..177S</ext-link>
+<pub-id pub-id-type="doi">10.1016/j.icarus.2018.02.032</pub-id>
+</element-citation>
+</ref>
+<ref id="ajabfdc9bib53">
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>&Scaron;egon</surname>
+<given-names>D.</given-names>
+</name>
+<name>
+<surname>Gural</surname>
+<given-names>P.</given-names>
+</name>
+<name>
+<surname>Andrei&cacute;</surname>
+<given-names>&Zcaron;.</given-names>
+</name>
+<etal/>
+</person-group>
+<year>2014a</year>
+<source>JIMO</source>
+<volume>42</volume>
+<fpage>57</fpage>
+<ext-link ext-link-type="bibcode">2014JIMO...42...57S</ext-link>
+</element-citation>
+</ref>
+<ref id="ajabfdc9bib54">
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>&Scaron;egon</surname>
+<given-names>D.</given-names>
+</name>
+<name>
+<surname>Andrei&cacute;</surname>
+<given-names>&Zcaron;.</given-names>
+</name>
+<name>
+<surname>Gural</surname>
+<given-names>P.</given-names>
+</name>
+<etal/>
+</person-group>
+<year>2014b</year>
+<source>JIMO</source>
+<volume>42</volume>
+<fpage>227</fpage>
+<ext-link ext-link-type="bibcode">2014JIMO...42..227S</ext-link>
+</element-citation>
+</ref>
+<ref id="ajabfdc9bib55">
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>&Scaron;egon</surname>
+<given-names>D.</given-names>
+</name>
+<name>
+<surname>Vaubaillon</surname>
+<given-names>J.</given-names>
+</name>
+<name>
+<surname>Gural</surname>
+<given-names>P. S.</given-names>
+</name>
+<etal/>
+</person-group>
+<year>2017</year>
+<source>A&amp;A</source>
+<volume>598</volume>
+<fpage>A15</fpage>
+<ext-link ext-link-type="bibcode">2017A&amp;A...598A..15S</ext-link>
+<pub-id pub-id-type="doi">10.1051/0004-6361/201629100</pub-id>
+</element-citation>
+</ref>
+<ref id="ajabfdc9bib56">
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<collab>SonotaCo</collab>
+</person-group>
+<year>2009</year>
+<source>JIMO</source>
+<volume>37</volume>
+<fpage>55</fpage>
+<ext-link ext-link-type="bibcode">2009JIMO...37...55S</ext-link>
+</element-citation>
+</ref>
+<ref id="ajabfdc9bib57">
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<collab>SonotaCo</collab>
+</person-group>
+<year>2016</year>
+<source>JIMO</source>
+<volume>44</volume>
+<fpage>42</fpage>
+<ext-link ext-link-type="bibcode">2016JIMO...44...42S</ext-link>
+</element-citation>
+</ref>
+<ref id="ajabfdc9bib58">
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Southworth</surname>
+<given-names>R. B.</given-names>
+</name>
+<name>
+<surname>Hawkins</surname>
+<given-names>G. S.</given-names>
+</name>
+</person-group>
+<year>1963</year>
+<source>SCoA</source>
+<volume>7</volume>
+<fpage>261</fpage>
+<ext-link ext-link-type="bibcode">1963SCoA....7..261S</ext-link>
+</element-citation>
+</ref>
+<ref id="ajabfdc9bib59">
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Tomko</surname>
+<given-names>D.</given-names>
+</name>
+<name>
+<surname>Neslu&scaron;an</surname>
+<given-names>L.</given-names>
+</name>
+</person-group>
+<year>2016</year>
+<source>A&amp;A</source>
+<volume>592</volume>
+<fpage>A107</fpage>
+<ext-link ext-link-type="bibcode">2016A&amp;A...592A.107T</ext-link>
+<pub-id pub-id-type="doi">10.1051/0004-6361/201628404</pub-id>
+</element-citation>
+</ref>
+<ref id="ajabfdc9bib60">
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Tomko</surname>
+<given-names>D.</given-names>
+</name>
+<name>
+<surname>Neslu&scaron;an</surname>
+<given-names>L.</given-names>
+</name>
+</person-group>
+<year>2019</year>
+<source>A&amp;A</source>
+<volume>623</volume>
+<fpage>A13</fpage>
+<ext-link ext-link-type="bibcode">2019A&amp;A...623A..13T</ext-link>
+<pub-id pub-id-type="doi">10.1051/0004-6361/201833868</pub-id>
+</element-citation>
+</ref>
+<ref id="ajabfdc9bib61">
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Vaubaillon</surname>
+<given-names>J.</given-names>
+</name>
+<name>
+<surname>Neslu&scaron;an</surname>
+<given-names>L.</given-names>
+</name>
+<name>
+<surname>Sekhar</surname>
+<given-names>A.</given-names>
+</name>
+<name>
+<surname>Rudawska</surname>
+<given-names>R.</given-names>
+</name>
+<name>
+<surname>Ryabova</surname>
+<given-names>G. O.</given-names>
+</name>
+</person-group>
+<year>2019</year>
+<source>From Parent Body to Meteor Shower: The Dynamics of Meteoroid Streams</source>
+<person-group person-group-type="editor">
+<name>
+<surname>Ryabova</surname>
+<given-names>G. O.</given-names>
+</name>
+<name>
+<surname>Asher</surname>
+<given-names>D. J.</given-names>
+</name>
+<name>
+<surname>Campbell-Brown</surname>
+<given-names>M. J.</given-names>
+</name>
+</person-group>
+<publisher-loc>Cambridge</publisher-loc>
+<publisher-name>Cambridge Univ. Press</publisher-name>
+<fpage>161</fpage>
+<ext-link ext-link-type="bibcode">2019msme.book..161V</ext-link>
+</element-citation>
+</ref>
+<ref id="ajabfdc9bib68">
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Younger</surname>
+<given-names>J. P.</given-names>
+</name>
+<name>
+<surname>Reid</surname>
+<given-names>I. M.</given-names>
+</name>
+<name>
+<surname>Vincent</surname>
+<given-names>R. A.</given-names>
+</name>
+<name>
+<surname>Holdsworth</surname>
+<given-names>D. A.</given-names>
+</name>
+<name>
+<surname>Murphy</surname>
+<given-names>D. J.</given-names>
+</name>
+</person-group>
+<year>2009</year>
+<source>MNRAS</source>
+<volume>398</volume>
+<fpage>350</fpage>
+<ext-link ext-link-type="bibcode">2009MNRAS.398..350Y</ext-link>
+<pub-id pub-id-type="doi">10.1111/j.1365-2966.2009.15142.x</pub-id>
+</element-citation>
+</ref>
+<ref id="ajabfdc9bib69">
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Younger</surname>
+<given-names>J. P.</given-names>
+</name>
+<name>
+<surname>Reid</surname>
+<given-names>I. M.</given-names>
+</name>
+<name>
+<surname>Vincent</surname>
+<given-names>R. A.</given-names>
+</name>
+<name>
+<surname>Murphy</surname>
+<given-names>D. J.</given-names>
+</name>
+</person-group>
+<year>2012</year>
+<source>MNRAS</source>
+<volume>425</volume>
+<fpage>1473</fpage>
+<ext-link ext-link-type="bibcode">2012MNRAS.425.1473Y</ext-link>
+<pub-id pub-id-type="doi">10.1111/j.1365-2966.2012.21632.x</pub-id>
+</element-citation>
+</ref>
+</ref-list>
+</back>
+</article>

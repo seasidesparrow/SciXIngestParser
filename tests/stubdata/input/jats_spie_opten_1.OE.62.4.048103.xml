@@ -1,0 +1,800 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD with OASIS Tables v1.0 20120330//EN" "JATS-journalpublishing-oasis-article1.dtd"[]>
+<article article-type="communications and signal processing" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:oasis="http://www.niso.org/standards/z39-96/ns/oasis-exchange/table">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="coden">OPEGAR</journal-id>
+      <journal-id journal-id-type="publisher-id">OE</journal-id>
+      <journal-title-group>
+        <journal-title>Optical Engineering</journal-title>
+        <abbrev-journal-title>Opt. Eng.</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="ppub">0091-3286</issn>
+      <issn pub-type="epub">1560-2303</issn>
+      <publisher>
+        <publisher-name>Society of Photo-Optical Instrumentation Engineers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.1117/1.OE.62.4.048103</article-id>
+      <article-id pub-id-type="manuscript">OE-20221420G</article-id>
+      <article-id pub-id-type="publisher-id">20221420G</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Communications and Signal Processing</subject>
+        </subj-group>
+        <subj-group subj-group-type="SPIE-art-type">
+          <subject>Paper</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Comparison of algorithms for contrast enhancement based on triangle orientation discrimination assessments by convolutional neural networks</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author" corresp="yes">
+          <name>
+            <surname>Wegner</surname>
+            <given-names>Daniel</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1" />
+          <xref ref-type="corresp" rid="cor1">*</xref>
+          <xref ref-type="other" rid="b1" />
+          <email>daniel.wegner@iosb.fraunhofer.de</email>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Keßler</surname>
+            <given-names>Stefan</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1" />
+          <xref ref-type="other" rid="b2" />
+          <email>stefan.kessler@iosb.fraunhofer.de</email>
+        </contrib>
+        <aff id="aff1">
+          <institution>Fraunhofer Institute of Optronics, System Technologies and Image Exploitation</institution>, Ettlingen, <country>Germany</country></aff>
+      </contrib-group>
+      <author-notes>
+        <corresp id="cor1">
+          <label>*</label>Address all correspondence to Daniel Wegner, <email>daniel.wegner@iosb.fraunhofer.de</email></corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>20</day>
+        <month>4</month>
+        <year>2023</year>
+      </pub-date>
+      <pub-date pub-type="ppub">
+        <day>1</day>
+        <month>4</month>
+        <year>2023</year>
+      </pub-date>
+      <volume>62</volume>
+      <issue>4</issue>
+      <fpage>048103</fpage>
+      <lpage>048103</lpage>
+      <history>
+        <date date-type="received">
+          <day>8</day>
+          <month>12</month>
+          <year>2022</year>
+        </date>
+        <date date-type="accepted">
+          <day>24</day>
+          <month>3</month>
+          <year>2023</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>© The Authors. Published by SPIE under a Creative Commons Attribution 4.0 International License. Distribution or reproduction of this work in whole or in part requires full attribution of the original publication, including its DOI.</copyright-statement>
+        <copyright-holder>The Authors</copyright-holder>
+        <license license-type="open-access">
+          <license-p />
+        </license>
+      </permissions>
+      <self-uri xlink:title="pdf" xlink:href="OE_62_4_048103.pdf" />
+      <abstract>
+        <title>Abstract.</title>
+        <p>Within the last decades, a large number of techniques for contrast enhancement has been proposed. There are some comparisons of such algorithms for few images and figures of merit. However, many of these figures of merit cannot assess usability of altered image content for specific tasks, such as object recognition. In this work, the effect of contrast enhancement algorithms is evaluated by means of the triangle orientation discrimination (TOD), which is a current method for imager performance assessment. The conventional TOD approach requires observers to recognize equilateral triangles pointing in four different directions, whereas here convolutional neural network models are used for the classification task. These models are trained by artificial images with single triangles. Many methods for contrast enhancement highly depend on the content of the entire image. Therefore, the images are superimposed over natural backgrounds with varying standard deviations to provide different signal-to-background ratios. Then, these images are degraded by Gaussian blur and noise representing degradational camera effects and sensor noise. Different algorithms, such as the contrast-limited adaptive histogram equalization or local range modification, are applied. Then accuracies of the trained models on these images are compared for different contrast enhancement algorithms. Accuracy gains for low signal-to-background ratios and sufficiently large triangles are found, whereas impairments are found for high signal-to-background ratios and small triangles. A high generalization ability of our TOD model is found from the similar accuracies for several image databases used for backgrounds. Finally, implications of replacing triangles with real target signatures when using such advanced digital signal processing algorithms are discussed. The results are a step toward the assessment of those algorithms for generic target recognition.</p>
+      </abstract>
+      <kwd-group>
+        <title>Keywords:</title>
+        <kwd>advanced digital signal processing</kwd>
+        <kwd>convolutional neural networks</kwd>
+        <kwd>image contrast enhancement</kwd>
+        <kwd>imager assessment</kwd>
+        <kwd>method comparison</kwd>
+        <kwd>triangle orientation discrimination</kwd>
+      </kwd-group>
+      <counts>
+        <fig-count count="13" />
+        <table-count count="3" />
+        <ref-count count="69" />
+        <page-count count="20" />
+      </counts>
+      <custom-meta-group>
+        <custom-meta>
+          <meta-name>running-head</meta-name>
+          <meta-value>Wegner and Keßler: Comparison of algorithms for contrast enhancement based on triangle orientation…</meta-value>
+        </custom-meta>
+      </custom-meta-group>
+    </article-meta>
+  </front>
+  <back>
+    <ref-list>
+      <title>References</title>
+      <ref id="r1">
+        <label>1.</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <string-name>
+              <given-names>P.</given-names>
+              <surname>Bijl</surname>
+            </string-name> and <string-name><given-names>J. M.</given-names><surname>Valeton</surname></string-name></person-group>, “<article-title>Triangle orientation discrimination: the alternative to minimum resolvable temperature difference and minimum resolvable contrast</article-title>,” <source>Opt. Eng.</source><volume>37</volume>(<issue>7</issue>), <fpage>1976</fpage>–<lpage>1983</lpage> (<year>1998</year>).<ext-link ext-link-type="doi" specific-use="online" xlink:href="https://doi.org/10.1117/1.601904">https://doi.org/10.1117/1.601904</ext-link></mixed-citation>
+      </ref>
+      <ref id="r2">
+        <label>2.</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <string-name>
+              <given-names>S.</given-names>
+              <surname>Keßler</surname>
+            </string-name>
+            <etal>et al.</etal>
+          </person-group>, “<article-title>The European computer model for optronic system performance prediction (ECOMOS)</article-title>,” <source>Proc. SPIE</source><volume>10433</volume>, <fpage>282</fpage>–<lpage>294</lpage> (<year>2017</year>).<pub-id pub-id-type="coden">PSISDG</pub-id><issn>0277-786X</issn><ext-link ext-link-type="doi" specific-use="online" xlink:href="https://doi.org/10.1117/12.2262590">https://doi.org/10.1117/12.2262590</ext-link></mixed-citation>
+      </ref>
+      <ref id="r3">
+        <label>3.</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <string-name>
+              <given-names>A.</given-names>
+              <surname>d’Acremont</surname>
+            </string-name>
+            <etal>et al.</etal>
+          </person-group>, “<article-title>CNN-based target recognition and identification for infrared imaging in defense systems</article-title>,” <source>Sensors</source><volume>19</volume>(<issue>9</issue>), <fpage>2040</fpage> (<year>2019</year>).<pub-id pub-id-type="coden">SNSRES</pub-id><issn>0746-9462</issn><ext-link ext-link-type="doi" specific-use="online" xlink:href="https://doi.org/10.3390/s19092040">https://doi.org/10.3390/s19092040</ext-link></mixed-citation>
+      </ref>
+      <ref id="r4">
+        <label>4.</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <string-name>
+              <given-names>Y.</given-names>
+              <surname>Shi</surname>
+            </string-name>
+            <etal>et al.</etal>
+          </person-group>, “<article-title>Scalable compression for machine and human vision tasks via multi-branch shared module</article-title>,” <source>J. Electron. Imaging</source><volume>31</volume>, <fpage>023014</fpage> (<year>2022</year>).<pub-id pub-id-type="coden">JEIME5</pub-id><issn>1017-9909</issn><ext-link ext-link-type="doi" specific-use="online" xlink:href="https://doi.org/10.1117/1.JEI.31.2.023014">https://doi.org/10.1117/1.JEI.31.2.023014</ext-link></mixed-citation>
+      </ref>
+      <ref id="r5">
+        <label>5.</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <string-name>
+              <given-names>Q.</given-names>
+              <surname>Wang</surname>
+            </string-name>, <string-name><given-names>L.</given-names><surname>Shen</surname></string-name> and <string-name><given-names>Y.</given-names><surname>Shi</surname></string-name></person-group>, “<article-title>Recognition-driven compressed image generation using semantic-prior information</article-title>,” <source>IEEE Signal Process. Lett.</source><volume>27</volume>, <fpage>1150</fpage>–<lpage>1154</lpage> (<year>2020</year>).<pub-id pub-id-type="coden">IESPEJ</pub-id><issn>1070-9908</issn><ext-link ext-link-type="doi" specific-use="online" xlink:href="https://doi.org/10.1109/LSP.2020.3004967">https://doi.org/10.1109/LSP.2020.3004967</ext-link></mixed-citation>
+      </ref>
+      <ref id="r6">
+        <label>6.</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <string-name>
+              <given-names>D.</given-names>
+              <surname>Wegner</surname>
+            </string-name> and <string-name><given-names>E.</given-names><surname>Repasi</surname></string-name></person-group>, “<article-title>Imager assessment by classification of geometric primitives</article-title>,” <source>Proc. SPIE</source><volume>11406</volume>, <fpage>17</fpage>–<lpage>25</lpage> (<year>2020</year>).<pub-id pub-id-type="coden">PSISDG</pub-id><issn>0277-786X</issn><ext-link ext-link-type="doi" specific-use="online" xlink:href="https://doi.org/10.1117/12.2558572">https://doi.org/10.1117/12.2558572</ext-link></mixed-citation>
+      </ref>
+      <ref id="r7">
+        <label>7.</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <string-name>
+              <given-names>D.</given-names>
+              <surname>Wegner</surname>
+            </string-name> and <string-name><given-names>E.</given-names><surname>Repasi</surname></string-name></person-group>, “<article-title>Image based performance analysis of thermal imagers</article-title>,” <source>Proc. SPIE</source><volume>9820</volume>, <fpage>982016</fpage> (<year>2016</year>).<pub-id pub-id-type="coden">PSISDG</pub-id><issn>0277-786X</issn><ext-link ext-link-type="doi" specific-use="online" xlink:href="https://doi.org/10.1117/12.2223629">https://doi.org/10.1117/12.2223629</ext-link></mixed-citation>
+      </ref>
+      <ref id="r8">
+        <label>8.</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <string-name>
+              <given-names>A.</given-names>
+              <surname>Kuznetsova</surname>
+            </string-name>
+            <etal>et al.</etal>
+          </person-group>, “<article-title>The Open Images Dataset V4: unified image classification, object detection, and visual relationship detection at scale</article-title>,” <source>Int. J. Comput. Vis.</source><volume>128</volume>, <fpage>1956</fpage>–<lpage>1981</lpage> (<year>2020</year>).</mixed-citation>
+      </ref>
+      <ref id="r9">
+        <label>9.</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <string-name>
+              <given-names>S.-C.</given-names>
+              <surname>Huang</surname>
+            </string-name>, <string-name><given-names>F.-C.</given-names><surname>Cheng</surname></string-name> and <string-name><given-names>Y.-S.</given-names><surname>Chiu</surname></string-name></person-group>, “<article-title>Efficient contrast enhancement using adaptive gamma correction with weighting distribution</article-title>,” <source>IEEE Trans. Image Process.</source><volume>22</volume>, <fpage>1032</fpage>–<lpage>1041</lpage> (<year>2013</year>).<pub-id pub-id-type="coden">IIPRE4</pub-id><issn>1057-7149</issn><ext-link ext-link-type="doi" specific-use="online" xlink:href="https://doi.org/10.1109/TIP.2012.2226047">https://doi.org/10.1109/TIP.2012.2226047</ext-link></mixed-citation>
+      </ref>
+      <ref id="r10">
+        <label>10.</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <string-name>
+              <given-names>Y.-T.</given-names>
+              <surname>Kim</surname>
+            </string-name>
+          </person-group>, “<article-title>Contrast enhancement using brightness preserving bi-histogram equalization</article-title>,” <source>IEEE Trans. Consum. Electron.</source><volume>43</volume>, <fpage>1</fpage>–<lpage>8</lpage> (<year>1997</year>).<pub-id pub-id-type="coden">ITCEDA</pub-id><issn>0098-3063</issn><ext-link ext-link-type="doi" specific-use="online" xlink:href="https://doi.org/10.1109/30.580378">https://doi.org/10.1109/30.580378</ext-link></mixed-citation>
+      </ref>
+      <ref id="r11">
+        <label>11.</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <string-name>
+              <given-names>H.</given-names>
+              <surname>Ibrahim</surname>
+            </string-name> and <string-name><given-names>N.</given-names><surname>Kong</surname></string-name></person-group>, “<article-title>Brightness preserving dynamic histogram equalization for image contrast enhancement</article-title>,” <source>IEEE Trans. Consum. Electron.</source><volume>53</volume>, <fpage>1752</fpage>–<lpage>1758</lpage> (<year>2007</year>).<pub-id pub-id-type="coden">ITCEDA</pub-id><issn>0098-3063</issn><ext-link ext-link-type="doi" specific-use="online" xlink:href="https://doi.org/10.1109/TCE.2007.4429280">https://doi.org/10.1109/TCE.2007.4429280</ext-link></mixed-citation>
+      </ref>
+      <ref id="r12">
+        <label>12.</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <string-name>
+              <given-names>C.</given-names>
+              <surname>Wang</surname>
+            </string-name> and <string-name><given-names>Z.</given-names><surname>Ye</surname></string-name></person-group>, “<article-title>Brightness preserving histogram equalization with maximum entropy: a variational perspective</article-title>,” <source>IEEE Trans. Consum. Electron.</source><volume>51</volume>, <fpage>1326</fpage>–<lpage>1334</lpage> (<year>2005</year>).<pub-id pub-id-type="coden">ITCEDA</pub-id><issn>0098-3063</issn><ext-link ext-link-type="doi" specific-use="online" xlink:href="https://doi.org/10.1109/TCE.2005.1561863">https://doi.org/10.1109/TCE.2005.1561863</ext-link></mixed-citation>
+      </ref>
+      <ref id="r13">
+        <label>13.</label>
+        <mixed-citation publication-type="book">
+          <person-group person-group-type="author">
+            <string-name>
+              <given-names>K.</given-names>
+              <surname>Zuiderveld</surname>
+            </string-name>
+          </person-group>, “<article-title>Graphics Gems IV</article-title>,” in <source>Contrast Limited Adaptive Histogram Equalization</source>, pp. <fpage>474</fpage>–<lpage>485</lpage>, <publisher-name>Academic Press Professional, Inc.</publisher-name>, <publisher-loc>San Diego, California</publisher-loc> (<year>1994</year>).</mixed-citation>
+      </ref>
+      <ref id="r14">
+        <label>14.</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <string-name>
+              <given-names>Z.-G.</given-names>
+              <surname>Wang</surname>
+            </string-name>, <string-name><given-names>Z.-H.</given-names><surname>Liang</surname></string-name> and <string-name><given-names>C.-L.</given-names><surname>Liu</surname></string-name></person-group>, “<article-title>A real-time image processor with combining dynamic contrast ratio enhancement and inverse gamma correction for PDP</article-title>,” <source>Displays</source><volume>30</volume>(<issue>3</issue>), <fpage>133</fpage>–<lpage>139</lpage> (<year>2009</year>).<pub-id pub-id-type="coden">DISPDP</pub-id><issn>0141-9382</issn><ext-link ext-link-type="doi" specific-use="online" xlink:href="https://doi.org/10.1016/j.displa.2009.03.006">https://doi.org/10.1016/j.displa.2009.03.006</ext-link></mixed-citation>
+      </ref>
+      <ref id="r15">
+        <label>15.</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <string-name>
+              <given-names>J.</given-names>
+              <surname>Tang</surname>
+            </string-name>, <string-name><given-names>E.</given-names><surname>Peli</surname></string-name> and <string-name><given-names>S.</given-names><surname>Acton</surname></string-name></person-group>, “<article-title>Image enhancement using a contrast measure in the compressed domain</article-title>,” <source>IEEE Signal Process. Lett.</source><volume>10</volume>, <fpage>289</fpage>–<lpage>292</lpage> (<year>2003</year>).<pub-id pub-id-type="coden">IESPEJ</pub-id><issn>1070-9908</issn><ext-link ext-link-type="doi" specific-use="online" xlink:href="https://doi.org/10.1109/LSP.2003.817178">https://doi.org/10.1109/LSP.2003.817178</ext-link></mixed-citation>
+      </ref>
+      <ref id="r16">
+        <label>16.</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <string-name>
+              <given-names>Y.</given-names>
+              <surname>Wang</surname>
+            </string-name>, <string-name><given-names>Q.</given-names><surname>Chen</surname></string-name> and <string-name><given-names>B.</given-names><surname>Zhang</surname></string-name></person-group>, “<article-title>Image enhancement based on equal area dualistic sub-image histogram equalization method</article-title>,” <source>IEEE Trans. Consum. Electron.</source><volume>45</volume>, <fpage>68</fpage>–<lpage>75</lpage> (<year>1999</year>).<pub-id pub-id-type="coden">ITCEDA</pub-id><issn>0098-3063</issn><ext-link ext-link-type="doi" specific-use="online" xlink:href="https://doi.org/10.1109/30.754419">https://doi.org/10.1109/30.754419</ext-link></mixed-citation>
+      </ref>
+      <ref id="r17">
+        <label>17.</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <string-name>
+              <given-names>D.</given-names>
+              <surname>Coltuc</surname>
+            </string-name>, <string-name><given-names>P.</given-names><surname>Bolon</surname></string-name> and <string-name><given-names>J.-M.</given-names><surname>Chassery</surname></string-name></person-group>, “<article-title>Exact histogram specification</article-title>,” <source>IEEE Trans. Image Process.</source><volume>15</volume>, <fpage>1143</fpage>–<lpage>1152</lpage> (<year>2006</year>).<pub-id pub-id-type="coden">IIPRE4</pub-id><issn>1057-7149</issn><ext-link ext-link-type="doi" specific-use="online" xlink:href="https://doi.org/10.1109/TIP.2005.864170">https://doi.org/10.1109/TIP.2005.864170</ext-link></mixed-citation>
+      </ref>
+      <ref id="r18">
+        <label>18.</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <string-name>
+              <given-names>S. F.</given-names>
+              <surname>Tan</surname>
+            </string-name> and <string-name><given-names>N. A. M.</given-names><surname>Isa</surname></string-name></person-group>, “<article-title>Exposure based multi-histogram equalization contrast enhancement for non-uniform illumination images</article-title>,” <source>IEEE Access</source><volume>7</volume>, <fpage>70842</fpage>–<lpage>70861</lpage> (<year>2019</year>).<ext-link ext-link-type="doi" specific-use="online" xlink:href="https://doi.org/10.1109/ACCESS.2019.2918557">https://doi.org/10.1109/ACCESS.2019.2918557</ext-link></mixed-citation>
+      </ref>
+      <ref id="r19">
+        <label>19.</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <string-name>
+              <given-names>C.</given-names>
+              <surname>Wang</surname>
+            </string-name>, <string-name><given-names>J.</given-names><surname>Peng</surname></string-name> and <string-name><given-names>Z.</given-names><surname>Ye</surname></string-name></person-group>, “<article-title>Flattest histogram specification with accurate brightness preservation</article-title>,” <source>IET Image Process.</source><volume>2</volume>, <fpage>249</fpage>–<lpage>262</lpage> (<year>2008</year>).<ext-link ext-link-type="doi" specific-use="online" xlink:href="https://doi.org/10.1049/iet-ipr:20070198">https://doi.org/10.1049/iet-ipr:20070198</ext-link></mixed-citation>
+      </ref>
+      <ref id="r20">
+        <label>20.</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <string-name>
+              <given-names>S.-D.</given-names>
+              <surname>Chen</surname>
+            </string-name> and <string-name><given-names>A.</given-names><surname>Ramli</surname></string-name></person-group>, “<article-title>Minimum mean brightness error bi-histogram equalization in contrast enhancement</article-title>,” <source>IEEE Trans. Consum. Electron.</source><volume>49</volume>, <fpage>1310</fpage>–<lpage>1319</lpage> (<year>2003</year>).<pub-id pub-id-type="coden">ITCEDA</pub-id><issn>0098-3063</issn><ext-link ext-link-type="doi" specific-use="online" xlink:href="https://doi.org/10.1109/TCE.2003.1261234">https://doi.org/10.1109/TCE.2003.1261234</ext-link></mixed-citation>
+      </ref>
+      <ref id="r21">
+        <label>21.</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <string-name>
+              <given-names>K.</given-names>
+              <surname>Singh</surname>
+            </string-name> and <string-name><given-names>R.</given-names><surname>Kapoor</surname></string-name></person-group>, “<article-title>Image enhancement via median-mean based sub-image-clipped histogram equalization</article-title>,” <source>Optik</source><volume>125</volume>(<issue>17</issue>), <fpage>4646</fpage>–<lpage>4651</lpage> (<year>2014</year>).<pub-id pub-id-type="coden">OTIKAJ</pub-id><issn>0030-4026</issn><ext-link ext-link-type="doi" specific-use="online" xlink:href="https://doi.org/10.1016/j.ijleo.2014.04.093">https://doi.org/10.1016/j.ijleo.2014.04.093</ext-link></mixed-citation>
+      </ref>
+      <ref id="r22">
+        <label>22.</label>
+        <mixed-citation publication-type="conf-proc">
+          <person-group person-group-type="author">
+            <string-name>
+              <given-names>K.</given-names>
+              <surname>Wongsritong</surname>
+            </string-name>
+            <etal>et al.</etal>
+          </person-group>, “<article-title>Contrast enhancement using multipeak histogram equalization with brightness preserving</article-title>,” in <conf-name>IEEE Asia-Pacific Conf. Circuits and Syst., 1998. IEEE APCCAS 1998</conf-name>, pp. <fpage>455</fpage>–<lpage>458</lpage> (<year>1998</year>).<ext-link ext-link-type="doi" specific-use="online" xlink:href="https://doi.org/10.1109/APCCAS.1998.743808">https://doi.org/10.1109/APCCAS.1998.743808</ext-link></mixed-citation>
+      </ref>
+      <ref id="r23">
+        <label>23.</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <string-name>
+              <given-names>S.</given-names>
+              <surname>Poddar</surname>
+            </string-name>
+            <etal>et al.</etal>
+          </person-group>, “<article-title>Non-parametric modified histogram equalisation for contrast enhancement</article-title>,” <source>IET Image Process.</source><volume>7</volume>, <fpage>641</fpage>–<lpage>652</lpage> (<year>2013</year>).<ext-link ext-link-type="doi" specific-use="online" xlink:href="https://doi.org/10.1049/iet-ipr.2012.0507">https://doi.org/10.1049/iet-ipr.2012.0507</ext-link></mixed-citation>
+      </ref>
+      <ref id="r24">
+        <label>24.</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <string-name>
+              <given-names>C. H.</given-names>
+              <surname>Ooi</surname>
+            </string-name> and <string-name><given-names>N. A. M.</given-names><surname>Isa</surname></string-name></person-group>, “<article-title>Adaptive contrast enhancement methods with brightness preserving</article-title>,” <source>IEEE Trans. Consum. Electron.</source><volume>56</volume>, <fpage>2543</fpage>–<lpage>2551</lpage> (<year>2010</year>).<pub-id pub-id-type="coden">ITCEDA</pub-id><issn>0098-3063</issn><ext-link ext-link-type="doi" specific-use="online" xlink:href="https://doi.org/10.1109/TCE.2010.5681139">https://doi.org/10.1109/TCE.2010.5681139</ext-link></mixed-citation>
+      </ref>
+      <ref id="r25">
+        <label>25.</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <string-name>
+              <given-names>S.-D.</given-names>
+              <surname>Chen</surname>
+            </string-name> and <string-name><given-names>A.</given-names><surname>Ramli</surname></string-name></person-group>, “<article-title>Contrast enhancement using recursive mean-separate histogram equalization for scalable brightness preservation</article-title>,” <source>IEEE Trans. Consum. Electron.</source><volume>49</volume>, <fpage>1301</fpage>–<lpage>1309</lpage> (<year>2003</year>).<pub-id pub-id-type="coden">ITCEDA</pub-id><issn>0098-3063</issn><ext-link ext-link-type="doi" specific-use="online" xlink:href="https://doi.org/10.1109/TCE.2003.1261233">https://doi.org/10.1109/TCE.2003.1261233</ext-link></mixed-citation>
+      </ref>
+      <ref id="r26">
+        <label>26.</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <string-name>
+              <given-names>K.</given-names>
+              <surname>Sim</surname>
+            </string-name>, <string-name><given-names>C.</given-names><surname>Tso</surname></string-name> and <string-name><given-names>Y.</given-names><surname>Tan</surname></string-name></person-group>, “<article-title>Recursive sub-image histogram equalization applied to gray scale images</article-title>,” <source>Pattern Recognit. Lett.</source><volume>28</volume>(<issue>10</issue>), <fpage>1209</fpage>–<lpage>1221</lpage> (<year>2007</year>).<pub-id pub-id-type="coden">PRLEDG</pub-id><issn>0167-8655</issn><ext-link ext-link-type="doi" specific-use="online" xlink:href="https://doi.org/10.1016/j.patrec.2007.02.003">https://doi.org/10.1016/j.patrec.2007.02.003</ext-link></mixed-citation>
+      </ref>
+      <ref id="r27">
+        <label>27.</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <string-name>
+              <given-names>M.</given-names>
+              <surname>Kim</surname>
+            </string-name> and <string-name><given-names>M.</given-names><surname>Chung</surname></string-name></person-group>, “<article-title>Recursively separated and weighted histogram equalization for brightness preservation and contrast enhancement</article-title>,” <source>IEEE Trans. Consum. Electron.</source><volume>54</volume>, <fpage>1389</fpage>–<lpage>1397</lpage> (<year>2008</year>).<pub-id pub-id-type="coden">ITCEDA</pub-id><issn>0098-3063</issn><ext-link ext-link-type="doi" specific-use="online" xlink:href="https://doi.org/10.1109/TCE.2008.4637632">https://doi.org/10.1109/TCE.2008.4637632</ext-link></mixed-citation>
+      </ref>
+      <ref id="r28">
+        <label>28.</label>
+        <mixed-citation publication-type="conf-proc">
+          <person-group person-group-type="author">
+            <string-name>
+              <given-names>A. M. R. R.</given-names>
+              <surname>Bandara</surname>
+            </string-name>, <string-name><given-names>K. A. S. H.</given-names><surname>Kulathilake</surname></string-name> and <string-name><given-names>P. W. G. R. M. P. B.</given-names><surname>Giragama</surname></string-name></person-group>, “<article-title>Super-efficient spatially adaptive contrast enhancement algorithm for superficial vein imaging</article-title>,” in <conf-name>IEEE Int. Conf. Ind. and Inf. Syst. (ICIIS)</conf-name>, pp. <fpage>1</fpage>–<lpage>6</lpage> (<year>2017</year>).<ext-link ext-link-type="doi" specific-use="online" xlink:href="https://doi.org/10.1109/ICIINFS.2017.8300427">https://doi.org/10.1109/ICIINFS.2017.8300427</ext-link></mixed-citation>
+      </ref>
+      <ref id="r29">
+        <label>29.</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <string-name>
+              <given-names>F.</given-names>
+              <surname>Bulut</surname>
+            </string-name>
+          </person-group>, “<article-title>Low dynamic range histogram equalization (LDR-HE) via quantized Haar wavelet transform</article-title>,” <source>Visual Comput.</source><volume>38</volume>(<issue>6</issue>), <fpage>2239</fpage>–<lpage>2255</lpage> (<year>2022</year>).<pub-id pub-id-type="coden">VICOE5</pub-id><issn>0178-2789</issn><ext-link ext-link-type="doi" specific-use="online" xlink:href="https://doi.org/10.1007/s00371-021-02281-5">https://doi.org/10.1007/s00371-021-02281-5</ext-link></mixed-citation>
+      </ref>
+      <ref id="r30">
+        <label>30.</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <string-name>
+              <given-names>J. D.</given-names>
+              <surname>Fahnestock</surname>
+            </string-name> and <string-name><given-names>R. A.</given-names><surname>Schowengerdt</surname></string-name></person-group>, “<article-title>Spatially variant contrast enhancement using local range modification</article-title>,” <source>Opt. Eng.</source><volume>22</volume>(<issue>3</issue>), <fpage>223378</fpage> (<year>1983</year>).<ext-link ext-link-type="doi" specific-use="online" xlink:href="https://doi.org/10.1117/12.7973124">https://doi.org/10.1117/12.7973124</ext-link></mixed-citation>
+      </ref>
+      <ref id="r31">
+        <label>31.</label>
+        <mixed-citation publication-type="conf-proc">
+          <person-group person-group-type="author">
+            <string-name>
+              <given-names>P.-C.</given-names>
+              <surname>Wu</surname>
+            </string-name>, <string-name><given-names>F.-C.</given-names><surname>Cheng</surname></string-name> and <string-name><given-names>Y.-K.</given-names><surname>Chen</surname></string-name></person-group>, “<article-title>A weighting mean-separated sub-histogram equalization for contrast enhancement</article-title>,” in <conf-name>Int. Conf. Biomed. Eng. and Comput. Sci. (ICBECS)</conf-name>, pp. <fpage>1</fpage>–<lpage>4</lpage> (<year>2010</year>).<ext-link ext-link-type="doi" specific-use="online" xlink:href="https://doi.org/10.1109/ICBECS.2010.5462511">https://doi.org/10.1109/ICBECS.2010.5462511</ext-link></mixed-citation>
+      </ref>
+      <ref id="r32">
+        <label>32.</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <string-name>
+              <given-names>D.</given-names>
+              <surname>Wegner</surname>
+            </string-name> and <string-name><given-names>S.</given-names><surname>Keßler</surname></string-name></person-group>, “<article-title>Comparison of algorithms for contrast enhancement based on TOD assessments by convolutional neural networks</article-title>,” <source>Proc. SPIE</source><volume>12271</volume>, <fpage>122710H</fpage> (<year>2022</year>).<pub-id pub-id-type="coden">PSISDG</pub-id><issn>0277-786X</issn><ext-link ext-link-type="doi" specific-use="online" xlink:href="https://doi.org/10.1117/12.2638539">https://doi.org/10.1117/12.2638539</ext-link></mixed-citation>
+      </ref>
+      <ref id="r33">
+        <label>33.</label>
+        <mixed-citation publication-type="conf-proc">
+          <person-group person-group-type="author">
+            <string-name>
+              <given-names>J.</given-names>
+              <surname>Park</surname>
+            </string-name>
+            <etal>et al.</etal>
+          </person-group>, “<article-title>Distort-and-recover: color enhancement using deep reinforcement learning</article-title>,” in <conf-name>Proc. IEEE Conf. Comput. Vis. and Pattern Recognit. (CVPR)</conf-name> (<year>2018</year>).<ext-link ext-link-type="doi" specific-use="online" xlink:href="https://doi.org/10.1109/CVPR.2018.00621">https://doi.org/10.1109/CVPR.2018.00621</ext-link></mixed-citation>
+      </ref>
+      <ref id="r34">
+        <label>34.</label>
+        <mixed-citation publication-type="conf-proc">
+          <person-group person-group-type="author">
+            <string-name>
+              <given-names>B.</given-names>
+              <surname>Xiao</surname>
+            </string-name>
+            <etal>et al.</etal>
+          </person-group>, “<article-title>Histogram learning in image contrast enhancement</article-title>,” in <conf-name>IEEE/CVF Conf. Comput. Vis. and Pattern Recognit. Workshops (CVPRW)</conf-name>, pp. <fpage>1880</fpage>–<lpage>1889</lpage> (<year>2019</year>).<ext-link ext-link-type="doi" specific-use="online" xlink:href="https://doi.org/10.1109/CVPRW.2019.00239">https://doi.org/10.1109/CVPRW.2019.00239</ext-link></mixed-citation>
+      </ref>
+      <ref id="r35">
+        <label>35.</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <string-name>
+              <given-names>G. F. C.</given-names>
+              <surname>Campos</surname>
+            </string-name>
+            <etal>et al.</etal>
+          </person-group>, “<article-title>Machine learning hyperparameter selection for contrast limited adaptive histogram equalization</article-title>,” <source>EURASIP J. Image Video Process.</source><volume>2019</volume>(<issue>1</issue>), <fpage>59</fpage> (<year>2019</year>).<ext-link ext-link-type="doi" specific-use="online" xlink:href="https://doi.org/10.1186/s13640-019-0445-4">https://doi.org/10.1186/s13640-019-0445-4</ext-link></mixed-citation>
+      </ref>
+      <ref id="r36">
+        <label>36.</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <string-name>
+              <given-names>Y.-G.</given-names>
+              <surname>Shin</surname>
+            </string-name>
+            <etal>et al.</etal>
+          </person-group>, “<article-title>Unsupervised deep contrast enhancement with power constraint for OLED displays</article-title>,” <source>IEEE Trans. Image Process.</source><volume>29</volume>, <fpage>2834</fpage>–<lpage>2844</lpage> (<year>2020</year>).<pub-id pub-id-type="coden">IIPRE4</pub-id><issn>1057-7149</issn><ext-link ext-link-type="doi" specific-use="online" xlink:href="https://doi.org/10.1109/TIP.2019.2953352">https://doi.org/10.1109/TIP.2019.2953352</ext-link></mixed-citation>
+      </ref>
+      <ref id="r37">
+        <label>37.</label>
+        <mixed-citation publication-type="conf-proc">
+          <person-group person-group-type="author">
+            <string-name>
+              <given-names>V.</given-names>
+              <surname>Bychkovsky</surname>
+            </string-name>
+            <etal>et al.</etal>
+          </person-group>, “<article-title>Learning photographic global tonal adjustment with a database of input/output image pairs</article-title>,” in <conf-name>CVPR</conf-name>, <publisher-name>IEEE</publisher-name> (<year>2022</year>).<ext-link ext-link-type="doi" specific-use="online" xlink:href="https://doi.org/10.1109/CVPR.2011.5995332">https://doi.org/10.1109/CVPR.2011.5995332</ext-link></mixed-citation>
+      </ref>
+      <ref id="r38">
+        <label>38.</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <string-name>
+              <given-names>S.</given-names>
+              <surname>Lombardi</surname>
+            </string-name> and <string-name><given-names>K.</given-names><surname>Nishino</surname></string-name></person-group>, “<article-title>Reflectance and illumination recovery in the wild</article-title>,” <source>IEEE Trans. Pattern Anal. Mach. Intell.</source><volume>38</volume>(<issue>1</issue>), <fpage>129</fpage>–<lpage>141</lpage> (<year>2016</year>).<pub-id pub-id-type="coden">ITPIDJ</pub-id><issn>0162-8828</issn><ext-link ext-link-type="doi" specific-use="online" xlink:href="https://doi.org/10.1109/TPAMI.2015.2430318">https://doi.org/10.1109/TPAMI.2015.2430318</ext-link></mixed-citation>
+      </ref>
+      <ref id="r39">
+        <label>39.</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <string-name>
+              <given-names>H.</given-names>
+              <surname>Yue</surname>
+            </string-name>
+            <etal>et al.</etal>
+          </person-group>, “<article-title>Contrast enhancement based on intrinsic image decomposition</article-title>,” <source>IEEE Trans. Image Process.</source><volume>26</volume>(<issue>8</issue>), <fpage>3981</fpage>–<lpage>3994</lpage> (<year>2017</year>).<pub-id pub-id-type="coden">IIPRE4</pub-id><issn>1057-7149</issn><ext-link ext-link-type="doi" specific-use="online" xlink:href="https://doi.org/10.1109/TIP.2017.2703078">https://doi.org/10.1109/TIP.2017.2703078</ext-link></mixed-citation>
+      </ref>
+      <ref id="r40">
+        <label>40.</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <string-name>
+              <given-names>G. B.</given-names>
+              <surname>Airy</surname>
+            </string-name>
+          </person-group>, “<article-title>On the diffraction of an object-glass with circular aperture</article-title>,” <source>Trans. Cambridge Philos. Soc.</source><volume>5</volume>, <fpage>283</fpage> (<year>1835</year>).<pub-id pub-id-type="coden">TCPSAE</pub-id><issn>0371-5779</issn></mixed-citation>
+      </ref>
+      <ref id="r41">
+        <label>41.</label>
+        <mixed-citation publication-type="book">
+          <person-group person-group-type="author">
+            <string-name>
+              <given-names>G. C.</given-names>
+              <surname>Holst</surname>
+            </string-name>
+          </person-group>, <source>Electro-Optical Imaging System Performance</source>, <edition>6th ed.</edition>, <publisher-name>JCD Publishing</publisher-name> (<year>2017</year>).</mixed-citation>
+      </ref>
+      <ref id="r42">
+        <label>42.</label>
+        <mixed-citation publication-type="other">
+          <person-group person-group-type="author">
+            <string-name>
+              <given-names>D. P.</given-names>
+              <surname>Kingma</surname>
+            </string-name> and <string-name><given-names>J.</given-names><surname>Ba</surname></string-name></person-group>, “<article-title>Adam: a method for stochastic optimization</article-title>,” CoRR abs/1412.6980 (<year>2014</year>).</mixed-citation>
+      </ref>
+      <ref id="r43">
+        <label>43.</label>
+        <mixed-citation publication-type="other">
+          <person-group person-group-type="author">
+            <string-name>
+              <given-names>K.</given-names>
+              <surname>He</surname>
+            </string-name>
+            <etal>et al.</etal>
+          </person-group>, “<article-title>Delving deep into rectifiers: surpassing human-level performance on ImageNet classification</article-title>,” CoRR abs/1502.01852 (<year>2015</year>).</mixed-citation>
+      </ref>
+      <ref id="r44">
+        <label>44.</label>
+        <mixed-citation publication-type="conf-proc">
+          <person-group person-group-type="author">
+            <string-name>
+              <given-names>S.</given-names>
+              <surname>Ioffe</surname>
+            </string-name>, <string-name><given-names>C.</given-names><surname>Szegedy</surname></string-name></person-group>, “<article-title>Batch normalization: accelerating deep network training by reducing internal covariate shift</article-title>,” in <conf-name>Proc. 32nd Int. Conf. Mach. Learn.</conf-name>, <person-group person-group-type="editor">, <string-name><given-names>F.</given-names><surname>Bach</surname></string-name> and <string-name><given-names>D.</given-names><surname>Blei</surname></string-name></person-group>, eds., <publisher-name>PMLR</publisher-name>, <publisher-loc>Lille, France</publisher-loc>, Vol. 37, pp. <fpage>448</fpage>–<lpage>456</lpage> (<year>2015</year>).</mixed-citation>
+      </ref>
+      <ref id="r45">
+        <label>45.</label>
+        <mixed-citation publication-type="other">
+          <person-group person-group-type="author">
+            <string-name>
+              <given-names>T.</given-names>
+              <surname>Salimans</surname>
+            </string-name> and <string-name><given-names>D. P.</given-names><surname>Kingma</surname></string-name></person-group>, “<article-title>Weight normalization: a simple reparameterization to accelerate training of deep neural networks</article-title>,” CoRR abs/1602.07868 (<year>2016</year>).</mixed-citation>
+      </ref>
+      <ref id="r46">
+        <label>46.</label>
+        <mixed-citation publication-type="other">
+          <person-group person-group-type="author">
+            <string-name>
+              <given-names>A.</given-names>
+              <surname>Brock</surname>
+            </string-name>
+            <etal>et al.</etal>
+          </person-group>, “<article-title>High-performance large-scale image recognition without normalization</article-title>,” (<year>2021</year>).</mixed-citation>
+      </ref>
+      <ref id="r47">
+        <label>47.</label>
+        <mixed-citation publication-type="other">
+          <person-group person-group-type="author">
+            <string-name>
+              <given-names>A.</given-names>
+              <surname>Yazdanbakhsh</surname>
+            </string-name>
+            <etal>et al.</etal>
+          </person-group>, “<article-title>An evaluation of edge TPU accelerators for convolutional neural networks</article-title>,” CoRR abs/2102.10423 (<year>2021</year>).</mixed-citation>
+      </ref>
+      <ref id="r48">
+        <label>48.</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <string-name>
+              <given-names>M.</given-names>
+              <surname>Everingham</surname>
+            </string-name>
+            <etal>et al.</etal>
+          </person-group>, “<article-title>The pascal visual object classes (VOC) challenge</article-title>,” <source>Int. J. Comput. Vis.</source><volume>88</volume>(<issue>2</issue>), <fpage>303</fpage>–<lpage>338</lpage> (<year>2010</year>).<pub-id pub-id-type="coden">IJCVEQ</pub-id><issn>0920-5691</issn><ext-link ext-link-type="doi" specific-use="online" xlink:href="https://doi.org/10.1007/s11263-009-0275-4">https://doi.org/10.1007/s11263-009-0275-4</ext-link></mixed-citation>
+      </ref>
+      <ref id="r49">
+        <label>49.</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <string-name>
+              <given-names>O.</given-names>
+              <surname>Russakovsky</surname>
+            </string-name>
+            <etal>et al.</etal>
+          </person-group>, “<article-title>ImageNet large scale visual recognition challenge</article-title>,” <source>Int. J. Comput. Vis.</source><volume>115</volume>(<issue>3</issue>), <fpage>211</fpage>–<lpage>252</lpage> (<year>2015</year>).<pub-id pub-id-type="coden">IJCVEQ</pub-id><issn>0920-5691</issn><ext-link ext-link-type="doi" specific-use="online" xlink:href="https://doi.org/10.1007/s11263-015-0816-y">https://doi.org/10.1007/s11263-015-0816-y</ext-link></mixed-citation>
+      </ref>
+      <ref id="r50">
+        <label>50.</label>
+        <mixed-citation publication-type="web">
+          <collab>FLIR</collab>, “<article-title>FLIR ADAS Teledyne</article-title>,” <ext-link ext-link-type="uri" xlink:href="https://www.flir.de/oem/adas/adas-dataset-form/">https://www.flir.de/oem/adas/adas-dataset-form/</ext-link> (accessed on 2 August 2023).</mixed-citation>
+      </ref>
+      <ref id="r51">
+        <label>51.</label>
+        <mixed-citation publication-type="conf-proc">
+          <person-group person-group-type="author">
+            <string-name>
+              <given-names>A.</given-names>
+              <surname>Khosla</surname>
+            </string-name>
+            <etal>et al.</etal>
+          </person-group>, “<article-title>Novel dataset for fine-grained image categorization</article-title>,” in <conf-name>First Workshop on Fine-Grained Visual Categorization, IEEE Conf. Comput. Vis. and Pattern Recognit.</conf-name>, <publisher-loc>Colorado Springs, CO</publisher-loc> (<year>2011</year>).</mixed-citation>
+      </ref>
+      <ref id="r52">
+        <label>52.</label>
+        <mixed-citation publication-type="conf-proc">
+          <person-group person-group-type="author">
+            <string-name>
+              <given-names>M.-E.</given-names>
+              <surname>Nilsback</surname>
+            </string-name> and <string-name><given-names>A.</given-names><surname>Zisserman</surname></string-name></person-group>, “<article-title>Automated flower classification over a large number of classes</article-title>,” in <conf-name>Indian Conf. Comput. Vis., Graph. and Image Process.</conf-name> (<year>2008</year>).<ext-link ext-link-type="doi" specific-use="online" xlink:href="https://doi.org/10.1109/ICVGIP.2008.47">https://doi.org/10.1109/ICVGIP.2008.47</ext-link></mixed-citation>
+      </ref>
+      <ref id="r53">
+        <label>53.</label>
+        <mixed-citation publication-type="other">
+          <person-group person-group-type="author">
+            <string-name>
+              <given-names>F.-F.</given-names>
+              <surname>Li</surname>
+            </string-name>
+            <etal>et al.</etal>
+          </person-group>, “<article-title>Caltech 101</article-title>,” (<year>2022</year>).</mixed-citation>
+      </ref>
+      <ref id="r54">
+        <label>54.</label>
+        <mixed-citation publication-type="other">
+          <person-group person-group-type="author">
+            <string-name>
+              <given-names>A.</given-names>
+              <surname>Maas</surname>
+            </string-name>, <string-name><given-names>A.</given-names><surname>Hannun</surname></string-name> and <string-name><given-names>A.</given-names><surname>Ng</surname></string-name></person-group>, “<article-title>Rectifer nonlinearities improve neural network acoustic models</article-title>” (<year>2013</year>).</mixed-citation>
+      </ref>
+      <ref id="r55">
+        <label>55.</label>
+        <mixed-citation publication-type="other">
+          <person-group person-group-type="author">
+            <string-name>
+              <given-names>D.</given-names>
+              <surname>Clevert</surname>
+            </string-name>, <string-name><given-names>T.</given-names><surname>Unterthiner</surname></string-name> and <string-name><given-names>S.</given-names><surname>Hochreiter</surname></string-name></person-group>, “<article-title>Fast and accurate deep network learning by exponential linear units (ELUs)</article-title>,” CoRR abs/1511.07289 (<year>2015</year>).</mixed-citation>
+      </ref>
+      <ref id="r56">
+        <label>56.</label>
+        <mixed-citation publication-type="other">
+          <person-group person-group-type="author">
+            <string-name>
+              <given-names>D.</given-names>
+              <surname>Hendrycks</surname>
+            </string-name> and <string-name><given-names>K.</given-names><surname>Gimpel</surname></string-name></person-group>, “<article-title>Bridging nonlinearities and stochastic regularizers with Gaussian error linear units</article-title>,” CoRR abs/1606.08415 (<year>2016</year>).</mixed-citation>
+      </ref>
+      <ref id="r57">
+        <label>57.</label>
+        <mixed-citation publication-type="other">
+          <person-group person-group-type="author">
+            <string-name>
+              <given-names>G.</given-names>
+              <surname>Klambauer</surname>
+            </string-name>
+            <etal>et al.</etal>
+          </person-group>, “<article-title>Self-normalizing neural networks</article-title>,” CoRR abs/1706.02515 (<year>2017</year>).</mixed-citation>
+      </ref>
+      <ref id="r58">
+        <label>58.</label>
+        <mixed-citation publication-type="other">
+          <person-group person-group-type="author">
+            <string-name>
+              <given-names>F.</given-names>
+              <surname>Agostinelli</surname>
+            </string-name>
+            <etal>et al.</etal>
+          </person-group>, “<article-title>Learning activation functions to improve deep neural networks</article-title>,” CoRR abs/1412.6830 (<year>2014</year>).</mixed-citation>
+      </ref>
+      <ref id="r59">
+        <label>59.</label>
+        <mixed-citation publication-type="web">
+          <collab>Tensorflow</collab>, “<article-title>Tensorflow API</article-title>,” (<year>2022</year>). <ext-link ext-link-type="uri" xlink:href="https://www.tensorflow.org/api_docs/python/tf/keras/activations">https://www.tensorflow.org/api_docs/python/tf/keras/activations</ext-link>.</mixed-citation>
+      </ref>
+      <ref id="r60">
+        <label>60.</label>
+        <mixed-citation publication-type="other">
+          <person-group person-group-type="author">
+            <string-name>
+              <given-names>P.</given-names>
+              <surname>Ramachandran</surname>
+            </string-name>, <string-name><given-names>B.</given-names><surname>Zoph</surname></string-name> and <string-name><given-names>Q. V.</given-names><surname>Le</surname></string-name></person-group>, “<article-title>Searching for activation functions</article-title>,” CoRR abs/1710.05941 (<year>2017</year>).</mixed-citation>
+      </ref>
+      <ref id="r61">
+        <label>61.</label>
+        <mixed-citation publication-type="other">
+          <person-group person-group-type="author">
+            <string-name>
+              <given-names>K.</given-names>
+              <surname>Simonyan</surname>
+            </string-name> and <string-name><given-names>A.</given-names><surname>Zisserman</surname></string-name></person-group>, “<article-title>Very deep convolutional networks for large-scale image recognition</article-title>,” CoRR abs/1409.1556 (<year>2014</year>).</mixed-citation>
+      </ref>
+      <ref id="r62">
+        <label>62.</label>
+        <mixed-citation publication-type="other">
+          <person-group person-group-type="author">
+            <string-name>
+              <given-names>K.</given-names>
+              <surname>He</surname>
+            </string-name>
+            <etal>et al.</etal>
+          </person-group>, “<article-title>Identity mappings in deep residual networks</article-title>,” Technical Report (<year>2016</year>). arXiv:1603.05027 [cs].</mixed-citation>
+      </ref>
+      <ref id="r63">
+        <label>63.</label>
+        <mixed-citation publication-type="other">
+          <person-group person-group-type="author">
+            <string-name>
+              <given-names>C.</given-names>
+              <surname>Szegedy</surname>
+            </string-name>
+            <etal>et al.</etal>
+          </person-group>, “<article-title>Rethinking the inception architecture for computer vision</article-title>,” CoRR abs/1512.00567 (<year>2015</year>).</mixed-citation>
+      </ref>
+      <ref id="r64">
+        <label>64.</label>
+        <mixed-citation publication-type="other">
+          <person-group person-group-type="author">
+            <string-name>
+              <given-names>F.</given-names>
+              <surname>Chollet</surname>
+            </string-name>
+          </person-group>, “<article-title>Xception: deep learning with depthwise separable convolutions</article-title>,” CoRR abs/1610.02357 (<year>2016</year>).</mixed-citation>
+      </ref>
+      <ref id="r65">
+        <label>65.</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <string-name>
+              <given-names>S.</given-names>
+              <surname>Agaian</surname>
+            </string-name>, <string-name><given-names>B.</given-names><surname>Silver</surname></string-name> and <string-name><given-names>K.</given-names><surname>Panetta</surname></string-name></person-group>, “<article-title>Transform coefficient histogram-based image enhancement algorithms using contrast entropy</article-title>,” <source>IEEE Trans. Image Process.</source><volume>16</volume>, <fpage>741</fpage>–<lpage>758</lpage> (<year>2007</year>).<pub-id pub-id-type="coden">IIPRE4</pub-id><issn>1057-7149</issn><ext-link ext-link-type="doi" specific-use="online" xlink:href="https://doi.org/10.1109/TIP.2006.888338">https://doi.org/10.1109/TIP.2006.888338</ext-link></mixed-citation>
+      </ref>
+      <ref id="r66">
+        <label>66.</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <string-name>
+              <given-names>T.</given-names>
+              <surname>Celik</surname>
+            </string-name>
+          </person-group>, “<article-title>Spatial mutual information and pagerank-based contrast enhancement and quality-aware relative contrast measure</article-title>,” <source>IEEE Trans. Image Process.</source><volume>25</volume>(<issue>10</issue>), <fpage>4719</fpage>–<lpage>4728</lpage> (<year>2016</year>).<pub-id pub-id-type="coden">IIPRE4</pub-id><issn>1057-7149</issn><ext-link ext-link-type="doi" specific-use="online" xlink:href="https://doi.org/10.1109/TIP.2016.2599103">https://doi.org/10.1109/TIP.2016.2599103</ext-link></mixed-citation>
+      </ref>
+      <ref id="r67">
+        <label>67.</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <string-name>
+              <given-names>Z.</given-names>
+              <surname>Wang</surname>
+            </string-name> and <string-name><given-names>A.</given-names><surname>Bovik</surname></string-name></person-group>, “<article-title>A universal image quality index</article-title>,” <source>IEEE Signal Process. Lett.</source><volume>9</volume>, <fpage>81</fpage>–<lpage>84</lpage> (<year>2002</year>).<pub-id pub-id-type="coden">IESPEJ</pub-id><issn>1070-9908</issn><ext-link ext-link-type="doi" specific-use="online" xlink:href="https://doi.org/10.1109/97.995823">https://doi.org/10.1109/97.995823</ext-link></mixed-citation>
+      </ref>
+      <ref id="r68">
+        <label>68.</label>
+        <mixed-citation publication-type="conf-proc">
+          <person-group person-group-type="author">
+            <string-name>
+              <given-names>B. N.</given-names>
+              <surname>Anoop</surname>
+            </string-name>, <string-name><given-names>P. E.</given-names><surname>Ameenudeen</surname></string-name> and <string-name><given-names>J.</given-names><surname>Joseph</surname></string-name></person-group>, “<article-title>A meta-analysis of contrast measures used for the performance evaluation of histogram equalization based image enhancement techniques</article-title>,” in <conf-name>9th Int. Conf. Comput., Commun. and Netw. Technol. (ICCCNT)</conf-name>, pp. <fpage>1</fpage>–<lpage>6</lpage> (<year>2018</year>).<ext-link ext-link-type="doi" specific-use="online" xlink:href="https://doi.org/10.1109/ICCCNT.2018.8494069">https://doi.org/10.1109/ICCCNT.2018.8494069</ext-link></mixed-citation>
+      </ref>
+      <ref id="r69">
+        <label>69.</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <string-name>
+              <given-names>S. V.</given-names>
+              <surname>Renuka</surname>
+            </string-name>, <string-name><given-names>D. R.</given-names><surname>Edla</surname></string-name> and <string-name><given-names>J.</given-names><surname>Joseph</surname></string-name></person-group>, “<article-title>An objective measure for assessing the quality of contrast enhancement on magnetic resonance images</article-title>,” <source>J. King Saud Univ. – Comput. Inf. Sci.</source><volume>34</volume>(<issue>10, Part B</issue>), <fpage>9732</fpage>–<lpage>9744</lpage> (<year>2021</year>).<ext-link ext-link-type="doi" specific-use="online" xlink:href="https://doi.org/10.1016/j.jksuci.2021.12.005">https://doi.org/10.1016/j.jksuci.2021.12.005</ext-link></mixed-citation>
+      </ref>
+    </ref-list>
+    <bio id="b1">
+      <p>
+        <bold>Daniel Wegner</bold> is a research assistant at the Fraunhofer Institute of Optronics, System Technologies and Image Exploitation (IOSB) in Ettlingen, Germany. He received his diploma degree in physics (equivalent to MS degree) from the Karlsruhe Institute of Technology (KIT), Germany, in 2013. Then, he received his PhD in physics from KIT in 2022. His research interests include image quality metrics, methods for contrast enhancement, image-based simulation of atmospheric turbulence as well as approaches for modeling, image-based simulation, and machine learning for imager performance assessment.</p>
+    </bio>
+    <bio id="b2">
+      <p>
+        <bold>Stefan Keßler</bold> is the head of the Sensor Simulation Group at the Fraunhofer Institute of Optronics, System Technologies and Image Exploitation in Ettlingen, Germany. He received his diploma degree in physics from the University of Heidelberg in 2008 and his PhD in physics from the University of Erlangen-Nürnberg in 2014. His research activities comprise sensor modeling, image simulation of infrared and electro-optical imagers, and imager performance assessment.</p>
+    </bio>
+  </back>
+</article>

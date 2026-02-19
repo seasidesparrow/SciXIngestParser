@@ -1,0 +1,526 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD with OASIS Tables v1.0 20120330//EN" "JATS-journalpublishing-oasis-article1.dtd"[]>
+<article article-type="special section on non-chemically amplified resists for euv lithography" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:oasis="http://www.niso.org/standards/z39-96/ns/oasis-exchange/table">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="coden">JMMMIH</journal-id>
+      <journal-id journal-id-type="publisher-id">JM3</journal-id>
+      <journal-title-group>
+        <journal-title>Journal of Micro/Nanopatterning, Materials, and Metrology</journal-title>
+        <abbrev-journal-title>J. Micro/Nanopattern. Mater. Metrol.</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="ppub">1932-5150</issn>
+      <issn pub-type="epub">1932-5134</issn>
+      <publisher>
+        <publisher-name>Society of Photo-Optical Instrumentation Engineers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.1117/1.JMM.21.4.041407</article-id>
+      <article-id pub-id-type="manuscript">JM3-22019SS</article-id>
+      <article-id pub-id-type="publisher-id">22019SS</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Special Section on Non-chemically Amplified Resists for EUV Lithography</subject>
+        </subj-group>
+        <subj-group subj-group-type="SPIE-art-type">
+          <subject>Paper</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Compatibility between polymethacrylate-based extreme ultraviolet resists and <inline-formula><mml:math display="inline"><mml:mrow><mml:msub><mml:mrow><mml:mi>TiO</mml:mi></mml:mrow><mml:mrow><mml:mn>2</mml:mn></mml:mrow></mml:msub></mml:mrow></mml:math></inline-formula> area-selective deposition</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <contrib-id contrib-id-type="orcid">https://orcid.org/0000-0003-3233-4251</contrib-id>
+          <name>
+            <surname>Nye</surname>
+            <given-names>Rachel A.</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1">a</xref>
+          <xref ref-type="aff" rid="aff2">b</xref>
+          <xref ref-type="aff" rid="aff3">c</xref>
+          <xref ref-type="other" rid="b1" />
+          <email>ranye@ncsu.edu</email>
+        </contrib>
+        <contrib contrib-type="author">
+          <contrib-id contrib-id-type="orcid">https://orcid.org/0000-0002-3570-8549</contrib-id>
+          <name>
+            <surname>Van Dongen</surname>
+            <given-names>Kaat</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1">a</xref>
+          <xref ref-type="aff" rid="aff2">b</xref>
+          <xref ref-type="other" rid="b2" />
+          <email>kaat.vandongen@imec.be</email>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Oka</surname>
+            <given-names>Hironori</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff4">d</xref>
+          <email>hironori.oka.ext@imec.be</email>
+        </contrib>
+        <contrib contrib-type="author">
+          <contrib-id contrib-id-type="orcid">https://orcid.org/0000-0003-3927-5207</contrib-id>
+          <name>
+            <surname>De Simone</surname>
+            <given-names>Danilo</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1">a</xref>
+          <email>danilo.desimone@imec.be</email>
+        </contrib>
+        <contrib contrib-type="author">
+          <contrib-id contrib-id-type="orcid">https://orcid.org/0000-0002-0048-5859</contrib-id>
+          <name>
+            <surname>Parsons</surname>
+            <given-names>Gregory N.</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff3">c</xref>
+          <xref ref-type="other" rid="b3" />
+          <email>gnp@ncsu.edu</email>
+        </contrib>
+        <contrib contrib-type="author" corresp="yes">
+          <contrib-id contrib-id-type="orcid">https://orcid.org/0000-0001-9739-7419</contrib-id>
+          <name>
+            <surname>Delabie</surname>
+            <given-names>Annelies</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1">a</xref>
+          <xref ref-type="aff" rid="aff2">b</xref>
+          <xref ref-type="corresp" rid="cor1">*</xref>
+          <xref ref-type="other" rid="b4" />
+          <email>Annelies.Delabie@imec.be</email>
+        </contrib>
+        <aff id="aff1">
+          <label>a</label>
+          <institution>IMEC</institution>, Leuven, <country>Belgium</country></aff>
+        <aff id="aff2">
+          <label>b</label>
+          <institution>KU Leuven (University of Leuven)</institution>, Leuven, <country>Belgium</country></aff>
+        <aff id="aff3">
+          <label>c</label>
+          <institution>North Carolina State University</institution>, Department of Chemical and Biomolecular Engineering, Raleigh, North Carolina, <country>United States</country></aff>
+        <aff id="aff4">
+          <label>d</label>
+          <institution>FUJIFILM Corporation Electronic Materials Research Laboratories</institution>, Yoshida-Cho, <country>Japan</country></aff>
+      </contrib-group>
+      <author-notes>
+        <corresp id="cor1">
+          <label>*</label>Address all correspondence to Annelies Delabie, <email>Annelies.Dealabie@imec.be</email></corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>4</day>
+        <month>11</month>
+        <year>2022</year>
+      </pub-date>
+      <pub-date pub-type="ppub">
+        <day>1</day>
+        <month>10</month>
+        <year>2022</year>
+      </pub-date>
+      <volume>21</volume>
+      <issue>4</issue>
+      <fpage>041407</fpage>
+      <lpage>041407</lpage>
+      <history>
+        <date date-type="received">
+          <day>9</day>
+          <month>5</month>
+          <year>2022</year>
+        </date>
+        <date date-type="accepted">
+          <day>11</day>
+          <month>10</month>
+          <year>2022</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>© 2022 Society of Photo-Optical Instrumentation Engineers (SPIE)</copyright-statement>
+        <copyright-year>2022</copyright-year>
+        <copyright-holder>Society of Photo-Optical Instrumentation Engineers</copyright-holder>
+        <license license-type="ccc">
+          <license-p>1932-5150/2022/<price>$28.00</price> © 2022 SPIE</license-p>
+        </license>
+      </permissions>
+      <self-uri xlink:title="pdf" xlink:href="JM3_21_4_041407.pdf" />
+      <abstract>
+        <title>Abstract.</title>
+        <sec>
+          <title>Background</title>
+          <p>Extreme ultraviolet (EUV) lithography is crucial to achieving smaller device sizes for next-generation technology, although organic resists face substantial challenges, such as low etch resistance, which limit the resolution of smaller features.</p>
+        </sec>
+        <sec>
+          <title>Aim</title>
+          <p>Evaluate the potential for area-selective deposition (ASD) to improve EUV pattern resolution (e.g., by increasing etch resistance).</p>
+        </sec>
+        <sec>
+          <title>Approach</title>
+          <p>We evaluate thermal compatibility, atomic layer deposition growth rate, and selectivity for TiO<sub>2</sub> ASD on various organic EUV resist materials using water contact angle, Rutherford backscattering spectrometry, and X-ray photoelectron spectroscopy. The effects of photo-acid generator (PAG) and EUV exposure on polymer properties and selectivity are considered.</p>
+        </sec>
+        <sec>
+          <title>Results</title>
+          <p>The organic resist materials studied demonstrate thermal compatibility with TiO<sub>2</sub> ALD (125°C for 60 min). The TiO<sub>2</sub> ALD process from TiCl<sub>4</sub> and H<sub>2</sub>O proceeds readily on poly(<italic>tert</italic>-butyl methacrylate), poly(p-hydroxystyrene), and poly(p-hydroxystyrene-random-methacrylic acid) polymers, with and without PAG incorporation, in either the as-formed or EUV exposed state. However, TiO<sub>2</sub> is inhibited on poly(cyclohexyl methacrylate).</p>
+        </sec>
+        <sec>
+          <title>Conclusions</title>
+          <p>We demonstrate that as-formed EUV resists can serve as either the growth or nongrowth surface during TiO<sub>2</sub> ASD, thereby enabling resist hardening and tone inversion applications, respectively. These results serve as a basis for further ASD studies on EUV resist materials to improve pattern resolution in next-generation devices.</p>
+        </sec>
+      </abstract>
+      <kwd-group>
+        <title>Keywords:</title>
+        <kwd>extreme ultraviolet lithography</kwd>
+        <kwd>photoresist</kwd>
+        <kwd>area-selective deposition</kwd>
+        <kwd>atomic layer deposition</kwd>
+        <kwd>TiO<sub>2</sub></kwd>
+        <kwd>polymethacrylate</kwd>
+      </kwd-group>
+      <counts>
+        <fig-count count="13" />
+        <table-count count="3" />
+        <ref-count count="30" />
+        <page-count count="14" />
+      </counts>
+      <custom-meta-group>
+        <custom-meta>
+          <meta-name>running-head</meta-name>
+          <meta-value>Nye et al.: Compatibility between polymethacrylate-based extreme ultraviolet resists…</meta-value>
+        </custom-meta>
+      </custom-meta-group>
+    </article-meta>
+  </front>
+  <back>
+    <ack>
+      <title>Acknowledgments</title>
+      <p>The authors would like to thank Nadia Vandenbroeck for her insightful discussions and material processing. The authors also acknowledge a similar work published in the <italic>2022 SPIE Conference Proceedings on Advanced Lithography + Patterning</italic>, titled “Improving polymethacrylate EUV resists with <inline-formula><mml:math display="inline"><mml:mrow><mml:msub><mml:mrow><mml:mi>TiO</mml:mi></mml:mrow><mml:mrow><mml:mn>2</mml:mn></mml:mrow></mml:msub></mml:mrow></mml:math></inline-formula> area-selective deposition” from the same authors as this paper, which served as the basis for this manuscript. The authors have no conflict of interest to declare.</p>
+    </ack>
+    <ref-list>
+      <title>References</title>
+      <ref id="r1">
+        <label>1.</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <string-name>
+              <given-names>L.</given-names>
+              <surname>Li</surname>
+            </string-name>
+            <etal>et al.</etal>
+          </person-group>, “<article-title>Extreme ultraviolet resist materials for sub-7 nm patterning</article-title>,” <source>Chem. Soc. Rev.</source><volume>46</volume>, <fpage>4855</fpage>–<lpage>4866</lpage> (<year>2017</year>).<pub-id pub-id-type="coden">CSRVBR</pub-id><issn>0306-0012</issn><ext-link ext-link-type="doi" specific-use="online" xlink:href="https://doi.org/10.1039/C7CS00080D">https://doi.org/10.1039/C7CS00080D</ext-link></mixed-citation>
+      </ref>
+      <ref id="r2">
+        <label>2.</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <string-name>
+              <given-names>C. D.</given-names>
+              <surname>Higgins</surname>
+            </string-name>
+            <etal>et al.</etal>
+          </person-group>, “<article-title>Resolution, line-edge roughness, sensitivity tradeoff, and quantum yield of high photo acid generator resists for extreme ultraviolet lithography</article-title>,” <source>Jpn. J. Appl. Phys.</source><volume>50</volume>, <fpage>036504</fpage> (<year>2011</year>).<ext-link ext-link-type="doi" specific-use="online" xlink:href="https://doi.org/10.1143/JJAP.50.036504">https://doi.org/10.1143/JJAP.50.036504</ext-link></mixed-citation>
+      </ref>
+      <ref id="r3">
+        <label>3.</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <string-name>
+              <given-names>N.</given-names>
+              <surname>Mojarad</surname>
+            </string-name>, <string-name><given-names>J.</given-names><surname>Gobrecht</surname></string-name> and <string-name><given-names>Y.</given-names><surname>Ekinci</surname></string-name></person-group>, “<article-title>Beyond EUV lithography: a comparative study of efficient photoresists’ performance</article-title>,” <source>Sci. Rep.</source><volume>5</volume>, <fpage>9235</fpage> (<year>2015</year>).<pub-id pub-id-type="coden">SRCEC3</pub-id><issn>2045-2322</issn><ext-link ext-link-type="doi" specific-use="online" xlink:href="https://doi.org/10.1038/srep09235">https://doi.org/10.1038/srep09235</ext-link></mixed-citation>
+      </ref>
+      <ref id="r4">
+        <label>4.</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <string-name>
+              <given-names>T.</given-names>
+              <surname>Fujimori</surname>
+            </string-name>, <string-name><given-names>T.</given-names><surname>Tsuchihashi</surname></string-name> and <string-name><given-names>T.</given-names><surname>Itani</surname></string-name></person-group>, “<article-title>Recent progress of negative-tone imaging process and materials with EUV exposure</article-title>,” <source>Proc. SPIE</source><volume>9425</volume>, <fpage>942505</fpage> (<year>2015</year>).<pub-id pub-id-type="coden">PSISDG</pub-id><issn>0277-786X</issn><ext-link ext-link-type="doi" specific-use="online" xlink:href="https://doi.org/10.1117/12.2085706">https://doi.org/10.1117/12.2085706</ext-link></mixed-citation>
+      </ref>
+      <ref id="r5">
+        <label>5.</label>
+        <mixed-citation publication-type="other">
+          <person-group person-group-type="author">
+            <string-name>
+              <given-names>C.</given-names>
+              <surname>Sixt</surname>
+            </string-name>
+          </person-group>, “<article-title>Surface functionalisation of extreme ultraviolet photoresist material for area-selective deposition</article-title>,” MS Thesis, KU Leuven (<year>2019</year>).</mixed-citation>
+      </ref>
+      <ref id="r6">
+        <label>6.</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <string-name>
+              <given-names>H.</given-names>
+              <surname>Tsubaki</surname>
+            </string-name>
+            <etal>et al.</etal>
+          </person-group>, “<article-title>Negative-tone imaging with EUV exposure toward 13 nm hp</article-title>,” <source>Proc. SPIE</source><volume>9776</volume>, <fpage>977608</fpage> (<year>2016</year>).<pub-id pub-id-type="coden">PSISDG</pub-id><issn>0277-786X</issn><ext-link ext-link-type="doi" specific-use="online" xlink:href="https://doi.org/10.1117/12.2218761">https://doi.org/10.1117/12.2218761</ext-link></mixed-citation>
+      </ref>
+      <ref id="r7">
+        <label>7.</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <string-name>
+              <given-names>G. N.</given-names>
+              <surname>Parsons</surname>
+            </string-name> and <string-name><given-names>R. D.</given-names><surname>Clark</surname></string-name></person-group>, “<article-title>Area-selective deposition: fundamentals, applications, and future outlook</article-title>,” <source>Chem. Mater.</source><volume>32</volume>(<issue>12</issue>), <fpage>4920</fpage>–<lpage>4953</lpage> (<year>2020</year>).<pub-id pub-id-type="coden">CMATEX</pub-id><issn>0897-4756</issn><ext-link ext-link-type="doi" specific-use="online" xlink:href="https://doi.org/10.1021/acs.chemmater.0c00722">https://doi.org/10.1021/acs.chemmater.0c00722</ext-link></mixed-citation>
+      </ref>
+      <ref id="r8">
+        <label>8.</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <string-name>
+              <given-names>S. K.</given-names>
+              <surname>Song</surname>
+            </string-name>, <string-name><given-names>H.</given-names><surname>Saare</surname></string-name> and <string-name><given-names>G. N.</given-names><surname>Parsons</surname></string-name></person-group>, “<article-title>Integrated isothermal atomic layer deposition/atomic layer etching supercycles for area-selective deposition of <inline-formula><mml:math display="inline"><mml:mrow><mml:msub><mml:mrow><mml:mi>TiO</mml:mi></mml:mrow><mml:mrow><mml:mn>2</mml:mn></mml:mrow></mml:msub></mml:mrow></mml:math></inline-formula></article-title>,” <source>Chem. Mater.</source><volume>31</volume>(<issue>13</issue>), <fpage>4793</fpage>–<lpage>4804</lpage> (<year>2019</year>).<pub-id pub-id-type="coden">CMATEX</pub-id><issn>0897-4756</issn><ext-link ext-link-type="doi" specific-use="online" xlink:href="https://doi.org/10.1021/acs.chemmater.9b01143">https://doi.org/10.1021/acs.chemmater.9b01143</ext-link></mixed-citation>
+      </ref>
+      <ref id="r9">
+        <label>9.</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <string-name>
+              <given-names>A.</given-names>
+              <surname>Sinha</surname>
+            </string-name>, <string-name><given-names>D. W.</given-names><surname>Hess</surname></string-name> and <string-name><given-names>C. L.</given-names><surname>Henderson</surname></string-name></person-group>, “<article-title>Area selective atomic layer deposition of titanium dioxide: effect of precursor chemistry</article-title>,” <source>J. Vac. Sci. Technol. B</source><volume>24</volume>(<issue>6</issue>), <fpage>2523</fpage> (<year>2006</year>).<pub-id pub-id-type="coden">JVTBD9</pub-id><issn>1071-1023</issn><ext-link ext-link-type="doi" specific-use="online" xlink:href="https://doi.org/10.1116/1.2359728">https://doi.org/10.1116/1.2359728</ext-link></mixed-citation>
+      </ref>
+      <ref id="r10">
+        <label>10.</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <string-name>
+              <given-names>F.</given-names>
+              <surname>Grillo</surname>
+            </string-name>
+            <etal>et al.</etal>
+          </person-group>, “<article-title>Area-selective deposition of ruthenium by area-dependent surface diffusion</article-title>,” <source>Chem. Mater.</source><volume>32</volume>(<issue>22</issue>), <fpage>9560</fpage>–<lpage>9572</lpage> (<year>2020</year>).<pub-id pub-id-type="coden">CMATEX</pub-id><issn>0897-4756</issn><ext-link ext-link-type="doi" specific-use="online" xlink:href="https://doi.org/10.1021/acs.chemmater.0c02588">https://doi.org/10.1021/acs.chemmater.0c02588</ext-link></mixed-citation>
+      </ref>
+      <ref id="r11">
+        <label>11.</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <string-name>
+              <given-names>R. A.</given-names>
+              <surname>Nye</surname>
+            </string-name>
+            <etal>et al.</etal>
+          </person-group>, “<article-title>In situ analysis of growth rate evolution during molecular layer deposition of ultra-thin polyurea films using aliphatic and aromatic precursors</article-title>,” <source>Dalton Trans.</source><volume>51</volume>(<issue>5</issue>), <fpage>1838</fpage>–<lpage>1849</lpage> (<year>2022</year>).<pub-id pub-id-type="coden">DTARAF</pub-id><issn>1477-9226</issn><ext-link ext-link-type="doi" specific-use="online" xlink:href="https://doi.org/10.1039/D1DT03689K">https://doi.org/10.1039/D1DT03689K</ext-link></mixed-citation>
+      </ref>
+      <ref id="r12">
+        <label>12.</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <string-name>
+              <given-names>R. A.</given-names>
+              <surname>Nye</surname>
+            </string-name>
+            <etal>et al.</etal>
+          </person-group>, “<article-title>Understanding molecular layer deposition growth mechanisms in polyurea via picosecond acoustics analysis</article-title>,” <source>Chem. Mater.</source><volume>32</volume>(<issue>4</issue>), <fpage>1553</fpage>–<lpage>1563</lpage> (<year>2020</year>).<pub-id pub-id-type="coden">CMATEX</pub-id><issn>0897-4756</issn><ext-link ext-link-type="doi" specific-use="online" xlink:href="https://doi.org/10.1021/acs.chemmater.9b04702">https://doi.org/10.1021/acs.chemmater.9b04702</ext-link></mixed-citation>
+      </ref>
+      <ref id="r13">
+        <label>13.</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <string-name>
+              <given-names>J.-S.</given-names>
+              <surname>Kim</surname>
+            </string-name> and <string-name><given-names>G. N.</given-names><surname>Parsons</surname></string-name></person-group>, “<article-title>Nanopatterned area-selective vapor deposition of PEDOT on <inline-formula><mml:math display="inline"><mml:mrow><mml:msub><mml:mrow><mml:mi>SiO</mml:mi></mml:mrow><mml:mrow><mml:mn>2</mml:mn></mml:mrow></mml:msub></mml:mrow></mml:math></inline-formula> vs Si-H: improved selectivity using chemical vapor deposition vs molecular layer deposition</article-title>,” <source>Chem. Mater.</source><volume>33</volume>(<issue>23</issue>), <fpage>9221</fpage>–<lpage>9230</lpage> (<year>2021</year>).<pub-id pub-id-type="coden">CMATEX</pub-id><issn>0897-4756</issn><ext-link ext-link-type="doi" specific-use="online" xlink:href="https://doi.org/10.1021/acs.chemmater.1c02842">https://doi.org/10.1021/acs.chemmater.1c02842</ext-link></mixed-citation>
+      </ref>
+      <ref id="r14">
+        <label>14.</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <string-name>
+              <given-names>R.</given-names>
+              <surname>Clark</surname>
+            </string-name>
+            <etal>et al.</etal>
+          </person-group>, “<article-title>Perspective: new process technologies required for future devices and scaling</article-title>,” <source>APL Mater.</source><volume>6</volume>(<issue>5</issue>), <fpage>058203</fpage> (<year>2018</year>).<ext-link ext-link-type="doi" specific-use="online" xlink:href="https://doi.org/10.1063/1.5026805">https://doi.org/10.1063/1.5026805</ext-link></mixed-citation>
+      </ref>
+      <ref id="r15">
+        <label>15.</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <string-name>
+              <given-names>J.</given-names>
+              <surname>Soethoudt</surname>
+            </string-name>
+            <etal>et al.</etal>
+          </person-group>, “<article-title>Insight into selective surface reactions of dimethylamino-trimethylsilane for area-selective deposition of metal, nitride, and oxide</article-title>,” <source>J. Phys. Chem. C</source><volume>124</volume>(<issue>13</issue>), <fpage>7163</fpage>–<lpage>7173</lpage> (<year>2020</year>).<pub-id pub-id-type="coden">JPCCCK</pub-id><issn>1932-7447</issn><ext-link ext-link-type="doi" specific-use="online" xlink:href="https://doi.org/10.1021/acs.jpcc.9b11270">https://doi.org/10.1021/acs.jpcc.9b11270</ext-link></mixed-citation>
+      </ref>
+      <ref id="r16">
+        <label>16.</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <string-name>
+              <given-names>R.</given-names>
+              <surname>Wojtecki</surname>
+            </string-name>
+            <etal>et al.</etal>
+          </person-group>, “<article-title>Additive lithography–organic monolayer patterning coupled with an area-selective deposition</article-title>,” <source>ACS Appl. Mater. Interfaces</source><volume>13</volume>(<issue>7</issue>), <fpage>9081</fpage>–<lpage>9090</lpage> (<year>2021</year>).<pub-id pub-id-type="coden">AAMICK</pub-id><issn>1944-8244</issn><ext-link ext-link-type="doi" specific-use="online" xlink:href="https://doi.org/10.1021/acsami.0c16817">https://doi.org/10.1021/acsami.0c16817</ext-link></mixed-citation>
+      </ref>
+      <ref id="r17">
+        <label>17.</label>
+        <mixed-citation publication-type="other">
+          <person-group person-group-type="author">
+            <string-name>
+              <given-names>K.</given-names>
+              <surname>Van Dongen</surname>
+            </string-name>, <string-name><given-names>D.</given-names><surname>De Simone</surname></string-name> and <string-name><given-names>A.</given-names><surname>Delabie</surname></string-name></person-group>, “<article-title>Surface passivation using aminosilanes for area-selective atomic layer deposition and extreme ultraviolet lithography</article-title>,” MS Thesis, KU Leuven (<year>2020</year>).</mixed-citation>
+      </ref>
+      <ref id="r18">
+        <label>18.</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <string-name>
+              <given-names>H.</given-names>
+              <surname>Yao</surname>
+            </string-name>
+            <etal>et al.</etal>
+          </person-group>, “<article-title>Spin-on metal oxides and their applications for next generation lithography</article-title>,” <source>J. Photopolym. Sci. Technol.</source><volume>29</volume>(<issue>1</issue>), <fpage>59</fpage>–<lpage>67</lpage> (<year>2016</year>).<pub-id pub-id-type="coden">JSTEEW</pub-id><issn>0914-9244</issn><ext-link ext-link-type="doi" specific-use="online" xlink:href="https://doi.org/10.2494/photopolymer.29.59">https://doi.org/10.2494/photopolymer.29.59</ext-link></mixed-citation>
+      </ref>
+      <ref id="r19">
+        <label>19.</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <string-name>
+              <given-names>R. A.</given-names>
+              <surname>Nye</surname>
+            </string-name>
+            <etal>et al.</etal>
+          </person-group>, “<article-title>Improving polymethacrylate EUV resists with <inline-formula><mml:math display="inline"><mml:mrow><mml:msub><mml:mrow><mml:mi>TiO</mml:mi></mml:mrow><mml:mrow><mml:mn>2</mml:mn></mml:mrow></mml:msub></mml:mrow></mml:math></inline-formula> area-selective deposition</article-title>,” <source>Proc. SPIE</source><volume>12055</volume>, <fpage>120550C</fpage> (<year>2022</year>).<pub-id pub-id-type="coden">PSISDG</pub-id><issn>0277-786X</issn><ext-link ext-link-type="doi" specific-use="online" xlink:href="https://doi.org/10.1117/12.2613815">https://doi.org/10.1117/12.2613815</ext-link></mixed-citation>
+      </ref>
+      <ref id="r20">
+        <label>20.</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <string-name>
+              <given-names>M. H.</given-names>
+              <surname>Park</surname>
+            </string-name>
+            <etal>et al.</etal>
+          </person-group>, “<article-title>Selective atomic layer deposition of titanium oxide on patterned self-assembled monolayers formed by microcontact printing</article-title>,” <source>Langmuir</source><volume>20</volume>(<issue>6</issue>), <fpage>2257</fpage>–<lpage>2260</lpage> (<year>2004</year>).<pub-id pub-id-type="coden">LANGD5</pub-id><issn>0743-7463</issn><ext-link ext-link-type="doi" specific-use="online" xlink:href="https://doi.org/10.1021/la035760c">https://doi.org/10.1021/la035760c</ext-link></mixed-citation>
+      </ref>
+      <ref id="r21">
+        <label>21.</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <string-name>
+              <given-names>L.</given-names>
+              <surname>Lecordier</surname>
+            </string-name>, <string-name><given-names>S.</given-names><surname>Herregods</surname></string-name> and <string-name><given-names>S.</given-names><surname>Armini</surname></string-name></person-group>, “<article-title>Vapor-deposited octadecanethiol masking layer on copper to enable area selective <inline-formula><mml:math display="inline"><mml:mrow><mml:msub><mml:mrow><mml:mi>Hf</mml:mi></mml:mrow><mml:mrow><mml:mn>3</mml:mn></mml:mrow></mml:msub><mml:msub><mml:mrow><mml:mi mathvariant="normal">N</mml:mi></mml:mrow><mml:mrow><mml:mn>4</mml:mn></mml:mrow></mml:msub></mml:mrow></mml:math></inline-formula> atomic layer deposition on dielectrics studied by in situ spectroscopic ellipsometry</article-title>,” <source>J. Vac. Sci. Technol. A</source><volume>36</volume>(<issue>3</issue>), <fpage>031605</fpage> (<year>2018</year>).<pub-id pub-id-type="coden">JVTAD6</pub-id><issn>0734-2101</issn><ext-link ext-link-type="doi" specific-use="online" xlink:href="https://doi.org/10.1116/1.5025688">https://doi.org/10.1116/1.5025688</ext-link></mixed-citation>
+      </ref>
+      <ref id="r22">
+        <label>22.</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <string-name>
+              <given-names>E.</given-names>
+              <surname>Stevens</surname>
+            </string-name>
+            <etal>et al.</etal>
+          </person-group>, “<article-title>Area-selective atomic layer deposition of TiN, <inline-formula><mml:math display="inline"><mml:mrow><mml:msub><mml:mrow><mml:mi>TiO</mml:mi></mml:mrow><mml:mrow><mml:mn>2</mml:mn></mml:mrow></mml:msub></mml:mrow></mml:math></inline-formula>, and <inline-formula><mml:math display="inline"><mml:mrow><mml:msub><mml:mrow><mml:mi>HfO</mml:mi></mml:mrow><mml:mrow><mml:mn>2</mml:mn></mml:mrow></mml:msub></mml:mrow></mml:math></inline-formula> on silicon nitride with inhibition on amorphous carbon</article-title>,” <source>Chem. Mater.</source><volume>30</volume>, <fpage>3223</fpage>–<lpage>3232</lpage> (<year>2018</year>).<pub-id pub-id-type="coden">CMATEX</pub-id><issn>0897-4756</issn><ext-link ext-link-type="doi" specific-use="online" xlink:href="https://doi.org/10.1021/acs.chemmater.8b00017">https://doi.org/10.1021/acs.chemmater.8b00017</ext-link></mixed-citation>
+      </ref>
+      <ref id="r23">
+        <label>23.</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <string-name>
+              <given-names>R. A.</given-names>
+              <surname>Nye</surname>
+            </string-name>
+            <etal>et al.</etal>
+          </person-group>, “<article-title>Mechanisms for undesired nucleation on H-terminated Si and dimethylamino-trimethylsilane passivated <inline-formula><mml:math display="inline"><mml:mrow><mml:msub><mml:mrow><mml:mi>SiO</mml:mi></mml:mrow><mml:mrow><mml:mn>2</mml:mn></mml:mrow></mml:msub></mml:mrow></mml:math></inline-formula> during <inline-formula><mml:math display="inline"><mml:mrow><mml:msub><mml:mrow><mml:mi>TiO</mml:mi></mml:mrow><mml:mrow><mml:mn>2</mml:mn></mml:mrow></mml:msub></mml:mrow></mml:math></inline-formula> area-selective atomic layer deposition</article-title>,” <source>Appl. Phys. Lett.</source><volume>121</volume>(<issue>8</issue>), <fpage>082102</fpage> (<year>2022</year>).<pub-id pub-id-type="coden">APPLAB</pub-id><issn>0003-6951</issn><ext-link ext-link-type="doi" specific-use="online" xlink:href="https://doi.org/10.1063/5.0106132">https://doi.org/10.1063/5.0106132</ext-link></mixed-citation>
+      </ref>
+      <ref id="r24">
+        <label>24.</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <string-name>
+              <given-names>A.</given-names>
+              <surname>Sinha</surname>
+            </string-name>, <string-name><given-names>D. W.</given-names><surname>Hess</surname></string-name> and <string-name><given-names>C. L.</given-names><surname>Henderson</surname></string-name></person-group>, “<article-title>A top surface imaging method using area selective ALD on chemically amplified polymer photoresist films</article-title>,” <source>Electrochem. Solid-State Lett.</source><volume>9</volume>(<issue>11</issue>), <fpage>G330</fpage>–<lpage>G333</lpage> (<year>2006</year>).<pub-id pub-id-type="coden">ESLEF6</pub-id><issn>1099-0062</issn><ext-link ext-link-type="doi" specific-use="online" xlink:href="https://doi.org/10.1149/1.2335939">https://doi.org/10.1149/1.2335939</ext-link></mixed-citation>
+      </ref>
+      <ref id="r25">
+        <label>25.</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <string-name>
+              <given-names>H.</given-names>
+              <surname>Saare</surname>
+            </string-name>
+            <etal>et al.</etal>
+          </person-group>, “<article-title>Effect of reactant dosing on selectivity during area-selective deposition of <inline-formula><mml:math display="inline"><mml:mrow><mml:msub><mml:mrow><mml:mi>TiO</mml:mi></mml:mrow><mml:mrow><mml:mn>2</mml:mn></mml:mrow></mml:msub></mml:mrow></mml:math></inline-formula> via integrated atomic layer deposition and atomic layer etching</article-title>,” <source>J. Appl. Phys.</source><volume>128</volume>(<issue>10</issue>), <fpage>105302</fpage> (<year>2020</year>).<pub-id pub-id-type="coden">JAPIAU</pub-id><issn>0021-8979</issn><ext-link ext-link-type="doi" specific-use="online" xlink:href="https://doi.org/10.1063/5.0013552">https://doi.org/10.1063/5.0013552</ext-link></mixed-citation>
+      </ref>
+      <ref id="r26">
+        <label>26.</label>
+        <mixed-citation publication-type="book">
+          <person-group person-group-type="author">
+            <string-name>
+              <given-names>G. N.</given-names>
+              <surname>Parsons</surname>
+            </string-name>
+          </person-group>, “<article-title>Atomic layer deposition on soft materials</article-title>,” in <source>Atomic Layer Deposition of Nanostructured Materials</source>, <person-group person-group-type="editor">, <string-name><given-names>N.</given-names><surname>Pinna</surname></string-name> and <string-name><given-names>M.</given-names><surname>Knez</surname></string-name></person-group>, Eds., pp. <fpage>271</fpage>–<lpage>300</lpage>, <publisher-name>John Wiley &amp; Sons, Ltd.</publisher-name> (<year>2012</year>).</mixed-citation>
+      </ref>
+      <ref id="r27">
+        <label>27.</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <string-name>
+              <given-names>G. N.</given-names>
+              <surname>Parsons</surname>
+            </string-name>
+            <etal>et al.</etal>
+          </person-group>, “<article-title>Mechanisms and reactions during atomic layer deposition on polymers</article-title>,” <source>Coord. Chem. Rev.</source><volume>257</volume>, <fpage>3323</fpage>–<lpage>3331</lpage> (<year>2013</year>).<pub-id pub-id-type="coden">CCHRAM</pub-id><issn>0010-8545</issn><ext-link ext-link-type="doi" specific-use="online" xlink:href="https://doi.org/10.1016/j.ccr.2013.07.001">https://doi.org/10.1016/j.ccr.2013.07.001</ext-link></mixed-citation>
+      </ref>
+      <ref id="r28">
+        <label>28.</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <string-name>
+              <given-names>A. H.</given-names>
+              <surname>Brozena</surname>
+            </string-name>, <string-name><given-names>C. J.</given-names><surname>Oldham</surname></string-name> and <string-name><given-names>G. N.</given-names><surname>Parsons</surname></string-name></person-group>, “<article-title>Atomic layer deposition on polymer fibers and fabrics for multifunctional and electronic textiles</article-title>,” <source>J. Vac. Sci. Technol. A</source><volume>34</volume>(<issue>1</issue>), <fpage>010801</fpage> (<year>2016</year>).<pub-id pub-id-type="coden">JVTAD6</pub-id><issn>0734-2101</issn><ext-link ext-link-type="doi" specific-use="online" xlink:href="https://doi.org/10.1116/1.4938104">https://doi.org/10.1116/1.4938104</ext-link></mixed-citation>
+      </ref>
+      <ref id="r29">
+        <label>29.</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <string-name>
+              <given-names>C. A.</given-names>
+              <surname>Wilson</surname>
+            </string-name>, <string-name><given-names>R. K.</given-names><surname>Grubbs</surname></string-name> and <string-name><given-names>S. M.</given-names><surname>George</surname></string-name></person-group>, “<article-title>Nucleation and growth during <inline-formula><mml:math display="inline"><mml:mrow><mml:msub><mml:mrow><mml:mi>Al</mml:mi></mml:mrow><mml:mrow><mml:mn>2</mml:mn></mml:mrow></mml:msub><mml:msub><mml:mrow><mml:mi mathvariant="normal">O</mml:mi></mml:mrow><mml:mrow><mml:mn>3</mml:mn></mml:mrow></mml:msub></mml:mrow></mml:math></inline-formula> atomic layer deposition on polymers</article-title>,” <source>Chem. Mater.</source><volume>17</volume>, <fpage>5625</fpage>–<lpage>5634</lpage> (<year>2005</year>).<pub-id pub-id-type="coden">CMATEX</pub-id><issn>0897-4756</issn><ext-link ext-link-type="doi" specific-use="online" xlink:href="https://doi.org/10.1021/cm050704d">https://doi.org/10.1021/cm050704d</ext-link></mixed-citation>
+      </ref>
+      <ref id="r30">
+        <label>30.</label>
+        <mixed-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <string-name>
+              <given-names>A.</given-names>
+              <surname>Sinha</surname>
+            </string-name>, <string-name><given-names>D. W.</given-names><surname>Hess</surname></string-name> and <string-name><given-names>C. L.</given-names><surname>Henderson</surname></string-name></person-group>, “<article-title>Transport behavior of atomic layer deposition precursors through polymer masking layers: influence on area selective atomic layer deposition</article-title>,” <source>J. Vac. Sci. Technol. B: Microelectron. Nanometer Struct.</source><volume>25</volume>(<issue>5</issue>), <fpage>1721</fpage> (<year>2007</year>).<ext-link ext-link-type="doi" specific-use="online" xlink:href="https://doi.org/10.1116/1.2782546">https://doi.org/10.1116/1.2782546</ext-link></mixed-citation>
+      </ref>
+    </ref-list>
+    <bio id="b1">
+      <p>
+        <bold>Rachel A. Nye</bold> is a PhD candidate at North Carolina State University. She received her BS degree in chemistry and Spanish from Washington &amp; Jefferson College in 2017, and her MS and PhD degrees in chemical engineering from North Carolina State University in 2019 and 2022, respectively. She is the author of three journal papers and two conference proceedings. Her current research interests include thin film deposition and characterization, area-selective deposition, and organic thin films.</p>
+    </bio>
+    <bio id="b2">
+      <p>
+        <bold>Kaat Van Dongen</bold> received her bachelor’s and master’s degrees in chemistry from KU Leuven in 2018 and 2020, respectively. She is a PhD student at KU Leuven and Imec. Her main research fields are area-selective deposition specifically through surface de-activation and thin-film deposition.</p>
+    </bio>
+    <bio id="b3">
+      <p>
+        <bold>Gregory N. Parsons</bold> explores atomic-scale synthesis and processing of advanced electronic and thin-film materials. He joined the faculty of the Chemical and Biomolecular Engineering Department at North Carolina State University in 1992, and since then, he has supported, advised, and graduated more than 40 PhD students, including leaders in academia, national laboratories, and industrial research and practice.</p>
+    </bio>
+    <bio id="b4">
+      <p>
+        <bold>Annelies Delabie</bold> is a professor in the Faculty of Science at the University of Leuven (KU Leuven) in Belgium and a principal member of technical staff at imec, research institute for nano-electronics and digital technologies in Belgium. She received her MS degree in chemistry and PhD in science from the University of Leuven in 1997 and 2001, respectively. She is the author of more than 200 scientific publications and 10 patents. Her current research interests include atomic layer deposition, chemical vapor deposition, area-selective deposition, and EUV lithography.</p>
+    </bio>
+    <bio content-type="general">
+      <p>Biographies of the other authors are not available.</p>
+    </bio>
+  </back>
+</article>

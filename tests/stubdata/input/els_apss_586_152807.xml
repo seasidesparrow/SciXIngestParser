@@ -1,0 +1,2435 @@
+<?xml version="1.0"?>
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema" xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema" xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dct="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/" xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/" xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/" xmlns:cja="http://www.elsevier.com/xml/cja/schema" xmlns:ja="http://www.elsevier.com/xml/ja/schema" xmlns:bk="http://www.elsevier.com/xml/bk/schema" xmlns:ce="http://www.elsevier.com/xml/common/schema" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:cals="http://www.elsevier.com/xml/common/cals/schema" xmlns:tb="http://www.elsevier.com/xml/common/table/schema" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <rdf:RDF>
+    <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.apsusc.2022.152807">
+      <dct:format>application/xml</dct:format>
+      <dct:title>Laser textured titanium surface characterization</dct:title>
+      <dct:creator>Laura Convert</dct:creator>
+      <dct:creator>Eric Bourillot</dct:creator>
+      <dct:creator>Manuel Fran&#xE7;ois</dct:creator>
+      <dct:creator>Nicolas Pocholle</dct:creator>
+      <dct:creator>Florence Baras</dct:creator>
+      <dct:creator>Olivier Politano</dct:creator>
+      <dct:creator>Sophie Costil</dct:creator>
+      <dct:subject>
+        <rdf:Bag>
+          <rdf:li>Pulsed nanosecond laser</rdf:li>
+          <rdf:li>Topography</rdf:li>
+          <rdf:li>Residual stress</rdf:li>
+          <rdf:li>XRD</rdf:li>
+          <rdf:li>Scanning microwave microscopy SMM</rdf:li>
+        </rdf:Bag>
+      </dct:subject>
+      <dct:description>Applied Surface Science 586 (2022). doi:10.1016/j.apsusc.2022.152807</dct:description>
+      <prism:aggregationType>journal</prism:aggregationType>
+      <prism:publicationName>Applied Surface Science</prism:publicationName>
+      <prism:copyright>&#xA9; 2022 Elsevier B.V. All rights reserved.</prism:copyright>
+      <dct:publisher>Elsevier B.V.</dct:publisher>
+      <prism:issn>0169-4332</prism:issn>
+      <prism:volume>586</prism:volume>
+      <prism:coverDisplayDate>1 June 2022</prism:coverDisplayDate>
+      <prism:coverDate>2022-06-01</prism:coverDate>
+      <prism:doi>10.1016/j.apsusc.2022.152807</prism:doi>
+      <prism:url>http://dx.doi.org/10.1016/j.apsusc.2022.152807</prism:url>
+      <dct:identifier>doi:10.1016/j.apsusc.2022.152807</dct:identifier>
+      <bam:articleNumber>152807</bam:articleNumber>
+    </rdf:Description>
+  </rdf:RDF>
+  <dp:document-properties>
+    <dp:aggregation-type>Journals</dp:aggregation-type>
+    <dp:version-number>S300.2</dp:version-number>
+  </dp:document-properties>
+  <ja:article docsubtype="fla" xml:lang="en" version="5.6">
+    <ja:item-info>
+      <ja:jid>APSUSC</ja:jid>
+      <ja:aid>152807</ja:aid>
+      <ce:article-number>152807</ce:article-number>
+      <ce:pii>S0169-4332(22)00385-3</ce:pii>
+      <ce:doi>10.1016/j.apsusc.2022.152807</ce:doi>
+      <ce:copyright type="full-transfer" year="2022">Elsevier B.V.</ce:copyright>
+    </ja:item-info>
+    <ce:floats>
+      <ce:figure id="f0005">
+        <ce:label>Fig. 1</ce:label>
+        <ce:caption id="cn0005">
+          <ce:simple-para id="sp0020" view="all">Optical microscopy images of the treated surface (Ti ASTM Grade 2) &#x2013; a) Texturing pattern obtained with a fluence of 11.6&#xA0;J.cm<ce:sup loc="post">&#x2212;2</ce:sup>, 20 pulses per dimple and a 200&#xA0;&#xB5;m pitch; b) Zoom on one dimple in <ce:cross-ref refid="f0005" id="c0005">Fig. 1</ce:cross-ref>a (the depth of the dimple is 29&#xA0;&#xB5;m and its inside diameter is 76&#xA0;&#xB5;m); c) Dimple characteristics.</ce:simple-para>
+        </ce:caption>
+        <ce:link locator="gr1" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S0169433222003853/gr1" id="lk00005"/>
+      </ce:figure>
+      <ce:figure id="f0010">
+        <ce:label>Fig. 2</ce:label>
+        <ce:caption id="cn0010">
+          <ce:simple-para id="sp0025" view="all">Schematic diagrams of a scanning microwave microscope (SMM) &#x2013; a) Architecture; b) Functional diagram.</ce:simple-para>
+        </ce:caption>
+        <ce:link locator="gr2" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S0169433222003853/gr2" id="lk00010"/>
+      </ce:figure>
+      <ce:figure id="f0015">
+        <ce:label>Fig. 3</ce:label>
+        <ce:caption id="cn0015">
+          <ce:simple-para id="sp0030" view="all">Scanning microwave microscope (SMM) data processing &#x2013; a) An example of frequency spectrum of the real part of reflection coefficient S<ce:inf loc="post">11</ce:inf>; b) Definition of the magnitude difference between the sample and the reference real parts of reflection coefficient S<ce:inf loc="post">11</ce:inf> at a resonance frequency.</ce:simple-para>
+        </ce:caption>
+        <ce:link locator="gr3" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S0169433222003853/gr3" id="lk00015"/>
+      </ce:figure>
+      <ce:figure id="f0020">
+        <ce:label>Fig. 4</ce:label>
+        <ce:caption id="cn0020">
+          <ce:simple-para id="sp0035" view="all">SE SEM images of titanium laser texturing grid areas obtained with a fluence of 11.6&#xA0;J.cm<ce:sup loc="post">&#x2212;2</ce:sup> &#x2013; a) Dimples with 20 laser pulses and a pitch of 200&#xA0;&#xB5;m; b) Dimples with 20 laser pulses and a pitch of 50&#xA0;&#xB5;m; c) Dimples with 40 laser pulses and a pitch of 200&#xA0;&#xB5;m; d) Dimples with 40 laser pulses and a pitch of 50&#xA0;&#xB5;m.</ce:simple-para>
+        </ce:caption>
+        <ce:link locator="gr4" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S0169433222003853/gr4" id="lk00020"/>
+      </ce:figure>
+      <ce:figure id="f0025">
+        <ce:label>Fig. 5</ce:label>
+        <ce:caption id="cn0025">
+          <ce:simple-para id="sp0040" view="all">Optical microscopy images of titanium laser dimples obtained with a laser fluence of 11.6&#xA0;J.cm<ce:sup loc="post">&#x2212;2</ce:sup> and different number of pulses (5, 10, 20 and 40 pulses). Each dimple belongs to a dimple grid of 200&#xA0;&#xB5;m pitch.</ce:simple-para>
+        </ce:caption>
+        <ce:link locator="gr5" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S0169433222003853/gr5" id="lk00025"/>
+      </ce:figure>
+      <ce:figure id="f0030">
+        <ce:label>Fig. 6</ce:label>
+        <ce:caption id="cn0030">
+          <ce:simple-para id="sp0045" view="all">SE SEM cross-sectional image of a titanium laser dimple obtained with a laser fluence of 11.6&#xA0;J.cm<ce:sup loc="post">&#x2212;2</ce:sup> and 20 laser pulses. The dimple belongs to a dimple grid of 200&#xA0;&#xB5;m pitch. The blue dotted line sets the zone with modified and finer microstructure. (For interpretation of the references to color in this figure legend, the reader is referred to the web version of this article.)</ce:simple-para>
+        </ce:caption>
+        <ce:link locator="gr6" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S0169433222003853/gr6" id="lk00030"/>
+      </ce:figure>
+      <ce:figure id="f0035">
+        <ce:label>Fig. 7</ce:label>
+        <ce:caption id="cn0035">
+          <ce:simple-para id="sp0050" view="all">Profilometry images of isolated titanium laser dimples obtained with 3 different laser fluences (8.2&#xA0;J.cm<ce:sup loc="post">&#x2212;2</ce:sup>, 11.6&#xA0;J.cm<ce:sup loc="post">&#x2212;2</ce:sup>, 29.1&#xA0;J.cm<ce:sup loc="post">&#x2212;2</ce:sup>) and number of pulses (10, 20, 40). The color scale indicates the depth of the dimple. The size of the observation area is 300&#xA0;&#xB5;m&#xA0;&#xD7;&#xA0;300&#xA0;&#xB5;m. The dimensions of the dimples (inside diameter &#xD8; and dimple depth d) are given in &#xB5;m.</ce:simple-para>
+        </ce:caption>
+        <ce:link locator="gr7" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S0169433222003853/gr7" id="lk00035"/>
+      </ce:figure>
+      <ce:figure id="f0040">
+        <ce:label>Fig. 8</ce:label>
+        <ce:caption id="cn0040">
+          <ce:simple-para id="sp0055" view="all">Depth evolution of titanium dimples belonging to 200&#xA0;&#xB5;m pitch dimple grids generated by a pulsed nanosecond laser &#x2013; a) Evolution of the dimple depth as a function of fluence for different numbers of pulses. The dots represent the measured values and the lines represent the fit with Eq. <ce:cross-ref refid="e0020" id="c0010">(4)</ce:cross-ref>; b) Evolution of the threshold fluence as a function of number of pulses (dots: experimental data, line: fit with Eq. <ce:cross-ref refid="e0025" id="c0015">(5)</ce:cross-ref><ce:italic>F</ce:italic><ce:inf loc="post">0</ce:inf>(N)&#xA0;=&#xA0;1.76&#xA0;+&#xA0;273.94&#xA0;N<ce:sup loc="post">&#x2212;2.31</ce:sup>); c) and d) Evolution of the parameters <ce:italic>a</ce:italic> (<ce:italic>a</ce:italic><ce:inf loc="post">1</ce:inf>(N)&#xA0;=&#xA0;0.55&#xA0;N&#xA0;&#x2212;&#xA0;0.86 and <ce:italic>a</ce:italic><ce:inf loc="post">2</ce:inf>(N)&#xA0;=&#xA0;0.91&#xA0;N&#xA0;&#x2212;&#xA0;4.21) and <ce:italic>m</ce:italic> (<ce:italic>m</ce:italic><ce:inf loc="post">1</ce:inf>(N)&#xA0;=&#xA0;0.0101&#xA0;N&#xA0;+&#xA0;0.2533 and <ce:italic>m</ce:italic><ce:inf loc="post">2</ce:inf>(N)&#xA0;=&#xA0;&#xA0;&#x2212;&#xA0;0.0001&#xA0;N&#xA0;+&#xA0;0.3083) of Eq. <ce:cross-ref refid="e0020" id="c0020">(4)</ce:cross-ref> with the cumulative effect of the laser pulses. A regime change can be observed around 20 pulses.</ce:simple-para>
+        </ce:caption>
+        <ce:link locator="gr8" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S0169433222003853/gr8" id="lk00040"/>
+      </ce:figure>
+      <ce:figure id="f0045">
+        <ce:label>Fig. 9</ce:label>
+        <ce:caption id="cn0045">
+          <ce:simple-para id="sp0060" view="all">Evolution of the dimple diameter as a function of laser fluence for different numbers of laser pulses. The lines are exponential laws as D<ce:inf loc="post">N</ce:inf>(<ce:italic>F</ce:italic>)&#xA0;=&#xA0;k<ce:inf loc="post">1</ce:inf>&#xA0;&#x2212;&#xA0;k<ce:inf loc="post">2</ce:inf> e<ce:sup loc="post">q<ce:italic>F</ce:italic></ce:sup> (k<ce:inf loc="post">1</ce:inf>, k<ce:inf loc="post">2</ce:inf> and q are constants). Titanium dimples belong to 200&#xA0;&#xB5;m pitch dimple grids generated by a pulsed nanosecond laser.</ce:simple-para>
+        </ce:caption>
+        <ce:link locator="gr9" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S0169433222003853/gr9" id="lk00045"/>
+      </ce:figure>
+      <ce:figure id="f0050">
+        <ce:label>Fig. 10</ce:label>
+        <ce:caption id="cn0050">
+          <ce:simple-para id="sp0065" view="all">Evolution of dimple volume (ablated volume) &#x2013; a) Evolution of the dimple volume as a function of fluence and number of pulses. The blue surface is the least square fitting of Eq. <ce:cross-ref refid="e0030" id="c0025">(6)</ce:cross-ref> to the experimental points (black dots). The black lines represent the fitted thresholds <ce:italic>F</ce:italic><ce:inf loc="post">1</ce:inf> and N<ce:inf loc="post">1</ce:inf>; b) Evolution of the ablated volume versus total deposited energy density N<ce:italic>F</ce:italic>. The slope of the blue line is equal to the coefficient <ce:italic>b</ce:italic> of Eq. <ce:cross-ref refid="e0030" id="c0030">(6)</ce:cross-ref> fitted on the triplets <mml:math altimg="si1.svg"><mml:mrow><mml:mfenced><mml:mrow><mml:mi mathvariant="normal">N</mml:mi><mml:mo>,</mml:mo><mml:mi>F</mml:mi><mml:mo>,</mml:mo><mml:mi>V</mml:mi></mml:mrow></mml:mfenced></mml:mrow></mml:math>. (For interpretation of the references to color in this figure legend, the reader is referred to the web version of this article.)</ce:simple-para>
+        </ce:caption>
+        <ce:link locator="gr10" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S0169433222003853/gr10" id="lk00050"/>
+      </ce:figure>
+      <ce:figure id="f0055">
+        <ce:label>Fig. 11</ce:label>
+        <ce:caption id="cn0055">
+          <ce:simple-para id="sp0070" view="all">Chemical composition of areas at the bottom and at the bead of laser textured dimples with a laser fluence of 11.6&#xA0;J.cm<ce:sup loc="post">&#x2212;2</ce:sup> or 29.1&#xA0;J.cm<ce:sup loc="post">&#x2212;2</ce:sup>, and 10 or 15 laser pulses (composition expressed in atomic percentage).</ce:simple-para>
+        </ce:caption>
+        <ce:link locator="gr11" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S0169433222003853/gr11" id="lk00055"/>
+      </ce:figure>
+      <ce:figure id="f0060">
+        <ce:label>Fig. 12</ce:label>
+        <ce:caption id="cn0060">
+          <ce:simple-para id="sp0075" view="all">Residual stresses of textured titanium surfaces measured via XRD using CuK&#x3B1; radiation &#x2013; a) Effect of laser fluence, number of laser pulses and dimple pitch on residual stresses; b) Evolution of residual stresses as a function of number of laser pulses, for dimples produced with a laser fluence of 11.6&#xA0;J.cm<ce:sup loc="post">&#x2212;2</ce:sup> and a dimple pitch of 200&#xA0;&#xB5;m.</ce:simple-para>
+        </ce:caption>
+        <ce:link locator="gr12" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S0169433222003853/gr12" id="lk00060"/>
+      </ce:figure>
+      <ce:figure id="f0065">
+        <ce:label>Fig. 13</ce:label>
+        <ce:caption id="cn0065">
+          <ce:simple-para id="sp0080" view="all">S<ce:inf loc="post">11</ce:inf> magnitude evolution through an isolated textured titanium dimple with a laser fluence of 11.6&#xA0;J.cm<ce:sup loc="post">&#x2212;2</ce:sup>, along the&#xA0;X&#xA0;axis for five penetration depths. SMM measurements were conducted along the&#xA0;X&#xA0;axis passing through an isolated textured dimple &#x2013; a) The laser fluence is 11.6&#xA0;J.cm<ce:sup loc="post">&#x2212;2</ce:sup> and the pulse number is 20; b) The laser fluence is 11.6&#xA0;J.cm<ce:sup loc="post">&#x2212;2</ce:sup> and the pulse number is 40.</ce:simple-para>
+        </ce:caption>
+        <ce:link locator="gr13" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S0169433222003853/gr13" id="lk00065"/>
+      </ce:figure>
+      <ce:figure id="f0070">
+        <ce:label>Fig. 14</ce:label>
+        <ce:caption id="cn0070">
+          <ce:simple-para id="sp0085" view="all">S<ce:inf loc="post">11</ce:inf> magnitude evolution through successive textured titanium dimples with a laser fluence of 11.6&#xA0;J.cm<ce:sup loc="post">&#x2212;2</ce:sup>, along the&#xA0;X&#xA0;axis for five penetration depths. SMM measurements were performed through four successive grid dimples along the&#xA0;X&#xA0;axis, as shown in the SEM images &#x2013; a) The laser fluence is 11.6&#xA0;J.cm<ce:sup loc="post">&#x2212;2</ce:sup> and the pulse number is 20; b) The laser fluence is 11.6&#xA0;J.cm<ce:sup loc="post">&#x2212;2</ce:sup> and the pulse number is 40.</ce:simple-para>
+        </ce:caption>
+        <ce:link locator="gr14" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S0169433222003853/gr14" id="lk00070"/>
+      </ce:figure>
+      <ce:figure id="f0075">
+        <ce:label>Fig. 15</ce:label>
+        <ce:caption id="cn0075">
+          <ce:simple-para id="sp0090" view="all">a) Identification of adjacent dimples for dimple #1 (blue hatched dimples) and for dimple #4 (red gridded dimples) from a dimple grid with a 200&#xA0;&#xB5;m pitch; b) Evolution of the S<ce:inf loc="post">11</ce:inf> magnitude difference in the bottom depth of the four successive dimples from dimple grids with a 200&#xA0;&#xB5;m pitch, dimples produced with 20 laser pulses; c) Dimples produced with 40 laser pulses. (For interpretation of the references to color in this figure legend, the reader is referred to the web version of this article.)</ce:simple-para>
+        </ce:caption>
+        <ce:link locator="gr15" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S0169433222003853/gr15" id="lk00075"/>
+      </ce:figure>
+      <ce:figure id="f0080">
+        <ce:label>Fig. 16</ce:label>
+        <ce:caption id="cn0080">
+          <ce:simple-para id="sp0095" view="all">Evolution of the S<ce:inf loc="post">11</ce:inf> magnitude difference below the bottom of the dimples #1, produced by a laser fluence of 11.6&#xA0;J.cm<ce:sup loc="post">&#x2212;2</ce:sup> with 20 or 40 laser pulses.</ce:simple-para>
+        </ce:caption>
+        <ce:link locator="gr16" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S0169433222003853/gr16" id="lk00080"/>
+      </ce:figure>
+      <ce:figure id="f0085">
+        <ce:label>Fig. 17</ce:label>
+        <ce:caption id="cn0085">
+          <ce:simple-para id="sp0100" view="all">Evolution of the S<ce:inf loc="post">11</ce:inf> magnitude difference below the bottom of the isolated dimples and dimples #1, produced by a laser fluence of 11.6&#xA0;J.cm<ce:sup loc="post">&#x2212;2</ce:sup> with 20 or 40 laser pulses.</ce:simple-para>
+        </ce:caption>
+        <ce:link locator="gr17" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S0169433222003853/gr17" id="lk00085"/>
+      </ce:figure>
+      <ce:figure id="f0090">
+        <ce:label>Fig. 18</ce:label>
+        <ce:caption id="cn0090">
+          <ce:simple-para id="sp0105" view="all">Evolution of the average magnitude between 3&#xA0;&#xB5;m and 3.9&#xA0;&#xB5;m depth for successive dimples produced with a laser fluence of 11.6&#xA0;J.cm<ce:sup loc="post">&#x2212;2</ce:sup> and 20 or 40 laser pulses.</ce:simple-para>
+        </ce:caption>
+        <ce:link locator="gr18" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S0169433222003853/gr18" id="lk00090"/>
+      </ce:figure>
+      <ce:figure id="f0095">
+        <ce:label>Fig. 19</ce:label>
+        <ce:caption id="cn0095">
+          <ce:simple-para id="sp0110" view="all">Definition of the area of a dimple and the area between dimples. The measured area is averaged to a square of length <ce:italic>l</ce:italic>, where <ce:italic>l</ce:italic> is the dimple pitch. The radius <ce:italic>r</ce:italic> is the average outer diameter of the dimples (cavity and bead).</ce:simple-para>
+        </ce:caption>
+        <ce:link locator="gr19" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S0169433222003853/gr19" id="lk00095"/>
+      </ce:figure>
+    </ce:floats>
+    <ja:head>
+      <ce:dochead id="dh005">
+        <ce:textfn>Full Length Article</ce:textfn>
+      </ce:dochead>
+      <ce:title id="tm005">Laser textured titanium surface characterization</ce:title>
+      <ce:author-group id="ag005">
+        <ce:author id="au005" author-id="S0169433222003853-eac95fc97f22cb05fdf3fae2c9b16bd0">
+          <ce:given-name>Laura</ce:given-name>
+          <ce:surname>Convert</ce:surname>
+          <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+          <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+          <ce:contributor-role role="http://credit.niso.org/contributor-roles/formal-analysis">Formal analysis</ce:contributor-role>
+          <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-original-draft">Writing &#x2013; original draft</ce:contributor-role>
+          <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing &#x2013; review &amp; editing</ce:contributor-role>
+          <ce:cross-ref refid="af005" id="c0035">
+            <ce:sup loc="post">a</ce:sup>
+          </ce:cross-ref>
+          <ce:cross-ref refid="cor1" id="c0040">
+            <ce:sup loc="post">&#x204E;</ce:sup>
+          </ce:cross-ref>
+          <ce:e-address type="email" xlink:href="mailto:laura.convert@u-bourgogne.fr" id="em005">laura.convert@u-bourgogne.fr</ce:e-address>
+        </ce:author>
+        <ce:author id="au010" author-id="S0169433222003853-a34e04c598c86a2cc702d0340e3311fe">
+          <ce:given-name>Eric</ce:given-name>
+          <ce:surname>Bourillot</ce:surname>
+          <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+          <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing &#x2013; review &amp; editing</ce:contributor-role>
+          <ce:contributor-role role="http://credit.niso.org/contributor-roles/supervision">Supervision</ce:contributor-role>
+          <ce:contributor-role role="http://credit.niso.org/contributor-roles/funding-acquisition">Funding acquisition</ce:contributor-role>
+          <ce:cross-ref refid="af005" id="c0045">
+            <ce:sup loc="post">a</ce:sup>
+          </ce:cross-ref>
+        </ce:author>
+        <ce:author id="au015" author-id="S0169433222003853-67ec0f6d3301d9fa57d3c70a3f1aa2a1">
+          <ce:given-name>Manuel</ce:given-name>
+          <ce:surname>Fran&#xE7;ois</ce:surname>
+          <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+          <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+          <ce:contributor-role role="http://credit.niso.org/contributor-roles/formal-analysis">Formal analysis</ce:contributor-role>
+          <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing &#x2013; review &amp; editing</ce:contributor-role>
+          <ce:contributor-role role="http://credit.niso.org/contributor-roles/supervision">Supervision</ce:contributor-role>
+          <ce:contributor-role role="http://credit.niso.org/contributor-roles/funding-acquisition">Funding acquisition</ce:contributor-role>
+          <ce:cross-ref refid="af010" id="c0050">
+            <ce:sup loc="post">b</ce:sup>
+          </ce:cross-ref>
+        </ce:author>
+        <ce:author id="au020" author-id="S0169433222003853-b2c0267e02432b5026ea5c1a4c8167ef">
+          <ce:given-name>Nicolas</ce:given-name>
+          <ce:surname>Pocholle</ce:surname>
+          <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+          <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+          <ce:cross-ref refid="af005" id="c0055">
+            <ce:sup loc="post">a</ce:sup>
+          </ce:cross-ref>
+        </ce:author>
+        <ce:author id="au025" author-id="S0169433222003853-5f89e941a76eb73624f25596c2f7a315">
+          <ce:given-name>Florence</ce:given-name>
+          <ce:surname>Baras</ce:surname>
+          <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+          <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing &#x2013; review &amp; editing</ce:contributor-role>
+          <ce:contributor-role role="http://credit.niso.org/contributor-roles/supervision">Supervision</ce:contributor-role>
+          <ce:cross-ref refid="af005" id="c0060">
+            <ce:sup loc="post">a</ce:sup>
+          </ce:cross-ref>
+        </ce:author>
+        <ce:author id="au030" author-id="S0169433222003853-a1a4aa831a880155fdc8c787993284e1">
+          <ce:given-name>Olivier</ce:given-name>
+          <ce:surname>Politano</ce:surname>
+          <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+          <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing &#x2013; review &amp; editing</ce:contributor-role>
+          <ce:contributor-role role="http://credit.niso.org/contributor-roles/supervision">Supervision</ce:contributor-role>
+          <ce:cross-ref refid="af005" id="c0065">
+            <ce:sup loc="post">a</ce:sup>
+          </ce:cross-ref>
+        </ce:author>
+        <ce:author id="au035" author-id="S0169433222003853-91e3f39578943803415b9d9dad0930c5">
+          <ce:given-name>Sophie</ce:given-name>
+          <ce:surname>Costil</ce:surname>
+          <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+          <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing &#x2013; review &amp; editing</ce:contributor-role>
+          <ce:contributor-role role="http://credit.niso.org/contributor-roles/supervision">Supervision</ce:contributor-role>
+          <ce:contributor-role role="http://credit.niso.org/contributor-roles/funding-acquisition">Funding acquisition</ce:contributor-role>
+          <ce:cross-ref refid="af015" id="c0070">
+            <ce:sup loc="post">c</ce:sup>
+          </ce:cross-ref>
+          <ce:e-address type="email" xlink:href="mailto:sophie.costil@utbm.fr" id="em035">sophie.costil@utbm.fr</ce:e-address>
+        </ce:author>
+        <ce:affiliation id="af005" affiliation-id="S0169433222003853-ee776b94dd49b3447aa02505c9938e3f">
+          <ce:label>a</ce:label>
+          <ce:textfn>ICB UMR 6303, CNRS, Universit&#xE9; Bourgogne Franche-Comt&#xE9;, uB, F-21078 Dijon, France</ce:textfn>
+          <sa:affiliation>
+            <sa:organization>ICB</sa:organization>
+            <sa:organization>UMR 6303</sa:organization>
+            <sa:organization>CNRS</sa:organization>
+            <sa:organization>Universit&#xE9; Bourgogne Franche-Comt&#xE9;</sa:organization>
+            <sa:organization>uB</sa:organization>
+            <sa:city>F-21078 Dijon</sa:city>
+            <sa:country>France</sa:country>
+          </sa:affiliation>
+          <ce:source-text id="stx005">ICB UMR 6303, CNRS, Universit&#xE9; Bourgogne Franche-Comt&#xE9;, uB, F-21078 Dijon, France</ce:source-text>
+        </ce:affiliation>
+        <ce:affiliation id="af010" affiliation-id="S0169433222003853-3c1e6e5e96486a079c578527e450f744">
+          <ce:label>b</ce:label>
+          <ce:textfn>LASMIS, Universit&#xE9; de Technologie de Troyes, F-10004 Troyes, France</ce:textfn>
+          <sa:affiliation>
+            <sa:organization>LASMIS</sa:organization>
+            <sa:organization>Universit&#xE9; de Technologie de Troyes</sa:organization>
+            <sa:city>F-10004 Troyes</sa:city>
+            <sa:country>France</sa:country>
+          </sa:affiliation>
+          <ce:source-text id="stx010">LASMIS, Universit&#xE9; de Technologie de Troyes, F-10004 Troyes, France</ce:source-text>
+        </ce:affiliation>
+        <ce:affiliation id="af015" affiliation-id="S0169433222003853-d278d4b299fe87bbe39032e2becf464d">
+          <ce:label>c</ce:label>
+          <ce:textfn>ICB UMR 6303, CNRS, Universit&#xE9; Bourgogne Franche-Comt&#xE9;, UTBM, F-90010 Belfort, France</ce:textfn>
+          <sa:affiliation>
+            <sa:organization>ICB</sa:organization>
+            <sa:organization>UMR 6303</sa:organization>
+            <sa:organization>CNRS</sa:organization>
+            <sa:organization>Universit&#xE9; Bourgogne Franche-Comt&#xE9;</sa:organization>
+            <sa:organization>UTBM</sa:organization>
+            <sa:city>F-90010 Belfort</sa:city>
+            <sa:country>France</sa:country>
+          </sa:affiliation>
+          <ce:source-text id="stx015">ICB UMR 6303, CNRS, Universit&#xE9; Bourgogne Franche-Comt&#xE9;, UTBM, F-90010 Belfort, France</ce:source-text>
+        </ce:affiliation>
+        <ce:correspondence id="cor1">
+          <ce:label>&#x204E;</ce:label>
+          <ce:text>Corresponding author.</ce:text>
+        </ce:correspondence>
+      </ce:author-group>
+      <ce:date-received day="5" month="10" year="2021"/>
+      <ce:date-revised day="31" month="1" year="2022"/>
+      <ce:date-accepted day="9" month="2" year="2022"/>
+      <ce:abstract class="graphical" xml:lang="en" id="ab005" view="all">
+        <ce:section-title id="st005">Graphical abstract</ce:section-title>
+        <ce:abstract-sec id="as005" view="all">
+          <ce:simple-para id="sp0005" view="all">
+            <ce:display>
+              <ce:figure id="f0100">
+                <ce:link locator="ga1" id="lk00100" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S0169433222003853/ga1"/>
+              </ce:figure>
+            </ce:display>
+          </ce:simple-para>
+        </ce:abstract-sec>
+      </ce:abstract>
+      <ce:abstract class="author-highlights" xml:lang="en" id="ab010" view="all">
+        <ce:section-title id="st010">Highlights:</ce:section-title>
+        <ce:abstract-sec id="as010" view="all">
+          <ce:simple-para id="sp0010" view="all">
+            <ce:list id="l0005">
+              <ce:list-item id="o0005">
+                <ce:label>&#x2022;</ce:label>
+                <ce:para id="p0005" view="all">Analysis of surface topography as a function of laser texturing parameters.</ce:para>
+              </ce:list-item>
+              <ce:list-item id="o0010">
+                <ce:label>&#x2022;</ce:label>
+                <ce:para id="p0010" view="all">Demonstration of the cumulative effect of laser pulse number on textured dimple depth.</ce:para>
+              </ce:list-item>
+              <ce:list-item id="o0015">
+                <ce:label>&#x2022;</ce:label>
+                <ce:para id="p0015" view="all">Evaluation of residual stresses with two complementary techniques: at macroscopic level using XRD and at microscopic level via Scanning Microwave Microscopy.</ce:para>
+              </ce:list-item>
+              <ce:list-item id="o0020">
+                <ce:label>&#x2022;</ce:label>
+                <ce:para id="p0020" view="all">Presence of average tensile residual stresses in the laser textured titanium surfaces.</ce:para>
+              </ce:list-item>
+            </ce:list>
+          </ce:simple-para>
+        </ce:abstract-sec>
+      </ce:abstract>
+      <ce:abstract class="author" xml:lang="en" id="ab015" view="all">
+        <ce:section-title id="st015">Abstract</ce:section-title>
+        <ce:abstract-sec id="as015" view="all">
+          <ce:simple-para id="sp0015" view="all">Laser surface texturing has emerged as an environmental technological option and fast developing technique to provide different surface conditions. In order to improve its efficiency, it is necessary to overcome the usual trial and error approach by carefully mastering operating parameters. The present work analyzes the effects of a pulsed nanosecond laser beam on the processing of titanium surfaces. The textured surfaces were characterized using various experimental techniques, including scanning microwave microscopy (SMM). The results show the impact of laser fluence, number of laser pulses and laser dimple pitch on textured surfaces mainly from a morphological (microscopies) and mechanical (XRD and SMM) perspective. The topography was analyzed according to the laser texturing parameters. A model of the cumulative effect of the number of laser pulses has been demonstrated. In addition, laser texturing modifies the surface residual stresses. Laser texturing effects on the surface mechanical state were analyzed by varying the laser texturing parameters and also by comparing isolated textured dimples and textured regions as a whole. Many changes were found such as surface topography and residual stresses, surface changes that need to be characterized and known to provide a better understanding of the performance and operating behavior of the materials.</ce:simple-para>
+        </ce:abstract-sec>
+      </ce:abstract>
+      <ce:keywords class="keyword" xml:lang="en" id="kg005" view="all">
+        <ce:section-title id="st020">Keywords</ce:section-title>
+        <ce:keyword id="k0005">
+          <ce:text>Pulsed nanosecond laser</ce:text>
+        </ce:keyword>
+        <ce:keyword id="k0010">
+          <ce:text>Topography</ce:text>
+        </ce:keyword>
+        <ce:keyword id="k0015">
+          <ce:text>Residual stress</ce:text>
+        </ce:keyword>
+        <ce:keyword id="k0020">
+          <ce:text>XRD</ce:text>
+        </ce:keyword>
+        <ce:keyword id="k0025">
+          <ce:text>Scanning microwave microscopy SMM</ce:text>
+        </ce:keyword>
+      </ce:keywords>
+    </ja:head>
+    <ja:body view="all">
+      <ce:sections>
+        <ce:section id="s0005" view="all">
+          <ce:label>1</ce:label>
+          <ce:section-title id="st025">Introduction</ce:section-title>
+          <ce:para id="p0025" view="all">Laser processing has become a strategic part of surface engineering for many years. Laser material processing will continue to challenge conventional engineering processes, as laser technologies have already shown a definite interest due to their high accuracy, flexibility and productivity <ce:cross-refs refid="b0005 b0010" id="r0005">[1,2]</ce:cross-refs>. Indeed, laser surface treatments offer many benefits compared to other surface processes such as: (i) accuracy which allows precise treatments and modifications of surface properties on very small thicknesses, (ii) plethora of techniques (texturing, roughening, cleaning, shock hardening, etc.) leading to various tools to customize surface properties of surfaces (hardness, friction, fatigue and wear resistance), (iii) no chemical effluents and (iv) controlled deposited energy which provides a precise control of the heat input with minimal or no thermal effect on the underlying substrate <ce:cross-ref refid="b0015" id="c0075">[3]</ce:cross-ref>. Surface texturing is one of the most technologically appropriate laser surface treatment applications <ce:cross-refs refid="b0020 b0025 b0030 b0035" id="r0010">[4&#x2013;7]</ce:cross-refs>. Over the last few decades, surface texturing has emerged as an attractive surface engineering option and has been used by researchers to generate micro/nanopatterns on operating surfaces. This technique allows creating simple or complex patterns on component surfaces according to their aesthetic or functional purposes without altering bulk properties. In addition, this contactless process can be applied to hard-to-reach areas. Laser surface texturing has been used to improve the tribological performance of material interfaces <ce:cross-refs refid="b0040 b0045 b0050 b0055 b0060 b0065 b0070" id="r0015">[8&#x2013;14]</ce:cross-refs>. More recently, laser surface texturing has also been applied to enhance adhesion of contact surfaces. Several authors have demonstrated the impact and benefits of textured surfaces to achieve optimal coating adhesion by analyzing interfacial resistance and evaluating coating-substrate adhesion <ce:cross-refs refid="b0075 b0080 b0085 b0090 b0095 b0100 b0105" id="r0020">[15&#x2013;21]</ce:cross-refs>. A better fundamental understanding of laser-matter interaction is essential to precisely control the modification of materials at the nanoscale <ce:cross-refs refid="b0110 b0115 b0120 b0125 b0130 b0135 b0140 b0145" id="r0025">[22&#x2013;29]</ce:cross-refs>. This way, some studies have investigated the surface modifications induced by laser treatment in terms of morphology, oxidation, hardening and thermal stresses <ce:cross-refs refid="b0150 b0155 b0160 b0165 b0170 b0175 b0180 b0185" id="r0030">[30&#x2013;37]</ce:cross-refs>. The residual stresses induced by laser shock peening or those present in femtosecond laser-induced periodic surface structures (LIPPS, ripples) were analyzed in <ce:cross-refs refid="b0165 b0190 b0195 b0200" id="r0035">[33,38&#x2013;40]</ce:cross-refs>. In the present work, laser texturing was conducted with a pulsed nanosecond laser. This type of laser treatment is very different from femtosecond laser texturing regarding thermal effects. The present work focused on residual stresses induced by nanosecond laser texturing. Due to very localized changes, the final structural and mechanical state of the treated surface is difficult to highlight. However, the knowledge and control of these conditions are crucial to industrial cases and propose new developments. Indeed, the surface residual stresses have a direct impact on wear performance and fatigue life. In this study, a pulsed nanosecond laser was used to texture titanium surfaces. This work aims to improve the understanding of the laser texturing effects on surface topography, surface chemistry and mechanical state particularly using a new technique. Consequently, the effect of laser parameters (fluence, number of laser pulses, laser dimple pitch) on the evolution of surface states (morphology, residual stress, chemical composition) was analyzed. The surface topography and microstructure were assessed using optical microscopy, chromatic light confocal profilometry and scanning electron microscopy (SEM). The surface chemistry was characterized using X-ray photoelectron spectroscopy (XPS). Mechanical changes in the treated region were examined with two complementary techniques, which provide information at different scales: macroscopically via X-ray diffraction (XRD) and microscopically using a new technique under development: scanning microwave microscopy (SMM). Using X-ray diffraction, the global residual stress state near the surface at an average depth of a few micrometers (here 4&#xA0;&#xB5;m) was probed and averaged on a surface significantly larger than the grid step. The SMM technique was used to characterize the dimples and their environment because scanning microwave microscopy has extremely high spatial resolution and is suitable for more thorough lateral and depth analysis.</ce:para>
+        </ce:section>
+        <ce:section id="s0010" view="all">
+          <ce:label>2</ce:label>
+          <ce:section-title id="st030">Materials and methods</ce:section-title>
+          <ce:section id="s0015" view="all">
+            <ce:label>2.1</ce:label>
+            <ce:section-title id="st035">Materials</ce:section-title>
+            <ce:para id="p0030" view="all">The investigated substrate was made from commercially pure titanium &#x201C;Ti ASTM Grade 2&#x201D; (99% minimum titanium). Titanium cylinders with a diameter of 25&#xA0;mm and a height of approximately 10&#xA0;mm (from a bar) have been used for this work. Before laser texturing, all surfaces were mechanically polished and a chemical etching was applied (diluted Kroll etchant). Prior to laser treatments the titanium samples were carefully cleaned with acetone and dried.</ce:para>
+          </ce:section>
+          <ce:section id="s0020" view="all">
+            <ce:label>2.2</ce:label>
+            <ce:section-title id="st040">Surface texturing</ce:section-title>
+            <ce:para id="p0035" view="all">A pulsed Ytterbium-doped fiber laser (Quantel Ylia M20) operating at 1064&#xA0;nm (near-infrared light) has been used to elaborate surface microstructures. It delivers short pulses of 100&#xA0;ns. Depending on the pulse duration range, different beam-matter interaction mechanisms are predominant. For nanosecond laser pulses, the pulse length is much higher than the electron&#x2013;phonon relaxation time of materials. In this case, the laser beam-matter interaction is considered as a thermal process. The successive stages involved are: (i) absorption of laser radiation (ii) surface heating (iii) evaporation and ejection of matter <ce:cross-refs refid="b0155 b0160 b0125 b0130 b0135 b0140 b0145" id="r0040">[25&#x2013;29,31,32]</ce:cross-refs>. In this work, the laser spot was almost circular with a gaussian energy distribution. The theoretical effective diameter <mml:math altimg="si2.svg"><mml:mrow><mml:msub><mml:mi>d</mml:mi><mml:mn>0</mml:mn></mml:msub></mml:mrow></mml:math> of the focused gaussian spot, calculated as<ce:display><ce:formula id="e0005"><ce:label>(1)</ce:label><mml:math altimg="si3.svg"><mml:mrow><mml:msub><mml:mi>d</mml:mi><mml:mn>0</mml:mn></mml:msub><mml:mo linebreak="goodbreak">=</mml:mo><mml:mfrac><mml:mrow><mml:mn>4</mml:mn><mml:msup><mml:mrow><mml:mi>M</mml:mi></mml:mrow><mml:mn>2</mml:mn></mml:msup><mml:mi>&#x3BB;</mml:mi><mml:mi>f</mml:mi></mml:mrow><mml:mrow><mml:mi>&#x3C0;</mml:mi><mml:mi>D</mml:mi></mml:mrow></mml:mfrac></mml:mrow></mml:math></ce:formula></ce:display></ce:para>
+            <ce:para id="p0040" view="all">where <mml:math altimg="si2.svg"><mml:mrow><mml:msub><mml:mi>d</mml:mi><mml:mn>0</mml:mn></mml:msub></mml:mrow></mml:math> is the beam diameter at the beam waist [m], <mml:math altimg="si4.svg"><mml:mrow><mml:msup><mml:mrow><mml:mi>M</mml:mi></mml:mrow><mml:mn>2</mml:mn></mml:msup></mml:mrow></mml:math> the beam quality factor, <mml:math altimg="si5.svg"><mml:mrow><mml:mi>&#x3BB;</mml:mi></mml:mrow></mml:math> the wavelength [m], <mml:math altimg="si6.svg"><mml:mrow><mml:mi>f</mml:mi></mml:mrow></mml:math> the focal length of the lens [m] and <mml:math altimg="si7.svg"><mml:mrow><mml:mi>D</mml:mi></mml:mrow></mml:math> the gaussian spot diameter at the lens [m], was found to be (59.4&#xA0;&#xB1;&#xA0;3.3) &#xB5;m <ce:cross-ref refid="b0205" id="c0080">[41]</ce:cross-ref>. This diameter includes 86% of the beam energy and at the beads of which the focused intensity is down to e<ce:sup loc="post">&#x2212;2</ce:sup>&#xA0;&#x2245;&#xA0;14%. The pulse repetition rate <mml:math altimg="si8.svg"><mml:mrow><mml:mi>&#x3BD;</mml:mi></mml:mrow></mml:math> (or pulse frequency) could be adjusted from 20 to 100&#xA0;kHz and the measured average power <mml:math altimg="si9.svg"><mml:mrow><mml:msub><mml:mi>P</mml:mi><mml:mrow><mml:mi mathvariant="italic">avg</mml:mi></mml:mrow></mml:msub></mml:mrow></mml:math> from 2.5 to 16.1&#xA0;W. In this study, the energy flux delivered by the laser beam is characterized by the fluence. The fluence <ce:italic>F</ce:italic> of a laser pulse describes the optical energy delivered per unit area, in units of J.cm<ce:sup loc="post">&#x2212;2</ce:sup>. The fluence <ce:italic>F</ce:italic> is defined as<ce:display><ce:formula id="e0010"><ce:label>(2)</ce:label><mml:math altimg="si10.svg"><mml:mrow><mml:mi>F</mml:mi><mml:mo linebreak="goodbreak">=</mml:mo><mml:mfrac><mml:mrow><mml:mn>4</mml:mn><mml:msub><mml:mi>P</mml:mi><mml:mrow><mml:mi mathvariant="italic">avg</mml:mi></mml:mrow></mml:msub></mml:mrow><mml:mrow><mml:mi>&#x3C0;</mml:mi><mml:mi>&#x3BD;</mml:mi><mml:msup><mml:mrow><mml:msub><mml:mi>d</mml:mi><mml:mn>0</mml:mn></mml:msub></mml:mrow><mml:mn>2</mml:mn></mml:msup></mml:mrow></mml:mfrac></mml:mrow></mml:math></ce:formula></ce:display></ce:para>
+            <ce:para id="p0045" view="all">where <mml:math altimg="si9.svg"><mml:mrow><mml:msub><mml:mi>P</mml:mi><mml:mrow><mml:mi mathvariant="italic">avg</mml:mi></mml:mrow></mml:msub></mml:mrow></mml:math> is the average laser power [W], <mml:math altimg="si8.svg"><mml:mrow><mml:mi>&#x3BD;</mml:mi></mml:mrow></mml:math> the pulse repetition rate [Hz] and <mml:math altimg="si2.svg"><mml:mrow><mml:msub><mml:mi>d</mml:mi><mml:mn>0</mml:mn></mml:msub></mml:mrow></mml:math> the beam diameter [m]. Thereafter, the fluence is denoted <ce:italic>Fx</ce:italic> where&#xA0;<ce:italic>x</ce:italic>&#xA0;corresponds to the rounded value of the fluence in J.cm<ce:sup loc="post">&#x2212;2</ce:sup> (for example <ce:italic>F</ce:italic>12 means a fluence of 12&#xA0;J.cm<ce:sup loc="post">&#x2212;2</ce:sup>). Similarly, the number of laser pulses is denoted N<ce:italic>y</ce:italic> with <ce:italic>y</ce:italic> corresponding to the laser pulse number per dimple (for example N5 means 5 laser pulses per dimple). The incident laser beam was directed normal to the titanium target surface and focused by a lens with a focal length of 160&#xA0;mm. All tests were performed in ambient air to create dimple textures. Such surfaces are usually used to improve the surface adhesion of coatings, it consists of individual small dimples arranged in a grid. Below the ablation threshold, the morphology of surfaces was not modified. Above the ablation threshold, dimples were produced. The central part of the irradiated area has been characterized by material removal, forming a crater, while material has been resolidified at the beads. The observed bead around the ablated crater has been formed due to the ejection of liquid molten metal by the recoil pressure and thermocapillary forces <ce:cross-refs refid="b0210 b0215" id="r0045">[42,43]</ce:cross-refs>. In this case, the grid size was 2&#xA0;mm&#xA0;&#xD7;&#xA0;2&#xA0;mm and the laser dimples were spaced with a pitch of 200&#xA0;&#xB5;m, 100&#xA0;&#xB5;m or 50&#xA0;&#xB5;m. <ce:cross-ref refid="f0005" id="c0085">Fig. 1</ce:cross-ref><ce:float-anchor refid="f0005"/> shows an example of a textured surface and the characteristics of a dimple. The impact of laser fluence, number of laser pulses (i.e. the number of successive pulses in one place) and dimple pitch have been studied.</ce:para>
+          </ce:section>
+          <ce:section id="s0025" view="all">
+            <ce:label>2.3</ce:label>
+            <ce:section-title id="st045">Surface characterization</ce:section-title>
+            <ce:para id="p0050" view="all">In order to investigate the topography of textured surfaces, morphological characterization was performed by means of optical microscope (Olympus DSX510) and chromatic light confocal profilometer (ALTIMET Altisurf&#xA9; 500). The diameter and depth of dimples were then measured. The objective of the microscope is focused on the surface of the sample outside the dimple, and then the inside diameter of the dimple is defined at this focal plane. Each value presented is the average of three measurements with a standard deviation of 0.7&#xA0;&#xB5;m. The objective lens &#x201C;MPLFLN50xBD&#x201D; of the optical microscope with a 50x magnification was used to measure dimple parameters with a depth accuracy of&#xA0;&#xB1;&#xA0;0.25&#xA0;&#xB5;m. The microstructure was imaged via scanning electron microscope (SEM Hitachi SU8230).</ce:para>
+            <ce:para id="p0055" view="all">Due to the thermal effects of the laser treatment (in the case of pulsed nanosecond laser beams), localized oxidation phenomena can be expected particularly on metallic materials. To evaluate such modifications, the electronic structure of the studied surfaces was explored using X-ray photoelectron spectroscopy (XPS). The PHI 5000 VersaProbe spectrometer was employed in this study. Al K&#x3B1; (1486.6&#xA0;eV) was used as excitation source on the photoelectrons from the surface and the photoelectrons were collected through the energy analyzer. For each measurement, the average of 20 spectra was stored. CasaXPS software was then used for data processing (Version 2.3.24, www.casaxps.com, Teignmouth, United Kingdom) <ce:cross-ref refid="b0220" id="c0090">[44]</ce:cross-ref>. The adventitious carbon (C 1&#xA0;s) located at 284.8&#xA0;eV has been used to calibrate the binding-energy scale.</ce:para>
+          </ce:section>
+        </ce:section>
+        <ce:section id="s0030" view="all">
+          <ce:label>3</ce:label>
+          <ce:section-title id="st050">Residual stress evaluation techniques: XRD and SMM</ce:section-title>
+          <ce:para id="p0060" view="all">To investigate the residual stress state of the surfaces, X-ray diffraction (XRD) analyses were performed using the Bruker D8 Discover diffractometer. Tests were conducted using a copper anode (wavelength <mml:math altimg="si5.svg"><mml:mrow><mml:mi>&#x3BB;</mml:mi></mml:mrow></mml:math>&#xA0;=&#xA0;0.154184&#xA0;nm). A collimator with 1&#xA0;mm diameter was used. Thus, the area irradiated by the X-ray beam covers at least 25, 100 and 400 dimples for the 200&#xA0;&#xB5;m, 100&#xA0;&#xB5;m and 50&#xA0;&#xB5;m pitches respectively. Measurements have been conducted on the {2<ce:hsp sp="0.12"/>1<ce:hsp sp="0.12"/>3} planes of the &#x3B1; phase at a <mml:math altimg="si11.svg"><mml:mrow><mml:mn>2</mml:mn><mml:mi>&#x3B8;</mml:mi></mml:mrow></mml:math> angle of about 139&#xB0;. Diffracted photons were collected with a 1D LynxExe XE<ce:sup loc="post">T</ce:sup> detector. Eleven tilt angles <mml:math altimg="si12.svg"><mml:mrow><mml:mi>&#x3C8;</mml:mi></mml:mrow></mml:math> have been chosen between 0&#xB0; and 60&#xB0; with a 6&#xB0; pitch. Stresses have been obtained using the so called <mml:math altimg="si13.svg"><mml:mrow><mml:msup><mml:mrow><mml:mi mathvariant="normal">sin</mml:mi></mml:mrow><mml:mn>2</mml:mn></mml:msup><mml:mi>&#x3C8;</mml:mi></mml:mrow></mml:math> relation <ce:cross-ref refid="b0225" id="c0095">[45]</ce:cross-ref>. The X-ray Elasticity Constant (XEC) <mml:math altimg="si14.svg"><mml:mrow><mml:mfrac><mml:mn>1</mml:mn><mml:mn>2</mml:mn></mml:mfrac><mml:msubsup><mml:mi>S</mml:mi><mml:mrow><mml:mn>2</mml:mn></mml:mrow><mml:mrow><mml:mi mathvariant="italic">hkl</mml:mi></mml:mrow></mml:msubsup></mml:mrow></mml:math> was taken equal to 11.9 10<ce:sup loc="post">&#x2212;6</ce:sup> MPa<ce:sup loc="post">&#x2212;1</ce:sup>. The linear background noise evaluated on 30 points on each side of a peak has been subtracted. X-ray diffraction peaks were modelled using pseudo-voigt functions by considering <mml:math altimg="si15.svg"><mml:mrow><mml:msub><mml:mrow><mml:mi>K</mml:mi><mml:mi>&#x3B1;</mml:mi></mml:mrow><mml:mn>1</mml:mn></mml:msub></mml:mrow></mml:math>- <mml:math altimg="si16.svg"><mml:mrow><mml:msub><mml:mrow><mml:mi>K</mml:mi><mml:mi>&#x3B1;</mml:mi></mml:mrow><mml:mn>2</mml:mn></mml:msub></mml:mrow></mml:math> doublet using Rachinger&#x2019;s assumptions <ce:cross-ref refid="b0230" id="c0100">[46]</ce:cross-ref>. As will be discussed later, the XRD technique used gives a global analysis of the stress state, i.e., it covers many dimples and thus provides an average value over the dimples and the unimpacted zone between dimples.</ce:para>
+          <ce:para id="p0065" view="all">In order to analyze more locally the residual stresses in the surface, a scanning microwave microscope (SMM) was used. This innovative scanning probe microscope combines impedance measurement capabilities of a vector network analyzer (VNA) with the spatial resolution capabilities of an atomic force microscope (AFM) <ce:cross-ref refid="b0235" id="c0105">[47]</ce:cross-ref>. Agilent Technologies 5600LS AFM and Copper Mountain Technologies R180 VNA were used <ce:cross-refs refid="b0240 b0245" id="r0050">[48,49]</ce:cross-refs>. The conductive AFM tip is used as a local transmitter/receiver of microwaves to guide the microwaves field into material (<ce:cross-ref refid="f0010" id="c0110">Fig. 2</ce:cross-ref><ce:float-anchor refid="f0010"/>). The tip is always at a constant distance from the surface. Indeed, for each SMM measurement the AFM tip is in contact with the surface. The probe is a Rocky Mountain Nanotechnology platinum probe (model: 12PT400B) with a tip diameter of 20&#xA0;nm, a spring constant of 0.3&#xA0;N.m<ce:sup loc="post">&#x2212;1</ce:sup> (&#xB1;40%) and a frequency of 4.5&#xA0;kHz (&#xB1;30%) <ce:cross-ref refid="b0250" id="c0115">[50]</ce:cross-ref>. The VNA provides information about changes of impedance due to tip/sample interaction through the scattering parameters <ce:cross-ref refid="b0255" id="c0120">[51]</ce:cross-ref>. In this study, the parameter S<ce:inf loc="post">11</ce:inf>&#xA0;=&#xA0;<mml:math altimg="si17.svg"><mml:mrow><mml:mfrac><mml:mrow><mml:mi mathvariant="normal">r</mml:mi><mml:mi mathvariant="normal">e</mml:mi><mml:mi mathvariant="normal">f</mml:mi><mml:mi mathvariant="normal">l</mml:mi><mml:mi mathvariant="normal">e</mml:mi><mml:mi mathvariant="normal">c</mml:mi><mml:mi mathvariant="normal">t</mml:mi><mml:mi mathvariant="normal">e</mml:mi><mml:mi mathvariant="normal">d</mml:mi><mml:mspace width="0.35em"/><mml:mi mathvariant="normal">s</mml:mi><mml:mi mathvariant="normal">i</mml:mi><mml:mi mathvariant="normal">g</mml:mi><mml:mi mathvariant="normal">n</mml:mi><mml:mi mathvariant="normal">a</mml:mi><mml:mi mathvariant="normal">l</mml:mi></mml:mrow><mml:mrow><mml:mi mathvariant="normal">i</mml:mi><mml:mi mathvariant="normal">n</mml:mi><mml:mi mathvariant="normal">c</mml:mi><mml:mi mathvariant="normal">i</mml:mi><mml:mi mathvariant="normal">d</mml:mi><mml:mi mathvariant="normal">e</mml:mi><mml:mi mathvariant="normal">n</mml:mi><mml:mi mathvariant="normal">t</mml:mi><mml:mspace width="0.35em"/><mml:mi mathvariant="normal">s</mml:mi><mml:mi mathvariant="normal">i</mml:mi><mml:mi mathvariant="normal">g</mml:mi><mml:mi mathvariant="normal">n</mml:mi><mml:mi mathvariant="normal">a</mml:mi><mml:mi mathvariant="normal">l</mml:mi></mml:mrow></mml:mfrac></mml:mrow></mml:math> has been analyzed.</ce:para>
+          <ce:para id="p0070" view="all">The used microscope was operated at microwave frequencies from 1 to 18&#xA0;GHz.</ce:para>
+          <ce:para id="p0075" view="all">In the case of metallic samples, the electromagnetic field can penetrate into the sample depending on the frequency used. The investigated depth corresponds to the skin depth and is defined as<ce:display><ce:formula id="e0015"><ce:label>(3)</ce:label><mml:math altimg="si18.svg"><mml:mrow><mml:mi>&#x3B4;</mml:mi><mml:mo linebreak="goodbreak">=</mml:mo><mml:mfrac><mml:mn>1</mml:mn><mml:msqrt><mml:mrow><mml:mi>&#x3C0;</mml:mi><mml:msub><mml:mi>&#x3BC;</mml:mi><mml:mn>0</mml:mn></mml:msub><mml:msub><mml:mi>&#x3BC;</mml:mi><mml:mi>r</mml:mi></mml:msub><mml:mi>&#x3C3;</mml:mi><mml:mi>f</mml:mi></mml:mrow></mml:msqrt></mml:mfrac></mml:mrow></mml:math></ce:formula></ce:display></ce:para>
+          <ce:para id="p0080" view="all">where <mml:math altimg="si19.svg"><mml:mrow><mml:mi>&#x3B4;</mml:mi></mml:mrow></mml:math> is the skin depth [m], <mml:math altimg="si20.svg"><mml:mrow><mml:msub><mml:mi>&#x3BC;</mml:mi><mml:mn>0</mml:mn></mml:msub></mml:mrow></mml:math> the vacuum permeability (4&#x3C0; 10<ce:sup loc="post">&#x2212;7</ce:sup> H.m<ce:sup loc="post">&#x2212;1</ce:sup>), <mml:math altimg="si21.svg"><mml:mrow><mml:msub><mml:mi>&#x3BC;</mml:mi><mml:mi>r</mml:mi></mml:msub></mml:mrow></mml:math> the relative permeability of the conductor [H.m<ce:sup loc="post">&#x2212;1</ce:sup>], <mml:math altimg="si22.svg"><mml:mrow><mml:mi>&#x3C3;</mml:mi></mml:mrow></mml:math> the electrical conductivity [S.m<ce:sup loc="post">&#x2212;1</ce:sup>] and <mml:math altimg="si6.svg"><mml:mrow><mml:mi>f</mml:mi></mml:mrow></mml:math> the frequency [Hz]. The electrical conductivity of titanium ASTM Grade 2 is 1.778 10<ce:sup loc="post">6</ce:sup> S.m<ce:sup loc="post">&#x2212;1</ce:sup> and its relative permeability is 1.000 H.m<ce:sup loc="post">&#x2212;1</ce:sup><ce:cross-ref refid="b0260" id="c0125">[52]</ce:cross-ref>.</ce:para>
+          <ce:para id="p0085" view="all">The electromagnetic wave of high frequency has a lower penetration compared to a low-frequency wave in a conductor. Skin depths were calculated for the different wave frequencies (Eq. <ce:cross-ref refid="e0015" id="c0130">(3)</ce:cross-ref>). In this study, the microwaves penetrated into titanium surfaces with a depth ranging from 2.9 to 12.6&#xA0;&#xB5;m. The skin depth of metal defines the thickness of the layer where the wave field penetrating the metal fades out exponentially to zero.</ce:para>
+          <ce:para id="p0090" view="all">The S<ce:inf loc="post">11</ce:inf> coefficient is a complex quantity with a resistive and a reactive component. In the present paper, the magnitude of the real part has been explored since it is related to stresses through the piezo-resistive properties of the material. SMM measurement points followed a straight line passing through the center of three laser dimples spaced of 10&#xA0;&#xB5;m.</ce:para>
+          <ce:para id="p0095" view="all">The measurement method and data processing are outlined below:<ce:list id="l0010"><ce:list-item id="o0025"><ce:label>&#x2013;</ce:label><ce:para id="p0100" view="all">Acquisition of the reference spectrum (<ce:cross-ref refid="f0015" id="c0135">Fig. 3</ce:cross-ref><ce:float-anchor refid="f0015"/>a): measurement of an untextured area</ce:para></ce:list-item><ce:list-item id="o0030"><ce:label>&#x2013;</ce:label><ce:para id="p0105" view="all">Magnitude extraction at the resonance frequencies in the reference spectrum</ce:para></ce:list-item><ce:list-item id="o0035"><ce:label>&#x2013;</ce:label><ce:para id="p0110" view="all">Acquisition of the sample spectrum (<ce:cross-ref refid="f0015" id="c0140">Fig. 3</ce:cross-ref>a): measurement through a laser dimple</ce:para></ce:list-item><ce:list-item id="o0040"><ce:label>&#x2013;</ce:label><ce:para id="p0115" view="all">Magnitude extraction at the resonance frequencies in the sample spectrum</ce:para></ce:list-item><ce:list-item id="o0045"><ce:label>&#x2013;</ce:label><ce:para id="p0120" view="all">Determination of the difference between the sample resonance magnitudes and the reference resonance magnitudes (<ce:cross-ref refid="f0015" id="c0145">Fig. 3</ce:cross-ref>b)</ce:para></ce:list-item></ce:list></ce:para>
+          <ce:para id="p0125" view="all">Recently, this non-destructive technique has been used to assess residual stresses induced by the shot-peening on metallic surfaces <ce:cross-ref refid="b0265" id="c0150">[53]</ce:cross-ref>.</ce:para>
+          <ce:para id="p0130" view="all">The magnitudes of the evaluated residual stresses are expressed in decibels [dB]. The correspondence between dB and MPa is a difficult issue that is beyond the scope of this paper.</ce:para>
+        </ce:section>
+        <ce:section id="s0035" view="all">
+          <ce:label>4</ce:label>
+          <ce:section-title id="st055">Results and discussion</ce:section-title>
+          <ce:section id="s0040" view="all">
+            <ce:label>4.1</ce:label>
+            <ce:section-title id="st060">Surface morphology</ce:section-title>
+            <ce:para id="p0135" view="all">Prior to laser treatment, the surfaces were mechanically polished with the same procedure and chemically etched by Kroll&#x2019;s reagent during the same time. Thus the initial surfaces have a reproducible surface condition. The reference surface had an average surface roughness Sa (arithmetical mean height) of approximately 0.29&#xA0;&#x3BC;m. Then, titanium samples were treated with a pulsed nanosecond fiber laser to produce microstructures with different input laser conditions. The structure morphology was varied using different laser parameters (fluence, number of pulses) and texturing parameters (pitch of dimples). <ce:cross-ref refid="f0020" id="c0155">Fig. 4</ce:cross-ref><ce:float-anchor refid="f0020"/> shows texturing grids for a fluence of 11.6&#xA0;J.cm<ce:sup loc="post">&#x2212;2</ce:sup> with 20 or 40 laser pulses and a pitch of 200&#xA0;&#xB5;m or 50&#xA0;&#xB5;m. For a 200&#xA0;&#xB5;m pitch, the dimples are clearly visible and evenly spaced (<ce:cross-ref refid="f0020" id="c0160">Fig. 4</ce:cross-ref>a,c). Ejected material is accumulated at the periphery of the dimples (bead). Particles of material are present on the entire surface around the dimples and some are inside the craters. However, for a 50&#xA0;&#xB5;m pitch, the textured surface is very irregular and the dimples are not identifiable (<ce:cross-ref refid="f0020" id="c0165">Fig. 4</ce:cross-ref>b,d). The structures are not periodic and appear randomly distributed on the surface. The pitch between the dimples significantly changes the topography of the textured surface. In order to analyze the effects induced by an isolated dimple and to evaluate the effects of their coupling, isolated dimples and grid dimples with a 200&#xA0;&#xB5;m pitch were studied. The coupling study is not possible for dimples with a 50&#xA0;&#xB5;m pitch.</ce:para>
+            <ce:para id="p0140" view="all">In addition, by varying laser parameters, the effects of the number of laser pulses can be observed as illustrated in <ce:cross-ref refid="f0025" id="c0170">Fig. 5</ce:cross-ref><ce:float-anchor refid="f0025"/>; where optical microscopy images of dimples produced using a fixed laser fluence and a different number of laser pulses are shown. Nanosecond laser texturing has induced heat-affected zones. These areas can be easily detected by the noticeable colored ring around the dimple that corresponds to surface oxidation. The higher the number of laser pulses, the darker the color of the ejected particles. Thermal damage from the ablation zone is also identified in the target surface. Cross-sectional views of the dimples show a thin zone, with altered microstructure, within the dimple with solidified metal at the dimple bead. The modified zone (finer microstructure) can be observed in <ce:cross-ref refid="f0030" id="c0175">Fig. 6</ce:cross-ref><ce:float-anchor refid="f0030"/>. This microstructural change is induced by the melting and resolidification of the metal. Its thickness is estimated at 3&#xA0;&#xB5;m for a dimple produced with a laser fluence of 11.6&#xA0;J.cm<ce:sup loc="post">&#x2212;2</ce:sup> and 20 laser pulses. For the same fluence but a number of 40 laser pulses, the thickness of the modified microstructure zone is very close, about 3&#xA0;&#xB5;m. Different textures can be developed depending on the laser parameters, especially in terms of average dimple depth and diameter. Such variation in surface morphology can then be analyzed using profilometry as exposed in <ce:cross-ref refid="f0035" id="c0180">Fig. 7</ce:cross-ref><ce:float-anchor refid="f0035"/>. In addition, the dimple bead became more obvious with increasing laser fluence or laser pulse number. The higher the number of laser pulses, the more irregular the dimple bead (<ce:cross-ref refid="f0025" id="c0185">Fig. 5</ce:cross-ref> and <ce:cross-ref refid="f0035" id="c0190">Fig. 7</ce:cross-ref>). The molten material is more and more important and is confined in the dimples. Under the pressure effect of the laser pulses, the material is ejected more violently towards the outside and irregular ejections are produced on the surface due to the surface tension phenomena.</ce:para>
+            <ce:para id="p0145" view="all">The graphs presented in <ce:cross-ref refid="f0040" id="c0195">Fig. 8</ce:cross-ref><ce:float-anchor refid="f0040"/>a,b and <ce:cross-ref refid="f0045" id="c0200">Fig. 9</ce:cross-ref><ce:float-anchor refid="f0045"/> highlight the evolution of dimple depth and dimple diameter depending on the laser fluence and the number of laser pulses. The measured dimples belong to dimple grids with a 200&#xA0;&#xB5;m dimple pitch so that the topography of dimple can be analyzed without any interaction between the dimples.</ce:para>
+            <ce:para id="p0150" view="all">A threshold fluence can be observed below which the dimples have negligible depth. This threshold effect has already been observed in the literature <ce:cross-ref refid="b0165" id="c0205">[33]</ce:cross-ref>. Interestingly, this threshold is significantly higher for a low number of laser pulses and then saturates after about 20 pulses (<ce:cross-ref refid="f0040" id="c0210">Fig. 8</ce:cross-ref>a). The dimple depth increases quickly above this threshold and then slows down. This can be explained by a purely geometric effect. As the aspect ratio of the dimple increases, i.e. when the depth increases, an increasing fraction of the molten and vaporized metal cannot leave the dimple and solidifies back on its walls. To describe the threshold effect and the slowing down of the depth <mml:math altimg="si23.svg"><mml:mrow><mml:mi>z</mml:mi></mml:mrow></mml:math>, a simple model is proposed:<ce:display><ce:formula id="e0020"><ce:label>(4)</ce:label><mml:math altimg="si24.svg"><mml:mrow><mml:mi>z</mml:mi><mml:mo linebreak="goodbreak">=</mml:mo><mml:mi>a</mml:mi><mml:msup><mml:mrow><mml:mfenced open="(" close=")"><mml:mrow><mml:mi>F</mml:mi><mml:mo>-</mml:mo><mml:msub><mml:mi>F</mml:mi><mml:mn>0</mml:mn></mml:msub></mml:mrow></mml:mfenced></mml:mrow><mml:mi>m</mml:mi></mml:msup></mml:mrow></mml:math></ce:formula></ce:display></ce:para>
+            <ce:para id="p0155" view="all">The fluence is denoted by <mml:math altimg="si25.svg"><mml:mrow><mml:mi>F</mml:mi></mml:mrow></mml:math>. The parameters <mml:math altimg="si26.svg"><mml:mrow><mml:mi>a</mml:mi></mml:mrow></mml:math>, <mml:math altimg="si27.svg"><mml:mrow><mml:msub><mml:mi>F</mml:mi><mml:mn>0</mml:mn></mml:msub></mml:mrow></mml:math> and <mml:math altimg="si28.svg"><mml:mrow><mml:mi>m</mml:mi></mml:mrow></mml:math> are fitted by least squares regression for each series of laser treatment (at a fixed pulse number). In this equation, the increase of depth with the number of laser pulses does not appear explicitly. Thus, following the work of Jee et al. <ce:cross-ref refid="b0165" id="c0215">[33]</ce:cross-ref>, a cumulative model of the effect of the number N of laser pulses is proposed:<ce:display><ce:formula id="e0025"><ce:label>(5)</ce:label><mml:math altimg="si29.svg"><mml:mrow><mml:msub><mml:mi>F</mml:mi><mml:mn>0</mml:mn></mml:msub><mml:mo linebreak="goodbreak">=</mml:mo><mml:mi>A</mml:mi><mml:mo linebreak="badbreak">+</mml:mo><mml:mi>B</mml:mi><mml:msup><mml:mrow><mml:mi mathvariant="normal">N</mml:mi></mml:mrow><mml:mi>p</mml:mi></mml:msup></mml:mrow></mml:math></ce:formula></ce:display></ce:para>
+            <ce:para id="p0160" view="all">where <mml:math altimg="si27.svg"><mml:mrow><mml:msub><mml:mi>F</mml:mi><mml:mn>0</mml:mn></mml:msub></mml:mrow></mml:math> is the threshold fluence, <mml:math altimg="si30.svg"><mml:mrow><mml:mi>A</mml:mi></mml:mrow></mml:math>, <mml:math altimg="si31.svg"><mml:mrow><mml:mi>B</mml:mi></mml:mrow></mml:math> and <mml:math altimg="si32.svg"><mml:mrow><mml:mi>p</mml:mi></mml:mrow></mml:math> are fitted constants. The fit of this model can be seen in <ce:cross-ref refid="f0040" id="c0220">Fig. 8</ce:cross-ref>b. Several differences between this model and the model proposed by Jee et al. can be highlighted. Here, a constant term <mml:math altimg="si30.svg"><mml:mrow><mml:mi>A</mml:mi></mml:mrow></mml:math> is introduced to take into account the fact that, when the fluence is too low, the heat deposited in the material dissipates between two laser pulses. Below a threshold fluence, there is no ablation whatever the number of laser pulses (<ce:cross-ref refid="f0040" id="c0225">Fig. 8</ce:cross-ref>b). This term does not appear in the study of Jee et al. because they observe surface damage of copper or aluminum with no or limited ablation effects. The results presented here show that below 2&#xA0;J.cm<ce:sup loc="post">&#x2212;2</ce:sup> only ripples or flat melting can occur and the metal is not ejected by the laser beam. The value of exponent <mml:math altimg="si32.svg"><mml:mrow><mml:mi>p</mml:mi></mml:mrow></mml:math> is also very different, &#x2212;2.31 in this study and&#xA0;&#x2212;&#xA0;0.08 in the Jee et al.&#x2019;s study. This can be explained by the difference in thermal conductivity which is high for copper or aluminum and medium for titanium. <ce:cross-ref refid="f0040" id="c0230">Fig. 8</ce:cross-ref>b shows that, for a low number of laser pulses (&lt;5), a very high fluence is required to start the ablation, so the cumulative effect of the laser pulses is very important to achieve an efficient surface texturing. However, it can also be seen that this cumulative effect quickly saturates after 20 laser pulses. This could be interpreted by the appearance of a thermal equilibrium state after 20 pulses. This regime shift around 20 pulses can also be observed as the parameters <mml:math altimg="si26.svg"><mml:mrow><mml:mi>a</mml:mi></mml:mrow></mml:math> and <mml:math altimg="si28.svg"><mml:mrow><mml:mi>m</mml:mi></mml:mrow></mml:math> of equation <ce:cross-ref refid="e0020" id="c0235">(4)</ce:cross-ref> evolve with the number of laser pulses (<ce:cross-ref refid="f0040" id="c0240">Fig. 8</ce:cross-ref>c and <ce:cross-ref refid="f0040" id="c0245">Fig. 8</ce:cross-ref>d).</ce:para>
+            <ce:para id="p0165" view="all">The evolution of the dimple diameter with the fluence and the number of pulses can be observed in <ce:cross-ref refid="f0045" id="c0250">Fig. 9</ce:cross-ref>. It can be clearly seen that, except for the 5 pulse series, there is no cumulative effect of the number of pulses. This means that the dimple diameter is mainly controlled by the laser beam diameter. The increase in dimple diameter with fluence can be attributed to the Gaussian profile in the beam cross section. As fluence increases, the central part of the beam, where the intensity is above an ablation threshold, increases in diameter and represents a larger fraction of the beam cross section.</ce:para>
+            <ce:para id="p0170" view="all">The evolution of volume as a function of fluence and number of pulses can also be analyzed. The volume is computed from the radius <mml:math altimg="si33.svg"><mml:mrow><mml:mi>r</mml:mi></mml:mrow></mml:math> and depth <mml:math altimg="si23.svg"><mml:mrow><mml:mi>z</mml:mi></mml:mrow></mml:math> of the dimples assuming that they have the shape of a cone <mml:math altimg="si34.svg"><mml:mrow><mml:mi>V</mml:mi><mml:mo linebreak="goodbreak" linebreakstyle="after">=</mml:mo><mml:mi>&#x3C0;</mml:mi><mml:msup><mml:mrow><mml:mi>r</mml:mi></mml:mrow><mml:mn>2</mml:mn></mml:msup><mml:mi>z</mml:mi><mml:mo stretchy="false">/</mml:mo><mml:mn>3</mml:mn></mml:mrow></mml:math>. Other assumptions (paraboloid, cylinder, etc.) would not affect the conclusions. It was found that, above a fluence threshold <ce:italic>F</ce:italic><ce:inf loc="post">1</ce:inf> and a pulse number threshold N<ce:inf loc="post">1</ce:inf>, the dimple volume evolves linearly with laser fluence <ce:italic>F</ce:italic> (for constant N) and linearly with laser pulse number N (for constant <ce:italic>F</ce:italic>), following Eq. <ce:cross-ref refid="e0030" id="c0255">(6)</ce:cross-ref>:<ce:display><ce:formula id="e0030"><ce:label>(6)</ce:label><mml:math altimg="si35.svg"><mml:mrow><mml:mi>V</mml:mi><mml:mo linebreak="goodbreak">=</mml:mo><mml:mi>b</mml:mi><mml:mrow><mml:mfenced open="(" close=")"><mml:mrow><mml:mi mathvariant="normal">N</mml:mi><mml:mo linebreak="badbreak">-</mml:mo><mml:msub><mml:mi mathvariant="normal">N</mml:mi><mml:mn>1</mml:mn></mml:msub></mml:mrow></mml:mfenced></mml:mrow><mml:mrow><mml:mfenced open="(" close=")"><mml:mrow><mml:mi>F</mml:mi><mml:mo linebreak="badbreak">-</mml:mo><mml:msub><mml:mi>F</mml:mi><mml:mn>1</mml:mn></mml:msub></mml:mrow></mml:mfenced></mml:mrow></mml:mrow></mml:math></ce:formula></ce:display></ce:para>
+            <ce:para id="p0175" view="all">This evolution is represented in <ce:cross-ref refid="f0050" id="c0260">Fig. 10</ce:cross-ref><ce:float-anchor refid="f0050"/>a.</ce:para>
+            <ce:para id="p0180" view="all">Indeed, it can be observed in <ce:cross-ref refid="f0050" id="c0265">Fig. 10</ce:cross-ref>b that, when all the experimental volume values are plotted versus the total deposited energy density, i.e., the product of fluence and the number of pulses, they tend to follow a straight line. As a result, the terms <mml:math altimg="si36.svg"><mml:mrow><mml:mi mathvariant="normal">N</mml:mi><mml:msub><mml:mi>F</mml:mi><mml:mn>1</mml:mn></mml:msub></mml:mrow></mml:math> and <mml:math altimg="si37.svg"><mml:mrow><mml:msub><mml:mi mathvariant="normal">N</mml:mi><mml:mn>1</mml:mn></mml:msub><mml:mi>F</mml:mi></mml:mrow></mml:math> in Eq. <ce:cross-ref refid="e0030" id="c0270">(6)</ce:cross-ref> have a very limited effect on the evolution of the ablated volume and beyond a threshold the dimple volume is proportional to the energy density. However, this proportionality does not describe all the details of the experiments. The straight line in <ce:cross-ref refid="f0050" id="c0275">Fig. 10</ce:cross-ref>b has a slope <mml:math altimg="si38.svg"><mml:mrow><mml:mi>b</mml:mi></mml:mrow></mml:math>. This coefficient was obtained by fitting Eq. <ce:cross-ref refid="e0030" id="c0280">(6)</ce:cross-ref> to all experimental triplets <mml:math altimg="si39.svg"><mml:mrow><mml:mo stretchy="false">(</mml:mo><mml:mi mathvariant="normal">N</mml:mi><mml:mo>,</mml:mo><mml:mi>F</mml:mi><mml:mo>,</mml:mo><mml:mi>V</mml:mi><mml:mo stretchy="false">)</mml:mo></mml:mrow></mml:math>. At high fluence, the black dots are located below the straight line. This can be explained by geometrical effects: when the dimples are deeper, a fraction of the molten/evaporated material is not ejected or redeposited in the dimple.</ce:para>
+            <ce:para id="p0185" view="all">The surface colors reflect chemical changes, so XPS analyses were performed to identify the chemical transformations induced by laser treatment.</ce:para>
+          </ce:section>
+          <ce:section id="s0045" view="all">
+            <ce:label>4.2</ce:label>
+            <ce:section-title id="st065">Chemical analysis</ce:section-title>
+            <ce:para id="p0190" view="all">In addition to the morphology, chemical studies by XPS were completed to investigate the chemical effect of laser treatment. XPS measurements were carried out on the outstanding features of the dimples, namely the bottom and the bead. The dimples were produced with a laser fluence of 11.6&#xA0;J.cm<ce:sup loc="post">&#x2212;2</ce:sup> or 29.1&#xA0;J.cm<ce:sup loc="post">&#x2212;2</ce:sup>, and 10 or 15 laser pulses. The chemical composition of studied areas has been quantified and presented in <ce:cross-ref refid="f0055" id="c0285">Fig. 11</ce:cross-ref><ce:float-anchor refid="f0055"/>. Carbon and calcium were considered as contamination and not as products of laser processing of titanium surfaces. The oxygen content of the untextured area is relatively high. Besides the samples were stored in ambient air and temperature conditions for six months. They were thus affected by natural surface oxidation. At the beads of the dimples, the oxygen content increases significantly when increasing the laser fluence and slightly when increasing the number of laser pulses. At the bottom of the dimples, a significant percentage of nitrogen is measured. The presence of nitrogen increases for both laser fluence and number of laser pulses. As demonstrated in <ce:cross-ref refid="f0055" id="c0290">Fig. 11</ce:cross-ref>, the increase in oxygen can be linked to the formation of titanium dioxide (TiO<ce:inf loc="post">2</ce:inf>) as well as the increase in nitrogen to the formation of titanium nitride (TiN). Indeed, high resolution spectra in the energy range of the Ti 2p signal obtained at different regions on a textured titanium surface (untextured area, bottom of dimple, bead of dimple) have highlighted the formation of these elements. When the raw data have been fitted with several chemical states (TiO<ce:inf loc="post">2</ce:inf>, TiN and Ti metal), several results were found:<ce:list id="l0015"><ce:list-item id="o0050"><ce:label>&#x2013;</ce:label><ce:para id="p0195" view="all">the untextured area is predominantly composed of titanium dioxide,</ce:para></ce:list-item><ce:list-item id="o0055"><ce:label>&#x2013;</ce:label><ce:para id="p0200" view="all">the beads of the dimples consist essentially of titanium dioxide,</ce:para></ce:list-item><ce:list-item id="o0060"><ce:label>&#x2013;</ce:label><ce:para id="p0205" view="all">the bottom of the dimples are essentially composed of titanium nitride and titanium in metallic form.</ce:para></ce:list-item></ce:list></ce:para>
+            <ce:para id="p0210" view="all">These oxides and nitrides formed due to the presence of ambient air will alter the surface chemistry and potentially the reactivity and adhesion of a coating or the outcome of subsequent treatments. If these surface chemical species prove problematic, laser treatments could be conducted under argon or under a primary vacuum.</ce:para>
+          </ce:section>
+          <ce:section id="s0050" view="all">
+            <ce:label>4.3</ce:label>
+            <ce:section-title id="st070">Residual stress evaluation</ce:section-title>
+            <ce:para id="p0215" view="all">Laser treatment causes an increase in temperature, melting and evaporation of the metal. The question arises whether the surface has undergone any mechanical changes. However, residual stresses affect surface integrity, cracking, adhesion of coatings; hence, the mechanical properties of laser textured surfaces have to be studied. In order to assess residual stresses, the textured areas (areas 2&#xA0;mm&#xA0;&#xD7;&#xA0;2&#xA0;mm) were analyzed macroscopically using XRD and locally via SMM. Isolated dimples were also investigated by SMM only. XRD measurements allow an assessment of the global residual stresses of textured titanium surfaces. Indeed, the average penetration depth of X-rays was 4.15&#xA0;&#xB5;m and the analyzed surface was a spot of 1&#xA0;mm in diameter. Thus, the X-ray measurements provide an average of the residual stresses both inside and outside the dimples. By contrast, the scanning microwave microscopy collects local information over a depth range.</ce:para>
+            <ce:para id="p0220" view="all">Firstly, XRD tests were conducted on textured surfaces. The impact of the dimple pitch was studied and hence the residual stresses were measured for texturing grids with a pitch of 200&#xA0;&#xB5;m and 50&#xA0;&#xB5;m. As illustrated in <ce:cross-ref refid="f0060" id="c0295">Fig. 12</ce:cross-ref><ce:float-anchor refid="f0060"/>a, the level of residual stresses is higher for a 50&#xA0;&#xB5;m pitch than a 200&#xA0;&#xB5;m pitch.</ce:para>
+            <ce:para id="p0225" view="all">Indeed, the surface textured with a dimple pitch of 50&#xA0;&#xB5;m shows residual stresses about 15 times higher than the one textured with a 200&#xA0;&#xB5;m pitch. In the case of a 50&#xA0;&#xB5;m pitch, the effects of the laser pulses appear to overlap with each other and result in a very irregular and extremely rough surface (<ce:cross-ref refid="f0020" id="c0300">Fig. 4</ce:cross-ref>b,d). As a result, XRD measurements at fluences higher than 10&#xA0;J.cm<ce:sup loc="post">&#x2212;2</ce:sup> or 40 laser pulses could not be performed because the diffraction peaks were too broad and distorted. For surfaces textured with 10 and 20 laser pulses, the residual stresses increase gradually with laser fluence (<ce:cross-ref refid="f0060" id="c0305">Fig. 12</ce:cross-ref>a). For surfaces textured with 40 laser pulses, residual stresses increase quickly with laser fluence and appear to decrease when the fluence is 29.1&#xA0;J.cm<ce:sup loc="post">&#x2212;2</ce:sup> (<ce:cross-ref refid="f0060" id="c0310">Fig. 12</ce:cross-ref>a). In particular, the effect of the laser pulse number, for a laser fluence of 11.6&#xA0;J.cm<ce:sup loc="post">&#x2212;2</ce:sup>, is shown in <ce:cross-ref refid="f0060" id="c0315">Fig. 12</ce:cross-ref>b. Although the untextured surface was not measured, the residual stresses of textured titanium surfaces increase with the number of laser pulses. Laser treatment introduced tensile stresses and the dimpled surface with a pitch of 200&#xA0;&#xB5;m is in tension above 20 laser pulses.</ce:para>
+            <ce:para id="p0230" view="all">In addition, isolated dimples and four successive dimples of a textured area produced with a laser fluence of 11.6&#xA0;J.cm<ce:sup loc="post">&#x2212;2</ce:sup> were analyzed via SMM then results were compared. The objective is to study whether the residual stresses are the same for an isolated dimple or for a periodic arrangement of dimples in order to characterize the textured surface condition. Only SMM can allow this comparison considering the limited dimensions of an isolated dimple. Analysis of the <mml:math altimg="si40.svg"><mml:mrow><mml:msub><mml:mi mathvariant="normal">S</mml:mi><mml:mn>11</mml:mn></mml:msub></mml:mrow></mml:math> parameter highlighted a modification of the residual stress state. The impact of the number of laser pulses was studied by comparing dimples produced with 20 laser pulses and 40 laser pulses. <ce:cross-ref refid="f0065" id="c0320">Fig. 13</ce:cross-ref><ce:float-anchor refid="f0065"/> and <ce:cross-ref refid="f0070" id="c0325">Fig. 14</ce:cross-ref><ce:float-anchor refid="f0070"/> reveal the residual stress profiles for isolated dimples or dimples from a grid of dimples, produced with the same fluence and 20 or 40 laser pulses. The measurements conducted on the untextured surface were subtracted from the set of measurements carried out on the textured surface (<ce:cross-ref refid="f0015" id="c0330">Fig. 3</ce:cross-ref>). Thus, the baseline at 0&#xA0;dB represents the reference level, corresponding to the level of initial residual stresses present in an untextured surface. A positive (resp. negative) value of the signal corresponds to a tensile (resp. compressive) stress state. The type of residual stresses depends on the AFM tip position regarding the laser dimples and on the probed depth according to the analysis frequency. Indeed, alternating compressive and tensile residual stresses can be observed below the dimples. The very superficial surface tension can be explained by the thermal effects of laser treatment. Below the surface, the compressed material attempts to regain its original volume, creating compressive stresses. The compressive residual stresses observed at greater depths could be due to the above phenomenon or to the overall residual stress balance. In addition, the isolated dimples produced with 40 laser pulses show a wider stress profile than the isolated dimples produced with 20 laser pulses (<ce:cross-ref refid="f0065" id="c0335">Fig. 13</ce:cross-ref>). The variation in magnitude is similar for both different isolated dimples. For isolated dimples, the number of laser pulses induced a widening of the residual stress area but did not affect the residual stress magnitude level. The residual stress-affected zone, by spatial extrapolation, has a diameter of 100&#xA0;&#xB5;m for the isolated dimples produced with 20 laser pulses and a diameter of 200&#xA0;&#xB5;m for those obtained with 40 laser pulses. This residual stress state revealed via SMM is quite independent of the dimple shape. Indeed, the dimple diameter size with 20 and 40 pulses (<ce:cross-ref refid="f0035" id="c0340">Fig. 7</ce:cross-ref>) is similar while the SMM results are different (<ce:cross-ref refid="f0065" id="c0345">Fig. 13</ce:cross-ref>). In addition, increasing the number of laser pulses affects the residual stresses near the bead (<ce:cross-ref refid="f0065" id="c0350">Fig. 13</ce:cross-ref>b). Textured surfaces with a dimple pitch of 200&#xA0;&#xB5;m were analyzed.</ce:para>
+            <ce:para id="p0235" view="all">As it appears in <ce:cross-ref refid="f0070" id="c0355">Fig. 14</ce:cross-ref>a, each dimple of 200&#xA0;&#xB5;m pitch produced with 20 pulses presents an equivalent magnitude. For these dimples, the variation ranges are very close and the area between the dimples appears to be free of additional residual stresses. Thus, under these texturing conditions, the residual stresses of a dimple are not influenced by the formation of adjacent dimples. Adjacent dimples are the neighboring dimples near the studied dimple. In <ce:cross-ref refid="f0075" id="c0360">Fig. 15</ce:cross-ref><ce:float-anchor refid="f0075"/>a, it can be observed that the first dimple has three adjacent dimples (blue hatched dimples), while the second, third and fourth dimples have five adjacent dimples (red gridded dimples for the fourth dimple). By contrast, the magnitude recorded for successive dimples of 40 laser pulses is very different as it can be observed in <ce:cross-ref refid="f0070" id="c0365">Fig. 14</ce:cross-ref>b. The higher the number of pulses, the higher the residual stress levels. For 40 pulses, the residual stress level between dimples is significant. In addition, as previously shown for isolated dimples produced with 40 laser pulses, the residual stresses extend at least 100&#xA0;&#xB5;m on either side of the center of an isolated dimple. Thus, for a grid of dimples with a 200&#xA0;&#xB5;m pitch, the residual stresses on the surface are impacted by the formation of adjacent dimples.</ce:para>
+            <ce:para id="p0240" view="all"><ce:cross-ref refid="f0075" id="c0370">Fig. 15</ce:cross-ref>b,c and <ce:cross-ref refid="f0080" id="c0375">Fig. 16</ce:cross-ref><ce:float-anchor refid="f0080"/> show the evolution of the residual stresses below the bottom (from 3 to 12&#xA0;&#xB5;m) of successive dimples produced with 20 and 40 pulses. For 20 laser pulses, the residual stress profile is almost similar regardless of the dimple (<ce:cross-ref refid="f0075" id="c0380">Fig. 15</ce:cross-ref>b). However, for 40 laser pulses, a stabilization of the residual stress profile is observed from dimple #3 (<ce:cross-ref refid="f0075" id="c0385">Fig. 15</ce:cross-ref>c). <ce:cross-ref refid="f0075" id="c0390">Fig. 15</ce:cross-ref>c clearly illustrates the impact of adjacent dimples, especially their cumulative effect on residual stresses. The adjacent dimples also changed the depth stress state. In order to study the impact of the number of laser pulses on the residual stresses below the bottom of the dimples, with less impact from adjacent dimples, the residual stress profiles of dimple #1 were compared and presented in <ce:cross-ref refid="f0080" id="c0395">Fig. 16</ce:cross-ref>. From 3 to 4.5&#xA0;&#xB5;m below the bottom of the dimple, the magnitude variations are higher for 40 pulses than for 20 pulses. The residual stresses below 7.5&#xA0;&#xB5;m, from the bottom of the dimples, become smaller and smaller and tend to zero.</ce:para>
+            <ce:para id="p0245" view="all"><ce:cross-ref refid="f0085" id="c0400">Fig. 17</ce:cross-ref><ce:float-anchor refid="f0085"/> compares the depth residual stress profiles obtained at the bottom of isolated dimples and grid dimples #1 produced with 20 or 40 laser pulses. For 20 laser pulses, the SMM signal magnitudes of isolated and grid dimples are similar. However, a slight shift in residual stresses towards 3.6&#x2013;3.7&#xA0;&#xB5;m is observed when comparing the profiles at the bottom of isolated dimples produced with 20 and 40 laser pulses. Thus, increasing the number of laser pulses leads to a change in the depth residual stress profile as well as a change in the residual stress level in the area between the dimples. For 40 laser pulses, the residual stress profile at the bottom of a grid dimple is significantly altered compared to the profile observed at the bottom of an isolated dimple. Hence, dimple creation with 20 laser pulses shows individual residual stress behavior even for dimple grids. By contrast, for dimple grids produced with 40 laser pulses, dimple creation has a matrix behavior. Indeed, although dimple #1 has few adjacent dimples, <ce:cross-ref refid="f0085" id="c0405">Fig. 17</ce:cross-ref> highlights that the residual stresses at the bottom of dimples produced with 40 laser pulses were affected by the formation of adjacent dimples (cumulative effects).</ce:para>
+            <ce:para id="p0250" view="all">SMM provides a local measurement of residual stress while XRD delivers an average residual stress of a larger region. In (x, y) the size of the probed volume is in the micrometer range for XRD and in ten nanometers for SMM. In depth, the signal propagates at a finite average penetration depth characterized by the skin depth. As the penetration depths are comparable, the two techniques differ essentially in the spot size. Hence, they are complementary, XRD providing a global analysis of the affected area and SMM a local analysis.</ce:para>
+            <ce:para id="p0255" view="all">Averages of the SMM measurements from 3 to 3.9&#xA0;&#xB5;m were calculated and are plotted in <ce:cross-ref refid="f0090" id="c0410">Fig. 18</ce:cross-ref><ce:float-anchor refid="f0090"/>. Dimples #3 and #4 are studied because they have more adjacent dimples. As a result, they are more characteristic of laser texturing effects. The area between the dimples is more in compression for 20 pulses and more in tension for 40 pulses compared to the untextured surface. However, compressive residual stresses at the bottom of the dimples are noted, potentially due to residual stress balancing. If the measurement line is generalized to a surface, the majority of residual stresses should be in compression for 20 laser pulses and in tension for 40 laser pulses. Indeed, the area of the dimples is relatively small compared to the area between the dimples. Increasing the number of laser pulses potentially leads to the development of tensile residual stresses. The data in <ce:cross-ref refid="f0060" id="c0415">Fig. 12</ce:cross-ref>a reveal that the residual stresses measured using XRD increase with the number of laser pulses. Both methods, XRD and SMM, lead to the same observation regarding laser texturing: increasing the number of laser pulses generates a tensile residual stress in the surface. The presence of tensile residual stresses can be explained by the mechanisms involved during resolidification and cooling of the metal. During solidification and cooling, the liquid material contracts. However, the cold material around the molten zone prevents this contraction, thus generating tensile residual stresses in the surface.</ce:para>
+            <ce:para id="p0260" view="all">A grid of dimples produced with a laser fluence of 10.5&#xA0;J.cm<ce:sup loc="post">&#x2212;2</ce:sup> and 10 laser pulses was measured via XRD. Using scanning microwave microscopy, as shown in <ce:cross-ref refid="f0065" id="c0420">Fig. 13</ce:cross-ref>a, the residual stresses induced by a laser treatment of fluence 11.6&#xA0;J.cm<ce:sup loc="post">&#x2212;2</ce:sup> and 20 laser pulses extend in (x, y) over 50&#xA0;&#xB5;m on either side of the dimple center. For the current sample, it can be assumed that the dimples have little or no effect on the stress profile of the area between the dimples. The residual stress of the area between the dimples is assumed to be equal to the residual stress of the untextured surface. With this assumption and assuming that the stresses are homogeneous within the dimples, a simple computational model was defined to estimate the average residual stresses of the dimples (denoted <mml:math altimg="si41.svg"><mml:mrow><mml:msub><mml:mi>&#x3C3;</mml:mi><mml:mi>D</mml:mi></mml:msub></mml:mrow></mml:math>) and between the dimples (denoted <mml:math altimg="si42.svg"><mml:mrow><mml:msub><mml:mi>&#x3C3;</mml:mi><mml:mi>B</mml:mi></mml:msub></mml:mrow></mml:math>). In this case, the measured residual stress (denoted <mml:math altimg="si43.svg"><mml:mrow><mml:msub><mml:mi>&#x3C3;</mml:mi><mml:mi>M</mml:mi></mml:msub></mml:mrow></mml:math>) via XRD is the area average of the two stresses. The area of a dimple and the area between dimples are displayed in <ce:cross-ref refid="f0095" id="c0425">Fig. 19</ce:cross-ref><ce:float-anchor refid="f0095"/>.</ce:para>
+            <ce:para id="p0265" view="all">The measured stress is expressed as<ce:display><ce:formula id="e0035"><ce:label>(7)</ce:label><mml:math altimg="si44.svg"><mml:mrow><mml:msub><mml:mi>&#x3C3;</mml:mi><mml:mi>M</mml:mi></mml:msub><mml:mo linebreak="goodbreak">=</mml:mo><mml:msub><mml:mi>X</mml:mi><mml:mi>D</mml:mi></mml:msub><mml:msub><mml:mi>&#x3C3;</mml:mi><mml:mi>D</mml:mi></mml:msub><mml:mo linebreak="badbreak">+</mml:mo><mml:msub><mml:mi>X</mml:mi><mml:mi>B</mml:mi></mml:msub><mml:msub><mml:mi>&#x3C3;</mml:mi><mml:mi>B</mml:mi></mml:msub></mml:mrow></mml:math></ce:formula></ce:display></ce:para>
+            <ce:para id="p0270" view="all">where <mml:math altimg="si45.svg"><mml:mrow><mml:msub><mml:mi mathvariant="normal">X</mml:mi><mml:mi mathvariant="normal">D</mml:mi></mml:msub><mml:mo linebreak="goodbreak" linebreakstyle="after">=</mml:mo><mml:mfrac><mml:msub><mml:mi mathvariant="normal">A</mml:mi><mml:mi mathvariant="normal">D</mml:mi></mml:msub><mml:msub><mml:mi mathvariant="normal">A</mml:mi><mml:mi mathvariant="normal">M</mml:mi></mml:msub></mml:mfrac></mml:mrow></mml:math> is the proportion of the area of a dimple to the measured area, <mml:math altimg="si46.svg"><mml:mrow><mml:msub><mml:mi>X</mml:mi><mml:mi>B</mml:mi></mml:msub><mml:mo linebreak="goodbreak" linebreakstyle="after">=</mml:mo><mml:mfrac><mml:msub><mml:mi>A</mml:mi><mml:mi>B</mml:mi></mml:msub><mml:msub><mml:mi>A</mml:mi><mml:mi>M</mml:mi></mml:msub></mml:mfrac><mml:mo linebreak="goodbreak" linebreakstyle="after">=</mml:mo><mml:mn>1</mml:mn><mml:mo linebreak="badbreak" linebreakstyle="after">-</mml:mo><mml:msub><mml:mi>X</mml:mi><mml:mi>D</mml:mi></mml:msub></mml:mrow></mml:math> the proportion of the area between the dimples to the measured area, <mml:math altimg="si43.svg"><mml:mrow><mml:msub><mml:mi>&#x3C3;</mml:mi><mml:mi>M</mml:mi></mml:msub></mml:mrow></mml:math> the measured residual stress, <mml:math altimg="si41.svg"><mml:mrow><mml:msub><mml:mi>&#x3C3;</mml:mi><mml:mi>D</mml:mi></mml:msub></mml:mrow></mml:math> the average residual stress of a dimple and <mml:math altimg="si42.svg"><mml:mrow><mml:msub><mml:mi>&#x3C3;</mml:mi><mml:mi>B</mml:mi></mml:msub></mml:mrow></mml:math> the average residual stress of the area between the dimples (in this work assumed to be equal to the residual stress of the untextured surface). According to this model, the average residual stress induced by laser treatment is concentrated in the dimples. The studied dimples have a pitch of 200&#xA0;&#xB5;m, an inside diameter of 60&#xA0;&#xB5;m and an outside diameter of 90&#xA0;&#xB5;m. The Eq. <ce:cross-ref refid="e0035" id="c0430">(7)</ce:cross-ref> is used to calculate the average residual stress of a dimple as<ce:display><ce:formula id="e0040"><mml:math altimg="si47.svg"><mml:mrow><mml:msub><mml:mi>&#x3C3;</mml:mi><mml:mi>D</mml:mi></mml:msub><mml:mo linebreak="goodbreak">=</mml:mo><mml:mfrac><mml:mrow><mml:msub><mml:mi>&#x3C3;</mml:mi><mml:mi>M</mml:mi></mml:msub><mml:mo>-</mml:mo><mml:mrow><mml:mfenced open="(" close=")"><mml:mrow><mml:mn>1</mml:mn><mml:mo>-</mml:mo><mml:msub><mml:mi>X</mml:mi><mml:mi>D</mml:mi></mml:msub></mml:mrow></mml:mfenced></mml:mrow><mml:msub><mml:mi>&#x3C3;</mml:mi><mml:mi>B</mml:mi></mml:msub></mml:mrow><mml:msub><mml:mi>X</mml:mi><mml:mi>D</mml:mi></mml:msub></mml:mfrac></mml:mrow></mml:math></ce:formula></ce:display></ce:para>
+            <ce:para id="p0275" view="all">where <mml:math altimg="si43.svg"><mml:mrow><mml:msub><mml:mi>&#x3C3;</mml:mi><mml:mi>M</mml:mi></mml:msub></mml:mrow></mml:math> = (&#x2212;78.4&#xA0;&#xB1;&#xA0;13.7) MPa, <mml:math altimg="si42.svg"><mml:mrow><mml:msub><mml:mi>&#x3C3;</mml:mi><mml:mi>B</mml:mi></mml:msub></mml:mrow></mml:math> = (&#x2212;144.6&#xA0;&#xB1;&#xA0;11.4) MPa and <mml:math altimg="si48.svg"><mml:mrow><mml:msub><mml:mi>X</mml:mi><mml:mi>D</mml:mi></mml:msub><mml:mo linebreak="goodbreak" linebreakstyle="after">=</mml:mo><mml:mfrac><mml:mrow><mml:mn>81</mml:mn><mml:mi>&#x3C0;</mml:mi></mml:mrow><mml:mn>1600</mml:mn></mml:mfrac></mml:mrow></mml:math>&#xA0;&#x2245;&#xA0;0.159</ce:para>
+            <ce:para id="p0280" view="all">Then the average residual stress of a dimple can be estimated to <mml:math altimg="si41.svg"><mml:mrow><mml:msub><mml:mi>&#x3C3;</mml:mi><mml:mi>D</mml:mi></mml:msub></mml:mrow></mml:math>&#xA0;=&#xA0;271.6&#xA0;&#xB1;&#xA0;25.9&#xA0;MPa. In conclusion, dimple texturing with a pulsed nanosecond laser induces tensile residual stresses in the surface of about 4 &#x2013; 5&#xA0;&#xB5;m depth. The presence of these overall tensile residual stresses at the surface and localized compressive residual stresses at the bottom of the dimples induced by the laser treatment is worth noticing. This surface stress state should be taken into account when selecting additional treatments (e.g. coatings) and for the lifetime of the material. The presence of tensile residual stresses in the surface is detrimental to the performance of the surfaces. As the surface residual stresses can be assessed microscopically and macroscopically, optimal laser processing conditions could be investigated by modifying the fluence, the number of laser pulses and the dimple pitch in order to prevent damage to the surface mechanical properties during laser texturing. Post-treatment can also then be considered to relax the stress state on the surface or to introduce compressive residual stresses, such as cavitation peening or laser shock peening techniques to improve the mechanical properties of the textured surfaces.</ce:para>
+          </ce:section>
+        </ce:section>
+        <ce:section id="s0055" view="all">
+          <ce:label>5</ce:label>
+          <ce:section-title id="st075">Conclusions</ce:section-title>
+          <ce:para id="p0285" view="all">The experimental results presented in this paper confirm that laser texturing has significant effects on the surface layers of metallic materials. Microanalysis highlighted that the depth of the dimples increases with increasing laser fluence or number of laser pulses. The diameter of the dimples increased with increasing laser fluence and showed an asymptotic behavior with increasing number of laser pulses. A threshold ablation fluence can be observed which is significantly higher for a low laser pulse number and reaches a saturation point after about 20 pulses. A cumulative model of the effect of laser pulse number N on dimple depth was presented. The ablated volume was also analyzed. Above a fluence threshold and a pulse number threshold, the dimple volume evolves linearly with the laser fluence (for a constant pulse number) and linearly with the laser pulse number (for a constant fluence). These thresholds were interpreted as a consequence of thermal effects. In addition, the laser treatment involved the formation of titanium dioxide on the surface of the beads and the formation of titanium nitride at the bottom of the dimples. From a mechanical perspective, residual stress analysis showed that laser texturing created overall tension. Indeed, the impact of the number of laser pulses and the dimple pitch was investigated using XRD and SMM analysis. Locally, SMM measurements revealed that the stress profile of isolated dimples produced with 40 laser pulses was greater than for isolated dimples produced with 20 laser pulses. Thus, by increasing the number of laser pulses, the mechanical state of the adjacent area is more affected. And the textured surfaces exhibited tensile residual stresses in the surface between the dimples and compressive residual stresses at the bottom of the dimples. In addition, XRD studies of the effect of dimple pitch revealed that decreasing the pitch generated a significant increase in the average residual stress. SMM measurements do not currently provide a quantitative estimate but give valuable results on surface and depth residual stresses with excellent spatial resolution. A current study is underway to determine the exact correspondence between the residual stresses measured using XRD and SMM. Numerical simulation plays a very important role in predicting the mechanical behavior of parts. The simulation provides a better understanding of the impact of laser treatment on the occurrence of residual stresses and defect formation. Atomic scale molecular dynamics or finite element approaches could be undertaken to analyze or quantify residual stress.</ce:para>
+          <ce:section id="s0060" view="all">
+            <ce:section-title id="st080">CRediT authorship contribution statement</ce:section-title>
+            <ce:para id="p0290" view="all"><ce:bold>Laura Convert:</ce:bold> Conceptualization, Investigation, Formal analysis, Writing &#x2013; original draft, Writing &#x2013; review &amp; editing. <ce:bold>Eric Bourillot:</ce:bold> Conceptualization, Writing &#x2013; review &amp; editing, Supervision, Funding acquisition. <ce:bold>Manuel Fran&#xE7;ois:</ce:bold> Conceptualization, Investigation, Formal analysis, Writing &#x2013; review &amp; editing, Supervision, Funding acquisition. <ce:bold>Nicolas Pocholle:</ce:bold> Conceptualization, Investigation. <ce:bold>Florence Baras:</ce:bold> Conceptualization, Writing &#x2013; review &amp; editing, Supervision. <ce:bold>Olivier Politano:</ce:bold> Conceptualization, Writing &#x2013; review &amp; editing, Supervision. <ce:bold>Sophie Costil:</ce:bold> Conceptualization, Writing &#x2013; review &amp; editing, Supervision, Funding acquisition.</ce:para>
+          </ce:section>
+        </ce:section>
+      </ce:sections>
+      <ce:conflict-of-interest id="coi005" view="all">
+        <ce:section-title id="st085">Declaration of Competing Interest</ce:section-title>
+        <ce:para id="p0295" view="all">The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.</ce:para>
+      </ce:conflict-of-interest>
+      <ce:acknowledgment id="ak005" view="all">
+        <ce:section-title id="st090">Acknowledgements</ce:section-title>
+        <ce:para id="p0300" view="all">This work was supported by the Bourgogne Franche-Comt&#xE9; region, the French Technological Research Institute for Materials, Metallurgy and Processes (IRT M2P), the French program Plan d'Investissement d'Avenir (PIA) and the French National Research Agency (ANR) through the OmicroN project (Grant No. ANR-19-CE42-0007) and the EUR-EIPHI Graduate School (Grant No. ANR-17-EURE-0002). Thanks are expressed to Youness El Moudden and L&#xE9;a Le Joncour who provided some data for this paper.</ce:para>
+      </ce:acknowledgment>
+    </ja:body>
+    <ja:tail view="all">
+      <ce:bibliography id="bi005" view="all">
+        <ce:section-title id="st095">References</ce:section-title>
+        <ce:bibliography-sec id="bs005" view="all">
+          <ce:bib-reference id="b0005">
+            <ce:label>[1]</ce:label>
+            <sb:reference id="h0005">
+              <sb:contribution langtype="en">
+                <sb:authors>
+                  <sb:author>
+                    <ce:given-name>J.</ce:given-name>
+                    <ce:surname>Lu</ce:surname>
+                  </sb:author>
+                </sb:authors>
+                <sb:title>
+                  <sb:maintitle>Traitements de surface m&#xE9;caniques &#x2013; Effets sur les mat&#xE9;riaux</sb:maintitle>
+                </sb:title>
+              </sb:contribution>
+              <sb:host>
+                <sb:issue>
+                  <sb:series>
+                    <sb:title>
+                      <sb:maintitle>Techniques de l&#x2019;Ing&#xE9;nieur</sb:maintitle>
+                    </sb:title>
+                  </sb:series>
+                  <sb:date>2015</sb:date>
+                </sb:issue>
+                <ce:doi>10.51257/a-v1-m1191</ce:doi>
+              </sb:host>
+            </sb:reference>
+            <ce:source-text id="stx020">J. Lu, Traitements de surface m&#xE9;caniques &#x2013; Effets sur les mat&#xE9;riaux, Traitements des m&#xE9;taux. (2015). https://doi.org/10.51257/a-v1-m1191.</ce:source-text>
+          </ce:bib-reference>
+          <ce:bib-reference id="b0010">
+            <ce:label>[2]</ce:label>
+            <sb:reference id="h0010">
+              <sb:contribution langtype="en">
+                <sb:authors>
+                  <sb:author>
+                    <ce:given-name>J.</ce:given-name>
+                    <ce:surname>Meijer</ce:surname>
+                  </sb:author>
+                </sb:authors>
+                <sb:title>
+                  <sb:maintitle>Laser beam machining (LBM), state of the art and new opportunities</sb:maintitle>
+                </sb:title>
+              </sb:contribution>
+              <sb:host>
+                <sb:issue>
+                  <sb:series>
+                    <sb:title>
+                      <sb:maintitle>Journal of Materials Processing Technology</sb:maintitle>
+                    </sb:title>
+                    <sb:volume-nr>149</sb:volume-nr>
+                  </sb:series>
+                  <sb:issue-nr>1&#x2013;3</sb:issue-nr>
+                  <sb:date>2004</sb:date>
+                </sb:issue>
+                <sb:pages>
+                  <sb:first-page>2</sb:first-page>
+                  <sb:last-page>17</sb:last-page>
+                </sb:pages>
+                <ce:doi>10.1016/j.jmatprotec.2004.02.003</ce:doi>
+              </sb:host>
+            </sb:reference>
+            <ce:source-text id="stx025">J. Meijer, Laser beam machining (LBM), state of the art and new opportunities, Journal of Materials Processing Technology. 149 (2004) 2&#x2013;17. https://doi.org/10.1016/j.jmatprotec.2004.02.003.</ce:source-text>
+          </ce:bib-reference>
+          <ce:bib-reference id="b0015">
+            <ce:label>[3]</ce:label>
+            <sb:reference id="h0015">
+              <sb:host>
+                <sb:edited-book>
+                  <sb:editors>
+                    <sb:editor>
+                      <ce:given-name>J.F.</ce:given-name>
+                      <ce:surname>Ready</ce:surname>
+                    </sb:editor>
+                    <sb:editor>
+                      <ce:given-name>D.F.</ce:given-name>
+                      <ce:surname>Farson</ce:surname>
+                    </sb:editor>
+                  </sb:editors>
+                  <sb:title>
+                    <sb:maintitle>LIA Handbook of Laser Materials Processing</sb:maintitle>
+                  </sb:title>
+                  <sb:edition>1. ed</sb:edition>
+                  <sb:date>2001</sb:date>
+                  <sb:publisher>
+                    <sb:name>Laser Institute of America</sb:name>
+                    <sb:location>Orlando, Florida</sb:location>
+                  </sb:publisher>
+                </sb:edited-book>
+              </sb:host>
+              <sb:host>
+                <sb:e-host>
+                  <ce:inter-ref xlink:href="https://link.springer.com/book/9783540417705" id="ir9000" xlink:type="simple">https://link.springer.com/book/9783540417705</ce:inter-ref>
+                </sb:e-host>
+              </sb:host>
+            </sb:reference>
+            <ce:source-text id="stx9082">J.F. Ready, D.F. Farson (Eds.), LIA Handbook of Laser Materials Processing, 1. ed, Laser Institute of America, Orlando, Florida, 2001.</ce:source-text>
+          </ce:bib-reference>
+          <ce:bib-reference id="b0020">
+            <ce:label>[4]</ce:label>
+            <sb:reference id="h0020">
+              <sb:contribution langtype="en">
+                <sb:authors>
+                  <sb:author>
+                    <ce:given-name>I.</ce:given-name>
+                    <ce:surname>Etsion</ce:surname>
+                  </sb:author>
+                </sb:authors>
+                <sb:title>
+                  <sb:maintitle>State of the Art in Laser Surface Texturing</sb:maintitle>
+                </sb:title>
+              </sb:contribution>
+              <sb:host>
+                <sb:issue>
+                  <sb:series>
+                    <sb:title>
+                      <sb:maintitle>Journal of Tribology</sb:maintitle>
+                    </sb:title>
+                    <sb:volume-nr>127</sb:volume-nr>
+                  </sb:series>
+                  <sb:date>2005</sb:date>
+                </sb:issue>
+                <sb:pages>
+                  <sb:first-page>248</sb:first-page>
+                  <sb:last-page>253</sb:last-page>
+                </sb:pages>
+                <ce:doi>10.1115/1.1828070</ce:doi>
+              </sb:host>
+            </sb:reference>
+            <ce:source-text id="stx030">I. Etsion, State of the Art in Laser Surface Texturing, Journal of Tribology. 127 (2005) 248&#x2013;253. https://doi.org/10.1115/1.1828070.</ce:source-text>
+          </ce:bib-reference>
+          <ce:bib-reference id="b0025">
+            <ce:label>[5]</ce:label>
+            <sb:reference id="h0025">
+              <sb:contribution langtype="en">
+                <sb:authors>
+                  <sb:author>
+                    <ce:given-name>N.</ce:given-name>
+                    <ce:surname>Mirhosseini</ce:surname>
+                  </sb:author>
+                  <sb:author>
+                    <ce:given-name>P.L.</ce:given-name>
+                    <ce:surname>Crouse</ce:surname>
+                  </sb:author>
+                  <sb:author>
+                    <ce:given-name>M.J.J.</ce:given-name>
+                    <ce:surname>Schmidth</ce:surname>
+                  </sb:author>
+                  <sb:author>
+                    <ce:given-name>L.</ce:given-name>
+                    <ce:surname>Li</ce:surname>
+                  </sb:author>
+                  <sb:author>
+                    <ce:given-name>D.</ce:given-name>
+                    <ce:surname>Garrod</ce:surname>
+                  </sb:author>
+                </sb:authors>
+                <sb:title>
+                  <sb:maintitle>Laser surface micro-texturing of Ti-6Al-4V substrates for improved cell integration</sb:maintitle>
+                </sb:title>
+              </sb:contribution>
+              <sb:host>
+                <sb:issue>
+                  <sb:series>
+                    <sb:title>
+                      <sb:maintitle>Applied Surface Science</sb:maintitle>
+                    </sb:title>
+                    <sb:volume-nr>253</sb:volume-nr>
+                  </sb:series>
+                  <sb:issue-nr>19</sb:issue-nr>
+                  <sb:date>2007</sb:date>
+                </sb:issue>
+                <sb:pages>
+                  <sb:first-page>7738</sb:first-page>
+                  <sb:last-page>7743</sb:last-page>
+                </sb:pages>
+                <ce:doi>10.1016/j.apsusc.2007.02.168</ce:doi>
+              </sb:host>
+            </sb:reference>
+            <ce:source-text id="stx035">N. Mirhosseini, P.L. Crouse, M.J.J. Schmidth, L. Li, D. Garrod, Laser surface micro-texturing of Ti-6Al-4V substrates for improved cell integration, Applied Surface Science. 253 (2007) 7738&#x2013;7743. https://doi.org/10.1016/j.apsusc.2007.02.168.</ce:source-text>
+          </ce:bib-reference>
+          <ce:bib-reference id="b0030">
+            <ce:label>[6]</ce:label>
+            <sb:reference id="h0030">
+              <sb:contribution langtype="en">
+                <sb:authors>
+                  <sb:author>
+                    <ce:given-name>J.C.</ce:given-name>
+                    <ce:surname>Puoza</ce:surname>
+                  </sb:author>
+                  <sb:author>
+                    <ce:given-name>X.</ce:given-name>
+                    <ce:surname>Hua</ce:surname>
+                  </sb:author>
+                  <sb:author>
+                    <ce:given-name>Q.</ce:given-name>
+                    <ce:surname>Liu</ce:surname>
+                  </sb:author>
+                  <sb:author>
+                    <ce:given-name>Z.</ce:given-name>
+                    <ce:surname>Kang</ce:surname>
+                  </sb:author>
+                  <sb:author>
+                    <ce:given-name>P.</ce:given-name>
+                    <ce:surname>Zhang</ce:surname>
+                  </sb:author>
+                </sb:authors>
+                <sb:title>
+                  <sb:maintitle>Manufacturing of micro-textures on metals by nanosecond laser micromachining</sb:maintitle>
+                </sb:title>
+              </sb:contribution>
+              <sb:host>
+                <sb:issue>
+                  <sb:series>
+                    <sb:title>
+                      <sb:maintitle>Advances in Materials and Processing Technologies</sb:maintitle>
+                    </sb:title>
+                    <sb:volume-nr>4</sb:volume-nr>
+                  </sb:series>
+                  <sb:issue-nr>1</sb:issue-nr>
+                  <sb:date>2018</sb:date>
+                </sb:issue>
+                <sb:pages>
+                  <sb:first-page>86</sb:first-page>
+                  <sb:last-page>99</sb:last-page>
+                </sb:pages>
+                <ce:doi>10.1080/2374068x.2017.1406268</ce:doi>
+              </sb:host>
+            </sb:reference>
+            <ce:source-text id="stx040">J.C. Puoza, X. Hua, Q. Liu, Z. Kang, P. Zhang, Manufacturing of micro-textures on metals by nanosecond laser micromachining, Advances in Materials and Processing Technologies. 4 (2018) 86&#x2013;99. https://doi.org/10.1080/2374068X.2017.1406268.</ce:source-text>
+          </ce:bib-reference>
+          <ce:bib-reference id="b0035">
+            <ce:label>[7]</ce:label>
+            <sb:reference id="h0035">
+              <sb:contribution langtype="en">
+                <sb:authors>
+                  <sb:author>
+                    <ce:given-name>Z.</ce:given-name>
+                    <ce:surname>Yu</ce:surname>
+                  </sb:author>
+                  <sb:author>
+                    <ce:given-name>S.</ce:given-name>
+                    <ce:surname>Yin</ce:surname>
+                  </sb:author>
+                  <sb:author>
+                    <ce:given-name>W.</ce:given-name>
+                    <ce:surname>Zhang</ce:surname>
+                  </sb:author>
+                  <sb:author>
+                    <ce:given-name>X.</ce:given-name>
+                    <ce:surname>Jiang</ce:surname>
+                  </sb:author>
+                  <sb:author>
+                    <ce:given-name>J.</ce:given-name>
+                    <ce:surname>Hu</ce:surname>
+                  </sb:author>
+                </sb:authors>
+                <sb:title>
+                  <sb:maintitle>Picosecond laser texturing on titanium alloy for biomedical implants in cell proliferation and vascularization</sb:maintitle>
+                </sb:title>
+              </sb:contribution>
+              <sb:host>
+                <sb:issue>
+                  <sb:series>
+                    <sb:title>
+                      <sb:maintitle>J. Biomed. Mater. Res. B Appl. Biomater.</sb:maintitle>
+                    </sb:title>
+                    <sb:volume-nr>108</sb:volume-nr>
+                  </sb:series>
+                  <sb:issue-nr>4</sb:issue-nr>
+                  <sb:date>2020</sb:date>
+                </sb:issue>
+                <sb:pages>
+                  <sb:first-page>1494</sb:first-page>
+                  <sb:last-page>1504</sb:last-page>
+                </sb:pages>
+                <ce:doi>10.1002/jbm.b.34497</ce:doi>
+              </sb:host>
+            </sb:reference>
+            <ce:source-text id="stx045">Z. Yu, S. Yin, W. Zhang, X. Jiang, J. Hu, Picosecond laser texturing on titanium alloy for biomedical implants in cell proliferation and vascularization, J Biomed Mater Res. 108 (2020) 1494&#x2013;1504. https://doi.org/10.1002/jbm.b.34497.</ce:source-text>
+          </ce:bib-reference>
+          <ce:bib-reference id="b0040">
+            <ce:label>[8]</ce:label>
+            <sb:reference id="h0040">
+              <sb:contribution langtype="en">
+                <sb:authors>
+                  <sb:author>
+                    <ce:given-name>H.</ce:given-name>
+                    <ce:surname>Ogawa</ce:surname>
+                  </sb:author>
+                  <sb:author>
+                    <ce:given-name>S.</ce:given-name>
+                    <ce:surname>Sasaki</ce:surname>
+                  </sb:author>
+                  <sb:author>
+                    <ce:given-name>A.</ce:given-name>
+                    <ce:surname>Korenaga</ce:surname>
+                  </sb:author>
+                  <sb:author>
+                    <ce:given-name>K.</ce:given-name>
+                    <ce:surname>Miyake</ce:surname>
+                  </sb:author>
+                  <sb:author>
+                    <ce:given-name>M.</ce:given-name>
+                    <ce:surname>Nakano</ce:surname>
+                  </sb:author>
+                  <sb:author>
+                    <ce:given-name>T.</ce:given-name>
+                    <ce:surname>Murakami</ce:surname>
+                  </sb:author>
+                </sb:authors>
+                <sb:title>
+                  <sb:maintitle>Effects of surface texture size on the tribological properties of slideways</sb:maintitle>
+                </sb:title>
+              </sb:contribution>
+              <sb:host>
+                <sb:issue>
+                  <sb:series>
+                    <sb:title>
+                      <sb:maintitle>Proceedings of the Institution of Mechanical Engineers, Part J: Journal of Engineering Tribology.</sb:maintitle>
+                    </sb:title>
+                    <sb:volume-nr>224</sb:volume-nr>
+                  </sb:series>
+                  <sb:issue-nr>9</sb:issue-nr>
+                  <sb:date>2010</sb:date>
+                </sb:issue>
+                <sb:pages>
+                  <sb:first-page>885</sb:first-page>
+                  <sb:last-page>890</sb:last-page>
+                </sb:pages>
+                <ce:doi>10.1243/13506501jet735</ce:doi>
+              </sb:host>
+            </sb:reference>
+            <ce:source-text id="stx050">H. Ogawa, S. Sasaki, A. Korenaga, K. Miyake, M. Nakano, T. Murakami, Effects of surface texture size on the tribological properties of slideways, Proceedings of the Institution of Mechanical Engineers, Part J: Journal of Engineering Tribology. 224 (2010) 885&#x2013;890. https://doi.org/10.1243/13506501JET735.</ce:source-text>
+          </ce:bib-reference>
+          <ce:bib-reference id="b0045">
+            <ce:label>[9]</ce:label>
+            <sb:reference id="h0045">
+              <sb:contribution langtype="en">
+                <sb:authors>
+                  <sb:author>
+                    <ce:given-name>I.</ce:given-name>
+                    <ce:surname>Etsion</ce:surname>
+                  </sb:author>
+                </sb:authors>
+                <sb:title>
+                  <sb:maintitle>Modeling of surface texturing in hydrodynamic lubrication</sb:maintitle>
+                </sb:title>
+              </sb:contribution>
+              <sb:host>
+                <sb:issue>
+                  <sb:series>
+                    <sb:title>
+                      <sb:maintitle>Friction.</sb:maintitle>
+                    </sb:title>
+                    <sb:volume-nr>1</sb:volume-nr>
+                  </sb:series>
+                  <sb:issue-nr>3</sb:issue-nr>
+                  <sb:date>2013</sb:date>
+                </sb:issue>
+                <sb:pages>
+                  <sb:first-page>195</sb:first-page>
+                  <sb:last-page>209</sb:last-page>
+                </sb:pages>
+                <ce:doi>10.1007/s40544-013-0018-y</ce:doi>
+              </sb:host>
+            </sb:reference>
+            <ce:source-text id="stx055">I. Etsion, Modeling of surface texturing in hydrodynamic lubrication, Friction. 1 (2013) 195&#x2013;209. https://doi.org/10.1007/s40544-013-0018-y.</ce:source-text>
+          </ce:bib-reference>
+          <ce:bib-reference id="b0050">
+            <ce:label>[10]</ce:label>
+            <sb:reference id="h0050">
+              <sb:contribution langtype="en">
+                <sb:authors>
+                  <sb:author>
+                    <ce:given-name>J.L.</ce:given-name>
+                    <ce:surname>Bottini</ce:surname>
+                  </sb:author>
+                  <sb:author>
+                    <ce:given-name>V.</ce:given-name>
+                    <ce:surname>Kumar</ce:surname>
+                  </sb:author>
+                  <sb:author>
+                    <ce:given-name>S.</ce:given-name>
+                    <ce:surname>Hammouti</ce:surname>
+                  </sb:author>
+                  <sb:author>
+                    <ce:given-name>D.</ce:given-name>
+                    <ce:surname>Ruzic</ce:surname>
+                  </sb:author>
+                  <sb:author>
+                    <ce:given-name>C.S.</ce:given-name>
+                    <ce:surname>Brooks</ce:surname>
+                  </sb:author>
+                </sb:authors>
+                <sb:title>
+                  <sb:maintitle>Influence of wettability due to laser-texturing on critical heat flux in vertical flow boiling</sb:maintitle>
+                </sb:title>
+              </sb:contribution>
+              <sb:host>
+                <sb:issue>
+                  <sb:series>
+                    <sb:title>
+                      <sb:maintitle>International Journal of Heat and Mass Transfer</sb:maintitle>
+                    </sb:title>
+                    <sb:volume-nr>127</sb:volume-nr>
+                  </sb:series>
+                  <sb:date>2018</sb:date>
+                </sb:issue>
+                <sb:pages>
+                  <sb:first-page>806</sb:first-page>
+                  <sb:last-page>817</sb:last-page>
+                </sb:pages>
+                <ce:doi>10.1016/j.ijheatmasstransfer.2018.06.113</ce:doi>
+              </sb:host>
+            </sb:reference>
+            <ce:source-text id="stx060">J.L. Bottini, V. Kumar, S. Hammouti, D. Ruzic, C.S. Brooks, Influence of wettability due to laser-texturing on critical heat flux in vertical flow boiling, International Journal of Heat and Mass Transfer. 127 (2018) 806&#x2013;817. https://doi.org/10.1016/j.ijheatmasstransfer.2018.06.113.</ce:source-text>
+          </ce:bib-reference>
+          <ce:bib-reference id="b0055">
+            <ce:label>[11]</ce:label>
+            <sb:reference id="h0055">
+              <sb:contribution langtype="en">
+                <sb:authors>
+                  <sb:author>
+                    <ce:given-name>K.</ce:given-name>
+                    <ce:surname>Zhang</ce:surname>
+                  </sb:author>
+                  <sb:author>
+                    <ce:given-name>J.</ce:given-name>
+                    <ce:surname>Deng</ce:surname>
+                  </sb:author>
+                  <sb:author>
+                    <ce:given-name>X.</ce:given-name>
+                    <ce:surname>Guo</ce:surname>
+                  </sb:author>
+                  <sb:author>
+                    <ce:given-name>L.</ce:given-name>
+                    <ce:surname>Sun</ce:surname>
+                  </sb:author>
+                  <sb:author>
+                    <ce:given-name>S.</ce:given-name>
+                    <ce:surname>Lei</ce:surname>
+                  </sb:author>
+                </sb:authors>
+                <sb:title>
+                  <sb:maintitle>Study on the adhesion and tribological behavior of PVD TiAlN coatings with a multi-scale textured substrate surface</sb:maintitle>
+                </sb:title>
+              </sb:contribution>
+              <sb:host>
+                <sb:issue>
+                  <sb:series>
+                    <sb:title>
+                      <sb:maintitle>International Journal of Refractory Metals and Hard Materials</sb:maintitle>
+                    </sb:title>
+                    <sb:volume-nr>72</sb:volume-nr>
+                  </sb:series>
+                  <sb:date>2018</sb:date>
+                </sb:issue>
+                <sb:pages>
+                  <sb:first-page>292</sb:first-page>
+                  <sb:last-page>305</sb:last-page>
+                </sb:pages>
+                <ce:doi>10.1016/j.ijrmhm.2018.01.003</ce:doi>
+              </sb:host>
+            </sb:reference>
+            <ce:source-text id="stx065">K. Zhang, J. Deng, X. Guo, L. Sun, S. Lei, Study on the adhesion and tribological behavior of PVD TiAlN coatings with a multi-scale textured substrate surface, International Journal of Refractory Metals and Hard Materials. 72 (2018) 292&#x2013;305. https://doi.org/10.1016/j.ijrmhm.2018.01.003.</ce:source-text>
+          </ce:bib-reference>
+          <ce:bib-reference id="b0060">
+            <ce:label>[12]</ce:label>
+            <sb:reference id="h0060">
+              <sb:contribution langtype="en">
+                <sb:authors>
+                  <sb:author>
+                    <ce:given-name>D.</ce:given-name>
+                    <ce:surname>K&#xFC;mmel</ce:surname>
+                  </sb:author>
+                  <sb:author>
+                    <ce:given-name>M.</ce:given-name>
+                    <ce:surname>Hamann-Schroer</ce:surname>
+                  </sb:author>
+                  <sb:author>
+                    <ce:given-name>H.</ce:given-name>
+                    <ce:surname>Hetzner</ce:surname>
+                  </sb:author>
+                  <sb:author>
+                    <ce:given-name>J.</ce:given-name>
+                    <ce:surname>Schneider</ce:surname>
+                  </sb:author>
+                </sb:authors>
+                <sb:title>
+                  <sb:maintitle>Tribological behavior of nanosecond-laser surface textured Ti6Al4V</sb:maintitle>
+                </sb:title>
+              </sb:contribution>
+              <sb:host>
+                <sb:issue>
+                  <sb:series>
+                    <sb:title>
+                      <sb:maintitle>Wear</sb:maintitle>
+                    </sb:title>
+                    <sb:volume-nr>422&#x2013;423</sb:volume-nr>
+                  </sb:series>
+                  <sb:date>2019</sb:date>
+                </sb:issue>
+                <sb:pages>
+                  <sb:first-page>261</sb:first-page>
+                  <sb:last-page>268</sb:last-page>
+                </sb:pages>
+                <ce:doi>10.1016/j.wear.2019.01.079</ce:doi>
+              </sb:host>
+            </sb:reference>
+            <ce:source-text id="stx070">D. K&#xFC;mmel, M. Hamann-Schroer, H. Hetzner, J. Schneider, Tribological behavior of nanosecond-laser surface textured Ti6Al4V, Wear. 422&#x2013;423 (2019) 261&#x2013;268. https://doi.org/10.1016/j.wear.2019.01.079.</ce:source-text>
+          </ce:bib-reference>
+          <ce:bib-reference id="b0065">
+            <ce:label>[13]</ce:label>
+            <sb:reference id="h0065">
+              <sb:contribution langtype="en">
+                <sb:authors>
+                  <sb:author>
+                    <ce:given-name>Y.E.B.</ce:given-name>
+                    <ce:surname>Vidhya</ce:surname>
+                  </sb:author>
+                  <sb:author>
+                    <ce:given-name>A.</ce:given-name>
+                    <ce:surname>Pattamatta</ce:surname>
+                  </sb:author>
+                  <sb:author>
+                    <ce:given-name>A.</ce:given-name>
+                    <ce:surname>Manivannan</ce:surname>
+                  </sb:author>
+                  <sb:author>
+                    <ce:given-name>N.J.</ce:given-name>
+                    <ce:surname>Vasa</ce:surname>
+                  </sb:author>
+                </sb:authors>
+                <sb:title>
+                  <sb:maintitle>Influence of fluence, beam overlap and aging on the wettability of pulsed Nd3+:YAG nanosecond laser-textured Cu and Al sheets</sb:maintitle>
+                </sb:title>
+              </sb:contribution>
+              <sb:host>
+                <sb:issue>
+                  <sb:series>
+                    <sb:title>
+                      <sb:maintitle>Applied Surface Science</sb:maintitle>
+                    </sb:title>
+                    <sb:volume-nr>548</sb:volume-nr>
+                  </sb:series>
+                  <sb:date>2021</sb:date>
+                </sb:issue>
+                <sb:pages>
+                  <sb:first-page>149259</sb:first-page>
+                </sb:pages>
+                <ce:doi>10.1016/j.apsusc.2021.149259</ce:doi>
+              </sb:host>
+            </sb:reference>
+            <ce:source-text id="stx075">Y.E.B. Vidhya, A. Pattamatta, A. Manivannan, N.J. Vasa, Influence of fluence, beam overlap and aging on the wettability of pulsed Nd3+:YAG nanosecond laser-textured Cu and Al sheets, Applied Surface Science. 548 (2021) 149259. https://doi.org/10.1016/j.apsusc.2021.149259.</ce:source-text>
+          </ce:bib-reference>
+          <ce:bib-reference id="b0070">
+            <ce:label>[14]</ce:label>
+            <sb:reference id="h0070">
+              <sb:contribution langtype="en">
+                <sb:authors>
+                  <sb:author>
+                    <ce:given-name>Q.</ce:given-name>
+                    <ce:surname>Wang</ce:surname>
+                  </sb:author>
+                  <sb:author>
+                    <ce:given-name>H.</ce:given-name>
+                    <ce:surname>Wang</ce:surname>
+                  </sb:author>
+                  <sb:author>
+                    <ce:given-name>Z.</ce:given-name>
+                    <ce:surname>Zhu</ce:surname>
+                  </sb:author>
+                  <sb:author>
+                    <ce:given-name>N.</ce:given-name>
+                    <ce:surname>Xiang</ce:surname>
+                  </sb:author>
+                  <sb:author>
+                    <ce:given-name>Z.</ce:given-name>
+                    <ce:surname>Wang</ce:surname>
+                  </sb:author>
+                  <sb:author>
+                    <ce:given-name>G.</ce:given-name>
+                    <ce:surname>Sun</ce:surname>
+                  </sb:author>
+                </sb:authors>
+                <sb:title>
+                  <sb:maintitle>Switchable wettability control of titanium via facile nanosecond laser-based surface texturing</sb:maintitle>
+                </sb:title>
+              </sb:contribution>
+              <sb:host>
+                <sb:issue>
+                  <sb:series>
+                    <sb:title>
+                      <sb:maintitle>Surfaces and Interfaces</sb:maintitle>
+                    </sb:title>
+                    <sb:volume-nr>24</sb:volume-nr>
+                  </sb:series>
+                  <sb:date>2021</sb:date>
+                </sb:issue>
+                <sb:pages>
+                  <sb:first-page>101122</sb:first-page>
+                </sb:pages>
+                <ce:doi>10.1016/j.surfin.2021.101122</ce:doi>
+              </sb:host>
+            </sb:reference>
+            <ce:source-text id="stx080">Q. Wang, H. Wang, Z. Zhu, N. Xiang, Z. Wang, G. Sun, Switchable wettability control of titanium via facile nanosecond laser-based surface texturing, Surfaces and Interfaces. 24 (2021) 101122. https://doi.org/10.1016/j.surfin.2021.101122.</ce:source-text>
+          </ce:bib-reference>
+          <ce:bib-reference id="b0075">
+            <ce:label>[15]</ce:label>
+            <sb:reference id="h0075">
+              <sb:contribution langtype="en">
+                <sb:authors>
+                  <sb:author>
+                    <ce:given-name>A.F.</ce:given-name>
+                    <ce:surname>Harris</ce:surname>
+                  </sb:author>
+                  <sb:author>
+                    <ce:given-name>A.</ce:given-name>
+                    <ce:surname>Beevers</ce:surname>
+                  </sb:author>
+                </sb:authors>
+                <sb:title>
+                  <sb:maintitle>The effects of grit-blasting on surface properties for adhesion</sb:maintitle>
+                </sb:title>
+              </sb:contribution>
+              <sb:host>
+                <sb:issue>
+                  <sb:series>
+                    <sb:title>
+                      <sb:maintitle>International Journal of Adhesion and Adhesives</sb:maintitle>
+                    </sb:title>
+                    <sb:volume-nr>19</sb:volume-nr>
+                  </sb:series>
+                  <sb:issue-nr>6</sb:issue-nr>
+                  <sb:date>1999</sb:date>
+                </sb:issue>
+                <sb:pages>
+                  <sb:first-page>445</sb:first-page>
+                  <sb:last-page>452</sb:last-page>
+                </sb:pages>
+                <ce:doi>10.1016/s0143-7496(98)00061-x</ce:doi>
+              </sb:host>
+            </sb:reference>
+            <ce:source-text id="stx085">A.F. Harris, A. Beevers, The effects of grit-blasting on surface properties for adhesion, International Journal of Adhesion and Adhesives. 19 (1999) 445&#x2013;452. https://doi.org/10.1016/S0143-7496(98)00061-X.</ce:source-text>
+          </ce:bib-reference>
+          <ce:bib-reference id="b0080">
+            <ce:label>[16]</ce:label>
+            <sb:reference id="h0080">
+              <sb:contribution langtype="en">
+                <sb:authors>
+                  <sb:author>
+                    <ce:given-name>A.</ce:given-name>
+                    <ce:surname>Lamraoui</ce:surname>
+                  </sb:author>
+                  <sb:author>
+                    <ce:given-name>S.</ce:given-name>
+                    <ce:surname>Costil</ce:surname>
+                  </sb:author>
+                  <sb:author>
+                    <ce:given-name>C.</ce:given-name>
+                    <ce:surname>Langlade</ce:surname>
+                  </sb:author>
+                  <sb:author>
+                    <ce:given-name>C.</ce:given-name>
+                    <ce:surname>Coddet</ce:surname>
+                  </sb:author>
+                </sb:authors>
+                <sb:title>
+                  <sb:maintitle>Laser surface texturing (LST) treatment before thermal spraying: A new process to improve the substrate-coating adherence</sb:maintitle>
+                </sb:title>
+              </sb:contribution>
+              <sb:host>
+                <sb:issue>
+                  <sb:series>
+                    <sb:title>
+                      <sb:maintitle>Surface and Coatings Technology</sb:maintitle>
+                    </sb:title>
+                    <sb:volume-nr>205</sb:volume-nr>
+                  </sb:series>
+                  <sb:date>2010</sb:date>
+                </sb:issue>
+                <sb:pages>
+                  <sb:first-page>S164</sb:first-page>
+                  <sb:last-page>S167</sb:last-page>
+                </sb:pages>
+                <ce:doi>10.1016/j.surfcoat.2010.07.044</ce:doi>
+              </sb:host>
+            </sb:reference>
+            <ce:source-text id="stx090">A. Lamraoui, S. Costil, C. Langlade, C. Coddet, Laser surface texturing (LST) treatment before thermal spraying: A new process to improve the substrate-coating adherence, Surface and Coatings Technology. 205 (2010) S164&#x2013;S167. https://doi.org/10.1016/j.surfcoat.2010.07.044.</ce:source-text>
+          </ce:bib-reference>
+          <ce:bib-reference id="b0085">
+            <ce:label>[17]</ce:label>
+            <sb:reference id="h0085">
+              <sb:contribution langtype="en">
+                <sb:authors>
+                  <sb:author>
+                    <ce:given-name>Y.</ce:given-name>
+                    <ce:surname>Danlos</ce:surname>
+                  </sb:author>
+                  <sb:author>
+                    <ce:given-name>S.</ce:given-name>
+                    <ce:surname>Costil</ce:surname>
+                  </sb:author>
+                  <sb:author>
+                    <ce:given-name>H.</ce:given-name>
+                    <ce:surname>Liao</ce:surname>
+                  </sb:author>
+                  <sb:author>
+                    <ce:given-name>C.</ce:given-name>
+                    <ce:surname>Coddet</ce:surname>
+                  </sb:author>
+                </sb:authors>
+                <sb:title>
+                  <sb:maintitle>Influence of Ti-6Al-4V and Al 2017 substrate morphology on Ni-Al coating adhesion &#x2013; Impacts of laser treatments</sb:maintitle>
+                </sb:title>
+              </sb:contribution>
+              <sb:host>
+                <sb:issue>
+                  <sb:series>
+                    <sb:title>
+                      <sb:maintitle>Surface and Coatings Technology</sb:maintitle>
+                    </sb:title>
+                    <sb:volume-nr>205</sb:volume-nr>
+                  </sb:series>
+                  <sb:date>2011</sb:date>
+                </sb:issue>
+                <sb:pages>
+                  <sb:first-page>2702</sb:first-page>
+                  <sb:last-page>2708</sb:last-page>
+                </sb:pages>
+                <ce:doi>10.1016/j.surfcoat.2010.08.147</ce:doi>
+              </sb:host>
+            </sb:reference>
+            <ce:source-text id="stx9012">Y. Danlos, S. Costil, H. Liao , C. Coddet, Influence of Ti-6Al-4V and Al 2017 substrate morphology on Ni-Al coating adhesion &#x2013; Impacts of laser treatments, Surface and Coatings Technology 205 ( 2011 ) 2702 &#x2013; 2708, doi: 10.1016/j.surfcoat.2010.08.147.</ce:source-text>
+          </ce:bib-reference>
+          <ce:bib-reference id="b0090">
+            <ce:label>[18]</ce:label>
+            <sb:reference id="h0090">
+              <sb:contribution langtype="en">
+                <sb:authors>
+                  <sb:author>
+                    <ce:given-name>M.</ce:given-name>
+                    <ce:surname>Perton</ce:surname>
+                  </sb:author>
+                  <sb:author>
+                    <ce:given-name>S.</ce:given-name>
+                    <ce:surname>Costil</ce:surname>
+                  </sb:author>
+                  <sb:author>
+                    <ce:given-name>W.</ce:given-name>
+                    <ce:surname>Wong</ce:surname>
+                  </sb:author>
+                  <sb:author>
+                    <ce:given-name>D.</ce:given-name>
+                    <ce:surname>Poirier</ce:surname>
+                  </sb:author>
+                  <sb:author>
+                    <ce:given-name>E.</ce:given-name>
+                    <ce:surname>Irissou</ce:surname>
+                  </sb:author>
+                  <sb:author>
+                    <ce:given-name>J.-G.</ce:given-name>
+                    <ce:surname>Legoux</ce:surname>
+                  </sb:author>
+                  <sb:author>
+                    <ce:given-name>A.</ce:given-name>
+                    <ce:surname>Blouin</ce:surname>
+                  </sb:author>
+                  <sb:author>
+                    <ce:given-name>S.</ce:given-name>
+                    <ce:surname>Yue</ce:surname>
+                  </sb:author>
+                </sb:authors>
+                <sb:title>
+                  <sb:maintitle>Effect of Pulsed Laser Ablation and Continuous Laser Heating on the Adhesion and Cohesion of Cold Sprayed Ti-6Al-4V Coatings</sb:maintitle>
+                </sb:title>
+              </sb:contribution>
+              <sb:host>
+                <sb:issue>
+                  <sb:series>
+                    <sb:title>
+                      <sb:maintitle>Journal of Thermal Spray Technology</sb:maintitle>
+                    </sb:title>
+                    <sb:volume-nr>21</sb:volume-nr>
+                  </sb:series>
+                  <sb:issue-nr>6</sb:issue-nr>
+                  <sb:date>2012</sb:date>
+                </sb:issue>
+                <sb:pages>
+                  <sb:first-page>1322</sb:first-page>
+                  <sb:last-page>1333</sb:last-page>
+                </sb:pages>
+                <ce:doi>10.1007/s11666-012-9812-8</ce:doi>
+              </sb:host>
+            </sb:reference>
+            <ce:source-text id="stx095">M. Perton, S. Costil, W. Wong, D. Poirier, E. Irissou, J.-G. Legoux, A. Blouin, S. Yue, Effect of Pulsed Laser Ablation and Continuous Laser Heating on the Adhesion and Cohesion of Cold Sprayed Ti-6Al-4V Coatings, J Therm Spray Tech. 21 (2012) 1322&#x2013;1333. https://doi.org/10.1007/s11666-012-9812-8.</ce:source-text>
+          </ce:bib-reference>
+          <ce:bib-reference id="b0095">
+            <ce:label>[19]</ce:label>
+            <sb:reference id="h0095">
+              <sb:contribution langtype="en">
+                <sb:authors>
+                  <sb:author>
+                    <ce:given-name>K.L.</ce:given-name>
+                    <ce:surname>Mittal</ce:surname>
+                  </sb:author>
+                  <sb:author>
+                    <ce:given-name>T.</ce:given-name>
+                    <ce:surname>Bahners</ce:surname>
+                  </sb:author>
+                </sb:authors>
+              </sb:contribution>
+              <sb:host>
+                <sb:edited-book>
+                  <sb:title>
+                    <sb:maintitle>Laser Surface Modification and Adhesion</sb:maintitle>
+                  </sb:title>
+                  <sb:date>2014</sb:date>
+                  <sb:publisher>
+                    <sb:name>Wiley and Scrivener Publishing LLC</sb:name>
+                    <sb:location>Hoboken, New Jersey and Salem, Massachusetts</sb:location>
+                  </sb:publisher>
+                </sb:edited-book>
+              </sb:host>
+              <sb:host>
+                <sb:e-host>
+                  <ce:inter-ref xlink:href="https://doi.org/10.1002/9781118831670" id="ir9090" xlink:type="simple">https://doi.org/10.1002/9781118831670</ce:inter-ref>
+                </sb:e-host>
+              </sb:host>
+            </sb:reference>
+            <ce:source-text id="stx100">K.L. Mittal, T. Bahners, eds., Laser surface modification and adhesion, Scrivener Publishing&#xA0;; Wiley, Salem, Massachusetts&#xA0;: Hoboken, New Jersey, 2014.</ce:source-text>
+          </ce:bib-reference>
+          <ce:bib-reference id="b0100">
+            <ce:label>[20]</ce:label>
+            <sb:reference id="h0100">
+              <sb:contribution langtype="en">
+                <sb:authors>
+                  <sb:author>
+                    <ce:given-name>R.</ce:given-name>
+                    <ce:surname>Kromer</ce:surname>
+                  </sb:author>
+                  <sb:author>
+                    <ce:given-name>S.</ce:given-name>
+                    <ce:surname>Costil</ce:surname>
+                  </sb:author>
+                  <sb:author>
+                    <ce:given-name>J.</ce:given-name>
+                    <ce:surname>Cormier</ce:surname>
+                  </sb:author>
+                  <sb:author>
+                    <ce:given-name>D.</ce:given-name>
+                    <ce:surname>Courapied</ce:surname>
+                  </sb:author>
+                  <sb:author>
+                    <ce:given-name>L.</ce:given-name>
+                    <ce:surname>Berthe</ce:surname>
+                  </sb:author>
+                  <sb:author>
+                    <ce:given-name>P.</ce:given-name>
+                    <ce:surname>Peyre</ce:surname>
+                  </sb:author>
+                  <sb:author>
+                    <ce:given-name>M.</ce:given-name>
+                    <ce:surname>Boustie</ce:surname>
+                  </sb:author>
+                </sb:authors>
+                <sb:title>
+                  <sb:maintitle>Laser surface patterning to enhance adhesion of plasma sprayed coatings</sb:maintitle>
+                </sb:title>
+              </sb:contribution>
+              <sb:host>
+                <sb:issue>
+                  <sb:series>
+                    <sb:title>
+                      <sb:maintitle>Surface and Coatings Technology</sb:maintitle>
+                    </sb:title>
+                    <sb:volume-nr>278</sb:volume-nr>
+                  </sb:series>
+                  <sb:date>2015</sb:date>
+                </sb:issue>
+                <sb:pages>
+                  <sb:first-page>171</sb:first-page>
+                  <sb:last-page>182</sb:last-page>
+                </sb:pages>
+                <ce:doi>10.1016/j.surfcoat.2015.07.022</ce:doi>
+              </sb:host>
+            </sb:reference>
+            <ce:source-text id="stx105">R. Kromer, S. Costil, J. Cormier, D. Courapied, L. Berthe, P. Peyre, M. Boustie, Laser surface patterning to enhance adhesion of plasma sprayed coatings, Surface and Coatings Technology. 278 (2015) 171&#x2013;182. https://doi.org/10.1016/j.surfcoat.2015.07.022.</ce:source-text>
+          </ce:bib-reference>
+          <ce:bib-reference id="b0105">
+            <ce:label>[21]</ce:label>
+            <sb:reference id="h0105">
+              <sb:contribution langtype="en">
+                <sb:authors>
+                  <sb:author>
+                    <ce:given-name>X.</ce:given-name>
+                    <ce:surname>Meng</ce:surname>
+                  </sb:author>
+                  <sb:author>
+                    <ce:given-name>K.</ce:given-name>
+                    <ce:surname>Zhang</ce:surname>
+                  </sb:author>
+                  <sb:author>
+                    <ce:given-name>X.</ce:given-name>
+                    <ce:surname>Guo</ce:surname>
+                  </sb:author>
+                  <sb:author>
+                    <ce:given-name>C.</ce:given-name>
+                    <ce:surname>Wang</ce:surname>
+                  </sb:author>
+                  <sb:author>
+                    <ce:given-name>L.</ce:given-name>
+                    <ce:surname>Sun</ce:surname>
+                  </sb:author>
+                </sb:authors>
+                <sb:title>
+                  <sb:maintitle>Preparation of micro-textures on cemented carbide substrate surface by plasma-assisted laser machining to enhance the PVD tool coatings adhesion</sb:maintitle>
+                </sb:title>
+              </sb:contribution>
+              <sb:host>
+                <sb:issue>
+                  <sb:series>
+                    <sb:title>
+                      <sb:maintitle>Journal of Materials Processing Technology</sb:maintitle>
+                    </sb:title>
+                    <sb:volume-nr>288</sb:volume-nr>
+                  </sb:series>
+                  <sb:date>2021</sb:date>
+                </sb:issue>
+                <sb:pages>
+                  <sb:first-page>116870</sb:first-page>
+                </sb:pages>
+                <ce:doi>10.1016/j.jmatprotec.2020.116870</ce:doi>
+              </sb:host>
+            </sb:reference>
+            <ce:source-text id="stx110">X. Meng, K. Zhang, X. Guo, C. Wang, L. Sun, Preparation of micro-textures on cemented carbide substrate surface by plasma-assisted laser machining to enhance the PVD tool coatings adhesion, Journal of Materials Processing Technology. 288 (2021) 116870. https://doi.org/10.1016/j.jmatprotec.2020.116870.</ce:source-text>
+          </ce:bib-reference>
+          <ce:bib-reference id="b0110">
+            <ce:label>[22]</ce:label>
+            <ce:other-ref id="h9105">
+              <ce:textref>M. von Allmen, Laser-Beam Interactions with Materials, Springer Berlin Heidelberg, 1987. <ce:inter-ref xlink:href="https://doi.org/10.1007/978-3-642-97007-8" id="ir9102" xlink:type="simple">https://doi.org/10.1007/978-3-642-97007-8</ce:inter-ref>.</ce:textref>
+            </ce:other-ref>
+          </ce:bib-reference>
+          <ce:bib-reference id="b0115">
+            <ce:label>[23]</ce:label>
+            <ce:other-ref id="h9020">
+              <ce:textref>J.-M. Jouvard, A. Soveja, L. Lavisse, Traitement de surface m&#xE9;tallique induit par faisceau laser Nd:YAG Q-Switch de marquage : mod&#xE9;lisation d&#x2019;un impact laser, (2007). Available from: <ce:inter-ref xlink:href="https://hal.archives-ouvertes.fr/hal-00167245" xlink:type="simple" id="ir9016">https://hal.archives-ouvertes.fr/hal-00167245</ce:inter-ref>.</ce:textref>
+            </ce:other-ref>
+          </ce:bib-reference>
+          <ce:bib-reference id="b0120">
+            <ce:label>[24]</ce:label>
+            <ce:other-ref id="h9022">
+              <ce:textref>P. Schaaf (Ed.), Laser Processing of Materials, Springer Berlin Heidelberg, 2010. <ce:inter-ref xlink:href="https://doi.org/10.1007/978-3-642-13281-0" xlink:type="simple" id="ir9030">https://doi.org/10.1007/978-3-642-13281-0</ce:inter-ref>.</ce:textref>
+            </ce:other-ref>
+          </ce:bib-reference>
+          <ce:bib-reference id="b0125">
+            <ce:label>[25]</ce:label>
+            <sb:reference id="h0125">
+              <sb:contribution langtype="en">
+                <sb:authors>
+                  <sb:author>
+                    <ce:given-name>S.T.</ce:given-name>
+                    <ce:surname>Hendow</ce:surname>
+                  </sb:author>
+                  <sb:author>
+                    <ce:given-name>S.A.</ce:given-name>
+                    <ce:surname>Shakir</ce:surname>
+                  </sb:author>
+                </sb:authors>
+                <sb:title>
+                  <sb:maintitle>Structuring materials with nanosecond laser pulses</sb:maintitle>
+                </sb:title>
+              </sb:contribution>
+              <sb:host>
+                <sb:issue>
+                  <sb:series>
+                    <sb:title>
+                      <sb:maintitle>Optics Express</sb:maintitle>
+                    </sb:title>
+                    <sb:volume-nr>18</sb:volume-nr>
+                  </sb:series>
+                  <sb:issue-nr>10</sb:issue-nr>
+                  <sb:date>2010</sb:date>
+                </sb:issue>
+                <sb:pages>
+                  <sb:first-page>10188</sb:first-page>
+                  <sb:last-page>10199</sb:last-page>
+                </sb:pages>
+                <ce:doi>10.1364/oe.18.010188</ce:doi>
+              </sb:host>
+            </sb:reference>
+            <ce:source-text id="stx120">S.T. Hendow, S.A. Shakir, Structuring materials with nanosecond laser pulses, Opt. Express. 18 (2010) 10188. https://doi.org/10.1364/OE.18.010188.</ce:source-text>
+          </ce:bib-reference>
+          <ce:bib-reference id="b0130">
+            <ce:label>[26]</ce:label>
+            <sb:reference id="h0130">
+              <sb:contribution langtype="en">
+                <sb:authors>
+                  <sb:author>
+                    <ce:given-name>D.</ce:given-name>
+                    <ce:surname>B&#xE4;uerle</ce:surname>
+                  </sb:author>
+                </sb:authors>
+              </sb:contribution>
+              <sb:host>
+                <sb:book>
+                  <sb:title>
+                    <sb:maintitle>Laser processing and chemistry</sb:maintitle>
+                  </sb:title>
+                  <sb:edition>4. ed</sb:edition>
+                  <sb:date>2011</sb:date>
+                  <sb:publisher>
+                    <sb:name>Springer Berlin Heidelberg</sb:name>
+                  </sb:publisher>
+                </sb:book>
+              </sb:host>
+              <sb:host>
+                <sb:e-host>
+                  <ce:inter-ref xlink:href="http://dx.doi.org/10.1007/978-3-642-17613-5" id="ir9028" xlink:type="simple">http://dx.doi.org/10.1007/978-3-642-17613-5</ce:inter-ref>
+                </sb:e-host>
+              </sb:host>
+            </sb:reference>
+            <ce:source-text id="stx9071">D. B&#xE4;uerle, Laser processing and chemistry, 4. ed, Springer, Berlin Heidelberg, 2011.</ce:source-text>
+          </ce:bib-reference>
+          <ce:bib-reference id="b0135">
+            <ce:label>[27]</ce:label>
+            <sb:reference id="h0135">
+              <sb:contribution langtype="en">
+                <sb:authors>
+                  <sb:author>
+                    <ce:given-name>K.-H.</ce:given-name>
+                    <ce:surname>Leitz</ce:surname>
+                  </sb:author>
+                  <sb:author>
+                    <ce:given-name>B.</ce:given-name>
+                    <ce:surname>Redlingsh&#xF6;fer</ce:surname>
+                  </sb:author>
+                  <sb:author>
+                    <ce:given-name>Y.</ce:given-name>
+                    <ce:surname>Reg</ce:surname>
+                  </sb:author>
+                  <sb:author>
+                    <ce:given-name>A.</ce:given-name>
+                    <ce:surname>Otto</ce:surname>
+                  </sb:author>
+                  <sb:author>
+                    <ce:given-name>M.</ce:given-name>
+                    <ce:surname>Schmidt</ce:surname>
+                  </sb:author>
+                </sb:authors>
+                <sb:title>
+                  <sb:maintitle>Metal Ablation with Short and Ultrashort Laser Pulses</sb:maintitle>
+                </sb:title>
+              </sb:contribution>
+              <sb:host>
+                <sb:issue>
+                  <sb:series>
+                    <sb:title>
+                      <sb:maintitle>Physics Procedia</sb:maintitle>
+                    </sb:title>
+                    <sb:volume-nr>12</sb:volume-nr>
+                  </sb:series>
+                  <sb:date>2011</sb:date>
+                </sb:issue>
+                <sb:pages>
+                  <sb:first-page>230</sb:first-page>
+                  <sb:last-page>238</sb:last-page>
+                </sb:pages>
+                <ce:doi>10.1016/j.phpro.2011.03.128</ce:doi>
+              </sb:host>
+            </sb:reference>
+            <ce:source-text id="stx125">K.-H. Leitz, B. Redlingsh&#xF6;fer, Y. Reg, A. Otto, M. Schmidt, Metal Ablation with Short and Ultrashort Laser Pulses, Physics Procedia. 12 (2011) 230&#x2013;238. https://doi.org/10.1016/j.phpro.2011.03.128.</ce:source-text>
+          </ce:bib-reference>
+          <ce:bib-reference id="b0140">
+            <ce:label>[28]</ce:label>
+            <ce:other-ref id="h9031">
+              <ce:textref>Y. Cao, Ablation and plasma effects during nanosecond laser matter interaction in air and water, Ph.D. dissertation, Purdue University, 2015. Available from: <ce:inter-ref xlink:href="https://www.proquest.com/docview/1780301218/abstract/7976F277ACBB4D4EPQ/1" id="ir9068" xlink:type="simple">https://www.proquest.com/docview/1780301218/abstract/7976F277ACBB4D4EPQ/1</ce:inter-ref>.</ce:textref>
+            </ce:other-ref>
+          </ce:bib-reference>
+          <ce:bib-reference id="b0145">
+            <ce:label>[29]</ce:label>
+            <sb:reference id="h0145">
+              <sb:contribution langtype="en">
+                <sb:authors>
+                  <sb:author>
+                    <ce:given-name>C.</ce:given-name>
+                    <ce:surname>Sun</ce:surname>
+                  </sb:author>
+                  <sb:author>
+                    <ce:given-name>J.</ce:given-name>
+                    <ce:surname>Min</ce:surname>
+                  </sb:author>
+                  <sb:author>
+                    <ce:given-name>J.</ce:given-name>
+                    <ce:surname>Lin</ce:surname>
+                  </sb:author>
+                  <sb:author>
+                    <ce:given-name>H.</ce:given-name>
+                    <ce:surname>Wan</ce:surname>
+                  </sb:author>
+                  <sb:author>
+                    <ce:given-name>S.</ce:given-name>
+                    <ce:surname>Yang</ce:surname>
+                  </sb:author>
+                  <sb:author>
+                    <ce:given-name>S.</ce:given-name>
+                    <ce:surname>Wang</ce:surname>
+                  </sb:author>
+                </sb:authors>
+                <sb:title>
+                  <sb:maintitle>The effect of laser ablation treatment on the chemistry, morphology and bonding strength of CFRP joints</sb:maintitle>
+                </sb:title>
+              </sb:contribution>
+              <sb:host>
+                <sb:issue>
+                  <sb:series>
+                    <sb:title>
+                      <sb:maintitle>International Journal of Adhesion and Adhesives</sb:maintitle>
+                    </sb:title>
+                    <sb:volume-nr>84</sb:volume-nr>
+                  </sb:series>
+                  <sb:date>2018</sb:date>
+                </sb:issue>
+                <sb:pages>
+                  <sb:first-page>325</sb:first-page>
+                  <sb:last-page>334</sb:last-page>
+                </sb:pages>
+                <ce:doi>10.1016/j.ijadhadh.2018.04.014</ce:doi>
+              </sb:host>
+            </sb:reference>
+            <ce:source-text id="stx130">C. Sun, J. Min, J. Lin, H. Wan, S. Yang, S. Wang, The effect of laser ablation treatment on the chemistry, morphology and bonding strength of CFRP joints, International Journal of Adhesion and Adhesives. 84 (2018) 325&#x2013;334. https://doi.org/10.1016/j.ijadhadh.2018.04.014.</ce:source-text>
+          </ce:bib-reference>
+          <ce:bib-reference id="b0150">
+            <ce:label>[30]</ce:label>
+            <sb:reference id="h0150">
+              <sb:contribution langtype="en">
+                <sb:authors>
+                  <sb:author>
+                    <ce:given-name>Z.</ce:given-name>
+                    <ce:surname>Yan</ce:surname>
+                  </sb:author>
+                  <sb:author>
+                    <ce:given-name>X.</ce:given-name>
+                    <ce:surname>Mei</ce:surname>
+                  </sb:author>
+                  <sb:author>
+                    <ce:given-name>W.</ce:given-name>
+                    <ce:surname>Wang</ce:surname>
+                  </sb:author>
+                  <sb:author>
+                    <ce:given-name>A.</ce:given-name>
+                    <ce:surname>Pan</ce:surname>
+                  </sb:author>
+                  <sb:author>
+                    <ce:given-name>Q.</ce:given-name>
+                    <ce:surname>Lin</ce:surname>
+                  </sb:author>
+                  <sb:author>
+                    <ce:given-name>C.</ce:given-name>
+                    <ce:surname>Huang</ce:surname>
+                  </sb:author>
+                </sb:authors>
+                <sb:title>
+                  <sb:maintitle>Numerical simulation on nanosecond laser ablation of titanium considering plasma shield and evaporation-affected surface thermocapillary convection</sb:maintitle>
+                </sb:title>
+              </sb:contribution>
+              <sb:host>
+                <sb:issue>
+                  <sb:series>
+                    <sb:title>
+                      <sb:maintitle>Optics Communications</sb:maintitle>
+                    </sb:title>
+                    <sb:volume-nr>453</sb:volume-nr>
+                  </sb:series>
+                  <sb:date>2019</sb:date>
+                </sb:issue>
+                <sb:pages>
+                  <sb:first-page>124384</sb:first-page>
+                </sb:pages>
+                <ce:doi>10.1016/j.optcom.2019.124384</ce:doi>
+              </sb:host>
+            </sb:reference>
+            <ce:source-text id="stx135">Z. Yan, X. Mei, W. Wang, A. Pan, Q. Lin, C. Huang, Numerical simulation on nanosecond laser ablation of titanium considering plasma shield and evaporation-affected surface thermocapillary convection, Optics Communications. 453 (2019) 124384. https://doi.org/10.1016/j.optcom.2019.124384.</ce:source-text>
+          </ce:bib-reference>
+          <ce:bib-reference id="b0155">
+            <ce:label>[31]</ce:label>
+            <sb:reference id="h0155">
+              <sb:contribution langtype="en">
+                <sb:authors>
+                  <sb:author>
+                    <ce:given-name>M.</ce:given-name>
+                    <ce:surname>Trtica</ce:surname>
+                  </sb:author>
+                  <sb:author>
+                    <ce:given-name>B.</ce:given-name>
+                    <ce:surname>Gakovic</ce:surname>
+                  </sb:author>
+                  <sb:author>
+                    <ce:given-name>D.</ce:given-name>
+                    <ce:surname>Batani</ce:surname>
+                  </sb:author>
+                  <sb:author>
+                    <ce:given-name>T.</ce:given-name>
+                    <ce:surname>Desai</ce:surname>
+                  </sb:author>
+                  <sb:author>
+                    <ce:given-name>P.</ce:given-name>
+                    <ce:surname>Panjan</ce:surname>
+                  </sb:author>
+                  <sb:author>
+                    <ce:given-name>B.</ce:given-name>
+                    <ce:surname>Radak</ce:surname>
+                  </sb:author>
+                </sb:authors>
+                <sb:title>
+                  <sb:maintitle>Surface modifications of a titanium implant by a picosecond Nd:YAG laser operating at 1064 and 532nm</sb:maintitle>
+                </sb:title>
+              </sb:contribution>
+              <sb:host>
+                <sb:issue>
+                  <sb:series>
+                    <sb:title>
+                      <sb:maintitle>Applied Surface Science</sb:maintitle>
+                    </sb:title>
+                    <sb:volume-nr>253</sb:volume-nr>
+                  </sb:series>
+                  <sb:issue-nr>5</sb:issue-nr>
+                  <sb:date>2006</sb:date>
+                </sb:issue>
+                <sb:pages>
+                  <sb:first-page>2551</sb:first-page>
+                  <sb:last-page>2556</sb:last-page>
+                </sb:pages>
+                <ce:doi>10.1016/j.apsusc.2006.05.024</ce:doi>
+              </sb:host>
+            </sb:reference>
+            <ce:source-text id="stx140">M. Trtica, B. Gakovic, D. Batani, T. Desai, P. Panjan, B. Radak, Surface modifications of a titanium implant by a picosecond Nd:YAG laser operating at 1064 and 532nm, Applied Surface Science. 253 (2006) 2551&#x2013;2556. https://doi.org/10.1016/j.apsusc.2006.05.024.</ce:source-text>
+          </ce:bib-reference>
+          <ce:bib-reference id="b0160">
+            <ce:label>[32]</ce:label>
+            <sb:reference id="h0160">
+              <sb:contribution langtype="en">
+                <sb:authors>
+                  <sb:author>
+                    <ce:given-name>S.</ce:given-name>
+                    <ce:surname>Costil</ce:surname>
+                  </sb:author>
+                  <sb:author>
+                    <ce:given-name>A.</ce:given-name>
+                    <ce:surname>Lamraoui</ce:surname>
+                  </sb:author>
+                  <sb:author>
+                    <ce:given-name>C.</ce:given-name>
+                    <ce:surname>Langlade</ce:surname>
+                  </sb:author>
+                  <sb:author>
+                    <ce:given-name>O.</ce:given-name>
+                    <ce:surname>Heintz</ce:surname>
+                  </sb:author>
+                  <sb:author>
+                    <ce:given-name>R.</ce:given-name>
+                    <ce:surname>Oltra</ce:surname>
+                  </sb:author>
+                </sb:authors>
+                <sb:title>
+                  <sb:maintitle>Surface modifications induced by pulsed-laser texturing &#x2013; Influence of laser impact on the surface properties</sb:maintitle>
+                </sb:title>
+              </sb:contribution>
+              <sb:host>
+                <sb:issue>
+                  <sb:series>
+                    <sb:title>
+                      <sb:maintitle>Applied Surface Science</sb:maintitle>
+                    </sb:title>
+                    <sb:volume-nr>288</sb:volume-nr>
+                  </sb:series>
+                  <sb:date>2014</sb:date>
+                </sb:issue>
+                <sb:pages>
+                  <sb:first-page>542</sb:first-page>
+                  <sb:last-page>549</sb:last-page>
+                </sb:pages>
+                <ce:doi>10.1016/j.apsusc.2013.10.069</ce:doi>
+              </sb:host>
+            </sb:reference>
+            <ce:source-text id="stx145">S. Costil, A. Lamraoui, C. Langlade, O. Heintz, R. Oltra, Surface modifications induced by pulsed-laser texturing &#x2013; Influence of laser impact on the surface properties, Applied Surface Science. 288 (2014) 542&#x2013;549. https://doi.org/10.1016/j.apsusc.2013.10.069.</ce:source-text>
+          </ce:bib-reference>
+          <ce:bib-reference id="b0165">
+            <ce:label>[33]</ce:label>
+            <sb:reference id="h0165">
+              <sb:contribution langtype="en">
+                <sb:authors>
+                  <sb:author>
+                    <ce:given-name>Y.</ce:given-name>
+                    <ce:surname>Jee</ce:surname>
+                  </sb:author>
+                  <sb:author>
+                    <ce:given-name>M.F.</ce:given-name>
+                    <ce:surname>Becker</ce:surname>
+                  </sb:author>
+                  <sb:author>
+                    <ce:given-name>R.M.</ce:given-name>
+                    <ce:surname>Walser</ce:surname>
+                  </sb:author>
+                </sb:authors>
+                <sb:title>
+                  <sb:maintitle>Laser-induced damage on single-crystal metal surfaces</sb:maintitle>
+                </sb:title>
+              </sb:contribution>
+              <sb:host>
+                <sb:issue>
+                  <sb:series>
+                    <sb:title>
+                      <sb:maintitle>J. Opt. Soc. Am. B.</sb:maintitle>
+                    </sb:title>
+                    <sb:volume-nr>5</sb:volume-nr>
+                  </sb:series>
+                  <sb:issue-nr>3</sb:issue-nr>
+                  <sb:date>1988</sb:date>
+                </sb:issue>
+                <sb:pages>
+                  <sb:first-page>648</sb:first-page>
+                  <sb:last-page>659</sb:last-page>
+                </sb:pages>
+                <ce:doi>10.1364/josab.5.000648</ce:doi>
+              </sb:host>
+            </sb:reference>
+            <ce:source-text id="stx150">Y. Jee, M.F. Becker, R.M. Walser, Laser-induced damage on single-crystal metal surfaces, J. Opt. Soc. Am. B. 5 (1988) 648. https://doi.org/10.1364/JOSAB.5.000648.</ce:source-text>
+          </ce:bib-reference>
+          <ce:bib-reference id="b0170">
+            <ce:label>[34]</ce:label>
+            <sb:reference id="h0170">
+              <sb:contribution langtype="en">
+                <sb:authors>
+                  <sb:author>
+                    <ce:given-name>M.N.</ce:given-name>
+                    <ce:surname>Libenson</ce:surname>
+                  </sb:author>
+                  <sb:author>
+                    <ce:given-name>G.D.</ce:given-name>
+                    <ce:surname>Shandybina</ce:surname>
+                  </sb:author>
+                  <sb:author>
+                    <ce:given-name>A.L.</ce:given-name>
+                    <ce:surname>Shakhmin</ce:surname>
+                  </sb:author>
+                </sb:authors>
+                <sb:title>
+                  <sb:maintitle>Chemical analysis of products obtained by nanosecond laser ablation</sb:maintitle>
+                </sb:title>
+              </sb:contribution>
+              <sb:host>
+                <sb:issue>
+                  <sb:series>
+                    <sb:title>
+                      <sb:maintitle>Technical Physics</sb:maintitle>
+                    </sb:title>
+                    <sb:volume-nr>45</sb:volume-nr>
+                  </sb:series>
+                  <sb:issue-nr>9</sb:issue-nr>
+                  <sb:date>2000</sb:date>
+                </sb:issue>
+                <sb:pages>
+                  <sb:first-page>1219</sb:first-page>
+                  <sb:last-page>1222</sb:last-page>
+                </sb:pages>
+                <ce:doi>10.1134/1.1318114</ce:doi>
+              </sb:host>
+            </sb:reference>
+            <ce:source-text id="stx155">M.N. Libenson, G.D. Shandybina, A.L. Shakhmin, Chemical analysis of products obtained by nanosecond laser ablation, Tech. Phys. 45 (2000) 1219&#x2013;1222. https://doi.org/10.1134/1.1318114.</ce:source-text>
+          </ce:bib-reference>
+          <ce:bib-reference id="b0175">
+            <ce:label>[35]</ce:label>
+            <sb:reference id="h0175">
+              <sb:contribution langtype="en">
+                <sb:authors>
+                  <sb:author>
+                    <ce:given-name>J.</ce:given-name>
+                    <ce:surname>Barralis</ce:surname>
+                  </sb:author>
+                  <sb:author>
+                    <ce:given-name>L.</ce:given-name>
+                    <ce:surname>Castex</ce:surname>
+                  </sb:author>
+                  <sb:author>
+                    <ce:given-name>G.</ce:given-name>
+                    <ce:surname>Maeder</ce:surname>
+                  </sb:author>
+                </sb:authors>
+                <sb:title>
+                  <sb:maintitle>Pr&#xE9;contraintes et traitements superficiels</sb:maintitle>
+                </sb:title>
+              </sb:contribution>
+              <sb:host>
+                <sb:issue>
+                  <sb:series>
+                    <sb:title>
+                      <sb:maintitle>Techniques de l&#x2019;Ing&#xE9;nieur</sb:maintitle>
+                    </sb:title>
+                  </sb:series>
+                  <sb:date>1999</sb:date>
+                </sb:issue>
+                <ce:doi>10.51257/a-v2-m1180</ce:doi>
+              </sb:host>
+            </sb:reference>
+            <ce:source-text id="stx160">J. Barralis, L. Castex, G. Maeder, Pr&#xE9;contraintes et traitements superficiels, (1999) 54.</ce:source-text>
+          </ce:bib-reference>
+          <ce:bib-reference id="b0180">
+            <ce:label>[36]</ce:label>
+            <sb:reference id="h0180">
+              <sb:contribution langtype="en">
+                <sb:authors>
+                  <sb:author>
+                    <ce:given-name>B.S.</ce:given-name>
+                    <ce:surname>Yilbas</ce:surname>
+                  </sb:author>
+                  <sb:author>
+                    <ce:given-name>A.F.M.</ce:given-name>
+                    <ce:surname>Arif</ce:surname>
+                  </sb:author>
+                  <sb:author>
+                    <ce:given-name>C.</ce:given-name>
+                    <ce:surname>Karatas</ce:surname>
+                  </sb:author>
+                  <sb:author>
+                    <ce:given-name>M.</ce:given-name>
+                    <ce:surname>Ahsan</ce:surname>
+                  </sb:author>
+                </sb:authors>
+                <sb:title>
+                  <sb:maintitle>Cemented carbide cutting tool: Laser processing and thermal stress analysis</sb:maintitle>
+                </sb:title>
+              </sb:contribution>
+              <sb:host>
+                <sb:issue>
+                  <sb:series>
+                    <sb:title>
+                      <sb:maintitle>Applied Surface Science</sb:maintitle>
+                    </sb:title>
+                    <sb:volume-nr>253</sb:volume-nr>
+                  </sb:series>
+                  <sb:issue-nr>12</sb:issue-nr>
+                  <sb:date>2007</sb:date>
+                </sb:issue>
+                <sb:pages>
+                  <sb:first-page>5544</sb:first-page>
+                  <sb:last-page>5552</sb:last-page>
+                </sb:pages>
+                <ce:doi>10.1016/j.apsusc.2006.12.123</ce:doi>
+              </sb:host>
+            </sb:reference>
+            <ce:source-text id="stx165">B.S. Yilbas, A.F.M. Arif, C. Karatas, M. Ahsan, Cemented carbide cutting tool: Laser processing and thermal stress analysis, Applied Surface Science. 253 (2007) 5544&#x2013;5552. https://doi.org/10.1016/j.apsusc.2006.12.123.</ce:source-text>
+          </ce:bib-reference>
+          <ce:bib-reference id="b0185">
+            <ce:label>[37]</ce:label>
+            <ce:other-ref id="h9100">
+              <ce:textref>L. van Belle, Analyse, mod&#xE9;lisation et simulation de l&#x2019;apparition de contraintes en fusion laser m&#xE9;tallique, Ph.D. dissertation, INSA de Lyon, 2013. Available from: <ce:inter-ref xlink:href="https://tel.archives-ouvertes.fr/tel-01153233" xlink:type="simple" id="ir9050">https://tel.archives-ouvertes.fr/tel-01153233</ce:inter-ref>.</ce:textref>
+            </ce:other-ref>
+          </ce:bib-reference>
+          <ce:bib-reference id="b0190">
+            <ce:label>[38]</ce:label>
+            <sb:reference id="h0190">
+              <sb:contribution langtype="en">
+                <sb:authors>
+                  <sb:author>
+                    <ce:given-name>M.V.</ce:given-name>
+                    <ce:surname>Zhidkov</ce:surname>
+                  </sb:author>
+                  <sb:author>
+                    <ce:given-name>N.A.</ce:given-name>
+                    <ce:surname>Smirnov</ce:surname>
+                  </sb:author>
+                  <sb:author>
+                    <ce:given-name>J.</ce:given-name>
+                    <ce:surname>Chen</ce:surname>
+                  </sb:author>
+                  <sb:author>
+                    <ce:given-name>S.I.</ce:given-name>
+                    <ce:surname>Kudryashov</ce:surname>
+                  </sb:author>
+                  <sb:author>
+                    <ce:given-name>I.Y.</ce:given-name>
+                    <ce:surname>Goncharov</ce:surname>
+                  </sb:author>
+                </sb:authors>
+                <sb:title>
+                  <sb:maintitle>Residual stresses in Ti6Al4V alloy after surface texturing by femtosecond laser pulses</sb:maintitle>
+                </sb:title>
+              </sb:contribution>
+              <sb:host>
+                <sb:issue>
+                  <sb:series>
+                    <sb:title>
+                      <sb:maintitle>IOP Conf. Ser.: Mater. Sci. Eng.</sb:maintitle>
+                    </sb:title>
+                    <sb:volume-nr>862</sb:volume-nr>
+                  </sb:series>
+                  <sb:date>2020</sb:date>
+                </sb:issue>
+                <sb:pages>
+                  <sb:first-page>022060</sb:first-page>
+                </sb:pages>
+                <ce:doi>10.1088/1757-899x/862/2/022060</ce:doi>
+              </sb:host>
+            </sb:reference>
+            <ce:source-text id="stx175">M.V. Zhidkov, N.A. Smirnov, J. Chen, S.I. Kudryashov, I.Y. Goncharov, Residual stresses in Ti6Al4V alloy after surface texturing by femtosecond laser pulses, IOP Conf. Ser.: Mater. Sci. Eng. 862 (2020) 022060. https://doi.org/10.1088/1757-899X/862/2/022060.</ce:source-text>
+          </ce:bib-reference>
+          <ce:bib-reference id="b0195">
+            <ce:label>[39]</ce:label>
+            <sb:reference id="h0195">
+              <sb:contribution langtype="en">
+                <sb:authors>
+                  <sb:author>
+                    <ce:given-name>E.</ce:given-name>
+                    <ce:surname>Maawad</ce:surname>
+                  </sb:author>
+                  <sb:author>
+                    <ce:given-name>Y.</ce:given-name>
+                    <ce:surname>Sano</ce:surname>
+                  </sb:author>
+                  <sb:author>
+                    <ce:given-name>L.</ce:given-name>
+                    <ce:surname>Wagner</ce:surname>
+                  </sb:author>
+                  <sb:author>
+                    <ce:given-name>H.-G.</ce:given-name>
+                    <ce:surname>Brokmeier</ce:surname>
+                  </sb:author>
+                  <sb:author>
+                    <ce:given-name>Ch.</ce:given-name>
+                    <ce:surname>Genzel</ce:surname>
+                  </sb:author>
+                </sb:authors>
+                <sb:title>
+                  <sb:maintitle>Investigation of laser shock peening effects on residual stress state and fatigue performance of titanium alloys</sb:maintitle>
+                </sb:title>
+              </sb:contribution>
+              <sb:host>
+                <sb:issue>
+                  <sb:series>
+                    <sb:title>
+                      <sb:maintitle>Materials Science and Engineering: A</sb:maintitle>
+                    </sb:title>
+                    <sb:volume-nr>536</sb:volume-nr>
+                  </sb:series>
+                  <sb:date>2012</sb:date>
+                </sb:issue>
+                <sb:pages>
+                  <sb:first-page>82</sb:first-page>
+                  <sb:last-page>91</sb:last-page>
+                </sb:pages>
+                <ce:doi>10.1016/j.msea.2011.12.072</ce:doi>
+              </sb:host>
+            </sb:reference>
+            <ce:source-text id="stx180">E. Maawad, Y. Sano, L. Wagner, H.-G. Brokmeier, Ch. Genzel, Investigation of laser shock peening effects on residual stress state and fatigue performance of titanium alloys, Materials Science and Engineering: A. 536 (2012) 82&#x2013;91. https://doi.org/10.1016/j.msea.2011.12.072.</ce:source-text>
+          </ce:bib-reference>
+          <ce:bib-reference id="b0200">
+            <ce:label>[40]</ce:label>
+            <sb:reference id="h0200">
+              <sb:contribution langtype="en">
+                <sb:authors>
+                  <sb:author>
+                    <ce:given-name>K.</ce:given-name>
+                    <ce:surname>Gurusami</ce:surname>
+                  </sb:author>
+                  <sb:author>
+                    <ce:given-name>D.</ce:given-name>
+                    <ce:surname>Chandramohan</ce:surname>
+                  </sb:author>
+                  <sb:author>
+                    <ce:given-name>S.</ce:given-name>
+                    <ce:surname>Dinesh Kumar</ce:surname>
+                  </sb:author>
+                  <sb:author>
+                    <ce:given-name>M.</ce:given-name>
+                    <ce:surname>Dhanashekar</ce:surname>
+                  </sb:author>
+                  <sb:author>
+                    <ce:given-name>T.</ce:given-name>
+                    <ce:surname>Sathish</ce:surname>
+                  </sb:author>
+                </sb:authors>
+                <sb:title>
+                  <sb:maintitle>Strengthening mechanism of Nd: Yag laser shock peening for commercially pure titanium (CP-TI) on surface integrity and residual stresses</sb:maintitle>
+                </sb:title>
+              </sb:contribution>
+              <sb:host>
+                <sb:issue>
+                  <sb:series>
+                    <sb:title>
+                      <sb:maintitle>Materials Today: Proceedings</sb:maintitle>
+                    </sb:title>
+                    <sb:volume-nr>21</sb:volume-nr>
+                  </sb:series>
+                  <sb:date>2020</sb:date>
+                </sb:issue>
+                <sb:pages>
+                  <sb:first-page>981</sb:first-page>
+                  <sb:last-page>987</sb:last-page>
+                </sb:pages>
+                <ce:doi>10.1016/j.matpr.2019.09.141</ce:doi>
+              </sb:host>
+            </sb:reference>
+            <ce:source-text id="stx185">K. Gurusami, D. Chandramohan, S. Dinesh Kumar, M. Dhanashekar, T. Sathish, Strengthening mechanism of Nd: Yag laser shock peening for commercially pure titanium (CP-TI) on surface integrity and residual stresses, Materials Today: Proceedings. 21 (2020) 981&#x2013;987. https://doi.org/10.1016/j.matpr.2019.09.141.</ce:source-text>
+          </ce:bib-reference>
+          <ce:bib-reference id="b0205">
+            <ce:label>[41]</ce:label>
+            <sb:reference id="h0205">
+              <sb:contribution langtype="en">
+                <sb:authors>
+                  <sb:author>
+                    <ce:given-name>A.E.</ce:given-name>
+                    <ce:surname>Siegman</ce:surname>
+                  </sb:author>
+                </sb:authors>
+              </sb:contribution>
+              <sb:host>
+                <sb:book>
+                  <sb:title>
+                    <sb:maintitle>Lasers</sb:maintitle>
+                  </sb:title>
+                  <sb:date>1986</sb:date>
+                  <sb:publisher>
+                    <sb:name>University Science Books</sb:name>
+                    <sb:location>Mill Valley, California</sb:location>
+                  </sb:publisher>
+                </sb:book>
+              </sb:host>
+              <sb:host>
+                <sb:e-host>
+                  <ce:inter-ref xlink:href="https://uscibooks.aip.org/books/lasers/" id="ir9001" xlink:type="simple">https://uscibooks.aip.org/books/lasers/</ce:inter-ref>
+                </sb:e-host>
+              </sb:host>
+            </sb:reference>
+            <ce:source-text id="stx190">A.E. Siegman, Lasers, Univ. Science books, Mill Valley, Calif, 1986.</ce:source-text>
+          </ce:bib-reference>
+          <ce:bib-reference id="b0210">
+            <ce:label>[42]</ce:label>
+            <sb:reference id="h0210">
+              <sb:contribution langtype="en">
+                <sb:authors>
+                  <sb:author>
+                    <ce:given-name>V.</ce:given-name>
+                    <ce:surname>Semak</ce:surname>
+                  </sb:author>
+                  <sb:author>
+                    <ce:given-name>A.</ce:given-name>
+                    <ce:surname>Matsunawa</ce:surname>
+                  </sb:author>
+                </sb:authors>
+                <sb:title>
+                  <sb:maintitle>The role of recoil pressure in energy balance during laser materials processing</sb:maintitle>
+                </sb:title>
+              </sb:contribution>
+              <sb:host>
+                <sb:issue>
+                  <sb:series>
+                    <sb:title>
+                      <sb:maintitle>J. Phys. D: Appl. Phys.</sb:maintitle>
+                    </sb:title>
+                    <sb:volume-nr>30</sb:volume-nr>
+                  </sb:series>
+                  <sb:issue-nr>18</sb:issue-nr>
+                  <sb:date>1997</sb:date>
+                </sb:issue>
+                <sb:pages>
+                  <sb:first-page>2541</sb:first-page>
+                  <sb:last-page>2552</sb:last-page>
+                </sb:pages>
+                <ce:doi>10.1088/0022-3727/30/18/008</ce:doi>
+              </sb:host>
+            </sb:reference>
+            <ce:source-text id="stx195">V. Semak, A. Matsunawa, The role of recoil pressure in energy balance during laser materials processing, J. Phys. D: Appl. Phys. 30 (1997) 2541&#x2013;2552. https://doi.org/10.1088/0022-3727/30/18/008.</ce:source-text>
+          </ce:bib-reference>
+          <ce:bib-reference id="b0215">
+            <ce:label>[43]</ce:label>
+            <sb:reference id="h0215">
+              <sb:contribution langtype="en">
+                <sb:authors>
+                  <sb:author>
+                    <ce:given-name>C.</ce:given-name>
+                    <ce:surname>Zhang</ce:surname>
+                  </sb:author>
+                  <sb:author>
+                    <ce:given-name>J.</ce:given-name>
+                    <ce:surname>Zhou</ce:surname>
+                  </sb:author>
+                  <sb:author>
+                    <ce:given-name>H.</ce:given-name>
+                    <ce:surname>Shen</ce:surname>
+                  </sb:author>
+                </sb:authors>
+                <sb:title>
+                  <sb:maintitle>Role of Capillary and Thermocapillary Forces in Laser Polishing of Metals</sb:maintitle>
+                </sb:title>
+              </sb:contribution>
+              <sb:host>
+                <sb:issue>
+                  <sb:series>
+                    <sb:title>
+                      <sb:maintitle>Journal of Manufacturing Science and Engineering</sb:maintitle>
+                    </sb:title>
+                    <sb:volume-nr>139</sb:volume-nr>
+                  </sb:series>
+                  <sb:date>2017</sb:date>
+                </sb:issue>
+                <sb:article-number>041019</sb:article-number>
+                <ce:doi>10.1115/1.4035468</ce:doi>
+              </sb:host>
+            </sb:reference>
+            <ce:source-text id="stx200">C. Zhang, J. Zhou, H. Shen, Role of Capillary and Thermocapillary Forces in Laser Polishing of Metals, Journal of Manufacturing Science and Engineering. 139 (2017) 041019. https://doi.org/10.1115/1.4035468.</ce:source-text>
+          </ce:bib-reference>
+          <ce:bib-reference id="b0220">
+            <ce:label>[44]</ce:label>
+            <sb:reference id="h0220">
+              <sb:contribution langtype="en">
+                <sb:authors>
+                  <sb:author>
+                    <ce:given-name>N.</ce:given-name>
+                    <ce:surname>Fairley</ce:surname>
+                  </sb:author>
+                  <sb:author>
+                    <ce:given-name>V.</ce:given-name>
+                    <ce:surname>Fernandez</ce:surname>
+                  </sb:author>
+                  <sb:author>
+                    <ce:given-name>M.</ce:given-name>
+                    <ce:surname>Richard&#x2010;Plouet</ce:surname>
+                  </sb:author>
+                  <sb:author>
+                    <ce:given-name>C.</ce:given-name>
+                    <ce:surname>Guillot-Deudon</ce:surname>
+                  </sb:author>
+                  <sb:author>
+                    <ce:given-name>J.</ce:given-name>
+                    <ce:surname>Walton</ce:surname>
+                  </sb:author>
+                  <sb:author>
+                    <ce:given-name>E.</ce:given-name>
+                    <ce:surname>Smith</ce:surname>
+                  </sb:author>
+                  <sb:author>
+                    <ce:given-name>D.</ce:given-name>
+                    <ce:surname>Flahaut</ce:surname>
+                  </sb:author>
+                  <sb:author>
+                    <ce:given-name>M.</ce:given-name>
+                    <ce:surname>Greiner</ce:surname>
+                  </sb:author>
+                  <sb:author>
+                    <ce:given-name>M.</ce:given-name>
+                    <ce:surname>Biesinger</ce:surname>
+                  </sb:author>
+                  <sb:author>
+                    <ce:given-name>S.</ce:given-name>
+                    <ce:surname>Tougaard</ce:surname>
+                  </sb:author>
+                  <sb:author>
+                    <ce:given-name>D.</ce:given-name>
+                    <ce:surname>Morgan</ce:surname>
+                  </sb:author>
+                  <sb:author>
+                    <ce:given-name>J.</ce:given-name>
+                    <ce:surname>Baltrusaitis</ce:surname>
+                  </sb:author>
+                </sb:authors>
+                <sb:title>
+                  <sb:maintitle>Systematic and collaborative approach to problem solving using X-ray photoelectron spectroscopy</sb:maintitle>
+                </sb:title>
+              </sb:contribution>
+              <sb:host>
+                <sb:issue>
+                  <sb:series>
+                    <sb:title>
+                      <sb:maintitle>Applied Surface Science Advances</sb:maintitle>
+                    </sb:title>
+                    <sb:volume-nr>5</sb:volume-nr>
+                  </sb:series>
+                  <sb:date>2021</sb:date>
+                </sb:issue>
+                <sb:article-number>100112</sb:article-number>
+                <ce:doi>10.1016/j.apsadv.2021.100112</ce:doi>
+              </sb:host>
+            </sb:reference>
+            <ce:source-text id="stx205">N. Fairley, V. Fernandez, M. Richard&#x2010;Plouet, C. Guillot-Deudon, J. Walton, E. Smith, D. Flahaut, M. Greiner, M. Biesinger, S. Tougaard, D. Morgan, J. Baltrusaitis, Systematic and collaborative approach to problem solving using X-ray photoelectron spectroscopy, Applied Surface Science Advances. 5 (2021) 100112. https://doi.org/10.1016/j.apsadv.2021.100112.</ce:source-text>
+          </ce:bib-reference>
+          <ce:bib-reference id="b0225">
+            <ce:label>[45]</ce:label>
+            <sb:reference id="h0225">
+              <sb:contribution langtype="en">
+                <sb:authors>
+                  <sb:author>
+                    <ce:given-name>V.</ce:given-name>
+                    <ce:surname>Hauk</ce:surname>
+                  </sb:author>
+                </sb:authors>
+              </sb:contribution>
+              <sb:host>
+                <sb:book>
+                  <sb:title>
+                    <sb:maintitle>Structural and Residual Stress Analysis by Nondestructive Methods: Evaluation &#x2013; Application &#x2013; Assessment</sb:maintitle>
+                  </sb:title>
+                  <sb:date>1997</sb:date>
+                  <sb:publisher>
+                    <sb:name>Elsevier Science</sb:name>
+                    <sb:location>Amsterdam</sb:location>
+                  </sb:publisher>
+                </sb:book>
+              </sb:host>
+              <sb:host>
+                <sb:e-host>
+                  <ce:inter-ref xlink:href="https://doi.org/10.1016/b978-0-444-82476-9.x5000-2" id="ir9070" xlink:type="simple">https://doi.org/10.1016/b978-0-444-82476-9.x5000-2</ce:inter-ref>
+                </sb:e-host>
+              </sb:host>
+            </sb:reference>
+            <ce:source-text id="stx210">V. Hauk, H. Behnken, Structural and residual stress analysis by nondestructive methods evaluation, application, assessment, Elsevier, Amsterdam; New York, 1997. http://www.123library.org/book_details/?id=38904.</ce:source-text>
+          </ce:bib-reference>
+          <ce:bib-reference id="b0230">
+            <ce:label>[46]</ce:label>
+            <sb:reference id="h0230">
+              <sb:contribution langtype="en">
+                <sb:authors>
+                  <sb:author>
+                    <ce:given-name>W.A.</ce:given-name>
+                    <ce:surname>Rachinger</ce:surname>
+                  </sb:author>
+                </sb:authors>
+                <sb:title>
+                  <sb:maintitle>A Correction for the &#x3B1;1 &#x3B1;2 Doublet in the Measurement of Widths of X-ray Diffraction Lines</sb:maintitle>
+                </sb:title>
+              </sb:contribution>
+              <sb:host>
+                <sb:issue>
+                  <sb:series>
+                    <sb:title>
+                      <sb:maintitle>Journal of Scientific Instruments</sb:maintitle>
+                    </sb:title>
+                    <sb:volume-nr>25</sb:volume-nr>
+                  </sb:series>
+                  <sb:issue-nr>7</sb:issue-nr>
+                  <sb:date>1948</sb:date>
+                </sb:issue>
+                <sb:pages>
+                  <sb:first-page>254</sb:first-page>
+                  <sb:last-page>255</sb:last-page>
+                </sb:pages>
+                <ce:doi>10.1088/0950-7671/25/7/125</ce:doi>
+              </sb:host>
+            </sb:reference>
+            <ce:source-text id="stx215">W.A. Rachinger, A Correction for the &#x3B1;1 &#x3B1;2 Doublet in the Measurement of Widths of X-ray Diffraction Lines, J. Sci. Instrum. 25 (1948) 254&#x2013;255. https://doi.org/10.1088/0950-7671/25/7/125.</ce:source-text>
+          </ce:bib-reference>
+          <ce:bib-reference id="b0235">
+            <ce:label>[47]</ce:label>
+            <ce:other-ref id="h9032">
+              <ce:textref>Keysight Technologies, Data Sheet, Keysight Scanning Microwave Microscopy (SMM) Mode, 2014. Available from: <ce:inter-ref xlink:href="https://www.keysight.com/us/en/assets/7018-01857/data-sheets/5989-8817.pdf" id="ir9065" xlink:type="simple">https://www.keysight.com/us/en/assets/7018-01857/data-sheets/5989-8817.pdf</ce:inter-ref>.</ce:textref>
+            </ce:other-ref>
+          </ce:bib-reference>
+          <ce:bib-reference id="b0240">
+            <ce:label>[48]</ce:label>
+            <ce:other-ref id="h9033">
+              <ce:textref>Agilent Technologies, Data Sheet, Agilent 5600LS AFM, 2008. Available from: <ce:inter-ref xlink:href="https://www.agilent.com/cs/library/datasheets/public/5600LS_5989-8819.pdf" id="ir9064" xlink:type="simple">https://www.agilent.com/cs/library/datasheets/public/5600LS_5989-8819.pdf</ce:inter-ref>.</ce:textref>
+            </ce:other-ref>
+          </ce:bib-reference>
+          <ce:bib-reference id="b0245">
+            <ce:label>[49]</ce:label>
+            <ce:other-ref id="h9035">
+              <ce:textref>Copper Mountain Technologies, Data Sheet, 1-Port USB VNA - R 180. Available from: <ce:inter-ref xlink:href="https://coppermountaintech.com/wp-content/uploads/2018/11/R180-Extended-Specification-Sheet.pdf" id="ir9062" xlink:type="simple">https://coppermountaintech.com/wp-content/uploads/2018/11/R180-Extended-Specification-Sheet.pdf</ce:inter-ref>.</ce:textref>
+            </ce:other-ref>
+          </ce:bib-reference>
+          <ce:bib-reference id="b0250">
+            <ce:label>[50]</ce:label>
+            <ce:other-ref id="h9037">
+              <ce:textref>Rocky Mountain Nanotechnology, Data Sheet, 12PT400B probe. Available from: <ce:inter-ref xlink:href="https://rmnano.com/tech-data" id="ir9060" xlink:type="simple">https://rmnano.com/tech-data</ce:inter-ref>.</ce:textref>
+            </ce:other-ref>
+          </ce:bib-reference>
+          <ce:bib-reference id="b0255">
+            <ce:label>[51]</ce:label>
+            <sb:reference id="h0255">
+              <sb:contribution langtype="en">
+                <sb:authors>
+                  <sb:author>
+                    <ce:given-name>C.</ce:given-name>
+                    <ce:surname>Plassard</ce:surname>
+                  </sb:author>
+                  <sb:author>
+                    <ce:given-name>E.</ce:given-name>
+                    <ce:surname>Bourillot</ce:surname>
+                  </sb:author>
+                  <sb:author>
+                    <ce:given-name>J.</ce:given-name>
+                    <ce:surname>Rossignol</ce:surname>
+                  </sb:author>
+                  <sb:author>
+                    <ce:given-name>Y.</ce:given-name>
+                    <ce:surname>Lacroute</ce:surname>
+                  </sb:author>
+                  <sb:author>
+                    <ce:given-name>E.</ce:given-name>
+                    <ce:surname>Lepleux</ce:surname>
+                  </sb:author>
+                  <sb:author>
+                    <ce:given-name>L.</ce:given-name>
+                    <ce:surname>Pacheco</ce:surname>
+                  </sb:author>
+                  <sb:author>
+                    <ce:given-name>E.</ce:given-name>
+                    <ce:surname>Lesniewska</ce:surname>
+                  </sb:author>
+                </sb:authors>
+                <sb:title>
+                  <sb:maintitle>Detection of defects buried in metallic samples by scanning microwave microscopy</sb:maintitle>
+                </sb:title>
+              </sb:contribution>
+              <sb:host>
+                <sb:issue>
+                  <sb:series>
+                    <sb:title>
+                      <sb:maintitle>Phys. Rev. B.</sb:maintitle>
+                    </sb:title>
+                    <sb:volume-nr>83</sb:volume-nr>
+                  </sb:series>
+                  <sb:date>2011</sb:date>
+                </sb:issue>
+                <sb:article-number>121409</sb:article-number>
+                <ce:doi>10.1103/PhysRevB.83.121409</ce:doi>
+              </sb:host>
+            </sb:reference>
+            <ce:source-text id="stx220">C. Plassard, E. Bourillot, J. Rossignol, Y. Lacroute, E. Lepleux, L. Pacheco, E. Lesniewska, Detection of defects buried in metallic samples by scanning microwave microscopy, Phys. Rev. B. 83 (2011) 121409. https://doi.org/10.1103/PhysRevB.83.121409.</ce:source-text>
+          </ce:bib-reference>
+          <ce:bib-reference id="b0260">
+            <ce:label>[52]</ce:label>
+            <ce:other-ref id="h0260">
+              <ce:textref>Granta Design Limited, CES Selector software, Cambridge, UK, 2014. www.grantadesign.com.</ce:textref>
+            </ce:other-ref>
+          </ce:bib-reference>
+          <ce:bib-reference id="b0265">
+            <ce:label>[53]</ce:label>
+            <ce:other-ref id="h9099">
+              <ce:textref>P. Vitry, Applications and development of acoustic and microwave atomic force microscopy for high resolution tomography analysis, Ph.D. dissertation, Universit&#xE9; de Bourgogne, 2016. Available from: <ce:inter-ref xlink:href="https://tel.archives-ouvertes.fr/tel-01635664" xlink:type="simple" id="ir9099">https://tel.archives-ouvertes.fr/tel-01635664</ce:inter-ref>.</ce:textref>
+            </ce:other-ref>
+          </ce:bib-reference>
+        </ce:bibliography-sec>
+      </ce:bibliography>
+    </ja:tail>
+  </ja:article>
+</doc:document>

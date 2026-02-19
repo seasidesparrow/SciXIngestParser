@@ -1,0 +1,201 @@
+{
+  "abstract": {
+    "textEnglish": "Highly-sensitive broadly-tunable detectors are needed for future multi-domain sensing and quantum-information systems. Layered graphene with \u201cmagic\u201d twist-angle between 2 - 4 sheets is superconducting below 2 K. Demonstrated Josephson junctions in this material feature very high dynamic resistance at the maximum zero-voltage current. Biased at this current, a small microwave voltage across the junction shifts the voltage-current step, which results in a large DC output voltage. A suitable antenna driven by external radiation can source the desired AC voltage across the junction. As a non-thermal mechanism, such detectors may in principle be fast, as well as sensitive. Additionally, there is a bolometric response, whose temperature coefficient of resistance we estimate to be 300%/K. Design, fabrication, response, and twist-angle tolerance for antenna-coupled, superconducting-graphene, Josephson-junction detectors of mm-wave and THz radiation are discussed."
+  },
+  "authors": [
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Univ. of Central Florida (United States)"
+        }
+      ],
+      "name": {
+        "given_name": "Robert E.",
+        "surname": "Peale"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Univ. of Central Florida (United States)"
+        }
+      ],
+      "name": {
+        "given_name": "Michael S.",
+        "surname": "Lodge"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Univ. of Central Florida (United States)"
+        }
+      ],
+      "name": {
+        "given_name": "Ami",
+        "surname": "Rathod"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Univ. of Central Florida (United States)"
+        }
+      ],
+      "name": {
+        "given_name": "Kirsten L.",
+        "surname": "Lina"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Univ. of Central Florida (United States)"
+        }
+      ],
+      "name": {
+        "given_name": "Anna C.",
+        "surname": "Bowman"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Univ. of Central Florida (United States)"
+        }
+      ],
+      "name": {
+        "given_name": "Richard A.",
+        "surname": "Klemm"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Univ. of Central Florida (United States)"
+        }
+      ],
+      "name": {
+        "given_name": "Masahiro",
+        "surname": "Ishigami"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Truventic LLC (United States)"
+        }
+      ],
+      "name": {
+        "given_name": "Coleman",
+        "surname": "Cariker"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Truventic LLC (United States)"
+        }
+      ],
+      "name": {
+        "given_name": "Christopher J.",
+        "surname": "Fredricksen"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Truventic LLC (United States)"
+        }
+      ],
+      "name": {
+        "given_name": "F. Javier",
+        "surname": "Gonzalez"
+      }
+    }
+  ],
+  "copyright": {
+    "statement": "COPYRIGHT SPIE. Downloading of the abstract is permitted for personal use only.",
+    "status": true
+  },
+  "otherContributor": [
+    {
+      "contrib": {
+        "affiliation": [
+          {
+            "affPubRaw": "Argo AI, LLC (United States)"
+          }
+        ],
+        "name": {
+          "given_name": "Mark A.",
+          "surname": "Itzler"
+        }
+      },
+      "role": "editor"
+    },
+    {
+      "contrib": {
+        "affiliation": [
+          {
+            "affPubRaw": "National Institute of Standards and Technology (United States)"
+          }
+        ],
+        "name": {
+          "given_name": "Joshua C.",
+          "surname": "Bienfang"
+        }
+      },
+      "role": "editor"
+    },
+    {
+      "contrib": {
+        "affiliation": [
+          {
+            "affPubRaw": "MIT Lincoln Lab. (United States)"
+          }
+        ],
+        "name": {
+          "given_name": "K. Alex",
+          "surname": "McIntosh"
+        }
+      },
+      "role": "editor"
+    }
+  ],
+  "pagination": {
+    "firstPage": "1251203",
+    "lastPage": "1251203-5",
+    "pageRange": "1251203-1251203-5"
+  },
+  "persistentIDs": [
+    {
+      "DOI": "10.1117/12.2663687"
+    }
+  ],
+  "pubDate": {
+    "electrDate": "2023-06-15",
+    "printDate": "2023-06-15"
+  },
+  "publication": {
+    "ISSN": [
+      {
+        "issnString": "0277-786X"
+      }
+    ],
+    "confName": "Defense + Commercial Sensing",
+    "pubYear": "2023",
+    "publisher": "SPIE",
+    "volumeNum": "12512"
+  },
+  "recordData": {
+    "createdTime": "",
+    "loadFormat": "JATS",
+    "loadLocation": "",
+    "loadType": "fromFile",
+    "parsedTime": "",
+    "recordOrigin": ""
+  },
+  "title": {
+    "textEnglish": "Antenna-coupled graphene Josephson-junction THz/mm-wave detector"
+  }
+}

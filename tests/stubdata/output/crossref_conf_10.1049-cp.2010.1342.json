@@ -1,0 +1,68 @@
+{
+  "authors": [
+    {
+      "name": {
+        "surname": "Shu-Jing Sun"
+      }
+    },
+    {
+      "name": {
+        "surname": "Yan Wang"
+      }
+    },
+    {
+      "name": {
+        "surname": "Hong Wang"
+      }
+    },
+    {
+      "name": {
+        "surname": "Gui-Fu Ding"
+      }
+    }
+  ],
+  "doctype": "inproceedings",
+  "esources": [
+    {
+      "location": "https://digital-library.theiet.org/content/conferences/10.1049/cp.2010.1342",
+      "source": "pub_html"
+    }
+  ],
+  "pagination": {
+    "firstPage": "447",
+    "lastPage": "449"
+  },
+  "persistentIDs": [
+    {
+      "DOI": "10.1049/cp.2010.1342",
+      "ISBN": [
+        {
+          "isbnString": "978 1 84919 238 5",
+          "pubtype": "print"
+        }
+      ]
+    }
+  ],
+  "pubDate": {
+    "printDate": "2010-00-00"
+  },
+  "publication": {
+    "confDates": "23-25 Nov. 2010",
+    "confLocation": "Beijing, China",
+    "confName": "International Conference on Advanced Technology of Design and Manufacture (ATDM 2010)",
+    "pubName": "International Conference on Advanced Technology of Design and Manufacture (ATDM 2010)",
+    "pubYear": "2010",
+    "publisher": "IET"
+  },
+  "recordData": {
+    "createdTime": "",
+    "loadFormat": "OtherXML",
+    "loadLocation": "",
+    "loadType": "fromFile",
+    "parsedTime": "",
+    "recordOrigin": ""
+  },
+  "title": {
+    "textEnglish": "Analysis of electrochemical degradation of coking wastewater using multiwall carbon nanotubes modified electrode"
+  }
+}

@@ -1,0 +1,169 @@
+<record>
+      <header>
+        <identifier>oai:zenodo.org:1000003</identifier>
+        <datestamp>2023-08-10T11:59:20Z</datestamp>
+        <setSpec>software</setSpec>
+      </header>
+      <metadata>
+        <resource xmlns="http://datacite.org/schema/kernel-4" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4.1/metadata.xsd">
+          <identifier identifierType="DOI">10.5281/zenodo.1000003</identifier>
+          <creators>
+            <creator>
+              <creatorName>Casper da Costa-Luis</creatorName>
+              <affiliation></affiliation>
+            </creator>
+            <creator>
+              <creatorName>Stephen L.</creatorName>
+              <affiliation>Coma Science Group</affiliation>
+            </creator>
+            <creator>
+              <creatorName>Hadrien Mary</creatorName>
+              <affiliation>University of McGill</affiliation>
+            </creator>
+            <creator>
+              <creatorName>noamraph</creatorName>
+              <affiliation></affiliation>
+            </creator>
+            <creator>
+              <creatorName>Mikhail Korobov</creatorName>
+              <affiliation>@ScrapingHub</affiliation>
+            </creator>
+            <creator>
+              <creatorName>Ivan Ivanov</creatorName>
+              <affiliation></affiliation>
+            </creator>
+            <creator>
+              <creatorName>James</creatorName>
+              <affiliation></affiliation>
+            </creator>
+            <creator>
+              <creatorName>Matthew D. Pagel</creatorName>
+              <affiliation>UC Davis</affiliation>
+            </creator>
+            <creator>
+              <creatorName>Socialery</creatorName>
+              <affiliation></affiliation>
+            </creator>
+            <creator>
+              <creatorName>Jack McCracken</creatorName>
+              <affiliation>@Shopify</affiliation>
+            </creator>
+            <creator>
+              <creatorName>Fabian Dill</creatorName>
+              <affiliation></affiliation>
+            </creator>
+            <creator>
+              <creatorName>Daniel Panteleit</creatorName>
+              <affiliation></affiliation>
+            </creator>
+            <creator>
+              <creatorName>Alex Rothberg</creatorName>
+              <affiliation>4Catalyzer</affiliation>
+            </creator>
+            <creator>
+              <creatorName>zed</creatorName>
+              <affiliation></affiliation>
+            </creator>
+            <creator>
+              <creatorName>Riccardo Coccioli</creatorName>
+              <affiliation>Wikimedia Foundation</affiliation>
+            </creator>
+            <creator>
+              <creatorName>elsonidoq</creatorName>
+              <affiliation></affiliation>
+            </creator>
+            <creator>
+              <creatorName>deeenes</creatorName>
+              <affiliation></affiliation>
+            </creator>
+            <creator>
+              <creatorName>Albert Kottke</creatorName>
+              <affiliation></affiliation>
+            </creator>
+            <creator>
+              <creatorName>Yaroslav Halchenko</creatorName>
+              <affiliation>Dartmouth College, @Debian, @DataLad, @PyMVPA, @fail2ban</affiliation>
+            </creator>
+            <creator>
+              <creatorName>Tomas Ostasevicius</creatorName>
+              <affiliation>University of Cambridge</affiliation>
+            </creator>
+            <creator>
+              <creatorName>Shirish Pokharel</creatorName>
+              <affiliation></affiliation>
+            </creator>
+            <creator>
+              <creatorName>ReadmeCritic</creatorName>
+              <affiliation></affiliation>
+            </creator>
+            <creator>
+              <creatorName>Peter VandeHaar</creatorName>
+              <affiliation></affiliation>
+            </creator>
+            <creator>
+              <creatorName>Kuang-che Wu</creatorName>
+              <affiliation></affiliation>
+            </creator>
+            <creator>
+              <creatorName>jcea</creatorName>
+              <affiliation></affiliation>
+            </creator>
+            <creator>
+              <creatorName>Hugo</creatorName>
+              <affiliation>Nord Software</affiliation>
+            </creator>
+            <creator>
+              <creatorName>Ford Hurley</creatorName>
+              <affiliation>@handwritingio</affiliation>
+            </creator>
+            <creator>
+              <creatorName>Arun Persaud</creatorName>
+              <affiliation></affiliation>
+            </creator>
+            <creator>
+              <creatorName>Alexander</creatorName>
+              <affiliation></affiliation>
+            </creator>
+            <creator>
+              <creatorName>Adnan Umer</creatorName>
+              <affiliation>@arbisoft</affiliation>
+            </creator>
+          </creators>
+          <titles>
+            <title>tqdm/tqdm: tqdm v4.18.0 stable</title>
+          </titles>
+          <publisher>Zenodo</publisher>
+          <publicationYear>2017</publicationYear>
+          <dates>
+            <date dateType="Issued">2017-09-30</date>
+          </dates>
+          <resourceType resourceTypeGeneral="Software"/>
+          <relatedIdentifiers>
+            <relatedIdentifier relatedIdentifierType="URL" relationType="IsSupplementTo">https://github.com/tqdm/tqdm/tree/v4.18.0</relatedIdentifier>
+            <relatedIdentifier relatedIdentifierType="DOI" relationType="IsVersionOf">10.5281/zenodo.595120</relatedIdentifier>
+          </relatedIdentifiers>
+          <version>v4.18.0</version>
+          <rightsList>
+            <rights rightsURI="info:eu-repo/semantics/openAccess">Open Access</rights>
+          </rightsList>
+          <descriptions>
+            <description descriptionType="Abstract">&lt;ul&gt;
+&lt;li&gt;Thread safety! (#285 -&amp;gt; #291 -&amp;gt; #329, #407, #417)&lt;/li&gt;
+&lt;li&gt;Ease redirection of &lt;code&gt;sys.stdout&lt;/code&gt;/&lt;code&gt;stderr&lt;/code&gt; (#422)&lt;/li&gt;
+&lt;li&gt;Minor internal stream bugfix (#439)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;AttributeError&lt;/code&gt; fixes (#323, #324, #418)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Related to:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Misc bugs (#334)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;concurrent.futures&lt;/code&gt; (#97)&lt;/li&gt;
+&lt;li&gt;Multi-&lt;code&gt;tqdm&lt;/code&gt; (#143)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;flush()&lt;/code&gt; and &lt;code&gt;refresh()&lt;/code&gt; (#331)&lt;/li&gt;
+&lt;li&gt;Newline on &lt;code&gt;refresh()&lt;/code&gt; (#361)&lt;/li&gt;
+&lt;li&gt;Nested trees (#384)&lt;/li&gt;
+&lt;li&gt;Manually positioned nested bars clearing (#385)&lt;/li&gt;
+&lt;/ul&gt;</description>
+          </descriptions>
+        </resource>
+      </metadata>
+    </record>

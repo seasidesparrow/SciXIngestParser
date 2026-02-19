@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doi_records>
+  <doi_record owner="10.1007" timestamp="2013-06-20 06:26:45">
+    <crossref>
+      <book book_type="reference">
+        <book_metadata language="en">
+          <contributors>
+            <person_name contributor_role="editor" sequence="first">
+              <given_name>Muriel</given_name>
+              <surname>Gargaud</surname>
+            </person_name>
+            <person_name contributor_role="editor" sequence="additional">
+              <given_name>Ricardo</given_name>
+              <surname>Amils</surname>
+            </person_name>
+            <person_name contributor_role="editor" sequence="additional">
+              <given_name>José Cernicharo</given_name>
+              <surname>Quintanilla</surname>
+            </person_name>
+            <person_name contributor_role="editor" sequence="additional">
+              <given_name>Henderson James</given_name>
+              <surname>Cleaves</surname>
+            </person_name>
+            <person_name contributor_role="editor" sequence="additional">
+              <given_name>William M.</given_name>
+              <surname>Irvine</surname>
+            </person_name>
+            <person_name contributor_role="editor" sequence="additional">
+              <given_name>Daniele L.</given_name>
+              <surname>Pinti</surname>
+            </person_name>
+            <person_name contributor_role="editor" sequence="additional">
+              <given_name>Michel</given_name>
+              <surname>Viso</surname>
+            </person_name>
+          </contributors>
+          <titles>
+            <title>Encyclopedia of Astrobiology</title>
+          </titles>
+          <publication_date media_type="print">
+            <year>2011</year>
+          </publication_date>
+          <isbn media_type="print">978-3-642-11271-3</isbn>
+          <isbn media_type="electronic">978-3-642-11274-4</isbn>
+          <publisher>
+            <publisher_name>Springer Berlin Heidelberg</publisher_name>
+            <publisher_place>Berlin, Heidelberg</publisher_place>
+          </publisher>
+          <doi_data>
+            <doi>10.1007/978-3-642-11274-4</doi>
+            <resource>http://link.springer.com/10.1007/978-3-642-11274-4</resource>
+            <collection property="crawler-based">
+              <item crawler="iParadigms">
+                <resource>http://link.springer.com/content/pdf/10.1007/978-3-642-11274-4</resource>
+              </item>
+            </collection>
+          </doi_data>
+        </book_metadata>
+        <content_item component_type="chapter" level_sequence_number="1" publication_type="full_text">
+          <titles>
+            <title>K/T Boundary</title>
+          </titles>
+          <component_number>Chapter 2648</component_number>
+          <publication_date media_type="print">
+            <year>2011</year>
+          </publication_date>
+          <pages>
+            <first_page>885</first_page>
+            <last_page>885</last_page>
+          </pages>
+          <doi_data>
+            <doi>10.1007/978-3-642-11274-4_2648</doi>
+            <resource>http://link.springer.com/10.1007/978-3-642-11274-4_2648</resource>
+            <collection property="crawler-based" setbyID="springer">
+              <item crawler="iParadigms">
+                <resource>http://link.springer.com/content/pdf/10.1007/978-3-642-11274-4_2648</resource>
+              </item>
+            </collection>
+          </doi_data>
+        </content_item>
+      </book>
+    </crossref>
+  </doi_record>
+</doi_records>

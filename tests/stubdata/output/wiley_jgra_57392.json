@@ -1,0 +1,283 @@
+{
+  "abstract": {
+    "textEnglish": "Abstract Whistler waves are often observed in magnetopause reconnection associated with electron beams. We analyze seven MMS crossings surrounding the electron diffusion region (EDR) to study the role of electron beams in whistler excitation. Waves have two major types: (a) Narrow\u2010band waves with high ellipticities and (b) broad\u2010band waves that are more electrostatic with significant variations in ellipticities and wave normal angles. While both types of waves are associated with electron beams, the key difference is the anisotropy of the background population, with perpendicular and parallel anisotropies, respectively. The linear instability analysis suggests that the first type of wave is mainly due to the background anisotropy, with the beam contributing additional cyclotron resonance to enhance the wave growth. The second type of broadband waves are excited via Landau resonance, and as seen in one event, the beam anisotropy induces an additional cyclotron mode. The results are supported by particle\u2010in\u2010cell simulations. We infer that the first type occurs downstream of the central EDR, where background electrons experience Betatron acceleration to form the perpendicular anisotropy; the second type occurs in the central EDR of guide field reconnection. A parametric study is conducted with linear instability analysis. A beam anisotropy alone of above \u223c3 likely excites the cyclotron mode waves. Large beam drifts cause Doppler shifts and may lead to left\u2010hand polarizations in the ion frame. Future studies are needed to determine whether the observation covers a broader parameter regime and to understand the competition between whistler and other instabilities."
+  },
+  "authors": [
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Astronomy Department, University of Maryland, College Park, MD, USA"
+        },
+        {
+          "affPubRaw": "NASA Goddard Space Flight Center, Greenbelt, MD, USA"
+        }
+      ],
+      "attrib": {
+        "email": "swang90@umd.edu",
+        "orcid": "0000-0002-6783-7759"
+      },
+      "name": {
+        "given_name": "Shan",
+        "surname": "Wang"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Astronomy Department, University of Maryland, College Park, MD, USA"
+        },
+        {
+          "affPubRaw": "NASA Goddard Space Flight Center, Greenbelt, MD, USA"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0002-5431-174X"
+      },
+      "name": {
+        "given_name": "Naoki",
+        "surname": "Bessho"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Swedish Institute of Space Physics, Uppsala, Sweden"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0002-1046-746X"
+      },
+      "name": {
+        "given_name": "Daniel B.",
+        "surname": "Graham"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Laboratoire de Physique des Plasmas, CNRS/Sorbonne Universit\u00e9/Universit\u00e9 Paris\u2010Saclay/Observatoire de Paris/ Ecole Polytechnique Institut Polytechnique de Paris, Paris, France"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0003-2713-7966"
+      },
+      "name": {
+        "given_name": "Olivier",
+        "surname": "Le Contel"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Department of Physics, University of Texas at Arlington, Arlington, TX, USA"
+        }
+      ],
+      "name": {
+        "given_name": "Frederick D.",
+        "surname": "Wilder"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Swedish Institute of Space Physics, Uppsala, Sweden"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0001-5550-3113"
+      },
+      "name": {
+        "given_name": "Yuri V.",
+        "surname": "Khotyaintsev"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Earth, Oceans, and Space Science, Southwest Research Institute, Durham, NH, USA"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0001-6890-2973"
+      },
+      "name": {
+        "given_name": "Kevin J.",
+        "surname": "Genestreti"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Institut de Recherche en Astrophysique et Plan\u00e9tologie, Universit\u00e9 de Toulouse, Toulouse, France"
+        },
+        {
+          "affPubRaw": "Centre National de la Recherche Scientifique, Toulouse, France"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0001-6807-8494"
+      },
+      "name": {
+        "given_name": "Benoit",
+        "surname": "Lavraud"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Astronomy Department, University of Maryland, College Park, MD, USA"
+        },
+        {
+          "affPubRaw": "NASA Goddard Space Flight Center, Greenbelt, MD, USA"
+        }
+      ],
+      "name": {
+        "given_name": "Seung",
+        "surname": "Choi"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Southwest Research Institute San Antonio, San Antonio, TX, USA"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0003-0452-8403"
+      },
+      "name": {
+        "given_name": "James L.",
+        "surname": "Burch"
+      }
+    }
+  ],
+  "copyright": {
+    "statement": "\u00a92022. The Authors.",
+    "status": true
+  },
+  "editorialHistory": {
+    "acceptedDate": "2022-09-01",
+    "receivedDates": [
+      "2022-07-28"
+    ],
+    "revisedDates": [
+      "2022-08-26"
+    ]
+  },
+  "keywords": [
+    {
+      "keyString": "magnetic reconnection",
+      "keySystem": "Wiley"
+    },
+    {
+      "keyString": "whistler wave",
+      "keySystem": "Wiley"
+    },
+    {
+      "keyString": "Landau resonance",
+      "keySystem": "Wiley"
+    },
+    {
+      "keyString": "cyclotron resonance",
+      "keySystem": "Wiley"
+    }
+  ],
+  "openAccess": {
+    "license": "creativeCommonsBy",
+    "licenseURL": "http://creativecommons.org/licenses/by/4.0/",
+    "open": true
+  },
+  "pagination": {
+    "electronicID": "e2022JA030882",
+    "firstPage": "2022JA030882",
+    "pageCount": "21"
+  },
+  "persistentIDs": [
+    {
+      "DOI": "10.1029/2022JA030882"
+    }
+  ],
+  "pubDate": {
+    "electrDate": "2022-09-21",
+    "printDate": "2022-09-00"
+  },
+  "publication": {
+    "ISSN": [
+      {
+        "issnString": "2169-9380",
+        "pubtype": "print"
+      },
+      {
+        "issnString": "2169-9402",
+        "pubtype": "electronic"
+      }
+    ],
+    "issueNum": "9",
+    "pubName": "Journal of Geophysical Research: Space Physics",
+    "pubYear": "2022",
+    "volumeNum": "127"
+  },
+  "publisherIDs": [
+    {
+      "Identifier": "JGRA57392",
+      "attribute": "unit"
+    }
+  ],
+  "recordData": {
+    "createdTime": "",
+    "loadFormat": "Wiley",
+    "loadLocation": "",
+    "loadType": "fromFile",
+    "parsedTime": "",
+    "recordOrigin": ""
+  },
+  "references": [
+    "<citation type=\"journal\" xml:id=\"jgra57392-cit-0001\"><author><familyName>Akimoto</familyName>, <givenNames>K.</givenNames></author>, <author><familyName>Winske</familyName>, <givenNames>D.</givenNames></author>, <author><familyName>Gary</familyName>, <givenNames>S. P.</givenNames></author>, &amp; <author><familyName>Thomsen</familyName>, <givenNames>M. F.</givenNames></author> (<pubYear year=\"1993\">1993</pubYear>). <articleTitle>Nonlinear evolution of electromagnetic ion beam instabilities</articleTitle>. <journalTitle>Journal of Geophysical Research</journalTitle>, <vol>98</vol>(<issue>A2</issue>), <pageFirst>1419</pageFirst>\u2013<pageLast>1433</pageLast>. <url href=\"https://doi.org/10.1029/92JA02345\">https://doi.org/10.1029/92JA02345</url></citation>",
+    "<citation type=\"journal\" xml:id=\"jgra57392-cit-0002\"><author><familyName>An</familyName>, <givenNames>X.</givenNames></author>, <author><familyName>Van Compernolle</familyName>, <givenNames>B.</givenNames></author>, <author><familyName>Bortnik</familyName>, <givenNames>J.</givenNames></author>, <author><familyName>Thorne</familyName>, <givenNames>R. M.</givenNames></author>, <author><familyName>Chen</familyName>, <givenNames>L.</givenNames></author>, &amp; <author><familyName>Li</familyName>, <givenNames>W.</givenNames></author> (<pubYear year=\"2016\">2016</pubYear>). <articleTitle>Resonant excitation of whistler waves by a helical electron beam</articleTitle>. <journalTitle>Geophysical Research Letters</journalTitle>, <vol>43</vol>, <pageFirst>2413</pageFirst>\u2013<pageLast>2421</pageLast>. <url href=\"https://doi.org/10.1002/2015GL067126\">https://doi.org/10.1002/2015GL067126</url></citation>",
+    "<citation type=\"journal\" xml:id=\"jgra57392-cit-0003\"><author><familyName>Bessho</familyName>, <givenNames>N.</givenNames></author>, <author><familyName>Chen</familyName>, <givenNames>L.\u2010J.</givenNames></author>, <author><familyName>Wang</familyName>, <givenNames>S.</givenNames></author>, &amp; <author><familyName>Hesse</familyName>, <givenNames>M.</givenNames></author> (<pubYear year=\"2019\">2019</pubYear>). <articleTitle>Effects of the guide field on electron distribution functions in the diffusion region of asymmetric reconnection</articleTitle>. <journalTitle>Physics of Plasmas</journalTitle>, <vol>26</vol>, <eLocator>082310</eLocator>. <url href=\"https://doi.org/10.1063/1.5092809\">https://doi.org/10.1063/1.5092809</url></citation>",
+    "<citation type=\"book\" xml:id=\"jgra57392-cit-0004\"><author><familyName>Bowers</familyName>, <givenNames>K. J.</givenNames></author>, <author><familyName>Albright</familyName>, <givenNames>B. J.</givenNames></author>, <author><familyName>Bergen</familyName>, <givenNames>B.</givenNames></author>, <author><familyName>Yin</familyName>, <givenNames>L.</givenNames></author>, <author><familyName>Barker</familyName>, <givenNames>K. J.</givenNames></author>, &amp; <author><familyName>Kerbyson</familyName>, <givenNames>D. J.</givenNames></author> (<pubYear year=\"2008\">2008</pubYear>). <chapterTitle>0.374 pflop/s trillion\u2010particle kinetic modeling of laser plasma interaction on roadrunner</chapterTitle>. In <bookTitle>Proceedings of the 2008 <i>ACM/IEEE Conference on Supercomputing SC '</i>08</bookTitle> (pp. <pageFirst>63:1</pageFirst>\u2013<pageLast>63:11</pageLast>). <publisherName>IEEE Press</publisherName>. <url href=\"https://doi.org/10.1109/sc.2008.5222734\">https://doi.org/10.1109/sc.2008.5222734</url></citation>",
+    "<citation type=\"journal\" xml:id=\"jgra57392-cit-0005\"><author><familyName>Burch</familyName>, <givenNames>J. L.</givenNames></author>, <author><familyName>Ergun</familyName>, <givenNames>R. E.</givenNames></author>, <author><familyName>Cassak</familyName>, <givenNames>P. A.</givenNames></author>, <author><familyName>Webster</familyName>, <givenNames>J. M.</givenNames></author>, <author><familyName>Torbert</familyName>, <givenNames>R. B.</givenNames></author>, <author><familyName>Giles</familyName>, <givenNames>B. L.</givenNames></author>, et al. (<pubYear year=\"2018\">2018</pubYear>). <articleTitle>Localized oscillatory energy conversion in magnetopause reconnection</articleTitle>. <journalTitle>Geophysical Research Letters</journalTitle>, <vol>45</vol>, <pageFirst>1237</pageFirst>\u2013<pageLast>1245</pageLast>. <url href=\"https://doi.org/10.1002/2017GL076809\">https://doi.org/10.1002/2017GL076809</url></citation>",
+    "<citation type=\"journal\" xml:id=\"jgra57392-cit-0006\"><author><familyName>Burch</familyName>, <givenNames>J. L.</givenNames></author>, &amp; <author><familyName>Phan</familyName>, <givenNames>T. D.</givenNames></author> (<pubYear year=\"2016\">2016</pubYear>). <articleTitle>Magnetic reconnection at the dayside magnetopause: Advances with MMS</articleTitle>. <journalTitle>Geophysical Research Letters</journalTitle>, <vol>43</vol>, <pageFirst>8327</pageFirst>\u2013<pageLast>8338</pageLast>. <url href=\"https://doi.org/10.1002/2016GL069787\">https://doi.org/10.1002/2016GL069787</url></citation>",
+    "<citation type=\"journal\" xml:id=\"jgra57392-cit-0007\"><author><familyName>Burch</familyName>, <givenNames>J. L.</givenNames></author>, <author><familyName>Webster</familyName>, <givenNames>J. M.</givenNames></author>, <author><familyName>Genestreti</familyName>, <givenNames>K. J.</givenNames></author>, <author><familyName>Torbert</familyName>, <givenNames>R. B.</givenNames></author>, <author><familyName>Giles</familyName>, <givenNames>B. L.</givenNames></author>, <author><familyName>Fuselier</familyName>, <givenNames>S. A.</givenNames></author>, et al. (<pubYear year=\"2018\">2018</pubYear>). <articleTitle>Wave phenomena and beam\u2010plasma interactions at the magnetopause reconnection region</articleTitle>. <journalTitle>Journal of Geophysical Research: Space Physics</journalTitle>, <vol>123</vol>, <pageFirst>1118</pageFirst>\u2013<pageLast>1133</pageLast>. <url href=\"https://doi.org/10.1002/2017JA024789\">https://doi.org/10.1002/2017JA024789</url></citation>",
+    "<citation type=\"journal\" xml:id=\"jgra57392-cit-0008\"><author><familyName>Cao</familyName>, <givenNames>D.</givenNames></author>, <author><familyName>Fu</familyName>, <givenNames>H. S.</givenNames></author>, <author><familyName>Cao</familyName>, <givenNames>J. B.</givenNames></author>, <author><familyName>Wang</familyName>, <givenNames>T. Y.</givenNames></author>, <author><familyName>Graham</familyName>, <givenNames>D. B.</givenNames></author>, <author><familyName>Chen</familyName>, <givenNames>Z. Z.</givenNames></author>, et al. (<pubYear year=\"2017\">2017</pubYear>). <articleTitle>MMS observations of whistler waves in electron diffusion region</articleTitle>. <journalTitle>Geophysical Research Letters</journalTitle>, <vol>44</vol>, <pageFirst>3954</pageFirst>\u2013<pageLast>3962</pageLast>. <url href=\"https://doi.org/10.1002/2017GL072703\">https://doi.org/10.1002/2017GL072703</url></citation>",
+    "<citation type=\"journal\" xml:id=\"jgra57392-cit-0009\"><author><familyName>Chen</familyName>, <givenNames>H.</givenNames></author>, <author><familyName>Gao</familyName>, <givenNames>X.</givenNames></author>, <author><familyName>Lu</familyName>, <givenNames>Q.</givenNames></author>, <author><familyName>Fan</familyName>, <givenNames>K.</givenNames></author>, <author><familyName>Ke</familyName>, <givenNames>Y.</givenNames></author>, <author><familyName>Wang</familyName>, <givenNames>X.</givenNames></author>, &amp; <author><familyName>Wang</familyName>, <givenNames>S.</givenNames></author> (<pubYear year=\"2022\">2022</pubYear>). <articleTitle>Gap formation around 0.5\u03a9<sub>e</sub> in the whistler\u2010mode waves due to the plateau\u2010like shape in the parallel electron distribution: 2D PIC simulations</articleTitle>. <journalTitle>Journal of Geophysical Research: Space Physics</journalTitle>, <vol>127</vol>, <eLocator>e2021JA030119</eLocator>. <url href=\"https://doi.org/10.1029/2021JA030119\">https://doi.org/10.1029/2021JA030119</url></citation>",
+    "<citation type=\"journal\" xml:id=\"jgra57392-cit-0010\"><author><familyName>Chen</familyName>, <givenNames>H.</givenNames></author>, <author><familyName>Gao</familyName>, <givenNames>X.</givenNames></author>, <author><familyName>Lu</familyName>, <givenNames>Q.</givenNames></author>, <author><familyName>Sauer</familyName>, <givenNames>K.</givenNames></author>, <author><familyName>Chen</familyName>, <givenNames>R.</givenNames></author>, <author><familyName>Yao</familyName>, <givenNames>J.</givenNames></author>, &amp; <author><familyName>Wang</familyName>, <givenNames>S.</givenNames></author> (<pubYear year=\"2021\">2021</pubYear>). <articleTitle>Gap formation around 0.5\u03a9<sub>e</sub> of whistler\u2010mode waves excited by electron temperature anisotropy</articleTitle>. <journalTitle>Journal of Geophysical Research: Space Physics</journalTitle>, <vol>126</vol>, <eLocator>e2020JA028631</eLocator>. <url href=\"https://doi.org/10.1029/2020JA028631\">https://doi.org/10.1029/2020JA028631</url></citation>",
+    "<citation type=\"journal\" xml:id=\"jgra57392-cit-0011\"><author><familyName>Chen</familyName>, <givenNames>L.\u2010J.</givenNames></author>, <author><familyName>Hesse</familyName>, <givenNames>M.</givenNames></author>, <author><familyName>Wang</familyName>, <givenNames>S.</givenNames></author>, <author><familyName>Gershman</familyName>, <givenNames>D.</givenNames></author>, <author><familyName>Ergun</familyName>, <givenNames>R. E.</givenNames></author>, <author><familyName>Burch</familyName>, <givenNames>J.</givenNames></author>, et al. (<pubYear year=\"2017\">2017</pubYear>). <articleTitle>Electron diffusion region during magnetopause reconnection with an intermediate guide field: Magnetospheric multiscale observations</articleTitle>. <journalTitle>Journal of Geophysical Research: Space Physics</journalTitle>, <vol>122</vol>, <pageFirst>5235</pageFirst>\u2013<pageLast>5246</pageLast>. <url href=\"https://doi.org/10.1002/2017JA024004\">https://doi.org/10.1002/2017JA024004</url></citation>",
+    "<citation type=\"journal\" xml:id=\"jgra57392-cit-0012\"><author><familyName>Choi</familyName>, <givenNames>S.</givenNames></author>, <author><familyName>Bessho</familyName>, <givenNames>N.</givenNames></author>, <author><familyName>Wang</familyName>, <givenNames>S.</givenNames></author>, <author><familyName>Chen</familyName>, <givenNames>L.\u2010J.</givenNames></author>, &amp; <author><familyName>Hesse</familyName>, <givenNames>M.</givenNames></author> (<pubYear year=\"2022\">2022</pubYear>). <articleTitle>Whistler waves generated by nongyrotropic and gyrotropic electron beams during asymmetric guide filed reconnection</articleTitle>. <journalTitle>Physics of Plasmas</journalTitle>, <vol>29</vol>, <eLocator>012903</eLocator>. <url href=\"https://doi.org/10.1063/5.0059884\">https://doi.org/10.1063/5.0059884</url></citation>",
+    "<citation type=\"journal\" xml:id=\"jgra57392-cit-0013\"><author><familyName>Ergun</familyName>, <givenNames>R. E.</givenNames></author>, <author><familyName>Tucker</familyName>, <givenNames>S.</givenNames></author>, <author><familyName>Westfall</familyName>, <givenNames>J.</givenNames></author>, <author><familyName>Goodrich</familyName>, <givenNames>K. A.</givenNames></author>, <author><familyName>Malaspina</familyName>, <givenNames>D. M.</givenNames></author>, <author><familyName>Summers</familyName>, <givenNames>D.</givenNames></author>, et al. (<pubYear year=\"2016\">2016</pubYear>). <articleTitle>The axial double probe and fields signal processing for the MMS mission</articleTitle>. <journalTitle>Space Science Reviews</journalTitle>, <vol>199</vol>, <pageFirst>167</pageFirst>\u2013<pageLast>188</pageLast>. <url href=\"https://doi.org/10.1007/s11214-014-0115-x\">https://doi.org/10.1007/s11214-014-0115-x</url></citation>",
+    "<citation type=\"journal\" xml:id=\"jgra57392-cit-0014\"><author><familyName>Gary</familyName>, <givenNames>S. P.</givenNames></author>, &amp; <author><familyName>Cairns</familyName>, <givenNames>I. H.</givenNames></author> (<pubYear year=\"1999\">1999</pubYear>). <articleTitle>Electron temperature anisotropy instabilities: Whistler, electrostatic and z mode</articleTitle>. <journalTitle>Journal of Geophysical Research</journalTitle>, <vol>104</vol>(<issue>A9</issue>), <pageFirst>19835</pageFirst>\u2013<pageLast>19842</pageLast>. <url href=\"https://doi.org/10.1029/1999JA900296\">https://doi.org/10.1029/1999JA900296</url></citation>",
+    "<citation type=\"journal\" xml:id=\"jgra57392-cit-0015\"><author><familyName>Graham</familyName>, <givenNames>D. B.</givenNames></author>, <author><familyName>Vaivads</familyName>, <givenNames>A.</givenNames></author>, <author><familyName>Khotyaintsev</familyName>, <givenNames>Y. V.</givenNames></author>, &amp; <author><familyName>Andre</familyName>, <givenNames>M.</givenNames></author> (<pubYear year=\"2016\">2016</pubYear>). <articleTitle>Whistler emission in the separatrix regions of asymmetric magnetic reconnection</articleTitle>. <journalTitle>Journal of Geophysical Research: Space Physics</journalTitle>, <vol>121</vol>(<issue>3</issue>), <pageFirst>1934</pageFirst>\u2013<pageLast>1954</pageLast>. <url href=\"https://doi.org/10.1002/2015JA021239\">https://doi.org/10.1002/2015JA021239</url></citation>",
+    "<citation type=\"book\" xml:id=\"jgra57392-cit-0016\"><author><familyName>Gurnett</familyName>, <givenNames>D. A.</givenNames></author>, &amp; <author><familyName>Bhattacharjee</familyName>, <givenNames>A.</givenNames></author> (<pubYear year=\"2005\">2005</pubYear>). <chapterTitle>Chapter 9 Waves in a hot magnetized plasma, Section 9.3.3 Cyclotron damping</chapterTitle>. In <bookTitle>Introduction to plasma physics</bookTitle> (pp. <pageFirst>374</pageFirst>\u2013<pageLast>377</pageLast>). <publisherName>Cambridge University Press</publisherName>.</citation>",
+    "<citation type=\"journal\" xml:id=\"jgra57392-cit-0017\"><author><familyName>Hesse</familyName>, <givenNames>M.</givenNames></author>, <author><familyName>Liu</familyName>, <givenNames>Y.\u2010H.</givenNames></author>, <author><familyName>Chen</familyName>, <givenNames>L.\u2010J.</givenNames></author>, <author><familyName>Bessho</familyName>, <givenNames>N.</givenNames></author>, <author><familyName>Kuznetsova</familyName>, <givenNames>M.</givenNames></author>, <author><familyName>Birn</familyName>, <givenNames>J.</givenNames></author>, &amp; <author><familyName>Burch</familyName>, <givenNames>J. L.</givenNames></author> (<pubYear year=\"2016\">2016</pubYear>). <articleTitle>On the electron diffusion region in asymmetric reconnection with a guide magnetic field</articleTitle>. <journalTitle>Geophysical Research Letters</journalTitle>, <vol>43</vol>, <pageFirst>2359</pageFirst>\u2013<pageLast>2364</pageLast>. <url href=\"https://doi.org/10.1002/2016GL068373\">https://doi.org/10.1002/2016GL068373</url></citation>",
+    "<citation type=\"journal\" xml:id=\"jgra57392-cit-0018\"><author><familyName>Huang</familyName>, <givenNames>C.</givenNames></author>, <author><familyName>Wu</familyName>, <givenNames>M.</givenNames></author>, <author><familyName>Lu</familyName>, <givenNames>Q.</givenNames></author>, <author><familyName>Wang</familyName>, <givenNames>R.</givenNames></author>, &amp; <author><familyName>Wang</familyName>, <givenNames>S.</givenNames></author> (<pubYear year=\"2015\">2015</pubYear>). <articleTitle>Electron acceleration in the dipolarization front driven by magnetic reconnection</articleTitle>. <journalTitle>Journal of Geophysical Research: Space Physics</journalTitle>, <vol>120</vol>, <pageFirst>1759</pageFirst>\u2013<pageLast>1765</pageLast>. <url href=\"https://doi.org/10.1002/2014JA020918\">https://doi.org/10.1002/2014JA020918</url></citation>",
+    "<citation type=\"journal\" xml:id=\"jgra57392-cit-0019\"><author><familyName>Kennel</familyName>, <givenNames>C.</givenNames></author> (<pubYear year=\"1966\">1966</pubYear>). <articleTitle>Low\u2010frequency whistler mode</articleTitle>. <journalTitle>The Physics of Fluids</journalTitle>, <vol>9</vol>(<issue>11</issue>), <pageFirst>2190</pageFirst>\u2013<pageLast>2202</pageLast>. <url href=\"https://doi.org/10.1063/1.1761588\">https://doi.org/10.1063/1.1761588</url></citation>",
+    "<citation type=\"journal\" xml:id=\"jgra57392-cit-0020\"><author><familyName>Khotyaintsev</familyName>, <givenNames>Y. V.</givenNames></author>, <author><familyName>Graham</familyName>, <givenNames>D. B.</givenNames></author>, <author><familyName>Norgren</familyName>, <givenNames>C.</givenNames></author>, &amp; <author><familyName>Vaivads</familyName>, <givenNames>A.</givenNames></author> (<pubYear year=\"2019\">2019</pubYear>). <articleTitle>Collisionless magnetic reconnection and waves: Progress review</articleTitle>. <journalTitle>Frontiers in Astronomy and Space Sciences</journalTitle>, <vol>6</vol>(<issue>70</issue>), <pageFirst>1</pageFirst>\u2013<pageLast>20</pageLast>. <url href=\"https://doi.org/10.3389/fspas.2019.00070\">https://doi.org/10.3389/fspas.2019.00070</url></citation>",
+    "<citation type=\"journal\" xml:id=\"jgra57392-cit-0021\"><author><familyName>Khotyaintsev</familyName>, <givenNames>Y. V.</givenNames></author>, <author><familyName>Graham</familyName>, <givenNames>D. B.</givenNames></author>, <author><familyName>Steinvall</familyName>, <givenNames>K.</givenNames></author>, <author><familyName>Alm</familyName>, <givenNames>L.</givenNames></author>, <author><familyName>Vaivads</familyName>, <givenNames>A.</givenNames></author>, <author><familyName>Johlander</familyName>, <givenNames>A.</givenNames></author>, et al. (<pubYear year=\"2020\">2020</pubYear>). <articleTitle>Electron heating by debye\u2010scale turbulence in guide\u2010field reconnection</articleTitle>. <journalTitle>Physical Review Letters</journalTitle>, <vol>124</vol>(<issue>4</issue>), <eLocator>045101</eLocator>. <url href=\"https://doi.org/10.1103/PhysRevLett.124.045101\">https://doi.org/10.1103/PhysRevLett.124.045101</url></citation>",
+    "<citation type=\"journal\" xml:id=\"jgra57392-cit-0022\"><author><familyName>Lavraud</familyName>, <givenNames>B.</givenNames></author>, <author><familyName>Zhang</familyName>, <givenNames>Y. C.</givenNames></author>, <author><familyName>Vernisse</familyName>, <givenNames>Y.</givenNames></author>, <author><familyName>Gershman</familyName>, <givenNames>D. J.</givenNames></author>, <author><familyName>Dorelli</familyName>, <givenNames>J.</givenNames></author>, <author><familyName>Cassak</familyName>, <givenNames>P. A.</givenNames></author>, et al. (<pubYear year=\"2016\">2016</pubYear>). <articleTitle>Currents and associated electron scattering and bouncing near the diffusion region at Earth\u2019s magnetopause</articleTitle>. <journalTitle>Geophysical Research Letters</journalTitle>, <vol>43</vol>, <pageFirst>3042</pageFirst>\u2013<pageLast>3050</pageLast>. <url href=\"https://doi.org/10.1002/2016GL068359\">https://doi.org/10.1002/2016GL068359</url></citation>",
+    "<citation type=\"journal\" xml:id=\"jgra57392-cit-0023\"><author><familyName>Le Contel</familyName>, <givenNames>O.</givenNames></author>, <author><familyName>Leroy</familyName>, <givenNames>P.</givenNames></author>, <author><familyName>Roux</familyName>, <givenNames>A.</givenNames></author>, <author><familyName>Coillot</familyName>, <givenNames>C.</givenNames></author>, <author><familyName>Alison</familyName>, <givenNames>D.</givenNames></author>, <author><familyName>Bouabdellah</familyName>, <givenNames>A.</givenNames></author>, et al. (<pubYear year=\"2016\">2016</pubYear>). <articleTitle>The search\u2010coil magnetometer for MMS</articleTitle>. <journalTitle>Space Science Reviews</journalTitle>, <vol>199</vol>, <pageFirst>257</pageFirst>\u2013<pageLast>282</pageLast>. <url href=\"https://doi.org/10.1007/s11214-014-0096-9\">https://doi.org/10.1007/s11214-014-0096-9</url></citation>",
+    "<citation type=\"journal\" xml:id=\"jgra57392-cit-0024\"><author><familyName>Le Contel</familyName>, <givenNames>O.</givenNames></author>, <author><familyName>Retino</familyName>, <givenNames>A.</givenNames></author>, <author><familyName>Breuillard</familyName>, <givenNames>H.</givenNames></author>, <author><familyName>Mirioni</familyName>, <givenNames>L.</givenNames></author>, <author><familyName>Robert</familyName>, <givenNames>P.</givenNames></author>, <author><familyName>Chasapis</familyName>, <givenNames>A.</givenNames></author>, et al. (<pubYear year=\"2016\">2016</pubYear>). <articleTitle>Whistler mode waves and hall fields detected by mms during a dayside magnetopause crossing</articleTitle>. <journalTitle>Geophysical Research Letters</journalTitle>, <vol>43</vol>(<issue>12</issue>), <pageFirst>5943</pageFirst>\u2013<pageLast>5952</pageLast>. <url href=\"https://doi.org/10.1002/2016GL068968\">https://doi.org/10.1002/2016GL068968</url></citation>",
+    "<citation type=\"journal\" xml:id=\"jgra57392-cit-0025\"><author><familyName>Lenouvel</familyName>, <givenNames>Q.</givenNames></author>, <author><familyName>Genot</familyName>, <givenNames>V.</givenNames></author>, <author><familyName>Garnier</familyName>, <givenNames>P.</givenNames></author>, <author><familyName>Toledo\u2010Redondo</familyName>, <givenNames>S.</givenNames></author>, <author><familyName>Lavraud</familyName>, <givenNames>B.</givenNames></author>, <author><familyName>Aunai</familyName>, <givenNames>N.</givenNames></author>, et al. (<pubYear year=\"2021\">2021</pubYear>). <articleTitle>Identification of electron diffusion regions with a machine learning approach on MMS data at the Earth's magnetopause</articleTitle>. <journalTitle>Earth and Space Science</journalTitle>, <vol>8</vol>, <eLocator>e2020EA001530</eLocator>. <url href=\"https://doi.org/10.1029/2020EA001530\">https://doi.org/10.1029/2020EA001530</url></citation>",
+    "<citation type=\"journal\" xml:id=\"jgra57392-cit-0026\"><author><familyName>Li</familyName>, <givenNames>J.</givenNames></author>, <author><familyName>Bortnik</familyName>, <givenNames>J.</givenNames></author>, <author><familyName>An</familyName>, <givenNames>X.</givenNames></author>, <author><familyName>Li</familyName>, <givenNames>W.</givenNames></author>, <author><familyName>Russell</familyName>, <givenNames>C. T.</givenNames></author>, <author><familyName>Zhou</familyName>, <givenNames>M.</givenNames></author>, et al. (<pubYear year=\"2018\">2018</pubYear>). <articleTitle>Local excitation of whistler mode waves and associated Langmuir waves at dayside reconnection regions</articleTitle>. <journalTitle>Geophysical Research Letters</journalTitle>, <vol>45</vol>, <pageFirst>8793</pageFirst>\u2013<pageLast>8802</pageLast>. <url href=\"https://doi.org/10.1029/2018GL078287\">https://doi.org/10.1029/2018GL078287</url></citation>",
+    "<citation type=\"journal\" xml:id=\"jgra57392-cit-0027\"><author><familyName>Lindqvist</familyName>, <givenNames>P.\u2010A.</givenNames></author>, <author><familyName>Olsson</familyName>, <givenNames>G.</givenNames></author>, <author><familyName>Torbert</familyName>, <givenNames>R. B.</givenNames></author>, <author><familyName>King</familyName>, <givenNames>B.</givenNames></author>, <author><familyName>Granoff</familyName>, <givenNames>M.</givenNames></author>, <author><familyName>Rau</familyName>, <givenNames>D.</givenNames></author>, et al. (<pubYear year=\"2016\">2016</pubYear>). <articleTitle>The spin\u2010plane double probe electric field instrument for MMS</articleTitle>. <journalTitle>Space Science Reviews</journalTitle>, <vol>199</vol>, <pageFirst>137</pageFirst>\u2013<pageLast>165</pageLast>. <url href=\"https://doi.org/10.1007/s11214-014-0116-9\">https://doi.org/10.1007/s11214-014-0116-9</url></citation>",
+    "<citation type=\"journal\" xml:id=\"jgra57392-cit-0028\"><author><familyName>Pollock</familyName>, <givenNames>C.</givenNames></author>, <author><familyName>Moore</familyName>, <givenNames>T.</givenNames></author>, <author><familyName>Jacques</familyName>, <givenNames>A.</givenNames></author>, <author><familyName>Burch</familyName>, <givenNames>J.</givenNames></author>, <author><familyName>Gliese</familyName>, <givenNames>U.</givenNames></author>, <author><familyName>Saito</familyName>, <givenNames>Y.</givenNames></author>, et al. (<pubYear year=\"2016\">2016</pubYear>). <articleTitle>Fast plasma investigation for magnetospheric multiscale</articleTitle>. <journalTitle>Space Science Reviews</journalTitle>, <vol>199</vol>, <pageFirst>331</pageFirst>\u2013<pageLast>406</pageLast>. <url href=\"https://doi.org/10.1007/s11214-016-0245-4\">https://doi.org/10.1007/s11214-016-0245-4</url></citation>",
+    "<citation type=\"journal\" xml:id=\"jgra57392-cit-0029\"><author><familyName>Ren</familyName>, <givenNames>Y.</givenNames></author>, <author><familyName>Dai</familyName>, <givenNames>L.</givenNames></author>, <author><familyName>Wang</familyName>, <givenNames>C.</givenNames></author>, <author><familyName>Li</familyName>, <givenNames>W.</givenNames></author>, <author><familyName>Tao</familyName>, <givenNames>X.</givenNames></author>, <author><familyName>Lavraud</familyName>, <givenNames>B.</givenNames></author>, &amp; <author><familyName>Le Contel</familyName>, <givenNames>O.</givenNames></author> (<pubYear year=\"2021\">2021</pubYear>). <articleTitle>Statistical characteristics in the spectrum of whistler waves near the diffusion region of dayside magnetopause reconnection</articleTitle>. <journalTitle>Geophysical Research Letters</journalTitle>, <vol>48</vol>, <eLocator>e2020GL090816</eLocator>. <url href=\"https://doi.org/10.1029/2020GL090816\">https://doi.org/10.1029/2020GL090816</url></citation>",
+    "<citation type=\"journal\" xml:id=\"jgra57392-cit-0030\"><author><familyName>Russell</familyName>, <givenNames>C. T.</givenNames></author>, <author><familyName>Anderson</familyName>, <givenNames>B. J.</givenNames></author>, <author><familyName>Baumjohann</familyName>, <givenNames>W.</givenNames></author>, <author><familyName>Bromund</familyName>, <givenNames>K. R.</givenNames></author>, <author><familyName>Dearborn</familyName>, <givenNames>D.</givenNames></author>, <author><familyName>Fischer</familyName>, <givenNames>D.</givenNames></author>, et al. (<pubYear year=\"2016\">2016</pubYear>). <articleTitle>The magnetospheric multiscale magnetometers</articleTitle>. <journalTitle>Space Science Reviews</journalTitle>, <vol>199</vol>, <pageFirst>189</pageFirst>\u2013<pageLast>256</pageLast>. <url href=\"https://doi.org/10.1007/s11214-014-0057-3\">https://doi.org/10.1007/s11214-014-0057-3</url></citation>",
+    "<citation type=\"journal\" xml:id=\"jgra57392-cit-0031\"><author><familyName>Samson</familyName>, <givenNames>J. C.</givenNames></author>, &amp; <author><familyName>Olson</familyName>, <givenNames>J. V.</givenNames></author> (<pubYear year=\"1980\">1980</pubYear>). <articleTitle>Some comments on the descriptions of the polarization states of waves</articleTitle>. <journalTitle>Geophysics Journal of Research Astronomy Society</journalTitle>, <vol>61</vol>, <pageFirst>115</pageFirst>\u2013<pageLast>129</pageLast>. <url href=\"https://doi.org/10.1111/j.1365-246X.1980.tb04308.x\">https://doi.org/10.1111/j.1365-246X.1980.tb04308.x</url></citation>",
+    "<citation type=\"book\" xml:id=\"jgra57392-cit-0032\"><author><familyName>Stix</familyName>, <givenNames>T. H.</givenNames></author> (<pubYear year=\"1992\">1992</pubYear>). <chapterTitle>Chapter 11 Waves in magnetized uniform media, Section 11\u20102 Propagation parallel to B<sub>0</sub></chapterTitle>. In <bookTitle>Waves in plasmas</bookTitle> (pp. <pageFirst>266</pageFirst>\u2013<pageLast>270</pageLast>). <publisherName>Springer Science &amp; Businiess Media</publisherName>.</citation>",
+    "<citation type=\"journal\" xml:id=\"jgra57392-cit-0033\"><author><familyName>Torbert</familyName>, <givenNames>R.</givenNames></author>, <author><familyName>Russell</familyName>, <givenNames>C. T.</givenNames></author>, <author><familyName>Magnes</familyName>, <givenNames>W.</givenNames></author>, <author><familyName>Ergun</familyName>, <givenNames>R. E.</givenNames></author>, <author><familyName>Lindqvist</familyName>, <givenNames>P.\u2010A.</givenNames></author>, <author><familyName>LeContel</familyName>, <givenNames>O.</givenNames></author>, et al. (<pubYear year=\"2016\">2016</pubYear>). <articleTitle>The fields instrument suite on MMS: Scientific objectives, measurements, and data products</articleTitle>. <journalTitle>Space Science Reviews</journalTitle>, <vol>199</vol>, <pageFirst>105</pageFirst>\u2013<pageLast>135</pageLast>. <url href=\"https://doi.org/10.1007/s11214-014-0109-8\">https://doi.org/10.1007/s11214-014-0109-8</url></citation>",
+    "<citation type=\"journal\" xml:id=\"jgra57392-cit-0034\"><author><familyName>Wang</familyName>, <givenNames>S.</givenNames></author>, <author><familyName>Chen</familyName>, <givenNames>L.\u2010J.</givenNames></author>, <author><familyName>Bessho</familyName>, <givenNames>N.</givenNames></author>, <author><familyName>Kistler</familyName>, <givenNames>L. M.</givenNames></author>, <author><familyName>Shuster</familyName>, <givenNames>J. R.</givenNames></author>, &amp; <author><familyName>Guo</familyName>, <givenNames>R.</givenNames></author> (<pubYear year=\"2016\">2016</pubYear>). <articleTitle>Electron heating in the exhaust of magnetic reconnection with negligible guide field</articleTitle>. <journalTitle>Journal of Geophysical Research: Space Physics</journalTitle>, <vol>121</vol>, <pageFirst>2104</pageFirst>\u2013<pageLast>2130</pageLast>. <url href=\"https://doi.org/10.1002/2015JA021892\">https://doi.org/10.1002/2015JA021892</url></citation>",
+    "<citation type=\"journal\" xml:id=\"jgra57392-cit-0035\"><author><familyName>Wang</familyName>, <givenNames>S.</givenNames></author>, <author><familyName>Chen</familyName>, <givenNames>L. J.</givenNames></author>, <author><familyName>Hesse</familyName>, <givenNames>M.</givenNames></author>, <author><familyName>Wilson</familyName>, <givenNames>L. B.</givenNames></author>, <author><familyName>Bessho</familyName>, <givenNames>N.</givenNames></author>, <author><familyName>Gershman</familyName>, <givenNames>D. J.</givenNames></author>, et al. (<pubYear year=\"2017\">2017</pubYear>). <articleTitle>Parallel electron heating in the magnetospheric inflow region</articleTitle>. <journalTitle>Geophysical Research Letters</journalTitle>, <vol>44</vol>, <pageFirst>4384</pageFirst>\u2013<pageLast>4392</pageLast>. <url href=\"https://doi.org/10.1002/2017GL073404\">https://doi.org/10.1002/2017GL073404</url></citation>",
+    "<citation type=\"journal\" xml:id=\"jgra57392-cit-0036\"><author><familyName>Webster</familyName>, <givenNames>J. M.</givenNames></author>, <author><familyName>Burch</familyName>, <givenNames>J. L.</givenNames></author>, <author><familyName>Reiff</familyName>, <givenNames>P. H.</givenNames></author>, <author><familyName>Daou</familyName>, <givenNames>A. G.</givenNames></author>, <author><familyName>Genestreti</familyName>, <givenNames>K. J.</givenNames></author>, <author><familyName>Graham</familyName>, <givenNames>D. B.</givenNames></author>, et al. (<pubYear year=\"2018\">2018</pubYear>). <articleTitle>Magnetospheric multiscale dayside reconnection electron diffusion region events</articleTitle>. <journalTitle>Journal of Geophysical Research: Space Physics</journalTitle>, <vol>123</vol>(<issue>6</issue>), <pageFirst>4858</pageFirst>\u2013<pageLast>4878</pageLast>. <url href=\"https://doi.org/10.1029/2018JA025245\">https://doi.org/10.1029/2018JA025245</url></citation>",
+    "<citation type=\"journal\" xml:id=\"jgra57392-cit-0037\"><author><familyName>Wilder</familyName>, <givenNames>F. D.</givenNames></author>, <author><familyName>Ergun</familyName>, <givenNames>R. E.</givenNames></author>, <author><familyName>Goodrich</familyName>, <givenNames>K. A.</givenNames></author>, <author><familyName>Goldman</familyName>, <givenNames>M. V.</givenNames></author>, <author><familyName>Newman</familyName>, <givenNames>D. L.</givenNames></author>, <author><familyName>Malaspina</familyName>, <givenNames>D. M.</givenNames></author>, et al. (<pubYear year=\"2016\">2016</pubYear>). <articleTitle>Observations of whistler mode waves with nonlinear parallel electric fields near the dayside magnetic reconnection separatrix by the magnetospheric multiscale mission</articleTitle>. <journalTitle>Geophysical Research Letters</journalTitle>, <vol>43</vol>(<issue>6</issue>), <pageFirst>5909</pageFirst>\u2013<pageLast>5917</pageLast>. <url href=\"https://doi.org/10.1002/2016GL069473\">https://doi.org/10.1002/2016GL069473</url></citation>",
+    "<citation type=\"journal\" xml:id=\"jgra57392-cit-0038\"><author><familyName>Wilder</familyName>, <givenNames>F. D.</givenNames></author>, <author><familyName>Ergun</familyName>, <givenNames>R. E.</givenNames></author>, <author><familyName>Newman</familyName>, <givenNames>D. L.</givenNames></author>, <author><familyName>Goodrich</familyName>, <givenNames>K. A.</givenNames></author>, <author><familyName>Trattner</familyName>, <givenNames>K. J.</givenNames></author>, <author><familyName>Goldman</familyName>, <givenNames>M. V.</givenNames></author>, et al. (<pubYear year=\"2017\">2017</pubYear>). <articleTitle>The nonlinear behavior of whistler waves at the reconnecting dayside magnetopause as observed by the magnetospheric multiscale mission: A case study</articleTitle>. <journalTitle>Journal of Geophysical Research: Space Physics</journalTitle>, <vol>122</vol>(<issue>5</issue>), <pageFirst>5487</pageFirst>\u2013<pageLast>5501</pageLast>. <url href=\"https://doi.org/10.1002/2017JA024062\">https://doi.org/10.1002/2017JA024062</url></citation>",
+    "<citation type=\"journal\" xml:id=\"jgra57392-cit-0039\"><author><familyName>Wong</familyName>, <givenNames>H. K.</givenNames></author>, &amp; <author><familyName>Smith</familyName>, <givenNames>C. W.</givenNames></author> (<pubYear year=\"1994\">1994</pubYear>). <articleTitle>Electron beam excitation of upstream waves in the whistler mode frequency range</articleTitle>. <journalTitle>Journal of Geophysical Research</journalTitle>, <vol>99</vol>(<issue>A7</issue>), <pageFirst>13373</pageFirst>\u2013<pageLast>13387</pageLast>. <url href=\"https://doi.org/10.1029/94JA00821\">https://doi.org/10.1029/94JA00821</url></citation>",
+    "<citation type=\"journal\" xml:id=\"jgra57392-cit-0040\"><author><familyName>Xie</familyName>, <givenNames>H.</givenNames></author> (<pubYear year=\"2019\">2019</pubYear>). <articleTitle>BO: A unified tool for plasma waves and instabilities analysis</articleTitle>. <journalTitle>Computer Physics Communications</journalTitle>, <vol>244</vol>, <pageFirst>343</pageFirst>\u2013<pageLast>371</pageLast>. <url href=\"https://doi.org/10.1016/j.cpc.2019.06.014\">https://doi.org/10.1016/j.cpc.2019.06.014</url></citation>",
+    "<citation type=\"journal\" xml:id=\"jgra57392-cit-0041\"><author><familyName>Yoo</familyName>, <givenNames>J.</givenNames></author>, <author><familyName>Jara\u2010Almonte</familyName>, <givenNames>J.</givenNames></author>, <author><familyName>Yerger</familyName>, <givenNames>E.</givenNames></author>, <author><familyName>Wang</familyName>, <givenNames>S.</givenNames></author>, <author><familyName>Qian</familyName>, <givenNames>T.</givenNames></author>, <author><familyName>Le</familyName>, <givenNames>A.</givenNames></author>, et al. (<pubYear year=\"2018\">2018</pubYear>). <articleTitle>Whistler wave generation by anisotropic tail electrons during asymmetric magnetic reconnection in space and laboratory</articleTitle>. <journalTitle>Geophysical Research Letters</journalTitle>, <vol>45</vol>, <pageFirst>8054</pageFirst>\u2013<pageLast>8061</pageLast>. <url href=\"https://doi.org/10.1029/2018GL079278\">https://doi.org/10.1029/2018GL079278</url></citation>",
+    "<citation type=\"journal\" xml:id=\"jgra57392-cit-0042\"><author><familyName>Zhao</familyName>, <givenNames>S. Q.</givenNames></author>, <author><familyName>Xiao</familyName>, <givenNames>C. J.</givenNames></author>, <author><familyName>Liu</familyName>, <givenNames>T. Z.</givenNames></author>, <author><familyName>Chen</familyName>, <givenNames>H.</givenNames></author>, <author><familyName>Zhang</familyName>, <givenNames>H.</givenNames></author>, <author><familyName>Shi</familyName>, <givenNames>M. J.</givenNames></author>, et al. (<pubYear year=\"2021\">2021</pubYear>). <articleTitle>Observations of the beam\u2010driven whistler mode waves in the magnetic reconnection region at the dayside magnetopause</articleTitle>. <journalTitle>Journal of Geophysical Research: Space Physics</journalTitle>, <vol>126</vol>. <url href=\"https://doi.org/10.1029/2020JA028525\">https://doi.org/10.1029/2020JA028525</url></citation>",
+    "<citation type=\"journal\" xml:id=\"jgra57392-cit-0043\"><author><familyName>Zhong</familyName>, <givenNames>Z. H.</givenNames></author>, <author><familyName>Graham</familyName>, <givenNames>D. B.</givenNames></author>, <author><familyName>Khotyaintsev</familyName>, <givenNames>Y. V.</givenNames></author>, <author><familyName>Zhou</familyName>, <givenNames>M.</givenNames></author>, <author><familyName>Le Contel</familyName>, <givenNames>O.</givenNames></author>, <author><familyName>Tang</familyName>, <givenNames>R. X.</givenNames></author>, &amp; <author><familyName>Deng</familyName>, <givenNames>X. H.</givenNames></author> (<pubYear year=\"2021\">2021</pubYear>). <articleTitle>Whistler and broadband electrostatic waves in the multiple X\u2010line reconnection at the magnetopause</articleTitle>. <journalTitle>Geophysical Research Letters</journalTitle>, <vol>48</vol>, <eLocator>e2020GL091320</eLocator>. <url href=\"https://doi.org/10.1029/2020GL091320\">https://doi.org/10.1029/2020GL091320</url></citation>",
+    "<citation type=\"journal\" xml:id=\"jgra57392-cit-0044\"><author><familyName>Zhong</familyName>, <givenNames>Z. H.</givenNames></author>, <author><familyName>Zhou</familyName>, <givenNames>M.</givenNames></author>, <author><familyName>Graham</familyName>, <givenNames>D. B.</givenNames></author>, <author><familyName>Khotyaintsev</familyName>, <givenNames>Y. V.</givenNames></author>, <author><familyName>Wu</familyName>, <givenNames>Y. F.</givenNames></author>, <author><familyName>Le Contel</familyName>, <givenNames>O.</givenNames></author>, et al. (<pubYear year=\"2022\">2022</pubYear>). <articleTitle>Evidence for whistler waves propagating into the electron diffusion region of collisionless magnetic reconnection</articleTitle>. <journalTitle>Geophysical Research Letters</journalTitle>, <vol>49</vol>, <eLocator>e2021GL097387</eLocator>. <url href=\"https://doi.org/10.1029/2021GL097387\">https://doi.org/10.1029/2021GL097387</url></citation>"
+  ],
+  "title": {
+    "textEnglish": "Whistler Waves Associated With Electron Beams in Magnetopause Reconnection Diffusion Regions"
+  }
+}

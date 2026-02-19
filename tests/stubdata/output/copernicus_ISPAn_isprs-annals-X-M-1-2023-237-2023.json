@@ -1,0 +1,102 @@
+{
+  "abstract": {
+    "textEnglish": "The article focuses on modern methods of mining activity documentation and visualization. The development of technologies that allow us to display 3D models are many in recent years, from web portals, augmented reality using smartphones or tablets to virtual reality glasses. These technologies give us a whole new way of looking at and viewing 3D models. In this study, we will use most of the available options to visualize mining activities in the UNESCO-protected Ore Mountains. Each of these technologies needs differently prepared data. Because each of these technologies have different limits, we need to find these limits and modify the 3D models. The ZEB Revo laser scanner was used for data acquisition, which uses SLAM technology and is much more suitable for such areas than conventional terrestrial scanners, with which the work is lengthy and not nearly as efficient, and not the least of which eliminates the time-consuming post-scan work of merging scans. Especially when using scanning for mining, where there is not quite enough to go around, manually splicing scans is a nightmare, and automatic post-production merging is also often problematic."
+  },
+  "authors": [
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Czech Technical University in Prague, Faculty of Civil Engineering, 16629 Prague 6, Thakurova 7, Czech Republic"
+        }
+      ],
+      "attrib": {
+        "email": "karel.pavelka@cvut.cz"
+      },
+      "name": {
+        "given_name": "K.",
+        "pubraw": "K. Pavelka jr.",
+        "suffix": "jr.",
+        "surname": "Pavelka"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Czech Technical University in Prague, Faculty of Civil Engineering, 16629 Prague 6, Thakurova 7, Czech Republic"
+        }
+      ],
+      "attrib": {
+        "email": "lukas.beloch@fsv.cvut.cz"
+      },
+      "name": {
+        "given_name": "L.",
+        "pubraw": "L. B\u011bloch",
+        "surname": "B\u011bloch"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Czech Technical University in Prague, Faculty of Civil Engineering, 16629 Prague 6, Thakurova 7, Czech Republic"
+        }
+      ],
+      "attrib": {
+        "email": "pavelka@fsv.cvut.cz"
+      },
+      "name": {
+        "given_name": "K.",
+        "pubraw": "K. Pavelka",
+        "surname": "Pavelka"
+      }
+    }
+  ],
+  "esources": [
+    {
+      "location": "https://isprs-annals.copernicus.org/articles/X-M-1-2023/237/2023/isprs-annals-X-M-1-2023-237-2023.pdf",
+      "source": "pub_pdf"
+    },
+    {
+      "location": "https://isprs-annals.copernicus.org/articles/X-M-1-2023/237/2023/isprs-annals-X-M-1-2023-237-2023.html",
+      "source": "pub_html"
+    }
+  ],
+  "pagination": {
+    "firstPage": "237",
+    "lastPage": "244"
+  },
+  "persistentIDs": [
+    {
+      "DOI": "10.5194/isprs-annals-X-M-1-2023-237-2023"
+    }
+  ],
+  "pubDate": {
+    "electrDate": "2023-06-23",
+    "printDate": "2023-06-23"
+  },
+  "publication": {
+    "ISSN": [
+      {
+        "issnString": "2194-9042",
+        "pubtype": "print"
+      },
+      {
+        "issnString": "2194-9050",
+        "pubtype": "electronic"
+      }
+    ],
+    "pubName": "ISPRS Annals of the Photogrammetry, Remote Sensing and Spatial Information Sciences",
+    "pubYear": "2023",
+    "volumeNum": "X-M-1-2023"
+  },
+  "recordData": {
+    "createdTime": "",
+    "loadFormat": "Copernicus",
+    "loadLocation": "",
+    "loadType": "fromFile",
+    "parsedTime": "",
+    "recordOrigin": ""
+  },
+  "title": {
+    "textEnglish": "Modern Methods Of Documentation And Visualization Of Historical Mines In The Unesco Mining Region In The Ore Mountains"
+  }
+}

@@ -1,0 +1,986 @@
+<?xml version="1.0" encoding="ISO646-US"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD Journal Archiving and Interchange DTD v3.0 20080202//EN" "http://dtd.nlm.nih.gov/archiving/3.0/archivearticle3.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         article-type="research-article"><!--Input file: GGAF_A_1990912_J.xml
+Processed with: tfjats1.2-to-nlm3-headers.xsl
+$Id: tfjats1.2-to-nlm3-headers.xsl,v 1.13 2020/04/12 21:26:20 lee Exp $-->
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="publisher-acronym">GGAF</journal-id>
+         <journal-id journal-id-type="publisher-id">ggaf20</journal-id>
+         <journal-title-group>
+            <journal-title>Geophysical &amp; Astrophysical Fluid Dynamics</journal-title>
+         </journal-title-group>
+         <issn pub-type="ppub">0309-1929</issn>
+         <issn pub-type="epub">1029-0419</issn>
+         <publisher>
+            <publisher-name>Taylor &amp; Francis</publisher-name>
+         </publisher>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="publisher-id">1990912</article-id>
+         <article-id pub-id-type="doi">10.1080/03091929.2021.1990912</article-id>
+         <article-id pub-id-type="submission-id">GGAF-2021-0020.R2</article-id>
+         <article-categories>
+            <subj-group subj-group-type="article-type">
+               <subject>Research Article</subject>
+            </subj-group>
+            <subj-group subj-group-type="heading">
+               <subject>Articles</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>Eddy saturation in a reduced two-level model of the atmosphere</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <x xml:space="preserve"> </x>
+               <uri content-type="orcid">http://orcid.org/0000-0001-8135-6962</uri>
+               <string-name>
+                  <given-names>Melanie</given-names>
+                  <x xml:space="preserve"> </x>
+                  <surname>Kobras</surname>
+               </string-name>
+               <xref ref-type="aff" rid="AF1">
+                  <sup>a</sup>
+               </xref>
+               <xref ref-type="aff" rid="AF2">
+                  <sup>b</sup>
+               </xref>
+               <xref ref-type="corresp" rid="cor1"/>
+               <x xml:space="preserve">, </x>
+            </contrib>
+            <contrib contrib-type="author">
+               <x xml:space="preserve"> </x>
+               <uri content-type="orcid">http://orcid.org/0000-0002-6051-2249</uri>
+               <string-name>
+                  <given-names>Maarten H. P.</given-names>
+                  <x xml:space="preserve"> </x>
+                  <surname>Ambaum</surname>
+               </string-name>
+               <xref ref-type="aff" rid="AF3">
+                  <sup>c</sup>
+               </xref>
+               <x xml:space="preserve"> &amp; </x>
+            </contrib>
+            <contrib contrib-type="author">
+               <x xml:space="preserve"> </x>
+               <uri content-type="orcid">http://orcid.org/0000-0001-9392-1471</uri>
+               <string-name>
+                  <given-names>Valerio</given-names>
+                  <x xml:space="preserve"> </x>
+                  <surname>Lucarini</surname>
+               </string-name>
+               <xref ref-type="aff" rid="AF1">
+                  <sup>a</sup>
+               </xref>
+               <xref ref-type="aff" rid="AF2">
+                  <sup>b</sup>
+               </xref>
+            </contrib>
+            <aff id="AF1">
+               <label>
+                  <sup>a</sup>
+               </label> Department of Mathematics and Statistics, <institution>University of Reading</institution>, <named-content content-type="city">Reading</named-content>, <country>UK</country>
+            </aff>
+            <aff id="AF2">
+               <label>
+                  <sup>b</sup>
+               </label> Centre for the Mathematics of Planet Earth, <institution>University of Reading</institution>, <named-content content-type="city">Reading</named-content>, <country>UK</country>
+            </aff>
+            <aff id="AF3">
+               <label>
+                  <sup>c</sup>
+               </label> Department of Meteorology, <institution>University of Reading</institution>, <named-content content-type="city">Reading</named-content>, <country>UK</country>
+            </aff>
+         </contrib-group>
+         <author-notes>
+            <corresp id="cor1">
+               <label>CONTACT </label>Melanie Kobras <email xlink:href="m.kobras@pgr.reading.ac.uk">m.kobras@pgr.reading.ac.uk</email>
+            </corresp>
+         </author-notes>
+         <pub-date pub-type="ppub">
+            <day>02</day>
+            <month>01</month>
+            <year>2022</year>
+            <string-date>February 2022</string-date>
+         </pub-date>
+         <volume>116</volume>
+         <issue>1</issue>
+         <fpage seq="3">38</fpage>
+         <lpage>55</lpage>
+         <history>
+            <date date-type="received">
+               <day>8</day>
+               <month>7</month>
+               <year>2021</year>
+            </date>
+            <date date-type="accepted">
+               <day>5</day>
+               <month>10</month>
+               <year>2021</year>
+            </date>
+         </history>
+         <permissions>
+            <copyright-statement>&#xa9; 2021 The Author(s). Published by Informa UK Limited, trading as Taylor &amp; Francis Group</copyright-statement>
+            <copyright-year>2021</copyright-year>
+            <copyright-holder>The Author(s)</copyright-holder>
+            <license license-type="open-access"
+                     xlink:href="http://creativecommons.org/licenses/by/4.0/">
+               <license-p>This is an Open Access article distributed under the terms of the Creative Commons Attribution License (<ext-link ext-link-type="uri"
+                            xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link>), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p>
+            </license>
+         </permissions>
+         <abstract>
+            <p>Eddy saturation describes the nonlinear mechanism in geophysical flows whereby, when average conditions are considered, direct forcing of the zonal flow increases the eddy kinetic energy, while the energy associated with the zonal flow does not increase. Here, we present a minimal baroclinic model that exhibits complete eddy saturation. Starting from Phillips' classical quasi-geostrophic two-level model on the beta channel of the mid-latitudes, we derive a reduced order model comprising of six ordinary differential equations including parameterised eddies. This model features two physically realisable steady state solutions, one a purely zonal flow and one where, additionally, finite eddy motions are present. As the baroclinic forcing in the form of diabatic heating is increased, the zonal solution loses stability and the eddy solution becomes attracting. After this bifurcation, the zonal components of the solution are independent of the baroclinic forcing, and the excess of heat in the low latitudes is efficiently transported northwards by finite eddies, in the spirit of baroclinic adjustment.</p>
+         </abstract>
+         <kwd-group kwd-group-type="author">
+            <title>Keywords</title>
+            <kwd>Eddy saturation</kwd>
+            <kwd>baroclinic instability</kwd>
+            <kwd>baroclinic adjustment</kwd>
+            <kwd>Phillips' model</kwd>
+            <kwd>frictional adjustment</kwd>
+         </kwd-group>
+         <funding-group>
+            <award-group>
+               <funding-source>
+                  <institution>Engineering and Physical Sciences Research Council</institution>
+               </funding-source>
+               <award-id>EP/R513301/1</award-id>
+               <award-id>EP/T018178/1</award-id>
+            </award-group>
+            <award-group>
+               <funding-source>
+                  <institution>EPSRC</institution>
+               </funding-source>
+            </award-group>
+            <award-group>
+               <funding-source>
+                  <institution>EU Horizon 2020</institution>
+               </funding-source>
+               <award-id>820970</award-id>
+            </award-group>
+            <funding-statement>Melanie Kobras is supported by the U.K. Engineering and Physical Sciences Research Council (Grant EP/R513301/1). Valerio Lucarini acknowledges the support received from the EPSRC project EP/T018178/1 and from the EU Horizon 2020 project Tipping Points in the Earth System (TiPES) (grant no. 820970).</funding-statement>
+         </funding-group>
+         <counts>
+            <fig-count count="4"/>
+            <table-count count="2"/>
+            <equation-count count="185"/>
+            <ref-count count="24"/>
+            <page-count count="18"/>
+         </counts>
+      </article-meta>
+   </front>
+   <back>
+      <ref-list>
+         <ref id="CIT0001">
+            <mixed-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <surname>Ambaum</surname>
+                     <x xml:space="preserve">, </x>
+                     <given-names>M.H.P.</given-names>
+                  </string-name>
+                  <x xml:space="preserve"> and </x>
+                  <string-name>
+                     <surname>Novak</surname>
+                     <x xml:space="preserve">, </x>
+                     <given-names>L.</given-names>
+                  </string-name>
+               </person-group>
+               <x xml:space="preserve">, </x>
+               <article-title>A nonlinear oscillator describing storm track variability</article-title>
+               <x xml:space="preserve">. </x>
+               <source>
+                  <italic>Q. J. Roy. Meteor. Soc.</italic>
+               </source>
+               <x xml:space="preserve"> </x>
+               <year>2014</year>
+               <x xml:space="preserve">, </x>
+               <volume>
+                  <bold>140</bold>
+               </volume>
+               <x xml:space="preserve">, </x>
+               <fpage>2680</fpage>
+               <x xml:space="preserve">&#x2013;</x>
+               <lpage>2684</lpage>
+               <x xml:space="preserve">.</x>
+            </mixed-citation>
+         </ref>
+         <ref id="CIT0002">
+            <mixed-citation publication-type="other">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <surname>Guckenheimer</surname>
+                     <x xml:space="preserve">, </x>
+                     <given-names>J.</given-names>
+                  </string-name>
+                  <x xml:space="preserve"> and </x>
+                  <string-name>
+                     <surname>Holmes</surname>
+                     <x xml:space="preserve">, </x>
+                     <given-names>P.</given-names>
+                  </string-name>
+               </person-group>
+               <x xml:space="preserve">, </x>
+               <italic>Nonlinear Oscillations, Dynamical Systems, and Bifurcations of Vector Fields</italic>
+               <x xml:space="preserve">, Applied Mathematical Sciences, 1st ed., 1983 (Springer, New York, NY).</x>
+            </mixed-citation>
+         </ref>
+         <ref id="CIT0003">
+            <mixed-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <surname>Holton</surname>
+                     <x xml:space="preserve">, </x>
+                     <given-names>J.R.</given-names>
+                  </string-name>
+                  <x xml:space="preserve"> and </x>
+                  <string-name>
+                     <surname>Hakim</surname>
+                     <x xml:space="preserve">, </x>
+                     <given-names>G.J.</given-names>
+                  </string-name>
+               </person-group>
+               <x xml:space="preserve">, </x>
+               <source>
+                  <italic>An Introduction to Dynamic Meteorology</italic>
+               </source>
+               <x xml:space="preserve">, </x>
+               <edition>5th ed.</edition>
+               <x xml:space="preserve">, </x>
+               <year>2013</year>
+               <x xml:space="preserve"> (</x>
+               <publisher-name>Waltham, MA: Academic Press</publisher-name>
+               <x xml:space="preserve">).</x>
+            </mixed-citation>
+         </ref>
+         <ref id="CIT0004">
+            <mixed-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <surname>Hoskins</surname>
+                     <x xml:space="preserve">, </x>
+                     <given-names>B.J.</given-names>
+                  </string-name>
+                  <x xml:space="preserve"> and </x>
+                  <string-name>
+                     <surname>James</surname>
+                     <x xml:space="preserve">, </x>
+                     <given-names>I.M.</given-names>
+                  </string-name>
+               </person-group>
+               <x xml:space="preserve">, </x>
+               <source>
+                  <italic>Fluid Dynamics of the Midlatitude Atmosphere</italic>
+               </source>
+               <x xml:space="preserve">, </x>
+               <edition>1st ed.</edition>
+               <x xml:space="preserve">, </x>
+               <year>2014</year>
+               <x xml:space="preserve"> (</x>
+               <publisher-name>Hoboken, NJ: John Wiley &amp; Sons, Ltd</publisher-name>
+               <x xml:space="preserve">).</x>
+            </mixed-citation>
+         </ref>
+         <ref id="CIT0005">
+            <mixed-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <surname>Lorenz</surname>
+                     <x xml:space="preserve">, </x>
+                     <given-names>E.N.</given-names>
+                  </string-name>
+               </person-group>
+               <x xml:space="preserve">, </x>
+               <source>
+                  <italic>The Nature and Theory of the General Circulation of the Atmosphere</italic>
+               </source>
+               <x xml:space="preserve">, Vol. </x>
+               <volume>
+                  <bold>218</bold>
+               </volume>
+               <x xml:space="preserve">, </x>
+               <year>1967</year>
+               <x xml:space="preserve"> (</x>
+               <publisher-name>Geneva: World Meteorological Organization, Geneva</publisher-name>
+               <x xml:space="preserve">).</x>
+            </mixed-citation>
+         </ref>
+         <ref id="CIT0006">
+            <mixed-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <surname>Lucarini</surname>
+                     <x xml:space="preserve">, </x>
+                     <given-names>V.</given-names>
+                  </string-name>
+                  <x xml:space="preserve">, </x>
+                  <string-name>
+                     <surname>Speranza</surname>
+                     <x xml:space="preserve">, </x>
+                     <given-names>A.</given-names>
+                  </string-name>
+                  <x xml:space="preserve"> and </x>
+                  <string-name>
+                     <surname>Vitolo</surname>
+                     <x xml:space="preserve">, </x>
+                     <given-names>R.</given-names>
+                  </string-name>
+               </person-group>
+               <x xml:space="preserve">, </x>
+               <article-title>Parametric smoothness and self-scaling of the statistical properties of a minimal climate model: what beyond the mean field theories?</article-title>
+               <x xml:space="preserve">. </x>
+               <source>
+                  <italic>Physica D</italic>
+               </source>
+               <x xml:space="preserve"> </x>
+               <year>2007</year>
+               <x xml:space="preserve">, </x>
+               <volume>
+                  <bold>234</bold>
+               </volume>
+               <x xml:space="preserve">, </x>
+               <fpage>105</fpage>
+               <x xml:space="preserve">&#x2013;</x>
+               <lpage>123</lpage>
+               <x xml:space="preserve">.</x>
+            </mixed-citation>
+         </ref>
+         <ref id="CIT0007">
+            <mixed-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <surname>Lucarini</surname>
+                     <x xml:space="preserve">, </x>
+                     <given-names>V.</given-names>
+                  </string-name>
+                  <x xml:space="preserve">, </x>
+                  <string-name>
+                     <surname>Blender</surname>
+                     <x xml:space="preserve">, </x>
+                     <given-names>R.</given-names>
+                  </string-name>
+                  <x xml:space="preserve">, </x>
+                  <string-name>
+                     <surname>Herbert</surname>
+                     <x xml:space="preserve">, </x>
+                     <given-names>C.</given-names>
+                  </string-name>
+                  <x xml:space="preserve">, </x>
+                  <string-name>
+                     <surname>Ragone</surname>
+                     <x xml:space="preserve">, </x>
+                     <given-names>F.</given-names>
+                  </string-name>
+                  <x xml:space="preserve">, </x>
+                  <string-name>
+                     <surname>Pascale</surname>
+                     <x xml:space="preserve">, </x>
+                     <given-names>S.</given-names>
+                  </string-name>
+                  <x xml:space="preserve"> and </x>
+                  <string-name>
+                     <surname>Wouters</surname>
+                     <x xml:space="preserve">, </x>
+                     <given-names>J.</given-names>
+                  </string-name>
+               </person-group>
+               <x xml:space="preserve">, </x>
+               <article-title>Mathematical and physical ideas for climate science</article-title>
+               <x xml:space="preserve">. </x>
+               <source>
+                  <italic>Rev. Geophys.</italic>
+               </source>
+               <x xml:space="preserve"> </x>
+               <year>2014</year>
+               <x xml:space="preserve">, </x>
+               <volume>
+                  <bold>52</bold>
+               </volume>
+               <x xml:space="preserve">, </x>
+               <fpage>809</fpage>
+               <x xml:space="preserve">&#x2013;</x>
+               <lpage>859</lpage>
+               <x xml:space="preserve">.</x>
+            </mixed-citation>
+         </ref>
+         <ref id="CIT0008">
+            <mixed-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <surname>Mak</surname>
+                     <x xml:space="preserve">, </x>
+                     <given-names>J.</given-names>
+                  </string-name>
+                  <x xml:space="preserve">, </x>
+                  <string-name>
+                     <surname>Marshall</surname>
+                     <x xml:space="preserve">, </x>
+                     <given-names>D.</given-names>
+                  </string-name>
+                  <x xml:space="preserve">, </x>
+                  <string-name>
+                     <surname>Maddison</surname>
+                     <x xml:space="preserve">, </x>
+                     <given-names>J.</given-names>
+                  </string-name>
+                  <x xml:space="preserve"> and </x>
+                  <string-name>
+                     <surname>Bachman</surname>
+                     <x xml:space="preserve">, </x>
+                     <given-names>S.</given-names>
+                  </string-name>
+               </person-group>
+               <x xml:space="preserve">, </x>
+               <article-title>Emergent eddy saturation from an energy constrained eddy parameterisation</article-title>
+               <x xml:space="preserve">. </x>
+               <source>
+                  <italic>Ocean Model.</italic>
+               </source>
+               <x xml:space="preserve"> </x>
+               <year>2017</year>
+               <x xml:space="preserve">, </x>
+               <volume>
+                  <bold>112</bold>
+               </volume>
+               <x xml:space="preserve">, </x>
+               <fpage>125</fpage>
+               <x xml:space="preserve">&#x2013;</x>
+               <lpage>138</lpage>
+               <x xml:space="preserve">.</x>
+            </mixed-citation>
+         </ref>
+         <ref id="CIT0009">
+            <mixed-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <surname>Malguzzi</surname>
+                     <x xml:space="preserve">, </x>
+                     <given-names>P.</given-names>
+                  </string-name>
+                  <x xml:space="preserve">, </x>
+                  <string-name>
+                     <surname>Trevisan</surname>
+                     <x xml:space="preserve">, </x>
+                     <given-names>A.</given-names>
+                  </string-name>
+                  <x xml:space="preserve"> and </x>
+                  <string-name>
+                     <surname>Speranza</surname>
+                     <x xml:space="preserve">, </x>
+                     <given-names>A.</given-names>
+                  </string-name>
+               </person-group>
+               <x xml:space="preserve">, </x>
+               <article-title>Statistics and predictability for an intermediate dimensionality model of the baroclinic jet</article-title>
+               <x xml:space="preserve">. </x>
+               <source>
+                  <italic>Ann. Geophys.</italic>
+               </source>
+               <x xml:space="preserve"> </x>
+               <year>1990</year>
+               <x xml:space="preserve">, </x>
+               <volume>
+                  <bold>8</bold>
+               </volume>
+               <x xml:space="preserve">, </x>
+               <fpage>19</fpage>
+               <x xml:space="preserve">&#x2013;</x>
+               <lpage>25</lpage>
+               <x xml:space="preserve">.</x>
+            </mixed-citation>
+         </ref>
+         <ref id="CIT0010">
+            <mixed-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <surname>Marshall</surname>
+                     <x xml:space="preserve">, </x>
+                     <given-names>D.P.</given-names>
+                  </string-name>
+                  <x xml:space="preserve">, </x>
+                  <string-name>
+                     <surname>Ambaum</surname>
+                     <x xml:space="preserve">, </x>
+                     <given-names>M.H.P.</given-names>
+                  </string-name>
+                  <x xml:space="preserve">, </x>
+                  <string-name>
+                     <surname>Maddison</surname>
+                     <x xml:space="preserve">, </x>
+                     <given-names>J.R.</given-names>
+                  </string-name>
+                  <x xml:space="preserve">, </x>
+                  <string-name>
+                     <surname>Munday</surname>
+                     <x xml:space="preserve">, </x>
+                     <given-names>D.R.</given-names>
+                  </string-name>
+                  <x xml:space="preserve"> and </x>
+                  <string-name>
+                     <surname>Novak</surname>
+                     <x xml:space="preserve">, </x>
+                     <given-names>L.</given-names>
+                  </string-name>
+               </person-group>
+               <x xml:space="preserve">, </x>
+               <article-title>Eddy saturation and frictional control of the Antarctic circumpolar current</article-title>
+               <x xml:space="preserve">. </x>
+               <source>
+                  <italic>Geophys. Res. Lett.</italic>
+               </source>
+               <x xml:space="preserve"> </x>
+               <year>2017</year>
+               <x xml:space="preserve">, </x>
+               <volume>
+                  <bold>44</bold>
+               </volume>
+               <x xml:space="preserve">, </x>
+               <fpage>286</fpage>
+               <x xml:space="preserve">&#x2013;</x>
+               <lpage>292</lpage>
+               <x xml:space="preserve">.</x>
+            </mixed-citation>
+         </ref>
+         <ref id="CIT0011">
+            <mixed-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <surname>Munday</surname>
+                     <x xml:space="preserve">, </x>
+                     <given-names>D.R.</given-names>
+                  </string-name>
+                  <x xml:space="preserve">, </x>
+                  <string-name>
+                     <surname>Johnson</surname>
+                     <x xml:space="preserve">, </x>
+                     <given-names>H.L.</given-names>
+                  </string-name>
+                  <x xml:space="preserve"> and </x>
+                  <string-name>
+                     <surname>Marshall</surname>
+                     <x xml:space="preserve">, </x>
+                     <given-names>D.P.</given-names>
+                  </string-name>
+               </person-group>
+               <x xml:space="preserve">, </x>
+               <article-title>Eddy saturation of equilibrated circumpolar currents</article-title>
+               <x xml:space="preserve">. </x>
+               <source>
+                  <italic>J. Phys. Oceanogr.</italic>
+               </source>
+               <x xml:space="preserve"> </x>
+               <year>2013</year>
+               <x xml:space="preserve">, </x>
+               <volume>
+                  <bold>43</bold>
+               </volume>
+               <x xml:space="preserve">, </x>
+               <fpage>507</fpage>
+               <x xml:space="preserve">&#x2013;</x>
+               <lpage>532</lpage>
+               <x xml:space="preserve">.</x>
+            </mixed-citation>
+         </ref>
+         <ref id="CIT0012">
+            <mixed-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <surname>Munk</surname>
+                     <x xml:space="preserve">, </x>
+                     <given-names>W.H.</given-names>
+                  </string-name>
+                  <x xml:space="preserve"> and </x>
+                  <string-name>
+                     <surname>Palm&#xe9;n</surname>
+                     <x xml:space="preserve">, </x>
+                     <given-names>E.</given-names>
+                  </string-name>
+               </person-group>
+               <x xml:space="preserve">, </x>
+               <article-title>Note on the dynamics of the Antarctic circumpolar current</article-title>
+               <x xml:space="preserve">. </x>
+               <source>
+                  <italic>Tellus</italic>
+               </source>
+               <x xml:space="preserve"> </x>
+               <year>1951</year>
+               <x xml:space="preserve">, </x>
+               <volume>
+                  <bold>3</bold>
+               </volume>
+               <x xml:space="preserve">, </x>
+               <fpage>53</fpage>
+               <x xml:space="preserve">&#x2013;</x>
+               <lpage>55</lpage>
+               <x xml:space="preserve">.</x>
+            </mixed-citation>
+         </ref>
+         <ref id="CIT0013">
+            <mixed-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <surname>Nadeau</surname>
+                     <x xml:space="preserve">, </x>
+                     <given-names>L.P.</given-names>
+                  </string-name>
+                  <x xml:space="preserve"> and </x>
+                  <string-name>
+                     <surname>Ferrari</surname>
+                     <x xml:space="preserve">, </x>
+                     <given-names>R.</given-names>
+                  </string-name>
+               </person-group>
+               <x xml:space="preserve">, </x>
+               <article-title>The role of closed gyres in setting the zonal transport of the Antarctic circumpolar current</article-title>
+               <x xml:space="preserve">. </x>
+               <source>
+                  <italic>J. Phys. Oceanogr.</italic>
+               </source>
+               <x xml:space="preserve"> </x>
+               <year>2015</year>
+               <x xml:space="preserve">, </x>
+               <volume>
+                  <bold>45</bold>
+               </volume>
+               <x xml:space="preserve">, </x>
+               <fpage>1491</fpage>
+               <x xml:space="preserve">&#x2013;</x>
+               <lpage>1509</lpage>
+               <x xml:space="preserve">.</x>
+            </mixed-citation>
+         </ref>
+         <ref id="CIT0014">
+            <mixed-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <surname>Novak</surname>
+                     <x xml:space="preserve">, </x>
+                     <given-names>L.</given-names>
+                  </string-name>
+                  <x xml:space="preserve">, </x>
+                  <string-name>
+                     <surname>Ambaum</surname>
+                     <x xml:space="preserve">, </x>
+                     <given-names>M.H.P.</given-names>
+                  </string-name>
+                  <x xml:space="preserve"> and </x>
+                  <string-name>
+                     <surname>Harvey</surname>
+                     <x xml:space="preserve">, </x>
+                     <given-names>B.J.</given-names>
+                  </string-name>
+               </person-group>
+               <x xml:space="preserve">, </x>
+               <article-title>Baroclinic adjustment and dissipative control of storm tracks</article-title>
+               <x xml:space="preserve">. </x>
+               <source>
+                  <italic>J. Atmos. Sci.</italic>
+               </source>
+               <x xml:space="preserve"> </x>
+               <year>2018</year>
+               <x xml:space="preserve">, </x>
+               <volume>
+                  <bold>75</bold>
+               </volume>
+               <x xml:space="preserve">, </x>
+               <fpage>2955</fpage>
+               <x xml:space="preserve">&#x2013;</x>
+               <lpage>2970</lpage>
+               <x xml:space="preserve">.</x>
+            </mixed-citation>
+         </ref>
+         <ref id="CIT0015">
+            <mixed-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <surname>Pedlosky</surname>
+                     <x xml:space="preserve">, </x>
+                     <given-names>J.</given-names>
+                  </string-name>
+               </person-group>
+               <x xml:space="preserve">, </x>
+               <source>
+                  <italic>Geophysical Fluid Dynamics</italic>
+               </source>
+               <x xml:space="preserve">, </x>
+               <edition>Springer Study Edition</edition>
+               <x xml:space="preserve">, </x>
+               <year>1979</year>
+               <x xml:space="preserve"> (</x>
+               <publisher-name>Springer-Verlag</publisher-name>
+               <x xml:space="preserve">: </x>
+               <publisher-loc>Berlin Heidelberg</publisher-loc>
+               <x xml:space="preserve">).</x>
+            </mixed-citation>
+         </ref>
+         <ref id="CIT0016">
+            <mixed-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <surname>Peixoto</surname>
+                     <x xml:space="preserve">, </x>
+                     <given-names>J.P.</given-names>
+                  </string-name>
+                  <x xml:space="preserve"> and </x>
+                  <string-name>
+                     <surname>Oort</surname>
+                     <x xml:space="preserve">, </x>
+                     <given-names>A.H.</given-names>
+                  </string-name>
+               </person-group>
+               <x xml:space="preserve">, </x>
+               <source>
+                  <italic>Physics of Climate</italic>
+               </source>
+               <x xml:space="preserve">, </x>
+               <year>1992</year>
+               <x xml:space="preserve"> (</x>
+               <publisher-name>College Park, MD: American Institute of Physics</publisher-name>
+               <x xml:space="preserve">).</x>
+            </mixed-citation>
+         </ref>
+         <ref id="CIT0017">
+            <mixed-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <surname>Phillips</surname>
+                     <x xml:space="preserve">, </x>
+                     <given-names>N.A.</given-names>
+                  </string-name>
+               </person-group>
+               <x xml:space="preserve">, </x>
+               <article-title>Energy transformations and meridional circulations associated with simple baroclinic waves in a two-level, quasi-geostrophic model</article-title>
+               <x xml:space="preserve">. </x>
+               <source>
+                  <italic>Tellus</italic>
+               </source>
+               <x xml:space="preserve"> </x>
+               <year>1954</year>
+               <x xml:space="preserve">, </x>
+               <volume>
+                  <bold>6</bold>
+               </volume>
+               <x xml:space="preserve">, </x>
+               <fpage>274</fpage>
+               <x xml:space="preserve">&#x2013;</x>
+               <lpage>286</lpage>
+               <x xml:space="preserve">.</x>
+            </mixed-citation>
+         </ref>
+         <ref id="CIT0018">
+            <mixed-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <surname>Phillips</surname>
+                     <x xml:space="preserve">, </x>
+                     <given-names>N.A.</given-names>
+                  </string-name>
+               </person-group>
+               <x xml:space="preserve">, </x>
+               <article-title>The general circulation of the atmosphere: A numerical experiment</article-title>
+               <x xml:space="preserve">. </x>
+               <source>
+                  <italic>Q. J. Roy. Meteor. Soc.</italic>
+               </source>
+               <x xml:space="preserve"> </x>
+               <year>1956</year>
+               <x xml:space="preserve">, </x>
+               <volume>
+                  <bold>82</bold>
+               </volume>
+               <x xml:space="preserve">, </x>
+               <fpage>123</fpage>
+               <x xml:space="preserve">&#x2013;</x>
+               <lpage>164</lpage>
+               <x xml:space="preserve">.</x>
+            </mixed-citation>
+         </ref>
+         <ref id="CIT0019">
+            <mixed-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <surname>Sawford</surname>
+                     <x xml:space="preserve">, </x>
+                     <given-names>B.L.</given-names>
+                  </string-name>
+                  <x xml:space="preserve"> and </x>
+                  <string-name>
+                     <surname>Frederiksen</surname>
+                     <x xml:space="preserve">, </x>
+                     <given-names>J.S.</given-names>
+                  </string-name>
+               </person-group>
+               <x xml:space="preserve">, </x>
+               <article-title>Mountain torque and angular momentum in barotropic planetary flows: equilibrium solutions</article-title>
+               <x xml:space="preserve">. </x>
+               <source>
+                  <italic>Q. J. Roy. Meteor. Soc.</italic>
+               </source>
+               <x xml:space="preserve"> </x>
+               <year>1983</year>
+               <x xml:space="preserve">, </x>
+               <volume>
+                  <bold>109</bold>
+               </volume>
+               <x xml:space="preserve">, </x>
+               <fpage>309</fpage>
+               <x xml:space="preserve">&#x2013;</x>
+               <lpage>324</lpage>
+               <x xml:space="preserve">.</x>
+            </mixed-citation>
+         </ref>
+         <ref id="CIT0020">
+            <mixed-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <surname>Schneider</surname>
+                     <x xml:space="preserve">, </x>
+                     <given-names>T.</given-names>
+                  </string-name>
+               </person-group>
+               <x xml:space="preserve">, </x>
+               <article-title>The general circulation of the atmosphere</article-title>
+               <x xml:space="preserve">. </x>
+               <source>
+                  <italic>Annu. Rev. Earth Planet. Sci.</italic>
+               </source>
+               <x xml:space="preserve"> </x>
+               <year>2006</year>
+               <x xml:space="preserve">, </x>
+               <volume>
+                  <bold>34</bold>
+               </volume>
+               <x xml:space="preserve">, </x>
+               <fpage>655</fpage>
+               <x xml:space="preserve">&#x2013;</x>
+               <lpage>688</lpage>
+               <x xml:space="preserve">.</x>
+            </mixed-citation>
+         </ref>
+         <ref id="CIT0021">
+            <mixed-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <surname>Speranza</surname>
+                     <x xml:space="preserve">, </x>
+                     <given-names>A.</given-names>
+                  </string-name>
+                  <x xml:space="preserve"> and </x>
+                  <string-name>
+                     <surname>Malguzzi</surname>
+                     <x xml:space="preserve">, </x>
+                     <given-names>P.</given-names>
+                  </string-name>
+               </person-group>
+               <x xml:space="preserve">, </x>
+               <article-title>The statistical properties of a zonal jet in a baroclinic atmosphere: a semilinear approach. Part I: quasi-geostrophic, two-layer model atmosphere</article-title>
+               <x xml:space="preserve">. </x>
+               <source>
+                  <italic>J. Atmos. Sci.</italic>
+               </source>
+               <x xml:space="preserve"> </x>
+               <year>1988</year>
+               <x xml:space="preserve">, </x>
+               <volume>
+                  <bold>45</bold>
+               </volume>
+               <x xml:space="preserve">, </x>
+               <fpage>3046</fpage>
+               <x xml:space="preserve">&#x2013;</x>
+               <lpage>3062</lpage>
+               <x xml:space="preserve">.</x>
+            </mixed-citation>
+         </ref>
+         <ref id="CIT0022">
+            <mixed-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <surname>Stone</surname>
+                     <x xml:space="preserve">, </x>
+                     <given-names>P.H.</given-names>
+                  </string-name>
+               </person-group>
+               <x xml:space="preserve">, </x>
+               <article-title>Baroclinic adjustment</article-title>
+               <x xml:space="preserve">. </x>
+               <source>
+                  <italic>J. Atmos. Sci.</italic>
+               </source>
+               <x xml:space="preserve"> </x>
+               <year>1978</year>
+               <x xml:space="preserve">, </x>
+               <volume>
+                  <bold>35</bold>
+               </volume>
+               <x xml:space="preserve">, </x>
+               <fpage>561</fpage>
+               <x xml:space="preserve">&#x2013;</x>
+               <lpage>571</lpage>
+               <x xml:space="preserve">.</x>
+            </mixed-citation>
+         </ref>
+         <ref id="CIT0023">
+            <mixed-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <surname>Straub</surname>
+                     <x xml:space="preserve">, </x>
+                     <given-names>D.N.</given-names>
+                  </string-name>
+               </person-group>
+               <x xml:space="preserve">, </x>
+               <article-title>On the transport and angular momentum balance of channel models of the Antarctic circumpolar current</article-title>
+               <x xml:space="preserve">. </x>
+               <source>
+                  <italic>J. Phys. Oceanogr.</italic>
+               </source>
+               <x xml:space="preserve"> </x>
+               <year>1993</year>
+               <x xml:space="preserve">, </x>
+               <volume>
+                  <bold>23</bold>
+               </volume>
+               <x xml:space="preserve">, </x>
+               <fpage>776</fpage>
+               <x xml:space="preserve">&#x2013;</x>
+               <lpage>782</lpage>
+               <x xml:space="preserve">.</x>
+            </mixed-citation>
+         </ref>
+         <ref id="CIT0024">
+            <mixed-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <surname>Thompson</surname>
+                     <x xml:space="preserve">, </x>
+                     <given-names>P.D.</given-names>
+                  </string-name>
+               </person-group>
+               <x xml:space="preserve">, </x>
+               <article-title>Large-scale dynamical response to differential heating: statistical equilibrium states and amplitude vacillation</article-title>
+               <x xml:space="preserve">. </x>
+               <source>
+                  <italic>J. Atmos. Sci.</italic>
+               </source>
+               <x xml:space="preserve"> </x>
+               <year>1987</year>
+               <x xml:space="preserve">, </x>
+               <volume>
+                  <bold>44</bold>
+               </volume>
+               <x xml:space="preserve">, </x>
+               <fpage>1237</fpage>
+               <x xml:space="preserve">&#x2013;</x>
+               <lpage>1248</lpage>
+               <x xml:space="preserve">.</x>
+            </mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

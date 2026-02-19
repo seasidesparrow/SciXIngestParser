@@ -1,0 +1,1887 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article SYSTEM "http://jats.nlm.nih.gov/archiving/1.2/JATS-archivearticle1.dtd">
+<article
+	xmlns:mml="http://www.w3.org/1998/Math/MathML"
+	xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.2" article-type="research-article" xml:lang="en">
+	<front>
+		<journal-meta>
+			<journal-id journal-id-type="publisher-id">10409</journal-id>
+			<journal-id journal-id-type="doi">10.1007/10409.1614-3116</journal-id>
+			<journal-title-group>
+				<journal-title>Acta Mechanica Sinica</journal-title>
+				<abbrev-journal-title abbrev-type="publisher">Acta Mech. Sin.</abbrev-journal-title>
+			</journal-title-group>
+			<issn pub-type="ppub">0567-7718</issn>
+			<issn pub-type="epub">1614-3116</issn>
+			<publisher>
+				<publisher-name>The Chinese Society of Theoretical and Applied Mechanics; Institute of Mechanics, Chinese Academy of Sciences</publisher-name>
+				<publisher-loc>Beijing</publisher-loc>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="publisher-id">s10409-023-23061-x</article-id>
+			<article-id pub-id-type="manuscript">23061</article-id>
+			<article-id pub-id-type="doi">10.1007/s10409-023-23061-x</article-id>
+			<article-categories>
+				<subj-group subj-group-type="heading">
+					<subject>Research Paper</subject>
+				</subj-group>
+			</article-categories>
+			<title-group>
+				<article-title xml:lang="en">Wake of a bio-inspired flapping wing with morphing wingspan</article-title>
+				<trans-title-group>
+					<trans-title xml:lang="zh">变翼展的仿生扑翼尾迹特征</trans-title>
+				</trans-title-group>
+			</title-group>
+			<contrib-group>
+				<contrib contrib-type="author">
+					<name>
+						<surname>He</surname>
+						<given-names>Xinyi</given-names>
+					</name>
+					<xref ref-type="aff" rid="Aff1">1</xref>
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Liu</surname>
+						<given-names>Yi</given-names>
+					</name>
+					<xref ref-type="aff" rid="Aff1">1</xref>
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Chen</surname>
+						<given-names>Yixin</given-names>
+					</name>
+					<xref ref-type="aff" rid="Aff1">1</xref>
+					<xref ref-type="aff" rid="Aff2">2</xref>
+				</contrib>
+				<contrib contrib-type="author" corresp="yes">
+					<name>
+						<surname>Wang</surname>
+						<given-names>Shizhao</given-names>
+					</name>
+					<xref ref-type="aff" rid="Aff1">1</xref>
+					<xref ref-type="aff" rid="Aff2">2</xref>
+					<xref ref-type="corresp" rid="IDs1040902323061x_cor4">d</xref>
+				</contrib>
+				<aff id="Aff1">
+					<label>1</label>
+					<institution-wrap>
+						<institution-id institution-id-type="GRID">grid.9227.e</institution-id>
+						<institution-id institution-id-type="ISNI">0000000119573309</institution-id>
+						<institution content-type="org-division">The State Key Laboratory of Nonlinear Mechanics, Institute of Mechanics</institution>
+						<institution content-type="org-name">Chinese Academy of Sciences</institution>
+					</institution-wrap>
+					<addr-line content-type="postcode">100190</addr-line>
+					<addr-line content-type="city">Beijing</addr-line>
+					<country country="CN">China</country>
+				</aff>
+				<aff id="Aff2">
+					<label>2</label>
+					<institution-wrap>
+						<institution-id institution-id-type="GRID">grid.410726.6</institution-id>
+						<institution-id institution-id-type="ISNI">0000 0004 1797 8419</institution-id>
+						<institution content-type="org-division">School of Engineering Sciences</institution>
+						<institution content-type="org-name">University of Chinese Academy of Sciences</institution>
+					</institution-wrap>
+					<addr-line content-type="postcode">101408</addr-line>
+					<addr-line content-type="city">Beijing</addr-line>
+					<country country="CN">China</country>
+				</aff>
+			</contrib-group>
+			<author-notes>
+				<corresp id="IDs1040902323061x_cor4">
+					<label>d</label>
+					<email>wangsz@lnm.imech.ac.cn</email>
+				</corresp>
+			</author-notes>
+			<pub-date date-type="pub" publication-format="electronic">
+				<day>6</day>
+				<month>6</month>
+				<year>2023</year>
+			</pub-date>
+			<pub-date date-type="pub" publication-format="print">
+				<month>10</month>
+				<year>2023</year>
+			</pub-date>
+			<volume>39</volume>
+			<issue seq="323061">10</issue>
+			<elocation-id>323061</elocation-id>
+			<history>
+				<date date-type="registration">
+					<day>21</day>
+					<month>6</month>
+					<year>2023</year>
+				</date>
+				<date date-type="received">
+					<day>29</day>
+					<month>3</month>
+					<year>2023</year>
+				</date>
+				<date date-type="accepted">
+					<day>6</day>
+					<month>4</month>
+					<year>2023</year>
+				</date>
+				<date date-type="online">
+					<day>6</day>
+					<month>6</month>
+					<year>2023</year>
+				</date>
+			</history>
+			<permissions>
+				<copyright-statement>© The Chinese Society of Theoretical and Applied Mechanics and Springer-Verlag GmbH Germany, part of Springer Nature 2023</copyright-statement>
+				<copyright-year>2023</copyright-year>
+			</permissions>
+			<abstract id="Abs1" xml:lang="en">
+				<title>Abstract</title>
+				<p>This work uses a bio-inspired flapping wing model to numerically investigate the effect of morphing wingspan on wake structures. The model consists of a rectangular flat-plate wing heaving harmonically in a uniform incoming flow at the Reynolds number of 300 and Strouhal number of 0.3. The wingspan changes during heaving, with a maximum wingspan at the middle of downstroke and minimum wingspan at the middle of upstroke. The wake is characterized by two oblique chains of interconnected vortex loops. Although the morphing wingspan has little effect on the wake topology, it significantly affects the magnitude and size of the vortices near the wing surface, which leads to an asymmetric distribution of vortex loop chains in the wake. The shrinking of leading-edge vortex under the lower surface of the wing in downstroke and the destructive interaction of tip vortices in upstroke are identified as the two vortex dynamics corresponding to the asymmetric wake structures. The analysis on the lift coefficients shows that the above vortex interactions are mainly caused by the change of span length instead of spanwise velocity.
+
+					<fig id="Fig1" position="anchor">
+						<p>
+							<graphic position="anchor" specific-use="HTML" mime-subtype="JPEG" xlink:href="MediaObjects/10409_2023_23061_Fig1_HTML.jpg"/>
+						</p>
+					</fig>
+				</p>
+			</abstract>
+			<trans-abstract xml:lang="zh" id="Abs2">
+				<title>摘要</title>
+				<p>本文基于仿生扑翼流动的数值模拟研究变形翼展对尾迹结构的影响. 所采用的扑翼模型为一个在均匀来流中上下扑动的平 板. 翼展随着扑动而变化, 最大翼展在下扑行程的中间, 最小翼展在上挥行程的中间. 其尾迹的特征表现为两条相互连接的倾斜涡链. 虽然变形翼展对尾流拓扑结构的影响不大, 但它显著影响了扑翼附近涡结构, 导致尾流中涡环链的分布不对称. 下扑过程中, 位于扑翼 下表面的前缘涡收缩, 与上挥中翼尖涡相互作用, 通过分析升力系数, 发现上述涡的相互作用是由翼展长度的变化引起的.</p>
+			</trans-abstract>
+			<kwd-group xml:lang="en">
+				<title>Keywords</title>
+				<kwd>Morphing wingspan</kwd>
+				<kwd>Wake structures</kwd>
+				<kwd>Flapping wing</kwd>
+				<kwd>Leading-edge vortex</kwd>
+				<kwd>Tip votices</kwd>
+			</kwd-group>
+			<custom-meta-group>
+				<custom-meta>
+					<meta-name>publisher-imprint-name</meta-name>
+					<meta-value>The Chinese Society of Theoretical and Applied Mechanics; Institute of Mechanics, Chinese Academy of Sciences, co-published with Springer</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>volume-issue-count</meta-name>
+					<meta-value>12</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>issue-article-count</meta-name>
+					<meta-value>1</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>issue-toc-levels</meta-name>
+					<meta-value>0</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>issue-pricelist-year</meta-name>
+					<meta-value>2023</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>issue-copyright-holder</meta-name>
+					<meta-value>The Chinese Society of Theoretical and Applied Mechanics (CSTAM)</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>issue-copyright-year</meta-name>
+					<meta-value>2023</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>article-contains-esm</meta-name>
+					<meta-value>No</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>article-numbering-style</meta-name>
+					<meta-value>Unnumbered</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>article-registration-date-year</meta-name>
+					<meta-value>2023</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>article-registration-date-month</meta-name>
+					<meta-value>6</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>article-registration-date-day</meta-name>
+					<meta-value>21</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>article-toc-levels</meta-name>
+					<meta-value>0</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>toc-levels</meta-name>
+					<meta-value>0</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>volume-type</meta-name>
+					<meta-value>Regular</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>journal-product</meta-name>
+					<meta-value>ArchiveJournal</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>numbering-style</meta-name>
+					<meta-value>ContentOnly</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>article-grants-type</meta-name>
+					<meta-value>Regular</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>metadata-grant</meta-name>
+					<meta-value>OpenAccess</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>abstract-grant</meta-name>
+					<meta-value>OpenAccess</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>bodypdf-grant</meta-name>
+					<meta-value>Restricted</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>bodyhtml-grant</meta-name>
+					<meta-value>Restricted</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>bibliography-grant</meta-name>
+					<meta-value>Restricted</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>esm-grant</meta-name>
+					<meta-value>OpenAccess</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>online-first</meta-name>
+					<meta-value>false</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>pdf-file-reference</meta-name>
+					<meta-value>BodyRef/PDF/10409_2023_Article_23061.pdf</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>pdf-type</meta-name>
+					<meta-value>Typeset</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>target-type</meta-name>
+					<meta-value>OnlinePDF</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>issue-type</meta-name>
+					<meta-value>Regular</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>article-type</meta-name>
+					<meta-value>OriginalPaper</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>journal-subject-primary</meta-name>
+					<meta-value>Engineering</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>journal-subject-secondary</meta-name>
+					<meta-value>Theoretical and Applied Mechanics</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>journal-subject-secondary</meta-name>
+					<meta-value>Classical and Continuum Physics</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>journal-subject-secondary</meta-name>
+					<meta-value>Engineering Fluid Dynamics</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>journal-subject-secondary</meta-name>
+					<meta-value>Computational Intelligence</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>journal-subject-collection</meta-name>
+					<meta-value>Engineering</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>open-access</meta-name>
+					<meta-value>false</meta-value>
+				</custom-meta>
+			</custom-meta-group>
+		</article-meta>
+	</front>
+	<back>
+		<ack>
+			<title>Acknowledgements</title>
+			<p>
+				<italic>This work was supported by Basic Science Center Program of the National Natural Science Foundation of China for “Multiscale Problems in Nonlinear Mechanics” (Grant No. 11988102), the National Natural Science Foundation of China (Grant Nos. 12102439, 92252203, and 91952301), and the China Postdoctoral Science Foundation (Grant No. 2021M703290). The computations were conducted on Tianhe-3F at the National Supercomputer Center in Tianjin</italic>.
+			</p>
+		</ack>
+		<sec sec-type="author-contribution">
+			<title>Author contributions</title>
+			<p>
+				<bold>
+					<italic>Xinyi He</italic>
+				</bold>:
+				<italic>Writing–original draft, Investigation, Validation</italic>.
+				<bold>
+					<italic>Yi Liu</italic>
+				</bold>:
+				<italic>Formal analysis, Software</italic>.
+				<bold>
+					<italic>Yixin Chen</italic>
+				</bold>:
+				<italic>Visualization, Data curation</italic>.
+				<bold>
+					<italic>Shizhao Wang</italic>
+				</bold>:
+				<italic>Conceptualization, Writing–review &amp; editing, Supervision, Funding acquisition</italic>.
+			</p>
+		</sec>
+		<ref-list id="Bib1">
+			<title>References</title>
+			<ref-list>
+				<ref id="CR1">
+					<label>1</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Spedding</surname>
+								<given-names>G R</given-names>
+							</name>
+							<name>
+								<surname>Hedenström</surname>
+								<given-names>A</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">PIV-based investigations of animal flight</article-title>
+						<source>Exp. Fluids</source>
+						<year>2009</year>
+						<volume>46</volume>
+						<fpage>749</fpage>
+						<pub-id pub-id-type="doi">10.1007/s00348-008-0597-y</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR2">
+					<label>2</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Dabiri</surname>
+								<given-names>J O</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Optimal vortex formation as a unifying principle in biological propulsion</article-title>
+						<source>Annu. Rev. Fluid Mech.</source>
+						<year>2009</year>
+						<volume>41</volume>
+						<fpage>17</fpage>
+						<pub-id pub-id-type="amsid">2512380</pub-id>
+						<pub-id pub-id-type="zbl">1157.76062</pub-id>
+						<pub-id pub-id-type="doi">10.1146/annurev.fluid.010908.165232</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR3">
+					<label>3</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Zhang</surname>
+								<given-names>J D</given-names>
+							</name>
+							<name>
+								<surname>Zuo</surname>
+								<given-names>Q H</given-names>
+							</name>
+							<name>
+								<surname>Lin</surname>
+								<given-names>M D</given-names>
+							</name>
+							<name>
+								<surname>Huang</surname>
+								<given-names>W X</given-names>
+							</name>
+							<name>
+								<surname>Pan</surname>
+								<given-names>W J</given-names>
+							</name>
+							<name>
+								<surname>Cui</surname>
+								<given-names>G X</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Evolution of vortices in the wake of an ARJ21 airplane: Application of the lift-drag model</article-title>
+						<source>Theor. Appl. Mech. Lett.</source>
+						<year>2020</year>
+						<volume>10</volume>
+						<fpage>419</fpage>
+						<pub-id pub-id-type="doi">10.1016/j.taml.2020.01.054</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR4">
+					<label>4</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Meng</surname>
+								<given-names>X</given-names>
+							</name>
+							<name>
+								<surname>Sun</surname>
+								<given-names>M</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Wing kinematics, aerodynamic forces and vortex-wake structures in fruit-flies in forward flight</article-title>
+						<source>J. Bionic Eng.</source>
+						<year>2016</year>
+						<volume>13</volume>
+						<fpage>478</fpage>
+						<pub-id pub-id-type="doi">10.1016/S1672-6529(16)60321-9</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR5">
+					<label>5</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Wang</surname>
+								<given-names>Y</given-names>
+							</name>
+							<name>
+								<surname>He</surname>
+								<given-names>X</given-names>
+							</name>
+							<name>
+								<surname>He</surname>
+								<given-names>G</given-names>
+							</name>
+							<name>
+								<surname>Wang</surname>
+								<given-names>Q</given-names>
+							</name>
+							<name>
+								<surname>Chen</surname>
+								<given-names>L</given-names>
+							</name>
+							<name>
+								<surname>Liu</surname>
+								<given-names>X</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Aerodynamic performance of the flexibility of corrugated dragonfly wings in flapping flight</article-title>
+						<source>Acta Mech. Sin.</source>
+						<year>2022</year>
+						<volume>38</volume>
+						<fpage>322038</fpage>
+						<pub-id pub-id-type="doi">10.1007/s10409-022-22038-x</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR6">
+					<label>6</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Zhang</surname>
+								<given-names>D</given-names>
+							</name>
+							<name>
+								<surname>Zhang</surname>
+								<given-names>J D</given-names>
+							</name>
+							<name>
+								<surname>Huang</surname>
+								<given-names>W X</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Physical models and vortex dynamics of swimming and flying: A review</article-title>
+						<source>Acta Mech.</source>
+						<year>2022</year>
+						<volume>233</volume>
+						<fpage>1249</fpage>
+						<pub-id pub-id-type="amsid">4411660</pub-id>
+						<pub-id pub-id-type="zbl">1502.76138</pub-id>
+						<pub-id pub-id-type="doi">10.1007/s00707-022-03192-9</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR7">
+					<label>7</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Huang</surname>
+								<given-names>X T</given-names>
+							</name>
+							<name>
+								<surname>Sun</surname>
+								<given-names>P N</given-names>
+							</name>
+							<name>
+								<surname>Lyu</surname>
+								<given-names>H G</given-names>
+							</name>
+							<name>
+								<surname>Zhong</surname>
+								<given-names>S Y</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Study of 3D self-propulsive fish swimming using the
+							<italic>δ</italic>
+							<sup>+</sup>-SPH model
+						</article-title>
+						<source>Acta Mech. Sin.</source>
+						<year>2023</year>
+						<volume>39</volume>
+						<fpage>722053</fpage>
+						<pub-id pub-id-type="doi">10.1007/s10409-022-22053-x</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR8">
+					<label>8</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>He</surname>
+								<given-names>G</given-names>
+							</name>
+							<name>
+								<surname>Jin</surname>
+								<given-names>G</given-names>
+							</name>
+							<name>
+								<surname>Yang</surname>
+								<given-names>Y</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Space-time correlations and dynamic coupling in turbulent flows</article-title>
+						<source>Annu. Rev. Fluid Mech.</source>
+						<year>2017</year>
+						<volume>49</volume>
+						<fpage>51</fpage>
+						<pub-id pub-id-type="zbl">1359.76152</pub-id>
+						<pub-id pub-id-type="doi">10.1146/annurev-fluid-010816-060309</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR9">
+					<label>9</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Jane Wang</surname>
+								<given-names>Z</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Two dimensional mechanism for insect hovering</article-title>
+						<source>Phys. Rev. Lett.</source>
+						<year>2000</year>
+						<volume>85</volume>
+						<fpage>2216</fpage>
+						<pub-id pub-id-type="doi">10.1103/PhysRevLett.85.2216</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR10">
+					<label>10</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Ashraf</surname>
+								<given-names>M A</given-names>
+							</name>
+							<name>
+								<surname>Young</surname>
+								<given-names>J</given-names>
+							</name>
+							<name>
+								<surname>Lai</surname>
+								<given-names>J C S</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Reynolds number, thickness and camber effects on flapping airfoil propulsion</article-title>
+						<source>J. Fluids Struct.</source>
+						<year>2011</year>
+						<volume>27</volume>
+						<fpage>145</fpage>
+						<pub-id pub-id-type="doi">10.1016/j.jfluidstructs.2010.11.010</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR11">
+					<label>11</label>
+					<mixed-citation publication-type="other">D. Majumdar, S. Ravi, and S. Sarkar, Passive dynamics regulates aperiodic transitions in flapping wing systems, PNAS Nexus, 2023, doi:
+						<ext-link xlink:href="https://doi.org/10.1093/pnasnexus/pgad086" ext-link-type="doi">https://doi.org/10.1093/pnasnexus/pgad086</ext-link>.
+					</mixed-citation>
+				</ref>
+				<ref id="CR12">
+					<label>12</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Xiang</surname>
+								<given-names>Y</given-names>
+							</name>
+							<name>
+								<surname>Hang</surname>
+								<given-names>H</given-names>
+							</name>
+							<name>
+								<surname>Qin</surname>
+								<given-names>S</given-names>
+							</name>
+							<name>
+								<surname>Liu</surname>
+								<given-names>H</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Scaling analysis of the circulation growth of leading-edge vortex in flapping flight</article-title>
+						<source>Acta Mech. Sin.</source>
+						<year>2021</year>
+						<volume>37</volume>
+						<fpage>1530</fpage>
+						<pub-id pub-id-type="amsid">4354904</pub-id>
+						<pub-id pub-id-type="doi">10.1007/s10409-021-01134-7</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR13">
+					<label>13</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Zhang</surname>
+								<given-names>M</given-names>
+							</name>
+							<name>
+								<surname>Wu</surname>
+								<given-names>Q</given-names>
+							</name>
+							<name>
+								<surname>Huang</surname>
+								<given-names>B</given-names>
+							</name>
+							<name>
+								<surname>Wang</surname>
+								<given-names>G</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Lagrangian-based numerical investigation of aerodynamic performance of an oscillating foil</article-title>
+						<source>Acta Mech. Sin.</source>
+						<year>2018</year>
+						<volume>34</volume>
+						<fpage>839</fpage>
+						<pub-id pub-id-type="doi">10.1007/s10409-018-0782-z</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR14">
+					<label>14</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Anderson</surname>
+								<given-names>J M</given-names>
+							</name>
+							<name>
+								<surname>Streitlien</surname>
+								<given-names>K</given-names>
+							</name>
+							<name>
+								<surname>Barrett</surname>
+								<given-names>D S</given-names>
+							</name>
+							<name>
+								<surname>Triantafyllou</surname>
+								<given-names>M S</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Oscillating foils of high propulsive efficiency</article-title>
+						<source>J. Fluid Mech.</source>
+						<year>1998</year>
+						<volume>360</volume>
+						<fpage>41</fpage>
+						<pub-id pub-id-type="amsid">1621535</pub-id>
+						<pub-id pub-id-type="zbl">0922.76023</pub-id>
+						<pub-id pub-id-type="doi">10.1017/S0022112097008392</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR15">
+					<label>15</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Lin</surname>
+								<given-names>X</given-names>
+							</name>
+							<name>
+								<surname>Wu</surname>
+								<given-names>J</given-names>
+							</name>
+							<name>
+								<surname>Zhang</surname>
+								<given-names>T</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Performance investigation of a self-propelled foil with combined oscillating motion in stationary fluid</article-title>
+						<source>Ocean Eng.</source>
+						<year>2019</year>
+						<volume>175</volume>
+						<fpage>33</fpage>
+						<pub-id pub-id-type="doi">10.1016/j.oceaneng.2019.02.008</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR16">
+					<label>16</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Dynnikova</surname>
+								<given-names>G Y</given-names>
+							</name>
+							<name>
+								<surname>Dynnikov</surname>
+								<given-names>Y A</given-names>
+							</name>
+							<name>
+								<surname>Guvernyuk</surname>
+								<given-names>S V</given-names>
+							</name>
+							<name>
+								<surname>Malakhova</surname>
+								<given-names>T V</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Stability of a reverse Karman vortex street</article-title>
+						<source>Phys. Fluids</source>
+						<year>2021</year>
+						<volume>33</volume>
+						<fpage>024102</fpage>
+						<pub-id pub-id-type="doi">10.1063/5.0035575</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR17">
+					<label>17</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Turhan</surname>
+								<given-names>B</given-names>
+							</name>
+							<name>
+								<surname>Wang</surname>
+								<given-names>Z</given-names>
+							</name>
+							<name>
+								<surname>Gursul</surname>
+								<given-names>I</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Interaction of vortex streets with a downstream wing</article-title>
+						<source>Phys. Rev. Fluids</source>
+						<year>2022</year>
+						<volume>7</volume>
+						<fpage>094701</fpage>
+						<pub-id pub-id-type="doi">10.1103/PhysRevFluids.7.094701</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR18">
+					<label>18</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Schouveiler</surname>
+								<given-names>L</given-names>
+							</name>
+							<name>
+								<surname>Hover</surname>
+								<given-names>F S</given-names>
+							</name>
+							<name>
+								<surname>Triantafyllou</surname>
+								<given-names>M S</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Performance of flapping foil propulsion</article-title>
+						<source>J. Fluids Struct.</source>
+						<year>2005</year>
+						<volume>20</volume>
+						<fpage>949</fpage>
+						<pub-id pub-id-type="doi">10.1016/j.jfluidstructs.2005.05.009</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR19">
+					<label>19</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Tian</surname>
+								<given-names>L</given-names>
+							</name>
+							<name>
+								<surname>Zhao</surname>
+								<given-names>Z</given-names>
+							</name>
+							<name>
+								<surname>Wang</surname>
+								<given-names>W</given-names>
+							</name>
+							<name>
+								<surname>Liu</surname>
+								<given-names>N</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Length and stiffness effects of the attached flexible plate on the flow over a traveling wavy foil</article-title>
+						<source>Acta Mech. Sin.</source>
+						<year>2021</year>
+						<volume>37</volume>
+						<fpage>1404</fpage>
+						<pub-id pub-id-type="amsid">4355172</pub-id>
+						<pub-id pub-id-type="doi">10.1007/s10409-021-01110-1</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR20">
+					<label>20</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Jung</surname>
+								<given-names>Y W</given-names>
+							</name>
+							<name>
+								<surname>Park</surname>
+								<given-names>S O</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Vortex-shedding characteristics in the wake of an oscillating airfoil at low Reynolds number</article-title>
+						<source>J. Fluids Struct.</source>
+						<year>2005</year>
+						<volume>20</volume>
+						<fpage>451</fpage>
+						<pub-id pub-id-type="doi">10.1016/j.jfluidstructs.2004.11.002</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR21">
+					<label>21</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Lin</surname>
+								<given-names>X</given-names>
+							</name>
+							<name>
+								<surname>Wu</surname>
+								<given-names>J</given-names>
+							</name>
+							<name>
+								<surname>Zhang</surname>
+								<given-names>T</given-names>
+							</name>
+							<name>
+								<surname>Yang</surname>
+								<given-names>L</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Phase difference effect on collective locomotion of two tandem autopropelled flapping foils</article-title>
+						<source>Phys. Rev. Fluids</source>
+						<year>2019</year>
+						<volume>4</volume>
+						<fpage>054101</fpage>
+						<pub-id pub-id-type="doi">10.1103/PhysRevFluids.4.054101</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR22">
+					<label>22</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Lin</surname>
+								<given-names>X</given-names>
+							</name>
+							<name>
+								<surname>He</surname>
+								<given-names>G</given-names>
+							</name>
+							<name>
+								<surname>He</surname>
+								<given-names>X</given-names>
+							</name>
+							<name>
+								<surname>Wang</surname>
+								<given-names>Q</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Dynamic response of a semi-free flexible filament in the wake of a flapping foil</article-title>
+						<source>J. Fluids Struct.</source>
+						<year>2018</year>
+						<volume>83</volume>
+						<fpage>40</fpage>
+						<pub-id pub-id-type="doi">10.1016/j.jfluidstructs.2018.08.009</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR23">
+					<label>23</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Zheng</surname>
+								<given-names>Z C</given-names>
+							</name>
+							<name>
+								<surname>Wei</surname>
+								<given-names>Z</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Study of mechanisms and factors that influence the formation of vortical wake of a heaving airfoil</article-title>
+						<source>Phys. Fluids</source>
+						<year>2012</year>
+						<volume>24</volume>
+						<fpage>103601</fpage>
+						<pub-id pub-id-type="doi">10.1063/1.4760258</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR24">
+					<label>24</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Wei</surname>
+								<given-names>Z</given-names>
+							</name>
+							<name>
+								<surname>Zheng</surname>
+								<given-names>Z C</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Mechanisms of wake deflection angle change behind a heaving airfoil</article-title>
+						<source>J. Fluids Struct.</source>
+						<year>2014</year>
+						<volume>48</volume>
+						<fpage>1</fpage>
+						<pub-id pub-id-type="doi">10.1016/j.jfluidstructs.2014.02.010</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR25">
+					<label>25</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Li</surname>
+								<given-names>B</given-names>
+							</name>
+							<name>
+								<surname>Zhang</surname>
+								<given-names>X</given-names>
+							</name>
+							<name>
+								<surname>Zhang</surname>
+								<given-names>X</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Classifying wakes produced by self-propelled fish-like swimmers using neural networks</article-title>
+						<source>Theor. Appl. Mech. Lett.</source>
+						<year>2020</year>
+						<volume>10</volume>
+						<fpage>149</fpage>
+						<pub-id pub-id-type="doi">10.1016/j.taml.2020.01.010</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR26">
+					<label>26</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Fenercioglu</surname>
+								<given-names>I</given-names>
+							</name>
+							<name>
+								<surname>Cetiner</surname>
+								<given-names>O</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Categorization of flow structures around a pitching and plunging airfoil</article-title>
+						<source>J. Fluids Struct.</source>
+						<year>2012</year>
+						<volume>31</volume>
+						<fpage>92</fpage>
+						<pub-id pub-id-type="doi">10.1016/j.jfluidstructs.2012.03.001</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR27">
+					<label>27</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Abdizadeh</surname>
+								<given-names>G R</given-names>
+							</name>
+							<name>
+								<surname>Farokhinejad</surname>
+								<given-names>M</given-names>
+							</name>
+							<name>
+								<surname>Ghasemloo</surname>
+								<given-names>S</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Numerical investigation on the aerodynamic efficiency of bio-inspired corrugated and cambered airfoils in ground effect</article-title>
+						<source>Sci. Rep.</source>
+						<year>2022</year>
+						<volume>12</volume>
+						<fpage>19117</fpage>
+						<pub-id pub-id-type="doi">10.1038/s41598-022-23590-2</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR28">
+					<label>28</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Liu</surname>
+								<given-names>L</given-names>
+							</name>
+							<name>
+								<surname>He</surname>
+								<given-names>G</given-names>
+							</name>
+							<name>
+								<surname>He</surname>
+								<given-names>X</given-names>
+							</name>
+							<name>
+								<surname>Wang</surname>
+								<given-names>Q</given-names>
+							</name>
+							<name>
+								<surname>Chen</surname>
+								<given-names>L</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Numerical study on the effects of a semi-free and non-uniform flexible filament in different vortex streets</article-title>
+						<source>Acta Mech. Sin.</source>
+						<year>2021</year>
+						<volume>37</volume>
+						<fpage>929</fpage>
+						<pub-id pub-id-type="amsid">4323575</pub-id>
+						<pub-id pub-id-type="doi">10.1007/s10409-021-01073-3</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR29">
+					<label>29</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Zhu</surname>
+								<given-names>X</given-names>
+							</name>
+							<name>
+								<surname>He</surname>
+								<given-names>G</given-names>
+							</name>
+							<name>
+								<surname>Zhang</surname>
+								<given-names>X</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">How flexibility affects the wake symmetry properties of a self-propelled plunging foil</article-title>
+						<source>J. Fluid Mech.</source>
+						<year>2014</year>
+						<volume>751</volume>
+						<fpage>164</fpage>
+						<pub-id pub-id-type="amsid">3227947</pub-id>
+						<pub-id pub-id-type="doi">10.1017/jfm.2014.310</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR30">
+					<label>30</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Koehler</surname>
+								<given-names>C</given-names>
+							</name>
+							<name>
+								<surname>Beran</surname>
+								<given-names>P</given-names>
+							</name>
+							<name>
+								<surname>Vanella</surname>
+								<given-names>M</given-names>
+							</name>
+							<name>
+								<surname>Balaras</surname>
+								<given-names>E</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Flows produced by the combined oscillatory rotation and translation of a circular cylinder in a quiescent fluid</article-title>
+						<source>J. Fluid Mech.</source>
+						<year>2015</year>
+						<volume>764</volume>
+						<fpage>148</fpage>
+						<pub-id pub-id-type="doi">10.1017/jfm.2014.699</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR31">
+					<label>31</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>von Ellenrieder</surname>
+								<given-names>K D</given-names>
+							</name>
+							<name>
+								<surname>Parker</surname>
+								<given-names>K</given-names>
+							</name>
+							<name>
+								<surname>Soria</surname>
+								<given-names>J</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Flow structures behind a heaving and pitching finite-span wing</article-title>
+						<source>J. Fluid Mech.</source>
+						<year>2003</year>
+						<volume>490</volume>
+						<fpage>129</fpage>
+						<pub-id pub-id-type="zbl">1063.76516</pub-id>
+						<pub-id pub-id-type="doi">10.1017/S0022112003005408</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR32">
+					<label>32</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Blondeaux</surname>
+								<given-names>P</given-names>
+							</name>
+							<name>
+								<surname>Fornarelli</surname>
+								<given-names>F</given-names>
+							</name>
+							<name>
+								<surname>Guglielmini</surname>
+								<given-names>L</given-names>
+							</name>
+							<name>
+								<surname>Triantafyllou</surname>
+								<given-names>M S</given-names>
+							</name>
+							<name>
+								<surname>Verzicco</surname>
+								<given-names>R</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Numerical experiments on flapping foils mimicking fish-like locomotion</article-title>
+						<source>Phys. Fluids</source>
+						<year>2005</year>
+						<volume>17</volume>
+						<fpage>113601</fpage>
+						<pub-id pub-id-type="zbl">1188.76015</pub-id>
+						<pub-id pub-id-type="doi">10.1063/1.2131923</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR33">
+					<label>33</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Dong</surname>
+								<given-names>H</given-names>
+							</name>
+							<name>
+								<surname>Mittal</surname>
+								<given-names>R</given-names>
+							</name>
+							<name>
+								<surname>Najjar</surname>
+								<given-names>F M</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Wake topology and hydrodynamic performance of low-aspect-ratio flapping foils</article-title>
+						<source>J. Fluid Mech.</source>
+						<year>2006</year>
+						<volume>566</volume>
+						<fpage>309</fpage>
+						<pub-id pub-id-type="amsid">2267334</pub-id>
+						<pub-id pub-id-type="zbl">1106.76025</pub-id>
+						<pub-id pub-id-type="doi">10.1017/S002211200600190X</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR34">
+					<label>34</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Buchholz</surname>
+								<given-names>J H J</given-names>
+							</name>
+							<name>
+								<surname>Smits</surname>
+								<given-names>A J</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">On the evolution of the wake structure produced by a low-aspect-ratio pitching panel</article-title>
+						<source>J. Fluid Mech.</source>
+						<year>2006</year>
+						<volume>546</volume>
+						<fpage>433</fpage>
+						<pub-id pub-id-type="zbl">1178.76010</pub-id>
+						<pub-id pub-id-type="doi">10.1017/S0022112005006865</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR35">
+					<label>35</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Buchholz</surname>
+								<given-names>J H J</given-names>
+							</name>
+							<name>
+								<surname>Smits</surname>
+								<given-names>A J</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">The wake structure and thrust performance of a rigid low-aspect-ratio pitching panel</article-title>
+						<source>J. Fluid Mech.</source>
+						<year>2008</year>
+						<volume>603</volume>
+						<fpage>331</fpage>
+						<pub-id pub-id-type="zbl">1151.76312</pub-id>
+						<pub-id pub-id-type="doi">10.1017/S0022112008000906</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR36">
+					<label>36</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Yilmaz</surname>
+								<given-names>T O</given-names>
+							</name>
+							<name>
+								<surname>Rockwell</surname>
+								<given-names>D</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Three-dimensional flow structure on a maneuvering wing</article-title>
+						<source>Exp. Fluids</source>
+						<year>2010</year>
+						<volume>48</volume>
+						<fpage>539</fpage>
+						<pub-id pub-id-type="doi">10.1007/s00348-009-0772-9</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR37">
+					<label>37</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Green</surname>
+								<given-names>M A</given-names>
+							</name>
+							<name>
+								<surname>Rowley</surname>
+								<given-names>C W</given-names>
+							</name>
+							<name>
+								<surname>Smits</surname>
+								<given-names>A J</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">The unsteady three-dimensional wake produced by a trapezoidal pitching panel</article-title>
+						<source>J. Fluid Mech.</source>
+						<year>2011</year>
+						<volume>685</volume>
+						<fpage>117</fpage>
+						<pub-id pub-id-type="zbl">1241.76027</pub-id>
+						<pub-id pub-id-type="doi">10.1017/jfm.2011.286</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR38">
+					<label>38</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Barannyk</surname>
+								<given-names>O</given-names>
+							</name>
+							<name>
+								<surname>Buckham</surname>
+								<given-names>B J</given-names>
+							</name>
+							<name>
+								<surname>Oshkai</surname>
+								<given-names>P</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">On performance of an oscillating plate underwater propulsion system with variable chordwise flexibility at different depths of submergence</article-title>
+						<source>J. Fluids Struct.</source>
+						<year>2012</year>
+						<volume>28</volume>
+						<fpage>152</fpage>
+						<pub-id pub-id-type="doi">10.1016/j.jfluidstructs.2011.10.005</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR39">
+					<label>39</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Dai</surname>
+								<given-names>H</given-names>
+							</name>
+							<name>
+								<surname>Luo</surname>
+								<given-names>H</given-names>
+							</name>
+							<name>
+								<surname>de Sousa</surname>
+								<given-names>P J S A F</given-names>
+							</name>
+							<name>
+								<surname>Doyle</surname>
+								<given-names>J F</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Thrust performance of a flexible low-aspect-ratio pitching plate</article-title>
+						<source>Phys. Fluids</source>
+						<year>2012</year>
+						<volume>24</volume>
+						<fpage>101903</fpage>
+						<pub-id pub-id-type="doi">10.1063/1.4764047</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR40">
+					<label>40</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Yan</surname>
+								<given-names>L</given-names>
+							</name>
+							<name>
+								<surname>Pan</surname>
+								<given-names>J</given-names>
+							</name>
+							<name>
+								<surname>Shao</surname>
+								<given-names>C</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Modes of vortex shedding from a rotary oscillating plate</article-title>
+						<source>Acta Mech. Sin.</source>
+						<year>2022</year>
+						<volume>38</volume>
+						<fpage>321481</fpage>
+						<pub-id pub-id-type="doi">10.1007/s10409-021-09033-x</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR41">
+					<label>41</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Liu</surname>
+								<given-names>T</given-names>
+							</name>
+							<name>
+								<surname>Jones</surname>
+								<given-names>S</given-names>
+							</name>
+							<name>
+								<surname>Kuykendoll</surname>
+								<given-names>K</given-names>
+							</name>
+							<name>
+								<surname>Rhew</surname>
+								<given-names>R</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Avian wing geometry and kinematics</article-title>
+						<source>AIAA J.</source>
+						<year>2006</year>
+						<volume>44</volume>
+						<fpage>954</fpage>
+						<pub-id pub-id-type="doi">10.2514/1.16224</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR42">
+					<label>42</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Cheney</surname>
+								<given-names>J A</given-names>
+							</name>
+							<name>
+								<surname>Stevenson</surname>
+								<given-names>J P J</given-names>
+							</name>
+							<name>
+								<surname>Durston</surname>
+								<given-names>N E</given-names>
+							</name>
+							<name>
+								<surname>Maeda</surname>
+								<given-names>M</given-names>
+							</name>
+							<name>
+								<surname>Song</surname>
+								<given-names>J</given-names>
+							</name>
+							<name>
+								<surname>Megson-Smith</surname>
+								<given-names>D A</given-names>
+							</name>
+							<name>
+								<surname>Windsor</surname>
+								<given-names>S P</given-names>
+							</name>
+							<name>
+								<surname>Usherwood</surname>
+								<given-names>J R</given-names>
+							</name>
+							<name>
+								<surname>Bomphrey</surname>
+								<given-names>R J</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Raptor wing morphing with flight speed</article-title>
+						<source>J. R. Soc. Interface.</source>
+						<year>2021</year>
+						<volume>18</volume>
+						<fpage>20210349</fpage>
+						<pub-id pub-id-type="doi">10.1098/rsif.2021.0349</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR43">
+					<label>43</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Harvey</surname>
+								<given-names>C</given-names>
+							</name>
+							<name>
+								<surname>Baliga</surname>
+								<given-names>V B</given-names>
+							</name>
+							<name>
+								<surname>Wong</surname>
+								<given-names>J C M</given-names>
+							</name>
+							<name>
+								<surname>Altshuler</surname>
+								<given-names>D L</given-names>
+							</name>
+							<name>
+								<surname>Inman</surname>
+								<given-names>D J</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Birds can transition between stable and unstable states via wing morphing</article-title>
+						<source>Nature</source>
+						<year>2022</year>
+						<volume>603</volume>
+						<fpage>648</fpage>
+						<pub-id pub-id-type="doi">10.1038/s41586-022-04477-8</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR44">
+					<label>44</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Harvey</surname>
+								<given-names>C</given-names>
+							</name>
+							<name>
+								<surname>Gamble</surname>
+								<given-names>L L</given-names>
+							</name>
+							<name>
+								<surname>Bolander</surname>
+								<given-names>C R</given-names>
+							</name>
+							<name>
+								<surname>Hunsaker</surname>
+								<given-names>D F</given-names>
+							</name>
+							<name>
+								<surname>Joo</surname>
+								<given-names>J J</given-names>
+							</name>
+							<name>
+								<surname>Inman</surname>
+								<given-names>D J</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">A review of avian-inspired morphing for UAV flight control</article-title>
+						<source>Prog. Aerosp. Sci.</source>
+						<year>2022</year>
+						<volume>132</volume>
+						<fpage>100825</fpage>
+						<pub-id pub-id-type="doi">10.1016/j.paerosci.2022.100825</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR45">
+					<label>45</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Wolf</surname>
+								<given-names>M</given-names>
+							</name>
+							<name>
+								<surname>Johansson</surname>
+								<given-names>L C</given-names>
+							</name>
+							<name>
+								<surname>von Busse</surname>
+								<given-names>R</given-names>
+							</name>
+							<name>
+								<surname>Winter</surname>
+								<given-names>Y</given-names>
+							</name>
+							<name>
+								<surname>Hedenström</surname>
+								<given-names>A</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Kinematics of flight and the relationship to the vortex wake of a Pallas’ long tongued bat (Glossophaga soricina)</article-title>
+						<source>J. Exp. Biol.</source>
+						<year>2010</year>
+						<volume>213</volume>
+						<fpage>2142</fpage>
+						<pub-id pub-id-type="doi">10.1242/jeb.029777</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR46">
+					<label>46</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Hedenström</surname>
+								<given-names>A</given-names>
+							</name>
+							<name>
+								<surname>Johansson</surname>
+								<given-names>L C</given-names>
+							</name>
+							<name>
+								<surname>Wolf</surname>
+								<given-names>M</given-names>
+							</name>
+							<name>
+								<surname>von Busse</surname>
+								<given-names>R</given-names>
+							</name>
+							<name>
+								<surname>Winter</surname>
+								<given-names>Y</given-names>
+							</name>
+							<name>
+								<surname>Spedding</surname>
+								<given-names>G R</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Bat flight generates complex aerodynamic tracks</article-title>
+						<source>Science</source>
+						<year>2007</year>
+						<volume>316</volume>
+						<fpage>894</fpage>
+						<pub-id pub-id-type="doi">10.1126/science.1142281</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR47">
+					<label>47</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Wang</surname>
+								<given-names>S</given-names>
+							</name>
+							<name>
+								<surname>Zhang</surname>
+								<given-names>X</given-names>
+							</name>
+							<name>
+								<surname>He</surname>
+								<given-names>G</given-names>
+							</name>
+							<name>
+								<surname>Liu</surname>
+								<given-names>T</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Lift enhancement by dynamically changing wingspan in forward flapping flight</article-title>
+						<source>Phys. Fluids</source>
+						<year>2014</year>
+						<volume>26</volume>
+						<fpage>061903</fpage>
+						<pub-id pub-id-type="doi">10.1063/1.4884130</pub-id>
+						<comment>arXiv: 1309.2726</comment>
+					</mixed-citation>
+				</ref>
+				<ref id="CR48">
+					<label>48</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Wang</surname>
+								<given-names>S</given-names>
+							</name>
+							<name>
+								<surname>Zhang</surname>
+								<given-names>X</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">An immersed boundary method based on discrete stream function formulation for two- and three-dimensional incompressible flows</article-title>
+						<source>J. Comput. Phys.</source>
+						<year>2011</year>
+						<volume>230</volume>
+						<fpage>3479</fpage>
+						<pub-id pub-id-type="amsid">2780474</pub-id>
+						<pub-id pub-id-type="zbl">1316.76083</pub-id>
+						<pub-id pub-id-type="doi">10.1016/j.jcp.2011.01.045</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR49">
+					<label>49</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Yang</surname>
+								<given-names>X</given-names>
+							</name>
+							<name>
+								<surname>Zhang</surname>
+								<given-names>X</given-names>
+							</name>
+							<name>
+								<surname>Li</surname>
+								<given-names>Z</given-names>
+							</name>
+							<name>
+								<surname>He</surname>
+								<given-names>G W</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">A smoothing technique for discrete delta functions with application to immersed boundary method in moving boundary simulations</article-title>
+						<source>J. Comput. Phys.</source>
+						<year>2009</year>
+						<volume>228</volume>
+						<fpage>7821</fpage>
+						<pub-id pub-id-type="amsid">2561845</pub-id>
+						<pub-id pub-id-type="zbl">1391.76590</pub-id>
+						<pub-id pub-id-type="doi">10.1016/j.jcp.2009.07.023</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR50">
+					<label>50</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Wang</surname>
+								<given-names>S</given-names>
+							</name>
+							<name>
+								<surname>He</surname>
+								<given-names>G</given-names>
+							</name>
+							<name>
+								<surname>Zhang</surname>
+								<given-names>X</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Parallel computing strategy for a flow solver based on immersed boundary method and discrete stream-function formulation</article-title>
+						<source>Comput. Fluids</source>
+						<year>2013</year>
+						<volume>88</volume>
+						<fpage>210</fpage>
+						<pub-id pub-id-type="amsid">3131184</pub-id>
+						<pub-id pub-id-type="zbl">1391.76587</pub-id>
+						<pub-id pub-id-type="doi">10.1016/j.compfluid.2013.09.001</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR51">
+					<label>51</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Wang</surname>
+								<given-names>S</given-names>
+							</name>
+							<name>
+								<surname>Zhang</surname>
+								<given-names>X</given-names>
+							</name>
+							<name>
+								<surname>He</surname>
+								<given-names>G</given-names>
+							</name>
+							<name>
+								<surname>Liu</surname>
+								<given-names>T</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">A lift formula applied to low-Reynolds-number unsteady flows</article-title>
+						<source>Phys. Fluids</source>
+						<year>2013</year>
+						<volume>25</volume>
+						<fpage>093605</fpage>
+						<pub-id pub-id-type="doi">10.1063/1.4821520</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR52">
+					<label>52</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Jeong</surname>
+								<given-names>J</given-names>
+							</name>
+							<name>
+								<surname>Hussain</surname>
+								<given-names>F</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">On the identification of a vortex</article-title>
+						<source>J. Fluid. Mech.</source>
+						<year>1995</year>
+						<volume>285</volume>
+						<fpage>69</fpage>
+						<pub-id pub-id-type="amsid">1317900</pub-id>
+						<pub-id pub-id-type="zbl">0847.76007</pub-id>
+						<pub-id pub-id-type="doi">10.1017/S0022112095000462</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR53">
+					<label>53</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>De</surname>
+								<given-names>A K</given-names>
+							</name>
+							<name>
+								<surname>Sarkar</surname>
+								<given-names>S</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Spatial wake transition past a thin pitching plate</article-title>
+						<source>Phys. Rev. E</source>
+						<year>2021</year>
+						<volume>104</volume>
+						<fpage>025106</fpage>
+						<pub-id pub-id-type="doi">10.1103/PhysRevE.104.025106</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR54">
+					<label>54</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>De</surname>
+								<given-names>A K</given-names>
+							</name>
+							<name>
+								<surname>Sarkar</surname>
+								<given-names>S</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Dependence of wake structure on pitching frequency behind a thin panel at
+							<italic>Re</italic> = 1000
+						</article-title>
+						<source>J. Fluid Mech.</source>
+						<year>2021</year>
+						<volume>924</volume>
+						<fpage>A33</fpage>
+						<pub-id pub-id-type="amsid">4299117</pub-id>
+						<pub-id pub-id-type="zbl">1480.76040</pub-id>
+						<pub-id pub-id-type="doi">10.1017/jfm.2021.570</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR55">
+					<label>55</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Visbal</surname>
+								<given-names>M</given-names>
+							</name>
+							<name>
+								<surname>Yilmaz</surname>
+								<given-names>T O</given-names>
+							</name>
+							<name>
+								<surname>Rockwell</surname>
+								<given-names>D</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Three-dimensional vortex formation on a heaving low-aspect-ratio wing: Computations and experiments</article-title>
+						<source>J. Fluids Struct.</source>
+						<year>2013</year>
+						<volume>38</volume>
+						<fpage>58</fpage>
+						<pub-id pub-id-type="doi">10.1016/j.jfluidstructs.2012.12.005</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR56">
+					<label>56</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Zheng</surname>
+								<given-names>Z C</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Betz invariants and generalization of vorticity moment invariants</article-title>
+						<source>AIAA J.</source>
+						<year>2001</year>
+						<volume>39</volume>
+						<fpage>431</fpage>
+						<pub-id pub-id-type="doi">10.2514/2.1353</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR57">
+					<label>57</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Taira</surname>
+								<given-names>K</given-names>
+							</name>
+							<name>
+								<surname>Colonius</surname>
+								<given-names>T</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Three-dimensional flows around low-aspect-ratio flat-plate wings at low Reynolds numbers</article-title>
+						<source>J. Fluid Mech.</source>
+						<year>2009</year>
+						<volume>623</volume>
+						<fpage>187</fpage>
+						<pub-id pub-id-type="zbl">1157.76321</pub-id>
+						<pub-id pub-id-type="doi">10.1017/S0022112008005314</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR58">
+					<label>58</label>
+					<mixed-citation publication-type="book">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Anderson</surname>
+								<given-names>J</given-names>
+							</name>
+							<name>
+								<surname>Anderson</surname>
+								<given-names>J D</given-names>
+							</name>
+						</person-group>
+						<source>Fundamentals of Aerodynamics</source>
+						<year>2010</year>
+						<edition>5 ed.</edition>
+						<publisher-loc>Columbus</publisher-loc>
+						<publisher-name>McGraw-Hill</publisher-name>
+					</mixed-citation>
+				</ref>
+			</ref-list>
+		</ref-list>
+	</back>
+</article>

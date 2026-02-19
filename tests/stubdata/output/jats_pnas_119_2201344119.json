@@ -1,0 +1,71 @@
+{
+  "authors": [
+    {
+      "name": {
+        "given_name": "Beth",
+        "surname": "Azar"
+      }
+    }
+  ],
+  "copyright": {
+    "statement": "\u00a9 2022",
+    "status": true
+  },
+  "openAccess": {
+    "license": "This article is distributed under Creative Commons Attribution-NonCommercial-NoDerivatives License 4.0 (CC BY-NC-ND).",
+    "licenseURL": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+  },
+  "pagination": {
+    "electronicID": "e2201344119",
+    "pageCount": "2"
+  },
+  "persistentIDs": [
+    {
+      "DOI": "10.1073/pnas.2201344119"
+    }
+  ],
+  "pubDate": {
+    "electrDate": "2022-03-03",
+    "printDate": "2022-03-08"
+  },
+  "publication": {
+    "ISSN": [
+      {
+        "issnString": "0027-8424",
+        "pubtype": "ppub"
+      },
+      {
+        "issnString": "1091-6490",
+        "pubtype": "epub"
+      }
+    ],
+    "issueNum": "10",
+    "pubName": "Proceedings of the National Academy of Sciences",
+    "pubYear": "2022",
+    "publisher": "National Academy of Sciences",
+    "volumeNum": "119"
+  },
+  "publisherIDs": [
+    {
+      "Identifier": "202201344",
+      "attribute": "publisher-id"
+    }
+  ],
+  "recordData": {
+    "createdTime": "",
+    "loadFormat": "JATS",
+    "loadLocation": "",
+    "loadType": "fromFile",
+    "parsedTime": "",
+    "recordOrigin": ""
+  },
+  "references": [
+    "<ref id=\"r1\"><label>1</label><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><string-name name-style=\"western\"><given-names>M. J.</given-names> <surname>Moulton</surname></string-name> <etal/></person-group>, <article-title>Neuronal ROS-induced glial lipid droplet formation is altered by loss of Alzheimer\u2019s disease-associated genes</article-title>. <source>Proc. Natl. Acad. Sci. U.S.A.</source> <volume><bold>118</bold></volume>, <fpage>e2112095118</fpage> (<year>2021</year>).</mixed-citation></ref>",
+    "<ref id=\"r2\"><label>2</label><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><string-name name-style=\"western\"><given-names>S.</given-names> <surname>Yamamoto</surname></string-name> <etal/></person-group>, <article-title>A Drosophila genetic resource of mutants to study mechanisms underlying human genetic diseases</article-title>. <source>Cell</source> <volume><bold>159</bold></volume>, <fpage>200</fpage>\u2013<lpage>214</lpage> (<year>2014</year>).</mixed-citation></ref>",
+    "<ref id=\"r3\"><label>3</label><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><string-name name-style=\"western\"><given-names>L.</given-names> <surname>Liu</surname></string-name> <etal/></person-group>, <article-title>Glial lipid droplets and ROS induced by mitochondrial defects promote neurodegeneration</article-title>. <source>Cell</source> <volume><bold>160</bold></volume>, <fpage>177</fpage>\u2013<lpage>190</lpage> (<year>2015</year>).</mixed-citation></ref>",
+    "<ref id=\"r4\"><label>4</label><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><string-name name-style=\"western\"><given-names>G.</given-names> <surname>Lin</surname></string-name> <etal/></person-group>, <article-title>Phospholipase <italic toggle=\"yes\">PLA2G6</italic>, a parkinsonism-associated gene, affects Vps26 and Vps35, retromer function, and ceramide levels, similar to \u03b1-synuclein gain</article-title>. <source>Cell Metab.</source> <volume><bold>28</bold></volume>, <fpage>605</fpage>\u2013<lpage>618.e6</lpage> (<year>2018</year>).</mixed-citation></ref>"
+  ],
+  "title": {
+    "textEnglish": "QnAs with Hugo J. Bellen"
+  }
+}

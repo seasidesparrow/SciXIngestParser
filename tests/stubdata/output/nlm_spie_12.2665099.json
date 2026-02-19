@@ -1,0 +1,278 @@
+{
+  "abstract": {
+    "textEnglish": "We present a study of the main SPAD figures of merit using a multiscale approach, from Monte Carlo simulations to SPICE simulations. We explore novel stochastic approaches capable of predicting accurately experimental measurements such as the Breakdown Probability, and the jitter. Additionally, the SPAD avalanche dynamics that is a stochastic process, is discussed within a transient Monte Carlo simulation perspective. We also derived a VerilogA model, making possible the analysis of the stochastic responses of the SPAD, including the buildup of the avalanche but also its quench. This latter quench probability of these diodes once in avalanche, rarely discussed in literature, is related to the dynamics of the voltage change of the floating cathode node. If the cathode voltage recovery (after the debiasing due to the quench circuit) is quicker than the time needed for the carrier evacuation within the avalanche junction, small additional avalanches can occur."
+  },
+  "authors": [
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "STMicroelectronics S.A. (France)"
+        }
+      ],
+      "name": {
+        "given_name": "D.",
+        "surname": "Rideau"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "STMicroelectronics S.A. (France)"
+        }
+      ],
+      "name": {
+        "given_name": "R.",
+        "surname": "Helleboid"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "STMicroelectronics S.A. (France)"
+        }
+      ],
+      "name": {
+        "given_name": "G.",
+        "surname": "Mugny"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "STMicroelectronics S.A. (France)"
+        }
+      ],
+      "name": {
+        "given_name": "R. A.",
+        "surname": "Bianchi"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "STMicroelectronics S.A. (France)"
+        }
+      ],
+      "name": {
+        "given_name": "J. R.",
+        "surname": "Manouvrier"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "STMicroelectronics S.A. (United Kingdom)"
+        }
+      ],
+      "name": {
+        "given_name": "I.",
+        "surname": "Nicholson"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "STMicroelectronics S.A. (France)"
+        }
+      ],
+      "name": {
+        "given_name": "J.",
+        "surname": "Grebot"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "STMicroelectronics S.A. (France)"
+        }
+      ],
+      "name": {
+        "given_name": "E.",
+        "surname": "Lacombe"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "STMicroelectronics S.A. (United Kingdom)"
+        }
+      ],
+      "name": {
+        "given_name": "A.",
+        "surname": "Lopez"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "STMicroelectronics S.A. (France)"
+        }
+      ],
+      "name": {
+        "given_name": "D.",
+        "surname": "Golanski"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "STMicroelectronics S.A. (France)"
+        }
+      ],
+      "name": {
+        "given_name": "B.",
+        "surname": "Mamdy"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "STMicroelectronics S.A. (United Kingdom)"
+        }
+      ],
+      "name": {
+        "given_name": "B.",
+        "surname": "Rae"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "STMicroelectronics S.A. (United Kingdom)"
+        }
+      ],
+      "name": {
+        "given_name": "S.",
+        "surname": "Pellegrini"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "STMicroelectronics S.A. (United Kingdom)"
+        }
+      ],
+      "name": {
+        "given_name": "M.",
+        "surname": "Agnew"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Univ. de Strasbourg (France)"
+        }
+      ],
+      "name": {
+        "given_name": "W.",
+        "surname": "Uhring"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Univ. de Strasbourg (France)"
+        }
+      ],
+      "name": {
+        "given_name": "S.",
+        "surname": "Rink"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "STMicroelectronics S.A. (France)"
+        }
+      ],
+      "name": {
+        "given_name": "H. Wehbe",
+        "surname": "Alause"
+      }
+    }
+  ],
+  "copyright": {
+    "statement": "COPYRIGHT SPIE. Downloading of the abstract is permitted for personal use only.",
+    "status": true
+  },
+  "otherContributor": [
+    {
+      "contrib": {
+        "affiliation": [
+          {
+            "affPubRaw": "Argo AI, LLC (United States)"
+          }
+        ],
+        "name": {
+          "given_name": "Mark A.",
+          "surname": "Itzler"
+        }
+      },
+      "role": "editor"
+    },
+    {
+      "contrib": {
+        "affiliation": [
+          {
+            "affPubRaw": "National Institute of Standards and Technology (United States)"
+          }
+        ],
+        "name": {
+          "given_name": "Joshua C.",
+          "surname": "Bienfang"
+        }
+      },
+      "role": "editor"
+    },
+    {
+      "contrib": {
+        "affiliation": [
+          {
+            "affPubRaw": "MIT Lincoln Lab. (United States)"
+          }
+        ],
+        "name": {
+          "given_name": "K. Alex",
+          "surname": "McIntosh"
+        }
+      },
+      "role": "editor"
+    }
+  ],
+  "pagination": {
+    "firstPage": "1251205",
+    "lastPage": "1251205-6",
+    "pageRange": "1251205-1251205-6"
+  },
+  "persistentIDs": [
+    {
+      "DOI": "10.1117/12.2665099"
+    }
+  ],
+  "pubDate": {
+    "electrDate": "2023-06-15",
+    "printDate": "2023-06-15"
+  },
+  "publication": {
+    "ISSN": [
+      {
+        "issnString": "0277-786X"
+      }
+    ],
+    "confName": "Defense + Commercial Sensing",
+    "pubYear": "2023",
+    "publisher": "SPIE",
+    "volumeNum": "12512"
+  },
+  "recordData": {
+    "createdTime": "",
+    "loadFormat": "JATS",
+    "loadLocation": "",
+    "loadType": "fromFile",
+    "parsedTime": "",
+    "recordOrigin": ""
+  },
+  "title": {
+    "textEnglish": "Multiscale SPAD modeling: from Monte Carlo to SPICE simulations"
+  }
+}

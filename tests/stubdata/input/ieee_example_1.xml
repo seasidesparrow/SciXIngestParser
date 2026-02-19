@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE publication PUBLIC "-//IEEE//IDAMS Exchange V2.0.0//EN" "ieee_idams_exchange.dtd">
+<publication>
+	<title>
+		<![CDATA[IEEE Control Systems Letters]]>
+	</title>
+	<titleabbrev>
+		<![CDATA[IEEE Control Syst. Lett.]]>
+	</titleabbrev>
+	<normtitle>
+		<![CDATA[Control Systems Letters, IEEE]]>
+	</normtitle>
+	<publicationinfo>
+		<idamsid>0b000064858a834f</idamsid>
+		<publicationdoi>10.1109/LCSYS.7782633</publicationdoi>
+		<publicationtype>Periodical</publicationtype>
+		<publicationsubtype>IEEE Letter</publicationsubtype>
+		<ieeeabbrev>LCSYS</ieeeabbrev>
+		<acronym acronymtype="PIMS">LCSYS</acronym>
+		<pubstatus>Active</pubstatus>
+		<publicationopenaccess>F</publicationopenaccess>
+		<issn mediatype="Electronic">2475-1456</issn>
+		<pubtopicalbrowseset>
+			<pubtopicalbrowse>Robotics and Control Systems</pubtopicalbrowse>
+		</pubtopicalbrowseset>
+		<copyrightgroup>
+			<copyright>
+				<year>2017</year>
+				<holder>IEEE</holder>
+			</copyright>
+		</copyrightgroup>
+		<publisher>
+			<publishername>IEEE</publishername>
+		</publisher>
+		<holdstatus>Publish</holdstatus>
+		<confgroup>
+			<doi_permission>F</doi_permission>
+		</confgroup>
+		<amsid>7782633</amsid>
+		<coden>ICSLBO</coden>
+	</publicationinfo>
+	<volume>
+		<volumeinfo>
+			<year>2019</year>
+			<volumenum>3</volumenum>
+			<idamsid>0b000064887dd287</idamsid>
+			<issue>
+				<issuenum>2</issuenum>
+				<amsid>8521722</amsid>
+				<issuestatus>Complete</issuestatus>
+			</issue>
+		</volumeinfo>
+		<article>
+			<title>
+				<![CDATA[Differential Linear Matrix Inequalities Optimization]]>
+			</title>
+			<articleinfo>
+				<articleseqnum>29</articleseqnum>
+				<articledoi>10.1109/LCSYS.2018.2884016</articledoi>
+				<idamsid>0b000064888ae874</idamsid>
+				<articlestatus>Active</articlestatus>
+				<contenttype>orig-research</contenttype>
+				<articleopenaccess>F</articleopenaccess>
+				<articleshowflag>T</articleshowflag>
+				<articleplagiarizedflag>F</articleplagiarizedflag>
+				<articlenodoiflag>F</articlenodoiflag>
+				<articlecoverimageflag>F</articlecoverimageflag>
+				<articlereferenceflag>F</articlereferenceflag>
+				<articlepeerreviewflag>F</articlepeerreviewflag>
+				<holdstatus>Publish</holdstatus>
+				<issuenum>2</issuenum>
+				<articlecopyright holderisieee="Yes" year="2018">IEEE</articlecopyright>
+				<article_copyright_statement>2475-1456 © 2018 IEEE. Personal use is permitted, but republication/redistribution requires IEEE permission. See http://www.ieee.org/publications_standards/publications/rights/index.html for more information.</article_copyright_statement>
+				<abstract abstracttype="Regular">
+					<![CDATA[This letter proposes a new method to solve convex programming problems with constraints expressed by differential linear matrix inequalities (DLMIs). Initially, feasible solutions of interest are characterized and a general numerical method, based on the well known outer linearization technique, is proposed and discussed from theoretical and numerical viewpoints. Feasible solutions are written as a truncated series of a given set of time valued continuous functions with symmetric matrix coefficients to be determined. The numerical method encompasses the piecewise linear solution usually adopted in the literature with lower computational burden. In the sequel, several sampled-data control design problems whose optimality conditions can be expressed in this mathematical framework are provided. They are solved in order to put in evidence the most important aspects of the proposed method as well as to evaluate and compare numerical efficiency and limitations. Moreover, it is shown that DLMIs are particularly well adapted to cope with this class of optimal control design problems.]]>
+				</abstract>
+				<authorgroup>
+					<author role="primary">
+						<authororder>0</authororder>
+						<orcid>0000-0003-1735-7420</orcid>
+						<normname>
+							<![CDATA[Goncalves, T.R.]]>
+						</normname>
+						<nonnormname>
+							<![CDATA[Tiago R. Goncalves]]>
+						</nonnormname>
+						<firstname>
+							<![CDATA[Tiago R.]]>
+						</firstname>
+						<unicodefirstname>
+							<![CDATA[Tiago R.]]>
+						</unicodefirstname>
+						<surname>
+							<![CDATA[Goncalves]]>
+						</surname>
+						<unicodesurname>
+							<![CDATA[Gon&#x00E7;alves]]>
+						</unicodesurname>
+						<affiliation>
+							<![CDATA[School of Electrical and Computer Engineering, UNICAMP, Campinas, Brazil]]>
+						</affiliation>
+						<authortype>Author</authortype>
+						<email>
+							<![CDATA[tiagorg@dca.fee.unicamp.br]]>
+						</email>
+					</author>
+					<author role="corresponding">
+						<authororder>0</authororder>
+						<orcid>0000-0001-5631-9270</orcid>
+						<normname>
+							<![CDATA[Gabriel, G.W.]]>
+						</normname>
+						<nonnormname>
+							<![CDATA[Gabriela W. Gabriel]]>
+						</nonnormname>
+						<firstname>
+							<![CDATA[Gabriela W.]]>
+						</firstname>
+						<unicodefirstname>
+							<![CDATA[Gabriela W.]]>
+						</unicodefirstname>
+						<surname>
+							<![CDATA[Gabriel]]>
+						</surname>
+						<unicodesurname>
+							<![CDATA[Gabriel]]>
+						</unicodesurname>
+						<affiliation>
+							<![CDATA[Division of Electronic Engineering, Instituto Tecnol&#x00F3;gico de Aeron&#x00E1;utica, S&#x00E3;o Jos&#x00E9; dos Campos, Brazil]]>
+						</affiliation>
+						<authortype>Author</authortype>
+						<email>
+							<![CDATA[ggabriel@ita.br]]>
+						</email>
+					</author>
+					<author role="coauthor">
+						<authororder>0</authororder>
+						<orcid>0000-0002-4961-3428</orcid>
+						<normname>
+							<![CDATA[Geromel, J.C.]]>
+						</normname>
+						<nonnormname>
+							<![CDATA[Jose C. Geromel]]>
+						</nonnormname>
+						<firstname>
+							<![CDATA[Jose C.]]>
+						</firstname>
+						<unicodefirstname>
+							<![CDATA[Jos&#x00E9; C.]]>
+						</unicodefirstname>
+						<surname>
+							<![CDATA[Geromel]]>
+						</surname>
+						<unicodesurname>
+							<![CDATA[Geromel]]>
+						</unicodesurname>
+						<affiliation>
+							<![CDATA[School of Electrical and Computer Engineering, UNICAMP, Campinas, Brazil]]>
+						</affiliation>
+						<authortype>Author</authortype>
+						<email>
+							<![CDATA[geromel@dsce.fee.unicamp.br]]>
+						</email>
+					</author>
+				</authorgroup>
+				<date datetype="OriginalPub">
+					<year>2019</year>
+					<month>April</month>
+				</date>
+				<date datetype="preprintdate">
+					<year>2018</year>
+					<month>11</month>
+					<day>28</day>
+				</date>
+				<date datetype="ePub">
+					<year>2019</year>
+					<month>1</month>
+					<day>4</day>
+				</date>
+				<size>684109</size>
+				<filename docpartition="7" filetype="MainPDF">08552397.pdf</filename>
+				<artpagenums endpage="385" startpage="380">380-385</artpagenums>
+				<amsid>8552397</amsid>
+				<keywordset keywordtype="IEEE">
+					<keyword>
+						<keywordterm>
+							<![CDATA[Symmetric matrices]]>
+						</keywordterm>
+					</keyword>
+					<keyword>
+						<keywordterm>
+							<![CDATA[Linear matrix inequalities]]>
+						</keywordterm>
+					</keyword>
+					<keyword>
+						<keywordterm>
+							<![CDATA[Programming]]>
+						</keywordterm>
+					</keyword>
+					<keyword>
+						<keywordterm>
+							<![CDATA[Optimal control]]>
+						</keywordterm>
+					</keyword>
+					<keyword>
+						<keywordterm>
+							<![CDATA[Boundary conditions]]>
+						</keywordterm>
+					</keyword>
+					<keyword>
+						<keywordterm>
+							<![CDATA[Fourier series]]>
+						</keywordterm>
+					</keyword>
+					<keyword>
+						<keywordterm>
+							<![CDATA[Optimization]]>
+						</keywordterm>
+					</keyword>
+				</keywordset>
+				<keywordset keywordtype="IEEEFree">
+					<keyword>
+						<keywordterm>
+							<![CDATA[Differential linear matrix inequalities (DLMI)]]>
+						</keywordterm>
+					</keyword>
+					<keyword>
+						<keywordterm>
+							<![CDATA[optimal control]]>
+						</keywordterm>
+					</keyword>
+					<keyword>
+						<keywordterm>
+							<![CDATA[sampled-data control]]>
+						</keywordterm>
+					</keyword>
+				</keywordset>
+				<fundrefgrp>
+					<fundref>
+						<funder_name>FAPESP/CAPES, Brazil</funder_name>
+						<grant_number>2016/06343-5 (FAPESP)</grant_number>
+						<grant_number>2016/08043-9 (FAPESP)</grant_number>
+					</fundref>
+					<fundref>
+						<funder_name>CNPq, Brazil</funder_name>
+						<grant_number>303887/2014-1</grant_number>
+					</fundref>
+				</fundrefgrp>
+			</articleinfo>
+		</article>
+	</volume>
+</publication>

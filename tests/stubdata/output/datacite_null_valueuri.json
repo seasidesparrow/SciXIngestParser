@@ -1,0 +1,76 @@
+{
+  "abstract": {
+    "textEnglish": "The data set contains observations obtained with the NASA IRTF SpeX instrument covering the 0.7 to 2.5 micron near-infrared portion of the spectrum. The data set archives reduced, calibrated spectra which were obtained and used in Sherry Fieber-Beyer's Ph.D. dissertation at the University of North Dakota and archives reduced, calibrated spectra subsequent 2010. The research focused on asteroids in a zone centered on the 3:1 resonance. These spectra were used to mineralogically characterize asteroids in this zone in an attempt to identify their meteorite analogs."
+  },
+  "authors": [
+    {
+      "attrib": {
+        "orcid": "0000-0003-1982-0474"
+      },
+      "name": {
+        "given_name": "Sherry",
+        "surname": "Fieber-Beyer"
+      }
+    }
+  ],
+  "doctype": "dataset",
+  "keywords": [
+    {
+      "keyString": "Main belt asteroids",
+      "keySystem": "UAT"
+    }
+  ],
+  "otherContributor": [
+    {
+      "contrib": {
+        "name": {
+          "given_name": "PDS",
+          "pubraw": "PDS Small Bodies Node",
+          "surname": "Small Bodies Node"
+        }
+      },
+      "role": "DataCurator"
+    }
+  ],
+  "persistentIDs": [
+    {
+      "DOI": "10.26033/CMYD-AB77"
+    }
+  ],
+  "pubDate": {
+    "electrDate": "2020",
+    "otherDate": [
+      {
+        "otherDateType": "Available",
+        "otherDateValue": "2020-03-19"
+      }
+    ]
+  },
+  "publication": {
+    "pubYear": "2020",
+    "publisher": "NASA Planetary Data System "
+  },
+  "publisherIDs": [
+    {
+      "Identifier": "urn:nasa:pds:gbo.ast.fieber-beyer.spectra::1.0",
+      "attribute": "PDS4 Bundle LIDVID"
+    }
+  ],
+  "recordData": {
+    "createdTime": "",
+    "loadFormat": "OtherXML",
+    "loadLocation": "",
+    "loadType": "fromFile",
+    "parsedTime": "",
+    "recordOrigin": ""
+  },
+  "relatedTo": [
+    {
+      "relatedDocID": "10.26033/zmce-bv77",
+      "relationship": "related"
+    }
+  ],
+  "title": {
+    "textEnglish": "Fieber-Beyer IRTF Mainbelt Asteroid Spectra Bundle V1.0"
+  }
+}

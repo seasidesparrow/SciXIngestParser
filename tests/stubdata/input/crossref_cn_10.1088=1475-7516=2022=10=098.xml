@@ -1,0 +1,698 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doi_records>
+  <doi_record owner="10.1088" timestamp="2022-10-31 11:59:40">
+    <crossref>
+      <journal>
+        <journal_metadata>
+          <full_title>Journal of Cosmology and Astroparticle Physics</full_title>
+          <abbrev_title>J. Cosmol. Astropart. Phys.</abbrev_title>
+          <issn media_type="electronic">1475-7516</issn>
+        </journal_metadata>
+        <journal_issue>
+          <publication_date media_type="online">
+            <month>10</month>
+            <day>31</day>
+            <year>2022</year>
+          </publication_date>
+          <publication_date media_type="print">
+            <month>10</month>
+            <day>01</day>
+            <year>2022</year>
+          </publication_date>
+          <journal_volume>
+            <volume>2022</volume>
+          </journal_volume>
+          <issue>10</issue>
+        </journal_issue>
+        <journal_article publication_type="full_text" reference_distribution_opts="any">
+          <titles>
+            <title>Accurate modelling of extragalactic microlensing by compact objects</title>
+          </titles>
+          <contributors>
+            <person_name sequence="first" contributor_role="author">
+              <given_name>Víctor</given_name>
+              <surname>Boscá</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Pierre</given_name>
+              <surname>Fleury</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Juan</given_name>
+              <surname>García-Bellido</surname>
+            </person_name>
+          </contributors>
+          <abstract>
+            <title>Abstract</title>
+            <p>Microlensing of extragalactic sources, in particular the probability of significant amplifications, is a potentially powerful probe of the abundance of compact objects outside the halo of the Milky Way. Accurate experimental constraints require an equally accurate theoretical model for the amplification statistics produced by such a population. In this article, we argue that the simplest (strongest-lens) model does not meet this demanding requirement. We thus propose an elaborate practical modelling scheme for extragalactic microlensing. We derive from first principles an expression for the amplification probability that consistently allows for: (i) the coupling between microlenses; (ii) realistic perturbations from the cosmic large-scale structure; (iii) extended-source corrections. An important conclusion is that the external shear applied on the dominant microlens, both by the other lenses and by the large-scale structure, is practically negligible. Yet, the predictions of our approach can still differ by a factor of a few with respect to existing models of the literature. Updated constraints on the abundance of compact objects accounting for such discrepancies may be required.</p>
+          </abstract>
+          <publication_date media_type="online">
+            <month>10</month>
+            <day>31</day>
+            <year>2022</year>
+          </publication_date>
+          <publication_date media_type="print">
+            <month>10</month>
+            <day>01</day>
+            <year>2022</year>
+          </publication_date>
+          <pages>
+            <first_page>098</first_page>
+          </pages>
+          <crossmark>
+            <crossmark_policy>http://dx.doi.org/10.1088/crossmark-policy</crossmark_policy>
+            <crossmark_domains>
+              <crossmark_domain>
+                <domain>iopscience.iop.org</domain>
+              </crossmark_domain>
+            </crossmark_domains>
+            <custom_metadata>
+              <assertion label="Article Title" name="article_title">Accurate modelling of extragalactic microlensing by compact objects</assertion>
+              <assertion label="Journal Title" name="journal_title">Journal of Cosmology and Astroparticle Physics</assertion>
+              <assertion label="Article Type" name="article_type">paper</assertion>
+              <assertion label="Copyright Information" name="copyright_information">© 2022 IOP Publishing Ltd and Sissa Medialab</assertion>
+              <assertion label="Date Received" name="date_received" group_name="publication_dates" group_label="Publication dates">2022-05-06</assertion>
+              <assertion label="Date Accepted" name="date_accepted" group_name="publication_dates" group_label="Publication dates">2022-10-16</assertion>
+              <assertion label="Online publication date" name="date_epub" group_name="publication_dates" group_label="Publication dates">2022-10-31</assertion>
+              <program name="AccessIndicators">
+                <license_ref applies_to="vor" start_date="2022-10-31">https://iopscience.iop.org/page/copyright</license_ref>
+                <license_ref applies_to="tdm" start_date="2022-10-31">https://iopscience.iop.org/info/page/text-and-data-mining</license_ref>
+              </program>
+            </custom_metadata>
+          </crossmark>
+          <doi_data>
+            <doi>10.1088/1475-7516/2022/10/098</doi>
+            <resource content_version="vor" mime_type="text/html">https://iopscience.iop.org/article/10.1088/1475-7516/2022/10/098</resource>
+            <collection property="crawler-based">
+              <item crawler="iParadigms">
+                <resource content_version="vor" mime_type="application/pdf">https://iopscience.iop.org/article/10.1088/1475-7516/2022/10/098/pdf</resource>
+              </item>
+            </collection>
+            <collection property="syndication">
+              <item>
+                <resource content_version="vor" mime_type="application/pdf">https://iopscience.iop.org/article/10.1088/1475-7516/2022/10/098/pdf</resource>
+              </item>
+            </collection>
+            <collection property="text-mining">
+              <item>
+                <resource content_version="vor" mime_type="text/html">https://iopscience.iop.org/article/10.1088/1475-7516/2022/10/098</resource>
+              </item>
+              <item>
+                <resource content_version="vor" mime_type="application/pdf">https://iopscience.iop.org/article/10.1088/1475-7516/2022/10/098/pdf</resource>
+              </item>
+            </collection>
+          </doi_data>
+          <citation_list>
+            <citation key="bc244b7229a82fb205b374b037762db1e">
+              <journal_title>Phys. Rev. Lett.</journal_title>
+              <author>Abbott</author>
+              <doi>10.1103/PhysRevLett.116.241103</doi>
+              <volume>116</volume>
+              <cYear>2016</cYear>
+              <article_title>GW151226: Observation of Gravitational Waves from a 22-Solar-Mass Binary Black Hole Coalescence</article_title>
+            </citation>
+            <citation key="b2f9a2ef109a3228efb5e8cc3bc442bc4">
+              <journal_title>Phys. Rev. Lett.</journal_title>
+              <author>Bird</author>
+              <doi>10.1103/PhysRevLett.116.201301</doi>
+              <volume>116</volume>
+              <cYear>2016</cYear>
+              <article_title>Did LIGO detect dark matter?</article_title>
+            </citation>
+            <citation key="b8c7a4050e68376340a9d4903d3470cec">
+              <journal_title>Phys. Rev. Lett.</journal_title>
+              <author>Sasaki</author>
+              <doi>10.1103/PhysRevLett.117.061101</doi>
+              <volume>117</volume>
+              <cYear>2016</cYear>
+              <article_title>Primordial Black Hole Scenario for the Gravitational-Wave Event GW150914</article_title>
+            </citation>
+            <citation key="bafe30fde1eb8fc18c21761de38d1b04d">
+              <journal_title>Phys. Dark Univ.</journal_title>
+              <author>Clesse</author>
+              <doi>10.1016/j.dark.2016.10.002</doi>
+              <volume>15</volume>
+              <first_page>142</first_page>
+              <cYear>2017</cYear>
+              <article_title>The clustering of massive Primordial Black Holes as Dark Matter: measuring their mass distribution with Advanced LIGO</article_title>
+            </citation>
+            <citation key="bbf0760c562f4b4ad56417210ea005ea9" />
+            <citation key="b664f12d93ac5e435dd6c3372a5e42ac0">
+              <journal_title>Mon. Not. Roy. Astron. Soc.</journal_title>
+              <author>Hawking</author>
+              <volume>152</volume>
+              <first_page>75</first_page>
+              <cYear>1971</cYear>
+              <doi provider="crossref">10.1093/mnras/152.1.75</doi>
+              <article_title>Gravitationally collapsed objects of very low mass</article_title>
+            </citation>
+            <citation key="b1221cdccf42091307e1c476a27ad1e9b">
+              <journal_title>Astrophys. J.</journal_title>
+              <author>Griest</author>
+              <doi>10.1086/169575</doi>
+              <volume>366</volume>
+              <first_page>412</first_page>
+              <cYear>1991</cYear>
+              <article_title>Galactic Microlensing as a Method of Detecting Massive Compact Halo Objects</article_title>
+            </citation>
+            <citation key="ba62d568f38b09a70fb6c456cc1f7534d">
+              <journal_title>Phys. Rev. D</journal_title>
+              <author>Carr</author>
+              <doi>10.1103/PhysRevD.94.083504</doi>
+              <volume>94</volume>
+              <cYear>2016</cYear>
+              <article_title>Primordial Black Holes as Dark Matter</article_title>
+            </citation>
+            <citation key="b0dac99e30aebe375dd96038a713c9ead">
+              <doi>10.1515/9780691201665</doi>
+            </citation>
+            <citation key="b3f92ce1202185a7708633b6e20084163" />
+            <citation key="bd90e63e8e01b6f9a08212a001bfafeb5">
+              <journal_title>Astrophys. J.</journal_title>
+              <author>Alcock</author>
+              <doi>10.1086/177039</doi>
+              <volume>461</volume>
+              <first_page>84</first_page>
+              <cYear>1996</cYear>
+              <article_title>The MACHO project first year LMC results: The Microlensing rate and the nature of the galactic dark halo</article_title>
+            </citation>
+            <citation key="b155d23f5dcc2dc0749445699328d1086">
+              <journal_title>Astron. Astrophys.</journal_title>
+              <author>Afonso</author>
+              <doi>10.1051/0004-6361:20030087</doi>
+              <volume>400</volume>
+              <first_page>951</first_page>
+              <cYear>2003</cYear>
+              <article_title>Limits on galactic dark matter with 5 years of EROS SMC data</article_title>
+            </citation>
+            <citation key="be9559314277139216b39ed46a3583932">
+              <journal_title>Mon. Not. Roy. Astron. Soc.</journal_title>
+              <author>Wyrzykowski</author>
+              <doi>10.1111/j.1365-2966.2011.19243.x</doi>
+              <volume>416</volume>
+              <first_page>2949</first_page>
+              <cYear>2011</cYear>
+              <article_title>The OGLE View of Microlensing towards the Magellanic Clouds. IV. OGLE-III SMC Data and Final Conclusions on MACHOs</article_title>
+            </citation>
+            <citation key="b027dc8fa523ad5cc2920e9b93a1a3af7">
+              <journal_title>Astron. Astrophys.</journal_title>
+              <author>Hawkins</author>
+              <doi>10.1051/0004-6361/201425400</doi>
+              <volume>575</volume>
+              <first_page>A107</first_page>
+              <cYear>2015</cYear>
+              <article_title>A new look at microlensing limits on dark matter in the Galactic halo</article_title>
+            </citation>
+            <citation key="b0fcfcc2bec8bc13f57e22d8fa1a70867">
+              <journal_title>Mon. Not. Roy. Astron. Soc.</journal_title>
+              <author>Calcino</author>
+              <doi>10.1093/mnras/sty1368</doi>
+              <volume>479</volume>
+              <first_page>2889</first_page>
+              <cYear>2018</cYear>
+              <article_title>Updating the MACHO fraction of the Milky Way dark halowith improved mass models</article_title>
+            </citation>
+            <citation key="bc3ceedc172e250266d22dfd01af8f51d">
+              <journal_title>Phys. Rev. D</journal_title>
+              <author>Sato-Polito</author>
+              <doi>10.1103/PhysRevD.100.063521</doi>
+              <volume>100</volume>
+              <cYear>2019</cYear>
+              <article_title>Constraints on the primordial curvature power spectrum from primordial black holes</article_title>
+            </citation>
+            <citation key="bbd6b6c904806bab066b1599c656fe1eb">
+              <doi>10.1086/152430</doi>
+            </citation>
+            <citation key="b3679e1ab32e6efcee4d1c0c86d6f7281">
+              <journal_title>Nature</journal_title>
+              <author>Hawkins</author>
+              <doi>10.1038/366242a0</doi>
+              <volume>366</volume>
+              <first_page>242</first_page>
+              <cYear>1993</cYear>
+              <article_title>Gravitational microlensing, quasar variability and missing matter</article_title>
+            </citation>
+            <citation key="b991b45239c8092b0edc7a1ca17d13f8d">
+              <author>Hawkins</author>
+              <cYear>1998</cYear>
+              <article_title>The Signature of dark matter in quasar light curves</article_title>
+            </citation>
+            <citation key="bdadcd72ac311f6cd8d441b4234674084">
+              <doi>10.1093/mnras/260.1.202</doi>
+            </citation>
+            <citation key="bfb1ff52e976a92dc821b78124e0e5b8d" />
+            <citation key="b50a4bb97311ee67931989da54477fb5d">
+              <journal_title>Astrophys. J.</journal_title>
+              <author>Mediavilla</author>
+              <doi>10.1088/0004-637X/706/2/1451</doi>
+              <volume>706</volume>
+              <first_page>1451</first_page>
+              <cYear>2009</cYear>
+              <article_title>Microlensing-Based Estimate of the Mass Fraction in Compact Objects in Lens</article_title>
+            </citation>
+            <citation key="b37a81a686369df67404431a3ee6b84e7" />
+            <citation key="b0a861073d4a9af69e3073d6123e5aae4">
+              <doi>10.1093/mnras/283.1.225</doi>
+            </citation>
+            <citation key="bfe0364d9072baf1fd11d36c82f929913">
+              <doi>10.1086/175499</doi>
+            </citation>
+            <citation key="b7a87c1d2a41f79276c370fd6faad2819">
+              <journal_title>Astrophys. J.</journal_title>
+              <author>Schechter</author>
+              <doi>10.1086/343856</doi>
+              <volume>580</volume>
+              <first_page>685</first_page>
+              <cYear>2002</cYear>
+              <article_title>Quasar microlensing at high magnification and the role of dark matter: Enhanced fluctuations and suppressed saddlepoints</article_title>
+            </citation>
+            <citation key="bb7c66b24b424cbeace21e0aad6ecf9ae">
+              <journal_title>Mon. Not. Roy. Astron. Soc.</journal_title>
+              <author>Metcalf</author>
+              <doi>10.1111/j.1365-2966.2011.19982.x</doi>
+              <volume>419</volume>
+              <first_page>3414</first_page>
+              <cYear>2012</cYear>
+              <article_title>Constraints on Small-Scale Structures of Dark Matter from Flux Anomalies in Quasar Gravitational Lenses</article_title>
+            </citation>
+            <citation key="b7d079901d93021ff38bc230d27c4818e">
+              <journal_title>Nature Astron.</journal_title>
+              <author>Kelly</author>
+              <doi>10.1038/s41550-018-0430-3</doi>
+              <volume>2</volume>
+              <first_page>334</first_page>
+              <cYear>2018</cYear>
+              <article_title>Extreme magnification of an individual star at redshift 1.5 by a galaxy-cluster lens</article_title>
+            </citation>
+            <citation key="b92a2b5cb9c6906035c2864fa225e1940">
+              <doi>10.1038/s41586-022-04449-y</doi>
+            </citation>
+            <citation key="bf0614694fb7d280380cdeb3e8daafe35">
+              <journal_title>Mon. Not. Roy. Astron. Soc.</journal_title>
+              <author>Refsdal</author>
+              <volume>128</volume>
+              <first_page>295</first_page>
+              <cYear>1964</cYear>
+              <doi provider="crossref">10.1093/mnras/128.4.295</doi>
+              <article_title>The gravitational lens effect</article_title>
+            </citation>
+            <citation key="b397443811fffc3ab733ad57983501400">
+              <journal_title>Astron. Astrophys.</journal_title>
+              <author>Suyu</author>
+              <doi>10.1051/0004-6361/202037757</doi>
+              <volume>644</volume>
+              <first_page>A162</first_page>
+              <cYear>2020</cYear>
+              <article_title>HOLISMOKES – I. Highly Optimised Lensing Investigations of Supernovae, Microlensing Objects, and Kinematics of Ellipticals and Spirals</article_title>
+            </citation>
+            <citation key="bdb3c6b03835dd9fdf03c22918b942946">
+              <doi>10.1086/165937</doi>
+            </citation>
+            <citation key="b09a6334f92a144c438a1d9604ede8af4">
+              <doi>10.1086/170098</doi>
+            </citation>
+            <citation key="b4c209e759c4833ac17b261dff9762086">
+              <journal_title>Astrophys. J. Lett.</journal_title>
+              <author>Metcalf</author>
+              <doi>10.1086/312086</doi>
+              <volume>519</volume>
+              <first_page>L1</first_page>
+              <cYear>1999</cYear>
+              <article_title>A Fundamental test of the nature of dark matter</article_title>
+            </citation>
+            <citation key="b09fc6f6ce0d5fd591452abe8dae2b2e2">
+              <journal_title>Astron. Astrophys.</journal_title>
+              <author>Seljak</author>
+              <volume>351</volume>
+              <first_page>L10</first_page>
+              <cYear>1999</cYear>
+              <article_title>Limits on the density of compact objects from high redshift supernovae</article_title>
+            </citation>
+            <citation key="ba788a02ed482a8715370fd42cd0b3efc">
+              <journal_title>Astron. Astrophys.</journal_title>
+              <author>Bergstrom</author>
+              <volume>358</volume>
+              <first_page>13</first_page>
+              <cYear>2000</cYear>
+              <article_title>Lensing effects in an inhomogeneous universe</article_title>
+            </citation>
+            <citation key="b247da6c9f760bc6954f802f1753939eb">
+              <journal_title>Phys. Rev. Lett.</journal_title>
+              <author>Metcalf</author>
+              <doi>10.1103/PhysRevLett.98.071302</doi>
+              <volume>98</volume>
+              <cYear>2007</cYear>
+              <article_title>New Constraints on Macroscopic Compact Objects as a Dark Matter Candidate from Gravitational Lensing of Type Ia Supernovae</article_title>
+            </citation>
+            <citation key="b0ac57f09c938bc4d7d730c107c197901">
+              <journal_title>Phys. Rev. Lett.</journal_title>
+              <author>Zumalacarregui</author>
+              <doi>10.1103/PhysRevLett.121.141101</doi>
+              <volume>121</volume>
+              <cYear>2018</cYear>
+              <article_title>Limits on stellar-mass compact objects as dark matter from gravitational lensing of type Ia supernovae</article_title>
+            </citation>
+            <citation key="be14764d95e199ed668916ceed27e55be">
+              <journal_title>Astrophys. J.</journal_title>
+              <author>Jonsson</author>
+              <doi>10.1086/499396</doi>
+              <volume>639</volume>
+              <first_page>991</first_page>
+              <cYear>2006</cYear>
+              <article_title>Lensing magnification of supernovae in the GOODS-fields</article_title>
+            </citation>
+            <citation key="be1198f73ea527e1d5d62ebf776d0c529">
+              <journal_title>JCAP</journal_title>
+              <author>Dhawan</author>
+              <doi>10.1088/1475-7516/2018/07/024</doi>
+              <volume>07</volume>
+              <cYear>2018</cYear>
+              <article_title>The effect of inhomogeneities on dark energy constraints</article_title>
+            </citation>
+            <citation key="b33dfc4b55b19893cdea944e813eb54e8">
+              <doi>10.1093/mnras/199.4.987</doi>
+            </citation>
+            <citation key="b7421a0569c13bc3c7ed498b3f8095651">
+              <journal_title>Astrophys. J.</journal_title>
+              <author>Turner</author>
+              <doi>10.1086/162379</doi>
+              <volume>284</volume>
+              <first_page>1</first_page>
+              <cYear>1984</cYear>
+              <article_title>The Statistics of gravitational lenses: The Distributions of image angular separations and lens redshifts</article_title>
+            </citation>
+            <citation key="bd6053481732bb943091164758ab76638">
+              <doi>10.1086/162660</doi>
+            </citation>
+            <citation key="bc4e5f87385c5cb6da1754ff46e6c276d" />
+            <citation key="b1e8d716a19f0eace02a6ee666b10d86a" />
+            <citation key="bd241258650db00ddd866909ec7c84202">
+              <doi>10.1007/bf02714541</doi>
+            </citation>
+            <citation key="bdc2f5aaebc08714889b771f085a7c54d">
+              <journal_title>Astrophys. J.</journal_title>
+              <author>Blandford</author>
+              <doi>10.1086/164709</doi>
+              <volume>310</volume>
+              <first_page>568</first_page>
+              <cYear>1986</cYear>
+              <article_title>Fermat's principle, caustics, and the classification of gravitational lens images</article_title>
+            </citation>
+            <citation key="b7774ddbd2d63c2a441527ef97f9060d8">
+              <doi>10.1086/168887</doi>
+            </citation>
+            <citation key="b4c9ac2bbbc346d6189e6d80521aead9f">
+              <doi>10.1086/171188</doi>
+            </citation>
+            <citation key="b5037bd519c06f1295c318ebc891663cd">
+              <journal_title>Astrophys. J.</journal_title>
+              <author>Kofman</author>
+              <doi>10.1086/304791</doi>
+              <volume>485</volume>
+              <first_page>508</first_page>
+              <cYear>1997</cYear>
+              <article_title>Statistics of gravitational microlensing magnification. I. two-dimensional lens distribution</article_title>
+            </citation>
+            <citation key="bcfcef57539ccbc039ed489518f160618">
+              <doi>10.1086/304792</doi>
+            </citation>
+            <citation key="b39bbd40f7640a5e57fc329befd92905a" />
+            <citation key="ba8f4dd4a2e727635fab173d7d29f39be">
+              <doi>10.1086/170987</doi>
+            </citation>
+            <citation key="b5832edaa430b28d2f83636f44d3f6e71">
+              <journal_title>Mon. Not. Roy. Astron. Soc.</journal_title>
+              <author>Lewis</author>
+              <doi>10.1093/mnras/276.1.103</doi>
+              <volume>276</volume>
+              <first_page>103</first_page>
+              <cYear>1995</cYear>
+              <article_title>The statistics of microlensing light curves: I. amplification probability distributions</article_title>
+            </citation>
+            <citation key="bdc0eda033a2c0c5919e65fefc9528763">
+              <journal_title>Astron. Astrophys.</journal_title>
+              <author>Aghanim</author>
+              <doi>10.1051/0004-6361/201833910</doi>
+              <volume>641</volume>
+              <first_page>A6</first_page>
+              <cYear>2020</cYear>
+              <article_title>Planck 2018 results. VI. Cosmological parameters</article_title>
+            </citation>
+            <citation key="b4c844de93bc1aa7c39023583e4a59e71">
+              <doi>10.1007/978-3-662-03758-4</doi>
+            </citation>
+            <citation key="b34f373f3f6158b38bc48b5a546aebaf9">
+              <journal_title>Phys. Dark Univ.</journal_title>
+              <author>Fleury</author>
+              <doi>10.1016/j.dark.2020.100567</doi>
+              <volume>29</volume>
+              <cYear>2020</cYear>
+              <article_title>On simple analytic models of microlensing amplification statistics</article_title>
+            </citation>
+            <citation key="bf890e892637ef7d8926e2182c26d885a">
+              <doi>10.1093/mnras/223.1.113</doi>
+            </citation>
+            <citation key="b6184c2e5f6b0e3742a194ea7c9f23549">
+              <journal_title>Astrophys. J. Suppl.</journal_title>
+              <author>Gerke</author>
+              <doi>10.1088/0067-0049/208/1/1</doi>
+              <volume>208</volume>
+              <first_page>1</first_page>
+              <cYear>2013</cYear>
+              <article_title>Improved Mock Galaxy Catalogs for the DEEP2 Galaxy Redshift Survey from Subhalo Abundance and Environment Matching</article_title>
+            </citation>
+            <citation key="b61f67f50d7521861f2269c23a84e7b9e">
+              <journal_title>Astrophys. J.</journal_title>
+              <author>Kibble</author>
+              <doi>10.1086/444343</doi>
+              <volume>632</volume>
+              <first_page>718</first_page>
+              <cYear>2005</cYear>
+              <article_title>Average magnification effect of clumping of matter</article_title>
+            </citation>
+            <citation key="b24b97841a95e18425d50f09eaaadf2ac">
+              <journal_title>Mon. Not. Roy. Astron. Soc.</journal_title>
+              <author>Wucknitz</author>
+              <doi>10.1111/j.1365-2966.2008.13017.x</doi>
+              <volume>386</volume>
+              <first_page>230</first_page>
+              <cYear>2008</cYear>
+              <article_title>From planes to spheres: About gravitational lens magnifications</article_title>
+            </citation>
+            <citation key="bd2efb62bc6e71bc1fdbee6620d68aa20">
+              <journal_title>Astron. Astrophys.</journal_title>
+              <author>Breton</author>
+              <doi>10.1051/0004-6361/202040140</doi>
+              <volume>655</volume>
+              <first_page>A54</first_page>
+              <cYear>2021</cYear>
+              <article_title>Theoretical and numerical perspectives on cosmic distance averages</article_title>
+            </citation>
+            <citation key="b571f477f8886d449921bd9f260634faa" />
+            <citation key="b81492a4c2a4cf6b8ba999db070e924d6">
+              <journal_title>Mon. Not. Roy. Astron. Soc.</journal_title>
+              <author>Breton</author>
+              <doi>10.1093/mnras/sty3206</doi>
+              <volume>483</volume>
+              <first_page>2671</first_page>
+              <cYear>2019</cYear>
+              <article_title>Imprints of relativistic effects on the asymmetry of the halo cross-correlation function: from linear to non-linear scales</article_title>
+            </citation>
+            <citation key="bb0d41b6c7947241bce02d6b68cb2585e">
+              <journal_title>Astrophys. J. Suppl.</journal_title>
+              <author>Conley</author>
+              <doi>10.1088/0067-0049/192/1/1</doi>
+              <volume>192</volume>
+              <first_page>1</first_page>
+              <cYear>2011</cYear>
+              <article_title>Supernova Constraints and Systematic Uncertainties from the First 3 Years of the Supernova Legacy Survey</article_title>
+            </citation>
+            <citation key="b879e58041f66d0557671ec35b3031f33">
+              <journal_title>Class. Quant. Grav.</journal_title>
+              <author>Fleury</author>
+              <doi>10.1088/1361-6382/abea2d</doi>
+              <volume>38</volume>
+              <cYear>2021</cYear>
+              <article_title>Gravitational lenses in arbitrary space-times</article_title>
+            </citation>
+            <citation key="ba06bffe9b4a67eb2d777ff1e155bb77d">
+              <doi>10.1086/165179</doi>
+            </citation>
+            <citation key="b33aa310b62283f3b0c89344fe37a81b8" />
+            <citation key="b9a592403f22c41a8cb77d1e3eceb0fb2">
+              <journal_title>Astrophys. J.</journal_title>
+              <author>Bar-Kana</author>
+              <doi>10.1086/177666</doi>
+              <volume>468</volume>
+              <first_page>17</first_page>
+              <cYear>1996</cYear>
+              <article_title>Effect of large scale structure on multiply imaged sources</article_title>
+            </citation>
+            <citation key="b0ab4794718af6632ae9852074dd3fa99">
+              <journal_title>Mon. Not. Roy. Astron. Soc.</journal_title>
+              <author>Schneider</author>
+              <doi>10.1093/mnras/292.3.673</doi>
+              <volume>292</volume>
+              <first_page>673</first_page>
+              <cYear>1997</cYear>
+              <article_title>The Cosmological lens equation and the equivalent single plane gravitational lens</article_title>
+            </citation>
+            <citation key="b8997aa6c2315f67792e1aaf129599317">
+              <journal_title>Mon. Not. Roy. Astron. Soc.</journal_title>
+              <author>McCully</author>
+              <doi>10.1093/mnras/stu1316</doi>
+              <volume>443</volume>
+              <first_page>3631</first_page>
+              <cYear>2014</cYear>
+              <article_title>A New Hybrid Framework to Efficiently Model Lines of Sight to Gravitational Lenses</article_title>
+            </citation>
+            <citation key="be810786ce4db4be07c6fe3e05324a935">
+              <journal_title>JCAP</journal_title>
+              <author>Birrer</author>
+              <doi>10.1088/1475-7516/2017/04/049</doi>
+              <volume>04</volume>
+              <cYear>2017</cYear>
+              <article_title>Line-of-sight effects in strong lensing: Putting theory into practice</article_title>
+            </citation>
+            <citation key="b281ad27c4d59b543cf76b32ffc965afb">
+              <journal_title>JCAP</journal_title>
+              <author>Fleury</author>
+              <doi>10.1088/1475-7516/2021/08/024</doi>
+              <volume>08</volume>
+              <cYear>2021</cYear>
+              <article_title>Line-of-sight effects in strong gravitational lensing</article_title>
+            </citation>
+            <citation key="b346a16cf30dc095a0b92463074c6b8ce">
+              <journal_title>Phys. Rept.</journal_title>
+              <author>Bartelmann</author>
+              <doi>10.1016/S0370-1573(00)00082-X</doi>
+              <volume>340</volume>
+              <first_page>291</first_page>
+              <cYear>2001</cYear>
+              <article_title>Weak gravitational lensing</article_title>
+            </citation>
+            <citation key="bcd8e8dafb0e0a05a4e22d416820ea2a6">
+              <author>Fleury</author>
+              <cYear>2015</cYear>
+              <article_title>Light propagation in inhomogeneous and anisotropic cosmologies</article_title>
+            </citation>
+            <citation key="baeea67b0722c31a64ba0bf5982679a7b">
+              <journal_title>Phys. Rev. D</journal_title>
+              <author>Fleury</author>
+              <doi>10.1103/PhysRevD.99.023525</doi>
+              <volume>99</volume>
+              <cYear>2019</cYear>
+              <article_title>Cosmic convergence and shear with extended sources</article_title>
+            </citation>
+            <citation key="bccfc03fac2755d3cabd873b9b55b539a">
+              <journal_title>Astrophys. J.</journal_title>
+              <author>Kofman</author>
+              <doi>10.1086/304791</doi>
+              <volume>485</volume>
+              <first_page>508</first_page>
+              <cYear>1997</cYear>
+              <article_title>Statistics of gravitational microlensing magnification. I. two-dimensional lens distribution</article_title>
+            </citation>
+            <citation key="bbe30bb002e262f5455fa5e923fbdd9e6">
+              <journal_title>Rev. Mod. Phys.</journal_title>
+              <author>Chandrasekhar</author>
+              <doi>10.1103/RevModPhys.15.1</doi>
+              <volume>15</volume>
+              <first_page>1</first_page>
+              <cYear>1943</cYear>
+              <article_title>Stochastic problems in physics and astronomy</article_title>
+            </citation>
+            <citation key="b4717cdd088de04502e0b7cf744495637" />
+            <citation key="b47ce66125f0ecfe22cb9a182c2fa0cd2">
+              <journal_title>Astrophys. J.</journal_title>
+              <author>Keeton</author>
+              <doi>10.1086/304172</doi>
+              <volume>482</volume>
+              <first_page>604</first_page>
+              <cYear>1997</cYear>
+              <article_title>Shear and ellipticity in gravitational lenses</article_title>
+            </citation>
+            <citation key="b752a4ca5a31583a06189c6bc86372546">
+              <journal_title>Phys. Rev. D</journal_title>
+              <author>Kainulainen</author>
+              <doi>10.1103/PhysRevD.83.023009</doi>
+              <volume>83</volume>
+              <cYear>2011</cYear>
+              <article_title>Accurate Modeling of Weak Lensing with the sGL Method</article_title>
+            </citation>
+            <citation key="b1f63e569599b7cc73d647e1b60c48ba1">
+              <journal_title>Phys. Rev. D</journal_title>
+              <author>Kainulainen</author>
+              <doi>10.1103/PhysRevD.80.123020</doi>
+              <volume>80</volume>
+              <cYear>2009</cYear>
+              <article_title>A new stochastic approach to cumulative weak lensing</article_title>
+            </citation>
+            <citation key="b5d3971c8822069ab37fbff5200bcdec3">
+              <doi>10.1086/170805</doi>
+            </citation>
+            <citation key="b1d3a31548b7da149d1e9664129fe2be6">
+              <doi>10.1086/174426</doi>
+            </citation>
+            <citation key="b49106c10562774e05626ddb28219dc43">
+              <journal_title>Astrophys. J. Lett.</journal_title>
+              <author>Esteban-Gutiérrez</author>
+              <doi>10.3847/2041-8213/ac57c6</doi>
+              <volume>929</volume>
+              <first_page>L17</first_page>
+              <cYear>2022</cYear>
+              <article_title>Limiting the Abundance of LIGO/Virgo Black Holes with Microlensing Observations of Quasars of Finite Size</article_title>
+            </citation>
+            <citation key="bbc4a054c13791eacd09207d3b91928a6">
+              <journal_title>Mon. Not. Roy. Astron. Soc.</journal_title>
+              <author>Hawkins</author>
+              <doi>10.1093/mnras/stac863</doi>
+              <volume>512</volume>
+              <first_page>5706</first_page>
+              <cYear>2022</cYear>
+              <article_title>New evidence for a cosmological distribution of stellar mass primordial black holes</article_title>
+            </citation>
+            <citation key="b1d7a94a4a0cb54580acc8c54f29ae4c3">
+              <journal_title>Phys. Dark Univ.</journal_title>
+              <author>Garcia-Bellido</author>
+              <doi>10.1016/j.dark.2018.04.005</doi>
+              <volume>20</volume>
+              <first_page>95</first_page>
+              <cYear>2018</cYear>
+              <article_title>Primordial black holes survive SN lensing constraints</article_title>
+            </citation>
+            <citation key="bff99af18ba165a33e7efb96b26bafa2f">
+              <journal_title>Astron. Astrophys.</journal_title>
+              <author>Teyssier</author>
+              <doi>10.1051/0004-6361:20011817</doi>
+              <volume>385</volume>
+              <first_page>337</first_page>
+              <cYear>2002</cYear>
+              <article_title>Cosmological hydrodynamics with adaptive mesh refinement: a new high resolution code called ramses</article_title>
+            </citation>
+            <citation key="b44f38a37eadb88dd05831f45e63cb374">
+              <journal_title>J. Comput. Phys.</journal_title>
+              <author>Guillet</author>
+              <doi>10.1016/j.jcp.2011.02.044</doi>
+              <volume>230</volume>
+              <first_page>4756</first_page>
+              <cYear>2011</cYear>
+              <article_title>A Simple multigrid scheme for solving the Poisson equation with arbitrary domain boundaries</article_title>
+            </citation>
+            <citation key="b55b8c38b8b66883506618484c3b528cb">
+              <journal_title>Astrophys. J. Suppl.</journal_title>
+              <author>Komatsu</author>
+              <doi>10.1088/0067-0049/192/2/18</doi>
+              <volume>192</volume>
+              <first_page>18</first_page>
+              <cYear>2011</cYear>
+              <article_title>Seven-Year Wilkinson Microwave Anisotropy Probe (WMAP) Observations: Cosmological Interpretation</article_title>
+            </citation>
+            <citation key="be70709088624a1c6796dc62916fcfc27" />
+            <citation key="beb2f428f5c2030a6f8e14ac7e8dd1eca" />
+          </citation_list>
+        </journal_article>
+      </journal>
+    </crossref>
+  </doi_record>
+</doi_records>

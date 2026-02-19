@@ -1,0 +1,349 @@
+{
+  "abstract": {
+    "textEnglish": "Changed Increased the qiskit-ibmq-provider version to the latest release 0.3.3."
+  },
+  "authors": [
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "@IBM"
+        }
+      ],
+      "name": {
+        "given_name": "Jay",
+        "pubraw": "Jay Gambetta",
+        "surname": "Gambetta"
+      }
+    },
+    {
+      "name": {
+        "given_name": "Matthew",
+        "pubraw": "Matthew Treinish",
+        "surname": "Treinish"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "IBM"
+        }
+      ],
+      "name": {
+        "given_name": "Paul",
+        "pubraw": "Paul Kassebaum",
+        "surname": "Kassebaum"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "@IBMResearch"
+        }
+      ],
+      "name": {
+        "given_name": "Diego",
+        "middle_name": "M.",
+        "pubraw": "Diego M. Rodr\u00edguez",
+        "surname": "Rodr\u00edguez"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "@IBMResearch"
+        }
+      ],
+      "name": {
+        "given_name": "Salvador",
+        "pubraw": "Salvador de la Puente Gonz\u00e1lez",
+        "surname": "de la Puente Gonz\u00e1lez"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "IBM"
+        }
+      ],
+      "name": {
+        "given_name": "Paul",
+        "pubraw": "Paul Nation",
+        "surname": "Nation"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "IBM Research"
+        }
+      ],
+      "name": {
+        "given_name": "Shaohan",
+        "pubraw": "Shaohan Hu",
+        "surname": "Hu"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "@IBM @openliberty"
+        }
+      ],
+      "name": {
+        "given_name": "Laura",
+        "pubraw": "Laura Zdanski",
+        "surname": "Zdanski"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "IBM"
+        }
+      ],
+      "name": {
+        "given_name": "Marco",
+        "pubraw": "Marco Pistoia",
+        "surname": "Pistoia"
+      }
+    },
+    {
+      "name": {
+        "given_name": "Kevin",
+        "pubraw": "Kevin Krsulich",
+        "surname": "Krsulich"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "IBM"
+        }
+      ],
+      "name": {
+        "given_name": "Travis-S-IBM",
+        "pubraw": "Travis-S-IBM"
+      }
+    },
+    {
+      "name": {
+        "given_name": "Juan",
+        "pubraw": "Juan Gomez",
+        "surname": "Gomez"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "@IBM, @Qiskit"
+        }
+      ],
+      "name": {
+        "given_name": "David",
+        "pubraw": "David McKay",
+        "surname": "McKay"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "IBM @QISKit"
+        }
+      ],
+      "name": {
+        "given_name": "Albert",
+        "pubraw": "Albert Frisch",
+        "surname": "Frisch"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "IBM Research"
+        }
+      ],
+      "name": {
+        "given_name": "Yehuda",
+        "pubraw": "Yehuda Naveh",
+        "surname": "Naveh"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "IBM Research"
+        }
+      ],
+      "name": {
+        "given_name": "Steve",
+        "pubraw": "Steve Wood",
+        "surname": "Wood"
+      }
+    },
+    {
+      "name": {
+        "given_name": "Zoufalc",
+        "pubraw": "Zoufalc"
+      }
+    },
+    {
+      "name": {
+        "given_name": "tigerjack",
+        "pubraw": "tigerjack"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "IBM"
+        }
+      ],
+      "name": {
+        "given_name": "Shelly",
+        "pubraw": "Shelly Garion",
+        "surname": "Garion"
+      }
+    },
+    {
+      "name": {
+        "given_name": "RohitMidha23",
+        "pubraw": "RohitMidha23"
+      }
+    },
+    {
+      "name": {
+        "given_name": "KaoriNamba",
+        "pubraw": "KaoriNamba"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "@IBMResearch"
+        }
+      ],
+      "name": {
+        "given_name": "Juan",
+        "pubraw": "Juan Cruz-Benito",
+        "surname": "Cruz-Benito"
+      }
+    },
+    {
+      "name": {
+        "given_name": "HNorlen",
+        "pubraw": "HNorlen"
+      }
+    },
+    {
+      "name": {
+        "given_name": "Francois",
+        "pubraw": "Francois Varchon",
+        "surname": "Varchon"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "IBM Research @QISKit"
+        }
+      ],
+      "name": {
+        "given_name": "Christopher",
+        "middle_name": "J.",
+        "pubraw": "Christopher J. Wood",
+        "surname": "Wood"
+      }
+    },
+    {
+      "name": {
+        "given_name": "Blas",
+        "pubraw": "Blas Osvaldo Gonzalez Aceves",
+        "surname": "Osvaldo Gonzalez Aceves"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "IBM"
+        }
+      ],
+      "name": {
+        "given_name": "Baltazar",
+        "pubraw": "Baltazar Rodriguez",
+        "surname": "Rodriguez"
+      }
+    },
+    {
+      "name": {
+        "given_name": "Ayumu-walker",
+        "pubraw": "Ayumu-walker"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "IBM"
+        }
+      ],
+      "name": {
+        "given_name": "Takehiko",
+        "surname": "Amano"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "ICFO"
+        }
+      ],
+      "name": {
+        "given_name": "Alex",
+        "pubraw": "Alex Pozas-Kerstjens",
+        "surname": "Pozas-Kerstjens"
+      }
+    }
+  ],
+  "doctype": "software",
+  "openAccess": {
+    "open": true
+  },
+  "persistentIDs": [
+    {
+      "DOI": "10.5281/zenodo.3465853"
+    }
+  ],
+  "pubDate": {
+    "electrDate": "2019",
+    "otherDate": [
+      {
+        "otherDateType": "Issued",
+        "otherDateValue": "2019-09-30"
+      }
+    ]
+  },
+  "publication": {
+    "pubYear": "2019",
+    "publisher": "Zenodo"
+  },
+  "recordData": {
+    "createdTime": "",
+    "loadFormat": "OtherXML",
+    "loadLocation": "",
+    "loadType": "fromFile",
+    "parsedTime": "",
+    "recordOrigin": ""
+  },
+  "relatedTo": [
+    {
+      "relatedDocID": "https://github.com/Qiskit/qiskit/tree/0.12.1",
+      "relationship": "supplement"
+    },
+    {
+      "relatedDocID": "10.5281/zenodo.2573505",
+      "relationship": "related"
+    }
+  ],
+  "title": {
+    "textEnglish": "Qiskit/qiskit: Qiskit 0.12.1"
+  }
+}

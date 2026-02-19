@@ -1,0 +1,179 @@
+{
+  "abstract": {
+    "textEnglish": "In this paper we report on recent advancements in the development of linear-mode photon-counting (LMPC) electron-initiated avalanche photodiodes (e-APDs) at Leonardo DRS. The Hg1-xCdxTe linear-mode e-APD fills a gap in single-photon detectors from near- to mid-infrared wavelengths and enables several new space lidar and laser communication applications. The combination of high e-APD gain and near unity excess noise factor enables robust, single-photon detection. Another important feature of the Hg<sub>1-x</sub>Cd<sub>x</sub>Te e-APD is that there is no dead time or latency between successive photon detection events. Since the inception of the device, Leonardo DRS has sought to improve the performance of these e-APDs by: increasing linear gains to greater than 1000; decreasing single photon jitter; reducing ROIC glow contributions to dark counts; and decreasing intrinsic detector dark currents. To these ends, we begin by showing that ROIC glow contributions to the false-event rate (FER) can be significantly reduced using an improved, photon blocking shield. We continue by examining the performance of focal-plane arrays (FPAs) with two differing material cutoff wavelengths, demonstrating record low FERs at high photon detection efficiencies (PDEs); this improvement in performance is assisted in part to the successful integration of micro-lens arrays (MLAs) onto the detectors. We conclude our study by integrating one detector unit into a tactical, Integrated Dewar Cooler Assembly (IDCA) and comparing performance prior and following this integration."
+  },
+  "authors": [
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Leonardo DRS-EOIS (United States)"
+        }
+      ],
+      "name": {
+        "given_name": "P. Duke",
+        "surname": "Anderson"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Leonardo DRS-EOIS (United States)"
+        }
+      ],
+      "name": {
+        "given_name": "James",
+        "surname": "McCurdy"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Leonardo DRS-EOIS (United States)"
+        }
+      ],
+      "name": {
+        "given_name": "Adam",
+        "surname": "Huebner"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Leonardo DRS-EOIS (United States)"
+        }
+      ],
+      "name": {
+        "given_name": "Austin",
+        "surname": "Sawatsky"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Leonardo DRS-EOIS (United States)"
+        }
+      ],
+      "name": {
+        "given_name": "Christopher",
+        "surname": "Schaake"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Leonardo DRS-EOIS (United States)"
+        }
+      ],
+      "name": {
+        "given_name": "Grady",
+        "surname": "Cook"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "NASA Goddard Space Flight Ctr. (United States)"
+        }
+      ],
+      "name": {
+        "given_name": "Xiaoli",
+        "surname": "Sun"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Leonardo DRS-EOIS (United States)"
+        }
+      ],
+      "name": {
+        "given_name": "Pradip",
+        "surname": "Mitra"
+      }
+    }
+  ],
+  "copyright": {
+    "statement": "COPYRIGHT SPIE. Downloading of the abstract is permitted for personal use only.",
+    "status": true
+  },
+  "otherContributor": [
+    {
+      "contrib": {
+        "affiliation": [
+          {
+            "affPubRaw": "Argo AI, LLC (United States)"
+          }
+        ],
+        "name": {
+          "given_name": "Mark A.",
+          "surname": "Itzler"
+        }
+      },
+      "role": "editor"
+    },
+    {
+      "contrib": {
+        "affiliation": [
+          {
+            "affPubRaw": "National Institute of Standards and Technology (United States)"
+          }
+        ],
+        "name": {
+          "given_name": "Joshua C.",
+          "surname": "Bienfang"
+        }
+      },
+      "role": "editor"
+    },
+    {
+      "contrib": {
+        "affiliation": [
+          {
+            "affPubRaw": "MIT Lincoln Lab. (United States)"
+          }
+        ],
+        "name": {
+          "given_name": "K. Alex",
+          "surname": "McIntosh"
+        }
+      },
+      "role": "editor"
+    }
+  ],
+  "pagination": {
+    "firstPage": "1251208",
+    "lastPage": "1251208-6",
+    "pageRange": "1251208-1251208-6"
+  },
+  "persistentIDs": [
+    {
+      "DOI": "10.1117/12.2664959"
+    }
+  ],
+  "pubDate": {
+    "electrDate": "2023-06-15",
+    "printDate": "2023-06-15"
+  },
+  "publication": {
+    "ISSN": [
+      {
+        "issnString": "0277-786X"
+      }
+    ],
+    "confName": "Defense + Commercial Sensing",
+    "pubYear": "2023",
+    "publisher": "SPIE",
+    "volumeNum": "12512"
+  },
+  "recordData": {
+    "createdTime": "",
+    "loadFormat": "JATS",
+    "loadLocation": "",
+    "loadType": "fromFile",
+    "parsedTime": "",
+    "recordOrigin": ""
+  },
+  "title": {
+    "textEnglish": "Advancements in linear-mode photon-counting HgCdTe e-APDs for space and defense applications"
+  }
+}

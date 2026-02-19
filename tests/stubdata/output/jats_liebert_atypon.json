@@ -1,0 +1,133 @@
+{
+  "authors": [
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Department of Aeronautics and Astronautics, Stanford University, Stanford, CA."
+        }
+      ],
+      "name": {
+        "given_name": "Moderator: Scott",
+        "surname": "Hubbard"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Federal Aviation Administration, Washington, DC."
+        }
+      ],
+      "name": {
+        "given_name": "Participants: Ken",
+        "surname": "Davidian"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Virgin Galactic, Oak Hill, VA."
+        }
+      ],
+      "name": {
+        "given_name": "Steve",
+        "surname": "Isakowitz"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "The George Washington University, Washington, DC."
+        }
+      ],
+      "name": {
+        "given_name": "John",
+        "surname": "Logsdon"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "The Boeing Company, Huntsville, AL."
+        }
+      ],
+      "name": {
+        "given_name": "James R. (Russ)",
+        "surname": "McMurry"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Federal Aviation Administration, Washington, DC."
+        }
+      ],
+      "name": {
+        "given_name": "George",
+        "surname": "Nield"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Space and Technology Policy Group, LLC, Arlington, VA."
+        }
+      ],
+      "name": {
+        "given_name": "Marcia S.",
+        "surname": "Smith"
+      }
+    }
+  ],
+  "copyright": {
+    "statement": "Copyright 2013, Mary Ann Liebert, Inc.",
+    "status": true
+  },
+  "pagination": {
+    "firstPage": "3",
+    "lastPage": "9",
+    "pageCount": "7",
+    "pageRange": "3-9"
+  },
+  "persistentIDs": [
+    {
+      "DOI": "10.1089/space.2013.1501"
+    }
+  ],
+  "pubDate": {
+    "printDate": "2013-03-01"
+  },
+  "publication": {
+    "ISSN": [
+      {
+        "issnString": "2168-0256",
+        "pubtype": "ppub"
+      },
+      {
+        "issnString": "2168-0264",
+        "pubtype": "epub"
+      }
+    ],
+    "issueNum": "1",
+    "pubName": "New Space",
+    "pubYear": "2013",
+    "publisher": "Mary Ann Liebert, Inc.",
+    "volumeNum": "1"
+  },
+  "publisherIDs": [
+    {
+      "Identifier": "10.1089/space.2013.1501",
+      "attribute": "publisher-id"
+    }
+  ],
+  "recordData": {
+    "createdTime": "",
+    "loadFormat": "JATS",
+    "loadLocation": "",
+    "loadType": "fromFile",
+    "parsedTime": "",
+    "recordOrigin": ""
+  },
+  "title": {
+    "textEnglish": "Growing the Future of Commercial Space"
+  }
+}

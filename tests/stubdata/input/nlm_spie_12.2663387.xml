@@ -1,0 +1,183 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v3.0 20080202//EN" "http://dtd.nlm.nih.gov/publishing/3.0/journalpublishing3.dtd">
+<article article-type="proceedings" dtd-version="3.0" xml:lang="en" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<front>
+<journal-meta>
+<issn>0277-786X</issn>
+<isbn>9781510661387</isbn>
+<publisher>
+<publisher-name>SPIE</publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="doi">10.1117/12.2663387</article-id>
+<title-group>
+<article-title>
+Studies of spatial uniformity and jitter in SiC UV SPADs
+</article-title>
+</title-group>
+<contrib-group content-type="volume">
+<contrib contrib-type="editor">
+<name>
+<surname>Itzler</surname>
+<given-names>Mark A.</given-names>
+</name>
+<xref ref-type="aff" rid="aff5" />
+</contrib>
+<contrib contrib-type="editor">
+<name>
+<surname>Bienfang</surname>
+<given-names>Joshua C.</given-names>
+</name>
+<xref ref-type="aff" rid="aff3" />
+</contrib>
+<contrib contrib-type="editor">
+<name>
+<surname>McIntosh</surname>
+<given-names>K. Alex</given-names>
+</name>
+<xref ref-type="aff" rid="aff6" />
+</contrib>
+</contrib-group>
+<contrib-group content-type="article">
+<contrib contrib-type="author">
+<name>
+<surname>Sampath</surname>
+<given-names>Anand V.</given-names>
+</name>
+<xref ref-type="aff" rid="aff1" />
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname>Garrett</surname>
+<given-names>Gregory A.</given-names>
+</name>
+<xref ref-type="aff" rid="aff1" />
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname>Schuster</surname>
+<given-names>Jonathan</given-names>
+</name>
+<xref ref-type="aff" rid="aff1" />
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname>Smith</surname>
+<given-names>Jeremy L.</given-names>
+</name>
+<xref ref-type="aff" rid="aff1" />
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname>Derenge</surname>
+<given-names>Michael A.</given-names>
+</name>
+<xref ref-type="aff" rid="aff1" />
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname>Habersat</surname>
+<given-names>Daniel B.</given-names>
+</name>
+<xref ref-type="aff" rid="aff1" />
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname>VanMil</surname>
+<given-names>Brenda</given-names>
+</name>
+<xref ref-type="aff" rid="aff1" />
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname>Gandhi</surname>
+<given-names>Reza</given-names>
+</name>
+<xref ref-type="aff" rid="aff2" />
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname>Dolinsky</surname>
+<given-names>Sergei</given-names>
+</name>
+<xref ref-type="aff" rid="aff2" />
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname>Heilweil</surname>
+<given-names>Edwin J.</given-names>
+</name>
+<xref ref-type="aff" rid="aff3" />
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname>Bienfang</surname>
+<given-names>Joshua C.</given-names>
+</name>
+<xref ref-type="aff" rid="aff3" />
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname>Bellotti</surname>
+<given-names>Enrico</given-names>
+</name>
+<xref ref-type="aff" rid="aff4" />
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname>Wraback</surname>
+<given-names>Michael</given-names>
+</name>
+<xref ref-type="aff" rid="aff1" />
+</contrib>
+</contrib-group>
+<aff id="aff1">DEVCOM Army Research Lab. (United States)</aff>
+<aff id="aff2">GE Research Ctr. (United States)</aff>
+<aff id="aff3">National Institute of Standards and Technology (United States)</aff>
+<aff id="aff4">Boston Univ. (United States)</aff>
+<aff id="aff5">Argo AI, LLC (United States)</aff>
+<aff id="aff6">MIT Lincoln Lab. (United States)</aff>
+<pub-date>
+<day>15</day>
+<month>6</month>
+<year>2023</year>
+</pub-date>
+<volume>12512</volume>
+<fpage>1251206</fpage>
+<lpage>1251206-10</lpage>
+<permissions>
+<copyright-statement>COPYRIGHT SPIE. Downloading of the abstract is permitted for personal use only.</copyright-statement>
+<copyright-year>2023</copyright-year>
+</permissions>
+<self-uri xlink:title="pdf" xlink:href="1251206.pdf"/>
+<abstract>
+Ultraviolet single-photon avalanche detectors (UV-SPADs) that are low cost, size, weight, and power as well as resilient to shock, high temperatures and stray magnetic fields have a number of applications. SiC is attractive for UV SPADs as it is inherently blind to visible light, and Geiger mode as well as high-gain linear-mode devices have been demonstrated. However, issues remain regarding bias dependence of spatial uniformity of detection efficiency (DE) and responsivity as well as the temporal resolution, or jitter, in Geiger mode. Over a wide range of device structures (p- vs. n- illuminated) we observe a non-uniform responsivity across the active area for values of gain from 100 to 10<sup>5</sup>, and we observe that the nonuniformity is somewhat reduced at higher gain. The spatial dependence of the DE in Geiger mode agrees with linear-mode results for gain &gt;10<sup>5</sup>. This presents in all devices as an “optically dead” region on one side of the detector whose extent varies with operating conditions and is independent of contact geometry and device layout. The temporal resolution of single-photon detection is characterized with a femtosecond-pulsed source at 267 nm and found to have a full-width-at-half-maximum jitter &lt; 92 ps, which is significantly lower than previously reported results and likely an upper bound due to the quenching circuit and the spatial non-uniformity. Numerical modeling suggests that small variations in doping densities and thicknesses of epitaxial layers might be a cause of the non-uniformity. Results also indicate that detector layer design, size, and geometry can mitigate the effects of spatial non-uniformity,
+</abstract>
+<conference content-type="conf-level-1">
+<conf-date />
+<conf-name>Defense + Commercial Sensing</conf-name>
+<conf-acronym>DCS</conf-acronym>
+<conf-num>7</conf-num>
+</conference>
+<conference content-type="conf-level-2">
+<conf-date>2023-04-30|2023-05-05</conf-date>
+<conf-name>SPIE Defense + Commercial Sensing</conf-name>
+<conf-acronym>DCS23</conf-acronym>
+<conf-num>2619426</conf-num>
+<conf-loc>Orlando, Florida, United States</conf-loc>
+</conference>
+<conference content-type="volume">
+<conf-date />
+<conf-name>Advanced Photon Counting Techniques XVII</conf-name>
+<conf-num>12512</conf-num>
+</conference>
+<conference content-type="session">
+<conf-date />
+<conf-name>Developments in Single-Photon Avalanche Diodes</conf-name>
+<conf-num>4</conf-num>
+</conference>
+</article-meta>
+</front>
+<back>
+</back>
+</article>

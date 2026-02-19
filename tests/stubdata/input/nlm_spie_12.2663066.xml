@@ -1,0 +1,125 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v3.0 20080202//EN" "http://dtd.nlm.nih.gov/publishing/3.0/journalpublishing3.dtd">
+<article article-type="proceedings" dtd-version="3.0" xml:lang="en" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<front>
+<journal-meta>
+<issn>0277-786X</issn>
+<isbn>9781510661387</isbn>
+<publisher>
+<publisher-name>SPIE</publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="doi">10.1117/12.2663066</article-id>
+<title-group>
+<article-title>
+Low-SWaP embedded 3D-LiDAR to detect non-cooperative targets
+</article-title>
+</title-group>
+<contrib-group content-type="volume">
+<contrib contrib-type="editor">
+<name>
+<surname>Itzler</surname>
+<given-names>Mark A.</given-names>
+</name>
+<xref ref-type="aff" rid="aff2" />
+</contrib>
+<contrib contrib-type="editor">
+<name>
+<surname>Bienfang</surname>
+<given-names>Joshua C.</given-names>
+</name>
+<xref ref-type="aff" rid="aff3" />
+</contrib>
+<contrib contrib-type="editor">
+<name>
+<surname>McIntosh</surname>
+<given-names>K. Alex</given-names>
+</name>
+<xref ref-type="aff" rid="aff4" />
+</contrib>
+</contrib-group>
+<contrib-group content-type="article">
+<contrib contrib-type="author">
+<name>
+<surname>Riviere</surname>
+<given-names>Nicolas</given-names>
+</name>
+<xref ref-type="aff" rid="aff1" />
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname>Dupouy</surname>
+<given-names>Paul-Édouard</given-names>
+</name>
+<xref ref-type="aff" rid="aff1" />
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname>Moussous</surname>
+<given-names>Ahmed</given-names>
+</name>
+<xref ref-type="aff" rid="aff1" />
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname>Schilling</surname>
+<given-names>Anita</given-names>
+</name>
+<xref ref-type="aff" rid="aff1" />
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname>Viala</surname>
+<given-names>Erwan</given-names>
+</name>
+<xref ref-type="aff" rid="aff1" />
+</contrib>
+</contrib-group>
+<aff id="aff1">ONERA/DOTA, Univ. of Toulouse (France)</aff>
+<aff id="aff2">Argo AI, LLC (United States)</aff>
+<aff id="aff3">National Institute of Standards and Technology (United States)</aff>
+<aff id="aff4">MIT Lincoln Lab. (United States)</aff>
+<pub-date>
+<day>15</day>
+<month>6</month>
+<year>2023</year>
+</pub-date>
+<volume>12512</volume>
+<fpage>125120D</fpage>
+<lpage>125120D-7</lpage>
+<permissions>
+<copyright-statement>COPYRIGHT SPIE. Downloading of the abstract is permitted for personal use only.</copyright-statement>
+<copyright-year>2023</copyright-year>
+</permissions>
+<self-uri xlink:title="pdf" xlink:href="125120D.pdf"/>
+<abstract>
+ONERA – The French Aerospace Lab – develops new concepts of 3D-LiDAR imaging systems including new sensor technologies such as detector for photon counting and, associated data processing. The rising complexities and costs of high performance systems, and the shrinking time to design drove the ONERA approach. The home-grown MATLIS software has been evolving for the past decade. It allows both linear mode LiDAR and single photon electro-optical systems simulation (both GmAPD and SPL) embedded on dynamic platforms (eg. UAVs, Aircrafts). The static or dynamic 3D scene is fully described both in terms of geometry and optical properties (eg. reflectance, background illumination, and atmosphere). The scanning system and the platform motion are taken into account. Laser propagation is fully modelled including atmospheric effects such as turbulence, absorption, and backscattering in the forward and backward directions. Target interaction is angle dependent (temporal broadening and directional backscattering). Optical full-wave-form signal is computed in the focal plane of the imaging system. A 3D point cloud is generated using sensor models (including but not limited to APD, GmAPD, SiPM…). Here, we describe our end-to-end MATLIS software and present validation cases. Then, we apply a complete performance analysis study to design a novel and original concept of low-SWaP 3D-LiDAR to detect non-cooperative targets from a stratospheric surveillance platform.
+</abstract>
+<conference content-type="conf-level-1">
+<conf-date />
+<conf-name>Defense + Commercial Sensing</conf-name>
+<conf-acronym>DCS</conf-acronym>
+<conf-num>7</conf-num>
+</conference>
+<conference content-type="conf-level-2">
+<conf-date>2023-04-30|2023-05-05</conf-date>
+<conf-name>SPIE Defense + Commercial Sensing</conf-name>
+<conf-acronym>DCS23</conf-acronym>
+<conf-num>2619426</conf-num>
+<conf-loc>Orlando, Florida, United States</conf-loc>
+</conference>
+<conference content-type="volume">
+<conf-date />
+<conf-name>Advanced Photon Counting Techniques XVII</conf-name>
+<conf-num>12512</conf-num>
+</conference>
+<conference content-type="session">
+<conf-date />
+<conf-name>Lidar</conf-name>
+<conf-num>6</conf-num>
+</conference>
+</article-meta>
+</front>
+<back>
+</back>
+</article>

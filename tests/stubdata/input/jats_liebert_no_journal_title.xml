@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//Atypon//DTD Atypon Systems Journal Archiving and Interchange NLM DTD v3.0.7 20140828//EN" "atypon-archivearticle3.dtd">
+<article
+	xmlns:xlink="http://www.w3.org/1999/xlink"
+	xmlns:mml="http://www.w3.org/1998/Math/MathML"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table" dtd-version="3.0" xml:lang="en">
+	<front>
+		<journal-meta>
+			<journal-id journal-id-type="publisher-id">sus</journal-id>
+			<journal-title-group>
+				<abbrev-journal-title abbrev-type="full" xml:lang="en">Sustainability: The Journal of Record</abbrev-journal-title>
+				<abbrev-journal-title abbrev-type="pubmed" xml:lang="en">Sustainability</abbrev-journal-title>
+				<abbrev-journal-title abbrev-type="publisher" xml:lang="en">sus</abbrev-journal-title>
+			</journal-title-group>
+			<issn pub-type="ppub">1937-0695</issn>
+			<publisher>
+				<publisher-name>Mary Ann Liebert, Inc.</publisher-name>
+				<publisher-loc>
+					<addr-line>140 Huguenot Street, 3rd Floor</addr-line>
+					<addr-line>New Rochelle, NY 10801-5215</addr-line>
+					<country>USA</country>
+				</publisher-loc>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="publisher-id">sus.2017.29089</article-id>
+			<article-id pub-id-type="doi">10.1089/sus.2017.29089.aml</article-id>
+			<article-categories>
+				<subj-group subj-group-type="heading">
+					<subject>Guest Editorial</subject>
+				</subj-group>
+			</article-categories>
+			<title-group>
+				<article-title>Universities, Sustainability, and Nitrogen Pollution</article-title>
+			</title-group>
+			<contrib-group>
+				<contrib contrib-type="author" xlink:type="simple">
+					<string-name>
+						<given-names>Allison M.</given-names>
+						<x xml:space="preserve"></x>
+						<surname>Leach</surname>
+					</string-name>
+					<aff>Department of Natural Resources &amp; the Environment, The Sustainability Institute ,University of New Hampshire. Durham, New Hampshire</aff>
+				</contrib>
+				<contrib contrib-type="author" xlink:type="simple">
+					<string-name>
+						<given-names>Elizabeth A.</given-names>
+						<x xml:space="preserve"></x>
+						<surname>Castner</surname>
+					</string-name>
+					<aff>Department of Environmental Sciences, University of Virginia, Charlottesville, Virginia</aff>
+				</contrib>
+			</contrib-group>
+			<pub-date pub-type="ppub">
+				<month>04</month>
+				<year>2017</year>
+				<string-date>April 2017</string-date>
+			</pub-date>
+			<volume>10</volume>
+			<issue>2</issue>
+			<fpage>68</fpage>
+			<lpage>70</lpage>
+			<permissions>
+				<copyright-statement>&copy;2017 by Mary Ann Liebert, Inc.</copyright-statement>
+				<copyright-year>2017</copyright-year>
+			</permissions>
+			<self-uri content-type="pdf" xlink:href="sus.2017.29089.aml.pdf" xlink:type="simple"></self-uri>
+			<counts>
+				<page-count count="3"></page-count>
+			</counts>
+		</article-meta>
+	</front>
+</article>

@@ -1,0 +1,67 @@
+<?xml version="1.0"?>
+<record>
+  <header>
+    <identifier>info:doi/10.1007%2F978-1-4614-3520-4</identifier>
+    <datestamp>2019-05-15</datestamp>
+    <setSpec>B</setSpec>
+    <setSpec>B:10.1007</setSpec>
+    <setSpec>B:10.1007:1133679</setSpec>
+    <setSpec>S</setSpec>
+    <setSpec>S:10.1007</setSpec>
+    <setSpec>S:10.1007:272354</setSpec>
+  </header>
+  <metadata>
+    <crossref xmlns="http://www.crossref.org/xschema/1.1" xsi:schemaLocation="http://www.crossref.org/xschema/1.1 http://www.crossref.org/schema/unixref1.1.xsd">
+      <book book_type="other">
+        <book_series_metadata language="en">
+          <series_metadata>
+            <titles>
+              <title>Lecture Notes in Statistics</title>
+            </titles>
+            <issn media_type="print">0930-0325</issn>
+          </series_metadata>
+          <contributors>
+            <person_name contributor_role="editor" sequence="first">
+              <given_name>Eric D.</given_name>
+              <surname>Feigelson</surname>
+            </person_name>
+            <person_name contributor_role="editor" sequence="additional">
+              <given_name>G. Jogesh</given_name>
+              <surname>Babu</surname>
+            </person_name>
+          </contributors>
+          <titles>
+            <title>Statistical Challenges in Modern Astronomy V</title>
+          </titles>
+          <volume>902</volume>
+          <publication_date media_type="print">
+            <year>2012</year>
+          </publication_date>
+          <isbn media_type="print">978-1-4614-3519-8</isbn>
+          <isbn media_type="electronic">978-1-4614-3520-4</isbn>
+          <publisher>
+            <publisher_name>Springer New York</publisher_name>
+            <publisher_place>New York, NY</publisher_place>
+          </publisher>
+          <program xmlns:ai="http://www.crossref.org/AccessIndicators.xsd" name="AccessIndicators">
+            <ai:license_ref applies_to="tdm">http://www.springer.com/tdm</ai:license_ref>
+          </program>
+          <doi_data>
+            <doi>10.1007/978-1-4614-3520-4</doi>
+            <resource>http://link.springer.com/10.1007/978-1-4614-3520-4</resource>
+            <collection property="crawler-based">
+              <item crawler="iParadigms">
+                <resource>http://link.springer.com/content/pdf/10.1007/978-1-4614-3520-4</resource>
+              </item>
+            </collection>
+            <collection property="text-mining">
+              <item>
+                <resource mime_type="application/pdf">http://link.springer.com/content/pdf/10.1007/978-1-4614-3520-4.pdf</resource>
+              </item>
+            </collection>
+          </doi_data>
+        </book_series_metadata>
+      </book>
+    </crossref>
+  </metadata>
+</record>

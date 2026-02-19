@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component xmlns="http://www.wiley.com/namespaces/wiley" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:wiley="http://www.wiley.com/namespaces/wiley/wiley" type="serialArticle" version="1.0.3" xml:lang="en" xml:id="swe461">
+<header>
+<publicationMeta level="product">
+<doi>10.1002/(ISSN)1542-7390</doi>
+<issn type="print">1542-7390</issn>
+<issn type="electronic">1542-7390</issn>
+<idGroup>
+<id type="product" value="SWE"/>
+<id type="coden" value="SWPEAX"/>
+</idGroup>
+<titleGroup>
+<title type="main" xml:lang="en" sort="SPACE WEATHER">Space Weather</title>
+<title type="short">Space Weather</title>
+</titleGroup>
+</publicationMeta>
+<publicationMeta level="part" position="70">
+<doi>10.1002/swe.v9.7</doi>
+<numberingGroup>
+<numbering type="journalVolume" number="9">9</numbering>
+<numbering type="journalIssue">7</numbering>
+</numberingGroup>
+<coverDate startDate="2011-07">July 2011</coverDate>
+</publicationMeta>
+<publicationMeta level="unit" position="80" type="news" status="forIssue">
+<doi>10.1029/2011SW000680</doi>
+<idGroup>
+<id type="editorialOffice" value="2011SW000680"/>
+<id type="society" value="S07007"/>
+<id type="unit" value="SWE461"/>
+</idGroup>
+<countGroup>
+<count type="pageTotal" number="2"/>
+</countGroup>
+<copyright ownership="thirdParty">Copyright 2011 by the American Geophysical Union.</copyright>
+<eventGroup>
+<event type="firstOnline" date="2011-07-28"/>
+<event type="publishedOnlineFinalForm" date="2011-07-28"/>
+<event type="xmlConverted" agent="SPi Global Converter:AGUv3.44_TO_WileyML3Gv1.0.3 version:1.2; WileyML 3G Packaging Tool v1.0; WileyML 3G Packaging Tool v1.0" date="2012-12-14"/>
+</eventGroup>
+<numberingGroup>
+<numbering type="pageFirst">n/a</numbering>
+<numbering type="pageLast">n/a</numbering>
+</numberingGroup>
+<subjectInfo>
+SPACE WEATHER
+<subjectInfo>
+Geomagnetically induced currents
+</subjectInfo>
+</subjectInfo>
+
+</publicationMeta>
+<contentMeta>
+<countGroup>
+<count type="wordTotal" number="700"/>
+</countGroup>
+<titleGroup>
+<title type="main">European Project to Improve Models of Geomagnetically Induced Currents</title>
+<title type="shortAuthors">Viljanen</title>
+</titleGroup>
+<creators>
+<creator creatorRole="author" xml:id="swe461-cr-0001" affiliationRef="#swe461-aff-0001">
+<personName><givenNames>Ari</givenNames> <familyName>Viljanen</familyName></personName>
+</creator>
+</creators>
+<affiliationGroup>
+<affiliation type="organization" xml:id="swe461-aff-0001">
+<unparsedAffiliation>Senior scientist at the Finnish Meteorological Institute, in Helsinki, Finland. E‐mail: ari.viljanen@fmi.fi</unparsedAffiliation>
+</affiliation>
+</affiliationGroup>
+<keywordGroup type="author">
+<keyword xml:id="swe461-kwd-0001">geomagnetically induced currents</keyword>
+</keywordGroup>
+<abstractGroup>
+<abstract type="main">
+<p xml:id="swe461-para-0001" label="1">Geomagnetically induced currents (GICs) from solar storms pose a risk to the operation of power transmission grids in Europe and across the globe. The European Risk from Geomagnetically Induced Currents (EURISGIC) project, which began in March 2011 and is supported by the Seventh Framework Programme of the European Union, seeks to mitigate this natural hazard by developing European capabilities for GIC forecasting and warning. Recent well‐recognized GIC events were the province‐wide blackout in Quebec, Canada, in March 1989 and the blackout in the city of Malmö, in southern Sweden, during the Halloween storm of October 2003. The progressive integration of interconnected and geographically wide power transmission grids is obviously increasing the GIC risk. Hence, there is a need for greater scientific understanding of phenomena in the solar‐terrestrial environment that lead to GICs and for the development of systems that facilitate GIC modeling, forecasting, and mitigation.</p>
+</abstract>
+<abstract type="short">
+<title type="main">Key Points</title>
+<p xml:id="swe461-para-0002">
+<list style="bulleted">
+<listItem>First European‐wide real‐time prototype forecast service of GIC to be developed</listItem>
+<listItem>First map of the statistical risk of large GIC throughout Europe to be compiled</listItem>
+</list></p>
+</abstract>
+</abstractGroup>
+</contentMeta>
+</header>
+</component>

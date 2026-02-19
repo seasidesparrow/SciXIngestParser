@@ -1,0 +1,3676 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article
+	xmlns:mml="http://www.w3.org/1998/Math/MathML"
+	xmlns:xlink="http://www.w3.org/1999/xlink"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" article-type="article" dtd-version="1.0" specific-use="syndication">
+	<front>
+		<journal-meta>
+			<journal-id journal-id-type="coden">PHFLE6</journal-id>
+			<journal-title-group>
+				<journal-title>Physics of Fluids</journal-title>
+				<abbrev-journal-title>Phys. Fluids</abbrev-journal-title>
+			</journal-title-group>
+			<issn pub-type="ppub">1070-6631</issn>
+			<issn pub-type="epub">1089-7666</issn>
+			<publisher>
+				<publisher-name>AIP Publishing LLC</publisher-name>
+				<publisher-name specific-use="short-name">AIP Publishing</publisher-name>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="doi">10.1063/5.0218452</article-id>
+			<article-id pub-id-type="publisher-id:aipkey">5.0218452</article-id>
+			<article-id pub-id-type="manuscript">POF24-AR-CIVL2023-05152</article-id>
+			<article-categories>
+				<subj-group subj-group-type="toc-heading">
+					<subject>ARTICLES</subject>
+					<subj-group>
+						<subject>Viscous and Non-Newtonian Flows</subject>
+					</subj-group>
+				</subj-group>
+				<subj-group subj-group-type="special-collections">
+					<compound-subject>
+						<compound-subject-part content-type="label">Flow and Civil Structures</compound-subject-part>
+						<compound-subject-part content-type="code">CIVL2023</compound-subject-part>
+					</compound-subject>
+				</subj-group>
+			</article-categories>
+			<title-group>
+				<article-title>Study on debris flow discharge characteristics of check dam spillway</article-title>
+				<fn-group>
+					<fn fn-type="title-note">
+						<p>
+							<bold>Note:</bold> This paper is part of the special topic, Flow and Civil Structures.
+						</p>
+					</fn>
+				</fn-group>
+			</title-group>
+			<contrib-group>
+				<contrib contrib-type="author">
+					<contrib-id contrib-id-type="orcid">https://orcid.org/0009-0008-5992-6963</contrib-id>
+					<name-alternatives>
+						<name name-style="western">
+							<surname>Zhang</surname>
+							<given-names>Wen-tao</given-names>
+						</name>
+						<string-name name-style="eastern" xml:lang="zh">张文涛</string-name>
+					</name-alternatives>
+					<xref ref-type="aff" rid="a1 a2">1,2</xref>
+				</contrib>
+				<contrib contrib-type="author" corresp="yes">
+					<contrib-id contrib-id-type="orcid">https://orcid.org/0000-0002-5542-827X</contrib-id>
+					<name-alternatives>
+						<name name-style="western">
+							<surname>Liu</surname>
+							<given-names>Jin-feng</given-names>
+						</name>
+						<string-name name-style="eastern" xml:lang="zh">柳金峰</string-name>
+					</name-alternatives>
+					<xref ref-type="aff" rid="a1">1</xref>
+					<xref ref-type="corresp" rid="cor1">a)</xref>
+					<email specific-use="metadata" xlink:href="mailto:liujf@imde.ac.cn"/>
+				</contrib>
+				<contrib contrib-type="author">
+					<contrib-id contrib-id-type="orcid">https://orcid.org/0009-0002-5347-6048</contrib-id>
+					<name-alternatives>
+						<name name-style="western">
+							<surname>Xu</surname>
+							<given-names>Zheng-xuan</given-names>
+						</name>
+						<string-name name-style="eastern" xml:lang="zh">徐正宣</string-name>
+					</name-alternatives>
+					<xref ref-type="aff" rid="a3">3</xref>
+				</contrib>
+				<contrib contrib-type="author">
+					<contrib-id contrib-id-type="orcid">https://orcid.org/0009-0000-8492-6975</contrib-id>
+					<name-alternatives>
+						<name name-style="western">
+							<surname>He</surname>
+							<given-names>Ping</given-names>
+						</name>
+						<string-name name-style="eastern" xml:lang="zh">何平</string-name>
+					</name-alternatives>
+					<xref ref-type="aff" rid="a3">3</xref>
+				</contrib>
+				<contrib contrib-type="author">
+					<contrib-id contrib-id-type="orcid">https://orcid.org/0000-0001-7863-8686</contrib-id>
+					<name-alternatives>
+						<name name-style="western">
+							<surname>You</surname>
+							<given-names>Yong</given-names>
+						</name>
+						<string-name name-style="eastern" xml:lang="zh">游勇</string-name>
+					</name-alternatives>
+					<xref ref-type="aff" rid="a1">1</xref>
+				</contrib>
+				<contrib contrib-type="author">
+					<contrib-id contrib-id-type="orcid">https://orcid.org/0000-0001-9300-5553</contrib-id>
+					<name-alternatives>
+						<name name-style="western">
+							<surname>Sun</surname>
+							<given-names>Hao</given-names>
+						</name>
+						<string-name name-style="eastern" xml:lang="zh">孙昊</string-name>
+					</name-alternatives>
+					<xref ref-type="aff" rid="a1">1</xref>
+				</contrib>
+				<contrib contrib-type="author">
+					<contrib-id contrib-id-type="orcid">https://orcid.org/0009-0006-9333-3104</contrib-id>
+					<name-alternatives>
+						<name name-style="western">
+							<surname>Yang</surname>
+							<given-names>Hua-quan</given-names>
+						</name>
+						<string-name name-style="eastern" xml:lang="zh">杨华铨</string-name>
+					</name-alternatives>
+					<xref ref-type="aff" rid="a1 a2">1,2</xref>
+				</contrib>
+				<aff id="a1">
+					<label>1</label>
+					<institution>Key Laboratory of Mountain Hazards and Earth Surface Process, CAS</institution>, Chengdu 610299,
+					<country>China</country>
+				</aff>
+				<aff id="a2">
+					<label>2</label>
+					<institution>University of Chinese Academy of Science</institution>, Beijing 100049,
+					<country>China</country>
+				</aff>
+				<aff id="a3">
+					<label>3</label>
+					<institution>China Railway Eryuan Engineering Group Company, Ltd.</institution>, Chengdu 610031,
+					<country>China</country>
+				</aff>
+			</contrib-group>
+			<author-notes>
+				<corresp id="cor1">
+					<label>a)</label>
+					<bold>Author to whom correspondence should be addressed:</bold>
+					<ext-link ext-link-type="email" xlink:href="mailto:liujf@imde.ac.cn">liujf@imde.ac.cn</ext-link>
+				</corresp>
+			</author-notes>
+			<pub-date pub-type="ppub">
+				<month>08</month>
+				<year>2024</year>
+			</pub-date>
+			<volume>36</volume>
+			<issue>8</issue>
+			<elocation-id seq="1">083120</elocation-id>
+			<history>
+				<date date-type="received">
+					<day>11</day>
+					<month>05</month>
+					<year>2024</year>
+				</date>
+				<date date-type="accepted">
+					<day>20</day>
+					<month>07</month>
+					<year>2024</year>
+				</date>
+				<date date-type="published">
+					<day>26</day>
+					<month>08</month>
+					<year>2024</year>
+				</date>
+			</history>
+			<permissions>
+				<copyright-statement>© 2024 Author(s).</copyright-statement>
+				<copyright-year>2024</copyright-year>
+				<copyright-holder>Author(s)</copyright-holder>
+				<license license-type="exclusive">
+					<license-p>Published under an exclusive license by AIP Publishing.</license-p>
+				</license>
+			</permissions>
+			<abstract>
+				<p>After a check dam is filled with sediment, the debris flow will flow out from the spillway. Insufficient discharge capacity of the spillway can lead to debris flow scouring the dam's shoulder and foundation. Therefore, it is necessary to study the discharge capacity of the spillway. It is of great importance for further optimizing the structural design of the check dam. This article analyzes discharge characteristics of debris flow of a spillway through a series of flume experiments. According to the motion states, it can be divided into five stages: contact stage of the spillway, flushing and climbing stage, increasing and reflux stage, stable discharge stage, and final discharge stage. We analyzed the influencing factors of the discharge capacity, including the type of spillway, bulk density of debris flow, scale of debris flow, flume gradient, and effective opening width of the spillway. Furthermore, we derived a calculation formula of discharge for the spillway based on Bernoulli's principle. Finally, we considered the influence of the ratio of flow area and Froude number to the discharge coefficient and established a calculation method of discharge. Consequently, we compared the calculated results with the measured results and found them to be in good agreement. Our research results provide a quantitative calculation method for the design of spillways and energy dissipation and erosion prevention projects under check dams, which is beneficial for improving engineering value and for better serving disaster prevention and reduction efforts.</p>
+			</abstract>
+			<funding-group specific-use="FundRef">
+				<award-group>
+					<funding-source>
+						<named-content content-type="funder_name">National Natural Science Foundation of China</named-content>
+						<named-content content-type="funder_identifier">10.13039/501100001809</named-content>
+					</funding-source>
+					<award-id award-type="contract">42201095</award-id>
+				</award-group>
+				<award-group>
+					<funding-source>
+						<named-content content-type="funder_name">Sichuan Provincial Postdoctoral Science Foundation</named-content>
+						<named-content content-type="funder_identifier">10.13039/100017939</named-content>
+					</funding-source>
+					<award-id award-type="contract">TB2023028</award-id>
+				</award-group>
+			</funding-group>
+			<counts>
+				<page-count count="11"/>
+			</counts>
+			<custom-meta-group>
+				<custom-meta>
+					<meta-name>crossmark</meta-name>
+					<meta-value/>
+				</custom-meta>
+			</custom-meta-group>
+		</article-meta>
+	</front>
+	<body>
+		<sec id="s1">
+			<label>I.</label>
+			<title>INTRODUCTION</title>
+			<p>As a natural disaster, debris flow poses great harm (
+				<xref ref-type="bibr" rid="c15">Cucchiaro
+					<italic>et al.</italic>, 2019
+				</xref>). Check dams are one of the most effective prevention and control measures to deal with debris flow disasters (
+				<xref ref-type="bibr" rid="c27">Jakob
+					<italic>et al.</italic>, 2005
+				</xref>;
+				<xref ref-type="bibr" rid="c20">Hübl and Suda, 2008</xref>; and
+				<xref ref-type="bibr" rid="c39">Piton and Recking, 2017</xref>). However, some engineering problems may also arise, as demonstrated by the 2003 Fukang mudslide incident, where the toe of the check dam was severely eroded by sediment (
+				<xref ref-type="bibr" rid="c42">Remaître, 2006</xref>;
+				<xref ref-type="bibr" rid="c43">Remaître
+					<italic>et al.</italic>, 2008
+				</xref>). Similarly, in the Wenchuan County area of Sichuan Province, China, the erosion caused by debris flow led to the suspension of dam foundation (
+				<xref ref-type="bibr" rid="c70">Cai, 2012</xref>) and damage to the apron and the submerged dam (
+				<xref ref-type="bibr" rid="c57">Zhang
+					<italic>et al.</italic>, 2023
+				</xref>). The crest of the check dam is usually designed as a spillway that can transfer the instantaneous peak flow of extreme events (
+				<xref ref-type="bibr" rid="c53">VanDine, 1996</xref>;
+				<xref ref-type="bibr" rid="c38">Ono
+					<italic>et al.</italic>, 2004
+				</xref>; and
+				<xref ref-type="bibr" rid="c46">Rudolf-Miklau and Suda, 2012</xref>). In erosion events, insufficient discharge capacity of the spillway can also lead to debris flow scouring the dam's shoulder and foundation. Therefore, it is necessary to conduct research on the discharge capacity of spillways.
+			</p>
+			<p>Many scholars have conducted relevant research on the discharge capacity of a spillway, mainly treating overflow at the spillway as weir flow, including pointed and wide topped weirs (
+				<xref ref-type="bibr" rid="c40">Piton and Recking, 2016</xref>;
+				<xref ref-type="bibr" rid="c37">Negm
+					<italic>et al.</italic>, 2002
+				</xref>). They mainly model the calculation of discharge coefficient (
+				<xref ref-type="bibr" rid="c4">Aydin
+					<italic>et al.</italic>, 2011
+				</xref>;
+				<xref ref-type="bibr" rid="c45">Roushangar
+					<italic>et al.</italic>, 2018
+				</xref>).
+				<xref ref-type="bibr" rid="c49">Sargison and Percy (2009)</xref> analyzed the influence of upstream and downstream slope on the discharge coefficient of wide crest weirs. Scholars have also accurately measured and predicted the discharge calculation models of composite weirs and wide crest weirs with different shapes (
+				<xref ref-type="bibr" rid="c33">Martinez
+					<italic>et al.</italic>, 2005
+				</xref>;
+				<xref ref-type="bibr" rid="c48">Salmasi, 2011</xref>). The discharge calculation formula should be revised based on dimensional analysis and other theories and applied to different types of weirs (
+				<xref ref-type="bibr" rid="c5">Bijankhan
+					<italic>et al.</italic>, 2013
+				</xref>;
+				<xref ref-type="bibr" rid="c16">Ferro, 2012</xref>). Based on the principle of equal weir flow and wave flow, the relationship between the maximum discharge of instantaneous dam failure and weir flow should be established (
+				<xref ref-type="bibr" rid="c71">Fang, 2012</xref>). The overflow of spillway mentioned earlier is mostly studied in the context of water conservancy, and there is relatively little research on the debris flow. Due to its unique fluid properties, debris flow differs from water flow.
+			</p>
+			<p>In terms of debris flow, some have established a relationship between the discharge of water and sediment, the opening of dam, and sediment characteristics (
+				<xref ref-type="bibr" rid="c1">Armanini and Larcher, 2001</xref>;
+				<xref ref-type="bibr" rid="c2">Armanini
+					<italic>et al.</italic>, 2006
+				</xref>).
+				<xref ref-type="bibr" rid="c35">Mizuyama
+					<italic>et al.</italic> (1994)
+				</xref> conducted a study on the discharge coefficient and downstream sedimentation morphology of dam.
+				<xref ref-type="bibr" rid="c54">Wang (1996)</xref> established a formula for calculating the discharge capacity of a spillway. However, they did not have a standard for selecting discharge coefficient.
+				<xref ref-type="bibr" rid="c73">Lin (2015)</xref> explored the formula for calculating the discharge of debris flows through the spillway, but he did not eliminate the influence of dimensionality. Scholars have estimated the discharge coefficient of debris flow while considering sediment concentration (
+				<xref ref-type="bibr" rid="c30">Kim
+					<italic>et al.</italic>, 2019
+				</xref>), but they have overlooked the impact of the spillway.
+				<xref ref-type="bibr" rid="c74">Zheng (2019)</xref> established a relationship between the discharge morphology of mud tongue and factors such as bulk density, particle size distribution, and longitudinal slope. Some scholars have also predicted the trajectory of debris flow after passing through the spillway (
+				<xref ref-type="bibr" rid="c10">Chen
+					<italic>et al.</italic>, 2016a
+				</xref>,
+				<xref ref-type="bibr" rid="c11">2016b</xref>). Furthermore, they considered the impact of the spillway with different lateral shrinkage rates on the energy dissipation rate of debris flow on the thrust body (
+				<xref ref-type="bibr" rid="c10">Chen
+					<italic>et al.</italic>, 2016a
+				</xref>,
+				<xref ref-type="bibr" rid="c11">2016b</xref>). However, their studies focus mainly on the movement characteristics of debris flows after passing through spillway, and there is relatively little research on the process of passing through a spillway.
+			</p>
+			<p>After the check dam is filled with sediment, the debris flow will flow out of the spillway. To study the discharge capacity of the spillway, we conducted model experiments. Based on the assumption that the check dam is full, we theoretically derived a calculation formula for discharge. Furthermore, we selected five factors, including the type of spillway, bulk density, scale, slope, and effective opening width, to analyze their impact on discharge characteristics and discharge capacity. We also considered the impact of the contraction effect of the spillway on the discharge coefficient. Finally, a calculation formula for the discharge capacity was established. This provides a quantitative calculation method for the design of the spillway of the check dam and energy dissipation and erosion prevention project under the dam, which is beneficial for improving the engineering value and better serving disaster prevention and reduction efforts.</p>
+		</sec>
+		<sec id="s2">
+			<label>II.</label>
+			<title>MATERIALS AND METHODS</title>
+			<sec id="s2A">
+				<label>A.</label>
+				<title>Similarity analysis</title>
+				<p>The design basis for model experiments is similarity theory. Only when model meets the similarity condition with actual situation can situation in the prototype be inferred from the results of the model experiments. It is generally believed that both the model and prototype must satisfy the three major similarities of geometric similarity, kinematic similarity, and dynamic similarity in principle. Considering the scale effect of flume experiments, we refer to the method proposed by
+					<xref ref-type="bibr" rid="c50">Scheidl
+						<italic>et al.</italic> (2013)
+					</xref> and
+					<xref ref-type="bibr" rid="c51">Scheidl
+						<italic>et al.</italic> (2015)
+					</xref>. For kinematic similarity and dynamic similarity,
+					<xref ref-type="bibr" rid="c75">Zhang (1989)</xref> believes that for models with short river sections, where water flow changes significantly along the course and there is severe interference from hydraulic structures, or where Froude numbers are high, the influence of resistance is relatively small compared to the influence of the inertial force. Therefore, only similarity of inertial force to gravity ratio can be considered, while similarity of resistance to gravity ratio allows for certain deviations.
+					<xref ref-type="bibr" rid="c23">Iverson (1997)</xref> also believes that for dynamic similarity criterion between model experiments of debris flow and prototype events of debris flow, if the Froude number is equal, it can approximate momentum transport and dynamic stress characteristics of debris flow to a certain extent. Consequently, physical model experiment of this study should follow the principle that the Froude number of simulated debris flow and prototype debris flow is equal. Considering the influence of slope of flume (
+					<xref ref-type="bibr" rid="c52">Sun
+						<italic>et al.</italic>, 2021
+					</xref>), the Froude number is expressed as
+
+					<disp-formula id="d1">
+						<mml:math display="block" overflow="scroll">
+							<mml:mrow>
+								<mml:mi>F</mml:mi>
+								<mml:mi>r</mml:mi>
+								<mml:mo>=</mml:mo>
+								<mml:mfrac>
+									<mml:mi>v</mml:mi>
+									<mml:mrow>
+										<mml:msqrt>
+											<mml:mrow>
+												<mml:mi>g</mml:mi>
+												<mml:mi>h</mml:mi>
+												<mml:mo></mml:mo>
+												<mml:mtext>cos</mml:mtext>
+												<mml:mo></mml:mo>
+												<mml:mi>θ</mml:mi>
+											</mml:mrow>
+										</mml:msqrt>
+									</mml:mrow>
+								</mml:mfrac>
+							</mml:mrow>
+							<mml:mo>,</mml:mo>
+						</mml:math>
+						<label>(1)</label>
+					</disp-formula>where,
+					<inline-formula>
+						<mml:math display="inline" overflow="scroll">
+							<mml:mi>v</mml:mi>
+						</mml:math>
+					</inline-formula> is the velocity of debris flow fluid, m/s;
+					<inline-formula>
+						<mml:math display="inline" overflow="scroll">
+							<mml:mi>g</mml:mi>
+						</mml:math>
+					</inline-formula> is the acceleration of gravity, m/s
+					<sup>2</sup>;
+					<inline-formula>
+						<mml:math display="inline" overflow="scroll">
+							<mml:mi>h</mml:mi>
+						</mml:math>
+					</inline-formula> is the characteristic length of the fluid, which is the depth of debris flow, m;
+					<inline-formula>
+						<mml:math display="inline" overflow="scroll">
+							<mml:mi>θ</mml:mi>
+						</mml:math>
+					</inline-formula> is the slope of the flume.
+				</p>
+			</sec>
+			<sec id="s2B">
+				<label>B.</label>
+				<title>Experimental equipment and devices</title>
+				<p>The experimental setup includes a flume with a hopper for storing debris flow of the test, and the dimensions of the channel are 4000 × 200 × 300 mm
+					<sup>3</sup>. Observation equipment includes four high-speed cameras (GoPro HERO7 Black, 1080p, 240 frames/s), which are used to capture the motion state of debris flow when it passes through the spillway.
+				</p>
+				<p>A mud meter (with a collection frequency of 2000 Hz and a measurement accuracy of 0.1 mm) records real-time changes in the mud level before and after the debris flow passes through the spillway. The spillway model is placed at the tail of flume, and a recycling bin is arranged directly below the spillway model to recycle debris flow samples. The experimental equipment and devices are shown in
+					<xref ref-type="fig" rid="f1">Fig. 1</xref>.
+				</p>
+				<fig fig-type="figure" id="f1" orientation="portrait" position="float">
+					<label>FIG. 1.</label>
+					<caption>
+						<p>Experimental equipment and devices.</p>
+					</caption>
+					<graphic orientation="portrait" position="float" xlink:href="f1"/>
+				</fig>
+			</sec>
+			<sec id="s2C">
+				<label>C.</label>
+				<title>Experimental material</title>
+				<p>Materials used in the experiment were taken from debris flow accumulation area in the Gan gully in Longmenshan Town, Pengzhou City, China. To reduce possible impact of boundary effects on the results, the particle size of the largest particle in the selected debris flow needs to be less than or equal to 1/5 of the width of the flume. Therefore, coarse gravel with a diameter greater than 40 mm is manually screened, and only the original debris flow samples with a diameter of less than 40 mm are retained. The maximum characteristic particle size is d
+					<sub>90</sub> = 20 mm, the median particle size is d
+					<sub>50</sub> = 4, and d
+					<sub>30</sub> = 20 mm. The particle size distribution curve obtained is shown in
+					<xref ref-type="fig" rid="f2">Fig. 2</xref>.
+				</p>
+				<fig fig-type="figure" id="f2" orientation="portrait" position="float">
+					<label>FIG. 2.</label>
+					<caption>
+						<p>The particle size distribution curve.</p>
+					</caption>
+					<graphic orientation="portrait" position="float" xlink:href="f2"/>
+				</fig>
+			</sec>
+			<sec id="s2D">
+				<label>D.</label>
+				<title>Experimental design</title>
+				<p>The variable parameters selected for the experiment are mainly of three types: parameters of debris flow, parameters of channel, and parameters of the spillway, as shown in
+					<xref ref-type="table" rid="t1">Table I</xref>. Parameters of debris flow include bulk density (13, 15, 17, 19, and 21 kN/m
+					<sup>3</sup>) and scale (10, 15, 20, 25, and 30 l). After a field investigation, it was found that when the check dam was filled with sediment, its longitudinal slope was relatively gentle, mostly between 0.05 and 0.15 (
+					<xref ref-type="bibr" rid="c77">Zhang, 2021</xref>). Accordingly, to better simulate actual gullies, we set the slope of the flume to be between 5° and 9°. Parameters of the spillway include the type of spillway (rectangular or trapezoidal) and the opening form of the spillway (depth of wide-shallow type is 100 mm, depth of general type is 150 mm, depth of narrow-deep type is 200 mm). In order to compare the influence of the parameters of the spillway on discharge, we kept the area of the spillway unchanged, all of which were 15 000 mm
+					<sup>2</sup>. Experimental parameters are shown in
+					<xref ref-type="table" rid="t1">Table I</xref>.
+				</p>
+				<table-wrap id="t1" orientation="portrait" position="float">
+					<label>TABLE I.</label>
+					<caption>
+						<p>Experimental parameters.</p>
+					</caption>
+					<table border="1">
+						<colgroup span="1">
+							<col align="left" span="1"/>
+							<col align="center" span="1"/>
+							<col align="center" span="1"/>
+							<col align="center" span="1"/>
+							<col align="center" span="1"/>
+						</colgroup>
+						<thead>
+							<tr>
+								<th align="left" colspan="2" rowspan="1">Parameters of the debris flow</th>
+								<th align="center" colspan="1" rowspan="1">Parameters of the channel</th>
+								<th align="center" colspan="2" rowspan="1">Parameters of the spillway</th>
+							</tr>
+							<tr>
+								<th align="left" colspan="1" rowspan="1">Bulk density (kN/m
+									<sup>3</sup>)
+								</th>
+								<th align="center" colspan="1" rowspan="1">Scale (L)</th>
+								<th align="center" colspan="1" rowspan="1">Slope of flume</th>
+								<th align="center" colspan="1" rowspan="1">Type</th>
+								<th align="center" colspan="1" rowspan="1">Opening form</th>
+							</tr>
+						</thead>
+						<tbody>
+							<tr>
+								<td colspan="1" rowspan="1">13, 15, 17, 19, 21</td>
+								<td colspan="1" rowspan="1">10, 15, 20, 25, 30</td>
+								<td colspan="1" rowspan="1">5°, 6°, 7°, 8°, 9°</td>
+								<td colspan="1" rowspan="1">Rectangle, trapezium</td>
+								<td colspan="1" rowspan="1">Wide-shallow type (depth is 100 mm), general type (depth is 150 mm), narrow-deep type (depth is 200 mm)</td>
+							</tr>
+						</tbody>
+					</table>
+				</table-wrap>
+			</sec>
+		</sec>
+		<sec id="s3">
+			<label>III.</label>
+			<title>THEORETICAL MODEL</title>
+			<sec id="s3A">
+				<label>A.</label>
+				<title>Theoretical hypothesis</title>
+				<p>Debris flow passing through the spillway is complex, turbulent non-Newtonian fluid, and determining assumptions can help simplify treatment. Therefore, we assume that the distribution of the two-phase fluid near the spillway is uniform. Furthermore, temperature is constant when the debris flow contacts with the spillway, and there is no velocity difference between solid and liquid phases. At the same time, we assume that the velocity distribution of the debris flow passing through the spillway is equal and the mud depth is consistent across the entire section. Since we are considering the situation where the check dam is filled with sediment, we have ignored the material exchange between debris flow and sediment in the original gully.</p>
+			</sec>
+			<sec id="s3B">
+				<label>B.</label>
+				<title>Analysis of discharge capacity of debris flow</title>
+				<p>The debris flow passing through the spillway can be regarded as the overflow of a wide crest weir (
+					<xref ref-type="bibr" rid="c73">Lin, 2015</xref>). However, unlike overflow of a wide crest weir, there is a slope of sedimentation behind the check dam. We take the 0–0 section as the reference plane, as shown in
+					<xref ref-type="fig" rid="f3">Fig. 3</xref>. For a certain upstream section 1 and section 2 at the spillway, the Bernoulli energy conservation equation can be used to obtain the following:
+
+					<disp-formula id="d2">
+						<mml:math display="block" overflow="scroll">
+							<mml:mrow>
+								<mml:msub>
+									<mml:mi>h</mml:mi>
+									<mml:mn>1</mml:mn>
+								</mml:msub>
+								<mml:mo>+</mml:mo>
+								<mml:mi>l</mml:mi>
+								<mml:mo>⋅</mml:mo>
+								<mml:mo></mml:mo>
+								<mml:mtext>tan</mml:mtext>
+								<mml:mo></mml:mo>
+								<mml:mi>θ</mml:mi>
+								<mml:mo>+</mml:mo>
+								<mml:mfrac>
+									<mml:mrow>
+										<mml:msubsup>
+											<mml:mi>v</mml:mi>
+											<mml:mn>1</mml:mn>
+											<mml:mn>2</mml:mn>
+										</mml:msubsup>
+									</mml:mrow>
+									<mml:mrow>
+										<mml:mn>2</mml:mn>
+										<mml:mi>g</mml:mi>
+									</mml:mrow>
+								</mml:mfrac>
+								<mml:mo>=</mml:mo>
+								<mml:msub>
+									<mml:mi>h</mml:mi>
+									<mml:mn>2</mml:mn>
+								</mml:msub>
+								<mml:mo>+</mml:mo>
+								<mml:mfrac>
+									<mml:mrow>
+										<mml:msubsup>
+											<mml:mi>v</mml:mi>
+											<mml:mn>2</mml:mn>
+											<mml:mn>2</mml:mn>
+										</mml:msubsup>
+									</mml:mrow>
+									<mml:mrow>
+										<mml:mn>2</mml:mn>
+										<mml:mi>g</mml:mi>
+									</mml:mrow>
+								</mml:mfrac>
+							</mml:mrow>
+							<mml:mo>,</mml:mo>
+						</mml:math>
+						<label>(2)</label>
+					</disp-formula>where
+					<inline-formula>
+						<mml:math display="inline" overflow="scroll">
+							<mml:mrow>
+								<mml:msub>
+									<mml:mi>h</mml:mi>
+									<mml:mn>1</mml:mn>
+								</mml:msub>
+							</mml:mrow>
+						</mml:math>
+					</inline-formula> is the mud depth of section 1, m;
+					<inline-formula>
+						<mml:math display="inline" overflow="scroll">
+							<mml:mrow>
+								<mml:msub>
+									<mml:mi>h</mml:mi>
+									<mml:mn>2</mml:mn>
+								</mml:msub>
+							</mml:mrow>
+						</mml:math>
+					</inline-formula> is the mud depth of section 2, m;
+					<inline-formula>
+						<mml:math display="inline" overflow="scroll">
+							<mml:mrow>
+								<mml:msub>
+									<mml:mi>v</mml:mi>
+									<mml:mn>1</mml:mn>
+								</mml:msub>
+							</mml:mrow>
+						</mml:math>
+					</inline-formula> is the velocity of debris flow of section 1, m/s;
+					<inline-formula>
+						<mml:math display="inline" overflow="scroll">
+							<mml:mrow>
+								<mml:msub>
+									<mml:mi>v</mml:mi>
+									<mml:mn>2</mml:mn>
+								</mml:msub>
+							</mml:mrow>
+						</mml:math>
+					</inline-formula> is the velocity of debris flow of section 2, m/s;
+					<inline-formula>
+						<mml:math display="inline" overflow="scroll">
+							<mml:mi>θ</mml:mi>
+						</mml:math>
+					</inline-formula> is the slope of the flume, which is the slope when the check dam is filled with sediment;
+					<inline-formula>
+						<mml:math display="inline" overflow="scroll">
+							<mml:mi>l</mml:mi>
+						</mml:math>
+					</inline-formula> is the distance between section 1 and section 2, m. The total head difference is
+					<inline-formula>
+						<mml:math display="inline" overflow="scroll">
+							<mml:mrow>
+								<mml:msub>
+									<mml:mi>H</mml:mi>
+									<mml:mn>0</mml:mn>
+								</mml:msub>
+								<mml:mo>=</mml:mo>
+								<mml:msub>
+									<mml:mi>h</mml:mi>
+									<mml:mn>1</mml:mn>
+								</mml:msub>
+								<mml:mo>+</mml:mo>
+								<mml:mi>l</mml:mi>
+								<mml:mo>⋅</mml:mo>
+								<mml:mo></mml:mo>
+								<mml:mtext>tan</mml:mtext>
+								<mml:mo></mml:mo>
+								<mml:mi>θ</mml:mi>
+								<mml:mo>+</mml:mo>
+								<mml:mfrac>
+									<mml:mrow>
+										<mml:msubsup>
+											<mml:mi>v</mml:mi>
+											<mml:mn>1</mml:mn>
+											<mml:mn>2</mml:mn>
+										</mml:msubsup>
+									</mml:mrow>
+									<mml:mrow>
+										<mml:mn>2</mml:mn>
+										<mml:mi>g</mml:mi>
+									</mml:mrow>
+								</mml:mfrac>
+							</mml:mrow>
+						</mml:math>
+					</inline-formula>, and Eq.
+					<xref ref-type="disp-formula" rid="d2">(2)</xref> can be changed to
+
+					<disp-formula id="d3">
+						<mml:math display="block" overflow="scroll">
+							<mml:mrow>
+								<mml:msub>
+									<mml:mi>H</mml:mi>
+									<mml:mn>0</mml:mn>
+								</mml:msub>
+								<mml:mo>=</mml:mo>
+								<mml:msub>
+									<mml:mi>h</mml:mi>
+									<mml:mn>2</mml:mn>
+								</mml:msub>
+								<mml:mo>+</mml:mo>
+								<mml:mfrac>
+									<mml:mrow>
+										<mml:msubsup>
+											<mml:mi>v</mml:mi>
+											<mml:mn>2</mml:mn>
+											<mml:mn>2</mml:mn>
+										</mml:msubsup>
+									</mml:mrow>
+									<mml:mrow>
+										<mml:mn>2</mml:mn>
+										<mml:mi>g</mml:mi>
+									</mml:mrow>
+								</mml:mfrac>
+							</mml:mrow>
+							<mml:mo>,</mml:mo>
+						</mml:math>
+						<label>(3)</label>
+					</disp-formula>where
+					<inline-formula>
+						<mml:math display="inline" overflow="scroll">
+							<mml:mrow>
+								<mml:msub>
+									<mml:mi>h</mml:mi>
+									<mml:mn>2</mml:mn>
+								</mml:msub>
+								<mml:mo>=</mml:mo>
+								<mml:mfrac>
+									<mml:mrow>
+										<mml:mi>α</mml:mi>
+										<mml:msubsup>
+											<mml:mi>v</mml:mi>
+											<mml:mn>2</mml:mn>
+											<mml:mn>2</mml:mn>
+										</mml:msubsup>
+									</mml:mrow>
+									<mml:mrow>
+										<mml:mn>2</mml:mn>
+										<mml:mi>g</mml:mi>
+									</mml:mrow>
+								</mml:mfrac>
+							</mml:mrow>
+						</mml:math>
+					</inline-formula>,
+					<inline-formula>
+						<mml:math display="inline" overflow="scroll">
+							<mml:mi>α</mml:mi>
+						</mml:math>
+					</inline-formula> is the correction coefficient of the kinetic energy. Therefore, the velocity of section 2 at the spillway is
+
+					<disp-formula id="d4">
+						<mml:math display="block" overflow="scroll">
+							<mml:mrow>
+								<mml:msub>
+									<mml:mi>v</mml:mi>
+									<mml:mn>2</mml:mn>
+								</mml:msub>
+								<mml:mo>=</mml:mo>
+								<mml:mi>φ</mml:mi>
+								<mml:msqrt>
+									<mml:mrow>
+										<mml:mn>2</mml:mn>
+										<mml:mi>g</mml:mi>
+										<mml:msub>
+											<mml:mi>H</mml:mi>
+											<mml:mn>0</mml:mn>
+										</mml:msub>
+									</mml:mrow>
+								</mml:msqrt>
+							</mml:mrow>
+							<mml:mo>,</mml:mo>
+						</mml:math>
+						<label>(4)</label>
+					</disp-formula>where the velocity coefficient is
+					<inline-formula>
+						<mml:math display="inline" overflow="scroll">
+							<mml:mrow>
+								<mml:mi>φ</mml:mi>
+								<mml:mo>=</mml:mo>
+								<mml:mfrac>
+									<mml:mn>1</mml:mn>
+									<mml:mrow>
+										<mml:msqrt>
+											<mml:mrow>
+												<mml:mi>α</mml:mi>
+												<mml:mo>+</mml:mo>
+												<mml:mn>1</mml:mn>
+											</mml:mrow>
+										</mml:msqrt>
+									</mml:mrow>
+								</mml:mfrac>
+							</mml:mrow>
+						</mml:math>
+					</inline-formula> .
+				</p>
+				<fig fig-type="figure" id="f3" orientation="portrait" position="float">
+					<label>FIG. 3.</label>
+					<caption>
+						<p>The longitudinal profile of debris flow passing through the spillway.</p>
+					</caption>
+					<graphic orientation="portrait" position="float" xlink:href="f3"/>
+				</fig>
+				<p>The types of the spillway can be divided into rectangle and trapezium, as shown in
+					<xref ref-type="fig" rid="f4">Fig. 4</xref>. Taking a rectangular spillway as an example, we consider the infinitesimal mud depth of debris flow as
+					<inline-formula>
+						<mml:math display="inline" overflow="scroll">
+							<mml:mrow>
+								<mml:mi>d</mml:mi>
+								<mml:mi>h</mml:mi>
+							</mml:mrow>
+						</mml:math>
+					</inline-formula>. The infinitesimal flow area can be obtained as
+
+					<disp-formula id="d5">
+						<mml:math display="block" overflow="scroll">
+							<mml:mrow>
+								<mml:mi>d</mml:mi>
+								<mml:mi>A</mml:mi>
+								<mml:mo>=</mml:mo>
+								<mml:mtext mathvariant="italic">bdh</mml:mtext>
+							</mml:mrow>
+							<mml:mo>.</mml:mo>
+						</mml:math>
+						<label>(5)</label>
+					</disp-formula>
+				</p>
+				<fig fig-type="figure" id="f4" orientation="portrait" position="float">
+					<label>FIG. 4.</label>
+					<caption>
+						<p>The discharge of different types of spillway.</p>
+					</caption>
+					<graphic orientation="portrait" position="float" xlink:href="f4"/>
+				</fig>
+				<p>By integrating in the range of mud depth, the flow area can be obtained as follows:
+
+					<disp-formula id="d6">
+						<mml:math display="block" overflow="scroll">
+							<mml:mrow>
+								<mml:mi>A</mml:mi>
+								<mml:mo>=</mml:mo>
+								<mml:mrow>
+									<mml:msubsup>
+										<mml:mo>∫</mml:mo>
+										<mml:mn>0</mml:mn>
+										<mml:mrow>
+											<mml:msub>
+												<mml:mi>h</mml:mi>
+												<mml:mn>2</mml:mn>
+											</mml:msub>
+										</mml:mrow>
+									</mml:msubsup>
+									<mml:mrow>
+										<mml:mtext mathvariant="italic">bdh</mml:mtext>
+										<mml:mo>=</mml:mo>
+									</mml:mrow>
+								</mml:mrow>
+								<mml:mi>b</mml:mi>
+								<mml:msub>
+									<mml:mi>h</mml:mi>
+									<mml:mn>2</mml:mn>
+								</mml:msub>
+								<mml:mo>=</mml:mo>
+								<mml:msub>
+									<mml:mi>k</mml:mi>
+									<mml:mn>1</mml:mn>
+								</mml:msub>
+								<mml:mi>b</mml:mi>
+								<mml:msub>
+									<mml:mi>H</mml:mi>
+									<mml:mn>0</mml:mn>
+								</mml:msub>
+							</mml:mrow>
+							<mml:mo>,</mml:mo>
+						</mml:math>
+						<label>(6)</label>
+					</disp-formula>where
+					<inline-formula>
+						<mml:math display="inline" overflow="scroll">
+							<mml:mrow>
+								<mml:msub>
+									<mml:mi>h</mml:mi>
+									<mml:mn>2</mml:mn>
+								</mml:msub>
+								<mml:mo>=</mml:mo>
+								<mml:msub>
+									<mml:mi>k</mml:mi>
+									<mml:mn>1</mml:mn>
+								</mml:msub>
+								<mml:msub>
+									<mml:mi>H</mml:mi>
+									<mml:mn>0</mml:mn>
+								</mml:msub>
+							</mml:mrow>
+						</mml:math>
+					</inline-formula>,
+					<inline-formula>
+						<mml:math display="inline" overflow="scroll">
+							<mml:mrow>
+								<mml:msub>
+									<mml:mi>H</mml:mi>
+									<mml:mn>0</mml:mn>
+								</mml:msub>
+							</mml:mrow>
+						</mml:math>
+					</inline-formula> is the total head difference, m;
+					<inline-formula>
+						<mml:math display="inline" overflow="scroll">
+							<mml:mrow>
+								<mml:msub>
+									<mml:mi>h</mml:mi>
+									<mml:mn>2</mml:mn>
+								</mml:msub>
+							</mml:mrow>
+						</mml:math>
+					</inline-formula> is the mud depth at the spillway, m;
+					<inline-formula>
+						<mml:math display="inline" overflow="scroll">
+							<mml:mi>b</mml:mi>
+						</mml:math>
+					</inline-formula> is the width of the rectangular spillway, m;
+					<inline-formula>
+						<mml:math display="inline" overflow="scroll">
+							<mml:mrow>
+								<mml:msub>
+									<mml:mi>k</mml:mi>
+									<mml:mn>1</mml:mn>
+								</mml:msub>
+							</mml:mrow>
+						</mml:math>
+					</inline-formula> is the depth coefficient. Consequently, the formula for calculating the discharge of the rectangular spillway can be obtained as
+
+					<disp-formula id="d7">
+						<mml:math display="block" overflow="scroll">
+							<mml:mrow>
+								<mml:mi>Q</mml:mi>
+								<mml:mo>=</mml:mo>
+								<mml:mi>A</mml:mi>
+								<mml:msub>
+									<mml:mi>v</mml:mi>
+									<mml:mn>2</mml:mn>
+								</mml:msub>
+								<mml:mo>=</mml:mo>
+								<mml:msub>
+									<mml:mi>k</mml:mi>
+									<mml:mn>1</mml:mn>
+								</mml:msub>
+								<mml:mi>b</mml:mi>
+								<mml:msub>
+									<mml:mi>H</mml:mi>
+									<mml:mn>0</mml:mn>
+								</mml:msub>
+								<mml:mo>⋅</mml:mo>
+								<mml:mi>φ</mml:mi>
+								<mml:msqrt>
+									<mml:mrow>
+										<mml:mn>2</mml:mn>
+										<mml:mi>g</mml:mi>
+										<mml:msub>
+											<mml:mi>H</mml:mi>
+											<mml:mn>0</mml:mn>
+										</mml:msub>
+									</mml:mrow>
+								</mml:msqrt>
+								<mml:mo>=</mml:mo>
+								<mml:mi>m</mml:mi>
+								<mml:mi>b</mml:mi>
+								<mml:msqrt>
+									<mml:mrow>
+										<mml:mn>2</mml:mn>
+										<mml:mi>g</mml:mi>
+									</mml:mrow>
+								</mml:msqrt>
+								<mml:msub>
+									<mml:mi>H</mml:mi>
+									<mml:mn>0</mml:mn>
+								</mml:msub>
+								<mml:msup>
+									<mml:mrow/>
+									<mml:mrow>
+										<mml:mfrac>
+											<mml:mrow>
+												<mml:mn>3</mml:mn>
+											</mml:mrow>
+											<mml:mrow>
+												<mml:mn>2</mml:mn>
+											</mml:mrow>
+										</mml:mfrac>
+									</mml:mrow>
+								</mml:msup>
+							</mml:mrow>
+							<mml:mo>,</mml:mo>
+						</mml:math>
+						<label>(7)</label>
+					</disp-formula>where
+					<inline-formula>
+						<mml:math display="inline" overflow="scroll">
+							<mml:mrow>
+								<mml:mi>m</mml:mi>
+								<mml:mo>=</mml:mo>
+								<mml:msub>
+									<mml:mi>k</mml:mi>
+									<mml:mn>1</mml:mn>
+								</mml:msub>
+								<mml:mi>φ</mml:mi>
+							</mml:mrow>
+						</mml:math>
+					</inline-formula>,
+					<inline-formula>
+						<mml:math display="inline" overflow="scroll">
+							<mml:mi>m</mml:mi>
+						</mml:math>
+					</inline-formula> is the discharge coefficient.
+				</p>
+				<p>Similarly, we can also obtain the flow area of a trapezoidal spillway as
+
+					<disp-formula id="d8">
+						<mml:math display="block" overflow="scroll">
+							<mml:mrow>
+								<mml:mi>A</mml:mi>
+								<mml:mo>=</mml:mo>
+								<mml:mrow>
+									<mml:msubsup>
+										<mml:mo>∫</mml:mo>
+										<mml:mn>0</mml:mn>
+										<mml:mrow>
+											<mml:msub>
+												<mml:mi>h</mml:mi>
+												<mml:mn>2</mml:mn>
+											</mml:msub>
+										</mml:mrow>
+									</mml:msubsup>
+									<mml:mrow>
+										<mml:mo stretchy="true">(</mml:mo>
+										<mml:mi>b</mml:mi>
+										<mml:mo>+</mml:mo>
+										<mml:mfrac>
+											<mml:mrow>
+												<mml:mn>2</mml:mn>
+												<mml:mi>h</mml:mi>
+											</mml:mrow>
+											<mml:mrow>
+												<mml:mo></mml:mo>
+												<mml:mtext>tan</mml:mtext>
+												<mml:mo></mml:mo>
+												<mml:mi>α</mml:mi>
+											</mml:mrow>
+										</mml:mfrac>
+										<mml:mo stretchy="true">)</mml:mo>
+										<mml:mi>d</mml:mi>
+										<mml:mi>h</mml:mi>
+										<mml:mo>=</mml:mo>
+									</mml:mrow>
+								</mml:mrow>
+								<mml:mi>b</mml:mi>
+								<mml:msub>
+									<mml:mi>h</mml:mi>
+									<mml:mn>2</mml:mn>
+								</mml:msub>
+								<mml:mo>+</mml:mo>
+								<mml:mfrac>
+									<mml:mrow>
+										<mml:msubsup>
+											<mml:mi>h</mml:mi>
+											<mml:mn>2</mml:mn>
+											<mml:mn>2</mml:mn>
+										</mml:msubsup>
+									</mml:mrow>
+									<mml:mrow>
+										<mml:mo></mml:mo>
+										<mml:mtext>tan</mml:mtext>
+										<mml:mo></mml:mo>
+										<mml:mi>α</mml:mi>
+									</mml:mrow>
+								</mml:mfrac>
+								<mml:mo>=</mml:mo>
+								<mml:msub>
+									<mml:mi>k</mml:mi>
+									<mml:mn>2</mml:mn>
+								</mml:msub>
+								<mml:mi>b</mml:mi>
+								<mml:msub>
+									<mml:mi>H</mml:mi>
+									<mml:mn>0</mml:mn>
+								</mml:msub>
+								<mml:mo>+</mml:mo>
+								<mml:mfrac>
+									<mml:mrow>
+										<mml:msubsup>
+											<mml:mi>k</mml:mi>
+											<mml:mn>2</mml:mn>
+											<mml:mn>2</mml:mn>
+										</mml:msubsup>
+										<mml:msubsup>
+											<mml:mi>H</mml:mi>
+											<mml:mn>0</mml:mn>
+											<mml:mn>2</mml:mn>
+										</mml:msubsup>
+									</mml:mrow>
+									<mml:mrow>
+										<mml:mo></mml:mo>
+										<mml:mtext>tan</mml:mtext>
+										<mml:mo></mml:mo>
+										<mml:mi>α</mml:mi>
+									</mml:mrow>
+								</mml:mfrac>
+							</mml:mrow>
+							<mml:mo>.</mml:mo>
+						</mml:math>
+						<label>(8)</label>
+					</disp-formula>
+				</p>
+				<p>The formula for calculating the discharge of the trapezoidal spillway can be obtained as follows:
+
+					<disp-formula id="d9">
+						<mml:math display="block" overflow="scroll">
+							<mml:mrow>
+								<mml:mi>Q</mml:mi>
+								<mml:mo>=</mml:mo>
+								<mml:mi>m</mml:mi>
+								<mml:msqrt>
+									<mml:mrow>
+										<mml:mn>2</mml:mn>
+										<mml:mi>g</mml:mi>
+									</mml:mrow>
+								</mml:msqrt>
+								<mml:mo stretchy="true">(</mml:mo>
+								<mml:mi>b</mml:mi>
+								<mml:msub>
+									<mml:mi>H</mml:mi>
+									<mml:mn>0</mml:mn>
+								</mml:msub>
+								<mml:msup>
+									<mml:mrow/>
+									<mml:mrow>
+										<mml:mfrac>
+											<mml:mrow>
+												<mml:mn>3</mml:mn>
+											</mml:mrow>
+											<mml:mrow>
+												<mml:mn>2</mml:mn>
+											</mml:mrow>
+										</mml:mfrac>
+									</mml:mrow>
+								</mml:msup>
+								<mml:mo>+</mml:mo>
+								<mml:mfrac>
+									<mml:mrow>
+										<mml:msub>
+											<mml:mi>k</mml:mi>
+											<mml:mn>2</mml:mn>
+										</mml:msub>
+										<mml:msub>
+											<mml:mi>H</mml:mi>
+											<mml:mn>0</mml:mn>
+										</mml:msub>
+										<mml:msup>
+											<mml:mrow/>
+											<mml:mrow>
+												<mml:mfrac>
+													<mml:mrow>
+														<mml:mn>5</mml:mn>
+													</mml:mrow>
+													<mml:mrow>
+														<mml:mn>2</mml:mn>
+													</mml:mrow>
+												</mml:mfrac>
+											</mml:mrow>
+										</mml:msup>
+									</mml:mrow>
+									<mml:mrow>
+										<mml:mo></mml:mo>
+										<mml:mtext>tan</mml:mtext>
+										<mml:mo></mml:mo>
+										<mml:mi>α</mml:mi>
+									</mml:mrow>
+								</mml:mfrac>
+								<mml:mo stretchy="true">)</mml:mo>
+							</mml:mrow>
+							<mml:mo>,</mml:mo>
+						</mml:math>
+						<label>(9)</label>
+					</disp-formula>where
+					<inline-formula>
+						<mml:math display="inline" overflow="scroll">
+							<mml:mi>m</mml:mi>
+						</mml:math>
+					</inline-formula> is the discharge coefficient,
+					<inline-formula>
+						<mml:math display="inline" overflow="scroll">
+							<mml:mrow>
+								<mml:msub>
+									<mml:mi>H</mml:mi>
+									<mml:mn>0</mml:mn>
+								</mml:msub>
+							</mml:mrow>
+						</mml:math>
+					</inline-formula> is the total head difference, m;
+					<inline-formula>
+						<mml:math display="inline" overflow="scroll">
+							<mml:mi>b</mml:mi>
+						</mml:math>
+					</inline-formula> is the bottom width of the trapezoidal spillway, m;
+					<inline-formula>
+						<mml:math display="inline" overflow="scroll">
+							<mml:mi>α</mml:mi>
+						</mml:math>
+					</inline-formula> is the angle at the bottom of the trapezoidal spillway;
+					<inline-formula>
+						<mml:math display="inline" overflow="scroll">
+							<mml:mrow>
+								<mml:msub>
+									<mml:mi>h</mml:mi>
+									<mml:mn>2</mml:mn>
+								</mml:msub>
+								<mml:mo>=</mml:mo>
+								<mml:msub>
+									<mml:mi>k</mml:mi>
+									<mml:mn>2</mml:mn>
+								</mml:msub>
+								<mml:msub>
+									<mml:mi>H</mml:mi>
+									<mml:mn>0</mml:mn>
+								</mml:msub>
+							</mml:mrow>
+						</mml:math>
+					</inline-formula>,
+					<inline-formula>
+						<mml:math display="inline" overflow="scroll">
+							<mml:mrow>
+								<mml:msub>
+									<mml:mi>h</mml:mi>
+									<mml:mn>2</mml:mn>
+								</mml:msub>
+							</mml:mrow>
+						</mml:math>
+					</inline-formula> is the mud depth at the spillway, m;
+					<inline-formula>
+						<mml:math display="inline" overflow="scroll">
+							<mml:mrow>
+								<mml:msub>
+									<mml:mi>k</mml:mi>
+									<mml:mn>2</mml:mn>
+								</mml:msub>
+							</mml:mrow>
+						</mml:math>
+					</inline-formula> is the depth coefficient.
+				</p>
+				<p>The discharge coefficient is related to factors such as the bulk density of debris flow and the degree of mud depth shrinkage when the debris flow passes through the spillway. Due to differences in discharge coefficients under different influencing factors, it is not possible to directly calculate the value of discharge coefficients. Therefore, the discharge coefficient can be determined by measuring discharge, calculating the total head difference, the width of the spillway, and other parameters, and finally calculating the discharge coefficient backward.</p>
+				<p>Due to the fluctuation in the discharge coefficient over time, during a single flow event, the discharge coefficient is relatively large at the beginning and fluctuates greatly. This is because of the significant increase and reflux generated by the early debris flow, and when the debris flow enters the stable stage, the discharge coefficient shows a stable change and a slow decrease in trend (
+					<xref ref-type="bibr" rid="c73">Lin, 2015</xref>). Therefore, calculation of discharge coefficient in this article mainly focuses on the stable discharge stage, and for the subsequent discharge stage, decrease in discharge coefficient cannot reflect the true discharge capacity of the spillway. Through an analysis of the experimental phenomena and data on mud depth, it is found that the mud depth and velocity of the debris flow do not change significantly during the stable discharge stage. Accordingly, using this stage as a reference for studying the discharge capacity of a spillway has certain reference significance.
+				</p>
+			</sec>
+			<sec id="s3C">
+				<label>C.</label>
+				<title>Theoretical derivation of discharge coefficient</title>
+				<p>Reduced-scale experiments can interpret the results obtained from small-scale experiments as similar to those obtained from large-scale experiments or natural events. We use dimensionless numbers to ensure that ratio between fluid stress and particle stress in model experiments matches in the prototype. Froude numbers dominate the behavior of geophysical flow at a macroscopic level. Froude numbers are commonly used to determine whether debris flows are dominated by inertia or gravity (
+					<xref ref-type="bibr" rid="c27">Jakob
+						<italic>et al.</italic>, 2005
+					</xref>;
+					<xref ref-type="bibr" rid="c21">Hübl
+						<italic>et al.</italic>, 2009
+					</xref>; and
+					<xref ref-type="bibr" rid="c12">Choi
+						<italic>et al.</italic>, 2016
+					</xref>). Froude numbers of debris flows in nature may be relatively small, such as the measured Froude number of debris flows in Jiangjia gully (
+					<xref ref-type="bibr" rid="c19">Hu
+						<italic>et al.</italic>, 2011
+					</xref>), which ranges from 1.5 to 2.0. This key dimensionless parameter is widely used in the study of debris flow.
+				</p>
+				<p>The experiment of flume is crucial for understanding landslides, debris flows, and other related geological experiments (
+					<xref ref-type="bibr" rid="c26">Iverson and Vallance, 2001</xref>;
+					<xref ref-type="bibr" rid="c24">Iverson and George, 2014</xref>; and
+					<xref ref-type="bibr" rid="c25">Iverson and George, 2016</xref>). The scaling ratio can be obtained through dimensional analysis or by dimensionless control equations (
+					<xref ref-type="bibr" rid="c54">Wang
+						<italic>et al.</italic>, 2018
+					</xref>). We use dimensional analysis to study scaling relationship of debris flow. Based on the layout of model, derivation of the above-mentioned discharge formula, and results of the experiment, we believe that discharge of debris flow through the spillway is related to properties of debris flow, parameters of spillway, and channel conditions of flume. Due to the various influencing parameters of spillway, including different types and opening widths, as well as the fact that contraction effect of spillway is the main reason for differences in discharge capacity, we believe that flow area of debris flow passing through the spillway is one of the important factors. Therefore, we define this factor as the ratio of flow area of debris flow passing through the spillway to the flow area of the upstream section before the spillway, which is dimensionless.
+				</p>
+				<p>Therefore, we believe that discharge of debris flow passing through the spillway is related to multiple variables such as the flow velocity
+					<inline-formula>
+						<mml:math display="inline" overflow="scroll">
+							<mml:mi>v</mml:mi>
+						</mml:math>
+					</inline-formula>, the bulk density
+					<inline-formula>
+						<mml:math display="inline" overflow="scroll">
+							<mml:mi>ρ</mml:mi>
+						</mml:math>
+					</inline-formula>, the acceleration of gravity
+					<inline-formula>
+						<mml:math display="inline" overflow="scroll">
+							<mml:mi>g</mml:mi>
+						</mml:math>
+					</inline-formula>, the total head difference of upstream
+					<inline-formula>
+						<mml:math display="inline" overflow="scroll">
+							<mml:mrow>
+								<mml:msub>
+									<mml:mi>H</mml:mi>
+									<mml:mn>0</mml:mn>
+								</mml:msub>
+							</mml:mrow>
+						</mml:math>
+					</inline-formula>, the outlet width of spillway
+					<inline-formula>
+						<mml:math display="inline" overflow="scroll">
+							<mml:mi>B</mml:mi>
+						</mml:math>
+					</inline-formula>, the slope of flume
+					<inline-formula>
+						<mml:math display="inline" overflow="scroll">
+							<mml:mi>θ</mml:mi>
+						</mml:math>
+					</inline-formula>, and the ratio of flow area
+					<inline-formula>
+						<mml:math display="inline" overflow="scroll">
+							<mml:mrow>
+								<mml:mfrac>
+									<mml:mi>A</mml:mi>
+									<mml:mrow>
+										<mml:msub>
+											<mml:mi>A</mml:mi>
+											<mml:mn>0</mml:mn>
+										</mml:msub>
+									</mml:mrow>
+								</mml:mfrac>
+							</mml:mrow>
+						</mml:math>
+					</inline-formula>. To simplify the analysis, discharge for debris flow passing through the spillway is obtained as follows:
+
+					<disp-formula id="d10">
+						<mml:math display="block" overflow="scroll">
+							<mml:mrow>
+								<mml:mi>Q</mml:mi>
+								<mml:mo>=</mml:mo>
+								<mml:mi>f</mml:mi>
+								<mml:mo stretchy="true">(</mml:mo>
+								<mml:mi>v</mml:mi>
+								<mml:mo>,</mml:mo>
+								<mml:mi>ρ</mml:mi>
+								<mml:mo>,</mml:mo>
+								<mml:mi>g</mml:mi>
+								<mml:mo>,</mml:mo>
+								<mml:mi>B</mml:mi>
+								<mml:mo>,</mml:mo>
+								<mml:msub>
+									<mml:mi>H</mml:mi>
+									<mml:mn>0</mml:mn>
+								</mml:msub>
+								<mml:mo>,</mml:mo>
+								<mml:mi>θ</mml:mi>
+								<mml:mo>,</mml:mo>
+								<mml:mfrac>
+									<mml:mi>A</mml:mi>
+									<mml:mrow>
+										<mml:msub>
+											<mml:mi>A</mml:mi>
+											<mml:mn>0</mml:mn>
+										</mml:msub>
+									</mml:mrow>
+								</mml:mfrac>
+								<mml:mo stretchy="true">)</mml:mo>
+							</mml:mrow>
+							<mml:mo>,</mml:mo>
+						</mml:math>
+						<label>(10)</label>
+					</disp-formula>where
+					<inline-formula>
+						<mml:math display="inline" overflow="scroll">
+							<mml:mi>f</mml:mi>
+						</mml:math>
+					</inline-formula> is the unknown function.
+				</p>
+				<p>The above-mentioned equation contains seven variables. According to the
+					<inline-formula>
+						<mml:math display="inline" overflow="scroll">
+							<mml:mi>π</mml:mi>
+						</mml:math>
+					</inline-formula> theorem, three factors can be selected as basic variables, including the velocity
+					<inline-formula>
+						<mml:math display="inline" overflow="scroll">
+							<mml:mi>v</mml:mi>
+						</mml:math>
+					</inline-formula>, the bulk density
+					<inline-formula>
+						<mml:math display="inline" overflow="scroll">
+							<mml:mi>ρ</mml:mi>
+						</mml:math>
+					</inline-formula>, and the total head difference of upstream
+					<inline-formula>
+						<mml:math display="inline" overflow="scroll">
+							<mml:mrow>
+								<mml:msub>
+									<mml:mi>H</mml:mi>
+									<mml:mn>0</mml:mn>
+								</mml:msub>
+							</mml:mrow>
+						</mml:math>
+					</inline-formula>. Based on the principle of dimensional harmony, we solve for the exponent of basic variables as follows:
+
+					<disp-formula id="d11">
+						<mml:math display="block" overflow="scroll">
+							<mml:mrow>
+								<mml:mfrac>
+									<mml:mi>Q</mml:mi>
+									<mml:mrow>
+										<mml:mi>B</mml:mi>
+										<mml:msqrt>
+											<mml:mrow>
+												<mml:mn>2</mml:mn>
+												<mml:mi>g</mml:mi>
+											</mml:mrow>
+										</mml:msqrt>
+										<mml:mo>⋅</mml:mo>
+										<mml:msubsup>
+											<mml:mi>H</mml:mi>
+											<mml:mn>0</mml:mn>
+											<mml:mrow>
+												<mml:mfrac>
+													<mml:mrow>
+														<mml:mn>3</mml:mn>
+													</mml:mrow>
+													<mml:mrow>
+														<mml:mn>2</mml:mn>
+													</mml:mrow>
+												</mml:mfrac>
+											</mml:mrow>
+										</mml:msubsup>
+									</mml:mrow>
+								</mml:mfrac>
+								<mml:mo>=</mml:mo>
+								<mml:mi>f</mml:mi>
+								<mml:mo stretchy="true">(</mml:mo>
+								<mml:mfrac>
+									<mml:mi>v</mml:mi>
+									<mml:mrow>
+										<mml:msqrt>
+											<mml:mrow>
+												<mml:mi>g</mml:mi>
+												<mml:msub>
+													<mml:mi>H</mml:mi>
+													<mml:mn>0</mml:mn>
+												</mml:msub>
+												<mml:mo></mml:mo>
+												<mml:mtext>cos</mml:mtext>
+												<mml:mo></mml:mo>
+												<mml:mi>θ</mml:mi>
+											</mml:mrow>
+										</mml:msqrt>
+									</mml:mrow>
+								</mml:mfrac>
+								<mml:mo>,</mml:mo>
+								<mml:mfrac>
+									<mml:mi>A</mml:mi>
+									<mml:mrow>
+										<mml:msub>
+											<mml:mi>A</mml:mi>
+											<mml:mn>0</mml:mn>
+										</mml:msub>
+									</mml:mrow>
+								</mml:mfrac>
+								<mml:mo stretchy="true">)</mml:mo>
+							</mml:mrow>
+							<mml:mo>.</mml:mo>
+						</mml:math>
+						<label>(11)</label>
+					</disp-formula>
+				</p>
+				<p>According to the derivation of the formula of discharge, the above-mentioned formula can be changed to
+
+					<disp-formula id="d12">
+						<mml:math display="block" overflow="scroll">
+							<mml:mrow>
+								<mml:mi>m</mml:mi>
+								<mml:mo>=</mml:mo>
+								<mml:mi>f</mml:mi>
+								<mml:mo stretchy="true">(</mml:mo>
+								<mml:mfrac>
+									<mml:mi>v</mml:mi>
+									<mml:mrow>
+										<mml:msqrt>
+											<mml:mrow>
+												<mml:mi>g</mml:mi>
+												<mml:msub>
+													<mml:mi>H</mml:mi>
+													<mml:mn>0</mml:mn>
+												</mml:msub>
+												<mml:mo></mml:mo>
+												<mml:mtext>cos</mml:mtext>
+												<mml:mo></mml:mo>
+												<mml:mi>θ</mml:mi>
+											</mml:mrow>
+										</mml:msqrt>
+									</mml:mrow>
+								</mml:mfrac>
+								<mml:mo>,</mml:mo>
+								<mml:mfrac>
+									<mml:mi>A</mml:mi>
+									<mml:mrow>
+										<mml:msub>
+											<mml:mi>A</mml:mi>
+											<mml:mn>0</mml:mn>
+										</mml:msub>
+									</mml:mrow>
+								</mml:mfrac>
+								<mml:mo stretchy="true">)</mml:mo>
+							</mml:mrow>
+							<mml:mo>.</mml:mo>
+						</mml:math>
+						<label>(12)</label>
+					</disp-formula>
+				</p>
+				<p>Consequently, we believe that discharge coefficient is mainly influenced by the Froude number and the ratio of flow area of the debris flow. Therefore, the above-mentioned equation can be expressed as
+
+					<disp-formula id="d13">
+						<mml:math display="block" overflow="scroll">
+							<mml:mrow>
+								<mml:mi>m</mml:mi>
+								<mml:mo>=</mml:mo>
+								<mml:msub>
+									<mml:mi>f</mml:mi>
+									<mml:mn>1</mml:mn>
+								</mml:msub>
+								<mml:mo stretchy="false">(</mml:mo>
+								<mml:mi>F</mml:mi>
+								<mml:mi>r</mml:mi>
+								<mml:mo stretchy="false">)</mml:mo>
+								<mml:mo>⋅</mml:mo>
+								<mml:msub>
+									<mml:mi>f</mml:mi>
+									<mml:mn>2</mml:mn>
+								</mml:msub>
+								<mml:mo stretchy="false">(</mml:mo>
+								<mml:mi>A</mml:mi>
+								<mml:mi>r</mml:mi>
+								<mml:mo stretchy="false">)</mml:mo>
+							</mml:mrow>
+							<mml:mo>,</mml:mo>
+						</mml:math>
+						<label>(13)</label>
+					</disp-formula>where
+					<inline-formula>
+						<mml:math display="inline" overflow="scroll">
+							<mml:mrow>
+								<mml:mi>A</mml:mi>
+								<mml:mi>r</mml:mi>
+								<mml:mo>=</mml:mo>
+								<mml:mfrac>
+									<mml:mi>A</mml:mi>
+									<mml:mrow>
+										<mml:msub>
+											<mml:mi>A</mml:mi>
+											<mml:mn>0</mml:mn>
+										</mml:msub>
+									</mml:mrow>
+								</mml:mfrac>
+							</mml:mrow>
+						</mml:math>
+					</inline-formula>.
+					<inline-formula>
+						<mml:math display="inline" overflow="scroll">
+							<mml:mi>A</mml:mi>
+						</mml:math>
+					</inline-formula> is the flow area when passing through the spillway, m
+					<sup>2</sup>;
+					<inline-formula>
+						<mml:math display="inline" overflow="scroll">
+							<mml:mrow>
+								<mml:msub>
+									<mml:mi>A</mml:mi>
+									<mml:mn>0</mml:mn>
+								</mml:msub>
+							</mml:mrow>
+						</mml:math>
+					</inline-formula> is the flow area before passing through the spillway, m
+					<sup>2</sup>.
+				</p>
+			</sec>
+		</sec>
+		<sec id="s4">
+			<label>IV.</label>
+			<title>RESULTS AND ANALYSIS</title>
+			<sec id="s4A">
+				<label>A.</label>
+				<title>Discharge characteristics of debris flow</title>
+				<p>We can divide the flow behavior of debris flow through the spillway into five stages according to its motion state: contact stage of spillway, flushing and climbing stage, increasing and reflux stage, stable discharge stage, and final discharge stage.
+					<xref ref-type="fig" rid="f5">Figure 5</xref> shows the detailed process in the five stages. Bulk density of debris flow in this experiment is 17 kN/m
+					<sup>3</sup>, and model of spillway is a trapezium with a depth of 200 mm, an upper opening width of 100 mm, and a lower opening width of 50 mm.
+
+					<list list-type="order">
+						<list-item>
+							<label>(1)</label>
+							<p>Contact stage of spillway</p>
+							<p>After the hopper at the upper end of the flume opens the gate, the debris flow moves downstream along the flume at a certain depth and velocity, and the debris flow head contacts the spillway.</p>
+						</list-item>
+						<list-item>
+							<label>(2)</label>
+							<p>Flushing and climbing stage</p>
+							<p>After the first contact between the debris flow head and the spillway, due to the upward space of debris flow movement, the debris flow head undergoes a climbing motion from the bottom to the top along the surface of the model on both sides of the spillway under the strong squeezing effect of subsequent flow. Therefore, the velocity of debris flow continuously decreases with the increase in climbing distance. At the same time, the debris flow on both sides will change the direction of the motion due to the effect of contraction of the spillway, causing it to concentrate toward the middle part.</p>
+						</list-item>
+						<list-item>
+							<label>(3)</label>
+							<p>Increasing and reflux stage</p>
+							<p>When debris flow climbs along the spillway, due to the constraint effect of the spillway, the debris flow lacks the necessary space for movement, and its obstruction effect is more obvious, resulting in impact backflow. Some debris flows generate backflow, while others are discharged through the spillway.</p>
+						</list-item>
+						<list-item>
+							<label>(4)</label>
+							<p>Stable discharge stage</p>
+							<p>During this stage, debris flow steadily passes through the spillway. At the same time, the phenomenon of backflow also exists. However, the height of the debris flow backflow remains consistent, and the change in velocity is also minimal. Compared with other stages, the duration of the debris flow movement will also be longer.</p>
+						</list-item>
+						<list-item>
+							<label>(5)</label>
+							<p>Ultimately discharge stage</p>
+							<p>During this stage, due to the continuous discharge of debris flows, velocity of the remaining debris flows gradually slows down, and the mud depth at the spillway also gradually decreases. Finally, the debris flow flowed down from the spillway until a burst of debris flow ended.</p>
+						</list-item>
+					</list>
+				</p>
+				<fig fig-type="figure" id="f5" orientation="portrait" position="float">
+					<label>FIG. 5.</label>
+					<caption>
+						<p>The flow stage of debris flow.</p>
+					</caption>
+					<graphic orientation="portrait" position="float" xlink:href="f5"/>
+				</fig>
+			</sec>
+			<sec id="s4B">
+				<label>B.</label>
+				<title>Influence of factors on discharge coefficient</title>
+				<p>The calculation of discharge coefficient in this article mainly focuses on the stable discharge stage of spillway. According to experimental results, stable discharge stage lasts relatively long. Through an analysis of experimental phenomena and data of mud depth, the mud depth and velocity of debris flow during stable discharge stage do not change much, which can reflect true discharge capacity. Therefore, using this stage as a reference for studying discharge capacity of spillway has a certain reference significance.</p>
+				<sec id="s4B1">
+					<label>1.</label>
+					<title>Types of spillway</title>
+					<p>We divide the types of spillway into rectangle and trapezium. Scale of debris flow is set at 20 L, and the slope of the flume is 7°. The discharge coefficients of each type of spillway are shown in
+						<xref ref-type="fig" rid="f6">Fig. 6</xref>. We found that discharge coefficient of a trapezium is greater than a rectangle, reaching 0.3–0.4. The discharge coefficient can effectively reflect the discharge capacity of the spillway, and a large discharge coefficient indicates a strong overcurrent capacity. We analyzed the reasons for the significant differences in their discharge coefficients. By comparing their hydraulic radius when passing through the spillway, it is generally found that the hydraulic radius of a trapezium is larger than that of a rectangle. Furthermore, the larger the hydraulic radius, the greater the discharge of debris flow, and the stronger its discharge capacity.
+					</p>
+					<fig fig-type="figure" id="f6" orientation="portrait" position="float">
+						<label>FIG. 6.</label>
+						<caption>
+							<p>Discharge coefficient of different types of spillway.</p>
+						</caption>
+						<graphic orientation="portrait" position="float" xlink:href="f6"/>
+					</fig>
+				</sec>
+				<sec id="s4B2">
+					<label>2.</label>
+					<title>Bulk density of debris flow</title>
+					<p>Bulk densities of debris flow are set to 13, 15, 17, 19, and 21 kN/m
+						<sup>3</sup>, respectively. We take the trapezoidal spillway as an example, which includes wide-shallow, general, and narrow deep types. Scale of debris flow is set to 20 l, and the slope of the flume is set to 7°. The relationship between discharge coefficient and bulk density is shown in
+						<xref ref-type="fig" rid="f7">Fig. 7</xref>. Discharge coefficient shows a decreasing trend with the increase in bulk density. The reason for phenomenon is due to differences in the properties of debris flow, which results in different flow characteristics. Debris flow with high bulk density has a high content of fine particles, strong bonding between coarse and fine particles, good overall performance, and poor fluidity. Therefore, when debris flow passes through the spillway, mud depth and velocity are both small, and the discharge is also small. However, when bulk density is low, the opposite is true.
+					</p>
+					<fig fig-type="figure" id="f7" orientation="portrait" position="float">
+						<label>FIG. 7.</label>
+						<caption>
+							<p>Relationship between discharge coefficient and bulk density.</p>
+						</caption>
+						<graphic orientation="portrait" position="float" xlink:href="f7"/>
+					</fig>
+				</sec>
+				<sec id="s4B3">
+					<label>3.</label>
+					<title>Scale of debris flow</title>
+					<p>We set the scale of debris flow as 10, 15, 20, 25, and 30 l, respectively, with a bulk density of 17 kN/m
+						<sup>3</sup> and a slope of 7°. We take the rectangular and trapezoidal spillways as examples, with the general opening form. Through an analysis of experimental data, we finally obtained the relationship between discharge coefficient and scale of debris flow, as shown in
+						<xref ref-type="fig" rid="f8">Fig. 8</xref>. The discharge coefficient obviously shows an increasing trend with the rising of scale. It results in a significant increase in both velocity and mud depth. Consequently, the calculated discharge coefficient will be larger.
+					</p>
+					<fig fig-type="figure" id="f8" orientation="portrait" position="float">
+						<label>FIG. 8.</label>
+						<caption>
+							<p>Relationship between discharge coefficient and scale of debris flow.</p>
+						</caption>
+						<graphic orientation="portrait" position="float" xlink:href="f8"/>
+					</fig>
+				</sec>
+				<sec id="s4B4">
+					<label>4.</label>
+					<title>Slope of flume</title>
+					<p>We set the slope of flume to 5°, 6°, 7°, 8°, and 9°, respectively, with a bulk density of 17 kN/m
+						<sup>3</sup> and a scale of 15 l. We take the rectangular and trapezoidal spillways as examples, with the spillway type being general. We finally obtained the relationship between discharge coefficient and slope, as shown in
+						<xref ref-type="fig" rid="f9">Fig. 9</xref>. It shows an increasing trend with the increase in the slope. It is due to the significant enhancement of kinetic energy of debris flow when passing through the spillway. The larger mud depth and velocity result in the growing of discharge coefficient.
+					</p>
+					<fig fig-type="figure" id="f9" orientation="portrait" position="float">
+						<label>FIG. 9.</label>
+						<caption>
+							<p>Relationship between discharge coefficient and slope of flume.</p>
+						</caption>
+						<graphic orientation="portrait" position="float" xlink:href="f9"/>
+					</fig>
+				</sec>
+				<sec id="s4B5">
+					<label>5.</label>
+					<title>Effective opening width of spillway</title>
+					<p>We define effective opening width as the ratio of flow area to the depth of spillway. Due to the equal flow area for each model, which is 150 cm
+						<sup>2</sup>, their effective opening widths can be obtained by setting different depths. Including narrow-deep type (depth is 200 mm), general type (depth is 150 mm), and wide-shallow type (depth is 100 mm). Taking a trapezoidal spillway as an example, variation of discharge coefficient is shown in
+						<xref ref-type="fig" rid="f10">Fig. 10</xref>. Discharge coefficient shows a decreasing trend with the increase in effective opening width under the same bulk density. Therefore, discharge capacity is maximum for narrow-deep type, moderate for general type, and minimum for wide-shallow type. During the movement of debris flows, the average velocity at the middle position is greater than that on both sides. When the effective opening width is small, the main debris flow is at the central position. At the same time, the phenomenon of increasing and reflux is more obvious compared to other types, which enhances the advantage of velocity. Accordingly, discharge capacity of narrow-deep is stronger, and the discharge coefficient will also be larger. On the contrary, other types of increasing and reflux are not very obvious, and the advantage of velocity in the middle is also weak.
+					</p>
+					<fig fig-type="figure" id="f10" orientation="portrait" position="float">
+						<label>FIG. 10.</label>
+						<caption>
+							<p>Relationship between discharge coefficient and effective opening width.</p>
+						</caption>
+						<graphic orientation="portrait" position="float" xlink:href="f10"/>
+					</fig>
+				</sec>
+			</sec>
+			<sec id="s4C">
+				<label>C.</label>
+				<title>Calculation method of discharge for spillway</title>
+				<p>We divide the discharge coefficient of debris flow into the changes caused by Froude number and the ratio of flow area, as shown in
+					<xref ref-type="fig" rid="f11">Figs. 11</xref> and
+					<xref ref-type="fig" rid="f12">12</xref>. The discharge coefficient increases with increasing Froude number and the ratio of flow area. Due to the increase in Froude number, the mobility of debris flow is stronger, and the integrity is weaker. Therefore, when it interacts with the spillway, it is more likely to produce the phenomenon of increasing and reflux, resulting in an enhancement in the discharge coefficient. Similarly, due to the increase in the ratio of flow area, the contraction effect of spillway is more obvious, and increasing and reflux will be more evident, resulting in strong discharge capacity.
+				</p>
+				<fig fig-type="figure" id="f11" orientation="portrait" position="float">
+					<label>FIG. 11.</label>
+					<caption>
+						<p>Relationship between discharge coefficient and Froude number.</p>
+					</caption>
+					<graphic orientation="portrait" position="float" xlink:href="f11"/>
+				</fig>
+				<fig fig-type="figure" id="f12" orientation="portrait" position="float">
+					<label>FIG. 12.</label>
+					<caption>
+						<p>Relationship between discharge coefficient and ratio of flow area.</p>
+					</caption>
+					<graphic orientation="portrait" position="float" xlink:href="f12"/>
+				</fig>
+				<p>Based on the above-mentioned analysis, the formula for the discharge coefficient of debris flow passing through the spillway is
+
+					<disp-formula id="d14">
+						<mml:math display="block" overflow="scroll">
+							<mml:mrow>
+								<mml:mi>m</mml:mi>
+								<mml:mo>=</mml:mo>
+								<mml:mi>k</mml:mi>
+								<mml:mo>⋅</mml:mo>
+								<mml:msub>
+									<mml:mi>m</mml:mi>
+									<mml:mn>1</mml:mn>
+								</mml:msub>
+								<mml:mo>⋅</mml:mo>
+								<mml:msub>
+									<mml:mi>m</mml:mi>
+									<mml:mn>2</mml:mn>
+								</mml:msub>
+								<mml:mo>=</mml:mo>
+								<mml:mn>0.0836</mml:mn>
+								<mml:mi>F</mml:mi>
+								<mml:msup>
+									<mml:mi>r</mml:mi>
+									<mml:mrow>
+										<mml:mn>0.9092</mml:mn>
+									</mml:mrow>
+								</mml:msup>
+								<mml:mo>⋅</mml:mo>
+								<mml:msup>
+									<mml:mrow>
+										<mml:mo stretchy="true">(</mml:mo>
+										<mml:mfrac>
+											<mml:mi>A</mml:mi>
+											<mml:mrow>
+												<mml:msub>
+													<mml:mi>A</mml:mi>
+													<mml:mn>0</mml:mn>
+												</mml:msub>
+											</mml:mrow>
+										</mml:mfrac>
+										<mml:mo stretchy="true">)</mml:mo>
+									</mml:mrow>
+									<mml:mrow>
+										<mml:mn>0.4566</mml:mn>
+									</mml:mrow>
+								</mml:msup>
+							</mml:mrow>
+							<mml:mo>.</mml:mo>
+						</mml:math>
+						<label>(14)</label>
+					</disp-formula>
+				</p>
+				<p>Therefore, the formula for discharge of a rectangular spillway is obtained as follows:
+
+					<disp-formula id="d15">
+						<mml:math display="block" overflow="scroll">
+							<mml:mrow>
+								<mml:mi>Q</mml:mi>
+								<mml:mo>=</mml:mo>
+								<mml:mo stretchy="true">(</mml:mo>
+								<mml:mn>0.0836</mml:mn>
+								<mml:mi>F</mml:mi>
+								<mml:msup>
+									<mml:mi>r</mml:mi>
+									<mml:mrow>
+										<mml:mn>0.9092</mml:mn>
+									</mml:mrow>
+								</mml:msup>
+								<mml:mo>⋅</mml:mo>
+								<mml:msup>
+									<mml:mrow>
+										<mml:mo stretchy="true">(</mml:mo>
+										<mml:mfrac>
+											<mml:mi>A</mml:mi>
+											<mml:mrow>
+												<mml:msub>
+													<mml:mi>A</mml:mi>
+													<mml:mn>0</mml:mn>
+												</mml:msub>
+											</mml:mrow>
+										</mml:mfrac>
+										<mml:mo stretchy="true">)</mml:mo>
+									</mml:mrow>
+									<mml:mrow>
+										<mml:mn>0.4566</mml:mn>
+									</mml:mrow>
+								</mml:msup>
+								<mml:mo stretchy="true">)</mml:mo>
+								<mml:mi>b</mml:mi>
+								<mml:msqrt>
+									<mml:mrow>
+										<mml:mn>2</mml:mn>
+										<mml:mi>g</mml:mi>
+									</mml:mrow>
+								</mml:msqrt>
+								<mml:msub>
+									<mml:mi>H</mml:mi>
+									<mml:mn>0</mml:mn>
+								</mml:msub>
+								<mml:msup>
+									<mml:mrow/>
+									<mml:mrow>
+										<mml:mfrac>
+											<mml:mrow>
+												<mml:mn>3</mml:mn>
+											</mml:mrow>
+											<mml:mrow>
+												<mml:mn>2</mml:mn>
+											</mml:mrow>
+										</mml:mfrac>
+									</mml:mrow>
+								</mml:msup>
+							</mml:mrow>
+							<mml:mo>.</mml:mo>
+						</mml:math>
+						<label>(15)</label>
+					</disp-formula>
+				</p>
+				<p>The formula for the discharge of the trapezoidal spillway is obtained as follows:
+
+					<disp-formula id="d16">
+						<mml:math display="block" overflow="scroll">
+							<mml:mrow>
+								<mml:mi>Q</mml:mi>
+								<mml:mo>=</mml:mo>
+								<mml:mo stretchy="true">(</mml:mo>
+								<mml:mn>0.0836</mml:mn>
+								<mml:mi>F</mml:mi>
+								<mml:msup>
+									<mml:mi>r</mml:mi>
+									<mml:mrow>
+										<mml:mn>0.9092</mml:mn>
+									</mml:mrow>
+								</mml:msup>
+								<mml:mo>⋅</mml:mo>
+								<mml:msup>
+									<mml:mrow>
+										<mml:mo stretchy="true">(</mml:mo>
+										<mml:mfrac>
+											<mml:mi>A</mml:mi>
+											<mml:mrow>
+												<mml:msub>
+													<mml:mi>A</mml:mi>
+													<mml:mn>0</mml:mn>
+												</mml:msub>
+											</mml:mrow>
+										</mml:mfrac>
+										<mml:mo stretchy="true">)</mml:mo>
+									</mml:mrow>
+									<mml:mrow>
+										<mml:mn>0.4566</mml:mn>
+									</mml:mrow>
+								</mml:msup>
+								<mml:mo stretchy="true">)</mml:mo>
+								<mml:msqrt>
+									<mml:mrow>
+										<mml:mn>2</mml:mn>
+										<mml:mi>g</mml:mi>
+									</mml:mrow>
+								</mml:msqrt>
+								<mml:mo stretchy="true">(</mml:mo>
+								<mml:mi>b</mml:mi>
+								<mml:msub>
+									<mml:mi>H</mml:mi>
+									<mml:mn>0</mml:mn>
+								</mml:msub>
+								<mml:msup>
+									<mml:mrow/>
+									<mml:mrow>
+										<mml:mfrac>
+											<mml:mrow>
+												<mml:mn>3</mml:mn>
+											</mml:mrow>
+											<mml:mrow>
+												<mml:mn>2</mml:mn>
+											</mml:mrow>
+										</mml:mfrac>
+									</mml:mrow>
+								</mml:msup>
+								<mml:mo>+</mml:mo>
+								<mml:mfrac>
+									<mml:mrow>
+										<mml:msub>
+											<mml:mi>k</mml:mi>
+											<mml:mn>2</mml:mn>
+										</mml:msub>
+										<mml:msub>
+											<mml:mi>H</mml:mi>
+											<mml:mn>0</mml:mn>
+										</mml:msub>
+										<mml:msup>
+											<mml:mrow/>
+											<mml:mrow>
+												<mml:mfrac>
+													<mml:mrow>
+														<mml:mn>5</mml:mn>
+													</mml:mrow>
+													<mml:mrow>
+														<mml:mn>2</mml:mn>
+													</mml:mrow>
+												</mml:mfrac>
+											</mml:mrow>
+										</mml:msup>
+									</mml:mrow>
+									<mml:mrow>
+										<mml:mo></mml:mo>
+										<mml:mtext>tan</mml:mtext>
+										<mml:mo></mml:mo>
+										<mml:mi>α</mml:mi>
+									</mml:mrow>
+								</mml:mfrac>
+								<mml:mo stretchy="true">)</mml:mo>
+							</mml:mrow>
+							<mml:mo>.</mml:mo>
+						</mml:math>
+						<label>(16)</label>
+					</disp-formula>
+				</p>
+			</sec>
+		</sec>
+		<sec id="s5">
+			<label>V.</label>
+			<title>DISCUSSION</title>
+			<sec id="s5A">
+				<label>A.</label>
+				<title>Factors affecting flowing</title>
+				<p>We know that influence factors of debris flow through the spillway should include at least three aspects. First, the characteristics of gully where debris flow occurs. As a common geological and hydrological hazard, debris flow has special catastrophic characteristics due to combination of heavy rainfall (accumulated rainfall of several hundred millimeters within a few hours) and strong terrain (steep small watershed) (
+					<xref ref-type="bibr" rid="c17">Gaume
+						<italic>et al.</italic>, 2009
+					</xref>;
+					<xref ref-type="bibr" rid="c7">Borga
+						<italic>et al.</italic>, 2014
+					</xref>). In the event of debris flow, in addition to the magnitude and duration of rainfall events, the importance of terrain and morphological characteristics of the watershed has been recognized to a certain extent, and watershed morphological variables have been used by empirical methods to predict the size of debris flows (
+					<xref ref-type="bibr" rid="c44">Rickenmann, 1999</xref>;
+					<xref ref-type="bibr" rid="c14">Coe
+						<italic>et al.</italic>, 2003
+					</xref>). Therefore, in steep terrain, peak flow during the outbreak of debris flow will also be greater, and its destructive power will be stronger. We simulate the channel where debris flow occurs as an adjustable slope in a flume. According to our experimental results (
+					<xref ref-type="fig" rid="f9">Fig. 9</xref>), when the slope is steep, discharge of debris flow passing through the spillway will also be higher, and the final obtained discharge coefficient will also be larger. Due to the limitations of the experimental site, we overlooked the influence of the width of the channel on the discharge of spillway, which will also be considered in our subsequent experiments. Similarly, the amount of loose sediment stored in watershed catchment areas plays a crucial role in the outbreak of debris flows (
+					<xref ref-type="bibr" rid="c22">Hungr
+						<italic>et al.</italic>, 1984
+					</xref>;
+					<xref ref-type="bibr" rid="c32">Marchi and D'Agostino, 2004</xref>). In these narrow valleys, a large amount of loose sediment is occasionally transported by debris flows with high intensity and low frequency events, which is also considered the main cutting process in steep terrain (
+					<xref ref-type="bibr" rid="c36">Montgomery and Buffington, 1997</xref>). Therefore, in areas with a large amount of loose sediment, scale of debris flow will also be larger under the influence of extreme rainfall events. We change scale of debris flow by controlling the total amount of debris flow materials. According to the experimental results (
+					<xref ref-type="fig" rid="f8">Fig. 8</xref>), in a larger scale of debris flow, the discharge passing through the spillway will increase sharply, ultimately leading to an enhancement in the discharge coefficient.
+				</p>
+				<p>Second, the influencing factors of debris flows themselves. It is generally believed that debris flows are composed of two substances, namely solid part and fluid part. Solid part includes coarse-grained sediments such as boulders, cobbles, and gravel, while fluid part includes suspended sediments such as sand, silt, and clay (
+					<xref ref-type="bibr" rid="c34">Meyrat
+						<italic>et al.</italic>, 2022
+					</xref>). Although particle size distribution of solid materials may be important in debris flow dynamics (
+					<xref ref-type="bibr" rid="c29">Johnson
+						<italic>et al.</italic>, 2012
+					</xref>), we did not consider the influence of different particle sizes in our experiments, which is also one of the conditions that need to be considered in our subsequent experiments. In this series of experiments, we considered different volume densities, namely bulk density of debris flow referred to in this article. It is composed of solid particles mixed with different amounts of mud. We always assume that solid and fluid components are completely saturated and do not contain interstitial air, which is consistent with most existing debris flow models (
+					<xref ref-type="bibr" rid="c24">Iverson and George, 2014</xref>;
+					<xref ref-type="bibr" rid="c31">Kowalski and McElwaine, 2013</xref>; and
+					<xref ref-type="bibr" rid="c41">Pudasaini, 2012</xref>) that solid and fluid components are two independent phases. According to our experimental results (
+					<xref ref-type="fig" rid="f7">Fig. 7</xref>), discharge coefficient shows a decreasing trend with the increase in bulk density. Debris flow with a high bulk density have a high content of fine particles and strong bonding between coarse and fine particles, resulting in good overall performance. However, their flowability is poor, resulting in smaller mud depth and velocity when debris flow passes through the spillway. Therefore, calculated discharge coefficient is also smaller. Similarly, low bulk density exhibits the opposite trend.
+				</p>
+				<p>Third, the morphological characteristics of spillway. Researchers have pointed out through experimental data that discharge coefficient is related to height to width ratio of weir (
+					<xref ref-type="bibr" rid="c8">Bos, 1989</xref>). Some people have also found that discharge coefficient depends on the ratio of weir head to weir height and have proposed an empirical formula for discharge coefficient (
+					<xref ref-type="bibr" rid="c4">Aydin
+						<italic>et al.</italic>, 2011
+					</xref>). They consider discharge at the spillway as a model of weir flow, so discharge coefficient is related to parameters of spillway. Scholars have fitted the upper and lower thrust profiles of rectangular pointed weirs using equations to obtain a formula for discharge coefficient, which involves parameters such as the width and height of weir (
+					<xref ref-type="bibr" rid="c6">Bagheri and Heidarpour, 2010</xref>). Consequently, we believe that the width and height of spillway are closely related to the discharge coefficient. Moreover, different types of spillway can also have a certain impact on the discharge coefficient. In this series of experiments, we considered different types of spillway and different effective opening widths. Based on our experimental results (
+					<xref ref-type="fig" rid="f6">Figs. 6</xref> and
+					<xref ref-type="fig" rid="f10">10</xref>), we analyzed the differences in discharge capacity among rectangle and trapezium and reasons for these differences. At the same time, we also compared and analyzed the differences in discharge capacity among different effective opening widths. However, there is one type of spillway that we did not consider, which is a complex shape. This shape is formed by combining a rectangle and trapezium (
+					<xref ref-type="bibr" rid="c9">Chan
+						<italic>et al.</italic>, 2020
+					</xref>). When the scale of debris flow is small, it can flow out from the lower part. This form is more complex and presents patterns that may differ from the rectangle and trapezium, which will be further considered in our future experiments.
+				</p>
+			</sec>
+			<sec id="s5B">
+				<label>B.</label>
+				<title>Calculation of discharge</title>
+				<p>After analyzing the influencing factors of discharge capacity, we established a calculation formula for discharge of debris flow through the spillway, as shown in formulas (15) and (16). In the formula, we comprehensively consider the influence of two dimensionless parameters, Froude number and the ratio of flow area. We know that Froude number is commonly used to determine whether debris flows are dominated by inertia or gravity (
+					<xref ref-type="bibr" rid="c27">Jakob
+						<italic>et al.</italic>, 2005
+					</xref>;
+					<xref ref-type="bibr" rid="c21">Hübl
+						<italic>et al.</italic>, 2009
+					</xref>; and
+					<xref ref-type="bibr" rid="c12">Choi
+						<italic>et al.</italic>, 2016
+					</xref>). Froude number can also reflect the differences in the properties of debris flows. For example, under the same experimental conditions, Froude number of low bulk density is significantly greater than that of high bulk density. The ratio of flow area can reflect the impact of different spillway on the discharge. Finally, we compared the computational formulas with research results of previous scholars, as shown in
+					<xref ref-type="fig" rid="f13">Fig. 13</xref>. First, we can see that there is a difference from the results (
+					<xref ref-type="bibr" rid="c54">Wang, 1996</xref>). As he mainly focuses on the rectangular spillway, we analyzed that discharge capacity of a rectangular spillway is smaller than that of a trapezoidal spillway. Therefore, the results calculated using his formulas will be smaller than the actual situation, which is consistent with the results reflected in the graph. Furthermore, compared with
+					<xref ref-type="bibr" rid="c8">Bos (1989)</xref> and
+					<xref ref-type="bibr" rid="c4">Aydin
+						<italic>et al.</italic> (2011)
+					</xref>, their computational expressions yield larger results than those of this study. This is because their experimental material is clean water, and the density of clean water is much smaller than that of debris flow. According to results of this study, discharge coefficient shows a decreasing trend with the increase in bulk density. Therefore, their discharge coefficient will be much larger than the calculated discharge coefficient in this study. It is consistent with the results reflected in the graph. This formula is applicable to hydraulic engineering, but not to the prevention and control of debris flows. Consequently, this study has made improvements on their basis, taking into account the influence of debris flow and spillway on the discharge coefficient, which makes final calculation results more consistent with the actual situation. Due to limitations in our experimental design, to reduce errors in the calculation results, the equation used in this study has certain limitations: Froude number applicable to debris flow is 1.55–3.38; volume concentration of mud and sand in debris flow is 0.182–0.667; and longitudinal slope of gully is 0.087–0.158. It should be noted that the calculation expression in this study is applicable to the condition that the check dam is filled with sediments.
+				</p>
+				<fig fig-type="figure" id="f13" orientation="portrait" position="float">
+					<label>FIG. 13.</label>
+					<caption>
+						<p>Comparison of the results of this study with other studies.</p>
+					</caption>
+					<graphic orientation="portrait" position="float" xlink:href="f13"/>
+				</fig>
+			</sec>
+		</sec>
+		<sec id="s6">
+			<label>VI.</label>
+			<title>CONCLUSION</title>
+			<p>This study analyzed the discharge characteristics and influencing factors of discharge capacity of a spillway through a series flume experiments and established a calculation method for the discharge under the condition that the check dam is filled with sediments. The research results provide a quantitative calculation method for the design of spillway and the energy dissipation and erosion prevention engineering under the dam. The main experimental results are as follows:
+
+				<list list-type="order">
+					<list-item>
+						<label>(1)</label>
+						<p>We can divide the flow behavior of debris flow through the spillway into five stages according to its motion state: contact stage of spillway, flushing and climbing stage, increasing and reflux stage, stable discharge stage, and ultimately discharge stage.</p>
+					</list-item>
+					<list-item>
+						<label>(2)</label>
+						<p>Based on Bernoulli's conservation principle, we are considering the influence of Froude number and the ratio of flow area and have derived the calculation formula of discharge for the spillway.</p>
+					</list-item>
+					<list-item>
+						<label>(3)</label>
+						<p>We have revealed the influence of different factors on the discharge capacity of the spillway. While keeping the flow area parameter constant, the discharge capacity of a trapezoidal spillway is greater than that of a rectangular spillway. The discharge capacity shows a decreasing trend with the increase in bulk density, but there may be differences in the complex shape. The discharge capacity shows an enhancement trend with increasing debris flow scale. The discharge capacity is larger with the increase of slope. The discharge capacity shows a decreasing trend with the increase in effective opening width.</p>
+					</list-item>
+					<list-item>
+						<label>(4)</label>
+						<p>We have established a calculation method for discharge at the spillway of the check dam. The calculated results are compared with the measured results, which are in good agreement. However, due to limitations in our experimental design, in order to reduce errors in the calculation results, equation used in this study has certain limitations: the Froude number applicable to debris flow is 1.55–3.38; volume concentration of mud and sand in debris flow is 0.182–0.667; longitudinal slope of gully is 0.087–0.158. It should be noted that the calculation expression in this study is applicable to the condition that the check dam is filled with sediments.</p>
+					</list-item>
+					<list-item>
+						<label>(5)</label>
+						<p>We have discussed the influencing factors of overflow, mainly including debris flow factors, channel factors, and spillway factors. Furthermore, we compared our results with previous research findings and pointed out the advantages of our research.</p>
+					</list-item>
+				</list>
+			</p>
+		</sec>
+	</body>
+	<back>
+		<ack>
+			<title>ACKNOWLEDGMENTS</title>
+			<p>This study was funded by the National Natural Science Foundation of China (Grant No. 42201095) and the Postdoctoral Research Project Special Funding of Sichuan (Grant No. TB2023028).</p>
+		</ack>
+		<sec sec-type="author-declarations">
+			<title>AUTHOR DECLARATIONS</title>
+			<sec sec-type="conflict-of-interest">
+				<title>Conflict of Interest</title>
+				<p>The authors have no conflicts to disclose.</p>
+			</sec>
+			<sec sec-type="author-contributions">
+				<title>Author Contributions</title>
+				<p>
+					<bold>Wen-tao Zhang:</bold> Conceptualization (equal); Data curation (equal); Formal analysis (equal); Investigation (equal); Methodology (equal); Writing – original draft (equal).
+					<bold>Jin-feng Liu:</bold> Funding acquisition (equal); Writing – review &amp; editing (equal).
+					<bold>Zheng-xuan Xu:</bold> Supervision (equal).
+					<bold>Ping He:</bold> Supervision (equal).
+					<bold>Yong You:</bold> Supervision (equal).
+					<bold>Hao Sun:</bold> Supervision (equal).
+					<bold>Hua-quan Yang:</bold> Supervision (equal).
+				</p>
+			</sec>
+		</sec>
+		<sec sec-type="data-availability">
+			<title>DATA AVAILABILITY</title>
+			<p>The data that support the findings of this study are available from the corresponding author upon reasonable request.</p>
+		</sec>
+		<ref-list content-type="unnumbered">
+			<ref id="c1">
+				<label>1.</label>
+				<mixed-citation publication-type="journal">
+					<string-name>
+						<surname>Armanini</surname>,
+
+						<given-names>A.</given-names>
+					</string-name> and
+
+					<string-name>
+						<surname>Larcher</surname>,
+
+						<given-names>M.</given-names>
+					</string-name>, “
+
+					<article-title>Rational criterion for designing opening of slit-check dam</article-title>,”
+					<source>J. Hydraul. Eng.</source>
+					<volume>
+						<bold>127</bold>
+					</volume>(
+					<issue>2</issue>),
+					<fpage>94</fpage>–
+					<lpage>104</lpage> (
+					<year>2001</year>).
+					<pub-id pub-id-type="doi" specific-use="metadata">10.1061/(ASCE)0733-9429(2001)127:2(94)</pub-id>
+				</mixed-citation>
+			</ref>
+			<ref id="c2">
+				<label>2.</label>
+				<mixed-citation publication-type="confproc">
+					<string-name>
+						<surname>Armanini</surname>,
+
+						<given-names>A.</given-names>
+					</string-name>,
+
+					<string-name>
+						<surname>Dalri</surname>,
+
+						<given-names>C.</given-names>
+					</string-name>, and
+
+					<string-name>
+						<surname>Larcher</surname>,
+
+						<given-names>M.</given-names>
+					</string-name>, “
+
+					<article-title>Slit-check dams for controlling debris flow and mudflow</article-title>,” in
+					<conf-name>
+						<italic>International Symposium on Disaster Mitigation of Debris Flows, Slope Failures and Landslides</italic>
+					</conf-name> (
+
+					<publisher-name>Universal Academy Press, Inc.</publisher-name>,
+					<year>2006</year>), pp.
+					<fpage>141</fpage>–
+					<lpage>148</lpage>.
+				</mixed-citation>
+			</ref>
+			<ref id="c3">
+				<label>3.</label>
+				<mixed-citation publication-type="journal">
+					<string-name>
+						<surname>Aydin</surname>,
+
+						<given-names>I.</given-names>
+					</string-name>,
+
+					<string-name>
+						<surname>Altan-Sakarya</surname>,
+
+						<given-names>A. B.</given-names>
+					</string-name>, and
+
+					<string-name>
+						<surname>Ger</surname>,
+
+						<given-names>A. M.</given-names>
+					</string-name>, “
+
+					<article-title>Performance of slit weir</article-title>,”
+					<source>J. Hydraul. Eng.</source>
+					<volume>
+						<bold>132</bold>
+					</volume>(
+					<issue>9</issue>),
+					<fpage>987</fpage>–
+					<lpage>989</lpage> (
+					<year>2006</year>).
+					<pub-id pub-id-type="doi" specific-use="metadata">10.1061/(ASCE)0733-9429(2006)132:9(987)</pub-id>
+				</mixed-citation>
+			</ref>
+			<ref id="c4">
+				<label>4.</label>
+				<mixed-citation publication-type="journal">
+					<string-name>
+						<surname>Aydin</surname>,
+
+						<given-names>I.</given-names>
+					</string-name>,
+
+					<string-name>
+						<surname>Altan-Sakarya</surname>,
+
+						<given-names>A. B.</given-names>
+					</string-name>, and
+
+					<string-name>
+						<surname>Sisman</surname>,
+
+						<given-names>C.</given-names>
+					</string-name>, “
+
+					<article-title>Discharge formula for rectangular sharp-crested weirs</article-title>,”
+					<source>Flow Meas. Instrum.</source>
+					<volume>
+						<bold>22</bold>
+					</volume>(
+					<issue>2</issue>),
+					<fpage>144</fpage>–
+					<lpage>151</lpage> (
+					<year>2011</year>).
+					<pub-id pub-id-type="doi" specific-use="metadata">10.1016/j.flowmeasinst.2011.01.003</pub-id>
+				</mixed-citation>
+			</ref>
+			<ref id="c5">
+				<label>5.</label>
+				<mixed-citation publication-type="journal">
+					<string-name>
+						<surname>Bijankhan</surname>,
+
+						<given-names>M.</given-names>
+					</string-name>,
+
+					<string-name>
+						<surname>Stefano</surname>,
+
+						<given-names>C. D.</given-names>
+					</string-name>,
+
+					<string-name>
+						<surname>Ferro</surname>,
+
+						<given-names>V.</given-names>
+					</string-name>
+					<etal>
+						<italic>et al.</italic>
+					</etal>, “
+
+					<article-title>New stage–discharge relationship for weirs of finite crest length</article-title>,”
+					<source>J. Irrig. Drain. Eng.</source>
+					<volume>
+						<bold>140</bold>
+					</volume>(
+					<issue>3</issue>),
+					<fpage>228</fpage>–
+					<lpage>232</lpage> (
+					<year>2013</year>).
+				</mixed-citation>
+			</ref>
+			<ref id="c6">
+				<label>6.</label>
+				<mixed-citation publication-type="journal">
+					<string-name>
+						<surname>Bagheri</surname>,
+
+						<given-names>S.</given-names>
+					</string-name> and
+
+					<string-name>
+						<surname>Heidarpour</surname>,
+
+						<given-names>M.</given-names>
+					</string-name>, “
+
+					<article-title>Flow over rectangular sharp-crested weirs</article-title>,”
+					<source>Irrig. Sci.</source>
+					<volume>
+						<bold>28</bold>
+					</volume>,
+					<fpage>173</fpage>–
+					<lpage>179</lpage> (
+					<year>2010</year>).
+					<pub-id pub-id-type="doi" specific-use="metadata">10.1007/s00271-009-0172-1</pub-id>
+				</mixed-citation>
+			</ref>
+			<ref id="c7">
+				<label>7.</label>
+				<mixed-citation publication-type="journal">
+					<string-name>
+						<surname>Borga</surname>,
+
+						<given-names>M.</given-names>
+					</string-name>,
+
+					<string-name>
+						<surname>Stoffel</surname>,
+
+						<given-names>M.</given-names>
+					</string-name>,
+
+					<string-name>
+						<surname>Marchi</surname>,
+
+						<given-names>L.</given-names>
+					</string-name>
+					<etal>
+						<italic>et al.</italic>
+					</etal>, “
+
+					<article-title>Hydrogeomorphic response to extreme rainfall in headwater systems: Flash floods and debris flows</article-title>,”
+					<source>J. Hydrol.</source>
+					<volume>
+						<bold>518</bold>
+					</volume>,
+					<fpage>194</fpage>–
+					<lpage>205</lpage> (
+					<year>2014</year>).
+					<pub-id pub-id-type="doi" specific-use="metadata">10.1016/j.jhydrol.2014.05.022</pub-id>
+				</mixed-citation>
+			</ref>
+			<ref id="c8">
+				<label>8.</label>
+				<mixed-citation publication-type="book">
+					<string-name>
+						<surname>Bos</surname>,
+
+						<given-names>M. G.</given-names>
+					</string-name>,
+					<source>
+						<italic>Discharge Measurement Structures</italic>
+					</source> (
+
+					<publisher-name>International Institute for Land Reclamation and Improvement, ILRI</publisher-name>,
+
+					<publisher-loc>Wageningen</publisher-loc>,
+					<year>1989</year>).
+				</mixed-citation>
+			</ref>
+			<ref id="c70">
+				<label>9.</label>
+				<mixed-citation publication-type="thesis">
+					<string-name>
+						<surname>Cai</surname>
+						<given-names>H.-g.</given-names>
+					</string-name>, “
+
+					<article-title>Investigation of damage features and study failure mechanism to protection engineering for debris flow in the Wenchuan earthquake region</article-title>,” M.S. thesis (
+
+					<publisher-name>Chengdu University of Technology</publisher-name>,
+					<year>2012</year>) (in Chinese).
+				</mixed-citation>
+			</ref>
+			<ref id="c9">
+				<label>10.</label>
+				<mixed-citation publication-type="journal">
+					<string-name>
+						<surname>Chan</surname>,
+
+						<given-names>H. C.</given-names>
+					</string-name>,
+
+					<string-name>
+						<surname>Yang</surname>,
+
+						<given-names>H. K.</given-names>
+					</string-name>,
+
+					<string-name>
+						<surname>Lin</surname>,
+
+						<given-names>P. W.</given-names>
+					</string-name>
+					<etal>
+						<italic>et al.</italic>
+					</etal>, “
+
+					<article-title>Discharge formula for flows over open-check dams</article-title>,”
+					<source>Flow Meas. Instrum.</source>
+					<volume>
+						<bold>72</bold>
+					</volume>,
+					<fpage>101690</fpage> (
+					<year>2020</year>).
+					<pub-id pub-id-type="doi" specific-use="metadata">10.1016/j.flowmeasinst.2019.101690</pub-id>
+				</mixed-citation>
+			</ref>
+			<ref id="c10">
+				<label>11.</label>
+				<mixed-citation publication-type="journal">
+					<string-name>
+						<surname>Chen</surname>,
+
+						<given-names>H.</given-names>
+					</string-name>,
+
+					<string-name>
+						<surname>Liu</surname>,
+
+						<given-names>J.</given-names>
+					</string-name>, and
+
+					<string-name>
+						<surname>Zhao</surname>,
+
+						<given-names>W.</given-names>
+					</string-name>, “
+
+					<article-title>Effects of
+						<italic>Y</italic>-type spillway lateral contraction ratios on debris-flow patterns and scour features downriver of a check dam
+					</article-title>,”
+					<source>Nat. Hazards Earth Syst. Sci.</source>
+					<volume>
+						<bold>16</bold>
+					</volume>(
+					<issue>11</issue>),
+					<fpage>2433</fpage>–
+					<lpage>2442</lpage> (
+					<year>2016a</year>).
+					<pub-id pub-id-type="doi" specific-use="metadata">10.5194/nhess-16-2433-2016</pub-id>
+				</mixed-citation>
+			</ref>
+			<ref id="c11">
+				<label>12.</label>
+				<mixed-citation publication-type="journal">
+					<string-name>
+						<surname>Chen</surname>,
+
+						<given-names>H.-Y.</given-names>
+					</string-name>,
+
+					<string-name>
+						<surname>Cui</surname>,
+
+						<given-names>P.</given-names>
+					</string-name>,
+
+					<string-name>
+						<surname>Chen</surname>,
+
+						<given-names>J.-G.</given-names>
+					</string-name>
+					<etal>
+						<italic>et al.</italic>
+					</etal>, “
+
+					<article-title>Effects of spillway types on debris flow trajectory and scour behind a sabo dam</article-title>,”
+					<source>J. Mt. Sci.</source>
+					<volume>
+						<bold>13</bold>
+					</volume>,
+					<fpage>203</fpage>–
+					<lpage>212</lpage> (
+					<year>2016b</year>).
+					<pub-id pub-id-type="doi" specific-use="metadata">10.1007/s11629-015-3607-6</pub-id>
+				</mixed-citation>
+			</ref>
+			<ref id="c12">
+				<label>13.</label>
+				<mixed-citation publication-type="journal">
+					<string-name>
+						<surname>Choi</surname>,
+
+						<given-names>C. E.</given-names>
+					</string-name>,
+
+					<string-name>
+						<surname>Goodwin</surname>,
+
+						<given-names>S. R.</given-names>
+					</string-name>,
+
+					<string-name>
+						<surname>Ng</surname>,
+
+						<given-names>C. W. W.</given-names>
+					</string-name>
+					<etal>
+						<italic>et al.</italic>
+					</etal>, “
+
+					<article-title>Coarse granular flow interaction with slit structures</article-title>,”
+					<source>Geotech. Lett.</source>
+					<volume>
+						<bold>6</bold>
+					</volume>(
+					<issue>4</issue>),
+					<fpage>267</fpage>–
+					<lpage>274</lpage> (
+					<year>2016</year>).
+					<pub-id pub-id-type="doi" specific-use="metadata">10.1680/jgele.16.00103</pub-id>
+				</mixed-citation>
+			</ref>
+			<ref id="c14">
+				<label>14.</label>
+				<mixed-citation publication-type="book">
+					<string-name>
+						<surname>Coe</surname>,
+
+						<given-names>J. A.</given-names>
+					</string-name>,
+
+					<string-name>
+						<surname>Godt</surname>,
+
+						<given-names>J. W.</given-names>
+					</string-name>,
+
+					<string-name>
+						<surname>Parise</surname>,
+
+						<given-names>M.</given-names>
+					</string-name>
+					<etal>
+						<italic>et al.</italic>
+					</etal>, “
+
+					<article-title>Estimating debris-flow probability using fan stratigraphy, historic records, and drainage-basin morphology, interstate 70 highway corridor, Central Colorado, USA</article-title>,” in
+					<conf-name>
+						<italic>Proceedings of the 3rd International Conference on Debris-Flow Hazards Mitigation: Mechanics, Prediction, and Assessment</italic>
+					</conf-name>, edited by
+					<person-group person-group-type="editor">
+						<string-name>
+							<given-names>D.</given-names>
+							<surname>Rickenmann</surname>
+						</string-name> and
+
+						<string-name>
+							<given-names>C. L.</given-names>
+							<surname>Cheng</surname>
+						</string-name>
+					</person-group> (
+
+					<publisher-name>Davos</publisher-name>,
+
+					<publisher-loc>Switzerland</publisher-loc>,
+					<year>2003</year>), pp.
+					<fpage>207</fpage>–
+					<lpage>217</lpage>.
+				</mixed-citation>
+			</ref>
+			<ref id="c15">
+				<label>15.</label>
+				<mixed-citation publication-type="journal">
+					<string-name>
+						<surname>Cucchiaro</surname>,
+
+						<given-names>S.</given-names>
+					</string-name>,
+
+					<string-name>
+						<surname>Cavalli</surname>,
+
+						<given-names>M.</given-names>
+					</string-name>,
+
+					<string-name>
+						<surname>Vericat</surname>,
+
+						<given-names>D.</given-names>
+					</string-name>
+					<etal>
+						<italic>et al.</italic>
+					</etal>, “
+
+					<article-title>Geomorphic effectiveness of check dams in a debris-flow catchment using multi-temporal topographic surveys</article-title>,”
+					<source>Catena</source>
+					<volume>
+						<bold>174</bold>
+					</volume>,
+					<fpage>73</fpage>–
+					<lpage>83</lpage> (
+					<year>2019</year>).
+					<pub-id pub-id-type="doi" specific-use="metadata">10.1016/j.catena.2018.11.004</pub-id>
+				</mixed-citation>
+			</ref>
+			<ref id="c71">
+				<label>16.</label>
+				<mixed-citation publication-type="journal">
+					<string-name>
+						<surname>Fang</surname>,
+
+						<given-names>C.-h.</given-names>
+					</string-name> and
+
+					<string-name>
+						<surname>Fang</surname>,
+
+						<given-names>K.</given-names>
+					</string-name>, “
+
+					<article-title>Derivation and verification of a new generalized formula set for calculating maximum instantaneous dam breach discharge</article-title>,”
+					<source>Adv. Water Sci.</source>
+					<volume>
+						<bold>23</bold>
+					</volume>(
+					<issue>05</issue>),
+					<fpage>721</fpage>–
+					<lpage>727</lpage> (
+					<year>2012</year>) (in Chinese).
+				</mixed-citation>
+			</ref>
+			<ref id="c16">
+				<label>17.</label>
+				<mixed-citation publication-type="journal">
+					<string-name>
+						<surname>Ferro</surname>,
+
+						<given-names>V.</given-names>
+					</string-name>, “
+
+					<article-title>New theoretical solution of the stage-discharge relationship for sharp-crested and broad weirs</article-title>,”
+					<source>J. Irrig. Drain. Eng.</source>
+					<volume>
+						<bold>138</bold>
+					</volume>(
+					<issue>3</issue>),
+					<fpage>257</fpage>–
+					<lpage>265</lpage> (
+					<year>2012</year>).
+					<pub-id pub-id-type="doi" specific-use="metadata">10.1061/(ASCE)IR.1943-4774.0000397</pub-id>
+				</mixed-citation>
+			</ref>
+			<ref id="c17">
+				<label>18.</label>
+				<mixed-citation publication-type="journal">
+					<string-name>
+						<surname>Gaume</surname>,
+
+						<given-names>E.</given-names>
+					</string-name>,
+
+					<string-name>
+						<surname>Bain</surname>,
+
+						<given-names>V.</given-names>
+					</string-name>,
+
+					<string-name>
+						<surname>Bernardara</surname>,
+
+						<given-names>P.</given-names>
+					</string-name>
+					<etal>
+						<italic>et al.</italic>
+					</etal>, “
+
+					<article-title>A compilation of data on European flash floods</article-title>,”
+					<source>J. Hydrol.</source>
+					<volume>
+						<bold>367</bold>
+					</volume>(
+					<issue>1–2</issue>),
+					<fpage>70</fpage>–
+					<lpage>78</lpage> (
+					<year>2009</year>).
+					<pub-id pub-id-type="doi" specific-use="metadata">10.1016/j.jhydrol.2008.12.028</pub-id>
+				</mixed-citation>
+			</ref>
+			<ref id="c19">
+				<label>19.</label>
+				<mixed-citation publication-type="journal">
+					<string-name>
+						<surname>Hu</surname>,
+
+						<given-names>K.</given-names>
+					</string-name>,
+
+					<string-name>
+						<surname>Wei</surname>,
+
+						<given-names>F.</given-names>
+					</string-name>, and
+
+					<string-name>
+						<surname>Li</surname>,
+
+						<given-names>Y.</given-names>
+					</string-name>, “
+
+					<article-title>Real‐time measurement and preliminary analysis of debris‐flow impact force at Jiangjia Ravine, China</article-title>,”
+					<source>Earth Surf. Processes Landforms</source>
+					<volume>
+						<bold>36</bold>
+					</volume>(
+					<issue>9</issue>),
+					<fpage>1268</fpage>–
+					<lpage>1278</lpage> (
+					<year>2011</year>).
+					<pub-id pub-id-type="doi" specific-use="metadata">10.1002/esp.2155</pub-id>
+				</mixed-citation>
+			</ref>
+			<ref id="c20">
+				<label>20.</label>
+				<mixed-citation publication-type="book">
+					<string-name>
+						<surname>Hübl</surname>,
+
+						<given-names>J.</given-names>
+					</string-name> and
+
+					<string-name>
+						<surname>Suda</surname>,
+
+						<given-names>J.</given-names>
+					</string-name>,
+					<source>
+						<italic>Debris Flow Mitigation Measures in Austria</italic>
+					</source> (
+
+					<publisher-name>Springer</publisher-name>,
+					<year>2008</year>), pp.
+					<fpage>445</fpage>–
+					<lpage>487</lpage>.
+				</mixed-citation>
+			</ref>
+			<ref id="c21">
+				<label>21.</label>
+				<mixed-citation publication-type="confproc">
+					<string-name>
+						<surname>Hübl</surname>,
+
+						<given-names>J.</given-names>
+					</string-name>,
+
+					<string-name>
+						<surname>Suda</surname>,
+
+						<given-names>J.</given-names>
+					</string-name>,
+
+					<string-name>
+						<surname>Proske</surname>,
+
+						<given-names>D.</given-names>
+					</string-name>
+					<etal>
+						<italic>et al.</italic>
+					</etal>, “
+
+					<article-title>Debris flow impact estimation</article-title>,” in
+					<conf-name>Proceedings of the 11th International Symposium on Water Management and Hydraulic Engineering</conf-name>, Skopje, Macedonia,
+					<year>2009</year>.
+				</mixed-citation>
+			</ref>
+			<ref id="c22">
+				<label>22.</label>
+				<mixed-citation publication-type="journal">
+					<string-name>
+						<surname>Hungr</surname>,
+
+						<given-names>O.</given-names>
+					</string-name>,
+
+					<string-name>
+						<surname>Morgan</surname>,
+
+						<given-names>G. C.</given-names>
+					</string-name>, and
+
+					<string-name>
+						<surname>Kellerhals</surname>,
+
+						<given-names>R.</given-names>
+					</string-name>, “
+
+					<article-title>Quantitative analysis of debris torrent hazards for design of remedial measures</article-title>,”
+					<source>Can. Geotech. J.</source>
+					<volume>
+						<bold>21</bold>
+					</volume>(
+					<issue>4</issue>),
+					<fpage>663</fpage>–
+					<lpage>677</lpage> (
+					<year>1984</year>).
+					<pub-id pub-id-type="doi" specific-use="metadata">10.1139/t84-073</pub-id>
+				</mixed-citation>
+			</ref>
+			<ref id="c23">
+				<label>23.</label>
+				<mixed-citation publication-type="journal">
+					<string-name>
+						<surname>Iverson</surname>,
+
+						<given-names>R. M.</given-names>
+					</string-name>, “
+
+					<article-title>The physics of debris flows</article-title>,”
+					<source>Rev. Geophys.</source>
+					<volume>
+						<bold>35</bold>
+					</volume>(
+					<issue>3</issue>),
+					<fpage>245</fpage>–
+					<lpage>296</lpage>,
+					<ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1029/97RG00426">https://doi.org/10.1029/97RG00426</ext-link> (
+					<year>1997</year>).
+				</mixed-citation>
+			</ref>
+			<ref id="c24">
+				<label>24.</label>
+				<mixed-citation publication-type="journal">
+					<string-name>
+						<surname>Iverson</surname>,
+
+						<given-names>R. M.</given-names>
+					</string-name> and
+
+					<string-name>
+						<surname>George</surname>,
+
+						<given-names>D. L.</given-names>
+					</string-name>, “
+
+					<article-title>A depth-averaged debris-flow model that includes the effects of evolving dilatancy. I. Physical basis</article-title>,”
+					<source>Proc. R. Soc. A</source>
+					<volume>
+						<bold>470</bold>
+					</volume>(
+					<issue>2170</issue>),
+					<fpage>20130819</fpage> (
+					<year>2014</year>).
+					<pub-id pub-id-type="doi" specific-use="metadata">10.1098/rspa.2013.0819</pub-id>
+				</mixed-citation>
+			</ref>
+			<ref id="c25">
+				<label>25.</label>
+				<mixed-citation publication-type="journal">
+					<string-name>
+						<surname>Iverson</surname>,
+
+						<given-names>R. M.</given-names>
+					</string-name> and
+
+					<string-name>
+						<surname>George</surname>,
+
+						<given-names>D. L.</given-names>
+					</string-name>, “
+
+					<article-title>Modelling landslide liquefaction, mobility bifurcation and the dynamics of the 2014 Oso disaster</article-title>,”
+					<source>Géotechnique</source>
+					<volume>
+						<bold>66</bold>
+					</volume>(
+					<issue>3</issue>),
+					<fpage>175</fpage>–
+					<lpage>187</lpage> (
+					<year>2016</year>).
+					<pub-id pub-id-type="doi" specific-use="metadata">10.1680/jgeot.15.LM.004</pub-id>
+				</mixed-citation>
+			</ref>
+			<ref id="c26">
+				<label>26.</label>
+				<mixed-citation publication-type="journal">
+					<string-name>
+						<surname>Iverson</surname>,
+
+						<given-names>R. M.</given-names>
+					</string-name> and
+
+					<string-name>
+						<surname>Vallance</surname>,
+
+						<given-names>J. W.</given-names>
+					</string-name>, “
+
+					<article-title>New views of granular mass flows</article-title>,”
+					<source>Geology</source>
+					<volume>
+						<bold>29</bold>
+					</volume>(
+					<issue>2</issue>),
+					<fpage>115</fpage>–
+					<lpage>118</lpage> (
+					<year>2001</year>).
+					<pub-id pub-id-type="doi" specific-use="metadata">10.1130/0091-7613(2001)029&lt;0115:NVOGMF&gt;2.0.CO;2</pub-id>
+				</mixed-citation>
+			</ref>
+			<ref id="c27">
+				<label>27.</label>
+				<mixed-citation publication-type="book">
+					<string-name>
+						<surname>Jakob</surname>,
+
+						<given-names>M.</given-names>
+					</string-name>,
+
+					<string-name>
+						<surname>Hungr</surname>,
+
+						<given-names>O.</given-names>
+					</string-name>,
+
+					<string-name>
+						<surname>Huebl</surname>,
+
+						<given-names>J.</given-names>
+					</string-name>
+					<etal>
+						<italic>et al.</italic>
+					</etal>, “
+
+					<article-title>Debris-flow mitigation measures</article-title>,” in
+					<source>
+						<italic>Debris-flow Hazards and Related Phenomena</italic>
+					</source> (Springer,
+					<year>2005</year>), pp.
+					<fpage>445</fpage>–
+					<lpage>487</lpage>.
+				</mixed-citation>
+			</ref>
+			<ref id="c29">
+				<label>28.</label>
+				<mixed-citation publication-type="journal">
+					<string-name>
+						<surname>Johnson</surname>,
+
+						<given-names>C. G.</given-names>
+					</string-name>,
+
+					<string-name>
+						<surname>Kokelaar</surname>,
+
+						<given-names>B. P.</given-names>
+					</string-name>,
+
+					<string-name>
+						<surname>Iverson</surname>,
+
+						<given-names>R. M.</given-names>
+					</string-name>
+					<etal>
+						<italic>et al.</italic>
+					</etal>, “
+
+					<article-title>Grain‐size segregation and levee formation in geophysical mass flows</article-title>,”
+					<source>J. Geophys. Res.</source>
+					<volume>
+						<bold>117</bold>
+					</volume>, F01032,
+					<ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1029/2011JF002185">https://doi.org/10.1029/2011JF002185</ext-link> (
+					<year>2012</year>).
+				</mixed-citation>
+			</ref>
+			<ref id="c30">
+				<label>29.</label>
+				<mixed-citation publication-type="journal">
+					<string-name>
+						<surname>Kim</surname>,
+
+						<given-names>N.</given-names>
+					</string-name>,
+
+					<string-name>
+						<surname>Nakagawa</surname>,
+
+						<given-names>H.</given-names>
+					</string-name>,
+
+					<string-name>
+						<surname>Kawaike</surname>,
+
+						<given-names>K.</given-names>
+					</string-name>
+					<etal>
+						<italic>et al.</italic>
+					</etal>, “
+
+					<article-title>Estimation of debris flow discharge coefficient considering sediment concentration</article-title>,”
+					<source>Int. J. Sediment Res.</source>
+					<volume>
+						<bold>34</bold>
+					</volume>(
+					<issue>1</issue>),
+					<fpage>1</fpage>–
+					<lpage>7</lpage> (
+					<year>2019</year>).
+					<pub-id pub-id-type="doi" specific-use="metadata">10.1016/j.ijsrc.2018.05.003</pub-id>
+				</mixed-citation>
+			</ref>
+			<ref id="c31">
+				<label>30.</label>
+				<mixed-citation publication-type="journal">
+					<string-name>
+						<surname>Kowalski</surname>,
+
+						<given-names>J.</given-names>
+					</string-name> and
+
+					<string-name>
+						<surname>McElwaine</surname>,
+
+						<given-names>J. N.</given-names>
+					</string-name>, “
+
+					<article-title>Shallow two-component gravity-driven flows with vertical variation</article-title>,”
+					<source>J. Fluid Mech.</source>
+					<volume>
+						<bold>714</bold>
+					</volume>,
+					<fpage>434</fpage>–
+					<lpage>462</lpage> (
+					<year>2013</year>).
+					<pub-id pub-id-type="doi" specific-use="metadata">10.1017/jfm.2012.489</pub-id>
+				</mixed-citation>
+			</ref>
+			<ref id="c73">
+				<label>31.</label>
+				<mixed-citation publication-type="journal">
+					<string-name>
+						<surname>Lin</surname>,
+
+						<given-names>X.-p.</given-names>
+					</string-name>,
+
+					<string-name>
+						<surname>You</surname>,
+
+						<given-names>Y.</given-names>
+					</string-name>,
+
+					<string-name>
+						<surname>Liu</surname>,
+
+						<given-names>J.-f.</given-names>
+					</string-name>
+					<etal>
+						<italic>et al</italic>
+					</etal>.,   “
+
+					<article-title>Experimental study on discharge capacity of spillway of check dam for debris flow</article-title>,”
+					<source>J. Nat. Disasters</source>
+					<volume>
+						<bold>24</bold>
+					</volume>(
+					<issue>01</issue>),
+					<fpage>9</fpage>–
+					<lpage>14</lpage> (
+					<year>2015</year>) (in Chinese).
+				</mixed-citation>
+			</ref>
+			<ref id="c32">
+				<label>32.</label>
+				<mixed-citation publication-type="journal">
+					<string-name>
+						<surname>Marchi</surname>,
+
+						<given-names>L.</given-names>
+					</string-name> and
+
+					<string-name>
+						<surname>D'Agostino</surname>,
+
+						<given-names>V.</given-names>
+					</string-name>, “
+
+					<article-title>Estimation of debris‐flow magnitude in the Eastern Italian Alps</article-title>,”
+					<source>Earth Surf. Processes Landforms</source>
+					<volume>
+						<bold>29</bold>
+					</volume>(
+					<issue>2</issue>),
+					<fpage>207</fpage>–
+					<lpage>220</lpage> (
+					<year>2004</year>).
+					<pub-id pub-id-type="doi" specific-use="metadata">10.1002/esp.1027</pub-id>
+				</mixed-citation>
+			</ref>
+			<ref id="c33">
+				<label>33.</label>
+				<mixed-citation publication-type="journal">
+					<string-name>
+						<surname>Martinez</surname>,
+
+						<given-names>J.</given-names>
+					</string-name>,
+
+					<string-name>
+						<surname>Reca</surname>,
+
+						<given-names>J.</given-names>
+					</string-name>,
+
+					<string-name>
+						<surname>Morillas</surname>,
+
+						<given-names>M. T.</given-names>
+					</string-name>
+					<etal>
+						<italic>et al.</italic>
+					</etal>, “
+
+					<article-title>Design and calibration of a compound sharp-crested weir</article-title>,”
+					<source>J. Hydraul. Eng.</source>
+					<volume>
+						<bold>131</bold>
+					</volume>(
+					<issue>2</issue>),
+					<fpage>112</fpage>–
+					<lpage>116</lpage> (
+					<year>2005</year>).
+					<pub-id pub-id-type="doi" specific-use="metadata">10.1061/(ASCE)0733-9429(2005)131:2(112)</pub-id>
+				</mixed-citation>
+			</ref>
+			<ref id="c34">
+				<label>34.</label>
+				<mixed-citation publication-type="journal">
+					<string-name>
+						<surname>Meyrat</surname>,
+
+						<given-names>G.</given-names>
+					</string-name>,
+
+					<string-name>
+						<surname>McArdell</surname>,
+
+						<given-names>B.</given-names>
+					</string-name>,
+
+					<string-name>
+						<surname>Ivanova</surname>,
+
+						<given-names>K.</given-names>
+					</string-name>
+					<etal>
+						<italic>et al.</italic>
+					</etal>, “
+
+					<article-title>A dilatant, two-layer debris flow model validated by flow density measurements at the Swiss illgraben test site</article-title>,”
+					<source>Landslides</source>
+					<volume>
+						<bold>19</bold>
+					</volume>(
+					<issue>2</issue>),
+					<fpage>265</fpage>–
+					<lpage>276</lpage> (
+					<year>2022</year>).
+					<pub-id pub-id-type="doi" specific-use="metadata">10.1007/s10346-021-01733-2</pub-id>
+				</mixed-citation>
+			</ref>
+			<ref id="c35">
+				<label>35.</label>
+				<mixed-citation publication-type="journal">
+					<string-name>
+						<surname>Mizuyama</surname>,
+
+						<given-names>T.</given-names>
+					</string-name>
+					<etal>
+						<italic>et al</italic>
+					</etal>., “
+
+					<article-title>The flow coefficient and sediment shape of slit dam</article-title>,”
+					<source>Technol. Soil Water Conserv.</source>
+					<volume>
+						<bold>04</bold>
+					</volume>,
+					<fpage>9</fpage>–
+					<lpage>10</lpage> (
+					<year>1994</year>) (in Chinese).
+				</mixed-citation>
+			</ref>
+			<ref id="c36">
+				<label>36.</label>
+				<mixed-citation publication-type="journal">
+					<string-name>
+						<surname>Montgomery</surname>,
+
+						<given-names>D. R.</given-names>
+					</string-name> and
+
+					<string-name>
+						<surname>Buffington</surname>,
+
+						<given-names>J. M.</given-names>
+					</string-name>, “
+
+					<article-title>Channel-reach morphology in mountain drainage basins</article-title>,”
+					<source>Geol. Soc. Am. Bull.</source>
+					<volume>
+						<bold>109</bold>
+					</volume>(
+					<issue>5</issue>),
+					<fpage>596</fpage>–
+					<lpage>611</lpage> (
+					<year>1997</year>).
+					<pub-id pub-id-type="doi" specific-use="metadata">10.1130/0016-7606(1997)109&lt;0596:CRMIMD&gt;2.3.CO;2</pub-id>
+				</mixed-citation>
+			</ref>
+			<ref id="c37">
+				<label>37.</label>
+				<mixed-citation publication-type="journal">
+					<string-name>
+						<surname>Negm</surname>,
+
+						<given-names>A. A. M.</given-names>
+					</string-name>,
+
+					<string-name>
+						<surname>Al-Brahim</surname>,
+
+						<given-names>A. M.</given-names>
+					</string-name>, and
+
+					<string-name>
+						<surname>Alhamid</surname>,
+
+						<given-names>A. A.</given-names>
+					</string-name>, “
+
+					<article-title>Combined-free flow over weirs and below gates</article-title>,”
+					<source>J. Hydraul. Res.</source>
+					<volume>
+						<bold>40</bold>
+					</volume>(
+					<issue>3</issue>),
+					<fpage>359</fpage>–
+					<lpage>365</lpage> (
+					<year>2002</year>).
+					<pub-id pub-id-type="doi" specific-use="metadata">10.1080/00221680209499950</pub-id>
+				</mixed-citation>
+			</ref>
+			<ref id="c38">
+				<label>38.</label>
+				<mixed-citation publication-type="confproc">
+					<string-name>
+						<surname>Ono</surname>,
+
+						<given-names>G.</given-names>
+					</string-name>,
+
+					<string-name>
+						<surname>Mizuyama</surname>,
+
+						<given-names>T.</given-names>
+					</string-name>, and
+
+					<string-name>
+						<surname>Matsumura</surname>,
+
+						<given-names>K.</given-names>
+					</string-name>, “
+
+					<article-title>Current practices in the design and evaluation of steel sabo facilities in Japan</article-title>,” in Proceedings of the INTERPRAEVENT International Symposium, Riva del Garda, Italy, May 2004, pp. 243–264.
+				</mixed-citation>
+			</ref>
+			<ref id="c39">
+				<label>39.</label>
+				<mixed-citation publication-type="journal">
+					<string-name>
+						<surname>Piton</surname>,
+
+						<given-names>G.</given-names>
+					</string-name> and
+
+					<string-name>
+						<surname>Recking</surname>,
+
+						<given-names>A.</given-names>
+					</string-name>, “
+
+					<article-title>Effects of check dams on bed-load transport and steep-slope stream morphodynamics</article-title>,”
+					<source>Geomorphology</source>
+					<volume>
+						<bold>291</bold>
+					</volume>,
+					<fpage>94</fpage>–
+					<lpage>105</lpage> (
+					<year>2017</year>).
+					<pub-id pub-id-type="doi" specific-use="metadata">10.1016/j.geomorph.2016.03.001</pub-id>
+				</mixed-citation>
+			</ref>
+			<ref id="c40">
+				<label>40.</label>
+				<mixed-citation publication-type="journal">
+					<string-name>
+						<surname>Piton</surname>,
+
+						<given-names>G.</given-names>
+					</string-name> and
+
+					<string-name>
+						<surname>Recking</surname>,
+
+						<given-names>A.</given-names>
+					</string-name>, “
+
+					<article-title>Design of sediment traps with open check dams. I: Hydraulic and deposition processes</article-title>,”
+					<source>J. Hydraul. Eng.</source>
+					<volume>
+						<bold>142</bold>
+					</volume>(
+					<issue>2</issue>),
+					<fpage>04015045</fpage> (
+					<year>2016</year>).
+					<pub-id pub-id-type="doi" specific-use="metadata">10.1061/(ASCE)HY.1943-7900.0001048</pub-id>
+				</mixed-citation>
+			</ref>
+			<ref id="c41">
+				<label>41.</label>
+				<mixed-citation publication-type="journal">
+					<string-name>
+						<surname>Pudasaini</surname>,
+
+						<given-names>S. P.</given-names>
+					</string-name>, “
+
+					<article-title>A general two‐phase debris flow model</article-title>,”
+					<source>J. Geophys. Res.</source>
+					<volume>
+						<bold>117</bold>
+					</volume>,
+					<fpage>F03010</fpage>,
+					<ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1029/2011JF002186">https://doi.org/10.1029/2011JF002186</ext-link> (
+					<year>2012</year>).
+				</mixed-citation>
+			</ref>
+			<ref id="c42">
+				<label>42.</label>
+				<mixed-citation publication-type="book">
+					<string-name>
+						<surname>Remaître</surname>,
+
+						<given-names>A.</given-names>
+					</string-name>,
+					<source>
+						<italic>Morphologie et Dynamique des Laves Torrentielles: Applications aux Torrents des Terres Noires du Bassin de Barcelonnette (Alpes du Sud)</italic>
+					</source> (
+
+					<publisher-name>University of Caen-Basse-Normandie</publisher-name>,
+
+					<publisher-loc>Caen, France</publisher-loc>,
+					<year>2006</year>).
+				</mixed-citation>
+			</ref>
+			<ref id="c43">
+				<label>43.</label>
+				<mixed-citation publication-type="journal">
+					<string-name>
+						<surname>Remaître</surname>,
+
+						<given-names>A.</given-names>
+					</string-name>,
+
+					<string-name>
+						<surname>Van Asch</surname>,
+
+						<given-names>Th. W. J.</given-names>
+					</string-name>,
+
+					<string-name>
+						<surname>Malet</surname>,
+
+						<given-names>J. P.</given-names>
+					</string-name>
+					<etal>
+						<italic>et al.</italic>
+					</etal>, “
+
+					<article-title>Influence of check dams on debris-flow run-out intensity</article-title>,”
+					<source>Nat. Hazards Earth Syst. Sci.</source>
+					<volume>
+						<bold>8</bold>
+					</volume>(
+					<issue>6</issue>),
+					<fpage>1403</fpage>–
+					<lpage>1416</lpage> (
+					<year>2008</year>).
+					<pub-id pub-id-type="doi" specific-use="metadata">10.5194/nhess-8-1403-2008</pub-id>
+				</mixed-citation>
+			</ref>
+			<ref id="c44">
+				<label>44.</label>
+				<mixed-citation publication-type="journal">
+					<string-name>
+						<surname>Rickenmann</surname>,
+
+						<given-names>D.</given-names>
+					</string-name>, “
+
+					<article-title>Empirical relationships for debris flows</article-title>,”
+					<source>Nat. Hazards</source>
+					<volume>
+						<bold>19</bold>
+					</volume>,
+					<fpage>47</fpage>–
+					<lpage>77</lpage> (
+					<year>1999</year>).
+					<pub-id pub-id-type="doi" specific-use="metadata">10.1023/A:1008064220727</pub-id>
+				</mixed-citation>
+			</ref>
+			<ref id="c45">
+				<label>45.</label>
+				<mixed-citation publication-type="journal">
+					<string-name>
+						<surname>Roushangar</surname>,
+
+						<given-names>K.</given-names>
+					</string-name>,
+
+					<string-name>
+						<surname>Akhgar</surname>,
+
+						<given-names>S.</given-names>
+					</string-name>, and
+
+					<string-name>
+						<surname>Salmasi</surname>,
+
+						<given-names>F.</given-names>
+					</string-name>, “
+
+					<article-title>Estimating discharge coefficient of stepped spillways under nappe and skimming flow regime using data driven approaches</article-title>,”
+					<source>Flow Meas. Instrum.</source>
+					<volume>
+						<bold>59</bold>
+					</volume>,
+					<fpage>79</fpage>–
+					<lpage>87</lpage> (
+					<year>2018</year>).
+					<pub-id pub-id-type="doi" specific-use="metadata">10.1016/j.flowmeasinst.2017.12.006</pub-id>
+				</mixed-citation>
+			</ref>
+			<ref id="c46">
+				<label>46.</label>
+				<mixed-citation publication-type="book">
+					<string-name>
+						<surname>Rudolf-Miklau</surname>,
+
+						<given-names>F.</given-names>
+					</string-name> and
+
+					<string-name>
+						<surname>Suda</surname>,
+
+						<given-names>J.</given-names>
+					</string-name>, “
+
+					<article-title>Design criteria for torrential barriers</article-title>,” in
+					<source>
+						<italic>Dating Torrential Processes on Fans and Cones: Methods and Their Application for Hazard and Risk Assessment</italic>
+					</source> (
+
+					<publisher-name>Springer Netherlands</publisher-name>,
+
+					<publisher-loc>Dordrecht</publisher-loc>,
+					<year>2012</year>), pp.
+					<fpage>375</fpage>–
+					<lpage>389</lpage>.
+				</mixed-citation>
+			</ref>
+			<ref id="c48">
+				<label>47.</label>
+				<mixed-citation publication-type="journal">
+					<string-name>
+						<surname>Salmasi</surname>,
+
+						<given-names>F.</given-names>
+					</string-name>, “
+
+					<article-title>Discharge relations for rectangular broad-crested weirs</article-title>,”
+					<source>J. Agric. Sci.</source>
+					<volume>
+						<bold>17</bold>
+					</volume>(
+					<issue>4</issue>),
+					<fpage>324</fpage>–
+					<lpage>336</lpage> (
+					<year>2011</year>).
+				</mixed-citation>
+			</ref>
+			<ref id="c49">
+				<label>48.</label>
+				<mixed-citation publication-type="journal">
+					<string-name>
+						<surname>Sargison</surname>,
+
+						<given-names>J. E.</given-names>
+					</string-name> and
+
+					<string-name>
+						<surname>Percy</surname>,
+
+						<given-names>A.</given-names>
+					</string-name>, “
+
+					<article-title>Hydraulics of broad-crested weirs with varying side slopes</article-title>,”
+					<source>J. Irrig. Drain. Eng.</source>
+					<volume>
+						<bold>135</bold>
+					</volume>(
+					<issue>1</issue>),
+					<fpage>115</fpage>–
+					<lpage>118</lpage> (
+					<year>2009</year>).
+					<pub-id pub-id-type="doi" specific-use="metadata">10.1061/(ASCE)0733-9437(2009)135:1(115)</pub-id>
+				</mixed-citation>
+			</ref>
+			<ref id="c50">
+				<label>49.</label>
+				<mixed-citation publication-type="journal">
+					<string-name>
+						<surname>Scheidl</surname>,
+
+						<given-names>C.</given-names>
+					</string-name>,
+
+					<string-name>
+						<surname>Chiari</surname>,
+
+						<given-names>M.</given-names>
+					</string-name>,
+
+					<string-name>
+						<surname>Kaitna</surname>,
+
+						<given-names>R.</given-names>
+					</string-name>
+					<etal>
+						<italic>et al.</italic>
+					</etal>, “
+
+					<article-title>Analysing debris-flow impact models, based on a small scale modelling approach</article-title>,”
+					<source>Surv. Geophys.</source>
+					<volume>
+						<bold>34</bold>
+					</volume>(
+					<issue>1</issue>),
+					<fpage>121</fpage>–
+					<lpage>140</lpage> (
+					<year>2013</year>).
+					<pub-id pub-id-type="doi" specific-use="metadata">10.1007/s10712-012-9199-6</pub-id>
+				</mixed-citation>
+			</ref>
+			<ref id="c51">
+				<label>50.</label>
+				<mixed-citation publication-type="journal">
+					<string-name>
+						<surname>Scheidl</surname>,
+
+						<given-names>C.</given-names>
+					</string-name>,
+
+					<string-name>
+						<surname>McArdell</surname>,
+
+						<given-names>B. W.</given-names>
+					</string-name>, and
+
+					<string-name>
+						<surname>Rickenmann</surname>,
+
+						<given-names>D.</given-names>
+					</string-name>, “
+
+					<article-title>Debris-flow velocities and superelevation in a curved laboratory channel</article-title>,”
+					<source>Can. Geotech. J.</source>
+					<volume>
+						<bold>52</bold>
+					</volume>(
+					<issue>3</issue>),
+					<fpage>305</fpage>–
+					<lpage>317</lpage> (
+					<year>2015</year>).
+					<pub-id pub-id-type="doi" specific-use="metadata">10.1139/cgj-2014-0081</pub-id>
+				</mixed-citation>
+			</ref>
+			<ref id="c52">
+				<label>51.</label>
+				<mixed-citation publication-type="journal">
+					<string-name>
+						<surname>Sun</surname>,
+
+						<given-names>H.</given-names>
+					</string-name>,
+
+					<string-name>
+						<surname>You</surname>,
+
+						<given-names>Y.</given-names>
+					</string-name>,
+
+					<string-name>
+						<surname>Liu</surname>,
+
+						<given-names>J.</given-names>
+					</string-name>
+					<etal>
+						<italic>et al.</italic>
+					</etal>, “
+
+					<article-title>Experimental study on discharge process regulation to debris flow with open-type check dams</article-title>,”
+					<source>Landslides</source>
+					<volume>
+						<bold>18</bold>
+					</volume>,
+					<fpage>967</fpage>–
+					<lpage>978</lpage> (
+					<year>2021</year>).
+					<pub-id pub-id-type="doi" specific-use="metadata">10.1007/s10346-020-01535-y</pub-id>
+				</mixed-citation>
+			</ref>
+			<ref id="c53">
+				<label>52.</label>
+				<mixed-citation publication-type="other">
+					<string-name>
+						<surname>VanDine</surname>,
+
+						<given-names>D. F.</given-names>
+					</string-name>, “
+
+					<article-title>Debris flow control structures for forest engineering</article-title>,” Technical Report No. MIC-96-04118/XAB (British Columbia Ministry of Forests, 1996).
+				</mixed-citation>
+			</ref>
+			<ref id="c54">
+				<label>53.</label>
+				<mixed-citation publication-type="journal">
+					<string-name>
+						<surname>Wang</surname>,
+
+						<given-names>D.</given-names>
+					</string-name>,
+
+					<string-name>
+						<surname>Chen</surname>,
+
+						<given-names>Z.</given-names>
+					</string-name>,
+
+					<string-name>
+						<surname>He</surname>,
+
+						<given-names>S.</given-names>
+					</string-name>
+					<etal>
+						<italic>et al.</italic>
+					</etal>, “
+
+					<article-title>Measuring and estimating the impact pressure of debris flows on bridge piers based on large-scale laboratory experiments</article-title>,”
+					<source>Landslides</source>
+					<volume>
+						<bold>15</bold>
+					</volume>(
+					<issue>7</issue>),
+					<fpage>1331</fpage>–
+					<lpage>1345</lpage> (
+					<year>2018</year>).
+					<pub-id pub-id-type="doi" specific-use="metadata">10.1007/s10346-018-0944-x</pub-id>
+				</mixed-citation>
+			</ref>
+			<ref id="c58">
+				<label>54.</label>
+				<mixed-citation publication-type="book">
+					<string-name>
+						<surname>Wang</surname>
+						<given-names>J.-k.</given-names>
+					</string-name>
+					<etal>
+						<italic>et al.</italic>
+					</etal>,
+					<source>
+						<italic>Technology for Debris Flow Prevention and Control Engineering</italic>
+					</source> (
+
+					<publisher-name>China Railway Publishing House</publisher-name>,
+
+					<publisher-loc>Beijing</publisher-loc>,
+					<year>1996</year>), pp.163–164 (in Chinese).
+				</mixed-citation>
+			</ref>
+			<ref id="c75">
+				<label>55.</label>
+				<mixed-citation publication-type="book">
+					<string-name>
+						<surname>Zhang</surname>,
+						<given-names>R.-j.</given-names>
+					</string-name>,
+
+					<string-name>
+						<surname>Xie</surname>,
+						<given-names>J.-h</given-names>
+					</string-name>, and
+
+					<string-name>
+						<surname>Wang</surname>,
+						<given-names>M.-f.</given-names>
+					</string-name>,
+					<source>
+						<italic>River Sediment Dynamics</italic>
+					</source> (
+					<publisher-name>Water Resources and Electric Power Press</publisher-name>,
+					<publisher-loc>Beijing</publisher-loc>,
+					<year>1989</year>) (in Chinese).
+				</mixed-citation>
+			</ref>
+			<ref id="c77">
+				<label>56.</label>
+				<mixed-citation publication-type="journal">
+					<string-name>
+						<surname>Zhang</surname>,
+
+						<given-names>W.-t.</given-names>
+					</string-name>,
+
+					<string-name>
+						<surname>Liu</surname>,
+
+						<given-names>J.-f.</given-names>
+					</string-name>,
+
+					<string-name>
+						<surname>You</surname>,
+
+						<given-names>Y.</given-names>
+					</string-name>
+					<etal>
+						<italic>et al</italic>
+					</etal>., “
+
+					<article-title>Analysis of the operation effect of check dams of debris flow in Beichuan and Wenchuan</article-title>,”
+					<source>J. Lanzhou Univ.</source>
+					<volume>
+						<bold>57</bold>
+					</volume>(
+					<issue>03</issue>),
+					<fpage>395</fpage>–
+					<lpage>401</lpage> (
+					<year>2021</year>) (in Chinese).
+				</mixed-citation>
+			</ref>
+			<ref id="c74">
+				<label>57.</label>
+				<mixed-citation publication-type="thesis">
+					<string-name>
+						<surname>Zheng</surname>,
+
+						<given-names>Z.-s.</given-names>
+					</string-name>, “
+
+					<article-title>Study on the morphology and change characteristics of debris flow jet through Sabo dam</article-title>,” M.S. thesis (
+
+					<publisher-name>Institute of Mountain Hazards and Environment, Chinese Academy of Sciences</publisher-name>,
+					<year>2019</year>) (in Chinese).
+				</mixed-citation>
+			</ref>
+			<ref id="c57">
+				<label>58.</label>
+				<mixed-citation publication-type="journal">
+					<string-name>
+						<surname>Zhang</surname>,
+
+						<given-names>W.</given-names>
+					</string-name>,
+
+					<string-name>
+						<surname>Liu</surname>,
+
+						<given-names>J.</given-names>
+					</string-name>,
+
+					<string-name>
+						<surname>Li</surname>,
+
+						<given-names>D.</given-names>
+					</string-name>
+					<etal>
+						<italic>et al.</italic>
+					</etal>, “
+
+					<article-title>Evaluation of comprehensive treatment effect of geotechnical and ecological engineering for debris flow: Case of Wenchuan County, Sichuan Province</article-title>,”
+					<source>Nat. Hazards</source>
+					<volume>
+						<bold>116</bold>
+					</volume>(
+					<issue>1</issue>),
+					<fpage>769</fpage>–
+					<lpage>794</lpage> (
+					<year>2023</year>).
+					<pub-id pub-id-type="doi" specific-use="metadata">10.1007/s11069-022-05698-w</pub-id>
+				</mixed-citation>
+			</ref>
+		</ref-list>
+	</back>
+</article>

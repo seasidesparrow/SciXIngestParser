@@ -1,0 +1,3952 @@
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema" xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema" xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dct="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/" xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/" xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/" xmlns:cja="http://www.elsevier.com/xml/cja/schema" xmlns:ja="http://www.elsevier.com/xml/ja/schema" xmlns:bk="http://www.elsevier.com/xml/bk/schema" xmlns:ce="http://www.elsevier.com/xml/common/schema" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:cals="http://www.elsevier.com/xml/common/cals/schema" xmlns:tb="http://www.elsevier.com/xml/common/table/schema" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema" xmlns:xlink="http://www.w3.org/1999/xlink"><rdf:RDF><rdf:Description rdf:about="http://dx.doi.org/10.1016/0378-7788(92)90040-N"><dct:format>application/xml</dct:format><dct:title>A survey of airflow models for multizone structures</dct:title><dct:creator>Helmut E. Feustel</dct:creator><dct:creator>Juergen Dieris</dct:creator><dct:description>Energy &amp; Buildings 18 (1992) 79-100. doi:10.1016/0378-7788(92)90040-N</dct:description><prism:aggregationType>journal</prism:aggregationType><prism:publicationName>Energy &amp; Buildings</prism:publicationName><prism:copyright>Copyright @ unknown. Published by Elsevier B.V.</prism:copyright><dct:publisher>Elsevier B.V.</dct:publisher><prism:issn>0378-7788</prism:issn><prism:volume>18</prism:volume><prism:number>2</prism:number><prism:coverDisplayDate/><prism:coverDate>1992</prism:coverDate><prism:pageRange>79-100</prism:pageRange><prism:startingPage>79</prism:startingPage><prism:endingPage>100</prism:endingPage><prism:doi>10.1016/0378-7788(92)90040-N</prism:doi><prism:url>http://dx.doi.org/10.1016/0378-7788(92)90040-N</prism:url><dct:identifier>doi:10.1016/0378-7788(92)90040-N</dct:identifier><dp:availableOnlineInformation><bam:availableOnline xmlns:cp="http://www.elsevier.com/xml/common/consyn-properties/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2003-02-12T00:00:00.000Z</bam:availableOnline><bam:vorAvailableOnline xmlns:cp="http://www.elsevier.com/xml/common/consyn-properties/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/></dp:availableOnlineInformation></rdf:Description></rdf:RDF><dp:document-properties><dp:raw-text xmlns:cp="http://www.elsevier.com/xml/common/consyn-properties/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">Energy and Buildings, 18 (1992) 79-100                                                                          79
+
+A survey of airflow models for multizone structures
+
+Helmut E. Feustel and Juergen Dieris
+Indoor Environment Program, Applied Science Division, Lawrence Berkeley Laboratory, Berkeley, CA 94720 (USA)
+
+(Received December 14, 1990; accepted February 6, 1991; revised paper received March 1, 1991)
+
+Abstract
+
+Airflow models are used to simulate the rates of incoming and outgoing airflows for a building with
+known leakage under given weather and shielding conditions. Additional information about the flow paths
+and air-mass flows inside the building can only be made by using multizone airflow models. In order to
+obtain more information on multizone airflow models, a literature review was performed in 1984. A
+second literature review and a questionnaire survey performed in 1989 revealed the existence of 50
+multizone airflow models, all developed since 1966, two of which are still under development. All these
+programs use similar flow equations for crack flow, but differ in the versatility to describe the full range
+of flow phenomena and the algorithm provided for solving the set of nonlinear equations. This literature
+review has found that newer models are able to describe and simulate the ventilation systems and
+interrelation of mechanical and natural ventilation.
+
+Introduction
+
+Airflow models are used to simulate the rates of
+incoming and outgoing airflows for a building with
+known leakage under given weather and shielding
+conditions. Airflow models can be divided into two
+main categories, single-zone models and multizone
+models. Single zone models assume that the structure
+can be described by a single, well-mixed zone. The
+major application for this model type is the single-
+story, single-family house with no internal partitions
+(e.g., all internal doors axe open). A large number
+of buildings, however, have structures that would
+characterize them more accurately as multizone
+structures. Therefore more detailed models have
+been developed, which also take internal partitions
+into account. Figure 1 shows a simple multizone
+network [ 1 ].
+Multizone airflow network models deal with the
+complexity of flows in a building by recognizing
+the effects of internal flow restrictions. They require
+extensive information about flow characteristics and
+pressure distributions and, in many cases, are too
+complex to justify their use in predicting flow for
+simple structures such as single-family residences
+[2].
+As for their single-zone counterparts, these models
+are based on the mass-balance equation. Unlike the
+single-zone approach, where there is only one in-
+
+Fig. 1. Simple multizone network.
+
+ternal pressure to be determined, the multizone
+models must determine one pressure for each of
+the zones. This adds considerably to the complexity
+of the numerical solving algorithm, but by the same
+token, the multizone approach offers great potential
+in analyzing infiltration and ventilation airflow dis-
+tribution.
+The advantage of multizone models, besides being
+able to simulate infiltration in larger buildings, is
+their ability to calculate mass flow interactions be-
+tween the different zones. Understanding the air-
+mass flow in buildings is important for several
+reasons:
+&#149; exchange of outside airwith inside air is necessary
+for building ventilation;
+
+0378-7788/92/$5.00                                                           &#169; 1992- Elsevier Sequoia. All rights reserved
+
+80
+
+&#149; energy consumed to heat or cool the incoming
+air to inside comfort temperature;
+&#149; air needed for combustion;
+&#149; airborne particles and germs transported by air-
+flow in buildings;
+&#149; smoke distribution in case of fire.
+The air-mass flow distribution for a given building
+is caused by pressure differences, whether evoked
+by wind, thermal buoyancy, mechanical ventilation
+systems or a combination of those. The distribution
+of openings in the building shell and the inner paths
+also influence the airflow. The openings can be
+varied by the inhabitants. This can lead to significant
+differences in the pressure distribution inside the
+building. Figure 2 shows in detail the influence of
+pressure distribution on the air-mass flow distri-
+bution.
+In terms of air-mass flow, buildings are compli-
+cated interlacing systems of flow paths. In this grid
+system the joints are the rooms of the building and
+the connections between the joints simulate the flow
+paths including the flow resistances caused by open
+or closed doors and windows or background leakage
+of the partitions. The boundary conditions for the
+pressure can be described by the grid points outside
+the building. The wind pressure distribution depends
+on the velocity and the direction of the wind, the
+terrain surrounding the building, and the shape of
+the building. If the physical interrelationship between
+
+the flow resistance and the airflow is known for all
+flow paths, the airflow distribution for the building
+can be calculated, as long as there is no density
+difference between outside and inside air. Differences
+in density of the air, due to differences between
+outside and inside air temperatures or moisture
+content, cause further pressures in the vertical di-
+rection, again influencing the air-mass flow.
+Mechanical ventilation can also be included in
+this network. The duct system can be treated like
+the other flow paths in the building. The advantage
+for calculating airflow distribution effects of me-
+chanical ventilation systems is that the duct path-
+ways, as well as their connections with the building,
+are known. In the case of mechanical ventilation
+systems the fan can be described as the source of
+pressure differences, lifting the pressure level be-
+tween two joints according to the characteristic
+curve of the fan.
+Because of the nonlinear dependency of the vol-
+ume flow rate on the pressure difference, the pressure
+distribution for a building can be calculated only
+by using a method of iterations. Large quantities
+of computer storage were necessary for the early
+models to describe buildings with arbitrary floor
+plans and to solve the set of nonlinear equations.
+
+Literature review and questionnaire survey
+
+-velocity
+Wind
+-direction
+I
+Surroundings
+I
+Shape of the
+Building
+Windpressure
+Distribution
+
+Inhabitants
+Behaviour
+
+]-
+
+Temperature
+Differences
+I
+Vertical Flow
+Resistance
+Thermal
+Buoyancy
+Building  ....  ]-
+Leakage   ]
+Configuration~
+Inside Pressure
+Distribution
+Air Flow
+Distribution
+
+Mechanical
+Ventilation
+Systems
+I
+Fan- and Duct
+C.haracteristics
+
+Imposed
+Pressure
+
+Fig. 2. Influence of pressure distribution on the air-mass flow
+in buildings.
+
+A literature review undertaken in 1984 [3 ] revealed
+26 papers describing 15 different multizone infil-
+tration models which had been developed in eight
+countries. A recent questionnaire survey produced
+additional information about the status of network
+models. One of the first models we found was
+Jackman's model LEAK [4] which was published
+in 1970. In 1974 it was followed by the NRCC
+model [5], which was the first one available to
+interested parties. Indeed, this numerical tool is
+probably still the most widely used multizone in-
+filtration model.
+Several multizone models were developed in the
+aftermath of the oil price crises. Between 1975 and
+1977 a series of steps were taken at Technische
+Universitaet, Berlin, to develop such a model. This
+resulted in the program STROM [6] which was later
+extended to handle HVAC systems and has recently
+been rewritten to improve the solver and to be
+combined with a thermal building simulation model
+[7]. Concurrent with STROM, ELA 4 [8] was de-
+veloped. The models VENT 1 and VENT 2 [9] as
+well as BREEZE [10] were developed in the late
+1970s by researchers from British Gas and the
+Building Research Establishment. In the early 1980s,
+
+81
+
+the first versions of Nantka's INFILTRATION &amp;
+VENTILATION [11], Walton's AlRNET [12], and
+Herrlin's MOVECOMP [ 13 ] appeared. The latter two
+programs were the first to address the mathematical
+problem of solving the set of nonlinear equations
+for zones with very different leakage characteristics.
+Open doorways in otherwise tight constructions are
+the main cause of significant problems in conver-
+gence. This has been solved by introducing under-
+relaxation factors to the well-known Newton method.
+KGVCP from Hayakawa dates back to 1979 [14].
+More recent work done in Japan has been published
+by Ishida and Udagowo [15], as well as Hayashi
+and Urano [16], Sasaki [17], Okuyama [18], and
+Matsumoto and Yoshino [ 19].
+France has also developed several multizone
+models; the recent survey unveiled models from
+CSTD, 1NSA [20] and EDF. From Brazil, Melo's
+model FLOW2 [21] has been discovered.
+The latest development in infiltration modeling
+is the COMIS model [22 ]. In a twelve-month period,
+ten scientists from nine countries, working together
+at Lawrence Berkeley Laboratory, developed a mul-
+tizone model on a modular base. Because of its
+modular structure, COMIS is designed to expand
+its capability to simulate buildings. To accomplish
+a user-friendly program, special emphasis was given
+to input and output routines. Support of the in-
+ternational group by IEA's Air Infiltration and Ven-
+tilation Centre will help the wide distribution of this
+model to all interested parties. COMIS can be used
+as a stand-alone infiltration model with input and
+output features, or as an infiltration module for
+thermal building simulation programs. It also serves
+as a module library.
+One of the major tasks for the program user is
+to find a method of determining the wind pressure
+distribution for a building. This can be done by
+measuring the wind pressure distribution on a scale
+model in a wind tunnel or by using measured data
+from available literature. Only few attempts have
+been made to calculate the wind pressure distri-
+bution. In order to calculate the Cp distribution for
+buildings, the COMIS group worked on a method
+based on a parametrical study, to determine the C,
+values [23].
+Crack flow, large openings and mechanical ven-
+tilation systems can be simulated by some of the
+models. Furthermore, additional flows, i.e., simul-
+taneous two-way flow at large openings and wind
+turbulence effect at single-sided windows, etc., were
+studied.
+Airflow rates through doorways, windows and
+other common large openings are significant ways
+in which air, pollutants and thermal energy are
+
+transferred from one zone of a building to another.
+In the previous survey of multizone infiltration
+models, however, none of the described codes were
+able to solve this problem in any other way than
+to divide the large opening into a series of small
+ones described by crack flow equations. Therefore,
+COMIS's contribution to this fundamental problem
+was to describe the physical problem, review the
+various solutions developed in the literature and
+compare these solutions using both a numerical and
+a physical point of view.
+In most cases the temperature of the air in a
+crack is quite different from the temperatures of
+the zones on either side of the crack. Furthermore,
+air leakage performance measurements are usually
+performed in a certain temperature condition, but
+results are used at different temperatures. The tem-
+perature variation, however, has a big influence on
+the air leakage flow due to changes in the air viscosity
+and air density. Unfortunately, almost all the models
+dealing with air leakage characteristics ignore this
+phenomenon.
+Heating, ventilating and air-conditioning (HVAC)
+systems are composed of ducts, duct fittings, junc-
+tions, fans, air filters, heating and cooling coils, air-
+to-air heat exchangers, flow controllers, etc. Several
+modeling programs for ventilating systems were
+developed.
+Calculating the infiltration and ventilation flow
+rates requires the solution of a nonlinear system
+of equations. The main task is to find an efficient
+solving method. The starting point is the New-
+ton-Raphson method, with derivatives, operating
+on a node-oriented network which, in most cases,
+quickly brings about the convergence of the system
+of equations.
+Although network computer models are available,
+there is an obvious need for simplified multichamber
+infiltration models capable of providing the same
+accuracy as the established single-cell models. The
+extended crack model is the simplest multizone
+model. It is used to design conditioning loads and
+size the conditioning equipment [24]. The method
+is based on the single-zone crack model and has
+been refined to multizone applications by also taking
+into consideration the crack flow through internal
+partitions. Buildings are characterized according to
+their cross flow and stack flow capabilities. The
+stack pressures of the core zones for multistory
+structures are pre-calculated for design weather
+conditions and published in reference tables. To-
+gether with pressures due to the effect of wind and
+permeability distribution, this enables a user to
+calculate the infiltration for each of the outside
+zones.
+
+82
+
+The simplified multizone infiltration model de-
+veloped at LBL [25] is able to calculate the airflow
+distribution for arbitrary structures in any given
+weather condition. The basic idea is to determine
+the flow network and to calculate the resultant air
+permeability of a zone from the combination of flow
+paths arranged in series and/or parallel. The use
+of these equations assumes that all permeabilities
+have the same flow characteristics and, therefore,
+the same exponent, n.
+Airflows caused by separate mechanisms (such
+as wind and thermal buoyancy) are not able to be
+added because the flow rates are not linearly pro-
+po.rtional to the pressure differences. To super-
+impose the flows, it is necessary to add the pressures.
+Several lumped parameters reflecting the different
+permeability distributions of the building's envelope
+and the flow resistances inside the building were
+introduced to describe the airflow distribution. To
+keep the model simple, no mass-balance equation
+is used to predict the airflows. Because of the pre-
+calculation of the simplified network, the model
+gives a comprehensive understanding of the flow
+characteristics of the structure under investigation.
+The model is simple to use and requires only simple
+mathematical tools, e.g., pocket calculator.
+In terms of the total number of returned ques-
+tionnaires, this recent survey represents the most
+comprehensive review of current research in de-
+veloped multizone infiltration models. The ques-
+tionnaires were mailed to addresses provided by
+the Air Infiltration and Ventilation Centre [26, 27].
+Fifty multizone infiltration models developed in 16
+countries are represented in this survey. In addition
+to the general references, more than 60 papers
+describing the programs in detail are listed in Ap-
+pendix B together with the names and addresses
+of the authors. Of those models for which ques-
+tionnaires were not returned, information was col-
+lected from the reviewed literature.
+In cases where the reviewed paper did not give
+a reasonable answer to a certain problem or where
+information was missing from a returned question-
+naire, a question mark was entered in the list of
+models.
+The summarized list of multizone airflow models
+found in the literature is reproduced in Appendix
+A. The current addresses of the authors including
+their references are shown in Appendix B. Equations
+are reproduced separately in Appendix C.
+
+Discussion
+The survey of multizone network models is sum-
+marized in Table 1. It shows that 34 models have
+
+been written in FORTRAN (FORTRAN IV (F IV),
+FORTRAN V (F V), and FORTRAN 77 (F 77). The
+programming language BASIC has been used four
+times; followed by HPL with three and C with two
+applications. PASCAL and dBaseIV have been' used
+for the development of one mQdel each.
+Among the analyzed models it appeared that 14
+were developed on mainframe computers, 15 on
+PCs and 11 on workstations. In the past, large
+amounts of computer storage were necessary when
+calculating the airflow distribution of more com-
+plicated buildings. Nowadays most programs use
+solvers which reduce the space requirement, e.g.,
+band matrices or the skyline method. The Newton
+method is the most common tool used to solve the
+set of nonlinear equations. The majority of the
+programs  use  a  technique  based  on  New-
+ton-Raphson. Other algorithms are used less fre-
+quently.
+The limits of zones and openings per zone a model
+can handle depends on computer storage. Due to
+the limited availability of computer storage, most
+of the earlier models were not able to handle more
+than 100 zones. Models developed later are able
+to handle an unlimited number of zones.
+Approximately one third of the models do not
+have an interactive input option and the output
+features listed show that only few models use graph-
+ical output or statistical functions rather than files
+comparable to the arrays used by the model. These
+features are an indication of a user-unfriendly model.
+CAD input and 3-D building description are not
+necessary to run the program, but would increase
+the user-friendliness. Unfortunately, these input fea-
+tures belong to the class of "special design", and
+are rarely integrated in these kinds of models.
+Only 19 models take into consideration occupant
+schedules which can lead to significant differences
+in the pressure distribution.
+The output features show that the graphical output
+and the statistical functions are less applied than
+files used by the model.
+Twenty-four of the models use a separate input
+program and twenty models are based on a modular
+structure. A modular structure might be more ad-
+vantageous for further development, because the
+model would be easier to expand. A combination
+with other models would also be easier to implement.
+Fifteen of the models allow a combination with a
+thermal model and thirteen models are coupled with
+a pollution model.
+Less than one third (15) of the models are available
+to third parties. Some models are not available
+before completing and testing. Fifteen models are
+not available to the public and axe written as research
+
+TABLE 1. Review of multizone airflow infiltration network models
+
+83
+
+Program Language :
+FORTRAN
+BASIC
+PASCAL
+iC
+HPL
+dBaseIV
+
+Computer Type :
+Main Frame Computer
+Work Station
+Personal Computer
+
+Solver :
+Hardy - Cross - Method
+Newton - Raphson Method
+Levenberg - Marquard - Method
+Drown - Conte - Method
+Secant - Method
+Rule "falsi"
+Gaussian - Elimination
+Beta - Method by Newmark
+
+34
+4
+1
+2
+3
+1
+
+14
+11
+15
+
+1
+25
+1
+1
+3
+1
+1
+1
+Limits :                                                   &lt;~ 100     &gt; 100      unlimited
+max. number of zones                                        18           7              18
+max. number of opening/zone                              17          3            23
+max. number of shafts/corridors/floors                     17          2            23
+max. number of mechanical ventilation system                18           2              20
+Input Features :                                           yes         no       not specified
+interactive input                                             15          21             14
+CAD input                                                    1           30             19
+weather data from weather files                              24          14             13
+3 - D building description                                     10          26             14
+schedules (e.g., occupants)                                 lg         17            14
+! Output Features :                                         yes         no       not specified
+file of arrays used by the model                               29           6              15
+graphical output                                                  12           23              15
+statistical functions                                           5           29             16
+Structure :                                                 yes         no       not specified
+separate input program                                       24          14             12
+modular structure                                            20          14             16
+Combination with other models :                      yes        no     ! not specified
+combined with thermal model                                15          24             11
+combined with pollution model                               13          26             II
+Availability :                                           no        yes        yes, but
+program available to third parties                            15          15             12
+
+tools, rather than for the use of professional en-
+gineers or architects.
+
+Conclusions
+
+This literature review and the questionnaire survey
+show that an extensive research effort has been
+made in the last five years to develop an airflow
+model for multizone structures. Especially the max-
+imum number of zones the models can handle has
+been increased due to reduced computer storage
+requirements. Some of the models have been ex-
+tended with special input and output features.
+Fifteen of the models are available to third parties
+and fifteen models have been written as research
+tools, and are dimcult to use. This might be the
+reason they are not available to third parties.
+
+The development of multizone infiltration and
+ventilation models shows a relatively slow evolution.
+Lack of exchange of information, restricted distri-
+bution of models, poor documentation, and lack of
+a flexible structure are probably the reasons why
+models developed in the early seventies are not
+very different from those developed in the late
+eighties.
+Although several of the models discovered during
+this survey serve a particular purpose, they could
+have been developed using existing models. The
+COMIS workshop was trying to overcome these
+problems by creating a multizone infiltration model
+with a modular structure which will allow modules
+to be changed easily. The availability of the program
+and its documentation together with the international
+authorship should help to establish COMIS as an
+
+84
+infiltration standard on which specific applications
+can be built.
+
+Future outlook
+
+Along with stand-alone infiltration models, net-
+work models will also find their way into thermal
+building simulation models. With the expected ad-
+vances in the development of the next generation
+of building simulation programs, infiltration modules
+will be needed for implementation in the program
+libraries.
+Future tasks include the development of methods
+to determine the required input parameters, es-
+pecially the wind pressure distribution. Further work
+must be done through sensitivity studies to reduce
+the input requirement and to increase user-frien-
+dliness by using the output features of the PCs.
+Validation of the models is another essential task.
+In order to understand physical phenomena related
+to transport mechanism in buildings and to develop
+numerical descriptions, measurements must first be
+performed under steady-state conditions. It is nec-
+essary, in order to measure mass flow transport
+mechanism accurately, to be able to control the
+pressure level and its fluctuation for each of the
+outside walls. This is only possible if the test building
+itself is located in a building. Such a test facility
+would not only validate airflow models as a whole,
+but would also help to validate the tracer-gas tech-
+niques used to validate infiltration models in field
+experiments.
+Recent developments in measurement techniques
+open new possibilities to study physical phenomena
+and use the results for comparison with results from
+the model. Some data sets for evaluation purposes
+have been produced based on in situ measurements
+of heavy instrumented buildings. Before these data
+sets can be used for model evaluation, however,
+internal model comparisons based on benchmark
+buildings have to be performed.
+The Energy Conservation in Buildings and Com-
+munity Systems Program of the International Energy
+Agency adopted a new working group (Annex 23)
+to study physical phenomena causing airflow and
+pollutant transport (e.g., moisture) in multizone
+buildings and to develop modules to be integrated
+in a multizone airflow modeling system. The system
+itself shall be user-friendly and structured to be
+incorporable in thermal building simulation models.
+Furthermore, special emphasis shall be given to
+provide data necessary to use the system (e.g., wind
+pressure distribution, default values for leakage of
+building components, material properties like ab-
+
+sorption and desorption). The comparison between
+results from the model and from in situ tests is
+an important part of this Annex.
+Close cooperation is envisaged, with regard to
+state-of-the art reviews, data collection, coordi_r/ation
+of work, e.g., defining cases for eyaluation purposes
+with other pertinent projects. The work to be carried
+out will be complementary with the above-mentioned
+Annexes.
+The Air Infiltration and Ventilation Centre will,
+as part of its on-going work plan, act as a vehicle
+for disseminating the results of this particular Annex.
+A data base for evaluation purposes is going to be
+prepared by AIVC. The Centre has already started
+to collect wind pressure data and leakage data.
+
+Acknowledgements
+
+We would like to acknowledge the program au-
+thors for their cooperation in responding to our
+questionnaires, for without this information the dif-
+ferent programs could not have been summarized.
+This  work  was  jointly  supported  by  the
+Carl-Duisberg-Gesellschaft, K61n, FRG, and the As-
+sistant Secretary for Conservation and Renewable
+Energy, Office of Building and Community Systems,
+Building Systems Division of the US Department of
+Energy under Contract No. DE-AC03-76SF00098.
+
+References
+
+1 M. Liddament, Air Infiltration Calculation Techniques --
+An Applications Guide, Air Infiltration and Ventilation
+Centre, Warwick, UK, June 1986.
+2 ASHRAE 1985 Handbook of Fundamentals, American So-
+ciety of Heating, Refrigerating and Air-Conditioning Engi-
+neers, Atlanta, GA, 1985, Ch. 22.
+3 H. E. Feustel and V. M. Kendon, Infiltration models for
+multicellular structures -- a literature review, Energy Build.,
+8 (2) (1985) 123-136, I_,BL-Rep. No. 17588, Lawrence
+Berkeley Laboratory, Apr. 1985.
+4 P. J. Jackman, A study of natural ventilation of tall office
+buildings, J. Inst. Heat. Vent. Eng., 38 (1970).
+5 D. M. Sander, FORTRAN/V Program to calculate Air
+Infiltration in Buildings, DBR Computer Program No.
+37, National Research Council Cax~la, 1984.
+6 H. E. Feustel, Entwicklung eines FORTRAN Progrmmns zur
+Bestimmung der Luftstromverteilung in Geb~uden, Thes/s,
+Teclmische Universit~t, Berlin, 1977.
+7 Jiaaxiong Guo, Weiterenturicklung des Programms mit
+dem Ergelmis einer Beracksichtigung thermischer Dm,ck-
+d~erenzen auch innerhalb vine~ Geschosses und einer
+spfirbaren Verrinoerung des Rechenzeit~ Interner In-
+stitutsbericht, Technische Universit~t, Berlin, 1988.
+8 W. F. de Gids, Calcul~ion Method for the Natural Ven-
+tilation of Buildings, TNO Research Institute for Environ-
+mental Hygiene, Delft, 1977.
+
+9 D.W. Etheridge and D. K. Alexander, The British Gas multi-
+cell model for calculating ventilation, ASHRAE Trans., 86
+(Part II) (1980).
+10 E. Evers and A. Waterhouse, A Computer Model for An-
+alysing Smoke Movement in Buildings, Building Research
+Establishment, 1978.
+11 M. Nantka, A numerical method for air change rate of
+buildings calculated, Proc. 5th Int. Conf. on HVAC, Praha,
+1981.
+12 G. N. Walton, Thenna/Analysis Research Program Ref-
+erence Manual~ NBSIR 83-2555, US Department of Com-
+merce, 1983.
+13 M. K. Herrlin, MOVECOMP: a static multicell air flow model,
+ASHRAE Trans., 91 (Part 2B) (1985).
+14 S. Hayakawa and S. Togari, F/mz Rate Variation of Air
+Conditioning Systems due to Stack Effect and Opening
+a Window, Rep. No. 30, Kajima Institute of Construction
+Technology, Japan, 1979.
+15 K. Ishida and M. Udagowo, Validation of the Ventilation Net
+Work Model for the Estimation of Room Temperatures and
+Heat Load of Residential Buildings with Measured Data,
+Trans. Archit. Inst. Jp~, (1988).
+16 T. Hayashi, Y. Urano, T. Watanabe and Y. Ryu, Passive
+system simulation program PSSP and its applications, Proc.
+Building Energy Simulation Conf., Seattle, WA, 1085.
+17 T. Sasaki, Der Lueftungszustand von der Luftschicht durch
+Wind-Unruhe, Trans. Archit. Inst. Jpn., (372) (1987).
+18 H. Okuyama, Network numerical analysis method for heat
+transfer and air flow in buildings, Proc. 17th Syrup. Com-
+mittee of Building Heat Transfer, Building Environment
+Committee of Architectural Institute of Japan, 1987.
+19 M. Matsumoto and H. Yoshino, A calculation method for
+predicting air ponution in multi-celled buildings, Proc. Meet.
+of the Tohoku Branch of the Architectural Institute of
+Japan, 1088.
+20 D. Cacavelli, J. J. Roux and F. Allard, A simplified approach
+of air infiltration in multizone buildings, Proc. 9th AIVC
+Co~fi., Gent, 1988, Air Infiltration and Ventilation Centre.
+21 C. Melo, FLOW - an algorithm for calculating air infiltration
+into buildings, Proc. ICBEM '87 Int. Cong~ss Building
+Energy Management, Lausanne, Switzerland, 1987.
+
+85
+
+22 H. E. Feustel et aL, The COMIS infiltration model, Proc.
+Building Simulation '80, Int. Building Performance Sim-
+ulation Assoc., Vancouver, 1989.
+23 H. E. Feustel and A. Raynor-Hoosen (eds.), Fundamentals
+of the Multizone Air Flow Model -- COMIS, Tech. Note
+20, Air Infiltration and Ventilation Centre, Warwick, UK,
+May, 1990.
+24 German Standard DIN 4701: Regeln fi~r die Berechnung
+des Wdrmebedarfs van Gebduden~ Tell 1: Grundlagen
+der Berechnung, Teil 2: Tabellen, Bilder, Algorithmen
+Beuth Verlag Berlin, Berlin, 1983.
+25 H. E. Feustel and M. H. Sherman, A simplified model for
+predicting air flow in multizone structures, Energy Build.,
+13 (3) (1989) 217-230.
+26 P. Charlesworth, 1086 Survey of Current Research into
+Air I~fdtration and Related Air Quality Problems in
+Buildings, Tech. Note 19, Air Infiltration and Ventilation
+Centre, Warwick, UK, Dec. 1986.
+27 J. Blacknell, A Subject Analysis of the AIVC's Bibliographic
+Database -- AIRBASE (6th edn.), Tech. Note 25, Air
+Infiltration and Ventilation Centre, Warwick, UK, Jan. 1989.
+
+Appendices
+
+The following appendices describe the reviewed
+literature and the results of the questionnaire survey
+in a tabular form. Fifty different multizone airflow
+models are listed in Appendix A. A question mark
+was entered in the Table of models where the
+reviewed paper did not give a reasonable answer
+to a certain problem or where information was
+missing from the returned questionnaire. The authors
+of the models can be found in Appendix B. Together
+with the authors of the computer models and their
+current addresses, more than 60 papers describing
+the models in detail are listed in Appendix B.
+Equations used by the models as well as a No-
+menclature are shown separately in Appendix C.
+
+Notes used in Appendix A
+o.1         Abbreviations used for
+F
+F 77
+MS
+FIV
+C
+HP Basic 4.0
+FV
+dBaseIV
+HPL
+HP-Special
+
+0.2
+
+the computer language:
+Fortran
+Fortran 77
+MicroSoft
+Fortran IV
+program language C
+Hewlett Packard Basic 4.0
+Fortran V
+Data Base Language
+Hewlett Packard Language
+Hewlett Packard Special
+
+Abbreviations used for the computer type:
+PC                 personal computer
+M                   mainframe
+WS                 workstation
+VAX                virtual address extension
+IBM                International Business Machines
+
+(continued on p. 91)
+
+0O
+Appendix A -- List of multizone airflow models
+
+Number (for authors see Appendix B)
+
+General
+-name
+-progr~n-langange&#176;'1
+-written for computer typen2
+-written for o~g system
+
+Equations&#176;.s
+-flow tlrough cracks
+-flow through large openings
+-flow through duct work
+-fan flow characteristics
+-wind pressure
+-thermal buoyancy
+-outside pressure fluctuation
+-circulation flow on lmge openings
+-single sided ventilation
+-cross ventilatien
+-presanre coefficient (only if calculated)
+-temperature gradient
+
+Algorithm To Solve Nonlinear Set Of Equations&#176;4
+-name of algorithm&#176;s
+-equation
+
+Limits
+-max. number of zones
+-max. number of oponings/zon~
+-max. number of shafts/corridors/floors
+-max. number of mech~ical ventilation systems
+
+Input
+-interactive input
+-CAD-input
+-weather data from weal/wr tiles
+-3-D building description
+-schedules (e.g., occupants)
+
+Output
+-file of arrays used by the model
+-graphical output
+-statistical functions
+
+Structure
+-separate input program
+-modular structtre
+
+Combination With Other Models
+-combined with thermal model
+-combined with pollution model
+
+Program Availability
+-program available to third parties
+
+so~I.I
+F+ Basic
+PC
+MS-DOS/DOS
+
+IG
+2D
+3B
+4E
+5C
+6D
+constant
+yes
+yes
+yes
+yes
+
+~lg:2-1
+?
+?
+?
+
+ID
+ID
+ID
+2_2
+6D
+?
+?
+?
+?
+?
+
+?
+F77 + MS
+M/PC
+?
+
+IE
+2D
+4A
+5D
+6B
+?
+9
+.9
+?
+12A
+
+PSSP/MV14a
+F77
+M/PC4"2
+94.2
+
+IE
+2D
+
+collstant
+5C
+6D
+
+y~s
+yes4.3
+8D
+yes
+
+5~a
+
+ETIMCELL
+Pascal
+PC
+MS-DOS 3.3
+
+1E
+2D
+3C
+4B
+5B
+6B
+yess-2
+yes5.3
+constant
+
+VENT
+F 77
+M
+
+IB
+2D
+?
+.9
+5E
+
+see~.1
+Basic
+PC
+?
+
+IE
+2D
+3E
+4E
+5D
+6B
+7A
+?
+?
+?
+?
+
+sees.~
+F
+M
+?
+
+IE
+2G
+3E
+
+5C
+6D
+
+NETS
+F
+M
+
+IK
+21
+3G
+4G
+5C
+6J
+constant
+
+N-R
+13C
+
+lO0
+unlimited
+
+?
+no
+uo
+no
+rio
+
+?
+no
+no
+
+yes
+yes
+
+11o
+
+Iteration
+13D
+
+2or3
+2or3
+
+no
+rio
+/to
+no
+rio
+
+uo
+uo
+no
+
+no
+uo
+
+t3o
+no
+
+N-R
+13C
+
+20
+20
+?
+20
+
+no
+no
+yes
+rlo
+yes
+
+yes
+no
+no
+
+yes
+no
+
+yes
+no
+
+Newton4.4
+13F
+
+unlimited
+unlimited
+unlimited
+unlimited
+
+no
+no
+yes
+no
+yes
+
+yes
+no
+no
+
+yes
+rio
+
+yes
+no
+
+see5.4
+?
+
+sees.5
+?
+?
+?
+
+yes
+no
+yes/~s.6
+yes
+yes
+
+yes
+no
+no
+
+yes
+yes
+
+no
+no
+
+?
+13A
+
+8
+12
+2
+
+no
+no
+yes
+no
+no
+
+yes
+no
+no
+
+yes
+no
+
+no
+no
+
+N-R
+13 B
+
+yes
+yes
+yes
+yes
+yes
+
+yes
+nO
+no
+
+no
+yes
+
+no
+nO
+
+rule "falsi"
+13D
+
+no
+no
+yes
+no
+no
+
+yes
+no
+no
+
+no
+yes
+
+no
+nO
+
+MNR
+see9.!
+
+300
+900
+300
+900
+
+no
+no
+yes
+yes
+yes
+
+yes
+yes
+no
+
+yes
+yes
+
+yes, butz3
+
+uo
+
+yes4.5
+
+yes,buts.7
+
+yes
+
+yes
+    yes
+yes, but9 2
+
+10
+
+S3PAS
+F 77
+WS
+VMS
+
+1E
+2D
+4C
+5B
+6B
+IlA
+
+seelo.I
+13A
+
+10
+33
+unlimited
+1O0
+
+yes
+no
+no
+no
+yes
+
+yes
+yes
+no
+
+yes
+yes
+
+yes
+llo
+
+11
+
+GAINE
+FIV
+WS
+VMS
+
+1A
+3E
+4C
+5C
+6B
+constant
+?
+?
+conslarR
+?
+
+Newton
+13E
+
+unlimited
+unlimited
+unlimited
+unlimited
+
+7
+yes
+no
+yes
+
+yes
+yes
+yes
+
+yes
+yes
+
+no
+yes
+
+Number (for enthors see Appendix B)                  12            13            14
+Geueeal
+-name                                         SIREN2      JKCIRCUS       see~4a
+-p&#162;ogrnmqanguage&#176;a                              F IV           F           F 77
+-writ~n for computer typeu2                       WS         WS/PC          ?
+-writleat for operating systean                       VMS     VMS/MS-DOS       ?
+
+Equations&#176;a
+-flow tlmmgh cracks
+-flow tlu~gh large openings
+-flow through duct work
+-fan flow chaructefistics
+-wind p~.asore
+-thermal buoyancy
+-outside ~ fluctuation
+-circulatitm flow on large openings
+-single sided ventilation
+-cross veatilslJon
+-iZl'essu~ coefficient (only if calculated)
+-temperature gradient
+
+Algorithm To Solve Nonlinear Set Of Equations&#176;'4
+-name of algorithmo's
+-eq,mfino
+
+Limits
+-max. number of zones
+-max. number of openings/zone*
+-max. number of shafts/corridorstn nors
+-max. number of mechanical ventilation systems
+
+Input
+-interactive input
+-CAD-input
+-weather data from weather files
+-3-D building descrilxion
+-schedules (e.g., occupants)
+
+Output
+-file of arrays used by the model
+-graphical output
+-statistical functions
+
+Structure
+-separate input wogram
+-modulK structure
+
+Combhtatkm With Other Models
+-combincd with thermal model
+.combined with pollution model
+
+Program Availability
+-program available to third parties
+
+1A
+2A
+3B
+4C
+5C
+6B
+constant
+?
+?
+constant
+.9
+
+Lev - Mar
+13F
+
+40
+unlimited
+1
+unlimited
+
+7
+yes
+no
+yes
+
+yes
+no
+no
+
+yes
+yes
+
+no
+yes
+
+IG
+2K
+31-I
+5B
+constant
+
+Gauss
+13G
+
+unlimited
+unlimited
+unlimited
+unlimited
+
+BO
+no
+no
+no
+no
+
+yes
+no
+no
+
+no
+no
+
+nO
+no
+
+, yes
+
+IE
+2D
+4B
+5C
+6B
+?
+?
+?
+?
+?
+?
+
+Bro - Con
+See14.2
+
+unlimited
+unlimited
+unlimited
+unlimited
+
+IA
+2A
+?
+?
+5B
+?
+?
+?
+?
+.9
+?
+?
+
+N-R
+?
+
+16
+
+F
+PC
+MS-DOS
+
+1A
+2D
+3B
+4A
+5A
+6H
+?
+?
+?
+?
+?
+12 B
+
+30
+20
+20
+10
+
+flo~17.1
+F
+WS
+VAX
+
+IB
+?
+?
+?
+?
+?
+?
+?
+?
+?
+?
+?
+
+Beta
+?
+
+un~mited
+unlimited
+unfimited
+unlimited
+
+yes          yes         no           ?
+?           no         no           ?
+yes         no        yes         yes
+?          no        yes          ?
+yes          no         no           ?
+
+yes
+yes
+?
+
+ycs
+?
+
+yes
+no
+
+18
+
+yes
+no
+rio
+
+yes
+no
+
+no
+no
+
+no
+
+SSPV-7
+F77
+?
+?
+
+IG
+2D
+4B
+5B
+6B
+I1B
+
+N-R
+13B
+
+unlimited
+unlimited
+unlimited
+unlimited
+
+no
+no
+yes
+yes
+yes
+
+19
+
+AIRNET
+C
+PC
+MS-DOS
+
+1 A + l j19.1
+2A+2H19a
+3F
+4F
+5C
+6A
+yes
+yes
+
+N - Steff
+13Eorl3H
+
+unlimited
+unlimited
+unlimited
+unlimited
+
+yes
+no
+no
+no
+nO
+
+20
+
+MOVECOMP-PC
+F 77
+M/PC
+MS-DOS
+
+IA
+2A
+3H
+yes2oA
+5D
+6D
+constant
+12C
+
+N.R2O.2
+13H
+
+unlimited
+unlimited
+unlimited
+unlimited
+
+no
+no
+yes
+no
+no
+
+21
+
+F
+M/PC
+NCOS/DOS
+
+1A
+2A
+5B
+6B
+1A
+IA
+no
+
+N-R
+13E
+
+unlimited
+unlimited
+unlimited
+
+yes
+no
+no
+yes
+no
+
+22
+
+VENCON
+HP Basic 4.0
+series 200
+HP Basic 4.0
+
+1G+2F
+IG+2F
+3E
+4A
+5B
+6G
+7B
+yes
+y~
+y~
+y~
+
+Sec - Met
+see22-1
+
+unlimited
+unlimited
+unlimiwA
+4OO
+
+no
+no
+no
+no
+yes
+
+?             yes           yes            no               yes               no            yes
+?               ?              no              no                no                no             yes
+?            ?           no          no            yes            no          yes
+no              yes              no               yes                 yes                  no               no
+no           ?           no          yes            yes            no          yes
+no                no                yes                no                    no                    no                 no
+no16"2               no                yes                no                    no                    no                yes
+noJ~         limited          no            yes              yes               no            no
+
+OO
+
+Number (for authors see Appendix B)                23          24           25
+General
+-name                                   1NFILTR     ICARE      TONY
+-progrmn-lungougo&#176;'I                            F 77        Basic         F 77
+-written for computer type&#176;'2                       PC     HP-series 200
+-written for operating system                   MS-DOS   lip Basic 3.0   VMS-DOS
+
+26          27            28            29            30            31            32           3333~
+STROM-II       ?          FLOW2       CP 3729'1      PAFDPIM       CLIM           ?         COMERL
+F V         F           F 77           F          Basic         F 77          F 77        dBaselV
+M          M        VAX/IBM       M/]~         PC           ?          M/WS         PC
+?          ?           VMS           ?           DOS           ?          Uluix         DOS
+
+Eqaatioas&#176;.3
+-flow tlMough cracks                          1 L        1 G         1 G        1 E        1 C
+-flow tlmmgh large openings                       2 J          --          2 D        2 D         2 C
+-flow tlmmgh dnot work                       31        3C         --        3B        --
+-fun flow cl'mrmacristic*                           --          4 E          4 E         4 B         --
+-wind ptessmc                                    5B          5D          5D         5D         5B
+~ Imoyuney                            6B        6A         6B        6B        6C
+-outside pressure fluctuation  ..........
+-&#162;irculaliun flow on large openings  ..........
+-single sided ventilation                         constant  ....  ?          ?
+-cross ventilation                                      constant         yes             yes            -9             ?
+-pressure coefficient (only if calculated)               ?          yes  ....  ?
+-temperature gradieat                        ?  ......  ?
+
+Algorithm To Solve Nonlinear Set Of Equations&#176;'4
+-name of algorithm&#176;'5                                   ?          Newton        Newton
+-equation                                   13 B        13 D        13 D
+Limits
+-max. number of zones                           200          4        unlimited
+-max. number of openings/zouet,                   3500         --        unlimited
+-max. number of shafts/corridors/floors                --           5        unlimited
+-max. number of mechanical ventilation               --           5        unlimited
+Input
+-interactive input                                         no            yes             no
+-CAD-inlmt                                    no          no          no
+-weatbea- data from weather files                     no         yes          yes
+-3-I) beilding dteseriptiou                          yes         no          no
+-schedules (e.g., occupants)                        no         yes          yes
+Output
+-lil~of arrays used by the model                    yes         yes          yes
+-gral~ical output                                no         yes          no
+-statistical functions                              no         yes          no
+Structure
+-sepem~ input program                           yes         yes          yes
+-modular structme                               yes         yes          yes
+Cembimttioa With Other Models
+-combined with thermal model                      no         yes          yes
+-combined with ImUutiou model                     no          no          no
+Program Availability
+-program available to third parties                    ?          yes          yes
+
+Newton
+13B
+150
+unlimited
+unlimited
+6
+yes
+no
+no
+yes
+?
+yes
+no
+no
+yes
+yes
+yes
+no
+no
+
+1B
+2D
+5B
+6C
+constant
+8A
+yes~.!
+12D
+
+IF
+2E
+5F
+6D
+
+IB
+2D
+3J
+4H
+
+IM
+2K
+9
+9
+5G
+6I
+8B
+12A
+
+IH
+2D
+3D
+4D
+5B
+6F
+?
+?
+?
+?
+
+IA
+2L
+3J
+4E
+5C
+6J
+constant
+8C
+yes33-2
+yes33.2
+yes33,3
+constant
+
+HCR          SOLVP        Newton        Newton        Sec-Met        Newton         see334
+13 C          13 D          13 D            ?            13 1          ._32a           ..
+unlimited      unlimited        25            4            25           60        unlimited
+unlimited      unlimited          4             7             10         unlimited      unlimited
+unlimited      unlimited          8             --             ?             10         unlimited
+unlimited      unlimited          ?             2             4          unlimited      unlimited
+?            no           no           yes           ?            ?           yes
+?              no             no             no              ?              ?              no
+?               yes              no              no              yes               ?               yes
+?                 no                no                no                no                 ?                 no
+?               no              no              no               ?                ?               yes
+?           yes          yes           no            ?            ?           yes
+?            yes            no            no            yes            ?            yes
+?            no           no           no           yes           ?            no
+?               yes              no              no              no               ?               yes
+?               yes              yes              no              no               ?               yes
+?             yes             no             no             yes             ?              no
+?             yes           no292            no             no              ?             yes
+yes          yes,but2~2          yes          yes,but3&#176;l           no               ?           unclear yet
+
+00
+OQ
+
+Number (f~ authors see Appendix B)                 34           35          36          37           38            39          40          41          42          43          44
+General
+-name                                            ?            ?          TARP          ?            Vent            .9            ?         SAFM4H         ?            ?            ?
+-wogrmn-language&#176;-I                               F 77          F IV         F 77         F IV          F 77           HPL       HP-Special        --            ?            ?            F
+-wriuea for compute~r type&#176;'2                        VAX         M           ?           M      IBM compatible       PC          PC          --           ?           ?        ICL 1907
+-written for operating system                         ?           ?           ?           ?         MS DOS          ?           ?                        ?           ?           ?
+
+Equations&#176;-s
+-flow through cracks
+-flow through large openings
+-flow through duct wodk
+-fan flow chat~t~ristics
+-wind Wcssure
+ahermal buoylmcy
+-outside pressure fluctuation
+ -circulation flow on large openings
+-single sided veatilation
+-cross ventilation
+-wessure coefficient
+-tempumtme gradient
+
+IG
+3A
+yes
+5E
+6B
+yes
+.9
+?
+?
+.9
+
+IF
+2E
+consUmt
+yes
+6D
+.9
+?
+?
+?
+
+IA
+2A
+5A
+6A
+conslant
+yes
+yes
+
+IB
+2B
+4A
+5B
+6B
+
+IM
+2B
+?
+sec31.!
+5F
+6B, 6C, 6J
+?
+?
+?
+?
+?
+?
+
+IE
+2F
+3E
+4E
+5B
+6G
+7B
+?
+?
+?
+?
+
+1E
+_.
+5D
+6B
+?
+*9
+*9
+.9
+
+1B
+5H
+6K
+I1C
+
+IE
+3C
+4C
+5B
+6E
+*9
+.9
+?
+.9
+
+IE
+?
+?
+?
+?
+?
+?
+?
+?
+?
+?
+?
+
+IE
+?
+?
+?
+?
+*9
+.9
+?
+?
+?
+*9
+?
+
+Algorithm To Solve Nonlinear Set Of Equations 0.4
+-name of algorithm~5                                --            ?         N - Steff       N - R          N - R         Sec - Met  ....  ?            ?            ?
+-equation                                            13A          13D          13E          13B      13C,13E,13H,131       13D         S~40"I           --             ?             ?             ?
+Limits
+-max. number of zones                                 725            25           see~s'1          300            100             50           sec4&#176;2        unlimited          ?             ?            211
+-max. number of openings/zones                    unlimited         4          see~sl          120           100           see39.1        see4&#176;3       unlimited         4            ?            4
+-max. number of shafts/conidors/floors               5,720,720         1          see36a       unlimited          ?            See39'1       unlimited      unlimited       1, 0, ?          ?          1, ?, 10
+-max. number of mechanical ventilation                  20            8          see36"~       unlimited         I00           ~d~:39-I  ....  .9            .9            .9
+Input
+-interactive input                                    ?            ?            --            ?            yes             ?            ?            no            *9            *9            .9
+-CAD-input                                        ?            ?            --            ?            no             .9            ?            no            ?            .9            ?
+-weather data from weather files                        ?            ?           yes           ?             .              ?            ?            no            ?            ?            ?
+-3-D building description                              ?            ?           yes           ?             ?              ?            ?            no            ?            ?            ?
+-schedules (e.g,, occupants)                          ?           ?           yes           ?            ?             ?           ?           no           ?            ?           ?
+Output
+-file of arrays used by the model                        ?            ?            --            ?            yes             ?            ?            no            ?            *9            ?
+-graphical output                                 ?           ?           --           ?            .9             ?           ?           no           ?            ?           ?
+-slatistkal functions                                  ?            ?            --            ?             ?              ?            ?            no            ?            ?            ?
+Structure
+-separate input program                             .9           ?           yes           ?           yes            ?           ?           no           ?            .9           .9
+-modular sWuctum                                   ?            ?            no            ?            yes             ?            ?            no            ?            ?            ?
+Combination With Other Models
+-combined with tlgtmal model                         ?            ?           yes           ?            no             ?            .9            no            ?            *9            *9
+-combined with poUution model                        ?            ?           yes           ?            yes             ?            ?            no            ?            ?            ?
+Prowma Availability
+-program available to third parties                    limited         yes         limited        limited       yes,but38"2          no           no           yes           ?            ?           yes
+
+00
+~,D
+
+Number (for authors see Appendix B)                 45           46           47            48           49           50
+General
+-name                                     ?        VENT 1      VENT 2      COMIS    CONTAM88    DTFAM
+-program-lauguage&#176;1                               ?           F 77         Basic          F 77           C           F 77
+-wriUea for computer type&#176;'2                         ?            M           PC       MicroVAX,PC   IBM comp     IBM comp
+-written for operating system                       ?           ?           ?       Unix, MS-DOS   MS-DOS     MS-DOS
+
+Equations0.3
+-flow through o'acks
+-flow through Imge openings
+-flow through duet work
+-fan flow characteristics
+-wind pressure
+-thermal buoyancy
+-outside pressure fluctuation
+-circulation flow on large openings
+-single sided ventilation
+-cross V~ltilation
+-pressure coefficient (only if calculated)
+-temlm'atore grndiem
+
+ID
+2G
+2G
+?
+?
+?
+?
+?
+?
+?
+?
+?
+
+1D
+2D
+constant
+5C
+6B
+7A
+
+1D
+2D
+
+constant
+5C
+6B
+7A
+
+IA
+2L
+3J
+4E
+5C
+6J
+constant
+8C
+yes~.]
+yes~-]
+yests.2
+constant
+
+See49.L
+See49.1
+s~e49, l
+see49.1
+?
+?
+yes
+?
+?
+uniform
+
+Se~50.1
+See5o. 1
+see5o.1
+see50.1
+?
+?
+yes
+?
+?
+uniform
+
+Algorithm To Solve Nonlinear Set Of Equations&#176;4
+-name of algorithm&#176;'s
+-equation
+
+Limits
+-max. number of zones
+-max. number of openings/zones
+-max. number of shafts/corridors/floors
+-max. number of mechanical ventilation systems
+
+Input
+-interactive input
+CAD-input
+-weather data from weather files
+-3-D building
+-schedules (e.g., oceupunts)
+
+Output
+-file of arrays used by the program
+-graphical output
+-statistical functions
+
+New~n
+?
+
+150
+?
+?
+?
+
+see46.1
+?
+
+40
+unlimited
+40, 40, 40
+l/opening
+
+yes
+.9
+yes
+no
+no
+
+no
+yes
+no
+
+see47.1
+?
+
+2
+40
+0
+1
+
+yes
+?
+no
+no
+no
+
+no
+yes
+no
+
+se~48.3
+13B
+
+unlimited
+unlimited
+unlimited
+unlimited
+
+yes
+no
+yes
+no
+yes
+
+yes
+yes
+no
+
+N-R
+?
+
+unlimited
+unlimited
+unlimited
+~limited
+
+no
+no
+yes
+yes
+yes
+
+yes
+no
+no
+
+N-R
+?
+
+unlimited
+unlimited
+unlimited
+unlimited
+
+no
+no
+yes
+yes
+yes
+
+yes
+rio
+no
+
+Slruch,re
+-sepura~ input program                             ?           yes           no            yes          yes           no
+-modular sm~tm~                                 ?            ?~.            yes          yes           yes
+
+yes
+yes
+
+no
+yes
+
+yes
+no
+
+Combiutiea With Other Models
+-combined with thermal model
+-combined with pollution model
+
+no
+no
+
+no
+yes
+
+Program Availability
+-program available to third parties                     7          limited        limited         yes4s'4
+
+yes49.2        yesSO.2
+
+e.D
+
+91
+
+0.3
+0.4
+0.5
+
+1.1
+2.1
+2.2
+2.3
+4.1
+
+4.2
+4.3
+4.4
+4.5
+5.1
+5.2
+5.3
+5.4
+5.5
+5.6
+5.7
+7.1
+8.1
+9.1
+
+9.2
+10.I
+14.1
+14.2
+16.1
+18.2
+16.3
+17.1
+19.1
+20.1
+20.2
+22.1
+28.1
+28.2
+29.1
+29.2
+
+30.1
+32.1
+
+33.1
+33.2
+33.3
+33.4
+
+for equations see Tables 1-12, Appendix C
+for algorithm to solve nonlinear set of equations see Table 13, Appendix C
+Abbreviations used for the name of algorithm to solve nonlinear set of equations:
+N - R                Newton-Raphson method
+MNR                modified Newton-Raphson method
+Lev - Mar            Levenberg-Marquardt method
+Gauss               Gaussian elimination
+Bro - Con            Brown-Conte method
+Beta                 beta method by Newmark
+N - Steff             Newton method with Steffensen acceleration
+Sec - Met            Secant method
+Kajima general ventilation calculation program
+calculation of infiltration
+under consideration
+not so useful
+passive system simulation program/Multiroom Version 1
+not in particular
+integration of 1 E or 2 D
+transformed Newton method for the system of nonlinear equations using Jacobian matrix
+under revision for new version
+still under development
+by dividing them into horizontal equidistant strips
+linear interpolation from CPBANK
+internal reference pressure adjusted until flow errors negligible
+not fully tested
+optional
+after completing and testing
+infiltration and ventilation
+AIR calculation
+numerically derived Jacobian matrix is inversed and calculated pressure correction vector
+is multiplied by 0.5 for avoiding oscillation
+only in Japanese
+reference pressures adjusted until flow errors negligible
+simultaneous heat, moisture and ventilation predicting program multirooms
+revised Newton-Raphson method
+modified Walton (NBS) algorithm
+not yet
+not yet (used at user's risk)
+model for fluctuating wind pressure
+alternate
+linear interpolation between given points
+method with optimized acceleration
+secant and u/L decomposition
+harmonic analysis [3] and Lagrange interpolation [1]
+with some restrictions
+Fortran program to calculate air infiltration in buildings -- May 1974
+but a second program, named CP 46, is combined with pollution model (smoke
+concentration)
+its applicability is very limited
+iterative technique using linear approximation to set of nonlinear equations including Q
+and P
+still under development
+treated like large openings
+calculated by CPCALC, calculation program, see ref. 23
+optimized Newton, Newton with given relaxation, Newton--Steffensen
+
+92
+36.1
+
+38.1
+38.2
+39,1
+40.1
+
+40.2
+
+40.3
+41.1
+46.1
+47.1
+48.1
+48.2
+48.3
+48.4
+49.1
+49.2
+50.1
+50.2
+
+it is intended that the program be compiled with the appropriate values of a few
+parameter statements to match the program to the problem
+still under development
+still under development
+total number of connections smaller than 200
+the exact nonlinear equations were solved to determine the volume flow rate. The balance
+of in- and outflowing air was determined by iteration (variation of the neutral pressure
+level NPL).
+In horizontal direction (per floor): three groups of rooms; outside group divided in
+windward and leeward flats, inner group (shafts), middle group (corridors) combine the
+different groups. In vertical direction: 30.
+one to each attached region
+simplified airflow model
+internal reference pressure adjusted until flow errors negligible
+internal references pressure adjusted until flow errors negligible
+treated like large openings
+calculated by CPCALC, calculation program, see ref. 23
+optimized Newton, Newton with given relaxation, Newton-Steffenson
+as soon as fully debugged
+equation to be specified by the user
+available at the National Institute of Standards and Technology
+equation to be specified by the user
+available at the National Institute of Standards and Technology
+
+Appendix B - The authors and references of the computer programs
+
+Model number
+Author
+
+Reference
+
+Model number
+Author
+
+References
+
+Model number
+Author
+
+References
+
+1
+S. Hayakawa, Building Environmental Engineering Department, Kajima Institute of Construction
+Technology, Kajima Corporation, 2-19-21 Chofu-City, Tokyo, Japan
+1 S. Hayakawa, S. Togari and M. Hioki, Air flow rate variation of HVAC caused by stack effect and
+opening a window, Proc. Third Int. Symposium on the Use of Computers for Environmental
+Engineering related to Building, Banff, Canada, May 1978, pp. 627--636.
+
+2
+H. Yamazaki, Department of Architecture, Faculty of Engineering, Oita University, 700, Dan-no-
+haru, Oita-shi 870-11, Japan
+
+3
+M. Udagawa, Department of Architecture, Kogakuln University, 1-24-2, Nishi-Shinjyuku, Shi~yuku-
+ku, Tokyo 160, Japan
+1 K.-I. Ishida and M. Udagawa, A practical method for calculation of room temperature variation
+considering natural ventilation and radiant heat exchange among room surfaces in multi-room
+buildings, Trans. AIJ (Archit. Inst. Japan), (Nov.) (1987).
+2 K.-I. Ishida and M. Udagawa, Validation of the ventilation net work model for the estimation of
+room temperatures and heat load of residential buildings with measured data, Trans. A/J
+(Archit. Inst. Japan), (Oct.) (1988).
+3 K.-L Ishida and M. Udagawa, Ventilation of simulation program for the estimation of thermal-
+performance of residential houses using the data from the year round monitoring, Proc. CL/MA
+2000, 1985.
+
+Model number
+Author
+
+References
+
+Model number
+Author
+
+References
+Model number
+Author
+References
+Model numbers
+Author
+
+References
+
+Model number
+Author
+
+References
+
+Model number
+Author
+References
+Model numbers
+Author
+References
+Model number
+Author
+Reference
+Model number
+Author
+References
+
+93
+
+4
+T. Hayashi, Department of Thermal Energy System, Interdisciplinary Graduate School of
+Engineering Sciences, Kyushu University, 6-1 Kasuga-Kouen, Kasuga-Shi, Fukuoka-Ken 816, Japan
+1 T. Hayashi, Y. Urano, T. Watanabe and Y. Ryu, Passive system simulation program PSSP and its
+applications, Proc. Building Energy Simulation Conference 1985, Seattle, USA.
+2 T. Hayashi et al., Prediction of air distribution in multiroom buildings, Proc. Roomvent 87, Air
+Distribution in Ventilated Space, Stockholm, Sweden, 1987.
+5
+K. Balazs, Hungarian Institute for Building Science (eti) P.O.B. 71, XI. David F.u.6., Budapest
+1113, Hungary
+
+6
+I. C. Ward, University of Sheffield, Department of Building Science, Sheffield S10 2TN, UK
+
+7, 8
+M. B. Nantka, Institute of Heating, Ventilating and Air Protection, Silesian Technical University,
+Pstrowski 5, Room 23, 44 100 Gliwice, Poland
+1 Effectiveness of ventilation functioning in multi-story residential houses, District Heating,
+Heating &amp; Ventilation, (6) (1981) 154 (in Polish).
+2 A numerical method for air-change rate of buildings calculated, Proc. 5th Int. Conj,. on HVAC,
+Czechoslovakia, Nov. 24-25, 1081.
+3 Mathematical Method for Natural and Mechanical Air Flows Calculated, (in Polish).
+9
+H. Okuyama, Division of Environmental Technique, Shimizu Corporation, Institute of Technology,
+4-17-, Etchujima 3-chome, Koto-ku, Tokyo, Japan
+
+1 H. Okuyama, Theoretical study on the thermal network model in buildings, Doctorate Thesis,
+Waseda University, Tokyo, December, 1987.
+2 H. Okuyama, Network numerical analysis method for heat transfer and airflow in buildings, Proc.
+17th Symposium by the Committee of Building Heat Transfer in Building Environment,
+Committees of Architectural Institute of Japan, Aug. 1987.
+3 H. Okuyama, A computer modelling method of building airflow network and the solution of non-
+linear simultaneous equations, Proc. of Annual Meeting Society of Heating Air-Conditioning
+and Sanitary Engineers of Japan, Oct. 1989, p. 729, (in Japanese)
+10
+S. A. Dominguez, Dpto. de Ingeneria, Energetica y Fluidomecanica, Escuela Tecnica Superior de
+Ingenieros Industriales, Avda. Reina Mercedes, E-4101 Sevilla, Spain
+
+ii, 12
+R. Mounter, Centre Scientifique et Technique du Batiment, Station de Recherche, 84, Avenue Jean
+Jaures, F-77420 Marne la Vallde Decex 2, France
+
+13
+J. KronvaU, Department of Building Science, Lurid University, P,O. Box 118, S-221 00 Lund,
+Sweden
+1 J. Kronvall, Air Flow in Building Components, Report TV'BH-IO02, Division of Building
+Technology, Land Institute of Technology, Lurid, Sweden, 1980.
+14
+T. Tsuchiya, Department of Architecture, Faculty of Engineering, Toyo University, 2100 K~irai,
+Kawagoe-Shi, Saltama, Japan
+
+94
+Model number
+Author
+References
+
+15
+K. Nitta, Department of Architecture, Faculty of Technical Art, Kyoto Kogei Sen-i University, Kaido-
+machi, Gosho, Matsugasaki, Sakyo-ku, Kyoto-shi, 606, Japan
+
+Model number
+Author
+
+References
+
+16
+M. Liddament, Air Infiltration and Ventilation Centre, University of Warwick, Science Park, Barclays
+Venture Centre, Sir William Lyons Road, Coventry CV4 7EZ, UK
+
+Model number
+Author
+
+References
+
+17
+T. Sasaki, Department of Architecture, Hokkaido University, Nishi 8-chome, Kita 13-jou, Kitaku,
+Sapporo 006, Japan
+1 T. Sasaki, M. Hayashi and N. Aratani, On the ventilating characteristics of the space under the
+fluctuating wind pressure, Proc. Int. Conf. Roomvent 1987, Stockholm, Session 4a, pp. 1-12.
+2 T. Sasaki and N. Aratani, Study on change from summer-oriented houses to winter-oriented ones
+and their ventilation, Bull. Faculty of Engineering, Hokkaido University, (145) (Dec.) (1988)
+125-151,
+3 T. Saski et al., Der Liiftungszustand vonder Luftschicht durch die Wind-Unruhe, Trans. A/J
+(Archit. Inst. Japan), (372) (Feb.) (1987).
+
+Model number
+Author
+
+Reference
+
+18
+H. Matsumoto, Toyohashi University of Technology, Department of Regional Planning,
+Tempakucho, Toyohashi-shi 440, Japan
+1 H. Matsumoto, M. Nagatomo and H. Yoshino, A calculating method for predicting air pollution in
+multi-celled buildings, Proc. Meeting of Tohoku Branch of AIJ, 1988, pp. 33-36 (in Japanese).
+
+Model number
+Author
+
+References
+
+19
+G. Walton, National Institute of Standards and Technology, BR/A 313, Washington, DC 20234,
+USA
+1 AIRNET - a Computer-Program for Building Airflow Network Modeling, Rep. NISIR 89-4072,
+National Institute of Standards Interagency, 1989.
+2 G. N. Walton, Airflow network models for element-based building airflow modeling, ASHRAE
+Trans., 2 (1989).
+
+Model number
+Author
+Reference
+
+20
+M. Herrlin, Lawrence Berkeley Laboratory, Bldg. 90, Rm. 3074, Berkeley, CA 94720, USA
+1 M. K. Herrlin, MOVECOMP: a multizone infiltration and ventilation simulation program, Air
+Infiltration Rev., 9 (3) (1988).
+
+Model number
+Author
+
+References
+
+21
+Y. Utsumi, Miyagi National College of Technology, 48 Nodayama, Shiote, Medeshima, Natori 981-
+12, Japan
+
+Model number
+Author
+References
+
+22
+W. de Gids, TNO Division of Technology for Society, P.O. Box 217, 2600 AE Delft, Netherlands
+
+Model number
+Author
+
+References
+
+23
+B. Spruit, ISSO-Netherlands, Institute for Study and Promotion of Research in the Field of Building
+Services, Postbus 20740, 3001 JA Rotterdam, Netherlands
+1 "ISSO-4" (to be published)
+2 M. Liddament, Air Ir~iltration Calculation Techniques -- An Application Guide, Air Infiltration
+and Ventilation Centre, June 1986.
+
+95
+
+Model number
+Authors
+
+References
+
+Model number
+Authors
+
+References
+
+Model number
+Authors
+
+References
+
+Model number
+Author
+
+References
+
+24
+F. AUard, J. J. Roux and D. Caccavelli, Laboratoire Equipement de l'Habitat, Centre de Thermique-
+URA CNRS 1372, INSA de Lyon, Bgtiment 307, F-69621 Villeurbanne C~dex, France
+1 D. CaccaveUi, J. J. Roux and A. Roldan, Proc. Infi/trat/on, Air Flow Distribution and Miero-
+Computation Roomvent 87, Air Distribution in Ventilated Spaces, Stockholm, 1987, Session
+4a.
+2 D. CaccaveUi, J. J. Roux and F. AUard, Transferts a6rauliques dans les b~timents; pr6sentation
+de deux niveaux d'approche, Journde d'Etude de la Socidtd Frangaise des Thermiciens, dtat
+des connaissances sur la ventilation~ Paris, Nov. 26, 1987.
+3 D. Caccavelli, J. J. Roux and F. Allard, A simplified approach of air infiltration in multizone
+buildings, Proc. Pth AIVC Conference, Gent, Belgium, Vol. 2, Sept. 1988.
+4 D. Caccavelli, J. J. Roux and F. Allard, Mod61isation du comportement thermique des b~timents
+multizones. Adaptation ~ un processus de conception, Tb2se de Doctorat, INSA de Lyon, Nov.
+1988, 473 p.
+25
+F. Allard, G. Achard and A. Roldan, Laboratoire Equipement de l'Habitat Centre de Thermique-URA
+CNRS 1372, INSA de Lyon, B~timent 307, F-69621 Villeurbanne C6dex, France
+1 A. Roldan, G. Achard and F. Allard, Influence des infiltrations et des transferts a6rauliques entre
+pi~ces sur la charge thermique d'un b~timent multizone, Proc. Third Int. Congress on Building
+Energy Management, ICBEM 87, Lausanne, Sept. 1987, pp. 178-185.
+2 A. Roldan, Etude thermique et a6raulique des enveloppes de b~timent. Influence des couplages
+int6rieurs et du multizonage, Th~se de Doctorat, INSA de Lyon, Dec. 1985, 310 p.
+26
+H. Esdorn, H. E. Feustel and J. Guo, Hermann-Rietschel-Institut, Technische Universitaet Berlin,
+Marchstrasse 4, D-1000 Berlin 10, FRG
+1 H. Feustel, Beitrag zur theoretischen Beschreibung der Druck- und Luftmassenstromverteilung in
+natilrlichen und maschinell geltifteten Geb~uden, Dissertation, Technische Universitiit Berlin,
+1983, VDI-Fortschrittsberichte, Reihe 6, Nr. 151, VDI-Verlag, Duesseldorf.
+2 J. Guo, Weiterentwicklung des Programms gem~ss 1) und 2) mit dem Ergebnis einer
+Berficksichtigung thermisctmr Druckdifferenzen auch innerhalb eines Geschosses und einer
+spi2rbaren Verringerung des Rechenzeiten, Interner Institutsbericht, 1988.
+27
+P. J. Jackman, Building Services Research and Information Association, Old Bracknell Lane West,
+Bracknell, Berkshire RG12 4AH, UK
+1 P. J. Jackman, Heat loss in buildings as a result of infiltration, BSE, 42 (1974) 6-15.
+2 P. J. Jackman, A study of the natural ventilation of tall office buildings, JIHVE, 38 (1970)
+103--118,
+
+Model number
+Author
+
+References
+
+Model number
+Author
+
+References
+
+28
+C. Melo, Departmento de Engenharia Mecanica, Universidade Federal de Santa Catarina, CX. Postal
+476, 88.049 Florianopolis-SC, Brazil
+1 C. Allen, Wind Pressure Data Requirements for Air Infiltration Calculation, Tech. Note 13,
+Air Infiltration and Ventilation Centre, Bracknell, UK, 1984.
+2 A. J. Bowen, A Wind Tunnel Investigation using Simple Building Models to Obtain Mean
+Surface Wind Pressure Coefficient for Air Infiltration Estimates, Rep. LTR LA 209, National
+Aeronautical Establishment, NRCC, Canada, 1976.
+29
+D. M. Sander, National Research Council Canada, Institute for Research in Construction, Building
+M 24, Montreal Road, Ottawa, Ontario K1AOR6, Canada
+
+Model number
+Author
+
+References
+
+30
+K. Klobut, Helsinki University of Technology, Faculty of Mechanical Engineering, Otakaari 4, SF-
+02150 Espoo, Finland
+
+Model number
+Author
+References
+
+31
+P. Dalicieux, Ddpartement Applications de l'Electricitd, 77250 Moret sur Loing, France
+
+96
+
+Model number
+Author
+Reference
+
+Model number
+Author
+References
+
+32
+P. Warren, Building Research Establishment, Bucknalls Lane, Garston, Watford WD2 7JR, UK
+1 E. Evers and A. Waterhouse, A Computer Model for Analysing Smoke Movement in Buildings,
+CP 59/78, Building Research Establishment 1978.
+
+33
+V. Dorer, EMPA ABT 176, CH-8600 Duebendorf, Switzerland
+
+Model number
+Author
+
+Reference
+
+34
+J. Gabrielsson, Ekono Association for Power and Fuel Economy, P.O. Box 27, 00131 Helsinki 13,
+Finland
+1 J. Gabrielsson and P. Porra, Calculation of infiltration and transmission heat loss in residential
+buildings by digital computers, JIHVE, 35 (1968) 357-368.
+
+Model number
+Author
+
+References
+
+35
+C. Y. Shaw~ Institute for Research in Construction, National Research Council, Bldg M-24, IRC,
+NRC, Montreal Road, Ottawa K1A OR6, Canada
+1 D. M. Sander and G. T. Tamura, FORTRAN IV Program to Simulate Air Movements in Multi-
+Storey Buildings, DBR Computer Program No. 35, National Research Council of Canada, 1974.
+2 D. M. Sander, FORTRAN IV Program to Calculate Air Ir~filtration in Buildings, DBR
+Computer Program No. 37, National Research Council of Canada, 1974.
+3 C. Y. Shaw, D. M. Sander and G. T. Tamura, A FORTRAN IV Program to Simulate Stair-Shqft
+Pressurization Systems in Multi-Storey Buildings, DBR Computer Program No. 38, National
+Research Council of Canada, 1974.
+
+Model number
+Author
+Reference
+
+36
+G. Walton, National Bureau of Standards, BR/B 114, Washington, DC 20234, USA
+1 G. N. Walton, Thermal Analysis Research Program, Reference Manual NBSIR 83-2655, US
+Department of Commerce, 1983.
+
+Model number
+Author
+
+References
+
+37
+S. Irving, Oscar Faber Consulting Engineers, Marlborough House, Upper Marlborough Road, St.
+Albans, Hefts. ALl 3UT, UK
+1 S. J. Irving and A. P. Wilson, Validation of a smoke movement program, Build. Eng. Res.
+Technol., 2 (4) (1984) 151-159.
+2 S. J. Irving, The computer simulation of smoke movement during building fires, Fire Prey. Sci.
+Technol., (22) (1979) 3-8.
+
+Model number
+Author
+References
+
+38
+M. Holmes, Arup Research &amp; Development, 13 Fitzroy Street, London WlP 6BO, UK
+1 M. J. Holmes, Design for Ventilation, Proc. AIVC 5th Conference, September 16-19, 1985,
+Netherlands.
+2 M. J. Holmes and T. Salnsbury, Ventilation design for a bus station, Proc. Pth AIVC Covtference,
+Gent, Belgium, Sept. 12-15, 1988.
+
+Model number
+Author
+Reference
+
+39
+W. de Gids, TNO Division of Technology for Society, P.O. Box 217, 2600 AE Delft, Netherlands
+1 W. F. de Gids, Calculation Method for the Natural Ventilation of Buildings, Publication No.
+632, TNO Research Institute for Environmental Hygiene, Delft, 1977.
+
+Model number
+Author
+Reference
+
+40
+W. Brinkmann, Bundesbaudirektion Berlin, Fasanenstraase 87, D-1000 Berlin 12, FRG
+1 W. Brinkmann, Zur Bestimmung des Liiftun~ebedarfs hoher Gebiiude, Dissertati(m,
+Teehnische Universit~t Berlin, 1980.
+
+97
+
+Model number
+Author
+
+Reference
+
+Model number
+Author
+References
+
+41
+H. E. Feustel, Lawrence Berkeley Laboratory, Building 90, Room 3074, 1 Cyclotron Rd, Berkeley,
+California 94720, USA
+1 H. E. Feustel and M. Sherman, A simplified model for predicting air flow in multizone structures,
+Energy Build., 13 (1989) 217-230.
+42
+G. Hausladen, Schiedel GmbH &amp; Co, Lerchenstr. 9, Postfach 50 05 65, D-Munich 50, FRG
+1 G. Hausladen, Wohnungslilftung, Untersuchung der verschiedenen Ltiftungsarten bzw.
+Liiftungspraktiken unter hygienischen, bauphysikalischen und energetischen Gesichtspunkten,
+Dissertation, Technische Universit~t Milnchen, 1980, Fortschrittsberichte der VDI Zeitschriflen,
+Reihe 5, Nr. 73.
+2 G. Hansladen, Luftwechsel in Wohnungen, Heizung, Liiftung Haustechnik, (1) (1978) 21-28.
+3 W. Krueger and G. Hausladen, Ei~fluss van Wind- und thermischen Kr~ten auf das
+betriebsverhalten yon mechanisch betriebenen Entlf~ftungsanlagen in mehergeschossigen
+Wohngebduden, Forschungsbericht ffir Haustechnik, Technische Universit~t Miinchen, 1979.
+
+Model number
+Author
+
+References
+
+43
+J. P. Cockroft, Building Services Research Unit, University of Glasgow, 3 Lillybank Gardens,
+Glasgow G12 8RZ, UK
+1 J. P. Cockroft, Air flows in buildings, Proc. Environment Inside Buildings Symposium,
+Southend on Sea~ 1979.
+2 J. P. Cockroft, Validation of buildings and systems energy prediction using real measurements,
+Computer Aided Design, 14 (1) (1982) 39-43.
+
+Model number
+Author
+
+References
+
+44
+R. E. BiUsborrow, Department of Building Science, Faculty of the Architectural Studies, University
+of Sheffield, Sheffield S10 2TN, UK
+1 R. E. Bilsborrow, Digital Analogue for Natural Ventilation Calculations, Report No. 6,
+Department of Buildings Science, University of Sheffield, 1973.
+2 A. C. Pitts and I. C. Wards, A Review of the Prediction and Investigation of Air Movement in
+Buildings, Report No. BS 59, Department of Buildings Science, University of Sheffield, 1983.
+
+Model number
+Author
+Reference
+
+45
+S. Swetiov, Soviet Union
+1 K. S. Swetlov, Calculations of air infiltration in multi-story buildings using electronic computers,
+Vodosnabize i Sanitarna Tekhinika, 11 (1966) HVRA-Translation 122.
+
+Model numbers
+Author
+References
+
+Reference for VENT 2
+
+46, 47
+D. W. Etheridge, British Gas PLC, Watson House, Peterborough Road, London SW6 3HN, UK
+1 D. W. Etheridge and D. K. Alexander, The British Gas multi cell model for calculating
+ventilation, ASHRAE Trans., 85 (Part II) (1980) 808-821.
+2 D. W. Etheridge, Crack flow equations and scale effect, Build. Environ., 12 (1977) 181-189.
+3 D. W. Etheridge and J. A. Nolan, Ventilation measurements at model scale in a turbulent flow,
+Build. Enrich., 14 (1979) 53-64.
+1 D. W. Etheridge and R. Gale, Theoretical and experimental techniques for ventilation research in
+buildings, Proc. Int. Gas Conf., London, June 1983, Paper C 18-33.
+
+Model number
+Authors
+
+48
+F. Allard, Laboratoire Eqnipement de l'Habitat, Centre de Thermique, INSA de Lyon, B~timent 307,
+F-69621 Villeurbanne C~dex, France
+H. E. Feustel, Lawrence Berkeley Laboratory, Building 90, Room 3074, Berkeley, CA 94720, USA
+E. R. Garcia, Dpt. Ingenieria Energetica y, Fluido Mecanica, Escuela Superior de lngenieros
+Industriales, Avda. Reina Mercedes S/N, E-Sevilla, Spain
+Mario Grosso, Dipartimento di Seienze e Teehniche, Per i Processi di Insediamento, Polltecnico Di
+Torino, Viale Mattioli 39, 1-10125 Torino, Italy
+Magnus Herrlin, Division for Building Services Engineering, Royal Institute of Technology, S-10044
+Stockholm, Sweden
+V. Dorer, EMPA ABT 175, CH-8600 Duebendorf, Switzerland
+L. Mingsheng, Mechanical Engineering Department, Texas A&amp;M University, College Station, TX
+77840, USA
+
+98
+
+Reference
+Model numbers
+Author
+References
+
+H. Yoshino, Dept. of Architecture, Faculty of Engineering, Tohoku University, Sendal 980, Japan
+H. C. Phaff, MT-TNO, POB 217, 2600 AE Delft, Netherlands
+Yasuo Utsumi, Department of Architecture, Miyagi National College of Technology, Medeshima,
+Natori, Miyagi, Japan
+1 H. E. Feustel and A. Raynor-Hoosen (eds.), Fundamentals of the Multizone Air Flow Model-
+COMIS, Tech. Note TN 2P, Air Infiltration and Ventilation Centre, May 1990, Coventry,'UK.
+49, 50
+J. Axley, Bldg. Technical Program, 3-437, Massachusetts Institute of Technoiogy, 77 Massachusetts
+Ave, Cambridge, MA 02139, USA
+1 J. Axley and R. Grot, The coupled air flow and thermal analysis problem in building airflow
+system simulation, Proc. ASHRAE Symposium on Calculation of lnterzonal Heat and Mass
+Transport in Buildings, ASHRAE Trans., 95 (2) (1989).
+2 J. Axley and R. Grot, Coupled airflow and thermal analysis for building system simulation by
+element assembly techniques, Proc. Room Vent '90, Engineering Aero- and Thermodynamics
+of Ventilated Rooms, 1990.
+3 R. Grot, Users Manual -- NBSAVIS -- CONTAM88, National Institute of Standards and
+Technology, 1990.
+4 G. Walton, AIRNET - A Computer Program for Building Airflow Network Modeling, NISTR
+80-4072, National Institute of Standards and Technology, 1988.
+
+Appendix C -- Equations used in the
+computer programs
+Nomenclature is given in Table 14.
+TABLE 1. Equations used for flow through cracks
+
+FfDAPn                               (1A)
+Q =DAPn                               (1B)
+Q    D                             (1C)
+3600   3600 API/n
+AP = aQ2 + bQ                                  (1 D)
+Q ~ CLAP'*                             (1 E)
+F = KAP~                                          (IF)
+Q = CAAP'*                              (1 G)
+AP = 0.5LpQ2                                 (1D
+AP=aF + bF2                                      (1J)
+~=~
+F=pDA/m with nffi2/3                       (1L)
+Q =KAPn                               (1M)
+
+TABLE 2. Equations used for flow through large openings
+
+F=DAPn                               (2A)
+Q &#127;DAPn                              (2B)
+Q    D Aplm                             (2C)
+3600   3600
+2Ap-1/2
+F=KAP~                               (2E)
+Q =A(2Ap)lm(1/p)1/2                              (2F)
+AP = SQ 2                                    (2 G)
+AP = oF+ bF2                                      (2H)
+
+TABLE 2. (continued)
+
+F=pDAP~   with n=2/3                      (2J)
+Q =K~                              (2k")
+2
+F= 5 wCdO
+X (p[2g(pl - P2) -- bt])~/2~/- Zn]3/2               (2L)
+
+TABLE 3. Equations used for flow through duct work
+
+n
+1/'2 m       1/2
+                     (3C)
+P- 2 v2(1 "{-~*)'{-APvE--PD= 0
+ap=[K+ :L]~j H_.~D_~D,p Q~  0                         (3D)
+QffiA  (2AP)TM       +]~g                   (3E)
+2pA                            (3F)
+F=
+AP
+"2Ap-~
+~ff~  1   2           Al 1 ~oj2                          (3H)
+AP = CQ2                                  (3J)
+
+TABLE 4. Equations used for fan flow characteristics
+
+TABLE 6. (continued)
+
+99
+
+Q=K, + K~AP + KsAP2
+AP= K1 + K2Q + K3Q2
+AP= APo- KIQ - K2Q2
+AP = Bn2D~. +  Q2
+A2D4
+aP =f(QJ
+~=Ko + K,F + K2F2 + KaFa
+AP, =gI + K2Q + K3Q2 + KaQ3
+AP = c~ - ( C2Q2)
+
+(cA)
+(4B)
+(4C)
+(4D)
+(4E)
+(4F)
+(4G)
+(4H)
+
+AP=po(T~- T&#176;ITogH                       (6G)
+k T, To/
+AP. = Apgz                                   (60
+aP= (e,- p,g&amp;)- (Pj- p~gh~)                    ( 6J)
+ = Apg~                             (6K)
+
+TABLE 7. Equations used for outside pressure fluctuations
+
+TABLE 5. Equations used for wind pressure
+
+(~,2)0~=0.5(p~)0'
+Q~ = 1/ZANZT(0.00 lV= + 0.0035HAT+ 0.01)1/2
+
+(7A)
+(7B)
+
+,~O= 2,/.)2
+tuD=C p0 v2
+2
+~=C~Vo~
+
+AP = 6~- vii2
+2
+P v2
+kP= ~
+with v =Vo2334[ 1 + 2.8 log(H+ 4.75)]
+~kP=Kv2cp    with Cp as input
+1 Pv2
+Pwi"d = CP
+AP=CpAP,~
+
+(5A)
+(5B)
+(5C)
+
+(5D)
+
+(5E)
+(5F)
+(SG)
+(5H)
+
+TABLE 8. Equations used for circulation flow on large openings
+
+o..c,.(_:.)&#176;-'
+Q =KAP&#176;'~   with AP = Apgh
+AF=Fo, z.-Fz~H
+
+(SA)
+(8B)
+(8c)
+
+TABLE 9. Equations used for single-sided ventilation
+No equations were specified
+TABLE 10. Equation used for cross ventilation
+Q = KAP&#176;'87                                         ( 1 0A)
+TABLE 11. Equations used for pressure coefficient
+
+TABLE 6. Equations used for thermal buoyancy
+
+AP=pgAH
+AP = (Po- ~)g(H- Ho)
+H       1 _ 1
+AP= 3462(-Ho)(~&#176; ~1
+AP = (Po -- I~)gH
+AP= (po - p~)gH(X-- 0.5 - N /2 )b + c
+Q=(CDAIn)(AOg~)1/2
+
+(6A)   %=0.75-1.05 ~         if Q&lt;90&#176;
+9O
+(6B)   %= -0.45+0.15 -~Q        if Q&gt;90&#176;
+9O
+(6C)
+1
+=~kPwind= 2 P~P'v2
+(6D)
+(6E)     c,= 0.75                        if b =0-30&#176;
+c,, = - 0.01667b + 1.25       if b = 30-75&#176;
+c, = - 0.02667b + 2.0        if b = 75-90&#176;
+(6F)    cw= -0.4                   if b=90-180&#176;
+%,~ = 1                      Cp, ~ = - 0.3
+(continued)
+
+(11/%)
+
+(11B)
+(11C)
+
+100
+TABLE 12. Equations used for temperature gradient
+
+Q =yD~l~lo~&gt;-~                           (12A)
+HI
+dP     gPo273
+dz    2,+Tzo                           (12B)
+P~f
+Pffi          and dPffi -pg dH                (12C)
+R(Tr.f-&amp;H)
+h
+Tzfaz + T.,o and P,,ffigJ P(z) dz                   (12D)
+0
+
+TABLE 13. Algorithm to solve the nonlinear set of equations
+
+~ CjAj ]                         (lSA)
+Pj+I=P#- ZV                              (13B)
+ZQ'
+ZD APTM
+CR =                                  (13C)
+~= o                                03D)
+P~ + 1 = P~ - Correction                                 ( 13 E)
+Minimize over ~ ~/i2(P) )
+N
+withfi(P)= Y /.,.~                      03F)
+J-l;t*J
+[A][AP] ffi [q]                            (13G)
+.+, =r.-  j~                                          (lSH)
+~Q, = 0                                  (13I)
+i
+
+TABLE 14. Nomenclature
+Symbol        Description                 Unit
+
+A              area                         (m2)
+a, b, c         coefficient                     (-)
+B             constant                    (-)
+bt              turbulent pressure            (Pa/m)
+gradient
+
+(continued)
+
+TABLE 14. (continued)
+
+Symbol        Description                   Unit
+
+C              crack flow coefficient         (m3/m h Pan)
+Cp              surface pressure               (-)
+coefficient
+D             flow coefficient               (m3/h Pan)
+d              diameter                     (In)
+E              effective leakage area         (kg/h)
+F             mass flow rate               (kg/h)
+f              friction factor                (-)
+f(...)         function of                  (-)
+g            gravity                    (m/s2)
+H             height                        (m)
+J              derivative off(P)
+K             constant                    (-)
+L             crack length                 (m)
+l             duct length                 (m)
+n              flow exponent                (-)
+P              pressure                      (Pa)
+Q              volume flow rate             (m3/h)
+R             gas constant                (J/kg K)
+. S              resistance                    (h Pa/m3)
+T             absolute temperature         (K)
+t              relative temperature          (&#176;C)
+v              velocity                      (m/s)
+w             wind speed                   (m/s)
+Zn             position of a neutral          (m)
+plane
+z              depth of crack               (m)
+
+Greek letters
+A              difference                    (-)
+F.             summation                  (-)
+O             absolute temperature         (K)
+A             friction factor               (-)
+At             temperature gradient          (K/m)
+p             air density                  (kg/ma)
+             fitting loss factor            (-)
+~a              viscosity of air               (m2/s)
+
+Subscripts
+d             discharge
+dyn          dynamic
+f, i, r, s        locations in the duct
+system
+i              inside
+j              iteration step
+j + 1           iteration step + 1
+lee            leeward side
+NET          inside
+o              outside
+ref            reference
+s             stack
+t              total
+wind          windward side
+z             height above  reference
+level
+0              reference
+
+</dp:raw-text><dp:aggregation-type>Journals</dp:aggregation-type><dp:version-number>S350.1</dp:version-number></dp:document-properties><cja:converted-article version="4.5.2" docsubtype="fla" xml:lang="en">
+		<cja:item-info>
+			<cja:jid>ENB</cja:jid>
+			<cja:aid>9290040N</cja:aid>
+			<ce:pii>0378-7788(92)90040-N</ce:pii>
+			<ce:doi>10.1016/0378-7788(92)90040-N</ce:doi>
+			<ce:copyright type="unknown" year="1992"/>
+		</cja:item-info>
+		<cja:head>
+			<ce:title>A survey of airflow models for multizone structures</ce:title>
+			<ce:author-group>
+				<ce:author>
+					<ce:given-name>Helmut E.</ce:given-name>
+					<ce:surname>Feustel</ce:surname>
+				</ce:author>
+				<ce:author>
+					<ce:given-name>Juergen</ce:given-name>
+					<ce:surname>Dieris</ce:surname>
+				</ce:author>
+				<ce:affiliation>
+					<ce:textfn>Indoor Environment Program, Applied Science Division, Lawrence Berkeley Laboratory, Berkeley, CA 94720 USA</ce:textfn>
+				</ce:affiliation>
+			</ce:author-group>
+			<ce:date-received day="14" month="12" year="1990"/>
+			<ce:date-revised day="1" month="3" year="1991"/>
+			<ce:date-accepted day="6" month="2" year="1992"/>
+			<ce:abstract class="author">
+				<ce:section-title>Abstract</ce:section-title>
+				<ce:abstract-sec>
+					<ce:simple-para view="all">Airflow models are used to simulate the rates of incoming and outgoing airflows for a building with known leakage under given weather and shielding conditions. Additional information about the flow paths and air-mass flows inside the building can only be made by using multizone airflow models. In order to obtain more information on multizone airflow models, a literature review was performed in 1984. A second literature review and a questionnaire survey performed in 1989 revealed the existence of 50 multizone airflow models, all developed since 1966, two of which are still under development. All these programs use similar flow equations for crack flow, but differ in the versatility to describe the full range of flow phenomena and the algorithm provided for solving the set of nonlinear equations. This literature review has found that newer models are able to describe and simulate the ventilation systems and interrelation of mechanical and natural ventilation.</ce:simple-para>
+				</ce:abstract-sec>
+			</ce:abstract>
+		</cja:head>
+		<cja:tail>
+			<ce:bibliography view="all">
+				<ce:section-title>References</ce:section-title>
+				<ce:bibliography-sec>
+					<ce:bib-reference id="BIB1">
+						<ce:label>1</ce:label>
+						<sb:reference>
+							<sb:contribution langtype="en">
+								<sb:authors>
+									<sb:author>
+										<ce:given-name>M.</ce:given-name>
+										<ce:surname>Liddament</ce:surname>
+									</sb:author>
+								</sb:authors>
+							</sb:contribution>
+							<sb:host>
+								<sb:edited-book>
+									<sb:title>
+										<sb:maintitle>Air Infiltration Calculation Techniques &#x2014; An Applications Guide</sb:maintitle>
+									</sb:title>
+									<sb:date>June 1986</sb:date>
+									<sb:publisher>
+										<sb:name>Air Infiltration and Ventilation Centre</sb:name>
+										<sb:location>Warwick, UK</sb:location>
+									</sb:publisher>
+								</sb:edited-book>
+							</sb:host>
+						</sb:reference>
+					</ce:bib-reference>
+					<ce:bib-reference id="BIB2">
+						<ce:label>2</ce:label>
+						<sb:reference>
+							<sb:host>
+								<sb:edited-book>
+									<sb:title>
+										<sb:maintitle>ASHRAE 1985 Handbook of Fundamentals</sb:maintitle>
+									</sb:title>
+									<sb:date>1985</sb:date>
+									<sb:publisher>
+										<sb:name>American Society of Heating, Refrigerating and Air-Conditioning Engineers</sb:name>
+										<sb:location>Atlanta, GA</sb:location>
+									</sb:publisher>
+								</sb:edited-book>
+							</sb:host>
+							<sb:comment>Ch. 22</sb:comment>
+						</sb:reference>
+					</ce:bib-reference>
+					<ce:bib-reference id="BIB3">
+						<ce:label>3</ce:label>
+						<sb:reference>
+							<sb:contribution langtype="en">
+								<sb:authors>
+									<sb:author>
+										<ce:given-name>H.E.</ce:given-name>
+										<ce:surname>Feustel</ce:surname>
+									</sb:author>
+									<sb:author>
+										<ce:given-name>V.M.</ce:given-name>
+										<ce:surname>Kendon</ce:surname>
+									</sb:author>
+								</sb:authors>
+								<sb:title>
+									<sb:maintitle>Infiltration models for multicellular structures &#x2014; a literature review</sb:maintitle>
+								</sb:title>
+							</sb:contribution>
+							<sb:host>
+								<sb:issue>
+									<sb:series>
+										<sb:title>
+											<sb:maintitle>Energy Build.</sb:maintitle>
+										</sb:title>
+										<sb:volume-nr>2</sb:volume-nr>
+									</sb:series>
+									<sb:issue-nr>2</sb:issue-nr>
+									<sb:date>1985</sb:date>
+								</sb:issue>
+								<sb:pages>
+									<sb:first-page>123</sb:first-page>
+									<sb:last-page>136</sb:last-page>
+								</sb:pages>
+							</sb:host>
+						</sb:reference>
+						<sb:reference>
+							<sb:host>
+								<sb:edited-book>
+									<sb:title>
+										<sb:maintitle>LBL-Rep. No. 17588</sb:maintitle>
+									</sb:title>
+									<sb:date>Apr. 1985</sb:date>
+									<sb:publisher>
+										<sb:name>Lawrence Berkeley Laboratory</sb:name>
+									</sb:publisher>
+								</sb:edited-book>
+							</sb:host>
+						</sb:reference>
+					</ce:bib-reference>
+					<ce:bib-reference id="BIB4">
+						<ce:label>4</ce:label>
+						<sb:reference>
+							<sb:contribution langtype="en">
+								<sb:authors>
+									<sb:author>
+										<ce:given-name>P.J.</ce:given-name>
+										<ce:surname>Jackman</ce:surname>
+									</sb:author>
+								</sb:authors>
+								<sb:title>
+									<sb:maintitle>A study of natural ventilation of tall office buildings</sb:maintitle>
+								</sb:title>
+							</sb:contribution>
+							<sb:host>
+								<sb:issue>
+									<sb:series>
+										<sb:title>
+											<sb:maintitle>J. Inst. Heat. Vent. Eng.</sb:maintitle>
+										</sb:title>
+										<sb:volume-nr>38</sb:volume-nr>
+									</sb:series>
+									<sb:date>1970</sb:date>
+								</sb:issue>
+							</sb:host>
+						</sb:reference>
+					</ce:bib-reference>
+					<ce:bib-reference id="BIB5">
+						<ce:label>5</ce:label>
+						<sb:reference>
+							<sb:contribution langtype="en">
+								<sb:authors>
+									<sb:author>
+										<ce:given-name>D.M.</ce:given-name>
+										<ce:surname>Sander</ce:surname>
+									</sb:author>
+								</sb:authors>
+							</sb:contribution>
+							<sb:host>
+								<sb:edited-book>
+									<sb:title>
+										<sb:maintitle>FORTRAN IV Program to calculate Air Infiltration in Buildings, DBR Computer Program No. 37</sb:maintitle>
+									</sb:title>
+									<sb:date>1984</sb:date>
+									<sb:publisher>
+										<sb:name>National Research Council Canada</sb:name>
+									</sb:publisher>
+								</sb:edited-book>
+							</sb:host>
+						</sb:reference>
+					</ce:bib-reference>
+					<ce:bib-reference id="BIB6">
+						<ce:label>6</ce:label>
+						<sb:reference>
+							<sb:contribution langtype="en">
+								<sb:authors>
+									<sb:author>
+										<ce:given-name>H.E.</ce:given-name>
+										<ce:surname>Feustel</ce:surname>
+									</sb:author>
+								</sb:authors>
+								<sb:title>
+									<sb:maintitle>Entwicklung eines FORTRAN Programms zur Bestimmung der Luftstromverteilung in Geb&#228;uden</sb:maintitle>
+								</sb:title>
+							</sb:contribution>
+							<sb:host>
+								<sb:edited-book>
+									<sb:title>
+										<sb:maintitle>Thesis</sb:maintitle>
+									</sb:title>
+									<sb:date>1977</sb:date>
+									<sb:publisher>
+										<sb:name>Technische Universit&#228;t</sb:name>
+										<sb:location>Berlin</sb:location>
+									</sb:publisher>
+								</sb:edited-book>
+							</sb:host>
+						</sb:reference>
+					</ce:bib-reference>
+					<ce:bib-reference id="BIB7">
+						<ce:label>7</ce:label>
+						<sb:reference>
+							<sb:contribution langtype="en">
+								<sb:authors>
+									<sb:author>
+										<ce:given-name>Jianxiong</ce:given-name>
+										<ce:surname>Guo</ce:surname>
+									</sb:author>
+								</sb:authors>
+								<sb:title>
+									<sb:maintitle>Weiterentwicklung des Programms mit dem Ergebnis einer Ber&#252;cksichtigung thermischer Druckdifferenzen auch innerhalb eines Geschosses und einer sp&#252;rbaren Verringerung des Rechenzeiten, Interner Institutsbericht</sb:maintitle>
+								</sb:title>
+							</sb:contribution>
+							<sb:host>
+								<sb:book>
+									<sb:date>1988</sb:date>
+									<sb:publisher>
+										<sb:name>Technische Universit&#228;t</sb:name>
+										<sb:location>Berlin</sb:location>
+									</sb:publisher>
+								</sb:book>
+							</sb:host>
+						</sb:reference>
+					</ce:bib-reference>
+					<ce:bib-reference id="BIB8">
+						<ce:label>8</ce:label>
+						<sb:reference>
+							<sb:contribution langtype="en">
+								<sb:authors>
+									<sb:author>
+										<ce:given-name>W.F.</ce:given-name>
+										<ce:surname>de Gids</ce:surname>
+									</sb:author>
+								</sb:authors>
+								<sb:title>
+									<sb:maintitle>Calculation Method for the Natural Ventilation of Buildings</sb:maintitle>
+								</sb:title>
+							</sb:contribution>
+							<sb:host>
+								<sb:book>
+									<sb:date>1977</sb:date>
+									<sb:publisher>
+										<sb:name>TNO Research Institute for Environmental Hygiene</sb:name>
+										<sb:location>Delft</sb:location>
+									</sb:publisher>
+								</sb:book>
+							</sb:host>
+						</sb:reference>
+					</ce:bib-reference>
+					<ce:bib-reference id="BIB9">
+						<ce:label>9</ce:label>
+						<sb:reference>
+							<sb:contribution langtype="en">
+								<sb:authors>
+									<sb:author>
+										<ce:given-name>D.W.</ce:given-name>
+										<ce:surname>Etheridge</ce:surname>
+									</sb:author>
+									<sb:author>
+										<ce:given-name>D.K.</ce:given-name>
+										<ce:surname>Alexander</ce:surname>
+									</sb:author>
+								</sb:authors>
+								<sb:title>
+									<sb:maintitle>The British Gas multicell model for calculating ventilation</sb:maintitle>
+								</sb:title>
+							</sb:contribution>
+							<sb:host>
+								<sb:issue>
+									<sb:series>
+										<sb:title>
+											<sb:maintitle>ASHRAE Trans.</sb:maintitle>
+										</sb:title>
+										<sb:volume-nr>86</sb:volume-nr>
+									</sb:series>
+									<sb:date>1980</sb:date>
+								</sb:issue>
+							</sb:host>
+							<sb:comment>(Part II)</sb:comment>
+						</sb:reference>
+					</ce:bib-reference>
+					<ce:bib-reference id="BIB10">
+						<ce:label>10</ce:label>
+						<sb:reference>
+							<sb:contribution langtype="en">
+								<sb:authors>
+									<sb:author>
+										<ce:given-name>E.</ce:given-name>
+										<ce:surname>Evers</ce:surname>
+									</sb:author>
+									<sb:author>
+										<ce:given-name>A.</ce:given-name>
+										<ce:surname>Waterhouse</ce:surname>
+									</sb:author>
+								</sb:authors>
+								<sb:title>
+									<sb:maintitle>A Computer Model for Analysing Smoke Movement in Buildings</sb:maintitle>
+								</sb:title>
+							</sb:contribution>
+							<sb:host>
+								<sb:book>
+									<sb:date>1978</sb:date>
+									<sb:publisher>
+										<sb:name>Building Research Establishment</sb:name>
+									</sb:publisher>
+								</sb:book>
+							</sb:host>
+						</sb:reference>
+					</ce:bib-reference>
+					<ce:bib-reference id="BIB11">
+						<ce:label>11</ce:label>
+						<sb:reference>
+							<sb:contribution langtype="en">
+								<sb:authors>
+									<sb:author>
+										<ce:given-name>M.</ce:given-name>
+										<ce:surname>Nantka</ce:surname>
+									</sb:author>
+								</sb:authors>
+								<sb:title>
+									<sb:maintitle>A numerical method for air change rate of buildings calculated</sb:maintitle>
+								</sb:title>
+							</sb:contribution>
+							<sb:host>
+								<sb:edited-book>
+									<sb:title>
+										<sb:maintitle>Proc. 5th Int. Conf. on HVAC</sb:maintitle>
+									</sb:title>
+									<sb:conference>Praha</sb:conference>
+									<sb:date>1981</sb:date>
+								</sb:edited-book>
+							</sb:host>
+						</sb:reference>
+					</ce:bib-reference>
+					<ce:bib-reference id="BIB12">
+						<ce:label>12</ce:label>
+						<sb:reference>
+							<sb:contribution langtype="en">
+								<sb:authors>
+									<sb:author>
+										<ce:given-name>G.N.</ce:given-name>
+										<ce:surname>Walton</ce:surname>
+									</sb:author>
+								</sb:authors>
+							</sb:contribution>
+							<sb:host>
+								<sb:edited-book>
+									<sb:title>
+										<sb:maintitle>Thermal Analysis Research Program Reference Manual, NBSIR 83-2655</sb:maintitle>
+									</sb:title>
+									<sb:date>1983</sb:date>
+									<sb:publisher>
+										<sb:name>US Department of Commerce</sb:name>
+									</sb:publisher>
+								</sb:edited-book>
+							</sb:host>
+						</sb:reference>
+					</ce:bib-reference>
+					<ce:bib-reference id="BIB13">
+						<ce:label>13</ce:label>
+						<sb:reference>
+							<sb:contribution langtype="en">
+								<sb:authors>
+									<sb:author>
+										<ce:given-name>M.K.</ce:given-name>
+										<ce:surname>Herrlin</ce:surname>
+									</sb:author>
+								</sb:authors>
+								<sb:title>
+									<sb:maintitle>MOVECOMP: a static multicell air flow model</sb:maintitle>
+								</sb:title>
+							</sb:contribution>
+							<sb:host>
+								<sb:issue>
+									<sb:series>
+										<sb:title>
+											<sb:maintitle>ASHRAE Trans.</sb:maintitle>
+										</sb:title>
+										<sb:volume-nr>91</sb:volume-nr>
+									</sb:series>
+									<sb:date>1985</sb:date>
+								</sb:issue>
+							</sb:host>
+							<sb:comment>(Part 2B)</sb:comment>
+						</sb:reference>
+					</ce:bib-reference>
+					<ce:bib-reference id="BIB14">
+						<ce:label>14</ce:label>
+						<sb:reference>
+							<sb:contribution langtype="en">
+								<sb:authors>
+									<sb:author>
+										<ce:given-name>S.</ce:given-name>
+										<ce:surname>Hayakawa</ce:surname>
+									</sb:author>
+									<sb:author>
+										<ce:given-name>S.</ce:given-name>
+										<ce:surname>Togari</ce:surname>
+									</sb:author>
+								</sb:authors>
+							</sb:contribution>
+							<sb:host>
+								<sb:edited-book>
+									<sb:title>
+										<sb:maintitle>Flow Rate Variation of Air Conditioning Systems due to Stack Effect and Opening a Window, Rep. No. 30</sb:maintitle>
+									</sb:title>
+									<sb:date>1979</sb:date>
+									<sb:publisher>
+										<sb:name>Kajima Institute of Construction Technology</sb:name>
+										<sb:location>Japan</sb:location>
+									</sb:publisher>
+								</sb:edited-book>
+							</sb:host>
+						</sb:reference>
+					</ce:bib-reference>
+					<ce:bib-reference id="BIB15">
+						<ce:label>15</ce:label>
+						<sb:reference>
+							<sb:contribution langtype="en">
+								<sb:authors>
+									<sb:author>
+										<ce:given-name>K.</ce:given-name>
+										<ce:surname>Ishida</ce:surname>
+									</sb:author>
+									<sb:author>
+										<ce:given-name>M.</ce:given-name>
+										<ce:surname>Udagowo</ce:surname>
+									</sb:author>
+								</sb:authors>
+								<sb:title>
+									<sb:maintitle>Validation of the Ventilation Net Work Model for the Estimation of Room Temperatures and Heat Load of Residential Buildings with Measured Data</sb:maintitle>
+								</sb:title>
+							</sb:contribution>
+							<sb:host>
+								<sb:issue>
+									<sb:series>
+										<sb:title>
+											<sb:maintitle>Trans. Archit. Inst. Jpn.</sb:maintitle>
+										</sb:title>
+									</sb:series>
+									<sb:date>1988</sb:date>
+								</sb:issue>
+							</sb:host>
+						</sb:reference>
+					</ce:bib-reference>
+					<ce:bib-reference id="BIB16">
+						<ce:label>16</ce:label>
+						<sb:reference>
+							<sb:contribution langtype="en">
+								<sb:authors>
+									<sb:author>
+										<ce:given-name>T.</ce:given-name>
+										<ce:surname>Hayashi</ce:surname>
+									</sb:author>
+									<sb:author>
+										<ce:given-name>Y.</ce:given-name>
+										<ce:surname>Urano</ce:surname>
+									</sb:author>
+									<sb:author>
+										<ce:given-name>T.</ce:given-name>
+										<ce:surname>Watanabe</ce:surname>
+									</sb:author>
+									<sb:author>
+										<ce:given-name>Y.</ce:given-name>
+										<ce:surname>Ryu</ce:surname>
+									</sb:author>
+								</sb:authors>
+								<sb:title>
+									<sb:maintitle>Passive system simulation program PSSP and its applications</sb:maintitle>
+								</sb:title>
+							</sb:contribution>
+							<sb:host>
+								<sb:edited-book>
+									<sb:title>
+										<sb:maintitle>Proc. Building Energy Simulation Conf.</sb:maintitle>
+									</sb:title>
+									<sb:conference>Seattle, WA</sb:conference>
+									<sb:date>1985</sb:date>
+								</sb:edited-book>
+							</sb:host>
+						</sb:reference>
+					</ce:bib-reference>
+					<ce:bib-reference id="BIB17">
+						<ce:label>17</ce:label>
+						<sb:reference>
+							<sb:contribution langtype="en">
+								<sb:authors>
+									<sb:author>
+										<ce:given-name>T.</ce:given-name>
+										<ce:surname>Sasaki</ce:surname>
+									</sb:author>
+								</sb:authors>
+								<sb:title>
+									<sb:maintitle>Der Lueftungszustand von der Luftschicht durch Wind-Unruhe</sb:maintitle>
+								</sb:title>
+							</sb:contribution>
+							<sb:host>
+								<sb:issue>
+									<sb:series>
+										<sb:title>
+											<sb:maintitle>Trans. Archit. Inst. Jpn.</sb:maintitle>
+										</sb:title>
+									</sb:series>
+									<sb:issue-nr>372</sb:issue-nr>
+									<sb:date>1987</sb:date>
+								</sb:issue>
+							</sb:host>
+						</sb:reference>
+					</ce:bib-reference>
+					<ce:bib-reference id="BIB18">
+						<ce:label>18</ce:label>
+						<sb:reference>
+							<sb:contribution langtype="en">
+								<sb:authors>
+									<sb:author>
+										<ce:given-name>H.</ce:given-name>
+										<ce:surname>Okuyama</ce:surname>
+									</sb:author>
+								</sb:authors>
+								<sb:title>
+									<sb:maintitle>Network numerical analysis method for heat transfer and air flow in buildings</sb:maintitle>
+								</sb:title>
+							</sb:contribution>
+							<sb:host>
+								<sb:edited-book>
+									<sb:title>
+										<sb:maintitle>Proc. 17th Symp. Committee of Building Heat Transfer</sb:maintitle>
+									</sb:title>
+									<sb:date>1987</sb:date>
+									<sb:publisher>
+										<sb:name>Building Environment Committee of Architectural Institute of Japan</sb:name>
+									</sb:publisher>
+								</sb:edited-book>
+							</sb:host>
+						</sb:reference>
+					</ce:bib-reference>
+					<ce:bib-reference id="BIB19">
+						<ce:label>19</ce:label>
+						<sb:reference>
+							<sb:contribution langtype="en">
+								<sb:authors>
+									<sb:author>
+										<ce:given-name>M.</ce:given-name>
+										<ce:surname>Matsumoto</ce:surname>
+									</sb:author>
+									<sb:author>
+										<ce:given-name>H.</ce:given-name>
+										<ce:surname>Yoshino</ce:surname>
+									</sb:author>
+								</sb:authors>
+								<sb:title>
+									<sb:maintitle>A calculation method for predicting air pollution in multi-celled buildings</sb:maintitle>
+								</sb:title>
+							</sb:contribution>
+							<sb:host>
+								<sb:edited-book>
+									<sb:title>
+										<sb:maintitle>Proc. Meet. of the Tohoku Branch of the Architectural Institute of Japan</sb:maintitle>
+									</sb:title>
+									<sb:date>1988</sb:date>
+								</sb:edited-book>
+							</sb:host>
+						</sb:reference>
+					</ce:bib-reference>
+					<ce:bib-reference id="BIB20">
+						<ce:label>20</ce:label>
+						<sb:reference>
+							<sb:contribution langtype="en">
+								<sb:authors>
+									<sb:author>
+										<ce:given-name>D.</ce:given-name>
+										<ce:surname>Cacavelli</ce:surname>
+									</sb:author>
+									<sb:author>
+										<ce:given-name>J.J.</ce:given-name>
+										<ce:surname>Roux</ce:surname>
+									</sb:author>
+									<sb:author>
+										<ce:given-name>F.</ce:given-name>
+										<ce:surname>Allard</ce:surname>
+									</sb:author>
+								</sb:authors>
+								<sb:title>
+									<sb:maintitle>A simplified approach of air infiltration in multizone buildings</sb:maintitle>
+								</sb:title>
+							</sb:contribution>
+							<sb:host>
+								<sb:edited-book>
+									<sb:title>
+										<sb:maintitle>Proc. 9th AIVC Conf.</sb:maintitle>
+									</sb:title>
+									<sb:conference>Gent</sb:conference>
+									<sb:date>1988</sb:date>
+									<sb:publisher>
+										<sb:name>Air Infiltration and Ventilation Centre</sb:name>
+									</sb:publisher>
+								</sb:edited-book>
+							</sb:host>
+						</sb:reference>
+					</ce:bib-reference>
+					<ce:bib-reference id="BIB21">
+						<ce:label>21</ce:label>
+						<sb:reference>
+							<sb:contribution langtype="en">
+								<sb:authors>
+									<sb:author>
+										<ce:given-name>C.</ce:given-name>
+										<ce:surname>Melo</ce:surname>
+									</sb:author>
+								</sb:authors>
+								<sb:title>
+									<sb:maintitle>FLOW &#x2014; an algorithm for calculating air infiltration into buildings</sb:maintitle>
+								</sb:title>
+							</sb:contribution>
+							<sb:host>
+								<sb:edited-book>
+									<sb:title>
+										<sb:maintitle>Proc. ICBEM '87 Int. Congress Building Energy Management</sb:maintitle>
+									</sb:title>
+									<sb:conference>Lausanne, Switzerland</sb:conference>
+									<sb:date>1987</sb:date>
+								</sb:edited-book>
+							</sb:host>
+						</sb:reference>
+					</ce:bib-reference>
+					<ce:bib-reference id="BIB22">
+						<ce:label>22</ce:label>
+						<sb:reference>
+							<sb:contribution langtype="en">
+								<sb:authors>
+									<sb:author>
+										<ce:given-name>H.E.</ce:given-name>
+										<ce:surname>Feustel</ce:surname>
+									</sb:author>
+									<sb:et-al/>
+								</sb:authors>
+								<sb:title>
+									<sb:maintitle>The COMIS infiltration model</sb:maintitle>
+								</sb:title>
+							</sb:contribution>
+							<sb:host>
+								<sb:edited-book>
+									<sb:title>
+										<sb:maintitle>Proc. Building Simulation '89</sb:maintitle>
+									</sb:title>
+									<sb:date>1989</sb:date>
+									<sb:publisher>
+										<sb:name>Int. Building Performance Simulation Assoc</sb:name>
+										<sb:location>Vancouver</sb:location>
+									</sb:publisher>
+								</sb:edited-book>
+							</sb:host>
+						</sb:reference>
+					</ce:bib-reference>
+					<ce:bib-reference id="BIB23">
+						<ce:label>23</ce:label>
+						<sb:reference>
+							<sb:host>
+								<sb:edited-book>
+									<sb:editors>
+										<sb:editor>
+											<ce:given-name>H.E.</ce:given-name>
+											<ce:surname>Feustel</ce:surname>
+										</sb:editor>
+										<sb:editor>
+											<ce:given-name>A.</ce:given-name>
+											<ce:surname>Raynor-Hoosen</ce:surname>
+										</sb:editor>
+									</sb:editors>
+									<sb:title>
+										<sb:maintitle>Fundamentals of the Multizone Air Flow Model &#x2014; COMIS, Tech. Note 29</sb:maintitle>
+									</sb:title>
+									<sb:date>May 1990</sb:date>
+									<sb:publisher>
+										<sb:name>Air Infiltration and Ventilation Centre</sb:name>
+										<sb:location>Warwick, UK</sb:location>
+									</sb:publisher>
+								</sb:edited-book>
+							</sb:host>
+						</sb:reference>
+					</ce:bib-reference>
+					<ce:bib-reference id="BIB24">
+						<ce:label>24</ce:label>
+						<sb:reference>
+							<sb:host>
+								<sb:edited-book>
+									<sb:title>
+										<sb:maintitle>German Standard DIN 4701: Regeln f&#252;r die Berechnung des W&#228;rmebedarfs von Geb&#228;uden, Teil 1: Grundlagen der Berechnung, Teil 2: Tabellen, Bilder</sb:maintitle>
+									</sb:title>
+									<sb:date>1983</sb:date>
+									<sb:publisher>
+										<sb:name>Algorithmen Beuth Verlag Berlin</sb:name>
+										<sb:location>Berlin</sb:location>
+									</sb:publisher>
+								</sb:edited-book>
+							</sb:host>
+						</sb:reference>
+					</ce:bib-reference>
+					<ce:bib-reference id="BIB25">
+						<ce:label>25</ce:label>
+						<sb:reference>
+							<sb:contribution langtype="en">
+								<sb:authors>
+									<sb:author>
+										<ce:given-name>H.E.</ce:given-name>
+										<ce:surname>Feustel</ce:surname>
+									</sb:author>
+									<sb:author>
+										<ce:given-name>M.H.</ce:given-name>
+										<ce:surname>Sherman</ce:surname>
+									</sb:author>
+								</sb:authors>
+								<sb:title>
+									<sb:maintitle>A simplified model for predicting air flow in multizone structures</sb:maintitle>
+								</sb:title>
+							</sb:contribution>
+							<sb:host>
+								<sb:issue>
+									<sb:series>
+										<sb:title>
+											<sb:maintitle>Energy Build.</sb:maintitle>
+										</sb:title>
+										<sb:volume-nr>13</sb:volume-nr>
+									</sb:series>
+									<sb:issue-nr>3</sb:issue-nr>
+									<sb:date>1989</sb:date>
+								</sb:issue>
+								<sb:pages>
+									<sb:first-page>217</sb:first-page>
+									<sb:last-page>230</sb:last-page>
+								</sb:pages>
+							</sb:host>
+						</sb:reference>
+					</ce:bib-reference>
+					<ce:bib-reference id="BIB26">
+						<ce:label>26</ce:label>
+						<sb:reference>
+							<sb:contribution langtype="en">
+								<sb:authors>
+									<sb:author>
+										<ce:given-name>P.</ce:given-name>
+										<ce:surname>Charlesworth</ce:surname>
+									</sb:author>
+								</sb:authors>
+							</sb:contribution>
+							<sb:host>
+								<sb:edited-book>
+									<sb:title>
+										<sb:maintitle>1986 Survey of Current Research into Air Infiltration and Related Air Quality Problems in Buildings, Tech. Note 19</sb:maintitle>
+									</sb:title>
+									<sb:date>Dec. 1986</sb:date>
+									<sb:publisher>
+										<sb:name>Air Infiltration and Ventilation Centre</sb:name>
+										<sb:location>Warwick, UK</sb:location>
+									</sb:publisher>
+								</sb:edited-book>
+							</sb:host>
+						</sb:reference>
+					</ce:bib-reference>
+					<ce:bib-reference id="BIB27">
+						<ce:label>27</ce:label>
+						<sb:reference>
+							<sb:contribution langtype="en">
+								<sb:authors>
+									<sb:author>
+										<ce:given-name>J.</ce:given-name>
+										<ce:surname>Blacknell</ce:surname>
+									</sb:author>
+								</sb:authors>
+							</sb:contribution>
+							<sb:host>
+								<sb:edited-book>
+									<sb:title>
+										<sb:maintitle>A Subject Analysis of the AIVC's Bibliographic Database &#x2014; AIRBASE (6th edn.), Tech. Note 25</sb:maintitle>
+									</sb:title>
+									<sb:date>Jan. 1989</sb:date>
+									<sb:publisher>
+										<sb:name>Air Infiltration and Ventilation Centre</sb:name>
+										<sb:location>Warwick, UK</sb:location>
+									</sb:publisher>
+								</sb:edited-book>
+							</sb:host>
+						</sb:reference>
+					</ce:bib-reference>
+				</ce:bibliography-sec>
+			</ce:bibliography>
+		</cja:tail>
+	</cja:converted-article></doc:document>
