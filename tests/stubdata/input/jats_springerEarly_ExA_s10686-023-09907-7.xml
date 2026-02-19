@@ -1,0 +1,1140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article SYSTEM "http://jats.nlm.nih.gov/archiving/1.2/JATS-archivearticle1.dtd">
+<article
+	xmlns:mml="http://www.w3.org/1998/Math/MathML"
+	xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.2" article-type="research-article" xml:lang="en">
+	<front>
+		<journal-meta>
+			<journal-id journal-id-type="publisher-id">10686</journal-id>
+			<journal-id journal-id-type="doi">10.1007/10686.1572-9508</journal-id>
+			<journal-title-group>
+				<journal-title>Experimental Astronomy</journal-title>
+				<journal-subtitle>Astrophysical Instrumentation and Methods</journal-subtitle>
+				<abbrev-journal-title abbrev-type="publisher">Exp Astron</abbrev-journal-title>
+			</journal-title-group>
+			<issn pub-type="ppub">0922-6435</issn>
+			<issn pub-type="epub">1572-9508</issn>
+			<publisher>
+				<publisher-name>Springer Netherlands</publisher-name>
+				<publisher-loc>Dordrecht</publisher-loc>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="publisher-id">s10686-023-09907-7</article-id>
+			<article-id pub-id-type="manuscript">9907</article-id>
+			<article-id pub-id-type="doi">10.1007/s10686-023-09907-7</article-id>
+			<article-categories>
+				<subj-group subj-group-type="heading">
+					<subject>Research</subject>
+				</subj-group>
+			</article-categories>
+			<title-group>
+				<article-title xml:lang="en">The automation software of Tian-Ma radio telescope RFI monitoring system</article-title>
+			</title-group>
+			<contrib-group>
+				<contrib contrib-type="author" corresp="yes" id="Au1">
+					<name>
+						<surname>Zhao</surname>
+						<given-names>Rong-Bing</given-names>
+					</name>
+					<xref ref-type="aff" rid="Aff1">1</xref>
+					<xref ref-type="corresp" rid="IDs10686023099077_cor1">a</xref>
+				</contrib>
+				<contrib contrib-type="author" id="Au2">
+					<name>
+						<surname>Zhang</surname>
+						<given-names>Dong</given-names>
+					</name>
+					<xref ref-type="aff" rid="Aff1">1</xref>
+					<xref ref-type="aff" rid="Aff2">2</xref>
+				</contrib>
+				<contrib contrib-type="author" id="Au3">
+					<name>
+						<surname>Li</surname>
+						<given-names>Bin</given-names>
+					</name>
+					<xref ref-type="aff" rid="Aff1">1</xref>
+				</contrib>
+				<contrib contrib-type="author" id="Au4">
+					<name>
+						<surname>Shang-Guan</surname>
+						<given-names>Wei-Hua</given-names>
+					</name>
+					<xref ref-type="aff" rid="Aff1">1</xref>
+					<xref ref-type="aff" rid="Aff2">2</xref>
+				</contrib>
+				<contrib contrib-type="author" id="Au5">
+					<name>
+						<surname>Yan</surname>
+						<given-names>Zhen</given-names>
+					</name>
+					<xref ref-type="aff" rid="Aff1">1</xref>
+				</contrib>
+				<contrib contrib-type="author" id="Au6">
+					<name>
+						<surname>Shen</surname>
+						<given-names>Zhi-Qiang</given-names>
+					</name>
+					<xref ref-type="aff" rid="Aff1">1</xref>
+				</contrib>
+				<contrib contrib-type="author" id="Au7">
+					<name>
+						<surname>Liu</surname>
+						<given-names>Qing-Hui</given-names>
+					</name>
+					<xref ref-type="aff" rid="Aff1">1</xref>
+				</contrib>
+				<contrib contrib-type="author" id="Au8">
+					<name>
+						<surname>Zhang</surname>
+						<given-names>Chu-Yuan</given-names>
+					</name>
+					<xref ref-type="aff" rid="Aff1">1</xref>
+					<xref ref-type="aff" rid="Aff2">2</xref>
+				</contrib>
+				<aff id="Aff1">
+					<label>1</label>
+					<institution-wrap>
+						<institution-id institution-id-type="GRID">grid.450322.2</institution-id>
+						<institution-id institution-id-type="ISNI">0000 0004 1804 0174</institution-id>
+						<institution content-type="org-name">Shanghai Astronomical Observatory, Chinese Academy of Sciences</institution>
+					</institution-wrap>
+					<addr-line content-type="postcode">200030</addr-line>
+					<addr-line content-type="city">Shanghai</addr-line>
+					<country country="CN">China</country>
+				</aff>
+				<aff id="Aff2">
+					<label>2</label>
+					<institution-wrap>
+						<institution-id institution-id-type="GRID">grid.410726.6</institution-id>
+						<institution-id institution-id-type="ISNI">0000 0004 1797 8419</institution-id>
+						<institution content-type="org-name">University of Chinese Academy of Sciences</institution>
+					</institution-wrap>
+					<addr-line content-type="postcode">100049</addr-line>
+					<addr-line content-type="city">Beijing</addr-line>
+					<country country="CN">China</country>
+				</aff>
+			</contrib-group>
+			<author-notes>
+				<corresp id="IDs10686023099077_cor1">
+					<label>a</label>
+					<email>zhaorb@shao.ac.cn</email>
+				</corresp>
+			</author-notes>
+			<pub-date date-type="pub" publication-format="electronic">
+				<day>19</day>
+				<month>7</month>
+				<year>2023</year>
+			</pub-date>
+			<fpage>1</fpage>
+			<lpage>14</lpage>
+			<history>
+				<date date-type="registration">
+					<day>27</day>
+					<month>6</month>
+					<year>2023</year>
+				</date>
+				<date date-type="received">
+					<day>22</day>
+					<month>2</month>
+					<year>2023</year>
+				</date>
+				<date date-type="accepted">
+					<day>27</day>
+					<month>6</month>
+					<year>2023</year>
+				</date>
+				<date date-type="online">
+					<day>19</day>
+					<month>7</month>
+					<year>2023</year>
+				</date>
+			</history>
+			<permissions>
+				<copyright-statement>© The Author(s), under exclusive licence to Springer Nature B.V. 2023. Springer Nature or its licensor (e.g. a society or other partner) holds exclusive rights to this article under a publishing agreement with the author(s) or other rightsholder(s); author self-archiving of the accepted manuscript version of this article is solely governed by the terms of such publishing agreement and applicable law.</copyright-statement>
+				<copyright-year>2023</copyright-year>
+			</permissions>
+			<abstract id="Abs1" xml:lang="en">
+				<title>Abstract</title>
+				<p id="Par1">The Radio Frequency Interference (RFI) generated by the surrounding environment will significantly reduce the observation efficiency of the large radio telescope. The Tian-Ma Radio Telescope (TMRT) has established a RFI monitoring system to keep watch on its surrounding RFI environment chronically in the L, S, C and X bands. The system consists of antennas, receivers, back-ends and control system. To achieve automatic system operation, we design and implement an automation software based on Tango Controls open source framework. This paper will briefly introduce the TMRT RFI Monitoring System (TRMS), and describe the functional design, architecture design and implementation of the automation software. Finally, with the help of this system, we carry out automatic remote monitoring of the RFI environment around the TMRT in the 1.12—12.4 GHz frequency band, and then analyze and verify the observation results.</p>
+			</abstract>
+			<kwd-group xml:lang="en">
+				<title>Keywords</title>
+				<kwd>Radio frequency interference</kwd>
+				<kwd>RFI monitoring system</kwd>
+				<kwd>TMRT</kwd>
+				<kwd>Automation software</kwd>
+				<kwd>Tango controls</kwd>
+			</kwd-group>
+			<custom-meta-group>
+				<custom-meta>
+					<meta-name>publisher-imprint-name</meta-name>
+					<meta-value>Springer</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>article-contains-esm</meta-name>
+					<meta-value>Yes</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>article-numbering-style</meta-name>
+					<meta-value>ContentOnly</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>article-registration-date-year</meta-name>
+					<meta-value>2023</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>article-registration-date-month</meta-name>
+					<meta-value>6</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>article-registration-date-day</meta-name>
+					<meta-value>27</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>article-toc-levels</meta-name>
+					<meta-value>0</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>journal-product</meta-name>
+					<meta-value>NonStandardArchiveJournal</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>numbering-style</meta-name>
+					<meta-value>ContentOnly</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>article-grants-type</meta-name>
+					<meta-value>Regular</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>metadata-grant</meta-name>
+					<meta-value>OpenAccess</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>abstract-grant</meta-name>
+					<meta-value>OpenAccess</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>bodypdf-grant</meta-name>
+					<meta-value>Restricted</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>bodyhtml-grant</meta-name>
+					<meta-value>Restricted</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>bibliography-grant</meta-name>
+					<meta-value>Restricted</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>esm-grant</meta-name>
+					<meta-value>OpenAccess</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>online-first</meta-name>
+					<meta-value>true</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>pdf-file-reference</meta-name>
+					<meta-value>BodyRef/PDF/10686_2023_Article_9907.pdf</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>pdf-type</meta-name>
+					<meta-value>Typeset</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>target-type</meta-name>
+					<meta-value>OnlinePDF</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>article-type</meta-name>
+					<meta-value>OriginalPaper</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>journal-subject-primary</meta-name>
+					<meta-value>Physics</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>journal-subject-secondary</meta-name>
+					<meta-value>Astronomy, Observations and Techniques</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>journal-subject-secondary</meta-name>
+					<meta-value>Statistics for Engineering, Physics, Computer Science, Chemistry and Earth Sciences</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>journal-subject-collection</meta-name>
+					<meta-value>Physics and Astronomy</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>open-access</meta-name>
+					<meta-value>false</meta-value>
+				</custom-meta>
+			</custom-meta-group>
+		</article-meta>
+		<notes notes-type="AuthorContribution">
+			<p>Rong-Bing Zhao and Dong Zhang contributed equally to this work.</p>
+		</notes>
+		<notes notes-type="ESMHint">
+			<title>Supplementary Information</title>
+			<p>The online version contains supplementary material available at
+				<ext-link xlink:href="https://doi.org/10.1007/s10686-023-09907-7" ext-link-type="doi">https://doi.org/10.1007/s10686-023-09907-7</ext-link>.
+			</p>
+		</notes>
+		<notes notes-type="CopyrightComment">
+			<title>Copyright comment</title>
+			<p>Springer Nature or its licensor (e.g. a society or other partner) holds exclusive rights to this article under a publishing agreement with the author(s) or other rightsholder(s); author self-archiving of the accepted manuscript version of this article is solely governed by the terms of such publishing agreement and applicable law.</p>
+		</notes>
+	</front>
+	<body>
+		<sec id="Sec1">
+			<title>Introduction</title>
+			<p id="Par2">Radio Frequency Interference (RFI) mainly comes from the radio signals gen- erated by the growing artificial active services such as frequency modulation (FM) radio transmission, television (TV) signal transmission, Global Position- ing System (GPS), etc.In the field of radio astronomy, Radio astronomy service (RAS) is a passive service, which is very vulnerable to the impact of the above active services in the same frequency band. According to the comprehensive list of local frequency allotments and operational regulations recommended by the radio communication sector of the International Telecommunication Union (ITU), RAS can only be allocated to limited spectrum resources. However, with the development of radio astronomy technology, the sensitivity of large radio telescopes continues to improve and wider frequency bands not allocated to radio astronomy are used. Besides, because of the complexity and variability of the causes of RFI, most of them are difficult to estimate directly. Therefore, it is necessary to establish RFI monitoring system for large radio telescopes to monitor the surrounding radio frequency (RF) environment [
+				<xref ref-type="bibr" rid="CR1">1</xref>].
+			</p>
+			<p id="Par3">With the deepening of the international research on RFI monitoring system, RFI monitoring system began to develop towards unmanned automa- tion.Currently, many observatories around the world operate various types of RFI automatic monitoring systems. For example, the Sardinia Radio Telescope (SRT) has developed an automatic wide-band RFI monitoring system. The whole system works 24 h a day to constantly monitor the P, L and S band spectrum alternately [
+				<xref ref-type="bibr" rid="CR2">2</xref>]. In China, Wang Yue and Liu Qi’s team developed an automatic RFI monitoring system software to monitor the RF environment around the 110-m fully movable radio telescope (Qi Tai radio Telescope,QTT) in Xinjiang province, to achieve long-term automatic spectrum monitoring and efficient data processing [
+				<xref ref-type="bibr" rid="CR3">3</xref>].
+			</p>
+			<p id="Par4">The Tian-Ma Radio Telescope (TMRT), located in Sheshan, Songjiang District, Shanghai, is the largest fully steerable radio telescope system with a shaped Cassegrain configuration in Asia. The primary reflector of 65-m in diameter is an active surface with 1008 high precision surface panels. TMRT has a wide range of operating bands, with receiving devices distributed in 8 bands in L, S, C, X, Ku, K, Ka, Q (see Table
+				<xref rid="Tab1" ref-type="table">1</xref>). Scientific research related to TMRT includes molecular spectrum observations, pulsar observation, VLBI and China’s lunar exploration project and deep space exploration.
+				<table-wrap id="Tab1">
+					<label>Table 1</label>
+					<caption xml:lang="en">
+						<p>The wavelengths and frequency ranges (FR) of various radio frequency bands [
+							<xref ref-type="bibr" rid="CR4">4</xref>]
+						</p>
+					</caption>
+					<table frame="hsides" rules="groups">
+						<thead>
+							<tr>
+								<th align="left">
+									<p>Band</p>
+								</th>
+								<th align="left">
+									<p>L</p>
+								</th>
+								<th align="left">
+									<p>S</p>
+								</th>
+								<th align="left">
+									<p>C</p>
+								</th>
+								<th align="left">
+									<p>X</p>
+								</th>
+								<th align="left">
+									<p>Ku</p>
+								</th>
+								<th align="left">
+									<p>K</p>
+								</th>
+								<th align="left">
+									<p>Ka</p>
+								</th>
+								<th align="left">
+									<p>Q</p>
+								</th>
+							</tr>
+						</thead>
+						<tbody>
+							<tr>
+								<td align="left">
+									<p>Wavelength (cm)</p>
+								</td>
+								<td align="left">
+									<p>21/18</p>
+								</td>
+								<td align="left">
+									<p>13</p>
+								</td>
+								<td align="left">
+									<p>6/5</p>
+								</td>
+								<td align="left">
+									<p>3.6</p>
+								</td>
+								<td align="left">
+									<p>2/2.5</p>
+								</td>
+								<td char="." align="char">
+									<p>1.3</p>
+								</td>
+								<td align="left">
+									<p>0.9</p>
+								</td>
+								<td align="left">
+									<p>0.7</p>
+								</td>
+							</tr>
+							<tr>
+								<td align="left">
+									<p>FR (GHz)</p>
+								</td>
+								<td align="left">
+									<p>1.33–1.73</p>
+								</td>
+								<td align="left">
+									<p>2.2–2.3</p>
+								</td>
+								<td align="left">
+									<p>4–8</p>
+								</td>
+								<td align="left">
+									<p>8–9</p>
+								</td>
+								<td align="left">
+									<p>12–18</p>
+								</td>
+								<td char="." align="char">
+									<p>18–26.5</p>
+								</td>
+								<td align="left">
+									<p>30–34</p>
+								</td>
+								<td align="left">
+									<p>35–50</p>
+								</td>
+							</tr>
+						</tbody>
+					</table>
+				</table-wrap>
+			</p>
+			<p id="Par5">In order to study the RFI monitoring and mitigation technology of TMRT, the existing and potential harmful RFI around the station site will be mon- itored all year round through the establishment of RFI monitoring stations. The intensity, source and trend of harmful interference will be analyzed as the criteria for applying for radio protection or upgrading the receiving sys- tem. Based on the existing TMRT RFI Monitoring System (TRMS), we design and implement a software based on Tango Control framework to achieve long- term automatic remote RFI monitoring and data processing. In this article, we briefly introduce the TRMS in Sect.
+				<xref rid="Sec6" ref-type="sec">2</xref>. Then we describe the functional design, architecture design and implementation of the automation software of the system in Sect.
+				<xref rid="Sec7" ref-type="sec">3</xref>. Finally, in Sect.
+				<xref rid="Sec8" ref-type="sec">4</xref>, the system is applied to automatically monitor the RFI around the TMRT for testing and the observation results are analyzed and verified.
+			</p>
+		</sec>
+		<sec id="Sec2">
+			<title>TMRT RFI monitoring system</title>
+			<sec id="Sec3">
+				<title>Hardware</title>
+				<p id="Par6">As shown in Fig.
+					<xref rid="Fig1" ref-type="fig">1</xref>, the TRMS comprises antennas, receivers, back-ends and control system.The working bandwidth of the system is 1.12—12.4 GHz and the scanning range covers 360°. The antennas are connected to the filter and low noise amplifier through the RF switch, and the signal is digitized and converted into the spectrum through the spectrum analyzer. The standard noise source is used to calibrate the system radio frequency (RF) chain, and the performance parameters of the system are measured by verifying the system noise to improve the reliability of the data. Specific parameters of components in the system are as follows:
+					<fig id="Fig1">
+						<label>Fig. 1</label>
+						<caption xml:lang="en">
+							<p>The structural diagram of the TMRT RFI Monitoring System(TRMS) and the picture of the antennas installed on the turret</p>
+						</caption>
+						<p>
+							<graphic specific-use="HTML" mime-subtype="PNG" xlink:href="MediaObjects/10686_2023_9907_Fig1_HTML.png" id="MO1"/>
+						</p>
+					</fig>
+				</p>
+				<p id="Par7">Six standard horn antennas, covering the frequency range of 1.12—1.7 GHz, 1.7—2.6 GHz, 2.6—3.95 GHz, 3.95—5.85 GHz, 5.85—8.2 GHz and 8.2—12.4 GHz respectively, are placed on a rotatable turret which can rotate in vertical and horizontal orientation to change the linear polarization of the antenna.</p>
+				<p id="Par8">The receivers in RF preconditioning box is used for filtering, switching and pre-amplifying the signals. The standard noise source is additionally connected to the system via the RF switch to calibrate the chain.</p>
+				<p id="Par9">The back-end includes a spectrum analyzer(FSW26, produced by Rohde &amp; Schwarz Company) and a wide-band receiver for the data acquisition and display the interferers.</p>
+				<p id="Par10">In addition, there are two controller units to control the complete movement of the antenna and switch RF front-end’s preconditioning module.</p>
+				<p id="Par11">A personal computer arranges the observation schedule, controls the antenna rotation and switches the receivers by controlling the RF switch. The corresponding RF power from the antenna is appropriately amplified and fed to the spectrum analyzer through the RF cable and equalizer. The final data will be collected and recorded into a file of FITS format by the computer.</p>
+				<p id="Par12">The above hardware is connected by flexible and semi-rigid cables to reduce the noise loss of the signal in the process of RF chain transmission. Figure
+					<xref rid="Fig2" ref-type="fig">2</xref> shows the hardware and chains diagram of the TRMS.
+					<fig id="Fig2">
+						<label>Fig. 2</label>
+						<caption xml:lang="en">
+							<p>The hardware and chains diagram of the TRMS</p>
+						</caption>
+						<p>
+							<graphic specific-use="HTML" mime-subtype="PNG" xlink:href="MediaObjects/10686_2023_9907_Fig2_HTML.png" id="MO2"/>
+						</p>
+					</fig>
+				</p>
+			</sec>
+			<sec id="Sec4">
+				<title>Data calibration</title>
+				<p id="Par13">In order to increase the sensitivity of the whole system and guarantee the dependability of signals collected throughout the RFI monitoring procedure, it is necessary to calibrate the RF chain of the system. The system adopts a three-step measurement calibration method when changing the frequency band or antenna polarization each time. The specific steps are as follows [
+					<xref ref-type="bibr" rid="CR5">5</xref>]:
+					<list list-type="order">
+						<list-item>
+							<p id="Par14">Turn off the noise source for one measurement;</p>
+						</list-item>
+						<list-item>
+							<p id="Par15">Open the noise source for one measurement;</p>
+						</list-item>
+						<list-item>
+							<p id="Par16">Connect the antenna to the RF chain for a measurement.</p>
+						</list-item>
+					</list>
+				</p>
+				<p id="Par17">The following parameters of the system can be obtained through measurement and calculation:
+					<list list-type="order">
+						<list-item>
+							<p id="Par18">The electrical gain
+								<italic>G</italic>
+								<sub>
+									<italic>e</italic>
+								</sub>:
+								<disp-formula id="Equ1">
+									<label>1</label>
+									<alternatives>
+										<mml:math display="block">
+											<mml:mrow>
+												<mml:msub>
+													<mml:mi>G</mml:mi>
+													<mml:mi>e</mml:mi>
+												</mml:msub>
+												<mml:mo>=</mml:mo>
+												<mml:mfrac>
+													<mml:mrow>
+														<mml:msub>
+															<mml:mi>P</mml:mi>
+															<mml:mrow>
+																<mml:mi mathvariant="italic">hot</mml:mi>
+															</mml:mrow>
+														</mml:msub>
+														<mml:mo>-</mml:mo>
+														<mml:msub>
+															<mml:mi>P</mml:mi>
+															<mml:mrow>
+																<mml:mi mathvariant="italic">cold</mml:mi>
+															</mml:mrow>
+														</mml:msub>
+													</mml:mrow>
+													<mml:mrow>
+														<mml:mi>k</mml:mi>
+														<mml:mfenced close=")" open="(">
+															<mml:msub>
+																<mml:mi>T</mml:mi>
+																<mml:mrow>
+																	<mml:mi mathvariant="italic">hot</mml:mi>
+																</mml:mrow>
+															</mml:msub>
+															<mml:mo>-</mml:mo>
+															<mml:msub>
+																<mml:mi>T</mml:mi>
+																<mml:mrow>
+																	<mml:mi mathvariant="italic">cold</mml:mi>
+																</mml:mrow>
+															</mml:msub>
+														</mml:mfenced>
+													</mml:mrow>
+												</mml:mfrac>
+											</mml:mrow>
+										</mml:math>
+										<tex-math id="Equ1_TeX">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym}
+				\usepackage{amsfonts}
+				\usepackage{amssymb}
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${G}_{e}=\frac{{P}_{hot}-{P}_{cold}}{k\left({T}_{hot}-{T}_{cold}\right)}$$\end{document}</tex-math>
+										<graphic position="anchor" xlink:href="10686_2023_9907_Article_Equ1.gif"/>
+									</alternatives>
+								</disp-formula>(
+								<italic>k</italic> is the Boltzmann constant, which has a value of 1
+								<italic>.</italic>38 × 10
+								<sup>–23</sup>
+								<italic>JK</italic>.
+								<sup>−1</sup>
+							</p>
+						</list-item>
+						<list-item>
+							<p id="Par19">Antenna temperature
+								<italic>T</italic>
+								<sub>
+									<italic>ant</italic>
+								</sub>:
+								<disp-formula id="Equ2">
+									<label>2</label>
+									<alternatives>
+										<mml:math display="block">
+											<mml:mrow>
+												<mml:msub>
+													<mml:mi>T</mml:mi>
+													<mml:mrow>
+														<mml:mi mathvariant="italic">ant</mml:mi>
+													</mml:mrow>
+												</mml:msub>
+												<mml:mo>=</mml:mo>
+												<mml:msub>
+													<mml:mi>P</mml:mi>
+													<mml:mrow>
+														<mml:mi mathvariant="italic">sys</mml:mi>
+													</mml:mrow>
+												</mml:msub>
+												<mml:mo>-</mml:mo>
+												<mml:mfrac>
+													<mml:msub>
+														<mml:mi>P</mml:mi>
+														<mml:mrow>
+															<mml:mi mathvariant="italic">cold</mml:mi>
+														</mml:mrow>
+													</mml:msub>
+													<mml:mrow>
+														<mml:mi>k</mml:mi>
+														<mml:msub>
+															<mml:mi>G</mml:mi>
+															<mml:mi>e</mml:mi>
+														</mml:msub>
+													</mml:mrow>
+												</mml:mfrac>
+												<mml:mo>+</mml:mo>
+												<mml:msub>
+													<mml:mi>T</mml:mi>
+													<mml:mrow>
+														<mml:mi mathvariant="italic">cold</mml:mi>
+													</mml:mrow>
+												</mml:msub>
+											</mml:mrow>
+										</mml:math>
+										<tex-math id="Equ2_TeX">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym}
+				\usepackage{amsfonts}
+				\usepackage{amssymb}
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${T}_{ant}={P}_{sys}-\frac{{P}_{cold}}{k{G}_{e}}+{T}_{cold}$$\end{document}</tex-math>
+										<graphic position="anchor" xlink:href="10686_2023_9907_Article_Equ2.gif"/>
+									</alternatives>
+								</disp-formula>
+							</p>
+						</list-item>
+						<list-item>
+							<p id="Par20">Effective area of antenna
+								<italic>A</italic>
+								<sub>
+									<italic>eff</italic>
+								</sub>(
+								<italic>m</italic>
+								<sup>2</sup>):
+								<disp-formula id="Equ3">
+									<label>3</label>
+									<alternatives>
+										<mml:math display="block">
+											<mml:mrow>
+												<mml:msub>
+													<mml:mi>A</mml:mi>
+													<mml:mrow>
+														<mml:mi mathvariant="italic">eff</mml:mi>
+													</mml:mrow>
+												</mml:msub>
+												<mml:mo>=</mml:mo>
+												<mml:mfrac>
+													<mml:msup>
+														<mml:mrow>
+															<mml:mi>λ</mml:mi>
+														</mml:mrow>
+														<mml:mn>2</mml:mn>
+													</mml:msup>
+													<mml:mrow>
+														<mml:mn>4</mml:mn>
+														<mml:mo>∏</mml:mo>
+													</mml:mrow>
+												</mml:mfrac>
+												<mml:msub>
+													<mml:mi>G</mml:mi>
+													<mml:mrow>
+														<mml:mi mathvariant="italic">ant</mml:mi>
+													</mml:mrow>
+												</mml:msub>
+											</mml:mrow>
+										</mml:math>
+										<tex-math id="Equ3_TeX">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym}
+				\usepackage{amsfonts}
+				\usepackage{amssymb}
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${A}_{eff}=\frac{{\lambda }^{2}}{4\prod }{G}_{ant}$$\end{document}</tex-math>
+										<graphic position="anchor" xlink:href="10686_2023_9907_Article_Equ3.gif"/>
+									</alternatives>
+								</disp-formula>(
+								<italic>λ</italic> is the wavelength, and
+								<italic>Gant</italic> is the antenna gain).
+							</p>
+						</list-item>
+						<list-item>
+							<p id="Par21">power spectral density
+								<inline-formula id="IEq1">
+									<alternatives>
+										<mml:math>
+											<mml:msub>
+												<mml:mi mathvariant="normal">Ψ</mml:mi>
+												<mml:mrow>
+													<mml:mi mathvariant="italic">sys</mml:mi>
+												</mml:mrow>
+											</mml:msub>
+										</mml:math>
+										<tex-math id="IEq1_TeX">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym}
+				\usepackage{amsfonts}
+				\usepackage{amssymb}
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${\Psi }_{sys}$$\end{document}</tex-math>
+										<inline-graphic xlink:href="10686_2023_9907_Article_IEq1.gif"/>
+									</alternatives>
+								</inline-formula>:
+								<disp-formula id="Equ4">
+									<label>4</label>
+									<alternatives>
+										<mml:math display="block">
+											<mml:mrow>
+												<mml:msub>
+													<mml:mi mathvariant="normal">Ψ</mml:mi>
+													<mml:mrow>
+														<mml:mi mathvariant="italic">sys</mml:mi>
+													</mml:mrow>
+												</mml:msub>
+												<mml:mo>=</mml:mo>
+												<mml:mfrac>
+													<mml:msub>
+														<mml:mi>P</mml:mi>
+														<mml:mrow>
+															<mml:mi mathvariant="italic">sys</mml:mi>
+														</mml:mrow>
+													</mml:msub>
+													<mml:mrow>
+														<mml:msub>
+															<mml:mi>G</mml:mi>
+															<mml:mi>e</mml:mi>
+														</mml:msub>
+														<mml:msub>
+															<mml:mi>A</mml:mi>
+															<mml:mrow>
+																<mml:mi mathvariant="italic">eff</mml:mi>
+															</mml:mrow>
+														</mml:msub>
+													</mml:mrow>
+												</mml:mfrac>
+											</mml:mrow>
+										</mml:math>
+										<tex-math id="Equ4_TeX">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym}
+				\usepackage{amsfonts}
+				\usepackage{amssymb}
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${\Psi }_{sys}=\frac{{P}_{sys}}{{G}_{e}{A}_{eff}}$$\end{document}</tex-math>
+										<graphic position="anchor" xlink:href="10686_2023_9907_Article_Equ4.gif"/>
+									</alternatives>
+								</disp-formula>
+							</p>
+						</list-item>
+					</list>
+				</p>
+				<p id="Par22">In the above formulas,
+					<italic>Thot</italic> and
+					<italic>Tcold</italic> are the noise source temperatures at which the noise source is turned on and off, respectively. When the antenna is connected to the system, the power spectral density obtained on the spectrum analyzer is expressed in
+					<italic>Psys</italic>.
+					<italic>Phot</italic> and
+					<italic>Pcold</italic> are the power spectral densities obtained by the spectrum analyzer when the noise source is turned on and off, respectively.
+				</p>
+			</sec>
+		</sec>
+		<sec id="Sec5">
+			<title>The automation software of the TRMS</title>
+			<sec id="Sec6">
+				<title>Functional design</title>
+				<p id="Par23">The software must take into account the coordinated operation and status monitoring of device, real-time calibration, and data processing and recording. On this basis, it is also necessary to ensure the reliable transmission of data, realize long-term automatic monitoring, and be able to cope with unattended situations. Therefore, the automation software of RFI monitoring system needs to have the following functions:
+					<list list-type="bullet">
+						<list-item>
+							<p id="Par24">Arrange observation tasks automatically for RFI monitoring according to observation schedule;</p>
+						</list-item>
+						<list-item>
+							<p id="Par25">Real-time data calibration;</p>
+						</list-item>
+						<list-item>
+							<p id="Par26">Control the movement of antennas;</p>
+						</list-item>
+						<list-item>
+							<p id="Par27">Switch the frequency band of receiver by RF switch;</p>
+						</list-item>
+						<list-item>
+							<p id="Par28">Configure Spectrum Analyzer parameters to acquire and analyze spectrum;</p>
+						</list-item>
+						<list-item>
+							<p id="Par29">Acquire the data of all devices and record them into a file of FITS format;</p>
+						</list-item>
+						<list-item>
+							<p id="Par30">Multi-user remote control and real-time shared monitoring.</p>
+						</list-item>
+					</list>
+				</p>
+			</sec>
+			<sec id="Sec7">
+				<title>Architecture design</title>
+				<p id="Par31">Aimed at the design concept of remote automatic control, we adopt Tango Controls as the software framework. Tango Controls is a free open-source device-oriented controls toolkit based on CORBA protocol for controlling any kind of hardware or software. Its features include strong scalability, rich inter- faces, cross platform and remote deployment. The software adopts hierarchical and modular design. Communication is realized through the unified Tango Controls protocol interface. By mapping physical devices to virtual device services, virtual device services are processes that implement a group of device classes. It can simplify the process of controlling devices and accessing data while hiding complex instruction sets in physical devices [
+					<xref ref-type="bibr" rid="CR6">6</xref>,
+					<xref ref-type="bibr" rid="CR7">7</xref>].
+				</p>
+				<p id="Par32">The software based on Tango Controls have the following three parts (in Fig.
+					<xref rid="Fig3" ref-type="fig">3</xref>): Tango database, Tango device server and Tango client. Tango database stores the configuration information of all devices and provides database retrieval services for other modules; Tango device server is the foun- dation of the whole software. Its role is to manage and run multiple device control processes, including antenna control process, RF receiver process and spectrum analyzer process. Its main functions are as follows:
+					<list list-type="bullet">
+						<list-item>
+							<p id="Par33">The antenna control process controls the antenna to move in the vertical and horizontal directions;</p>
+						</list-item>
+						<list-item>
+							<p id="Par34">RF receiver process sets receiver parameters, including receiver switching, noise injection, and returns receiver status data;</p>
+						</list-item>
+						<list-item>
+							<p id="Par35">The spectrum analyzer process sets the parameters of the spectrum analyzer, including center frequency, bandwidth, etc. and collects spectrum data;</p>
+						</list-item>
+					</list>
+					<fig id="Fig3">
+						<label>Fig. 3</label>
+						<caption xml:lang="en">
+							<p>Architecture diagram of the software based on Tango Controls</p>
+						</caption>
+						<p>
+							<graphic specific-use="HTML" mime-subtype="PNG" xlink:href="MediaObjects/10686_2023_9907_Fig3_HTML.png" id="MO3"/>
+						</p>
+					</fig>
+				</p>
+				<p id="Par36">Tango client realizes higher level application functions.</p>
+				<p id="Par37">The three parties mentioned above conduct network connection using the protocol format specified by Tango Controls. The final data including horizontal position information, antenna azimuth, receiver frequency band, timestamp, spectrum analyzer parameters and spectrum data, is integrated and recorded into one FITS file.</p>
+				<p id="Par38">The user interface consists of two parts: RFI observation and RFI monitor. RFI observation enables users to create and run scripts, automating the execution of observation commands in batches. RFI monitor enables users to monitor device status and control the system remotely, allowing real-time monitoring and control of the system.</p>
+				<p id="Par39">Driver interfaces encapsulates the physical device instruction set and provides the interface for operating every device.</p>
+			</sec>
+			<sec id="Sec8">
+				<title>Implementation</title>
+				<sec id="Sec9">
+					<title>Automatic monitoring and remote control based on Tango</title>
+					<p id="Par40">The key to automatic remote monitoring of the system is to realize the com- munication mode of each module, data interface and operation logic of device. Automation is accomplished via user-written observation scripts.By encapsu- lating the complex instructions of the device layer by layer, these scripts just require a few straightforward lines of code to start the automatic operation of the entire system.Remote monitoring is realized through Tango Controls. Tango controls provide transparent and reliable communication protocols for both communication parties in Ethernet, and hide specific communication details. Figure
+						<xref rid="Fig4" ref-type="fig">4</xref> illustrates the RFI observation flow by using the automation software.
+						<fig id="Fig4">
+							<label>Fig. 4</label>
+							<caption xml:lang="en">
+								<p>RFI Observation flow based on the automation software</p>
+							</caption>
+							<p>
+								<graphic specific-use="HTML" mime-subtype="PNG" xlink:href="MediaObjects/10686_2023_9907_Fig4_HTML.png" id="MO4"/>
+							</p>
+						</fig>
+					</p>
+					<p id="Par41">In Tango Controls, each device therefore has state, zero or more commands, zero or more pipes and zero or more attributes. Taking the spectrum analyzer as an example, Fig.
+						<xref rid="Fig5" ref-type="fig">5</xref> shows how to use the template class generation tool POGO to define spectrum analyzer software interface, including device proper- ties, commands, attributes, and states.All the states, attributes and commands of the device can be called remotely and uniformly, which greatly reduces the complexity and development difficulty of the system.
+						<fig id="Fig5">
+							<label>Fig. 5</label>
+							<caption xml:lang="en">
+								<p>Using POGO to define spectrum analyzer software interface, including device properties, commands, attributes, and states</p>
+							</caption>
+							<p>
+								<graphic specific-use="HTML" mime-subtype="PNG" xlink:href="MediaObjects/10686_2023_9907_Fig5_HTML.png" id="MO5"/>
+							</p>
+						</fig>
+					</p>
+				</sec>
+				<sec id="Sec10">
+					<title>Multi-device coordination control</title>
+					<p id="Par42">The software uses a multi-level pipeline design to achieve real-time monitoring and coordination control of numerous devices, as well as to reduce control time delay and increase system efficiency.</p>
+					<p id="Par43">After the observation script starts to run, the system controls the antenna to rotate to the specified position to receive the RF signal, then the RF receiving module controls the RF switch to switch the observation mode, and the spectrum analyzer performs the spectrum analysis. After the last observation is completed, the antenna rotates to the next observation position to continue the observation. The whole process will collect the observation results and device status data in real time and it will be finally recorded as a file of FITS format for subsequent analysis and processing.</p>
+				</sec>
+				<sec id="Sec11">
+					<title>Driver interface</title>
+					<p id="Par44">The software needs to communicate with various devices such as antennas, RF switches, and spectrum analyzers. The primary network communication protocol used is UDP protocol. Both the software and devices use an agreed upon data format for communication to ensur accurate data transmission. There are two different message formats that the computer sends to the device: One of the message formats is a three-byte command used to control the RF switch and the spectrum analyzer.It includes a one-byte start character OxFF as the data start symbol, a one-byte end character OxFE as the data end symbol, and a one-byte command character 0 × 01 representing the operation command; The other is the seven-byte instruction, which is used to control the antenna rotation position and speed. It contains a one-byte starting character 0xFF as the data start flag, a one-byte ending character 0xFE as the data end flag, a one-byte command character 0 × 01 represents the operation command, and a one-byte transparent information 0 × 00. Since the data cannot contain the starting character and the ending character, when the actual data encounters these two characters, Transparent processing will be performed to avoid error transmission. The three-byte numerical information consists of high, middle and low bytes, which can be used to calculate the antenna movement angle. The calculation is performed using the following formula:
+						<disp-formula id="Equ5">
+							<label>5</label>
+							<alternatives>
+								<mml:math display="block">
+									<mml:mrow>
+										<mml:mi>R</mml:mi>
+										<mml:mi>o</mml:mi>
+										<mml:mi>t</mml:mi>
+										<mml:mi>a</mml:mi>
+										<mml:mi>t</mml:mi>
+										<mml:mi>i</mml:mi>
+										<mml:mi>o</mml:mi>
+										<mml:mi>n</mml:mi>
+										<mml:mspace width="0.277778em"/>
+										<mml:mi>A</mml:mi>
+										<mml:mi>n</mml:mi>
+										<mml:mi>g</mml:mi>
+										<mml:mi>l</mml:mi>
+										<mml:mi>e</mml:mi>
+										<mml:mo>=</mml:mo>
+										<mml:mfenced close=")" open="(">
+											<mml:mi>h</mml:mi>
+											<mml:mi>i</mml:mi>
+											<mml:mi>g</mml:mi>
+											<mml:mi>h</mml:mi>
+											<mml:mspace width="0.277778em"/>
+											<mml:mi>b</mml:mi>
+											<mml:mi>y</mml:mi>
+											<mml:mi>t</mml:mi>
+											<mml:mi>e</mml:mi>
+										</mml:mfenced>
+										<mml:mrow/>
+										<mml:mo>∗</mml:mo>
+										<mml:mn>65536</mml:mn>
+										<mml:mo>+</mml:mo>
+										<mml:mfenced close=")" open="(">
+											<mml:mi>m</mml:mi>
+											<mml:mi>e</mml:mi>
+											<mml:mi>d</mml:mi>
+											<mml:mi>i</mml:mi>
+											<mml:mi>u</mml:mi>
+											<mml:mi>m</mml:mi>
+											<mml:mspace width="0.277778em"/>
+											<mml:mi>b</mml:mi>
+											<mml:mi>y</mml:mi>
+											<mml:mi>t</mml:mi>
+											<mml:mi>e</mml:mi>
+										</mml:mfenced>
+										<mml:mrow/>
+										<mml:mo>∗</mml:mo>
+										<mml:mn>256</mml:mn>
+										<mml:mo>+</mml:mo>
+										<mml:mfenced close=")" open="(">
+											<mml:mi>l</mml:mi>
+											<mml:mi>o</mml:mi>
+											<mml:mi>w</mml:mi>
+											<mml:mspace width="0.277778em"/>
+											<mml:mi>b</mml:mi>
+											<mml:mi>y</mml:mi>
+											<mml:mi>t</mml:mi>
+											<mml:mi>e</mml:mi>
+										</mml:mfenced>
+										<mml:mo>.</mml:mo>
+									</mml:mrow>
+								</mml:math>
+								<tex-math id="Equ5_TeX">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym}
+				\usepackage{amsfonts}
+				\usepackage{amssymb}
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$Rotation\;Angle=\left(high\;byte\right)*65536+\left(medium\;byte\right)*256+\left(low\;byte\right).$$\end{document}</tex-math>
+								<graphic position="anchor" xlink:href="10686_2023_9907_Article_Equ5.gif"/>
+							</alternatives>
+						</disp-formula>
+					</p>
+					<p id="Par45">The aforementioned communication format and hardware command protocol are encapsulated into interface functions that the upper software layer can call. For instance, the spectrum analyzer needs to specify parameters such as center frequency, bandwidth, sweep points, and collect spectrum. The computer accesses the spectrum analyzer through vxi-11 protocol. Its driver interface functions are as follows:
+						<fig id="Figa" position="anchor">
+							<p>
+								<graphic position="anchor" specific-use="HTML" mime-subtype="PNG" xlink:href="MediaObjects/10686_2023_9907_Figa_HTML.png" id="MO6"/>
+							</p>
+						</fig>
+					</p>
+				</sec>
+				<sec id="Sec12">
+					<title>User interface</title>
+					<p id="Par46">The user interface is divided into two parts: the RFI observation interface and the RFI monitor interface, which are independent of each other (in Fig.
+						<xref rid="Fig6" ref-type="fig">6</xref>).
+						<fig id="Fig6">
+							<label>Fig. 6</label>
+							<caption xml:lang="en">
+								<p>RFI Monitor interface</p>
+							</caption>
+							<p>
+								<graphic specific-use="HTML" mime-subtype="PNG" xlink:href="MediaObjects/10686_2023_9907_Fig6_HTML.png" id="MO7"/>
+							</p>
+						</fig>
+					</p>
+					<p id="Par47">The RFI observation interface is applied to help users automate the RFI observation. It requires the user to write a python script in advance.</p>
+					<p id="Par48">The RFI monitor interface using C +  + language and Gqrx open source software [
+						<xref ref-type="bibr" rid="CR8">8</xref>], consists of five parts such as antenna turret module, RF control module, spectrum analyzer module, spectrum display module and log display module.
+					</p>
+				</sec>
+			</sec>
+		</sec>
+		<sec id="Sec13">
+			<title>Experiment</title>
+			<p id="Par49">RFI monitoring requires particular attention to the direction of the nearest densely populated area from the observing site. The data processing method involves a statistical approach where all measurement data are sorted from lowest to highest, and the mean, as well as values at 10%, 50%, and 90% probability, and the maximum value, are determined. The frequency is used as the horizontal axis, and the RFI signal is normalized in dB (
+				<italic>W m</italic>
+				<sup>
+					<italic>−</italic>2
+				</sup>
+				<italic>H z</italic>
+				<sup>
+					<italic>−</italic>1
+				</sup>) as the vertical axis. The resulting curves represent the mean, 10%, 50%, 90%, and maximum RFI intensity as a function of frequency.
+			</p>
+			<p id="Par50">The spectrum of the frequency range from 1.12 to 12.4 GHz after it has been reduced by the post-processing software is shown in Fig.
+				<xref rid="Fig7" ref-type="fig">7</xref>. The lines representing the RFI intensities are difficult to distinguish. This observation can be attributed to the presence of large spikes, indicating strong RFIs, which compress the y-axis scale. Figure
+				<xref rid="Fig8" ref-type="fig">8</xref> shows the RFI situation around the TMRT in the frequency range of 1.7 GHz to 2.6 GHz, indicating the significant impact of RFI in this frequency range. Through analysis,the main sources of RFI in the frequency range of 1.7–2.6 GHz around the TMRT are mobile communication signals. At present, the most effective way to reduce these strong interference is to fab- ricate superconducting filters which block the RFI pollution directly in the receiver [
+				<xref ref-type="bibr" rid="CR9">9</xref>].
+				<fig id="Fig7">
+					<label>Fig. 7</label>
+					<caption xml:lang="en">
+						<p>Spectrum of received signal in 1.12–12.4 GHz</p>
+					</caption>
+					<p>
+						<graphic specific-use="HTML" mime-subtype="PNG" xlink:href="MediaObjects/10686_2023_9907_Fig7_HTML.png" id="MO8"/>
+					</p>
+				</fig>
+				<fig id="Fig8">
+					<label>Fig. 8</label>
+					<caption xml:lang="en">
+						<p>The upper part of the figure depicts a line graph displaying the RFI intensity in the frequency range of 1.7 to 2.6 GHz. The horizontal axis represents frequency (MHz), and the vertical axis represents the power level(dBm) of the signals. The lower part of the figure presents a waterfall plot, providing a visualization of the RFI intensity variations over time</p>
+					</caption>
+					<p>
+						<graphic specific-use="HTML" mime-subtype="PNG" xlink:href="MediaObjects/10686_2023_9907_Fig8_HTML.png" id="MO9"/>
+					</p>
+				</fig>
+			</p>
+		</sec>
+		<sec id="Sec14" sec-type="conclusions">
+			<title>Conclusion</title>
+			<p id="Par51">This paper describes the design and development of the control software for the TRMS, which enables an automatic multi-user remote control and data processing.The software adopts hierarchical and modular design based on Tango Controls framework and enables users to realize real-time monitoring of the RFI of TMRT remotely which greatly improves the observation efficiency. The observation results shows that the software can automatically monitor the RFI around the TMRT in real time and quickly record and process the final obser­ vation data under the unattended condition. Base on this, in the future, we plan to utilize deep-learning algorithm to realize to extract and recognize the features of RFI to improve the automatic identification capability.</p>
+		</sec>
+	</body>
+	<back>
+		<sec sec-type="author-contribution">
+			<title>Author’s contribution</title>
+			<p>• Rong-Bing Zhao: conceptualization, methodology, software design and development;</p>
+			<p>• Dong Zhang: software development and testing, project administration, validation and writing-original draft;</p>
+			<p>• Bin Li: hardware design and development;</p>
+			<p>• Wei-Hua Shang-Guan : software testing and writing-original draft;</p>
+			<p>• Zhen Yan, Zhi-Qiang Shen and Qing-Hui Liu: Conceptualization, scientific discussion, resource &amp; funding support, paper reviewing and editing;</p>
+			<p>• Chu-Yuan Zhang : visualization and investigation.</p>
+			<p>• All authors read and approved the final manuscript.</p>
+		</sec>
+		<sec>
+			<title>Funding</title>
+			<p>This work was supported by the National SKA Program of China, No. 2020SKA0120104 and the Natural Science Foundation of Shanghai, No. 20ZR1467600.</p>
+		</sec>
+		<sec sec-type="data-availability">
+			<title>Data availability</title>
+			<p>The original contributions presented in the study are included in the article/-
+				<xref ref-type="supplementary-material" rid="MOESM1">Supplementary Material</xref>; further inquiries can be directed to the corresponding author.
+			</p>
+		</sec>
+		<sec sec-type="ethics-statement">
+			<title>Declarations</title>
+			<sec id="FPar1" sec-type="COI-statement">
+				<title>Conflict of interest</title>
+				<p id="Par52">The authors declare that the research was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest.</p>
+			</sec>
+		</sec>
+		<ref-list id="Bib1">
+			<title>References</title>
+			<ref-list>
+				<ref id="CR1">
+					<label>1.</label>
+					<mixed-citation publication-type="other">Jianbin, L.: Research on monitoring method and equipment of radio fre­ quency interference for large radio telescopes. Master's thesis, Xidian University (2015).
+						<ext-link xlink:href="https://www.cnki.net/kcms/doi/10.13443/j.cjors.2014050501.html" ext-link-type="url">https://www.cnki.net/kcms/doi/10.13443/j.cjors.2014050501.html</ext-link>
+					</mixed-citation>
+				</ref>
+				<ref id="CR2">
+					<label>2.</label>
+					<mixed-citation publication-type="other">Melis, A., Gaudiomonte, F., Barbaro, M., Concu, R., Migoni, C., Trois, A., Valente, G.: An rfi monitoring system based on a hybrid configuration for radioastronomy. In: Millimeter, Submillimeter, and Far-Infrared Detectors and Instrumentation for Astronomy VII, vol. 9153, pp. 1008–1017. SPIE (2014).
+						<ext-link xlink:href="https://doi.org/10.1117/12.2056619" ext-link-type="doi">https://doi.org/10.1117/12.2056619</ext-link>
+					</mixed-citation>
+				</ref>
+				<ref id="CR3">
+					<label>3.</label>
+					<mixed-citation publication-type="other">Wang, Y., Liu, Q., Liu, Y., Su, X.: Development and realization of the software for automatic rfimonitoring system. Astron. Res. Technol. 522–530 (2020).
+						<ext-link xlink:href="https://doi.org/10.14005/j.cnki.issn1672-7673.20200409.002" ext-link-type="doi">https://doi.org/10.14005/j.cnki.issn1672-7673.20200409.002</ext-link>
+					</mixed-citation>
+				</ref>
+				<ref id="CR4">
+					<label>4.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Yan</surname>
+								<given-names>Z</given-names>
+							</name>
+							<name>
+								<surname>Shen</surname>
+								<given-names>Z-Q</given-names>
+							</name>
+							<name>
+								<surname>Wu</surname>
+								<given-names>Y-J</given-names>
+							</name>
+							<name>
+								<surname>Zhao</surname>
+								<given-names>R-B</given-names>
+							</name>
+							<name>
+								<surname>Zhao</surname>
+								<given-names>R-S</given-names>
+							</name>
+							<name>
+								<surname>Liu</surname>
+								<given-names>J</given-names>
+							</name>
+							<name>
+								<surname>Huang</surname>
+								<given-names>Z-P</given-names>
+							</name>
+							<name>
+								<surname>Liu</surname>
+								<given-names>Q-H</given-names>
+							</name>
+							<name>
+								<surname>Wu</surname>
+								<given-names>X-J</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Pulsar research with the newly built shanghai tian RNA radio telescope</article-title>
+						<source>URSI Radio Sci. Bull.</source>
+						<year>2018</year>
+						<volume>2018</volume>
+						<issue>366</issue>
+						<fpage>10</fpage>
+						<lpage>18</lpage>
+						<pub-id pub-id-type="doi">10.23919/URSIRSB.2018.8627423</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR5">
+					<label>5.</label>
+					<mixed-citation publication-type="other">LiJianbin, P.B., Dongliang, I.: Site spectrum monitoring of electromag­ netic environment for large radio telescopes. Chin. J. Radio Sci. (378–382) (2015).
+						<ext-link xlink:href="https://doi.org/10.13443/j.cjors.2014050501" ext-link-type="doi">https://doi.org/10.13443/j.cjors.2014050501</ext-link>
+					</mixed-citation>
+				</ref>
+				<ref id="CR6">
+					<label>6.</label>
+					<mixed-citation publication-type="other">G¨otz, A., Taurel, E., Pons, J., Verdier, P., Chaize, J., Meyer, J., Poncet, F., Heunen, G., G¨otz, E., Buteau, A., et al.: Tango a corba based control system. ICALEPCS2003, Gyeongju, Korea, October (2003)</mixed-citation>
+				</ref>
+				<ref id="CR7">
+					<label>7.</label>
+					<mixed-citation publication-type="other">Tango Controls.:
+						<ext-link xlink:href="https://www.tango-controls.org/" ext-link-type="url">https://www.tango-controls.org/</ext-link> . Accessed 18 June 2023
+					</mixed-citation>
+				</ref>
+				<ref id="CR8">
+					<label>8.</label>
+					<mixed-citation publication-type="other">Gqrx.:
+						<ext-link xlink:href="https://gqrx.dk/" ext-link-type="url">https://gqrx.dk/</ext-link> . Accessed 18 June 2023
+					</mixed-citation>
+				</ref>
+				<ref id="CR9">
+					<label>9.</label>
+					<mixed-citation publication-type="other">An, T., Chen, X., Mohan, P., Lao, B.-Q.: Radio frequency interference mitigation. arXiv preprint  arXiv:1711.01978 (2017)</mixed-citation>
+				</ref>
+			</ref-list>
+		</ref-list>
+		<app-group>
+			<app id="App1">
+				<sec id="Sec15">
+					<title>Supplementary Information</title>
+					<p id="Par53">Below is the link to the electronic supplementary material.
+						<supplementary-material content-type="local-data" id="MOESM1" xlink:title="Supplementary Information">
+							<media xlink:href="MediaObjects/10686_2023_9907_MOESM1_ESM.rar" mimetype="audio" mime-subtype="x-realaudio">
+								<caption xml:lang="en">
+									<p>Supplementary file1 (RAR 24231 KB)</p>
+								</caption>
+							</media>
+						</supplementary-material>
+					</p>
+				</sec>
+			</app>
+		</app-group>
+		<notes notes-type="Misc">
+			<title>Publisher's note</title>
+			<p>Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.</p>
+		</notes>
+	</back>
+</article>

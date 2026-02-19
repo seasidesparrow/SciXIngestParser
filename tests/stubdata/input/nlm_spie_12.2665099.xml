@@ -1,0 +1,211 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v3.0 20080202//EN" "http://dtd.nlm.nih.gov/publishing/3.0/journalpublishing3.dtd">
+<article article-type="proceedings" dtd-version="3.0" xml:lang="en" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<front>
+<journal-meta>
+<issn>0277-786X</issn>
+<isbn>9781510661387</isbn>
+<publisher>
+<publisher-name>SPIE</publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="doi">10.1117/12.2665099</article-id>
+<title-group>
+<article-title>
+Multiscale SPAD modeling: from Monte Carlo to SPICE simulations
+</article-title>
+</title-group>
+<contrib-group content-type="volume">
+<contrib contrib-type="editor">
+<name>
+<surname>Itzler</surname>
+<given-names>Mark A.</given-names>
+</name>
+<xref ref-type="aff" rid="aff4" />
+</contrib>
+<contrib contrib-type="editor">
+<name>
+<surname>Bienfang</surname>
+<given-names>Joshua C.</given-names>
+</name>
+<xref ref-type="aff" rid="aff5" />
+</contrib>
+<contrib contrib-type="editor">
+<name>
+<surname>McIntosh</surname>
+<given-names>K. Alex</given-names>
+</name>
+<xref ref-type="aff" rid="aff6" />
+</contrib>
+</contrib-group>
+<contrib-group content-type="article">
+<contrib contrib-type="author">
+<name>
+<surname>Rideau</surname>
+<given-names>D.</given-names>
+</name>
+<xref ref-type="aff" rid="aff1" />
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname>Helleboid</surname>
+<given-names>R.</given-names>
+</name>
+<xref ref-type="aff" rid="aff1" />
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname>Mugny</surname>
+<given-names>G.</given-names>
+</name>
+<xref ref-type="aff" rid="aff1" />
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname>Bianchi</surname>
+<given-names>R. A.</given-names>
+</name>
+<xref ref-type="aff" rid="aff1" />
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname>Manouvrier</surname>
+<given-names>J. R.</given-names>
+</name>
+<xref ref-type="aff" rid="aff1" />
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname>Nicholson</surname>
+<given-names>I.</given-names>
+</name>
+<xref ref-type="aff" rid="aff2" />
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname>Grebot</surname>
+<given-names>J.</given-names>
+</name>
+<xref ref-type="aff" rid="aff1" />
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname>Lacombe</surname>
+<given-names>E.</given-names>
+</name>
+<xref ref-type="aff" rid="aff1" />
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname>Lopez</surname>
+<given-names>A.</given-names>
+</name>
+<xref ref-type="aff" rid="aff2" />
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname>Golanski</surname>
+<given-names>D.</given-names>
+</name>
+<xref ref-type="aff" rid="aff1" />
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname>Mamdy</surname>
+<given-names>B.</given-names>
+</name>
+<xref ref-type="aff" rid="aff1" />
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname>Rae</surname>
+<given-names>B.</given-names>
+</name>
+<xref ref-type="aff" rid="aff2" />
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname>Pellegrini</surname>
+<given-names>S.</given-names>
+</name>
+<xref ref-type="aff" rid="aff2" />
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname>Agnew</surname>
+<given-names>M.</given-names>
+</name>
+<xref ref-type="aff" rid="aff2" />
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname>Uhring</surname>
+<given-names>W.</given-names>
+</name>
+<xref ref-type="aff" rid="aff3" />
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname>Rink</surname>
+<given-names>S.</given-names>
+</name>
+<xref ref-type="aff" rid="aff3" />
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname>Alause</surname>
+<given-names>H. Wehbe</given-names>
+</name>
+<xref ref-type="aff" rid="aff1" />
+</contrib>
+</contrib-group>
+<aff id="aff1">STMicroelectronics S.A. (France)</aff>
+<aff id="aff2">STMicroelectronics S.A. (United Kingdom)</aff>
+<aff id="aff3">Univ. de Strasbourg (France)</aff>
+<aff id="aff4">Argo AI, LLC (United States)</aff>
+<aff id="aff5">National Institute of Standards and Technology (United States)</aff>
+<aff id="aff6">MIT Lincoln Lab. (United States)</aff>
+<pub-date>
+<day>15</day>
+<month>6</month>
+<year>2023</year>
+</pub-date>
+<volume>12512</volume>
+<fpage>1251205</fpage>
+<lpage>1251205-6</lpage>
+<permissions>
+<copyright-statement>COPYRIGHT SPIE. Downloading of the abstract is permitted for personal use only.</copyright-statement>
+<copyright-year>2023</copyright-year>
+</permissions>
+<self-uri xlink:title="pdf" xlink:href="1251205.pdf"/>
+<abstract>
+We present a study of the main SPAD figures of merit using a multiscale approach, from Monte Carlo simulations to SPICE simulations. We explore novel stochastic approaches capable of predicting accurately experimental measurements such as the Breakdown Probability, and the jitter. Additionally, the SPAD avalanche dynamics that is a stochastic process, is discussed within a transient Monte Carlo simulation perspective. We also derived a VerilogA model, making possible the analysis of the stochastic responses of the SPAD, including the buildup of the avalanche but also its quench. This latter quench probability of these diodes once in avalanche, rarely discussed in literature, is related to the dynamics of the voltage change of the floating cathode node. If the cathode voltage recovery (after the debiasing due to the quench circuit) is quicker than the time needed for the carrier evacuation within the avalanche junction, small additional avalanches can occur.
+</abstract>
+<conference content-type="conf-level-1">
+<conf-date />
+<conf-name>Defense + Commercial Sensing</conf-name>
+<conf-acronym>DCS</conf-acronym>
+<conf-num>7</conf-num>
+</conference>
+<conference content-type="conf-level-2">
+<conf-date>2023-04-30|2023-05-05</conf-date>
+<conf-name>SPIE Defense + Commercial Sensing</conf-name>
+<conf-acronym>DCS23</conf-acronym>
+<conf-num>2619426</conf-num>
+<conf-loc>Orlando, Florida, United States</conf-loc>
+</conference>
+<conference content-type="volume">
+<conf-date />
+<conf-name>Advanced Photon Counting Techniques XVII</conf-name>
+<conf-num>12512</conf-num>
+</conference>
+<conference content-type="session">
+<conf-date />
+<conf-name>Developments in Single-Photon Avalanche Diodes</conf-name>
+<conf-num>4</conf-num>
+</conference>
+</article-meta>
+</front>
+<back>
+</back>
+</article>

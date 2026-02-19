@@ -1,0 +1,277 @@
+<record>
+	<header>
+		<identifier>info:doi/10.1103%2FPhysRevD.64.117303</identifier>
+		<datestamp>2017-06-14</datestamp>
+		<setSpec>J</setSpec>
+		<setSpec>J:10.1103</setSpec>
+		<setSpec>J:10.1103:5199</setSpec>
+	</header>
+	<metadata>
+		<crossref
+			xmlns="http://www.crossref.org/xschema/1.1" xsi:schemaLocation="http://www.crossref.org/xschema/1.1 http://www.crossref.org/schema/unixref1.1.xsd" >
+			<journal>
+				<journal_metadata language="en">
+					<full_title>Physical Review D</full_title>
+					<abbrev_title>Phys. Rev. D</abbrev_title>
+					<issn media_type="print">0556-2821</issn>
+					<issn media_type="electronic">1089-4918</issn>
+					<coden>PRVDAQ</coden>
+				</journal_metadata>
+				<journal_issue>
+					<publication_date media_type="print">
+						<month>11</month>
+						<year>2001</year>
+					</publication_date>
+					<journal_volume>
+						<volume>64</volume>
+					</journal_volume>
+					<issue>11</issue>
+				</journal_issue>
+				<journal_article publication_type="full_text">
+					<titles>
+						<title>Light unstable sterile neutrino</title>
+					</titles>
+					<contributors>
+						<person_name sequence="first" contributor_role="author">
+							<given_name>Ernest</given_name>
+							<surname>Ma</surname>
+						</person_name>
+						<person_name sequence="additional" contributor_role="author">
+							<given_name>G.</given_name>
+							<surname>Rajasekaran</surname>
+						</person_name>
+					</contributors>
+					<publication_date media_type="online">
+						<month>11</month>
+						<day>8</day>
+						<year>2001</year>
+					</publication_date>
+					<publisher_item>
+						<item_number item_number_type="article-number">117303</item_number>
+					</publisher_item>
+					<program
+						xmlns:ai="http://www.crossref.org/AccessIndicators.xsd" name="AccessIndicators">
+						<ai:license_ref applies_to="vor" start_date="2001-11-08">http://link.aps.org/licenses/aps-default-license</ai:license_ref>
+					</program>
+					<doi_data>
+						<doi>10.1103/PhysRevD.64.117303</doi>
+						<timestamp>20150326123339</timestamp>
+						<resource>https://link.aps.org/doi/10.1103/PhysRevD.64.117303</resource>
+						<collection property="crawler-based">
+							<item crawler="iParadigms">
+								<resource>http://harvest.aps.org/v2/journals/articles/10.1103/PhysRevD.64.117303/fulltext</resource>
+							</item>
+						</collection>
+						<collection property="syndication">
+							<item>
+								<resource content_version="vor">http://link.aps.org/article/10.1103/PhysRevD.64.117303</resource>
+							</item>
+						</collection>
+					</doi_data>
+					<citation_list>
+						<citation key="PhysRevD.64.117303Cc1R1">
+							<journal_title>Phys. Rev. Lett.</journal_title>
+							<author>S. Fukuda</author>
+							<volume>85</volume>
+							<first_page>3999</first_page>
+							<cYear>2000</cYear>
+							<doi provider="crossref">10.1103/PhysRevLett.85.3999</doi>
+						</citation>
+						<citation key="PhysRevD.64.117303Cc2R1">
+							<journal_title>Phys. Rev. Lett.</journal_title>
+							<author>S. Fukuda</author>
+							<volume>86</volume>
+							<first_page>5656</first_page>
+							<cYear>2001</cYear>
+							<doi provider="crossref">10.1103/PhysRevLett.86.5656</doi>
+						</citation>
+						<citation key="PhysRevD.64.117303Cc2R2">
+							<journal_title>Phys. Rev. Lett.</journal_title>
+							<author>Q.R. Ahmad</author>
+							<first_page>071301</first_page>
+							<cYear>2001</cYear>
+							<doi provider="crossref">10.1103/PhysRevLett.87.071301</doi>
+						</citation>
+						<citation key="PhysRevD.64.117303Cc3R2">
+							<journal_title>Nucl. Phys. B (Proc. Suppl.)</journal_title>
+							<author>G.B. Mills</author>
+							<volume>91</volume>
+							<first_page>198</first_page>
+							<cYear>2001</cYear>
+							<doi provider="crossref">10.1016/S0920-5632(00)00941-5</doi>
+						</citation>
+						<citation key="PhysRevD.64.117303Cc4R1">
+							<journal_title>Phys. Rev. Lett.</journal_title>
+							<author>E. Ma</author>
+							<volume>80</volume>
+							<first_page>5716</first_page>
+							<cYear>1998</cYear>
+							<doi provider="crossref">10.1103/PhysRevLett.80.5716</doi>
+						</citation>
+						<citation key="PhysRevD.64.117303Cc5R1">
+							<journal_title>Phys. Rev. Lett.</journal_title>
+							<author>E. Ma</author>
+							<volume>85</volume>
+							<first_page>3769</first_page>
+							<cYear>2000</cYear>
+							<doi provider="crossref">10.1103/PhysRevLett.85.3769</doi>
+						</citation>
+						<citation key="PhysRevD.64.117303Cc6R1">
+							<volume_title>Supergravity</volume_title>
+							<author>M. Gell-Mann</author>
+							<cYear>1979</cYear>
+						</citation>
+						<citation key="PhysRevD.64.117303Cc6R2">
+							<volume_title>Proceedings of the Workshop on the Unified Theory and the Baryon Number in the Universe</volume_title>
+							<author>T. Yanagida</author>
+							<cYear>1979</cYear>
+						</citation>
+						<citation key="PhysRevD.64.117303Cc6R3">
+							<journal_title>Phys. Rev. Lett.</journal_title>
+							<author>R.N. Mohapatra</author>
+							<volume>44</volume>
+							<first_page>912</first_page>
+							<cYear>1980</cYear>
+							<doi provider="crossref">10.1103/PhysRevLett.44.912</doi>
+						</citation>
+						<citation key="PhysRevD.64.117303Cc7R1">
+							<journal_title>Phys. Rev. Lett.</journal_title>
+							<author>E. Ma</author>
+							<volume>86</volume>
+							<first_page>2502</first_page>
+							<cYear>2001</cYear>
+							<doi provider="crossref">10.1103/PhysRevLett.86.2502</doi>
+						</citation>
+						<citation key="PhysRevD.64.117303Cc8R1">
+							<journal_title>Phys. Rev. D</journal_title>
+							<author>M. Kobayashi</author>
+							<volume>64</volume>
+							<first_page>013003</first_page>
+							<cYear>2001</cYear>
+							<doi provider="crossref">10.1103/PhysRevD.64.013003</doi>
+						</citation>
+						<citation key="PhysRevD.64.117303Cc9R2">
+							<journal_title>Phys. Rev. D</journal_title>
+							<author>N. Arkani-Hamed</author>
+							<volume>61</volume>
+							<first_page>116003</first_page>
+							<cYear>2000</cYear>
+							<doi provider="crossref">10.1103/PhysRevD.61.116003</doi>
+						</citation>
+						<citation key="PhysRevD.64.117303Cc10R1">
+							<journal_title>Phys. Lett. B</journal_title>
+							<author>E. Ma</author>
+							<volume>495</volume>
+							<first_page>363</first_page>
+							<cYear>2000</cYear>
+							<doi provider="crossref">10.1016/S0370-2693(00)01252-1</doi>
+						</citation>
+						<citation key="PhysRevD.64.117303Cc11R1">
+							<journal_title>Phys. Rev. Lett.</journal_title>
+							<author>Y. Chikashige</author>
+							<volume>45</volume>
+							<first_page>1926</first_page>
+							<cYear>1980</cYear>
+							<doi provider="crossref">10.1103/PhysRevLett.45.1926</doi>
+						</citation>
+						<citation key="PhysRevD.64.117303Cc12R1">
+							<journal_title>Phys. Rev. D</journal_title>
+							<author>J. Schechter</author>
+							<volume>25</volume>
+							<first_page>774</first_page>
+							<cYear>1982</cYear>
+							<doi provider="crossref">10.1103/PhysRevD.25.774</doi>
+						</citation>
+						<citation key="PhysRevD.64.117303Cc12R2">
+							<journal_title>Phys. Lett. B</journal_title>
+							<author>J.T. Peltoniemi</author>
+							<volume>298</volume>
+							<first_page>383</first_page>
+							<cYear>1993</cYear>
+							<doi provider="crossref">10.1016/0370-2693(93)91837-D</doi>
+						</citation>
+						<citation key="PhysRevD.64.117303Cc12R3">
+							<journal_title>Nucl. Phys.</journal_title>
+							<author>J.T. Peltoniemi</author>
+							<volume>B406</volume>
+							<first_page>409</first_page>
+							<cYear>1993</cYear>
+							<doi provider="crossref">10.1016/0550-3213(93)90174-N</doi>
+						</citation>
+						<citation key="PhysRevD.64.117303Cc13R1">
+							<journal_title>Phys. Rev. D</journal_title>
+							<author>E. Ma</author>
+							<volume>61</volume>
+							<first_page>071302</first_page>
+							<cYear>2000</cYear>
+							<doi provider="crossref">10.1103/PhysRevD.61.071302</doi>
+						</citation>
+						<citation key="PhysRevD.64.117303Cc14R1">
+							<journal_title>Phys. Lett.</journal_title>
+							<author>F. Dydak</author>
+							<volume>134B</volume>
+							<first_page>281</first_page>
+							<cYear>1984</cYear>
+							<doi provider="crossref">10.1016/0370-2693(84)90688-9</doi>
+						</citation>
+						<citation key="PhysRevD.64.117303Cc16R1">
+							<journal_title>Phys. Rev. D</journal_title>
+							<author>M. Kachelriess</author>
+							<volume>62</volume>
+							<first_page>023004</first_page>
+							<cYear>2000</cYear>
+							<doi provider="crossref">10.1103/PhysRevD.62.023004</doi>
+						</citation>
+						<citation key="PhysRevD.64.117303Cc16R2">
+							<journal_title>Phys. Rev. D</journal_title>
+							<author>R. Tomas</author>
+							<volume>64</volume>
+							<first_page>095005</first_page>
+							<cYear>2001</cYear>
+							<doi provider="crossref">10.1103/PhysRevD.64.095005</doi>
+						</citation>
+						<citation key="PhysRevD.64.117303Cc17R1">
+							<journal_title>Phys. Rev. D</journal_title>
+							<author>C.J. Copi</author>
+							<volume>55</volume>
+							<first_page>3389</first_page>
+							<cYear>1997</cYear>
+							<doi provider="crossref">10.1103/PhysRevD.55.3389</doi>
+						</citation>
+						<citation key="PhysRevD.64.117303Cc17R2">
+							<journal_title>Phys. Rev. D</journal_title>
+							<author>N. Hata</author>
+							<first_page>540</first_page>
+							<cYear>1997</cYear>
+							<doi provider="crossref">10.1103/PhysRevD.55.540</doi>
+						</citation>
+						<citation key="PhysRevD.64.117303Cc17R3">
+							<journal_title>Astropart. Phys.</journal_title>
+							<author>K.A. Olive</author>
+							<volume>11</volume>
+							<first_page>403</first_page>
+							<cYear>1999</cYear>
+							<doi provider="crossref">10.1016/S0927-6505(99)00009-2</doi>
+						</citation>
+						<citation key="PhysRevD.64.117303Cc18R1">
+							<journal_title>Nucl. Phys.</journal_title>
+							<author>K.A. Olive</author>
+							<volume>B180</volume>
+							<first_page>497</first_page>
+							<cYear>1981</cYear>
+							<doi provider="crossref">10.1016/0550-3213(81)90065-1</doi>
+						</citation>
+						<citation key="PhysRevD.64.117303Cc19R1">
+							<journal_title>Phys. Lett.</journal_title>
+							<author>J. Ellis</author>
+							<volume>167B</volume>
+							<first_page>457</first_page>
+							<cYear>1986</cYear>
+							<doi provider="crossref">10.1016/0370-2693(86)91301-8</doi>
+						</citation>
+					</citation_list>
+				</journal_article>
+			</journal>
+		</crossref>
+	</metadata>
+</record>

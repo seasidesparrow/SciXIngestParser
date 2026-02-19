@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.1 20151215//EN" "JATS-journalpublishing1.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" article-type="research-article" dtd-version="1.1" xml:lang="en"><front><journal-meta><journal-id journal-id-type="publisher-id">jcap</journal-id><journal-title-group><journal-title xml:lang="en">Journal of Cosmology and Astroparticle Physics</journal-title><abbrev-journal-title abbrev-type="publisher" xml:lang="en">J. Cosmol. Astropart. Phys.</abbrev-journal-title></journal-title-group><issn pub-type="epub">1475-7516</issn><publisher><publisher-name>IOP Publishing</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="publisher-id">JCAP_029P_1022</article-id><article-id pub-id-type="doi">10.1088/1475-7516/2023/05/001</article-id><article-id pub-id-type="manuscript">JCAP_029P_1022</article-id><article-categories><subj-group subj-group-type="display-article-type"><subject>paper</subject></subj-group></article-categories><title-group><article-title>Non-linear Eulerian hydrodynamics of dark energy: Riemann problem and finite volume schemes</article-title></title-group><contrib-group><contrib contrib-type="author" xlink:type="simple"><name name-style="western"><surname>Blot</surname><given-names>Linda</given-names></name><xref ref-type="aff" rid="affiliation01">1</xref><email>lblot@mpa-garching.mpg.de</email></contrib><contrib contrib-type="author" xlink:type="simple"><name name-style="western"><surname>Corasaniti</surname><given-names>Pier Stefano</given-names></name><xref ref-type="aff" rid="affiliation02">2</xref><email>pier-stefano.corasaniti@obspm.fr</email></contrib><contrib contrib-type="author" xlink:type="simple"><name name-style="western"><surname>Schmidt</surname><given-names>Fabian</given-names></name><xref ref-type="aff" rid="affiliation01">1</xref><email>fabians@mpa-garching.mpg.de</email></contrib><aff id="affiliation01">
+               <label>1</label>Max Planck Institute for Astrophysics,  Karl-Schwarzschild str. 1, 85748 Garching, <country>Germany</country>
+            </aff><aff id="affiliation02">
+               <label>2</label>Laboratoire Univers et Théories (LUTh), UMR 8102 CNRS,   Observatoire de Paris, Université Paris Diderot,   5 Place Jules Janssen, 92190 Meudon, <country>France</country>
+            </aff></contrib-group><pub-date pub-type="ppub"><day>01</day><month>5</month><year>2023</year></pub-date><pub-date pub-type="epub"><day>2</day><month>5</month><year>2023</year></pub-date><pub-date pub-type="open-access"><day>2</day><month>5</month><year>2023</year></pub-date><volume>2023</volume><issue>05</issue><elocation-id content-type="artnum">001</elocation-id><history><date date-type="received"><day>11</day><month>10</month><year>2022</year></date><date date-type="revised"><day>28</day><month>3</month><year>2023</year></date><date date-type="accepted"><day>13</day><month>4</month><year>2023</year></date></history><permissions><copyright-statement>© 2023 The Author(s)</copyright-statement><copyright-year>2023</copyright-year><license license-type="cc-by" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple"><license-p>
+                  <graphic content-type="online" orientation="portrait" position="float" xlink:href="ccby.gif" xlink:type="simple"/>Published by IOP Publishing Ltd on behalf of Sissa Medialab. Original content from this work may be used under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0" xlink:type="simple">Creative Commons Attribution 4.0 licence</ext-link>. Any further distribution of this work must maintain attribution to the author(s) and the title of the work, journal citation and DOI.</license-p></license></permissions><self-uri content-type="pdf" xlink:href="jcap_2023_05_001.pdf" xlink:type="simple"/><abstract><title>Abstract</title><p>Upcoming large-scale structure surveys can shed new light on the properties of dark
+  energy. In particular, if dark energy is a dynamical component, it must have spatial
+  perturbations. Their behaviour is regulated by the speed of sound parameter, which is currently
+  unconstrained. In this work, we present the numerical methods that will allow to perform
+  cosmological simulations of inhomogeneous dark energy scenarios where the speed of sound is small
+  and non-vanishing. We treat the dark energy component as an effective fluid and build upon
+  established numerical methods for hydrodynamics to construct a numerical solution of the effective
+  continuity and Euler equations. In particular, we develop conservative finite volume schemes that
+  rely on the solution of the Riemann problem, which we provide here in both exact and approximate
+  forms for the case of a dark energy fluid.</p></abstract><kwd-group kwd-group-type="author"><kwd>cosmological simulations</kwd><kwd>dark energy theory</kwd></kwd-group><counts><page-count count="35"/></counts><custom-meta-group><custom-meta xlink:type="simple"><meta-name>arxivppt</meta-name><meta-value>2210.04800</meta-value></custom-meta></custom-meta-group></article-meta></front><back><ref-list content-type="numerical"><title>References</title><ref id="b79a48aa47eb485e75b64d25e2cb1947f"><label>[1]</label><element-citation publication-type="journal" xlink:type="simple"><person-group person-group-type="author">
+                  <collab xlink:type="simple">Planck Collaboration</collab>
+                  <name name-style="western"><surname>Aghanim</surname><given-names>N.</given-names></name>
+                  <etal/>
+               </person-group><article-title>Planck 2018 results. VI. Cosmological parameters</article-title><source>Astron. Astrophys.</source><year>2020</year><volume>641</volume><fpage>A6</fpage><pub-id pub-id-type="doi">10.1051/0004-6361/201833910</pub-id><comment>(arXiv:<ext-link ext-link-type="arxiv" xlink:href="https://arxiv.org/abs/1807.06209" xlink:type="simple">1807.06209</ext-link>)</comment><comment>[Erratum: Astron.Astrophys. 652, C4 (2021)]</comment></element-citation></ref><ref id="bfd889719f9e0b61313150c044aa0f0bf"><label>[2]</label><element-citation publication-type="journal" xlink:type="simple"><person-group person-group-type="author">
+                  <collab xlink:type="simple">BOSS Collaboration</collab>
+                  <name name-style="western"><surname>Alam</surname><given-names>Shadab</given-names></name>
+                  <etal/>
+               </person-group><article-title>The clustering of galaxies in the completed SDSS-III Baryon Oscillation Spectroscopic Survey: cosmological analysis of the DR12 galaxy sample</article-title><source>Mon. Not. Roy. Astron. Soc.</source><year>2017</year><volume>470</volume><fpage>2617</fpage><lpage>2652</lpage><pub-id pub-id-type="doi">10.1093/mnras/stx721</pub-id><comment>(arXiv:<ext-link ext-link-type="arxiv" xlink:href="https://arxiv.org/abs/1607.03155" xlink:type="simple">1607.03155</ext-link>)</comment></element-citation></ref><ref id="b977fc22367ea92a1b683d8ae3daeff7d"><label>[3]</label><element-citation publication-type="journal" xlink:type="simple"><person-group person-group-type="author">
+                  <collab xlink:type="simple">DES Collaboration</collab>
+                  <name name-style="western"><surname>Abbott</surname><given-names>T. M. C.</given-names></name>
+                  <etal/>
+               </person-group><article-title>Dark Energy Survey Year 3 results: Cosmological constraints from galaxy clustering and weak lensing</article-title><source>Phys. Rev. D</source><year>2022</year><volume>105</volume><elocation-id>023520</elocation-id><pub-id pub-id-type="doi">10.1103/PhysRevD.105.023520</pub-id><comment>(arXiv:<ext-link ext-link-type="arxiv" xlink:href="https://arxiv.org/abs/2105.13549" xlink:type="simple">2105.13549</ext-link>)</comment></element-citation></ref><ref id="b0183547ecd5d442b0aaa9a2b108dc0c6"><label>[4]</label><element-citation publication-type="journal" xlink:type="simple"><person-group person-group-type="author">
+                  <name name-style="western"><surname>Hamana</surname><given-names>T.</given-names></name>
+                  <etal/>
+               </person-group><article-title>Cosmological constraints from cosmic shear two-point correlation functions with HSC survey first-year data</article-title><source>Publ. Astron. Soc. Jap.</source><year>2020</year><volume>72</volume><elocation-id>Publications of the Astronomical Society of Japan, Volume 72, Issue 1, February 2020, 16, https://doi.org/10.1093/pasj/psz138</elocation-id><pub-id pub-id-type="doi">10.1093/pasj/psz138</pub-id><comment>(arXiv:<ext-link ext-link-type="arxiv" xlink:href="https://arxiv.org/abs/1906.06041" xlink:type="simple">1906.06041</ext-link>)</comment><comment>[Erratum: Publ.Astron.Soc.Jap. 74, 488-491-491 (2022)]</comment></element-citation></ref><ref id="baf9211259fdc3c85a3196da4ae57187b"><label>[5]</label><element-citation publication-type="journal" xlink:type="simple"><person-group person-group-type="author">
+                  <name name-style="western"><surname>Carroll</surname><given-names>Sean M.</given-names></name>
+               </person-group><article-title>The Cosmological constant</article-title><source>Living Rev. Rel.</source><year>2001</year><volume>4</volume><fpage>1</fpage><pub-id pub-id-type="doi">10.12942/lrr-2001-1</pub-id><comment>(arXiv:<ext-link ext-link-type="arxiv" xlink:href="https://arxiv.org/abs/astro-ph/0004075" xlink:type="simple">astro-ph/0004075</ext-link>)</comment></element-citation></ref><ref id="b8e0cf9f7e0390c15a00c95af5d1a7a2a"><label>[6]</label><element-citation publication-type="journal" xlink:type="simple"><person-group person-group-type="author">
+                  <name name-style="western"><surname>Verde</surname><given-names>L.</given-names></name>
+                  <name name-style="western"><surname>Treu</surname><given-names>T.</given-names></name>
+                  <name name-style="western"><surname>Riess</surname><given-names>A. G.</given-names></name>
+               </person-group><article-title>Tensions between the Early and the Late Universe</article-title><source>Nature Astron.</source><year>2019</year><volume>3</volume><fpage>891</fpage><pub-id pub-id-type="doi">10.1038/s41550-019-0902-0</pub-id><comment>(arXiv:<ext-link ext-link-type="arxiv" xlink:href="https://arxiv.org/abs/1907.10625" xlink:type="simple">1907.10625</ext-link>)</comment></element-citation></ref><ref id="b30483b6946939f0f25185a10c29ae724"><label>[7]</label><element-citation publication-type="journal" xlink:type="simple"><person-group person-group-type="author">
+                  <name name-style="western"><surname>Heymans</surname><given-names>Catherine</given-names></name>
+                  <etal/>
+               </person-group><article-title>KiDS-1000 Cosmology: Multi-probe weak gravitational lensing and spectroscopic galaxy clustering constraints</article-title><source>Astron. Astrophys.</source><year>2021</year><volume>646</volume><fpage>A140</fpage><pub-id pub-id-type="doi">10.1051/0004-6361/202039063</pub-id><comment>(arXiv:<ext-link ext-link-type="arxiv" xlink:href="https://arxiv.org/abs/2007.15632" xlink:type="simple">2007.15632</ext-link>)</comment></element-citation></ref><ref id="b35cf12fc90ce9609f9544e12d4e2d409"><label>[8]</label><element-citation publication-type="other" xlink:type="simple"><comment>
+S. Tsujikawa,
+<italic toggle="yes">Modified gravity models of dark energy</italic>,
+<italic toggle="yes">Lect. Notes Phys.</italic>
+                  <bold>800</bold> (2010) 99
+[<ext-link ext-link-type="arxiv" xlink:href="https://arxiv.org/abs/1101.0191" xlink:type="simple">1101.0191</ext-link>]
+[<ext-link ext-link-type="uri" xlink:href="https://inspirehep.net/literature/literature/852606" xlink:type="simple">inspire</ext-link>].
+
+</comment><pub-id pub-id-type="doi">10.1007/978-3-642-10598-2_3</pub-id></element-citation></ref><ref id="b090ccb4eae1a5ac0870985d541513122"><label>[9]</label><element-citation publication-type="journal" xlink:type="simple"><person-group person-group-type="author">
+                  <name name-style="western"><surname>Clifton</surname><given-names>Timothy</given-names></name>
+                  <name name-style="western"><surname>Ferreira</surname><given-names>Pedro G.</given-names></name>
+                  <name name-style="western"><surname>Padilla</surname><given-names>Antonio</given-names></name>
+                  <name name-style="western"><surname>Skordis</surname><given-names>Constantinos</given-names></name>
+               </person-group><article-title>Modified Gravity and Cosmology</article-title><source>Phys. Rept.</source><year>2012</year><volume>513</volume><fpage>1</fpage><lpage>189</lpage><pub-id pub-id-type="doi">10.1016/j.physrep.2012.01.001</pub-id><comment>(arXiv:<ext-link ext-link-type="arxiv" xlink:href="https://arxiv.org/abs/1106.2476" xlink:type="simple">1106.2476</ext-link>)</comment></element-citation></ref><ref id="bd45e757b39a3eee3c2a2b65b62f5e977"><label>[10]</label><element-citation publication-type="journal" xlink:type="simple"><person-group person-group-type="author">
+                  <name name-style="western"><surname>Copeland</surname><given-names>Edmund J.</given-names></name>
+                  <name name-style="western"><surname>Sami</surname><given-names>M.</given-names></name>
+                  <name name-style="western"><surname>Tsujikawa</surname><given-names>Shinji</given-names></name>
+               </person-group><article-title>Dynamics of dark energy</article-title><source>Int. J. Mod. Phys. D</source><year>2006</year><volume>15</volume><fpage>1753</fpage><lpage>1936</lpage><pub-id pub-id-type="doi">10.1142/S021827180600942X</pub-id><comment>(arXiv:<ext-link ext-link-type="arxiv" xlink:href="https://arxiv.org/abs/hep-th/0603057" xlink:type="simple">hep-th/0603057</ext-link>)</comment></element-citation></ref><ref id="ba3941dcafb96cab992f3ddd7ac9785b2"><label>[11]</label><element-citation publication-type="journal" xlink:type="simple"><person-group person-group-type="author">
+                  <name name-style="western"><surname>Creminelli</surname><given-names>Paolo</given-names></name>
+                  <name name-style="western"><surname>D'Amico</surname><given-names>Guido</given-names></name>
+                  <name name-style="western"><surname>Norena</surname><given-names>Jorge</given-names></name>
+                  <name name-style="western"><surname>Vernizzi</surname><given-names>Filippo</given-names></name>
+               </person-group><article-title>The Effective Theory of Quintessence: the w-1 Side Unveiled</article-title><source>JCAP</source><year>2009</year><volume>02</volume><elocation-id>018</elocation-id><pub-id pub-id-type="doi">10.1088/1475-7516/2009/02/018</pub-id><comment>(arXiv:<ext-link ext-link-type="arxiv" xlink:href="https://arxiv.org/abs/0811.0827" xlink:type="simple">0811.0827</ext-link>)</comment></element-citation></ref><ref id="b4e2919d0a30dd91b946493ff6a77ea60"><label>[12]</label><element-citation publication-type="journal" xlink:type="simple"><person-group person-group-type="author">
+                  <name name-style="western"><surname>Gleyzes</surname><given-names>Jérôme</given-names></name>
+                  <name name-style="western"><surname>Langlois</surname><given-names>David</given-names></name>
+                  <name name-style="western"><surname>Vernizzi</surname><given-names>Filippo</given-names></name>
+               </person-group><article-title>A unifying description of dark energy</article-title><source>Int. J. Mod. Phys. D</source><year>2015</year><volume>23</volume><elocation-id>1443010</elocation-id><pub-id pub-id-type="doi">10.1142/S021827181443010X</pub-id><comment>(arXiv:<ext-link ext-link-type="arxiv" xlink:href="https://arxiv.org/abs/1411.3712" xlink:type="simple">1411.3712</ext-link>)</comment></element-citation></ref><ref id="b349521640b8db7f69613c099c904c745"><label>[13]</label><element-citation publication-type="journal" xlink:type="simple"><person-group person-group-type="author">
+                  <name name-style="western"><surname>Caldwell</surname><given-names>R. R.</given-names></name>
+                  <name name-style="western"><surname>Dave</surname><given-names>Rahul</given-names></name>
+                  <name name-style="western"><surname>Steinhardt</surname><given-names>Paul J.</given-names></name>
+               </person-group><article-title>Cosmological imprint of an energy component with general equation of state</article-title><source>Phys. Rev. Lett.</source><year>1998</year><volume>80</volume><fpage>1582</fpage><lpage>1585</lpage><pub-id pub-id-type="doi">10.1103/PhysRevLett.80.1582</pub-id><comment>(arXiv:<ext-link ext-link-type="arxiv" xlink:href="https://arxiv.org/abs/astro-ph/9708069" xlink:type="simple">astro-ph/9708069</ext-link>)</comment></element-citation></ref><ref id="b2dfe1fe7be446423433026a583621a03"><label>[14]</label><element-citation publication-type="journal" xlink:type="simple"><person-group person-group-type="author">
+                  <name name-style="western"><surname>Armendariz-Picon</surname><given-names>C.</given-names></name>
+                  <name name-style="western"><surname>Mukhanov</surname><given-names>Viatcheslav F.</given-names></name>
+                  <name name-style="western"><surname>Steinhardt</surname><given-names>Paul J.</given-names></name>
+               </person-group><article-title>Essentials of k essence</article-title><source>Phys. Rev. D</source><year>2001</year><volume>63</volume><elocation-id>103510</elocation-id><pub-id pub-id-type="doi">10.1103/PhysRevD.63.103510</pub-id><comment>(arXiv:<ext-link ext-link-type="arxiv" xlink:href="https://arxiv.org/abs/astro-ph/0006373" xlink:type="simple">astro-ph/0006373</ext-link>)</comment></element-citation></ref><ref id="bc4ce9c403ad96cd44e0697576e7813ab"><label>[15]</label><element-citation publication-type="journal" xlink:type="simple"><person-group person-group-type="author">
+                  <name name-style="western"><surname>Bertacca</surname><given-names>Daniele</given-names></name>
+                  <name name-style="western"><surname>Matarrese</surname><given-names>Sabino</given-names></name>
+                  <name name-style="western"><surname>Pietroni</surname><given-names>Massimo</given-names></name>
+               </person-group><article-title>Unified Dark Matter in Scalar Field Cosmologies</article-title><source>Mod. Phys. Lett. A</source><year>2007</year><volume>22</volume><fpage>2893</fpage><lpage>2907</lpage><pub-id pub-id-type="doi">10.1142/S0217732307025893</pub-id><comment>(arXiv:<ext-link ext-link-type="arxiv" xlink:href="https://arxiv.org/abs/astro-ph/0703259" xlink:type="simple">astro-ph/0703259</ext-link>)</comment></element-citation></ref><ref id="b0a799efb2d078205538faf384a590e4d"><label>[16]</label><element-citation publication-type="journal" xlink:type="simple"><person-group person-group-type="author">
+                  <name name-style="western"><surname>Khoury</surname><given-names>Justin</given-names></name>
+               </person-group><article-title>Alternative to particle dark matter</article-title><source>Phys. Rev. D</source><year>2015</year><volume>91</volume><elocation-id>024022</elocation-id><pub-id pub-id-type="doi">10.1103/PhysRevD.91.024022</pub-id><comment>(arXiv:<ext-link ext-link-type="arxiv" xlink:href="https://arxiv.org/abs/1409.0012" xlink:type="simple">1409.0012</ext-link>)</comment></element-citation></ref><ref id="bb89404a3b914fdcfceb22c578e179ec6"><label>[17]</label><element-citation publication-type="journal" xlink:type="simple"><person-group person-group-type="author">
+                  <name name-style="western"><surname>Erickson</surname><given-names>Joel K.</given-names></name>
+                  <name name-style="western"><surname>Caldwell</surname><given-names>R. R.</given-names></name>
+                  <name name-style="western"><surname>Steinhardt</surname><given-names>Paul J.</given-names></name>
+                  <name name-style="western"><surname>Armendariz-Picon</surname><given-names>C.</given-names></name>
+                  <name name-style="western"><surname>Mukhanov</surname><given-names>Viatcheslav F.</given-names></name>
+               </person-group><article-title>Measuring the speed of sound of quintessence</article-title><source>Phys. Rev. Lett.</source><year>2002</year><volume>88</volume><elocation-id>121301</elocation-id><pub-id pub-id-type="doi">10.1103/PhysRevLett.88.121301</pub-id><comment>(arXiv:<ext-link ext-link-type="arxiv" xlink:href="https://arxiv.org/abs/astro-ph/0112438" xlink:type="simple">astro-ph/0112438</ext-link>)</comment></element-citation></ref><ref id="b21cdc1fa964dab75472258ee4fa4c612"><label>[18]</label><element-citation publication-type="journal" xlink:type="simple"><person-group person-group-type="author">
+                  <name name-style="western"><surname>Bean</surname><given-names>Rachel</given-names></name>
+                  <name name-style="western"><surname>Dore</surname><given-names>Olivier</given-names></name>
+               </person-group><article-title>Probing dark energy perturbations: The Dark energy equation of state and speed of sound as measured by WMAP</article-title><source>Phys. Rev. D</source><year>2004</year><volume>69</volume><elocation-id>083503</elocation-id><pub-id pub-id-type="doi">10.1103/PhysRevD.69.083503</pub-id><comment>(arXiv:<ext-link ext-link-type="arxiv" xlink:href="https://arxiv.org/abs/astro-ph/0307100" xlink:type="simple">astro-ph/0307100</ext-link>)</comment></element-citation></ref><ref id="bf30e524ea37ecf1526b91a45eccad997"><label>[19]</label><element-citation publication-type="journal" xlink:type="simple"><person-group person-group-type="author">
+                  <name name-style="western"><surname>Corasaniti</surname><given-names>Pier-Stefano</given-names></name>
+                  <name name-style="western"><surname>Giannantonio</surname><given-names>Tommaso</given-names></name>
+                  <name name-style="western"><surname>Melchiorri</surname><given-names>Alessandro</given-names></name>
+               </person-group><article-title>Constraining dark energy with cross-correlated CMB and large scale structure data</article-title><source>Phys. Rev. D</source><year>2005</year><volume>71</volume><elocation-id>123521</elocation-id><pub-id pub-id-type="doi">10.1103/PhysRevD.71.123521</pub-id><comment>(arXiv:<ext-link ext-link-type="arxiv" xlink:href="https://arxiv.org/abs/astro-ph/0504115" xlink:type="simple">astro-ph/0504115</ext-link>)</comment></element-citation></ref><ref id="bb769aa87dde754769a5c0706de4e4515"><label>[20]</label><element-citation publication-type="journal" xlink:type="simple"><person-group person-group-type="author">
+                  <name name-style="western"><surname>de Putter</surname><given-names>Roland</given-names></name>
+                  <name name-style="western"><surname>Huterer</surname><given-names>Dragan</given-names></name>
+                  <name name-style="western"><surname>Linder</surname><given-names>Eric V.</given-names></name>
+               </person-group><article-title>Measuring the Speed of Dark: Detecting Dark Energy Perturbations</article-title><source>Phys. Rev. D</source><year>2010</year><volume>81</volume><elocation-id>103513</elocation-id><pub-id pub-id-type="doi">10.1103/PhysRevD.81.103513</pub-id><comment>(arXiv:<ext-link ext-link-type="arxiv" xlink:href="https://arxiv.org/abs/1002.1311" xlink:type="simple">1002.1311</ext-link>)</comment></element-citation></ref><ref id="be5e9bf80895bdcea7dc7fcbdc248fb05"><label>[21]</label><element-citation publication-type="journal" xlink:type="simple"><person-group person-group-type="author">
+                  <name name-style="western"><surname>Alimi</surname><given-names>J. -M.</given-names></name>
+                  <name name-style="western"><surname>Fuzfa</surname><given-names>A.</given-names></name>
+                  <name name-style="western"><surname>Boucher</surname><given-names>V.</given-names></name>
+                  <name name-style="western"><surname>Rasera</surname><given-names>Y.</given-names></name>
+                  <name name-style="western"><surname>Courtin</surname><given-names>J.</given-names></name>
+                  <name name-style="western"><surname>Corasaniti</surname><given-names>P. -S.</given-names></name>
+               </person-group><article-title>Imprints of dark energy on cosmic structure formation - I. Realistic quintessence models and the non-linear matter power spectrum</article-title><source>Mon. Not. Roy. Astron. Soc.</source><year>2010</year><volume>401</volume><fpage>775</fpage><pub-id pub-id-type="doi">10.1111/j.1365-2966.2009.15712.x</pub-id><comment>(arXiv:<ext-link ext-link-type="arxiv" xlink:href="https://arxiv.org/abs/0903.5490" xlink:type="simple">0903.5490</ext-link>)</comment></element-citation></ref><ref id="b22a9f1f9095532accb96f56d1e919aa0"><label>[22]</label><element-citation publication-type="journal" xlink:type="simple"><person-group person-group-type="author">
+                  <name name-style="western"><surname>Jennings</surname><given-names>Elise</given-names></name>
+                  <name name-style="western"><surname>Baugh</surname><given-names>Carlton M.</given-names></name>
+                  <name name-style="western"><surname>Angulo</surname><given-names>Raul E.</given-names></name>
+                  <name name-style="western"><surname>Pascoli</surname><given-names>Silvia</given-names></name>
+               </person-group><article-title>Simulations of Quintessential Cold Dark Matter: beyond the cosmological constant</article-title><source>Mon. Not. Roy. Astron. Soc.</source><year>2010</year><volume>401</volume><fpage>2181</fpage><pub-id pub-id-type="doi">10.1111/j.1365-2966.2009.15819.x</pub-id><comment>(arXiv:<ext-link ext-link-type="arxiv" xlink:href="https://arxiv.org/abs/0908.1394" xlink:type="simple">0908.1394</ext-link>)</comment></element-citation></ref><ref id="bfd34009ae110e67a1d3ac874927a00c4"><label>[23]</label><element-citation publication-type="journal" xlink:type="simple"><person-group person-group-type="author">
+                  <name name-style="western"><surname>Courtin</surname><given-names>J.</given-names></name>
+                  <name name-style="western"><surname>Rasera</surname><given-names>Y.</given-names></name>
+                  <name name-style="western"><surname>Alimi</surname><given-names>J. -M.</given-names></name>
+                  <name name-style="western"><surname>Corasaniti</surname><given-names>P. -S.</given-names></name>
+                  <name name-style="western"><surname>Boucher</surname><given-names>V.</given-names></name>
+                  <name name-style="western"><surname>Fuzfa</surname><given-names>A.</given-names></name>
+               </person-group><article-title>Imprints of dark energy on cosmic structure formation: II) Non-Universality of the halo mass function</article-title><source>Mon. Not. Roy. Astron. Soc.</source><year>2011</year><volume>410</volume><fpage>1911</fpage><lpage>1931</lpage><pub-id pub-id-type="doi">10.1111/j.1365-2966.2010.17573.x</pub-id><comment>(arXiv:<ext-link ext-link-type="arxiv" xlink:href="https://arxiv.org/abs/1001.3425" xlink:type="simple">1001.3425</ext-link>)</comment></element-citation></ref><ref id="be391620d640f8b9304872b85825eaf3a"><label>[24]</label><element-citation publication-type="journal" xlink:type="simple"><person-group person-group-type="author">
+                  <name name-style="western"><surname>Mota</surname><given-names>D. F.</given-names></name>
+                  <name name-style="western"><surname>van de Bruck</surname><given-names>C.</given-names></name>
+               </person-group><article-title>On the Spherical collapse model in dark energy cosmologies</article-title><source>Astron. Astrophys.</source><year>2004</year><volume>421</volume><fpage>71</fpage><lpage>81</lpage><pub-id pub-id-type="doi">10.1051/0004-6361:20041090</pub-id><comment>(arXiv:<ext-link ext-link-type="arxiv" xlink:href="https://arxiv.org/abs/astro-ph/0401504" xlink:type="simple">astro-ph/0401504</ext-link>)</comment></element-citation></ref><ref id="b1eab6aa6d523ef7e047462536748af8f"><label>[25]</label><element-citation publication-type="journal" xlink:type="simple"><person-group person-group-type="author">
+                  <name name-style="western"><surname>Creminelli</surname><given-names>Paolo</given-names></name>
+                  <name name-style="western"><surname>D'Amico</surname><given-names>Guido</given-names></name>
+                  <name name-style="western"><surname>Norena</surname><given-names>Jorge</given-names></name>
+                  <name name-style="western"><surname>Senatore</surname><given-names>Leonardo</given-names></name>
+                  <name name-style="western"><surname>Vernizzi</surname><given-names>Filippo</given-names></name>
+               </person-group><article-title>Spherical collapse in quintessence models with zero speed of sound</article-title><source>JCAP</source><year>2010</year><volume>03</volume><elocation-id>027</elocation-id><pub-id pub-id-type="doi">10.1088/1475-7516/2010/03/027</pub-id><comment>(arXiv:<ext-link ext-link-type="arxiv" xlink:href="https://arxiv.org/abs/0911.2701" xlink:type="simple">0911.2701</ext-link>)</comment></element-citation></ref><ref id="bb3893976670e5f0eb8a2d777e49c594e"><label>[26]</label><element-citation publication-type="journal" xlink:type="simple"><person-group person-group-type="author">
+                  <name name-style="western"><surname>Basse</surname><given-names>Tobias</given-names></name>
+                  <name name-style="western"><surname>Bjaelde</surname><given-names>Ole Eggers</given-names></name>
+                  <name name-style="western"><surname>Wong</surname><given-names>Yvonne Y. Y.</given-names></name>
+               </person-group><article-title>Spherical collapse of dark energy with an arbitrary sound speed</article-title><source>JCAP</source><year>2011</year><volume>10</volume><elocation-id>038</elocation-id><pub-id pub-id-type="doi">10.1088/1475-7516/2011/10/038</pub-id><comment>(arXiv:<ext-link ext-link-type="arxiv" xlink:href="https://arxiv.org/abs/1009.0010" xlink:type="simple">1009.0010</ext-link>)</comment></element-citation></ref><ref id="b7118c38e81c9004edb489f960ae6922e"><label>[27]</label><element-citation publication-type="journal" xlink:type="simple"><person-group person-group-type="author">
+                  <name name-style="western"><surname>Sefusatti</surname><given-names>Emiliano</given-names></name>
+                  <name name-style="western"><surname>Vernizzi</surname><given-names>Filippo</given-names></name>
+               </person-group><article-title>Cosmological structure formation with clustering quintessence</article-title><source>JCAP</source><year>2011</year><volume>03</volume><elocation-id>047</elocation-id><pub-id pub-id-type="doi">10.1088/1475-7516/2011/03/047</pub-id><comment>(arXiv:<ext-link ext-link-type="arxiv" xlink:href="https://arxiv.org/abs/1101.1026" xlink:type="simple">1101.1026</ext-link>)</comment></element-citation></ref><ref id="b84acbadd10b9d6e7a3a545e3c3fa6e8b"><label>[28]</label><element-citation publication-type="journal" xlink:type="simple"><person-group person-group-type="author">
+                  <name name-style="western"><surname>Anselmi</surname><given-names>Stefano</given-names></name>
+                  <name name-style="western"><surname>Ballesteros</surname><given-names>Guillermo</given-names></name>
+                  <name name-style="western"><surname>Pietroni</surname><given-names>Massimo</given-names></name>
+               </person-group><article-title>Non-linear dark energy clustering</article-title><source>JCAP</source><year>2011</year><volume>11</volume><elocation-id>014</elocation-id><pub-id pub-id-type="doi">10.1088/1475-7516/2011/11/014</pub-id><comment>(arXiv:<ext-link ext-link-type="arxiv" xlink:href="https://arxiv.org/abs/1106.0834" xlink:type="simple">1106.0834</ext-link>)</comment></element-citation></ref><ref id="baa4e0f3c47b80df9109f539fc0b4d681"><label>[29]</label><element-citation publication-type="journal" xlink:type="simple"><person-group person-group-type="author">
+                  <name name-style="western"><surname>Anselmi</surname><given-names>Stefano</given-names></name>
+                  <name name-style="western"><surname>López Nacir</surname><given-names>Diana</given-names></name>
+                  <name name-style="western"><surname>Sefusatti</surname><given-names>Emiliano</given-names></name>
+               </person-group><article-title>Nonlinear effects of dark energy clustering beyond the acoustic scales</article-title><source>JCAP</source><year>2014</year><volume>07</volume><elocation-id>013</elocation-id><pub-id pub-id-type="doi">10.1088/1475-7516/2014/07/013</pub-id><comment>(arXiv:<ext-link ext-link-type="arxiv" xlink:href="https://arxiv.org/abs/1402.4269" xlink:type="simple">1402.4269</ext-link>)</comment></element-citation></ref><ref id="b5009c424c5cc0f56c260b215b77fb44f"><label>[30]</label><element-citation publication-type="journal" xlink:type="simple"><person-group person-group-type="author">
+                  <name name-style="western"><surname>Hassani</surname><given-names>Farbod</given-names></name>
+                  <name name-style="western"><surname>Adamek</surname><given-names>Julian</given-names></name>
+                  <name name-style="western"><surname>Kunz</surname><given-names>Martin</given-names></name>
+                  <name name-style="western"><surname>Vernizzi</surname><given-names>Filippo</given-names></name>
+               </person-group><article-title>k-evolution: a relativistic N-body code for clustering dark energy</article-title><source>JCAP</source><year>2019</year><volume>12</volume><elocation-id>011</elocation-id><pub-id pub-id-type="doi">10.1088/1475-7516/2019/12/011</pub-id><comment>(arXiv:<ext-link ext-link-type="arxiv" xlink:href="https://arxiv.org/abs/1910.01104" xlink:type="simple">1910.01104</ext-link>)</comment></element-citation></ref><ref id="b5ae5374f0a29ae3e7d231f9dd9e3ea9a"><label>[31]</label><element-citation publication-type="journal" xlink:type="simple"><person-group person-group-type="author">
+                  <name name-style="western"><surname>Hassani</surname><given-names>Farbod</given-names></name>
+                  <name name-style="western"><surname>Adamek</surname><given-names>Julian</given-names></name>
+                  <name name-style="western"><surname>Kunz</surname><given-names>Martin</given-names></name>
+               </person-group><article-title>Clustering dark energy imprints on cosmological observables of the gravitational field</article-title><source>Mon. Not. Roy. Astron. Soc.</source><year>2020</year><volume>500</volume><fpage>4514</fpage><lpage>4529</lpage><pub-id pub-id-type="doi">10.1093/mnras/staa3589</pub-id><comment>(arXiv:<ext-link ext-link-type="arxiv" xlink:href="https://arxiv.org/abs/2007.04968" xlink:type="simple">2007.04968</ext-link>)</comment></element-citation></ref><ref id="b31cf65b25cdeef32ec3be9169cfd2a57"><label>[32]</label><element-citation publication-type="journal" xlink:type="simple"><person-group person-group-type="author">
+                  <name name-style="western"><surname>Hassani</surname><given-names>Farbod</given-names></name>
+                  <name name-style="western"><surname>Shi</surname><given-names>Pan</given-names></name>
+                  <name name-style="western"><surname>Adamek</surname><given-names>Julian</given-names></name>
+                  <name name-style="western"><surname>Kunz</surname><given-names>Martin</given-names></name>
+                  <name name-style="western"><surname>Wittwer</surname><given-names>Peter</given-names></name>
+               </person-group><article-title>New nonlinear instability for scalar fields</article-title><source>Phys. Rev. D</source><year>2022</year><volume>105</volume><elocation-id>L021304</elocation-id><pub-id pub-id-type="doi">10.1103/PhysRevD.105.L021304</pub-id><comment>(arXiv:<ext-link ext-link-type="arxiv" xlink:href="https://arxiv.org/abs/2107.14215" xlink:type="simple">2107.14215</ext-link>)</comment></element-citation></ref><ref id="b796531f157518ad77b9403d13eea98ce"><label>[33]</label><element-citation publication-type="preprint" xlink:type="simple"><person-group person-group-type="author">
+                  <name name-style="western"><surname>Hassani</surname><given-names>Farbod</given-names></name>
+                  <name name-style="western"><surname>Adamek</surname><given-names>Julian</given-names></name>
+                  <name name-style="western"><surname>Kunz</surname><given-names>Martin</given-names></name>
+                  <name name-style="western"><surname>Shi</surname><given-names>Pan</given-names></name>
+                  <name name-style="western"><surname>Wittwer</surname><given-names>Peter</given-names></name>
+               </person-group><article-title>A new instability in clustering dark energy?</article-title><year>2022</year><comment>(arXiv:<ext-link ext-link-type="arxiv" xlink:href="https://arxiv.org/abs/2204.13098" xlink:type="simple">2204.13098</ext-link>)</comment></element-citation></ref><ref id="b0c3fec4a242de4abb35ada8e966e4804"><label>[34]</label><element-citation publication-type="journal" xlink:type="simple"><person-group person-group-type="author">
+                  <name name-style="western"><surname>Bryan</surname><given-names>G. L.</given-names></name>
+                  <name name-style="western"><surname>Norman</surname><given-names>M. L.</given-names></name>
+               </person-group><article-title>Simulating x-ray clusters with adaptive mesh refinement</article-title><source>ASP Conf. Ser.</source><year>1997</year><volume>123</volume><fpage>363</fpage><comment>(arXiv:<ext-link ext-link-type="arxiv" xlink:href="https://arxiv.org/abs/astro-ph/9710186" xlink:type="simple">astro-ph/9710186</ext-link>)</comment></element-citation></ref><ref id="b8be5810f654df30056d893273b027872"><label>[35]</label><element-citation publication-type="journal" xlink:type="simple"><person-group person-group-type="author">
+                  <name name-style="western"><surname>Fryxell</surname><given-names>B.</given-names></name>
+                  <name name-style="western"><surname>Olson</surname><given-names>K.</given-names></name>
+                  <name name-style="western"><surname>Ricker</surname><given-names>P.</given-names></name>
+                  <name name-style="western"><surname>Timmes</surname><given-names>F. X.</given-names></name>
+                  <name name-style="western"><surname>Zingale</surname><given-names>M.</given-names></name>
+                  <name name-style="western"><surname>Lamb</surname><given-names>D. Q.</given-names></name>
+                  <name name-style="western"><surname>MacNeice</surname><given-names>P.</given-names></name>
+                  <name name-style="western"><surname>Rosner</surname><given-names>R.</given-names></name>
+                  <name name-style="western"><surname>Truran</surname><given-names>J. W.</given-names></name>
+                  <name name-style="western"><surname>Tufo</surname><given-names>H.</given-names></name>
+               </person-group><article-title>FLASH: An Adaptive Mesh Hydrodynamics Code for Modeling Astrophysical Thermonuclear Flashes</article-title><source>Astrophys. J. Suppl.</source><year>2000</year><volume>131</volume><fpage>273</fpage><lpage>334</lpage><pub-id pub-id-type="doi">10.1086/317361</pub-id></element-citation></ref><ref id="b9bd1db6d9415c1be4b82ce37a35bfd0e"><label>[36]</label><element-citation publication-type="journal" xlink:type="simple"><person-group person-group-type="author">
+                  <name name-style="western"><surname>Teyssier</surname><given-names>Romain</given-names></name>
+               </person-group><article-title>Cosmological hydrodynamics with adaptive mesh refinement: a new high resolution code called ramses</article-title><source>Astron. Astrophys.</source><year>2002</year><volume>385</volume><fpage>337</fpage><lpage>364</lpage><pub-id pub-id-type="doi">10.1051/0004-6361:20011817</pub-id><comment>(arXiv:<ext-link ext-link-type="arxiv" xlink:href="https://arxiv.org/abs/astro-ph/0111367" xlink:type="simple">astro-ph/0111367</ext-link>)</comment></element-citation></ref><ref id="b75caf56c5f4ff27b66e8c313d3934c90"><label>[37]</label><element-citation publication-type="other" xlink:type="simple"><comment>
+S. Godunov,
+<italic toggle="yes">A finite difference method for the computation of discontinuous solutions of the equations of fluid dynamics</italic>,
+<italic toggle="yes">Sbornik Math.</italic>
+                  <bold>47</bold> (1959) 357.
+
+
+</comment></element-citation></ref><ref id="bd2903860a0c811c1895855903ec7e65f"><label>[38]</label><element-citation publication-type="other" xlink:type="simple"><comment>
+P. Colella and H.M. Glaz,
+<italic toggle="yes">Efficient solution algorithms for the Riemann problem for real gases</italic>,
+<italic toggle="yes">J. Comput. Phys.</italic>
+                  <bold>59</bold> (1985) 264.
+
+
+</comment><pub-id pub-id-type="doi">10.1016/0021-9991(85)90146-9</pub-id></element-citation></ref><ref id="b9ebf4f9963d3ba2144a30a513ba3a15a"><label>[39]</label><element-citation publication-type="other" xlink:type="simple"><comment>
+J.J. Gottlieb and C.P.T. Groth,
+<italic toggle="yes">Assessment of Riemann solvers for unsteady one-dimensional inviscid flows of perfect gases</italic>,
+<italic toggle="yes">J. Comput. Phys.</italic>
+                  <bold>78</bold> (1988) 437.
+
+
+</comment><pub-id pub-id-type="doi">10.1016/0021-9991(88)90059-9</pub-id></element-citation></ref><ref id="b8efd91aa32bfdd31cdea0918b44b551c"><label>[40]</label><element-citation publication-type="journal" xlink:type="simple"><person-group person-group-type="author">
+                  <name name-style="western"><surname>Menikoff</surname><given-names>Ralph</given-names></name>
+                  <name name-style="western"><surname>Plohr</surname><given-names>Bradley J.</given-names></name>
+               </person-group><article-title>The Riemann problem for fluid flow of real materials</article-title><source>Rev. Mod. Phys.</source><year>1989</year><volume>61</volume><fpage>75</fpage><lpage>130</lpage><pub-id pub-id-type="doi">10.1103/RevModPhys.61.75</pub-id></element-citation></ref><ref id="ba1b1b910ed7564b6baacb3a591ccb524"><label>[41]</label><element-citation publication-type="other" xlink:type="simple"><comment>
+M.J. Ivings, D.M. Causon and E.F. Toro,
+<italic toggle="yes">On Riemann solvers for compressible liquids</italic>,
+<italic toggle="yes">Int. J. Numer. Meth. Fluids</italic>
+                  <bold>28</bold> (1998) 395.
+
+
+</comment><pub-id pub-id-type="doi">10.1002/(SICI)1097-0363(19980915)28:3&lt;395::AID-FLD718&gt;3.0.CO;2-S</pub-id></element-citation></ref><ref id="b2f61c7568e33ec5f2b50208c8f567ff5"><label>[42]</label><element-citation publication-type="other" xlink:type="simple"><comment>
+R.J. LeVeque,
+<italic toggle="yes">Finite volume methods for hyperbolic problems</italic>,
+Cambridge University Press (2004)
+[].
+
+
+</comment><pub-id pub-id-type="doi">10.1017/CBO9780511791253</pub-id></element-citation></ref><ref id="b552b7057d40b92afe5ea2b7560adde2e"><label>[43]</label><element-citation publication-type="other" xlink:type="simple"><comment>
+E.F. Toro,
+<italic toggle="yes">Riemann solvers and numerical methods for fluid dynamics: a practical introduction</italic>,
+Springer-Verlag (2009)
+[].
+
+
+</comment><pub-id pub-id-type="doi">10.1007/b79761</pub-id></element-citation></ref><ref id="b74b65f8deedcd82b680361a114f1b319"><label>[44]</label><element-citation publication-type="other" xlink:type="simple"><comment>
+A. Jeffrey,
+<italic toggle="yes">Quasilinear hyperbolic systems and waves</italic>,
+Pitman Publishing (1976).
+
+
+</comment></element-citation></ref><ref id="b5c408c8bbbb7272da2efb2a92315726f"><label>[45]</label><element-citation publication-type="other" xlink:type="simple"><comment>
+G.A. Sod,
+<italic toggle="yes">A survey of several finite difference methods for systems of nonlinear hyperbolic conservation laws</italic>,
+<italic toggle="yes">J. Comput. Phys.</italic>
+                  <bold>27</bold> (1978) 1.
+
+
+</comment><pub-id pub-id-type="doi">10.1016/0021-9991(78)90023-2</pub-id></element-citation></ref><ref id="b7d102831559294eb2d058e6cdd723bf2"><label>[46]</label><element-citation publication-type="other" xlink:type="simple"><comment>
+B. van Leer,
+<italic toggle="yes">Towards the ultimate conservative difference scheme I. The quest of monotonicity</italic>,
+in
+<italic toggle="yes">Proceedings of the Third International Conference on Numerical Methods in Fluid Mechanics</italic>,
+H. Cabannes and R. Temam eds.,
+<italic toggle="yes">Lect. Notes Phys.</italic>
+                  <bold>18</bold> (1973) 163.
+
+
+
+</comment><pub-id pub-id-type="doi">10.1007/BFb0118673</pub-id></element-citation></ref><ref id="bd752b64b9f75be49c9424b0dedc03de9"><label>[47]</label><element-citation publication-type="other" xlink:type="simple"><comment>
+B. van Leer,
+<italic toggle="yes">Towards the ultimate conservative difference scheme. II. Monotonicity and conservation combined in a second-order scheme</italic>,
+<italic toggle="yes">J. Comput. Phys.</italic>
+                  <bold>14</bold> (1974) 361.
+
+
+</comment><pub-id pub-id-type="doi">10.1016/0021-9991(74)90019-9</pub-id></element-citation></ref><ref id="bbccdb752a78f658fc23fde14a0612f5d"><label>[48]</label><element-citation publication-type="other" xlink:type="simple"><comment>
+B.V. Leer,
+<italic toggle="yes">Towards the ultimate conservative difference scheme III. Upstream-centered finite-difference schemes for ideal compressible flow</italic>,
+<italic toggle="yes">J. Comput. Phys.</italic>
+                  <bold>23</bold> (1977) 263.
+
+
+</comment><pub-id pub-id-type="doi">10.1016/0021-9991(77)90094-8</pub-id></element-citation></ref><ref id="ba3b2428f4486848f5ccbb1a49856329a"><label>[49]</label><element-citation publication-type="other" xlink:type="simple"><comment>
+B.V. Leer,
+<italic toggle="yes">Towards the ultimate conservative difference scheme. IV. A new approach to numerical convection</italic>,
+<italic toggle="yes">J. Comput. Phys.</italic>
+                  <bold>23</bold> (1977) 276.
+
+
+</comment><pub-id pub-id-type="doi">10.1016/0021-9991(77)90095-x</pub-id></element-citation></ref><ref id="b0670fc5e677cbe45cea3059f06700c3b"><label>[50]</label><element-citation publication-type="other" xlink:type="simple"><comment>
+B. van Leer,
+<italic toggle="yes">Towards the ultimate conservative difference scheme. V. A second-order sequel to Godunov's method</italic>,
+<italic toggle="yes">J. Comput. Phys.</italic>
+                  <bold>32</bold> (1979) 101.
+
+
+</comment><pub-id pub-id-type="doi">10.1016/0021-9991(79)90145-1</pub-id></element-citation></ref><ref id="bc8175981b81caf3740592e93e90df041"><label>[51]</label><element-citation publication-type="other" xlink:type="simple"><comment>
+B. Van Leer,
+<italic toggle="yes">On the relation between the upwind-differencing schemes of Godunov, Engquist-Osher and Roe</italic>,
+<italic toggle="yes">SIAM J. Sci. Stat. Comput.</italic>
+                  <bold>5</bold> (1984) 1.
+
+
+</comment></element-citation></ref><ref id="bb4f80149c1e7259bc5435f53bb13b21e"><label>[52]</label><element-citation publication-type="other" xlink:type="simple"><comment>
+B. Van Leer,
+<italic toggle="yes">Upwind and high-resolution methods for compressible flow: From donor cell to residual-distribution schemes</italic>,
+in the proceedings of the
+<italic toggle="yes">16th AIAA Computational Fluid Dynamics Conference</italic>,
+(2006), p. 3559
+[].
+
+
+</comment><pub-id pub-id-type="doi">10.2514/6.2003-3559</pub-id></element-citation></ref><ref id="baf603729b179d3573217c576fed628ab"><label>[53]</label><element-citation publication-type="other" xlink:type="simple"><comment>
+P. Colella,
+<italic toggle="yes">A direct Eulerian MUSCL scheme for gas dynamics</italic>,
+<italic toggle="yes">SIAM J. Sci. Stat. Comput.</italic>
+                  <bold>6</bold> (1985) 104.
+
+
+</comment><pub-id pub-id-type="doi">10.1137/0906009</pub-id></element-citation></ref><ref id="b799cc3bd37e47b9d18b3654c86456197"><label>[54]</label><element-citation publication-type="other" xlink:type="simple"><comment>
+M. Zingale,
+<italic toggle="yes">Introduction to Computational Astrophysical Hydrodynamics</italic>,
+<ext-link ext-link-type="uri" xlink:href="http://bender.astro.sunysb.edu/hydro_by_example/CompHydroTutorial.pdf" xlink:type="simple">http://bender.astro.sunysb.edu/hydro_by_example/CompHydroTutorial.pdf</ext-link>.
+
+
+</comment></element-citation></ref><ref id="b869deae2f493f21948d6030dfaad7ec0"><label>[55]</label><element-citation publication-type="journal" xlink:type="simple"><person-group person-group-type="author">
+                  <name name-style="western"><surname>Colella</surname><given-names>Phillip</given-names></name>
+                  <name name-style="western"><surname>Woodward</surname><given-names>Paul R.</given-names></name>
+               </person-group><article-title>The Piecewise Parabolic Method (PPM) for Gas Dynamical Simulations</article-title><source>J. Comput. Phys.</source><year>1984</year><volume>54</volume><fpage>174</fpage><lpage>201</lpage><pub-id pub-id-type="doi">10.1016/0021-9991(84)90143-8</pub-id></element-citation></ref></ref-list></back></article>

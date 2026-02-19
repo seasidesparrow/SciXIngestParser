@@ -1,0 +1,2103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" article-type="article" dtd-version="1.0" specific-use="syndication"><front>
+<journal-meta>
+<journal-id journal-id-type="coden">AJPIAS</journal-id>
+<journal-title-group>
+<journal-title>American Journal of Physics</journal-title>
+<abbrev-journal-title>Am. J. Phys.</abbrev-journal-title></journal-title-group>
+<issn pub-type="ppub">0002-9505</issn>
+<issn pub-type="epub">1943-2909</issn>
+<publisher>
+<publisher-name>American Association of Physics Teachers</publisher-name>
+<publisher-name specific-use="short-name">AAPT</publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="doi">10.1119/10.0009409</article-id>
+<article-id pub-id-type="publisher-id:aipkey">10.0009409</article-id>
+<article-id pub-id-type="manuscript">AJP22-AR-00002</article-id>
+<article-categories><subj-group subj-group-type="toc-heading"><subject>PAPERS</subject></subj-group></article-categories>
+<title-group>
+<article-title>Continuous gravitational waves in the lab: Recovering audio signals with a table-top optical microphone</article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author"><name><surname>Gardner</surname>
+<given-names>James W.</given-names></name><xref ref-type="author-note" rid="n1">a)</xref>
+<email specific-use="metadata" xlink:href="mailto:james.gardner@anu.edu.au"/></contrib>
+<aff><institution>Centre for Gravitational Astrophysics, The Australian National University</institution>, Acton, ACT 2601, <country>Australia</country>;</aff>
+<aff><institution>OzGrav-ANU, Australian Research Council Centre of Excellence for Gravitational Wave Discovery, The Australian National University</institution>, Acton, ACT 2601, <country>Australia</country>; and <institution>School of Physics, University of Melbourne</institution>, Parkville, Victoria 3010, <country>Australia</country></aff></contrib-group>
+<contrib-group>
+<contrib contrib-type="author" corresp="yes"><name><surname>Middleton</surname>
+<given-names>Hannah</given-names></name><xref ref-type="author-note" rid="n2">b)</xref>
+<email specific-use="metadata" xlink:href="mailto:hannahm@star.sr.bham.ac.uk"/>
+</contrib>
+<aff>School of Physics, University of Melbourne, Parkville, Victoria 3010, Australia; <institution>Centre for Astrophysics and Supercomputing, Swinburne University of Technology</institution>, Hawthorn, Victoria 3122, <country>Australia</country>; <institution>OzGrav-Melbourne, Australian Research Council Centre of Excellence for Gravitational Wave Discovery</institution>, Parkville, Victoria 3010, <country>Australia</country>; and School of Physics and Astronomy and Institute for Gravitational Wave Astronomy, University of Birmingham, Edgbaston, Birmingham, B15 9TT, United Kingdom</aff></contrib-group>
+<contrib-group>
+<contrib contrib-type="author"><name><surname>Liu</surname>
+<given-names>Changrong</given-names></name><xref ref-type="author-note" rid="n3">c)</xref>
+<email specific-use="metadata" xlink:href="mailto:changrongl1@student.unimelb.edu.au"/></contrib>
+<aff>Department of Electrical and Electronic Engineering, University of Melbourne, Parkville, Victoria 3010, Australia and <institution>OzGrav-Melbourne, Australian Research Council Centre of Excellence for Gravitational Wave Discovery</institution>, Parkville, Victoria 3010, <country>Australia</country></aff></contrib-group>
+<contrib-group>
+<contrib contrib-type="author"><name><surname>Melatos</surname>
+<given-names>Andrew</given-names></name><xref ref-type="author-note" rid="n4">d)</xref>
+<email specific-use="metadata" xlink:href="mailto:amelatos@unimelb.edu.au"/></contrib>
+<aff><institution>School of Physics, University of Melbourne</institution>, Parkville, Victoria 3010, <country>Australia</country> and <institution>OzGrav-Melbourne, Australian Research Council Centre of Excellence for Gravitational Wave Discovery</institution>, Parkville, Victoria 3010, <country>Australia</country></aff></contrib-group>
+<contrib-group>
+<contrib contrib-type="author"><name><surname>Evans</surname>
+<given-names>Robin</given-names></name></contrib>
+<aff>Department of Electrical and Electronic Engineering, University of Melbourne, Parkville, Victoria 3010, Australia and <institution>OzGrav-Melbourne, Australian Research Council Centre of Excellence for Gravitational Wave Discovery</institution>, Parkville, Victoria 3010, <country>Australia</country></aff></contrib-group>
+<contrib-group>
+<contrib contrib-type="author"><name><surname>Moran</surname>
+<given-names>William</given-names></name></contrib>
+<aff><institution>Department of Electrical and Electronic Engineering, University of Melbourne</institution>, Parkville, Victoria 3010, <country>Australia</country></aff></contrib-group>
+<contrib-group>
+<contrib contrib-type="author"><name><surname>Beniwal</surname>
+<given-names>Deeksha</given-names></name></contrib>
+<aff><institution>Department of Physics, The University of Adelaide</institution>, Adelaide, South Australia 5005, <country>Australia</country>; <institution>The Institute of Photonics and Advanced Sensing (IPAS), The University of Adelaide</institution>, Adelaide, South Australia 5005, <country>Australia</country>; and <institution>OzGrav-Adelaide, Australian Research Council Centre of Excellence for Gravitational Wave Discovery</institution>, Adelaide, South Australia 5005, <country>Australia</country></aff></contrib-group>
+<contrib-group>
+<contrib contrib-type="author"><name><surname>Cao</surname>
+<given-names>Huy Tuong</given-names></name></contrib>
+<aff><institution>Department of Physics, The University of Adelaide</institution>, Adelaide, South Australia 5005, <country>Australia</country>;</aff>
+<aff><institution>The Institute of Photonics and Advanced Sensing (IPAS), The University of Adelaide</institution>, Adelaide, South Australia 5005, <country>Australia</country>; and <institution>OzGrav-Adelaide, Australian Research Council Centre of Excellence for Gravitational Wave Discovery</institution>, Adelaide, South Australia 5005, <country>Australia</country></aff></contrib-group>
+<contrib-group>
+<contrib contrib-type="author"><name><surname>Ingram</surname>
+<given-names>Craig</given-names></name></contrib>
+<aff><institution>Department of Physics, The University of Adelaide</institution>, Adelaide, South Australia 5005, <country>Australia</country>; <institution>The Institute of Photonics and Advanced Sensing (IPAS), The University of Adelaide</institution>, Adelaide, South Australia 5005, <country>Australia</country>; and <institution>OzGrav-Adelaide, Australian Research Council Centre of Excellence for Gravitational Wave Discovery</institution>, Adelaide, South Australia 5005, <country>Australia</country></aff></contrib-group>
+<contrib-group>
+<contrib contrib-type="author"><name><surname>Brown</surname>
+<given-names>Daniel</given-names></name></contrib>
+<aff><institution>Department of Physics, The University of Adelaide</institution>, Adelaide, South Australia 5005, <country>Australia</country>; <institution>The Institute of Photonics and Advanced Sensing (IPAS), The University of Adelaide</institution>, Adelaide, South Australia 5005, <country>Australia</country>; and <institution>OzGrav-Adelaide, Australian Research Council Centre of Excellence for Gravitational Wave Discovery</institution>, Adelaide, South Australia 5005, <country>Australia</country></aff></contrib-group>
+<contrib-group>
+<contrib contrib-type="author"><name><surname>Ng</surname>
+<given-names>Sebastian</given-names></name></contrib>
+<aff><institution>Department of Physics, The University of Adelaide</institution>, Adelaide, South Australia 5005, <country>Australia</country>; <institution>The Institute of Photonics and Advanced Sensing (IPAS), The University of Adelaide</institution>, Adelaide, South Australia 5005, <country>Australia</country>; and <institution>OzGrav-Adelaide, Australian Research Council Centre of Excellence for Gravitational Wave Discovery</institution>, Adelaide, South Australia 5005, <country>Australia</country></aff></contrib-group>
+<author-notes><fn id="n1">
+<label>a)</label>
+<p>Electronic mail: <ext-link ext-link-type="email" xlink:href="mailto:james.gardner@anu.edu.au">james.gardner@anu.edu.au</ext-link></p></fn><fn id="n2">
+<label>b)</label>
+<p>Electronic mail: <ext-link ext-link-type="email" xlink:href="mailto:hannahm@star.sr.bham.ac.uk">hannahm@star.sr.bham.ac.uk</ext-link></p></fn><fn id="n3">
+<label>c)</label>
+<p>Electronic mail: <ext-link ext-link-type="email" xlink:href="mailto:changrongl1@student.unimelb.edu.au">changrongl1@student.unimelb.edu.au</ext-link></p></fn><fn id="n4">
+<label>d)</label>
+<p>Electronic mail: <ext-link ext-link-type="email" xlink:href="mailto:amelatos@unimelb.edu.au">amelatos@unimelb.edu.au</ext-link></p></fn></author-notes>
+<pub-date pub-type="ppub"><month>04</month><year>2022</year></pub-date>
+<volume>90</volume><issue>4</issue><fpage seq="1">286</fpage><lpage>296</lpage>
+<history>
+<date date-type="received"><day>19</day><month>11</month><year>2020</year></date>
+<date date-type="accepted"><day>07</day><month>12</month><year>2021</year></date>
+</history>
+<permissions>
+<copyright-statement>© 2022 Author(s).</copyright-statement>
+<copyright-year>2022</copyright-year>
+<copyright-holder>Author(s)</copyright-holder>
+<license license-type="exclusive">
+<license-p>Published under an exclusive license by American Association of Physics Teachers.</license-p>
+</license>
+</permissions><abstract>
+<p>Gravitational-wave observatories around the world are searching for continuous waves: persistent signals from sources, such as spinning neutron stars. These searches use sophisticated statistical techniques to look for weak signals in noisy data. In this paper, we demonstrate these techniques using a table-top model gravitational-wave detector: a Michelson interferometer where sound is used as an analog for gravitational waves. Using signal processing techniques from continuous-wave searches, we demonstrate the recovery of tones with constant and wandering frequencies. We also explore the use of the interferometer as a teaching tool for educators in physics and electrical engineering by using it as an “optical microphone” to capture music and speech. A range of filtering techniques used to recover signals from noisy data are detailed in the supplementary material of this article. Here, we present the highlights of our results using a combined notch plus Wiener filter and the statistical log minimum mean-square error (logMMSE) estimator. Using these techniques, we easily recover recordings of simple chords and drums, but complex music and speech are more challenging. This demonstration can be used by educators in undergraduate laboratories and can be adapted for communicating gravitational-wave and signal-processing topics to nonspecialist audiences.</p>
+</abstract>
+
+<counts>
+<page-count count="11"/>
+</counts><custom-meta-group><custom-meta><meta-name>crossmark</meta-name><meta-value/></custom-meta></custom-meta-group>
+</article-meta>
+</front><body><sec id="s1">
+<label>I.</label>
+<title>INTRODUCTION</title>
+<p>In 2015, the first detection of gravitational waves from the merger of two black holes marked a breakthrough in modern astrophysics and revealed a new means to observe the Universe.<xref ref-type="bibr" rid="c1"><sup>1</sup></xref> Gravitational waves are a prediction of Albert Einstein's theory of General Relativity; they are disturbances in spacetime caused by the acceleration of asymmetric massive objects. The effect of gravitational waves is a change in lengths: a “stretching and squashing” of the distance between objects. Ground-based gravitational-wave observatories, such as the Advanced Laser Interferometer Gravitational-wave Observatory (LIGO), Advanced Virgo, GEO600, and KAGRA, use the interference of laser light to measure changes in distance. These observatories are extremely complex but are fundamentally based on the Michelson interferometer. Table-top interferometers are commonly used in undergraduate laboratory experiments and to demonstrate the science of gravitational-wave detection to nonspecialist audiences.<xref ref-type="bibr" rid="c2"><sup>2</sup></xref></p>
+<p>To date, the network of gravitational-wave observatories has observed short-duration transient signals from the mergers of binary black holes, binary neutron stars, and binaries consisting of a neutron star and a black hole.<xref ref-type="bibr" rid="c3 c4"><sup>3,4</sup></xref> However, the network is also searching for continuous gravitational waves: persistent, periodic, near-monochromatic signals, which are yet to be detected. Rotating neutron stars are prime candidates for continuous-wave emission, especially those in low mass x-ray binaries (LMXB), where the neutron star is in orbit with a low mass stellar companion. The rotation frequency of the neutron star in an LMXB can wander over time due to variable accretion of matter (and hence angular momentum transfer) from the stellar companion.<xref ref-type="bibr" rid="c5"><sup>5</sup></xref> Scorpius X-1 is a prime LMXB target for continuous-wave searches. Numerous searches, as yet unsuccessful, have been performed for Scorpius X-1 and other LMXBs (e.g., Ref. <xref ref-type="bibr" rid="c6">6</xref>).</p>
+<p>In this paper, we use a table-top Michelson interferometer as a toy gravitational-wave detector designed to detect sound instead of gravitational waves. We then extend its use to an “optical microphone,” using light to capture sound, and present a range of example analysis techniques for educators to use. As an undergraduate lab experiment, the apparatus can be used to teach topics ranging from continuous-wave detection and analysis to electronics, signal processing, and speech enhancement. It allows students in courses, such as physics and electrical engineering, to explore the response of an accessible, yet nontrivial, optomechanical system using a hierarchy of data analysis techniques of increasing complexity, including those used in the search for continuous waves in LIGO and Virgo data.<xref ref-type="bibr" rid="c6 c7"><sup>6,7</sup></xref> This demonstration also has the potential to be used as an outreach tool alongside a range of other public engagement demonstrations and activities developed by gravitational-wave research groups around the world. These tools allow scientists to cater to the increased public and media interest in this field and explain gravitational-wave science to nonspecialist audiences.</p>
+<p>This paper is laid out as follows. In Sec. <xref ref-type="sec" rid="s2">II</xref>, we detail the table-top interferometer design. In Sec. <xref ref-type="sec" rid="s3">III</xref>, we demonstrate observing a single tone from a speaker. In Sec. <xref ref-type="sec" rid="s4">IV</xref>, we observe a wandering frequency signal and analyze it using a hidden Markov model technique (the Viterbi algorithm) from continuous-wave searches. In Sec. <xref ref-type="sec" rid="s5">V</xref>, we demonstrate capture and playback of complex audio, such as music and speech. This demonstration of an optical microphone serves as a more general exhibition of signal processing with a range of examples that can be used in the undergraduate laboratory (described in the supplementary material<xref ref-type="bibr" rid="c26"><sup>26</sup></xref>). We suggest avenues of future work in Sec. <xref ref-type="sec" rid="s6">VI</xref> and draw conclusions in Sec. <xref ref-type="sec" rid="s7">VII</xref>. Further reading and resources are provided in the supplementary material,<xref ref-type="bibr" rid="c26"><sup>26</sup></xref> and we present the software and scripts used to produce this work in <xref ref-type="app" rid="app1">Appendix A</xref>.</p>
+</sec><sec id="s2">
+<label>II.</label>
+<title>TABLE-TOP GRAVITATIONAL-WAVE SCIENCE</title>
+<p>Gravitational-wave detectors, such as LIGO and Virgo, are large, complex experiments. However, their design is fundamentally based on the Michelson interferometer, an optical configuration commonly used in undergraduate laboratories. In a Michelson interferometer, laser light is split by a beamsplitter into two perpendicular arms, shown in Fig. <xref ref-type="fig" rid="f1">1</xref>. Mirrors at the end of each arm reflect the two beams back to the beamsplitter where they recombine to produce an interference pattern. The resulting interference pattern is dependent on the relative distance traveled by the beams. Current generation gravitational-wave observatories have kilometer-scale arms (with arm lengths 4 and <inline-formula>
+<mml:math display="inline" overflow="scroll">
+<mml:mrow>
+<mml:mn>3</mml:mn>
+<mml:mo> </mml:mo>
+<mml:mtext>km</mml:mtext></mml:mrow></mml:math></inline-formula> at LIGO and Virgo, respectively). They can measure minuscule changes in distance due to gravitational waves; e.g., the first detection of a binary black hole merger produced a strain of <inline-formula>
+<mml:math display="inline" overflow="scroll">
+<mml:mrow>
+<mml:msup>
+<mml:mrow>
+<mml:mn>10</mml:mn></mml:mrow>
+<mml:mrow>
+<mml:mo>−</mml:mo>
+<mml:mn>21</mml:mn></mml:mrow></mml:msup></mml:mrow></mml:math></inline-formula>,<xref ref-type="bibr" rid="c1"><sup>1</sup></xref> corresponding to a change in distance equal to a fraction of the diameter of a proton.</p>
+
+<fig fig-type="figure" id="f1" orientation="portrait" position="float">
+<label>Fig. 1.</label>
+<caption><p>Schematic of the table-top Michelson interferometer. The output of a class 2 <inline-formula>
+<mml:math display="inline" overflow="scroll">
+<mml:mrow>
+<mml:mn>532</mml:mn>
+<mml:mo> </mml:mo>
+<mml:mtext>nm</mml:mtext></mml:mrow></mml:math></inline-formula> laser (top-left) is reflected from a mirror at a right angle. The beam then passes through a converging lens (focal length: <inline-formula>
+<mml:math display="inline" overflow="scroll">
+<mml:mrow>
+<mml:mn>125.0</mml:mn>
+<mml:mo> </mml:mo>
+<mml:mtext>mm</mml:mtext></mml:mrow></mml:math></inline-formula>) before reaching the beamsplitter, which reflects approximately 50% of the beam and transmits the remaining <inline-formula>
+<mml:math display="inline" overflow="scroll">
+<mml:mrow>
+<mml:mo>∼</mml:mo>
+<mml:mn>50</mml:mn>
+<mml:mi>%</mml:mi></mml:mrow></mml:math></inline-formula>. The split beams are reflected from mirrors (M1 and M2) at the ends of the interferometer arms and recombine at the beamsplitter. The output interference pattern is enlarged using a diverging lens (focal length: <inline-formula>
+<mml:math display="inline" overflow="scroll">
+<mml:mrow>
+<mml:mo>−</mml:mo>
+<mml:mn>25.0</mml:mn>
+<mml:mo> </mml:mo>
+<mml:mtext>mm</mml:mtext></mml:mrow></mml:math></inline-formula>), projected onto a screen, and recorded using a commercial webcam connected to a computer (PC). A speaker fixed to the back of M2 is used to inject audio signals from the PC into the interferometer.</p></caption>
+<graphic orientation="portrait" position="float" xlink:href="f1"/>
+</fig>
+<p>Sound is a commonly used analogy when explaining gravitational-wave science. Gravitational-wave signals from binary black hole and neutron star mergers can be converted to audio signals<xref ref-type="bibr" rid="c8"><sup>8</sup></xref> to aid in explanations. Detection and analysis techniques used by the gravitational-wave community can be demonstrated using table-top equipment (see Ref. <xref ref-type="bibr" rid="c2">2</xref> as well as the further reading section in the supplementary material<xref ref-type="bibr" rid="c26"><sup>26</sup></xref> for a selection of other table-top Michelson interferometer designs used for science outreach). Sound vibrations provide a simple means to move the components of a demonstration interferometer, changing the length of the interferometer arms, and thereby altering the interference pattern. We use audio signals throughout this work to simulate gravitational wave-like signals.</p>
+<p>The optical configuration of the Michelson interferometer used in this work is shown in Fig. <xref ref-type="fig" rid="f1">1</xref>. It is assembled on a <inline-formula>
+<mml:math display="inline" overflow="scroll">
+<mml:mrow>
+<mml:mn>450</mml:mn>
+<mml:mo>×</mml:mo>
+<mml:mn>450</mml:mn>
+<mml:mo> </mml:mo>
+<mml:msup>
+<mml:mrow>
+<mml:mtext>mm</mml:mtext></mml:mrow>
+<mml:mn>2</mml:mn></mml:msup></mml:mrow></mml:math></inline-formula> optical breadboard and uses a green laser with peak emission at a wavelength of <inline-formula>
+<mml:math display="inline" overflow="scroll">
+<mml:mrow>
+<mml:mn>532</mml:mn>
+<mml:mo> </mml:mo>
+<mml:mtext>nm</mml:mtext></mml:mrow></mml:math></inline-formula>. The output of the laser is first reflected by a mirror which turns the beam 90° (to save space on the optical breadboard and to have greater control of the alignment of the interferometer). After passing through a converging (plano-convex) lens with focal length <inline-formula>
+<mml:math display="inline" overflow="scroll">
+<mml:mrow>
+<mml:mn>125.0</mml:mn>
+<mml:mo> </mml:mo>
+<mml:mtext>mm</mml:mtext></mml:mrow></mml:math></inline-formula>, the laser beam is incident on a beamsplitter, which reflects half of the light toward mirror 1 (M1) and transmits the other half to mirror 2 (M2). A <inline-formula>
+<mml:math display="inline" overflow="scroll">
+<mml:mrow>
+<mml:mn>0.5</mml:mn>
+<mml:mo> </mml:mo>
+<mml:mi mathvariant="normal">W</mml:mi></mml:mrow></mml:math></inline-formula> speaker is fixed to the back of M2 using commercial adhesive putty and serves as a controllable source of vibrations. This speaker is one of a pair of commercial, USB-powered speakers, fed by a <inline-formula>
+<mml:math display="inline" overflow="scroll">
+<mml:mrow>
+<mml:mn>3.5</mml:mn>
+<mml:mo> </mml:mo>
+<mml:mtext>mm</mml:mtext></mml:mrow></mml:math></inline-formula> jack and driven by a computer (PC). The other speaker in the pair is kept face-down and as far away from the interferometer as possible to prevent it from acting as a second source. The beams are reflected by mirrors M1 and M2, located at the end of <inline-formula>
+<mml:math display="inline" overflow="scroll">
+<mml:mrow>
+<mml:mo>∼</mml:mo>
+<mml:mn>7.5</mml:mn></mml:mrow></mml:math></inline-formula> and <inline-formula>
+<mml:math display="inline" overflow="scroll">
+<mml:mrow>
+<mml:mo>∼</mml:mo>
+<mml:mn>10.0</mml:mn>
+<mml:mo> </mml:mo>
+<mml:mtext>cm</mml:mtext></mml:mrow></mml:math></inline-formula> long arms. The beams recombine at the beamsplitter and produce an interference pattern that is then enlarged using a diverging (bi-concave) lens of focal length <inline-formula>
+<mml:math display="inline" overflow="scroll">
+<mml:mrow>
+<mml:mo>−</mml:mo>
+<mml:mn>25.0</mml:mn>
+<mml:mo> </mml:mo>
+<mml:mtext>mm</mml:mtext></mml:mrow></mml:math></inline-formula>, and projected onto a screen. The interference pattern, as shown by the photograph in Fig. <xref ref-type="fig" rid="f2">2</xref>, is a set of concentric light and dark rings (fringes). A change in the relative length of the arms causes these rings to move radially inward or outward. The intensity timeseries is recorded by either a webcam (in Secs. <xref ref-type="sec" rid="s3">III</xref> and <xref ref-type="sec" rid="s4">IV</xref>) or a photodiode, which offers a higher sampling rate suitable for capturing more complex audio (in Sec. <xref ref-type="sec" rid="s5">V</xref>). Further design details for Michelson interferometers can be found in Ref. <xref ref-type="bibr" rid="c2">2</xref>.</p>
+
+<fig fig-type="figure" id="f2" orientation="portrait" position="float">
+<label>Fig. 2.</label>
+<caption><p>The interference pattern produced by the table-top Michelson interferometer. This image was taken with the webcam aligned off the beam axis. The pink (online) star indicates the point where the intensity timeseries measurements were taken. The central bright fringe of the interference pattern is approximately <inline-formula>
+<mml:math display="inline" overflow="scroll">
+<mml:mrow>
+<mml:mn>5</mml:mn>
+<mml:mo> </mml:mo>
+<mml:mtext>mm</mml:mtext></mml:mrow></mml:math></inline-formula> in diameter.</p></caption>
+<graphic orientation="portrait" position="float" xlink:href="f2"/>
+</fig>
+<p>The motion of the interference fringes follows the motion of M2 and therefore of the speaker. The amplitude of these motions is given by a transfer function that accounts for the coupling and resonance of the speaker-mirror system. If the relative change in the length of the arms is kept small enough, the intensity of the interference pattern at any point on the screen oscillates at the same frequency as the injected audio. For larger relative length changes, multiple fringes pass through the detection point during a single speaker oscillation, raising the measured frequency artificially. Hence, any motion of the fringes must be kept small by playing the sound softly through the speaker. Even without over-counting, large fringe motions display a nonlinear relation between the intensity fluctuations and injected audio, leading to troublesome—but physically interesting—phenomena like frequency doubling.</p>
+</sec><sec id="s3">
+<label>III.</label>
+<title>CONSTANT FREQUENCY SIGNAL</title>
+<p>Continuous gravitational-wave searches look for nearly monochromatic signals.<xref ref-type="bibr" rid="c9"><sup>9</sup></xref> In this section, we consider the detection of a sinusoidal tone at a single, constant frequency by the table-top interferometer.</p>
+<p>As described in Sec. <xref ref-type="sec" rid="s2">II</xref>, the audio signal is played through a speaker fixed to the back of M2 (see Fig. <xref ref-type="fig" rid="f1">1</xref>). The intensity of the interference pattern is measured at a single point on the screen, indicated by the pink (online) star in Fig. <xref ref-type="fig" rid="f2">2</xref>. The webcam records video in three color channels: red, blue, and green. We use the green channel as an approximation of the total intensity produced by the green laser. The webcam samples at a rate of <inline-formula>
+<mml:math display="inline" overflow="scroll">
+<mml:mrow>
+<mml:mn>30</mml:mn>
+<mml:mo> </mml:mo>
+<mml:mo> </mml:mo>
+<mml:mtext>Hz</mml:mtext></mml:mrow></mml:math></inline-formula>, which limits the spectral content of observable signals to less than <inline-formula>
+<mml:math display="inline" overflow="scroll">
+<mml:mrow>
+<mml:mn>15</mml:mn>
+<mml:mo> </mml:mo>
+<mml:mtext>Hz</mml:mtext></mml:mrow></mml:math></inline-formula>, the Nyquist frequency.</p>
+<p>A tone with a frequency of <inline-formula>
+<mml:math display="inline" overflow="scroll">
+<mml:mrow>
+<mml:mn>2.09</mml:mn>
+<mml:mo> </mml:mo>
+<mml:mtext>Hz</mml:mtext></mml:mrow></mml:math></inline-formula> is played through the speaker for one minute. The amplitude of the Fourier transform of the recovered signal is shown in Fig. <xref ref-type="fig" rid="f3">3</xref>. The discrete Fourier transform is calculated using the NumPy package for Python (see the <xref ref-type="app" rid="app1">Appendix A</xref>). We measured a peak amplitude at <inline-formula>
+<mml:math display="inline" overflow="scroll">
+<mml:mrow>
+<mml:mn>2.099</mml:mn>
+<mml:mo> </mml:mo>
+<mml:mtext>Hz</mml:mtext></mml:mrow></mml:math></inline-formula> with a full width half maximum (FWHM) of <inline-formula>
+<mml:math display="inline" overflow="scroll">
+<mml:mrow>
+<mml:mn>0.033</mml:mn>
+<mml:mo> </mml:mo>
+<mml:mtext>Hz</mml:mtext></mml:mrow></mml:math></inline-formula>. Two harmonics can also be seen at integer multiples of the peak frequency. The peaks at <inline-formula>
+<mml:math display="inline" overflow="scroll">
+<mml:mrow>
+<mml:mn>4.19</mml:mn></mml:mrow></mml:math></inline-formula> and <inline-formula>
+<mml:math display="inline" overflow="scroll">
+<mml:mrow>
+<mml:mn>6.28</mml:mn>
+<mml:mo> </mml:mo>
+<mml:mtext>Hz</mml:mtext></mml:mrow></mml:math></inline-formula> have amplitudes of 0.103 and 0.098 as a fraction of the height of the main peak, respectively. They are likely due to the nonlinear response of the system discussed in Sec. <xref ref-type="sec" rid="s2">II</xref>. Also, note that the noise appears to rise at lower frequencies; however, the origin of this noise is not known.</p>
+
+<fig fig-type="figure" id="f3" orientation="portrait" position="float">
+<label>Fig. 3.</label>
+<caption><p>Recovery of a tone at a constant frequency: the Fourier amplitude of the intensity pattern plotted against frequency. The injected signal has a frequency of <inline-formula>
+<mml:math display="inline" overflow="scroll">
+<mml:mrow>
+<mml:mn>2.09</mml:mn>
+<mml:mo> </mml:mo>
+<mml:mtext>Hz</mml:mtext></mml:mrow></mml:math></inline-formula>, while the recovered signal peaks at <inline-formula>
+<mml:math display="inline" overflow="scroll">
+<mml:mrow>
+<mml:mn>2.099</mml:mn>
+<mml:mo> </mml:mo>
+<mml:mtext>Hz</mml:mtext></mml:mrow></mml:math></inline-formula> and has an FWHM of <inline-formula>
+<mml:math display="inline" overflow="scroll">
+<mml:mrow>
+<mml:mn>0.033</mml:mn>
+<mml:mo> </mml:mo>
+<mml:mtext>Hz</mml:mtext></mml:mrow></mml:math></inline-formula>. The plot also shows two harmonics at <inline-formula>
+<mml:math display="inline" overflow="scroll">
+<mml:mrow>
+<mml:mn>4.19</mml:mn>
+<mml:mo> </mml:mo>
+<mml:mtext>Hz</mml:mtext></mml:mrow></mml:math></inline-formula> and <inline-formula>
+<mml:math display="inline" overflow="scroll">
+<mml:mrow>
+<mml:mn>6.28</mml:mn>
+<mml:mo> </mml:mo>
+<mml:mtext>Hz</mml:mtext></mml:mrow></mml:math></inline-formula> with amplitudes <inline-formula>
+<mml:math display="inline" overflow="scroll">
+<mml:mrow>
+<mml:mn>10.3</mml:mn>
+<mml:mi>%</mml:mi></mml:mrow></mml:math></inline-formula> and <inline-formula>
+<mml:math display="inline" overflow="scroll">
+<mml:mrow>
+<mml:mn>9.8</mml:mn>
+<mml:mi>%</mml:mi></mml:mrow></mml:math></inline-formula> of the amplitude of the primary peak, respectively.</p></caption>
+<graphic orientation="portrait" position="float" xlink:href="f3"/>
+</fig>
+</sec><sec id="s4">
+<label>IV.</label>
+<title>WANDERING FREQUENCY SIGNAL</title>
+<p>A continuous gravitational-wave signal may wander slowly (and randomly) in frequency over time, due to stochastic internal processes in the superfluid interior of isolated neutron stars, or variable accretion from a stellar companion for neutron stars in binaries, such as LMXBs (see Ref. <xref ref-type="bibr" rid="c7">7</xref> and references therein). Although continuous gravitational waves are nearly monochromatic, the long observing times (<inline-formula>
+<mml:math display="inline" overflow="scroll">
+<mml:mrow>
+<mml:mo>∼</mml:mo>
+<mml:mn>1</mml:mn>
+<mml:mo> </mml:mo>
+<mml:mtext>year</mml:mtext></mml:mrow></mml:math></inline-formula>) mean that searches can be impacted by very small frequency drifts. A typical observation involves <inline-formula>
+<mml:math display="inline" overflow="scroll">
+<mml:mrow>
+<mml:mn>1</mml:mn>
+<mml:mo>×</mml:mo>
+<mml:msup>
+<mml:mrow>
+<mml:mn>10</mml:mn></mml:mrow>
+<mml:mrow>
+<mml:mn>10</mml:mn></mml:mrow></mml:msup></mml:mrow></mml:math></inline-formula> wave cycles, and a coherent search must track the phase to better than half a cycle over the full observation. Here, we consider the audio analog of a tone that wanders in frequency.</p>
+<p>A Fourier transform applied to the whole dataset (as in Sec. <xref ref-type="sec" rid="s3">III</xref>) is not well suited to the wandering frequency case as the signal is spread across multiple frequency bins. In continuous-wave searches, the wandering frequency problem is solved using the Viterbi algorithm,<xref ref-type="bibr" rid="c10"><sup>10</sup></xref> which can track the signal's frequency over time. The analysis described in this section is directly inspired by real continuous-wave search methods,<xref ref-type="bibr" rid="c7"><sup>7</sup></xref> yet is pitched at a level appropriate for an undergraduate laboratory setting. In Sec. <xref ref-type="sec" rid="s4A">IV A</xref>, we briefly review the analysis method used by LIGO and Virgo; in Sec. <xref ref-type="sec" rid="s4B">IV B</xref>, we describe the methods used in this work; and in Sec. <xref ref-type="sec" rid="s4C">IV C</xref>, we show the results for recovering a wandering frequency signal using the table-top interferometer.</p><sec id="s4A">
+<label>A.</label>
+<title>Continuous-wave analysis with real data</title>
+<p>The methods used here are inspired by LIGO and Virgo continuous-wave searches. For further details on these methods and continuous-wave searches, we refer the reader to the references in the supplementary material.<xref ref-type="bibr" rid="c26"><sup>26</sup></xref></p>
+<p>Continuous-wave searches are performed on long datasets, months to years in duration. The frequency of the signal can wander significantly over the observation period. In this context, “significantly” means across multiple frequency bins, where the typical width of a frequency bin is the reciprocal of the total observation time.<xref ref-type="bibr" rid="c6 c9"><sup>6,9</sup></xref></p>
+<p>A “hidden Markov model” can be used to search for continuous gravitational waves.<xref ref-type="bibr" rid="c7"><sup>7</sup></xref> In a Markov process, the current state depends only on the previous state. (In this case the “state” is the frequency of the signal.) In a hidden Markov model, the state of the signal is unknown (hidden) and can undergo transitions at discrete times. The transitions are Markovian in that the hidden state (i.e., frequency) of the system at any time depends solely on its state at the previous time.</p>
+<p>A detection statistic relates the observed data to the hidden state and quantifies the likelihood of a signal being present in the data at each frequency and time bin. This likelihood is also called the emission probability in gravitational-wave literature. In gravitational-wave data analysis, the detection statistic gives the likelihood of a signal given the antenna beam pattern of the detector, which varies as the Earth rotates and orbits the Sun.<xref ref-type="bibr" rid="c9"><sup>9</sup></xref> When searching for continuous waves from a neutron star in a binary (such as an LMXB), the Doppler modulation of the source also needs to be taken into account and a different detection statistic is used.<xref ref-type="bibr" rid="c7"><sup>7</sup></xref></p>
+<p>In continuous-wave searches, a physical model of the target informs how far the frequency of the signal can wander over time. This is called the transition probability matrix. For example, in LMXB searches, the transition matrix allows the signal frequency to (i) stay in the same frequency bin, (ii) move up a single frequency bin, or (iii) move down a frequency bin in each time step.<xref ref-type="bibr" rid="c6"><sup>6</sup></xref> In supernova remnant searches, the source frequency is expected to decrease over time, therefore the allowable transitions are to (i) remain in the same frequency bin, or (ii) move down one frequency bin (see the supplementary material<xref ref-type="bibr" rid="c26"><sup>26</sup></xref> for LMXB and supernova remnant search references).</p>
+<p>The Viterbi algorithm<xref ref-type="bibr" rid="c10"><sup>10</sup></xref> is used to find the most probable sequence of hidden frequency states given the sequence of observables. In Sec. <xref ref-type="sec" rid="s4B">IV B</xref>, we describe our application of the Viterbi method and our choice of detection statistic.</p>
+</sec><sec id="s4B">
+<label>B.</label>
+<title>The hidden Markov model and Viterbi algorithm</title>
+<p>First, we split the timeseries data from the interferometer into segments. Then, we take the discrete Fourier transform of each timeseries segment to form a grid in time and frequency (a spectrogram) with the Fourier amplitude <inline-formula>
+<mml:math display="inline" overflow="scroll">
+<mml:mrow>
+<mml:mi>F</mml:mi>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:msub>
+<mml:mi>t</mml:mi>
+<mml:mi>i</mml:mi></mml:msub>
+<mml:mo>,</mml:mo>
+<mml:msub>
+<mml:mi>f</mml:mi>
+<mml:mi>j</mml:mi></mml:msub>
+<mml:mo stretchy="false">)</mml:mo></mml:mrow></mml:math></inline-formula> at frequency <italic>f<sub>j</sub></italic> and time <italic>t<sub>i</sub></italic>, as the detection statistic (this is the emission probability). Assuming Gaussian noise, this detection statistic maximizes the likelihood of detecting a sinusoidal signal as described in <xref ref-type="app" rid="app2">Appendix B</xref>. The detection statistic is normalized for convenience by dividing each value by the maximum Fourier amplitude in the grid (such that <inline-formula>
+<mml:math display="inline" overflow="scroll">
+<mml:mrow>
+<mml:msub>
+<mml:mrow>
+<mml:mtext>max</mml:mtext></mml:mrow>
+<mml:mrow>
+<mml:mi>i</mml:mi>
+<mml:mo>,</mml:mo>
+<mml:mi>j</mml:mi></mml:mrow></mml:msub>
+<mml:mi>F</mml:mi>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:msub>
+<mml:mi>t</mml:mi>
+<mml:mi>i</mml:mi></mml:msub>
+<mml:mo>,</mml:mo>
+<mml:msub>
+<mml:mi>f</mml:mi>
+<mml:mi>j</mml:mi></mml:msub>
+<mml:mo stretchy="false">)</mml:mo>
+<mml:mo>=</mml:mo>
+<mml:mn>1</mml:mn></mml:mrow></mml:math></inline-formula>).</p>
+<p>Figure <xref ref-type="fig" rid="f4">4</xref> represents a spectrogram with <italic>N<sub>t</sub></italic> time bins and <italic>N<sub>f</sub></italic> frequency bins. The circular nodes represent the elements of the time and frequency grid, which are labelled as <italic>t<sub>i</sub></italic> and <italic>f<sub>j</sub></italic>, respectively, where <inline-formula>
+<mml:math display="inline" overflow="scroll">
+<mml:mrow>
+<mml:mi>i</mml:mi>
+<mml:mo>=</mml:mo>
+<mml:mn>0</mml:mn>
+<mml:mo>,</mml:mo>
+<mml:mn>1</mml:mn>
+<mml:mo>,</mml:mo>
+<mml:mn>2</mml:mn>
+<mml:mo>,</mml:mo>
+<mml:mo>…</mml:mo>
+<mml:mo>,</mml:mo>
+<mml:msub>
+<mml:mi>N</mml:mi>
+<mml:mi>t</mml:mi></mml:msub></mml:mrow></mml:math></inline-formula> and <inline-formula>
+<mml:math display="inline" overflow="scroll">
+<mml:mrow>
+<mml:mi>j</mml:mi>
+<mml:mo>=</mml:mo>
+<mml:mn>0</mml:mn>
+<mml:mo>,</mml:mo>
+<mml:mn>1</mml:mn>
+<mml:mo>,</mml:mo>
+<mml:mn>2</mml:mn>
+<mml:mo>,</mml:mo>
+<mml:mo>…</mml:mo>
+<mml:mo>,</mml:mo>
+<mml:msub>
+<mml:mi>N</mml:mi>
+<mml:mi>f</mml:mi></mml:msub></mml:mrow></mml:math></inline-formula>. The size of each node is proportional to the detection statistic <inline-formula>
+<mml:math display="inline" overflow="scroll">
+<mml:mrow>
+<mml:mi>F</mml:mi>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:msub>
+<mml:mi>t</mml:mi>
+<mml:mi>i</mml:mi></mml:msub>
+<mml:mo>,</mml:mo>
+<mml:msub>
+<mml:mi>f</mml:mi>
+<mml:mi>j</mml:mi></mml:msub>
+<mml:mo stretchy="false">)</mml:mo></mml:mrow></mml:math></inline-formula> (the observable) at each grid point.</p>
+
+<fig fig-type="figure" id="f4" orientation="portrait" position="float">
+<label>Fig. 4.</label>
+<caption><p>Schematic diagram of the Viterbi algorithm. The circular nodes represent elements in a time-frequency grid, labeled <italic>t</italic><sub>0</sub> to <inline-formula>
+<mml:math display="inline" overflow="scroll">
+<mml:mrow>
+<mml:msub>
+<mml:mi>t</mml:mi>
+<mml:mrow>
+<mml:msub>
+<mml:mi>N</mml:mi>
+<mml:mi>t</mml:mi></mml:msub></mml:mrow></mml:msub></mml:mrow></mml:math></inline-formula> (left to right) in time and <italic>f</italic><sub>0</sub> to <inline-formula>
+<mml:math display="inline" overflow="scroll">
+<mml:mrow>
+<mml:msub>
+<mml:mi>f</mml:mi>
+<mml:mrow>
+<mml:msub>
+<mml:mi>N</mml:mi>
+<mml:mi>f</mml:mi></mml:msub></mml:mrow></mml:msub></mml:mrow></mml:math></inline-formula> (bottom to top) in frequency. The size of the nodes represents the likelihood of a signal being present in each time-frequency element. The small to large sizing corresponds to low to high likelihood values in arbitrary units for this schematic. The objective is to find the most probable path of a signal through the grid from left to right. All possible paths are shown by the lines. The black lines show the best path to each node and the gray lines show rejected paths. Some routes through the grid result in dead-ends with respect to optimally reaching the other side, such as the path ending at <italic>t</italic><sub>1</sub> marked (a). At <inline-formula>
+<mml:math display="inline" overflow="scroll">
+<mml:mrow>
+<mml:mi>t</mml:mi>
+<mml:mo>=</mml:mo>
+<mml:msub>
+<mml:mi>t</mml:mi>
+<mml:mrow>
+<mml:msub>
+<mml:mi>N</mml:mi>
+<mml:mi>t</mml:mi></mml:msub></mml:mrow></mml:msub></mml:mrow></mml:math></inline-formula> the algorithm chooses the terminating frequency node which has the highest value given by Eq. <xref ref-type="disp-formula" rid="d1">(1)</xref>, marked (b). The Viterbi path is the path leading to this node (b), highlighted by the thick-black lines starting at (c).</p></caption>
+<graphic orientation="portrait" position="float" xlink:href="f4"/>
+</fig>
+<p>The objective is to find the most likely path through the grid, given the observed data and any probabilistic constraints on how the frequency of the signal can wander from <italic>t<sub>i</sub></italic> to <inline-formula>
+<mml:math display="inline" overflow="scroll">
+<mml:mrow>
+<mml:msub>
+<mml:mi>t</mml:mi>
+<mml:mrow>
+<mml:mi>i</mml:mi>
+<mml:mo>+</mml:mo>
+<mml:mn>1</mml:mn></mml:mrow></mml:msub></mml:mrow></mml:math></inline-formula>. The transition probability matrix, <inline-formula>
+<mml:math display="inline" overflow="scroll">
+<mml:mrow>
+<mml:mi>A</mml:mi>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:msub>
+<mml:mi>f</mml:mi>
+<mml:mi>k</mml:mi></mml:msub>
+<mml:mo>,</mml:mo>
+<mml:msub>
+<mml:mi>f</mml:mi>
+<mml:mi>m</mml:mi></mml:msub>
+<mml:mo stretchy="false">)</mml:mo></mml:mrow></mml:math></inline-formula>, describes the probability of the system transitioning from state <italic>f<sub>k</sub></italic> at <italic>t<sub>i</sub></italic> to a state <italic>f<sub>m</sub></italic> at <inline-formula>
+<mml:math display="inline" overflow="scroll">
+<mml:mrow>
+<mml:msub>
+<mml:mi>t</mml:mi>
+<mml:mrow>
+<mml:mi>i</mml:mi>
+<mml:mo>+</mml:mo>
+<mml:mn>1</mml:mn></mml:mrow></mml:msub></mml:mrow></mml:math></inline-formula>. Here, we allow the frequency of the signal to either (i) stay in the same bin, (ii) move up by a single frequency bin, or (iii) move down by a single frequency bin at each transition. We assign these three transitions equal probability, i.e., <inline-formula>
+<mml:math display="inline" overflow="scroll">
+<mml:mrow>
+<mml:mi>A</mml:mi>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:msub>
+<mml:mi>f</mml:mi>
+<mml:mi>k</mml:mi></mml:msub>
+<mml:mo>,</mml:mo>
+<mml:msub>
+<mml:mi>f</mml:mi>
+<mml:mi>m</mml:mi></mml:msub>
+<mml:mo stretchy="false">)</mml:mo>
+<mml:mo>=</mml:mo>
+<mml:mn>1</mml:mn>
+<mml:mo>/</mml:mo>
+<mml:mn>3</mml:mn></mml:mrow></mml:math></inline-formula> for <inline-formula>
+<mml:math display="inline" overflow="scroll">
+<mml:mrow>
+<mml:mi>k</mml:mi>
+<mml:mo>=</mml:mo>
+<mml:mi>m</mml:mi>
+<mml:mo>+</mml:mo>
+<mml:mn>1</mml:mn>
+<mml:mo>,</mml:mo>
+<mml:mi>m</mml:mi>
+<mml:mo>,</mml:mo>
+<mml:mi>m</mml:mi>
+<mml:mo>−</mml:mo>
+<mml:mn>1</mml:mn></mml:mrow></mml:math></inline-formula> and <inline-formula>
+<mml:math display="inline" overflow="scroll">
+<mml:mrow>
+<mml:mi>A</mml:mi>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:msub>
+<mml:mi>f</mml:mi>
+<mml:mi>k</mml:mi></mml:msub>
+<mml:mo>,</mml:mo>
+<mml:msub>
+<mml:mi>f</mml:mi>
+<mml:mi>m</mml:mi></mml:msub>
+<mml:mo stretchy="false">)</mml:mo>
+<mml:mo>=</mml:mo>
+<mml:mn>0</mml:mn></mml:mrow></mml:math></inline-formula> otherwise. All possible transitions are shown as lines in Fig. <xref ref-type="fig" rid="f4">4</xref>. The different line shadings are explained below.</p>
+<p>Before we begin analyzing the data, we have no prior knowledge as to which frequency bin the signal starts in (i.e., the prior is flat between the minimum and maximum frequency bins). At the first stage of the analysis, we define the probability of the system having frequency <italic>f<sub>j</sub></italic> at the initial time <italic>t</italic><sub>0</sub> to be equal to the (normalized) detection statistic of that state (i.e., <inline-formula>
+<mml:math display="inline" overflow="scroll">
+<mml:mrow>
+<mml:mtext>Pr</mml:mtext>
+<mml:mo stretchy="false">[</mml:mo>
+<mml:mi>f</mml:mi>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:msub>
+<mml:mi>t</mml:mi>
+<mml:mn>0</mml:mn></mml:msub>
+<mml:mo stretchy="false">)</mml:mo>
+<mml:mo>=</mml:mo>
+<mml:msub>
+<mml:mi>f</mml:mi>
+<mml:mi>j</mml:mi></mml:msub>
+<mml:mo stretchy="false">]</mml:mo>
+<mml:mo>=</mml:mo>
+<mml:mi>F</mml:mi>
+<mml:mo stretchy="false">[</mml:mo>
+<mml:msub>
+<mml:mi>t</mml:mi>
+<mml:mn>0</mml:mn></mml:msub>
+<mml:mo>,</mml:mo>
+<mml:msub>
+<mml:mi>f</mml:mi>
+<mml:mi>j</mml:mi></mml:msub>
+<mml:mo stretchy="false">]</mml:mo></mml:mrow></mml:math></inline-formula>). A specific path (which may not be optimal) is written as <inline-formula>
+<mml:math display="inline" overflow="scroll">
+<mml:mrow>
+<mml:mi>f</mml:mi>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:msub>
+<mml:mi>t</mml:mi>
+<mml:mn>0</mml:mn></mml:msub>
+<mml:mo stretchy="false">)</mml:mo>
+<mml:mo>,</mml:mo>
+<mml:mi>f</mml:mi>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:msub>
+<mml:mi>t</mml:mi>
+<mml:mn>1</mml:mn></mml:msub>
+<mml:mo stretchy="false">)</mml:mo>
+<mml:mo>,</mml:mo>
+<mml:mo>…</mml:mo>
+<mml:mo>,</mml:mo>
+<mml:mi>f</mml:mi>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:msub>
+<mml:mi>t</mml:mi>
+<mml:mrow>
+<mml:msub>
+<mml:mi>N</mml:mi>
+<mml:mi>t</mml:mi></mml:msub></mml:mrow></mml:msub>
+<mml:mo stretchy="false">)</mml:mo></mml:mrow></mml:math></inline-formula>. The probability of a specific path given the data is
+<disp-formula id="d1">
+<mml:math display="block" overflow="scroll">
+<mml:mtable>
+<mml:mtr>
+<mml:mtd>
+<mml:mtext>Pr</mml:mtext>
+<mml:mo stretchy="true">[</mml:mo>
+<mml:mi>f</mml:mi>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:msub>
+<mml:mi>t</mml:mi>
+<mml:mn>0</mml:mn></mml:msub>
+<mml:mo stretchy="false">)</mml:mo>
+<mml:mo>,</mml:mo>
+<mml:mi>f</mml:mi>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:msub>
+<mml:mi>t</mml:mi>
+<mml:mn>1</mml:mn></mml:msub>
+<mml:mo stretchy="false">)</mml:mo>
+<mml:mo>,</mml:mo>
+<mml:mo>…</mml:mo>
+<mml:mo>,</mml:mo>
+<mml:mi>f</mml:mi>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:msub>
+<mml:mi>t</mml:mi>
+<mml:mrow>
+<mml:msub>
+<mml:mi>N</mml:mi>
+<mml:mi>t</mml:mi></mml:msub></mml:mrow></mml:msub>
+<mml:mo stretchy="false">)</mml:mo>
+<mml:mo>|</mml:mo>
+<mml:mtext>data</mml:mtext>
+<mml:mo stretchy="true">]</mml:mo></mml:mtd></mml:mtr>
+<mml:mtr>
+<mml:mtd>
+<mml:mo>=</mml:mo>
+<mml:mi>F</mml:mi>
+<mml:mo stretchy="true">[</mml:mo>
+<mml:msub>
+<mml:mi>t</mml:mi>
+<mml:mn>0</mml:mn></mml:msub>
+<mml:mo>,</mml:mo>
+<mml:mi>f</mml:mi>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:msub>
+<mml:mi>t</mml:mi>
+<mml:mn>0</mml:mn></mml:msub>
+<mml:mo stretchy="false">)</mml:mo>
+<mml:mo stretchy="true">]</mml:mo>
+<mml:munderover>
+<mml:mo>∏</mml:mo>
+<mml:mrow>
+<mml:mi>i</mml:mi>
+<mml:mo>=</mml:mo>
+<mml:mn>0</mml:mn></mml:mrow>
+<mml:mrow>
+<mml:msub>
+<mml:mi>N</mml:mi>
+<mml:mrow>
+<mml:mi>t</mml:mi></mml:mrow></mml:msub>
+<mml:mo>−</mml:mo>
+<mml:mn>1</mml:mn></mml:mrow></mml:munderover>
+<mml:mi>A</mml:mi>
+<mml:mo stretchy="true">[</mml:mo>
+<mml:mi>f</mml:mi>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:msub>
+<mml:mi>t</mml:mi>
+<mml:mi>i</mml:mi></mml:msub>
+<mml:mo stretchy="false">)</mml:mo>
+<mml:mo>,</mml:mo>
+<mml:mi>f</mml:mi>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:msub>
+<mml:mi>t</mml:mi>
+<mml:mrow>
+<mml:mi>i</mml:mi>
+<mml:mo>+</mml:mo>
+<mml:mn>1</mml:mn></mml:mrow></mml:msub>
+<mml:mo stretchy="false">)</mml:mo>
+<mml:mo stretchy="true">]</mml:mo>
+<mml:mi>F</mml:mi>
+<mml:mo stretchy="true">[</mml:mo>
+<mml:msub>
+<mml:mi>t</mml:mi>
+<mml:mrow>
+<mml:mi>i</mml:mi>
+<mml:mo>+</mml:mo>
+<mml:mn>1</mml:mn></mml:mrow></mml:msub>
+<mml:mo>,</mml:mo>
+<mml:mi>f</mml:mi>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:msub>
+<mml:mi>t</mml:mi>
+<mml:mrow>
+<mml:mi>i</mml:mi>
+<mml:mo>+</mml:mo>
+<mml:mn>1</mml:mn></mml:mrow></mml:msub>
+<mml:mo stretchy="false">)</mml:mo>
+<mml:mo stretchy="true">]</mml:mo>
+<mml:mo>.</mml:mo></mml:mtd></mml:mtr></mml:mtable></mml:math>
+<label>(1)</label></disp-formula>The path <inline-formula>
+<mml:math display="inline" overflow="scroll">
+<mml:mrow>
+<mml:msup>
+<mml:mi>f</mml:mi>
+<mml:mo>∗</mml:mo></mml:msup>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:msub>
+<mml:mi>t</mml:mi>
+<mml:mn>0</mml:mn></mml:msub>
+<mml:mo stretchy="false">)</mml:mo>
+<mml:mo>,</mml:mo>
+<mml:mo>…</mml:mo>
+<mml:mo>,</mml:mo>
+<mml:msup>
+<mml:mi>f</mml:mi>
+<mml:mo>∗</mml:mo></mml:msup>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:mrow>
+<mml:msub>
+<mml:mi>t</mml:mi>
+<mml:mrow>
+<mml:msub>
+<mml:mi>N</mml:mi>
+<mml:mi>t</mml:mi></mml:msub></mml:mrow></mml:msub></mml:mrow>
+<mml:mo stretchy="false">)</mml:mo></mml:mrow></mml:math></inline-formula> that maximizes <inline-formula>
+<mml:math display="inline" overflow="scroll">
+<mml:mrow>
+<mml:mtext>Pr</mml:mtext>
+<mml:mo stretchy="false">[</mml:mo>
+<mml:mi>f</mml:mi>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:msub>
+<mml:mi>t</mml:mi>
+<mml:mn>0</mml:mn></mml:msub>
+<mml:mo stretchy="false">)</mml:mo>
+<mml:mo>,</mml:mo>
+<mml:mi>f</mml:mi>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:msub>
+<mml:mi>t</mml:mi>
+<mml:mn>1</mml:mn></mml:msub>
+<mml:mo stretchy="false">)</mml:mo>
+<mml:mo>,</mml:mo>
+<mml:mo>…</mml:mo>
+<mml:mo>,</mml:mo>
+<mml:mi>f</mml:mi>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:msub>
+<mml:mi>t</mml:mi>
+<mml:mrow>
+<mml:msub>
+<mml:mi>N</mml:mi>
+<mml:mi>t</mml:mi></mml:msub></mml:mrow></mml:msub>
+<mml:mo stretchy="false">)</mml:mo>
+<mml:mo>|</mml:mo>
+<mml:mtext>data</mml:mtext>
+<mml:mo stretchy="false">]</mml:mo></mml:mrow></mml:math></inline-formula> is the optimal path terminating in the frequency bin <inline-formula>
+<mml:math display="inline" overflow="scroll">
+<mml:mrow>
+<mml:msup>
+<mml:mi>f</mml:mi>
+<mml:mo>∗</mml:mo></mml:msup>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:msub>
+<mml:mi>t</mml:mi>
+<mml:mrow>
+<mml:msub>
+<mml:mi>N</mml:mi>
+<mml:mi>t</mml:mi></mml:msub></mml:mrow></mml:msub>
+<mml:mo stretchy="false">)</mml:mo></mml:mrow></mml:math></inline-formula>. We note that the left-hand side and right-hand side of Eq. <xref ref-type="disp-formula" rid="d1">(1)</xref> are both evaluated for a specific path and then we maximize over all such paths to find the optimal Viterbi path.</p>
+<p>The Viterbi algorithm provides a computationally efficient method for finding the optimal path. At every <italic>t<sub>i</sub></italic> all but <italic>N<sub>f</sub></italic> possible paths are eliminated. Here, we describe the algorithm while referring to the schematic in Fig. <xref ref-type="fig" rid="f4">4</xref>. The implementation used in this work is available online (see the <xref ref-type="app" rid="app1">Appendix A</xref>) and we provide further information (including pseudocode) in <xref ref-type="app" rid="app3">Appendix C</xref>.
+<list list-type="order">
+<list-item>
+<label>(1)</label>
+<p>Starting at time <italic>t</italic><sub>1</sub>, each <italic>f<sub>j</sub></italic> node (circles in Fig. <xref ref-type="fig" rid="f4">4</xref>) can originate from three prior nodes at time <italic>t</italic><sub>0</sub> (except for the edge cases <italic>f</italic><sub>0</sub> and <inline-formula>
+<mml:math display="inline" overflow="scroll">
+<mml:mrow>
+<mml:msub>
+<mml:mi>f</mml:mi>
+<mml:mrow>
+<mml:msub>
+<mml:mi>N</mml:mi>
+<mml:mi>f</mml:mi></mml:msub></mml:mrow></mml:msub></mml:mrow></mml:math></inline-formula>, which only have two). The paths between these nodes are indicated by the lines in Fig. <xref ref-type="fig" rid="f4">4</xref>. At each <italic>f<sub>j</sub></italic> node, we select the path with the highest <inline-formula>
+<mml:math display="inline" overflow="scroll">
+<mml:mrow>
+<mml:mi>A</mml:mi>
+<mml:mo stretchy="false">[</mml:mo>
+<mml:mi>f</mml:mi>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:msub>
+<mml:mi>t</mml:mi>
+<mml:mn>0</mml:mn></mml:msub>
+<mml:mo stretchy="false">)</mml:mo>
+<mml:mo>,</mml:mo>
+<mml:mi>f</mml:mi>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:msub>
+<mml:mi>t</mml:mi>
+<mml:mn>1</mml:mn></mml:msub>
+<mml:mo stretchy="false">)</mml:mo>
+<mml:mo stretchy="false">]</mml:mo>
+<mml:mtext>Pr</mml:mtext>
+<mml:mo stretchy="false">[</mml:mo>
+<mml:mi>f</mml:mi>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:msub>
+<mml:mi>t</mml:mi>
+<mml:mn>0</mml:mn></mml:msub>
+<mml:mo stretchy="false">)</mml:mo>
+<mml:mo stretchy="false">]</mml:mo></mml:mrow></mml:math></inline-formula> value as the most probable path. These choices are highlighted using the black lines in Fig. <xref ref-type="fig" rid="f4">4</xref> while the gray lines show the rejected paths. For example, the most probable connection to the node labeled (a) is the one directly behind it (i.e., <italic>f</italic><sub>4</sub>). Therefore, this path is selected as the best path from <italic>t</italic><sub>0</sub> to <italic>t</italic><sub>1</sub> for <italic>f</italic><sub>4</sub>. To allow backtracking at the end, the index of the most probable connection to a node along with the value of the best path to that node is stored, for each node.</p></list-item>
+<list-item>
+<label>(2)</label>
+<p>Moving to time <italic>t</italic><sub>2</sub>, again we select the path which maximizes Eq. <xref ref-type="disp-formula" rid="d1">(1)</xref> for each <italic>f<sub>j</sub></italic>. These paths are again shown by the solid black lines between the nodes at <italic>t</italic><sub>1</sub> and <italic>t</italic><sub>2</sub> in Fig. <xref ref-type="fig" rid="f4">4</xref>. Rejected paths are again shown by gray lines.</p></list-item>
+<list-item>
+<label>(3)</label>
+<p>Step 2 is repeated until the end of the grid (<inline-formula>
+<mml:math display="inline" overflow="scroll">
+<mml:mrow>
+<mml:mi>t</mml:mi>
+<mml:mo>=</mml:mo>
+<mml:msub>
+<mml:mi>t</mml:mi>
+<mml:mrow>
+<mml:msub>
+<mml:mi>N</mml:mi>
+<mml:mi>t</mml:mi></mml:msub></mml:mrow></mml:msub></mml:mrow></mml:math></inline-formula>) is reached with only the best paths being stored at each iteration.</p></list-item>
+<list-item>
+<label>(4)</label>
+<p>We have now found the most probable path to each <italic>f<sub>j</sub></italic> at <inline-formula>
+<mml:math display="inline" overflow="scroll">
+<mml:mrow>
+<mml:mi>t</mml:mi>
+<mml:mo>=</mml:mo>
+<mml:msub>
+<mml:mi>t</mml:mi>
+<mml:mrow>
+<mml:msub>
+<mml:mi>N</mml:mi>
+<mml:mi>t</mml:mi></mml:msub></mml:mrow></mml:msub></mml:mrow></mml:math></inline-formula> and its probability (Eq. <xref ref-type="disp-formula" rid="d1">(1)</xref>). We select the terminating frequency bin <inline-formula>
+<mml:math display="inline" overflow="scroll">
+<mml:mrow>
+<mml:mi>f</mml:mi>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:msub>
+<mml:mi>t</mml:mi>
+<mml:mrow>
+<mml:msub>
+<mml:mi>N</mml:mi>
+<mml:mi>t</mml:mi></mml:msub></mml:mrow></mml:msub>
+<mml:mo stretchy="false">)</mml:mo></mml:mrow></mml:math></inline-formula> with the highest probability labeled as (b) in Fig. <xref ref-type="fig" rid="f4">4</xref>.</p></list-item>
+<list-item>
+<label>(5)</label>
+<p>The final step is to find the Viterbi path (the overall best path that terminates in the frequency bin with the highest probability in step 4). The Viterbi path is found by backtracking along the stored best connections at each <italic>t<sub>i</sub></italic> (see also <xref ref-type="app" rid="app3">Appendix C</xref>). In Fig. <xref ref-type="fig" rid="f4">4</xref>, it is the path ending at (b) that started at (c) highlighted by the thick-black lines.</p></list-item>
+</list></p>
+<p>In continuous gravitational-wave searches, the signal amplitude is expected to be small in comparison with the noise and its frequency can change unpredictably over time. The Viterbi algorithm's strength lies in its ability to track such signals through the data even in the presence of comparatively loud noise fluctuations in the time-frequency bins. In Sec. <xref ref-type="sec" rid="s4C">IV C</xref>, we present the results of using the Viterbi algorithm with the table-top interferometer data.</p>
+</sec><sec id="s4C">
+<label>C.</label>
+<title>Wandering frequency signal results</title>
+<p>We simulate a slowly wandering signal by modulating the frequency sinusoidally with a modulation amplitude that decays with time. We use the same apparatus as shown in Fig. <xref ref-type="fig" rid="f1">1</xref> and the output interference pattern is recorded via webcam as in Sec. <xref ref-type="sec" rid="s3">III</xref>. In this section, we test the Viterbi algorithm's ability to recover the wandering signal. Note that we implicitly approximate the noise at the webcam as white (uniform in frequency) in this implementation of the Viterbi algorithm. This approximation ignores the increase in noise at low frequencies (below 1 Hz) shown in Fig. <xref ref-type="fig" rid="f3">3</xref>. However, white noise is a reasonable approximation for the narrow frequency range (around 3–<inline-formula>
+<mml:math display="inline" overflow="scroll">
+<mml:mrow>
+<mml:mn>11</mml:mn>
+<mml:mo> </mml:mo>
+<mml:mtext>Hz</mml:mtext></mml:mrow></mml:math></inline-formula>) we use in this analysis.</p>
+<p>The results are shown in Fig. <xref ref-type="fig" rid="f5">5</xref>, where the heat-map shows the spectrogram of the observed signal (similar to that represented by the schematic in Fig. <xref ref-type="fig" rid="f4">4</xref>). In this demonstration, we use a signal that can easily be identified in the spectrogram; however, we expect real continuous-wave signals to have far lower signal-to-noise ratios at each time step. The overlaid pink dots in Fig. <xref ref-type="fig" rid="f5">5</xref> show the injected signal and the white crosses show the recovered Viterbi path. The recovered Viterbi path is within one frequency bin (<inline-formula>
+<mml:math display="inline" overflow="scroll">
+<mml:mrow>
+<mml:mo>∼</mml:mo>
+<mml:mn>0.3</mml:mn>
+<mml:mo> </mml:mo>
+<mml:mtext>Hz</mml:mtext></mml:mrow></mml:math></inline-formula>) of the injected signal for 94% of the time. We also compute the root-mean-square (RMS) fractional error <inline-formula>
+<mml:math display="inline" overflow="scroll">
+<mml:mrow>
+<mml:msub>
+<mml:mi>E</mml:mi>
+<mml:mrow>
+<mml:mtext>rms</mml:mtext></mml:mrow></mml:msub></mml:mrow></mml:math></inline-formula> along the path, which is defined as
+<disp-formula id="d2">
+<mml:math display="block" overflow="scroll">
+<mml:mrow>
+<mml:msub>
+<mml:mi>E</mml:mi>
+<mml:mrow>
+<mml:mtext>rms</mml:mtext></mml:mrow></mml:msub>
+<mml:mo>=</mml:mo>
+<mml:msup>
+<mml:mrow>
+<mml:mrow>
+<mml:mo stretchy="true">[</mml:mo>
+<mml:mrow>
+<mml:mfrac>
+<mml:mn>1</mml:mn>
+<mml:mrow>
+<mml:msub>
+<mml:mi>N</mml:mi>
+<mml:mi>t</mml:mi></mml:msub>
+<mml:mo>+</mml:mo>
+<mml:mn>1</mml:mn></mml:mrow></mml:mfrac>
+<mml:munderover>
+<mml:mo>∑</mml:mo>
+<mml:mrow>
+<mml:mi>i</mml:mi>
+<mml:mo>=</mml:mo>
+<mml:mn>0</mml:mn></mml:mrow>
+<mml:mrow>
+<mml:msub>
+<mml:mi>N</mml:mi>
+<mml:mi>t</mml:mi></mml:msub></mml:mrow></mml:munderover>
+<mml:mrow>
+<mml:mfrac>
+<mml:mrow>
+<mml:msup>
+<mml:mrow>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:msub>
+<mml:mi>I</mml:mi>
+<mml:mi>i</mml:mi></mml:msub>
+<mml:mo>−</mml:mo>
+<mml:msub>
+<mml:mi>R</mml:mi>
+<mml:mi>i</mml:mi></mml:msub>
+<mml:mo stretchy="false">)</mml:mo></mml:mrow>
+<mml:mn>2</mml:mn></mml:msup></mml:mrow>
+<mml:mrow>
+<mml:msubsup>
+<mml:mi>I</mml:mi>
+<mml:mi>i</mml:mi>
+<mml:mn>2</mml:mn></mml:msubsup></mml:mrow></mml:mfrac></mml:mrow></mml:mrow>
+<mml:mo stretchy="true">]</mml:mo></mml:mrow></mml:mrow>
+<mml:mrow>
+<mml:mn>1</mml:mn>
+<mml:mo>/</mml:mo>
+<mml:mn>2</mml:mn></mml:mrow></mml:msup>
+<mml:mo>,</mml:mo></mml:mrow></mml:math>
+<label>(2)</label></disp-formula>where <italic>I<sub>i</sub></italic> and <italic>R<sub>i</sub></italic> are the injected and recovered (Viterbi) frequencies at time <italic>t<sub>i</sub></italic>, respectively. For the result shown in Fig. <xref ref-type="fig" rid="f5">5</xref>, we find that <inline-formula>
+<mml:math display="inline" overflow="scroll">
+<mml:mrow>
+<mml:msub>
+<mml:mi>E</mml:mi>
+<mml:mrow>
+<mml:mtext>rms</mml:mtext></mml:mrow></mml:msub>
+<mml:mo>=</mml:mo>
+<mml:mn>0.082</mml:mn></mml:mrow></mml:math></inline-formula>, which indicates fair but not total recovery of the injected signal.</p>
+
+<fig fig-type="figure" id="f5" orientation="portrait" position="float">
+<label>Fig. 5.</label>
+<caption><p>Recovery of a wandering tone using the Viterbi algorithm. The spectrogram (heat-map) coloring indicates the value of the detection statistic (here, the logarithm of the absolute value of the discrete Fourier transform) in each time-frequency bin—with brighter colors indicating higher values. The overlaid pink-dot and white-cross markers show the injected signal and recovered Viterbi path, respectively. On the left, before <inline-formula>
+<mml:math display="inline" overflow="scroll">
+<mml:mrow>
+<mml:mo>∼</mml:mo>
+<mml:mn>15</mml:mn>
+<mml:mo> </mml:mo>
+<mml:mi mathvariant="normal">s</mml:mi></mml:mrow></mml:math></inline-formula>, the signal changes frequency too quickly for the Viterbi algorithm to recover, given that the algorithm is restricted to only change by one frequency bin per time bin. At <inline-formula>
+<mml:math display="inline" overflow="scroll">
+<mml:mrow>
+<mml:mn>150</mml:mn>
+<mml:mo> </mml:mo>
+<mml:mi mathvariant="normal">s</mml:mi></mml:mrow></mml:math></inline-formula>, the data appear anomalous, which may be due to some transient background noise.</p></caption>
+<graphic orientation="portrait" position="float" xlink:href="f5"/>
+</fig>
+<p>This may be explained by two anomalies in the recovered path. Initially, the injected signal wanders by more than one frequency bin per time bin (i.e., faster than our choice of <inline-formula>
+<mml:math display="inline" overflow="scroll">
+<mml:mrow>
+<mml:mi>A</mml:mi>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:msub>
+<mml:mi>f</mml:mi>
+<mml:mi>k</mml:mi></mml:msub>
+<mml:mo>,</mml:mo>
+<mml:msub>
+<mml:mi>f</mml:mi>
+<mml:mi>m</mml:mi></mml:msub>
+<mml:mo stretchy="false">)</mml:mo></mml:mrow></mml:math></inline-formula> allows), thus leading to a discrepancy between the injected and recovered paths for <inline-formula>
+<mml:math display="inline" overflow="scroll">
+<mml:mrow>
+<mml:mi>t</mml:mi>
+<mml:mi>≲</mml:mi>
+<mml:mn>10</mml:mn>
+<mml:mo> </mml:mo>
+<mml:mi mathvariant="normal">s</mml:mi></mml:mrow></mml:math></inline-formula>. If we remove the first four time bins from the <inline-formula>
+<mml:math display="inline" overflow="scroll">
+<mml:mrow>
+<mml:msub>
+<mml:mi>E</mml:mi>
+<mml:mrow>
+<mml:mtext>rms</mml:mtext></mml:mrow></mml:msub></mml:mrow></mml:math></inline-formula> calculation, we find a slight improvement in recovery with <inline-formula>
+<mml:math display="inline" overflow="scroll">
+<mml:mrow>
+<mml:msub>
+<mml:mi>E</mml:mi>
+<mml:mrow>
+<mml:mtext>rms</mml:mtext></mml:mrow></mml:msub>
+<mml:mo>=</mml:mo>
+<mml:mn>0.044</mml:mn></mml:mrow></mml:math></inline-formula>. One may be tempted to increase the allowed frequency wander in the algorithm; however, this leads to an overall decrease in the above statistics, as the algorithm is prone to jump briefly to nearby spots of noise. There is also an anomaly at <inline-formula>
+<mml:math display="inline" overflow="scroll">
+<mml:mrow>
+<mml:mn>150</mml:mn>
+<mml:mo> </mml:mo>
+<mml:mi mathvariant="normal">s</mml:mi></mml:mrow></mml:math></inline-formula>, which is likely due to a local disturbance, e.g., someone walking past the interferometer. As shown in Fig. <xref ref-type="fig" rid="f5">5</xref>, the Viterbi algorithm can recover and continue to track the signal after the disturbance.</p>
+</sec>
+</sec><sec id="s5">
+<label>V.</label>
+<title>COMPLEX AUDIO: MUSIC AND SPEECH</title>
+<p>In this section, we explore how our apparatus can be used to teach a selection of signal processing techniques. Complex audio signals, such as music and speech, are natural successors to the constant and wandering tones used in Secs. <xref ref-type="sec" rid="s3">III</xref> and <xref ref-type="sec" rid="s4">IV</xref>, respectively. As they are not quasi-monochromatic, the Viterbi algorithm used in Sec. <xref ref-type="sec" rid="s4">IV</xref> is not directly applicable here. Instead, we use a hierarchy of passive filters which suppress noise, yet do not assume any specific form of the signal, unlike the Fourier-based maximum likelihood filter, which is tuned to the sinusoidal signals in Sec. <xref ref-type="sec" rid="s3">III</xref> and <xref ref-type="app" rid="app2">Appendix B</xref>.</p>
+<p>We use the Michelson interferometer as an “optical microphone” to detect sound, replacing the components of a conventional microphone. The only change to our apparatus is replacing the webcam with a photodiode to allow us to capture the higher frequencies necessary for speech and music (see Sec. <xref ref-type="sec" rid="s5A">V A</xref>). Optical microphones have precedence in the laser microphones<xref ref-type="bibr" rid="c11"><sup>11</sup></xref> which are (or were historically) used in the defense industry and operate on a variety of related principles. Our objective is to play a recording of speech or music through the speaker attached to mirror M2 (see Fig. <xref ref-type="fig" rid="f1">1</xref>), record the resulting interference pattern, and then recover the original signal via a selection of signal processing techniques.</p>
+<p>The apparatus serves as an independent demonstration for a broader physics and engineering audience, particularly in undergraduate laboratories. We describe additional hardware components required for this demonstration in Sec. <xref ref-type="sec" rid="s5A">V A</xref> and the initial results in Sec. <xref ref-type="sec" rid="s5B">V B</xref>. We consider a selection of filter techniques, details of which, along with a summary of digital signal processing resources, can be found in the supplementary material.<xref ref-type="bibr" rid="c26"><sup>26</sup></xref> In Sec. <xref ref-type="sec" rid="s5C">V C</xref>, we present the two best-performing techniques from the supplementary material.</p><sec id="s5A">
+<label>A.</label>
+<title>Hardware modifications for the optical microphone</title>
+<p>The human ear can hear frequencies in the range of <inline-formula>
+<mml:math display="inline" overflow="scroll">
+<mml:mrow>
+<mml:mo>∼</mml:mo>
+<mml:mn>20</mml:mn>
+<mml:mo> </mml:mo>
+<mml:mtext>Hz</mml:mtext></mml:mrow></mml:math></inline-formula>–<inline-formula>
+<mml:math display="inline" overflow="scroll">
+<mml:mrow>
+<mml:mn>20</mml:mn>
+<mml:mo> </mml:mo>
+<mml:mtext>kHz</mml:mtext></mml:mrow></mml:math></inline-formula>. Speech intelligibility (the ability to understand speech) requires frequencies up to <inline-formula>
+<mml:math display="inline" overflow="scroll">
+<mml:mrow>
+<mml:mn>3</mml:mn>
+<mml:mo> </mml:mo>
+<mml:mtext>kHz</mml:mtext></mml:mrow></mml:math></inline-formula> and music requires up to and beyond <inline-formula>
+<mml:math display="inline" overflow="scroll">
+<mml:mrow>
+<mml:mn>8</mml:mn>
+<mml:mo> </mml:mo>
+<mml:mtext>kHz</mml:mtext></mml:mrow></mml:math></inline-formula>. Therefore, the optical microphone requires a sample rate of at least <inline-formula>
+<mml:math display="inline" overflow="scroll">
+<mml:mrow>
+<mml:mn>16</mml:mn>
+<mml:mo> </mml:mo>
+<mml:mtext>kHz</mml:mtext></mml:mrow></mml:math></inline-formula> to capture both speech and music (adjusting for the Nyquist frequency). This cannot be achieved with the webcam used in Secs. <xref ref-type="sec" rid="s3">III</xref> and <xref ref-type="sec" rid="s4">IV</xref> as it has a sampling rate of <inline-formula>
+<mml:math display="inline" overflow="scroll">
+<mml:mrow>
+<mml:mn>30</mml:mn>
+<mml:mo> </mml:mo>
+<mml:mtext>Hz</mml:mtext></mml:mrow></mml:math></inline-formula> and thus can only “hear” frequencies below <inline-formula>
+<mml:math display="inline" overflow="scroll">
+<mml:mrow>
+<mml:mn>15</mml:mn>
+<mml:mo> </mml:mo>
+<mml:mtext>Hz</mml:mtext></mml:mrow></mml:math></inline-formula>. To overcome this issue, we use a photodiode<xref ref-type="bibr" rid="c12"><sup>12</sup></xref> at the output of the interferometer to achieve a sampling rate of <inline-formula>
+<mml:math display="inline" overflow="scroll">
+<mml:mrow>
+<mml:mn>16</mml:mn>
+<mml:mo> </mml:mo>
+<mml:mtext>kHz</mml:mtext></mml:mrow></mml:math></inline-formula>.</p>
+<p>We place an OSRAM BPW21 photodiode in reverse-bias over an LM358 op-amp, which together produce a voltage that depends on the incident intensity. The photodiode records the interference pattern at roughly the same off-center position as the webcam in Secs. <xref ref-type="sec" rid="s3">III</xref> and <xref ref-type="sec" rid="s4">IV</xref>, again chosen arbitrary. The voltage signal from the photo-detector is captured by an MCP3008 10-bit analog-to-digital converter (ADC) connected to a Raspberry Pi Model 3 v1.2, which provides a convenient means to record the photodiode data. Together, the circuit samples the signal at <inline-formula>
+<mml:math display="inline" overflow="scroll">
+<mml:mrow>
+<mml:mo>∼</mml:mo>
+<mml:mn>16</mml:mn>
+<mml:mo> </mml:mo>
+<mml:mtext>kHz</mml:mtext></mml:mrow></mml:math></inline-formula>. Resources for using the Raspberry Pi and photodiode, including a circuit diagram, are described in the supplementary material.<xref ref-type="bibr" rid="c26"><sup>26</sup></xref></p>
+<p>Sampling any frequency component of the analog signal above the Nyquist frequency of <inline-formula>
+<mml:math display="inline" overflow="scroll">
+<mml:mrow>
+<mml:mn>8</mml:mn>
+<mml:mo> </mml:mo>
+<mml:mtext>kHz</mml:mtext></mml:mrow></mml:math></inline-formula> leads to aliasing (folding of frequencies greater than half the sampling rate) into the detected range. We include an anti-aliasing Sallen–Key filter with a cut-off frequency of <inline-formula>
+<mml:math display="inline" overflow="scroll">
+<mml:mrow>
+<mml:mn>8</mml:mn>
+<mml:mo> </mml:mo>
+<mml:mtext>kHz</mml:mtext></mml:mrow></mml:math></inline-formula> before the ADC to prevent this from happening. This component attenuates any frequencies above <inline-formula>
+<mml:math display="inline" overflow="scroll">
+<mml:mrow>
+<mml:mn>8</mml:mn>
+<mml:mo> </mml:mo>
+<mml:mtext>kHz</mml:mtext></mml:mrow></mml:math></inline-formula> before they are digitally sampled. We also place a cloth screen over the face of the photodiode to reduce the incident intensity and avoid saturating the ADC—an improvised, physical solution that could instead be replaced by scaling down the voltage electronically. This cloth screen was re-purposed grill cloth from a commercial speaker.</p>
+</sec><sec id="s5B">
+<label>B.</label>
+<title>Anti-aliased output</title>
+<p>We test the optical microphone with a variety of recordings, including the speech of different people and music ranging from simple melodies and rhythms to songs. During recordings, care is taken to minimize activity around the demonstration to reduce environmental noise coupling into the interferometer. The timeseries data are then directly converted to a Waveform Audio (.wav) file and played as an audio recording using the scipy.io.wavfile.write function in Python (see the <xref ref-type="app" rid="app1">Appendix A</xref>). When processing the results, we restrict our analysis to only the first <inline-formula>
+<mml:math display="inline" overflow="scroll">
+<mml:mrow>
+<mml:mn>10</mml:mn>
+<mml:mo> </mml:mo>
+<mml:mi mathvariant="normal">s</mml:mi></mml:mrow></mml:math></inline-formula> of each observation (for efficiency), and only plot the first second in our results (Fig. <xref ref-type="fig" rid="f7">7</xref>, Multimedia view).</p>
+<p>The raw output of the optical microphone (with anti-aliasing) is noisy with a loud, continuous bass hum. This can be explained by looking at the power spectral density (PSD) of the background noise (i.e., the output with the speaker switched off), shown in Fig. <xref ref-type="fig" rid="f6">6</xref>. The spectrum is dominated by AC electrical power grid noise from the fundamental <inline-formula>
+<mml:math display="inline" overflow="scroll">
+<mml:mrow>
+<mml:mn>50</mml:mn>
+<mml:mo> </mml:mo>
+<mml:mtext>Hz</mml:mtext></mml:mrow></mml:math></inline-formula> Australian mains up to and beyond the eighth harmonic (at <inline-formula>
+<mml:math display="inline" overflow="scroll">
+<mml:mrow>
+<mml:mn>400</mml:mn>
+<mml:mo> </mml:mo>
+<mml:mtext>Hz</mml:mtext></mml:mrow></mml:math></inline-formula>). The mains signal is also present, but far weaker, in the background spectrum taken with the photodiode in darkness, suggesting that ambient lighting has a large contribution. In addition to lighting, other possible contributions to the mains signal include air conditioning and the photodiode circuit itself. The appearance of harmonics of the mains noise might be due to the nonlinearity in the system discussed in Sec. <xref ref-type="sec" rid="s2">II</xref>. The spectrum in Fig. <xref ref-type="fig" rid="f6">6</xref> also has a broad feature at around <inline-formula>
+<mml:math display="inline" overflow="scroll">
+<mml:mrow>
+<mml:mn>750</mml:mn>
+<mml:mo> </mml:mo>
+<mml:mtext>Hz</mml:mtext></mml:mrow></mml:math></inline-formula>, the origin of which is yet to be determined. Environmental noise reduction for gravitational-wave detectors is an active area of research (see the supplementary material<xref ref-type="bibr" rid="c26"><sup>26</sup></xref> for further information and resources on this topic).</p>
+
+<fig fig-type="figure" id="f6" orientation="portrait" position="float">
+<label>Fig. 6.</label>
+<caption><p>Power spectral density (PSD) of background noise from the optical microphone (with the speaker off). We see strong power from the <inline-formula>
+<mml:math display="inline" overflow="scroll">
+<mml:mrow>
+<mml:mn>50</mml:mn>
+<mml:mo> </mml:mo>
+<mml:mtext>Hz</mml:mtext></mml:mrow></mml:math></inline-formula> mains hum and its harmonics (most likely from the photodiode circuit and the room's lighting and cooling). Otherwise, the PSD is fairly white except for a peak at around 0.75 kHz.</p></caption>
+<graphic orientation="portrait" position="float" xlink:href="f6"/>
+</fig>
+</sec><sec id="s5C">
+<label>C.</label>
+<title>Optical microphone results</title>
+<p>We explore several filters to remove the <inline-formula>
+<mml:math display="inline" overflow="scroll">
+<mml:mrow>
+<mml:mn>50</mml:mn>
+<mml:mo> </mml:mo>
+<mml:mtext>Hz</mml:mtext></mml:mrow></mml:math></inline-formula> mains hum and harmonics and improve the speech intelligibility of the recording. The supplementary material<xref ref-type="bibr" rid="c26"><sup>26</sup></xref> describes a range of analysis techniques that can be used as examples for the undergraduate laboratory. All filters are tested on the same 1 s long speech recording. The results of this section are shown in Fig. <xref ref-type="fig" rid="f7">7</xref>. In the figure, the left and right columns show the timeseries and frequency spectrum, respectively. The first row shows the input signal played through the speaker. The second row shows the raw output from the photodiode recording.</p>
+
+<fig fig-type="figure" id="f7" orientation="portrait" position="float">
+<label>Fig. 7.</label>
+<caption><p>Timeseries (left column) and frequency spectrum (right column) results with the optical microphone. The original input signal in the first row is a 1 s recording of an adult male voice (saying “a cathode”). The input signal is shifted by 0.12 s to the right to synchronize the manual delay from starting the recording with the Raspberry Pi and starting to play the source through the speaker. The second row shows the raw output from the optical microphone when the input from the first row is played. The third row shows the result of applying the notch and Wiener filters combined. The fourth row shows the result of applying the logMMSE estimator, where the rise at the start of the timeseries is an expected effect when filtering a signal of finite duration. Multimedia views: <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1119/10.0009409.1">https://doi.org/10.1119/10.0009409.1</ext-link>
+<media id="v1" mime-subtype="x-wav" mimetype="audio" orientation="portrait" position="anchor" specific-use="original-format" xlink:href="v1"><object-id pub-id-type="doi" specific-use="metadata">10.1119/10.0009409.1</object-id></media>; <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1119/10.0009409.2">https://doi.org/10.1119/10.0009409.2</ext-link>
+<media id="v2" mime-subtype="x-wav" mimetype="audio" orientation="portrait" position="anchor" specific-use="original-format" xlink:href="v2"><object-id pub-id-type="doi" specific-use="metadata">10.1119/10.0009409.2</object-id></media>; <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1119/10.0009409.3">https://doi.org/10.1119/10.0009409.3</ext-link>
+<media id="v3" mime-subtype="x-wav" mimetype="audio" orientation="portrait" position="anchor" specific-use="original-format" xlink:href="v3"><object-id pub-id-type="doi" specific-use="metadata">10.1119/10.0009409.3</object-id></media>; <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1119/10.0009409.4">https://doi.org/10.1119/10.0009409.4</ext-link>
+<media id="v4" mime-subtype="x-wav" mimetype="audio" orientation="portrait" position="anchor" specific-use="original-format" xlink:href="v4"><object-id pub-id-type="doi" specific-use="metadata">10.1119/10.0009409.4</object-id></media></p></caption>
+<graphic orientation="portrait" position="float" xlink:href="f7"/>
+</fig>
+<p>In signal processing, the ideal filter would be one that (i) completely attenuates the undesired parts of the spectrum, (ii) does not change the rest of the spectrum, and (iii) smoothly transitions between these regions, as to not damage the time domain signal when seen under convolution. However, these three requirements cannot all be satisfied at once. For example, if (i) and (ii) hold, then the filter must be discontinuous at the boundary of the undesired region, but this implies that the filter has “infinite latency” and so will affect (or damage) the time domain signal for infinite time.<xref ref-type="bibr" rid="c13"><sup>13</sup></xref> For speech intelligibility, this means that either (i) some noise remains in the filtered recording, (ii) some of the speech content is lost as certain important frequencies are attenuated, or (iii) the speech is somewhat distorted in time. Any one of these conditions can, when taken to the extreme, make speech intelligibility worse than in the unfiltered recording. Therefore, we choose filters that provide an effective compromise among the three conditions.</p>
+<p>In this section, we present the results of two advanced signal processing techniques applied to the optical microphone recordings. The techniques are only briefly described here, and we refer the reader to the supplementary material<xref ref-type="bibr" rid="c26"><sup>26</sup></xref> for further details and other analysis techniques.</p>
+<p>First, we consider two signal processing techniques used in combination: the cascaded notch and the Wiener filter (see also the supplementary material<xref ref-type="bibr" rid="c26"><sup>26</sup></xref>). A notch filter removes signals within a specific frequency range. We want to remove the <inline-formula>
+<mml:math display="inline" overflow="scroll">
+<mml:mrow>
+<mml:mn>50</mml:mn>
+<mml:mo> </mml:mo>
+<mml:mtext>Hz</mml:mtext></mml:mrow></mml:math></inline-formula> mains noise and its harmonics; therefore we use a cascaded notch filter where each notch is centered on one of the harmonics. The Wiener filter is an advanced statistical technique that makes use of statistical information from the speech data and noise. It amplifies parts of the signal with a high signal-to-noise ratio while suppressing parts with a low signal-to-noise ratio. The results of the combined cascaded notch and Wiener filter are shown in the third row in Fig. <xref ref-type="fig" rid="f7">7</xref>. Most of the mains noise is removed; however, the recovered voice sounds muffled and is not understandable.</p>
+<p>Next, we apply a speech enhancement technique. Reference <xref ref-type="bibr" rid="c14">14</xref> compares 13 speech enhancement methods, finding the log minimum mean-square error (logMMSE) estimator to be the best, qualitatively, at recovering speech (see also the supplementary material<xref ref-type="bibr" rid="c26"><sup>26</sup></xref>). We use an existing implementation of the logMMSE from Ref. <xref ref-type="bibr" rid="c15">15</xref>. The results are shown in the bottom panels in Fig. <xref ref-type="fig" rid="f7">7</xref>. We see significant attenuation of the mains harmonics and general smoothing of the spectrum. Most of the background noise is removed; however, the logMMSE still does not significantly enhance the speech intelligibility as the voice sounds muffled and indistinct.</p>
+<p>We find some improvement with music over speech. Simple chords and drums can be heard after filtering, but more composite sounds and complex melodies cannot be heard clearly. Our observations suggest that this is especially true for certain instruments; in particular, flutes and violins sometimes cannot be heard at all. This could be a perceptual effect or a frequency dependence somewhere in the optical microphone. Speculating, perhaps the speaker-mirror coupling is stronger at low frequencies and thus instruments like electric bass and drums sound louder in the results. To address these problems, we need to determine whether the signals that are audibly missing (the diction in the speech and complex melodies in music) are indeed being transmitted through the optical microphone. To determine this requires a better understanding of the system, as discussed in Sec. <xref ref-type="sec" rid="s6">VI</xref>.</p>
+</sec>
+</sec><sec id="s6">
+<label>VI.</label>
+<title>FUTURE WORK</title>
+<p>The experiment described here can be used to demonstrate and teach a variety of topics, from basic optics and photodiode circuits to signal processing and speech enhancement. Cross-disciplinary undergraduate laboratory experiments between physics and engineering courses are beneficial to student learning (see Sec. <xref ref-type="sec" rid="s2">II</xref> in the supplementary material<xref ref-type="bibr" rid="c26"><sup>26</sup></xref> for further information). Here, we consider further extensions and improvements to the experiment, such as noise isolation, transfer function analysis, speech recognition, and control systems.</p>
+<p>Isolating the experiment from interference may provide some noise reduction. The Raspberry Pi could be powered with a commercial battery instead of mains power, which may help to isolate the circuit from the mains as all other components draw power from the Raspberry Pi (the laser is DC-powered through a converter). Transferring the circuit from a breadboard to a printed circuit board can also reduce interference.<xref ref-type="bibr" rid="c16"><sup>16</sup></xref> A feedback loop control system can also be used to suppress any unwanted movement of the interferometer components,<xref ref-type="bibr" rid="c17 c18 c19"><sup>17–19</sup></xref> similar to the methods used to isolate gravitational-wave observatories.</p>
+<p>A thorough characterization of the system's transfer function would allow us to understand how audio signals couple through the interferometer. The total transfer function starts with the voltage being sent to the speaker and ends with the voltage recorded by the Raspberry Pi. It would include any inherent nonlinearities in the speaker, the speaker-mirror coupling, the path length to intensity relation, and the photodiode. The schematic in Fig. <xref ref-type="fig" rid="f8">8</xref> shows the abstract signal flow through the system. It does not include other potential pathways for signal flow, such as acoustomechanical vibrations of the webcam or photodiode mount, which could also be examined.</p>
+
+<fig fig-type="figure" id="f8" orientation="portrait" position="float">
+<label>Fig. 8.</label>
+<caption><p>Flowchart for the signal through the optical microphone. A transfer function of the system would have to account for each stage, and an exploration of this is an aim of future work. Not shown are the signal processing filters that are performed on the PC once the data are transferred off the Raspberry Pi.</p></caption>
+<graphic orientation="portrait" position="float" xlink:href="f8"/>
+</fig>
+<p>A voluminous literature exists on using hidden Markov models trained on phonemes to recognize speech.<xref ref-type="bibr" rid="c20"><sup>20</sup></xref> These could perform the final stage of speech enhancement for the optical microphone. This coincidentally connects back to the Viterbi algorithm in Sec. <xref ref-type="sec" rid="s4">IV</xref>, which is also underpinned by a hidden Markov model, albeit of a different type. Alternatively, machine learning solutions exist throughout the field that can provide results competitive with statistical techniques (such as the logMMSE estimator used here).<xref ref-type="bibr" rid="c21"><sup>21</sup></xref></p>
+<p>More traditional techniques, such as a wavelet transform,<xref ref-type="bibr" rid="c22"><sup>22</sup></xref> could be used to extract the signal from noise and compared with the above methods. A wavelet transform provides both time and frequency information, making it easier to pinpoint the origin of noise with respect to time. In Refs. <xref ref-type="bibr" rid="c23">23</xref>, <xref ref-type="bibr" rid="c24">24</xref> wavelet transform methods are proposed for speech recognition.</p>
+<p>Returning to the demonstration of gravitational wave analysis, single interferometers cannot yield directional information for signals; a large proportion of the directional information in gravitational-wave detections comes from the time delay offset between the observation being recorded at two or more detectors.<xref ref-type="bibr" rid="c1"><sup>1</sup></xref> We could, therefore, extend this analysis to include data from two interferometers to extract directional information. This would require increasing the sensitivity of the optical microphone to pick up the signal from a distant source instead of from a speaker attached directly to one of the mirrors of the interferometer. Another extension would be to demonstrate the Doppler effect of the Earth's motion around the Sun, which needs to be considered in continuous-wave searches (see Sec. <xref ref-type="sec" rid="s4A">IV A</xref> and Ref. <xref ref-type="bibr" rid="c9">9</xref>). One approach could be to modify the input audio signal to simulate Doppler modulation.</p>
+</sec><sec id="s7">
+<label>VII.</label>
+<title>CONCLUSIONS</title>
+<p>In this paper, we use a table-top Michelson interferometer as an analog to a gravitational-wave detector, demonstrating signal processing techniques used within the gravitational-wave community. We explore the use of the interferometer as an optical microphone and consider a more general treatment of signal processing with complex audio signals, which can also serve as a distant analog to minimally modelled gravitational-wave burst signals, e.g., from supernovae. The demonstration can be adapted for use in both the physics and engineering undergraduate laboratory, providing opportunities for cross-disciplinary teaching. Additionally, it can be used as a tool for explaining gravitational-wave research to a wider, nonspecialist audience.</p>
+<p>As the field of gravitational-wave astrophysics continues to grow, the future will bring many more detections of binary black holes and neutron stars, as well as the anticipated first detection of other classes of signals, such as continuous waves, to which this demonstration provides some charming insights.</p>
+</sec>
+</body><back>
+<ack>
+<title>ACKNOWLEDGMENTS</title>
+<p>The authors are grateful to Jude Prezens, Alex Tolotchkoc, and Blake Molyneux for their technical advice and generous assistance; Patrick Meyers, Margaret Millhouse, Sofia Suvorova for useful discussions; Patrick Clearwater, Patrick Meyers, Suk Yee Yong, Lucy Strang, Julian Carlin, Sanjaykumar Patil, and Alex Cameron for early work on the interferometer design requirements and construction; and the LIGO Education Public Outreach working group, in particular, Anna Green, Lynn Cominsky, Sam Cooper, and Martin Hendry, for their helpful feedback and suggestions. Figure 1 was made using graphics from ComponentLibrary by Alexander Franzen, licensed under a Creative Commons Attribution-NonCommercial 3.0 Unported License. This research is supported by the Australian Research Council Centre of Excellence for Gravitational Wave Discovery (OzGrav) (Project No. CE170100004). Financial support toward hardware was provided by the Institute of Physics International Member Grant and the OzGrav Outreach Support scheme. Travel support was provided by the Australian National University PhB Science program. This work has been assigned LIGO Document No. P2000386.</p>
+</ack>
+<app-group>
+<app id="app1">
+<title>APPENDIX A: OPEN-SOURCE CODE</title>
+<p>This project is implemented in Python 3, Jupyter notebooks, and MATLAB. We refer the reader to the supplementary material<xref ref-type="bibr" rid="c26"><sup>26</sup></xref> for software references. The current build and sample data can be found at <ext-link ext-link-type="uri" xlink:href="https://github.com/daccordeon/gravexplain">https://github.com/daccordeon/gravexplain</ext-link>.</p>
+</app>
+<app id="app2">
+<title>APPENDIX B: DETECTING a SINUSOIDAL SIGNAL IN GAUSSIAN NOISE</title>
+<p>In this appendix, we demonstrate that the modulus of the Fourier transform is an appropriate detection statistic when searching for a sinusoidal signal in Gaussian noise. We describe the data as
+<disp-formula id="dB1">
+<mml:math display="block" overflow="scroll">
+<mml:mrow>
+<mml:mi>x</mml:mi>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:mi>t</mml:mi>
+<mml:mo stretchy="false">)</mml:mo>
+<mml:mo>=</mml:mo>
+<mml:mi>s</mml:mi>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:mi>t</mml:mi>
+<mml:mo stretchy="false">)</mml:mo>
+<mml:mo>+</mml:mo>
+<mml:mi>n</mml:mi>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:mi>t</mml:mi>
+<mml:mo stretchy="false">)</mml:mo>
+<mml:mo>,</mml:mo></mml:mrow></mml:math>
+<label>(B1)</label></disp-formula>where <italic>s</italic>(<italic>t</italic>) and <italic>n</italic>(<italic>t</italic>) are the signal and noise, respectively. The signal takes the form
+<disp-formula id="dB2">
+<mml:math display="block" overflow="scroll">
+<mml:mrow>
+<mml:mi>s</mml:mi>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:mi>t</mml:mi>
+<mml:mo stretchy="false">)</mml:mo>
+<mml:mo>=</mml:mo>
+<mml:mi>A</mml:mi>
+<mml:mo> </mml:mo>
+<mml:mtext>cos</mml:mtext>
+<mml:mo> </mml:mo>
+<mml:mrow>
+<mml:mo stretchy="true">[</mml:mo>
+<mml:mrow>
+<mml:mi>ω</mml:mi>
+<mml:mi>t</mml:mi>
+<mml:mo>+</mml:mo>
+<mml:mi>ϕ</mml:mi></mml:mrow>
+<mml:mo stretchy="true">]</mml:mo></mml:mrow>
+<mml:mo>,</mml:mo></mml:mrow></mml:math>
+<label>(B2)</label></disp-formula>where <italic>A</italic>, <italic>ω</italic>, and <inline-formula>
+<mml:math display="inline" overflow="scroll">
+<mml:mi>ϕ</mml:mi></mml:math></inline-formula> are the amplitude, angular frequency, and phase of the signal, respectively. The noise <italic>n</italic>(<italic>t</italic>) is a fluctuating zero-mean time series with the following property: if we define an inner product between two arbitrary time series <italic>u</italic>(<italic>t</italic>) and <italic>v</italic>(<italic>t</italic>) as
+<disp-formula id="dB3">
+<mml:math display="block" overflow="scroll">
+<mml:mrow>
+<mml:mo>⟨</mml:mo>
+<mml:mi>u</mml:mi>
+<mml:mo>,</mml:mo>
+<mml:mi>v</mml:mi>
+<mml:mo>⟩</mml:mo>
+<mml:mo>=</mml:mo>
+<mml:mfrac>
+<mml:mn>1</mml:mn>
+<mml:mi>T</mml:mi></mml:mfrac>
+<mml:mrow>
+<mml:msubsup>
+<mml:mo>∫</mml:mo>
+<mml:mn>0</mml:mn>
+<mml:mi>T</mml:mi></mml:msubsup>
+<mml:mi mathvariant="normal">d</mml:mi></mml:mrow>
+<mml:mi>t</mml:mi>
+<mml:mo> </mml:mo>
+<mml:mi>u</mml:mi>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:mi>t</mml:mi>
+<mml:mo stretchy="false">)</mml:mo>
+<mml:mi>v</mml:mi>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:mi>t</mml:mi>
+<mml:mo stretchy="false">)</mml:mo>
+<mml:mo>,</mml:mo></mml:mrow></mml:math>
+<label>(B3)</label></disp-formula>where <italic>T</italic> is the total time of the observation, then the probability <inline-formula>
+<mml:math display="inline" overflow="scroll">
+<mml:mi mathvariant="script">L</mml:mi></mml:math></inline-formula> of measuring the noise–noise product <inline-formula>
+<mml:math display="inline" overflow="scroll">
+<mml:mrow>
+<mml:mo>⟨</mml:mo>
+<mml:mi>n</mml:mi>
+<mml:mo>,</mml:mo>
+<mml:mi>n</mml:mi>
+<mml:mo>⟩</mml:mo></mml:mrow></mml:math></inline-formula> is given by
+<disp-formula id="dB4">
+<mml:math display="block" overflow="scroll">
+<mml:mrow>
+<mml:mi mathvariant="script">L</mml:mi>
+<mml:mo>=</mml:mo>
+<mml:mtext>exp</mml:mtext>
+<mml:mo> </mml:mo>
+<mml:mrow>
+<mml:mo stretchy="true">(</mml:mo>
+<mml:mrow>
+<mml:mo>−</mml:mo>
+<mml:mfrac>
+<mml:mrow>
+<mml:mn>1</mml:mn></mml:mrow>
+<mml:mrow>
+<mml:mn>2</mml:mn></mml:mrow></mml:mfrac>
+<mml:mo>⟨</mml:mo>
+<mml:mi>n</mml:mi>
+<mml:mo>,</mml:mo>
+<mml:mi>n</mml:mi>
+<mml:mo>⟩</mml:mo></mml:mrow>
+<mml:mo stretchy="true">)</mml:mo></mml:mrow>
+<mml:mo>.</mml:mo></mml:mrow></mml:math>
+<label>(B4)</label></disp-formula>Equations <xref ref-type="disp-formula" rid="dB3">(B3)</xref> and <xref ref-type="disp-formula" rid="dB4">(B4)</xref> define what it means for noise to be Gaussian through the fundamental measurement of <inline-formula>
+<mml:math display="inline" overflow="scroll">
+<mml:mrow>
+<mml:mo>⟨</mml:mo>
+<mml:mi>n</mml:mi>
+<mml:mo>,</mml:mo>
+<mml:mi>n</mml:mi>
+<mml:mo>⟩</mml:mo></mml:mrow></mml:math></inline-formula>.</p>
+<p>The likelihood of measuring the signal <italic>s</italic>(<italic>t</italic>) in the presence of noise follows from Eqs. <xref ref-type="disp-formula" rid="dB1">(B1)</xref> and <xref ref-type="disp-formula" rid="dB4">(B4)</xref> by replacing <italic>n</italic>(<italic>t</italic>) in Eq. <xref ref-type="disp-formula" rid="dB4">(B4)</xref> with <inline-formula>
+<mml:math display="inline" overflow="scroll">
+<mml:mrow>
+<mml:mi>x</mml:mi>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:mi>t</mml:mi>
+<mml:mo stretchy="false">)</mml:mo>
+<mml:mo>−</mml:mo>
+<mml:mi>s</mml:mi>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:mi>t</mml:mi>
+<mml:mo stretchy="false">)</mml:mo>
+<mml:mo>=</mml:mo>
+<mml:mi>n</mml:mi>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:mi>t</mml:mi>
+<mml:mo stretchy="false">)</mml:mo></mml:mrow></mml:math></inline-formula> from Eq. <xref ref-type="disp-formula" rid="dB1">(B1)</xref>.<xref ref-type="bibr" rid="c9 c25"><sup>9,25</sup></xref> The result is
+<disp-formula id="dB5">
+<mml:math display="block" overflow="scroll">
+<mml:mrow>
+<mml:mi mathvariant="script">L</mml:mi>
+<mml:mo>=</mml:mo>
+<mml:mtext>exp</mml:mtext>
+<mml:mo> </mml:mo>
+<mml:mrow>
+<mml:mo stretchy="true">(</mml:mo>
+<mml:mrow>
+<mml:mo>−</mml:mo>
+<mml:mfrac>
+<mml:mrow>
+<mml:mn>1</mml:mn></mml:mrow>
+<mml:mrow>
+<mml:mn>2</mml:mn></mml:mrow></mml:mfrac>
+<mml:mo>⟨</mml:mo>
+<mml:mi>x</mml:mi>
+<mml:mo>−</mml:mo>
+<mml:mi>s</mml:mi>
+<mml:mo>,</mml:mo>
+<mml:mi>x</mml:mi>
+<mml:mo>−</mml:mo>
+<mml:mi>s</mml:mi>
+<mml:mo>⟩</mml:mo></mml:mrow>
+<mml:mo stretchy="true">)</mml:mo></mml:mrow></mml:mrow></mml:math>
+<label>(B5)</label></disp-formula>
+<disp-formula id="dB6">
+<mml:math display="block" overflow="scroll">
+<mml:mtable>
+<mml:mtr>
+<mml:mtd>
+<mml:mo>=</mml:mo>
+<mml:mtext>exp</mml:mtext>
+<mml:mo> </mml:mo>
+<mml:mrow>
+<mml:mo stretchy="true">(</mml:mo>
+<mml:mrow>
+<mml:mo>−</mml:mo>
+<mml:mfrac>
+<mml:mrow>
+<mml:mn>1</mml:mn></mml:mrow>
+<mml:mrow>
+<mml:mn>2</mml:mn></mml:mrow></mml:mfrac>
+<mml:mo>⟨</mml:mo>
+<mml:mi>x</mml:mi>
+<mml:mo>,</mml:mo>
+<mml:mi>x</mml:mi>
+<mml:mo>⟩</mml:mo>
+<mml:mo>−</mml:mo>
+<mml:mfrac>
+<mml:mrow>
+<mml:msup>
+<mml:mi>A</mml:mi>
+<mml:mn>2</mml:mn></mml:msup></mml:mrow>
+<mml:mn>2</mml:mn></mml:mfrac>
+<mml:mo>⟨</mml:mo>
+<mml:mo> </mml:mo>
+<mml:mtext>cos</mml:mtext>
+<mml:mo> </mml:mo>
+<mml:mo stretchy="true">[</mml:mo>
+<mml:mi>ω</mml:mi>
+<mml:mi>t</mml:mi>
+<mml:mo>+</mml:mo>
+<mml:mi>ϕ</mml:mi>
+<mml:mo stretchy="true">]</mml:mo>
+<mml:mo>,</mml:mo>
+<mml:mo> </mml:mo>
+<mml:mtext>cos</mml:mtext>
+<mml:mo> </mml:mo>
+<mml:mo stretchy="true">[</mml:mo>
+<mml:mi>ω</mml:mi>
+<mml:mi>t</mml:mi>
+<mml:mo>+</mml:mo>
+<mml:mi>ϕ</mml:mi>
+<mml:mo stretchy="true">]</mml:mo>
+<mml:mo>⟩</mml:mo></mml:mrow></mml:mrow></mml:mtd></mml:mtr>
+<mml:mtr>
+<mml:mtd>
+<mml:mrow>
+<mml:mrow>
+<mml:mo>+</mml:mo>
+<mml:mi>A</mml:mi>
+<mml:mo>⟨</mml:mo>
+<mml:mi>x</mml:mi>
+<mml:mo>,</mml:mo>
+<mml:mo> </mml:mo>
+<mml:mtext>cos</mml:mtext>
+<mml:mo> </mml:mo>
+<mml:mo stretchy="true">[</mml:mo>
+<mml:mi>ω</mml:mi>
+<mml:mi>t</mml:mi>
+<mml:mo>+</mml:mo>
+<mml:mi>ϕ</mml:mi>
+<mml:mo stretchy="true">]</mml:mo>
+<mml:mo>⟩</mml:mo></mml:mrow>
+<mml:mo stretchy="true">)</mml:mo></mml:mrow></mml:mtd></mml:mtr></mml:mtable></mml:math>
+<label>(B6)</label></disp-formula>
+<disp-formula id="dB7">
+<mml:math display="block" overflow="scroll">
+<mml:mrow>
+<mml:mo>=</mml:mo>
+<mml:mtext>exp</mml:mtext>
+<mml:mo> </mml:mo>
+<mml:mrow>
+<mml:mo stretchy="true">(</mml:mo>
+<mml:mrow>
+<mml:mo>−</mml:mo>
+<mml:mfrac>
+<mml:mrow>
+<mml:mn>1</mml:mn></mml:mrow>
+<mml:mrow>
+<mml:mn>2</mml:mn></mml:mrow></mml:mfrac>
+<mml:mo>⟨</mml:mo>
+<mml:mi>x</mml:mi>
+<mml:mo>,</mml:mo>
+<mml:mi>x</mml:mi>
+<mml:mo>⟩</mml:mo>
+<mml:mo>−</mml:mo>
+<mml:mfrac>
+<mml:mrow>
+<mml:msup>
+<mml:mi>A</mml:mi>
+<mml:mn>2</mml:mn></mml:msup></mml:mrow>
+<mml:mn>4</mml:mn></mml:mfrac>
+<mml:mo>+</mml:mo>
+<mml:mi>A</mml:mi>
+<mml:mo>⟨</mml:mo>
+<mml:mi>x</mml:mi>
+<mml:mo>,</mml:mo>
+<mml:mo> </mml:mo>
+<mml:mtext>cos</mml:mtext>
+<mml:mo> </mml:mo>
+<mml:mo stretchy="true">[</mml:mo>
+<mml:mi>ω</mml:mi>
+<mml:mi>t</mml:mi>
+<mml:mo>+</mml:mo>
+<mml:mi>ϕ</mml:mi>
+<mml:mo stretchy="true">]</mml:mo>
+<mml:mo>⟩</mml:mo></mml:mrow>
+<mml:mo stretchy="true">)</mml:mo></mml:mrow>
+<mml:mo>.</mml:mo></mml:mrow></mml:math>
+<label>(B7)</label></disp-formula>We then maximize Eq. <xref ref-type="disp-formula" rid="dB7">(B7)</xref> with respect to <italic>A</italic>, obtaining
+<disp-formula id="dB8">
+<mml:math display="block" overflow="scroll">
+<mml:mrow>
+<mml:msub>
+<mml:mi mathvariant="script">L</mml:mi>
+<mml:mrow>
+<mml:mtext>max</mml:mtext></mml:mrow></mml:msub>
+<mml:mo>=</mml:mo>
+<mml:mtext>exp</mml:mtext>
+<mml:mo> </mml:mo>
+<mml:mrow>
+<mml:mo stretchy="true">(</mml:mo>
+<mml:mrow>
+<mml:mo>−</mml:mo>
+<mml:mfrac>
+<mml:mrow>
+<mml:mn>1</mml:mn></mml:mrow>
+<mml:mrow>
+<mml:mn>2</mml:mn></mml:mrow></mml:mfrac>
+<mml:mo>⟨</mml:mo>
+<mml:mi>x</mml:mi>
+<mml:mo>,</mml:mo>
+<mml:mi>x</mml:mi>
+<mml:mo>⟩</mml:mo>
+<mml:mo>+</mml:mo>
+<mml:msup>
+<mml:mrow>
+<mml:mo>⟨</mml:mo>
+<mml:mi>x</mml:mi>
+<mml:mo>,</mml:mo>
+<mml:mo> </mml:mo>
+<mml:mtext>cos</mml:mtext>
+<mml:mo> </mml:mo>
+<mml:mo stretchy="true">[</mml:mo>
+<mml:mi>ω</mml:mi>
+<mml:mi>t</mml:mi>
+<mml:mo>+</mml:mo>
+<mml:mi>ϕ</mml:mi>
+<mml:mo stretchy="true">]</mml:mo>
+<mml:mo>⟩</mml:mo></mml:mrow>
+<mml:mn>2</mml:mn></mml:msup></mml:mrow>
+<mml:mo stretchy="true">)</mml:mo></mml:mrow>
+<mml:mo>,</mml:mo></mml:mrow></mml:math>
+<label>(B8)</label></disp-formula>for <inline-formula>
+<mml:math display="inline" overflow="scroll">
+<mml:mrow>
+<mml:mi>A</mml:mi>
+<mml:mo>=</mml:mo>
+<mml:mn>2</mml:mn>
+<mml:mo>⟨</mml:mo>
+<mml:mi>x</mml:mi>
+<mml:mo>,</mml:mo>
+<mml:mo> </mml:mo>
+<mml:mtext>cos</mml:mtext>
+<mml:mo> </mml:mo>
+<mml:mo stretchy="false">[</mml:mo>
+<mml:mi>ω</mml:mi>
+<mml:mi>t</mml:mi>
+<mml:mo>+</mml:mo>
+<mml:mi>ϕ</mml:mi>
+<mml:mo stretchy="false">]</mml:mo>
+<mml:mo>⟩</mml:mo></mml:mrow></mml:math></inline-formula>. From the second term of Eq. <xref ref-type="disp-formula" rid="dB8">(B8)</xref>, we see that the maximum likelihood of a sinusoidal signal in Gaussian noise is the modulus of the cosine Fourier transform, plus the term <inline-formula>
+<mml:math display="inline" overflow="scroll">
+<mml:mrow>
+<mml:mo>⟨</mml:mo>
+<mml:mi>x</mml:mi>
+<mml:mo>,</mml:mo>
+<mml:mi>x</mml:mi>
+<mml:mo>⟩</mml:mo></mml:mrow></mml:math></inline-formula>, which is independent of <italic>ω</italic> and <inline-formula>
+<mml:math display="inline" overflow="scroll">
+<mml:mi>ϕ</mml:mi></mml:math></inline-formula> and can therefore be ignored when searching over <italic>ω</italic>.</p>
+<p>Two important points must be made about the above procedure. (i) Fundamentally, the goal is to maximize <inline-formula>
+<mml:math display="inline" overflow="scroll">
+<mml:mi mathvariant="script">L</mml:mi></mml:math></inline-formula> in Eq. <xref ref-type="disp-formula" rid="dB5">(B5)</xref> by varying <italic>s</italic>(<italic>t</italic>) through <italic>A</italic>. For the special case of the Gaussian likelihood (Eq. <xref ref-type="disp-formula" rid="dB4">(B4)</xref>), which peaks at <inline-formula>
+<mml:math display="inline" overflow="scroll">
+<mml:mrow>
+<mml:mo>⟨</mml:mo>
+<mml:mi>n</mml:mi>
+<mml:mo>,</mml:mo>
+<mml:mi>n</mml:mi>
+<mml:mo>⟩</mml:mo>
+<mml:mo>=</mml:mo>
+<mml:mn>0</mml:mn></mml:mrow></mml:math></inline-formula>, this is equivalent to minimizing the difference between <italic>x</italic>(<italic>t</italic>) and <italic>s</italic>(<italic>t</italic>) as evident in Eq. <xref ref-type="disp-formula" rid="dB3">(B3)</xref>. In general, however, minimizing the difference between <italic>x</italic>(<italic>t</italic>) and <italic>s</italic>(<italic>t</italic>) is not equivalent always to the fundamental goal of maximizing <inline-formula>
+<mml:math display="inline" overflow="scroll">
+<mml:mi mathvariant="script">L</mml:mi></mml:math></inline-formula>, for example if <inline-formula>
+<mml:math display="inline" overflow="scroll">
+<mml:mi mathvariant="script">L</mml:mi></mml:math></inline-formula> peaks at <inline-formula>
+<mml:math display="inline" overflow="scroll">
+<mml:mrow>
+<mml:mo>⟨</mml:mo>
+<mml:mi>n</mml:mi>
+<mml:mo>,</mml:mo>
+<mml:mi>n</mml:mi>
+<mml:mo>⟩</mml:mo>
+<mml:mo>≠</mml:mo>
+<mml:mn>0</mml:mn></mml:mrow></mml:math></inline-formula>, or if <inline-formula>
+<mml:math display="inline" overflow="scroll">
+<mml:mi mathvariant="script">L</mml:mi></mml:math></inline-formula> has multiple maxima. (ii) The maximum likelihood <inline-formula>
+<mml:math display="inline" overflow="scroll">
+<mml:mrow>
+<mml:msub>
+<mml:mi mathvariant="script">L</mml:mi>
+<mml:mrow>
+<mml:mtext>max</mml:mtext></mml:mrow></mml:msub></mml:mrow></mml:math></inline-formula> in Eq. <xref ref-type="disp-formula" rid="dB8">(B8)</xref> (or equivalently its logarithm) defines the detection statistic. When its value exceeds a threshold (chosen freely by the analyst) at some value of <italic>ω</italic>, a signal is deemed to have been detected at that value of <italic>ω</italic>. Therefore, the specific functional form of Eq. <xref ref-type="disp-formula" rid="dB8">(B8)</xref> matters, which is a second reason why one must start from Eq. <xref ref-type="disp-formula" rid="dB4">(B4)</xref> rather than Eq. <xref ref-type="disp-formula" rid="dB5">(B5)</xref>, in addition to reason (i).</p>
+</app>
+<app id="app3">
+<title>APPENDIX C: VITERBI ALGORITHM</title>
+<p>This appendix contains some details rearding the implementation of the Viterbi algorithm described in Sec. <xref ref-type="sec" rid="s4B">IV B</xref>. The Viterbi algorithm<xref ref-type="bibr" rid="c10"><sup>10</sup></xref> is a classic method in signal processing, whose theoretical underpinnings and implementation are accessible to undergraduate students. See the supplementary material<xref ref-type="bibr" rid="c26"><sup>26</sup></xref> for further resources and other pseudocode examples available online.</p>
+<p>Here, we present some pseudocode (below) of the implementation used in Sec. <xref ref-type="sec" rid="s4B">IV B</xref>. We use Fourier amplitudes, normalized between (0, 1) by dividing by the maximum value in the grid, as multiplicative weights. To avoid numerical underflow, we take the logarithm of the Fourier amplitudes, which we can equivalently use as additive weights.</p>
+<p>Let <italic>X</italic> be a grid of <inline-formula>
+<mml:math display="inline" overflow="scroll">
+<mml:mrow>
+<mml:mi>j</mml:mi>
+<mml:mo>=</mml:mo>
+<mml:mn>0</mml:mn>
+<mml:mo>,</mml:mo>
+<mml:mo>…</mml:mo>
+<mml:mo>,</mml:mo>
+<mml:msub>
+<mml:mi>N</mml:mi>
+<mml:mi>f</mml:mi></mml:msub></mml:mrow></mml:math></inline-formula> “frequency” rows and <inline-formula>
+<mml:math display="inline" overflow="scroll">
+<mml:mrow>
+<mml:mi>i</mml:mi>
+<mml:mo>=</mml:mo>
+<mml:mn>0</mml:mn>
+<mml:mo>,</mml:mo>
+<mml:mo>…</mml:mo>
+<mml:mo>,</mml:mo>
+<mml:msub>
+<mml:mi>N</mml:mi>
+<mml:mi>t</mml:mi></mml:msub></mml:mrow></mml:math></inline-formula> “time” columns of additive weights for each node indexed by column then row, e.g., <italic>X<sub>i,j</sub></italic>. Let Y and Z be grids of the same shape to store the weight of the best path to each node and the row index of the previous node on that path, respectively. Let W be a length <inline-formula>
+<mml:math display="inline" overflow="scroll">
+<mml:mrow>
+<mml:msub>
+<mml:mi>N</mml:mi>
+<mml:mi>t</mml:mi></mml:msub>
+<mml:mo>+</mml:mo>
+<mml:mn>1</mml:mn></mml:mrow></mml:math></inline-formula> array to store the final sequence of row indices for the optimal path. We restrict paths to only move one cell up or down at a time (or stay constant). For the boundary cases of <inline-formula>
+<mml:math display="inline" overflow="scroll">
+<mml:mrow>
+<mml:mi>j</mml:mi>
+<mml:mo>=</mml:mo>
+<mml:mn>0</mml:mn>
+<mml:mo>,</mml:mo>
+<mml:msub>
+<mml:mi>N</mml:mi>
+<mml:mi>f</mml:mi></mml:msub></mml:mrow></mml:math></inline-formula>, we only search over <inline-formula>
+<mml:math display="inline" overflow="scroll">
+<mml:mrow>
+<mml:mi>k</mml:mi>
+<mml:mo>∈</mml:mo>
+<mml:mo>{</mml:mo>
+<mml:mn>0</mml:mn>
+<mml:mo>,</mml:mo>
+<mml:mn>1</mml:mn>
+<mml:mo>}</mml:mo></mml:mrow></mml:math></inline-formula> and <inline-formula>
+<mml:math display="inline" overflow="scroll">
+<mml:mrow>
+<mml:mi>k</mml:mi>
+<mml:mo>∈</mml:mo>
+<mml:mo>{</mml:mo>
+<mml:mo>−</mml:mo>
+<mml:mn>1</mml:mn>
+<mml:mo>,</mml:mo>
+<mml:mn>0</mml:mn>
+<mml:mo>}</mml:mo></mml:mrow></mml:math></inline-formula>, respectively, to stay inside the grid (this is not shown in the pseudocode below).</p>
+
+<table-wrap id="t1" orientation="portrait" position="float">
+<table border="1">
+<colgroup span="1">
+<col align="left" span="1"/>
+</colgroup>
+<tbody>
+<tr>
+<td colspan="1" rowspan="1"><bold>function</bold> V<sc>iterbi</sc>(<italic>X</italic>)</td>
+</tr>
+<tr>
+<td colspan="1" rowspan="1"> <bold>for</bold> each row <inline-formula>
+<mml:math display="inline" overflow="scroll">
+<mml:mrow>
+<mml:mi>j</mml:mi>
+<mml:mo>=</mml:mo>
+<mml:mn>0</mml:mn>
+<mml:mo>,</mml:mo>
+<mml:mo>…</mml:mo>
+<mml:mo>,</mml:mo>
+<mml:msub>
+<mml:mi>N</mml:mi>
+<mml:mi>f</mml:mi></mml:msub></mml:mrow></mml:math></inline-formula> <bold>do</bold></td>
+</tr>
+<tr>
+<td colspan="1" rowspan="1">  <inline-formula>
+<mml:math display="inline" overflow="scroll">
+<mml:mrow>
+<mml:msub>
+<mml:mi>Y</mml:mi>
+<mml:mrow>
+<mml:mn>0</mml:mn>
+<mml:mo>,</mml:mo>
+<mml:mi>j</mml:mi></mml:mrow></mml:msub>
+<mml:mo>←</mml:mo>
+<mml:msub>
+<mml:mi>X</mml:mi>
+<mml:mrow>
+<mml:mn>0</mml:mn>
+<mml:mo>,</mml:mo>
+<mml:mi>j</mml:mi></mml:mrow></mml:msub></mml:mrow></mml:math></inline-formula></td>
+</tr>
+<tr>
+<td colspan="1" rowspan="1"> <bold>end for</bold></td>
+</tr>
+<tr>
+<td colspan="1" rowspan="1"> <bold>for</bold> each column <inline-formula>
+<mml:math display="inline" overflow="scroll">
+<mml:mrow>
+<mml:mi>i</mml:mi>
+<mml:mo>=</mml:mo>
+<mml:mn>1</mml:mn>
+<mml:mo>,</mml:mo>
+<mml:mo>…</mml:mo>
+<mml:mo>,</mml:mo>
+<mml:msub>
+<mml:mi>N</mml:mi>
+<mml:mi>t</mml:mi></mml:msub></mml:mrow></mml:math></inline-formula> <bold>do</bold></td>
+</tr>
+<tr>
+<td colspan="1" rowspan="1">  <bold>for</bold> each row <inline-formula>
+<mml:math display="inline" overflow="scroll">
+<mml:mrow>
+<mml:mi>j</mml:mi>
+<mml:mo>=</mml:mo>
+<mml:mn>0</mml:mn>
+<mml:mo>,</mml:mo>
+<mml:mo>…</mml:mo>
+<mml:mo>,</mml:mo>
+<mml:msub>
+<mml:mi>N</mml:mi>
+<mml:mi>f</mml:mi></mml:msub></mml:mrow></mml:math></inline-formula> <bold>do</bold></td>
+</tr>
+<tr>
+<td colspan="1" rowspan="1">   <inline-formula>
+<mml:math display="inline" overflow="scroll">
+<mml:mtable>
+<mml:mtr>
+<mml:mtd>
+<mml:msub>
+<mml:mi>Y</mml:mi>
+<mml:mrow>
+<mml:mi>i</mml:mi>
+<mml:mo>,</mml:mo>
+<mml:mi>j</mml:mi></mml:mrow></mml:msub>
+<mml:mo>←</mml:mo>
+<mml:msub>
+<mml:mi>X</mml:mi>
+<mml:mrow>
+<mml:mi>i</mml:mi>
+<mml:mo>,</mml:mo>
+<mml:mi>j</mml:mi></mml:mrow></mml:msub>
+<mml:mo>+</mml:mo>
+<mml:munder>
+<mml:mrow>
+<mml:mtext>max</mml:mtext></mml:mrow>
+<mml:mrow>
+<mml:mi>k</mml:mi>
+<mml:mo>∈</mml:mo>
+<mml:mo>{</mml:mo>
+<mml:mo>−</mml:mo>
+<mml:mn>1</mml:mn>
+<mml:mo>,</mml:mo>
+<mml:mn>0</mml:mn>
+<mml:mo>,</mml:mo>
+<mml:mn>1</mml:mn>
+<mml:mo>}</mml:mo></mml:mrow></mml:munder>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:msub>
+<mml:mi>Y</mml:mi>
+<mml:mrow>
+<mml:mi>i</mml:mi>
+<mml:mo>−</mml:mo>
+<mml:mn>1</mml:mn>
+<mml:mo>,</mml:mo>
+<mml:mi>j</mml:mi>
+<mml:mo>+</mml:mo>
+<mml:mi>k</mml:mi></mml:mrow></mml:msub>
+<mml:mo stretchy="false">)</mml:mo></mml:mtd></mml:mtr>
+<mml:mtr>
+<mml:mtd>
+<mml:msub>
+<mml:mi>Z</mml:mi>
+<mml:mrow>
+<mml:mi>i</mml:mi>
+<mml:mo>,</mml:mo>
+<mml:mi>j</mml:mi></mml:mrow></mml:msub>
+<mml:mo>←</mml:mo>
+<mml:mi>j</mml:mi>
+<mml:mo>+</mml:mo>
+<mml:munder>
+<mml:mrow>
+<mml:mtext>arg</mml:mtext>
+<mml:mrow>
+<mml:mtext>max</mml:mtext></mml:mrow></mml:mrow>
+<mml:mrow>
+<mml:mi>k</mml:mi>
+<mml:mo>∈</mml:mo>
+<mml:mo>{</mml:mo>
+<mml:mo>−</mml:mo>
+<mml:mn>1</mml:mn>
+<mml:mo>,</mml:mo>
+<mml:mn>0</mml:mn>
+<mml:mo>,</mml:mo>
+<mml:mn>1</mml:mn>
+<mml:mo>}</mml:mo></mml:mrow></mml:munder>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:msub>
+<mml:mi>Y</mml:mi>
+<mml:mrow>
+<mml:mi>i</mml:mi>
+<mml:mo>−</mml:mo>
+<mml:mn>1</mml:mn>
+<mml:mo>,</mml:mo>
+<mml:mi>j</mml:mi>
+<mml:mo>+</mml:mo>
+<mml:mi>k</mml:mi></mml:mrow></mml:msub>
+<mml:mo stretchy="false">)</mml:mo></mml:mtd></mml:mtr></mml:mtable></mml:math></inline-formula></td>
+</tr>
+<tr>
+<td colspan="1" rowspan="1">  <bold>end for</bold></td>
+</tr>
+<tr>
+<td colspan="1" rowspan="1"> <bold>end for</bold></td>
+</tr>
+<tr>
+<td colspan="1" rowspan="1"> <inline-formula>
+<mml:math display="inline" overflow="scroll">
+<mml:mrow>
+<mml:msub>
+<mml:mi>W</mml:mi>
+<mml:mrow>
+<mml:msub>
+<mml:mi>N</mml:mi>
+<mml:mi>t</mml:mi></mml:msub></mml:mrow></mml:msub>
+<mml:mo>←</mml:mo>
+<mml:munder>
+<mml:mrow>
+<mml:mtext>arg</mml:mtext>
+<mml:mrow>
+<mml:mtext>max</mml:mtext></mml:mrow></mml:mrow>
+<mml:mrow>
+<mml:mi>j</mml:mi>
+<mml:mo>=</mml:mo>
+<mml:mn>0</mml:mn>
+<mml:mo>,</mml:mo>
+<mml:mo>…</mml:mo>
+<mml:mo>,</mml:mo>
+<mml:msub>
+<mml:mi>N</mml:mi>
+<mml:mi>f</mml:mi></mml:msub></mml:mrow></mml:munder>
+<mml:mo stretchy="false">(</mml:mo>
+<mml:msub>
+<mml:mi>Y</mml:mi>
+<mml:mrow>
+<mml:msub>
+<mml:mi>N</mml:mi>
+<mml:mi>t</mml:mi></mml:msub>
+<mml:mo>,</mml:mo>
+<mml:mi>j</mml:mi></mml:mrow></mml:msub>
+<mml:mo stretchy="false">)</mml:mo></mml:mrow></mml:math></inline-formula></td>
+</tr>
+<tr>
+<td colspan="1" rowspan="1"> <bold>for</bold> each col <inline-formula>
+<mml:math display="inline" overflow="scroll">
+<mml:mrow>
+<mml:mi>i</mml:mi>
+<mml:mo>=</mml:mo>
+<mml:msub>
+<mml:mi>N</mml:mi>
+<mml:mi>t</mml:mi></mml:msub>
+<mml:mo>−</mml:mo>
+<mml:mn>1</mml:mn>
+<mml:mo>,</mml:mo>
+<mml:mo>…</mml:mo>
+<mml:mo>,</mml:mo>
+<mml:mn>0</mml:mn></mml:mrow></mml:math></inline-formula> <bold>do</bold></td>
+</tr>
+<tr>
+<td colspan="1" rowspan="1">  <inline-formula>
+<mml:math display="inline" overflow="scroll">
+<mml:mrow>
+<mml:msub>
+<mml:mi>W</mml:mi>
+<mml:mi>i</mml:mi></mml:msub>
+<mml:mo>←</mml:mo>
+<mml:msub>
+<mml:mi>Z</mml:mi>
+<mml:mrow>
+<mml:mi>i</mml:mi>
+<mml:mo>+</mml:mo>
+<mml:mn>1</mml:mn>
+<mml:mo>,</mml:mo>
+<mml:msub>
+<mml:mi>W</mml:mi>
+<mml:mrow>
+<mml:mi>i</mml:mi>
+<mml:mo>+</mml:mo>
+<mml:mn>1</mml:mn></mml:mrow></mml:msub></mml:mrow></mml:msub></mml:mrow></mml:math></inline-formula></td>
+</tr>
+<tr>
+<td colspan="1" rowspan="1"> <bold>end for</bold></td>
+</tr>
+<tr>
+<td colspan="1" rowspan="1"> <bold>return</bold> <italic>W</italic></td>
+</tr>
+<tr>
+<td colspan="1" rowspan="1"><bold>end function</bold></td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+</app>
+</app-group>
+<ref-list content-type="numbered">
+<ref id="c1">
+<label>1.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>B. P.</given-names> <surname>Abbott</surname>
+</string-name>,
+<string-name>
+<given-names>R.</given-names> <surname>Abbott</surname>
+</string-name>,
+<string-name>
+<given-names>T. D.</given-names> <surname>Abbott</surname>
+</string-name> <etal><italic>et al.</italic></etal>, “
+<article-title>Observation of gravitational waves from a binary black hole merger</article-title>,” <source>Phys. Rev. Lett.</source>
+<volume><bold>116</bold></volume>, <fpage>061102</fpage> (<year>2016</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1103/PhysRevLett.116.061102</pub-id></mixed-citation>
+</ref>
+<ref id="c2">
+<label>2.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>S. J.</given-names> <surname>Cooper</surname>
+</string-name>,
+<string-name>
+<given-names>A. C.</given-names> <surname>Green</surname>
+</string-name>,
+<string-name>
+<given-names>H. R.</given-names> <surname>Middleton</surname>
+</string-name> <etal><italic>et al.</italic></etal>, “
+<article-title>An interactive gravitational-wave detector model for museums and fairs</article-title>,” <source>Am. J. Phys.</source>
+<volume><bold>89</bold></volume>(<issue>7</issue>), <fpage>702</fpage>–<lpage>712</lpage> (<year>2021</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1119/10.0003534</pub-id></mixed-citation>
+</ref>
+<ref id="c3">
+<label>3.</label>
+<mixed-citation publication-type="eprint"><collab>LIGO Scientific Collaboration</collab>, <collab>Virgo Collaboration</collab>, <collab>KAGRA Collaboration</collab>, <etal><italic>et al.</italic></etal>, “
+<article-title>GWTC-3: Compact Binary Coalescences Observed by LIGO and Virgo During the Second Part of the Third Observing Run</article-title>,” e-print <ext-link ext-link-type="arxiv" xlink:href="http://arxiv.org/abs/arXiv:2111.03606">arXiv:2111.03606</ext-link> (<year>2021</year>).</mixed-citation>
+</ref>
+<ref id="c4">
+<label>4.</label>
+<mixed-citation publication-type="journal"><collab>LIGO Scientific Collaboration, Virgo Collaboration, KAGRA Collaboration</collab>, <etal><italic>et al.</italic></etal>, “
+<article-title>Observation of gravitational waves from two neutron star-black hole coalescences</article-title>,” <source>Astrophys. J.</source>
+<volume><bold>915</bold></volume>(<issue>1</issue>), <fpage>L5</fpage> (<year>2021</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.3847/2041-8213/ac082e</pub-id></mixed-citation>
+</ref>
+<ref id="c5">
+<label>5.</label>
+<mixed-citation publication-type="book">
+<string-name>
+<given-names>W. H. G.</given-names> <surname>Lewin</surname>
+</string-name>,
+<string-name>
+<given-names>J.</given-names> <surname>van Paradijs</surname>
+</string-name>, and
+<string-name>
+<given-names>E. P. J.</given-names> <surname>van den Heuvel</surname>
+</string-name>, <source><italic>X-Ray Binaries</italic></source> (
+<publisher-name>Cambridge U. P</publisher-name>.,
+<publisher-loc>Cambridge</publisher-loc>, <year>1997</year>).</mixed-citation>
+</ref>
+<ref id="c6">
+<label>6.</label>
+<mixed-citation publication-type="journal"><collab>LIGO Scientific Collaboration and Virgo Collaboration</collab> <etal><italic>et al.</italic></etal>, “
+<article-title>Search for gravitational waves from Scorpius X-1 in the second advanced LIGO observing run with an improved hidden Markov model</article-title>,” <source>Phys. Rev. D</source>
+<volume><bold>100</bold></volume>(<issue>12</issue>), <fpage>122002</fpage> (<year>2019</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1103/PhysRevD.100.122002</pub-id></mixed-citation>
+</ref>
+<ref id="c7">
+<label>7.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>S.</given-names> <surname>Suvorova</surname>
+</string-name>,
+<string-name>
+<given-names>P.</given-names> <surname>Clearwater</surname>
+</string-name>,
+<string-name>
+<given-names>A.</given-names> <surname>Melatos</surname>
+</string-name> <etal><italic>et al.</italic></etal>, “
+<article-title>Hidden Markov model tracking of continuous gravitational waves from a binary neutron star with wandering spin. II. Binary orbital phase tracking</article-title>,” <source>Phys. Rev. D</source>
+<volume><bold>96</bold></volume>(<issue>10</issue>), <fpage>102006</fpage> (<year>2017</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1103/PhysRevD.96.102006</pub-id></mixed-citation>
+</ref>
+<ref id="c8">
+<label>8.</label>
+<mixed-citation publication-type="other">When introducing the acoustic analogy to lay audiences, it is important to emphasize that gravitational waves are not sound. For example, gravitational waves can propagate in a vacuum. whereas sound cannot. Gravitational waves also travel at the speed of light and are not longitudinal waves.</mixed-citation>
+</ref>
+<ref id="c9">
+<label>9.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>Piotr</given-names> <surname>Jaranowski</surname>
+</string-name>,
+<string-name>
+<given-names>Andrzej</given-names> <surname>Królak</surname>
+</string-name>, and
+<string-name>
+<given-names>Bernard F.</given-names> <surname>Schutz</surname>
+</string-name>, “
+<article-title>Data analysis of gravitational-wave signals from spinning neutron stars: The signal and its detection</article-title>,” <source>Phys. Rev. D</source>
+<volume><bold>58</bold></volume>(<issue>6</issue>), <fpage>063001</fpage> (<year>1998</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1103/PhysRevD.58.063001</pub-id></mixed-citation>
+</ref>
+<ref id="c10">
+<label>10.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>A.</given-names> <surname>Viterbi</surname>
+</string-name>, “
+<article-title>Error bounds for convolutional codes and an asymptotically optimum decoding algorithm</article-title>,” <source>IEEE Trans. Inf. Theory</source>
+<volume><bold>13</bold></volume>(<issue>2</issue>), <fpage>260</fpage>–<lpage>269</lpage> (<year>1967</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1109/TIT.1967.1054010</pub-id></mixed-citation>
+</ref>
+<ref id="c11">
+<label>11.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>Ralph P.</given-names> <surname>Muscatell</surname>
+</string-name>, “
+<article-title>Laser microphone</article-title>,” <source>J. Acoust. Soc. Am.</source>
+<volume><bold>76</bold></volume>(<issue>4</issue>), <fpage>1284</fpage> (<year>1984</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1121/1.391370</pub-id></mixed-citation>
+</ref>
+<ref id="c12">
+<label>12.</label>
+<mixed-citation publication-type="other">A photodiode is an electrical component that acts as a regular diode when no light is incident on it, blocking any current flow in the reverse direction. As the intensity of incident light rises, it becomes increasingly conductive in the reverse direction.</mixed-citation>
+</ref>
+<ref id="c13">
+<label>13.</label>
+<mixed-citation publication-type="book">
+<string-name>
+<given-names>Steven M.</given-names> <surname>Kay</surname>
+</string-name>, <source><italic>Fundamentals of Statistical Signal Processing: Estimation Theory</italic></source> (
+<publisher-name>Prentice-Hall, Inc</publisher-name>.,
+<publisher-loc>New York</publisher-loc>, <year>1993</year>).</mixed-citation>
+</ref>
+<ref id="c14">
+<label>14.</label>
+<mixed-citation publication-type="confproc">
+<string-name>
+<given-names>Yi</given-names> <surname>Hu</surname>
+</string-name> and
+<string-name>
+<given-names>P. C.</given-names> <surname>Loizou</surname>
+</string-name>, “
+<article-title>Subjective comparison of speech enhancement algorithms</article-title>,” in<conf-name><italic>2006 IEEE International Conference on Acoustics Speech and Signal Processing Proceedings</italic></conf-name> (
+<publisher-name>IEEE</publisher-name>, <year>2006</year>), Vol.
+<volume>1</volume>, pp. <fpage>I</fpage>–<lpage>I</lpage>.</mixed-citation>
+</ref>
+<ref id="c15">
+<label>15.</label>
+<mixed-citation publication-type="website">
+<string-name>
+<given-names>Wilson</given-names> <surname>Ching</surname>
+</string-name>, LogMMSE for &lt;<ext-link ext-link-type="uri" xlink:href="https://github.com/wilsonchingg/logmmse">https://github.com/wilsonchingg/logmmse</ext-link>&gt;, <year>2019</year>.</mixed-citation>
+</ref>
+<ref id="c16">
+<label>16.</label>
+<mixed-citation publication-type="confproc">
+<string-name>
+<given-names>Hatem M.</given-names> <surname>Elfekey</surname>
+</string-name> and
+<string-name>
+<given-names>Hany Ayad</given-names> <surname>Bastawrous</surname>
+</string-name>, “
+<article-title>Design and implementation of a new thin cost effective AC hum based touch sensing keyboard</article-title>,” in <conf-name><italic>2013 IEEE International Conference on Consumer Electronics (ICCE)</italic></conf-name> (
+<publisher-name>IEEE</publisher-name>, <year>2013</year>), pp. <fpage>602</fpage>–<lpage>605</lpage>.</mixed-citation>
+</ref>
+<ref id="c17">
+<label>17.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>Benjamin P.</given-names> <surname>Abbott</surname>
+</string-name>,
+<string-name>
+<given-names>R.</given-names> <surname>Abbott</surname>
+</string-name>,
+<string-name>
+<given-names>T. D.</given-names> <surname>Abbott</surname>
+</string-name> <etal><italic>et al.</italic></etal>, “
+<article-title>Exploring the sensitivity of next generation gravitational wave detectors</article-title>,” <source>Classical Quantum Gravity</source>
+<volume><bold>34</bold></volume>(<issue>4</issue>), <fpage>044001</fpage> (<year>2017</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1088/1361-6382/aa51f4</pub-id></mixed-citation>
+</ref>
+<ref id="c18">
+<label>18.</label>
+<mixed-citation publication-type="thesis">
+<string-name>
+<given-names>T.</given-names> <surname>Sekiguchi</surname>
+</string-name>, “
+<article-title>Study of low frequency vibration isolation system for large scale gravitational wave detectors</article-title>,” Ph.D. thesis (
+<publisher-name>Tokyo University</publisher-name>, <year>2016</year>).</mixed-citation>
+</ref>
+<ref id="c19">
+<label>19.</label>
+<mixed-citation publication-type="other">
+<string-name>
+<given-names>S. L. H.</given-names> <surname>Verhoeven</surname>
+</string-name>,
+<string-name>
+<given-names>M. M. J.</given-names> <surname>van de Wal</surname>
+</string-name>,
+<string-name>
+<given-names>IrTAE.</given-names> <surname>Oomen</surname>
+</string-name>, and
+<string-name>
+<given-names>O. H.</given-names> <surname>Bosgra</surname>
+</string-name>, “
+<article-title>Robust control of flexible motion systems: A literature study</article-title>,” DCT Rep. (<year>2009</year>).</mixed-citation>
+</ref>
+<ref id="c20">
+<label>20.</label>
+<mixed-citation publication-type="eprint">
+<string-name>
+<given-names>Daniel</given-names> <surname>Dzibela</surname>
+</string-name> and
+<string-name>
+<given-names>Armin</given-names> <surname>Sehr</surname>
+</string-name>, “
+<article-title>Hidden-Markov-model based speech enhancement</article-title>,” e-print <ext-link ext-link-type="arxiv" xlink:href="http://arxiv.org/abs/arXiv:1707.01090">arXiv:1707.01090</ext-link> (<year>2017</year>).</mixed-citation>
+</ref>
+<ref id="c21">
+<label>21.</label>
+<mixed-citation publication-type="eprint">
+<string-name>
+<given-names>Santiago</given-names> <surname>Pascual</surname>
+</string-name>,
+<string-name>
+<given-names>Antonio</given-names> <surname>Bonafonte</surname>
+</string-name>, and
+<string-name>
+<given-names>Joan</given-names> <surname>Serrà</surname>
+</string-name>, “
+<article-title>SEGAN: Speech enhancement generative adversarial network</article-title>,” e-print <ext-link ext-link-type="arxiv" xlink:href="http://arxiv.org/abs/arXiv:1703.09452">arXiv:1703.09452</ext-link> (<year>2017</year>).</mixed-citation>
+</ref>
+<ref id="c22">
+<label>22.</label>
+<mixed-citation publication-type="book">
+<string-name>
+<given-names>Guy P.</given-names> <surname>Nason</surname>
+</string-name> and
+<string-name>
+<given-names>Bernard W.</given-names> <surname>Silverman</surname>
+</string-name>, “
+<article-title>The stationary wavelet transform and some statistical applications</article-title>,” in <source><italic>Wavelets and Statistics</italic></source> (
+<publisher-name>Springer</publisher-name>,
+<publisher-loc>New York</publisher-loc>, <year>1995</year>), pp. <fpage>281</fpage>–<lpage>299</lpage>.</mixed-citation>
+</ref>
+<ref id="c23">
+<label>23.</label>
+<mixed-citation publication-type="confproc">
+<string-name>
+<given-names>Z.</given-names> <surname>Tufekci</surname>
+</string-name> and
+<string-name>
+<given-names>John N</given-names> <surname>Gowdy</surname>
+</string-name>, “
+<article-title>Feature extraction using discrete wavelet transform for speech recognition</article-title>,” in <conf-name><italic>Proceedings of the IEEE SoutheastCon 2000, Preparing for the New Millennium (Cat. No. 00CH37105)</italic></conf-name> (
+<publisher-name>IEEE</publisher-name>, <year>2000</year>), pp. <fpage>116</fpage>–<lpage>123</lpage>.</mixed-citation>
+</ref>
+<ref id="c24">
+<label>24.</label>
+<mixed-citation publication-type="confproc"><collab>Johnson Ihyeh Agbinya.</collab> “
+<article-title>Discrete wavelet transform techniques in speech processing</article-title>,” in <conf-name><italic>Proceedings of Digital Processing Applications (TENCON'96)</italic></conf-name> (
+<publisher-name>IEEE</publisher-name>, <year>1996</year>), Vol.
+<volume>2</volume>, pp. <fpage>514</fpage>–<lpage>519</lpage>.</mixed-citation>
+</ref>
+<ref id="c25">
+<label>25.</label>
+<mixed-citation publication-type="book">
+<string-name>
+<given-names>E. T.</given-names> <surname>Jaynes</surname>
+</string-name>, <source><italic>Probability Theory: The Logic of Science</italic></source> (
+<publisher-name>Cambridge U. P</publisher-name>.,
+<publisher-loc>Cambridge</publisher-loc>, <year>2003</year>).</mixed-citation>
+</ref>
+<ref id="c26">
+<label>26.</label>
+<mixed-citation publication-type="supplementary-material">See supplementary material at <inline-supplementary-material xlink:href="https://www.scitation.org/doi/suppl/10.1119/10.0009409">https://www.scitation.org/doi/suppl/10.1119/10.0009409</inline-supplementary-material> for further resources and a detailed explanation and discussion of the different signal-processing techniques used for speech enhancement of the recordings from the optical microphone, including techniques not presented in the main text.</mixed-citation>
+</ref></ref-list></back></article>

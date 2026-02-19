@@ -1,0 +1,104 @@
+{
+  "abstract": {
+    "textEnglish": "The Bus-DeMeo asteroid taxonomy classification system, described in DeMeo et al. (2009), is based on reflectance spectrum characteristics for 371 asteroids measured over the wavelength 0.45 to 2.45 microns. This system of 24 classes is constructed using principal component analysis, following most closely the visible wavelength taxonomy of Bus (1999), which itself builds upon the system of Tholen (1984). Nearly all of the Bus taxonomy classes are preserved, with one new class (Sv) defined. This data set includes a table of classifications in the Bus-DeMeo system for the 371 asteroids upon which the system is based. It also includes mean spectra for each of the classes."
+  },
+  "authors": [
+    {
+      "attrib": {
+        "orcid": "0000-0002-8397-4219"
+      },
+      "name": {
+        "given_name": "Francesca",
+        "surname": "DeMeo"
+      }
+    },
+    {
+      "attrib": {
+        "orcid": "0000-0002-9995-7341"
+      },
+      "name": {
+        "given_name": "Richard P.",
+        "surname": "Binzel"
+      }
+    },
+    {
+      "attrib": {
+        "orcid": "0000-0003-3291-8708"
+      },
+      "name": {
+        "given_name": "Stephen M.",
+        "surname": "Slivan"
+      }
+    },
+    {
+      "attrib": {
+        "orcid": "0000-0003-4191-6536"
+      },
+      "name": {
+        "given_name": "Schelte J.",
+        "surname": "Bus"
+      }
+    }
+  ],
+  "doctype": "dataset",
+  "keywords": [
+    {
+      "keyID": "72",
+      "keyString": "Asteroids",
+      "keySystem": "UAT"
+    }
+  ],
+  "otherContributor": [
+    {
+      "contrib": {
+        "name": {
+          "given_name": "PDS",
+          "pubraw": "PDS Small Bodies Node",
+          "surname": "Small Bodies Node"
+        }
+      },
+      "role": "DataCurator"
+    }
+  ],
+  "persistentIDs": [
+    {
+      "DOI": "10.26033/089P-C283"
+    }
+  ],
+  "pubDate": {
+    "electrDate": "2020",
+    "otherDate": [
+      {
+        "otherDateType": "Available",
+        "otherDateValue": "2020-08-14"
+      }
+    ]
+  },
+  "publication": {
+    "pubYear": "2020",
+    "publisher": "NASA Planetary Data System "
+  },
+  "publisherIDs": [
+    {
+      "Identifier": "urn:nasa:pds:ast.bus-demeo.taxonomy::1.0",
+      "attribute": "PDS4 Bundle LIDVID"
+    }
+  ],
+  "recordData": {
+    "createdTime": "",
+    "loadFormat": "OtherXML",
+    "loadLocation": "",
+    "loadType": "fromFile",
+    "parsedTime": "",
+    "recordOrigin": ""
+  },
+  "relatedTo": [
+    {
+      "relatedDocID": "10.1016/j.icarus.2009.02.005",
+      "relationship": "supplement"
+    }
+  ],
+  "title": {
+    "textEnglish": "Bus-DeMeo Asteroid Taxonomy Bundle V1.0"
+  }
+}

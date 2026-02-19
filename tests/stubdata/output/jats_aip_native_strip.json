@@ -1,0 +1,261 @@
+{
+  "abstract": {
+    "textEnglish": "After a check dam is filled with sediment, the debris flow will flow out from the spillway. Insufficient discharge capacity of the spillway can lead to debris flow scouring the dam's shoulder and foundation. Therefore, it is necessary to study the discharge capacity of the spillway. It is of great importance for further optimizing the structural design of the check dam. This article analyzes discharge characteristics of debris flow of a spillway through a series of flume experiments. According to the motion states, it can be divided into five stages: contact stage of the spillway, flushing and climbing stage, increasing and reflux stage, stable discharge stage, and final discharge stage. We analyzed the influencing factors of the discharge capacity, including the type of spillway, bulk density of debris flow, scale of debris flow, flume gradient, and effective opening width of the spillway. Furthermore, we derived a calculation formula of discharge for the spillway based on Bernoulli's principle. Finally, we considered the influence of the ratio of flow area and Froude number to the discharge coefficient and established a calculation method of discharge. Consequently, we compared the calculated results with the measured results and found them to be in good agreement. Our research results provide a quantitative calculation method for the design of spillways and energy dissipation and erosion prevention projects under check dams, which is beneficial for improving engineering value and for better serving disaster prevention and reduction efforts."
+  },
+  "authors": [
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Key Laboratory of Mountain Hazards and Earth Surface Process, CAS, Chengdu 610299, China"
+        },
+        {
+          "affPubRaw": "University of Chinese Academy of Science, Beijing 100049, China"
+        }
+      ],
+      "attrib": {
+        "orcid": "0009-0008-5992-6963"
+      },
+      "name": {
+        "given_name": "Wen-tao",
+        "native_lang": "\u5f20\u6587\u6d9b",
+        "surname": "Zhang"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Key Laboratory of Mountain Hazards and Earth Surface Process, CAS, Chengdu 610299, China"
+        }
+      ],
+      "attrib": {
+        "corresp": true,
+        "email": "liujf@imde.ac.cn",
+        "orcid": "0000-0002-5542-827X"
+      },
+      "name": {
+        "given_name": "Jin-feng",
+        "native_lang": "\u67f3\u91d1\u5cf0",
+        "surname": "Liu"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "China Railway Eryuan Engineering Group Company, Ltd., Chengdu 610031, China"
+        }
+      ],
+      "attrib": {
+        "orcid": "0009-0002-5347-6048"
+      },
+      "name": {
+        "given_name": "Zheng-xuan",
+        "native_lang": "\u5f90\u6b63\u5ba3",
+        "surname": "Xu"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "China Railway Eryuan Engineering Group Company, Ltd., Chengdu 610031, China"
+        }
+      ],
+      "attrib": {
+        "orcid": "0009-0000-8492-6975"
+      },
+      "name": {
+        "given_name": "Ping",
+        "native_lang": "\u4f55\u5e73",
+        "surname": "He"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Key Laboratory of Mountain Hazards and Earth Surface Process, CAS, Chengdu 610299, China"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0001-7863-8686"
+      },
+      "name": {
+        "given_name": "Yong",
+        "native_lang": "\u6e38\u52c7",
+        "surname": "You"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Key Laboratory of Mountain Hazards and Earth Surface Process, CAS, Chengdu 610299, China"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0001-9300-5553"
+      },
+      "name": {
+        "given_name": "Hao",
+        "native_lang": "\u5b59\u660a",
+        "surname": "Sun"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Key Laboratory of Mountain Hazards and Earth Surface Process, CAS, Chengdu 610299, China"
+        },
+        {
+          "affPubRaw": "University of Chinese Academy of Science, Beijing 100049, China"
+        }
+      ],
+      "attrib": {
+        "orcid": "0009-0006-9333-3104"
+      },
+      "name": {
+        "given_name": "Hua-quan",
+        "native_lang": "\u6768\u534e\u94e8",
+        "surname": "Yang"
+      }
+    }
+  ],
+  "copyright": {
+    "statement": "\u00a9 2024 Author(s).",
+    "status": true
+  },
+  "editorialHistory": {
+    "acceptedDate": "2024-07-20",
+    "receivedDates": [
+      "2024-05-11"
+    ]
+  },
+  "funding": [
+    {
+      "agencyid": {
+        "idvalue": "National Natural Science Foundation of China"
+      },
+      "agencyname": "\n\n10.13039/501100001809\n",
+      "awardnumber": "42201095"
+    },
+    {
+      "agencyid": {
+        "idvalue": "Sichuan Provincial Postdoctoral Science Foundation"
+      },
+      "agencyname": "\n\n10.13039/100017939\n",
+      "awardnumber": "TB2023028"
+    }
+  ],
+  "keywords": [
+    {
+      "keyString": "Viscous and Non-Newtonian Flows",
+      "keySystem": "subject"
+    }
+  ],
+  "openAccess": {
+    "license": "Published under an exclusive license by AIP Publishing."
+  },
+  "pagination": {
+    "electronicID": "083120",
+    "pageCount": "11"
+  },
+  "persistentIDs": [
+    {
+      "DOI": "10.1063/5.0218452"
+    }
+  ],
+  "pubDate": {
+    "printDate": "2024-08-00"
+  },
+  "publication": {
+    "ISSN": [
+      {
+        "issnString": "1070-6631",
+        "pubtype": "ppub"
+      },
+      {
+        "issnString": "1089-7666",
+        "pubtype": "epub"
+      }
+    ],
+    "issueNum": "8",
+    "pubName": "Physics of Fluids",
+    "pubYear": "2024",
+    "publisher": "AIP Publishing LLC",
+    "volumeNum": "36"
+  },
+  "publisherIDs": [
+    {
+      "Identifier": "POF24-AR-CIVL2023-05152",
+      "attribute": "manuscript"
+    }
+  ],
+  "recordData": {
+    "createdTime": "",
+    "loadFormat": "JATS",
+    "loadLocation": "",
+    "loadType": "fromFile",
+    "parsedTime": "",
+    "recordOrigin": ""
+  },
+  "references": [
+    "<ref id=\"c1\"> <label>1.</label> <mixed-citation publication-type=\"journal\"> <string-name> <surname>Armanini</surname>,  \t\t\t\t\t\t<given-names>A.</given-names> </string-name> and  \t\t\t\t\t<string-name> <surname>Larcher</surname>,  \t\t\t\t\t\t<given-names>M.</given-names> </string-name>, \u201c  \t\t\t\t\t<article-title>Rational criterion for designing opening of slit-check dam</article-title>,\u201d \t\t\t\t\t<source>J. Hydraul. Eng.</source> <volume> <bold>127</bold> </volume>( \t\t\t\t\t<issue>2</issue>), \t\t\t\t\t<fpage>94</fpage>\u2013 \t\t\t\t\t<lpage>104</lpage> ( \t\t\t\t\t<year>2001</year>). \t\t\t\t\t<pub-id pub-id-type=\"doi\" specific-use=\"metadata\">10.1061/(ASCE)0733-9429(2001)127:2(94)</pub-id> </mixed-citation> </ref>",
+    "<ref id=\"c2\"> <label>2.</label> <mixed-citation publication-type=\"confproc\"> <string-name> <surname>Armanini</surname>,  \t\t\t\t\t\t<given-names>A.</given-names> </string-name>,  \t\t\t\t\t<string-name> <surname>Dalri</surname>,  \t\t\t\t\t\t<given-names>C.</given-names> </string-name>, and  \t\t\t\t\t<string-name> <surname>Larcher</surname>,  \t\t\t\t\t\t<given-names>M.</given-names> </string-name>, \u201c  \t\t\t\t\t<article-title>Slit-check dams for controlling debris flow and mudflow</article-title>,\u201d in \t\t\t\t\t<conf-name> <italic>International Symposium on Disaster Mitigation of Debris Flows, Slope Failures and Landslides</italic> </conf-name> (  \t\t\t\t\t<publisher-name>Universal Academy Press, Inc.</publisher-name>, \t\t\t\t\t<year>2006</year>), pp. \t\t\t\t\t<fpage>141</fpage>\u2013 \t\t\t\t\t<lpage>148</lpage>. \t\t\t\t</mixed-citation> </ref>",
+    "<ref id=\"c3\"> <label>3.</label> <mixed-citation publication-type=\"journal\"> <string-name> <surname>Aydin</surname>,  \t\t\t\t\t\t<given-names>I.</given-names> </string-name>,  \t\t\t\t\t<string-name> <surname>Altan-Sakarya</surname>,  \t\t\t\t\t\t<given-names>A. B.</given-names> </string-name>, and  \t\t\t\t\t<string-name> <surname>Ger</surname>,  \t\t\t\t\t\t<given-names>A. M.</given-names> </string-name>, \u201c  \t\t\t\t\t<article-title>Performance of slit weir</article-title>,\u201d \t\t\t\t\t<source>J. Hydraul. Eng.</source> <volume> <bold>132</bold> </volume>( \t\t\t\t\t<issue>9</issue>), \t\t\t\t\t<fpage>987</fpage>\u2013 \t\t\t\t\t<lpage>989</lpage> ( \t\t\t\t\t<year>2006</year>). \t\t\t\t\t<pub-id pub-id-type=\"doi\" specific-use=\"metadata\">10.1061/(ASCE)0733-9429(2006)132:9(987)</pub-id> </mixed-citation> </ref>",
+    "<ref id=\"c4\"> <label>4.</label> <mixed-citation publication-type=\"journal\"> <string-name> <surname>Aydin</surname>,  \t\t\t\t\t\t<given-names>I.</given-names> </string-name>,  \t\t\t\t\t<string-name> <surname>Altan-Sakarya</surname>,  \t\t\t\t\t\t<given-names>A. B.</given-names> </string-name>, and  \t\t\t\t\t<string-name> <surname>Sisman</surname>,  \t\t\t\t\t\t<given-names>C.</given-names> </string-name>, \u201c  \t\t\t\t\t<article-title>Discharge formula for rectangular sharp-crested weirs</article-title>,\u201d \t\t\t\t\t<source>Flow Meas. Instrum.</source> <volume> <bold>22</bold> </volume>( \t\t\t\t\t<issue>2</issue>), \t\t\t\t\t<fpage>144</fpage>\u2013 \t\t\t\t\t<lpage>151</lpage> ( \t\t\t\t\t<year>2011</year>). \t\t\t\t\t<pub-id pub-id-type=\"doi\" specific-use=\"metadata\">10.1016/j.flowmeasinst.2011.01.003</pub-id> </mixed-citation> </ref>",
+    "<ref id=\"c5\"> <label>5.</label> <mixed-citation publication-type=\"journal\"> <string-name> <surname>Bijankhan</surname>,  \t\t\t\t\t\t<given-names>M.</given-names> </string-name>,  \t\t\t\t\t<string-name> <surname>Stefano</surname>,  \t\t\t\t\t\t<given-names>C. D.</given-names> </string-name>,  \t\t\t\t\t<string-name> <surname>Ferro</surname>,  \t\t\t\t\t\t<given-names>V.</given-names> </string-name> <etal> <italic>et al.</italic> </etal>, \u201c  \t\t\t\t\t<article-title>New stage\u2013discharge relationship for weirs of finite crest length</article-title>,\u201d \t\t\t\t\t<source>J. Irrig. Drain. Eng.</source> <volume> <bold>140</bold> </volume>( \t\t\t\t\t<issue>3</issue>), \t\t\t\t\t<fpage>228</fpage>\u2013 \t\t\t\t\t<lpage>232</lpage> ( \t\t\t\t\t<year>2013</year>). \t\t\t\t</mixed-citation> </ref>",
+    "<ref id=\"c6\"> <label>6.</label> <mixed-citation publication-type=\"journal\"> <string-name> <surname>Bagheri</surname>,  \t\t\t\t\t\t<given-names>S.</given-names> </string-name> and  \t\t\t\t\t<string-name> <surname>Heidarpour</surname>,  \t\t\t\t\t\t<given-names>M.</given-names> </string-name>, \u201c  \t\t\t\t\t<article-title>Flow over rectangular sharp-crested weirs</article-title>,\u201d \t\t\t\t\t<source>Irrig. Sci.</source> <volume> <bold>28</bold> </volume>, \t\t\t\t\t<fpage>173</fpage>\u2013 \t\t\t\t\t<lpage>179</lpage> ( \t\t\t\t\t<year>2010</year>). \t\t\t\t\t<pub-id pub-id-type=\"doi\" specific-use=\"metadata\">10.1007/s00271-009-0172-1</pub-id> </mixed-citation> </ref>",
+    "<ref id=\"c7\"> <label>7.</label> <mixed-citation publication-type=\"journal\"> <string-name> <surname>Borga</surname>,  \t\t\t\t\t\t<given-names>M.</given-names> </string-name>,  \t\t\t\t\t<string-name> <surname>Stoffel</surname>,  \t\t\t\t\t\t<given-names>M.</given-names> </string-name>,  \t\t\t\t\t<string-name> <surname>Marchi</surname>,  \t\t\t\t\t\t<given-names>L.</given-names> </string-name> <etal> <italic>et al.</italic> </etal>, \u201c  \t\t\t\t\t<article-title>Hydrogeomorphic response to extreme rainfall in headwater systems: Flash floods and debris flows</article-title>,\u201d \t\t\t\t\t<source>J. Hydrol.</source> <volume> <bold>518</bold> </volume>, \t\t\t\t\t<fpage>194</fpage>\u2013 \t\t\t\t\t<lpage>205</lpage> ( \t\t\t\t\t<year>2014</year>). \t\t\t\t\t<pub-id pub-id-type=\"doi\" specific-use=\"metadata\">10.1016/j.jhydrol.2014.05.022</pub-id> </mixed-citation> </ref>",
+    "<ref id=\"c8\"> <label>8.</label> <mixed-citation publication-type=\"book\"> <string-name> <surname>Bos</surname>,  \t\t\t\t\t\t<given-names>M. G.</given-names> </string-name>, \t\t\t\t\t<source> <italic>Discharge Measurement Structures</italic> </source> (  \t\t\t\t\t<publisher-name>International Institute for Land Reclamation and Improvement, ILRI</publisher-name>,  \t\t\t\t\t<publisher-loc>Wageningen</publisher-loc>, \t\t\t\t\t<year>1989</year>). \t\t\t\t</mixed-citation> </ref>",
+    "<ref id=\"c70\"> <label>9.</label> <mixed-citation publication-type=\"thesis\"> <string-name> <surname>Cai</surname> <given-names>H.-g.</given-names> </string-name>, \u201c  \t\t\t\t\t<article-title>Investigation of damage features and study failure mechanism to protection engineering for debris flow in the Wenchuan earthquake region</article-title>,\u201d M.S. thesis (  \t\t\t\t\t<publisher-name>Chengdu University of Technology</publisher-name>, \t\t\t\t\t<year>2012</year>) (in Chinese). \t\t\t\t</mixed-citation> </ref>",
+    "<ref id=\"c9\"> <label>10.</label> <mixed-citation publication-type=\"journal\"> <string-name> <surname>Chan</surname>,  \t\t\t\t\t\t<given-names>H. C.</given-names> </string-name>,  \t\t\t\t\t<string-name> <surname>Yang</surname>,  \t\t\t\t\t\t<given-names>H. K.</given-names> </string-name>,  \t\t\t\t\t<string-name> <surname>Lin</surname>,  \t\t\t\t\t\t<given-names>P. W.</given-names> </string-name> <etal> <italic>et al.</italic> </etal>, \u201c  \t\t\t\t\t<article-title>Discharge formula for flows over open-check dams</article-title>,\u201d \t\t\t\t\t<source>Flow Meas. Instrum.</source> <volume> <bold>72</bold> </volume>, \t\t\t\t\t<fpage>101690</fpage> ( \t\t\t\t\t<year>2020</year>). \t\t\t\t\t<pub-id pub-id-type=\"doi\" specific-use=\"metadata\">10.1016/j.flowmeasinst.2019.101690</pub-id> </mixed-citation> </ref>",
+    "<ref id=\"c10\"> <label>11.</label> <mixed-citation publication-type=\"journal\"> <string-name> <surname>Chen</surname>,  \t\t\t\t\t\t<given-names>H.</given-names> </string-name>,  \t\t\t\t\t<string-name> <surname>Liu</surname>,  \t\t\t\t\t\t<given-names>J.</given-names> </string-name>, and  \t\t\t\t\t<string-name> <surname>Zhao</surname>,  \t\t\t\t\t\t<given-names>W.</given-names> </string-name>, \u201c  \t\t\t\t\t<article-title>Effects of \t\t\t\t\t\t<italic>Y</italic>-type spillway lateral contraction ratios on debris-flow patterns and scour features downriver of a check dam \t\t\t\t\t</article-title>,\u201d \t\t\t\t\t<source>Nat. Hazards Earth Syst. Sci.</source> <volume> <bold>16</bold> </volume>( \t\t\t\t\t<issue>11</issue>), \t\t\t\t\t<fpage>2433</fpage>\u2013 \t\t\t\t\t<lpage>2442</lpage> ( \t\t\t\t\t<year>2016a</year>). \t\t\t\t\t<pub-id pub-id-type=\"doi\" specific-use=\"metadata\">10.5194/nhess-16-2433-2016</pub-id> </mixed-citation> </ref>",
+    "<ref id=\"c11\"> <label>12.</label> <mixed-citation publication-type=\"journal\"> <string-name> <surname>Chen</surname>,  \t\t\t\t\t\t<given-names>H.-Y.</given-names> </string-name>,  \t\t\t\t\t<string-name> <surname>Cui</surname>,  \t\t\t\t\t\t<given-names>P.</given-names> </string-name>,  \t\t\t\t\t<string-name> <surname>Chen</surname>,  \t\t\t\t\t\t<given-names>J.-G.</given-names> </string-name> <etal> <italic>et al.</italic> </etal>, \u201c  \t\t\t\t\t<article-title>Effects of spillway types on debris flow trajectory and scour behind a sabo dam</article-title>,\u201d \t\t\t\t\t<source>J. Mt. Sci.</source> <volume> <bold>13</bold> </volume>, \t\t\t\t\t<fpage>203</fpage>\u2013 \t\t\t\t\t<lpage>212</lpage> ( \t\t\t\t\t<year>2016b</year>). \t\t\t\t\t<pub-id pub-id-type=\"doi\" specific-use=\"metadata\">10.1007/s11629-015-3607-6</pub-id> </mixed-citation> </ref>",
+    "<ref id=\"c12\"> <label>13.</label> <mixed-citation publication-type=\"journal\"> <string-name> <surname>Choi</surname>,  \t\t\t\t\t\t<given-names>C. E.</given-names> </string-name>,  \t\t\t\t\t<string-name> <surname>Goodwin</surname>,  \t\t\t\t\t\t<given-names>S. R.</given-names> </string-name>,  \t\t\t\t\t<string-name> <surname>Ng</surname>,  \t\t\t\t\t\t<given-names>C. W. W.</given-names> </string-name> <etal> <italic>et al.</italic> </etal>, \u201c  \t\t\t\t\t<article-title>Coarse granular flow interaction with slit structures</article-title>,\u201d \t\t\t\t\t<source>Geotech. Lett.</source> <volume> <bold>6</bold> </volume>( \t\t\t\t\t<issue>4</issue>), \t\t\t\t\t<fpage>267</fpage>\u2013 \t\t\t\t\t<lpage>274</lpage> ( \t\t\t\t\t<year>2016</year>). \t\t\t\t\t<pub-id pub-id-type=\"doi\" specific-use=\"metadata\">10.1680/jgele.16.00103</pub-id> </mixed-citation> </ref>",
+    "<ref id=\"c14\"> <label>14.</label> <mixed-citation publication-type=\"book\"> <string-name> <surname>Coe</surname>,  \t\t\t\t\t\t<given-names>J. A.</given-names> </string-name>,  \t\t\t\t\t<string-name> <surname>Godt</surname>,  \t\t\t\t\t\t<given-names>J. W.</given-names> </string-name>,  \t\t\t\t\t<string-name> <surname>Parise</surname>,  \t\t\t\t\t\t<given-names>M.</given-names> </string-name> <etal> <italic>et al.</italic> </etal>, \u201c  \t\t\t\t\t<article-title>Estimating debris-flow probability using fan stratigraphy, historic records, and drainage-basin morphology, interstate 70 highway corridor, Central Colorado, USA</article-title>,\u201d in \t\t\t\t\t<conf-name> <italic>Proceedings of the 3rd International Conference on Debris-Flow Hazards Mitigation: Mechanics, Prediction, and Assessment</italic> </conf-name>, edited by \t\t\t\t\t<person-group person-group-type=\"editor\"> <string-name> <given-names>D.</given-names> <surname>Rickenmann</surname> </string-name> and  \t\t\t\t\t\t<string-name> <given-names>C. L.</given-names> <surname>Cheng</surname> </string-name> </person-group> (  \t\t\t\t\t<publisher-name>Davos</publisher-name>,  \t\t\t\t\t<publisher-loc>Switzerland</publisher-loc>, \t\t\t\t\t<year>2003</year>), pp. \t\t\t\t\t<fpage>207</fpage>\u2013 \t\t\t\t\t<lpage>217</lpage>. \t\t\t\t</mixed-citation> </ref>",
+    "<ref id=\"c15\"> <label>15.</label> <mixed-citation publication-type=\"journal\"> <string-name> <surname>Cucchiaro</surname>,  \t\t\t\t\t\t<given-names>S.</given-names> </string-name>,  \t\t\t\t\t<string-name> <surname>Cavalli</surname>,  \t\t\t\t\t\t<given-names>M.</given-names> </string-name>,  \t\t\t\t\t<string-name> <surname>Vericat</surname>,  \t\t\t\t\t\t<given-names>D.</given-names> </string-name> <etal> <italic>et al.</italic> </etal>, \u201c  \t\t\t\t\t<article-title>Geomorphic effectiveness of check dams in a debris-flow catchment using multi-temporal topographic surveys</article-title>,\u201d \t\t\t\t\t<source>Catena</source> <volume> <bold>174</bold> </volume>, \t\t\t\t\t<fpage>73</fpage>\u2013 \t\t\t\t\t<lpage>83</lpage> ( \t\t\t\t\t<year>2019</year>). \t\t\t\t\t<pub-id pub-id-type=\"doi\" specific-use=\"metadata\">10.1016/j.catena.2018.11.004</pub-id> </mixed-citation> </ref>",
+    "<ref id=\"c71\"> <label>16.</label> <mixed-citation publication-type=\"journal\"> <string-name> <surname>Fang</surname>,  \t\t\t\t\t\t<given-names>C.-h.</given-names> </string-name> and  \t\t\t\t\t<string-name> <surname>Fang</surname>,  \t\t\t\t\t\t<given-names>K.</given-names> </string-name>, \u201c  \t\t\t\t\t<article-title>Derivation and verification of a new generalized formula set for calculating maximum instantaneous dam breach discharge</article-title>,\u201d \t\t\t\t\t<source>Adv. Water Sci.</source> <volume> <bold>23</bold> </volume>( \t\t\t\t\t<issue>05</issue>), \t\t\t\t\t<fpage>721</fpage>\u2013 \t\t\t\t\t<lpage>727</lpage> ( \t\t\t\t\t<year>2012</year>) (in Chinese). \t\t\t\t</mixed-citation> </ref>",
+    "<ref id=\"c16\"> <label>17.</label> <mixed-citation publication-type=\"journal\"> <string-name> <surname>Ferro</surname>,  \t\t\t\t\t\t<given-names>V.</given-names> </string-name>, \u201c  \t\t\t\t\t<article-title>New theoretical solution of the stage-discharge relationship for sharp-crested and broad weirs</article-title>,\u201d \t\t\t\t\t<source>J. Irrig. Drain. Eng.</source> <volume> <bold>138</bold> </volume>( \t\t\t\t\t<issue>3</issue>), \t\t\t\t\t<fpage>257</fpage>\u2013 \t\t\t\t\t<lpage>265</lpage> ( \t\t\t\t\t<year>2012</year>). \t\t\t\t\t<pub-id pub-id-type=\"doi\" specific-use=\"metadata\">10.1061/(ASCE)IR.1943-4774.0000397</pub-id> </mixed-citation> </ref>",
+    "<ref id=\"c17\"> <label>18.</label> <mixed-citation publication-type=\"journal\"> <string-name> <surname>Gaume</surname>,  \t\t\t\t\t\t<given-names>E.</given-names> </string-name>,  \t\t\t\t\t<string-name> <surname>Bain</surname>,  \t\t\t\t\t\t<given-names>V.</given-names> </string-name>,  \t\t\t\t\t<string-name> <surname>Bernardara</surname>,  \t\t\t\t\t\t<given-names>P.</given-names> </string-name> <etal> <italic>et al.</italic> </etal>, \u201c  \t\t\t\t\t<article-title>A compilation of data on European flash floods</article-title>,\u201d \t\t\t\t\t<source>J. Hydrol.</source> <volume> <bold>367</bold> </volume>( \t\t\t\t\t<issue>1\u20132</issue>), \t\t\t\t\t<fpage>70</fpage>\u2013 \t\t\t\t\t<lpage>78</lpage> ( \t\t\t\t\t<year>2009</year>). \t\t\t\t\t<pub-id pub-id-type=\"doi\" specific-use=\"metadata\">10.1016/j.jhydrol.2008.12.028</pub-id> </mixed-citation> </ref>",
+    "<ref id=\"c19\"> <label>19.</label> <mixed-citation publication-type=\"journal\"> <string-name> <surname>Hu</surname>,  \t\t\t\t\t\t<given-names>K.</given-names> </string-name>,  \t\t\t\t\t<string-name> <surname>Wei</surname>,  \t\t\t\t\t\t<given-names>F.</given-names> </string-name>, and  \t\t\t\t\t<string-name> <surname>Li</surname>,  \t\t\t\t\t\t<given-names>Y.</given-names> </string-name>, \u201c  \t\t\t\t\t<article-title>Real\u2010time measurement and preliminary analysis of debris\u2010flow impact force at Jiangjia Ravine, China</article-title>,\u201d \t\t\t\t\t<source>Earth Surf. Processes Landforms</source> <volume> <bold>36</bold> </volume>( \t\t\t\t\t<issue>9</issue>), \t\t\t\t\t<fpage>1268</fpage>\u2013 \t\t\t\t\t<lpage>1278</lpage> ( \t\t\t\t\t<year>2011</year>). \t\t\t\t\t<pub-id pub-id-type=\"doi\" specific-use=\"metadata\">10.1002/esp.2155</pub-id> </mixed-citation> </ref>",
+    "<ref id=\"c20\"> <label>20.</label> <mixed-citation publication-type=\"book\"> <string-name> <surname>H\u00fcbl</surname>,  \t\t\t\t\t\t<given-names>J.</given-names> </string-name> and  \t\t\t\t\t<string-name> <surname>Suda</surname>,  \t\t\t\t\t\t<given-names>J.</given-names> </string-name>, \t\t\t\t\t<source> <italic>Debris Flow Mitigation Measures in Austria</italic> </source> (  \t\t\t\t\t<publisher-name>Springer</publisher-name>, \t\t\t\t\t<year>2008</year>), pp. \t\t\t\t\t<fpage>445</fpage>\u2013 \t\t\t\t\t<lpage>487</lpage>. \t\t\t\t</mixed-citation> </ref>",
+    "<ref id=\"c21\"> <label>21.</label> <mixed-citation publication-type=\"confproc\"> <string-name> <surname>H\u00fcbl</surname>,  \t\t\t\t\t\t<given-names>J.</given-names> </string-name>,  \t\t\t\t\t<string-name> <surname>Suda</surname>,  \t\t\t\t\t\t<given-names>J.</given-names> </string-name>,  \t\t\t\t\t<string-name> <surname>Proske</surname>,  \t\t\t\t\t\t<given-names>D.</given-names> </string-name> <etal> <italic>et al.</italic> </etal>, \u201c  \t\t\t\t\t<article-title>Debris flow impact estimation</article-title>,\u201d in \t\t\t\t\t<conf-name>Proceedings of the 11th International Symposium on Water Management and Hydraulic Engineering</conf-name>, Skopje, Macedonia, \t\t\t\t\t<year>2009</year>. \t\t\t\t</mixed-citation> </ref>",
+    "<ref id=\"c22\"> <label>22.</label> <mixed-citation publication-type=\"journal\"> <string-name> <surname>Hungr</surname>,  \t\t\t\t\t\t<given-names>O.</given-names> </string-name>,  \t\t\t\t\t<string-name> <surname>Morgan</surname>,  \t\t\t\t\t\t<given-names>G. C.</given-names> </string-name>, and  \t\t\t\t\t<string-name> <surname>Kellerhals</surname>,  \t\t\t\t\t\t<given-names>R.</given-names> </string-name>, \u201c  \t\t\t\t\t<article-title>Quantitative analysis of debris torrent hazards for design of remedial measures</article-title>,\u201d \t\t\t\t\t<source>Can. Geotech. J.</source> <volume> <bold>21</bold> </volume>( \t\t\t\t\t<issue>4</issue>), \t\t\t\t\t<fpage>663</fpage>\u2013 \t\t\t\t\t<lpage>677</lpage> ( \t\t\t\t\t<year>1984</year>). \t\t\t\t\t<pub-id pub-id-type=\"doi\" specific-use=\"metadata\">10.1139/t84-073</pub-id> </mixed-citation> </ref>",
+    "<ref id=\"c23\"> <label>23.</label> <mixed-citation publication-type=\"journal\"> <string-name> <surname>Iverson</surname>,  \t\t\t\t\t\t<given-names>R. M.</given-names> </string-name>, \u201c  \t\t\t\t\t<article-title>The physics of debris flows</article-title>,\u201d \t\t\t\t\t<source>Rev. Geophys.</source> <volume> <bold>35</bold> </volume>( \t\t\t\t\t<issue>3</issue>), \t\t\t\t\t<fpage>245</fpage>\u2013 \t\t\t\t\t<lpage>296</lpage>, \t\t\t\t\t<ext-link ext-link-type=\"uri\" xlink:href=\"https://doi.org/10.1029/97RG00426\">https://doi.org/10.1029/97RG00426</ext-link> ( \t\t\t\t\t<year>1997</year>). \t\t\t\t</mixed-citation> </ref>",
+    "<ref id=\"c24\"> <label>24.</label> <mixed-citation publication-type=\"journal\"> <string-name> <surname>Iverson</surname>,  \t\t\t\t\t\t<given-names>R. M.</given-names> </string-name> and  \t\t\t\t\t<string-name> <surname>George</surname>,  \t\t\t\t\t\t<given-names>D. L.</given-names> </string-name>, \u201c  \t\t\t\t\t<article-title>A depth-averaged debris-flow model that includes the effects of evolving dilatancy. I. Physical basis</article-title>,\u201d \t\t\t\t\t<source>Proc. R. Soc. A</source> <volume> <bold>470</bold> </volume>( \t\t\t\t\t<issue>2170</issue>), \t\t\t\t\t<fpage>20130819</fpage> ( \t\t\t\t\t<year>2014</year>). \t\t\t\t\t<pub-id pub-id-type=\"doi\" specific-use=\"metadata\">10.1098/rspa.2013.0819</pub-id> </mixed-citation> </ref>",
+    "<ref id=\"c25\"> <label>25.</label> <mixed-citation publication-type=\"journal\"> <string-name> <surname>Iverson</surname>,  \t\t\t\t\t\t<given-names>R. M.</given-names> </string-name> and  \t\t\t\t\t<string-name> <surname>George</surname>,  \t\t\t\t\t\t<given-names>D. L.</given-names> </string-name>, \u201c  \t\t\t\t\t<article-title>Modelling landslide liquefaction, mobility bifurcation and the dynamics of the 2014 Oso disaster</article-title>,\u201d \t\t\t\t\t<source>G\u00e9otechnique</source> <volume> <bold>66</bold> </volume>( \t\t\t\t\t<issue>3</issue>), \t\t\t\t\t<fpage>175</fpage>\u2013 \t\t\t\t\t<lpage>187</lpage> ( \t\t\t\t\t<year>2016</year>). \t\t\t\t\t<pub-id pub-id-type=\"doi\" specific-use=\"metadata\">10.1680/jgeot.15.LM.004</pub-id> </mixed-citation> </ref>",
+    "<ref id=\"c26\"> <label>26.</label> <mixed-citation publication-type=\"journal\"> <string-name> <surname>Iverson</surname>,  \t\t\t\t\t\t<given-names>R. M.</given-names> </string-name> and  \t\t\t\t\t<string-name> <surname>Vallance</surname>,  \t\t\t\t\t\t<given-names>J. W.</given-names> </string-name>, \u201c  \t\t\t\t\t<article-title>New views of granular mass flows</article-title>,\u201d \t\t\t\t\t<source>Geology</source> <volume> <bold>29</bold> </volume>( \t\t\t\t\t<issue>2</issue>), \t\t\t\t\t<fpage>115</fpage>\u2013 \t\t\t\t\t<lpage>118</lpage> ( \t\t\t\t\t<year>2001</year>). \t\t\t\t\t<pub-id pub-id-type=\"doi\" specific-use=\"metadata\">10.1130/0091-7613(2001)029&lt;0115:NVOGMF&gt;2.0.CO;2</pub-id> </mixed-citation> </ref>",
+    "<ref id=\"c27\"> <label>27.</label> <mixed-citation publication-type=\"book\"> <string-name> <surname>Jakob</surname>,  \t\t\t\t\t\t<given-names>M.</given-names> </string-name>,  \t\t\t\t\t<string-name> <surname>Hungr</surname>,  \t\t\t\t\t\t<given-names>O.</given-names> </string-name>,  \t\t\t\t\t<string-name> <surname>Huebl</surname>,  \t\t\t\t\t\t<given-names>J.</given-names> </string-name> <etal> <italic>et al.</italic> </etal>, \u201c  \t\t\t\t\t<article-title>Debris-flow mitigation measures</article-title>,\u201d in \t\t\t\t\t<source> <italic>Debris-flow Hazards and Related Phenomena</italic> </source> (Springer, \t\t\t\t\t<year>2005</year>), pp. \t\t\t\t\t<fpage>445</fpage>\u2013 \t\t\t\t\t<lpage>487</lpage>. \t\t\t\t</mixed-citation> </ref>",
+    "<ref id=\"c29\"> <label>28.</label> <mixed-citation publication-type=\"journal\"> <string-name> <surname>Johnson</surname>,  \t\t\t\t\t\t<given-names>C. G.</given-names> </string-name>,  \t\t\t\t\t<string-name> <surname>Kokelaar</surname>,  \t\t\t\t\t\t<given-names>B. P.</given-names> </string-name>,  \t\t\t\t\t<string-name> <surname>Iverson</surname>,  \t\t\t\t\t\t<given-names>R. M.</given-names> </string-name> <etal> <italic>et al.</italic> </etal>, \u201c  \t\t\t\t\t<article-title>Grain\u2010size segregation and levee formation in geophysical mass flows</article-title>,\u201d \t\t\t\t\t<source>J. Geophys. Res.</source> <volume> <bold>117</bold> </volume>, F01032, \t\t\t\t\t<ext-link ext-link-type=\"uri\" xlink:href=\"https://doi.org/10.1029/2011JF002185\">https://doi.org/10.1029/2011JF002185</ext-link> ( \t\t\t\t\t<year>2012</year>). \t\t\t\t</mixed-citation> </ref>",
+    "<ref id=\"c30\"> <label>29.</label> <mixed-citation publication-type=\"journal\"> <string-name> <surname>Kim</surname>,  \t\t\t\t\t\t<given-names>N.</given-names> </string-name>,  \t\t\t\t\t<string-name> <surname>Nakagawa</surname>,  \t\t\t\t\t\t<given-names>H.</given-names> </string-name>,  \t\t\t\t\t<string-name> <surname>Kawaike</surname>,  \t\t\t\t\t\t<given-names>K.</given-names> </string-name> <etal> <italic>et al.</italic> </etal>, \u201c  \t\t\t\t\t<article-title>Estimation of debris flow discharge coefficient considering sediment concentration</article-title>,\u201d \t\t\t\t\t<source>Int. J. Sediment Res.</source> <volume> <bold>34</bold> </volume>( \t\t\t\t\t<issue>1</issue>), \t\t\t\t\t<fpage>1</fpage>\u2013 \t\t\t\t\t<lpage>7</lpage> ( \t\t\t\t\t<year>2019</year>). \t\t\t\t\t<pub-id pub-id-type=\"doi\" specific-use=\"metadata\">10.1016/j.ijsrc.2018.05.003</pub-id> </mixed-citation> </ref>",
+    "<ref id=\"c31\"> <label>30.</label> <mixed-citation publication-type=\"journal\"> <string-name> <surname>Kowalski</surname>,  \t\t\t\t\t\t<given-names>J.</given-names> </string-name> and  \t\t\t\t\t<string-name> <surname>McElwaine</surname>,  \t\t\t\t\t\t<given-names>J. N.</given-names> </string-name>, \u201c  \t\t\t\t\t<article-title>Shallow two-component gravity-driven flows with vertical variation</article-title>,\u201d \t\t\t\t\t<source>J. Fluid Mech.</source> <volume> <bold>714</bold> </volume>, \t\t\t\t\t<fpage>434</fpage>\u2013 \t\t\t\t\t<lpage>462</lpage> ( \t\t\t\t\t<year>2013</year>). \t\t\t\t\t<pub-id pub-id-type=\"doi\" specific-use=\"metadata\">10.1017/jfm.2012.489</pub-id> </mixed-citation> </ref>",
+    "<ref id=\"c73\"> <label>31.</label> <mixed-citation publication-type=\"journal\"> <string-name> <surname>Lin</surname>,  \t\t\t\t\t\t<given-names>X.-p.</given-names> </string-name>,  \t\t\t\t\t<string-name> <surname>You</surname>,  \t\t\t\t\t\t<given-names>Y.</given-names> </string-name>,  \t\t\t\t\t<string-name> <surname>Liu</surname>,  \t\t\t\t\t\t<given-names>J.-f.</given-names> </string-name> <etal> <italic>et al</italic> </etal>.,   \u201c  \t\t\t\t\t<article-title>Experimental study on discharge capacity of spillway of check dam for debris flow</article-title>,\u201d \t\t\t\t\t<source>J. Nat. Disasters</source> <volume> <bold>24</bold> </volume>( \t\t\t\t\t<issue>01</issue>), \t\t\t\t\t<fpage>9</fpage>\u2013 \t\t\t\t\t<lpage>14</lpage> ( \t\t\t\t\t<year>2015</year>) (in Chinese). \t\t\t\t</mixed-citation> </ref>",
+    "<ref id=\"c32\"> <label>32.</label> <mixed-citation publication-type=\"journal\"> <string-name> <surname>Marchi</surname>,  \t\t\t\t\t\t<given-names>L.</given-names> </string-name> and  \t\t\t\t\t<string-name> <surname>D'Agostino</surname>,  \t\t\t\t\t\t<given-names>V.</given-names> </string-name>, \u201c  \t\t\t\t\t<article-title>Estimation of debris\u2010flow magnitude in the Eastern Italian Alps</article-title>,\u201d \t\t\t\t\t<source>Earth Surf. Processes Landforms</source> <volume> <bold>29</bold> </volume>( \t\t\t\t\t<issue>2</issue>), \t\t\t\t\t<fpage>207</fpage>\u2013 \t\t\t\t\t<lpage>220</lpage> ( \t\t\t\t\t<year>2004</year>). \t\t\t\t\t<pub-id pub-id-type=\"doi\" specific-use=\"metadata\">10.1002/esp.1027</pub-id> </mixed-citation> </ref>",
+    "<ref id=\"c33\"> <label>33.</label> <mixed-citation publication-type=\"journal\"> <string-name> <surname>Martinez</surname>,  \t\t\t\t\t\t<given-names>J.</given-names> </string-name>,  \t\t\t\t\t<string-name> <surname>Reca</surname>,  \t\t\t\t\t\t<given-names>J.</given-names> </string-name>,  \t\t\t\t\t<string-name> <surname>Morillas</surname>,  \t\t\t\t\t\t<given-names>M. T.</given-names> </string-name> <etal> <italic>et al.</italic> </etal>, \u201c  \t\t\t\t\t<article-title>Design and calibration of a compound sharp-crested weir</article-title>,\u201d \t\t\t\t\t<source>J. Hydraul. Eng.</source> <volume> <bold>131</bold> </volume>( \t\t\t\t\t<issue>2</issue>), \t\t\t\t\t<fpage>112</fpage>\u2013 \t\t\t\t\t<lpage>116</lpage> ( \t\t\t\t\t<year>2005</year>). \t\t\t\t\t<pub-id pub-id-type=\"doi\" specific-use=\"metadata\">10.1061/(ASCE)0733-9429(2005)131:2(112)</pub-id> </mixed-citation> </ref>",
+    "<ref id=\"c34\"> <label>34.</label> <mixed-citation publication-type=\"journal\"> <string-name> <surname>Meyrat</surname>,  \t\t\t\t\t\t<given-names>G.</given-names> </string-name>,  \t\t\t\t\t<string-name> <surname>McArdell</surname>,  \t\t\t\t\t\t<given-names>B.</given-names> </string-name>,  \t\t\t\t\t<string-name> <surname>Ivanova</surname>,  \t\t\t\t\t\t<given-names>K.</given-names> </string-name> <etal> <italic>et al.</italic> </etal>, \u201c  \t\t\t\t\t<article-title>A dilatant, two-layer debris flow model validated by flow density measurements at the Swiss illgraben test site</article-title>,\u201d \t\t\t\t\t<source>Landslides</source> <volume> <bold>19</bold> </volume>( \t\t\t\t\t<issue>2</issue>), \t\t\t\t\t<fpage>265</fpage>\u2013 \t\t\t\t\t<lpage>276</lpage> ( \t\t\t\t\t<year>2022</year>). \t\t\t\t\t<pub-id pub-id-type=\"doi\" specific-use=\"metadata\">10.1007/s10346-021-01733-2</pub-id> </mixed-citation> </ref>",
+    "<ref id=\"c35\"> <label>35.</label> <mixed-citation publication-type=\"journal\"> <string-name> <surname>Mizuyama</surname>,  \t\t\t\t\t\t<given-names>T.</given-names> </string-name> <etal> <italic>et al</italic> </etal>., \u201c  \t\t\t\t\t<article-title>The flow coefficient and sediment shape of slit dam</article-title>,\u201d \t\t\t\t\t<source>Technol. Soil Water Conserv.</source> <volume> <bold>04</bold> </volume>, \t\t\t\t\t<fpage>9</fpage>\u2013 \t\t\t\t\t<lpage>10</lpage> ( \t\t\t\t\t<year>1994</year>) (in Chinese). \t\t\t\t</mixed-citation> </ref>",
+    "<ref id=\"c36\"> <label>36.</label> <mixed-citation publication-type=\"journal\"> <string-name> <surname>Montgomery</surname>,  \t\t\t\t\t\t<given-names>D. R.</given-names> </string-name> and  \t\t\t\t\t<string-name> <surname>Buffington</surname>,  \t\t\t\t\t\t<given-names>J. M.</given-names> </string-name>, \u201c  \t\t\t\t\t<article-title>Channel-reach morphology in mountain drainage basins</article-title>,\u201d \t\t\t\t\t<source>Geol. Soc. Am. Bull.</source> <volume> <bold>109</bold> </volume>( \t\t\t\t\t<issue>5</issue>), \t\t\t\t\t<fpage>596</fpage>\u2013 \t\t\t\t\t<lpage>611</lpage> ( \t\t\t\t\t<year>1997</year>). \t\t\t\t\t<pub-id pub-id-type=\"doi\" specific-use=\"metadata\">10.1130/0016-7606(1997)109&lt;0596:CRMIMD&gt;2.3.CO;2</pub-id> </mixed-citation> </ref>",
+    "<ref id=\"c37\"> <label>37.</label> <mixed-citation publication-type=\"journal\"> <string-name> <surname>Negm</surname>,  \t\t\t\t\t\t<given-names>A. A. M.</given-names> </string-name>,  \t\t\t\t\t<string-name> <surname>Al-Brahim</surname>,  \t\t\t\t\t\t<given-names>A. M.</given-names> </string-name>, and  \t\t\t\t\t<string-name> <surname>Alhamid</surname>,  \t\t\t\t\t\t<given-names>A. A.</given-names> </string-name>, \u201c  \t\t\t\t\t<article-title>Combined-free flow over weirs and below gates</article-title>,\u201d \t\t\t\t\t<source>J. Hydraul. Res.</source> <volume> <bold>40</bold> </volume>( \t\t\t\t\t<issue>3</issue>), \t\t\t\t\t<fpage>359</fpage>\u2013 \t\t\t\t\t<lpage>365</lpage> ( \t\t\t\t\t<year>2002</year>). \t\t\t\t\t<pub-id pub-id-type=\"doi\" specific-use=\"metadata\">10.1080/00221680209499950</pub-id> </mixed-citation> </ref>",
+    "<ref id=\"c38\"> <label>38.</label> <mixed-citation publication-type=\"confproc\"> <string-name> <surname>Ono</surname>,  \t\t\t\t\t\t<given-names>G.</given-names> </string-name>,  \t\t\t\t\t<string-name> <surname>Mizuyama</surname>,  \t\t\t\t\t\t<given-names>T.</given-names> </string-name>, and  \t\t\t\t\t<string-name> <surname>Matsumura</surname>,  \t\t\t\t\t\t<given-names>K.</given-names> </string-name>, \u201c  \t\t\t\t\t<article-title>Current practices in the design and evaluation of steel sabo facilities in Japan</article-title>,\u201d in Proceedings of the INTERPRAEVENT International Symposium, Riva del Garda, Italy, May 2004, pp. 243\u2013264. \t\t\t\t</mixed-citation> </ref>",
+    "<ref id=\"c39\"> <label>39.</label> <mixed-citation publication-type=\"journal\"> <string-name> <surname>Piton</surname>,  \t\t\t\t\t\t<given-names>G.</given-names> </string-name> and  \t\t\t\t\t<string-name> <surname>Recking</surname>,  \t\t\t\t\t\t<given-names>A.</given-names> </string-name>, \u201c  \t\t\t\t\t<article-title>Effects of check dams on bed-load transport and steep-slope stream morphodynamics</article-title>,\u201d \t\t\t\t\t<source>Geomorphology</source> <volume> <bold>291</bold> </volume>, \t\t\t\t\t<fpage>94</fpage>\u2013 \t\t\t\t\t<lpage>105</lpage> ( \t\t\t\t\t<year>2017</year>). \t\t\t\t\t<pub-id pub-id-type=\"doi\" specific-use=\"metadata\">10.1016/j.geomorph.2016.03.001</pub-id> </mixed-citation> </ref>",
+    "<ref id=\"c40\"> <label>40.</label> <mixed-citation publication-type=\"journal\"> <string-name> <surname>Piton</surname>,  \t\t\t\t\t\t<given-names>G.</given-names> </string-name> and  \t\t\t\t\t<string-name> <surname>Recking</surname>,  \t\t\t\t\t\t<given-names>A.</given-names> </string-name>, \u201c  \t\t\t\t\t<article-title>Design of sediment traps with open check dams. I: Hydraulic and deposition processes</article-title>,\u201d \t\t\t\t\t<source>J. Hydraul. Eng.</source> <volume> <bold>142</bold> </volume>( \t\t\t\t\t<issue>2</issue>), \t\t\t\t\t<fpage>04015045</fpage> ( \t\t\t\t\t<year>2016</year>). \t\t\t\t\t<pub-id pub-id-type=\"doi\" specific-use=\"metadata\">10.1061/(ASCE)HY.1943-7900.0001048</pub-id> </mixed-citation> </ref>",
+    "<ref id=\"c41\"> <label>41.</label> <mixed-citation publication-type=\"journal\"> <string-name> <surname>Pudasaini</surname>,  \t\t\t\t\t\t<given-names>S. P.</given-names> </string-name>, \u201c  \t\t\t\t\t<article-title>A general two\u2010phase debris flow model</article-title>,\u201d \t\t\t\t\t<source>J. Geophys. Res.</source> <volume> <bold>117</bold> </volume>, \t\t\t\t\t<fpage>F03010</fpage>, \t\t\t\t\t<ext-link ext-link-type=\"uri\" xlink:href=\"https://doi.org/10.1029/2011JF002186\">https://doi.org/10.1029/2011JF002186</ext-link> ( \t\t\t\t\t<year>2012</year>). \t\t\t\t</mixed-citation> </ref>",
+    "<ref id=\"c42\"> <label>42.</label> <mixed-citation publication-type=\"book\"> <string-name> <surname>Rema\u00eetre</surname>,  \t\t\t\t\t\t<given-names>A.</given-names> </string-name>, \t\t\t\t\t<source> <italic>Morphologie et Dynamique des Laves Torrentielles: Applications aux Torrents des Terres Noires du Bassin de Barcelonnette (Alpes du Sud)</italic> </source> (  \t\t\t\t\t<publisher-name>University of Caen-Basse-Normandie</publisher-name>,  \t\t\t\t\t<publisher-loc>Caen, France</publisher-loc>, \t\t\t\t\t<year>2006</year>). \t\t\t\t</mixed-citation> </ref>",
+    "<ref id=\"c43\"> <label>43.</label> <mixed-citation publication-type=\"journal\"> <string-name> <surname>Rema\u00eetre</surname>,  \t\t\t\t\t\t<given-names>A.</given-names> </string-name>,  \t\t\t\t\t<string-name> <surname>Van Asch</surname>,  \t\t\t\t\t\t<given-names>Th. W. J.</given-names> </string-name>,  \t\t\t\t\t<string-name> <surname>Malet</surname>,  \t\t\t\t\t\t<given-names>J. P.</given-names> </string-name> <etal> <italic>et al.</italic> </etal>, \u201c  \t\t\t\t\t<article-title>Influence of check dams on debris-flow run-out intensity</article-title>,\u201d \t\t\t\t\t<source>Nat. Hazards Earth Syst. Sci.</source> <volume> <bold>8</bold> </volume>( \t\t\t\t\t<issue>6</issue>), \t\t\t\t\t<fpage>1403</fpage>\u2013 \t\t\t\t\t<lpage>1416</lpage> ( \t\t\t\t\t<year>2008</year>). \t\t\t\t\t<pub-id pub-id-type=\"doi\" specific-use=\"metadata\">10.5194/nhess-8-1403-2008</pub-id> </mixed-citation> </ref>",
+    "<ref id=\"c44\"> <label>44.</label> <mixed-citation publication-type=\"journal\"> <string-name> <surname>Rickenmann</surname>,  \t\t\t\t\t\t<given-names>D.</given-names> </string-name>, \u201c  \t\t\t\t\t<article-title>Empirical relationships for debris flows</article-title>,\u201d \t\t\t\t\t<source>Nat. Hazards</source> <volume> <bold>19</bold> </volume>, \t\t\t\t\t<fpage>47</fpage>\u2013 \t\t\t\t\t<lpage>77</lpage> ( \t\t\t\t\t<year>1999</year>). \t\t\t\t\t<pub-id pub-id-type=\"doi\" specific-use=\"metadata\">10.1023/A:1008064220727</pub-id> </mixed-citation> </ref>",
+    "<ref id=\"c45\"> <label>45.</label> <mixed-citation publication-type=\"journal\"> <string-name> <surname>Roushangar</surname>,  \t\t\t\t\t\t<given-names>K.</given-names> </string-name>,  \t\t\t\t\t<string-name> <surname>Akhgar</surname>,  \t\t\t\t\t\t<given-names>S.</given-names> </string-name>, and  \t\t\t\t\t<string-name> <surname>Salmasi</surname>,  \t\t\t\t\t\t<given-names>F.</given-names> </string-name>, \u201c  \t\t\t\t\t<article-title>Estimating discharge coefficient of stepped spillways under nappe and skimming flow regime using data driven approaches</article-title>,\u201d \t\t\t\t\t<source>Flow Meas. Instrum.</source> <volume> <bold>59</bold> </volume>, \t\t\t\t\t<fpage>79</fpage>\u2013 \t\t\t\t\t<lpage>87</lpage> ( \t\t\t\t\t<year>2018</year>). \t\t\t\t\t<pub-id pub-id-type=\"doi\" specific-use=\"metadata\">10.1016/j.flowmeasinst.2017.12.006</pub-id> </mixed-citation> </ref>",
+    "<ref id=\"c46\"> <label>46.</label> <mixed-citation publication-type=\"book\"> <string-name> <surname>Rudolf-Miklau</surname>,  \t\t\t\t\t\t<given-names>F.</given-names> </string-name> and  \t\t\t\t\t<string-name> <surname>Suda</surname>,  \t\t\t\t\t\t<given-names>J.</given-names> </string-name>, \u201c  \t\t\t\t\t<article-title>Design criteria for torrential barriers</article-title>,\u201d in \t\t\t\t\t<source> <italic>Dating Torrential Processes on Fans and Cones: Methods and Their Application for Hazard and Risk Assessment</italic> </source> (  \t\t\t\t\t<publisher-name>Springer Netherlands</publisher-name>,  \t\t\t\t\t<publisher-loc>Dordrecht</publisher-loc>, \t\t\t\t\t<year>2012</year>), pp. \t\t\t\t\t<fpage>375</fpage>\u2013 \t\t\t\t\t<lpage>389</lpage>. \t\t\t\t</mixed-citation> </ref>",
+    "<ref id=\"c48\"> <label>47.</label> <mixed-citation publication-type=\"journal\"> <string-name> <surname>Salmasi</surname>,  \t\t\t\t\t\t<given-names>F.</given-names> </string-name>, \u201c  \t\t\t\t\t<article-title>Discharge relations for rectangular broad-crested weirs</article-title>,\u201d \t\t\t\t\t<source>J. Agric. Sci.</source> <volume> <bold>17</bold> </volume>( \t\t\t\t\t<issue>4</issue>), \t\t\t\t\t<fpage>324</fpage>\u2013 \t\t\t\t\t<lpage>336</lpage> ( \t\t\t\t\t<year>2011</year>). \t\t\t\t</mixed-citation> </ref>",
+    "<ref id=\"c49\"> <label>48.</label> <mixed-citation publication-type=\"journal\"> <string-name> <surname>Sargison</surname>,  \t\t\t\t\t\t<given-names>J. E.</given-names> </string-name> and  \t\t\t\t\t<string-name> <surname>Percy</surname>,  \t\t\t\t\t\t<given-names>A.</given-names> </string-name>, \u201c  \t\t\t\t\t<article-title>Hydraulics of broad-crested weirs with varying side slopes</article-title>,\u201d \t\t\t\t\t<source>J. Irrig. Drain. Eng.</source> <volume> <bold>135</bold> </volume>( \t\t\t\t\t<issue>1</issue>), \t\t\t\t\t<fpage>115</fpage>\u2013 \t\t\t\t\t<lpage>118</lpage> ( \t\t\t\t\t<year>2009</year>). \t\t\t\t\t<pub-id pub-id-type=\"doi\" specific-use=\"metadata\">10.1061/(ASCE)0733-9437(2009)135:1(115)</pub-id> </mixed-citation> </ref>",
+    "<ref id=\"c50\"> <label>49.</label> <mixed-citation publication-type=\"journal\"> <string-name> <surname>Scheidl</surname>,  \t\t\t\t\t\t<given-names>C.</given-names> </string-name>,  \t\t\t\t\t<string-name> <surname>Chiari</surname>,  \t\t\t\t\t\t<given-names>M.</given-names> </string-name>,  \t\t\t\t\t<string-name> <surname>Kaitna</surname>,  \t\t\t\t\t\t<given-names>R.</given-names> </string-name> <etal> <italic>et al.</italic> </etal>, \u201c  \t\t\t\t\t<article-title>Analysing debris-flow impact models, based on a small scale modelling approach</article-title>,\u201d \t\t\t\t\t<source>Surv. Geophys.</source> <volume> <bold>34</bold> </volume>( \t\t\t\t\t<issue>1</issue>), \t\t\t\t\t<fpage>121</fpage>\u2013 \t\t\t\t\t<lpage>140</lpage> ( \t\t\t\t\t<year>2013</year>). \t\t\t\t\t<pub-id pub-id-type=\"doi\" specific-use=\"metadata\">10.1007/s10712-012-9199-6</pub-id> </mixed-citation> </ref>",
+    "<ref id=\"c51\"> <label>50.</label> <mixed-citation publication-type=\"journal\"> <string-name> <surname>Scheidl</surname>,  \t\t\t\t\t\t<given-names>C.</given-names> </string-name>,  \t\t\t\t\t<string-name> <surname>McArdell</surname>,  \t\t\t\t\t\t<given-names>B. W.</given-names> </string-name>, and  \t\t\t\t\t<string-name> <surname>Rickenmann</surname>,  \t\t\t\t\t\t<given-names>D.</given-names> </string-name>, \u201c  \t\t\t\t\t<article-title>Debris-flow velocities and superelevation in a curved laboratory channel</article-title>,\u201d \t\t\t\t\t<source>Can. Geotech. J.</source> <volume> <bold>52</bold> </volume>( \t\t\t\t\t<issue>3</issue>), \t\t\t\t\t<fpage>305</fpage>\u2013 \t\t\t\t\t<lpage>317</lpage> ( \t\t\t\t\t<year>2015</year>). \t\t\t\t\t<pub-id pub-id-type=\"doi\" specific-use=\"metadata\">10.1139/cgj-2014-0081</pub-id> </mixed-citation> </ref>",
+    "<ref id=\"c52\"> <label>51.</label> <mixed-citation publication-type=\"journal\"> <string-name> <surname>Sun</surname>,  \t\t\t\t\t\t<given-names>H.</given-names> </string-name>,  \t\t\t\t\t<string-name> <surname>You</surname>,  \t\t\t\t\t\t<given-names>Y.</given-names> </string-name>,  \t\t\t\t\t<string-name> <surname>Liu</surname>,  \t\t\t\t\t\t<given-names>J.</given-names> </string-name> <etal> <italic>et al.</italic> </etal>, \u201c  \t\t\t\t\t<article-title>Experimental study on discharge process regulation to debris flow with open-type check dams</article-title>,\u201d \t\t\t\t\t<source>Landslides</source> <volume> <bold>18</bold> </volume>, \t\t\t\t\t<fpage>967</fpage>\u2013 \t\t\t\t\t<lpage>978</lpage> ( \t\t\t\t\t<year>2021</year>). \t\t\t\t\t<pub-id pub-id-type=\"doi\" specific-use=\"metadata\">10.1007/s10346-020-01535-y</pub-id> </mixed-citation> </ref>",
+    "<ref id=\"c53\"> <label>52.</label> <mixed-citation publication-type=\"other\"> <string-name> <surname>VanDine</surname>,  \t\t\t\t\t\t<given-names>D. F.</given-names> </string-name>, \u201c  \t\t\t\t\t<article-title>Debris flow control structures for forest engineering</article-title>,\u201d Technical Report No. MIC-96-04118/XAB (British Columbia Ministry of Forests, 1996). \t\t\t\t</mixed-citation> </ref>",
+    "<ref id=\"c54\"> <label>53.</label> <mixed-citation publication-type=\"journal\"> <string-name> <surname>Wang</surname>,  \t\t\t\t\t\t<given-names>D.</given-names> </string-name>,  \t\t\t\t\t<string-name> <surname>Chen</surname>,  \t\t\t\t\t\t<given-names>Z.</given-names> </string-name>,  \t\t\t\t\t<string-name> <surname>He</surname>,  \t\t\t\t\t\t<given-names>S.</given-names> </string-name> <etal> <italic>et al.</italic> </etal>, \u201c  \t\t\t\t\t<article-title>Measuring and estimating the impact pressure of debris flows on bridge piers based on large-scale laboratory experiments</article-title>,\u201d \t\t\t\t\t<source>Landslides</source> <volume> <bold>15</bold> </volume>( \t\t\t\t\t<issue>7</issue>), \t\t\t\t\t<fpage>1331</fpage>\u2013 \t\t\t\t\t<lpage>1345</lpage> ( \t\t\t\t\t<year>2018</year>). \t\t\t\t\t<pub-id pub-id-type=\"doi\" specific-use=\"metadata\">10.1007/s10346-018-0944-x</pub-id> </mixed-citation> </ref>",
+    "<ref id=\"c58\"> <label>54.</label> <mixed-citation publication-type=\"book\"> <string-name> <surname>Wang</surname> <given-names>J.-k.</given-names> </string-name> <etal> <italic>et al.</italic> </etal>, \t\t\t\t\t<source> <italic>Technology for Debris Flow Prevention and Control Engineering</italic> </source> (  \t\t\t\t\t<publisher-name>China Railway Publishing House</publisher-name>,  \t\t\t\t\t<publisher-loc>Beijing</publisher-loc>, \t\t\t\t\t<year>1996</year>), pp.163\u2013164 (in Chinese). \t\t\t\t</mixed-citation> </ref>",
+    "<ref id=\"c75\"> <label>55.</label> <mixed-citation publication-type=\"book\"> <string-name> <surname>Zhang</surname>, \t\t\t\t\t\t<given-names>R.-j.</given-names> </string-name>,  \t\t\t\t\t<string-name> <surname>Xie</surname>, \t\t\t\t\t\t<given-names>J.-h</given-names> </string-name>, and  \t\t\t\t\t<string-name> <surname>Wang</surname>, \t\t\t\t\t\t<given-names>M.-f.</given-names> </string-name>, \t\t\t\t\t<source> <italic>River Sediment Dynamics</italic> </source> ( \t\t\t\t\t<publisher-name>Water Resources and Electric Power Press</publisher-name>, \t\t\t\t\t<publisher-loc>Beijing</publisher-loc>, \t\t\t\t\t<year>1989</year>) (in Chinese). \t\t\t\t</mixed-citation> </ref>",
+    "<ref id=\"c77\"> <label>56.</label> <mixed-citation publication-type=\"journal\"> <string-name> <surname>Zhang</surname>,  \t\t\t\t\t\t<given-names>W.-t.</given-names> </string-name>,  \t\t\t\t\t<string-name> <surname>Liu</surname>,  \t\t\t\t\t\t<given-names>J.-f.</given-names> </string-name>,  \t\t\t\t\t<string-name> <surname>You</surname>,  \t\t\t\t\t\t<given-names>Y.</given-names> </string-name> <etal> <italic>et al</italic> </etal>., \u201c  \t\t\t\t\t<article-title>Analysis of the operation effect of check dams of debris flow in Beichuan and Wenchuan</article-title>,\u201d \t\t\t\t\t<source>J. Lanzhou Univ.</source> <volume> <bold>57</bold> </volume>( \t\t\t\t\t<issue>03</issue>), \t\t\t\t\t<fpage>395</fpage>\u2013 \t\t\t\t\t<lpage>401</lpage> ( \t\t\t\t\t<year>2021</year>) (in Chinese). \t\t\t\t</mixed-citation> </ref>",
+    "<ref id=\"c74\"> <label>57.</label> <mixed-citation publication-type=\"thesis\"> <string-name> <surname>Zheng</surname>,  \t\t\t\t\t\t<given-names>Z.-s.</given-names> </string-name>, \u201c  \t\t\t\t\t<article-title>Study on the morphology and change characteristics of debris flow jet through Sabo dam</article-title>,\u201d M.S. thesis (  \t\t\t\t\t<publisher-name>Institute of Mountain Hazards and Environment, Chinese Academy of Sciences</publisher-name>, \t\t\t\t\t<year>2019</year>) (in Chinese). \t\t\t\t</mixed-citation> </ref>",
+    "<ref id=\"c57\"> <label>58.</label> <mixed-citation publication-type=\"journal\"> <string-name> <surname>Zhang</surname>,  \t\t\t\t\t\t<given-names>W.</given-names> </string-name>,  \t\t\t\t\t<string-name> <surname>Liu</surname>,  \t\t\t\t\t\t<given-names>J.</given-names> </string-name>,  \t\t\t\t\t<string-name> <surname>Li</surname>,  \t\t\t\t\t\t<given-names>D.</given-names> </string-name> <etal> <italic>et al.</italic> </etal>, \u201c  \t\t\t\t\t<article-title>Evaluation of comprehensive treatment effect of geotechnical and ecological engineering for debris flow: Case of Wenchuan County, Sichuan Province</article-title>,\u201d \t\t\t\t\t<source>Nat. Hazards</source> <volume> <bold>116</bold> </volume>( \t\t\t\t\t<issue>1</issue>), \t\t\t\t\t<fpage>769</fpage>\u2013 \t\t\t\t\t<lpage>794</lpage> ( \t\t\t\t\t<year>2023</year>). \t\t\t\t\t<pub-id pub-id-type=\"doi\" specific-use=\"metadata\">10.1007/s11069-022-05698-w</pub-id> </mixed-citation> </ref>"
+  ],
+  "title": {
+    "textEnglish": "Study on debris flow discharge characteristics of check dam spillway"
+  }
+}

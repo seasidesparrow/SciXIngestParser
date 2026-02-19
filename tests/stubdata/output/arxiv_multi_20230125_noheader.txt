@@ -1,0 +1,103 @@
+<record>
+<header>
+ <identifier>oai:arXiv.org:1009.1022</identifier>
+ <datestamp>2023-01-25</datestamp>
+ <setSpec>math</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Complete nonmeasurability in regular families</dc:title>
+ <dc:creator>Ralowski, Robert</dc:creator>
+ <dc:creator>Zeberski, Szymon</dc:creator>
+ <dc:subject>Mathematics - Logic</dc:subject>
+ <dc:subject>03E75 (Primary), 03E35 (Secondary), 28A05, 28A99</dc:subject>
+ <dc:description>  We show that for a $\sigma $-ideal $\ci$ with a Borel base of subsets of an
+uncountable Polish space, if $\ca$ is (in several senses) a &quot;regular&quot; family of
+subsets from $\ci $ then there is a subfamily of $\ca$ whose union is
+completely nonmeasurable i.e. its intersection with every Borel set not in $\ci
+$ does not belong to the smallest $\sigma $-algebra containing all Borel sets
+and $\ci.$ Our results generalize results from \cite{fourpoles} and
+\cite{fivepoles}.
+</dc:description>
+ <dc:description>Comment: 7 pages</dc:description>
+ <dc:date>2010-09-06</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1009.1022</dc:identifier>
+ <dc:identifier>Houston Journal of Mathematics, 34 (3) (2008), pp. 773-780</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+
+<record>
+<header>
+ <identifier>oai:arXiv.org:1305.6404</identifier>
+ <datestamp>2023-01-25</datestamp>
+ <setSpec>math</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Note on $s_0$ nonmeasurable unions</dc:title>
+ <dc:creator>Ralowski, Robert</dc:creator>
+ <dc:subject>Mathematics - Logic</dc:subject>
+ <dc:subject>03E35, 03E75</dc:subject>
+ <dc:description>  In this note we consider an arbitrary families of sets of $s_0$ ideal
+introduced by Marczewski-Szpilrajn. We show that in any uncountable Polish
+space $X$ and under some combinatorial and set theoretical assumptions
+($cov(s_0)=\c$ for example), that for any family $\ca\subseteq s_0$ with
+$\bigcup\ca =X$, we can find a some subfamily $\ca'\subseteq\ca$ such that the
+union $\bigcup\ca'$ is not $s$-measurable. We have shown a consistency of the
+$cov(s_0)=\omega_1&lt;\c$ and existence a partition of the size $\omega_1$ $\ca\in
+[s_0]^{\omega}$ of the real line $\bbr$, such that there exists a subfamily
+$\ca'\subseteq\ca$ for which $\bigcup\ca'$ is $s$-nonmeasurable. We also showed
+that it is relatively consistent with ZFC theory that $\omega_1&lt;\c$ and
+existence of m.a.d. family $\ca$ such that $\bigcup\ca$ is $s$-nonmeasurable in
+Cantor space $2^\omega$ or Baire space $\omega^\omega$. The consistency of
+$a&lt;cov(s_0)$ and $cov(s_0)&lt;a$ is proved also.
+</dc:description>
+ <dc:description>Comment: 12 pages</dc:description>
+ <dc:date>2013-05-28</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1305.6404</dc:identifier>
+ <dc:identifier>Archive for Mathematical Logic, 54 (2015), no. 5-6, 649-658</dc:identifier>
+ <dc:identifier>doi:10.1007/s00153-015-0433-z</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+
+<record>
+<header>
+ <identifier>oai:arXiv.org:1412.1417</identifier>
+ <datestamp>2023-01-25</datestamp>
+ <setSpec>math</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Current algebras and categorified quantum groups</dc:title>
+ <dc:creator>Beliakova, Anna</dc:creator>
+ <dc:creator>Habiro, Kazuo</dc:creator>
+ <dc:creator>Lauda, Aaron D.</dc:creator>
+ <dc:creator>Webster, Ben</dc:creator>
+ <dc:subject>Mathematics - Quantum Algebra</dc:subject>
+ <dc:subject>Mathematics - Representation Theory</dc:subject>
+ <dc:subject>81R50, 17B37, 16E40</dc:subject>
+ <dc:description>  We identify the trace, or 0th Hochschild homology, of type ADE categorified
+quantum groups with the corresponding current algebra of the same type. To
+prove this, we show that 2-representations defined using categories of modules
+over cyclotomic (or deformed cyclotomic) quotients of KLR-algebras correspond
+to local (or global) Weyl modules. We also investigate the implications for
+centers of categories in 2-representations of categorified quantum groups.
+</dc:description>
+ <dc:description>Comment: 28 pages, with tikz and xypic diagrams. v2: changed discussion of
+  cyclicity to include all simply-laced Kac-Moody algebras. v3: revised final
+  version. edited from journal version to fix some when ADE hypothesis is
+  needed</dc:description>
+ <dc:date>2014-12-03</dc:date>
+ <dc:date>2023-01-23</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1412.1417</dc:identifier>
+ <dc:identifier>Journal of the London Mathematical Society, Vol 95, Issue 1, 2017,
+  pages 248-276</dc:identifier>
+ <dc:identifier>doi:10.1112/jlms.12001</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>

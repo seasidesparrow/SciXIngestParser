@@ -1,0 +1,649 @@
+{
+  "abstract": {
+    "textEnglish": "Precision radial velocity spectrographs that use adaptive optics (AO) show promise to advance telescope observing capabilities beyond those of seeing-limited designs. We are building a spectrograph for the Large Binocular Telescope (LBT) named iLocater that uses AO to inject starlight directly into single mode fibers. iLocater's first acquisition camera system (the SX camera), which receives light from one of the 8.4 m diameter primary mirrors of the LBT, was initially installed in summer 2019 and has since been used for several commissioning runs. We present results from first-light observations that include on-sky measurements as part of commissioning activities. Imaging measurements of the bright B3IV star 2 Cygni (V = 4.98) resulted in the direct detection of a candidate companion star at an angular separation of only \u03b8 = 70 mas. Follow-up AO measurements using Keck/NIRC2 recover the candidate companion in multiple filters. An R \u2248 1500 miniature spectrograph recently installed at the LBT named Lili provides spatially resolved spectra of each binary component, indicating similar spectral types and strengthening the case for companionship. Studying the multiplicity of young runaway star systems like 2 Cygni (36.6 \u00b1 0.5 Myr) can help to understand formation mechanisms for stars that exhibit anomalous velocities through the Galaxy. This on-sky demonstration illustrates the spatial resolution of the iLocater SX acquisition camera working in tandem with the LBT AO system; it further derisks a number of technical hurdles involved in combining AO with Doppler spectroscopy."
+  },
+  "authors": [
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "University of Notre Dame, Department of Physics and Astronomy, Notre Dame, IN, USA"
+        }
+      ],
+      "attrib": {
+        "corresp": true,
+        "email": "jcrepp@nd.edu",
+        "orcid": "0000-0003-0800-0593"
+      },
+      "name": {
+        "given_name": "Justin R.",
+        "surname": "Crepp"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "University of Notre Dame, Department of Physics and Astronomy, Notre Dame, IN, USA"
+        },
+        {
+          "affPubRaw": "The Ohio State University, Department of Astronomy, Columbus, OH, USA"
+        }
+      ],
+      "attrib": {
+        "email": "jcrepp@nd.edu",
+        "orcid": "0000-0002-1503-2852"
+      },
+      "name": {
+        "given_name": "Jonathan",
+        "surname": "Crass"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "University of Notre Dame, Department of Physics and Astronomy, Notre Dame, IN, USA"
+        }
+      ],
+      "attrib": {
+        "email": "jcrepp@nd.edu",
+        "orcid": "0000-0002-3047-9599"
+      },
+      "name": {
+        "given_name": "Andrew J.",
+        "surname": "Bechter"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "University of Notre Dame, Department of Physics and Astronomy, Notre Dame, IN, USA"
+        }
+      ],
+      "attrib": {
+        "email": "jcrepp@nd.edu",
+        "orcid": "0009-0000-4650-2266"
+      },
+      "name": {
+        "given_name": "Brian L.",
+        "surname": "Sands"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "University of Notre Dame, Department of Physics and Astronomy, Notre Dame, IN, USA"
+        }
+      ],
+      "attrib": {
+        "email": "jcrepp@nd.edu"
+      },
+      "name": {
+        "given_name": "Ryan",
+        "surname": "Ketterer"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Durham University, Department of Physics, Durham, UK"
+        },
+        {
+          "affPubRaw": "University of Cambridge, Institute of Astronomy, Cambridge, UK"
+        }
+      ],
+      "name": {
+        "given_name": "David",
+        "surname": "King"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "University of Notre Dame, Department of Physics and Astronomy, Notre Dame, IN, USA"
+        }
+      ],
+      "attrib": {
+        "email": "jcrepp@nd.edu",
+        "orcid": "0000-0003-0121-5815"
+      },
+      "name": {
+        "given_name": "Derek",
+        "surname": "Kopon"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "University of Notre Dame, Department of Physics and Astronomy, Notre Dame, IN, USA"
+        }
+      ],
+      "attrib": {
+        "email": "jcrepp@nd.edu"
+      },
+      "name": {
+        "given_name": "Randall",
+        "surname": "Hamper"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "University of Notre Dame, Department of Physics and Astronomy, Notre Dame, IN, USA"
+        }
+      ],
+      "attrib": {
+        "email": "jcrepp@nd.edu",
+        "orcid": "0009-0004-8248-3073"
+      },
+      "name": {
+        "given_name": "Matthew",
+        "surname": "Engstrom"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "University of Notre Dame, Department of Physics and Astronomy, Notre Dame, IN, USA"
+        }
+      ],
+      "attrib": {
+        "email": "jcrepp@nd.edu",
+        "orcid": "0009-0007-4806-3894"
+      },
+      "name": {
+        "given_name": "James E.",
+        "surname": "Smous"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "University of Notre Dame, Department of Physics and Astronomy, Notre Dame, IN, USA"
+        }
+      ],
+      "attrib": {
+        "email": "jcrepp@nd.edu",
+        "orcid": "0000-0001-8725-8730"
+      },
+      "name": {
+        "given_name": "Eric B.",
+        "surname": "Bechter"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Durham University, Department of Physics, Durham, UK"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0002-8518-4640"
+      },
+      "name": {
+        "given_name": "Robert",
+        "surname": "Harris"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "The Ohio State University, Department of Astronomy, Columbus, OH, USA"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0002-5099-8185"
+      },
+      "name": {
+        "given_name": "Marshall C.",
+        "surname": "Johnson"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "University of Notre Dame, Department of Physics and Astronomy, Notre Dame, IN, USA"
+        }
+      ],
+      "attrib": {
+        "email": "jcrepp@nd.edu"
+      },
+      "name": {
+        "given_name": "Nicholas",
+        "surname": "Baggett"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "University of Notre Dame, Department of Physics and Astronomy, Notre Dame, IN, USA"
+        }
+      ],
+      "attrib": {
+        "email": "jcrepp@nd.edu"
+      },
+      "name": {
+        "given_name": "Shannon",
+        "surname": "Dulz"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "University of Notre Dame, Department of Physics and Astronomy, Notre Dame, IN, USA"
+        }
+      ],
+      "attrib": {
+        "email": "jcrepp@nd.edu"
+      },
+      "name": {
+        "given_name": "Michael",
+        "surname": "Vansickle"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Large Binocular Telescope Observatory, Tucson, AZ, USA"
+        }
+      ],
+      "name": {
+        "given_name": "Al",
+        "surname": "Conrad"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Large Binocular Telescope Observatory, Tucson, AZ, USA"
+        },
+        {
+          "affPubRaw": "University of Arizona, Department of Astronomy, Tucson, AZ, USA"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0002-2314-7289"
+      },
+      "name": {
+        "given_name": "Steve",
+        "surname": "Ertel"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "The Ohio State University, Department of Astronomy, Columbus, OH, USA"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0003-0395-9869"
+      },
+      "name": {
+        "given_name": "B. Scott",
+        "surname": "Gaudi"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "University of Arizona, Department of Astronomy, Tucson, AZ, USA"
+        },
+        {
+          "affPubRaw": "UC Santa Cruz, Department of Astronomy and Astrophysics, Santa Cruz, CA, USA"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0002-1954-4564"
+      },
+      "name": {
+        "given_name": "Philip",
+        "surname": "Hinz"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Goddard Space Flight Center, Greenbelt, MD, USA"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0002-2387-5489"
+      },
+      "name": {
+        "given_name": "Marc",
+        "surname": "Kuchner"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "University of Arizona, Department of Astronomy, Tucson, AZ, USA"
+        }
+      ],
+      "name": {
+        "given_name": "Manny",
+        "surname": "Montoya"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Goddard Space Flight Center, Greenbelt, MD, USA"
+        }
+      ],
+      "name": {
+        "given_name": "Eleanya",
+        "surname": "Onuma"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Goddard Space Flight Center, Greenbelt, MD, USA"
+        }
+      ],
+      "name": {
+        "given_name": "Melanie",
+        "surname": "Ott"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "The Ohio State University, Department of Astronomy, Columbus, OH, USA"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0003-1435-3053"
+      },
+      "name": {
+        "given_name": "Richard",
+        "surname": "Pogge"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Large Binocular Telescope Observatory, Tucson, AZ, USA"
+        }
+      ],
+      "name": {
+        "given_name": "Gustavo",
+        "surname": "Rahmer"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Large Binocular Telescope Observatory, Tucson, AZ, USA"
+        }
+      ],
+      "name": {
+        "given_name": "Robert",
+        "surname": "Reynolds"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Macquarie University, School of Mathematical and Physical Sciences, Sydney, NSW, Australia"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0002-4046-987X"
+      },
+      "name": {
+        "given_name": "Christian",
+        "surname": "Schwab"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Goddard Space Flight Center, Greenbelt, MD, USA"
+        },
+        {
+          "affPubRaw": "Jet Propulsion Laboratory, California Institute of Technology, Pasadena, CA, USA"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0002-2805-7338"
+      },
+      "name": {
+        "given_name": "Karl",
+        "surname": "Stapelfeldt"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Goddard Space Flight Center, Greenbelt, MD, USA"
+        }
+      ],
+      "name": {
+        "given_name": "Joseph",
+        "surname": "Thomes"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "University of Arizona, Department of Astronomy, Tucson, AZ, USA"
+        }
+      ],
+      "name": {
+        "given_name": "Amali",
+        "surname": "Vaz"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "The Ohio State University, Department of Astronomy, Columbus, OH, USA"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0002-4361-8885"
+      },
+      "name": {
+        "given_name": "Ji",
+        "surname": "Wang"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "University of Minnesota, Minnesota Institute for Astrophysics, Minneapolis, MN, USA"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0001-6567-627X"
+      },
+      "name": {
+        "given_name": "Charles E.",
+        "surname": "Woodward"
+      }
+    }
+  ],
+  "copyright": {
+    "statement": "\u00a9 2024. The Author(s). Published by the American Astronomical Society.",
+    "status": true
+  },
+  "editorialHistory": {
+    "acceptedDate": "2024-12-05",
+    "receivedDates": [
+      "2024-08-30"
+    ],
+    "revisedDates": [
+      "2024-12-05"
+    ]
+  },
+  "funding": [
+    {
+      "agencyid": {
+        "idschema": "doi",
+        "idvalue": "https://doi.org/10.13039/100000001"
+      },
+      "agencyname": "National Science Foundation (NSF)\n",
+      "awardnumber": "2108603"
+    },
+    {
+      "agencyid": {
+        "idschema": "doi",
+        "idvalue": "https://doi.org/10.13039/100000104"
+      },
+      "agencyname": "National Aeronautics and Space Administration (NASA)\n",
+      "awardnumber": "NNX13AB03G"
+    },
+    {
+      "agencyid": {
+        "idschema": "doi",
+        "idvalue": "https://doi.org/10.13039/100000001"
+      },
+      "agencyname": "National Science Foundation (NSF)\n",
+      "awardnumber": "1654125"
+    }
+  ],
+  "keywords": [
+    {
+      "keyID": "498",
+      "keyString": "Exoplanets",
+      "keySystem": "UAT"
+    }
+  ],
+  "openAccess": {
+    "license": "Original content from this work may be used under the terms of the Creative Commons Attribution 4.0 licence. Any further distribution of this work must maintain attribution to the author(s) and the title of the work, journal citation and DOI.",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "open": true
+  },
+  "pagination": {
+    "electronicID": "48",
+    "pageCount": "12"
+  },
+  "persistentIDs": [
+    {
+      "DOI": "10.3847/1538-3881/ad9b1d"
+    }
+  ],
+  "pubDate": {
+    "electrDate": "2024-12-24",
+    "printDate": "2025-01-03"
+  },
+  "publication": {
+    "ISSN": [
+      {
+        "issnString": "0004-6256",
+        "pubtype": "ppub"
+      },
+      {
+        "issnString": "1538-3881",
+        "pubtype": "epub"
+      }
+    ],
+    "issueNum": "1",
+    "pubName": "The Astronomical Journal",
+    "pubYear": "2025",
+    "publisher": "The American Astronomical Society",
+    "volumeNum": "169"
+  },
+  "publisherIDs": [
+    {
+      "Identifier": "ajad9b1d",
+      "attribute": "publisher-id"
+    },
+    {
+      "Identifier": "ad9b1d",
+      "attribute": "manuscript"
+    },
+    {
+      "Identifier": "AAS57949",
+      "attribute": "other"
+    }
+  ],
+  "recordData": {
+    "createdTime": "",
+    "loadFormat": "JATS",
+    "loadLocation": "",
+    "loadType": "fromFile",
+    "parsedTime": "",
+    "recordOrigin": ""
+  },
+  "references": [
+    "<ref id=\"ajad9b1dbib1\"><element-citation publication-type=\"confproc\"><person-group person-group-type=\"author\"> <name name-style=\"western\"><surname>Allard</surname><given-names>F.</given-names></name> <name name-style=\"western\"><surname>Homeier</surname><given-names>D.</given-names></name> <name name-style=\"western\"><surname>Freytag</surname><given-names>B.</given-names></name> </person-group><year>2011</year><conf-name>ASP Conf. Ser. 448, 16th Cambridge Workshop on Cool Stars, Stellar Systems, and the Sun</conf-name><person-group person-group-type=\"editor\"> <name name-style=\"western\"><surname>Johns-Krull</surname><given-names>C. M.</given-names></name> </person-group><publisher-loc>San Francisco, CA</publisher-loc><publisher-name>ASP</publisher-name><fpage>91</fpage><pub-id pub-id-type=\"other\" specific-use=\"ads\">2011ASPC..448...91A</pub-id><pub-id pub-id-type=\"doi\">10.48550/arXiv.1011.5405</pub-id></element-citation></ref>",
+    "<ref id=\"ajad9b1dbib2\"><element-citation publication-type=\"journal\"><person-group person-group-type=\"author\"> <name name-style=\"western\"><surname>Bechter</surname><given-names>A.</given-names></name> <name name-style=\"western\"><surname>Crass</surname><given-names>J.</given-names></name> <name name-style=\"western\"><surname>Ketterer</surname><given-names>R.</given-names></name> <etal/> </person-group><year>2016</year><source>Proc. SPIE</source><volume>9909</volume><fpage>99092X</fpage><pub-id pub-id-type=\"doi\">10.1117/12.2233153</pub-id><pub-id pub-id-type=\"other\" specific-use=\"ads\">2016SPIE.9909E..2XB</pub-id></element-citation></ref>",
+    "<ref id=\"ajad9b1dbib3\"><element-citation publication-type=\"journal\"><person-group person-group-type=\"author\"> <name name-style=\"western\"><surname>Bechter</surname><given-names>A. J.</given-names></name> <name name-style=\"western\"><surname>Bechter</surname><given-names>E. B.</given-names></name> <name name-style=\"western\"><surname>Crepp</surname><given-names>J. R.</given-names></name> <etal/> </person-group><year>2020</year><source>PASP</source><volume>132</volume><fpage>095001</fpage><pub-id pub-id-type=\"other\" specific-use=\"ads\">2020PASP..132i5001B</pub-id><pub-id pub-id-type=\"doi\">10.1088/1538-3873/ab9cc6</pub-id></element-citation></ref>",
+    "<ref id=\"ajad9b1dbib4\"><element-citation publication-type=\"journal\"><person-group person-group-type=\"author\"> <name name-style=\"western\"><surname>Bechter</surname><given-names>A. J.</given-names></name> <name name-style=\"western\"><surname>Crass</surname><given-names>J.</given-names></name> <name name-style=\"western\"><surname>Tesch</surname><given-names>J.</given-names></name> <etal/> </person-group><year>2020</year><source>PASP</source><volume>132</volume><fpage>015001</fpage><pub-id pub-id-type=\"other\" specific-use=\"ads\">2020PASP..132a5001B</pub-id><pub-id pub-id-type=\"doi\">10.1088/1538-3873/ab42cb</pub-id></element-citation></ref>",
+    "<ref id=\"ajad9b1dbib5\"><element-citation publication-type=\"journal\"><person-group person-group-type=\"author\"> <name name-style=\"western\"><surname>Bechter</surname><given-names>E. B.</given-names></name> <name name-style=\"western\"><surname>Bechter</surname><given-names>A. J.</given-names></name> <name name-style=\"western\"><surname>Crepp</surname><given-names>J. R.</given-names></name> <etal/> </person-group><year>2019a</year><source>PASP</source><volume>131</volume><fpage>024504</fpage><pub-id pub-id-type=\"other\" specific-use=\"ads\">2019PASP..131b4504B</pub-id><pub-id pub-id-type=\"doi\">10.1088/1538-3873/aaf278</pub-id></element-citation></ref>",
+    "<ref id=\"ajad9b1dbib6\"><element-citation publication-type=\"journal\"><person-group person-group-type=\"author\"> <name name-style=\"western\"><surname>Bechter</surname><given-names>E. B.</given-names></name> <name name-style=\"western\"><surname>Bechter</surname><given-names>A. J.</given-names></name> <name name-style=\"western\"><surname>Crepp</surname><given-names>J. R.</given-names></name> <etal/> </person-group><year>2019b</year><source>JATIS</source><volume>5</volume><fpage>038004</fpage><pub-id pub-id-type=\"other\" specific-use=\"ads\">2019JATIS...5c8004B</pub-id><pub-id pub-id-type=\"doi\">10.1117/1.JATIS.5.3.038004</pub-id></element-citation></ref>",
+    "<ref id=\"ajad9b1dbib7\"><element-citation publication-type=\"journal\"><person-group person-group-type=\"author\"> <name name-style=\"western\"><surname>Bechter</surname><given-names>E. B.</given-names></name> <name name-style=\"western\"><surname>Bechter</surname><given-names>A. J.</given-names></name> <name name-style=\"western\"><surname>Crepp</surname><given-names>J. R.</given-names></name> <etal/> </person-group><year>2021</year><source>JATIS</source><volume>7</volume><fpage>035008</fpage><pub-id pub-id-type=\"other\" specific-use=\"ads\">2021JATIS...7c5008B</pub-id><pub-id pub-id-type=\"doi\">10.1117/1.JATIS.7.3.035008</pub-id></element-citation></ref>",
+    "<ref id=\"ajad9b1dbib8\"><element-citation publication-type=\"journal\"><person-group person-group-type=\"author\"> <name name-style=\"western\"><surname>Bechter</surname><given-names>E. B.</given-names></name> <name name-style=\"western\"><surname>Crepp</surname><given-names>J. R.</given-names></name> <name name-style=\"western\"><surname>Ngo</surname><given-names>H.</given-names></name> <etal/> </person-group><year>2014</year><source>ApJ</source><volume>788</volume><fpage>2</fpage><pub-id pub-id-type=\"other\" specific-use=\"ads\">2014ApJ...788....2B</pub-id><pub-id pub-id-type=\"doi\">10.1088/0004-637X/788/1/2</pub-id></element-citation></ref>",
+    "<ref id=\"ajad9b1dbib9\"><element-citation publication-type=\"journal\"><person-group person-group-type=\"author\"> <name name-style=\"western\"><surname>Blaauw</surname><given-names>A.</given-names></name> </person-group><year>1961</year><source>BAN</source><volume>15</volume><fpage>265</fpage><pub-id pub-id-type=\"other\" specific-use=\"ads\">1961BAN....15..265B</pub-id></element-citation></ref>",
+    "<ref id=\"ajad9b1dbib10\"><element-citation publication-type=\"journal\"><person-group person-group-type=\"author\"> <name name-style=\"western\"><surname>Borucki</surname><given-names>W. J.</given-names></name> <name name-style=\"western\"><surname>Agol</surname><given-names>E.</given-names></name> <name name-style=\"western\"><surname>Fressin</surname><given-names>F.</given-names></name> <etal/> </person-group><year>2013</year><source>Sci</source><volume>340</volume><fpage>587</fpage><pub-id pub-id-type=\"other\" specific-use=\"ads\">2013Sci...340..587B</pub-id><pub-id pub-id-type=\"doi\">10.1126/science.1234702</pub-id></element-citation></ref>",
+    "<ref id=\"ajad9b1dbib11\"><element-citation publication-type=\"journal\"><person-group person-group-type=\"author\"> <name name-style=\"western\"><surname>Cegla</surname><given-names>H. M.</given-names></name> <name name-style=\"western\"><surname>Shelyag</surname><given-names>S.</given-names></name> <name name-style=\"western\"><surname>Watson</surname><given-names>C. A.</given-names></name> <etal/> </person-group><year>2013</year><source>ApJ</source><volume>763</volume><fpage>95</fpage><pub-id pub-id-type=\"other\" specific-use=\"ads\">2013ApJ...763...95C</pub-id><pub-id pub-id-type=\"doi\">10.1088/0004-637X/763/2/95</pub-id></element-citation></ref>",
+    "<ref id=\"ajad9b1dbib12\"><element-citation publication-type=\"journal\"><person-group person-group-type=\"author\"> <name name-style=\"western\"><surname>Cegla</surname><given-names>H. M.</given-names></name> <name name-style=\"western\"><surname>Watson</surname><given-names>C. A.</given-names></name> <name name-style=\"western\"><surname>Shelyag</surname><given-names>S.</given-names></name> <etal/> </person-group><year>2018</year><source>ApJ</source><volume>866</volume><fpage>55</fpage><pub-id pub-id-type=\"other\" specific-use=\"ads\">2018ApJ...866...55C</pub-id><pub-id pub-id-type=\"doi\">10.3847/1538-4357/aaddfc</pub-id></element-citation></ref>",
+    "<ref id=\"ajad9b1dbib13\"><element-citation publication-type=\"journal\"><person-group person-group-type=\"author\"> <name name-style=\"western\"><surname>Cegla</surname><given-names>H. M.</given-names></name> <name name-style=\"western\"><surname>Watson</surname><given-names>C. A.</given-names></name> <name name-style=\"western\"><surname>Shelyag</surname><given-names>S.</given-names></name> <etal/> </person-group><year>2019</year><source>ApJ</source><volume>879</volume><fpage>55</fpage><pub-id pub-id-type=\"other\" specific-use=\"ads\">2019ApJ...879...55C</pub-id><pub-id pub-id-type=\"doi\">10.3847/1538-4357/ab16d3</pub-id></element-citation></ref>",
+    "<ref id=\"ajad9b1dbib14\"><element-citation publication-type=\"journal\"><person-group person-group-type=\"author\"> <name name-style=\"western\"><surname>Chini</surname><given-names>R.</given-names></name> <name name-style=\"western\"><surname>Hoffmeister</surname><given-names>V. H.</given-names></name> <name name-style=\"western\"><surname>Nasseri</surname><given-names>A.</given-names></name> <etal/> </person-group><year>2012</year><source>MNRAS</source><volume>424</volume><fpage>1925</fpage><pub-id pub-id-type=\"other\" specific-use=\"ads\">2012MNRAS.424.1925C</pub-id><pub-id pub-id-type=\"doi\">10.1111/j.1365-2966.2012.21317.x</pub-id></element-citation></ref>",
+    "<ref id=\"ajad9b1dbib15\"><element-citation publication-type=\"journal\"><person-group person-group-type=\"author\"> <name name-style=\"western\"><surname>Ciardi</surname><given-names>D. R.</given-names></name> <name name-style=\"western\"><surname>Fabrycky</surname><given-names>D. C.</given-names></name> <name name-style=\"western\"><surname>Ford</surname><given-names>E. B.</given-names></name> <etal/> </person-group><year>2013</year><source>ApJ</source><volume>763</volume><fpage>41</fpage><pub-id pub-id-type=\"other\" specific-use=\"ads\">2013ApJ...763...41C</pub-id><pub-id pub-id-type=\"doi\">10.1088/0004-637X/763/1/41</pub-id></element-citation></ref>",
+    "<ref id=\"ajad9b1dbib16\"><element-citation publication-type=\"journal\"><person-group person-group-type=\"author\"> <name name-style=\"western\"><surname>Crass</surname><given-names>J.</given-names></name> <name name-style=\"western\"><surname>Aikens</surname><given-names>D.</given-names></name> <name name-style=\"western\"><surname>Mason</surname><given-names>J.</given-names></name> <etal/> </person-group><year>2022</year><source>Proc. SPIE</source><volume>12184</volume><fpage>121841P</fpage><pub-id pub-id-type=\"other\" specific-use=\"ads\">2022SPIE12184E..1PC</pub-id><pub-id pub-id-type=\"doi\">10.1117/12.2630228</pub-id></element-citation></ref>",
+    "<ref id=\"ajad9b1dbib17\"><element-citation publication-type=\"journal\"><person-group person-group-type=\"author\"> <name name-style=\"western\"><surname>Crass</surname><given-names>J.</given-names></name> <name name-style=\"western\"><surname>Bechter</surname><given-names>A.</given-names></name> <name name-style=\"western\"><surname>Sands</surname><given-names>B.</given-names></name> <etal/> </person-group><year>2021a</year><source>MNRAS</source><volume>501</volume><fpage>2250</fpage><pub-id pub-id-type=\"other\" specific-use=\"ads\">2021MNRAS.501.2250C</pub-id><pub-id pub-id-type=\"doi\">10.1093/mnras/staa3355</pub-id></element-citation></ref>",
+    "<ref id=\"ajad9b1dbib18\"><element-citation publication-type=\"preprint\"><person-group person-group-type=\"author\"> <name name-style=\"western\"><surname>Crass</surname><given-names>J.</given-names></name> <name name-style=\"western\"><surname>Gaudi</surname><given-names>B. S.</given-names></name> <name name-style=\"western\"><surname>Leifer</surname><given-names>S.</given-names></name> <etal/> </person-group><year>2021b</year><comment>arXiv:<ext-link ext-link-type=\"arxiv\" xlink:href=\"http://arXiv.org/abs/2107.14291\">2107.14291</ext-link> </comment><pub-id pub-id-type=\"other\" specific-use=\"ads\">2021arXiv210714291C</pub-id></element-citation></ref>",
+    "<ref id=\"ajad9b1dbib19\"><element-citation publication-type=\"journal\"><person-group person-group-type=\"author\"> <name name-style=\"western\"><surname>Crepp</surname><given-names>J. R.</given-names></name> </person-group><year>2014</year><source>Sci</source><volume>346</volume><fpage>809</fpage><pub-id pub-id-type=\"other\" specific-use=\"ads\">2014Sci...346..809C</pub-id><pub-id pub-id-type=\"doi\">10.1126/science.1262071</pub-id></element-citation></ref>",
+    "<ref id=\"ajad9b1dbib20\"><element-citation publication-type=\"journal\"><person-group person-group-type=\"author\"> <name name-style=\"western\"><surname>Crepp</surname><given-names>J. R.</given-names></name> <name name-style=\"western\"><surname>Crass</surname><given-names>J.</given-names></name> <name name-style=\"western\"><surname>King</surname><given-names>D.</given-names></name> <etal/> </person-group><year>2016</year><source>Proc. SPIE</source><volume>9908</volume><fpage>990819</fpage><pub-id pub-id-type=\"other\" specific-use=\"ads\">2016SPIE.9908E..19C</pub-id><pub-id pub-id-type=\"doi\">10.1117/12.2233135</pub-id></element-citation></ref>",
+    "<ref id=\"ajad9b1dbib21\"><element-citation publication-type=\"journal\"><person-group person-group-type=\"author\"> <name name-style=\"western\"><surname>Crepp</surname><given-names>J. R.</given-names></name> <name name-style=\"western\"><surname>Johnson</surname><given-names>J. A.</given-names></name> <name name-style=\"western\"><surname>Howard</surname><given-names>A. W.</given-names></name> <etal/> </person-group><year>2012</year><source>ApJ</source><volume>761</volume><fpage>39</fpage><pub-id pub-id-type=\"other\" specific-use=\"ads\">2012ApJ...761...39C</pub-id><pub-id pub-id-type=\"doi\">10.1088/0004-637X/761/1/39</pub-id></element-citation></ref>",
+    "<ref id=\"ajad9b1dbib22\"><element-citation publication-type=\"journal\"><person-group person-group-type=\"author\"> <name name-style=\"western\"><surname>Crepp</surname><given-names>J. R.</given-names></name> <name name-style=\"western\"><surname>Johnson</surname><given-names>J. A.</given-names></name> <name name-style=\"western\"><surname>Howard</surname><given-names>A. W.</given-names></name> <etal/> </person-group><year>2013</year><source>ApJ</source><volume>774</volume><fpage>1</fpage><pub-id pub-id-type=\"other\" specific-use=\"ads\">2013ApJ...774....1C</pub-id><pub-id pub-id-type=\"doi\">10.1088/0004-637X/774/1/1</pub-id></element-citation></ref>",
+    "<ref id=\"ajad9b1dbib23\"><element-citation publication-type=\"journal\"><person-group person-group-type=\"author\"> <name name-style=\"western\"><surname>Crepp</surname><given-names>J. R.</given-names></name> <name name-style=\"western\"><surname>Johnson</surname><given-names>J. A.</given-names></name> <name name-style=\"western\"><surname>Howard</surname><given-names>A. W.</given-names></name> <etal/> </person-group><year>2014</year><source>ApJ</source><volume>781</volume><fpage>29</fpage><pub-id pub-id-type=\"other\" specific-use=\"ads\">2014ApJ...781...29C</pub-id><pub-id pub-id-type=\"doi\">10.1088/0004-637X/781/1/29</pub-id></element-citation></ref>",
+    "<ref id=\"ajad9b1dbib24\"><element-citation publication-type=\"journal\"><person-group person-group-type=\"author\"> <name name-style=\"western\"><surname>Crepp</surname><given-names>J. R.</given-names></name> <name name-style=\"western\"><surname>Pueyo</surname><given-names>L.</given-names></name> <name name-style=\"western\"><surname>Brenner</surname><given-names>D.</given-names></name> <etal/> </person-group><year>2011</year><source>ApJ</source><volume>729</volume><fpage>132</fpage><pub-id pub-id-type=\"other\" specific-use=\"ads\">2011ApJ...729..132C</pub-id><pub-id pub-id-type=\"doi\">10.1088/0004-637X/729/2/132</pub-id></element-citation></ref>",
+    "<ref id=\"ajad9b1dbib25\"><element-citation publication-type=\"book\"><person-group person-group-type=\"author\"> <name name-style=\"western\"><surname>Cutri</surname><given-names>R. M.</given-names></name> <name name-style=\"western\"><surname>Skrutskie</surname><given-names>M. F.</given-names></name> <name name-style=\"western\"><surname>van Dyk</surname><given-names>S.</given-names></name> <etal/> </person-group><year>2003</year><source>The IRSA 2MASS All-Sky Point Source Catalog</source><publisher-loc>Washington, DC</publisher-loc><publisher-name>NASA</publisher-name><pub-id pub-id-type=\"other\" specific-use=\"ads\">2003tmc..book.....C</pub-id></element-citation></ref>",
+    "<ref id=\"ajad9b1dbib26\"><element-citation publication-type=\"journal\"><person-group person-group-type=\"author\"> <name name-style=\"western\"><surname>Davis</surname><given-names>A. B.</given-names></name> <name name-style=\"western\"><surname>Cisewski</surname><given-names>J.</given-names></name> <name name-style=\"western\"><surname>Dumusque</surname><given-names>X.</given-names></name> <etal/> </person-group><year>2017</year><source>ApJ</source><volume>846</volume><fpage>59</fpage><pub-id pub-id-type=\"other\" specific-use=\"ads\">2017ApJ...846...59D</pub-id><pub-id pub-id-type=\"doi\">10.3847/1538-4357/aa8303</pub-id></element-citation></ref>",
+    "<ref id=\"ajad9b1dbib27\"><element-citation publication-type=\"data\"><person-group person-group-type=\"author\"> <name name-style=\"western\"><surname>Dommanget</surname><given-names>J.</given-names></name> <name name-style=\"western\"><surname>Nys</surname><given-names>O.</given-names></name> </person-group><year>2002</year><source>yCat</source><comment>I/274</comment><pub-id pub-id-type=\"other\" specific-use=\"ads\">2002yCat.1274....0D</pub-id></element-citation></ref>",
+    "<ref id=\"ajad9b1dbib28\"><element-citation publication-type=\"journal\"><person-group person-group-type=\"author\"> <name name-style=\"western\"><surname>Dumusque</surname><given-names>X.</given-names></name> </person-group><year>2018</year><source>A&amp;A</source><volume>620</volume><fpage>A47</fpage><pub-id pub-id-type=\"other\" specific-use=\"ads\">2018A&amp;A...620A..47D</pub-id><pub-id pub-id-type=\"doi\">10.1051/0004-6361/201833795</pub-id></element-citation></ref>",
+    "<ref id=\"ajad9b1dbib29\"><element-citation publication-type=\"journal\"><person-group person-group-type=\"author\"> <name name-style=\"western\"><surname>Dumusque</surname><given-names>X.</given-names></name> <name name-style=\"western\"><surname>Boisse</surname><given-names>I.</given-names></name> <name name-style=\"western\"><surname>Santos</surname><given-names>N. C.</given-names></name> </person-group><year>2014</year><source>ApJ</source><volume>796</volume><fpage>132</fpage><pub-id pub-id-type=\"other\" specific-use=\"ads\">2014ApJ...796..132D</pub-id><pub-id pub-id-type=\"doi\">10.1088/0004-637X/796/2/132</pub-id></element-citation></ref>",
+    "<ref id=\"ajad9b1dbib30\"><element-citation publication-type=\"journal\"><person-group person-group-type=\"author\"> <name name-style=\"western\"><surname>Eastman</surname><given-names>J. D.</given-names></name> <name name-style=\"western\"><surname>Beatty</surname><given-names>T. G.</given-names></name> <name name-style=\"western\"><surname>Siverd</surname><given-names>R. J.</given-names></name> <etal/> </person-group><year>2016</year><source>AJ</source><volume>151</volume><fpage>45</fpage><pub-id pub-id-type=\"other\" specific-use=\"ads\">2016AJ....151...45E</pub-id><pub-id pub-id-type=\"doi\">10.3847/0004-6256/151/2/45</pub-id></element-citation></ref>",
+    "<ref id=\"ajad9b1dbib31\"><element-citation publication-type=\"journal\"><person-group person-group-type=\"author\"> <name name-style=\"western\"><surname>Eggleton</surname><given-names>P. P.</given-names></name> <name name-style=\"western\"><surname>Tokovinin</surname><given-names>A. A.</given-names></name> </person-group><year>2008</year><source>MNRAS</source><volume>389</volume><fpage>869</fpage><pub-id pub-id-type=\"other\" specific-use=\"ads\">2008MNRAS.389..869E</pub-id><pub-id pub-id-type=\"doi\">10.1111/j.1365-2966.2008.13596.x</pub-id></element-citation></ref>",
+    "<ref id=\"ajad9b1dbib32\"><element-citation publication-type=\"journal\"><person-group person-group-type=\"author\"> <name name-style=\"western\"><surname>Fischer</surname><given-names>D. A.</given-names></name> <name name-style=\"western\"><surname>Anglada-Escude</surname><given-names>G.</given-names></name> <name name-style=\"western\"><surname>Arriagada</surname><given-names>P.</given-names></name> <etal/> </person-group><year>2016</year><source>PASP</source><volume>128</volume><fpage>066001</fpage><pub-id pub-id-type=\"other\" specific-use=\"ads\">2016PASP..128f6001F</pub-id><pub-id pub-id-type=\"doi\">10.1088/1538-3873/128/964/066001</pub-id></element-citation></ref>",
+    "<ref id=\"ajad9b1dbib33\"><element-citation publication-type=\"journal\"><person-group person-group-type=\"author\"> <collab>Gaia Collaboration</collab> <name name-style=\"western\"><surname>Smart</surname><given-names>R. L.</given-names></name> <name name-style=\"western\"><surname>Sarro</surname><given-names>L. M.</given-names></name> <etal/> </person-group><year>2021</year><source>A&amp;A</source><volume>649</volume><fpage>A6</fpage><pub-id pub-id-type=\"other\" specific-use=\"ads\">2021A&amp;A...649A...6G</pub-id><pub-id pub-id-type=\"doi\">10.1051/0004-6361/202039498</pub-id></element-citation></ref>",
+    "<ref id=\"ajad9b1dbib34\"><element-citation publication-type=\"journal\"><person-group person-group-type=\"author\"> <name name-style=\"western\"><surname>Gelman</surname><given-names>A.</given-names></name> <name name-style=\"western\"><surname>Rubin</surname><given-names>D. B.</given-names></name> </person-group><year>1992</year><source>StaSc</source><volume>7</volume><fpage>457</fpage><pub-id pub-id-type=\"other\" specific-use=\"ads\">1992StaSc...7..457G</pub-id><pub-id pub-id-type=\"doi\">10.1214/ss/1177011136</pub-id></element-citation></ref>",
+    "<ref id=\"ajad9b1dbib35\"><element-citation publication-type=\"journal\"><person-group person-group-type=\"author\"> <name name-style=\"western\"><surname>Girardi</surname><given-names>L.</given-names></name> <name name-style=\"western\"><surname>Bertelli</surname><given-names>G.</given-names></name> <name name-style=\"western\"><surname>Bressan</surname><given-names>A.</given-names></name> <etal/> </person-group><year>2002</year><source>A&amp;A</source><volume>391</volume><fpage>195</fpage><pub-id pub-id-type=\"other\" specific-use=\"ads\">2002A&amp;A...391..195G</pub-id><pub-id pub-id-type=\"doi\">10.1051/0004-6361:20020612</pub-id></element-citation></ref>",
+    "<ref id=\"ajad9b1dbib36\"><element-citation publication-type=\"journal\"><person-group person-group-type=\"author\"> <name name-style=\"western\"><surname>Girardi</surname><given-names>L.</given-names></name> <name name-style=\"western\"><surname>Groenewegen</surname><given-names>M. A. T.</given-names></name> <name name-style=\"western\"><surname>Hatziminaoglou</surname><given-names>E.</given-names></name> <etal/> </person-group><year>2005</year><source>A&amp;A</source><volume>436</volume><fpage>895</fpage><pub-id pub-id-type=\"other\" specific-use=\"ads\">2005A&amp;A...436..895G</pub-id><pub-id pub-id-type=\"doi\">10.1051/0004-6361:20042352</pub-id></element-citation></ref>",
+    "<ref id=\"ajad9b1dbib37\"><element-citation publication-type=\"journal\"><person-group person-group-type=\"author\"> <name name-style=\"western\"><surname>Gray</surname><given-names>R. O.</given-names></name> <name name-style=\"western\"><surname>Corbally</surname><given-names>C. J.</given-names></name> </person-group><year>1994</year><source>AJ</source><volume>107</volume><fpage>742</fpage><pub-id pub-id-type=\"other\" specific-use=\"ads\">1994AJ....107..742G</pub-id><pub-id pub-id-type=\"doi\">10.1086/116893</pub-id></element-citation></ref>",
+    "<ref id=\"ajad9b1dbib38\"><element-citation publication-type=\"journal\"><person-group person-group-type=\"author\"> <name name-style=\"western\"><surname>Guizar-Sicairos</surname><given-names>M.</given-names></name> <name name-style=\"western\"><surname>Thurman</surname><given-names>S. T.</given-names></name> <name name-style=\"western\"><surname>Fienup</surname><given-names>J. R.</given-names></name> </person-group><year>2008</year><source>OptL</source><volume>33</volume><fpage>156</fpage><pub-id pub-id-type=\"other\" specific-use=\"ads\">2008OptL...33..156G</pub-id><pub-id pub-id-type=\"doi\">10.1364/OL.33.000156</pub-id></element-citation></ref>",
+    "<ref id=\"ajad9b1dbib39\"><element-citation publication-type=\"journal\"><person-group person-group-type=\"author\"> <name name-style=\"western\"><surname>Gullikson</surname><given-names>K.</given-names></name> <name name-style=\"western\"><surname>Kraus</surname><given-names>A.</given-names></name> <name name-style=\"western\"><surname>Dodson-Robinson</surname><given-names>S.</given-names></name> </person-group><year>2016</year><source>AJ</source><volume>152</volume><fpage>40</fpage><pub-id pub-id-type=\"other\" specific-use=\"ads\">2016AJ....152...40G</pub-id><pub-id pub-id-type=\"doi\">10.3847/0004-6256/152/2/40</pub-id></element-citation></ref>",
+    "<ref id=\"ajad9b1dbib40\"><element-citation publication-type=\"journal\"><person-group person-group-type=\"author\"> <name name-style=\"western\"><surname>Harris</surname><given-names>R. J.</given-names></name> <name name-style=\"western\"><surname>Johnson</surname><given-names>J. C. M. C.</given-names></name> <name name-style=\"western\"><surname>Bechter</surname><given-names>A.</given-names></name> <etal/> </person-group><year>2024</year><source>MNRAS</source><comment>in press</comment><pub-id pub-id-type=\"doi\">10.1093/mnras/stae2720</pub-id></element-citation></ref>",
+    "<ref id=\"ajad9b1dbib41\"><element-citation publication-type=\"journal\"><person-group person-group-type=\"author\"> <name name-style=\"western\"><surname>Hastings</surname><given-names>W. K.</given-names></name> </person-group><year>1970</year><source>Biometrika</source><volume>57</volume><fpage>97</fpage><pub-id pub-id-type=\"doi\">10.1093/biomet/57.1.97</pub-id></element-citation></ref>",
+    "<ref id=\"ajad9b1dbib42\"><element-citation publication-type=\"journal\"><person-group person-group-type=\"author\"> <name name-style=\"western\"><surname>Hinz</surname><given-names>P. M.</given-names></name> <name name-style=\"western\"><surname>Defr\u00e8re</surname><given-names>D.</given-names></name> <name name-style=\"western\"><surname>Skemer</surname><given-names>A.</given-names></name> <etal/> </person-group><year>2016</year><source>Proc. SPIE</source><volume>9907</volume><fpage>990704</fpage><pub-id pub-id-type=\"other\" specific-use=\"ads\">2016SPIE.9907E..04H</pub-id><pub-id pub-id-type=\"doi\">10.1117/12.2233795</pub-id></element-citation></ref>",
+    "<ref id=\"ajad9b1dbib43\"><element-citation publication-type=\"book\"><person-group person-group-type=\"author\"> <name name-style=\"western\"><surname>Hoffleit</surname><given-names>D.</given-names></name> <name name-style=\"western\"><surname>Jaschek</surname><given-names>C.</given-names></name> </person-group><year>1991</year><source>The Bright Star Catalogue</source><publisher-loc>New Haven, CT</publisher-loc><publisher-name>Yale Univ. Observatory</publisher-name><pub-id pub-id-type=\"other\" specific-use=\"ads\">1991bsc..book.....H</pub-id></element-citation></ref>",
+    "<ref id=\"ajad9b1dbib44\"><element-citation publication-type=\"journal\"><person-group person-group-type=\"author\"> <name name-style=\"western\"><surname>H\u00f8g</surname><given-names>E.</given-names></name> <name name-style=\"western\"><surname>Fabricius</surname><given-names>C.</given-names></name> <name name-style=\"western\"><surname>Makarov</surname><given-names>V. V.</given-names></name> <etal/> </person-group><year>2000</year><source>A&amp;A</source><volume>355</volume><fpage>L27</fpage><pub-id pub-id-type=\"other\" specific-use=\"ads\">2000A&amp;A...355L..27H</pub-id></element-citation></ref>",
+    "<ref id=\"ajad9b1dbib45\"><element-citation publication-type=\"journal\"><person-group person-group-type=\"author\"> <name name-style=\"western\"><surname>Horne</surname><given-names>K.</given-names></name> </person-group><year>1986</year><source>PASP</source><volume>98</volume><fpage>609</fpage><pub-id pub-id-type=\"other\" specific-use=\"ads\">1986PASP...98..609H</pub-id><pub-id pub-id-type=\"doi\">10.1086/131801</pub-id></element-citation></ref>",
+    "<ref id=\"ajad9b1dbib46\"><element-citation publication-type=\"journal\"><person-group person-group-type=\"author\"> <name name-style=\"western\"><surname>Howell</surname><given-names>S. B.</given-names></name> <name name-style=\"western\"><surname>Rowe</surname><given-names>J. F.</given-names></name> <name name-style=\"western\"><surname>Bryson</surname><given-names>S. T.</given-names></name> <etal/> </person-group><year>2012</year><source>ApJ</source><volume>123</volume><fpage>746</fpage><pub-id pub-id-type=\"other\" specific-use=\"ads\">2012ApJ...746..123H</pub-id></element-citation></ref>",
+    "<ref id=\"ajad9b1dbib47\"><element-citation publication-type=\"journal\"><person-group person-group-type=\"author\"> <name name-style=\"western\"><surname>Makarov</surname><given-names>V. V.</given-names></name> <name name-style=\"western\"><surname>Kaplan</surname><given-names>G. H.</given-names></name> </person-group><year>2005</year><source>AJ</source><volume>129</volume><fpage>2420</fpage><pub-id pub-id-type=\"other\" specific-use=\"ads\">2005AJ....129.2420M</pub-id><pub-id pub-id-type=\"doi\">10.1086/429590</pub-id></element-citation></ref>",
+    "<ref id=\"ajad9b1dbib48\"><element-citation publication-type=\"journal\"><person-group person-group-type=\"author\"> <name name-style=\"western\"><surname>Marois</surname><given-names>C.</given-names></name> <name name-style=\"western\"><surname>Macintosh</surname><given-names>B.</given-names></name> <name name-style=\"western\"><surname>Barman</surname><given-names>T.</given-names></name> <etal/> </person-group><year>2008</year><source>Sci</source><volume>322</volume><fpage>1348</fpage><pub-id pub-id-type=\"other\" specific-use=\"ads\">2008Sci...322.1348M</pub-id><pub-id pub-id-type=\"doi\">10.1126/science.1166585</pub-id></element-citation></ref>",
+    "<ref id=\"ajad9b1dbib49\"><element-citation publication-type=\"journal\"><person-group person-group-type=\"author\"> <name name-style=\"western\"><surname>Metropolis</surname><given-names>N.</given-names></name> <name name-style=\"western\"><surname>Rosenbluth</surname><given-names>A. W.</given-names></name> <name name-style=\"western\"><surname>Rosenbluth</surname><given-names>M. N.</given-names></name> <etal/> </person-group><year>1953</year><source>JChPh</source><volume>21</volume><fpage>1087</fpage><pub-id pub-id-type=\"other\" specific-use=\"ads\">1953JChPh..21.1087M</pub-id><pub-id pub-id-type=\"doi\">10.1063/1.1699114</pub-id></element-citation></ref>",
+    "<ref id=\"ajad9b1dbib50\"><element-citation publication-type=\"journal\"><person-group person-group-type=\"author\"> <name name-style=\"western\"><surname>Moe</surname><given-names>M.</given-names></name> <name name-style=\"western\"><surname>Di Stefano</surname><given-names>R.</given-names></name> </person-group><year>2017</year><source>ApJS</source><volume>230</volume><fpage>15</fpage><pub-id pub-id-type=\"other\" specific-use=\"ads\">2017ApJS..230...15M</pub-id><pub-id pub-id-type=\"doi\">10.3847/1538-4365/aa6fb6</pub-id></element-citation></ref>",
+    "<ref id=\"ajad9b1dbib51\"><element-citation publication-type=\"journal\"><person-group person-group-type=\"author\"> <name name-style=\"western\"><surname>Moe</surname><given-names>M.</given-names></name> <name name-style=\"western\"><surname>Kratter</surname><given-names>K. M.</given-names></name> <name name-style=\"western\"><surname>Badenes</surname><given-names>C.</given-names></name> </person-group><year>2019</year><source>ApJ</source><volume>875</volume><fpage>61</fpage><pub-id pub-id-type=\"other\" specific-use=\"ads\">2019ApJ...875...61M</pub-id><pub-id pub-id-type=\"doi\">10.3847/1538-4357/ab0d88</pub-id></element-citation></ref>",
+    "<ref id=\"ajad9b1dbib52\"><element-citation publication-type=\"journal\"><person-group person-group-type=\"author\"> <name name-style=\"western\"><surname>Morton</surname><given-names>T. D.</given-names></name> <name name-style=\"western\"><surname>Bryson</surname><given-names>S. T.</given-names></name> <name name-style=\"western\"><surname>Coughlin</surname><given-names>J. L.</given-names></name> <etal/> </person-group><year>2016</year><source>ApJ</source><volume>822</volume><fpage>86</fpage><pub-id pub-id-type=\"other\" specific-use=\"ads\">2016ApJ...822...86M</pub-id><pub-id pub-id-type=\"doi\">10.3847/0004-637X/822/2/86</pub-id></element-citation></ref>",
+    "<ref id=\"ajad9b1dbib53\"><element-citation publication-type=\"book\"><person-group person-group-type=\"author\"> <name name-style=\"western\"><surname>Offner</surname><given-names>S. S. R.</given-names></name> <name name-style=\"western\"><surname>Moe</surname><given-names>M.</given-names></name> <name name-style=\"western\"><surname>Kratter</surname><given-names>K. M.</given-names></name> <etal/> </person-group><year>2023</year><source>ASP Conf. Ser. 534, Protostars and Planets VII</source><person-group person-group-type=\"editor\"> <name name-style=\"western\"><surname>Inutsuka</surname><given-names>S.-I.</given-names></name> </person-group><publisher-loc>San Francisco, CA</publisher-loc><publisher-name>ASP</publisher-name><fpage>275</fpage><pub-id pub-id-type=\"other\" specific-use=\"ads\">2023ASPC..534..275O</pub-id><pub-id pub-id-type=\"doi\">10.48550/arXiv.2203.10066</pub-id></element-citation></ref>",
+    "<ref id=\"ajad9b1dbib54\"><element-citation publication-type=\"journal\"><person-group person-group-type=\"author\"> <name name-style=\"western\"><surname>Perryman</surname><given-names>M. A. C.</given-names></name> <name name-style=\"western\"><surname>Lindegren</surname><given-names>L.</given-names></name> <name name-style=\"western\"><surname>Kovalevsky</surname><given-names>J.</given-names></name> <etal/> </person-group><year>1997</year><source>A&amp;A</source><volume>500</volume><fpage>501</fpage><pub-id pub-id-type=\"other\" specific-use=\"ads\">2009A&amp;A...500..501P</pub-id></element-citation></ref>",
+    "<ref id=\"ajad9b1dbib55\"><element-citation publication-type=\"journal\"><person-group person-group-type=\"author\"> <name name-style=\"western\"><surname>Pinna</surname><given-names>E.</given-names></name> <name name-style=\"western\"><surname>Esposito</surname><given-names>S.</given-names></name> <name name-style=\"western\"><surname>Hinz</surname><given-names>P.</given-names></name> <etal/> </person-group><year>2016</year><source>Proc. SPIE</source><volume>9909</volume><fpage>99093V</fpage><pub-id pub-id-type=\"other\" specific-use=\"ads\">2016SPIE.9909E..3VP</pub-id><pub-id pub-id-type=\"doi\">10.1117/12.2234444</pub-id></element-citation></ref>",
+    "<ref id=\"ajad9b1dbib56\"><element-citation publication-type=\"preprint\"><person-group person-group-type=\"author\"> <name name-style=\"western\"><surname>Plavchan</surname><given-names>P.</given-names></name> <name name-style=\"western\"><surname>Latham</surname><given-names>D.</given-names></name> <name name-style=\"western\"><surname>Gaudi</surname><given-names>S.</given-names></name> <etal/> </person-group><year>2015</year><comment>arXiv:<ext-link ext-link-type=\"arxiv\" xlink:href=\"http://arXiv.org/abs/1503.01770\">1503.01770</ext-link> </comment><pub-id pub-id-type=\"other\" specific-use=\"ads\">2015arXiv150301770P</pub-id></element-citation></ref>",
+    "<ref id=\"ajad9b1dbib57\"><element-citation publication-type=\"journal\"><person-group person-group-type=\"author\"> <name name-style=\"western\"><surname>Poveda</surname><given-names>A.</given-names></name> <name name-style=\"western\"><surname>Ruiz</surname><given-names>J.</given-names></name> <name name-style=\"western\"><surname>Allen</surname><given-names>C.</given-names></name> </person-group><year>1967</year><source>BOTT</source><volume>4</volume><fpage>86</fpage><pub-id pub-id-type=\"other\" specific-use=\"ads\">1967BOTT....4...86P</pub-id></element-citation></ref>",
+    "<ref id=\"ajad9b1dbib58\"><element-citation publication-type=\"journal\"><person-group person-group-type=\"author\"> <name name-style=\"western\"><surname>Pueyo</surname><given-names>L.</given-names></name> <name name-style=\"western\"><surname>Crepp</surname><given-names>J. R.</given-names></name> <name name-style=\"western\"><surname>Vasisht</surname><given-names>G.</given-names></name> <etal/> </person-group><year>2012</year><source>ApJS</source><volume>199</volume><fpage>6</fpage><pub-id pub-id-type=\"other\" specific-use=\"ads\">2012ApJS..199....6P</pub-id><pub-id pub-id-type=\"doi\">10.1088/0067-0049/199/1/6</pub-id></element-citation></ref>",
+    "<ref id=\"ajad9b1dbib59\"><element-citation publication-type=\"journal\"><person-group person-group-type=\"author\"> <name name-style=\"western\"><surname>Renzo</surname><given-names>M.</given-names></name> <name name-style=\"western\"><surname>Zapartas</surname><given-names>E.</given-names></name> <name name-style=\"western\"><surname>de Mink</surname><given-names>S. E.</given-names></name> <etal/> </person-group><year>2019</year><source>A&amp;A</source><volume>624</volume><fpage>A66</fpage><pub-id pub-id-type=\"other\" specific-use=\"ads\">2019A&amp;A...624A..66R</pub-id><pub-id pub-id-type=\"doi\">10.1051/0004-6361/201833297</pub-id></element-citation></ref>",
+    "<ref id=\"ajad9b1dbib60\"><element-citation publication-type=\"journal\"><person-group person-group-type=\"author\"> <name name-style=\"western\"><surname>Ricker</surname><given-names>G. R.</given-names></name> <name name-style=\"western\"><surname>Winn</surname><given-names>J. N.</given-names></name> <name name-style=\"western\"><surname>Vanderspek</surname><given-names>R.</given-names></name> <etal/> </person-group><year>2015</year><source>JATIS</source><volume>1</volume><fpage>014003</fpage><pub-id pub-id-type=\"other\" specific-use=\"ads\">2015JATIS...1a4003R</pub-id><pub-id pub-id-type=\"doi\">10.1117/1.JATIS.1.1.014003</pub-id></element-citation></ref>",
+    "<ref id=\"ajad9b1dbib61\"><element-citation publication-type=\"journal\"><person-group person-group-type=\"author\"> <name name-style=\"western\"><surname>Reed</surname><given-names>B. C.</given-names></name> </person-group><year>2003</year><source>AJ</source><volume>125</volume><fpage>2531</fpage><pub-id pub-id-type=\"other\" specific-use=\"ads\">2003AJ....125.2531R</pub-id><pub-id pub-id-type=\"doi\">10.1086/374771</pub-id></element-citation></ref>",
+    "<ref id=\"ajad9b1dbib62\"><element-citation publication-type=\"journal\"><person-group person-group-type=\"author\"> <name name-style=\"western\"><surname>Robertson</surname><given-names>J. G.</given-names></name> <name name-style=\"western\"><surname>Bland-Hawthorn</surname><given-names>J.</given-names></name> </person-group><year>2012</year><source>Proc. SPIE</source><volume>8446</volume><fpage>844623</fpage><pub-id pub-id-type=\"other\" specific-use=\"ads\">2012SPIE.8446E..23R</pub-id><pub-id pub-id-type=\"doi\">10.1117/12.924937</pub-id></element-citation></ref>",
+    "<ref id=\"ajad9b1dbib63\"><element-citation publication-type=\"journal\"><person-group person-group-type=\"author\"> <name name-style=\"western\"><surname>Sana</surname><given-names>H.</given-names></name> <name name-style=\"western\"><surname>de Mink</surname><given-names>S. E.</given-names></name> <name name-style=\"western\"><surname>de Koter</surname><given-names>A.</given-names></name> <etal/> </person-group><year>2012</year><source>Sci</source><volume>337</volume><fpage>444</fpage><pub-id pub-id-type=\"other\" specific-use=\"ads\">2012Sci...337..444S</pub-id><pub-id pub-id-type=\"doi\">10.1126/science.1223344</pub-id></element-citation></ref>",
+    "<ref id=\"ajad9b1dbib64\"><element-citation publication-type=\"preprint\"><person-group person-group-type=\"author\"> <name name-style=\"western\"><surname>Schwab</surname><given-names>C.</given-names></name> <name name-style=\"western\"><surname>Leon-Saval</surname><given-names>S. G.</given-names></name> <name name-style=\"western\"><surname>Betters</surname><given-names>C. H.</given-names></name> <etal/> </person-group><year>2012</year><comment>arXiv:<ext-link ext-link-type=\"arxiv\" xlink:href=\"http://arXiv.org/abs/1212.4867\">1212.4867</ext-link> </comment><pub-id pub-id-type=\"other\" specific-use=\"ads\">2012arXiv1212.4867S</pub-id></element-citation></ref>",
+    "<ref id=\"ajad9b1dbib65\"><element-citation publication-type=\"journal\"><person-group person-group-type=\"author\"> <name name-style=\"western\"><surname>Schwamb</surname><given-names>M. E.</given-names></name> <name name-style=\"western\"><surname>Orosz</surname><given-names>J. A.</given-names></name> <name name-style=\"western\"><surname>Carter</surname><given-names>J. A.</given-names></name> <etal/> </person-group><year>2013</year><source>ApJ</source><volume>768</volume><fpage>127</fpage><pub-id pub-id-type=\"other\" specific-use=\"ads\">2013ApJ...768..127S</pub-id><pub-id pub-id-type=\"doi\">10.1088/0004-637X/768/2/127</pub-id></element-citation></ref>",
+    "<ref id=\"ajad9b1dbib66\"><element-citation publication-type=\"journal\"><person-group person-group-type=\"author\"> <name name-style=\"western\"><surname>Strassmeier</surname><given-names>K. G.</given-names></name> <name name-style=\"western\"><surname>Ilyin</surname><given-names>I.</given-names></name> <name name-style=\"western\"><surname>J\u00e4rvinen</surname><given-names>A.</given-names></name> <etal/> </person-group><year>2015</year><source>AN</source><volume>336</volume><fpage>324</fpage><pub-id pub-id-type=\"other\" specific-use=\"ads\">2015AN....336..324S</pub-id><pub-id pub-id-type=\"doi\">10.1002/asna.201512172</pub-id></element-citation></ref>",
+    "<ref id=\"ajad9b1dbib67\"><element-citation publication-type=\"journal\"><person-group person-group-type=\"author\"> <name name-style=\"western\"><surname>Swihart</surname><given-names>S. J.</given-names></name> <name name-style=\"western\"><surname>Garcia</surname><given-names>E. V.</given-names></name> <name name-style=\"western\"><surname>Stassun</surname><given-names>K. G.</given-names></name> <etal/> </person-group><year>2017</year><source>AJ</source><volume>153</volume><fpage>16</fpage><pub-id pub-id-type=\"other\" specific-use=\"ads\">2017AJ....153...16S</pub-id><pub-id pub-id-type=\"doi\">10.3847/1538-3881/153/1/16</pub-id></element-citation></ref>",
+    "<ref id=\"ajad9b1dbib68\"><element-citation publication-type=\"journal\"><person-group person-group-type=\"author\"> <name name-style=\"western\"><surname>Tetzlaff</surname><given-names>N.</given-names></name> <name name-style=\"western\"><surname>Neuh\u00e4user</surname><given-names>R.</given-names></name> <name name-style=\"western\"><surname>Hohle</surname><given-names>M. M.</given-names></name> </person-group><year>2011</year><source>MNRAS</source><volume>410</volume><fpage>190</fpage><pub-id pub-id-type=\"other\" specific-use=\"ads\">2011MNRAS.410..190T</pub-id><pub-id pub-id-type=\"doi\">10.1111/j.1365-2966.2010.17434.x</pub-id></element-citation></ref>",
+    "<ref id=\"ajad9b1dbib69\"><element-citation publication-type=\"journal\"><person-group person-group-type=\"author\"> <name name-style=\"western\"><surname>Turon</surname><given-names>C.</given-names></name> <name name-style=\"western\"><surname>Creze</surname><given-names>M.</given-names></name> <name name-style=\"western\"><surname>Egret</surname><given-names>D.</given-names></name> <etal/> </person-group><year>1993</year><source>BICDS</source><volume>43</volume><fpage>5</fpage><pub-id pub-id-type=\"other\" specific-use=\"ads\">1993BICDS..43....5T</pub-id></element-citation></ref>",
+    "<ref id=\"ajad9b1dbib70\"><element-citation publication-type=\"journal\"><person-group person-group-type=\"author\"> <name name-style=\"western\"><surname>van Leeuwen</surname><given-names>F.</given-names></name> </person-group><year>2007</year><source>A&amp;A</source><volume>474</volume><fpage>653</fpage><pub-id pub-id-type=\"other\" specific-use=\"ads\">2007A&amp;A...474..653V</pub-id><pub-id pub-id-type=\"doi\">10.1051/0004-6361:20078357</pub-id></element-citation></ref>",
+    "<ref id=\"ajad9b1dbib71\"><element-citation publication-type=\"journal\"><person-group person-group-type=\"author\"> <name name-style=\"western\"><surname>Wielen</surname><given-names>R.</given-names></name> <name name-style=\"western\"><surname>Schwan</surname><given-names>H.</given-names></name> <name name-style=\"western\"><surname>Dettbarn</surname><given-names>C.</given-names></name> <etal/> </person-group><year>2000</year><source>VeARI</source><volume>37</volume><fpage>1</fpage><pub-id pub-id-type=\"other\" specific-use=\"ads\">2000VeARI..37....1W</pub-id></element-citation></ref>",
+    "<ref id=\"ajad9b1dbib72\"><element-citation publication-type=\"journal\"><person-group person-group-type=\"author\"> <name name-style=\"western\"><surname>Worley</surname><given-names>C. E.</given-names></name> </person-group><year>1978</year><source>PUSNO</source><volume>24</volume><fpage>1</fpage><pub-id pub-id-type=\"other\" specific-use=\"ads\">1978PUSNO..24....1W</pub-id></element-citation></ref>",
+    "<ref id=\"ajad9b1dbib73\"><element-citation publication-type=\"journal\"><person-group person-group-type=\"author\"> <name name-style=\"western\"><surname>Worley</surname><given-names>C. E.</given-names></name> <name name-style=\"western\"><surname>Douglass</surname><given-names>G. G.</given-names></name> </person-group><year>1997</year><source>A&amp;AS</source><volume>125</volume><fpage>523</fpage><pub-id pub-id-type=\"other\" specific-use=\"ads\">1997A&amp;AS..125..523W</pub-id><pub-id pub-id-type=\"doi\">10.1051/aas:1997239</pub-id></element-citation></ref>",
+    "<ref id=\"ajad9b1dbib74\"><element-citation publication-type=\"journal\"><person-group person-group-type=\"author\"> <name name-style=\"western\"><surname>Wilson</surname><given-names>R. H.</given-names></name> </person-group><year>1950</year><source>AJ</source><volume>55</volume><fpage>153</fpage><pub-id pub-id-type=\"other\" specific-use=\"ads\">1950AJ.....55..153W</pub-id><pub-id pub-id-type=\"doi\">10.1086/106378</pub-id></element-citation></ref>",
+    "<ref id=\"ajad9b1dbib75\"><element-citation publication-type=\"journal\"><person-group person-group-type=\"author\"> <name name-style=\"western\"><surname>Wright</surname><given-names>J. T.</given-names></name> <name name-style=\"western\"><surname>Roy</surname><given-names>A.</given-names></name> <name name-style=\"western\"><surname>Mahadevan</surname><given-names>S.</given-names></name> <etal/> </person-group><year>2013</year><source>ApJ</source><volume>770</volume><fpage>119</fpage><pub-id pub-id-type=\"other\" specific-use=\"ads\">2013ApJ...770..119W</pub-id><pub-id pub-id-type=\"doi\">10.1088/0004-637X/770/2/119</pub-id></element-citation></ref>"
+  ],
+  "title": {
+    "textEnglish": "Resolving the Young 2 Cygni Runaway Star into a Binary Using iLocater"
+  }
+}

@@ -1,0 +1,44 @@
+<record>
+      <header>
+        <identifier>oai:zenodo.org:34650</identifier>
+        <datestamp>2020-01-20T17:28:18Z</datestamp>
+      </header>
+      <metadata>
+        <resource xmlns="http://datacite.org/schema/kernel-4" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4.3/metadata.xsd">
+          <identifier identifierType="DOI">10.5281/zenodo.34650</identifier>
+          <alternateIdentifiers>
+            <alternateIdentifier alternateIdentifierType="oai">oai:zenodo.org:34650</alternateIdentifier>
+          </alternateIdentifiers>
+          <creators>
+            <creator>
+              <creatorName nameType="Personal">Reetz, Johannes</creatorName>
+              <givenName>Johannes</givenName>
+              <familyName>Reetz</familyName>
+              <affiliation>Max Planck Computing and Data Facility, Garching, Germany</affiliation>
+            </creator>
+          </creators>
+          <titles>
+            <title>EUDAT - Open Data Services for Research</title>
+          </titles>
+          <publisher>Zenodo</publisher>
+          <publicationYear>2015</publicationYear>
+          <subjects>
+            <subject>Science data management</subject>
+          </subjects>
+          <dates>
+            <date dateType="Issued">2015-12-03</date>
+          </dates>
+          <resourceType resourceTypeGeneral="Text">Presentation</resourceType>
+          <relatedIdentifiers>
+            <relatedIdentifier relatedIdentifierType="DOI" relationType="IsVersionOf"></relatedIdentifier>
+            <relatedIdentifier relatedIdentifierType="URL" relationType="IsPartOf">https://zenodo.org/communities/sciops2015</relatedIdentifier>
+          </relatedIdentifiers>
+          <rightsList>
+            <rights rightsURI="https://creativecommons.org/licenses/by/4.0/legalcode" rightsIdentifierScheme="spdx" rightsIdentifier="cc-by-4.0">Creative Commons Attribution 4.0 International</rights>
+          </rightsList>
+          <descriptions>
+            <description descriptionType="Abstract">Presentation slides</description>
+          </descriptions>
+        </resource>
+      </metadata>
+    </record>

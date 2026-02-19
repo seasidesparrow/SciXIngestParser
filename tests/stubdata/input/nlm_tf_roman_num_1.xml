@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD Journal Archiving and Interchange DTD v3.0 20080202//EN" "http://dtd.nlm.nih.gov/archiving/3.0/archivearticle3.dtd">
+<article
+	xmlns:xlink="http://www.w3.org/1999/xlink"
+         xml:lang="en"
+         article-type="introduction">
+	<!--
+input file: UNCT_A_2346452_J.xml
+processed with: d3p_header_nlm3_from_jats12.xsl
+version: 2.0
+darts-xml-transformations-20240209T083504 git hash: db97ba8e3a
+-->
+	<front>
+		<journal-meta>
+			<journal-id journal-id-type="publisher-id">unct20</journal-id>
+			<journal-id journal-id-type="publisher-acronym">UNCT</journal-id>
+			<journal-title-group>
+				<journal-title>Nuclear Technology</journal-title>
+			</journal-title-group>
+			<issn pub-type="ppub">0029-5450</issn>
+			<issn pub-type="epub">1943-7471</issn>
+			<publisher>
+				<publisher-name>Taylor &amp; Francis</publisher-name>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="doi">10.1080/00295450.2024.2346452</article-id>
+			<article-id pub-id-type="publisher-id">2346452</article-id>
+			<article-categories>
+				<subj-group subj-group-type="article-type">
+					<subject>Introduction</subject>
+				</subj-group>
+				<subj-group subj-group-type="heading">
+					<subject>Foreword</subject>
+				</subj-group>
+			</article-categories>
+			<title-group>
+				<article-title>Foreword: Special issue on the Nuclear Energy Advanced Modeling and Simulation Thermal Hydraulics Integrated Research Project</article-title>
+				<alt-title alt-title-type="left-running-head">MERZARI &#x2022; FOREWORD</alt-title>
+				<alt-title alt-title-type="right-running-head">FOREWORD &#x2022; MERZARI</alt-title>
+			</title-group>
+			<contrib-group>
+				<contrib contrib-type="author">
+					<string-name>
+						<given-names initials="E.">Elia</given-names>
+						<x xml:space="preserve"></x>
+						<surname>Merzari</surname>
+					</string-name>
+					<xref ref-type="aff" rid="aff0001"/>
+				</contrib>
+				<aff id="aff0001">
+					<institution>Pennsylvania State University</institution>
+				</aff>
+			</contrib-group>
+			<pub-date pub-type="ppub">
+				<day>02</day>
+				<month>07</month>
+				<year>2024</year>
+				<string-date>JULY 2024</string-date>
+			</pub-date>
+			<volume>210</volume>
+			<issue>7</issue>
+			<issue-title>Special issue on the Nuclear Energy Advanced Modeling and Simulation Thermal Hydraulics Integrated Research Project</issue-title>
+			<fpage seq="1">iii</fpage>
+			<lpage>iii</lpage>
+			<permissions>
+				<copyright-statement>&#xa9; 2024 American Nuclear Society</copyright-statement>
+				<copyright-year>2024</copyright-year>
+				<copyright-holder>American Nuclear Society</copyright-holder>
+			</permissions>
+			<counts>
+				<fig-count count="0"/>
+				<page-count count="1"/>
+			</counts>
+		</article-meta>
+	</front>
+	<back>
+		<ref-list/>
+	</back>
+</article>

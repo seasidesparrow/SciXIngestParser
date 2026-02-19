@@ -1,0 +1,5470 @@
+{
+  "abstract": {
+    "textEnglish": "A catalog containing details of the highest-energy cosmic rays recorded through the detection of extensive air showers at the Pierre Auger Observatory is presented with the aim of opening the data to detailed examination. Descriptions of the 100 showers created by the highest-energy particles recorded between 2004 January 1 and 2020 December 31 are given for cosmic rays that have energies in the range 78\u2013166 EeV. Details are also given on a further nine very energetic events that have been used in the calibration procedure adopted to determine the energy of each primary. A sky plot of the arrival directions of the most energetic particles is shown. No interpretations of the data are offered."
+  },
+  "authors": [
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "University of Adelaide, Adelaide, SA, Australia"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0003-1218-1737"
+      },
+      "name": {
+        "given_name": "A.",
+        "surname": "Abdul Halim"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Laborat\u00f3rio de Instrumenta\u00e7\u00e3o e F\u00edsica Experimental de Part\u00edculas (LIP) and Instituto Superior T\u00e9cnico (IST), Universidade de Lisboa (UL), Lisboa, Portugal"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0002-9973-7314"
+      },
+      "name": {
+        "given_name": "P.",
+        "surname": "Abreu"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "INFN, Sezione di Torino, Torino, Italy"
+        },
+        {
+          "affPubRaw": "Osservatorio Astrofisico di Torino (INAF), Torino, Italy"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0001-8354-5388"
+      },
+      "name": {
+        "given_name": "M.",
+        "surname": "Aglietta"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Centro At\u00f3mico Bariloche and Instituto Balseiro (CNEA-UNCuyo-CONICET), San Carlos de Bariloche, Argentina"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0002-9624-3044"
+      },
+      "name": {
+        "given_name": "I.",
+        "surname": "Allekotte"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Ohio State University, Columbus, OH, USA"
+        }
+      ],
+      "name": {
+        "given_name": "P.",
+        "surname": "Allison"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Institute of Nuclear Physics PAN, Krakow, Poland"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0001-6352-5339"
+      },
+      "name": {
+        "given_name": "K.",
+        "surname": "Almeida Cheminant"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Instituto de Tecnolog\u00edas en Detecci\u00f3n y Astropart\u00edculas (CNEA, CONICET, UNSAM), Buenos Aires, Argentina"
+        },
+        {
+          "affPubRaw": "Universidad Tecnol\u00f3gica Nacional\u2014Facultad Regional Buenos Aires, Buenos Aires, Argentina"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0003-1233-2670"
+      },
+      "name": {
+        "given_name": "A.",
+        "surname": "Almela"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Instituto Galego de F\u00edsica de Altas Enerx\u00edas (IGFAE), Universidade de Santiago de Compostela, Santiago de Compostela, Spain"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0002-2367-0803"
+      },
+      "name": {
+        "given_name": "J.",
+        "surname": "Alvarez-Mu\u00f1iz"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Instituto Galego de F\u00edsica de Altas Enerx\u00edas (IGFAE), Universidade de Santiago de Compostela, Santiago de Compostela, Spain"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0002-2059-6206"
+      },
+      "name": {
+        "given_name": "J.",
+        "surname": "Ammerman Yebra"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "INFN, Sezione di Torino, Torino, Italy"
+        },
+        {
+          "affPubRaw": "Osservatorio Astrofisico di Torino (INAF), Torino, Italy"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0003-0824-5283"
+      },
+      "name": {
+        "given_name": "G. A.",
+        "surname": "Anastasi"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Department of Physics and Astronomy, Lehman College, City University of New York, Bronx, NY, USA"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0003-1463-7136"
+      },
+      "name": {
+        "given_name": "L.",
+        "surname": "Anchordoqui"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Instituto de Tecnolog\u00edas en Detecci\u00f3n y Astropart\u00edculas (CNEA, CONICET, UNSAM), Buenos Aires, Argentina"
+        }
+      ],
+      "name": {
+        "given_name": "B.",
+        "surname": "Andrada"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Laborat\u00f3rio de Instrumenta\u00e7\u00e3o e F\u00edsica Experimental de Part\u00edculas (LIP) and Instituto Superior T\u00e9cnico (IST), Universidade de Lisboa (UL), Lisboa, Portugal"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0002-6397-9207"
+      },
+      "name": {
+        "given_name": "S.",
+        "surname": "Andringa"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "INFN, Sezione di Napoli, Napoli, Italy"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0002-8412-3846"
+      },
+      "name": {
+        "given_name": "C.",
+        "surname": "Aramo"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "RWTH Aachen University, III. Physikalisches Institut A, Aachen, Germany"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0002-0502-3602"
+      },
+      "name": {
+        "given_name": "P. R.",
+        "surname": "Ara\u00fajo Ferreira"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "INFN, Sezione di Torino, Torino, Italy"
+        },
+        {
+          "affPubRaw": "Universit\u00e0 Torino, Dipartimento di Fisica, Torino, Italy"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0001-6740-5051"
+      },
+      "name": {
+        "given_name": "E.",
+        "surname": "Arnone"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Universidad Michoacana de San Nicol\u00e1s de Hidalgo, Morelia, Michoac\u00e1n, Mexico"
+        }
+      ],
+      "name": {
+        "given_name": "J. C.",
+        "surname": "Arteaga Vel\u00e1zquez"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Instituto de Tecnolog\u00edas en Detecci\u00f3n y Astropart\u00edculas (CNEA, CONICET, UNSAM), Buenos Aires, Argentina"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0002-4559-8785"
+      },
+      "name": {
+        "given_name": "H.",
+        "surname": "Asorey"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Laborat\u00f3rio de Instrumenta\u00e7\u00e3o e F\u00edsica Experimental de Part\u00edculas (LIP) and Instituto Superior T\u00e9cnico (IST), Universidade de Lisboa (UL), Lisboa, Portugal"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0001-7765-3606"
+      },
+      "name": {
+        "given_name": "P.",
+        "surname": "Assis"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Universidade de S\u00e3o Paulo, Instituto de F\u00edsica de S\u00e3o Carlos, S\u00e3o Carlos, SP, Brazil"
+        }
+      ],
+      "name": {
+        "given_name": "M.",
+        "surname": "Ave"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Observatorio Pierre Auger and Comisi\u00f3n Nacional de Energ\u00eda At\u00f3mica, Malarg\u00fce, Argentina"
+        }
+      ],
+      "name": {
+        "given_name": "G.",
+        "surname": "Avila"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "INFN Laboratori Nazionali del Gran Sasso, Assergi (L\u2019Aquila), Italy"
+        },
+        {
+          "affPubRaw": "Universit\u00e0 dell\u2019Aquila, Dipartimento di Scienze Fisiche e Chimiche, L\u2019Aquila, Italy"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0003-3757-2718"
+      },
+      "name": {
+        "given_name": "E.",
+        "surname": "Avocone"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "University Politehnica of Bucharest, Bucharest, Romania"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0001-6510-4124"
+      },
+      "name": {
+        "given_name": "A. M.",
+        "surname": "Badescu"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Institute of Physics of the Czech Academy of Sciences, Prague, Czech Republic"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0003-1001-4484"
+      },
+      "name": {
+        "given_name": "A.",
+        "surname": "Bakalova"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "\u201cHoria Hulubei\u201d National Institute for Physics and Nuclear Engineering, Bucharest-Magurele, Romania"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0001-7639-1253"
+      },
+      "name": {
+        "given_name": "A.",
+        "surname": "Balaceanu"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "INFN Laboratori Nazionali del Gran Sasso, Assergi (L\u2019Aquila), Italy"
+        },
+        {
+          "affPubRaw": "Gran Sasso Science Institute, L\u2019Aquila, Italy"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0003-0751-6731"
+      },
+      "name": {
+        "given_name": "F.",
+        "surname": "Barbato"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Ohio State University, Columbus, OH, USA"
+        }
+      ],
+      "name": {
+        "given_name": "J.",
+        "surname": "Beatty"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "University of Adelaide, Adelaide, SA, Australia"
+        },
+        {
+          "affPubRaw": "Universidad Nacional de San Agustin de Arequipa, Facultad de Ciencias Naturales y Formales, Arequipa, Peru"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0002-0833-9194"
+      },
+      "name": {
+        "given_name": "J. A.",
+        "surname": "Bellido"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Universit\u00e9 Grenoble Alpes, CNRS, Grenoble Institute of Engineering, LPSC-IN2P3, F-38000 Grenoble, France"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0001-8294-6294"
+      },
+      "name": {
+        "given_name": "C.",
+        "surname": "Berat"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "INFN, Sezione di Torino, Torino, Italy"
+        },
+        {
+          "affPubRaw": "Universit\u00e0 Torino, Dipartimento di Fisica, Torino, Italy"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0003-1069-1397"
+      },
+      "name": {
+        "given_name": "M. E.",
+        "surname": "Bertaina"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Centro At\u00f3mico Bariloche and Instituto Balseiro (CNEA-UNCuyo-CONICET), San Carlos de Bariloche, Argentina"
+        }
+      ],
+      "name": {
+        "given_name": "X.",
+        "surname": "Bertou"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Institute of Nuclear Physics PAN, Krakow, Poland"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0002-0705-6619"
+      },
+      "name": {
+        "given_name": "G.",
+        "surname": "Bhatta"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Max-Planck-Institut f\u00fcr Radioastronomie, Bonn, Germany"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0003-3948-6143"
+      },
+      "name": {
+        "given_name": "P. L.",
+        "surname": "Biermann"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Laboratoire de Physique Nucl\u00e9aire et de Hautes Energies (LPNHE), Sorbonne Universit\u00e9, Universit\u00e9 de Paris, CNRS-IN2P3, Paris, France"
+        }
+      ],
+      "name": {
+        "given_name": "P.",
+        "surname": "Billoir"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Instituto de F\u00edsica de Rosario (IFIR),\u2014CONICET/U.N.R. and Facultad de Ciencias Bioqu\u00edmicas y Farmac\u00e9uticas U.N.R., Rosario, Argentina"
+        }
+      ],
+      "name": {
+        "given_name": "V.",
+        "surname": "Binet"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Instituto de Tecnolog\u00edas en Detecci\u00f3n y Astropart\u00edculas (CNEA, CONICET, UNSAM), Buenos Aires, Argentina"
+        },
+        {
+          "affPubRaw": "Karlsruhe Institute of Technology (KIT), Institute for Experimental Particle Physics, Karlsruhe, Germany"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0001-8637-7041"
+      },
+      "name": {
+        "given_name": "K.",
+        "surname": "Bismark"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "RWTH Aachen University, III. Physikalisches Institut A, Aachen, Germany"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0003-4005-0857"
+      },
+      "name": {
+        "given_name": "T.",
+        "surname": "Bister"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Universit\u00e9 Paris-Saclay, CNRS/IN2P3, IJCLab, Orsay, France"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0002-4202-8939"
+      },
+      "name": {
+        "given_name": "J.",
+        "surname": "Biteau"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Institute of Physics of the Czech Academy of Sciences, Prague, Czech Republic"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0002-5870-8947"
+      },
+      "name": {
+        "given_name": "J.",
+        "surname": "Blazek"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Universit\u00e9 Grenoble Alpes, CNRS, Grenoble Institute of Engineering, LPSC-IN2P3, F-38000 Grenoble, France"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0001-6841-3280"
+      },
+      "name": {
+        "given_name": "C.",
+        "surname": "Bleve"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Karlsruhe Institute of Technology (KIT), Institute for Astroparticle Physics, Karlsruhe, Germany"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0001-7715-9608"
+      },
+      "name": {
+        "given_name": "J.",
+        "surname": "Bl\u00fcmer"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Institute of Physics of the Czech Academy of Sciences, Prague, Czech Republic"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0001-6014-723X"
+      },
+      "name": {
+        "given_name": "M.",
+        "surname": "Boh\u00e1\u010dov\u00e1"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "INFN Laboratori Nazionali del Gran Sasso, Assergi (L\u2019Aquila), Italy"
+        },
+        {
+          "affPubRaw": "Universit\u00e0 dell\u2019Aquila, Dipartimento di Scienze Fisiche e Chimiche, L\u2019Aquila, Italy"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0003-1186-9353"
+      },
+      "name": {
+        "given_name": "D.",
+        "surname": "Boncioli"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "International Center of Advanced Studies and Instituto de Ciencias F\u00edsicas, ECyT-UNSAM and CONICET, Campus Miguelete\u2014San Mart\u00edn, Buenos Aires, Argentina"
+        },
+        {
+          "affPubRaw": "Universidade Federal do Rio de Janeiro, Instituto de F\u00edsica, Rio de Janeiro, RJ, Brazil"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0002-3087-3609"
+      },
+      "name": {
+        "given_name": "C.",
+        "surname": "Bonifazi"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Universidade Estadual de Campinas, IFGW, Campinas, SP, Brazil"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0003-4544-9808"
+      },
+      "name": {
+        "given_name": "L.",
+        "surname": "Bonneau Arbeletche"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Institute of Nuclear Physics PAN, Krakow, Poland"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0003-1864-937X"
+      },
+      "name": {
+        "given_name": "N.",
+        "surname": "Borodai"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Colorado State University, Fort Collins, CO, USA"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0003-4096-2063"
+      },
+      "name": {
+        "given_name": "J.",
+        "surname": "Brack"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "RWTH Aachen University, III. Physikalisches Institut A, Aachen, Germany"
+        }
+      ],
+      "name": {
+        "given_name": "T.",
+        "surname": "Bretz"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Instituto de Tecnolog\u00edas en Detecci\u00f3n y Astropart\u00edculas (CNEA, CONICET, UNSAM), Buenos Aires, Argentina"
+        }
+      ],
+      "name": {
+        "given_name": "P. G.",
+        "surname": "Brichetto Orchera"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "RWTH Aachen University, III. Physikalisches Institut A, Aachen, Germany"
+        }
+      ],
+      "name": {
+        "given_name": "F. L.",
+        "surname": "Briechle"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Universit\u00e4t Siegen, Department Physik\u2014Experimentelle Teilchenphysik, Siegen, Germany"
+        }
+      ],
+      "name": {
+        "given_name": "P.",
+        "surname": "Buchholz"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Universidad de Granada, and C.A.F.P.E., Granada, Spain"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0002-7439-4247"
+      },
+      "name": {
+        "given_name": "A.",
+        "surname": "Bueno"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Vrije Universiteit Brussels, Brussels, Belgium"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0002-6177-497X"
+      },
+      "name": {
+        "given_name": "S.",
+        "surname": "Buitink"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "INFN, Sezione di Catania, Catania, Italy"
+        },
+        {
+          "affPubRaw": "Universit\u00e0 di Catania, Dipartimento di Fisica e Astronomia \u201cEttore Majorana\u201d, Catania, Italy"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0003-2123-5434"
+      },
+      "name": {
+        "given_name": "M.",
+        "surname": "Buscemi"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Instituto de Tecnolog\u00edas en Detecci\u00f3n y Astropart\u00edculas (CNEA, CONICET, UNSAM), Buenos Aires, Argentina"
+        },
+        {
+          "affPubRaw": "Karlsruhe Institute of Technology (KIT), Institute for Experimental Particle Physics, Karlsruhe, Germany"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0002-2174-5779"
+      },
+      "name": {
+        "given_name": "M.",
+        "surname": "B\u00fcsken"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "IMAPP, Radboud University Nijmegen, Nijmegen, The Netherlands"
+        },
+        {
+          "affPubRaw": "Nationaal Instituut voor Kernfysica en Hoge Energie Fysica (NIKHEF), Science Park, Amsterdam, The Netherlands"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0002-6995-5978"
+      },
+      "name": {
+        "given_name": "A.",
+        "surname": "Bwembya"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Universidad Aut\u00f3noma de Chiapas, Tuxtla Guti\u00e9rrez, Chiapas, Mexico"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0002-4042-3855"
+      },
+      "name": {
+        "given_name": "K. S.",
+        "surname": "Caballero-Mora"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "INFN, Sezione di Milano, Milano, Italy"
+        },
+        {
+          "affPubRaw": "Universit\u00e0 di Milano, Dipartimento di Fisica, Milano, Italy"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0002-2245-5108"
+      },
+      "name": {
+        "given_name": "L.",
+        "surname": "Caccianiga"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Bergische Universit\u00e4t Wuppertal, Department of Physics, Wuppertal, Germany"
+        }
+      ],
+      "name": {
+        "given_name": "I.",
+        "surname": "Caracas"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "INFN, Sezione di Catania, Catania, Italy"
+        },
+        {
+          "affPubRaw": "Universit\u00e0 di Catania, Dipartimento di Fisica e Astronomia \u201cEttore Majorana\u201d, Catania, Italy"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0003-1622-8731"
+      },
+      "name": {
+        "given_name": "R.",
+        "surname": "Caruso"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "INFN, Sezione di Torino, Torino, Italy"
+        },
+        {
+          "affPubRaw": "Osservatorio Astrofisico di Torino (INAF), Torino, Italy"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0002-0045-2467"
+      },
+      "name": {
+        "given_name": "A.",
+        "surname": "Castellina"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Universidade de S\u00e3o Paulo, Escola de Engenharia de Lorena, Lorena, SP, Brazil"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0001-9332-1476"
+      },
+      "name": {
+        "given_name": "F.",
+        "surname": "Catalani"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "INFN, Sezione di Lecce, Lecce, Italy"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0001-8066-7718"
+      },
+      "name": {
+        "given_name": "G.",
+        "surname": "Cataldi"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Instituto Galego de F\u00edsica de Altas Enerx\u00edas (IGFAE), Universidade de Santiago de Compostela, Santiago de Compostela, Spain"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0001-6748-8395"
+      },
+      "name": {
+        "given_name": "L.",
+        "surname": "Cazon"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Observatorio Pierre Auger, Malarg\u00fce, Argentina"
+        }
+      ],
+      "name": {
+        "given_name": "M.",
+        "surname": "Cerda"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "INFN, Sezione di Torino, Torino, Italy"
+        },
+        {
+          "affPubRaw": "Universit\u00e0 Torino, Dipartimento di Fisica, Torino, Italy"
+        }
+      ],
+      "name": {
+        "given_name": "R.",
+        "surname": "Cester"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Universidade Estadual de Campinas, IFGW, Campinas, SP, Brazil"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0002-3240-6270"
+      },
+      "name": {
+        "given_name": "J. A.",
+        "surname": "Chinellato"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Michigan Technological University, Houghton, MI, USA"
+        }
+      ],
+      "name": {
+        "given_name": "J.",
+        "surname": "Chirinos"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Institute of Physics of the Czech Academy of Sciences, Prague, Czech Republic"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0002-6425-2579"
+      },
+      "name": {
+        "given_name": "J.",
+        "surname": "Chudoba"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Palacky University, RCPTM, Olomouc, Czech Republic"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0001-5741-259X"
+      },
+      "name": {
+        "given_name": "L.",
+        "surname": "Chytka"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "University of Adelaide, Adelaide, SA, Australia"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0002-9040-9648"
+      },
+      "name": {
+        "given_name": "R. W.",
+        "surname": "Clay"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Instituto de Tecnolog\u00edas en Detecci\u00f3n y Astropart\u00edculas (CNEA, CONICET, UNSAM), Buenos Aires, Argentina"
+        },
+        {
+          "affPubRaw": "Universidad Tecnol\u00f3gica Nacional\u2014Facultad Regional Mendoza (CONICET/CNEA), Mendoza, Argentina"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0002-0652-5460"
+      },
+      "name": {
+        "given_name": "A. C.",
+        "surname": "Cobos Cerutti"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "INFN, Sezione di Napoli, Napoli, Italy"
+        },
+        {
+          "affPubRaw": "Universit\u00e0 di Napoli \u201cFederico II\u201d, Dipartimento di Fisica \u201cEttore Pancini\u201d, Napoli, Italy"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0002-4179-9352"
+      },
+      "name": {
+        "given_name": "R.",
+        "surname": "Colalillo"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "University of Delaware, Department of Physics and Astronomy, Bartol Research Institute, Newark, DE, USA"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0003-1510-1712"
+      },
+      "name": {
+        "given_name": "A.",
+        "surname": "Coleman"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "INFN, Sezione di Lecce, Lecce, Italy"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0002-3023-0566"
+      },
+      "name": {
+        "given_name": "M. R.",
+        "surname": "Coluccia"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Laborat\u00f3rio de Instrumenta\u00e7\u00e3o e F\u00edsica Experimental de Part\u00edculas (LIP) and Instituto Superior T\u00e9cnico (IST), Universidade de Lisboa (UL), Lisboa, Portugal"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0003-4945-5340"
+      },
+      "name": {
+        "given_name": "R.",
+        "surname": "Concei\u00e7\u00e3o"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Gran Sasso Science Institute, L\u2019Aquila, Italy"
+        },
+        {
+          "affPubRaw": "INFN Laboratori Nazionali del Gran Sasso, Assergi (L\u2019Aquila), Italy"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0001-5681-0086"
+      },
+      "name": {
+        "given_name": "A.",
+        "surname": "Condorelli"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "INFN, Sezione di Milano, Milano, Italy"
+        },
+        {
+          "affPubRaw": "Politecnico di Milano, Dipartimento di Scienze e Tecnologie Aerospaziali, Milano, Italy"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0003-3614-245X"
+      },
+      "name": {
+        "given_name": "G.",
+        "surname": "Consolati"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Observatorio Pierre Auger and Comisi\u00f3n Nacional de Energ\u00eda At\u00f3mica, Malarg\u00fce, Argentina"
+        }
+      ],
+      "name": {
+        "given_name": "F.",
+        "surname": "Contreras"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Karlsruhe Institute of Technology (KIT), Institute for Astroparticle Physics, Karlsruhe, Germany"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0002-2841-1034"
+      },
+      "name": {
+        "given_name": "F.",
+        "surname": "Convenga"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Universidade Federal Fluminense, EEIMVR, Volta Redonda, RJ, Brazil"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0001-8243-6710"
+      },
+      "name": {
+        "given_name": "D.",
+        "surname": "Correia dos Santos"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Case Western Reserve University, Cleveland, OH, USA"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0001-5405-5371"
+      },
+      "name": {
+        "given_name": "C. E.",
+        "surname": "Covault"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Universit\u00e4t Siegen, Department Physik\u2014Experimentelle Teilchenphysik, Siegen, Germany"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0003-3893-9171"
+      },
+      "name": {
+        "given_name": "M.",
+        "surname": "Cristinziani"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "IFLP, Universidad Nacional de La Plata and CONICET, La Plata, Argentina"
+        }
+      ],
+      "name": {
+        "given_name": "C. S.",
+        "surname": "Cruz Sanchez"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Departamento de F\u00edsica and Departamento de Ciencias de la Atm\u00f3sfera y los Oc\u00e9anos, FCEyN, Universidad de Buenos Aires and CONICET, Buenos Aires, Argentina"
+        },
+        {
+          "affPubRaw": "Instituto de Astronom\u00eda y F\u00edsica del Espacio (IAFE, CONICET-UBA), Buenos Aires, Argentina"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0002-7680-4721"
+      },
+      "name": {
+        "given_name": "S.",
+        "surname": "Dasso"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Karlsruhe Institute of Technology (KIT), Institute for Astroparticle Physics, Karlsruhe, Germany"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0002-0527-4823"
+      },
+      "name": {
+        "given_name": "K.",
+        "surname": "Daumiller"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "University of Adelaide, Adelaide, SA, Australia"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0002-4271-3055"
+      },
+      "name": {
+        "given_name": "B. R.",
+        "surname": "Dawson"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Universidade Federal Fluminense, EEIMVR, Volta Redonda, RJ, Brazil"
+        }
+      ],
+      "name": {
+        "given_name": "R. M.",
+        "surname": "de Almeida"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Instituto de Tecnolog\u00edas en Detecci\u00f3n y Astropart\u00edculas (CNEA, CONICET, UNSAM), Buenos Aires, Argentina"
+        },
+        {
+          "affPubRaw": "Karlsruhe Institute of Technology (KIT), Institute for Astroparticle Physics, Karlsruhe, Germany"
+        }
+      ],
+      "name": {
+        "given_name": "J.",
+        "surname": "de Jes\u00fas"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "IMAPP, Radboud University Nijmegen, Nijmegen, The Netherlands"
+        },
+        {
+          "affPubRaw": "Nationaal Instituut voor Kernfysica en Hoge Energie Fysica (NIKHEF), Science Park, Amsterdam, The Netherlands"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0002-3120-3367"
+      },
+      "name": {
+        "given_name": "S. J.",
+        "surname": "de Jong"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Universidade Federal do Rio de Janeiro, Instituto de F\u00edsica, Rio de Janeiro, RJ, Brazil"
+        },
+        {
+          "affPubRaw": "Universidade Federal do Rio de Janeiro (UFRJ), Observat\u00f3rio do Valongo, Rio de Janeiro, RJ, Brazil"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0002-3234-6634"
+      },
+      "name": {
+        "given_name": "J. R. T.",
+        "surname": "de Mello Neto"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "INFN Laboratori Nazionali del Gran Sasso, Assergi (L\u2019Aquila), Italy"
+        },
+        {
+          "affPubRaw": "Gran Sasso Science Institute, L\u2019Aquila, Italy"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0002-8665-1730"
+      },
+      "name": {
+        "given_name": "I.",
+        "surname": "De Mitri"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Instituto Federal de Educa\u00e7\u00e3o, Ci\u00eancia e Tecnologia do Rio de Janeiro (IFRJ), Brazil"
+        }
+      ],
+      "name": {
+        "given_name": "J.",
+        "surname": "de Oliveira"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Universidade Estadual de Campinas, IFGW, Campinas, SP, Brazil"
+        }
+      ],
+      "name": {
+        "given_name": "D.",
+        "surname": "de Oliveira Franco"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "INFN, Sezione di Lecce, Lecce, Italy"
+        },
+        {
+          "affPubRaw": "Universit\u00e0 del Salento, Dipartimento di Matematica e Fisica \u201cE. De Giorgi\u201d, Lecce, Italy"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0001-5898-2834"
+      },
+      "name": {
+        "given_name": "F.",
+        "surname": "de Palma"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Universidade de S\u00e3o Paulo, Instituto de F\u00edsica de S\u00e3o Carlos, S\u00e3o Carlos, SP, Brazil"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0003-0865-233X"
+      },
+      "name": {
+        "given_name": "V.",
+        "surname": "de Souza"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "INFN, Sezione di Lecce, Lecce, Italy"
+        },
+        {
+          "affPubRaw": "Universit\u00e0 del Salento, Dipartimento di Matematica e Fisica \u201cE. De Giorgi\u201d, Lecce, Italy"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0003-2045-7588"
+      },
+      "name": {
+        "given_name": "E.",
+        "surname": "De Vito"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "INFN, Sezione di Catania, Catania, Italy"
+        },
+        {
+          "affPubRaw": "Universit\u00e0 di Catania, Dipartimento di Fisica e Astronomia \u201cEttore Majorana\u201d, Catania, Italy"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0002-9057-0239"
+      },
+      "name": {
+        "given_name": "A.",
+        "surname": "Del Popolo"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "CNRS/IN2P3, IJCLab, Universit\u00e9 Paris-Saclay, Orsay, France"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0001-6863-6572"
+      },
+      "name": {
+        "given_name": "O.",
+        "surname": "Deligny"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Instituto de Tecnolog\u00edas en Detecci\u00f3n y Astropart\u00edculas (CNEA, CONICET, UNSAM), Buenos Aires, Argentina"
+        },
+        {
+          "affPubRaw": "Karlsruhe Institute of Technology (KIT), Institute for Astroparticle Physics, Karlsruhe, Germany"
+        }
+      ],
+      "name": {
+        "given_name": "L.",
+        "surname": "Deval"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "INFN, Sezione di Torino, Torino, Italy"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0002-8260-1867"
+      },
+      "name": {
+        "given_name": "A.",
+        "surname": "di Matteo"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "\u201cHoria Hulubei\u201d National Institute for Physics and Nuclear Engineering, Bucharest-Magurele, Romania"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0003-4032-7318"
+      },
+      "name": {
+        "given_name": "M.",
+        "surname": "Dobre"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Universidade Estadual de Campinas, IFGW, Campinas, SP, Brazil"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0002-1236-0789"
+      },
+      "name": {
+        "given_name": "C.",
+        "surname": "Dobrigkeit"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Universidad Nacional Aut\u00f3noma de M\u00e9xico, M\u00e9xico, D.F., Mexico"
+        }
+      ],
+      "name": {
+        "given_name": "J. C.",
+        "surname": "D\u2019Olivo"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Laborat\u00f3rio de Instrumenta\u00e7\u00e3o e F\u00edsica Experimental de Part\u00edculas (LIP) and Instituto Superior T\u00e9cnico (IST), Universidade de Lisboa (UL), Lisboa, Portugal"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0003-0651-9404"
+      },
+      "name": {
+        "given_name": "L. M.",
+        "surname": "Domingues Mendes"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Colorado State University, Fort Collins, CO, USA"
+        }
+      ],
+      "name": {
+        "given_name": "A.",
+        "surname": "Dorofeev"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Universidade Federal do Paran\u00e1, Setor Palotina, Palotina, Brazil"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0002-6463-2272"
+      },
+      "name": {
+        "given_name": "R. C.",
+        "surname": "dos Anjos"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Institute of Physics of the Czech Academy of Sciences, Prague, Czech Republic"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0001-8807-6162"
+      },
+      "name": {
+        "given_name": "J.",
+        "surname": "Ebr"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "IMAPP, Radboud University Nijmegen, Nijmegen, The Netherlands"
+        },
+        {
+          "affPubRaw": "Nationaal Instituut voor Kernfysica en Hoge Energie Fysica (NIKHEF), Science Park, Amsterdam, The Netherlands"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0002-7247-936X"
+      },
+      "name": {
+        "given_name": "M.",
+        "surname": "Eman"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Karlsruhe Institute of Technology (KIT), Institute for Experimental Particle Physics, Karlsruhe, Germany"
+        },
+        {
+          "affPubRaw": "Karlsruhe Institute of Technology (KIT), Institute for Astroparticle Physics, Karlsruhe, Germany"
+        }
+      ],
+      "attrib": {
+        "corresp": true,
+        "email": "spokespersons@auger.org",
+        "orcid": "0000-0003-2924-8889"
+      },
+      "name": {
+        "given_name": "R.",
+        "surname": "Engel"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "INFN, Sezione di Lecce, Lecce, Italy"
+        },
+        {
+          "affPubRaw": "Universit\u00e0 del Salento, Dipartimento di Matematica e Fisica \u201cE. De Giorgi\u201d, Lecce, Italy"
+        }
+      ],
+      "attrib": {
+        "corresp": true,
+        "orcid": "0000-0002-6408-1335"
+      },
+      "name": {
+        "given_name": "I.",
+        "surname": "Epicoco"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "RWTH Aachen University, III. Physikalisches Institut A, Aachen, Germany"
+        }
+      ],
+      "attrib": {
+        "corresp": true,
+        "orcid": "0000-0002-1653-1303"
+      },
+      "name": {
+        "given_name": "M.",
+        "surname": "Erdmann"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Instituto de Tecnolog\u00edas en Detecci\u00f3n y Astropart\u00edculas (CNEA, CONICET, UNSAM), Buenos Aires, Argentina"
+        },
+        {
+          "affPubRaw": "Universidad Tecnol\u00f3gica Nacional\u2014Facultad Regional Buenos Aires, Buenos Aires, Argentina"
+        }
+      ],
+      "attrib": {
+        "corresp": true,
+        "orcid": "0000-0001-6989-2404"
+      },
+      "name": {
+        "given_name": "A.",
+        "surname": "Etchegoyen"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "IMAPP, Radboud University Nijmegen, Nijmegen, The Netherlands"
+        },
+        {
+          "affPubRaw": "Nationaal Instituut voor Kernfysica en Hoge Energie Fysica (NIKHEF), Science Park, Amsterdam, The Netherlands"
+        },
+        {
+          "affPubRaw": "Stichting Astronomisch Onderzoek in Nederland (ASTRON), Dwingeloo, The Netherlands"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0002-2526-6724"
+      },
+      "name": {
+        "given_name": "H.",
+        "surname": "Falcke"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "University of Chicago, Enrico Fermi Institute, Chicago, IL, USA"
+        }
+      ],
+      "name": {
+        "given_name": "J.",
+        "surname": "Farmer"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "New York University, New York, NY, USA"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0003-2417-5975"
+      },
+      "name": {
+        "given_name": "G.",
+        "surname": "Farrar"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Universidade Estadual de Campinas, IFGW, Campinas, SP, Brazil"
+        }
+      ],
+      "attrib": {
+        "corresp": true,
+        "orcid": "0000-0001-7239-0288"
+      },
+      "name": {
+        "given_name": "A. C.",
+        "surname": "Fauth"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Colorado State University, Fort Collins, CO, USA"
+        }
+      ],
+      "name": {
+        "given_name": "N.",
+        "surname": "Fazzini"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Karlsruhe Institute of Technology (KIT), Institut f\u00fcr Prozessdatenverarbeitung und Elektronik, Karlsruhe, Germany"
+        }
+      ],
+      "name": {
+        "given_name": "F.",
+        "surname": "Feldbusch"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "INFN, Sezione di Torino, Torino, Italy"
+        },
+        {
+          "affPubRaw": "Universit\u00e0 Torino, Dipartimento di Fisica, Torino, Italy"
+        }
+      ],
+      "attrib": {
+        "corresp": true,
+        "orcid": "0000-0002-0313-8852"
+      },
+      "name": {
+        "given_name": "F.",
+        "surname": "Fenu"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Michigan Technological University, Houghton, MI, USA"
+        }
+      ],
+      "name": {
+        "given_name": "B.",
+        "surname": "Fick"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Instituto de Tecnolog\u00edas en Detecci\u00f3n y Astropart\u00edculas (CNEA, CONICET, UNSAM), Buenos Aires, Argentina"
+        }
+      ],
+      "attrib": {
+        "corresp": true,
+        "orcid": "0000-0002-6768-5214"
+      },
+      "name": {
+        "given_name": "J. M.",
+        "surname": "Figueira"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Center for Astrophysics and Cosmology (CAC), University of Nova Gorica, Nova Gorica, Slovenia"
+        },
+        {
+          "affPubRaw": "Experimental Particle Physics Department, J. Stefan Institute, Ljubljana, Slovenia"
+        }
+      ],
+      "attrib": {
+        "corresp": true,
+        "orcid": "0000-0001-5671-1555"
+      },
+      "name": {
+        "given_name": "A.",
+        "surname": "Filip\u010di\u010d"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Karlsruhe Institute of Technology (KIT), Institute for Astroparticle Physics, Karlsruhe, Germany"
+        }
+      ],
+      "attrib": {
+        "corresp": true,
+        "orcid": "0000-0001-9473-9356"
+      },
+      "name": {
+        "given_name": "T.",
+        "surname": "Fitoussi"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "University of Delaware, Department of Physics and Astronomy, Bartol Research Institute, Newark, DE, USA"
+        }
+      ],
+      "name": {
+        "given_name": "B.",
+        "surname": "Flaggs"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "IMAPP, Radboud University Nijmegen, Nijmegen, The Netherlands"
+        }
+      ],
+      "name": {
+        "given_name": "T.",
+        "surname": "Fodran"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "University of Chicago, Enrico Fermi Institute, Chicago, IL, USA"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0003-2401-504X"
+      },
+      "name": {
+        "given_name": "T.",
+        "surname": "Fujii"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Instituto de Tecnolog\u00edas en Detecci\u00f3n y Astropart\u00edculas (CNEA, CONICET, UNSAM), Buenos Aires, Argentina"
+        },
+        {
+          "affPubRaw": "Universidad Tecnol\u00f3gica Nacional\u2014Facultad Regional Buenos Aires, Buenos Aires, Argentina"
+        }
+      ],
+      "attrib": {
+        "corresp": true,
+        "orcid": "0000-0002-6575-7958"
+      },
+      "name": {
+        "given_name": "A.",
+        "surname": "Fuster"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "IMAPP, Radboud University Nijmegen, Nijmegen, The Netherlands"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0002-3075-6605"
+      },
+      "name": {
+        "given_name": "C.",
+        "surname": "Galea"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "INFN, Sezione di Milano, Milano, Italy"
+        },
+        {
+          "affPubRaw": "Universit\u00e0 di Milano, Dipartimento di Fisica, Milano, Italy"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0002-7372-9703"
+      },
+      "name": {
+        "given_name": "C.",
+        "surname": "Galelli"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Instituto de Tecnolog\u00edas en Detecci\u00f3n y Astropart\u00edculas (CNEA, CONICET, UNSAM), Buenos Aires, Argentina"
+        },
+        {
+          "affPubRaw": "Universidad Tecnol\u00f3gica Nacional\u2014Facultad Regional Mendoza (CONICET/CNEA), Mendoza, Argentina"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0003-0919-2734"
+      },
+      "name": {
+        "given_name": "B.",
+        "surname": "Garc\u00eda"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Karlsruhe Institute of Technology (KIT), Institut f\u00fcr Prozessdatenverarbeitung und Elektronik, Karlsruhe, Germany"
+        }
+      ],
+      "name": {
+        "given_name": "H.",
+        "surname": "Gemmeke"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Instituto de Tecnolog\u00edas en Detecci\u00f3n y Astropart\u00edculas (CNEA, CONICET, UNSAM), Buenos Aires, Argentina"
+        },
+        {
+          "affPubRaw": "Karlsruhe Institute of Technology (KIT), Institute for Astroparticle Physics, Karlsruhe, Germany"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0002-4080-7840"
+      },
+      "name": {
+        "given_name": "F.",
+        "surname": "Gesualdi"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "\u201cHoria Hulubei\u201d National Institute for Physics and Nuclear Engineering, Bucharest-Magurele, Romania"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0002-8757-2081"
+      },
+      "name": {
+        "given_name": "A.",
+        "surname": "Gherghel-Lascu"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "CNRS/IN2P3, IJCLab, Universit\u00e9 Paris-Saclay, Orsay, France"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0003-1101-4857"
+      },
+      "name": {
+        "given_name": "P. L.",
+        "surname": "Ghia"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "IMAPP, Radboud University Nijmegen, Nijmegen, The Netherlands"
+        }
+      ],
+      "name": {
+        "given_name": "U.",
+        "surname": "Giaccari"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "INFN, Sezione di Milano, Milano, Italy"
+        }
+      ],
+      "name": {
+        "given_name": "M.",
+        "surname": "Giammarchi"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "RWTH Aachen University, III. Physikalisches Institut A, Aachen, Germany"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0001-9683-4568"
+      },
+      "name": {
+        "given_name": "J.",
+        "surname": "Glombitza"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Observatorio Pierre Auger, Malarg\u00fce, Argentina"
+        }
+      ],
+      "name": {
+        "given_name": "F.",
+        "surname": "Gobbi"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Instituto de Tecnolog\u00edas en Detecci\u00f3n y Astropart\u00edculas (CNEA, CONICET, UNSAM), Buenos Aires, Argentina"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0002-0495-2768"
+      },
+      "name": {
+        "given_name": "F.",
+        "surname": "Gollan"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Centro At\u00f3mico Bariloche and Instituto Balseiro (CNEA-UNCuyo-CONICET), San Carlos de Bariloche, Argentina"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0001-9471-8811"
+      },
+      "name": {
+        "given_name": "G.",
+        "surname": "Golup"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Centro At\u00f3mico Bariloche and Instituto Balseiro (CNEA-UNCuyo-CONICET), San Carlos de Bariloche, Argentina"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0001-5530-0180"
+      },
+      "name": {
+        "given_name": "M.",
+        "surname": "G\u00f3mez Berisso"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Observatorio Pierre Auger and Comisi\u00f3n Nacional de Energ\u00eda At\u00f3mica, Malarg\u00fce, Argentina"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0001-9689-2020"
+      },
+      "name": {
+        "given_name": "P. F.",
+        "surname": "G\u00f3mez Vitale"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Observatorio Pierre Auger and Comisi\u00f3n Nacional de Energ\u00eda At\u00f3mica, Malarg\u00fce, Argentina"
+        }
+      ],
+      "name": {
+        "given_name": "J. P.",
+        "surname": "Gongora"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Centro At\u00f3mico Bariloche and Instituto Balseiro (CNEA-UNCuyo-CONICET), San Carlos de Bariloche, Argentina"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0003-3003-5063"
+      },
+      "name": {
+        "given_name": "J. M.",
+        "surname": "Gonz\u00e1lez"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Universit\u00e9 Libre de Bruxelles (ULB), Brussels, Belgium"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0001-6566-2222"
+      },
+      "name": {
+        "given_name": "N.",
+        "surname": "Gonz\u00e1lez"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Centro At\u00f3mico Bariloche and Instituto Balseiro (CNEA-UNCuyo-CONICET), San Carlos de Bariloche, Argentina"
+        }
+      ],
+      "name": {
+        "given_name": "I.",
+        "surname": "Goos"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Institute of Nuclear Physics PAN, Krakow, Poland"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0002-4853-5974"
+      },
+      "name": {
+        "given_name": "D.",
+        "surname": "G\u00f3ra"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "INFN, Sezione di Torino, Torino, Italy"
+        },
+        {
+          "affPubRaw": "Osservatorio Astrofisico di Torino (INAF), Torino, Italy"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0002-8085-2304"
+      },
+      "name": {
+        "given_name": "A.",
+        "surname": "Gorgi"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Instituto Galego de F\u00edsica de Altas Enerx\u00edas (IGFAE), Universidade de Santiago de Compostela, Santiago de Compostela, Spain"
+        }
+      ],
+      "name": {
+        "given_name": "M.",
+        "surname": "Gottowik"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "University of Adelaide, Adelaide, SA, Australia"
+        }
+      ],
+      "name": {
+        "given_name": "T. D.",
+        "surname": "Grubb"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "INFN, Sezione di Napoli, Napoli, Italy"
+        },
+        {
+          "affPubRaw": "Universit\u00e0 di Napoli \u201cFederico II\u201d, Dipartimento di Fisica \u201cEttore Pancini\u201d, Napoli, Italy"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0003-1427-9885"
+      },
+      "name": {
+        "given_name": "F.",
+        "surname": "Guarino"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Universidade Estadual de Feira de Santana, Feira de Santana, Brazil"
+        }
+      ],
+      "name": {
+        "given_name": "G. P.",
+        "surname": "Guedes"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Universit\u00e4t Siegen, Department Physik\u2014Experimentelle Teilchenphysik, Siegen, Germany"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0002-0772-7654"
+      },
+      "name": {
+        "given_name": "E.",
+        "surname": "Guido"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Instituto de Tecnolog\u00edas en Detecci\u00f3n y Astropart\u00edculas (CNEA, CONICET, UNSAM), Buenos Aires, Argentina"
+        },
+        {
+          "affPubRaw": "Karlsruhe Institute of Technology (KIT), Institute for Astroparticle Physics, Karlsruhe, Germany"
+        }
+      ],
+      "name": {
+        "given_name": "S.",
+        "surname": "Hahn"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Institute of Physics of the Czech Academy of Sciences, Prague, Czech Republic"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0003-3139-7234"
+      },
+      "name": {
+        "given_name": "P.",
+        "surname": "Hamal"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Instituto de Tecnolog\u00edas en Detecci\u00f3n y Astropart\u00edculas (CNEA, CONICET, UNSAM), Buenos Aires, Argentina"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0001-7622-4826"
+      },
+      "name": {
+        "given_name": "M. R.",
+        "surname": "Hampel"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "IFLP, Universidad Nacional de La Plata and CONICET, La Plata, Argentina"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0001-7015-2374"
+      },
+      "name": {
+        "given_name": "P.",
+        "surname": "Hansen"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Centro At\u00f3mico Bariloche and Instituto Balseiro (CNEA-UNCuyo-CONICET), San Carlos de Bariloche, Argentina"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0002-7350-2488"
+      },
+      "name": {
+        "given_name": "D.",
+        "surname": "Harari"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Colorado State University, Fort Collins, CO, USA"
+        }
+      ],
+      "name": {
+        "given_name": "J.",
+        "surname": "Harton"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "University of Adelaide, Adelaide, SA, Australia"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0001-9090-8415"
+      },
+      "name": {
+        "given_name": "V. M.",
+        "surname": "Harvey"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Karlsruhe Institute of Technology (KIT), Institute for Astroparticle Physics, Karlsruhe, Germany"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0002-9638-7574"
+      },
+      "name": {
+        "given_name": "A.",
+        "surname": "Haungs"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "RWTH Aachen University, III. Physikalisches Institut A, Aachen, Germany"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0002-9736-266X"
+      },
+      "name": {
+        "given_name": "T.",
+        "surname": "Hebbeker"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Karlsruhe Institute of Technology (KIT), Institute for Astroparticle Physics, Karlsruhe, Germany"
+        }
+      ],
+      "name": {
+        "given_name": "D.",
+        "surname": "Heck"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Fermi National Accelerator Laboratory, Fermilab, Batavia, IL, USA"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0003-3323-3129"
+      },
+      "name": {
+        "given_name": "C.",
+        "surname": "Hojvat"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "IMAPP, Radboud University Nijmegen, Nijmegen, The Netherlands"
+        },
+        {
+          "affPubRaw": "Nationaal Instituut voor Kernfysica en Hoge Energie Fysica (NIKHEF), Science Park, Amsterdam, The Netherlands"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0001-6604-547X"
+      },
+      "name": {
+        "given_name": "J. R.",
+        "surname": "H\u00f6randel"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Palacky University, RCPTM, Olomouc, Czech Republic"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0002-6710-5339"
+      },
+      "name": {
+        "given_name": "P.",
+        "surname": "Horvath"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Palacky University, RCPTM, Olomouc, Czech Republic"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0003-4223-7316"
+      },
+      "name": {
+        "given_name": "M.",
+        "surname": "Hrabovsk\u00fd"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Karlsruhe Institute of Technology (KIT), Institute for Astroparticle Physics, Karlsruhe, Germany"
+        },
+        {
+          "affPubRaw": "Vrije Universiteit Brussels, Brussels, Belgium"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0002-2783-4772"
+      },
+      "name": {
+        "given_name": "T.",
+        "surname": "Huege"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "INFN, Sezione di Catania, Catania, Italy"
+        },
+        {
+          "affPubRaw": "Universit\u00e0 di Catania, Dipartimento di Fisica e Astronomia \u201cEttore Majorana\u201d, Catania, Italy"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0002-9040-1566"
+      },
+      "name": {
+        "given_name": "A.",
+        "surname": "Insolia"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Institute of Space Science, Bucharest-Magurele, Romania"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0002-1241-584X"
+      },
+      "name": {
+        "given_name": "P. G.",
+        "surname": "Isar"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Institute of Physics of the Czech Academy of Sciences, Prague, Czech Republic"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0003-3501-7163"
+      },
+      "name": {
+        "given_name": "P.",
+        "surname": "Janecek"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Colorado School of Mines, Golden, CO, USA"
+        }
+      ],
+      "name": {
+        "given_name": "J. A.",
+        "surname": "Johnsen"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Institute of Physics of the Czech Academy of Sciences, Prague, Czech Republic"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0002-3130-4168"
+      },
+      "name": {
+        "given_name": "J.",
+        "surname": "Jurysek"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Bergische Universit\u00e4t Wuppertal, Department of Physics, Wuppertal, Germany"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0002-2410-4491"
+      },
+      "name": {
+        "given_name": "A.",
+        "surname": "K\u00e4\u00e4p\u00e4"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Bergische Universit\u00e4t Wuppertal, Department of Physics, Wuppertal, Germany"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0002-2805-0195"
+      },
+      "name": {
+        "given_name": "K. H.",
+        "surname": "Kampert"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Karlsruhe Institute of Technology (KIT), Institute for Astroparticle Physics, Karlsruhe, Germany"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0003-4494-1155"
+      },
+      "name": {
+        "given_name": "B.",
+        "surname": "Keilhauer"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "IMAPP, Radboud University Nijmegen, Nijmegen, The Netherlands"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0002-4857-5255"
+      },
+      "name": {
+        "given_name": "A.",
+        "surname": "Khakurdikar"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Instituto de Tecnolog\u00edas en Detecci\u00f3n y Astropart\u00edculas (CNEA, CONICET, UNSAM), Buenos Aires, Argentina"
+        },
+        {
+          "affPubRaw": "Karlsruhe Institute of Technology (KIT), Institute for Astroparticle Physics, Karlsruhe, Germany"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0001-5278-3172"
+      },
+      "name": {
+        "given_name": "V. V.",
+        "surname": "Kizakke Covilakam"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Karlsruhe Institute of Technology (KIT), Institute for Astroparticle Physics, Karlsruhe, Germany"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0002-4306-021X"
+      },
+      "name": {
+        "given_name": "H. O.",
+        "surname": "Klages"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Karlsruhe Institute of Technology (KIT), Institut f\u00fcr Prozessdatenverarbeitung und Elektronik, Karlsruhe, Germany"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0002-7608-4058"
+      },
+      "name": {
+        "given_name": "M.",
+        "surname": "Kleifges"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Observatorio Pierre Auger, Malarg\u00fce, Argentina"
+        }
+      ],
+      "name": {
+        "given_name": "J.",
+        "surname": "Kleinfeller"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Karlsruhe Institute of Technology (KIT), Institute for Experimental Particle Physics, Karlsruhe, Germany"
+        }
+      ],
+      "name": {
+        "given_name": "F.",
+        "surname": "Knapp"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "School of Physics and Astronomy, University of Leeds, Leeds, UK"
+        }
+      ],
+      "name": {
+        "given_name": "J.",
+        "surname": "Knapp"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Karlsruhe Institute of Technology (KIT), Institut f\u00fcr Prozessdatenverarbeitung und Elektronik, Karlsruhe, Germany"
+        }
+      ],
+      "name": {
+        "given_name": "N.",
+        "surname": "Kunka"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Laboratoire AstroParticule et Cosmologie (APC), Universit\u00e9 Paris, 7, CNRS-IN2P3, Paris, France"
+        }
+      ],
+      "name": {
+        "given_name": "C.",
+        "surname": "Lachaud"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Centro Federal de Educa\u00e7\u00e3o Tecnol\u00f3gica Celso Suckow da Fonseca, Nova Friburgo, Brazil"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0001-9672-0499"
+      },
+      "name": {
+        "given_name": "B. L.",
+        "surname": "Lago"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "RWTH Aachen University, III. Physikalisches Institut A, Aachen, Germany"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0001-7443-3042"
+      },
+      "name": {
+        "given_name": "N.",
+        "surname": "Langner"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Universidade Federal do ABC, Santo Andr\u00e9, SP, Brazil"
+        }
+      ],
+      "name": {
+        "given_name": "M. A.",
+        "surname": "Leigui de Oliveira"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Karlsruhe Institute of Technology (KIT), Institute for Experimental Particle Physics, Karlsruhe, Germany"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0002-7921-2035"
+      },
+      "name": {
+        "given_name": "V.",
+        "surname": "Lenok"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Laboratoire de Physique Nucl\u00e9aire et de Hautes Energies (LPNHE), Sorbonne Universit\u00e9, Universit\u00e9 de Paris, CNRS-IN2P3, Paris, France"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0002-2044-3103"
+      },
+      "name": {
+        "given_name": "A.",
+        "surname": "Letessier-Selvon"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "CNRS/IN2P3, IJCLab, Universit\u00e9 Paris-Saclay, Orsay, France"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0002-7887-3288"
+      },
+      "name": {
+        "given_name": "I.",
+        "surname": "Lhenry-Yvon"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "INFN, Sezione di Catania, Catania, Italy"
+        },
+        {
+          "affPubRaw": "Universit\u00e0 di Catania, Dipartimento di Fisica e Astronomia \u201cEttore Majorana\u201d, Catania, Italy"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0002-4540-2885"
+      },
+      "name": {
+        "given_name": "D.",
+        "surname": "Lo Presti"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Laborat\u00f3rio de Instrumenta\u00e7\u00e3o e F\u00edsica Experimental de Part\u00edculas (LIP) and Instituto Superior T\u00e9cnico (IST), Universidade de Lisboa (UL), Lisboa, Portugal"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0001-8571-0033"
+      },
+      "name": {
+        "given_name": "L.",
+        "surname": "Lopes"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Benem\u00e9rita Universidad Aut\u00f3noma de Puebla, Puebla, Mexico"
+        }
+      ],
+      "name": {
+        "given_name": "R.",
+        "surname": "L\u00f3pez"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "University of Wisconsin\u2013Madison, Department of Physics and WIPAC, Madison, WI, USA"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0003-3175-7770"
+      },
+      "name": {
+        "given_name": "L.",
+        "surname": "Lu"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Karlsruhe Institute of Technology (KIT), Institute for Experimental Particle Physics, Karlsruhe, Germany"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0003-3745-6709"
+      },
+      "name": {
+        "given_name": "Q.",
+        "surname": "Luce"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Center for Astrophysics and Cosmology (CAC), University of Nova Gorica, Nova Gorica, Slovenia"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0002-4245-5092"
+      },
+      "name": {
+        "given_name": "J. P.",
+        "surname": "Lundquist"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Universidade Estadual de Campinas, IFGW, Campinas, SP, Brazil"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0001-7635-4348"
+      },
+      "name": {
+        "given_name": "A.",
+        "surname": "Machado Payeras"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Institute of Physics of the Czech Academy of Sciences, Prague, Czech Republic"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0001-7748-7468"
+      },
+      "name": {
+        "given_name": "D.",
+        "surname": "Mandat"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "University of Adelaide, Adelaide, SA, Australia"
+        }
+      ],
+      "name": {
+        "given_name": "B. C.",
+        "surname": "Manning"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Universit\u00e4t Hamburg, II. Institut f\u00fcr Theoretische Physik, Hamburg, Germany"
+        }
+      ],
+      "name": {
+        "given_name": "J.",
+        "surname": "Manshanden"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Fermi National Accelerator Laboratory, Fermilab, Batavia, IL, USA"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0002-8382-7745"
+      },
+      "name": {
+        "given_name": "P.",
+        "surname": "Mantsch"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "CNRS/IN2P3, IJCLab, Universit\u00e9 Paris-Saclay, Orsay, France"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0003-4604-4677"
+      },
+      "name": {
+        "given_name": "S.",
+        "surname": "Marafico"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "INFN, Sezione di Milano, Milano, Italy"
+        },
+        {
+          "affPubRaw": "Universit\u00e0 di Milano, Dipartimento di Fisica, Milano, Italy"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0002-1683-1162"
+      },
+      "name": {
+        "given_name": "F. M.",
+        "surname": "Mariani"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "IFLP, Universidad Nacional de La Plata and CONICET, La Plata, Argentina"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0002-9876-2470"
+      },
+      "name": {
+        "given_name": "A. G.",
+        "surname": "Mariazzi"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Universit\u00e9 Libre de Bruxelles (ULB), Brussels, Belgium"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0002-5771-1124"
+      },
+      "name": {
+        "given_name": "I. C.",
+        "surname": "Mari\u015f"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "INFN, Sezione di Catania, Catania, Italy"
+        },
+        {
+          "affPubRaw": "Universit\u00e0 di Palermo, Dipartimento di Fisica e Chimica \u201cE. Segr\u00e8\u201d, Palermo, Italy"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0002-3152-8874"
+      },
+      "name": {
+        "given_name": "G.",
+        "surname": "Marsella"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "INFN, Sezione di Lecce, Lecce, Italy"
+        },
+        {
+          "affPubRaw": "Universit\u00e0 del Salento, Dipartimento di Matematica e Fisica \u201cE. De Giorgi\u201d, Lecce, Italy"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0003-2046-3910"
+      },
+      "name": {
+        "given_name": "D.",
+        "surname": "Martello"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Instituto de Tecnolog\u00edas en Detecci\u00f3n y Astropart\u00edculas (CNEA, CONICET, UNSAM), Buenos Aires, Argentina"
+        },
+        {
+          "affPubRaw": "Karlsruhe Institute of Technology (KIT), Institute for Astroparticle Physics, Karlsruhe, Germany"
+        }
+      ],
+      "name": {
+        "given_name": "S.",
+        "surname": "Martinelli"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Benem\u00e9rita Universidad Aut\u00f3noma de Puebla, Puebla, Mexico"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0001-9052-856X"
+      },
+      "name": {
+        "given_name": "O.",
+        "surname": "Mart\u00ednez Bravo"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Instituto Galego de F\u00edsica de Altas Enerx\u00edas (IGFAE), Universidade de Santiago de Compostela, Santiago de Compostela, Spain"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0002-7294-6204"
+      },
+      "name": {
+        "given_name": "M. A.",
+        "surname": "Martins"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "INFN Laboratori Nazionali del Gran Sasso, Assergi (L\u2019Aquila), Italy"
+        },
+        {
+          "affPubRaw": "Universit\u00e0 dell\u2019Aquila, Dipartimento di Scienze Fisiche e Chimiche, L\u2019Aquila, Italy"
+        }
+      ],
+      "name": {
+        "given_name": "M.",
+        "surname": "Mastrodicasa"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Karlsruhe Institute of Technology (KIT), Institute for Astroparticle Physics, Karlsruhe, Germany"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0002-0680-040X"
+      },
+      "name": {
+        "given_name": "H. J.",
+        "surname": "Mathes"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Louisiana State University, Baton Rouge, LA, USA"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0002-1832-4420"
+      },
+      "name": {
+        "given_name": "J.",
+        "surname": "Matthews"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "INFN, Sezione di Roma \u201cTor Vergata\u201d, Roma, Italy"
+        },
+        {
+          "affPubRaw": "Universit\u00e0 di Roma \u201cTor Vergata\u201d, Dipartimento di Fisica, Roma, Italy"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0003-3036-2590"
+      },
+      "name": {
+        "given_name": "G.",
+        "surname": "Matthiae"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Bergische Universit\u00e4t Wuppertal, Department of Physics, Wuppertal, Germany"
+        },
+        {
+          "affPubRaw": "Colorado School of Mines, Golden, CO, USA"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0003-2618-9166"
+      },
+      "name": {
+        "given_name": "E.",
+        "surname": "Mayotte"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Colorado School of Mines, Golden, CO, USA"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0001-8957-8033"
+      },
+      "name": {
+        "given_name": "S.",
+        "surname": "Mayotte"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Fermi National Accelerator Laboratory, Fermilab, Batavia, IL, USA"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0003-4076-6732"
+      },
+      "name": {
+        "given_name": "P. O.",
+        "surname": "Mazur"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Universidad Nacional Aut\u00f3noma de M\u00e9xico, M\u00e9xico, D.F., Mexico"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0002-3202-319X"
+      },
+      "name": {
+        "given_name": "G.",
+        "surname": "Medina-Tanco"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Bergische Universit\u00e4t Wuppertal, Department of Physics, Wuppertal, Germany"
+        }
+      ],
+      "name": {
+        "given_name": "J.",
+        "surname": "Meinert"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Instituto de Tecnolog\u00edas en Detecci\u00f3n y Astropart\u00edculas (CNEA, CONICET, UNSAM), Buenos Aires, Argentina"
+        }
+      ],
+      "name": {
+        "given_name": "D.",
+        "surname": "Melo"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Karlsruhe Institute of Technology (KIT), Institut f\u00fcr Prozessdatenverarbeitung und Elektronik, Karlsruhe, Germany"
+        }
+      ],
+      "name": {
+        "given_name": "A.",
+        "surname": "Menshikov"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Palacky University, RCPTM, Olomouc, Czech Republic"
+        }
+      ],
+      "name": {
+        "given_name": "S.",
+        "surname": "Michal"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Instituto de F\u00edsica de Rosario (IFIR),\u2014CONICET/U.N.R. and Facultad de Ciencias Bioqu\u00edmicas y Farmac\u00e9uticas U.N.R., Rosario, Argentina"
+        }
+      ],
+      "name": {
+        "given_name": "M. I.",
+        "surname": "Micheletti"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "INFN, Sezione di Milano, Milano, Italy"
+        },
+        {
+          "affPubRaw": "Universit\u00e0 di Milano, Dipartimento di Fisica, Milano, Italy"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0002-2808-5363"
+      },
+      "name": {
+        "given_name": "L.",
+        "surname": "Miramonti"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Centro At\u00f3mico Bariloche and Instituto Balseiro (CNEA-UNCuyo-CONICET), San Carlos de Bariloche, Argentina"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0002-9339-5317"
+      },
+      "name": {
+        "given_name": "S.",
+        "surname": "Mollerach"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Universit\u00e9 Grenoble Alpes, CNRS, Grenoble Institute of Engineering, LPSC-IN2P3, F-38000 Grenoble, France"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0001-9787-596X"
+      },
+      "name": {
+        "given_name": "F.",
+        "surname": "Montanet"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Bergische Universit\u00e4t Wuppertal, Department of Physics, Wuppertal, Germany"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0003-1494-2624"
+      },
+      "name": {
+        "given_name": "L.",
+        "surname": "Morejon"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "INFN, Sezione di Torino, Torino, Italy"
+        },
+        {
+          "affPubRaw": "Osservatorio Astrofisico di Torino (INAF), Torino, Italy"
+        }
+      ],
+      "name": {
+        "given_name": "C.",
+        "surname": "Morello"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Institute of Physics of the Czech Academy of Sciences, Prague, Czech Republic"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0002-8473-695X"
+      },
+      "name": {
+        "given_name": "A. L.",
+        "surname": "M\u00fcller"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "IMAPP, Radboud University Nijmegen, Nijmegen, The Netherlands"
+        },
+        {
+          "affPubRaw": "Nationaal Instituut voor Kernfysica en Hoge Energie Fysica (NIKHEF), Science Park, Amsterdam, The Netherlands"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0001-8026-8020"
+      },
+      "name": {
+        "given_name": "K.",
+        "surname": "Mulrey"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "INFN, Sezione di Torino, Torino, Italy"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0002-0294-9071"
+      },
+      "name": {
+        "given_name": "R.",
+        "surname": "Mussa"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "New York University, New York, NY, USA"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0003-4615-5529"
+      },
+      "name": {
+        "given_name": "M.",
+        "surname": "Muzio"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Bergische Universit\u00e4t Wuppertal, Department of Physics, Wuppertal, Germany"
+        }
+      ],
+      "name": {
+        "given_name": "W. M.",
+        "surname": "Namasaka"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Bergische Universit\u00e4t Wuppertal, Department of Physics, Wuppertal, Germany"
+        }
+      ],
+      "name": {
+        "given_name": "A.",
+        "surname": "Nasr-Esfahani"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Universidad Nacional Aut\u00f3noma de M\u00e9xico, M\u00e9xico, D.F., Mexico"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0003-1059-8731"
+      },
+      "name": {
+        "given_name": "L.",
+        "surname": "Nellen"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Centro de Investigaciones en L\u00e1seres y Aplicaciones, CITEDEF and CONICET, Villa Martelli, Argentina"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0001-7504-6423"
+      },
+      "name": {
+        "given_name": "G.",
+        "surname": "Nicora"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "\u201cHoria Hulubei\u201d National Institute for Physics and Nuclear Engineering, Bucharest-Magurele, Romania"
+        }
+      ],
+      "name": {
+        "given_name": "M.",
+        "surname": "Niculescu-Oglinzanu"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Universit\u00e4t Siegen, Department Physik\u2014Experimentelle Teilchenphysik, Siegen, Germany"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0001-6823-8056"
+      },
+      "name": {
+        "given_name": "M.",
+        "surname": "Niechciol"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Michigan Technological University, Houghton, MI, USA"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0001-5538-9867"
+      },
+      "name": {
+        "given_name": "D.",
+        "surname": "Nitz"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Michigan Technological University, Houghton, MI, USA"
+        }
+      ],
+      "name": {
+        "given_name": "I.",
+        "surname": "Norwood"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Charles University, Faculty of Mathematics and Physics, Institute of Particle and Nuclear Physics, Prague, Czech Republic"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0001-6219-200X"
+      },
+      "name": {
+        "given_name": "D.",
+        "surname": "Nosek"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Charles University, Faculty of Mathematics and Physics, Institute of Particle and Nuclear Physics, Prague, Czech Republic"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0002-4319-4541"
+      },
+      "name": {
+        "given_name": "V.",
+        "surname": "Novotny"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Palacky University, RCPTM, Olomouc, Czech Republic"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0002-8774-7099"
+      },
+      "name": {
+        "given_name": "L.",
+        "surname": "No\u017eka"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "INFN, Sezione di Lecce, Lecce, Italy"
+        },
+        {
+          "affPubRaw": "Universit\u00e0 del Salento, Dipartimento di Matematica e Fisica \u201cE. De Giorgi\u201d, Lecce, Italy"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0002-7926-3481"
+      },
+      "name": {
+        "given_name": "A",
+        "surname": "Nucita"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Universidad Industrial de Santander, Bucaramanga, Colombia"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0003-4575-5899"
+      },
+      "name": {
+        "given_name": "L. A.",
+        "surname": "N\u00fa\u00f1ez"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Universidade de S\u00e3o Paulo, Instituto de F\u00edsica de S\u00e3o Carlos, S\u00e3o Carlos, SP, Brazil"
+        }
+      ],
+      "name": {
+        "given_name": "C.",
+        "surname": "Oliveira"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Institute of Physics of the Czech Academy of Sciences, Prague, Czech Republic"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0003-2061-6059"
+      },
+      "name": {
+        "given_name": "M.",
+        "surname": "Palatka"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Centro de Investigaciones en L\u00e1seres y Aplicaciones, CITEDEF and CONICET, Villa Martelli, Argentina"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0003-4846-8748"
+      },
+      "name": {
+        "given_name": "J.",
+        "surname": "Pallotta"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Instituto Galego de F\u00edsica de Altas Enerx\u00edas (IGFAE), Universidade de Santiago de Compostela, Santiago de Compostela, Spain"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0003-2847-0461"
+      },
+      "name": {
+        "given_name": "G.",
+        "surname": "Parente"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Benem\u00e9rita Universidad Aut\u00f3noma de Puebla, Puebla, Mexico"
+        }
+      ],
+      "name": {
+        "given_name": "A.",
+        "surname": "Parra"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Bergische Universit\u00e4t Wuppertal, Department of Physics, Wuppertal, Germany"
+        }
+      ],
+      "name": {
+        "given_name": "J.",
+        "surname": "Pawlowsky"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Institute of Physics of the Czech Academy of Sciences, Prague, Czech Republic"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0002-8421-0456"
+      },
+      "name": {
+        "given_name": "M.",
+        "surname": "Pech"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Institute of Nuclear Physics PAN, Krakow, Poland"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0002-1062-5595"
+      },
+      "name": {
+        "given_name": "J.",
+        "surname": "P\u0229kala"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Unidad Profesional Interdisciplinaria en Ingenier\u00eda y Tecnolog\u00edas Avanzadas del Instituto Polit\u00e9cnico Nacional (UPIITA-IPN), M\u00e9xico, D.F., Mexico"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0001-6973-1731"
+      },
+      "name": {
+        "given_name": "R.",
+        "surname": "Pelayo"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Instituto de Tecnolog\u00edas en Detecci\u00f3n y Astropart\u00edculas (CNEA, CONICET, UNSAM), Buenos Aires, Argentina"
+        },
+        {
+          "affPubRaw": "Karlsruhe Institute of Technology (KIT), Institute for Experimental Particle Physics, Karlsruhe, Germany"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0002-1167-8314"
+      },
+      "name": {
+        "given_name": "E. E.",
+        "surname": "Pereira Martins"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Universidade de S\u00e3o Paulo, Instituto de F\u00edsica, S\u00e3o Paulo, SP, Brazil"
+        }
+      ],
+      "name": {
+        "given_name": "J.",
+        "surname": "Perez Armand"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Instituto de Tecnolog\u00edas en Detecci\u00f3n y Astropart\u00edculas (CNEA, CONICET, UNSAM), Buenos Aires, Argentina"
+        },
+        {
+          "affPubRaw": "Karlsruhe Institute of Technology (KIT), Institute for Astroparticle Physics, Karlsruhe, Germany"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0002-9790-5732"
+      },
+      "name": {
+        "given_name": "C.",
+        "surname": "P\u00e9rez Bertolli"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "INFN, Sezione di Lecce, Lecce, Italy"
+        },
+        {
+          "affPubRaw": "Universit\u00e0 del Salento, Dipartimento di Matematica e Fisica \u201cE. De Giorgi\u201d, Lecce, Italy"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0002-8150-4336"
+      },
+      "name": {
+        "given_name": "L.",
+        "surname": "Perrone"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "INFN Laboratori Nazionali del Gran Sasso, Assergi (L\u2019Aquila), Italy"
+        },
+        {
+          "affPubRaw": "Gran Sasso Science Institute, L\u2019Aquila, Italy"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0002-6029-1255"
+      },
+      "name": {
+        "given_name": "S.",
+        "surname": "Petrera"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "INFN Laboratori Nazionali del Gran Sasso, Assergi (L\u2019Aquila), Italy"
+        },
+        {
+          "affPubRaw": "Universit\u00e0 dell\u2019Aquila, Dipartimento di Scienze Fisiche e Chimiche, L\u2019Aquila, Italy"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0003-3751-581X"
+      },
+      "name": {
+        "given_name": "C.",
+        "surname": "Petrucci"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Karlsruhe Institute of Technology (KIT), Institute for Astroparticle Physics, Karlsruhe, Germany"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0002-7472-8710"
+      },
+      "name": {
+        "given_name": "T.",
+        "surname": "Pierog"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Laborat\u00f3rio de Instrumenta\u00e7\u00e3o e F\u00edsica Experimental de Part\u00edculas (LIP) and Instituto Superior T\u00e9cnico (IST), Universidade de Lisboa (UL), Lisboa, Portugal"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0002-2590-0908"
+      },
+      "name": {
+        "given_name": "M.",
+        "surname": "Pimenta"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Instituto de Tecnolog\u00edas en Detecci\u00f3n y Astropart\u00edculas (CNEA, CONICET, UNSAM), Buenos Aires, Argentina"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0001-6644-7970"
+      },
+      "name": {
+        "given_name": "M.",
+        "surname": "Platino"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "IMAPP, Radboud University Nijmegen, Nijmegen, The Netherlands"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0002-2578-5364"
+      },
+      "name": {
+        "given_name": "B.",
+        "surname": "Pont"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "IMAPP, Radboud University Nijmegen, Nijmegen, The Netherlands"
+        },
+        {
+          "affPubRaw": "Nationaal Instituut voor Kernfysica en Hoge Energie Fysica (NIKHEF), Science Park, Amsterdam, The Netherlands"
+        }
+      ],
+      "name": {
+        "given_name": "M.",
+        "surname": "Pothast"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "INFN, Sezione di Catania, Catania, Italy"
+        },
+        {
+          "affPubRaw": "Universit\u00e0 di Palermo, Dipartimento di Fisica e Chimica \u201cE. Segr\u00e8\u201d, Palermo, Italy"
+        }
+      ],
+      "name": {
+        "given_name": "M.",
+        "surname": "Pourmohammad Shavar"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "University of Chicago, Enrico Fermi Institute, Chicago, IL, USA"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0002-0623-9261"
+      },
+      "name": {
+        "given_name": "P.",
+        "surname": "Privitera"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Institute of Physics of the Czech Academy of Sciences, Prague, Czech Republic"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0002-3238-9597"
+      },
+      "name": {
+        "given_name": "M.",
+        "surname": "Prouza"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Michigan Technological University, Houghton, MI, USA"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0001-5975-9036"
+      },
+      "name": {
+        "given_name": "A.",
+        "surname": "Puyleart"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Bergische Universit\u00e4t Wuppertal, Department of Physics, Wuppertal, Germany"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0003-2787-5010"
+      },
+      "name": {
+        "given_name": "S.",
+        "surname": "Querchfeld"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Bergische Universit\u00e4t Wuppertal, Department of Physics, Wuppertal, Germany"
+        }
+      ],
+      "name": {
+        "given_name": "J.",
+        "surname": "Rautenberg"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Instituto de Tecnolog\u00edas en Detecci\u00f3n y Astropart\u00edculas (CNEA, CONICET, UNSAM), Buenos Aires, Argentina"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0001-7410-8522"
+      },
+      "name": {
+        "given_name": "D.",
+        "surname": "Ravignani"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Karlsruhe Institute of Technology (KIT), Institute for Experimental Particle Physics, Karlsruhe, Germany"
+        }
+      ],
+      "name": {
+        "given_name": "M.",
+        "surname": "Reininghaus"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Institute of Physics of the Czech Academy of Sciences, Prague, Czech Republic"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0001-6697-1393"
+      },
+      "name": {
+        "given_name": "J.",
+        "surname": "Ridky"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Laborat\u00f3rio de Instrumenta\u00e7\u00e3o e F\u00edsica Experimental de Part\u00edculas (LIP) and Instituto Superior T\u00e9cnico (IST), Universidade de Lisboa (UL), Lisboa, Portugal"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0001-8434-7500"
+      },
+      "name": {
+        "given_name": "F.",
+        "surname": "Riehn"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Universit\u00e4t Siegen, Department Physik\u2014Experimentelle Teilchenphysik, Siegen, Germany"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0001-9660-8683"
+      },
+      "name": {
+        "given_name": "M.",
+        "surname": "Risse"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "INFN Laboratori Nazionali del Gran Sasso, Assergi (L\u2019Aquila), Italy"
+        },
+        {
+          "affPubRaw": "Universit\u00e0 dell\u2019Aquila, Dipartimento di Scienze Fisiche e Chimiche, L\u2019Aquila, Italy"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0002-5277-6527"
+      },
+      "name": {
+        "given_name": "V.",
+        "surname": "Rizi"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "IMAPP, Radboud University Nijmegen, Nijmegen, The Netherlands"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0002-2328-7628"
+      },
+      "name": {
+        "given_name": "W.",
+        "surname": "Rodrigues de Carvalho"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Observatorio Pierre Auger and Comisi\u00f3n Nacional de Energ\u00eda At\u00f3mica, Malarg\u00fce, Argentina"
+        }
+      ],
+      "name": {
+        "given_name": "J.",
+        "surname": "Rodriguez Rojo"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Instituto de Tecnolog\u00edas en Detecci\u00f3n y Astropart\u00edculas (CNEA, CONICET, UNSAM), Buenos Aires, Argentina"
+        }
+      ],
+      "name": {
+        "given_name": "M. J.",
+        "surname": "Roncoroni"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Universit\u00e4t Hamburg, II. Institut f\u00fcr Theoretische Physik, Hamburg, Germany"
+        }
+      ],
+      "name": {
+        "given_name": "S.",
+        "surname": "Rossoni"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Karlsruhe Institute of Technology (KIT), Institute for Astroparticle Physics, Karlsruhe, Germany"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0003-1281-4477"
+      },
+      "name": {
+        "given_name": "M.",
+        "surname": "Roth"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Centro At\u00f3mico Bariloche and Instituto Balseiro (CNEA-UNCuyo-CONICET), San Carlos de Bariloche, Argentina"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0003-1478-9260"
+      },
+      "name": {
+        "given_name": "E.",
+        "surname": "Roulet"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Instituto de Astronom\u00eda y F\u00edsica del Espacio (IAFE, CONICET-UBA), Buenos Aires, Argentina"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0001-6979-5604"
+      },
+      "name": {
+        "given_name": "A. C.",
+        "surname": "Rovero"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Universit\u00e4t Siegen, Department Physik\u2014Experimentelle Teilchenphysik, Siegen, Germany"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0001-9645-8363"
+      },
+      "name": {
+        "given_name": "P.",
+        "surname": "Ruehl"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "\u201cHoria Hulubei\u201d National Institute for Physics and Nuclear Engineering, Bucharest-Magurele, Romania"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0002-7903-6510"
+      },
+      "name": {
+        "given_name": "A.",
+        "surname": "Saftoiu"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "IMAPP, Radboud University Nijmegen, Nijmegen, The Netherlands"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0001-7193-5506"
+      },
+      "name": {
+        "given_name": "M.",
+        "surname": "Saharan"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "INFN Laboratori Nazionali del Gran Sasso, Assergi (L\u2019Aquila), Italy"
+        },
+        {
+          "affPubRaw": "Universit\u00e0 dell\u2019Aquila, Dipartimento di Scienze Fisiche e Chimiche, L\u2019Aquila, Italy"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0002-9306-8447"
+      },
+      "name": {
+        "given_name": "F.",
+        "surname": "Salamida"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Benem\u00e9rita Universidad Aut\u00f3noma de Puebla, Puebla, Mexico"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0003-4556-7302"
+      },
+      "name": {
+        "given_name": "H.",
+        "surname": "Salazar"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "INFN, Sezione di Roma \u201cTor Vergata\u201d, Roma, Italy"
+        }
+      ],
+      "name": {
+        "given_name": "G.",
+        "surname": "Salina"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Universidad Industrial de Santander, Bucaramanga, Colombia"
+        }
+      ],
+      "name": {
+        "given_name": "J. D.",
+        "surname": "Sanabria Gomez"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Instituto de Tecnolog\u00edas en Detecci\u00f3n y Astropart\u00edculas (CNEA, CONICET, UNSAM), Buenos Aires, Argentina"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0002-6861-6261"
+      },
+      "name": {
+        "given_name": "F.",
+        "surname": "S\u00e1nchez"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Universidade de S\u00e3o Paulo, Instituto de F\u00edsica, S\u00e3o Paulo, SP, Brazil"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0002-2818-8813"
+      },
+      "name": {
+        "given_name": "E. M.",
+        "surname": "Santos"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Institute of Physics of the Czech Academy of Sciences, Prague, Czech Republic"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0002-0474-8863"
+      },
+      "name": {
+        "given_name": "E.",
+        "surname": "Santos"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Colorado School of Mines, Golden, CO, USA"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0001-5614-1986"
+      },
+      "name": {
+        "given_name": "F.",
+        "surname": "Sarazin"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Laborat\u00f3rio de Instrumenta\u00e7\u00e3o e F\u00edsica Experimental de Part\u00edculas (LIP) and Instituto Superior T\u00e9cnico (IST), Universidade de Lisboa (UL), Lisboa, Portugal"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0002-5018-5467"
+      },
+      "name": {
+        "given_name": "R.",
+        "surname": "Sarmento"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Observatorio Pierre Auger and Comisi\u00f3n Nacional de Energ\u00eda At\u00f3mica, Malarg\u00fce, Argentina"
+        }
+      ],
+      "name": {
+        "given_name": "R.",
+        "surname": "Sato"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "University of Wisconsin\u2013Madison, Department of Physics and WIPAC, Madison, WI, USA"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0001-7670-554X"
+      },
+      "name": {
+        "given_name": "P.",
+        "surname": "Savina"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Karlsruhe Institute of Technology (KIT), Institute for Astroparticle Physics, Karlsruhe, Germany"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0002-4477-9218"
+      },
+      "name": {
+        "given_name": "C. M.",
+        "surname": "Sch\u00e4fer"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "INFN, Sezione di Lecce, Lecce, Italy"
+        },
+        {
+          "affPubRaw": "Universit\u00e0 del Salento, Dipartimento di Matematica e Fisica \u201cE. De Giorgi\u201d, Lecce, Italy"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0003-3762-4063"
+      },
+      "name": {
+        "given_name": "V.",
+        "surname": "Scherini"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Karlsruhe Institute of Technology (KIT), Institute for Astroparticle Physics, Karlsruhe, Germany"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0002-2637-4778"
+      },
+      "name": {
+        "given_name": "H.",
+        "surname": "Schieler"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Karlsruhe Institute of Technology (KIT), Institute for Astroparticle Physics, Karlsruhe, Germany"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0003-4295-7719"
+      },
+      "name": {
+        "given_name": "M.",
+        "surname": "Schimassek"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Bergische Universit\u00e4t Wuppertal, Department of Physics, Wuppertal, Germany"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0001-6407-7187"
+      },
+      "name": {
+        "given_name": "M.",
+        "surname": "Schimp"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Instituto de Tecnolog\u00edas en Detecci\u00f3n y Astropart\u00edculas (CNEA, CONICET, UNSAM), Buenos Aires, Argentina"
+        },
+        {
+          "affPubRaw": "Karlsruhe Institute of Technology (KIT), Institute for Astroparticle Physics, Karlsruhe, Germany"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0002-5545-4363"
+      },
+      "name": {
+        "given_name": "F.",
+        "surname": "Schl\u00fcter"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Karlsruhe Institute of Technology (KIT), Institute for Experimental Particle Physics, Karlsruhe, Germany"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0001-6963-1191"
+      },
+      "name": {
+        "given_name": "D.",
+        "surname": "Schmidt"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Vrije Universiteit Brussels, Brussels, Belgium"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0003-3649-1254"
+      },
+      "name": {
+        "given_name": "O.",
+        "surname": "Scholten"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "IMAPP, Radboud University Nijmegen, Nijmegen, The Netherlands"
+        },
+        {
+          "affPubRaw": "Nationaal Instituut voor Kernfysica en Hoge Energie Fysica (NIKHEF), Science Park, Amsterdam, The Netherlands"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0002-8999-9249"
+      },
+      "name": {
+        "given_name": "H.",
+        "surname": "Schoorlemmer"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Institute of Physics of the Czech Academy of Sciences, Prague, Czech Republic"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0002-5344-7645"
+      },
+      "name": {
+        "given_name": "P.",
+        "surname": "Schov\u00e1nek"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Karlsruhe Institute of Technology (KIT), Institute for Astroparticle Physics, Karlsruhe, Germany"
+        },
+        {
+          "affPubRaw": "University of Delaware, Department of Physics and Astronomy, Bartol Research Institute, Newark, DE, USA"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0001-8495-7210"
+      },
+      "name": {
+        "given_name": "F. G.",
+        "surname": "Schr\u00f6der"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "RWTH Aachen University, III. Physikalisches Institut A, Aachen, Germany"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0002-5822-2445"
+      },
+      "name": {
+        "given_name": "J.",
+        "surname": "Schulte"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Karlsruhe Institute of Technology (KIT), Institute for Astroparticle Physics, Karlsruhe, Germany"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0003-0661-492X"
+      },
+      "name": {
+        "given_name": "T.",
+        "surname": "Schulz"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "IFLP, Universidad Nacional de La Plata and CONICET, La Plata, Argentina"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0003-1148-3231"
+      },
+      "name": {
+        "given_name": "S. J.",
+        "surname": "Sciutto"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Instituto de Tecnolog\u00edas en Detecci\u00f3n y Astropart\u00edculas (CNEA, CONICET, UNSAM), Buenos Aires, Argentina"
+        },
+        {
+          "affPubRaw": "Karlsruhe Institute of Technology (KIT), Institute for Astroparticle Physics, Karlsruhe, Germany"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0002-7519-9806"
+      },
+      "name": {
+        "given_name": "M.",
+        "surname": "Scornavacche"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "INFN, Sezione di Catania, Catania, Italy"
+        },
+        {
+          "affPubRaw": "Istituto di Astrofisica Spaziale e Fisica Cosmica di Palermo (INAF), Palermo, Italy"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0001-7341-6603"
+      },
+      "name": {
+        "given_name": "A.",
+        "surname": "Segreto"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Bergische Universit\u00e4t Wuppertal, Department of Physics, Wuppertal, Germany"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0001-5859-7987"
+      },
+      "name": {
+        "given_name": "S.",
+        "surname": "Sehgal"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Center for Astrophysics and Cosmology (CAC), University of Nova Gorica, Nova Gorica, Slovenia"
+        }
+      ],
+      "name": {
+        "given_name": "S. U.",
+        "surname": "Shivashankara"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Universit\u00e4t Hamburg, II. Institut f\u00fcr Theoretische Physik, Hamburg, Germany"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0002-4396-645X"
+      },
+      "name": {
+        "given_name": "G.",
+        "surname": "Sigl"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Instituto de Tecnolog\u00edas en Detecci\u00f3n y Astropart\u00edculas (CNEA, CONICET, UNSAM), Buenos Aires, Argentina"
+        }
+      ],
+      "name": {
+        "given_name": "G.",
+        "surname": "Silli"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "\u201cHoria Hulubei\u201d National Institute for Physics and Nuclear Engineering, Bucharest-Magurele, Romania"
+        }
+      ],
+      "name": {
+        "given_name": "O.",
+        "surname": "Sima"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "\u201cHoria Hulubei\u201d National Institute for Physics and Nuclear Engineering, Bucharest-Magurele, Romania"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0003-3362-3821"
+      },
+      "name": {
+        "given_name": "R.",
+        "surname": "Smau"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "University of Chicago, Enrico Fermi Institute, Chicago, IL, USA"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0003-0122-1123"
+      },
+      "name": {
+        "given_name": "R.",
+        "surname": "\u0160m\u00edda"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Pennsylvania State University, University Park, PA, USA"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0003-3488-5460"
+      },
+      "name": {
+        "given_name": "P.",
+        "surname": "Sommers"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Department of Physics and Astronomy, Lehman College, City University of New York, Bronx, NY, USA"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0002-6253-7378"
+      },
+      "name": {
+        "given_name": "J. F.",
+        "surname": "Soriano"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Observatorio Pierre Auger, Malarg\u00fce, Argentina"
+        }
+      ],
+      "name": {
+        "given_name": "R.",
+        "surname": "Squartini"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Institute of Physics of the Czech Academy of Sciences, Prague, Czech Republic"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0002-7943-6012"
+      },
+      "name": {
+        "given_name": "M.",
+        "surname": "Stadelmaier"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "\u201cHoria Hulubei\u201d National Institute for Physics and Nuclear Engineering, Bucharest-Magurele, Romania"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0002-8462-2426"
+      },
+      "name": {
+        "given_name": "D.",
+        "surname": "Stanca"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Center for Astrophysics and Cosmology (CAC), University of Nova Gorica, Nova Gorica, Slovenia"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0003-3344-8381"
+      },
+      "name": {
+        "given_name": "S.",
+        "surname": "Stani\u010d"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Institute of Nuclear Physics PAN, Krakow, Poland"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0002-9284-7000"
+      },
+      "name": {
+        "given_name": "J.",
+        "surname": "Stasielak"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Universit\u00e9 Grenoble Alpes, CNRS, Grenoble Institute of Engineering, LPSC-IN2P3, F-38000 Grenoble, France"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0001-5584-8410"
+      },
+      "name": {
+        "given_name": "P.",
+        "surname": "Stassi"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "RWTH Aachen University, III. Physikalisches Institut A, Aachen, Germany"
+        }
+      ],
+      "name": {
+        "given_name": "M.",
+        "surname": "Straub"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Instituto de Tecnolog\u00edas en Detecci\u00f3n y Astropart\u00edculas (CNEA, CONICET, UNSAM), Buenos Aires, Argentina"
+        },
+        {
+          "affPubRaw": "Karlsruhe Institute of Technology (KIT), Institute for Experimental Particle Physics, Karlsruhe, Germany"
+        }
+      ],
+      "name": {
+        "given_name": "A.",
+        "surname": "Streich"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Universit\u00e9 Libre de Bruxelles (ULB), Brussels, Belgium"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0003-1451-630X"
+      },
+      "name": {
+        "given_name": "M.",
+        "surname": "Su\u00e1rez-Dur\u00e1n"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "University of Adelaide, Adelaide, SA, Australia"
+        }
+      ],
+      "name": {
+        "given_name": "T.",
+        "surname": "Sudholz"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Universit\u00e9 Paris-Saclay, CNRS/IN2P3, IJCLab, Orsay, France"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0003-1422-258X"
+      },
+      "name": {
+        "given_name": "T.",
+        "surname": "Suomij\u00e4rvi"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Instituto de Tecnolog\u00edas en Detecci\u00f3n y Astropart\u00edculas (CNEA, CONICET, UNSAM), Buenos Aires, Argentina"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0002-6942-6216"
+      },
+      "name": {
+        "given_name": "A. D.",
+        "surname": "Supanitsky"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "University of \u0141\u00f3d\u017a, Faculty of High-Energy Astrophysics, \u0141\u00f3d\u017a, Poland"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0002-2690-9912"
+      },
+      "name": {
+        "given_name": "Z.",
+        "surname": "Szadkowski"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Universidad de Medell\u00edn, Medell\u00edn, Colombia"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0003-0585-7161"
+      },
+      "name": {
+        "given_name": "A.",
+        "surname": "Tapia"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "INFN, Sezione di Torino, Torino, Italy"
+        },
+        {
+          "affPubRaw": "Universit\u00e0 Torino, Dipartimento di Fisica, Torino, Italy"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0002-0129-5539"
+      },
+      "name": {
+        "given_name": "C.",
+        "surname": "Taricco"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "IMAPP, Radboud University Nijmegen, Nijmegen, The Netherlands"
+        },
+        {
+          "affPubRaw": "Nationaal Instituut voor Kernfysica en Hoge Energie Fysica (NIKHEF), Science Park, Amsterdam, The Netherlands"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0003-4017-2475"
+      },
+      "name": {
+        "given_name": "C.",
+        "surname": "Timmermans"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Karlsruhe Institute of Technology (KIT), Institute for Astroparticle Physics, Karlsruhe, Germany"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0001-6393-7851"
+      },
+      "name": {
+        "given_name": "O.",
+        "surname": "Tkachenko"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Institute of Physics of the Czech Academy of Sciences, Prague, Czech Republic"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0002-0526-9098"
+      },
+      "name": {
+        "given_name": "P.",
+        "surname": "Tobiska"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Universidade de S\u00e3o Paulo, Escola de Engenharia de Lorena, Lorena, SP, Brazil"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0003-3669-8212"
+      },
+      "name": {
+        "given_name": "C. J.",
+        "surname": "Todero Peixoto"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Laborat\u00f3rio de Instrumenta\u00e7\u00e3o e F\u00edsica Experimental de Part\u00edculas (LIP) and Instituto Superior T\u00e9cnico (IST), Universidade de Lisboa (UL), Lisboa, Portugal"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0002-7564-8392"
+      },
+      "name": {
+        "given_name": "B.",
+        "surname": "Tom\u00e9"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Universit\u00e9 Grenoble Alpes, CNRS, Grenoble Institute of Engineering, LPSC-IN2P3, F-38000 Grenoble, France"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0002-8327-8459"
+      },
+      "name": {
+        "given_name": "Z.",
+        "surname": "Torr\u00e8s"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Observatorio Pierre Auger, Malarg\u00fce, Argentina"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0001-7875-2147"
+      },
+      "name": {
+        "given_name": "A.",
+        "surname": "Travaini"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Institute of Physics of the Czech Academy of Sciences, Prague, Czech Republic"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0002-1655-9584"
+      },
+      "name": {
+        "given_name": "P.",
+        "surname": "Travnicek"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "INFN Laboratori Nazionali del Gran Sasso, Assergi (L\u2019Aquila), Italy"
+        },
+        {
+          "affPubRaw": "Universit\u00e0 dell\u2019Aquila, Dipartimento di Scienze Fisiche e Chimiche, L\u2019Aquila, Italy"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0002-8811-3266"
+      },
+      "name": {
+        "given_name": "C.",
+        "surname": "Trimarelli"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "IFLP, Universidad Nacional de La Plata and CONICET, La Plata, Argentina"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0003-1570-1419"
+      },
+      "name": {
+        "given_name": "M.",
+        "surname": "Tueros"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Karlsruhe Institute of Technology (KIT), Institute for Astroparticle Physics, Karlsruhe, Germany"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0002-2535-402X"
+      },
+      "name": {
+        "given_name": "R.",
+        "surname": "Ulrich"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Karlsruhe Institute of Technology (KIT), Institute for Astroparticle Physics, Karlsruhe, Germany"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0002-7651-0272"
+      },
+      "name": {
+        "given_name": "M.",
+        "surname": "Unger"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Palacky University, RCPTM, Olomouc, Czech Republic"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0002-0910-3415"
+      },
+      "name": {
+        "given_name": "L.",
+        "surname": "Vaclavek"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Palacky University, RCPTM, Olomouc, Czech Republic"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0003-4844-3962"
+      },
+      "name": {
+        "given_name": "M.",
+        "surname": "Vacula"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Universidad Nacional Aut\u00f3noma de M\u00e9xico, M\u00e9xico, D.F., Mexico"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0002-8917-9259"
+      },
+      "name": {
+        "given_name": "J. F.",
+        "surname": "Vald\u00e9s Galicia"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "INFN, Sezione di Napoli, Napoli, Italy"
+        },
+        {
+          "affPubRaw": "Universit\u00e0 di Napoli \u201cFederico II\u201d, Dipartimento di Fisica \u201cEttore Pancini\u201d, Napoli, Italy"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0003-2682-8378"
+      },
+      "name": {
+        "given_name": "L.",
+        "surname": "Valore"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Benem\u00e9rita Universidad Aut\u00f3noma de Puebla, Puebla, Mexico"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0003-0715-7513"
+      },
+      "name": {
+        "given_name": "E.",
+        "surname": "Varela"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Universidad Industrial de Santander, Bucaramanga, Colombia"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0001-7499-9302"
+      },
+      "name": {
+        "given_name": "A.",
+        "surname": "V\u00e1squez-Ram\u00edrez"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Karlsruhe Institute of Technology (KIT), Institute for Astroparticle Physics, Karlsruhe, Germany"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0003-2683-1526"
+      },
+      "name": {
+        "given_name": "D.",
+        "surname": "Veberi\u010d"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Universidade Federal do Rio de Janeiro (UFRJ), Observat\u00f3rio do Valongo, Rio de Janeiro, RJ, Brazil"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0002-9261-424X"
+      },
+      "name": {
+        "given_name": "C.",
+        "surname": "Ventura"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "IFLP, Universidad Nacional de La Plata and CONICET, La Plata, Argentina"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0001-8377-5933"
+      },
+      "name": {
+        "given_name": "I. D.",
+        "surname": "Vergara Quispe"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "INFN, Sezione di Roma \u201cTor Vergata\u201d, Roma, Italy"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0003-2291-9387"
+      },
+      "name": {
+        "given_name": "V.",
+        "surname": "Verzi"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Institute of Physics of the Czech Academy of Sciences, Prague, Czech Republic"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0002-7945-3605"
+      },
+      "name": {
+        "given_name": "J.",
+        "surname": "Vicha"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Benem\u00e9rita Universidad Aut\u00f3noma de Puebla, Puebla, Mexico"
+        }
+      ],
+      "name": {
+        "given_name": "L. M.",
+        "surname": "Villase nor Cendejas"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Universiteit van Amsterdam, Faculty of Science, Amsterdam, The Netherlands"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0002-0816-9949"
+      },
+      "name": {
+        "given_name": "J.",
+        "surname": "Vink"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Center for Astrophysics and Cosmology (CAC), University of Nova Gorica, Nova Gorica, Slovenia"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0001-8679-3424"
+      },
+      "name": {
+        "given_name": "S.",
+        "surname": "Vorobiov"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Universidade Federal do Rio de Janeiro, Instituto de F\u00edsica, Rio de Janeiro, RJ, Brazil"
+        }
+      ],
+      "name": {
+        "given_name": "C.",
+        "surname": "Watanabe"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "School of Physics and Astronomy, University of Leeds, Leeds, UK"
+        }
+      ],
+      "attrib": {
+        "corresp": true,
+        "orcid": "0000-0002-3727-6786"
+      },
+      "name": {
+        "given_name": "A. A.",
+        "surname": "Watson"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Karlsruhe Institute of Technology (KIT), Institute for Astroparticle Physics, Karlsruhe, Germany"
+        }
+      ],
+      "attrib": {
+        "corresp": true,
+        "orcid": "0000-0003-4929-6191"
+      },
+      "name": {
+        "given_name": "A.",
+        "surname": "Weindl"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Colorado School of Mines, Golden, CO, USA"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0003-2878-9704"
+      },
+      "name": {
+        "given_name": "L.",
+        "surname": "Wiencke"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Institute of Nuclear Physics PAN, Krakow, Poland"
+        }
+      ],
+      "attrib": {
+        "corresp": true,
+        "orcid": "0000-0003-2652-9685"
+      },
+      "name": {
+        "given_name": "H.",
+        "surname": "Wilczy\u0144ski"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Bergische Universit\u00e4t Wuppertal, Department of Physics, Wuppertal, Germany"
+        }
+      ],
+      "name": {
+        "given_name": "D.",
+        "surname": "Wittkowski"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Instituto de Tecnolog\u00edas en Detecci\u00f3n y Astropart\u00edculas (CNEA, CONICET, UNSAM), Buenos Aires, Argentina"
+        }
+      ],
+      "attrib": {
+        "corresp": true,
+        "orcid": "0000-0003-3121-7037"
+      },
+      "name": {
+        "given_name": "B.",
+        "surname": "Wundheiler"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Los Alamos National Laboratory, Los Alamos, NM, USA"
+        }
+      ],
+      "name": {
+        "given_name": "P.",
+        "surname": "Younk"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Institute of Physics of the Czech Academy of Sciences, Prague, Czech Republic"
+        }
+      ],
+      "attrib": {
+        "corresp": true,
+        "orcid": "0000-0001-5107-9116"
+      },
+      "name": {
+        "given_name": "A.",
+        "surname": "Yushkov"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Universit\u00e9 Libre de Bruxelles (ULB), Brussels, Belgium"
+        }
+      ],
+      "attrib": {
+        "corresp": true,
+        "orcid": "0000-0002-8839-4715"
+      },
+      "name": {
+        "given_name": "O.",
+        "surname": "Zapparrata"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Instituto Galego de F\u00edsica de Altas Enerx\u00edas (IGFAE), Universidade de Santiago de Compostela, Santiago de Compostela, Spain"
+        }
+      ],
+      "attrib": {
+        "corresp": true,
+        "orcid": "0000-0002-4430-8117"
+      },
+      "name": {
+        "given_name": "E.",
+        "surname": "Zas"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Center for Astrophysics and Cosmology (CAC), University of Nova Gorica, Nova Gorica, Slovenia"
+        },
+        {
+          "affPubRaw": "Experimental Particle Physics Department, J. Stefan Institute, Ljubljana, Slovenia"
+        }
+      ],
+      "attrib": {
+        "corresp": true,
+        "orcid": "0000-0002-4596-1521"
+      },
+      "name": {
+        "given_name": "D.",
+        "surname": "Zavrtanik"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Center for Astrophysics and Cosmology (CAC), University of Nova Gorica, Nova Gorica, Slovenia"
+        },
+        {
+          "affPubRaw": "Experimental Particle Physics Department, J. Stefan Institute, Ljubljana, Slovenia"
+        }
+      ],
+      "attrib": {
+        "corresp": true,
+        "orcid": "0000-0001-5606-6912"
+      },
+      "name": {
+        "given_name": "M.",
+        "surname": "Zavrtanik"
+      }
+    },
+    {
+      "attrib": {
+        "collab": true
+      },
+      "name": {
+        "collab": "(The Pierre Auger Collaboration)"
+      }
+    }
+  ],
+  "copyright": {
+    "statement": "\u00a9 2023. The Author(s). Published by the American Astronomical Society.",
+    "status": true
+  },
+  "editorialHistory": {
+    "acceptedDate": "2022-11-21",
+    "receivedDates": [
+      "2022-10-11"
+    ],
+    "revisedDates": [
+      "2022-11-21"
+    ]
+  },
+  "funding": [
+    {
+      "agencyid": {
+        "idschema": "doi",
+        "idvalue": "https://doi.org/10.13039/501100003074"
+      },
+      "agencyname": "MINCyT \u2223 Agencia Nacional de Promoci\u00f3n Cient\u00edfica y Tecnol\u00f3gica (ANPCyT)\n",
+      "awardnumber": "0"
+    }
+  ],
+  "keywords": [
+    {
+      "keyID": "1733",
+      "keyString": "Ultra-high-energy cosmic radiation",
+      "keySystem": "UAT"
+    },
+    {
+      "keyID": "327",
+      "keyString": "Cosmic ray showers",
+      "keySystem": "UAT"
+    },
+    {
+      "keyID": "2371",
+      "keyString": "Experimental data",
+      "keySystem": "UAT"
+    },
+    {
+      "keyID": "205",
+      "keyString": "Catalogs",
+      "keySystem": "UAT"
+    }
+  ],
+  "openAccess": {
+    "license": "Original content from this work may be used under the terms of the Creative Commons Attribution 4.0 licence. Any further distribution of this work must maintain attribution to the author(s) and the title of the work, journal citation and DOI.",
+    "licenseURL": "http://creativecommons.org/licenses/by/4.0/",
+    "open": true
+  },
+  "pagination": {
+    "electronicID": "50",
+    "pageCount": "24"
+  },
+  "persistentIDs": [
+    {
+      "DOI": "10.3847/1538-4365/aca537"
+    }
+  ],
+  "pubDate": {
+    "electrDate": "2023-02-07",
+    "printDate": "2023-02-01"
+  },
+  "publication": {
+    "ISSN": [
+      {
+        "issnString": "0067-0049",
+        "pubtype": "ppub"
+      },
+      {
+        "issnString": "1538-4365",
+        "pubtype": "epub"
+      }
+    ],
+    "issueNum": "2",
+    "pubName": "The Astrophysical Journal Supplement Series",
+    "pubYear": "2023",
+    "publisher": "The American Astronomical Society",
+    "volumeNum": "264"
+  },
+  "publisherIDs": [
+    {
+      "Identifier": "apjsaca537",
+      "attribute": "publisher-id"
+    },
+    {
+      "Identifier": "aca537",
+      "attribute": "manuscript"
+    },
+    {
+      "Identifier": "AAS42590",
+      "attribute": "other"
+    }
+  ],
+  "recordData": {
+    "createdTime": "",
+    "loadFormat": "JATS",
+    "loadLocation": "",
+    "loadType": "fromFile",
+    "parsedTime": "",
+    "recordOrigin": ""
+  },
+  "references": [
+    "<ref id=\"apjsaca537bib1\"><element-citation publication-type=\"journal\" xlink:type=\"simple\"><person-group person-group-type=\"author\"> <name name-style=\"western\"><surname>Aab</surname><given-names>A.</given-names></name> <name name-style=\"western\"><surname>Abreu</surname><given-names>P.</given-names></name> <name name-style=\"western\"><surname>Aglietta</surname><given-names>M.</given-names></name> <etal/> </person-group><year>2014a</year><source>PhRvD</source><volume>90</volume><elocation-id content-type=\"artnum\">122005</elocation-id><pub-id pub-id-type=\"other\" specific-use=\"ads\">2014PhRvD..90l2005A</pub-id><pub-id pub-id-type=\"doi\">10.1103/PhysRevD.90.122005</pub-id></element-citation></ref>",
+    "<ref id=\"apjsaca537bib2\"><element-citation publication-type=\"journal\" xlink:type=\"simple\"><person-group person-group-type=\"author\"> <name name-style=\"western\"><surname>Aab</surname><given-names>A.</given-names></name> <name name-style=\"western\"><surname>Abreu</surname><given-names>P.</given-names></name> <name name-style=\"western\"><surname>Aglietta</surname><given-names>M.</given-names></name> <etal/> </person-group><year>2014b</year><source>PhRvD</source><volume>90</volume><elocation-id content-type=\"artnum\">122006</elocation-id><pub-id pub-id-type=\"other\" specific-use=\"ads\">2014PhRvD..90l2006A</pub-id><pub-id pub-id-type=\"doi\">10.1103/PhysRevD.90.122006</pub-id></element-citation></ref>",
+    "<ref id=\"apjsaca537bib3\"><element-citation publication-type=\"journal\" xlink:type=\"simple\"><person-group person-group-type=\"author\"> <name name-style=\"western\"><surname>Aab</surname><given-names>A.</given-names></name> <name name-style=\"western\"><surname>Abreu</surname><given-names>P.</given-names></name> <name name-style=\"western\"><surname>Aglietta</surname><given-names>M.</given-names></name> <etal/> </person-group><year>2014c</year><source>JCAP</source><volume>08</volume><fpage>019</fpage><pub-id pub-id-type=\"other\" specific-use=\"ads\">2014JCAP...08..019P</pub-id><pub-id pub-id-type=\"doi\">10.1088/1475-7516/2014/08/019</pub-id></element-citation></ref>",
+    "<ref id=\"apjsaca537bib4\"><element-citation publication-type=\"journal\" xlink:type=\"simple\"><person-group person-group-type=\"author\"> <name name-style=\"western\"><surname>Aab</surname><given-names>A.</given-names></name> <name name-style=\"western\"><surname>Abreu</surname><given-names>P.</given-names></name> <name name-style=\"western\"><surname>Aglietta</surname><given-names>M.</given-names></name> <etal/> </person-group><year>2015a</year><source>NIMPA</source><volume>798</volume><fpage>172</fpage><pub-id pub-id-type=\"other\" specific-use=\"ads\">2015NIMPA.798..172P</pub-id><pub-id pub-id-type=\"doi\">10.1016/j.nima.2015.06.058</pub-id></element-citation></ref>",
+    "<ref id=\"apjsaca537bib5\"><element-citation publication-type=\"journal\" xlink:type=\"simple\"><person-group person-group-type=\"author\"> <name name-style=\"western\"><surname>Aab</surname><given-names>A.</given-names></name> <name name-style=\"western\"><surname>Abreu</surname><given-names>P.</given-names></name> <name name-style=\"western\"><surname>Aglietta</surname><given-names>M.</given-names></name> <etal/> </person-group><year>2015b</year><source>JCAP</source><volume>08</volume><fpage>049</fpage><pub-id pub-id-type=\"other\" specific-use=\"ads\">2015JCAP...08..049P</pub-id><pub-id pub-id-type=\"doi\">10.1088/1475-7516/2015/08/049</pub-id></element-citation></ref>",
+    "<ref id=\"apjsaca537bib6\"><element-citation publication-type=\"journal\" xlink:type=\"simple\"><person-group person-group-type=\"author\"> <name name-style=\"western\"><surname>Aab</surname><given-names>A.</given-names></name> <name name-style=\"western\"><surname>Abreu</surname><given-names>P.</given-names></name> <name name-style=\"western\"><surname>Aglietta</surname><given-names>M.</given-names></name> <etal/> </person-group><year>2016</year><source>PhRvD</source><volume>93</volume><elocation-id content-type=\"artnum\">072006</elocation-id><pub-id pub-id-type=\"other\" specific-use=\"ads\">2016PhRvD..93g2006A</pub-id><pub-id pub-id-type=\"doi\">10.1103/PhysRevD.93.072006</pub-id></element-citation></ref>",
+    "<ref id=\"apjsaca537bib7\"><element-citation publication-type=\"journal\" xlink:type=\"simple\"><person-group person-group-type=\"author\"> <name name-style=\"western\"><surname>Aab</surname><given-names>A.</given-names></name> <name name-style=\"western\"><surname>Abreu</surname><given-names>P.</given-names></name> <name name-style=\"western\"><surname>Aglietta</surname><given-names>M.</given-names></name> <etal/> </person-group><year>2017a</year><source>Sci</source><volume>357</volume><fpage>1266</fpage><pub-id pub-id-type=\"other\" specific-use=\"ads\">2017Sci...357.1266P</pub-id><pub-id pub-id-type=\"doi\">10.1126/science.aan4338</pub-id></element-citation></ref>",
+    "<ref id=\"apjsaca537bib8\"><element-citation publication-type=\"journal\" xlink:type=\"simple\"><person-group person-group-type=\"author\"> <name name-style=\"western\"><surname>Aab</surname><given-names>A.</given-names></name> <name name-style=\"western\"><surname>Abreu</surname><given-names>P.</given-names></name> <name name-style=\"western\"><surname>Aglietta</surname><given-names>M.</given-names></name> <etal/> </person-group><year>2017b</year><source>PhRvD</source><volume>96</volume><elocation-id content-type=\"artnum\">122003</elocation-id><pub-id pub-id-type=\"other\" specific-use=\"ads\">2017PhRvD..96L2003A</pub-id><pub-id pub-id-type=\"doi\">10.1103/PhysRevD.96.122003</pub-id></element-citation></ref>",
+    "<ref id=\"apjsaca537bib9\"><element-citation publication-type=\"journal\" xlink:type=\"simple\"><person-group person-group-type=\"author\"> <name name-style=\"western\"><surname>Aab</surname><given-names>A.</given-names></name> <name name-style=\"western\"><surname>Abreu</surname><given-names>P.</given-names></name> <name name-style=\"western\"><surname>Aglietta</surname><given-names>M.</given-names></name> <etal/> </person-group><year>2017c</year><source>ApJL</source><volume>837</volume><fpage>L25</fpage><pub-id pub-id-type=\"other\" specific-use=\"ads\">2017ApJ...837L..25A</pub-id><pub-id pub-id-type=\"doi\">10.3847/2041-8213/aa61a5</pub-id></element-citation></ref>",
+    "<ref id=\"apjsaca537bib10\"><element-citation publication-type=\"journal\" xlink:type=\"simple\"><person-group person-group-type=\"author\"> <name name-style=\"western\"><surname>Aab</surname><given-names>A.</given-names></name> <name name-style=\"western\"><surname>Abreu</surname><given-names>P.</given-names></name> <name name-style=\"western\"><surname>Aglietta</surname><given-names>M.</given-names></name> <etal/> </person-group><year>2017d</year><source>JInst</source><volume>12</volume><elocation-id content-type=\"artnum\">P02006</elocation-id><pub-id pub-id-type=\"other\" specific-use=\"ads\">2017JInst..12P2006A</pub-id><pub-id pub-id-type=\"doi\">10.1088/1748-0221/12/02/P02006</pub-id></element-citation></ref>",
+    "<ref id=\"apjsaca537bib11\"><element-citation publication-type=\"journal\" xlink:type=\"simple\"><person-group person-group-type=\"author\"> <name name-style=\"western\"><surname>Aab</surname><given-names>A.</given-names></name> <name name-style=\"western\"><surname>Abreu</surname><given-names>P.</given-names></name> <name name-style=\"western\"><surname>Aglietta</surname><given-names>M.</given-names></name> <etal/> </person-group><year>2019a</year><source>JCAP</source><volume>10</volume><fpage>022</fpage><pub-id pub-id-type=\"other\" specific-use=\"ads\">2019JCAP...10..022A</pub-id><pub-id pub-id-type=\"doi\">10.1088/1475-7516/2019/10/022</pub-id></element-citation></ref>",
+    "<ref id=\"apjsaca537bib12\"><element-citation publication-type=\"journal\" xlink:type=\"simple\"><person-group person-group-type=\"author\"> <name name-style=\"western\"><surname>Aab</surname><given-names>A.</given-names></name> <name name-style=\"western\"><surname>Abreu</surname><given-names>P.</given-names></name> <name name-style=\"western\"><surname>Aglietta</surname><given-names>M.</given-names></name> <etal/> </person-group><year>2019b</year><source>PhRvD</source><volume>100</volume><elocation-id content-type=\"artnum\">082003</elocation-id><pub-id pub-id-type=\"other\" specific-use=\"ads\">2019PhRvD.100h2003A</pub-id><pub-id pub-id-type=\"doi\">10.1103/PhysRevD.100.082003</pub-id></element-citation></ref>",
+    "<ref id=\"apjsaca537bib13\"><element-citation publication-type=\"journal\" xlink:type=\"simple\"><person-group person-group-type=\"author\"> <name name-style=\"western\"><surname>Aab</surname><given-names>A.</given-names></name> <name name-style=\"western\"><surname>Abreu</surname><given-names>P.</given-names></name> <name name-style=\"western\"><surname>Aglietta</surname><given-names>M.</given-names></name> <etal/> </person-group><year>2020a</year><source>PhRvD</source><volume>102</volume><elocation-id content-type=\"artnum\">062005</elocation-id><pub-id pub-id-type=\"other\" specific-use=\"ads\">2020PhRvD.102f2005A</pub-id><pub-id pub-id-type=\"doi\">10.1103/PhysRevD.102.062005</pub-id></element-citation></ref>",
+    "<ref id=\"apjsaca537bib14\"><element-citation publication-type=\"journal\" xlink:type=\"simple\"><person-group person-group-type=\"author\"> <name name-style=\"western\"><surname>Aab</surname><given-names>A.</given-names></name> <name name-style=\"western\"><surname>Abreu</surname><given-names>P.</given-names></name> <name name-style=\"western\"><surname>Aglietta</surname><given-names>M.</given-names></name> <etal/> </person-group><year>2020b</year><source>JInst</source><volume>15</volume><elocation-id content-type=\"artnum\">P10021</elocation-id><pub-id pub-id-type=\"other\" specific-use=\"ads\">2020JInst..15P0021A</pub-id><pub-id pub-id-type=\"doi\">10.1088/1748-0221/15/10/P10021</pub-id></element-citation></ref>",
+    "<ref id=\"apjsaca537bib15\"><element-citation publication-type=\"journal\" xlink:type=\"simple\"><person-group person-group-type=\"author\"> <name name-style=\"western\"><surname>Abraham</surname><given-names>J.</given-names></name> <name name-style=\"western\"><surname>Abreu</surname><given-names>P.</given-names></name> <name name-style=\"western\"><surname>Aglietta</surname><given-names>M.</given-names></name> <etal/> </person-group><year>2010a</year><source>NIMPA</source><volume>613</volume><fpage>29</fpage><pub-id pub-id-type=\"other\" specific-use=\"ads\">2010NIMPA.613...29A</pub-id><pub-id pub-id-type=\"doi\">10.1016/j.nima.2009.11.018</pub-id></element-citation></ref>",
+    "<ref id=\"apjsaca537bib16\"><element-citation publication-type=\"journal\" xlink:type=\"simple\"><person-group person-group-type=\"author\"> <name name-style=\"western\"><surname>Abraham</surname><given-names>J.</given-names></name> <name name-style=\"western\"><surname>Abreu</surname><given-names>P.</given-names></name> <name name-style=\"western\"><surname>Aglietta</surname><given-names>M.</given-names></name> <etal/> </person-group><year>2010b</year><source>NIMPA</source><volume>620</volume><fpage>227</fpage><pub-id pub-id-type=\"other\" specific-use=\"ads\">2010NIMPA.620..227A</pub-id><pub-id pub-id-type=\"doi\">10.1016/j.nima.2010.04.023</pub-id></element-citation></ref>",
+    "<ref id=\"apjsaca537bib17\"><element-citation publication-type=\"journal\" xlink:type=\"simple\"><person-group person-group-type=\"author\"> <name name-style=\"western\"><surname>Abreu</surname><given-names>P.</given-names></name> <name name-style=\"western\"><surname>Aglietta</surname><given-names>M.</given-names></name> <name name-style=\"western\"><surname>Ahn</surname><given-names>E. J.</given-names></name> <etal/> </person-group><year>2011</year><source>JCAP</source><volume>11</volume><fpage>022</fpage><pub-id pub-id-type=\"other\" specific-use=\"ads\">2011JCAP...11..022P</pub-id><pub-id pub-id-type=\"doi\">10.1088/1475-7516/2011/11/022</pub-id></element-citation></ref>",
+    "<ref id=\"apjsaca537bib18\"><element-citation publication-type=\"journal\" xlink:type=\"simple\"><person-group person-group-type=\"author\"> <name name-style=\"western\"><surname>Abreu</surname><given-names>P.</given-names></name> <name name-style=\"western\"><surname>Aglietta</surname><given-names>M.</given-names></name> <name name-style=\"western\"><surname>Ahlers</surname><given-names>M.</given-names></name> <etal/> </person-group><year>2012</year><source>JInst</source><volume>7</volume><elocation-id content-type=\"artnum\">P09001</elocation-id><pub-id pub-id-type=\"other\" specific-use=\"ads\">2012JInst...7P0011A</pub-id><pub-id pub-id-type=\"doi\">10.1088/1748-0221/7/10/P10011</pub-id></element-citation></ref>",
+    "<ref id=\"apjsaca537bib19\"><element-citation publication-type=\"journal\" xlink:type=\"simple\"><person-group person-group-type=\"author\"> <name name-style=\"western\"><surname>Abreu</surname><given-names>P.</given-names></name> <name name-style=\"western\"><surname>Aglietta</surname><given-names>M.</given-names></name> <name name-style=\"western\"><surname>Albury</surname><given-names>J. M.</given-names></name> <etal/> </person-group><year>2022</year><source>ApJ</source><volume>935</volume><fpage>170</fpage><pub-id pub-id-type=\"other\" specific-use=\"ads\">2022ApJ...935..170A</pub-id><pub-id pub-id-type=\"doi\">10.3847/1538-4357/ac7d4e</pub-id></element-citation></ref>",
+    "<ref id=\"apjsaca537bib20\"><element-citation publication-type=\"journal\" xlink:type=\"simple\"><person-group person-group-type=\"author\"> <name name-style=\"western\"><surname>Alves Batista</surname><given-names>R.</given-names></name> <name name-style=\"western\"><surname>Biteau</surname><given-names>J.</given-names></name> <name name-style=\"western\"><surname>Bustamante</surname><given-names>M.</given-names></name> <etal/> </person-group><year>2019</year><source>FrASS</source><volume>6</volume><fpage>23</fpage><pub-id pub-id-type=\"other\" specific-use=\"ads\">2019FrASS...6...23B</pub-id><pub-id pub-id-type=\"doi\">10.3389/fspas.2019.00023</pub-id></element-citation></ref>",
+    "<ref id=\"apjsaca537bib21\"><element-citation publication-type=\"journal\" xlink:type=\"simple\"><person-group person-group-type=\"author\"> <name name-style=\"western\"><surname>Andringa</surname><given-names>S.</given-names></name> <name name-style=\"western\"><surname>Conceicao</surname><given-names>R.</given-names></name> <name name-style=\"western\"><surname>Pimenta</surname><given-names>M.</given-names></name> </person-group><year>2011</year><source>APh</source><volume>34</volume><fpage>360</fpage><pub-id pub-id-type=\"other\" specific-use=\"ads\">2011APh....34..360A</pub-id><pub-id pub-id-type=\"doi\">10.1016/j.astropartphys.2010.10.002</pub-id></element-citation></ref>",
+    "<ref id=\"apjsaca537bib22\"><element-citation publication-type=\"journal\" xlink:type=\"simple\"><person-group person-group-type=\"author\"> <name name-style=\"western\"><surname>Ave</surname><given-names>M.</given-names></name> <name name-style=\"western\"><surname>Hinton</surname><given-names>J. A.</given-names></name> <name name-style=\"western\"><surname>Vazquez</surname><given-names>R. A.</given-names></name> <name name-style=\"western\"><surname>Watson</surname><given-names>A. A.</given-names></name> <name name-style=\"western\"><surname>Zas</surname><given-names>E.</given-names></name> </person-group><year>2000</year><source>PhRvL</source><volume>85</volume><fpage>2244</fpage><pub-id pub-id-type=\"other\" specific-use=\"ads\">2000PhRvL..85.2244A</pub-id><pub-id pub-id-type=\"doi\">10.1103/PhysRevLett.85.2244</pub-id></element-citation></ref>",
+    "<ref id=\"apjsaca537bib23\"><element-citation publication-type=\"journal\" xlink:type=\"simple\"><person-group person-group-type=\"author\"> <name name-style=\"western\"><surname>Ave</surname><given-names>M.</given-names></name> <name name-style=\"western\"><surname>Bohacova</surname><given-names>M.</given-names></name> <name name-style=\"western\"><surname>Curry</surname><given-names>E.</given-names></name> <etal/> </person-group><year>2013</year><source>APh</source><volume>42</volume><fpage>90</fpage><pub-id pub-id-type=\"other\" specific-use=\"ads\">2013APh....42...90A</pub-id><pub-id pub-id-type=\"doi\">10.1016/j.astropartphys.2012.12.006</pub-id></element-citation></ref>",
+    "<ref id=\"apjsaca537bib24\"><element-citation publication-type=\"journal\" xlink:type=\"simple\"><person-group person-group-type=\"author\"> <name name-style=\"western\"><surname>Bonifazi</surname><given-names>C.</given-names></name> </person-group><year>2009</year><source>NuPhS</source><volume>190</volume><fpage>20</fpage><pub-id pub-id-type=\"other\" specific-use=\"ads\">2009NuPhS.190...20B</pub-id><pub-id pub-id-type=\"doi\">10.1016/j.nuclphysbps.2009.03.063</pub-id></element-citation></ref>",
+    "<ref id=\"apjsaca537bib25\"><element-citation publication-type=\"journal\" xlink:type=\"simple\"><person-group person-group-type=\"author\"> <name name-style=\"western\"><surname>Coleman</surname><given-names>A.</given-names></name> <name name-style=\"western\"><surname>Eser</surname><given-names>J.</given-names></name> <name name-style=\"western\"><surname>Mayotte</surname><given-names>E.</given-names></name> <etal/> </person-group><year>2023</year><source>APh</source><volume>147</volume><fpage>102794</fpage><pub-id pub-id-type=\"other\" specific-use=\"ads\">2023APh...14702794C</pub-id><pub-id pub-id-type=\"doi\">10.1016/j.astropartphys.2022.102794</pub-id></element-citation></ref>",
+    "<ref id=\"apjsaca537bib26\"><element-citation publication-type=\"journal\" xlink:type=\"simple\"><person-group person-group-type=\"author\"> <name name-style=\"western\"><surname>Dawson</surname><given-names>B.</given-names></name> </person-group><year>2020</year><source>ICRC (Madison)</source><volume>36</volume><fpage>231</fpage><pub-id pub-id-type=\"other\" specific-use=\"ads\">2019ICRC...36..231D</pub-id><pub-id pub-id-type=\"doi\">10.22323/1.358.0231</pub-id></element-citation></ref>",
+    "<ref id=\"apjsaca537bib27\"><element-citation publication-type=\"journal\" xlink:type=\"simple\"><person-group person-group-type=\"author\"> <name name-style=\"western\"><surname>Dembinski</surname><given-names>H.</given-names></name> <name name-style=\"western\"><surname>Billoir</surname><given-names>P.</given-names></name> <name name-style=\"western\"><surname>Deligny</surname><given-names>O.</given-names></name> <name name-style=\"western\"><surname>Hebbeker</surname><given-names>T.</given-names></name> </person-group><year>2010</year><source>APh</source><volume>34</volume><fpage>128</fpage><pub-id pub-id-type=\"other\" specific-use=\"ads\">2010APh....34..128D</pub-id><pub-id pub-id-type=\"doi\">10.1016/j.astropartphys.2010.06.006</pub-id></element-citation></ref>",
+    "<ref id=\"apjsaca537bib28\"><element-citation publication-type=\"journal\" xlink:type=\"simple\"><person-group person-group-type=\"author\"> <name name-style=\"western\"><surname>Gaisser</surname><given-names>T. K.</given-names></name> <name name-style=\"western\"><surname>Hillas</surname><given-names>A. M.</given-names></name> </person-group><year>1977</year><source>ICRC (Plovdiv)</source><volume>8</volume><fpage>353</fpage><pub-id pub-id-type=\"other\" specific-use=\"ads\">1977ICRC....8..353G</pub-id></element-citation></ref>",
+    "<ref id=\"apjsaca537bib29\"><element-citation publication-type=\"book\" xlink:type=\"simple\"><person-group person-group-type=\"author\"> <name name-style=\"western\"><surname>Galbraith</surname><given-names>W.</given-names></name> </person-group><year>1958</year><source>Extensive Air Showers</source><publisher-loc>Oxford</publisher-loc><publisher-name>Butterworths</publisher-name><fpage>185</fpage></element-citation></ref>",
+    "<ref id=\"apjsaca537bib30\"><element-citation publication-type=\"book\" xlink:type=\"simple\"><person-group person-group-type=\"author\"> <name name-style=\"western\"><surname>Greisen</surname><given-names>K.</given-names></name> </person-group><year>1956</year><source>Progress in Cosmic Ray Physics</source><volume>Vol. 3</volume><publisher-loc>Amsterdam</publisher-loc><publisher-name>North-Holland Publishing</publisher-name><fpage>1</fpage></element-citation></ref>",
+    "<ref id=\"apjsaca537bib31\"><element-citation publication-type=\"journal\" xlink:type=\"simple\"><person-group person-group-type=\"author\"> <name name-style=\"western\"><surname>Greisen</surname><given-names>K.</given-names></name> </person-group><year>1960</year><source>ARNPS</source><volume>10</volume><fpage>63</fpage><pub-id pub-id-type=\"other\" specific-use=\"ads\">1960ARNPS..10...63G</pub-id><pub-id pub-id-type=\"doi\">10.1146/annurev.ns.10.120160.000431</pub-id></element-citation></ref>",
+    "<ref id=\"apjsaca537bib32\"><element-citation publication-type=\"journal\" xlink:type=\"simple\"><person-group person-group-type=\"author\"> <name name-style=\"western\"><surname>Hillas</surname><given-names>A. M.</given-names></name> </person-group><year>1977</year><source>Acta Phys. Acad. Sci. Hung. Suppl</source><volume>29</volume><fpage>355</fpage><pub-id pub-id-type=\"doi\">10.1007/BF01895856</pub-id></element-citation></ref>",
+    "<ref id=\"apjsaca537bib33\"><element-citation publication-type=\"journal\" xlink:type=\"simple\"><person-group person-group-type=\"author\"> <name name-style=\"western\"><surname>Hillas</surname><given-names>A. M.</given-names></name> <name name-style=\"western\"><surname>Hollows</surname><given-names>J.</given-names></name> <name name-style=\"western\"><surname>Hunter</surname><given-names>H.</given-names></name> </person-group><year>1971</year><source>ICRC (Hobart)</source><volume>3</volume><fpage>1001</fpage><pub-id pub-id-type=\"other\" specific-use=\"ads\">1971ICRC...12.1001H</pub-id></element-citation></ref>",
+    "<ref id=\"apjsaca537bib34\"><element-citation publication-type=\"journal\" xlink:type=\"simple\"><person-group person-group-type=\"author\"> <name name-style=\"western\"><surname>Kamata</surname><given-names>K.</given-names></name> <name name-style=\"western\"><surname>Nishimura</surname><given-names>J.</given-names></name> </person-group><year>1958</year><source>PThPS</source><volume>6</volume><fpage>93</fpage><pub-id pub-id-type=\"other\" specific-use=\"ads\">1958PThPS...6...93K</pub-id><pub-id pub-id-type=\"doi\">10.1143/PTPS.6.93</pub-id></element-citation></ref>",
+    "<ref id=\"apjsaca537bib35\"><element-citation publication-type=\"journal\" xlink:type=\"simple\"><person-group person-group-type=\"author\"> <name name-style=\"western\"><surname>Linsley</surname><given-names>J.</given-names></name> <name name-style=\"western\"><surname>Scarsi</surname><given-names>L.</given-names></name> </person-group><year>1962</year><source>PhRv</source><volume>128</volume><fpage>2384</fpage><pub-id pub-id-type=\"other\" specific-use=\"ads\">1962PhRv..128.2384L</pub-id><pub-id pub-id-type=\"doi\">10.1103/PhysRev.128.2384</pub-id></element-citation></ref>",
+    "<ref id=\"apjsaca537bib36\"><element-citation publication-type=\"journal\" xlink:type=\"simple\"><person-group person-group-type=\"author\"> <name name-style=\"western\"><surname>Luce</surname><given-names>Q.</given-names></name> <name name-style=\"western\"><surname>Roth</surname><given-names>M.</given-names></name> <name name-style=\"western\"><surname>Schmidt</surname><given-names>D.</given-names></name> <name name-style=\"western\"><surname>Veberic</surname><given-names>D.</given-names></name> </person-group><year>2022</year><source>ICRC (Berlin)</source><volume>37</volume><fpage>435</fpage><pub-id pub-id-type=\"other\" specific-use=\"ads\">2022icrc.confE.435L</pub-id><pub-id pub-id-type=\"doi\">10.22323/1.395.0435</pub-id></element-citation></ref>",
+    "<ref id=\"apjsaca537bib37\"><element-citation publication-type=\"journal\" xlink:type=\"simple\"><person-group person-group-type=\"author\"> <name name-style=\"western\"><surname>Mollerach</surname><given-names>S.</given-names></name> <name name-style=\"western\"><surname>Roulet</surname><given-names>E.</given-names></name> </person-group><year>2018</year><source>PrPNP</source><volume>98</volume><fpage>85</fpage><pub-id pub-id-type=\"other\" specific-use=\"ads\">2018PrPNP..98...85M</pub-id><pub-id pub-id-type=\"doi\">10.1016/j.ppnp.2017.10.002</pub-id></element-citation></ref>",
+    "<ref id=\"apjsaca537bib38\"><element-citation publication-type=\"journal\" xlink:type=\"simple\"><person-group person-group-type=\"author\"> <name name-style=\"western\"><surname>Mostaf\u00e1</surname><given-names>M. A.</given-names></name> </person-group><year>2005</year><source>ICRC (Pune)</source><volume>29</volume><fpage>369</fpage><pub-id pub-id-type=\"other\" specific-use=\"ads\">2005ICRC....7..369M</pub-id></element-citation></ref>",
+    "<ref id=\"apjsaca537bib39\"><element-citation publication-type=\"journal\" xlink:type=\"simple\"><person-group person-group-type=\"author\"> <name name-style=\"western\"><surname>Newton</surname><given-names>D.</given-names></name> <name name-style=\"western\"><surname>Knapp</surname><given-names>J.</given-names></name> <name name-style=\"western\"><surname>Watson</surname><given-names>A.</given-names></name> </person-group><year>2007</year><source>APh</source><volume>26</volume><fpage>414</fpage><pub-id pub-id-type=\"other\" specific-use=\"ads\">2007APh....26..414N</pub-id><pub-id pub-id-type=\"doi\">10.1016/j.astropartphys.2006.08.003</pub-id></element-citation></ref>",
+    "<ref id=\"apjsaca537bib40\"><element-citation publication-type=\"thesis\" xlink:type=\"simple\"><person-group person-group-type=\"author\"> <name name-style=\"western\"><surname>Schmidt</surname><given-names>T.</given-names></name> </person-group><year>2010</year><source>PhD thesis</source><institution xlink:type=\"simple\">Karlsruhe Institute of Technology</institution></element-citation></ref>",
+    "<ref id=\"apjsaca537bib41\"><element-citation publication-type=\"journal\" xlink:type=\"simple\"><person-group person-group-type=\"author\"> <name name-style=\"western\"><surname>Unger</surname><given-names>M.</given-names></name> <name name-style=\"western\"><surname>Dawson</surname><given-names>B. R.</given-names></name> <name name-style=\"western\"><surname>Engel</surname><given-names>R.</given-names></name> <name name-style=\"western\"><surname>Schussler</surname><given-names>F.</given-names></name> <name name-style=\"western\"><surname>Ulrich</surname><given-names>R.</given-names></name> </person-group><year>2008</year><source>NIMPA</source><volume>588</volume><fpage>433</fpage><pub-id pub-id-type=\"other\" specific-use=\"ads\">2008NIMPA.588..433U</pub-id><pub-id pub-id-type=\"doi\">10.1016/j.nima.2008.01.100</pub-id></element-citation></ref>",
+    "<ref id=\"apjsaca537bib42\"><element-citation publication-type=\"journal\" xlink:type=\"simple\"><person-group person-group-type=\"author\"> <name name-style=\"western\"><surname>Vali\u00f1o</surname><given-names>I.</given-names></name> <name name-style=\"western\"><surname>Alvarez-Mu\u00f1iz</surname><given-names>J.</given-names></name> <name name-style=\"western\"><surname>Roth</surname><given-names>M.</given-names></name> <name name-style=\"western\"><surname>Vazquez</surname><given-names>R. A.</given-names></name> <name name-style=\"western\"><surname>Zas</surname><given-names>E.</given-names></name> </person-group><year>2010</year><source>APh</source><volume>32</volume><fpage>304</fpage><pub-id pub-id-type=\"other\" specific-use=\"ads\">2010APh....32..304V</pub-id><pub-id pub-id-type=\"doi\">10.1016/j.astropartphys.2009.09.008</pub-id></element-citation></ref>",
+    "<ref id=\"apjsaca537bib43\"><element-citation publication-type=\"journal\" xlink:type=\"simple\"><person-group person-group-type=\"author\"> <name name-style=\"western\"><surname>Yushkov</surname><given-names>A.</given-names></name> </person-group><year>2019</year><source>ICRC (Madison)</source><volume>36</volume><fpage>482</fpage><pub-id pub-id-type=\"other\" specific-use=\"ads\">2019ICRC...36..482Y</pub-id><pub-id pub-id-type=\"doi\">10.22323/1.358.0482</pub-id></element-citation></ref>"
+  ],
+  "title": {
+    "textEnglish": "A Catalog of the Highest-energy Cosmic Rays Recorded during Phase I of Operation of the Pierre Auger Observatory"
+  }
+}

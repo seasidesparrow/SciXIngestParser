@@ -1,0 +1,862 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doi_records>
+  <doi_record owner="10.1051" timestamp="2022-11-09 03:59:15">
+    <crossref>
+      <journal>
+        <journal_metadata>
+          <full_title>Astronomy &amp; Astrophysics</full_title>
+          <abbrev_title>A&amp;A</abbrev_title>
+          <issn media_type="print">0004-6361</issn>
+          <issn media_type="electronic">1432-0746</issn>
+        </journal_metadata>
+        <journal_issue>
+          <publication_date>
+            <month>11</month>
+            <year>2022</year>
+          </publication_date>
+          <journal_volume>
+            <volume>667</volume>
+          </journal_volume>
+        </journal_issue>
+        <journal_article publication_type="full_text" language="en">
+          <titles>
+            <title>3D simulations of AGB stellar winds</title>
+            <subtitle>I. Steady winds and dust formation</subtitle>
+          </titles>
+          <contributors>
+            <person_name sequence="first" contributor_role="author">
+              <given_name>L.</given_name>
+              <surname>Siess</surname>
+              <ORCID>http://orcid.org/0000-0001-6008-1103</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>W.</given_name>
+              <surname>Homan</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>S.</given_name>
+              <surname>Toupin</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>D. J.</given_name>
+              <surname>Price</surname>
+              <ORCID>http://orcid.org/0000-0002-4716-4235</ORCID>
+            </person_name>
+          </contributors>
+          <abstract lang="en">
+            <p>
+              <italic>Aims.</italic>
+              We present the implementation of the treatment of particle ejection and dust nucleation in the smoothed particle hydrodynamics (SPH) code P
+              <sc>HANTOM</sc>
+              . These developments represent the first step toward a more complete modeling of dust-driven winds emanating from asymptotic giant branch (AGB) stars that can be used for comparison with high resolution imaging of these stars.
+            </p>
+            <p>
+              <italic>Methods.</italic>
+              The AGB outflow is modeled by injecting the SPH particles from a spherical inner boundary. This boundary is a series of concentric shells, with the AGB star at its center, and the particles are positioned on these shells on the vertices of an isocahedron geodesic surface. The outermost shell is ejected with a predefined radial velocity, and subsequent lower shells replenish the ejected ones, all rotated randomly to improve the isotropy of the outflow. The physical properties of the particles on these shells are set by solving the 1D analytic steady wind equations. The formation of dust is calculated starting from a compact chemical network for carbon-rich material, which creates the building blocks of the solid-state particles. Subsequently, the theory of the moments is used to obtain dust growth rates, without requiring knowledge on the grain size distribution.
+            </p>
+            <p>
+              <italic>Results.</italic>
+              We tested our implementation against a series of 1D reference solutions. We demonstrate that our method is able to reproduce Parker-type wind solutions. For the trans-sonic solution, small oscillations are present in the vicinity of the sonic point, but these do not impact the trans-sonic passage or terminal wind velocity. Supersonic solutions always compare nicely with 1D analytic profiles. We also tested our implementation of dust using two formalisms: an analytic prescription for the opacity devised by Bowen and the full treatment of carbon-dust formation. Both simulations reproduce the 1D analytic solution displaying the expected additional acceleration when the gas temperature falls below the condensation temperature.
+            </p>
+          </abstract>
+          <publication_date media_type="online">
+            <month>11</month>
+            <day>09</day>
+            <year>2022</year>
+          </publication_date>
+          <publication_date media_type="print">
+            <month>11</month>
+            <year>2022</year>
+          </publication_date>
+          <acceptance_date media_type="online">
+            <month>08</month>
+            <day>12</day>
+            <year>2022</year>
+          </acceptance_date>
+          <pages>
+            <first_page>A75</first_page>
+          </pages>
+          <publisher_item>
+            <identifier id_type="pii">aa43540-22</identifier>
+          </publisher_item>
+          <program name="AccessIndicators">
+            <free_to_read start_date="2022-11-09" />
+            <license_ref applies_to="vor" start_date="2022-11-09">https://creativecommons.org/licenses/by/4.0</license_ref>
+          </program>
+          <doi_data>
+            <doi>10.1051/0004-6361/202243540</doi>
+            <resource>https://www.aanda.org/10.1051/0004-6361/202243540</resource>
+            <collection property="crawler-based">
+              <item crawler="iParadigms">
+                <resource>https://www.aanda.org/10.1051/0004-6361/202243540/pdf</resource>
+              </item>
+            </collection>
+          </doi_data>
+          <citation_list>
+            <citation key="R1">
+              <journal_title>MNRAS</journal_title>
+              <author>Altay</author>
+              <volume>434</volume>
+              <first_page>748</first_page>
+              <cYear>2013</cYear>
+              <doi provider="crossref">10.1093/mnras/stt1067</doi>
+            </citation>
+            <citation key="R2">
+              <journal_title>A&amp;A</journal_title>
+              <author>Andersen</author>
+              <volume>400</volume>
+              <first_page>981</first_page>
+              <cYear>2003</cYear>
+              <doi provider="crossref">10.1051/0004-6361:20030036</doi>
+            </citation>
+            <citation key="R3">
+              <journal_title>MNRAS</journal_title>
+              <author>Aubert</author>
+              <volume>387</volume>
+              <first_page>295</first_page>
+              <cYear>2008</cYear>
+              <doi provider="crossref">10.1111/j.1365-2966.2008.13223.x</doi>
+            </citation>
+            <citation key="R4">
+              <journal_title>MNRAS</journal_title>
+              <author>Aydi</author>
+              <volume>513</volume>
+              <first_page>4405</first_page>
+              <cYear>2022</cYear>
+              <doi provider="crossref">10.1093/mnras/stac749</doi>
+            </citation>
+            <citation key="R5">
+              <journal_title>MNRAS</journal_title>
+              <author>Bate</author>
+              <volume>277</volume>
+              <first_page>362</first_page>
+              <cYear>1995</cYear>
+              <doi provider="crossref">10.1093/mnras/277.2.362</doi>
+            </citation>
+            <citation key="R6">
+              <journal_title>MNRAS</journal_title>
+              <author>Bermúdez-Bustamante</author>
+              <volume>493</volume>
+              <first_page>2606</first_page>
+              <cYear>2020</cYear>
+              <doi provider="crossref">10.1093/mnras/staa403</doi>
+            </citation>
+            <citation key="R7">
+              <journal_title>A&amp;A</journal_title>
+              <author>Bladh</author>
+              <volume>575</volume>
+              <first_page>A105</first_page>
+              <cYear>2015</cYear>
+              <doi provider="crossref">10.1051/0004-6361/201424917</doi>
+            </citation>
+            <citation key="R8">
+              <journal_title>A&amp;A</journal_title>
+              <author>Bladh</author>
+              <volume>626</volume>
+              <first_page>A100</first_page>
+              <cYear>2019</cYear>
+              <doi provider="crossref">10.1051/0004-6361/201935366</doi>
+            </citation>
+            <citation key="R9">
+              <unstructured_citation>Bohren C. F., &amp; Huffman D. R. 1983, Absorption and Scattering of Light by Small Particles (New York: Wiley)</unstructured_citation>
+            </citation>
+            <citation key="R10">
+              <journal_title>MNRAS</journal_title>
+              <author>Boulangier</author>
+              <volume>482</volume>
+              <first_page>5052</first_page>
+              <cYear>2018</cYear>
+              <doi provider="crossref">10.1093/mnras/sty2560</doi>
+            </citation>
+            <citation key="R11">
+              <journal_title>ApJ</journal_title>
+              <author>Bowen</author>
+              <volume>329</volume>
+              <first_page>299</first_page>
+              <cYear>1988</cYear>
+              <doi provider="crossref">10.1086/166378</doi>
+            </citation>
+            <citation key="R12">
+              <journal_title>MNRAS</journal_title>
+              <author>Chan</author>
+              <volume>505</volume>
+              <first_page>5784</first_page>
+              <cYear>2021</cYear>
+              <doi provider="crossref">10.1093/mnras/stab1686</doi>
+            </citation>
+            <citation key="R13">
+              <unstructured_citation>Chase M. W. 1986, in NIST-JANAF Thermochemical Tables, 4th edn. (New York: American Chemical Society and American Institute of Physics for the National Bureau of Standards and Technology), Monograph, 9</unstructured_citation>
+            </citation>
+            <citation key="R14">
+              <journal_title>MNRAS</journal_title>
+              <author>Chen</author>
+              <volume>473</volume>
+              <first_page>747</first_page>
+              <cYear>2018</cYear>
+              <doi provider="crossref">10.1093/mnras/stx2335</doi>
+            </citation>
+            <citation key="R15">
+              <journal_title>ApJ</journal_title>
+              <author>Chen</author>
+              <volume>892</volume>
+              <first_page>110</first_page>
+              <cYear>2020</cYear>
+              <doi provider="crossref">10.3847/1538-4357/ab7b6e</doi>
+            </citation>
+            <citation key="R16">
+              <journal_title>MNRAS</journal_title>
+              <author>de Val-Borro</author>
+              <volume>468</volume>
+              <first_page>3408</first_page>
+              <cYear>2017</cYear>
+              <doi provider="crossref">10.1093/mnras/stx684</doi>
+            </citation>
+            <citation key="R17">
+              <journal_title>A&amp;A</journal_title>
+              <author>Dorfi</author>
+              <volume>248</volume>
+              <first_page>105</first_page>
+              <cYear>1991</cYear>
+            </citation>
+            <citation key="R18">
+              <journal_title>ApJ</journal_title>
+              <author>Draine</author>
+              <volume>245</volume>
+              <first_page>880</first_page>
+              <cYear>1981</cYear>
+              <doi provider="crossref">10.1086/158864</doi>
+            </citation>
+            <citation key="R19">
+              <journal_title>J. Chem. Phys.</journal_title>
+              <author>Draine</author>
+              <volume>67</volume>
+              <first_page>2230</first_page>
+              <cYear>1977</cYear>
+              <doi provider="crossref">10.1063/1.435116</doi>
+            </citation>
+            <citation key="R20">
+              <journal_title>A&amp;A</journal_title>
+              <author>El Mellah</author>
+              <volume>637</volume>
+              <first_page>A91</first_page>
+              <cYear>2020</cYear>
+              <doi provider="crossref">10.1051/0004-6361/202037492</doi>
+            </citation>
+            <citation key="R21">
+              <journal_title>Rev. Mex. Astron. Astrofis.</journal_title>
+              <author>Ferland</author>
+              <volume>49</volume>
+              <first_page>137</first_page>
+              <cYear>2013</cYear>
+            </citation>
+            <citation key="R22">
+              <journal_title>A&amp;A</journal_title>
+              <author>Ferrarotti</author>
+              <volume>382</volume>
+              <first_page>256</first_page>
+              <cYear>2002</cYear>
+              <doi provider="crossref">10.1051/0004-6361:20011580</doi>
+            </citation>
+            <citation key="R23">
+              <journal_title>A&amp;A</journal_title>
+              <author>Fleischer</author>
+              <volume>266</volume>
+              <first_page>321</first_page>
+              <cYear>1992</cYear>
+            </citation>
+            <citation key="R24">
+              <unstructured_citation>Forsythe W. E. 2003, Smithsonian Physical Tables, 9th edn. (Norwich, New York: Knovel)</unstructured_citation>
+            </citation>
+            <citation key="R25">
+              <journal_title>A&amp;A</journal_title>
+              <author>Freytag</author>
+              <volume>600</volume>
+              <first_page>A137</first_page>
+              <cYear>2017</cYear>
+              <doi provider="crossref">10.1051/0004-6361/201629594</doi>
+            </citation>
+            <citation key="R26">
+              <journal_title>A&amp;A</journal_title>
+              <author>Gail</author>
+              <volume>148</volume>
+              <first_page>183</first_page>
+              <cYear>1985</cYear>
+            </citation>
+            <citation key="R27">
+              <journal_title>A&amp;A</journal_title>
+              <author>Gail</author>
+              <volume>171</volume>
+              <first_page>197</first_page>
+              <cYear>1987</cYear>
+            </citation>
+            <citation key="R28">
+              <journal_title>A&amp;A</journal_title>
+              <author>Gail</author>
+              <volume>177</volume>
+              <first_page>186</first_page>
+              <cYear>1987</cYear>
+            </citation>
+            <citation key="R29">
+              <journal_title>A&amp;A</journal_title>
+              <author>Gail</author>
+              <volume>206</volume>
+              <first_page>153</first_page>
+              <cYear>1988</cYear>
+            </citation>
+            <citation key="R30">
+              <doi provider="crossref">10.1017/CBO9780511985607</doi>
+              <unstructured_citation>Gail H. P., &amp; Sedlmayr E. 2014, in Physics and Chemistry of Circumstellar Dust Shells, (New York: Cambridge University Press), Cambridge Astrophysics Series, 52</unstructured_citation>
+            </citation>
+            <citation key="R31">
+              <journal_title>A&amp;A</journal_title>
+              <author>Gail</author>
+              <volume>133</volume>
+              <first_page>320</first_page>
+              <cYear>1984</cYear>
+            </citation>
+            <citation key="R32">
+              <journal_title>A&amp;A</journal_title>
+              <author>Gauger</author>
+              <volume>235</volume>
+              <first_page>345</first_page>
+              <cYear>1990</cYear>
+            </citation>
+            <citation key="R33">
+              <journal_title>New A</journal_title>
+              <author>Gnedin</author>
+              <volume>6</volume>
+              <first_page>437</first_page>
+              <cYear>2001</cYear>
+              <doi provider="crossref">10.1016/S1384-1076(01)00068-9</doi>
+            </citation>
+            <citation key="R34">
+              <journal_title>MNRAS</journal_title>
+              <author>Grassi</author>
+              <volume>439</volume>
+              <first_page>2386</first_page>
+              <cYear>2014</cYear>
+              <doi provider="crossref">10.1093/mnras/stu114</doi>
+            </citation>
+            <citation key="R35">
+              <journal_title>MNRAS</journal_title>
+              <author>Hasegawa</author>
+              <volume>407</volume>
+              <first_page>2632</first_page>
+              <cYear>2010</cYear>
+              <doi provider="crossref">10.1111/j.1365-2966.2010.17100.x</doi>
+            </citation>
+            <citation key="R36">
+              <journal_title>PASA</journal_title>
+              <author>Haworth</author>
+              <volume>33</volume>
+              <first_page>e053</first_page>
+              <cYear>2016</cYear>
+              <doi provider="crossref">10.1017/pasa.2016.45</doi>
+            </citation>
+            <citation key="R37">
+              <journal_title>A&amp;A</journal_title>
+              <author>Höfner</author>
+              <volume>491</volume>
+              <first_page>L1</first_page>
+              <cYear>2008</cYear>
+              <doi provider="crossref">10.1051/0004-6361:200810641</doi>
+            </citation>
+            <citation key="R38">
+              <journal_title>A&amp;A</journal_title>
+              <author>Höfner</author>
+              <volume>265</volume>
+              <first_page>207</first_page>
+              <cYear>1992</cYear>
+            </citation>
+            <citation key="R39">
+              <journal_title>A&amp;A</journal_title>
+              <author>Höfner</author>
+              <volume>623</volume>
+              <first_page>A158</first_page>
+              <cYear>2019</cYear>
+              <doi provider="crossref">10.1051/0004-6361/201834799</doi>
+            </citation>
+            <citation key="R40">
+              <journal_title>A&amp;A</journal_title>
+              <author>Höfner</author>
+              <volume>297</volume>
+              <first_page>815</first_page>
+              <cYear>1995</cYear>
+            </citation>
+            <citation key="R41">
+              <journal_title>A&amp;A</journal_title>
+              <author>Höfner</author>
+              <volume>399</volume>
+              <first_page>589</first_page>
+              <cYear>2003</cYear>
+              <doi provider="crossref">10.1051/0004-6361:20021757</doi>
+            </citation>
+            <citation key="R42">
+              <journal_title>A&amp;A</journal_title>
+              <author>Homan</author>
+              <volume>644</volume>
+              <first_page>A61</first_page>
+              <cYear>2020</cYear>
+              <doi provider="crossref">10.1051/0004-6361/202039185</doi>
+            </citation>
+            <citation key="R43">
+              <journal_title>A&amp;A</journal_title>
+              <author>Homan</author>
+              <volume>651</volume>
+              <first_page>A82</first_page>
+              <cYear>2021</cYear>
+              <doi provider="crossref">10.1051/0004-6361/202140512</doi>
+            </citation>
+            <citation key="R44">
+              <journal_title>MNRAS</journal_title>
+              <author>Hutchison</author>
+              <volume>476</volume>
+              <first_page>2186</first_page>
+              <cYear>2018</cYear>
+              <doi provider="crossref">10.1093/mnras/sty367</doi>
+            </citation>
+            <citation key="R45">
+              <journal_title>MNRAS</journal_title>
+              <author>Iliev</author>
+              <volume>371</volume>
+              <first_page>1057</first_page>
+              <cYear>2006</cYear>
+              <doi provider="crossref">10.1111/j.1365-2966.2006.10775.x</doi>
+            </citation>
+            <citation key="R46">
+              <journal_title>MNRAS</journal_title>
+              <author>Iliev</author>
+              <volume>400</volume>
+              <first_page>1283</first_page>
+              <cYear>2009</cYear>
+              <doi provider="crossref">10.1111/j.1365-2966.2009.15558.x</doi>
+            </citation>
+            <citation key="R47">
+              <journal_title>A&amp;A</journal_title>
+              <author>Jahanara</author>
+              <volume>441</volume>
+              <first_page>589</first_page>
+              <cYear>2005</cYear>
+              <doi provider="crossref">10.1051/0004-6361:20052828</doi>
+            </citation>
+            <citation key="R48">
+              <journal_title>A&amp;A</journal_title>
+              <author>Jeong</author>
+              <volume>407</volume>
+              <first_page>191</first_page>
+              <cYear>2003</cYear>
+              <doi provider="crossref">10.1051/0004-6361:20030693</doi>
+            </citation>
+            <citation key="R49">
+              <doi provider="crossref">10.1007/978-1-4757-3876-6_9</doi>
+              <unstructured_citation>Jorissen A. 2003, in Asymptotic giant branch stars, eds. Habing H. J., &amp; Olofsson H. (Berlin: Springer), Astron. Astrophys. Lib., 461</unstructured_citation>
+            </citation>
+            <citation key="R50">
+              <journal_title>A&amp;AS</journal_title>
+              <author>Jorissen</author>
+              <volume>129</volume>
+              <first_page>363</first_page>
+              <cYear>1998</cYear>
+              <doi provider="crossref">10.1051/aas:1998192</doi>
+            </citation>
+            <citation key="R51">
+              <journal_title>A&amp;A</journal_title>
+              <author>Kervella</author>
+              <volume>596</volume>
+              <first_page>A92</first_page>
+              <cYear>2016</cYear>
+              <doi provider="crossref">10.1051/0004-6361/201629877</doi>
+            </citation>
+            <citation key="R52">
+              <journal_title>MNRAS</journal_title>
+              <author>Kessel-Deynet</author>
+              <volume>315</volume>
+              <first_page>713</first_page>
+              <cYear>2000</cYear>
+              <doi provider="crossref">10.1046/j.1365-8711.2000.03451.x</doi>
+            </citation>
+            <citation key="R53">
+              <journal_title>ApJ</journal_title>
+              <author>Kim</author>
+              <volume>759</volume>
+              <first_page>L22</first_page>
+              <cYear>2012</cYear>
+              <doi provider="crossref">10.1088/2041-8205/759/1/L22</doi>
+            </citation>
+            <citation key="R54">
+              <journal_title>A&amp;A</journal_title>
+              <author>Krüger</author>
+              <volume>321</volume>
+              <first_page>557</first_page>
+              <cYear>1997</cYear>
+            </citation>
+            <citation key="R55">
+              <journal_title>A&amp;A</journal_title>
+              <author>Krüger</author>
+              <volume>290</volume>
+              <first_page>573</first_page>
+              <cYear>1994</cYear>
+            </citation>
+            <citation key="R56">
+              <journal_title>MNRAS</journal_title>
+              <author>Laibe</author>
+              <volume>420</volume>
+              <first_page>2345</first_page>
+              <cYear>2012</cYear>
+              <doi provider="crossref">10.1111/j.1365-2966.2011.20202.x</doi>
+            </citation>
+            <citation key="R57">
+              <journal_title>MNRAS</journal_title>
+              <author>Laibe</author>
+              <volume>440</volume>
+              <first_page>2147</first_page>
+              <cYear>2014</cYear>
+              <doi provider="crossref">10.1093/mnras/stu359</doi>
+            </citation>
+            <citation key="R58">
+              <journal_title>MNRAS</journal_title>
+              <author>Laibe</author>
+              <volume>444</volume>
+              <first_page>1940</first_page>
+              <cYear>2014</cYear>
+              <doi provider="crossref">10.1093/mnras/stu1367</doi>
+            </citation>
+            <citation key="R59">
+              <doi provider="crossref">10.1017/CBO9781139175012</doi>
+              <unstructured_citation>Lamers H. J. G. L. M., &amp; Cassinelli J. P. 1999, Introduction to Stellar Winds (Cambridge University Press), 452</unstructured_citation>
+            </citation>
+            <citation key="R60">
+              <journal_title>ApJ</journal_title>
+              <author>Liu</author>
+              <volume>846</volume>
+              <first_page>117</first_page>
+              <cYear>2017</cYear>
+              <doi provider="crossref">10.3847/1538-4357/aa8622</doi>
+            </citation>
+            <citation key="R61">
+              <journal_title>MNRAS</journal_title>
+              <author>Lodato</author>
+              <volume>405</volume>
+              <first_page>1212</first_page>
+              <cYear>2010</cYear>
+            </citation>
+            <citation key="R62">
+              <journal_title>ApJ</journal_title>
+              <author>MacLeod</author>
+              <volume>902</volume>
+              <first_page>85</first_page>
+              <cYear>2020</cYear>
+              <doi provider="crossref">10.3847/1538-4357/abb313</doi>
+            </citation>
+            <citation key="R63">
+              <journal_title>Nature</journal_title>
+              <author>Maercker</author>
+              <volume>490</volume>
+              <first_page>232</first_page>
+              <cYear>2012</cYear>
+              <doi provider="crossref">10.1038/nature11511</doi>
+            </citation>
+            <citation key="R64">
+              <journal_title>A&amp;A</journal_title>
+              <author>Maes</author>
+              <volume>653</volume>
+              <first_page>A25</first_page>
+              <cYear>2021</cYear>
+              <doi provider="crossref">10.1051/0004-6361/202140823</doi>
+            </citation>
+            <citation key="R65">
+              <journal_title>A&amp;A</journal_title>
+              <author>Malfait</author>
+              <volume>652</volume>
+              <first_page>A51</first_page>
+              <cYear>2021</cYear>
+              <doi provider="crossref">10.1051/0004-6361/202141161</doi>
+            </citation>
+            <citation key="R66">
+              <journal_title>ApJ</journal_title>
+              <author>Mastrodemos</author>
+              <volume>497</volume>
+              <first_page>303</first_page>
+              <cYear>1998</cYear>
+              <doi provider="crossref">10.1086/305465</doi>
+            </citation>
+            <citation key="R67">
+              <journal_title>Rev. Mex. Astron. Astrofis.</journal_title>
+              <author>Mattsson</author>
+              <volume>87</volume>
+              <first_page>249</first_page>
+              <cYear>2016</cYear>
+            </citation>
+            <citation key="R68">
+              <journal_title>A&amp;A</journal_title>
+              <author>Mattsson</author>
+              <volume>533</volume>
+              <first_page>A42</first_page>
+              <cYear>2011</cYear>
+              <doi provider="crossref">10.1051/0004-6361/201015572</doi>
+            </citation>
+            <citation key="R69">
+              <journal_title>Universe</journal_title>
+              <author>Mattsson</author>
+              <volume>7</volume>
+              <first_page>113</first_page>
+              <cYear>2021</cYear>
+              <doi provider="crossref">10.3390/universe7050113</doi>
+            </citation>
+            <citation key="R70">
+              <journal_title>A&amp;A</journal_title>
+              <author>Mattsson</author>
+              <volume>509</volume>
+              <first_page>A14</first_page>
+              <cYear>2010</cYear>
+              <doi provider="crossref">10.1051/0004-6361/200912084</doi>
+            </citation>
+            <citation key="R71">
+              <journal_title>A&amp;A</journal_title>
+              <author>Mauron</author>
+              <volume>452</volume>
+              <first_page>257</first_page>
+              <cYear>2006</cYear>
+              <doi provider="crossref">10.1051/0004-6361:20054739</doi>
+            </citation>
+            <citation key="R72">
+              <journal_title>Balt. Astron.</journal_title>
+              <author>Mohamed</author>
+              <volume>21</volume>
+              <first_page>88</first_page>
+              <cYear>2012</cYear>
+            </citation>
+            <citation key="R73">
+              <journal_title>Science</journal_title>
+              <author>Neugebauer</author>
+              <volume>138</volume>
+              <first_page>1095</first_page>
+              <cYear>1962</cYear>
+              <doi provider="crossref">10.1126/science.138.3545.1095.b</doi>
+            </citation>
+            <citation key="R74">
+              <journal_title>MNRAS</journal_title>
+              <author>Pawlik</author>
+              <volume>389</volume>
+              <first_page>651</first_page>
+              <cYear>2008</cYear>
+              <doi provider="crossref">10.1111/j.1365-2966.2008.13601.x</doi>
+            </citation>
+            <citation key="R75">
+              <journal_title>MNRAS</journal_title>
+              <author>Petkova</author>
+              <volume>396</volume>
+              <first_page>1383</first_page>
+              <cYear>2009</cYear>
+              <doi provider="crossref">10.1111/j.1365-2966.2009.14843.x</doi>
+            </citation>
+            <citation key="R76">
+              <journal_title>MNRAS</journal_title>
+              <author>Petkova</author>
+              <volume>415</volume>
+              <first_page>3731</first_page>
+              <cYear>2011</cYear>
+              <doi provider="crossref">10.1111/j.1365-2966.2011.18986.x</doi>
+            </citation>
+            <citation key="R77">
+              <journal_title>MNRAS</journal_title>
+              <author>Petkova</author>
+              <volume>507</volume>
+              <first_page>858</first_page>
+              <cYear>2021</cYear>
+              <doi provider="crossref">10.1093/mnras/stab2178</doi>
+            </citation>
+            <citation key="R78">
+              <journal_title>Nat. Astron.</journal_title>
+              <author>Pinte</author>
+              <volume>3</volume>
+              <first_page>1109</first_page>
+              <cYear>2019</cYear>
+              <doi provider="crossref">10.1038/s41550-019-0852-6</doi>
+            </citation>
+            <citation key="R79">
+              <journal_title>A&amp;A</journal_title>
+              <author>Preibisch</author>
+              <volume>279</volume>
+              <first_page>577</first_page>
+              <cYear>1993</cYear>
+            </citation>
+            <citation key="R80">
+              <journal_title>J. Comput. Phys.</journal_title>
+              <author>Price</author>
+              <volume>231</volume>
+              <first_page>759</first_page>
+              <cYear>2012</cYear>
+              <doi provider="crossref">10.1016/j.jcp.2010.12.011</doi>
+            </citation>
+            <citation key="R81">
+              <journal_title>MNRAS</journal_title>
+              <author>Price</author>
+              <volume>406</volume>
+              <first_page>1659</first_page>
+              <cYear>2010</cYear>
+            </citation>
+            <citation key="R82">
+              <journal_title>MNRAS</journal_title>
+              <author>Price</author>
+              <volume>451</volume>
+              <first_page>813</first_page>
+              <cYear>2015</cYear>
+              <doi provider="crossref">10.1093/mnras/stv996</doi>
+            </citation>
+            <citation key="R83">
+              <journal_title>PASA</journal_title>
+              <author>Price</author>
+              <volume>35</volume>
+              <first_page>e031</first_page>
+              <cYear>2018</cYear>
+              <doi provider="crossref">10.1017/pasa.2018.25</doi>
+            </citation>
+            <citation key="R84">
+              <journal_title>A&amp;A</journal_title>
+              <author>Rijkhorst</author>
+              <volume>452</volume>
+              <first_page>907</first_page>
+              <cYear>2006</cYear>
+              <doi provider="crossref">10.1051/0004-6361:20053401</doi>
+            </citation>
+            <citation key="R85">
+              <journal_title>MNRAS</journal_title>
+              <author>Sandin</author>
+              <volume>385</volume>
+              <first_page>215</first_page>
+              <cYear>2008</cYear>
+              <doi provider="crossref">10.1111/j.1365-2966.2007.12644.x</doi>
+            </citation>
+            <citation key="R86">
+              <journal_title>A&amp;A</journal_title>
+              <author>Sandin</author>
+              <volume>413</volume>
+              <first_page>789</first_page>
+              <cYear>2004</cYear>
+              <doi provider="crossref">10.1051/0004-6361:20031530</doi>
+            </citation>
+            <citation key="R87">
+              <journal_title>MNRAS</journal_title>
+              <author>Sandin</author>
+              <volume>499</volume>
+              <first_page>1531</first_page>
+              <cYear>2020</cYear>
+              <doi provider="crossref">10.1093/mnras/staa2714</doi>
+            </citation>
+            <citation key="R88">
+              <journal_title>ApJS</journal_title>
+              <author>Sharp</author>
+              <volume>72</volume>
+              <first_page>417</first_page>
+              <cYear>1990</cYear>
+              <doi provider="crossref">10.1086/191422</doi>
+            </citation>
+            <citation key="R89">
+              <journal_title>ApJS</journal_title>
+              <author>Skinner</author>
+              <volume>206</volume>
+              <first_page>21</first_page>
+              <cYear>2013</cYear>
+              <doi provider="crossref">10.1088/0067-0049/206/2/21</doi>
+            </citation>
+            <citation key="R90">
+              <journal_title>MNRAS</journal_title>
+              <author>Struck</author>
+              <volume>353</volume>
+              <first_page>559</first_page>
+              <cYear>2004</cYear>
+              <doi provider="crossref">10.1111/j.1365-2966.2004.08086.x</doi>
+            </citation>
+            <citation key="R91">
+              <journal_title>PASJ</journal_title>
+              <author>Susa</author>
+              <volume>58</volume>
+              <first_page>445</first_page>
+              <cYear>2006</cYear>
+              <doi provider="crossref">10.1093/pasj/58.2.445</doi>
+            </citation>
+            <citation key="R92">
+              <journal_title>ApJ</journal_title>
+              <author>Tabak</author>
+              <volume>196</volume>
+              <first_page>457</first_page>
+              <cYear>1975</cYear>
+              <doi provider="crossref">10.1086/153425</doi>
+            </citation>
+            <citation key="R93">
+              <journal_title>ApJ</journal_title>
+              <author>Tegmark</author>
+              <volume>470</volume>
+              <first_page>L81</first_page>
+              <cYear>1996</cYear>
+              <doi provider="crossref">10.1086/310310</doi>
+            </citation>
+            <citation key="R94">
+              <journal_title>MNRAS</journal_title>
+              <author>Theuns</author>
+              <volume>265</volume>
+              <first_page>946</first_page>
+              <cYear>1993</cYear>
+              <doi provider="crossref">10.1093/mnras/265.4.946</doi>
+            </citation>
+            <citation key="R95">
+              <journal_title>J. Chem. Phys.</journal_title>
+              <author>Thorn</author>
+              <volume>26</volume>
+              <first_page>186</first_page>
+              <cYear>1957</cYear>
+              <doi provider="crossref">10.1063/1.1743248</doi>
+            </citation>
+            <citation key="R96">
+              <journal_title>A&amp;A</journal_title>
+              <author>Tsuji</author>
+              <volume>23</volume>
+              <first_page>411</first_page>
+              <cYear>1973</cYear>
+            </citation>
+            <citation key="R97">
+              <journal_title>A&amp;A</journal_title>
+              <author>van der Helm</author>
+              <volume>625</volume>
+              <first_page>A85</first_page>
+              <cYear>2019</cYear>
+              <doi provider="crossref">10.1051/0004-6361/201732020</doi>
+            </citation>
+            <citation key="R98">
+              <journal_title>Ap&amp;SS</journal_title>
+              <author>Velli</author>
+              <volume>277</volume>
+              <first_page>157</first_page>
+              <cYear>2001</cYear>
+              <doi provider="crossref">10.1023/A:1012237708634</doi>
+            </citation>
+            <citation key="R99">
+              <journal_title>SIAM J. Sci. Comput.</journal_title>
+              <author>Wang</author>
+              <volume>33</volume>
+              <first_page>2536</first_page>
+              <cYear>2011</cYear>
+              <doi provider="crossref">10.1137/090761355</doi>
+            </citation>
+            <citation key="R100">
+              <journal_title>MNRAS</journal_title>
+              <author>Whitehouse</author>
+              <volume>364</volume>
+              <first_page>1367</first_page>
+              <cYear>2005</cYear>
+              <doi provider="crossref">10.1111/j.1365-2966.2005.09683.x</doi>
+            </citation>
+            <citation key="R101">
+              <journal_title>A&amp;A</journal_title>
+              <author>Winters</author>
+              <volume>361</volume>
+              <first_page>641</first_page>
+              <cYear>2000</cYear>
+            </citation>
+          </citation_list>
+        </journal_article>
+      </journal>
+    </crossref>
+  </doi_record>
+</doi_records>

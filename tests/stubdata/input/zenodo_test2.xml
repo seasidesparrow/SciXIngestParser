@@ -1,0 +1,148 @@
+<record>
+      <header>
+        <identifier>oai:zenodo.org:3465853</identifier>
+        <datestamp>2023-07-27T23:03:16Z</datestamp>
+        <setSpec>software</setSpec>
+      </header>
+      <metadata>
+        <resource xmlns="http://datacite.org/schema/kernel-4" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4.1/metadata.xsd">
+          <identifier identifierType="DOI">10.5281/zenodo.3465853</identifier>
+          <creators>
+            <creator>
+              <creatorName>Jay Gambetta</creatorName>
+              <affiliation>@IBM</affiliation>
+            </creator>
+            <creator>
+              <creatorName>Matthew Treinish</creatorName>
+            </creator>
+            <creator>
+              <creatorName>Paul Kassebaum</creatorName>
+              <affiliation>IBM</affiliation>
+            </creator>
+            <creator>
+              <creatorName>Diego M. Rodríguez</creatorName>
+              <affiliation>@IBMResearch</affiliation>
+            </creator>
+            <creator>
+              <creatorName>Salvador de la Puente González</creatorName>
+              <affiliation>@IBMResearch</affiliation>
+            </creator>
+            <creator>
+              <creatorName>Paul Nation</creatorName>
+              <affiliation>IBM</affiliation>
+            </creator>
+            <creator>
+              <creatorName>Shaohan Hu</creatorName>
+              <affiliation>IBM Research</affiliation>
+            </creator>
+            <creator>
+              <creatorName>Laura Zdanski</creatorName>
+              <affiliation>@IBM @openliberty</affiliation>
+            </creator>
+            <creator>
+              <creatorName>Marco Pistoia</creatorName>
+              <affiliation>IBM</affiliation>
+            </creator>
+            <creator>
+              <creatorName>Kevin Krsulich</creatorName>
+            </creator>
+            <creator>
+              <creatorName>Travis-S-IBM</creatorName>
+              <affiliation>IBM</affiliation>
+            </creator>
+            <creator>
+              <creatorName>Juan Gomez</creatorName>
+            </creator>
+            <creator>
+              <creatorName>David McKay</creatorName>
+              <affiliation>@IBM, @Qiskit</affiliation>
+            </creator>
+            <creator>
+              <creatorName>Albert Frisch</creatorName>
+              <affiliation>IBM @QISKit</affiliation>
+            </creator>
+            <creator>
+              <creatorName>Yehuda Naveh</creatorName>
+              <affiliation>IBM Research</affiliation>
+            </creator>
+            <creator>
+              <creatorName>Steve Wood</creatorName>
+              <affiliation>IBM Research</affiliation>
+            </creator>
+            <creator>
+              <creatorName>Zoufalc</creatorName>
+            </creator>
+            <creator>
+              <creatorName>tigerjack</creatorName>
+            </creator>
+            <creator>
+              <creatorName>Shelly Garion</creatorName>
+              <affiliation>IBM</affiliation>
+            </creator>
+            <creator>
+              <creatorName>RohitMidha23</creatorName>
+            </creator>
+            <creator>
+              <creatorName>KaoriNamba</creatorName>
+            </creator>
+            <creator>
+              <creatorName>Juan Cruz-Benito</creatorName>
+              <affiliation>@IBMResearch</affiliation>
+            </creator>
+            <creator>
+              <creatorName>HNorlen</creatorName>
+            </creator>
+            <creator>
+              <creatorName>Francois Varchon</creatorName>
+            </creator>
+            <creator>
+              <creatorName>Christopher J. Wood</creatorName>
+              <affiliation>IBM Research @QISKit</affiliation>
+            </creator>
+            <creator>
+              <creatorName>Blas Osvaldo Gonzalez Aceves</creatorName>
+            </creator>
+            <creator>
+              <creatorName>Baltazar Rodriguez</creatorName>
+              <affiliation>IBM</affiliation>
+            </creator>
+            <creator>
+              <creatorName>Ayumu-walker</creatorName>
+            </creator>
+            <creator>
+              <creatorName>Amano, Takehiko</creatorName>
+              <givenName>Takehiko</givenName>
+              <familyName>Amano</familyName>
+              <affiliation>IBM</affiliation>
+            </creator>
+            <creator>
+              <creatorName>Alex Pozas-Kerstjens</creatorName>
+              <affiliation>ICFO</affiliation>
+            </creator>
+          </creators>
+          <titles>
+            <title>Qiskit/qiskit: Qiskit 0.12.1</title>
+          </titles>
+          <publisher>Zenodo</publisher>
+          <publicationYear>2019</publicationYear>
+          <dates>
+            <date dateType="Issued">2019-09-30</date>
+          </dates>
+          <resourceType resourceTypeGeneral="Software"/>
+          <relatedIdentifiers>
+            <relatedIdentifier relatedIdentifierType="URL" relationType="IsSupplementTo">https://github.com/Qiskit/qiskit/tree/0.12.1</relatedIdentifier>
+            <relatedIdentifier relatedIdentifierType="DOI" relationType="IsVersionOf">10.5281/zenodo.2573505</relatedIdentifier>
+          </relatedIdentifiers>
+          <version>0.12.1</version>
+          <rightsList>
+            <rights rightsURI="info:eu-repo/semantics/openAccess">Open Access</rights>
+          </rightsList>
+          <descriptions>
+            <description descriptionType="Abstract">Changed
+&lt;ul&gt;
+&lt;li&gt;Increased the &lt;code&gt;qiskit-ibmq-provider&lt;/code&gt; version to the latest release 0.3.3.&lt;/li&gt;
+&lt;/ul&gt;</description>
+          </descriptions>
+        </resource>
+      </metadata>
+    </record>

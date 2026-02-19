@@ -1,0 +1,118 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v3.0 20080202//EN" "http://dtd.nlm.nih.gov/publishing/3.0/journalpublishing3.dtd">
+<article article-type="proceedings" dtd-version="3.0" xml:lang="en" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<front>
+<journal-meta>
+<issn>0277-786X</issn>
+<isbn>9781510661387</isbn>
+<publisher>
+<publisher-name>SPIE</publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="doi">10.1117/12.2663263</article-id>
+<title-group>
+<article-title>
+A hardware approach to overcome pile-up in TCSPC: from principles to field verification
+</article-title>
+</title-group>
+<contrib-group content-type="volume">
+<contrib contrib-type="editor">
+<name>
+<surname>Itzler</surname>
+<given-names>Mark A.</given-names>
+</name>
+<xref ref-type="aff" rid="aff2" />
+</contrib>
+<contrib contrib-type="editor">
+<name>
+<surname>Bienfang</surname>
+<given-names>Joshua C.</given-names>
+</name>
+<xref ref-type="aff" rid="aff3" />
+</contrib>
+<contrib contrib-type="editor">
+<name>
+<surname>McIntosh</surname>
+<given-names>K. Alex</given-names>
+</name>
+<xref ref-type="aff" rid="aff4" />
+</contrib>
+</contrib-group>
+<contrib-group content-type="article">
+<contrib contrib-type="author">
+<name>
+<surname>Farina</surname>
+<given-names>Serena</given-names>
+</name>
+<xref ref-type="aff" rid="aff1" />
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname>Labanca</surname>
+<given-names>Ivan</given-names>
+</name>
+<xref ref-type="aff" rid="aff1" />
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname>Acconcia</surname>
+<given-names>Giulia</given-names>
+</name>
+<xref ref-type="aff" rid="aff1" />
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname>Rech</surname>
+<given-names>Ivan</given-names>
+</name>
+<xref ref-type="aff" rid="aff1" />
+</contrib>
+</contrib-group>
+<aff id="aff1">Politecnico di Milano (Italy)</aff>
+<aff id="aff2">Argo AI, LLC (United States)</aff>
+<aff id="aff3">National Institute of Standards and Technology (United States)</aff>
+<aff id="aff4">MIT Lincoln Lab. (United States)</aff>
+<pub-date>
+<day>15</day>
+<month>6</month>
+<year>2023</year>
+</pub-date>
+<volume>12512</volume>
+<fpage>1251204</fpage>
+<lpage>1251204-4</lpage>
+<permissions>
+<copyright-statement>COPYRIGHT SPIE. Downloading of the abstract is permitted for personal use only.</copyright-statement>
+<copyright-year>2023</copyright-year>
+</permissions>
+<self-uri xlink:title="pdf" xlink:href="1251204.pdf"/>
+<abstract>
+With the development of advanced and dedicated timing instrumentation, Time-Correlated Single-Photon Counting (TCSPC) has become the de-facto standard for the measurement of low-light signals in a wide variety of applications, from fluorescence observation in biology to 3D scanning in laser ranging. Despite the huge technical improvements, the historical pile-up limitation still represents an open issue, that reduces the maximum acquisition rate to few percent (1-5 %) of the laser excitation rate. This prevents high-speed and real-time exploitation of TCSPC, thus reducing the range of applications that can benefit from such a powerful technique. To overcome this limitation, in 2017 we proposed a novel theoretical approach based on a time-matching between detector dead time and laser period, and in 2021 we designed the first system implementing this new technique. Preliminary results showed a good accordance between the theoretical framework and practical experiments with standard fluorescence dies up to a rate of 32 Mcps. Since then, we have been working on the exploitation of our system in further practical measurements, to perform a deeper validation of its potential. In particular, we have explored the application of our system into a lidar experiment, as no a-priori knowledge is necessary on the specific type of signal. In this proceeding, we present an overview of our work from the theoretical principles to the field verification.
+</abstract>
+<conference content-type="conf-level-1">
+<conf-date />
+<conf-name>Defense + Commercial Sensing</conf-name>
+<conf-acronym>DCS</conf-acronym>
+<conf-num>7</conf-num>
+</conference>
+<conference content-type="conf-level-2">
+<conf-date>2023-04-30|2023-05-05</conf-date>
+<conf-name>SPIE Defense + Commercial Sensing</conf-name>
+<conf-acronym>DCS23</conf-acronym>
+<conf-num>2619426</conf-num>
+<conf-loc>Orlando, Florida, United States</conf-loc>
+</conference>
+<conference content-type="volume">
+<conf-date />
+<conf-name>Advanced Photon Counting Techniques XVII</conf-name>
+<conf-num>12512</conf-num>
+</conference>
+<conference content-type="session">
+<conf-date />
+<conf-name>Diffuse Correlation Spectroscopy and Fluorescence Lifetime Imaging</conf-name>
+<conf-num>3</conf-num>
+</conference>
+</article-meta>
+</front>
+<back>
+</back>
+</article>

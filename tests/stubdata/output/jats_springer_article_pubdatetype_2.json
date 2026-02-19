@@ -1,0 +1,314 @@
+{
+  "abstract": {
+    "textEnglish": "Ecosystem services value (ESV) can assess the level of basin ecological restoration and provide a basis for ecological management decision-making. This study object selects Liaohe River Basin (LHB), a typical basin in Northeast China. The ecosystem service value variation caused by changes in land use cover and the spatial distribution characteristics was evaluated by employing the benefit transfer method, which is based on data sets for land use over 2000\u20132020. Meanwhile, geographical detector was employed to investigate the impacts and interactions of various factors driving the ESV, and predicted future changes in land and ESV by PLUS model. The results showed the following: (1) LHB land transformations mainly concentrated in the transformation between grassland, farmland and forestland. ESV in LHB decreased and then increased between 2000 and 2020 (1224 billion-928 billion-1238 billion), (2) Ecosystem service value exhibited a strong positive spatial autocorrelation, high ESV was mainly distributed in the eastern and western regions of LHB, and low ESV in the central region. (3) The variation in ecosystem service value mainly arose from the human activity intensity index of human factors. (4) In the future, the ecological protection priority scenario could improve the ESV in LHB, and the natural development priority and economic development priority scenario was not conducive to the improvement of ESV. The results showed that the ecological restoration effect of the LHB was obvious with the ecosystem service value is significantly improved. In the future, attention should be paid to control human activities and strengthen ecological protection in ESV hotspots."
+  },
+  "authors": [
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "https://ror.org/03xpwj629",
+              "affIDType": "ROR"
+            },
+            {
+              "affID": "grid.411356.4",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0000 9339 3042",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "College of Environmental Sciences, Liaoning University, 110036, Shenyang, People\u2019s Republic of China"
+        }
+      ],
+      "name": {
+        "given_name": "Changgeng",
+        "surname": "Jia"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "https://ror.org/03xpwj629",
+              "affIDType": "ROR"
+            },
+            {
+              "affID": "grid.411356.4",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0000 9339 3042",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "College of Environmental Sciences, Liaoning University, 110036, Shenyang, People\u2019s Republic of China"
+        }
+      ],
+      "name": {
+        "given_name": "Yu",
+        "surname": "Fan"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "https://ror.org/03xpwj629",
+              "affIDType": "ROR"
+            },
+            {
+              "affID": "grid.411356.4",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0000 9339 3042",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "College of Environmental Sciences, Liaoning University, 110036, Shenyang, People\u2019s Republic of China"
+        }
+      ],
+      "name": {
+        "given_name": "Chaoxiang",
+        "surname": "Wei"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "https://ror.org/03xpwj629",
+              "affIDType": "ROR"
+            },
+            {
+              "affID": "grid.411356.4",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0000 9339 3042",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "College of Environmental Sciences, Liaoning University, 110036, Shenyang, People\u2019s Republic of China"
+        }
+      ],
+      "name": {
+        "given_name": "Kunyu",
+        "surname": "Luo"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "https://ror.org/03xpwj629",
+              "affIDType": "ROR"
+            },
+            {
+              "affID": "grid.411356.4",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0000 9339 3042",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "College of Environmental Sciences, Liaoning University, 110036, Shenyang, People\u2019s Republic of China"
+        }
+      ],
+      "name": {
+        "given_name": "Sihui",
+        "surname": "Li"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "https://ror.org/03xpwj629",
+              "affIDType": "ROR"
+            },
+            {
+              "affID": "grid.411356.4",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0000 9339 3042",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "College of Environmental Sciences, Liaoning University, 110036, Shenyang, People\u2019s Republic of China"
+        },
+        {
+          "affPubID": [
+            {
+              "affID": "https://ror.org/018rbtf37",
+              "affIDType": "ROR"
+            },
+            {
+              "affID": "grid.413109.e",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0000 9735 6249",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "College of Marine and Environmental Sciences, Tianjin University of Science & Technology, 300457, Tianjin, China"
+        }
+      ],
+      "attrib": {
+        "corresp": true,
+        "email": "youtaosong@sina.com"
+      },
+      "name": {
+        "given_name": "Youtao",
+        "surname": "Song"
+      }
+    }
+  ],
+  "copyright": {
+    "statement": "\u00a9 The Author(s), under exclusive licence to Society of Wetland Scientists 2023. Springer Nature or its licensor (e.g. a society or other partner) holds exclusive rights to this article under a publishing agreement with the author(s) or other rightsholder(s); author self-archiving of the accepted manuscript version of this article is solely governed by the terms of such publishing agreement and applicable law.",
+    "status": true
+  },
+  "editorialHistory": {
+    "acceptedDate": "2023-12-05",
+    "receivedDates": [
+      "2023-08-17"
+    ]
+  },
+  "keywords": [
+    {
+      "keyString": "Basin ecosystem service value",
+      "keySystem": "misc"
+    },
+    {
+      "keyString": "Land use change transition",
+      "keySystem": "misc"
+    },
+    {
+      "keyString": "Spatiotemporal pattern",
+      "keySystem": "misc"
+    },
+    {
+      "keyString": "Drive analysis",
+      "keySystem": "misc"
+    },
+    {
+      "keyString": "Multi-scenario simulation",
+      "keySystem": "misc"
+    }
+  ],
+  "pagination": {
+    "electronicID": "7"
+  },
+  "persistentIDs": [
+    {
+      "DOI": "10.1007/s13157-023-01762-8"
+    }
+  ],
+  "pubDate": {
+    "electrDate": "2023-12-18",
+    "printDate": "2024-01-00"
+  },
+  "publication": {
+    "ISSN": [
+      {
+        "issnString": "0277-5212",
+        "pubtype": "ppub"
+      },
+      {
+        "issnString": "1943-6246",
+        "pubtype": "epub"
+      }
+    ],
+    "issueNum": "1",
+    "pubName": "Wetlands",
+    "pubYear": "2024",
+    "publisher": "Springer Netherlands",
+    "volumeNum": "44"
+  },
+  "publisherIDs": [
+    {
+      "Identifier": "s13157-023-01762-8",
+      "attribute": "publisher-id"
+    },
+    {
+      "Identifier": "1762",
+      "attribute": "manuscript"
+    }
+  ],
+  "recordData": {
+    "createdTime": "",
+    "loadFormat": "JATS",
+    "loadLocation": "",
+    "loadType": "fromFile",
+    "parsedTime": "",
+    "recordOrigin": ""
+  },
+  "references": [
+    "<ref id=\"CR1\"> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Bai</surname> <given-names>Y</given-names> </name> <name> <surname>Ochuodho</surname> <given-names>TO</given-names> </name> <name> <surname>Yang</surname> <given-names>J</given-names> </name> </person-group> <article-title xml:lang=\"en\">Impact of land use and climate change on water related ecosystem services in Kentucky, USA</article-title> <source>Ecological Indicators</source> <year>2019</year> <volume>102</volume> <fpage>51</fpage> <lpage>64</lpage> <pub-id pub-id-type=\"doi\">10.1016/j.ecolind.2019.01.079</pub-id> </mixed-citation> </ref>",
+    "<ref id=\"CR2\"> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Bennett</surname> <given-names>MT</given-names> </name> </person-group> <article-title xml:lang=\"en\">China\u2019s sloping land conversion program: institutional innovation or business as usual?</article-title> <source>Ecological Economics</source> <year>2008</year> <volume>65</volume> <fpage>699</fpage> <lpage>711</lpage> <pub-id pub-id-type=\"doi\">10.1016/j.ecolecon.2007.09.017</pub-id> </mixed-citation> </ref>",
+    "<ref id=\"CR3\"> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Brain</surname> <given-names>RA</given-names> </name> <name> <surname>Anderson</surname> <given-names>JC</given-names> </name> </person-group> <article-title xml:lang=\"en\">Anthropogenic factors affecting wildlife species status outcomes: why the fixation on pesticides?</article-title> <source>Environmental Science and Pollution Research</source> <year>2020</year> <volume>1</volume> <fpage>1</fpage> <lpage>24</lpage> <pub-id pub-id-type=\"doi\">10.1007/s11356-020-08980-1</pub-id> </mixed-citation> </ref>",
+    "<ref id=\"CR4\"> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Costanza</surname> <given-names>R</given-names> </name> <name> <surname>Darge</surname> <given-names>R</given-names> </name> <name> <surname>Groot</surname> <given-names>R</given-names> </name> <name> <surname>Belt</surname> <given-names>H</given-names> </name> </person-group> <article-title xml:lang=\"en\">The value of the world\u2019s ecosystem services and natural capital</article-title> <source>Nature</source> <year>1997</year> <volume>387</volume> <issue>6630</issue> <fpage>253</fpage> <lpage>260</lpage> <pub-id pub-id-type=\"coi\">1:CAS:528:DyaK2sXjtlShtbs%3D</pub-id> <pub-id pub-id-type=\"doi\">10.1038/387253a0</pub-id> <pub-id pub-id-type=\"bibcode\">1997Natur.387..253C</pub-id> </mixed-citation> </ref>",
+    "<ref id=\"CR5\"> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Costanza</surname> <given-names>R</given-names> </name> <name> <surname>de Groot</surname> <given-names>R</given-names> </name> <name> <surname>Braat</surname> <given-names>L</given-names> </name> <name> <surname>Kubiszewski</surname> <given-names>I</given-names> </name> <name> <surname>Fioramonti</surname> <given-names>L</given-names> </name> <name> <surname>Sutton</surname> <given-names>P</given-names> </name> <name> <surname>Farber</surname> <given-names>S</given-names> </name> <name> <surname>Grasso</surname> <given-names>M</given-names> </name> </person-group> <article-title xml:lang=\"en\">Twenty years of ecosystem services: how far have we come and how far do we still need to go?</article-title> <source>Ecosystem Service</source> <year>2017</year> <volume>28</volume> <fpage>1</fpage> <lpage>16</lpage> <pub-id pub-id-type=\"doi\">10.1016/j.ecoser.2017.09.008</pub-id> </mixed-citation> </ref>",
+    "<ref id=\"CR6\"> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Costanza</surname> <given-names>R</given-names> </name> <name> <surname>de Groot</surname> <given-names>R</given-names> </name> <name> <surname>Sutton</surname> <given-names>P</given-names> </name> <name> <surname>van der Ploeg</surname> <given-names>S</given-names> </name> <name> <surname>Anderson</surname> <given-names>SJ</given-names> </name> <name> <surname>Kubiszewski</surname> <given-names>I</given-names> </name> <name> <surname>Farber</surname> <given-names>S</given-names> </name> <name> <surname>Turner</surname> <given-names>RK</given-names> </name> </person-group> <article-title xml:lang=\"en\">Changes in the global value of ecosystem services</article-title> <source>Global Environmental Change-Human Policy Dimensions Change</source> <year>2014</year> <volume>26</volume> <fpage>152</fpage> <lpage>158</lpage> <pub-id pub-id-type=\"doi\">10.1016/j.gloenvcha.2014.04.002</pub-id> </mixed-citation> </ref>",
+    "<ref id=\"CR7\"> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Cumming</surname> <given-names>GS</given-names> </name> <name> <surname>Buerkert</surname> <given-names>A</given-names> </name> <name> <surname>Hoffmann</surname> <given-names>EM</given-names> </name> <name> <surname>Schlecht</surname> <given-names>E</given-names> </name> <name> <surname>von Cramon-Taubadel</surname> <given-names>S</given-names> </name> <name> <surname>Tscharntke</surname> <given-names>T</given-names> </name> </person-group> <article-title xml:lang=\"en\">Implications of agricultural transitions and urbanization for ecosystem services</article-title> <source>Nature</source> <year>2014</year> <volume>515</volume> <issue>7525</issue> <fpage>50</fpage> <lpage>57</lpage> <pub-id pub-id-type=\"coi\">1:CAS:528:DC%2BC2cXitFanurfE</pub-id> <pub-id pub-id-type=\"doi\">10.1038/nature13945</pub-id> <pub-id pub-id-type=\"pmid\">25373674</pub-id> <pub-id pub-id-type=\"bibcode\">2014Natur.515...50C</pub-id> </mixed-citation> </ref>",
+    "<ref id=\"CR8\"> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Du</surname> <given-names>LD</given-names> </name> <name> <surname>Dong</surname> <given-names>C</given-names> </name> <name> <surname>Kang</surname> <given-names>XC</given-names> </name> <name> <surname>Qian</surname> <given-names>XL</given-names> </name> <name> <surname>Gu</surname> <given-names>LX</given-names> </name> </person-group> <article-title xml:lang=\"en\">Spatiotemporal evolution of land cover changes and landscape ecological risk assessment in the Yellow River Basin, 2015\u20132020</article-title> <source>Journal of Environmental Management</source> <year>2023</year> <volume>332</volume> <fpage>117149</fpage> <pub-id pub-id-type=\"doi\">10.1016/j.jenvman.2022.117149</pub-id> <pub-id pub-id-type=\"pmid\">36808004</pub-id> </mixed-citation> </ref>",
+    "<ref id=\"CR9\"> <mixed-citation publication-type=\"other\">Fan Y, Ji JJ, Jia CG, Lei M, Wu W, Zheng Y, Wang Z, Zhang G, Song Y (2023a) The valuation of gross ecosystem product in the three provinces in northeast of China. Natural Resources Forum 1\u201317.  \t\t\t\t\t\t<ext-link ext-link-type=\"doi\" xlink:href=\"https://doi.org/10.1111/1477-8947.12325\">https://doi.org/10.1111/1477-8947.12325</ext-link> </mixed-citation> </ref>",
+    "<ref id=\"CR10\"> <mixed-citation publication-type=\"other\">Fan Y, Wu Q, Jia C, Liu X, Li S, Ji J, Zheng Y, Song Y (2023b) The valuation of ecosystems services in the Inner Mongolia Autonomous Region of China. Natural Resources Forum 1\u201317. \t\t\t\t\t\t<ext-link ext-link-type=\"doi\" xlink:href=\"https://doi.org/10.1111/1477-8947.12321\">https://doi.org/10.1111/1477-8947.12321</ext-link> </mixed-citation> </ref>",
+    "<ref id=\"CR11\"> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Gao</surname> <given-names>H</given-names> </name> <name> <surname>Zhao</surname> <given-names>FQ</given-names> </name> <name> <surname>Li</surname> <given-names>RJ</given-names> </name> <name> <surname>Jin</surname> <given-names>SC</given-names> </name> <name> <surname>Zhang</surname> <given-names>HB</given-names> </name> <name> <surname>Zhang</surname> <given-names>KY</given-names> </name> <name> <surname>Li</surname> <given-names>SS</given-names> </name> <name> <surname>Shu</surname> <given-names>Q</given-names> </name> <name> <surname>Na</surname> <given-names>GS</given-names> </name> </person-group> <article-title xml:lang=\"en\">Occurrence and distribution of antibiotics and antibiotic resistance genes in water of Liaohe River Basin, China</article-title> <source>Journal of Environmental Chemical Engineering</source> <year>2022</year> <volume>10</volume> <fpage>108297</fpage> <pub-id pub-id-type=\"coi\">1:CAS:528:DC%2BB38XhvFyktbzJ</pub-id> <pub-id pub-id-type=\"doi\">10.1016/j.jece.2022.108297</pub-id> </mixed-citation> </ref>",
+    "<ref id=\"CR12\"> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Gong</surname> <given-names>Y</given-names> </name> </person-group> <article-title xml:lang=\"en\">Spatio-temporal distribution characteristics and influencing factors of drought in the Liaohe river basin, China</article-title> <source>Frontiers of Environmental Science &amp; Engineering in China</source> <year>2022</year> <pub-id pub-id-type=\"doi\">10.3389/fenvs.2022.1044837</pub-id> </mixed-citation> </ref>",
+    "<ref id=\"CR13\"> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Jia</surname> <given-names>G</given-names> </name> <name> <surname>Dong</surname> <given-names>Y</given-names> </name> <name> <surname>Zhang</surname> <given-names>S</given-names> </name> <name> <surname>He</surname> <given-names>X</given-names> </name> <name> <surname>Zheng</surname> <given-names>H</given-names> </name> <name> <surname>Guo</surname> <given-names>Y</given-names> </name> <name> <surname>Shen</surname> <given-names>G</given-names> </name> <name> <surname>Chen</surname> <given-names>W</given-names> </name> </person-group> <article-title xml:lang=\"en\">Spatiotemporal changes of ecosystem service trade-offs under the influence of forest conservation project in Northeast China</article-title> <source>Frontiers in Ecology and Evolution</source> <year>2022</year> <pub-id pub-id-type=\"doi\">10.3389/fevo.2022.978145</pub-id> </mixed-citation> </ref>",
+    "<ref id=\"CR14\"> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Li</surname> <given-names>W</given-names> </name> <name> <surname>Hai</surname> <given-names>X</given-names> </name> <name> <surname>Han</surname> <given-names>L</given-names> </name> <name> <surname>Mao</surname> <given-names>J</given-names> </name> <name> <surname>Tian</surname> <given-names>M</given-names> </name> </person-group> <article-title xml:lang=\"en\">Does urbanization intensify regional water scarcity? Evidence and implications from a megaregion of China</article-title> <source>Journal of Cleaner Production</source> <year>2020</year> <volume>244</volume> <pub-id pub-id-type=\"doi\">10.1016/j.jclepro.2019.118592</pub-id> </mixed-citation> </ref>",
+    "<ref id=\"CR15\"> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Li</surname> <given-names>C</given-names> </name> <name> <surname>Wu</surname> <given-names>Y</given-names> </name> <name> <surname>Gao</surname> <given-names>B</given-names> </name> <name> <surname>Zheng</surname> <given-names>K</given-names> </name> <name> <surname>Wu</surname> <given-names>Y</given-names> </name> <name> <surname>Li</surname> <given-names>C</given-names> </name> </person-group> <article-title xml:lang=\"en\">Multi-scenario simulation of ecosystem service value for optimization of land use in the sichuan-yunnan ecological barrier, China</article-title> <source>Ecological Indicators</source> <year>2021</year> <volume>132</volume> <pub-id pub-id-type=\"doi\">10.1016/j.ecolind.2021.108328</pub-id> </mixed-citation> </ref>",
+    "<ref id=\"CR16\"> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Li</surname> <given-names>Y</given-names> </name> <name> <surname>Zhang</surname> <given-names>L</given-names> </name> <name> <surname>Yan</surname> <given-names>J</given-names> </name> </person-group> <article-title xml:lang=\"en\">Mapping the hotspots and cold spots of ecosystem services in conservation priority setting</article-title> <source>Journal of Geographical Sciences</source> <year>2017</year> <volume>27</volume> <fpage>681</fpage> <lpage>696</lpage> <pub-id pub-id-type=\"doi\">10.1007/s11442-017-1400-x</pub-id> <pub-id pub-id-type=\"bibcode\">1996JAerS..27..681L</pub-id> </mixed-citation> </ref>",
+    "<ref id=\"CR17\"> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Liang</surname> <given-names>X</given-names> </name> <name> <surname>Guan</surname> <given-names>QF</given-names> </name> <name> <surname>Clarke</surname> <given-names>KC</given-names> </name> </person-group> <article-title xml:lang=\"en\">Understanding the drivers of sustainable land expansion using a patch-generating land use simulation (PLUS) model: a case study in Wuhan, China</article-title> <source>Computers, Environment and Urban Systems</source> <year>2021</year> <volume>85</volume> <fpage>101569</fpage> <pub-id pub-id-type=\"doi\">10.1016/j.compenvurbsys.2020.101569</pub-id> </mixed-citation> </ref>",
+    "<ref id=\"CR18\"> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Liu</surname> <given-names>JM</given-names> </name> <name> <surname>Pei</surname> <given-names>XT</given-names> </name> <name> <surname>Zhu</surname> <given-names>WY</given-names> </name> <name> <surname>Jiao</surname> <given-names>JZ</given-names> </name> </person-group> <article-title xml:lang=\"en\">Understanding the intricate tradeoffs among ecosystem services in the Beijing-Tianjin-Hebei urban agglomeration across spatiotemporal features</article-title> <source>Science of The Total Environment</source> <year>2023</year> <volume>898</volume> <fpage> 165453</fpage> <pub-id pub-id-type=\"coi\">1:CAS:528:DC%2BB3sXhsFSgs7%2FL</pub-id> <pub-id pub-id-type=\"doi\">10.1016/j.scitotenv.2023.165453</pub-id> <pub-id pub-id-type=\"pmid\">37451449</pub-id> <pub-id pub-id-type=\"bibcode\">2023ScTEn.898p5453L</pub-id> </mixed-citation> </ref>",
+    "<ref id=\"CR19\"> <mixed-citation publication-type=\"other\">Liu J, Wang M, Yang L (2020) Assessing landscape ecological risk induced by land use/cover change in a county in China: a GIS- and landscape-metric-based approach. Sustainability 12. \t\t\t\t\t\t<ext-link ext-link-type=\"doi\" xlink:href=\"https://doi.org/10.3390/su12219037\">https://doi.org/10.3390/su12219037</ext-link> </mixed-citation> </ref>",
+    "<ref id=\"CR20\"> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Luo</surname> <given-names>QL</given-names> </name> <name> <surname>Zhou</surname> <given-names>JF</given-names> </name> <name> <surname>Li</surname> <given-names>ZG</given-names> </name> <name> <surname>Yu</surname> <given-names>BL</given-names> </name> </person-group> <article-title xml:lang=\"en\">Spatial differences of ecosystem services and their driving factors: a comparation analysis among three urban agglomerations in China\u2019s Yangtze River Economic Belt</article-title> <source>Science of The Total Environment </source> <year>2020</year> <volume>725</volume> <fpage>138452</fpage> <pub-id pub-id-type=\"coi\">1:CAS:528:DC%2BB3cXntFGnsbo%3D</pub-id> <pub-id pub-id-type=\"doi\">10.1016/j.scitotenv.2020.138452</pub-id> <pub-id pub-id-type=\"pmid\">32302846</pub-id> <pub-id pub-id-type=\"bibcode\">2020ScTEn.725m8452L</pub-id> </mixed-citation> </ref>",
+    "<ref id=\"CR21\"> <mixed-citation publication-type=\"other\">Luo QL, Zhou JF, Zhang Y (2022) What is the spatiotemporal relationship between urbanization and ecosystem services? A case from 110 cities in the Yangtze River Economic Belt, China. Journal of Environmental Management 321. \t\t\t\t\t\t<ext-link ext-link-type=\"doi\" xlink:href=\"https://doi.org/10.1016/j.jenvman.2022.115709\">https://doi.org/10.1016/j.jenvman.2022.115709</ext-link> </mixed-citation> </ref>",
+    "<ref id=\"CR22\"> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Lv</surname> <given-names>J</given-names> </name> <name> <surname>Xu</surname> <given-names>J</given-names> </name> <name> <surname>Guo</surname> <given-names>C</given-names> </name> <name> <surname>Zhang</surname> <given-names>Y</given-names> </name> <name> <surname>Bai</surname> <given-names>Y</given-names> </name> <name> <surname>Meng</surname> <given-names>W</given-names> </name> </person-group> <article-title xml:lang=\"en\">Spatial and temporal distribution of polycyclic aromatic hydrocarbons (pahs) in surface water from liaohe river basin, northeast China</article-title> <source>Environmental Scienceand Pollution Research</source> <year>2014</year> <pub-id pub-id-type=\"doi\">10.1007/s11356-014-2604-6</pub-id> </mixed-citation> </ref>",
+    "<ref id=\"CR23\"> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Ma</surname> <given-names>LB</given-names> </name> <name> <surname>Cheng</surname> <given-names>WJ</given-names> </name> <name> <surname>Bo</surname> <given-names>J</given-names> </name> <name> <surname>Li</surname> <given-names>XY</given-names> </name> <name> <surname>Gu</surname> <given-names>Y</given-names> </name> </person-group> <article-title xml:lang=\"en\">Spatio-temporal variation of land-use intensity from a multi-perspective\u2014taking the middle and lower reaches of Shule River Basin in China as an example</article-title> <source>Sustainability</source> <year>2018</year> <volume>10</volume> <pub-id pub-id-type=\"doi\">10.3390/su10030771</pub-id> </mixed-citation> </ref>",
+    "<ref id=\"CR24\"> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Mao</surname> <given-names>DH</given-names> </name> <name> <surname>He</surname> <given-names>XY</given-names> </name> <name> <surname>Wang</surname> <given-names>ZM</given-names> </name> <name> <surname>Tian</surname> <given-names>YL</given-names> </name> <name> <surname>Xiang</surname> <given-names>HX</given-names> </name> <name> <surname>Yu</surname> <given-names>H</given-names> </name> <name> <surname>Man</surname> <given-names>WD</given-names> </name> <name> <surname>Jia</surname> <given-names>MM</given-names> </name> <name> <surname>Ren</surname> <given-names>CY</given-names> </name> <name> <surname>Zheng</surname> <given-names>HF</given-names> </name> </person-group> <article-title xml:lang=\"en\">Diverse policies leading to contrasting impacts on land cover and ecosystem services in Northeast China</article-title> <source>Journal of Cleaner Production</source> <year>2019</year> <volume>240</volume> <fpage>117961</fpage> <pub-id pub-id-type=\"doi\">10.1016/j.jclepro.2019.11796</pub-id> </mixed-citation> </ref>",
+    "<ref id=\"CR25\"> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Mao</surname> <given-names>D</given-names> </name> <name> <surname>He</surname> <given-names>X</given-names> </name> <name> <surname>Wang</surname> <given-names>Z</given-names> </name> <name> <surname>Tian</surname> <given-names>Y</given-names> </name> <name> <surname>Zheng</surname> <given-names>H</given-names> </name> </person-group> <article-title xml:lang=\"en\">Diverse policies leading to contrasting impacts on land cover and ecosystem services in northeast China</article-title> <source>Journal of Cleaner Production</source> <year>2019</year> <volume>240</volume> <pub-id pub-id-type=\"doi\">10.1016/j.jclepro.2019.117961</pub-id> </mixed-citation> </ref>",
+    "<ref id=\"CR26\"> <mixed-citation publication-type=\"book\"> <person-group person-group-type=\"author\"> <collab>Millennium Ecosystem Assessment (MA)</collab> </person-group> <source>Ecosystems and human wellbeing. Synthesis</source> <year>2005</year> <publisher-loc>Washington</publisher-loc> <publisher-name>Island Press</publisher-name> </mixed-citation> </ref>",
+    "<ref id=\"CR27\"> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Ouyang</surname> <given-names>Z</given-names> </name> <name> <surname>Zheng</surname> <given-names>H</given-names> </name> <name> <surname>Xiao</surname> <given-names>Y</given-names> </name> <name> <surname>Polasky</surname> <given-names>S</given-names> </name> <name> <surname>Liu</surname> <given-names>J</given-names> </name> <name> <surname>Xu</surname> <given-names>W</given-names> </name> <name> <surname>Wang</surname> <given-names>Q</given-names> </name> <name> <surname>Zhang</surname> <given-names>L</given-names> </name> <name> <surname>Xiao</surname> <given-names>Y</given-names> </name> <name> <surname>Rao</surname> <given-names>E</given-names> </name> <name> <surname>Jiang</surname> <given-names>L</given-names> </name> <name> <surname>Lu</surname> <given-names>F</given-names> </name> <name> <surname>Wang</surname> <given-names>X</given-names> </name> <name> <surname>Yang</surname> <given-names>G</given-names> </name> <name> <surname>Gong</surname> <given-names>S</given-names> </name> <name> <surname>Wu</surname> <given-names>B</given-names> </name> <name> <surname>Zeng</surname> <given-names>Y</given-names> </name> <name> <surname>Yang</surname> <given-names>W</given-names> </name> <name> <surname>Daily</surname> <given-names>G</given-names> </name> </person-group> <article-title xml:lang=\"en\">Improvements in ecosystem services from investments in natural capital</article-title> <source>Science</source> <year>2016</year> <volume>352</volume> <issue>6292</issue> <fpage>1455</fpage> <lpage>1459</lpage> <pub-id pub-id-type=\"coi\">1:CAS:528:DC%2BC28XpslOqs7k%3D</pub-id> <pub-id pub-id-type=\"doi\">10.1126/science.aaf2295</pub-id> <pub-id pub-id-type=\"pmid\">27313045</pub-id> <pub-id pub-id-type=\"bibcode\">2016Sci...352.1455O</pub-id> </mixed-citation> </ref>",
+    "<ref id=\"CR28\"> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Pan</surname> <given-names>NH</given-names> </name> <name> <surname>Guan</surname> <given-names>QY</given-names> </name> <name> <surname>Wang</surname> <given-names>QZ</given-names> </name> <name> <surname>Sun</surname> <given-names>YF</given-names> </name> <name> <surname>Li</surname> <given-names>HC</given-names> </name> <name> <surname>Ma</surname> <given-names>YR</given-names> </name> </person-group> <article-title xml:lang=\"en\">Spatial differentiation and driving mechanisms in Ecosystem Service Value of Arid Region: a case study in the middle and lower reaches of Shule River Basin, NW China</article-title> <source>Journal of Cleaner Production</source> <year>2021</year> <volume>319</volume> <fpage>128718</fpage> <pub-id pub-id-type=\"doi\">10.1016/j.jclepro.2021.128718</pub-id> </mixed-citation> </ref>",
+    "<ref id=\"CR29\"> <mixed-citation publication-type=\"other\">Qiu J, Turner MG (2013) Spatial interactions among ecosystem services in an urbanizing agricultural watershed. Proceedings of the National Academy of Sciences 110:12149\u201312154. \t\t\t\t\t\t<ext-link ext-link-type=\"doi\" xlink:href=\"https://doi.org/10.1073/pnas.131053911\">https://doi.org/10.1073/pnas.131053911</ext-link> </mixed-citation> </ref>",
+    "<ref id=\"CR30\"> <mixed-citation publication-type=\"other\">Schr\u00f6ter M, Kraemer R, Ceau\u015fu S, Rusch GM (2017) Incorporating threat in hotspots and coldspots of biodiversity and ecosystem services. Ambio 46:756\u2013768. \t\t\t\t\t\t<ext-link ext-link-type=\"doi\" xlink:href=\"https://doi.org/10.1007/s13280-017-0922-x\">https://doi.org/10.1007/s13280-017-0922-x</ext-link> </mixed-citation> </ref>",
+    "<ref id=\"CR31\"> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Song</surname> <given-names>W</given-names> </name> <name> <surname>Deng</surname> <given-names>XZ</given-names> </name> </person-group> <article-title xml:lang=\"en\">Land-use/land-cover change and ecosystem service provision in China</article-title> <source>Science of The Total Environment</source> <year>2017</year> <volume>576</volume> <fpage>705</fpage> <lpage>719</lpage> <pub-id pub-id-type=\"coi\">1:CAS:528:DC%2BC28XhslOht7%2FN</pub-id> <pub-id pub-id-type=\"doi\">10.1016/j.scitotenv.2016.07.078</pub-id> <pub-id pub-id-type=\"pmid\">27810757</pub-id> <pub-id pub-id-type=\"bibcode\">2017ScTEn.576..705S</pub-id> </mixed-citation> </ref>",
+    "<ref id=\"CR32\"> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Song</surname> <given-names>W</given-names> </name> <name> <surname>Deng</surname> <given-names>XZ</given-names> </name> <name> <surname>Liu</surname> <given-names>B</given-names> </name> <name> <surname>Li</surname> <given-names>ZH</given-names> </name> <name> <surname>Jin</surname> <given-names>G</given-names> </name> </person-group> <article-title xml:lang=\"en\">Impacts of grain-for-green and grain-for-blue policies on valued ecosystem services in shandong province, china</article-title> <source>Advances in Meteorology</source> <year>2015</year> <volume>2015</volume> <pub-id pub-id-type=\"doi\">10.1155/2015/213534</pub-id> </mixed-citation> </ref>",
+    "<ref id=\"CR33\"> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Su</surname> <given-names>YQ</given-names> </name> <name> <surname>Ma</surname> <given-names>XH</given-names> </name> <name> <surname>Feng</surname> <given-names>Q</given-names> </name> <name> <surname>Liu</surname> <given-names>W</given-names> </name> <name> <surname>Zhu</surname> <given-names>M</given-names> </name> <name> <surname>Niu</surname> <given-names>JJ</given-names> </name> <name> <surname>Liu</surname> <given-names>G</given-names> </name> <name> <surname>Shi</surname> <given-names>LF</given-names> </name> </person-group> <article-title xml:lang=\"en\">Patterns and controls of ecosystem service values under different land-use change scenarios in a mining-dominated basin of northern China</article-title> <source>Ecological Indicators</source> <year>2023</year> <volume>151</volume> <fpage>110321</fpage> <pub-id pub-id-type=\"doi\">10.1016/j.ecolind.2023.110321</pub-id> </mixed-citation> </ref>",
+    "<ref id=\"CR34\"> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Tang</surname> <given-names>Y</given-names> </name> <name> <surname>Tang</surname> <given-names>J</given-names> </name> <name> <surname>Yu</surname> <given-names>X</given-names> </name> <name> <surname>Qiu</surname> <given-names>L</given-names> </name> <name> <surname>Wang</surname> <given-names>J</given-names> </name> <name> <surname>Hou</surname> <given-names>X</given-names> </name> <name> <surname>Chen</surname> <given-names>D</given-names> </name> </person-group> <article-title xml:lang=\"en\">Land ecological protection polices improve ecosystem services: a case study of Lishui, China</article-title> <source>Frontiers of Environmental Science &amp; Engineering in China</source> <year>2022</year> <volume>10</volume> <pub-id pub-id-type=\"doi\">10.3389/fenvs.2022.973524</pub-id> </mixed-citation> </ref>",
+    "<ref id=\"CR35\"> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Wang</surname> <given-names>Y</given-names> </name> <name> <surname>Gao</surname> <given-names>J</given-names> </name> <name> <surname>Wang</surname> <given-names>J</given-names> </name> <name> <surname>Qiu</surname> <given-names>J</given-names> </name> </person-group> <article-title xml:lang=\"en\">Value assessment of ecosystem services in nature reserves in Ningxia, China: a response to ecological restoration</article-title> <source>PLoS One1</source> <year>2014</year> <volume>9</volume> <issue>2</issue> <pub-id pub-id-type=\"coi\">1:CAS:528:DC%2BC2cXhsVWht7jJ</pub-id> <pub-id pub-id-type=\"doi\">10.1371/journal.pone.0089174</pub-id> <pub-id pub-id-type=\"bibcode\">2014PLoSO...989174W</pub-id> </mixed-citation> </ref>",
+    "<ref id=\"CR36\"> <mixed-citation publication-type=\"other\">Wang J, Li,X, Christakos G, Liao Y, Zhang T, Gu X, Zheng X (2010) Geographical detectors-based health risk assessment and its application in the neural tube defects study of the Heshun Region, China. J Geogr Inf Sci 24(1):107\u2013127. \t\t\t\t\t\t<ext-link ext-link-type=\"doi\" xlink:href=\"https://doi.org/10.1080/13658810802443457\">https://doi.org/10.1080/13658810802443457</ext-link> </mixed-citation> </ref>",
+    "<ref id=\"CR37\"> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Wang</surname> <given-names>LJ</given-names> </name> <name> <surname>Ma</surname> <given-names>S</given-names> </name> <name> <surname>Zhao</surname> <given-names>YG</given-names> </name> <name> <surname>Zhang</surname> <given-names>JC</given-names> </name> </person-group> <article-title xml:lang=\"en\">Ecological restoration projects did not increase the value of all ecosystem services in Northeast China</article-title> <source>Forest Ecology and Management</source> <year>2021</year> <volume>459</volume> <fpage>119340</fpage> <pub-id pub-id-type=\"doi\">10.1016/j.foreco.2021.119340</pub-id> </mixed-citation> </ref>",
+    "<ref id=\"CR38\"> <mixed-citation publication-type=\"other\">Wang J, Zhou W, Guan YJ (2022) Optimization of management by analyzing ecosystem service value variations in different watersheds in the Three-River Headwaters Basin. J Environ Manage 321:115956. \t\t\t\t\t\t<ext-link ext-link-type=\"doi\" xlink:href=\"https://doi.org/10.1016/j.jenvman.2022.115956\">https://doi.org/10.1016/j.jenvman.2022.115956</ext-link> </mixed-citation> </ref>",
+    "<ref id=\"CR39\"> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Wu</surname> <given-names>J</given-names> </name> <name> <surname>Luo</surname> <given-names>J</given-names> </name> <name> <surname>Zhang</surname> <given-names>H</given-names> </name> <name> <surname>Qin</surname> <given-names>S</given-names> </name> <name> <surname>Yu</surname> <given-names>M</given-names> </name> </person-group> <article-title xml:lang=\"en\">Projections of land use change and habitat quality assessment by coupling climate change and development patterns</article-title> <source>Science of the Total Environment</source> <year>2022</year> <volume>847</volume> <pub-id pub-id-type=\"coi\">1:CAS:528:DC%2BB38XhvFyhtLzN</pub-id> <pub-id pub-id-type=\"doi\">10.1016/j.scitotenv.2022.157491</pub-id> <pub-id pub-id-type=\"pmid\">35870584</pub-id> <pub-id pub-id-type=\"bibcode\">2022ScTEn.847o7491W</pub-id> </mixed-citation> </ref>",
+    "<ref id=\"CR40\"> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Xiao</surname> <given-names>R</given-names> </name> <name> <surname>Lin</surname> <given-names>M</given-names> </name> <name> <surname>Fei</surname> <given-names>X</given-names> </name> <name> <surname>Li</surname> <given-names>Y</given-names> </name> <name> <surname>Zhang</surname> <given-names>Z</given-names> </name> <name> <surname>Meng</surname> <given-names>Q</given-names> </name> </person-group> <article-title xml:lang=\"en\">Exploring the interactive coercing relationship between urbanization and ecosystem service value in the Shanghai-Hangzhou Bay Metropolitan Region</article-title> <source>Journal of Cleaner Production</source> <year>2020</year> <volume>253</volume> <pub-id pub-id-type=\"doi\">10.1016/j.jclepro.2019.119803</pub-id> </mixed-citation> </ref>",
+    "<ref id=\"CR41\"> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Xie</surname> <given-names>G</given-names> </name> <name> <surname>Zhang</surname> <given-names>C</given-names> </name> <name> <surname>Zhen</surname> <given-names>L</given-names> </name> <name> <surname>Zhang</surname> <given-names>L</given-names> </name> </person-group> <article-title xml:lang=\"en\">Dynamic changes in the value of China\u2019s ecosystem services</article-title> <source>Ecosystem Services</source> <year>2017</year> <volume>26</volume> <fpage>146</fpage> <lpage>154</lpage> <pub-id pub-id-type=\"doi\">10.1016/j.ecoser.2017.06.010</pub-id> </mixed-citation> </ref>",
+    "<ref id=\"CR42\"> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Xie</surname> <given-names>G</given-names> </name> <name> <surname>Zhen</surname> <given-names>L</given-names> </name> <name> <surname>Lu</surname> <given-names>C</given-names> </name> <name> <surname>Xiao</surname> <given-names>Y</given-names> </name> <name> <surname>Chen</surname> <given-names>C</given-names> </name> </person-group> <article-title xml:lang=\"en\">Expert knowledge-based valuation method of ecosystem services in China</article-title> <source>Journal of Natura Resource</source> <year>2008</year> <volume>23</volume> <fpage>911</fpage> <lpage>919</lpage> <pub-id pub-id-type=\"doi\">10.11849/zrzyxb.2008.05.019</pub-id> <comment>In Chinese</comment> </mixed-citation> </ref>",
+    "<ref id=\"CR43\"> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Xu</surname> <given-names>J</given-names> </name> <name> <surname>Yin</surname> <given-names>R</given-names> </name> <name> <surname>Li</surname> <given-names>Z</given-names> </name> <name> <surname>Liu</surname> <given-names>C</given-names> </name> </person-group> <article-title xml:lang=\"en\">China\u2019s ecological rehabilitation: unprecedented efforts, dramatic impacts, and requisite policies</article-title> <source>Ecological Economics</source> <year>2006</year> <volume>57</volume> <fpage>595</fpage> <lpage>607</lpage> <pub-id pub-id-type=\"doi\">10.1016/j.ecolecon.2005.05.008</pub-id> </mixed-citation> </ref>",
+    "<ref id=\"CR44\"> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Yang</surname> <given-names>MG</given-names> </name> <name> <surname>Gao</surname> <given-names>XD</given-names> </name> <name> <surname>Siddique</surname> <given-names>KHM</given-names> </name> <name> <surname>Wu</surname> <given-names>PT</given-names> </name> <name> <surname>Zhao</surname> <given-names>XN</given-names> </name> </person-group> <article-title xml:lang=\"en\">Spatiotemporal exploration of ecosystem service, urbanization, and their interactive coercing relationship in the Yellow River Basin over the past 40 years</article-title> <source>Science of The Total Environment</source> <year>2023</year> <volume>858</volume> <fpage>159757</fpage> <pub-id pub-id-type=\"coi\">1:CAS:528:DC%2BB38XivVWnt7rK</pub-id> <pub-id pub-id-type=\"doi\">10.1016/j.scitotenv.2022.159757</pub-id> <pub-id pub-id-type=\"pmid\">36349629</pub-id> <pub-id pub-id-type=\"bibcode\">2023ScTEn.858o9757Y</pub-id> </mixed-citation> </ref>",
+    "<ref id=\"CR45\"> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Yin</surname> <given-names>R</given-names> </name> <name> <surname>Yin</surname> <given-names>G</given-names> </name> </person-group> <article-title xml:lang=\"en\">China\u2019s primary programs of terrestrial ecosystem restoration: initiation, implementation, and challenges</article-title> <source>Environmental Management</source> <year>2010</year> <volume>45</volume> <fpage>429</fpage> <lpage>441</lpage> <pub-id pub-id-type=\"doi\">10.1007/s00267-009-9373-x</pub-id> <pub-id pub-id-type=\"pmid\">19771465</pub-id> <pub-id pub-id-type=\"bibcode\">2010EnMan..45..429Y</pub-id> </mixed-citation> </ref>",
+    "<ref id=\"CR46\"> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Zhang</surname> <given-names>Y</given-names> </name> <name> <surname>Liu</surname> <given-names>YF</given-names> </name> <name> <surname>Zhang</surname> <given-names>Y</given-names> </name> <name> <surname>Liu</surname> <given-names>Y</given-names> </name> <name> <surname>Zhang</surname> <given-names>G</given-names> </name> <name> <surname>Chen</surname> <given-names>Y</given-names> </name> </person-group> <article-title xml:lang=\"en\">On the spatial relationship between ecosystem services and urbanization: a case study in Wuhan, China</article-title> <source>Sci Total Environ</source> <year>2019</year> <volume>637\u2013638</volume> <fpage>780</fpage> <lpage>790</lpage> <pub-id pub-id-type=\"coi\">1:CAS:528:DC%2BC1cXpsl2rt7c%3D</pub-id> <pub-id pub-id-type=\"doi\">10.1016/j.scitotenv.2018.04.396</pub-id> <pub-id pub-id-type=\"bibcode\">2019ScTEn.688..780Z</pub-id> </mixed-citation> </ref>",
+    "<ref id=\"CR47\"> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Zhang</surname> <given-names>J</given-names> </name> <name> <surname>Qu</surname> <given-names>M</given-names> </name> <name> <surname>Wang</surname> <given-names>C</given-names> </name> <name> <surname>Zhao</surname> <given-names>J</given-names> </name> <name> <surname>Cao</surname> <given-names>Y</given-names> </name> </person-group> <article-title xml:lang=\"en\">Quantifying landscape pattern and ecosystem service value changes: a case study at the county level in the Chinese LoessPlateau</article-title> <source>Global Ecology and Conservation</source> <year>2020</year> <volume>23</volume> <fpage> 01110</fpage> <pub-id pub-id-type=\"doi\">10.1016/j.gecco.2020.e01110</pub-id> </mixed-citation> </ref>",
+    "<ref id=\"CR48\"> <mixed-citation publication-type=\"other\">Zhang H, Wang Z, Yang B, Chai J, Wei C (2021) Spatial-temporal characteristics of illegal land use and its driving factors in China from 2004 to 2017. Journal of Environmental Research and Public Health 18. \t\t\t\t\t\t<ext-link ext-link-type=\"doi\" xlink:href=\"https://doi.org/10.3390/ijerph18031336\">https://doi.org/10.3390/ijerph18031336</ext-link> </mixed-citation> </ref>",
+    "<ref id=\"CR49\"> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Zhang</surname> <given-names>Y</given-names> </name> <name> <surname>Wu</surname> <given-names>T</given-names> </name> <name> <surname>Song</surname> <given-names>CS</given-names> </name> <name> <surname>Hein</surname> <given-names>L</given-names> </name> <name> <surname>Shi</surname> <given-names>FQ</given-names> </name> <name> <surname>Han</surname> <given-names>MH</given-names> </name> <name> <surname>Ouyang</surname> <given-names>ZY</given-names> </name> </person-group> <article-title xml:lang=\"en\">Influences of climate change and land use change on the interactions of ecosystem services in China\u2019s Xijiang River Basin</article-title> <source>Ecosystem Service</source> <year>2022</year> <volume>58</volume> <fpage>101489</fpage> <pub-id pub-id-type=\"doi\">10.1016/j.ecoser.2022.101489</pub-id> </mixed-citation> </ref>",
+    "<ref id=\"CR50\"> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Zhao</surname> <given-names>Q</given-names> </name> <name> <surname>Wen</surname> <given-names>Z</given-names> </name> <name> <surname>Chen</surname> <given-names>S</given-names> </name> <name> <surname>Ding</surname> <given-names>S</given-names> </name> <name> <surname>Zhang</surname> <given-names>M</given-names> </name> </person-group> <article-title xml:lang=\"en\">Quantifying land use/land cover and landscape pattern changes and impacts on ecosystem services</article-title> <source>International Journal of Environmental Research and Public Health</source> <year>2020</year> <volume>17</volume> <issue>1</issue> <fpage> 126</fpage> <pub-id pub-id-type=\"doi\">10.3390/ijerph17010126</pub-id> </mixed-citation> </ref>",
+    "<ref id=\"CR51\"> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Zheng</surname> <given-names>DF</given-names> </name> <name> <surname>Wang</surname> <given-names>YH</given-names> </name> <name> <surname>Hao</surname> <given-names>S</given-names> </name> <name> <surname>Xu</surname> <given-names>WJ</given-names> </name> <name> <surname>Lv</surname> <given-names>LT</given-names> </name> <name> <surname>Yu</surname> <given-names>S</given-names> </name> </person-group> <article-title xml:lang=\"en\">Spatial-temporal variation and tradeoffs/synergies analysis on multiple ecosystem services: a case study in the three-river Headwaters region of China</article-title> <source>Ecological Indicators</source> <year>2020</year> <volume>116</volume> <fpage>106494</fpage> <pub-id pub-id-type=\"doi\">10.1016/j.ecolind.2020.106494</pub-id> </mixed-citation> </ref>",
+    "<ref id=\"CR52\"> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Zhu</surname> <given-names>LY</given-names> </name> <name> <surname>Sun</surname> <given-names>S</given-names> </name> <name> <surname>Li</surname> <given-names>Y</given-names> </name> <name> <surname>Liu</surname> <given-names>XB</given-names> </name> <name> <surname>Hu</surname> <given-names>K</given-names> </name> </person-group> <article-title xml:lang=\"en\">Effects of climate change and anthropogenic activity on the vegetation greening in the Liaohe River Basin of northeastern China</article-title> <source>Ecological Indicators</source> <year>2023</year> <volume>148</volume> <fpage>110105</fpage> <pub-id pub-id-type=\"doi\">10.1016/j.ecolind.2023.110105</pub-id> </mixed-citation> </ref>"
+  ],
+  "title": {
+    "textEnglish": "Identifying Internal Distributions and Multi-Scenario Simulation of Ecosystem Service Value in Liaohe Basin Based on Geodetector and PLUS Model"
+  }
+}

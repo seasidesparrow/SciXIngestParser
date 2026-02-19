@@ -1,0 +1,102 @@
+{
+  "authors": [
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Institute for Pulsed Power and Microwave Technology, Karlsruhe Institute of Technology, Germany"
+        }
+      ],
+      "attrib": {
+        "email": "christian.gusbeth@kit.edu",
+        "orcid": "0000-0002-1457-5994"
+      },
+      "name": {
+        "given_name": "Christian",
+        "surname": "Gusbeth"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Institute for Pulsed Power and Microwave Technology, Karlsruhe Institute of Technology, Germany"
+        }
+      ],
+      "name": {
+        "given_name": "Wolfgang",
+        "surname": "Frey"
+      }
+    }
+  ],
+  "copyright": {
+    "statement": "\u00a9 2024 Elsevier B.V. All rights reserved.",
+    "status": true
+  },
+  "doctype": "article",
+  "editorialHistory": {
+    "acceptedDate": "2024-02-04",
+    "receivedDates": [
+      "2024-01-31"
+    ]
+  },
+  "esources": [
+    {
+      "location": "http://dx.doi.org/10.1016/j.plrev.2024.02.001",
+      "source": "pub_html"
+    }
+  ],
+  "pagination": {
+    "firstPage": "201",
+    "lastPage": "202"
+  },
+  "persistentIDs": [
+    {
+      "DOI": "10.1016/j.plrev.2024.02.001"
+    }
+  ],
+  "pubDate": {
+    "printDate": "2024-03-00"
+  },
+  "publication": {
+    "ISSN": [
+      {
+        "issnString": "1571-0645",
+        "pubtype": "not specified"
+      }
+    ],
+    "pubName": "Physics of Life Reviews",
+    "pubYear": "2024",
+    "publisher": "Elsevier B.V.",
+    "volumeNum": "48"
+  },
+  "publisherIDs": [
+    {
+      "Identifier": "S1571-0645(24)00008-3",
+      "attribute": "PII"
+    }
+  ],
+  "recordData": {
+    "createdTime": "",
+    "loadFormat": "Elsevier",
+    "loadLocation": "",
+    "loadType": "fromFile",
+    "parsedTime": "",
+    "recordOrigin": ""
+  },
+  "references": [
+    "<sb:reference id=\"sbref0001\"><sb:contribution langtype=\"en\"><sb:authors><sb:author><ce:given-name>F.</ce:given-name><ce:surname>Zare</ce:surname></sb:author><sb:author><ce:given-name>N.</ce:given-name><ce:surname>Ghasemi</ce:surname></sb:author><sb:author><ce:given-name>N.</ce:given-name><ce:surname>Bansal</ce:surname></sb:author><sb:author><ce:given-name>H.</ce:given-name><ce:surname>Hosano</ce:surname></sb:author></sb:authors><sb:title><sb:maintitle>Advances in pulsed electric stimuli as a physical method for treating liquid foods</sb:maintitle></sb:title></sb:contribution><sb:host><sb:issue><sb:series><sb:title><sb:maintitle>Phys Life Rev</sb:maintitle></sb:title><sb:volume-nr>44</sb:volume-nr></sb:series><sb:date>2023</sb:date></sb:issue><sb:pages><sb:first-page>207</sb:first-page><sb:last-page>266</sb:last-page></sb:pages><ce:doi>10.1016/j.plrev.2023.01.007</ce:doi></sb:host><sb:comment>this issue</sb:comment></sb:reference>",
+    "<sb:reference id=\"sbref0002\"><sb:contribution langtype=\"en\"><sb:authors><sb:author><ce:given-name>M.</ce:given-name><ce:surname>Sack</ce:surname></sb:author><sb:author><ce:given-name>J.</ce:given-name><ce:surname>Sigler</ce:surname></sb:author><sb:author><ce:given-name>S.</ce:given-name><ce:surname>Frenzel</ce:surname></sb:author><sb:author><ce:given-name>C.</ce:given-name><ce:surname>Eing</ce:surname></sb:author><sb:author><ce:given-name>J.</ce:given-name><ce:surname>Arnold</ce:surname></sb:author><sb:author><ce:given-name>T.</ce:given-name><ce:surname>Michelberger</ce:surname></sb:author><sb:et-al/></sb:authors><sb:title><sb:maintitle>Research on industrial-scale electroporation devices fostering the extraction of substances from biological tissue</sb:maintitle></sb:title></sb:contribution><sb:host><sb:issue><sb:series><sb:title><sb:maintitle>Food Eng. Rev.</sb:maintitle></sb:title><sb:volume-nr>2</sb:volume-nr></sb:series><sb:issue-nr>2</sb:issue-nr><sb:date>2010</sb:date></sb:issue><sb:pages><sb:first-page>147</sb:first-page><sb:last-page>156</sb:last-page></sb:pages><ce:doi>10.1007/s12393-010-9017-1</ce:doi></sb:host></sb:reference>",
+    "<sb:reference id=\"sbref0003\"><sb:contribution langtype=\"en\"><sb:title><sb:maintitle>A report of the institute of food technologists for the food and drug administration of the U.S. department of health and human services. kinetics of microbial inactivation for alternative food processing technologies. IFT/FDA Contract No. 223-98-2333</sb:maintitle></sb:title></sb:contribution><sb:host><sb:issue><sb:series><sb:title><sb:maintitle>J Food Sci</sb:maintitle></sb:title><sb:volume-nr>65</sb:volume-nr></sb:series><sb:issue-nr>Suplement s8</sb:issue-nr><sb:date>2000</sb:date></sb:issue></sb:host></sb:reference>",
+    "<sb:reference id=\"sbref0004\"><sb:contribution langtype=\"en\"><sb:authors><sb:author><ce:given-name>J.</ce:given-name><ce:surname>Riener</ce:surname></sb:author><sb:author><ce:given-name>F.</ce:given-name><ce:surname>Noci</ce:surname></sb:author><sb:author><ce:given-name>D.A.</ce:given-name><ce:surname>Cronin</ce:surname></sb:author><sb:author><ce:given-name>D.J.</ce:given-name><ce:surname>Morgan</ce:surname></sb:author><sb:author><ce:given-name>J.G.</ce:given-name><ce:surname>Lyng</ce:surname></sb:author></sb:authors><sb:title><sb:maintitle>Combined effect of temperature and pulsed electric fields on apple juice peroxidase and polyphenoloxidase inactivation</sb:maintitle></sb:title></sb:contribution><sb:host><sb:issue><sb:series><sb:title><sb:maintitle>Food Chem</sb:maintitle></sb:title><sb:volume-nr>109</sb:volume-nr></sb:series><sb:issue-nr>2</sb:issue-nr><sb:date>2008</sb:date></sb:issue><sb:pages><sb:first-page>402</sb:first-page><sb:last-page>407</sb:last-page></sb:pages><ce:doi>10.1016/j.foodchem.2007.12.059</ce:doi></sb:host></sb:reference>",
+    "<sb:reference id=\"sbref0005\"><sb:contribution langtype=\"en\"><sb:authors><sb:author><ce:given-name>M.</ce:given-name><ce:surname>Breton</ce:surname></sb:author><sb:author><ce:given-name>L.M.</ce:given-name><ce:surname>Mir</ce:surname></sb:author></sb:authors><sb:title><sb:maintitle>Investigation of the chemical mechanisms involved in the electropulsation of membranes at the molecular level</sb:maintitle></sb:title></sb:contribution><sb:host><sb:issue><sb:series><sb:title><sb:maintitle>Bioelectrochemistry</sb:maintitle></sb:title><sb:volume-nr>119</sb:volume-nr></sb:series><sb:date>2018</sb:date></sb:issue><sb:pages><sb:first-page>76</sb:first-page><sb:last-page>83</sb:last-page></sb:pages><ce:doi>10.1016/j.bioelechem.2017.09.005</ce:doi></sb:host></sb:reference>",
+    "<sb:reference id=\"sbref0006\"><sb:contribution langtype=\"en\"><sb:authors><sb:author><ce:given-name>J.</ce:given-name><ce:surname>Morren</ce:surname></sb:author><sb:author><ce:given-name>B.</ce:given-name><ce:surname>Roodenburg</ce:surname></sb:author><sb:author><ce:given-name>S.W.</ce:given-name><ce:surname>Haan</ce:surname></sb:author></sb:authors><sb:title><sb:maintitle>Electrochemical reactions and electrode corrosion in pulsed electric field (PEF) treatment chambers</sb:maintitle></sb:title></sb:contribution><sb:host><sb:issue><sb:series><sb:title><sb:maintitle>Innov Food Sci Emerg Technol</sb:maintitle></sb:title><sb:volume-nr>4</sb:volume-nr></sb:series><sb:issue-nr>3</sb:issue-nr><sb:date>2003</sb:date></sb:issue><sb:pages><sb:first-page>285</sb:first-page><sb:last-page>295</sb:last-page></sb:pages><ce:doi>10.1016/S1466-8564(03)00041-9</ce:doi></sb:host></sb:reference>",
+    "<sb:reference id=\"sbref0007\"><sb:contribution langtype=\"en\"><sb:authors><sb:author><ce:given-name>C.A.</ce:given-name><ce:surname>Gusbeth</ce:surname></sb:author><sb:author><ce:given-name>W.</ce:given-name><ce:surname>Frey</ce:surname></sb:author><sb:author><ce:given-name>T.</ce:given-name><ce:surname>Schwartz</ce:surname></sb:author><sb:author><ce:given-name>A.</ce:given-name><ce:surname>Rieder</ce:surname></sb:author></sb:authors><sb:title><sb:maintitle>Critical comparison between the pulsed electric field and thermal decontamination methods of hospital wastewater</sb:maintitle></sb:title></sb:contribution><sb:host><sb:issue><sb:series><sb:title><sb:maintitle>Acta Phys Pol A</sb:maintitle></sb:title><sb:volume-nr>115</sb:volume-nr></sb:series><sb:issue-nr>6</sb:issue-nr><sb:date>2009</sb:date></sb:issue><sb:pages><sb:first-page>1092</sb:first-page><sb:last-page>1094</sb:last-page></sb:pages><ce:doi>10.12693/APhysPolA.115.1092</ce:doi></sb:host></sb:reference>",
+    "<sb:reference id=\"sbref0008\"><sb:contribution langtype=\"en\"><sb:authors><sb:collaboration>European Commission</sb:collaboration></sb:authors><sb:title><sb:maintitle>Commission regulation (EC) No 2073/2005 on microbiological criteria for foodstuffs products: OJ L 167</sb:maintitle></sb:title></sb:contribution><sb:host><sb:book><sb:date>2005</sb:date></sb:book><sb:pages><sb:first-page>1</sb:first-page><sb:last-page>26</sb:last-page></sb:pages></sb:host><sb:host><sb:e-host><ce:inter-ref id=\"crf9000\" xlink:href=\"http://data.europa.eu/eli/reg/2005/2073/oj\" xlink:type=\"simple\">http://data.europa.eu/eli/reg/2005/2073/oj</ce:inter-ref></sb:e-host></sb:host></sb:reference>",
+    "<sb:reference id=\"sbref0009\"><sb:contribution langtype=\"en\"><sb:authors><sb:author><ce:given-name>G.V.</ce:given-name><ce:surname>Barbosa-C\u00e1novas</ce:surname></sb:author><sb:author><ce:given-name>M.M.</ce:given-name><ce:surname>G\u00f3ngora-Nieto</ce:surname></sb:author><sb:author><ce:given-name>U.R.</ce:given-name><ce:surname>Pothakamury</ce:surname></sb:author><sb:author><ce:given-name>B.G.</ce:given-name><ce:surname>Swanson</ce:surname></sb:author></sb:authors><sb:title><sb:maintitle>PEF inactivation of vegetative cells, spores, and enzymes in foods</sb:maintitle></sb:title></sb:contribution><sb:host><sb:book><sb:title><sb:maintitle>Preservation of foods with pulsed electric fields</sb:maintitle></sb:title><sb:date>1999</sb:date><sb:publisher><sb:name>Elsevier</sb:name></sb:publisher></sb:book><sb:pages><sb:first-page>108</sb:first-page><sb:last-page>155</sb:last-page></sb:pages></sb:host></sb:reference>",
+    "<sb:reference id=\"sbref0010\"><sb:contribution langtype=\"en\"><sb:authors><sb:author><ce:given-name>C.</ce:given-name><ce:surname>Gusbeth</ce:surname></sb:author><sb:author><ce:given-name>W.</ce:given-name><ce:surname>Frey</ce:surname></sb:author><sb:author><ce:given-name>H.</ce:given-name><ce:surname>Volkmann</ce:surname></sb:author><sb:author><ce:given-name>T.</ce:given-name><ce:surname>Schwartz</ce:surname></sb:author><sb:author><ce:given-name>H.</ce:given-name><ce:surname>Bluhm</ce:surname></sb:author></sb:authors><sb:title><sb:maintitle>Pulsed electric field treatment for bacteria reduction and its impact on hospital wastewater</sb:maintitle></sb:title></sb:contribution><sb:host><sb:issue><sb:series><sb:title><sb:maintitle>Chemosphere</sb:maintitle></sb:title><sb:volume-nr>75</sb:volume-nr></sb:series><sb:issue-nr>2</sb:issue-nr><sb:date>2009</sb:date></sb:issue><sb:pages><sb:first-page>228</sb:first-page><sb:last-page>233</sb:last-page></sb:pages><ce:doi>10.1016/j.chemosphere.2008.11.066</ce:doi></sb:host></sb:reference>",
+    "<sb:reference id=\"sbref0011\"><sb:contribution langtype=\"en\"><sb:authors><sb:author><ce:given-name>A.</ce:given-name><ce:surname>Rieder</ce:surname></sb:author><sb:author><ce:given-name>T.</ce:given-name><ce:surname>Schwartz</ce:surname></sb:author><sb:author><ce:given-name>K.</ce:given-name><ce:surname>Sch\u00f6n-H\u00f6lz</ce:surname></sb:author><sb:author><ce:given-name>S.M.</ce:given-name><ce:surname>Marten</ce:surname></sb:author><sb:author><ce:given-name>J.</ce:given-name><ce:surname>S\u00fcss</ce:surname></sb:author><sb:author><ce:given-name>C.</ce:given-name><ce:surname>Gusbeth</ce:surname></sb:author><sb:et-al/></sb:authors><sb:title><sb:maintitle>Molecular monitoring of inactivation efficiencies of bacteria during pulsed electric field treatment of clinical wastewater</sb:maintitle></sb:title></sb:contribution><sb:host><sb:issue><sb:series><sb:title><sb:maintitle>J Appl Microbiol</sb:maintitle></sb:title><sb:volume-nr>105</sb:volume-nr></sb:series><sb:issue-nr>6</sb:issue-nr><sb:date>2008</sb:date></sb:issue><sb:pages><sb:first-page>2035</sb:first-page><sb:last-page>2045</sb:last-page></sb:pages><ce:doi>10.1111/j.1365-2672.2008.03972.x</ce:doi></sb:host></sb:reference>",
+    "<sb:reference id=\"sbref0012\"><sb:contribution langtype=\"en\"><sb:authors><sb:author><ce:given-name>C.</ce:given-name><ce:surname>Gusbeth</ce:surname></sb:author><sb:author><ce:given-name>P.</ce:given-name><ce:surname>Krolla</ce:surname></sb:author><sb:author><ce:given-name>J.</ce:given-name><ce:surname>Bruchmann</ce:surname></sb:author><sb:author><ce:given-name>T.</ce:given-name><ce:surname>Schwartz</ce:surname></sb:author><sb:author><ce:given-name>G.</ce:given-name><ce:surname>M\u00fcller</ce:surname></sb:author><sb:author><ce:given-name>W.</ce:given-name><ce:surname>Frey</ce:surname></sb:author></sb:authors><sb:title><sb:maintitle>Bacterial decontamination of process liquids and paints in E-coating lines by pulsed electric field treatment</sb:maintitle></sb:title></sb:contribution><sb:host><sb:issue><sb:series><sb:title><sb:maintitle>J Coat Technol Res</sb:maintitle></sb:title></sb:series><sb:date>2024</sb:date></sb:issue><ce:doi>10.1007/s11998-023-00901-4</ce:doi></sb:host></sb:reference>"
+  ],
+  "title": {
+    "textEnglish": "Processing liquid food with hundreds of hertz and tens of kilovolts Comment on \u201cadvances in pulsed electric stimuli as a physical method for treating liquid foods\u201d by F. Zare, N. Ghasemi, N. Bansal and H. Hosano"
+  }
+}

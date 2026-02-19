@@ -1,0 +1,55 @@
+{
+  "copyright": {
+    "statement": "Copyright @ 2009 Published by Elsevier Ltd All rights reserved.",
+    "status": true
+  },
+  "doctype": "article",
+  "esources": [
+    {
+      "location": "http://dx.doi.org/10.1016/S0047-2484(09)00231-0",
+      "source": "pub_html"
+    }
+  ],
+  "pagination": {
+    "firstPage": "I",
+    "lastPage": "I"
+  },
+  "persistentIDs": [
+    {
+      "DOI": "10.1016/S0047-2484(09)00231-0"
+    }
+  ],
+  "pubDate": {
+    "printDate": "2010-00-00"
+  },
+  "publication": {
+    "ISSN": [
+      {
+        "issnString": "0047-2484",
+        "pubtype": "not specified"
+      }
+    ],
+    "issueNum": "2",
+    "pubName": "Journal of Human Evolution",
+    "pubYear": "2010",
+    "publisher": "Elsevier Ltd",
+    "volumeNum": "58"
+  },
+  "publisherIDs": [
+    {
+      "Identifier": "S0047-2484(09)00231-0",
+      "attribute": "PII"
+    }
+  ],
+  "recordData": {
+    "createdTime": "",
+    "loadFormat": "Elsevier",
+    "loadLocation": "",
+    "loadType": "fromFile",
+    "parsedTime": "",
+    "recordOrigin": ""
+  },
+  "title": {
+    "textEnglish": "Book Reviews"
+  }
+}

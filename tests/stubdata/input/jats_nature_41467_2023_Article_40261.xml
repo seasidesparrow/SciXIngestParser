@@ -1,0 +1,414 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article SYSTEM "http://jats.nlm.nih.gov/archiving/1.2/JATS-archivearticle1.dtd">
+<article
+	xmlns:mml="http://www.w3.org/1998/Math/MathML"
+	xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.2" article-type="correction" xml:lang="en">
+	<?properties open_access?>
+	<front>
+		<journal-meta>
+			<journal-id journal-id-type="publisher-id">41467</journal-id>
+			<journal-id journal-id-type="doi">10.1038/41467.2041-1723</journal-id>
+			<journal-title-group>
+				<journal-title>Nature Communications</journal-title>
+				<abbrev-journal-title abbrev-type="publisher">Nat Commun</abbrev-journal-title>
+			</journal-title-group>
+			<issn pub-type="epub">2041-1723</issn>
+			<publisher>
+				<publisher-name>Nature Publishing Group UK</publisher-name>
+				<publisher-loc>London</publisher-loc>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="publisher-id">s41467-023-40261-6</article-id>
+			<article-id pub-id-type="manuscript">40261</article-id>
+			<article-id pub-id-type="doi">10.1038/s41467-023-40261-6</article-id>
+			<article-categories>
+				<subj-group subj-group-type="heading">
+					<subject>Author Correction</subject>
+				</subj-group>
+				<subj-group subj-group-type="SubjectPath">
+					<subject>/631/114/1564</subject>
+				</subj-group>
+				<subj-group subj-group-type="SubjectPath">
+					<subject>/631/114/2404</subject>
+				</subj-group>
+				<subj-group subj-group-type="SubjectPath">
+					<subject>/631/1647/328/2238</subject>
+				</subj-group>
+				<subj-group subj-group-type="NatureArticleTypeID">
+					<subject>author-correction</subject>
+				</subj-group>
+			</article-categories>
+			<title-group>
+				<article-title xml:lang="en">Author Correction: Super-resolved trajectory-derived nanoclustering analysis using spatiotemporal indexing</article-title>
+			</title-group>
+			<contrib-group>
+				<contrib contrib-type="author" corresp="yes" id="Au1">
+					<contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-6515-9157</contrib-id>
+					<name>
+						<surname>Wallis</surname>
+						<given-names>Tristan P.</given-names>
+					</name>
+					<xref ref-type="aff" rid="Aff1">1</xref>
+					<xref ref-type="corresp" rid="IDs41467023402616_cor1">a</xref>
+				</contrib>
+				<contrib contrib-type="author" id="Au2">
+					<name>
+						<surname>Jiang</surname>
+						<given-names>Anmin</given-names>
+					</name>
+					<xref ref-type="aff" rid="Aff1">1</xref>
+				</contrib>
+				<contrib contrib-type="author" id="Au3">
+					<name>
+						<surname>Young</surname>
+						<given-names>Kyle</given-names>
+					</name>
+					<xref ref-type="aff" rid="Aff2">2</xref>
+				</contrib>
+				<contrib contrib-type="author" id="Au4">
+					<name>
+						<surname>Hou</surname>
+						<given-names>Huiyi</given-names>
+					</name>
+					<xref ref-type="aff" rid="Aff1">1</xref>
+				</contrib>
+				<contrib contrib-type="author" id="Au5">
+					<contrib-id contrib-id-type="orcid">http://orcid.org/0000-0003-3094-438X</contrib-id>
+					<name>
+						<surname>Kudo</surname>
+						<given-names>Kye</given-names>
+					</name>
+					<xref ref-type="aff" rid="Aff1">1</xref>
+				</contrib>
+				<contrib contrib-type="author" id="Au6">
+					<name>
+						<surname>McCann</surname>
+						<given-names>Alex J.</given-names>
+					</name>
+					<xref ref-type="aff" rid="Aff1">1</xref>
+				</contrib>
+				<contrib contrib-type="author" id="Au7">
+					<name>
+						<surname>Durisic</surname>
+						<given-names>Nela</given-names>
+					</name>
+					<xref ref-type="aff" rid="Aff3">3</xref>
+				</contrib>
+				<contrib contrib-type="author" id="Au8">
+					<contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-4533-0455</contrib-id>
+					<name>
+						<surname>Joensuu</surname>
+						<given-names>Merja</given-names>
+					</name>
+					<xref ref-type="aff" rid="Aff1">1</xref>
+					<xref ref-type="aff" rid="Aff5">5</xref>
+				</contrib>
+				<contrib contrib-type="author" id="Au9">
+					<contrib-id contrib-id-type="orcid">http://orcid.org/0000-0001-6981-4350</contrib-id>
+					<name>
+						<surname>Oelz</surname>
+						<given-names>Dietmar</given-names>
+					</name>
+					<xref ref-type="aff" rid="Aff2">2</xref>
+				</contrib>
+				<contrib contrib-type="author" id="Au10">
+					<name>
+						<surname>Nguyen</surname>
+						<given-names>Hien</given-names>
+					</name>
+					<xref ref-type="aff" rid="Aff2">2</xref>
+				</contrib>
+				<contrib contrib-type="author" corresp="yes" id="Au11">
+					<contrib-id contrib-id-type="orcid">http://orcid.org/0000-0003-1604-0253</contrib-id>
+					<name>
+						<surname>Gormal</surname>
+						<given-names>Rachel S.</given-names>
+					</name>
+					<xref ref-type="aff" rid="Aff1">1</xref>
+					<xref ref-type="corresp" rid="IDs41467023402616_cor11">m</xref>
+				</contrib>
+				<contrib contrib-type="author" corresp="yes" id="Au12">
+					<contrib-id contrib-id-type="orcid">http://orcid.org/0000-0001-6400-1107</contrib-id>
+					<name>
+						<surname>Meunier</surname>
+						<given-names>Frédéric A.</given-names>
+					</name>
+					<xref ref-type="aff" rid="Aff1">1</xref>
+					<xref ref-type="aff" rid="Aff4">4</xref>
+					<xref ref-type="corresp" rid="IDs41467023402616_cor12">n</xref>
+				</contrib>
+				<aff id="Aff1">
+					<label>1</label>
+					<institution-wrap>
+						<institution-id institution-id-type="GRID">grid.1003.2</institution-id>
+						<institution-id institution-id-type="ISNI">0000 0000 9320 7537</institution-id>
+						<institution content-type="org-division">Clem Jones Centre for Ageing Dementia Research, Queensland Brain Institute</institution>
+						<institution content-type="org-name">The University of Queensland</institution>
+					</institution-wrap>
+					<addr-line content-type="postcode">4072</addr-line>
+					<addr-line content-type="city">Brisbane</addr-line>
+					<addr-line content-type="state">QLD</addr-line>
+					<country country="AU">Australia</country>
+				</aff>
+				<aff id="Aff2">
+					<label>2</label>
+					<institution-wrap>
+						<institution-id institution-id-type="GRID">grid.1003.2</institution-id>
+						<institution-id institution-id-type="ISNI">0000 0000 9320 7537</institution-id>
+						<institution content-type="org-division">School of Mathematics and Physics</institution>
+						<institution content-type="org-name">The University of Queensland</institution>
+					</institution-wrap>
+					<addr-line content-type="postcode">4072</addr-line>
+					<addr-line content-type="city">Brisbane</addr-line>
+					<addr-line content-type="state">QLD</addr-line>
+					<country country="AU">Australia</country>
+				</aff>
+				<aff id="Aff3">
+					<label>3</label>
+					<institution-wrap>
+						<institution-id institution-id-type="GRID">grid.1003.2</institution-id>
+						<institution-id institution-id-type="ISNI">0000 0000 9320 7537</institution-id>
+						<institution content-type="org-division">Queensland Brain Institute</institution>
+						<institution content-type="org-name">The University of Queensland</institution>
+					</institution-wrap>
+					<addr-line content-type="postcode">4072</addr-line>
+					<addr-line content-type="city">Brisbane</addr-line>
+					<addr-line content-type="state">QLD</addr-line>
+					<country country="AU">Australia</country>
+				</aff>
+				<aff id="Aff4">
+					<label>4</label>
+					<institution-wrap>
+						<institution-id institution-id-type="GRID">grid.1003.2</institution-id>
+						<institution-id institution-id-type="ISNI">0000 0000 9320 7537</institution-id>
+						<institution content-type="org-division">School of Biomedical Sciences</institution>
+						<institution content-type="org-name">The University of Queensland</institution>
+					</institution-wrap>
+					<addr-line content-type="postcode">4072</addr-line>
+					<addr-line content-type="city">Brisbane</addr-line>
+					<addr-line content-type="state">QLD</addr-line>
+					<country country="AU">Australia</country>
+				</aff>
+				<aff id="Aff5">
+					<label>5</label>
+					<institution-wrap>
+						<institution-id institution-id-type="GRID">grid.1003.2</institution-id>
+						<institution-id institution-id-type="ISNI">0000 0000 9320 7537</institution-id>
+						<institution content-type="org-division">Australian Institute for Bioengineering and Nanotechnology</institution>
+						<institution content-type="org-name">The University of Queensland</institution>
+					</institution-wrap>
+					<addr-line content-type="postcode">4072</addr-line>
+					<addr-line content-type="city">Brisbane</addr-line>
+					<addr-line content-type="state">QLD</addr-line>
+					<country country="AU">Australia</country>
+				</aff>
+			</contrib-group>
+			<author-notes>
+				<corresp id="IDs41467023402616_cor1">
+					<label>a</label>
+					<email>t.wallis@uq.edu.au</email>
+				</corresp>
+				<corresp id="IDs41467023402616_cor11">
+					<label>m</label>
+					<email>r.gormal@uq.edu.au</email>
+				</corresp>
+				<corresp id="IDs41467023402616_cor12">
+					<label>n</label>
+					<email>f.meunier@uq.edu.au</email>
+				</corresp>
+			</author-notes>
+			<pub-date date-type="pub" publication-format="electronic">
+				<day>25</day>
+				<month>7</month>
+				<year>2023</year>
+			</pub-date>
+			<pub-date date-type="collection" publication-format="electronic">
+				<month>12</month>
+				<year>2023</year>
+			</pub-date>
+			<volume>14</volume>
+			<issue seq="4468">1</issue>
+			<elocation-id>4468</elocation-id>
+			<history>
+				<date date-type="registration">
+					<day>20</day>
+					<month>7</month>
+					<year>2023</year>
+				</date>
+				<date date-type="online">
+					<day>25</day>
+					<month>7</month>
+					<year>2023</year>
+				</date>
+			</history>
+			<permissions>
+				<copyright-statement>© The Author(s) 2023</copyright-statement>
+				<copyright-year>2023</copyright-year>
+				<license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/4.0/">
+					<license-p>
+						<bold>Open Access</bold> This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, and indicate if changes were made. The images or other third party material in this article are included in the article’s Creative Commons license, unless indicated otherwise in a credit line to the material. If material is not included in the article’s Creative Commons license and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this license, visit
+						<ext-link xlink:href="http://creativecommons.org/licenses/by/4.0/" ext-link-type="url">http://creativecommons.org/licenses/by/4.0/</ext-link>.
+					</license-p>
+				</license>
+			</permissions>
+			<related-article related-article-type="corrected-article" ext-link-type="doi" xlink:href="10.1038/s41467-023-38866-y"/>
+			<custom-meta-group>
+				<custom-meta>
+					<meta-name>publisher-imprint-name</meta-name>
+					<meta-value>Nature Portfolio</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>volume-issue-count</meta-name>
+					<meta-value>1</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>issue-article-count</meta-name>
+					<meta-value>4468</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>issue-toc-levels</meta-name>
+					<meta-value>0</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>issue-pricelist-year</meta-name>
+					<meta-value>2023</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>issue-copyright-holder</meta-name>
+					<meta-value>Springer Nature Limited</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>issue-copyright-year</meta-name>
+					<meta-value>2023</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>article-contains-esm</meta-name>
+					<meta-value>No</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>article-numbering-style</meta-name>
+					<meta-value>Unnumbered</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>article-registration-date-year</meta-name>
+					<meta-value>2023</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>article-registration-date-month</meta-name>
+					<meta-value>7</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>article-registration-date-day</meta-name>
+					<meta-value>20</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>article-toc-levels</meta-name>
+					<meta-value>0</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>toc-levels</meta-name>
+					<meta-value>0</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>volume-type</meta-name>
+					<meta-value>Regular</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>journal-product</meta-name>
+					<meta-value>NonStandardArchiveJournal</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>numbering-style</meta-name>
+					<meta-value>Unnumbered</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>article-grants-type</meta-name>
+					<meta-value>OpenChoice</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>metadata-grant</meta-name>
+					<meta-value>OpenAccess</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>abstract-grant</meta-name>
+					<meta-value>OpenAccess</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>bodypdf-grant</meta-name>
+					<meta-value>OpenAccess</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>bodyhtml-grant</meta-name>
+					<meta-value>OpenAccess</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>bibliography-grant</meta-name>
+					<meta-value>OpenAccess</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>esm-grant</meta-name>
+					<meta-value>OpenAccess</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>online-first</meta-name>
+					<meta-value>false</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>pdf-file-reference</meta-name>
+					<meta-value>BodyRef/PDF/41467_2023_Article_40261.pdf</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>pdf-type</meta-name>
+					<meta-value>Typeset</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>target-type</meta-name>
+					<meta-value>OnlinePDF</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>issue-type</meta-name>
+					<meta-value>Regular</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>article-type</meta-name>
+					<meta-value>Erratum</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>journal-subject-primary</meta-name>
+					<meta-value>Science, Humanities and Social Sciences, multidisciplinary</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>journal-subject-secondary</meta-name>
+					<meta-value>Science, Humanities and Social Sciences, multidisciplinary</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>journal-subject-secondary</meta-name>
+					<meta-value>Science, multidisciplinary</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>journal-subject-collection</meta-name>
+					<meta-value>Science (multidisciplinary)</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>open-access</meta-name>
+					<meta-value>true</meta-value>
+				</custom-meta>
+			</custom-meta-group>
+		</article-meta>
+		<notes notes-type="CrossLinking">
+			<sec>
+				<p>The original article can be found online at
+					<ext-link xlink:href="https://doi.org/10.1038/s41467-023-38866-y" ext-link-type="doi">https://doi.org/10.1038/s41467-023-38866-y</ext-link>.
+				</p>
+			</sec>
+		</notes>
+	</front>
+	<body>
+		<p id="Par1">Correction to:
+			<italic>Nature Communications</italic>
+			<ext-link xlink:href="https://doi.org/10.1038/s41467-023-38866-y" ext-link-type="doi">https://doi.org/10.1038/s41467-023-38866-y</ext-link>, published online 08 June 2023
+		</p>
+		<p id="Par2">In this article the grant number R21AG080435 relating to the National Institute on Aging of the National Institutes of Health for Frédéric A. Meunier was omitted. The original article has been corrected.</p>
+	</body>
+</article>

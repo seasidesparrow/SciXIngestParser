@@ -1,0 +1,1502 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" article-type="article" dtd-version="1.0" specific-use="syndication"><front>
+        <journal-meta>
+            <journal-id journal-id-type="coden">AAIDBI</journal-id>
+            <journal-title-group>
+                <journal-title>AIP Advances</journal-title>
+                <abbrev-journal-title>AIP Advances</abbrev-journal-title>
+            </journal-title-group>
+            <issn pub-type="epub">2158-3226</issn>
+            <publisher>
+                <publisher-name>AIP Publishing LLC</publisher-name>
+                <publisher-name specific-use="short-name">AIP Publishing</publisher-name>
+            </publisher>
+        </journal-meta>
+        <article-meta>
+            <article-id pub-id-type="publisher-id:aipkey">5.0206772</article-id>
+            <article-id pub-id-type="doi">10.1063/5.0206772</article-id>
+            <article-id pub-id-type="manuscript">ADV24-AR-01046</article-id>
+
+            <article-categories><subj-group subj-group-type="toc-heading">
+                    <subject>REGULAR ARTICLES</subject>
+                </subj-group></article-categories>
+            <title-group>
+                <article-title>High-performance CeFeCo/FeSiAl soft magnetic composites for megahertz power devices</article-title>
+                <alt-title alt-title-type="short-title">Wan <italic>et al.</italic></alt-title>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author">
+                    <contrib-id contrib-id-type="orcid">https://orcid.org/0009-0001-6993-4763</contrib-id>
+                    <name>
+                        <surname>Wan</surname>
+                        <given-names>Wenchen</given-names>
+                    </name>
+
+
+
+
+
+
+                    <xref ref-type="aff" rid="a1">1</xref>
+                </contrib>
+                <contrib contrib-type="author" corresp="yes">
+                    <contrib-id contrib-id-type="orcid">https://orcid.org/0000-0001-7995-6264</contrib-id>
+                    <name>
+                        <surname>Wu</surname>
+                        <given-names>Chen</given-names>
+                    </name>
+
+
+
+                    <xref ref-type="aff" rid="a1 a2">1,2</xref>
+                    <xref ref-type="corresp" rid="cor1">a)</xref>
+                    <email specific-use="metadata" xlink:href="mailto:chen_wu@zju.edu.cn"/>
+                </contrib>
+
+
+
+                <contrib contrib-type="author">
+                    <contrib-id contrib-id-type="orcid">https://orcid.org/0009-0000-7665-9491</contrib-id>
+                    <name>
+                        <surname>Liu</surname>
+                        <given-names>Guang</given-names>
+                    </name>
+
+
+
+                    <xref ref-type="aff" rid="a1 a3">1,3</xref>
+                </contrib>
+
+
+
+                <contrib contrib-type="author" corresp="yes">
+                    <name>
+                        <surname>Chen</surname>
+                        <given-names>Qiming</given-names>
+                    </name>
+
+
+                    <xref ref-type="aff" rid="a1">1</xref>
+                </contrib>
+
+
+                <contrib contrib-type="author" corresp="yes">
+                    <name>
+                        <surname>Yan</surname>
+                        <given-names>Mi</given-names>
+                    </name>
+
+
+
+                    <xref ref-type="aff" rid="a1">1</xref>
+                    <xref ref-type="corresp" rid="cor1">a)</xref>
+                    <email specific-use="metadata" xlink:href="mailto:mse_yanmi@zju.edu.cn"/>
+                </contrib>
+                <aff id="a1"><label>1</label><institution>School of Materials Science and Engineering, State Key Laboratory of Silicon and Advanced Semiconductor Materials, Zhejiang University</institution>, Hangzhou 310027, <country>China</country></aff>
+                <aff id="a2"><label>2</label><institution>Shanxi-Zheda Institute of Advanced Materials and Chemical Engineering</institution>, Taiyuan 030032, <country>China</country></aff>
+                <aff id="a3"><label>3</label><institution>Key Laboratory of Rare Earths, Chinese Academy of Sciences</institution>, Ganzhou 341000, <country>China</country></aff>
+            </contrib-group>
+            <author-notes>
+                <corresp id="cor1"><label>a)</label>Authors to whom correspondence should be addressed: <ext-link ext-link-type="email" xlink:href="mailto:chen_wu@zju.edu.cn">chen_wu@zju.edu.cn</ext-link> and <ext-link ext-link-type="email" xlink:href="mailto:mse_yanmi@zju.edu.cn">mse_yanmi@zju.edu.cn</ext-link></corresp>
+            </author-notes>
+            <pub-date pub-type="ppub">
+                <day>01</day>
+                <month>05</month>
+                <year>2024</year>
+            </pub-date>
+            <volume>14</volume>
+            <issue>5</issue>
+            <elocation-id seq="1">055213</elocation-id>
+            <history><date date-type="received">
+                    <day>04</day>
+                    <month>03</month>
+                    <year>2024</year>
+                </date><date date-type="accepted">
+                    <day>26</day>
+                    <month>04</month>
+                    <year>2024</year>
+                </date><date date-type="published">
+                    <day>13</day>
+                    <month>05</month>
+                    <year>2024</year>
+                </date></history>
+            <permissions>
+                <copyright-statement>© 2024 Author(s).</copyright-statement>
+                <copyright-year>2024</copyright-year>
+                <copyright-holder>Author(s)</copyright-holder>
+                <license license-type="open">
+                    <license-p>All article content, except where otherwise noted, is licensed under a Creative Commons Attribution (CC BY) license (<ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">https://creativecommons.org/licenses/by/4.0/</ext-link>).</license-p>
+                </license>
+            </permissions>
+            <abstract>
+                <p>Soft magnetic composites (SMCs) play a crucial role in modern electronics and electrical devices, for which challenges remain in maintaining magnetic performance and reducing loss at megahertz (MHz) frequencies. Here, CeFeCo/FeSiAl@ polyurethane (PU) SMCs have been rationally designed with the simultaneous achievement of large relative permeability, high domain-wall resonance frequency, and low power loss. As a rare-earth soft magnetic alloy, the CeFeCo is promising for high-frequency applications due to its easy-plane anisotropy, whereas FeSiAl is advantageous with increased electrical resistivity as well as approaching-zero magnetocrystalline anisotropy and magnetostriction. Hot pressing has been adopted to achieve a dense and homogeneous distribution of CeFeCo and FeSiAl powders in the PU for reduced magnetic dilution and eddy current loss. The resultant SMCs exhibit optional soft magnetic performance with large relative permeability of 21.0, low power loss of 3677.5 kW·m<sup>−3</sup> at 5 MHz, and high domain-wall resonance frequency of 386.1 MHz. As such this work provides insights into the design of high-frequency SMCs incorporating novel rare-earth soft magnetic alloys.</p>
+            </abstract>
+
+            <funding-group specific-use="FundRef">
+                <award-group>
+                    <funding-source>
+                            <named-content content-type="funder_name">National Key Research and Development Program of China</named-content>
+                            <named-content content-type="funder_identifier">https://doi.org/10.13039/501100012166</named-content>
+                        </funding-source>
+                    <award-id award-type="contract">2021YFB3501303</award-id>
+                </award-group>
+                <award-group>
+                    <funding-source>
+                            <named-content content-type="funder_name">“Pioneer” R&amp;D Program of Zhejiang Province</named-content>
+                        </funding-source>
+                    <award-id award-type="contract">2022C01230</award-id>
+                </award-group>
+                <award-group>
+                    <funding-source>
+                            <named-content content-type="funder_name">Shanxi-Zheda Institute of Advanced Materials and Chemical Engineering</named-content>
+                            <named-content content-type="funder_identifier">https://doi.org/10.13039/100022805</named-content>
+                        </funding-source>
+                    <award-id award-type="contract">2021SZ-FR005</award-id>
+                </award-group>
+                <award-group>
+                    <funding-source>
+                            <named-content content-type="funder_name">Space Application System of China Manned Space Program</named-content>
+                        </funding-source>
+                    <award-id award-type="contract">KJZ-YY-NCL03</award-id>
+                </award-group>
+                <award-group>
+                    <funding-source>
+                            <named-content content-type="funder_name">Key Research and Development Program of Zhejiang Province</named-content>
+                            <named-content content-type="funder_identifier">https://doi.org/10.13039/100022963</named-content>
+                        </funding-source>
+                    <award-id award-type="contract">2021C01033</award-id>
+                </award-group>
+                <award-group>
+                    <funding-source>
+                            <named-content content-type="funder_name">Opening Fund of Key Laboratory of Rare Earth, Chinese Academy of Sciences</named-content>
+                        </funding-source>
+                </award-group>
+                <award-group>
+                    <funding-source>
+                            <named-content content-type="funder_name">National Natural Science Foundation of China</named-content>
+                        </funding-source>
+                    <award-id award-type="contract">52027802</award-id>
+                </award-group>
+            </funding-group>
+            <counts>
+                <page-count count="8"/>
+            </counts>
+            <custom-meta-group>
+                <custom-meta>
+                    <meta-name>crossmark</meta-name>
+                    <meta-value/>
+                </custom-meta>
+            </custom-meta-group>
+        </article-meta>
+    </front><body>
+        <sec id="s1">
+            <label>I.</label>
+            <title>INTRODUCTION</title>
+            <p>Soft magnetic composites (SMCs) with large permeability and low power loss at high working frequencies are technologically important for electronic devices.<xref ref-type="bibr" rid="c1 c2 c3"><sup>1–3</sup></xref> Especially, recent advances in third-generation semiconductors, i.e., SiC and GaN, urgently demand the development of soft magnetic materials in the Megahertz (MHz) range.<xref ref-type="bibr" rid="c1 c4"><sup>1,4</sup></xref> The prevailing SMCs, including Fe,<xref ref-type="bibr" rid="c5 c6"><sup>5,6</sup></xref> FeSi,<xref ref-type="bibr" rid="c7 c8"><sup>7,8</sup></xref> FeSiAl,<xref ref-type="bibr" rid="c2 c9"><sup>2,9</sup></xref> and FeSiCr,<xref ref-type="bibr" rid="c10 c11"><sup>10,11</sup></xref> however, encounter enormous challenges at such high frequencies. On the one hand, increased frequency leads to rapidly deteriorated permeability due to the domain-wall resonance.<xref ref-type="bibr" rid="c12 c13"><sup>12,13</sup></xref> On the other hand, since the eddy current loss is proportional to the square of the frequency, the overall loss surges with raised frequency.<xref ref-type="bibr" rid="c14"><sup>14</sup></xref></p>
+            <p>To tackle the magnetic deterioration at high frequencies, many efforts have been attempted, but it remains challenging to increase domain-wall resonance frequency (<italic>f</italic><sub><italic>d</italic></sub>). Recently, rare-earth soft magnetic alloys, mainly involving the rhombohedral 2:17-type<xref ref-type="bibr" rid="c15 c16"><sup>15,16</sup></xref> and the tetragonal 2:14:1-type<xref ref-type="bibr" rid="c17"><sup>17</sup></xref> crystalline structures, have come into focus as promising high-frequency soft magnetic materials. Categories exhibit an easy-magnetization plane giving rise to confined planar domain-wall movement and enhanced <italic>f</italic><sub><italic>d</italic></sub>.<xref ref-type="bibr" rid="c18 c19 c20"><sup>18–20</sup></xref> For instance, Wang <italic>et al.</italic><xref ref-type="bibr" rid="c13"><sup>13</sup></xref> prepared Ce<sub>2</sub>Fe<sub>17</sub>N<sub>3−δ</sub> rare-earth soft magnetic alloys by atmospheric nitrogenating, resulting in an improved <italic>f</italic><sub><italic>d</italic></sub> of 700.0 MHz compared to cubic <italic>α</italic>-Fe with <italic>f</italic><sub><italic>d</italic></sub> of 200.0 MHz.<xref ref-type="bibr" rid="c12"><sup>12</sup></xref> Despite the significantly increased domain-wall resonance frequency for the rare-earth soft magnetic materials, it remains challenging for practical applicability due to their low intrinsic permeability.</p>
+            <p>Insulation coating technology employs high-resistance materials to wrap magnetic powders to reduce eddy current loss. Typical strategies to form the insulation coatings can be classified into two categories, depending on whether the alloy element of the magnetic powders is involved in the reaction. The <italic>in situ</italic> coating methods may include surface oxidation,<xref ref-type="bibr" rid="c9 c21"><sup>9,21</sup></xref> nitridation,<xref ref-type="bibr" rid="c22"><sup>22</sup></xref> and phosphorization.<xref ref-type="bibr" rid="c23"><sup>23</sup></xref> Although such routes exhibit stronger adhesion, they are only applicable to a few types of magnetic powders and the coatings tend to crack or decompose in the subsequent high-pressure compaction (up to 2 GPa) and stress-relieving heat treatment (&gt;500 °C).<xref ref-type="bibr" rid="c24"><sup>24</sup></xref> Alternatively, reactions without the incorporation of the alloy element provide a versatile insulation route. For instance, high-resistance oxides, such as ferrites,<xref ref-type="bibr" rid="c25 c26 c27"><sup>25–27</sup></xref> SiO<sub>2</sub>,<xref ref-type="bibr" rid="c28"><sup>28</sup></xref> Al<sub>2</sub>O<sub>3</sub>,<xref ref-type="bibr" rid="c9"><sup>9</sup></xref> and MgO,<xref ref-type="bibr" rid="c29"><sup>29</sup></xref> have been fabricated surrounding the magnetic powders by sol–gel reactions, giving rise to tailorable coating layers but deteriorated mechanical properties, hindering the formation of the densely packed structure during compaction. Consequently, developing advanced insulation coating technology compatible with subsequential preparation procedures demands further investigation.</p>
+            <p>In this work, high-performance SMCs have been designed by combining the CeFeCo with high domain-wall resonance frequency, FeSiAl with large permeability, and polyurethane (PU) with strong insulation. Hot pressing has also been adopted to eliminate the requirement of complex stress-relieving procedures to avoid their impact. Microstructures, magnetic properties, and loss mechanisms of the SMCs have been systematically analyzed. The resultant CeFeCo/FeSiAl@PU SMCs exhibit large permeability, high domain-wall resonance frequency, and low power loss due to the synergistic component effects, providing a potential design strategy for the SMCs operating in high-frequency ranges.</p>
+        </sec>
+        <sec id="s2">
+            <label>II.</label>
+            <title>EXPERIMENTAL SECTION</title>
+            <sec id="s2A">
+                <label>A.</label>
+                <title>Materials</title>
+                <p>The FeSiAl powders were provided by Changsha Tijo Metal Materials Co., Ltd., China. The CeFeCo powders were fabricated with high-purity Ce, Fe, and Co (99.99 wt. %) obtained from Beijing Dream Materials Technology Co., Ltd., China as the raw materials. The PU powders (Elastollan 1195A) were supplied by BASF Co., Ltd., China. All reagents were utilized as-received without any additional purification steps.</p>
+            </sec>
+            <sec id="s2B">
+                <label>B.</label>
+                <title>Synthesis of the CeFeCo powders</title>
+                <p>The CeFeCo alloy was synthesized using a melting-annealing-quenching technique, with an optimal atomic ratio of Ce<sub>2</sub>(Fe<sub>0.8</sub>Co<sub>0.2</sub>)<sub>17</sub> based on previous work.<xref ref-type="bibr" rid="c30"><sup>30</sup></xref> Additional 10 wt. % Ce was incorporated to compensate for the loss of Ce due to evaporation and surface oxidation. Typically, the Ce (7.46 g), Fe (18.37 g), and Co (4.85 g) were melted together to form a liquid alloy, following cooling under an argon atmosphere. The resultant ingot underwent subsequent annealing in vacuum at 1000 °C for 100 h, followed by quenching in cold water. The CeFeCo powders (&lt;0.2 mm) were obtained by grinding and sieving. Planetary ball milling (250 r/min, 4 h) was employed to further reduce particle size with the addition of CeFeCo and ZrO<sub>2</sub> balls (mass ratio of 1:20) as well as simethicone (0.2 g) and n-hexane (100 ml) in an agate tank, followed by vacuum drying at 50 °C.</p>
+            </sec>
+            <sec id="s2C">
+                <label>C.</label>
+                <title>Fabrication of the CeFeCo/FeSiAl SMCs</title>
+                <p>Varying mass fractions of CeFeCo (0, 10, 20, 30, 40, and 50 wt. %) were mixed with FeSiAl powders in acetone under ultrasonic treatment for 30 min and, respectively, denoted as FSA, 10CFC90FSA, 20CFC80FSA, 30CFC70FSA, 40CFC60FSA, and 50CFC50FSA. Subsequently, the mixed powders were dissolved with PU at a filling volume of 65%. The mixture was stirred under ultrasonic treatment until complete evaporation of the acetone solution. Finally, the resultant mixture was placed in a toroidal die with an outer diameter of 12.0 mm and an inner diameter of 6.0 mm, and molded under a temperature of 90 °C and a pressure of 300 MPa for 10 min.</p>
+            </sec>
+            <sec id="s2D">
+                <label>D.</label>
+                <title>Characterization and performance evaluation</title>
+                <p>X-ray diffraction (XRD, Bruker-D8 ADVANCE) with the Co K<sub>α</sub> radiation (λ = 1.7902 Å) was used to identify crystalline phases. The morphology and elemental distribution were observed using a scanning electron microscope (SEM, JEOL JSM-IT800) equipped with energy dispersive spectroscopy (EDS). The resistivity of the samples was measured using the four-probe method (RTS-9). The hysteresis loops were recorded were measured by a superconducting quantum interference device (SQUID, Quantum Design MPMS-XL-5). To determine the coercivity values, the M–H curves were measured with a step interval of 2 Oe within the range of ±40 Oe. Complex permeability from 1 MHz to 1 GHz was obtained using an impedance analyzer (Agilent E4991A).<xref ref-type="bibr" rid="c31"><sup>31</sup></xref> B–H analyzer (IWATSU SY-8218) was adopted to measure power loss from 100 kHz to 5 MHz under 10 mT<xref ref-type="bibr" rid="c32"><sup>32</sup></xref> (the testing methodology was extensively explicated in the <ext-link assigning-authority="figshare" ext-link-type="doi" xlink:href="https://doi.org/10.60893/figshare.adv.c.7203267">supplementary material</ext-link>).</p>
+            </sec>
+        </sec>
+        <sec id="s3">
+            <label>III.</label>
+            <title>RESULTS AND DISCUSSION</title>
+            <p><xref ref-type="fig" rid="f1">Figures 1(a)</xref> and <xref ref-type="fig" rid="f1">1(b)</xref> show the SEM images of the FeSiAl and the as-milled CeFeCo powders with insets illustrating their size distributions. Both FeSiAl and CeFeCo powders exhibit irregular rock-like morphology and uniform powder distributions with average sizes around 60.86 ± 23.61 <italic>µ</italic>m and 3.62 ± 1.24 <italic>µ</italic>m, respectively. The XRD results of CeFeCo and FeSiAl powders are shown in <xref ref-type="fig" rid="f1">Fig. 1(c)</xref>, where the diffraction peaks at 35.05°, 36.30°, 42.85°, 44.20°, 50.15°, 51.10°, 56.50°, 73.45°, and 74.20° are attributed to the (113), (104), (300), (024), (303), (214), (223), (413), and (324) planes, respectively, of the rhombohedral Th<sub>2</sub>Zn<sub>17</sub>-type crystal structure of CeFeCo phase (space group R<inline-formula><mml:math display="inline" overflow="scroll">
+                        <mml:mrow>
+                            <mml:mover accent="true">
+                                <mml:mrow>
+                                    <mml:mn>3</mml:mn>
+                                </mml:mrow>
+                                <mml:mo>̄</mml:mo>
+                            </mml:mover>
+                        </mml:mrow>
+                    </mml:math></inline-formula>m) and the diffraction peaks at 31.55°, 36.60°, 52.75°, and 77.90° correspond to (111), (200), (220), and (400) planes, respectively, of the face-centered cubic crystal structure of FeSiAl (space group Fm<inline-formula><mml:math display="inline" overflow="scroll">
+                        <mml:mrow>
+                            <mml:mover accent="true">
+                                <mml:mrow>
+                                    <mml:mn>3</mml:mn>
+                                </mml:mrow>
+                                <mml:mo>̄</mml:mo>
+                            </mml:mover>
+                        </mml:mrow>
+                    </mml:math></inline-formula>m). All XRD peaks of CeFeCo shift to a higher angle by ∼0.1°–0.2° as compared to those of the standard Ce<sub>2</sub>Fe<sub>17</sub> spectrum (PDF No. 48–1455) due to the incorporation of Co to substitute the Fe in the Ce<sub>2</sub>Fe<sub>17</sub> lattice.<xref ref-type="bibr" rid="c33"><sup>33</sup></xref>
+                <xref ref-type="fig" rid="f1">Figure 1(d)</xref> shows the XRD patterns taken from the composites where enhanced peak intensity of CeFeCo is observed, indicating its increased weight ratio with the largest CeFeCo content obtained in the 50CFC50FSA.</p>
+            <fig fig-type="figure" id="f1" orientation="portrait" position="float">
+                <label>FIG. 1.</label>
+                <caption>
+                    <p>SEM images and size distributions of the (a) FeSiAl and (b) CeFeCo powders. XRD patterns taken from the (c) FeSiAl and CeFeCo powders as well as the (d) CeFeCo/FeSiAl composites with varied CeFeCo content.</p>
+                </caption>
+                <graphic orientation="portrait" position="float" xlink:href="f1"/>
+            </fig>
+            <p>To assess the distribution of the powders in the SMCs, cross-sectional morphology and elemental distribution have been examined. All the samples exhibit similar insulation coating as shown in Figs. S1–S5 in the <ext-link assigning-authority="figshare" ext-link-type="doi" xlink:href="https://doi.org/10.60893/figshare.adv.c.7203267">supplementary material</ext-link>, among which the results of 20CFC80FSA as a representative sample are shown in <xref ref-type="fig" rid="f2">Fig. 2</xref>. Small powders tend to fill the gaps in between larger ones as shown in <xref ref-type="fig" rid="f2">Fig. 2(a)</xref>, which is shown further enlarged in <xref ref-type="fig" rid="f2">Fig. 2(b)</xref>, indicating a high level of density within the SMC. <xref ref-type="fig" rid="f2">Figures 2(c)</xref>–<xref ref-type="fig" rid="f2">2(i)</xref> provide the EDS information on elemental distribution, where Fe, Si, and Al are primarily concentrated within the larger powders while the Ce and Co distribute between their gaps. C and O elements also predominantly distribute in the gaps between the large magnetic powders. These observations suggest that the FeSiAl powders are wrapped by the PU, whereas numerous micrometer-sized CeFeCo powders are dispersed in between.</p>
+            <fig fig-type="figure" id="f2" orientation="portrait" position="float">
+                <label>FIG. 2.</label>
+                <caption>
+                    <p>Cross-sectional SEM image of (a) the 20CFC80FSA with enlargement shown in (b). EDS mapping showing the elemental distribution of (c) Fe, (d) Si, (e) Al, (f) Ce, (g) Co, (h) C, and (i) O.</p>
+                </caption>
+                <graphic orientation="portrait" position="float" xlink:href="f2"/>
+            </fig>
+            <p><xref ref-type="fig" rid="f3">Figure 3(a)</xref> presents the magnetization curves of composites with varied contents of CeFeCo, for which detailed values of saturation magnetization (<italic>M</italic><sub><italic>s</italic></sub>) and coercivity (<italic>H</italic><sub><italic>c</italic></sub>) are summarized in <xref ref-type="fig" rid="f3">Fig. 3(b)</xref>. The <italic>M</italic><sub><italic>s</italic></sub> of CeFeCo/FeSiAl composites demonstrates a gradual increment from 116.87 to 121.79 emu/g as the CeFeCo content increases from 10 to 50 wt. %. Such increment in <italic>M</italic><sub><italic>s</italic></sub> can be attributed to the higher <italic>M</italic><sub><italic>s</italic></sub> values of the CeFeCo powders compared to FeSiAl.<xref ref-type="bibr" rid="c33"><sup>33</sup></xref> The <italic>H</italic><sub><italic>c</italic></sub> also increases from 1.97 to 32.06 Oe. Fig. S6 presents the magnetization curves of CeFeCo SMCs, for which the <italic>H</italic><sub><italic>c</italic></sub> is 52.73 Oe. The large coercivity of CeFeCo can be attributed to its higher magnetocrystalline anisotropy and magnetostriction than FeSiAl as well as the large amount of residual stress introduced by ball milling,<xref ref-type="bibr" rid="c13"><sup>13</sup></xref> which hinder the domain wall movements. Consequently, the addition of CeFeCo powders gives rise to increased <italic>H</italic><sub>c</sub>.</p>
+            <fig fig-type="figure" id="f3" orientation="portrait" position="float">
+                <label>FIG. 3.</label>
+                <caption>
+                    <p>(a) Hysteresis loops of CeFeCo composites with various FeSiAl contents at room temperature and (b) the extracted <italic>M</italic><sub><italic>s</italic></sub> and <italic>H</italic><sub><italic>c</italic></sub>.</p>
+                </caption>
+                <graphic orientation="portrait" position="float" xlink:href="f3"/>
+            </fig>
+            <p>To investigate the high-frequency properties of the CeFeCo/FeSiAl SMCs, complex permeability spectra have been measured as shown in <xref ref-type="fig" rid="f4">Figs. 4(a)</xref> and <xref ref-type="fig" rid="f4">4(b)</xref>. With raised CeFeCo content, the real part of the permeability of the SMCs initially increases followed by a decrease. The initial increment of permeability can be attributed to the interstice filling effect<xref ref-type="bibr" rid="c34"><sup>34</sup></xref> between FeSiAl and CeFeCo powders with different average particle sizes in the formation of the denser composite structure. Further increased CeFeCo, however, leads to a lower permeability due to the dilution effect of the CeFeCo with smaller permeability compared to the FeSiAl. <xref ref-type="fig" rid="f4">Figure 4(c)</xref> shows the real permeability at 1 MHz and domain-wall resonance frequency where enhanced initial permeability has been achieved for the 10CFC90FSA. The domain-wall resonance frequency <italic>f</italic><sub><italic>d</italic></sub> significantly increases from 181.2 MHz (FSA) to 630.8 MHz (50CFC50FSA) with increased CeFeCo (Fig. S7), demonstrating the effectiveness of incorporating CeFeCo for higher frequency applications.</p>
+            <fig fig-type="figure" id="f4" orientation="portrait" position="float">
+                <label>FIG. 4.</label>
+                <caption>
+                    <p>High-frequency properties of CeFeCo composites with various FeSiAl contents: (a) the real permeability spectra, (b) the imaginary permeability spectra, (c) the real permeability at 1 MHz, and domain-wall resonance frequency (<italic>f</italic><sub><italic>d</italic></sub>).</p>
+                </caption>
+                <graphic orientation="portrait" position="float" xlink:href="f4"/>
+            </fig>
+            <p>Power loss (<italic>P</italic><sub><italic>cv</italic></sub>) is a crucial parameter for evaluating the high-frequency performance of SMCs. <xref ref-type="fig" rid="f5">Figure 5(a)</xref> presents the <italic>P</italic><sub><italic>cv</italic></sub> of the SMCs with varying mass fractions of CeFeCo, which increases rapidly with raised applied field frequency. At 5 MHz, increased CeFeCo concentration initially gives rise to a decrement of <italic>P</italic><sub><italic>cv</italic></sub> followed by <italic>P</italic><sub><italic>cv</italic></sub> increasing again with a minimum power loss achieved (3677.5 kW/m<sup>3</sup>) for the 20CFC80FSA. It is worth noting that all composite SMCs exhibit smaller <italic>P</italic><sub><italic>cv</italic></sub> than that of the FSA, indicating significant contribution of CeFeCo for reducing power loss.</p>
+            <fig fig-type="figure" id="f5" orientation="portrait" position="float">
+                <label>FIG. 5.</label>
+                <caption>
+                    <p>(a) Power loss of the SMCs with different CeFeCo contents and its separation into the (b) <italic>P</italic><sub><italic>h</italic></sub>, (c) <italic>P</italic><sub><italic>e</italic></sub>, and (d) <italic>P</italic><sub><italic>r</italic></sub> components.</p>
+                </caption>
+                <graphic orientation="portrait" position="float" xlink:href="f5"/>
+            </fig>
+            <p>The power loss can be separated into hysteresis loss (<italic>P</italic><sub><italic>h</italic></sub>), eddy-current loss (<italic>P</italic><sub><italic>e</italic></sub>), and residual loss (<italic>P</italic><sub><italic>r</italic></sub>) as follows:<xref ref-type="bibr" rid="c12 c35"><sup>12,35</sup></xref><disp-formula id="d1"><mml:math display="block" overflow="scroll">
+                        <mml:msub>
+                            <mml:mrow>
+                                <mml:mi>P</mml:mi>
+                            </mml:mrow>
+                            <mml:mrow>
+                                <mml:mi>c</mml:mi>
+                                <mml:mi>v</mml:mi>
+                            </mml:mrow>
+                        </mml:msub>
+                        <mml:mo>=</mml:mo>
+                        <mml:msub>
+                            <mml:mrow>
+                                <mml:mi>P</mml:mi>
+                            </mml:mrow>
+                            <mml:mrow>
+                                <mml:mi>h</mml:mi>
+                            </mml:mrow>
+                        </mml:msub>
+                        <mml:mo>+</mml:mo>
+                        <mml:msub>
+                            <mml:mrow>
+                                <mml:mi>P</mml:mi>
+                            </mml:mrow>
+                            <mml:mrow>
+                                <mml:mi>e</mml:mi>
+                            </mml:mrow>
+                        </mml:msub>
+                        <mml:mo>+</mml:mo>
+                        <mml:msub>
+                            <mml:mrow>
+                                <mml:mi>P</mml:mi>
+                            </mml:mrow>
+                            <mml:mrow>
+                                <mml:mi>r</mml:mi>
+                            </mml:mrow>
+                        </mml:msub>
+                        <mml:mo>=</mml:mo>
+                        <mml:mi>f</mml:mi>
+                        <mml:mo>⋅</mml:mo>
+                        <mml:msub>
+                            <mml:mrow>
+                                <mml:mi>k</mml:mi>
+                            </mml:mrow>
+                            <mml:mrow>
+                                <mml:mi>h</mml:mi>
+                            </mml:mrow>
+                        </mml:msub>
+                        <mml:mo>⋅</mml:mo>
+                        <mml:msubsup>
+                            <mml:mrow>
+                                <mml:mi>B</mml:mi>
+                            </mml:mrow>
+                            <mml:mrow>
+                                <mml:mi>m</mml:mi>
+                            </mml:mrow>
+                            <mml:mrow>
+                                <mml:mi>α</mml:mi>
+                            </mml:mrow>
+                        </mml:msubsup>
+                        <mml:mo>+</mml:mo>
+                        <mml:msup>
+                            <mml:mrow>
+                                <mml:mi>f</mml:mi>
+                            </mml:mrow>
+                            <mml:mrow>
+                                <mml:mn>2</mml:mn>
+                            </mml:mrow>
+                        </mml:msup>
+                        <mml:mo>⋅</mml:mo>
+                        <mml:msub>
+                            <mml:mrow>
+                                <mml:mi>k</mml:mi>
+                            </mml:mrow>
+                            <mml:mrow>
+                                <mml:mi>e</mml:mi>
+                            </mml:mrow>
+                        </mml:msub>
+                        <mml:mo>⋅</mml:mo>
+                        <mml:msubsup>
+                            <mml:mrow>
+                                <mml:mi>B</mml:mi>
+                            </mml:mrow>
+                            <mml:mrow>
+                                <mml:mi>m</mml:mi>
+                            </mml:mrow>
+                            <mml:mrow>
+                                <mml:mn>2</mml:mn>
+                            </mml:mrow>
+                        </mml:msubsup>
+                        <mml:mo>+</mml:mo>
+                        <mml:msup>
+                            <mml:mrow>
+                                <mml:mi>f</mml:mi>
+                            </mml:mrow>
+                            <mml:mrow>
+                                <mml:mi>y</mml:mi>
+                            </mml:mrow>
+                        </mml:msup>
+                        <mml:mo>⋅</mml:mo>
+                        <mml:msub>
+                            <mml:mrow>
+                                <mml:mi>k</mml:mi>
+                            </mml:mrow>
+                            <mml:mrow>
+                                <mml:mi>r</mml:mi>
+                            </mml:mrow>
+                        </mml:msub>
+                        <mml:mo>⋅</mml:mo>
+                        <mml:msubsup>
+                            <mml:mrow>
+                                <mml:mi>B</mml:mi>
+                            </mml:mrow>
+                            <mml:mrow>
+                                <mml:mi>m</mml:mi>
+                            </mml:mrow>
+                            <mml:mrow>
+                                <mml:mi>x</mml:mi>
+                            </mml:mrow>
+                        </mml:msubsup>
+                        <mml:mo>,</mml:mo>
+                    </mml:math><label>(1)</label></disp-formula>where <italic>k</italic><sub><italic>h</italic></sub>, <italic>k</italic><sub><italic>e</italic></sub>, and <italic>k</italic><sub><italic>r</italic></sub> represent the hysteresis, current, and residual coefficients, respectively. The <italic>α</italic> represents the simulation coefficient, which usually depends on the intrinsic properties of the material. The <italic>x</italic> and <italic>y</italic> represent the coefficients related to the applied magnetic field and frequency, respectively.</p>
+            <p>The <italic>P</italic><sub><italic>r</italic></sub> is due to magnetic after-effects, magnetic resonance, and size resonance effects, which generally become significant at frequencies above 1 MHz. In the frequency range below 500 kHz used in this study, these effects can be considered negligible.<xref ref-type="bibr" rid="c12 c35 c36 c37 c38"><sup>12,35–38</sup></xref> Consequently, the coefficients of hysteresis loss (<italic>K</italic><sub><italic>h</italic></sub>) and eddy-current loss (<italic>K</italic><sub><italic>e</italic></sub>) can be approximated as the intercept and slope of the <italic>P</italic><sub><italic>cv</italic></sub>/<italic>f-f</italic> plot according to<disp-formula id="d2"><mml:math display="block" overflow="scroll">
+                        <mml:mfrac>
+                            <mml:mrow>
+                                <mml:msub>
+                                    <mml:mrow>
+                                        <mml:mi>P</mml:mi>
+                                    </mml:mrow>
+                                    <mml:mrow>
+                                        <mml:mi>c</mml:mi>
+                                        <mml:mi>v</mml:mi>
+                                    </mml:mrow>
+                                </mml:msub>
+                            </mml:mrow>
+                            <mml:mrow>
+                                <mml:mi>f</mml:mi>
+                            </mml:mrow>
+                        </mml:mfrac>
+                        <mml:mo>=</mml:mo>
+                        <mml:mfrac>
+                            <mml:mrow>
+                                <mml:msub>
+                                    <mml:mrow>
+                                        <mml:mi>P</mml:mi>
+                                    </mml:mrow>
+                                    <mml:mrow>
+                                        <mml:mi>h</mml:mi>
+                                    </mml:mrow>
+                                </mml:msub>
+                                <mml:mo>+</mml:mo>
+                                <mml:msub>
+                                    <mml:mrow>
+                                        <mml:mi>P</mml:mi>
+                                    </mml:mrow>
+                                    <mml:mrow>
+                                        <mml:mi>e</mml:mi>
+                                    </mml:mrow>
+                                </mml:msub>
+                            </mml:mrow>
+                            <mml:mrow>
+                                <mml:mi>f</mml:mi>
+                            </mml:mrow>
+                        </mml:mfrac>
+                        <mml:mo>=</mml:mo>
+                        <mml:msub>
+                            <mml:mrow>
+                                <mml:mi>k</mml:mi>
+                            </mml:mrow>
+                            <mml:mrow>
+                                <mml:mi>h</mml:mi>
+                            </mml:mrow>
+                        </mml:msub>
+                        <mml:msubsup>
+                            <mml:mrow>
+                                <mml:mi>B</mml:mi>
+                            </mml:mrow>
+                            <mml:mrow>
+                                <mml:mi>m</mml:mi>
+                            </mml:mrow>
+                            <mml:mrow>
+                                <mml:mi>α</mml:mi>
+                            </mml:mrow>
+                        </mml:msubsup>
+                        <mml:mo>+</mml:mo>
+                        <mml:msub>
+                            <mml:mrow>
+                                <mml:mi>k</mml:mi>
+                            </mml:mrow>
+                            <mml:mrow>
+                                <mml:mi>e</mml:mi>
+                            </mml:mrow>
+                        </mml:msub>
+                        <mml:msubsup>
+                            <mml:mrow>
+                                <mml:mi>B</mml:mi>
+                            </mml:mrow>
+                            <mml:mrow>
+                                <mml:mi>m</mml:mi>
+                            </mml:mrow>
+                            <mml:mrow>
+                                <mml:mn>2</mml:mn>
+                            </mml:mrow>
+                        </mml:msubsup>
+                        <mml:mi>f</mml:mi>
+                        <mml:mo>=</mml:mo>
+                        <mml:msub>
+                            <mml:mrow>
+                                <mml:mi>K</mml:mi>
+                            </mml:mrow>
+                            <mml:mrow>
+                                <mml:mi>h</mml:mi>
+                            </mml:mrow>
+                        </mml:msub>
+                        <mml:mo>+</mml:mo>
+                        <mml:msub>
+                            <mml:mrow>
+                                <mml:mi>K</mml:mi>
+                            </mml:mrow>
+                            <mml:mrow>
+                                <mml:mi>e</mml:mi>
+                            </mml:mrow>
+                        </mml:msub>
+                        <mml:mi>f</mml:mi>
+                        <mml:mspace width="1em"/>
+                        <mml:mfenced close=")" open="(">
+                            <mml:mrow>
+                                <mml:mi>f</mml:mi>
+                                <mml:mo>≤</mml:mo>
+                                <mml:mn>500</mml:mn>
+                                <mml:mtext> kHz</mml:mtext>
+                            </mml:mrow>
+                        </mml:mfenced>
+                        <mml:mo>.</mml:mo>
+                    </mml:math><label>(2)</label></disp-formula></p>
+            <p><xref ref-type="table" rid="t1">Table I</xref> gives the <italic>K</italic><sub><italic>h</italic></sub> and <italic>K</italic><sub><italic>e</italic></sub> from 100 to 500 kHz obtained by fitting the <italic>P</italic><sub><italic>cv</italic></sub>/<italic>f-f</italic> plots where a larger R-square indicates a higher reliability of fitting results based on Eq. <xref ref-type="disp-formula" rid="d2">(2)</xref>. Figure S9 presents both the <italic>P</italic><sub><italic>cv</italic></sub> measured experimentally and the <italic>P</italic><sub><italic>h</italic></sub> + <italic>P</italic><sub><italic>e</italic></sub> obtained through fitting. The close numerical similarity between these values also supports the validity of neglecting residual losses below 500 kHz.</p>
+            <table-wrap id="t1" orientation="portrait" position="float">
+                <label>TABLE I.</label>
+                <caption>
+                    <p>Coefficients of each term and formulas with different CeFeCo mass fractions.</p>
+                </caption>
+                <table border="1">
+                    <colgroup span="1">
+                        <col align="left" span="1"/>
+                        <col align="char" char="." span="1"/>
+                        <col align="char" char="." span="1"/>
+                        <col align="char" char="×" span="1"/>
+                        <col align="char" char="×" span="1"/>
+                        <col align="char" char="." span="1"/>
+                    </colgroup>
+                    <thead>
+                        <tr>
+                            <th colspan="1" rowspan="2">Samples</th>
+                            <th align="center" colspan="2" rowspan="1"><italic>K</italic><sub><italic>h</italic></sub></th>
+                            <th align="center" colspan="2" rowspan="1"><italic>K</italic><sub><italic>e</italic></sub></th>
+                            <th colspan="1" rowspan="1"/>
+                        </tr>
+                        <tr>
+                            <th align="center" colspan="1" rowspan="1">Estimate</th>
+                            <th align="center" colspan="1" rowspan="1">Error range</th>
+                            <th align="center" colspan="1" rowspan="1">Estimate</th>
+                            <th align="center" colspan="1" rowspan="1">Error range</th>
+                            <th align="center" colspan="1" rowspan="1">R-square</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td colspan="1" rowspan="1">FSA</td>
+                            <td align="char" char="." colspan="1" rowspan="1">0.1981</td>
+                            <td align="char" char="." colspan="1" rowspan="1">0.004 17</td>
+                            <td align="char" char="×" colspan="1" rowspan="1">1.2776 × 10<sup>−4</sup></td>
+                            <td align="char" char="×" colspan="1" rowspan="1">1.2585 × 10<sup>−5</sup></td>
+                            <td align="char" char="." colspan="1" rowspan="1">0.972 28</td>
+                        </tr>
+                        <tr>
+                            <td colspan="1" rowspan="1">10CFC90FSA</td>
+                            <td align="char" char="." colspan="1" rowspan="1">0.1995</td>
+                            <td align="char" char="." colspan="1" rowspan="1">0.003 59</td>
+                            <td align="char" char="×" colspan="1" rowspan="1">1.0750 × 10<sup>−4</sup></td>
+                            <td align="char" char="×" colspan="1" rowspan="1">1.0816 × 10<sup>−5</sup></td>
+                            <td align="char" char="." colspan="1" rowspan="1">0.970 52</td>
+                        </tr>
+                        <tr>
+                            <td colspan="1" rowspan="1">20CFC80FSA</td>
+                            <td align="char" char="." colspan="1" rowspan="1">0.2034</td>
+                            <td align="char" char="." colspan="1" rowspan="1">0.003 11</td>
+                            <td align="char" char="×" colspan="1" rowspan="1">1.0535 × 10<sup>−4</sup></td>
+                            <td align="char" char="×" colspan="1" rowspan="1">9.3635 × 10<sup>−6</sup></td>
+                            <td align="char" char="." colspan="1" rowspan="1">0.976 85</td>
+                        </tr>
+                        <tr>
+                            <td colspan="1" rowspan="1">30CFC70FSA</td>
+                            <td align="char" char="." colspan="1" rowspan="1">0.2428</td>
+                            <td align="char" char="." colspan="1" rowspan="1">0.001 92</td>
+                            <td align="char" char="×" colspan="1" rowspan="1">1.0636 × 10<sup>−4</sup></td>
+                            <td align="char" char="×" colspan="1" rowspan="1">5.7800 × 10<sup>−6</sup></td>
+                            <td align="char" char="." colspan="1" rowspan="1">0.991 22</td>
+                        </tr>
+                        <tr>
+                            <td colspan="1" rowspan="1">40CFC60FSA</td>
+                            <td align="char" char="." colspan="1" rowspan="1">0.2747</td>
+                            <td align="char" char="." colspan="1" rowspan="1">0.002 25</td>
+                            <td align="char" char="×" colspan="1" rowspan="1">1.0905 × 10<sup>−4</sup></td>
+                            <td align="char" char="×" colspan="1" rowspan="1">6.7990 × 10<sup>−6</sup></td>
+                            <td align="char" char="." colspan="1" rowspan="1">0.986 56</td>
+                        </tr>
+                        <tr>
+                            <td colspan="1" rowspan="1">50CFC50FSA</td>
+                            <td align="char" char="." colspan="1" rowspan="1">0.3230</td>
+                            <td align="char" char="." colspan="1" rowspan="1">0.000 80</td>
+                            <td align="char" char="×" colspan="1" rowspan="1">9.4605 × 10<sup>−5</sup></td>
+                            <td align="char" char="×" colspan="1" rowspan="1">2.4173 × 10<sup>−6</sup></td>
+                            <td align="char" char="." colspan="1" rowspan="1">0.998 05</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </table-wrap>
+            <p>The <italic>P</italic><sub><italic>h</italic></sub> and <italic>P</italic><sub><italic>e</italic></sub> are further obtained based on <italic>P</italic><sub><italic>h</italic></sub> = <italic>f</italic> · <italic>K</italic><sub><italic>h</italic></sub> and <italic>P</italic><sub><italic>h</italic></sub> = <italic>f</italic><sup>2</sup> · <italic>K</italic><sub><italic>e</italic></sub> as shown in <xref ref-type="fig" rid="f5">Figs. 5(b)</xref> and <xref ref-type="fig" rid="f5">5(c)</xref>. The <italic>P</italic><sub><italic>h</italic></sub> increases from 990.5 kW m<sup>−3</sup> (FSA) to 1615.0 kW m<sup>−3</sup> (50CFC50FSA) with raised CeFeCo content. In general, the <italic>P</italic><sub><italic>h</italic></sub> mainly depends on <italic>H</italic><sub><italic>c</italic></sub>. The addition of CeFeCo powders leads to increased <italic>H</italic><sub><italic>c</italic></sub> in the SMCs [<xref ref-type="fig" rid="f3">Fig. 3(b)</xref>] and resultant increased <italic>P</italic><sub><italic>h</italic></sub>. The <italic>P</italic><sub><italic>e</italic></sub> significantly decrease from 3194.1 kW m<sup>−3</sup> (FSA) to 2365.2 kW m<sup>−3</sup> (50CFC50FSA) with increased CeFeCo. For the SMCs, two distinct types of eddy current loss exist including the inter-particle eddy current loss throughout the entire magnet and the intra-particle eddy current loss, which is associated with eddy current flow within individual magnetic powder. Such two forms of eddy current loss can be expressed as follows:<xref ref-type="bibr" rid="c38 c39 c40"><sup>38–40</sup></xref><disp-formula id="d3"><mml:math display="block" overflow="scroll">
+                        <mml:msub>
+                            <mml:mrow>
+                                <mml:mi>P</mml:mi>
+                            </mml:mrow>
+                            <mml:mrow>
+                                <mml:mi>e</mml:mi>
+                            </mml:mrow>
+                        </mml:msub>
+                        <mml:mo>=</mml:mo>
+                        <mml:msubsup>
+                            <mml:mrow>
+                                <mml:mi>P</mml:mi>
+                            </mml:mrow>
+                            <mml:mrow>
+                                <mml:mi>e</mml:mi>
+                            </mml:mrow>
+                            <mml:mrow>
+                                <mml:mtext>int</mml:mtext>
+                                <mml:mi>e</mml:mi>
+                                <mml:mi>r</mml:mi>
+                            </mml:mrow>
+                        </mml:msubsup>
+                        <mml:mo>+</mml:mo>
+                        <mml:msubsup>
+                            <mml:mrow>
+                                <mml:mi>P</mml:mi>
+                            </mml:mrow>
+                            <mml:mrow>
+                                <mml:mi>e</mml:mi>
+                            </mml:mrow>
+                            <mml:mrow>
+                                <mml:mtext>int</mml:mtext>
+                                <mml:mi>r</mml:mi>
+                                <mml:mi>a</mml:mi>
+                            </mml:mrow>
+                        </mml:msubsup>
+                        <mml:mo>=</mml:mo>
+                        <mml:mfenced close="]" open="[">
+                            <mml:mrow>
+                                <mml:mfrac>
+                                    <mml:mrow>
+                                        <mml:msup>
+                                            <mml:mrow>
+                                                <mml:mrow>
+                                                    <mml:mo stretchy="false">(</mml:mo>
+                                                    <mml:mrow>
+                                                        <mml:mi>π</mml:mi>
+                                                        <mml:msub>
+                                                            <mml:mrow>
+                                                                <mml:mi>d</mml:mi>
+                                                            </mml:mrow>
+                                                            <mml:mrow>
+                                                                <mml:mi mathvariant="italic">eff</mml:mi>
+                                                            </mml:mrow>
+                                                        </mml:msub>
+                                                    </mml:mrow>
+                                                    <mml:mo stretchy="false">)</mml:mo>
+                                                </mml:mrow>
+                                            </mml:mrow>
+                                            <mml:mrow>
+                                                <mml:mn>2</mml:mn>
+                                            </mml:mrow>
+                                        </mml:msup>
+                                    </mml:mrow>
+                                    <mml:mrow>
+                                        <mml:msub>
+                                            <mml:mrow>
+                                                <mml:mi>β</mml:mi>
+                                            </mml:mrow>
+                                            <mml:mrow>
+                                                <mml:mn>1</mml:mn>
+                                            </mml:mrow>
+                                        </mml:msub>
+                                        <mml:msub>
+                                            <mml:mrow>
+                                                <mml:mi>ρ</mml:mi>
+                                            </mml:mrow>
+                                            <mml:mrow>
+                                                <mml:mi>s</mml:mi>
+                                            </mml:mrow>
+                                        </mml:msub>
+                                    </mml:mrow>
+                                </mml:mfrac>
+                                <mml:mo>+</mml:mo>
+                                <mml:mfrac>
+                                    <mml:mrow>
+                                        <mml:msup>
+                                            <mml:mrow>
+                                                <mml:mrow>
+                                                    <mml:mo stretchy="false">(</mml:mo>
+                                                    <mml:mrow>
+                                                        <mml:mi>π</mml:mi>
+                                                        <mml:mi>d</mml:mi>
+                                                    </mml:mrow>
+                                                    <mml:mo stretchy="false">)</mml:mo>
+                                                </mml:mrow>
+                                            </mml:mrow>
+                                            <mml:mrow>
+                                                <mml:mn>2</mml:mn>
+                                            </mml:mrow>
+                                        </mml:msup>
+                                    </mml:mrow>
+                                    <mml:mrow>
+                                        <mml:msub>
+                                            <mml:mrow>
+                                                <mml:mi>β</mml:mi>
+                                            </mml:mrow>
+                                            <mml:mrow>
+                                                <mml:mn>2</mml:mn>
+                                            </mml:mrow>
+                                        </mml:msub>
+                                        <mml:msub>
+                                            <mml:mrow>
+                                                <mml:mi>ρ</mml:mi>
+                                            </mml:mrow>
+                                            <mml:mrow>
+                                                <mml:mi>p</mml:mi>
+                                            </mml:mrow>
+                                        </mml:msub>
+                                    </mml:mrow>
+                                </mml:mfrac>
+                            </mml:mrow>
+                        </mml:mfenced>
+                        <mml:msubsup>
+                            <mml:mrow>
+                                <mml:mi>B</mml:mi>
+                            </mml:mrow>
+                            <mml:mrow>
+                                <mml:mi>m</mml:mi>
+                            </mml:mrow>
+                            <mml:mrow>
+                                <mml:mn>2</mml:mn>
+                            </mml:mrow>
+                        </mml:msubsup>
+                        <mml:msup>
+                            <mml:mrow>
+                                <mml:mi>f</mml:mi>
+                            </mml:mrow>
+                            <mml:mrow>
+                                <mml:mn>2</mml:mn>
+                            </mml:mrow>
+                        </mml:msup>
+                        <mml:mo>=</mml:mo>
+                        <mml:mi>C</mml:mi>
+                        <mml:mo>⋅</mml:mo>
+                        <mml:msubsup>
+                            <mml:mrow>
+                                <mml:mi>B</mml:mi>
+                            </mml:mrow>
+                            <mml:mrow>
+                                <mml:mi>m</mml:mi>
+                            </mml:mrow>
+                            <mml:mrow>
+                                <mml:mn>2</mml:mn>
+                            </mml:mrow>
+                        </mml:msubsup>
+                        <mml:mo>⋅</mml:mo>
+                        <mml:msup>
+                            <mml:mrow>
+                                <mml:mi>f</mml:mi>
+                            </mml:mrow>
+                            <mml:mrow>
+                                <mml:mn>2</mml:mn>
+                            </mml:mrow>
+                        </mml:msup>
+                        <mml:mfrac>
+                            <mml:mrow>
+                                <mml:msup>
+                                    <mml:mrow>
+                                        <mml:mi>D</mml:mi>
+                                    </mml:mrow>
+                                    <mml:mrow>
+                                        <mml:mn>2</mml:mn>
+                                    </mml:mrow>
+                                </mml:msup>
+                            </mml:mrow>
+                            <mml:mrow>
+                                <mml:mi>ρ</mml:mi>
+                            </mml:mrow>
+                        </mml:mfrac>
+                        <mml:mo>.</mml:mo>
+                    </mml:math><label>(3)</label></disp-formula></p>
+            <p>The <italic>d</italic><sub><italic>eff</italic></sub>, <italic>d</italic>, and <italic>D</italic> represent the effective eddy current dimension, particle size, and average size of the eddy current loop, respectively. The <italic>ρ</italic><sub><italic>s</italic></sub>, <italic>ρ</italic><sub><italic>p</italic></sub>, and <italic>ρ</italic> represent the grain boundary resistivity, particle resistivity, and bulk resistivity, respectively, the <italic>β</italic><sub>1</sub> and <italic>β</italic><sub>2</sub> are the geometric factors, and the <italic>C</italic> is the proportionality constant. Equation <xref ref-type="disp-formula" rid="d3">(3)</xref> demonstrates that the eddy current loss is directly proportional to the square of the magnetic powder diameter and inversely proportional to the resistivity of SMCs. Hence, careful consideration of the particle size and resistivity is essential to minimize the eddy current loss in practical terms. Figure S8 illustrates the constantly decreasing bulk resistivity (<italic>ρ</italic>) from 4715.5 to 1035.9 Ω·cm for the SMCs with raised CeFeCo content. This may arise from the dispersion of small CeFeCo powders within the PU, leading to a decline in the insulation performance of the PU and subsequently reduces the bulk resistivity.<xref ref-type="bibr" rid="c41"><sup>41</sup></xref> The change of the <italic>ρ</italic> trend, however, is contradicted by the variation observed in the <italic>P</italic><sub><italic>e</italic></sub> for the CeFeCo/FeSiAl SMCs. According to Eq. <xref ref-type="disp-formula" rid="d3">(3)</xref>, the <italic>P</italic><sub><italic>e</italic></sub> is also proportional to the square of average size <italic>D</italic><sup>2</sup>. The introduction of smaller CeFeCo powders, compared to larger FeSiAl powders, significantly reduces both inter-particle and intra-particle eddy current paths due to their reduced particle size [<xref ref-type="fig" rid="f1">Fig. 1(b)</xref>]. Consequently, the impact of the particle size outweighs the increase caused by resistivity, resulting in a decrease in <italic>P</italic><sub><italic>e</italic></sub> as the CeFeCo content in SMCs increases.</p>
+            <p>When the frequency exceeds 500 kHz, the residual loss, including size resonance, domain-wall resonance, natural resonance, etc., becomes non-neglectable.<xref ref-type="bibr" rid="c12 c35"><sup>12,35</sup></xref> For SMCs, the testing frequency is mostly less than 500 kHz;<xref ref-type="bibr" rid="c9 c37 c38"><sup>9,37,38</sup></xref> thus, there is very little calculation of residual losses. However, for ferrites, the testing frequency is in the MHz range, and there is a wealth of calculations on residual losses.<xref ref-type="bibr" rid="c42 c43 c44"><sup>42–44</sup></xref> Birčáková <italic>et al.</italic><xref ref-type="bibr" rid="c45"><sup>45</sup></xref> have demonstrated that the calculation method of the residual loss for ferrite is also applicable to the SMCs in the MHz frequency range. Consequently, the <italic>P</italic><sub><italic>r</italic></sub> here can be identified from the non-linear region of the <italic>P</italic><sub><italic>cv</italic></sub>/<italic>f-f</italic> plots based on the following equation:<disp-formula id="d4"><mml:math display="block" overflow="scroll">
+                        <mml:msub>
+                            <mml:mrow>
+                                <mml:mi>P</mml:mi>
+                            </mml:mrow>
+                            <mml:mrow>
+                                <mml:mi>r</mml:mi>
+                            </mml:mrow>
+                        </mml:msub>
+                        <mml:mo>=</mml:mo>
+                        <mml:msub>
+                            <mml:mrow>
+                                <mml:mi>P</mml:mi>
+                            </mml:mrow>
+                            <mml:mrow>
+                                <mml:mi>c</mml:mi>
+                                <mml:mi>v</mml:mi>
+                            </mml:mrow>
+                        </mml:msub>
+                        <mml:mo>−</mml:mo>
+                        <mml:msub>
+                            <mml:mrow>
+                                <mml:mi>P</mml:mi>
+                            </mml:mrow>
+                            <mml:mrow>
+                                <mml:mi>h</mml:mi>
+                            </mml:mrow>
+                        </mml:msub>
+                        <mml:mo>−</mml:mo>
+                        <mml:msub>
+                            <mml:mrow>
+                                <mml:mi>P</mml:mi>
+                            </mml:mrow>
+                            <mml:mrow>
+                                <mml:mi>e</mml:mi>
+                            </mml:mrow>
+                        </mml:msub>
+                        <mml:mo>=</mml:mo>
+                        <mml:msub>
+                            <mml:mrow>
+                                <mml:mi>P</mml:mi>
+                            </mml:mrow>
+                            <mml:mrow>
+                                <mml:mi>c</mml:mi>
+                                <mml:mi>v</mml:mi>
+                            </mml:mrow>
+                        </mml:msub>
+                        <mml:mo>−</mml:mo>
+                        <mml:msub>
+                            <mml:mrow>
+                                <mml:mi>K</mml:mi>
+                            </mml:mrow>
+                            <mml:mrow>
+                                <mml:mi>h</mml:mi>
+                            </mml:mrow>
+                        </mml:msub>
+                        <mml:mi>f</mml:mi>
+                        <mml:mo>−</mml:mo>
+                        <mml:msub>
+                            <mml:mrow>
+                                <mml:mi>K</mml:mi>
+                            </mml:mrow>
+                            <mml:mrow>
+                                <mml:mi>e</mml:mi>
+                            </mml:mrow>
+                        </mml:msub>
+                        <mml:msup>
+                            <mml:mrow>
+                                <mml:mi>f</mml:mi>
+                            </mml:mrow>
+                            <mml:mrow>
+                                <mml:mn>2</mml:mn>
+                            </mml:mrow>
+                        </mml:msup>
+                        <mml:mspace width="1em"/>
+                        <mml:mfenced close=")" open="(">
+                            <mml:mrow>
+                                <mml:mi>f</mml:mi>
+                                <mml:mo>&gt;</mml:mo>
+                                <mml:mn>500</mml:mn>
+                                <mml:mtext> kHz</mml:mtext>
+                            </mml:mrow>
+                        </mml:mfenced>
+                        <mml:mo>.</mml:mo>
+                    </mml:math><label>(4)</label></disp-formula></p>
+            <p><xref ref-type="fig" rid="f5">Figure 5(d)</xref> shows the evolution of the <italic>P</italic><sub><italic>r</italic></sub> that significantly decreases from 541.9 kW m<sup>−3</sup> (FSA) to 212.3 kW m<sup>−3</sup> (50CFC50FSA) with increased CeFeCo at 5 MHz. The <italic>P</italic><sub><italic>r</italic></sub> in the MHz frequency range originates from the domain-wall resonance. Consequently, a lower resonance frequency in the FSA SMC [<xref ref-type="fig" rid="f4">Fig. 4(c)</xref>] gives rise to the highest <italic>P</italic><sub><italic>r</italic></sub>. With increased incorporation of the CFC, the <italic>P</italic><sub><italic>r</italic></sub> monotonically decreases due to the significantly raised relaxation frequency of the easy-plane rare-earth component.<xref ref-type="bibr" rid="c12 c46"><sup>12,46</sup></xref></p>
+            <p>Based the above analyses, it can be found that the rational addition of small CeFeCo powders contributes to reduce eddy current paths and effectively suppress eddy current loss. Furthermore, higher domain-wall resonance frequency can be achieved with the incorporation of the CeFeCo, giving rise to significantly reduced residual loss in the MHz frequency. However, excessive incorporation of CeFeCo leads to deterioration of coercivity and rapid increment in the hysteresis loss. Based on the comprehensive effects of the <italic>P</italic><sub><italic>h</italic></sub>, <italic>P</italic><sub><italic>e</italic></sub>, and <italic>P</italic><sub><italic>r</italic></sub>, the minimum power loss of 3677.5 kW m<sup>−3</sup> (5 MHz, 10 mT) can be achieved for the 20CFC80FSA with CeFeCo content of 20 wt. %.</p>
+            <p><xref ref-type="table" rid="t2">Table II</xref> gives the comparison of the performance of the 20CFC80FSA sample with related SMCs in the literature. The FeSiAl/CeFeCo SMCs in this work demonstrate the lowest losses across a wide frequency range from 25 kHz to 5 MHz. Moreover, the CeFeCo/FeSiAl SMCs offer notable enhancement in the domain-wall resonance frequency compared to their traditional counterparts due to the incorporation of the easy-plane rare-earth component.</p>
+            <table-wrap id="t2" orientation="portrait" position="float">
+                <label>TABLE II.</label>
+                <caption>
+                    <p>Comparison of previously reported soft magnetic material properties and this work.</p>
+                </caption>
+                <table border="1">
+                    <colgroup span="1">
+                        <col align="left" span="1"/>
+                        <col align="center" span="1"/>
+                        <col align="center" span="1"/>
+                        <col align="center" span="1"/>
+                        <col align="center" span="1"/>
+                        <col align="center" span="1"/>
+                    </colgroup>
+                    <thead>
+                        <tr>
+                            <th colspan="1" rowspan="2">Samples</th>
+                            <th align="center" colspan="3" rowspan="1"><italic>P</italic><sub><italic>cv</italic></sub> (mW/cm<sup>3</sup>)</th>
+                            <th align="center" colspan="1" rowspan="1"><italic>f</italic><sub><italic>d</italic></sub></th>
+                            <th colspan="1" rowspan="1"/>
+                        </tr>
+                        <tr>
+                            <th align="center" colspan="1" rowspan="1">25 kHz 10 mT</th>
+                            <th align="center" colspan="1" rowspan="1">500 kHz 10 mT</th>
+                            <th align="center" colspan="1" rowspan="1">5000 kHz 5 mT</th>
+                            <th align="center" colspan="1" rowspan="1">(MHz)</th>
+                            <th align="center" colspan="1" rowspan="1">References</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td colspan="1" rowspan="1">CeFeCo/FeSiAl@PU</td>
+                            <td colspan="1" rowspan="1">4.95</td>
+                            <td colspan="1" rowspan="1">131.09</td>
+                            <td colspan="1" rowspan="1">949.41</td>
+                            <td colspan="1" rowspan="1">386</td>
+                            <td colspan="1" rowspan="1">This work</td>
+                        </tr>
+                        <tr>
+                            <td colspan="1" rowspan="1">FeSiAl@MnZn ferrites</td>
+                            <td colspan="1" rowspan="1">1100</td>
+                            <td colspan="1" rowspan="1">…</td>
+                            <td colspan="1" rowspan="1">…</td>
+                            <td colspan="1" rowspan="1">…</td>
+                            <td colspan="1" rowspan="1"><xref ref-type="bibr" rid="c25">25</xref></td>
+                        </tr>
+                        <tr>
+                            <td colspan="1" rowspan="1">FeSiAl@NiZn ferrites</td>
+                            <td colspan="1" rowspan="1">800</td>
+                            <td colspan="1" rowspan="1">…</td>
+                            <td colspan="1" rowspan="1">…</td>
+                            <td colspan="1" rowspan="1">…</td>
+                            <td colspan="1" rowspan="1"><xref ref-type="bibr" rid="c26">26</xref></td>
+                        </tr>
+                        <tr>
+                            <td colspan="1" rowspan="1">FeSiB@Al<sub>2</sub>O<sub>3</sub></td>
+                            <td colspan="1" rowspan="1">…</td>
+                            <td colspan="1" rowspan="1">610</td>
+                            <td colspan="1" rowspan="1">…</td>
+                            <td colspan="1" rowspan="1">…</td>
+                            <td colspan="1" rowspan="1"><xref ref-type="bibr" rid="c46">46</xref></td>
+                        </tr>
+                        <tr>
+                            <td colspan="1" rowspan="1">FeSiAl@MoO<sub>3</sub></td>
+                            <td colspan="1" rowspan="1">…</td>
+                            <td colspan="1" rowspan="1">…</td>
+                            <td colspan="1" rowspan="1">962</td>
+                            <td colspan="1" rowspan="1">110</td>
+                            <td colspan="1" rowspan="1"><xref ref-type="bibr" rid="c31">31</xref></td>
+                        </tr>
+                    </tbody>
+                </table>
+            </table-wrap>
+        </sec>
+        <sec id="s4">
+            <label>IV.</label>
+            <title>CONCLUSIONS</title>
+            <p>In summary, FeSiAl/CeFeCo SMCs with large permeability, high domain-wall resonance frequency, and low power loss for MHz frequency applications have been fabricated by hot-pressing FeSiAl and CeFeCo magnetic powders with PU. Benefiting from synergistic component design and processing strategy, the 20CFC80FSA with 20 wt. % CeFeCo exhibits the optimal soft magnetic performance with minimum power loss (3677.5 kW m<sup>−3</sup> under 5 MHz, 10 mT) and high domain-wall resonance frequency (386.1 MHz). Thus, this work not only sheds light on the fabrication of high-frequency and low-loss FeSiAl/CeFeCo SMCs but also advances the insight of compositional design for rare-earth-based SMCs employed in MHz power devices.</p>
+        </sec>
+        <sec id="s5" sec-type="supplementary-material">
+            <title>SUPPLEMENTARY MATERIAL</title>
+                <p>See the <ext-link assigning-authority="figshare" ext-link-type="doi" xlink:href="https://doi.org/10.60893/figshare.adv.c.7203267">supplementary material</ext-link> for supporting content.</p>
+        </sec>
+    </body><back>
+        <ack>
+            <title>ACKNOWLEDGMENTS</title>
+            <p>This work was supported by the National Key R&amp;D Program of China (Grant No. 2021YFB3501303), the National Natural Science Foundation of China (Grant No. 52027802), the “Pioneer” R&amp;D Program of Zhejiang Province (Grant No. 2022C01230), the Shanxi-Zheda Institute of Advanced Materials and Chemical Engineering (Grant No. 2021SZ-FR005), the Space Application System of China Manned Space Program (Grant No. KJZ-YY-NCL03), the Key R&amp;D Program of Zhejiang Province (Grant No. 2021C01033), and the opening fund of the Key Laboratory of Rare Earth, Chinese Academy of Sciences.</p>
+        </ack>
+        <sec sec-type="author-declarations">
+            <title>AUTHOR DECLARATIONS</title>
+            <sec sec-type="conflict-of-interest">
+                <title>Conflict of Interest</title>
+                <p>The authors have no conflicts to disclose.</p>
+            </sec>
+            <sec sec-type="author-contributions">
+                <title>Author Contributions</title>
+                <p><bold>Wenchen Wan</bold>: Conceptualization (equal); Data curation (equal); Formal analysis (equal); Investigation (equal); Methodology (equal); Writing – original draft (equal). <bold>Chen Wu</bold>: Data curation (equal); Investigation (equal); Writing – review &amp; editing (equal). <bold>Guang Liu</bold>: Data curation (equal); Formal analysis (equal); Writing – review &amp; editing (equal). <bold>Qiming Chen</bold>: Conceptualization (equal); Writing – review &amp; editing (equal). <bold>Mi Yan</bold>: Funding acquisition (equal); Investigation (equal); Supervision (equal).</p>
+            </sec>
+        </sec>
+        <sec sec-type="data-availability">
+            <title>DATA AVAILABILITY</title>
+            <p>The data that support the findings of this study are available from the corresponding authors upon reasonable request.</p>
+        </sec>
+        <ref-list>
+            <title>REFERENCES</title>
+            <ref id="c1">
+                <label>1</label>
+                <mixed-citation publication-type="journal"><string-name><given-names>J. M.</given-names>
+                        <surname>Silveyra</surname></string-name>, <string-name><given-names>E.</given-names>
+                        <surname>Ferrara</surname></string-name>, <string-name><given-names>D. L.</given-names>
+                        <surname>Huber</surname></string-name>, and <string-name><given-names>T. C.</given-names>
+                        <surname>Monson</surname></string-name>, <source>Science</source>
+                    <volume>362</volume>(<issue>6413</issue>), <fpage>eaao0195</fpage> (<year>2018</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1126/science.aao0195</pub-id></mixed-citation>
+            </ref>
+            <ref id="c2">
+                <label>2</label>
+                <mixed-citation publication-type="journal"><string-name><given-names>D.</given-names>
+                        <surname>Liu</surname></string-name>, <string-name><given-names>C.</given-names>
+                        <surname>Wu</surname></string-name>, <string-name><given-names>M.</given-names>
+                        <surname>Yan</surname></string-name>, and <string-name><given-names>J.</given-names>
+                        <surname>Wang</surname></string-name>, <source>Acta Mater.</source>
+                    <volume>146</volume>, <fpage>294</fpage>–<lpage>303</lpage> (<year>2018</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1016/j.actamat.2018.01.001</pub-id></mixed-citation>
+            </ref>
+            <ref id="c3">
+                <label>3</label>
+                <mixed-citation publication-type="journal"><string-name><given-names>E. A.</given-names>
+                        <surname>Périgo</surname></string-name>, <string-name><given-names>B.</given-names>
+                        <surname>Weidenfeller</surname></string-name>, <string-name><given-names>P.</given-names>
+                        <surname>Kollár</surname></string-name>, and <string-name><given-names>J.</given-names>
+                        <surname>Füzer</surname></string-name>, <source>Appl. Phys. Rev.</source>
+                    <volume>5</volume>(<issue>3</issue>), <fpage>031301</fpage> (<year>2018</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1063/1.5027045</pub-id></mixed-citation>
+            </ref>
+            <ref id="c4">
+                <label>4</label>
+                <mixed-citation publication-type="journal"><string-name><given-names>M. L.</given-names>
+                        <surname>Tuballa</surname></string-name> and <string-name><given-names>M. L.</given-names>
+                        <surname>Abundo</surname></string-name>, <source>Renewable Sustainable Energy Rev.</source>
+                    <volume>59</volume>, <fpage>710</fpage>–<lpage>725</lpage> (<year>2016</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1016/j.rser.2016.01.011</pub-id></mixed-citation>
+            </ref>
+            <ref id="c5">
+                <label>5</label>
+                <mixed-citation publication-type="journal"><string-name><given-names>G.</given-names>
+                        <surname>Zhao</surname></string-name>, <string-name><given-names>C.</given-names>
+                        <surname>Wu</surname></string-name>, and <string-name><given-names>M.</given-names>
+                        <surname>Yan</surname></string-name>, <source>J. Magn. Magn. Mater.</source>
+                    <volume>399</volume>, <fpage>51</fpage>–<lpage>57</lpage> (<year>2016</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1016/j.jmmm.2015.09.054</pub-id></mixed-citation>
+            </ref>
+            <ref id="c6">
+                <label>6</label>
+                <mixed-citation publication-type="journal"><string-name><given-names>K.</given-names>
+                        <surname>Geng</surname></string-name>, <string-name><given-names>Y.</given-names>
+                        <surname>Xie</surname></string-name>, <string-name><given-names>L.</given-names>
+                        <surname>Xu</surname></string-name>, and <string-name><given-names>B.</given-names>
+                        <surname>Yan</surname></string-name>, <source>Adv. Powder Technol.</source>
+                    <volume>28</volume>(<issue>9</issue>), <fpage>2015</fpage>–<lpage>2022</lpage> (<year>2017</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1016/j.apt.2017.04.029</pub-id></mixed-citation>
+            </ref>
+            <ref id="c7">
+                <label>7</label>
+                <mixed-citation publication-type="journal"><string-name><given-names>M.</given-names>
+                        <surname>Strečková</surname></string-name>, <string-name><given-names>J.</given-names>
+                        <surname>Füzer</surname></string-name>, <string-name><given-names>L.</given-names>
+                        <surname>Kobera</surname></string-name>, <string-name><given-names>J.</given-names>
+                        <surname>Brus</surname></string-name>, <string-name><given-names>M.</given-names>
+                        <surname>Fáberová</surname></string-name>, <string-name><given-names>R.</given-names>
+                        <surname>Bureš</surname></string-name>, <string-name><given-names>P.</given-names>
+                        <surname>Kollár</surname></string-name>, <string-name><given-names>M.</given-names>
+                        <surname>Lauda</surname></string-name>, <string-name><given-names>Ĺ.</given-names>
+                        <surname>Medvecký</surname></string-name>, <string-name><given-names>V.</given-names>
+                        <surname>Girman</surname></string-name>, <string-name><given-names>H.</given-names>
+                        <surname>Hadraba</surname></string-name>, <string-name><given-names>M.</given-names>
+                        <surname>Bat’ková</surname></string-name>, and <string-name><given-names>I.</given-names>
+                        <surname>Bat’ko</surname></string-name>, <source>Mater. Chem. Phys.</source>
+                    <volume>147</volume>(<issue>3</issue>), <fpage>649</fpage>–<lpage>660</lpage> (<year>2014</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1016/j.matchemphys.2014.06.004</pub-id></mixed-citation>
+            </ref>
+            <ref id="c8">
+                <label>8</label>
+                <mixed-citation publication-type="journal"><string-name><given-names>X.</given-names>
+                        <surname>Zhu</surname></string-name>, <string-name><given-names>W.</given-names>
+                        <surname>Liu</surname></string-name>, <string-name><given-names>J. Y.</given-names>
+                        <surname>Ju</surname></string-name>, <string-name><given-names>P. P.</given-names>
+                        <surname>Xu</surname></string-name>, <string-name><given-names>M. R.</given-names>
+                        <surname>Li</surname></string-name>, <string-name><given-names>X. B.</given-names>
+                        <surname>Zhang</surname></string-name>, <string-name><given-names>J. Z.</given-names>
+                        <surname>Wang</surname></string-name>, <string-name><given-names>Z. Q.</given-names>
+                        <surname>Zou</surname></string-name>, and <string-name><given-names>H. L.</given-names>
+                        <surname>Su</surname></string-name>, <source>J. Mater. Sci.: Mater. Electron.</source>
+                    <volume>34</volume>(<issue>20</issue>), <fpage>1523</fpage> (<year>2023</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1007/s10854-023-10960-3</pub-id></mixed-citation>
+            </ref>
+            <ref id="c9">
+                <label>9</label>
+                <mixed-citation publication-type="journal"><string-name><given-names>M.</given-names>
+                        <surname>Yan</surname></string-name>, <string-name><given-names>Q.</given-names>
+                        <surname>Chen</surname></string-name>, <string-name><given-names>D.</given-names>
+                        <surname>Liu</surname></string-name>, <string-name><given-names>C.</given-names>
+                        <surname>Wu</surname></string-name>, and <string-name><given-names>J.</given-names>
+                        <surname>Wang</surname></string-name>, <source>Engineering</source>
+                    <volume>20</volume>, <fpage>134</fpage>–<lpage>142</lpage> (<year>2023</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1016/j.eng.2022.01.016</pub-id></mixed-citation>
+            </ref>
+            <ref id="c10">
+                <label>10</label>
+                <mixed-citation publication-type="journal"><string-name><given-names>H.</given-names>
+                        <surname>Long</surname></string-name>, <string-name><given-names>X.</given-names>
+                        <surname>Wu</surname></string-name>, <string-name><given-names>Y.</given-names>
+                        <surname>Lu</surname></string-name>, <string-name><given-names>H.</given-names>
+                        <surname>Zhang</surname></string-name>, and <string-name><given-names>J.</given-names>
+                        <surname>Hao</surname></string-name>, <source>Materials</source>
+                    <volume>15</volume>(<issue>9</issue>), <fpage>3350</fpage> (<year>2022</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.3390/ma15093350</pub-id></mixed-citation>
+            </ref>
+            <ref id="c11">
+                <label>11</label>
+                <mixed-citation publication-type="journal"><string-name><given-names>H. J.</given-names>
+                        <surname>Woo</surname></string-name>, <string-name><given-names>S. W.</given-names>
+                        <surname>Kim</surname></string-name>, <string-name><given-names>C. P.</given-names>
+                        <surname>Kim</surname></string-name>, <string-name><given-names>D. H.</given-names>
+                        <surname>Choi</surname></string-name>, <string-name><given-names>S.</given-names>
+                        <surname>Kim</surname></string-name>, and <string-name><given-names>B. W.</given-names>
+                        <surname>Lee</surname></string-name>, <source>J. Magn. Magn. Mater.</source>
+                    <volume>565</volume>, <fpage>170181</fpage> (<year>2023</year>).<pub-id pub-id-type="doi">10.1016/j.jmmm.2022.170181</pub-id></mixed-citation>
+            </ref>
+            <ref id="c12">
+                <label>12</label>
+                <mixed-citation publication-type="journal"><string-name><given-names>K.</given-names>
+                        <surname>Wang</surname></string-name>, <string-name><given-names>H.</given-names>
+                        <surname>Zhang</surname></string-name>, <string-name><given-names>Y.</given-names>
+                        <surname>Huang</surname></string-name>, <string-name><given-names>Z.</given-names>
+                        <surname>Xu</surname></string-name>, <string-name><given-names>F.</given-names>
+                        <surname>Li</surname></string-name>, and <string-name><given-names>T.</given-names>
+                        <surname>Wang</surname></string-name>, <source>J. Rare Earths</source>
+                    <volume>42</volume>(<issue>1</issue>), <fpage>110</fpage>–<lpage>115</lpage> (<year>2024</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1016/j.jre.2023.02.003</pub-id></mixed-citation>
+            </ref>
+            <ref id="c13">
+                <label>13</label>
+                <mixed-citation publication-type="journal"><string-name><given-names>P.</given-names>
+                        <surname>Wang</surname></string-name>, <string-name><given-names>J.</given-names>
+                        <surname>Zhang</surname></string-name>, <string-name><given-names>G.</given-names>
+                        <surname>Wang</surname></string-name>, <string-name><given-names>B.</given-names>
+                        <surname>Duan</surname></string-name>, <string-name><given-names>T.</given-names>
+                        <surname>Wang</surname></string-name>, and <string-name><given-names>F.</given-names>
+                        <surname>Li</surname></string-name>, <source>Appl. Phys. Lett.</source>
+                    <volume>116</volume>(<issue>11</issue>), <fpage>112403</fpage> (<year>2020</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1063/5.0001477</pub-id></mixed-citation>
+            </ref>
+            <ref id="c14">
+                <label>14</label>
+                <mixed-citation publication-type="journal"><string-name><given-names>G.</given-names>
+                        <surname>Bertotti</surname></string-name>, <source>IEEE Trans. Magn.</source>
+                    <volume>24</volume>(<issue>1</issue>), <fpage>621</fpage>–<lpage>630</lpage> (<year>1988</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1109/20.43994</pub-id></mixed-citation>
+            </ref>
+            <ref id="c15">
+                <label>15</label>
+                <mixed-citation publication-type="journal"><string-name><given-names>J.</given-names>
+                        <surname>Zhong</surname></string-name>, <string-name><given-names>G.</given-names>
+                        <surname>Tan</surname></string-name>, <string-name><given-names>Q.</given-names>
+                        <surname>Man</surname></string-name>, <string-name><given-names>M.</given-names>
+                        <surname>Ning</surname></string-name>, <string-name><given-names>Y.</given-names>
+                        <surname>Gao</surname></string-name>, <string-name><given-names>X.</given-names>
+                        <surname>Liu</surname></string-name>, and <string-name><given-names>J.</given-names>
+                        <surname>Pan</surname></string-name>, <source>J. Mater. Sci.: Mater. Electron.</source>
+                    <volume>32</volume>(<issue>23</issue>), <fpage>27849</fpage>–<lpage>27859</lpage> (<year>2021</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1007/s10854-021-07167-9</pub-id></mixed-citation>
+            </ref>
+            <ref id="c16">
+                <label>16</label>
+                <mixed-citation publication-type="journal"><string-name><given-names>Q.</given-names>
+                        <surname>Hu</surname></string-name>, <string-name><given-names>G.</given-names>
+                        <surname>Qiao</surname></string-name>, <string-name><given-names>W.</given-names>
+                        <surname>Yang</surname></string-name>, <string-name><given-names>Z.</given-names>
+                        <surname>Liu</surname></string-name>, <string-name><given-names>P.</given-names>
+                        <surname>Zhang</surname></string-name>, <string-name><given-names>S. Q.</given-names>
+                        <surname>Liu</surname></string-name>, <string-name><given-names>C. S.</given-names>
+                        <surname>Wang</surname></string-name>, <string-name><given-names>D.</given-names>
+                        <surname>Zhou</surname></string-name>, <string-name><given-names>R.</given-names>
+                        <surname>Han</surname></string-name>, <string-name><given-names>D. Y.</given-names>
+                        <surname>Cai</surname></string-name>, <string-name><given-names>B. P.</given-names>
+                        <surname>Hu</surname></string-name>, and <string-name><given-names>J. B.</given-names>
+                        <surname>Yang</surname></string-name>, <source>J. Phys. D: Appl. Phys.</source>
+                    <volume>53</volume>(<issue>11</issue>), <fpage>115001</fpage> (<year>2020</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1088/1361-6463/ab60e9</pub-id></mixed-citation>
+            </ref>
+            <ref id="c17">
+                <label>17</label>
+                <mixed-citation publication-type="journal"><string-name><given-names>R.</given-names>
+                        <surname>Han</surname></string-name>, <string-name><given-names>H.</given-names>
+                        <surname>Yi</surname></string-name>, <string-name><given-names>J.</given-names>
+                        <surname>Wei</surname></string-name>, <string-name><given-names>L.</given-names>
+                        <surname>Qiao</surname></string-name>, <string-name><given-names>T.</given-names>
+                        <surname>Wang</surname></string-name>, and <string-name><given-names>F.</given-names>
+                        <surname>Li</surname></string-name>, <source>Appl. Phys. A</source>
+                    <volume>108</volume>(<issue>3</issue>), <fpage>665</fpage>–<lpage>669</lpage> (<year>2012</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1007/s00339-012-6948-9</pub-id></mixed-citation>
+            </ref>
+            <ref id="c18">
+                <label>18</label>
+                <mixed-citation publication-type="journal"><string-name><given-names>M.</given-names>
+                        <surname>Yuan</surname></string-name>, <string-name><given-names>Q.</given-names>
+                        <surname>Yao</surname></string-name>, <string-name><given-names>H.</given-names>
+                        <surname>Zhou</surname></string-name>, <string-name><given-names>Q.</given-names>
+                        <surname>Long</surname></string-name>, <string-name><given-names>J.</given-names>
+                        <surname>Deng</surname></string-name>, <string-name><given-names>J.</given-names>
+                        <surname>Wang</surname></string-name>, <string-name><given-names>C. R.</given-names>
+                        <surname>Li</surname></string-name>, and <string-name><given-names>G. H.</given-names>
+                        <surname>Rao</surname></string-name>, <source>J. Mater. Sci.: Mater. Electron.</source>
+                    <volume>32</volume>(<issue>10</issue>), <fpage>13108</fpage>–<lpage>13116</lpage> (<year>2021</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1007/s10854-021-05801-0</pub-id></mixed-citation>
+            </ref>
+            <ref id="c19">
+                <label>19</label>
+                <mixed-citation publication-type="journal"><string-name><given-names>Y.</given-names>
+                        <surname>Zhang</surname></string-name>, <string-name><given-names>P.</given-names>
+                        <surname>Wang</surname></string-name>, <string-name><given-names>T.</given-names>
+                        <surname>Ma</surname></string-name>, <string-name><given-names>Y.</given-names>
+                        <surname>Wang</surname></string-name>, <string-name><given-names>L.</given-names>
+                        <surname>Qiao</surname></string-name>, and <string-name><given-names>T.</given-names>
+                        <surname>Wang</surname></string-name>, <source>Appl. Phys. Lett.</source>
+                    <volume>108</volume>(<issue>9</issue>), <fpage>092406</fpage> (<year>2016</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1063/1.4943378</pub-id></mixed-citation>
+            </ref>
+            <ref id="c20">
+                <label>20</label>
+                <mixed-citation publication-type="journal"><string-name><given-names>R.</given-names>
+                        <surname>Han</surname></string-name>, <string-name><given-names>P.</given-names>
+                        <surname>Shen</surname></string-name>, <string-name><given-names>L.</given-names>
+                        <surname>Qiao</surname></string-name>, <string-name><given-names>H.</given-names>
+                        <surname>Chen</surname></string-name>, <string-name><given-names>Y.</given-names>
+                        <surname>Fang</surname></string-name>, <string-name><given-names>Z.</given-names>
+                        <surname>Guo</surname></string-name>, <string-name><given-names>S.</given-names>
+                        <surname>Dong</surname></string-name>, <string-name><given-names>M.</given-names>
+                        <surname>Zhu</surname></string-name>, <string-name><given-names>D.</given-names>
+                        <surname>Zhou</surname></string-name>, <string-name><given-names>F.</given-names>
+                        <surname>Li</surname></string-name>, and <string-name><given-names>W.</given-names>
+                        <surname>Li</surname></string-name>, <source>J. Magn. Magn. Mater.</source>
+                    <volume>529</volume>, <fpage>167859</fpage> (<year>2021</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1016/j.jmmm.2021.167859</pub-id></mixed-citation>
+            </ref>
+            <ref id="c21">
+                <label>21</label>
+                <mixed-citation publication-type="journal"><string-name><given-names>G.</given-names>
+                        <surname>Zhao</surname></string-name>, <string-name><given-names>C.</given-names>
+                        <surname>Wu</surname></string-name>, and <string-name><given-names>M.</given-names>
+                        <surname>Yan</surname></string-name>, <source>J. Alloys Compd.</source>
+                    <volume>710</volume>, <fpage>138</fpage>–<lpage>143</lpage> (<year>2017</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1016/j.jallcom.2017.03.229</pub-id></mixed-citation>
+            </ref>
+            <ref id="c22">
+                <label>22</label>
+                <mixed-citation publication-type="journal"><string-name><given-names>J.</given-names>
+                        <surname>Zhao</surname></string-name>, <string-name><given-names>C.</given-names>
+                        <surname>Wu</surname></string-name>, <string-name><given-names>D.</given-names>
+                        <surname>Luo</surname></string-name>, and <string-name><given-names>M.</given-names>
+                        <surname>Yan</surname></string-name>, <source>J. Magn. Magn. Mater.</source>
+                    <volume>481</volume>, <fpage>140</fpage>–<lpage>149</lpage> (<year>2019</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1016/j.jmmm.2019.01.070</pub-id></mixed-citation>
+            </ref>
+            <ref id="c23">
+                <label>23</label>
+                <mixed-citation publication-type="journal"><string-name><given-names>Z. H.</given-names>
+                        <surname>Chen</surname></string-name>, <string-name><given-names>X. S.</given-names>
+                        <surname>Liu</surname></string-name>, <string-name><given-names>X. C.</given-names>
+                        <surname>Kan</surname></string-name>, <string-name><given-names>Z.</given-names>
+                        <surname>Wang</surname></string-name>, <string-name><given-names>R. W.</given-names>
+                        <surname>Zhu</surname></string-name>, <string-name><given-names>W.</given-names>
+                        <surname>Yang</surname></string-name>, <string-name><given-names>Q. Y.</given-names>
+                        <surname>Wu</surname></string-name>, and <string-name><given-names>M.</given-names>
+                        <surname>Shezad</surname></string-name>, <source>J. Alloys Compd.</source>
+                    <volume>783</volume>, <fpage>434</fpage>–<lpage>440</lpage> (<year>2019</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1016/j.jallcom.2018.12.328</pub-id></mixed-citation>
+            </ref>
+            <ref id="c24">
+                <label>24</label>
+                <mixed-citation publication-type="journal"><string-name><given-names>M.</given-names>
+                        <surname>Kabátová</surname></string-name>, <string-name><given-names>E.</given-names>
+                        <surname>Dudrová</surname></string-name>, and <string-name><given-names>H.</given-names>
+                        <surname>Bruncková</surname></string-name>, <source>Surf. Interface Anal.</source>
+                    <volume>45</volume>(<issue>7</issue>), <fpage>1166</fpage>–<lpage>1173</lpage> (<year>2013</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1002/sia.5244</pub-id></mixed-citation>
+            </ref>
+            <ref id="c25">
+                <label>25</label>
+                <mixed-citation publication-type="journal"><string-name><given-names>J.</given-names>
+                        <surname>Li</surname></string-name>, <string-name><given-names>X.</given-names>
+                        <surname>Peng</surname></string-name>, <string-name><given-names>Y.</given-names>
+                        <surname>Yang</surname></string-name>, and <string-name><given-names>H.</given-names>
+                        <surname>Ge</surname></string-name>, <source>J. Magn. Magn. Mater.</source>
+                    <volume>426</volume>, <fpage>132</fpage>–<lpage>136</lpage> (<year>2017</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1016/j.jmmm.2016.11.068</pub-id></mixed-citation>
+            </ref>
+            <ref id="c26">
+                <label>26</label>
+                <mixed-citation publication-type="journal"><string-name><given-names>J.</given-names>
+                        <surname>Li</surname></string-name>, <string-name><given-names>X.</given-names>
+                        <surname>Peng</surname></string-name>, <string-name><given-names>Y.</given-names>
+                        <surname>Yang</surname></string-name>, <string-name><given-names>H.</given-names>
+                        <surname>Ge</surname></string-name>, <string-name><given-names>D.</given-names>
+                        <surname>Wang</surname></string-name>, and <string-name><given-names>Y.</given-names>
+                        <surname>Du</surname></string-name>, <source>AIP Adv.</source>
+                    <volume>7</volume>(<issue>5</issue>), <fpage>056109</fpage> (<year>2017</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1063/1.4978402</pub-id></mixed-citation>
+            </ref>
+            <ref id="c27">
+                <label>27</label>
+                <mixed-citation publication-type="journal"><string-name><given-names>J.</given-names>
+                        <surname>Liu</surname></string-name>, <string-name><given-names>X.</given-names>
+                        <surname>Peng</surname></string-name>, <string-name><given-names>J.</given-names>
+                        <surname>Li</surname></string-name>, <string-name><given-names>Y.</given-names>
+                        <surname>Yang</surname></string-name>, <string-name><given-names>J. C.</given-names>
+                        <surname>Xu</surname></string-name>, <string-name><given-names>B.</given-names>
+                        <surname>Hong</surname></string-name>, <string-name><given-names>J.</given-names>
+                        <surname>Gong</surname></string-name>, <string-name><given-names>Y. B.</given-names>
+                        <surname>Han</surname></string-name>, <string-name><given-names>H. L.</given-names>
+                        <surname>Ge</surname></string-name>, and <string-name><given-names>X. Q.</given-names>
+                        <surname>Wang</surname></string-name>, <source>J. Magn. Magn. Mater.</source>
+                    <volume>538</volume>, <fpage>168297</fpage> (<year>2021</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1016/j.jmmm.2021.168297</pub-id></mixed-citation>
+            </ref>
+            <ref id="c28">
+                <label>28</label>
+                <mixed-citation publication-type="journal"><string-name><given-names>C.</given-names>
+                        <surname>Wu</surname></string-name>, <string-name><given-names>M.</given-names>
+                        <surname>Huang</surname></string-name>, <string-name><given-names>D.</given-names>
+                        <surname>Luo</surname></string-name>, <string-name><given-names>Y.</given-names>
+                        <surname>Jiang</surname></string-name>, and <string-name><given-names>M.</given-names>
+                        <surname>Yan</surname></string-name>, <source>J. Alloys Compd.</source>
+                    <volume>741</volume>, <fpage>35</fpage>–<lpage>43</lpage> (<year>2018</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1016/j.jallcom.2017.12.322</pub-id></mixed-citation>
+            </ref>
+            <ref id="c29">
+                <label>29</label>
+                <mixed-citation publication-type="journal"><string-name><given-names>A. H.</given-names>
+                        <surname>Taghvaei</surname></string-name>, <string-name><given-names>A.</given-names>
+                        <surname>Ebrahimi</surname></string-name>, <string-name><given-names>K.</given-names>
+                        <surname>Gheisari</surname></string-name>, and <string-name><given-names>K.</given-names>
+                        <surname>Janghorban</surname></string-name>, <source>J. Magn. Magn. Mater.</source>
+                    <volume>322</volume>(<issue>23</issue>), <fpage>3748</fpage>–<lpage>3754</lpage> (<year>2010</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1016/j.jmmm.2010.07.032</pub-id></mixed-citation>
+            </ref>
+            <ref id="c30">
+                <label>30</label>
+                <mixed-citation publication-type="thesis"><string-name><given-names>H. B.</given-names>
+                        <surname>Yi</surname></string-name>, Ph.D. thesis, <publisher-name>Lanzhou University</publisher-name>, <year>2012</year>.</mixed-citation>
+            </ref>
+            <ref id="c31">
+                <label>31</label>
+                <mixed-citation publication-type="journal"><string-name><given-names>G.</given-names>
+                        <surname>Bai</surname></string-name>, <string-name><given-names>J.</given-names>
+                        <surname>Liu</surname></string-name>, <string-name><given-names>S.</given-names>
+                        <surname>Bandaru</surname></string-name>, <string-name><given-names>Z.</given-names>
+                        <surname>Li</surname></string-name>, <string-name><given-names>J.</given-names>
+                        <surname>Sun</surname></string-name>, <string-name><given-names>Y.</given-names>
+                        <surname>Zhang</surname></string-name>, <string-name><given-names>Z.</given-names>
+                        <surname>Zhang</surname></string-name>, <string-name><given-names>X.</given-names>
+                        <surname>Liu</surname></string-name>, <string-name><given-names>H.</given-names>
+                        <surname>Li</surname></string-name>, <string-name><given-names>J.</given-names>
+                        <surname>Chen</surname></string-name>, and <string-name><given-names>X.</given-names>
+                        <surname>Zhang</surname></string-name>, <source>Adv. Funct. Mater.</source>
+                    <volume>33</volume>(<issue>42</issue>), <fpage>2303951</fpage> (<year>2023</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1002/adfm.202303951</pub-id></mixed-citation>
+            </ref>
+            <ref id="c32">
+                <label>32</label>
+                <mixed-citation publication-type="journal"><string-name><given-names>W.</given-names>
+                        <surname>Li</surname></string-name>, <string-name><given-names>H.</given-names>
+                        <surname>Cai</surname></string-name>, <string-name><given-names>Y.</given-names>
+                        <surname>Kang</surname></string-name>, <string-name><given-names>Y.</given-names>
+                        <surname>Ying</surname></string-name>, <string-name><given-names>J.</given-names>
+                        <surname>Yu</surname></string-name>, <string-name><given-names>J.</given-names>
+                        <surname>Zheng</surname></string-name>, <string-name><given-names>L.</given-names>
+                        <surname>Qiao</surname></string-name>, <string-name><given-names>Y.</given-names>
+                        <surname>Jiang</surname></string-name>, and <string-name><given-names>S.</given-names>
+                        <surname>Che</surname></string-name>, <source>Acta Mater.</source>
+                    <volume>167</volume>, <fpage>267</fpage>–<lpage>274</lpage> (<year>2019</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1016/j.actamat.2019.01.035</pub-id></mixed-citation>
+            </ref>
+            <ref id="c33">
+                <label>33</label>
+                <mixed-citation publication-type="journal"><string-name><given-names>Z.</given-names>
+                        <surname>Gao</surname></string-name>, <string-name><given-names>L.</given-names>
+                        <surname>Li</surname></string-name>, <string-name><given-names>Y.</given-names>
+                        <surname>Ge</surname></string-name>, <string-name><given-names>S.</given-names>
+                        <surname>Zhu</surname></string-name>, <string-name><given-names>Y.</given-names>
+                        <surname>Du</surname></string-name>, <string-name><given-names>B.</given-names>
+                        <surname>Chen</surname></string-name>, and <string-name><given-names>B.</given-names>
+                        <surname>Pan</surname></string-name>, <source>J. Alloys Compd.</source>
+                    <volume>935</volume>, <fpage>168060</fpage> (<year>2023</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1016/j.jallcom.2022.168060</pub-id></mixed-citation>
+            </ref>
+            <ref id="c34">
+                <label>34</label>
+                <mixed-citation publication-type="journal"><string-name><given-names>H.-I.</given-names>
+                        <surname>Hsiang</surname></string-name> and <string-name><given-names>L.-F.</given-names>
+                        <surname>Fan</surname></string-name>, <source>Materials</source>
+                    <volume>16</volume>(<issue>17</issue>), <fpage>6033</fpage> (<year>2023</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.3390/ma16176033</pub-id></mixed-citation>
+            </ref>
+            <ref id="c35">
+                <label>35</label>
+                <mixed-citation publication-type="journal"><string-name><given-names>K.</given-names>
+                        <surname>Wang</surname></string-name>, <string-name><given-names>Z.</given-names>
+                        <surname>Xu</surname></string-name>, <string-name><given-names>H.</given-names>
+                        <surname>Zhang</surname></string-name>, <string-name><given-names>Y.</given-names>
+                        <surname>Huang</surname></string-name>, <string-name><given-names>P.</given-names>
+                        <surname>Wu</surname></string-name>, <string-name><given-names>L.</given-names>
+                        <surname>Qiao</surname></string-name>, <string-name><given-names>Y.</given-names>
+                        <surname>Wang</surname></string-name>, <string-name><given-names>F.</given-names>
+                        <surname>Li</surname></string-name>, and <string-name><given-names>T.</given-names>
+                        <surname>Wang</surname></string-name>, <source>Physica B</source>
+                    <volume>675</volume>, <fpage>415611</fpage> (<year>2024</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1016/j.physb.2023.415611</pub-id></mixed-citation>
+            </ref>
+            <ref id="c36">
+                <label>36</label>
+                <mixed-citation publication-type="journal"><string-name><given-names>Y.</given-names>
+                        <surname>Liu</surname></string-name>, <string-name><given-names>Y.</given-names>
+                        <surname>Yi</surname></string-name>, <string-name><given-names>W.</given-names>
+                        <surname>Shao</surname></string-name>, and <string-name><given-names>Y. F.</given-names>
+                        <surname>Shao</surname></string-name>, <source>J. Magn. Magn. Mater.</source>
+                    <volume>330</volume>, <fpage>119</fpage>–<lpage>133</lpage> (<year>2013</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1016/j.jmmm.2012.10.043</pub-id></mixed-citation>
+            </ref>
+            <ref id="c37">
+                <label>37</label>
+                <mixed-citation publication-type="journal"><string-name><given-names>D. Z.</given-names>
+                        <surname>Xie</surname></string-name>, <string-name><given-names>K. H.</given-names>
+                        <surname>Lin</surname></string-name>, and <string-name><given-names>S. T.</given-names>
+                        <surname>Lin</surname></string-name>, <source>J. Magn. Magn. Mater.</source>
+                    <volume>353</volume>, <fpage>34</fpage>–<lpage>40</lpage> (<year>2014</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1016/j.jmmm.2013.10.014</pub-id></mixed-citation>
+            </ref>
+            <ref id="c38">
+                <label>38</label>
+                <mixed-citation publication-type="journal"><string-name><given-names>B.</given-names>
+                        <surname>Meng</surname></string-name>, <string-name><given-names>B.</given-names>
+                        <surname>Yang</surname></string-name>, <string-name><given-names>X.</given-names>
+                        <surname>Zhang</surname></string-name>, <string-name><given-names>B.</given-names>
+                        <surname>Zhou</surname></string-name>, <string-name><given-names>X.</given-names>
+                        <surname>Li</surname></string-name>, and <string-name><given-names>R.</given-names>
+                        <surname>Yu</surname></string-name>, <source>Mater. Chem. Phys.</source>
+                    <volume>242</volume>, <fpage>122478</fpage> (<year>2020</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1016/j.matchemphys.2019.122478</pub-id></mixed-citation>
+            </ref>
+            <ref id="c39">
+                <label>39</label>
+                <mixed-citation publication-type="journal"><string-name><given-names>P.</given-names>
+                        <surname>Kollár</surname></string-name>, <string-name><given-names>D.</given-names>
+                        <surname>Olekšáková</surname></string-name>, <string-name><given-names>V.</given-names>
+                        <surname>Vojtek</surname></string-name>, <string-name><given-names>J.</given-names>
+                        <surname>Füzer</surname></string-name>, <string-name><given-names>M.</given-names>
+                        <surname>Fáberová</surname></string-name>, and <string-name><given-names>R.</given-names>
+                        <surname>Bureš</surname></string-name>, <source>J. Magn. Magn. Mater.</source>
+                    <volume>424</volume>, <fpage>245</fpage>–<lpage>250</lpage> (<year>2017</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1016/j.jmmm.2016.10.060</pub-id></mixed-citation>
+            </ref>
+            <ref id="c40">
+                <label>40</label>
+                <mixed-citation publication-type="journal"><string-name><given-names>F.</given-names>
+                        <surname>Hu</surname></string-name>, <string-name><given-names>J.</given-names>
+                        <surname>Ni</surname></string-name>, <string-name><given-names>S.</given-names>
+                        <surname>Feng</surname></string-name>, <string-name><given-names>X.</given-names>
+                        <surname>Kan</surname></string-name>, <string-name><given-names>R.</given-names>
+                        <surname>Zhu</surname></string-name>, <string-name><given-names>W.</given-names>
+                        <surname>Yang</surname></string-name>, <string-name><given-names>Y.</given-names>
+                        <surname>Yang</surname></string-name>, <string-name><given-names>Q.</given-names>
+                        <surname>Lv</surname></string-name>, and <string-name><given-names>X.</given-names>
+                        <surname>Liu</surname></string-name>, <source>J. Magn. Magn. Mater.</source>
+                    <volume>501</volume>, <fpage>166480</fpage> (<year>2020</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1016/j.jmmm.2020.166480</pub-id></mixed-citation>
+            </ref>
+            <ref id="c41">
+                <label>41</label>
+                <mixed-citation publication-type="journal"><string-name><given-names>Z.</given-names>
+                        <surname>Zhu</surname></string-name>, <string-name><given-names>J.</given-names>
+                        <surname>Liu</surname></string-name>, <string-name><given-names>H.</given-names>
+                        <surname>Zhao</surname></string-name>, <string-name><given-names>J.</given-names>
+                        <surname>Pang</surname></string-name>, <string-name><given-names>P.</given-names>
+                        <surname>Wang</surname></string-name>, and <string-name><given-names>J.</given-names>
+                        <surname>Zhang</surname></string-name>, <source>Materials</source>
+                    <volume>16</volume>(<issue>3</issue>), <fpage>1270</fpage> (<year>2023</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.3390/ma16031270</pub-id></mixed-citation>
+            </ref>
+            <ref id="c42">
+                <label>42</label>
+                <mixed-citation publication-type="journal"><string-name><given-names>X.</given-names>
+                        <surname>Wang</surname></string-name>, <string-name><given-names>S.</given-names>
+                        <surname>Yi</surname></string-name>, <string-name><given-names>C.</given-names>
+                        <surname>Wu</surname></string-name>, <string-name><given-names>G.</given-names>
+                        <surname>Bai</surname></string-name>, and <string-name><given-names>M.</given-names>
+                        <surname>Yan</surname></string-name>, <source>J. Magn. Magn. Mater.</source>
+                    <volume>538</volume>, <fpage>168324</fpage> (<year>2021</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1016/j.jmmm.2021.168324</pub-id></mixed-citation>
+            </ref>
+            <ref id="c43">
+                <label>43</label>
+                <mixed-citation publication-type="journal"><string-name><given-names>S.</given-names>
+                        <surname>Yi</surname></string-name>, <string-name><given-names>G.</given-names>
+                        <surname>Bai</surname></string-name>, <string-name><given-names>X.</given-names>
+                        <surname>Wang</surname></string-name>, <string-name><given-names>X.</given-names>
+                        <surname>Zhang</surname></string-name>, <string-name><given-names>A.</given-names>
+                        <surname>Hussain</surname></string-name>, <string-name><given-names>J.</given-names>
+                        <surname>Jin</surname></string-name>, and <string-name><given-names>M.</given-names>
+                        <surname>Yan</surname></string-name>, <source>Ceram. Int.</source>
+                    <volume>46</volume>(<issue>7</issue>), <fpage>8935</fpage>–<lpage>8941</lpage> (<year>2020</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1016/j.ceramint.2019.12.140</pub-id></mixed-citation>
+            </ref>
+            <ref id="c44">
+                <label>44</label>
+                <mixed-citation publication-type="journal"><string-name><given-names>O.</given-names>
+                        <surname>Inoue</surname></string-name>, <string-name><given-names>N.</given-names>
+                        <surname>Matsutani</surname></string-name>, and <string-name><given-names>K.</given-names>
+                        <surname>Kugimiya</surname></string-name>, <source>IEEE Trans. Magn.</source>
+                    <volume>29</volume>(<issue>6</issue>), <fpage>3532</fpage>–<lpage>3534</lpage> (<year>1993</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1109/20.281220</pub-id></mixed-citation>
+            </ref>
+            <ref id="c45">
+                <label>45</label>
+                <mixed-citation publication-type="journal"><string-name><given-names>Z.</given-names>
+                        <surname>Birčáková</surname></string-name>, <string-name><given-names>P.</given-names>
+                        <surname>Kollár</surname></string-name>, <string-name><given-names>J.</given-names>
+                        <surname>Füzer</surname></string-name>, <string-name><given-names>M.</given-names>
+                        <surname>Lauda</surname></string-name>, <string-name><given-names>R.</given-names>
+                        <surname>Bureš</surname></string-name>, and <string-name><given-names>M.</given-names>
+                        <surname>Fáberová</surname></string-name>, <source>IEEE Trans. Magn.</source>
+                    <volume>50</volume>(<issue>12</issue>), <fpage>6301507</fpage> (<year>2014</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1109/tmag.2014.2334273</pub-id></mixed-citation>
+            </ref>
+            <ref id="c46">
+                <label>46</label>
+                <mixed-citation publication-type="journal"><string-name><given-names>W.</given-names>
+                        <surname>Li</surname></string-name>, <string-name><given-names>X.</given-names>
+                        <surname>Zhou</surname></string-name>, <string-name><given-names>Y.</given-names>
+                        <surname>Kang</surname></string-name>, <string-name><given-names>T.</given-names>
+                        <surname>Zou</surname></string-name>, <string-name><given-names>W.</given-names>
+                        <surname>Li</surname></string-name>, <string-name><given-names>Y.</given-names>
+                        <surname>Ying</surname></string-name>, <string-name><given-names>J.</given-names>
+                        <surname>Yu</surname></string-name>, <string-name><given-names>J.</given-names>
+                        <surname>Zheng</surname></string-name>, <string-name><given-names>L.</given-names>
+                        <surname>Qiao</surname></string-name>, <string-name><given-names>J.</given-names>
+                        <surname>Li</surname></string-name>, and <string-name><given-names>S.</given-names>
+                        <surname>Che</surname></string-name>, <source>J. Alloys Compd.</source>
+                    <volume>960</volume>, <fpage>171010</fpage> (<year>2023</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1016/j.jallcom.2023.171010</pub-id></mixed-citation>
+            </ref>
+            <ref id="c47">
+                <label>47</label>
+                <mixed-citation publication-type="journal"><string-name><given-names>Z.</given-names>
+                        <surname>Zhang</surname></string-name>, <string-name><given-names>J.</given-names>
+                        <surname>Chang</surname></string-name>, <string-name><given-names>X.</given-names>
+                        <surname>Peng</surname></string-name>, <string-name><given-names>J.</given-names>
+                        <surname>Li</surname></string-name>, <string-name><given-names>Y.</given-names>
+                        <surname>Yang</surname></string-name>, <string-name><given-names>J.</given-names>
+                        <surname>Xu</surname></string-name>, <string-name><given-names>B.</given-names>
+                        <surname>Hong</surname></string-name>, <string-name><given-names>D.</given-names>
+                        <surname>Jin</surname></string-name>, <string-name><given-names>H.</given-names>
+                        <surname>Jin</surname></string-name>, <string-name><given-names>X.</given-names>
+                        <surname>Wang</surname></string-name>, and <string-name><given-names>H.</given-names>
+                        <surname>Ge</surname></string-name>, <source>J. Mater. Res. Technol.</source>
+                    <volume>18</volume>, <fpage>1381</fpage>–<lpage>1390</lpage> (<year>2022</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1016/j.jmrt.2022.03.029</pub-id></mixed-citation>
+            </ref>
+        </ref-list>
+    </back></article>

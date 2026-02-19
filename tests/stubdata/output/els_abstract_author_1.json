@@ -1,0 +1,135 @@
+{
+  "abstract": {
+    "textEnglish": "A parameter identification method which merges experimentally monitored signals and physics-based simulation data is proposed, targeting the identification tasks in shaft seals which are challenging due to the high-dimensional parameter space. Features were extracted from the monitored acoustic emission signals following a proposed cross-timescale analysis routine, and the simulation data were augmented using Kriging surrogate model to obtain a dataset with stratified fidelity. Then, a transferable architecture of convolutional neural network modified for periodical data was proposed, with which part of the parameters trained by simulation data were reserved when training model using acoustic emission data acquired in experiments. Cross validation shows that transfer learning can effectively improve the performance, provided data augmentation and proper transfer mode. In conclusion, the study provides an effective parameter identification method which merges the simulation data which carry the physical knowledge and the experiment data which carry directly monitored results."
+  },
+  "authors": [
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "State Key Laboratory of Tribology in Advanced Equipment, Tsinghua University, Beijing 100084, China"
+        }
+      ],
+      "name": {
+        "given_name": "Yuan",
+        "surname": "Yin"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "State Key Laboratory of Tribology in Advanced Equipment, Tsinghua University, Beijing 100084, China"
+        }
+      ],
+      "name": {
+        "given_name": "Qiang",
+        "surname": "He"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "State Key Laboratory of Tribology in Advanced Equipment, Tsinghua University, Beijing 100084, China"
+        }
+      ],
+      "name": {
+        "given_name": "Fengming",
+        "surname": "Hu"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "State Key Laboratory of Tribology in Advanced Equipment, Tsinghua University, Beijing 100084, China"
+        }
+      ],
+      "attrib": {
+        "email": "huangwf@tsinghua.edu.cn"
+      },
+      "name": {
+        "given_name": "Weifeng",
+        "surname": "Huang"
+      }
+    }
+  ],
+  "copyright": {
+    "statement": "\u00a9 2024 Published by Elsevier Ltd.",
+    "status": true
+  },
+  "doctype": "article",
+  "editorialHistory": {
+    "acceptedDate": "2024-05-06",
+    "receivedDates": [
+      "2024-01-31"
+    ],
+    "revisedDates": [
+      "2024-03-30"
+    ]
+  },
+  "esources": [
+    {
+      "location": "http://dx.doi.org/10.1016/j.measurement.2024.114863",
+      "source": "pub_html"
+    }
+  ],
+  "keywords": [
+    {
+      "keyString": "Acoustic emissions",
+      "keySystem": "Elsevier"
+    },
+    {
+      "keyString": "Parameter identification",
+      "keySystem": "Elsevier"
+    },
+    {
+      "keyString": "Transfer learning",
+      "keySystem": "Elsevier"
+    },
+    {
+      "keyString": "Convolutional neural network",
+      "keySystem": "Elsevier"
+    }
+  ],
+  "pagination": {
+    "electronicID": "114863"
+  },
+  "persistentIDs": [
+    {
+      "DOI": "10.1016/j.measurement.2024.114863"
+    }
+  ],
+  "pubDate": {
+    "printDate": "2024-08-15"
+  },
+  "publication": {
+    "ISSN": [
+      {
+        "issnString": "0263-2241",
+        "pubtype": "not specified"
+      }
+    ],
+    "pubName": "Measurement",
+    "pubYear": "2024",
+    "publisher": "Elsevier Ltd",
+    "volumeNum": "236"
+  },
+  "publisherIDs": [
+    {
+      "Identifier": "S0263-2241(24)00748-6",
+      "attribute": "PII"
+    }
+  ],
+  "recordData": {
+    "createdTime": "",
+    "loadFormat": "Elsevier",
+    "loadLocation": "",
+    "loadType": "fromFile",
+    "parsedTime": "",
+    "recordOrigin": ""
+  },
+  "references": [
+    "<sb:reference id=\"sb1\"> <sb:contribution langtype=\"en\"> <sb:authors> <sb:author> <ce:surname>Abc</ce:surname> <ce:given-name>D.</ce:given-name> </sb:author> </sb:authors> <sb:title> <sb:maintitle>Reference paper</sb:maintitle> </sb:title> </sb:contribution> <sb:host> <sb:issue> <sb:series> <sb:title> <sb:maintitle>XYZ.</sb:maintitle> </sb:title> <sb:volume-nr>13</sb:volume-nr> </sb:series> <sb:date>2021</sb:date> </sb:issue> <sb:article-number>1234567890</sb:article-number> </sb:host> </sb:reference>"
+  ],
+  "title": {
+    "textEnglish": "Merging experiment data and simulation data for parameter identification of shaft seal"
+  }
+}

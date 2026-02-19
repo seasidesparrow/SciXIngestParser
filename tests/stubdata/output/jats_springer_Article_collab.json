@@ -1,0 +1,1532 @@
+{
+  "abstract": {
+    "textEnglish": "We construct non-linear machine learning (ML) prediction models for systolic and diastolic blood pressure (SBP, DBP) using demographic and clinical variables and polygenic risk scores (PRSs). We developed a two-model ensemble, consisting of a baseline model, where prediction is based on demographic and clinical variables only, and a genetic model, where we also include PRSs. We evaluate the use of a linear versus a non-linear model at both the baseline and the genetic model levels and assess the improvement in performance when incorporating multiple PRSs. We report the ensemble model\u2019s performance as percentage variance explained (PVE) on a held-out test dataset. A non-linear baseline model improved the PVEs from 28.1 to 30.1% (SBP) and 14.3% to 17.4% (DBP) compared with a linear baseline model. Including seven PRSs in the genetic model computed based on the largest available GWAS of SBP/DBP improved the genetic model PVE from 4.8 to 5.1% (SBP) and 4.7 to 5% (DBP) compared to using a single PRS. Adding additional 14 PRSs computed based on two independent GWASs further increased the genetic model PVE to 6.3% (SBP) and 5.7% (DBP). PVE differed across self-reported race/ethnicity groups, with primarily all non-White groups benefitting from the inclusion of additional PRSs. In summary, non-linear ML models improves BP prediction in models incorporating diverse populations."
+  },
+  "authors": [
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "https://ror.org/04b6nzv94",
+              "affIDType": "ROR"
+            },
+            {
+              "affID": "grid.62560.37",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0004 0378 8294",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Department of Medicine, Brigham and Women\u2019s Hospital, Boston, MA, USA"
+        },
+        {
+          "affPubID": [
+            {
+              "affID": "grid.38142.3c",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "000000041936754X",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Department of Medicine, Harvard Medical School, Boston, MA, USA"
+        },
+        {
+          "affPubID": [
+            {
+              "affID": "https://ror.org/04drvxt59",
+              "affIDType": "ROR"
+            },
+            {
+              "affID": "grid.239395.7",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0000 9011 8547",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "CardioVascular Institute (CVI), Beth Israel Deaconess Medical Center, Boston, MA, USA"
+        }
+      ],
+      "name": {
+        "given_name": "Yana",
+        "surname": "Hrytsenko"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "https://ror.org/04drvxt59",
+              "affIDType": "ROR"
+            },
+            {
+              "affID": "grid.239395.7",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0000 9011 8547",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "CardioVascular Institute (CVI), Beth Israel Deaconess Medical Center, Boston, MA, USA"
+        }
+      ],
+      "name": {
+        "given_name": "Benjamin",
+        "surname": "Shea"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "https://ror.org/04b6nzv94",
+              "affIDType": "ROR"
+            },
+            {
+              "affID": "grid.62560.37",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0004 0378 8294",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Department of Medicine, Brigham and Women\u2019s Hospital, Boston, MA, USA"
+        },
+        {
+          "affPubID": [
+            {
+              "affID": "grid.38142.3c",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "000000041936754X",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Department of Medicine, Harvard Medical School, Boston, MA, USA"
+        }
+      ],
+      "name": {
+        "given_name": "Michael",
+        "surname": "Elgart"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "https://ror.org/04b6nzv94",
+              "affIDType": "ROR"
+            },
+            {
+              "affID": "grid.62560.37",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0004 0378 8294",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Department of Medicine, Brigham and Women\u2019s Hospital, Boston, MA, USA"
+        }
+      ],
+      "name": {
+        "given_name": "Nuzulul",
+        "surname": "Kurniansyah"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "grid.38142.3c",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "000000041936754X",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Department of Biostatistics, Harvard T.H. Chan School of Public Health, Boston, MA, USA"
+        }
+      ],
+      "name": {
+        "given_name": "Genevieve",
+        "surname": "Lyons"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "grid.267308.8",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0000 9206 2401",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Department of Epidemiology, School of Public Health, Human Genetics Center, The University of Texas Health Science Center at Houston, Houston, TX, USA"
+        }
+      ],
+      "name": {
+        "given_name": "Alanna C.",
+        "surname": "Morrison"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "https://ror.org/044pcn091",
+              "affIDType": "ROR"
+            },
+            {
+              "affID": "grid.410721.1",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0004 1937 0407",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Department of Medicine, University of Mississippi Medical Center, Jackson, MS, USA"
+        }
+      ],
+      "attrib": {
+        "collab": true
+      },
+      "name": {
+        "collab": "The Trans-Omics in Precision Medicine Consortium",
+        "given_name": "April P.",
+        "surname": "Carson"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "https://ror.org/05cf8a891",
+              "affIDType": "ROR"
+            },
+            {
+              "affID": "grid.251993.5",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0001 2179 1997",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Department of Epidemiology & Population Health, Albert Einstein College of Medicine, Bronx, NY, USA"
+        },
+        {
+          "affPubID": [
+            {
+              "affID": "https://ror.org/01jdpyv68",
+              "affIDType": "ROR"
+            },
+            {
+              "affID": "grid.11749.3a",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0001 2167 7588",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Department of Medicine III, Saarland University, Homburg, Saarland, Germany"
+        }
+      ],
+      "name": {
+        "given_name": "Bernhard",
+        "surname": "Haring"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "grid.411024.2",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0001 2175 4264",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Department of Medicine, University of Maryland School of Medicine, Baltimore, MD, USA"
+        }
+      ],
+      "attrib": {
+        "collab": true
+      },
+      "name": {
+        "collab": "The Trans-Omics in Precision Medicine Consortium",
+        "given_name": "Braxton D.",
+        "surname": "Mitchell"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "https://ror.org/00cvxb145",
+              "affIDType": "ROR"
+            },
+            {
+              "affID": "grid.34477.33",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0001 2298 6657",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Department of Medicine, University of Washington, Seattle, WA, USA"
+        },
+        {
+          "affPubID": [
+            {
+              "affID": "https://ror.org/00cvxb145",
+              "affIDType": "ROR"
+            },
+            {
+              "affID": "grid.34477.33",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0001 2298 6657",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Department of Epidemiology, University of Washington, Seattle, WA, USA"
+        },
+        {
+          "affPubID": [
+            {
+              "affID": "https://ror.org/00cvxb145",
+              "affIDType": "ROR"
+            },
+            {
+              "affID": "grid.34477.33",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0001 2298 6657",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Cardiovascular Health Research Unit, University of Washington, Seattle, WA, USA"
+        },
+        {
+          "affPubID": [
+            {
+              "affID": "https://ror.org/00cvxb145",
+              "affIDType": "ROR"
+            },
+            {
+              "affID": "grid.34477.33",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0001 2298 6657",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Health Systems and Population Health, University of Washington, Seattle, WA, USA"
+        }
+      ],
+      "attrib": {
+        "collab": true
+      },
+      "name": {
+        "collab": "The Trans-Omics in Precision Medicine Consortium",
+        "given_name": "Bruce M.",
+        "surname": "Psaty"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "https://ror.org/0207ad724",
+              "affIDType": "ROR"
+            },
+            {
+              "affID": "grid.241167.7",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0001 2185 3318",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Department of Biostatistics and Data Science, Wake Forest University School of Medicine, Winston-Salem, NC, USA"
+        }
+      ],
+      "name": {
+        "given_name": "Byron C.",
+        "surname": "Jaeger"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "https://ror.org/00cvxb145",
+              "affIDType": "ROR"
+            },
+            {
+              "affID": "grid.34477.33",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0001 2298 6657",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "The Center for Biostatistics and Data Science, Washington University, St. Louis, USA"
+        }
+      ],
+      "attrib": {
+        "collab": true
+      },
+      "name": {
+        "collab": "The Trans-Omics in Precision Medicine Consortium",
+        "given_name": "C. Charles",
+        "surname": "Gu"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "https://ror.org/007ps6h72",
+              "affIDType": "ROR"
+            },
+            {
+              "affID": "grid.270240.3",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0001 2180 1622",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Division of Public Health Sciences, Fred Hutchinson Cancer Center, Seattle, WA, USA"
+        }
+      ],
+      "attrib": {
+        "collab": true
+      },
+      "name": {
+        "collab": "The Trans-Omics in Precision Medicine Consortium",
+        "given_name": "Charles",
+        "surname": "Kooperberg"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "grid.279885.9",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0001 2293 4638",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "The Population Sciences Branch of the National Heart, Lung and Blood Institute, Bethesda, MD, USA"
+        },
+        {
+          "affPubID": [
+            {
+              "affID": "https://ror.org/031grv205",
+              "affIDType": "ROR"
+            },
+            {
+              "affID": "grid.510954.c",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0004 0444 3861",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "The Framingham Heart Study, Framingham, MA, USA"
+        }
+      ],
+      "attrib": {
+        "collab": true
+      },
+      "name": {
+        "collab": "The Trans-Omics in Precision Medicine Consortium",
+        "given_name": "Daniel",
+        "surname": "Levy"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "grid.16753.36",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0001 2299 3507",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Department of Preventive Medicine, Northwestern University, Chicago, IL, USA"
+        }
+      ],
+      "name": {
+        "given_name": "Donald",
+        "surname": "Lloyd-Jones"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "https://ror.org/01esghr10",
+              "affIDType": "ROR"
+            },
+            {
+              "affID": "grid.239585.0",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0001 2285 2675",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Columbia Hypertension Laboratory, Department of Medicine, Columbia University Irving Medical Center, New York, NY, USA"
+        }
+      ],
+      "name": {
+        "given_name": "Eunhee",
+        "surname": "Choi"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "https://ror.org/00cvxb145",
+              "affIDType": "ROR"
+            },
+            {
+              "affID": "grid.34477.33",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0001 2298 6657",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Department of Medicine, University of Washington, Seattle, WA, USA"
+        },
+        {
+          "affPubID": [
+            {
+              "affID": "https://ror.org/00cvxb145",
+              "affIDType": "ROR"
+            },
+            {
+              "affID": "grid.34477.33",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0001 2298 6657",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Cardiovascular Health Research Unit, University of Washington, Seattle, WA, USA"
+        }
+      ],
+      "attrib": {
+        "collab": true
+      },
+      "name": {
+        "collab": "The Trans-Omics in Precision Medicine Consortium",
+        "given_name": "Jennifer A.",
+        "surname": "Brody"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "https://ror.org/00jmfr291",
+              "affIDType": "ROR"
+            },
+            {
+              "affID": "grid.214458.e",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0004 1936 7347",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Department of Epidemiology, School of Public Health, University of Michigan, Ann Arbor, MI, USA"
+        },
+        {
+          "affPubID": [
+            {
+              "affID": "https://ror.org/00jmfr291",
+              "affIDType": "ROR"
+            },
+            {
+              "affID": "grid.214458.e",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0004 1936 7347",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Survey Research Center, Institute for Social Research, University of Michigan, Ann Arbor, MI, USA"
+        }
+      ],
+      "attrib": {
+        "collab": true
+      },
+      "name": {
+        "collab": "The Trans-Omics in Precision Medicine Consortium",
+        "given_name": "Jennifer A.",
+        "surname": "Smith"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "https://ror.org/025j2nd68",
+              "affIDType": "ROR"
+            },
+            {
+              "affID": "grid.279946.7",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0004 0521 0744",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Department of Pediatrics, The Institute for Translational Genomics and Population Sciences, The Lundquist Institute for Biomedical Innovation at Harbor-UCLA Medical Center, Torrance, CA, USA"
+        }
+      ],
+      "attrib": {
+        "collab": true
+      },
+      "name": {
+        "collab": "The Trans-Omics in Precision Medicine Consortium",
+        "given_name": "Jerome I.",
+        "surname": "Rotter"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "https://ror.org/04b6nzv94",
+              "affIDType": "ROR"
+            },
+            {
+              "affID": "grid.62560.37",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0004 0378 8294",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Department of Medicine, Brigham and Women\u2019s Hospital, Boston, MA, USA"
+        },
+        {
+          "affPubID": [
+            {
+              "affID": "grid.38142.3c",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "000000041936754X",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Department of Medicine, Harvard Medical School, Boston, MA, USA"
+        },
+        {
+          "affPubID": [
+            {
+              "affID": "https://ror.org/04v00sg98",
+              "affIDType": "ROR"
+            },
+            {
+              "affID": "grid.410370.1",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0004 4657 1992",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "VA Boston Healthcare System, West Roxbury, MA, USA"
+        },
+        {
+          "affPubID": [
+            {
+              "affID": "https://ror.org/04b6nzv94",
+              "affIDType": "ROR"
+            },
+            {
+              "affID": "grid.62560.37",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0004 0378 8294",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Channing Division of Network Medicine, Department of Medicine, Brigham and Women\u2019s Hospital, Boston, USA"
+        }
+      ],
+      "attrib": {
+        "collab": true
+      },
+      "name": {
+        "collab": "The Trans-Omics in Precision Medicine Consortium",
+        "given_name": "Matthew",
+        "surname": "Moll"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "grid.267308.8",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0000 9206 2401",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Department of Epidemiology, School of Public Health, Human Genetics Center, The University of Texas Health Science Center at Houston, Houston, TX, USA"
+        },
+        {
+          "affPubID": [
+            {
+              "affID": "https://ror.org/03gds6c39",
+              "affIDType": "ROR"
+            },
+            {
+              "affID": "grid.267308.8",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0000 9206 2401",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Brown Foundation Institute of Molecular Medicine, McGovern Medical School, University of Texas Health Science Center at Houston, Houston, TX, USA"
+        }
+      ],
+      "attrib": {
+        "collab": true
+      },
+      "name": {
+        "collab": "The Trans-Omics in Precision Medicine Consortium",
+        "given_name": "Myriam",
+        "surname": "Fornage"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "https://ror.org/00cvxb145",
+              "affIDType": "ROR"
+            },
+            {
+              "affID": "grid.34477.33",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0001 2298 6657",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Department of Biostatistics, School of Public Health, University of Washington, Seattle, WA, USA"
+        }
+      ],
+      "name": {
+        "given_name": "Noah",
+        "surname": "Simon"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "https://ror.org/04b6nzv94",
+              "affIDType": "ROR"
+            },
+            {
+              "affID": "grid.62560.37",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0004 0378 8294",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Department of Medicine, Brigham and Women\u2019s Hospital, Boston, MA, USA"
+        },
+        {
+          "affPubID": [
+            {
+              "affID": "grid.38142.3c",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "000000041936754X",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Department of Medicine, Harvard Medical School, Boston, MA, USA"
+        }
+      ],
+      "attrib": {
+        "collab": true
+      },
+      "name": {
+        "collab": "The Trans-Omics in Precision Medicine Consortium",
+        "given_name": "Peter",
+        "surname": "Castaldi"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "https://ror.org/0207ad724",
+              "affIDType": "ROR"
+            },
+            {
+              "affID": "grid.241167.7",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0001 2185 3318",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Department of Biostatistics and Data Science, Wake Forest University School of Medicine, Winston-Salem, NC, USA"
+        }
+      ],
+      "name": {
+        "given_name": "Ramon",
+        "surname": "Casanova"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "https://ror.org/02r6fpx29",
+              "affIDType": "ROR"
+            },
+            {
+              "affID": "grid.59784.37",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0004 0622 9172",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Division of Biostatistics and Bioinformatics, Institute of Population Health Sciences, National Health Research Institutes, Taipei City, Taiwan"
+        }
+      ],
+      "attrib": {
+        "collab": true
+      },
+      "name": {
+        "collab": "The Trans-Omics in Precision Medicine Consortium",
+        "given_name": "Ren-Hua",
+        "surname": "Chung"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "https://ror.org/05cf8a891",
+              "affIDType": "ROR"
+            },
+            {
+              "affID": "grid.251993.5",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0001 2179 1997",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Department of Epidemiology & Population Health, Albert Einstein College of Medicine, Bronx, NY, USA"
+        },
+        {
+          "affPubID": [
+            {
+              "affID": "https://ror.org/007ps6h72",
+              "affIDType": "ROR"
+            },
+            {
+              "affID": "grid.270240.3",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0001 2180 1622",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Division of Public Health Sciences, Fred Hutchinson Cancer Center, Seattle, WA, USA"
+        }
+      ],
+      "attrib": {
+        "collab": true
+      },
+      "name": {
+        "collab": "The Trans-Omics in Precision Medicine Consortium",
+        "given_name": "Robert",
+        "surname": "Kaplan"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "https://ror.org/04a9tmd77",
+              "affIDType": "ROR"
+            },
+            {
+              "affID": "grid.59734.3c",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0001 0670 2351",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "The Charles Bronfman Institute for Personalized Medicine, Icahn School of Medicine at Mount Sinai, New York, NY, USA"
+        },
+        {
+          "affPubID": [
+            {
+              "affID": "grid.5254.6",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0001 0674 042X",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Novo Nordisk Foundation Center for Basic Metabolic Research, Faculty for Health and Medical Sciences, University of Copenhagen, Copenhagen, Denmark"
+        }
+      ],
+      "attrib": {
+        "collab": true
+      },
+      "name": {
+        "collab": "The Trans-Omics in Precision Medicine Consortium",
+        "given_name": "Ruth J. F.",
+        "surname": "Loos"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "https://ror.org/00jmfr291",
+              "affIDType": "ROR"
+            },
+            {
+              "affID": "grid.214458.e",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0004 1936 7347",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Department of Epidemiology, School of Public Health, University of Michigan, Ann Arbor, MI, USA"
+        }
+      ],
+      "attrib": {
+        "collab": true
+      },
+      "name": {
+        "collab": "The Trans-Omics in Precision Medicine Consortium",
+        "given_name": "Sharon L. R.",
+        "surname": "Kardia"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "https://ror.org/0153tk833",
+              "affIDType": "ROR"
+            },
+            {
+              "affID": "grid.27755.32",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0000 9136 933X",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Center for Public Health Genomics, University of Virginia School of Medicine, Charlottesville, VA, USA"
+        }
+      ],
+      "attrib": {
+        "collab": true
+      },
+      "name": {
+        "collab": "The Trans-Omics in Precision Medicine Consortium",
+        "given_name": "Stephen S.",
+        "surname": "Rich"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "https://ror.org/04b6nzv94",
+              "affIDType": "ROR"
+            },
+            {
+              "affID": "grid.62560.37",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0004 0378 8294",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Department of Medicine, Brigham and Women\u2019s Hospital, Boston, MA, USA"
+        },
+        {
+          "affPubID": [
+            {
+              "affID": "grid.38142.3c",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "000000041936754X",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Department of Medicine, Harvard Medical School, Boston, MA, USA"
+        },
+        {
+          "affPubID": [
+            {
+              "affID": "https://ror.org/04b6nzv94",
+              "affIDType": "ROR"
+            },
+            {
+              "affID": "grid.62560.37",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0004 0378 8294",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Division of Sleep and Circadian Disorders, Brigham and Women\u2019s Hospital, Boston, MA, USA"
+        }
+      ],
+      "attrib": {
+        "collab": true
+      },
+      "name": {
+        "collab": "The Trans-Omics in Precision Medicine Consortium",
+        "given_name": "Susan",
+        "surname": "Redline"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "grid.265219.b",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0001 2217 8588",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Department of Epidemiology, Tulane University School of Public Health and Tropical Medicine, New Orleans, LA, USA"
+        }
+      ],
+      "name": {
+        "given_name": "Tanika",
+        "surname": "Kelly"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "grid.411024.2",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0001 2175 4264",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Department of Medicine, University of Maryland School of Medicine, Baltimore, MD, USA"
+        },
+        {
+          "affPubID": [
+            {
+              "affID": "grid.411024.2",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0001 2175 4264",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Institute for Genome Sciences, University of Maryland School of Medicine, Baltimore, MD, USA"
+        },
+        {
+          "affPubID": [
+            {
+              "affID": "grid.411024.2",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0001 2175 4264",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Program in Health Equity and Population Health, University of Maryland School of Medicine, Baltimore, MD, USA"
+        }
+      ],
+      "attrib": {
+        "collab": true
+      },
+      "name": {
+        "collab": "The Trans-Omics in Precision Medicine Consortium",
+        "given_name": "Timothy",
+        "surname": "O\u2019Connor"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "https://ror.org/00jmfr291",
+              "affIDType": "ROR"
+            },
+            {
+              "affID": "grid.214458.e",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0004 1936 7347",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Department of Epidemiology, School of Public Health, University of Michigan, Ann Arbor, MI, USA"
+        },
+        {
+          "affPubID": [
+            {
+              "affID": "https://ror.org/00jmfr291",
+              "affIDType": "ROR"
+            },
+            {
+              "affID": "grid.214458.e",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0004 1936 7347",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Survey Research Center, Institute for Social Research, University of Michigan, Ann Arbor, MI, USA"
+        }
+      ],
+      "attrib": {
+        "collab": true
+      },
+      "name": {
+        "collab": "The Trans-Omics in Precision Medicine Consortium",
+        "given_name": "Wei",
+        "surname": "Zhao"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "https://ror.org/04b6nzv94",
+              "affIDType": "ROR"
+            },
+            {
+              "affID": "grid.62560.37",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0004 0378 8294",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Channing Division of Network Medicine, Department of Medicine, Brigham and Women\u2019s Hospital, Boston, USA"
+        }
+      ],
+      "attrib": {
+        "collab": true
+      },
+      "name": {
+        "collab": "The Trans-Omics in Precision Medicine Consortium",
+        "given_name": "Wonji",
+        "surname": "Kim"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "https://ror.org/025j2nd68",
+              "affIDType": "ROR"
+            },
+            {
+              "affID": "grid.279946.7",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0004 0521 0744",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Department of Pediatrics, The Institute for Translational Genomics and Population Sciences, The Lundquist Institute for Biomedical Innovation at Harbor-UCLA Medical Center, Torrance, CA, USA"
+        }
+      ],
+      "attrib": {
+        "collab": true
+      },
+      "name": {
+        "collab": "The Trans-Omics in Precision Medicine Consortium",
+        "given_name": "Xiuqing",
+        "surname": "Guo"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "https://ror.org/025j2nd68",
+              "affIDType": "ROR"
+            },
+            {
+              "affID": "grid.279946.7",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0004 0521 0744",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Department of Pediatrics, The Institute for Translational Genomics and Population Sciences, The Lundquist Institute for Biomedical Innovation at Harbor-UCLA Medical Center, Torrance, CA, USA"
+        }
+      ],
+      "attrib": {
+        "collab": true
+      },
+      "name": {
+        "collab": "The Trans-Omics in Precision Medicine Consortium",
+        "given_name": "Yii-Der",
+        "surname": "Ida Chen"
+      }
+    },
+    {
+      "attrib": {
+        "collab": true
+      },
+      "name": {
+        "collab": "The Trans-Omics in Precision Medicine Consortium"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "https://ror.org/04b6nzv94",
+              "affIDType": "ROR"
+            },
+            {
+              "affID": "grid.62560.37",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0004 0378 8294",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Department of Medicine, Brigham and Women\u2019s Hospital, Boston, MA, USA"
+        },
+        {
+          "affPubID": [
+            {
+              "affID": "grid.38142.3c",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "000000041936754X",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Department of Medicine, Harvard Medical School, Boston, MA, USA"
+        },
+        {
+          "affPubID": [
+            {
+              "affID": "https://ror.org/04drvxt59",
+              "affIDType": "ROR"
+            },
+            {
+              "affID": "grid.239395.7",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0000 9011 8547",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "CardioVascular Institute (CVI), Beth Israel Deaconess Medical Center, Boston, MA, USA"
+        },
+        {
+          "affPubID": [
+            {
+              "affID": "grid.38142.3c",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "000000041936754X",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Department of Biostatistics, Harvard T.H. Chan School of Public Health, Boston, MA, USA"
+        },
+        {
+          "affPubRaw": "Center for Life Sciences CLS-934, 3 Blackfan St., 02115, Boston, MA, USA"
+        }
+      ],
+      "attrib": {
+        "corresp": true,
+        "email": "tsofer@bidmc.harvard.edu"
+      },
+      "name": {
+        "given_name": "Tamar",
+        "surname": "Sofer"
+      }
+    }
+  ],
+  "copyright": {
+    "statement": "\u00a9 The Author(s) 2024",
+    "status": true
+  },
+  "editorialHistory": {
+    "acceptedDate": "2024-05-22",
+    "receivedDates": [
+      "2024-01-22"
+    ]
+  },
+  "funding": [
+    {
+      "agencyid": {
+        "idschema": "doi",
+        "idvalue": "http://dx.doi.org/10.13039/100000050"
+      },
+      "agencyname": "National Heart, Lung, and Blood Institute",
+      "awardnumber": "R01HL161012"
+    }
+  ],
+  "openAccess": {
+    "license": "Open Access This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article's Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article's Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit http://creativecommons.org/licenses/by/4.0/.",
+    "licenseURL": "http://creativecommons.org/licenses/by/4.0/",
+    "open": true
+  },
+  "pagination": {
+    "electronicID": "12436"
+  },
+  "persistentIDs": [
+    {
+      "DOI": "10.1038/s41598-024-62945-9"
+    }
+  ],
+  "pubDate": {
+    "electrDate": "2024-05-30",
+    "otherDate": [
+      {
+        "otherDateType": "collection",
+        "otherDateValue": "2024-12-00"
+      }
+    ]
+  },
+  "publication": {
+    "ISSN": [
+      {
+        "issnString": "2045-2322",
+        "pubtype": "epub"
+      }
+    ],
+    "issueNum": "1",
+    "pubName": "Scientific Reports",
+    "pubYear": "2024",
+    "publisher": "Nature Publishing Group UK",
+    "volumeNum": "14"
+  },
+  "publisherIDs": [
+    {
+      "Identifier": "s41598-024-62945-9",
+      "attribute": "publisher-id"
+    },
+    {
+      "Identifier": "62945",
+      "attribute": "manuscript"
+    }
+  ],
+  "recordData": {
+    "createdTime": "",
+    "loadFormat": "JATS",
+    "loadLocation": "",
+    "loadType": "fromFile",
+    "parsedTime": "",
+    "recordOrigin": ""
+  },
+  "references": [
+    "<ref id=\"CR1\"> <label>1.</label> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Torkamani</surname> <given-names>A</given-names> </name> <name> <surname>Wineinger</surname> <given-names>NE</given-names> </name> <name> <surname>Topol</surname> <given-names>EJ</given-names> </name> </person-group> <article-title xml:lang=\"en\">The personal and clinical utility of polygenic risk scores</article-title> <source>Nat. Rev. Genet.</source> <year>2018</year> <volume>19</volume> <issue>9</issue> <fpage>581</fpage> <lpage>590</lpage> <pub-id pub-id-type=\"coi\">1:CAS:528:DC%2BC1cXhtVSlu73K</pub-id> <pub-id pub-id-type=\"pmid\">29789686</pub-id> <pub-id pub-id-type=\"doi\">10.1038/s41576-018-0018-x</pub-id> </mixed-citation> </ref>",
+    "<ref id=\"CR2\"> <label>2.</label> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Choi</surname> <given-names>SW</given-names> </name> <name> <surname>Mak</surname> <given-names>TS</given-names> </name> <name> <surname>O\u2019Reilly</surname> <given-names>PF</given-names> </name> </person-group> <article-title xml:lang=\"en\">Tutorial: A guide to performing polygenic risk score analyses</article-title> <source>Nat. Protoc.</source> <year>2020</year> <volume>15</volume> <issue>9</issue> <fpage>2759</fpage> <lpage>2772</lpage> <pub-id pub-id-type=\"coi\">1:CAS:528:DC%2BB3cXhsVGltLbI</pub-id> <pub-id pub-id-type=\"pmid\">32709988</pub-id> <pub-id pub-id-type=\"pmcid\">7612115</pub-id> <pub-id pub-id-type=\"doi\">10.1038/s41596-020-0353-1</pub-id> </mixed-citation> </ref>",
+    "<ref id=\"CR3\"> <label>3.</label> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Ho</surname> <given-names>DSW</given-names> </name> <etal/> </person-group> <article-title xml:lang=\"en\">Machine learning SNP based prediction for precision medicine</article-title> <source>Front. Genet.</source> <year>2019</year> <volume>10</volume> <fpage>1</fpage> <pub-id pub-id-type=\"doi\">10.3389/fgene.2019.00267</pub-id> </mixed-citation> </ref>",
+    "<ref id=\"CR4\"> <label>4.</label> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Elgart</surname> <given-names>M</given-names> </name> <etal/> </person-group> <article-title xml:lang=\"en\">Non-linear machine learning models incorporating SNPs and PRS improve polygenic prediction in diverse human populations</article-title> <source>Commun. Biol.</source> <year>2022</year> <volume>5</volume> <issue>1</issue> <fpage>856</fpage> <pub-id pub-id-type=\"coi\">1:CAS:528:DC%2BB38Xit1OjtrzK</pub-id> <pub-id pub-id-type=\"pmid\">35995843</pub-id> <pub-id pub-id-type=\"pmcid\">9395509</pub-id> <pub-id pub-id-type=\"doi\">10.1038/s42003-022-03812-z</pub-id> </mixed-citation> </ref>",
+    "<ref id=\"CR5\"> <label>5.</label> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Tibshirani</surname> <given-names>R</given-names> </name> </person-group> <article-title xml:lang=\"en\">Regression shrinkage and selection via the Lasso</article-title> <source>J. R. Stat. Soc. Ser. B (Methodol.)</source> <year>1996</year> <volume>58</volume> <issue>1</issue> <fpage>267</fpage> <lpage>288</lpage> <pub-id pub-id-type=\"amsid\">1379242</pub-id> <pub-id pub-id-type=\"doi\">10.1111/j.2517-6161.1996.tb02080.x</pub-id> </mixed-citation> </ref>",
+    "<ref id=\"CR6\"> <label>6.</label> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Pain</surname> <given-names>O</given-names> </name> <etal/> </person-group> <article-title xml:lang=\"en\">Evaluation of polygenic prediction methodology within a reference-standardized framework</article-title> <source>PLoS Genet.</source> <year>2021</year> <volume>17</volume> <issue>5</issue> <fpage>e1009021</fpage> <pub-id pub-id-type=\"coi\">1:CAS:528:DC%2BB3MXhtFaltLbP</pub-id> <pub-id pub-id-type=\"pmid\">33945532</pub-id> <pub-id pub-id-type=\"pmcid\">8121285</pub-id> <pub-id pub-id-type=\"doi\">10.1371/journal.pgen.1009021</pub-id> </mixed-citation> </ref>",
+    "<ref id=\"CR7\"> <label>7.</label> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Krapohl</surname> <given-names>E</given-names> </name> <etal/> </person-group> <article-title xml:lang=\"en\">Multi-polygenic score approach to trait prediction</article-title> <source>Mol. Psychiatry</source> <year>2018</year> <volume>23</volume> <issue>5</issue> <fpage>1368</fpage> <lpage>1374</lpage> <pub-id pub-id-type=\"coi\">1:STN:280:DC%2BC1cflt1Oktg%3D%3D</pub-id> <pub-id pub-id-type=\"pmid\">28785111</pub-id> <pub-id pub-id-type=\"doi\">10.1038/mp.2017.163</pub-id> </mixed-citation> </ref>",
+    "<ref id=\"CR8\"> <label>8.</label> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Schoeler</surname> <given-names>T</given-names> </name> <etal/> </person-group> <article-title xml:lang=\"en\">Multi-polygenic score approach to identifying individual vulnerabilities associated with the risk of exposure to bullying</article-title> <source>JAMA Psychiatry</source> <year>2019</year> <volume>76</volume> <issue>7</issue> <fpage>730</fpage> <lpage>738</lpage> <pub-id pub-id-type=\"pmid\">30942833</pub-id> <pub-id pub-id-type=\"pmcid\">6583782</pub-id> <pub-id pub-id-type=\"doi\">10.1001/jamapsychiatry.2019.0310</pub-id> </mixed-citation> </ref>",
+    "<ref id=\"CR9\"> <label>9.</label> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Sinnott-Armstrong</surname> <given-names>N</given-names> </name> <etal/> </person-group> <article-title xml:lang=\"en\">Genetics of 35 blood and urine biomarkers in the UK Biobank</article-title> <source>Nat. Genet.</source> <year>2021</year> <volume>53</volume> <issue>2</issue> <fpage>185</fpage> <lpage>194</lpage> <pub-id pub-id-type=\"coi\">1:CAS:528:DC%2BB3MXhsFOlsbc%3D</pub-id> <pub-id pub-id-type=\"pmid\">33462484</pub-id> <pub-id pub-id-type=\"doi\">10.1038/s41588-020-00757-z</pub-id> </mixed-citation> </ref>",
+    "<ref id=\"CR10\"> <label>10.</label> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Abraham</surname> <given-names>G</given-names> </name> <etal/> </person-group> <article-title xml:lang=\"en\">Genomic risk score offers predictive performance comparable to clinical risk factors for ischaemic stroke</article-title> <source>Nat. Commun.</source> <year>2019</year> <volume>10</volume> <issue>1</issue> <fpage>5819</fpage> <pub-id pub-id-type=\"bibcode\">2019NatCo..10.5819A</pub-id> <pub-id pub-id-type=\"coi\">1:CAS:528:DC%2BC1MXisVyrtr7N</pub-id> <pub-id pub-id-type=\"pmid\">31862893</pub-id> <pub-id pub-id-type=\"pmcid\">6925280</pub-id> <pub-id pub-id-type=\"doi\">10.1038/s41467-019-13848-1</pub-id> </mixed-citation> </ref>",
+    "<ref id=\"CR11\"> <label>11.</label> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Rodriguez</surname> <given-names>V</given-names> </name> <etal/> </person-group> <article-title xml:lang=\"en\">Use of multiple polygenic risk scores for distinguishing schizophrenia-spectrum disorder and affective psychosis categories in a first-episode sample; the EU-GEI study</article-title> <source>Psychol. Med.</source> <year>2023</year> <volume>53</volume> <issue>8</issue> <fpage>3396</fpage> <lpage>3405</lpage> <pub-id pub-id-type=\"pmid\">35076361</pub-id> <pub-id pub-id-type=\"doi\">10.1017/S0033291721005456</pub-id> </mixed-citation> </ref>",
+    "<ref id=\"CR12\"> <label>12.</label> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Meisner</surname> <given-names>A</given-names> </name> <etal/> </person-group> <article-title xml:lang=\"en\">Combined utility of 25 disease and risk factor polygenic risk scores for stratifying risk of all-cause mortality</article-title> <source>Am. J. Hum. Genet.</source> <year>2020</year> <volume>107</volume> <issue>3</issue> <fpage>418</fpage> <lpage>431</lpage> <pub-id pub-id-type=\"coi\">1:CAS:528:DC%2BB3cXhsFKgs7fI</pub-id> <pub-id pub-id-type=\"pmid\">32758451</pub-id> <pub-id pub-id-type=\"pmcid\">7477009</pub-id> <pub-id pub-id-type=\"doi\">10.1016/j.ajhg.2020.07.002</pub-id> </mixed-citation> </ref>",
+    "<ref id=\"CR13\"> <label>13.</label> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Kurniansyah</surname> <given-names>N</given-names> </name> <etal/> </person-group> <article-title xml:lang=\"en\">Evaluating the use of blood pressure polygenic risk scores across race/ethnic background groups</article-title> <source>Nat. Commun.</source> <year>2023</year> <volume>14</volume> <issue>1</issue> <fpage>3202</fpage> <pub-id pub-id-type=\"bibcode\">2023NatCo..14.3202K</pub-id> <pub-id pub-id-type=\"coi\">1:CAS:528:DC%2BB3sXhtFGkt7%2FL</pub-id> <pub-id pub-id-type=\"pmid\">37268629</pub-id> <pub-id pub-id-type=\"pmcid\">10238525</pub-id> <pub-id pub-id-type=\"doi\">10.1038/s41467-023-38990-9</pub-id> </mixed-citation> </ref>",
+    "<ref id=\"CR14\"> <label>14.</label> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Coombes</surname> <given-names>BJ</given-names> </name> <etal/> </person-group> <article-title xml:lang=\"en\">Dissecting clinical heterogeneity of bipolar disorder using multiple polygenic risk scores</article-title> <source>Transl. Psychiatry</source> <year>2020</year> <volume>10</volume> <issue>1</issue> <fpage>314</fpage> <pub-id pub-id-type=\"pmid\">32948743</pub-id> <pub-id pub-id-type=\"pmcid\">7501305</pub-id> <pub-id pub-id-type=\"doi\">10.1038/s41398-020-00996-y</pub-id> </mixed-citation> </ref>",
+    "<ref id=\"CR15\"> <label>15.</label> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Xin</surname> <given-names>J</given-names> </name> <etal/> </person-group> <article-title xml:lang=\"en\">Risk assessment for colorectal cancer via polygenic risk score and lifestyle exposure: A large-scale association study of East Asian and European populations</article-title> <source>Genome Med.</source> <year>2023</year> <volume>15</volume> <issue>1</issue> <fpage>4</fpage> <pub-id pub-id-type=\"coi\">1:CAS:528:DC%2BB3sXhvVyjtLk%3D</pub-id> <pub-id pub-id-type=\"pmid\">36694225</pub-id> <pub-id pub-id-type=\"pmcid\">9875451</pub-id> <pub-id pub-id-type=\"doi\">10.1186/s13073-023-01156-9</pub-id> </mixed-citation> </ref>",
+    "<ref id=\"CR16\"> <label>16.</label> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Collister</surname> <given-names>JA</given-names> </name> <name> <surname>Liu</surname> <given-names>X</given-names> </name> <name> <surname>Clifton</surname> <given-names>L</given-names> </name> </person-group> <article-title xml:lang=\"en\">Calculating polygenic risk scores (PRS) in UK Biobank: A practical guide for epidemiologists</article-title> <source>Front. Genet.</source> <year>2022</year> <volume>13</volume> <fpage>818574</fpage> <pub-id pub-id-type=\"coi\">1:CAS:528:DC%2BB38Xht1Oks7vL</pub-id> <pub-id pub-id-type=\"pmid\">35251129</pub-id> <pub-id pub-id-type=\"pmcid\">8894758</pub-id> <pub-id pub-id-type=\"doi\">10.3389/fgene.2022.818574</pub-id> </mixed-citation> </ref>",
+    "<ref id=\"CR17\"> <label>17.</label> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Coombes</surname> <given-names>BJ</given-names> </name> <etal/> </person-group> <article-title xml:lang=\"en\">A principal component approach to improve association testing with polygenic risk scores</article-title> <source>Genet. Epidemiol.</source> <year>2020</year> <volume>44</volume> <issue>7</issue> <fpage>676</fpage> <lpage>686</lpage> <pub-id pub-id-type=\"pmid\">32691445</pub-id> <pub-id pub-id-type=\"pmcid\">7722089</pub-id> <pub-id pub-id-type=\"doi\">10.1002/gepi.22339</pub-id> </mixed-citation> </ref>",
+    "<ref id=\"CR18\"> <label>18.</label> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Arvanitis</surname> <given-names>M</given-names> </name> <etal/> </person-group> <article-title xml:lang=\"en\">Linear and nonlinear Mendelian randomization analyses of the association between diastolic blood pressure and cardiovascular events: The J-curve revisited</article-title> <source>Circulation</source> <year>2021</year> <volume>143</volume> <issue>9</issue> <fpage>895</fpage> <lpage>906</lpage> <pub-id pub-id-type=\"pmid\">33249881</pub-id> <pub-id pub-id-type=\"doi\">10.1161/CIRCULATIONAHA.120.049819</pub-id> </mixed-citation> </ref>",
+    "<ref id=\"CR19\"> <label>19.</label> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Wan</surname> <given-names>EYF</given-names> </name> <etal/> </person-group> <article-title xml:lang=\"en\">Blood pressure and risk of cardiovascular disease in UK Biobank: A Mendelian randomization study</article-title> <source>Hypertension</source> <year>2021</year> <volume>77</volume> <issue>2</issue> <fpage>367</fpage> <lpage>375</lpage> <pub-id pub-id-type=\"coi\">1:CAS:528:DC%2BB3MXhtVKqurvL</pub-id> <pub-id pub-id-type=\"pmid\">33390054</pub-id> <pub-id pub-id-type=\"doi\">10.1161/HYPERTENSIONAHA.120.16138</pub-id> </mixed-citation> </ref>",
+    "<ref id=\"CR20\"> <label>20.</label> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Tsao</surname> <given-names>CW</given-names> </name> <etal/> </person-group> <article-title xml:lang=\"en\">Heart disease and stroke statistics-2023 update: A report from the American Heart Association</article-title> <source>Circulation</source> <year>2023</year> <volume>147</volume> <issue>8</issue> <fpage>e93</fpage> <lpage>e621</lpage> <pub-id pub-id-type=\"pmid\">36695182</pub-id> <pub-id pub-id-type=\"doi\">10.1161/CIR.0000000000001123</pub-id> </mixed-citation> </ref>",
+    "<ref id=\"CR21\"> <label>21.</label> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Mills</surname> <given-names>KT</given-names> </name> <etal/> </person-group> <article-title xml:lang=\"en\">Global disparities of hypertension prevalence and control: A systematic analysis of population-based studies from 90 countries</article-title> <source>Circulation</source> <year>2016</year> <volume>134</volume> <issue>6</issue> <fpage>441</fpage> <lpage>450</lpage> <pub-id pub-id-type=\"pmid\">27502908</pub-id> <pub-id pub-id-type=\"pmcid\">4979614</pub-id> <pub-id pub-id-type=\"doi\">10.1161/CIRCULATIONAHA.115.018912</pub-id> </mixed-citation> </ref>",
+    "<ref id=\"CR22\"> <label>22.</label> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Jaeger</surname> <given-names>BC</given-names> </name> <etal/> </person-group> <article-title xml:lang=\"en\">Hypertension statistics for US adults: An open-source web application for analysis and visualization of national health and nutrition examination survey data</article-title> <source>Hypertension</source> <year>2023</year> <volume>80</volume> <issue>6</issue> <fpage>1311</fpage> <lpage>1320</lpage> <pub-id pub-id-type=\"coi\">1:CAS:528:DC%2BB3sXhtVWlt7fN</pub-id> <pub-id pub-id-type=\"pmid\">37082970</pub-id> <pub-id pub-id-type=\"doi\">10.1161/HYPERTENSIONAHA.123.20900</pub-id> </mixed-citation> </ref>",
+    "<ref id=\"CR23\"> <label>23.</label> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Ference</surname> <given-names>BA</given-names> </name> <etal/> </person-group> <article-title xml:lang=\"en\">Clinical effect of naturally random allocation to lower systolic blood pressure beginning before the development of hypertension</article-title> <source>Hypertension</source> <year>2014</year> <volume>63</volume> <issue>6</issue> <fpage>1182</fpage> <lpage>1188</lpage> <pub-id pub-id-type=\"coi\">1:CAS:528:DC%2BC2cXpt1Kruro%3D</pub-id> <pub-id pub-id-type=\"pmid\">24591335</pub-id> <pub-id pub-id-type=\"doi\">10.1161/HYPERTENSIONAHA.113.02734</pub-id> </mixed-citation> </ref>",
+    "<ref id=\"CR24\"> <label>24.</label> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Niiranen</surname> <given-names>TJ</given-names> </name> <etal/> </person-group> <article-title xml:lang=\"en\">Prediction of blood pressure and blood pressure change with a genetic risk score</article-title> <source>J. Clin. Hypertens.</source> <year>2016</year> <volume>18</volume> <issue>3</issue> <fpage>181</fpage> <lpage>186</lpage> <pub-id pub-id-type=\"doi\">10.1111/jch.12702</pub-id> </mixed-citation> </ref>",
+    "<ref id=\"CR25\"> <label>25.</label> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Fujii</surname> <given-names>R</given-names> </name> <etal/> </person-group> <article-title xml:lang=\"en\">Associations of genome-wide polygenic risk score and risk factors with hypertension in a Japanese population</article-title> <source>Circ. Genom. Precis. Med.</source> <year>2022</year> <volume>15</volume> <issue>4</issue> <fpage>e003612</fpage> <pub-id pub-id-type=\"coi\">1:CAS:528:DC%2BB38XitFansLzP</pub-id> <pub-id pub-id-type=\"pmid\">35666837</pub-id> <pub-id pub-id-type=\"doi\">10.1161/CIRCGEN.121.003612</pub-id> </mixed-citation> </ref>",
+    "<ref id=\"CR26\"> <label>26.</label> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Grinde</surname> <given-names>KE</given-names> </name> <etal/> </person-group> <article-title xml:lang=\"en\">Generalizing polygenic risk scores from Europeans to Hispanics/Latinos</article-title> <source>Genet. Epidemiol.</source> <year>2019</year> <volume>43</volume> <issue>1</issue> <fpage>50</fpage> <lpage>62</lpage> <pub-id pub-id-type=\"pmid\">30368908</pub-id> <pub-id pub-id-type=\"doi\">10.1002/gepi.22166</pub-id> </mixed-citation> </ref>",
+    "<ref id=\"CR27\"> <label>27.</label> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>McCaw</surname> <given-names>ZR</given-names> </name> <etal/> </person-group> <article-title xml:lang=\"en\">DeepNull models non-linear covariate effects to improve phenotypic prediction and association power</article-title> <source>Nat. Commun.</source> <year>2022</year> <volume>13</volume> <issue>1</issue> <fpage>241</fpage> <pub-id pub-id-type=\"bibcode\">2022NatCo..13..241M</pub-id> <pub-id pub-id-type=\"coi\">1:CAS:528:DC%2BB38XoslOmug%3D%3D</pub-id> <pub-id pub-id-type=\"pmid\">35017556</pub-id> <pub-id pub-id-type=\"pmcid\">8752755</pub-id> <pub-id pub-id-type=\"doi\">10.1038/s41467-021-27930-0</pub-id> </mixed-citation> </ref>",
+    "<ref id=\"CR28\"> <label>28.</label> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Goodman</surname> <given-names>MO</given-names> </name> <etal/> </person-group> <article-title xml:lang=\"en\">Pathway-specific polygenic risk scores identify obstructive sleep apnea\u2014Related pathways differentially moderating genetic susceptibility to coronary artery disease</article-title> <source>Circ. Genom. Precis. Med.</source> <year>2022</year> <volume>15</volume> <issue>5</issue> <fpage>e003535</fpage> <pub-id pub-id-type=\"coi\">1:CAS:528:DC%2BB38XislegsbjO</pub-id> <pub-id pub-id-type=\"pmid\">36170352</pub-id> <pub-id pub-id-type=\"pmcid\">9588629</pub-id> <pub-id pub-id-type=\"doi\">10.1161/CIRCGEN.121.003535</pub-id> </mixed-citation> </ref>",
+    "<ref id=\"CR29\"> <label>29.</label> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Choi</surname> <given-names>SW</given-names> </name> <etal/> </person-group> <article-title xml:lang=\"en\">PRSet: Pathway-based polygenic risk score analyses and software</article-title> <source>PLoS Genet.</source> <year>2023</year> <volume>19</volume> <issue>2</issue> <fpage>e1010624</fpage> <pub-id pub-id-type=\"coi\">1:CAS:528:DC%2BB3sXjslKhtLo%3D</pub-id> <pub-id pub-id-type=\"pmid\">36749789</pub-id> <pub-id pub-id-type=\"pmcid\">9937466</pub-id> <pub-id pub-id-type=\"doi\">10.1371/journal.pgen.1010624</pub-id> </mixed-citation> </ref>",
+    "<ref id=\"CR30\"> <label>30.</label> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Darst</surname> <given-names>BF</given-names> </name> <etal/> </person-group> <article-title xml:lang=\"en\">Pathway-specific polygenic risk scores as predictors of amyloid-\u03b2 deposition and cognitive function in a sample at increased risk for Alzheimer\u2019s disease</article-title> <source>J. Alzheimers Dis.</source> <year>2017</year> <volume>55</volume> <issue>2</issue> <fpage>473</fpage> <lpage>484</lpage> <pub-id pub-id-type=\"coi\">1:CAS:528:DC%2BC28XhvFelsrvF</pub-id> <pub-id pub-id-type=\"pmid\">27662287</pub-id> <pub-id pub-id-type=\"pmcid\">5123972</pub-id> <pub-id pub-id-type=\"doi\">10.3233/JAD-160195</pub-id> </mixed-citation> </ref>",
+    "<ref id=\"CR31\"> <label>31.</label> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Naret</surname> <given-names>O</given-names> </name> <etal/> </person-group> <article-title xml:lang=\"en\">Improving polygenic prediction with genetically inferred ancestry</article-title> <source>HGG Adv.</source> <year>2022</year> <volume>3</volume> <issue>3</issue> <fpage>100109</fpage> <pub-id pub-id-type=\"coi\">1:CAS:528:DC%2BB38XhslymsbnK</pub-id> <pub-id pub-id-type=\"pmid\">35571679</pub-id> <pub-id pub-id-type=\"pmcid\">9095896</pub-id> </mixed-citation> </ref>",
+    "<ref id=\"CR32\"> <label>32.</label> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Chen</surname> <given-names>CY</given-names> </name> <etal/> </person-group> <article-title xml:lang=\"en\">Explicit modeling of ancestry improves polygenic risk scores and BLUP prediction</article-title> <source>Genet. Epidemiol.</source> <year>2015</year> <volume>39</volume> <issue>6</issue> <fpage>427</fpage> <lpage>438</lpage> <pub-id pub-id-type=\"pmid\">25995153</pub-id> <pub-id pub-id-type=\"pmcid\">4734143</pub-id> <pub-id pub-id-type=\"doi\">10.1002/gepi.21906</pub-id> </mixed-citation> </ref>",
+    "<ref id=\"CR33\"> <label>33.</label> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Priv\u00e9</surname> <given-names>F</given-names> </name> <etal/> </person-group> <article-title xml:lang=\"en\">Portability of 245 polygenic scores when derived from the UK Biobank and applied to 9 ancestry groups from the same cohort</article-title> <source>Am. J. Hum. Genet.</source> <year>2022</year> <volume>109</volume> <issue>2</issue> <fpage>373</fpage> <pub-id pub-id-type=\"pmid\">35120604</pub-id> <pub-id pub-id-type=\"pmcid\">8874215</pub-id> <pub-id pub-id-type=\"doi\">10.1016/j.ajhg.2022.01.007</pub-id> </mixed-citation> </ref>",
+    "<ref id=\"CR34\"> <label>34.</label> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Wang</surname> <given-names>Y</given-names> </name> <etal/> </person-group> <article-title xml:lang=\"en\">Challenges and opportunities for developing more generalizable polygenic risk scores</article-title> <source>Annu. Rev. Biomed. Data Sci.</source> <year>2022</year> <volume>5</volume> <fpage>293</fpage> <lpage>320</lpage> <pub-id pub-id-type=\"pmid\">35576555</pub-id> <pub-id pub-id-type=\"pmcid\">9828290</pub-id> <pub-id pub-id-type=\"doi\">10.1146/annurev-biodatasci-111721-074830</pub-id> </mixed-citation> </ref>",
+    "<ref id=\"CR35\"> <label>35.</label> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Zhao</surname> <given-names>Z</given-names> </name> <etal/> </person-group> <article-title xml:lang=\"en\">The construction of cross-population polygenic risk scores using transfer learning</article-title> <source>Am. J. Hum. Genet.</source> <year>2022</year> <volume>109</volume> <issue>11</issue> <fpage>1998</fpage> <lpage>2008</lpage> <pub-id pub-id-type=\"coi\">1:CAS:528:DC%2BB38Xis1eiu7rE</pub-id> <pub-id pub-id-type=\"pmid\">36240765</pub-id> <pub-id pub-id-type=\"pmcid\">9674947</pub-id> <pub-id pub-id-type=\"doi\">10.1016/j.ajhg.2022.09.010</pub-id> </mixed-citation> </ref>",
+    "<ref id=\"CR36\"> <label>36.</label> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Ruan</surname> <given-names>Y</given-names> </name> <etal/> </person-group> <article-title xml:lang=\"en\">Improving polygenic prediction in ancestrally diverse populations</article-title> <source>Nat. Genet.</source> <year>2022</year> <volume>54</volume> <issue>5</issue> <fpage>573</fpage> <lpage>580</lpage> <pub-id pub-id-type=\"coi\">1:CAS:528:DC%2BB38Xht1agt7fK</pub-id> <pub-id pub-id-type=\"pmid\">35513724</pub-id> <pub-id pub-id-type=\"pmcid\">9117455</pub-id> <pub-id pub-id-type=\"doi\">10.1038/s41588-022-01054-7</pub-id> </mixed-citation> </ref>",
+    "<ref id=\"CR37\"> <label>37.</label> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Hoggart</surname> <given-names>CJ</given-names> </name> <etal/> </person-group> <article-title xml:lang=\"en\">BridgePRS leverages shared genetic effects across ancestries to increase polygenic risk score portability</article-title> <source>Nat. Genet.</source> <year>2024</year> <volume>56</volume> <issue>1</issue> <fpage>180</fpage> <lpage>186</lpage> <pub-id pub-id-type=\"coi\">1:CAS:528:DC%2BB3sXis1Kms7%2FL</pub-id> <pub-id pub-id-type=\"pmid\">38123642</pub-id> <pub-id pub-id-type=\"doi\">10.1038/s41588-023-01583-9</pub-id> </mixed-citation> </ref>",
+    "<ref id=\"CR38\"> <label>38.</label> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Hu</surname> <given-names>X</given-names> </name> <etal/> </person-group> <article-title xml:lang=\"en\">Polygenic transcriptome risk scores for COPD and lung function improve cross-ethnic portability of prediction in the NHLBI TOPMed program</article-title> <source>Am. J. Hum. Genet.</source> <year>2022</year> <volume>109</volume> <issue>5</issue> <fpage>857</fpage> <lpage>870</lpage> <pub-id pub-id-type=\"coi\">1:CAS:528:DC%2BB38XptVeqtr0%3D</pub-id> <pub-id pub-id-type=\"pmid\">35385699</pub-id> <pub-id pub-id-type=\"pmcid\">9118106</pub-id> <pub-id pub-id-type=\"doi\">10.1016/j.ajhg.2022.03.007</pub-id> </mixed-citation> </ref>",
+    "<ref id=\"CR39\"> <label>39.</label> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Weissbrod</surname> <given-names>O</given-names> </name> <etal/> </person-group> <article-title xml:lang=\"en\">Leveraging fine-mapping and multipopulation training data to improve cross-population polygenic risk scores</article-title> <source>Nat. Genet.</source> <year>2022</year> <volume>54</volume> <issue>4</issue> <fpage>450</fpage> <lpage>458</lpage> <pub-id pub-id-type=\"coi\">1:CAS:528:DC%2BB38XpvVWiur8%3D</pub-id> <pub-id pub-id-type=\"pmid\">35393596</pub-id> <pub-id pub-id-type=\"pmcid\">9009299</pub-id> <pub-id pub-id-type=\"doi\">10.1038/s41588-022-01036-9</pub-id> </mixed-citation> </ref>",
+    "<ref id=\"CR40\"> <label>40.</label> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Steyerberg</surname> <given-names>EW</given-names> </name> <name> <surname>Vergouwe</surname> <given-names>Y</given-names> </name> </person-group> <article-title xml:lang=\"en\">Towards better clinical prediction models: Seven steps for development and an ABCD for validation</article-title> <source>Eur. Heart J.</source> <year>2014</year> <volume>35</volume> <issue>29</issue> <fpage>1925</fpage> <lpage>1931</lpage> <pub-id pub-id-type=\"pmid\">24898551</pub-id> <pub-id pub-id-type=\"pmcid\">4155437</pub-id> <pub-id pub-id-type=\"doi\">10.1093/eurheartj/ehu207</pub-id> </mixed-citation> </ref>",
+    "<ref id=\"CR41\"> <label>41.</label> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Van Calster</surname> <given-names>B</given-names> </name> <etal/> </person-group> <article-title xml:lang=\"en\">Calibration: The Achilles heel of predictive analytics</article-title> <source>BMC Med.</source> <year>2019</year> <volume>17</volume> <issue>1</issue> <fpage>230</fpage> <pub-id pub-id-type=\"pmid\">31842878</pub-id> <pub-id pub-id-type=\"pmcid\">6912996</pub-id> <pub-id pub-id-type=\"doi\">10.1186/s12916-019-1466-7</pub-id> </mixed-citation> </ref>",
+    "<ref id=\"CR42\"> <label>42.</label> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Cook</surname> <given-names>NR</given-names> </name> <name> <surname>Ridker</surname> <given-names>PM</given-names> </name> </person-group> <article-title xml:lang=\"en\">Calibration of the pooled cohort equations for atherosclerotic cardiovascular disease</article-title> <source>Ann. Intern. Med.</source> <year>2016</year> <volume>165</volume> <issue>11</issue> <fpage>786</fpage> <lpage>794</lpage> <pub-id pub-id-type=\"pmid\">27723890</pub-id> <pub-id pub-id-type=\"doi\">10.7326/M16-1739</pub-id> </mixed-citation> </ref>",
+    "<ref id=\"CR43\"> <label>43.</label> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Emdin</surname> <given-names>CA</given-names> </name> <etal/> </person-group> <article-title xml:lang=\"en\">Evaluation of the pooled cohort equations for prediction of cardiovascular risk in a contemporary prospective cohort</article-title> <source>Am. J. Cardiol.</source> <year>2017</year> <volume>119</volume> <issue>6</issue> <fpage>881</fpage> <lpage>885</lpage> <pub-id pub-id-type=\"pmid\">28061997</pub-id> <pub-id pub-id-type=\"doi\">10.1016/j.amjcard.2016.11.042</pub-id> </mixed-citation> </ref>",
+    "<ref id=\"CR44\"> <label>44.</label> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Khan</surname> <given-names>SS</given-names> </name> <etal/> </person-group> <article-title xml:lang=\"en\">Coronary artery calcium score and polygenic risk score for the prediction of coronary heart disease events</article-title> <source>JAMA</source> <year>2023</year> <volume>329</volume> <issue>20</issue> <fpage>1768</fpage> <lpage>1777</lpage> <pub-id pub-id-type=\"coi\">1:CAS:528:DC%2BB3sXhtVynurnN</pub-id> <pub-id pub-id-type=\"pmid\">37219552</pub-id> <pub-id pub-id-type=\"pmcid\">10208141</pub-id> <pub-id pub-id-type=\"doi\">10.1001/jama.2023.7575</pub-id> </mixed-citation> </ref>",
+    "<ref id=\"CR45\"> <label>45.</label> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Mujwara</surname> <given-names>D</given-names> </name> <etal/> </person-group> <article-title xml:lang=\"en\">Integrating a polygenic risk score for coronary artery disease as a risk-enhancing factor in the pooled cohort equation: A cost-effectiveness analysis study</article-title> <source>J. Am. Heart Assoc.</source> <year>2022</year> <volume>11</volume> <issue>12</issue> <fpage>e025236</fpage> <pub-id pub-id-type=\"pmid\">35699184</pub-id> <pub-id pub-id-type=\"pmcid\">9238642</pub-id> <pub-id pub-id-type=\"doi\">10.1161/JAHA.121.025236</pub-id> </mixed-citation> </ref>",
+    "<ref id=\"CR46\"> <label>46.</label> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Davis</surname> <given-names>SE</given-names> </name> <etal/> </person-group> <article-title xml:lang=\"en\">Calibration drift among regression and machine learning models for hospital mortality</article-title> <source>AMIA Annu. Symp. Proc.</source> <year>2017</year> <volume>2017</volume> <fpage>625</fpage> <lpage>634</lpage> <pub-id pub-id-type=\"pmid\">29854127</pub-id> </mixed-citation> </ref>",
+    "<ref id=\"CR47\"> <label>47.</label> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Zhang</surname> <given-names>J</given-names> </name> <etal/> </person-group> <article-title xml:lang=\"en\">Circadian blood pressure rhythm in cardiovascular and renal health and disease</article-title> <source>Biomolecules</source> <year>2021</year> <volume>11</volume> <fpage>6</fpage> <pub-id pub-id-type=\"coi\">1:CAS:528:DC%2BB3MXit1ahtro%3D</pub-id> <pub-id pub-id-type=\"doi\">10.3390/biom11060868</pub-id> </mixed-citation> </ref>",
+    "<ref id=\"CR48\"> <label>48.</label> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Kurniansyah</surname> <given-names>N</given-names> </name> <etal/> </person-group> <article-title xml:lang=\"en\">A multi-ethnic polygenic risk score is associated with hypertension prevalence and progression throughout adulthood</article-title> <source>Nat. Commun.</source> <year>2022</year> <volume>13</volume> <issue>1</issue> <fpage>3549</fpage> <pub-id pub-id-type=\"bibcode\">2022NatCo..13.3549K</pub-id> <pub-id pub-id-type=\"coi\">1:CAS:528:DC%2BB38XhsF2mt7vM</pub-id> <pub-id pub-id-type=\"pmid\">35729114</pub-id> <pub-id pub-id-type=\"pmcid\">9213527</pub-id> <pub-id pub-id-type=\"doi\">10.1038/s41467-022-31080-2</pub-id> </mixed-citation> </ref>",
+    "<ref id=\"CR49\"> <label>49.</label> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Tolo\u015fi</surname> <given-names>L</given-names> </name> <name> <surname>Lengauer</surname> <given-names>T</given-names> </name> </person-group> <article-title xml:lang=\"en\">Classification with correlated features: Unreliability of feature ranking and solutions</article-title> <source>Bioinformatics</source> <year>2011</year> <volume>27</volume> <issue>14</issue> <fpage>1986</fpage> <lpage>1994</lpage> <pub-id pub-id-type=\"pmid\">21576180</pub-id> <pub-id pub-id-type=\"doi\">10.1093/bioinformatics/btr300</pub-id> </mixed-citation> </ref>",
+    "<ref id=\"CR50\"> <label>50.</label> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Stilp</surname> <given-names>AM</given-names> </name> <etal/> </person-group> <article-title xml:lang=\"en\">A system for phenotype harmonization in the national heart, lung, and blood institute trans-omics for precision medicine (TOPMed) program</article-title> <source>Am. J. Epidemiol.</source> <year>2021</year> <volume>190</volume> <issue>10</issue> <fpage>1977</fpage> <lpage>1992</lpage> <pub-id pub-id-type=\"pmid\">33861317</pub-id> <pub-id pub-id-type=\"pmcid\">8485147</pub-id> <pub-id pub-id-type=\"doi\">10.1093/aje/kwab115</pub-id> </mixed-citation> </ref>",
+    "<ref id=\"CR51\"> <label>51.</label> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Taliun</surname> <given-names>D</given-names> </name> <etal/> </person-group> <article-title xml:lang=\"en\">Sequencing of 53,831 diverse genomes from the NHLBI TOPMed Program</article-title> <source>Nature</source> <year>2021</year> <volume>590</volume> <issue>7845</issue> <fpage>290</fpage> <lpage>299</lpage> <pub-id pub-id-type=\"bibcode\">2021Natur.590..290T</pub-id> <pub-id pub-id-type=\"coi\">1:CAS:528:DC%2BB3MXjslKnsrY%3D</pub-id> <pub-id pub-id-type=\"pmid\">33568819</pub-id> <pub-id pub-id-type=\"pmcid\">7875770</pub-id> <pub-id pub-id-type=\"doi\">10.1038/s41586-021-03205-y</pub-id> </mixed-citation> </ref>",
+    "<ref id=\"CR52\"> <label>52.</label> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Conomos</surname> <given-names>MP</given-names> </name> <etal/> </person-group> <article-title xml:lang=\"en\">Model-free estimation of recent genetic relatedness</article-title> <source>Am. J. Hum. Genet.</source> <year>2016</year> <volume>98</volume> <issue>1</issue> <fpage>127</fpage> <lpage>148</lpage> <pub-id pub-id-type=\"coi\">1:CAS:528:DC%2BC2MXitV2jurfO</pub-id> <pub-id pub-id-type=\"pmid\">26748516</pub-id> <pub-id pub-id-type=\"pmcid\">4716688</pub-id> <pub-id pub-id-type=\"doi\">10.1016/j.ajhg.2015.11.022</pub-id> </mixed-citation> </ref>",
+    "<ref id=\"CR53\"> <label>53.</label> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Conomos</surname> <given-names>MP</given-names> </name> <name> <surname>Miller</surname> <given-names>MB</given-names> </name> <name> <surname>Thornton</surname> <given-names>TA</given-names> </name> </person-group> <article-title xml:lang=\"en\">Robust inference of population structure for ancestry prediction and correction of stratification in the presence of relatedness</article-title> <source>Genet. Epidemiol.</source> <year>2015</year> <volume>39</volume> <issue>4</issue> <fpage>276</fpage> <lpage>293</lpage> <pub-id pub-id-type=\"pmid\">25810074</pub-id> <pub-id pub-id-type=\"pmcid\">4836868</pub-id> <pub-id pub-id-type=\"doi\">10.1002/gepi.21896</pub-id> </mixed-citation> </ref>",
+    "<ref id=\"CR54\"> <label>54.</label> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Gogarten</surname> <given-names>SM</given-names> </name> <etal/> </person-group> <article-title xml:lang=\"en\">Genetic association testing using the GENESIS R/bioconductor package</article-title> <source>Bioinformatics</source> <year>2019</year> <volume>35</volume> <issue>24</issue> <fpage>5346</fpage> <lpage>5348</lpage> <pub-id pub-id-type=\"coi\">1:CAS:528:DC%2BB3cXhtl2ksr7F</pub-id> <pub-id pub-id-type=\"pmid\">31329242</pub-id> <pub-id pub-id-type=\"pmcid\">7904076</pub-id> <pub-id pub-id-type=\"doi\">10.1093/bioinformatics/btz567</pub-id> </mixed-citation> </ref>",
+    "<ref id=\"CR55\"> <label>55.</label> <mixed-citation publication-type=\"other\">Sofer, T. \t\t\t\t\t\t<italic>tamartsi/Remove_overlap_GWAS_summary_stat: v1.0.0</italic> (Zenodo, 2022). \t\t\t\t\t</mixed-citation> </ref>",
+    "<ref id=\"CR56\"> <label>56.</label> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Euesden</surname> <given-names>J</given-names> </name> <name> <surname>Lewis</surname> <given-names>CM</given-names> </name> <name> <surname>O'Reilly</surname> <given-names>PF</given-names> </name> </person-group> <article-title xml:lang=\"en\">PRSice: Polygenic risk score software</article-title> <source>Bioinformatics</source> <year>2015</year> <volume>31</volume> <issue>9</issue> <fpage>1466</fpage> <lpage>1468</lpage> <pub-id pub-id-type=\"coi\">1:CAS:528:DC%2BC28XhtFyltbzP</pub-id> <pub-id pub-id-type=\"pmid\">25550326</pub-id> <pub-id pub-id-type=\"doi\">10.1093/bioinformatics/btu848</pub-id> </mixed-citation> </ref>",
+    "<ref id=\"CR57\"> <label>57.</label> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Berisa</surname> <given-names>T</given-names> </name> <name> <surname>Pickrell</surname> <given-names>JK</given-names> </name> </person-group> <article-title xml:lang=\"en\">Approximately independent linkage disequilibrium blocks in human populations</article-title> <source>Bioinformatics</source> <year>2016</year> <volume>32</volume> <issue>2</issue> <fpage>283</fpage> <lpage>285</lpage> <pub-id pub-id-type=\"coi\">1:CAS:528:DC%2BC28XhtlaqsLzF</pub-id> <pub-id pub-id-type=\"pmid\">26395773</pub-id> <pub-id pub-id-type=\"doi\">10.1093/bioinformatics/btv546</pub-id> </mixed-citation> </ref>",
+    "<ref id=\"CR58\"> <label>58.</label> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Ruan</surname> <given-names>Y</given-names> </name> <etal/> </person-group> <article-title xml:lang=\"en\">Author Correction: Improving polygenic prediction in ancestrally diverse populations</article-title> <source>Nat. Genet.</source> <year>2022</year> <volume>54</volume> <issue>8</issue> <fpage>1259</fpage> <pub-id pub-id-type=\"coi\">1:CAS:528:DC%2BB38XhslSlu7fN</pub-id> <pub-id pub-id-type=\"pmid\">35789324</pub-id> <pub-id pub-id-type=\"doi\">10.1038/s41588-022-01144-6</pub-id> </mixed-citation> </ref>",
+    "<ref id=\"CR59\"> <label>59.</label> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Ge</surname> <given-names>T</given-names> </name> <etal/> </person-group> <article-title xml:lang=\"en\">Polygenic prediction via Bayesian regression and continuous shrinkage priors</article-title> <source>Nat. Commun.</source> <year>2019</year> <volume>10</volume> <issue>1</issue> <fpage>1776</fpage> <pub-id pub-id-type=\"bibcode\">2019NatCo..10.1776G</pub-id> <pub-id pub-id-type=\"pmid\">30992449</pub-id> <pub-id pub-id-type=\"pmcid\">6467998</pub-id> <pub-id pub-id-type=\"doi\">10.1038/s41467-019-09718-5</pub-id> </mixed-citation> </ref>",
+    "<ref id=\"CR60\"> <label>60.</label> <mixed-citation publication-type=\"other\">Chen, T. &amp; Guestrin, C. XGBoost: A scalable tree boosting system. In \t\t\t\t\t\t<italic>Proc. 22nd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining</italic> 785\u2013794 (Association for Computing Machinery, 2016). \t\t\t\t\t</mixed-citation> </ref>",
+    "<ref id=\"CR61\"> <label>61.</label> <mixed-citation publication-type=\"other\">Akiba, T. \t\t\t\t\t\t<italic>et al</italic>. Optuna: A next-generation hyperparameter optimization framework. In \t\t\t\t\t\t<italic>Proc. 25th ACM SIGKDD International Conference on Knowledge Discovery &amp; Data Mining</italic> 2623\u20132631 (Association for Computing Machinery, 2019). \t\t\t\t\t</mixed-citation> </ref>",
+    "<ref id=\"CR62\"> <label>62.</label> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Pedregosa</surname> <given-names>F</given-names> </name> <etal/> </person-group> <article-title xml:lang=\"en\">Scikit-learn: Machine learning in python</article-title> <source>J. Mach. Learn. Res.</source> <year>2011</year> <volume>12</volume> <fpage>2825</fpage> <lpage>2830</lpage> <pub-id pub-id-type=\"amsid\">2854348</pub-id> </mixed-citation> </ref>"
+  ],
+  "title": {
+    "textEnglish": "Machine learning models for predicting blood pressure phenotypes by combining multiple polygenic risk scores"
+  }
+}

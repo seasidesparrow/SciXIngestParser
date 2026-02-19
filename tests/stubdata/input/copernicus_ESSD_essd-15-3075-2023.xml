@@ -1,0 +1,384 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE article SYSTEM "https://essd.copernicus.org/articles/inc/essd/copernicus.dtd">
+<article language="en" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<journal>
+		<journal_title>Earth System Science Data</journal_title>
+		<journal_url>https://essd.copernicus.org/articles/</journal_url>
+		<issn>1866-3508</issn>
+		<eissn>1866-3516</eissn>
+		<volume_number>15</volume_number>
+		<issue_number>7</issue_number>
+		<publication_year>2023</publication_year>
+	</journal>
+	<doi>10.5194/essd-15-3075-2023</doi>
+	<article_url>https://essd.copernicus.org/articles/15/3075/2023/</article_url>
+	<abstract_html>https://essd.copernicus.org/articles/15/3075/2023/essd-15-3075-2023.html</abstract_html>
+	<fulltext_pdf>https://essd.copernicus.org/articles/15/3075/2023/essd-15-3075-2023.pdf</fulltext_pdf>
+	<article_number>145</article_number>
+	<start_page>3075</start_page>
+	<end_page>3094</end_page>
+	<publication_date>2023-07-20</publication_date>
+	<article_title content_type="html">Spatial variability of Saharan dust deposition revealed through a citizen science campaign</article_title>
+	<authors>
+		<author numeration="1" affiliations="1">
+			<name>Marie Dumont</name>
+			<email>marie.dumont@meteo.fr</email>
+			<contrib-id>0000-0002-4002-5873</contrib-id>
+		</author>
+		<author numeration="2" affiliations="2">
+			<name>Simon Gascoin</name>
+			<email>sgascoin@gmail.com</email>
+			<contrib-id>0000-0002-4996-6768</contrib-id>
+		</author>
+		<author numeration="3" affiliations="1,6">
+			<name>Marion Réveillet</name>
+			<email>marion.reveillet@univ-grenoble-alpes.fr</email>
+			<contrib-id>0000-0001-9802-4649</contrib-id>
+		</author>
+		<author numeration="4" affiliations="6">
+			<name>Didier Voisin</name>
+			<email>didier.voisin@univ-grenoble-alpes.fr</email>
+			<contrib-id>0000-0003-1317-7561</contrib-id>
+		</author>
+		<author numeration="5" affiliations="1">
+			<name>François Tuzet</name>
+			<email>francois.tuzet@gmail.com</email>
+		</author>
+		<author numeration="6" affiliations="6">
+			<name>Laurent Arnaud</name>
+			<email>laurent.arnaud@univ-grenoble-alpes.fr</email>
+			<contrib-id>0000-0002-4432-4205</contrib-id>
+		</author>
+		<author numeration="7" affiliations="8">
+			<name>Mylène Bonnefoy</name>
+			<email>mylene.bonnefoy@inrae.fr</email>
+		</author>
+		<author numeration="8" affiliations="15">
+			<name>Montse Bacardit Peñarroya</name>
+			<email>m.bacardit@aran.org</email>
+		</author>
+		<author numeration="9" affiliations="1">
+			<name>Carlo Carmagnola</name>
+			<email>carlo.carmagnola@meteo.fr</email>
+		</author>
+		<author numeration="10" affiliations="9,10">
+			<name>Alexandre Deguine</name>
+			<email>alexandre.deguine@univ-lille.fr</email>
+			<contrib-id>0000-0001-7125-3759</contrib-id>
+		</author>
+		<author numeration="11" affiliations="14">
+			<name>Aurélie Diacre</name>
+			<email>aurelie.diacre@lsce.ipsl.fr</email>
+			<contrib-id>0000-0001-6988-1828</contrib-id>
+		</author>
+		<author numeration="12" affiliations="7">
+			<name>Lukas Dürr</name>
+			<email>duerr@slf.ch</email>
+		</author>
+		<author numeration="13" affiliations="3">
+			<name>Olivier Evrard</name>
+			<email>olivier.evrard@lsce.ipsl.fr</email>
+			<contrib-id>0000-0002-3503-6543</contrib-id>
+		</author>
+		<author numeration="14" affiliations="8">
+			<name>Firmin Fontaine</name>
+			<email>firmin.fontaine@inrae.fr</email>
+		</author>
+		<author numeration="15" affiliations="12,13">
+			<name>Amaury Frankl</name>
+			<email>amaury.frankl@ugent.be</email>
+			<contrib-id>0000-0002-1685-2780</contrib-id>
+		</author>
+		<author numeration="16" affiliations="1">
+			<name>Mathieu Fructus</name>
+			<email>mathieu.fructus@meteo.fr</email>
+		</author>
+		<author numeration="17" affiliations="4">
+			<name>Laure Gandois</name>
+			<email>laure.gandois@toulouse-inp.fr</email>
+		</author>
+		<author numeration="18" affiliations="1">
+			<name>Isabelle Gouttevin</name>
+			<email>isabelle.gouttevin@meteo.fr</email>
+			<contrib-id>0000-0002-1801-684X</contrib-id>
+		</author>
+		<author numeration="19" affiliations="6">
+			<name>Abdelfateh Gherab</name>
+			<email>abdelfateh.gherab@gmail.com</email>
+		</author>
+		<author numeration="20" affiliations="1">
+			<name>Pascal Hagenmuller</name>
+			<email>pascal.hagenmuller@meteo.fr</email>
+			<contrib-id>0000-0002-6581-2048</contrib-id>
+		</author>
+		<author numeration="21" affiliations="4">
+			<name>Sophia Hansson</name>
+			<email>sophia.hansson@toulouse-inp.fr</email>
+		</author>
+		<author numeration="22" affiliations="9">
+			<name>Hervé Herbin</name>
+			<email>herve.herbin@univ-lille.fr</email>
+		</author>
+		<author numeration="23" affiliations="5">
+			<name>Béatrice Josse</name>
+			<email>beatrice.josse@meteo.fr</email>
+		</author>
+		<author numeration="24" affiliations="6">
+			<name>Bruno Jourdain</name>
+			<email>bruno.jourdain@univ-grenoble-alpes.fr</email>
+		</author>
+		<author numeration="25" affiliations="3">
+			<name>Irene Lefevre</name>
+			<email>irene.lefevre@lsce.ipsl.fr</email>
+		</author>
+		<author numeration="26" affiliations="4">
+			<name>Gaël Le Roux</name>
+			<email>gael.leroux@ensat.fr</email>
+			<contrib-id>0000-0002-1579-0178</contrib-id>
+		</author>
+		<author numeration="27" affiliations="5">
+			<name>Quentin Libois</name>
+			<email>quentin.libois@meteo.fr</email>
+			<contrib-id>0000-0001-8963-4170</contrib-id>
+		</author>
+		<author numeration="28" affiliations="11">
+			<name>Lucie Liger</name>
+			<email>lucie.liger@univ-grenoble-alpes.fr</email>
+		</author>
+		<author numeration="29" affiliations="5">
+			<name>Samuel Morin</name>
+			<email>samuel.morin@meteo.fr</email>
+			<contrib-id>0000-0002-1781-687X</contrib-id>
+		</author>
+		<author numeration="30" affiliations="10">
+			<name>Denis Petitprez</name>
+			<email>denis.petitprez@univ-lille.fr</email>
+		</author>
+		<author numeration="31" affiliations="6,1">
+			<name>Alvaro Robledano</name>
+			<email>alvaro.robledano-perez@univ-grenoble-alpes.fr</email>
+			<contrib-id>0000-0002-4046-7065</contrib-id>
+		</author>
+		<author numeration="32" affiliations="7">
+			<name>Martin Schneebeli</name>
+			<email>schneebeli@slf.ch</email>
+			<contrib-id>0000-0003-2872-4409</contrib-id>
+		</author>
+		<author numeration="33" affiliations="11">
+			<name>Pascal Salze</name>
+			<email>pascal.salze@univ-grenoble-alpes.fr</email>
+		</author>
+		<author numeration="34" affiliations="6">
+			<name>Delphine Six</name>
+			<email>delphine.six@univ-grenoble-alpes.fr</email>
+		</author>
+		<author numeration="35" affiliations="8">
+			<name>Emmanuel Thibert</name>
+			<email>emmanuel.thibert@inrae.fr</email>
+			<contrib-id>0000-0003-2843-5367</contrib-id>
+		</author>
+		<author numeration="36" affiliations="7">
+			<name>Jürg Trachsel</name>
+			<email>juerg.trachsel@slf.ch</email>
+			<contrib-id>0000-0003-2560-9907</contrib-id>
+		</author>
+		<author numeration="37" affiliations="1">
+			<name>Matthieu Vernay</name>
+			<email>matthieu.vernay@meteo.fr</email>
+		</author>
+		<author numeration="38" affiliations="1">
+			<name>Léo Viallon-Galinier</name>
+			<email>leo.viallon@meteo.fr</email>
+		</author>
+		<author numeration="39" affiliations="6">
+			<name>Céline Voiron</name>
+			<email>celine.voiron@ird.fr</email>
+		</author>
+	</authors>
+	<affiliations>
+		<affiliation numeration="1" content_type="html">Univ. Grenoble Alpes, Université de Toulouse, Météo-France, CNRS, CNRM, Centre d’Études de la Neige, 38000 Grenoble, France</affiliation>
+		<affiliation numeration="2" content_type="html">CESBIO, Université de Toulouse, CNES/CNRS/INRA/IRD/UPS, Toulouse, France</affiliation>
+		<affiliation numeration="3" content_type="html">LSCE – IPSL – Laboratoire des Sciences du Climat et de l&apos;Environnement, CEA, CNRS, UVSQ, Université Paris-Saclay, Gif-sur-Yvette, France</affiliation>
+		<affiliation numeration="4" content_type="html">Laboratoire Ecologie Fonctionnelle et Environnement, Université de Toulouse, CNRS, INPT, UPS, Toulouse, France</affiliation>
+		<affiliation numeration="5" content_type="html">CNRM, Université de Toulouse, Météo-France, CNRS, Toulouse, France</affiliation>
+		<affiliation numeration="6" content_type="html">Université Grenoble Alpes, CNRS, IRD, G-INP, IGE, Grenoble, France</affiliation>
+		<affiliation numeration="7" content_type="html">WSL Institute for Snow and Avalanche Research SLF, Flüelastr. 11, 7260 Davos, Switzerland</affiliation>
+		<affiliation numeration="8" content_type="html">Université Grenoble Alpes, INRAE, UR ETGR, Grenoble, France </affiliation>
+		<affiliation numeration="9" content_type="html">Université de Lille, CNRS, UMR 8518 – LOA – Laboratoire d&apos;Optique Atmosphérique, 59000 Lille, France</affiliation>
+		<affiliation numeration="10" content_type="html">Université de Lille, CNRS, UMR 8522 – PC2A – Physicochimie des Processus de Combustion et de l’Atmosphère, 59000 Lille, France</affiliation>
+		<affiliation numeration="11" content_type="html">Jardin du Lautaret, CNRS, Université Grenoble Alpes, Grenoble, France</affiliation>
+		<affiliation numeration="12" content_type="html">INRAE, AMAP, IRD, CIRAD, CNRS, University Montpellier, Bld de la Lironde, 34398, Montpellier CEDEX 5, France</affiliation>
+		<affiliation numeration="13" content_type="html">Ghent University, Department of Geography, Krijgslaan 281 (S8), 9000, Ghent, Belgium</affiliation>
+		<affiliation numeration="14" content_type="html">Commissariat À L’Energie Atomique Et aux Énergies Alternatives (CEA, DAM, DIF), 91297 Arpajon, France</affiliation>
+		<affiliation numeration="15" content_type="html">Centre de Lauegi d&apos;Aran, Conselh Generau d&apos;Aran, Viella, Spain</affiliation>
+	</affiliations>
+	<abstract content_type="html">&lt;p&gt;Saharan dust outbreaks have profound effects on ecosystems, climate, human health, and the cryosphere in Europe. However, the spatial deposition pattern of Saharan dust is poorly known due to a sparse network of ground measurements. Following the extreme dust deposition event of February 2021 across Europe, a citizen science campaign was launched to sample dust on snow over the Pyrenees and the European Alps. This somewhat improvised campaign triggered wide interest since 152 samples were collected from the snow in the Pyrenees, the French Alps, and the Swiss Alps in less than 4 weeks. Among the 152 samples, 113 in total could be analysed, corresponding to 70 different locations. The analysis of the samples showed a large variability in&lt;span id=&quot;page3076&quot;/&gt; the dust properties and amount. We found a decrease in the deposited mass and particle sizes with distance from the source along the transport path. This spatial trend was also evident in the elemental composition of the dust as the iron mass fraction decreased from 11 % in the Pyrenees to 2 % in the Swiss Alps. At the local scale, we found a higher dust mass on south-facing slopes, in agreement with estimates from high-resolution remote sensing data. This unique dataset, which resulted from the collaboration of several research laboratories and citizens, is provided as an open dataset to benefit a large community and to enable further scientific investigations. Data presented in this study are available at &lt;a href=&quot;https://doi.org/10.5281/zenodo.7969515&quot;&gt;https://doi.org/10.5281/zenodo.7969515&lt;/a&gt; &lt;span class=&quot;cit&quot; id=&quot;xref_paren.1&quot;&gt;(&lt;a href=&quot;#bib1.bibx12&quot;&gt;Dumont et al.&lt;/a&gt;, &lt;a href=&quot;#bib1.bibx12&quot;&gt;2022&lt;/a&gt;&lt;a href=&quot;#bib1.bibx12&quot;&gt;a&lt;/a&gt;)&lt;/span&gt;.&lt;/p&gt;</abstract>
+	<references>
+		<reference numeration="1" content_type="text">Adebiyi, A., Kok, J. F., Murray, B. J., Ryder, C. L., Stuut, J.-B. W., Kahn,
+R. A., Knippertz, P., Formenti, P., Mahowald, N. M., Pérez García-Pando,
+C., Klose, M., Ansmann, A., Samset, B. H., Ito, A., Balkanski, Y., Di
+Biagio, C., Romanias, M. N., Huang, Y., and Meng, J.: A review of coarse
+mineral dust in the Earth system, Aeolian Res., 60, 100849,
+&lt;a href=&quot;https://doi.org/10.1016/j.aeolia.2022.100849&quot;&gt;https://doi.org/10.1016/j.aeolia.2022.100849&lt;/a&gt;, 2023. &lt;a href=&quot;#xref_paren.41&quot;&gt;a&lt;/a&gt;</reference>
+		<reference numeration="2" content_type="text">Baladima, F., Thomas, J. L., Voisin, D., Dumont, M., Junquas, C., Kumar, R.,
+Lavaysse, C., Marelle, L., Parrington, M., and Flemming, J.: Modeling an
+Extreme Dust Deposition Event to the French Alpine Seasonal Snowpack in April
+2018: Meteorological Context and Predictions of Dust Deposition, J.
+Geophys. Res.-Atmos., 127, e2021JD035745,
+&lt;a href=&quot;https://doi.org/10.1029/2021JD035745&quot;&gt;https://doi.org/10.1029/2021JD035745&lt;/a&gt;, 2022. &lt;a href=&quot;#xref_paren.9&quot;&gt;a&lt;/a&gt;, &lt;a href=&quot;#xref_paren.12&quot;&gt;b&lt;/a&gt;, &lt;a href=&quot;#xref_paren.54&quot;&gt;c&lt;/a&gt;</reference>
+		<reference numeration="3" content_type="text">Berger, A.: Cesium-137: les poussières radioactives retrouvées dans le sable
+du Sahara sont-elles dangereuses?, section: economie-et-politique, &lt;a href=&quot;https://www.capital.fr/economie-politique/cesium-137-les-poussieres-radioactives-retrouvees-dans-les-poussieres-de-sable-du-sahara-sont-elles-dangereuses-1395362&quot;&gt;https://www.capital.fr/economie-politique/cesium-137-les-poussieres-radioactives-retrouvees-dans-les-poussieres-de-sable-du-sahara-sont-elles-dangereuses-1395362&lt;/a&gt; (last access: 17 July 2023), 2021. &lt;a href=&quot;#xref_paren.27&quot;&gt;a&lt;/a&gt;, &lt;a href=&quot;#xref_paren.47&quot;&gt;b&lt;/a&gt;</reference>
+		<reference numeration="4" content_type="text">Caponi, L., Formenti, P., Massabó, D., Di Biagio, C., Cazaunau, M., Pangui, E., Chevaillier, S., Landrot, G., Andreae, M. O., Kandler, K., Piketh, S., Saeed, T., Seibert, D., Williams, E., Balkanski, Y., Prati, P., and Doussin, J.-F.: Spectral- and size-resolved mass absorption efficiency of mineral dust aerosols in the shortwave spectrum: a simulation chamber study, Atmos. Chem. Phys., 17, 7175–7191, &lt;a href=&quot;https://doi.org/10.5194/acp-17-7175-2017&quot;&gt;https://doi.org/10.5194/acp-17-7175-2017&lt;/a&gt;, 2017. &lt;a href=&quot;#xref_paren.14&quot;&gt;a&lt;/a&gt;, &lt;a href=&quot;#xref_paren.22&quot;&gt;b&lt;/a&gt;, &lt;a href=&quot;#xref_text.33&quot;&gt;c&lt;/a&gt;, &lt;a href=&quot;#xref_paren.42&quot;&gt;d&lt;/a&gt;</reference>
+		<reference numeration="5" content_type="text">Dam, T. T. N., Angert, A., Krom, M. D., Bigio, L., Hu, Y., Beyer, K. A.,
+Mayol-Bracero, O. L., Santos-Figueroa, G., Pio, C., and Zhu, M.: X-ray
+Spectroscopic Quantification of Phosphorus Transformation in Saharan Dust
+during Trans-Atlantic Dust Transport, Environ. Sci. Technol.,
+55, 12694–12703, &lt;a href=&quot;https://doi.org/10.1021/acs.est.1c01573&quot;&gt;https://doi.org/10.1021/acs.est.1c01573&lt;/a&gt;, 2021. &lt;a href=&quot;#xref_text.51&quot;&gt;a&lt;/a&gt;</reference>
+		<reference numeration="6" content_type="text">DeCarlo, P. F., Slowik, J. G., Worsnop, D. R., Davidovits, P., and Jimenez,
+J. L.: Particle Morphology and Density Characterization by Combined Mobility
+and Aerodynamic Diameter Measurements. Part 1: Theory, Aerosol Sci.
+Technol., 38, 1185–1205, &lt;a href=&quot;https://doi.org/10.1080/027868290903907&quot;&gt;https://doi.org/10.1080/027868290903907&lt;/a&gt;, 2004. &lt;a href=&quot;#xref_paren.24&quot;&gt;a&lt;/a&gt;</reference>
+		<reference numeration="7" content_type="text">Delmonte, B., Petit, J., Andersen, K. K., Basile-Doelsch, I., Maggi, V., and
+Ya Lipenkov, V.: Dust size evidence for opposite regional atmospheric
+circulation changes over east Antarctica during the last climatic transition,
+Clim. Dynam., 23, 427–438,
+&lt;a href=&quot;https://doi.org/10.1007/s00382-004-0450-9&quot;&gt;https://doi.org/10.1007/s00382-004-0450-9&lt;/a&gt;, 2004. &lt;a href=&quot;#xref_text.21&quot;&gt;a&lt;/a&gt;</reference>
+		<reference numeration="8" content_type="text">Deschutter, L.: Optical properties of Gobi dust and its pure compounds:
+experimental extinction spectra and complex refractive indices determination,
+Ph.D. thesis, University of Lille, 2022. &lt;a href=&quot;#xref_text.35&quot;&gt;a&lt;/a&gt;, &lt;a href=&quot;#xref_text.36&quot;&gt;b&lt;/a&gt;</reference>
+		<reference numeration="9" content_type="text">Di Biagio, C., Formenti, P., Balkanski, Y., Caponi, L., Cazaunau, M., Pangui, E., Journet, E., Nowak, S., Andreae, M. O., Kandler, K., Saeed, T., Piketh, S., Seibert, D., Williams, E., and Doussin, J.-F.: Complex refractive indices and single-scattering albedo of global dust aerosols in the shortwave spectrum and relationship to size and iron content, Atmos. Chem. Phys., 19, 15503–15531, &lt;a href=&quot;https://doi.org/10.5194/acp-19-15503-2019&quot;&gt;https://doi.org/10.5194/acp-19-15503-2019&lt;/a&gt;, 2019. &lt;a href=&quot;#xref_paren.10&quot;&gt;a&lt;/a&gt;, &lt;a href=&quot;#xref_paren.14&quot;&gt;b&lt;/a&gt;, &lt;a href=&quot;#xref_text.43&quot;&gt;c&lt;/a&gt;</reference>
+		<reference numeration="10" content_type="text">Dick, O., Viallon-Galinier, L., Tuzet, F., Hagenmuller, P., Fructus, M., Reuter, B., Lafaysse, M., and Dumont, M.: Can Saharan dust deposition impact snowpack stability in the French Alps?, The Cryosphere, 17, 1755–1773, &lt;a href=&quot;https://doi.org/10.5194/tc-17-1755-2023&quot;&gt;https://doi.org/10.5194/tc-17-1755-2023&lt;/a&gt;, 2023. &lt;a href=&quot;#xref_paren.57&quot;&gt;a&lt;/a&gt;</reference>
+		<reference numeration="11" content_type="text">Dumont, M., Tuzet, F., Gascoin, S., Picard, G., Kutuzov, S., Lafaysse, M.,
+Cluzet, B., Nheili, R., and Painter, T. H.: Accelerated snow melt in the
+Russian Caucasus mountains after the Saharan dust outbreak in March
+2018, J. Geophys. Res.-Earth, 125, e2020JF005641,
+&lt;a href=&quot;https://doi.org/10.1029/2020JF005641&quot;&gt;https://doi.org/10.1029/2020JF005641&lt;/a&gt;, 2020. &lt;a href=&quot;#xref_paren.7&quot;&gt;a&lt;/a&gt;, &lt;a href=&quot;#xref_paren.13&quot;&gt;b&lt;/a&gt;, &lt;a href=&quot;#xref_paren.28&quot;&gt;c&lt;/a&gt;, &lt;a href=&quot;#xref_text.29&quot;&gt;d&lt;/a&gt;, &lt;a href=&quot;#xref_paren.56&quot;&gt;e&lt;/a&gt;</reference>
+		<reference numeration="12" content_type="text">Dumont, M., Gascoin, S., Reveillet, M., Voisin, D., Evrard, O., Gandois, L.,
+Herbin, H., Roux, G. L., and Lefevre, I.: Dataset related to the study
+“Spatial variability of Saharan dust deposition revealed through a citizen
+science campaign”, Zenodo [data set], &lt;a href=&quot;https://doi.org/10.5281/zenodo.7969515&quot;&gt;https://doi.org/10.5281/zenodo.7969515&lt;/a&gt;, 2022a. &lt;a href=&quot;#xref_paren.1&quot;&gt;a&lt;/a&gt;, &lt;a href=&quot;#xref_paren.52&quot;&gt;b&lt;/a&gt;</reference>
+		<reference numeration="13" content_type="text">Dumont, M., Josse, B., Gascoin, S., and Reveillet, M.: Video related to the study “Spatial variability of Saharan dust deposition revealed through a citizen science campaign”, Zenodo [video], &lt;a href=&quot;https://doi.org/10.5281/zenodo.7457613&quot;&gt;https://doi.org/10.5281/zenodo.7457613&lt;/a&gt;, 2022. </reference>
+		<reference numeration="14" content_type="text">Evrard, O., Pointurier, F., Onda, Y., Chartin, C., Hubert, A., Lepage, H.,
+Pottin, A.-C., Lefèvre, I., Bonté, P., Laceby, J. P., and Ayrault,
+S.: Novel Insights into Fukushima Nuclear Accident from Isotopic Evidence of
+Plutonium Spread along Coastal Rivers, Environ. Sci. Technol.,
+48, 9334–9340, &lt;a href=&quot;https://doi.org/10.1021/es501890n&quot;&gt;https://doi.org/10.1021/es501890n&lt;/a&gt;, 2014. &lt;a href=&quot;#xref_text.26&quot;&gt;a&lt;/a&gt;</reference>
+		<reference numeration="15" content_type="text">Evrard, O., Chaboche, P.-A., Ramon, R., Foucher, A., and Laceby, J. P.: A
+global review of sediment source fingerprinting research incorporating
+fallout radiocesium (&lt;span class=&quot;inline-formula&quot;&gt;&lt;sup&gt;137&lt;/sup&gt;&lt;/span&gt;Cs), Geomorphology, 362, 107103,
+&lt;a href=&quot;https://doi.org/10.1016/j.geomorph.2020.107103&quot;&gt;https://doi.org/10.1016/j.geomorph.2020.107103&lt;/a&gt;, 2020. &lt;a href=&quot;#xref_paren.37&quot;&gt;a&lt;/a&gt;</reference>
+		<reference numeration="16" content_type="text">Flanner, M. G., Arnheim, J. B., Cook, J. M., Dang, C., He, C., Huang, X., Singh, D., Skiles, S. M., Whicker, C. A., and Zender, C. S.: SNICAR-ADv3: a community tool for modeling spectral snow albedo, Geosci. Model Dev., 14, 7673–7704, &lt;a href=&quot;https://doi.org/10.5194/gmd-14-7673-2021&quot;&gt;https://doi.org/10.5194/gmd-14-7673-2021&lt;/a&gt;, 2021. &lt;a href=&quot;#xref_paren.32&quot;&gt;a&lt;/a&gt;</reference>
+		<reference numeration="17" content_type="text">Francis, D., Fonseca, R., Nelli, N., Bozkurt, D., Picard, G., and Guan, B.:
+Atmospheric rivers drive exceptional Saharan dust transport towards Europe,
+Atmos. Res., 266, 105959,
+&lt;a href=&quot;https://doi.org/10.1016/j.atmosres.2021.105959&quot;&gt;https://doi.org/10.1016/j.atmosres.2021.105959&lt;/a&gt;, 2022. &lt;a href=&quot;#xref_paren.15&quot;&gt;a&lt;/a&gt;, &lt;a href=&quot;#xref_paren.16&quot;&gt;b&lt;/a&gt;, &lt;a href=&quot;#xref_paren.17&quot;&gt;c&lt;/a&gt;</reference>
+		<reference numeration="18" content_type="text">Gascoin, S., Grizonnet, M., Bouchet, M., Salgues, G., and Hagolle, O.: Theia Snow collection: high-resolution operational snow cover maps from Sentinel-2 and Landsat-8 data, Earth Syst. Sci. Data, 11, 493–514, &lt;a href=&quot;https://doi.org/10.5194/essd-11-493-2019&quot;&gt;https://doi.org/10.5194/essd-11-493-2019&lt;/a&gt;, 2019. &lt;a href=&quot;#xref_paren.31&quot;&gt;a&lt;/a&gt;</reference>
+		<reference numeration="19" content_type="text">Ginoux, P.: Warming or cooling dust?, Nat. Geosci., 10, 246–248,
+&lt;a href=&quot;https://doi.org/10.1038/ngeo2923&quot;&gt;https://doi.org/10.1038/ngeo2923&lt;/a&gt;, 2017. &lt;a href=&quot;#xref_paren.2&quot;&gt;a&lt;/a&gt;</reference>
+		<reference numeration="20" content_type="text">Gourdin, E., Evrard, O., Huon, S., Reyss, J.-L., Ribolzi, O., Bariac, T.,
+Sengtaheuanghoung, O., and Ayrault, S.: Spatial and temporal variability of
+&lt;span class=&quot;inline-formula&quot;&gt;&lt;sup&gt;7&lt;/sup&gt;&lt;/span&gt;Be and &lt;span class=&quot;inline-formula&quot;&gt;&lt;sup&gt;210&lt;/sup&gt;&lt;/span&gt;Pb wet deposition during four successive monsoon storms in a
+catchment of northern Laos, J. Environ. Radioactiv., 136,
+195–205, &lt;a href=&quot;https://doi.org/10.1016/j.jenvrad.2014.06.008&quot;&gt;https://doi.org/10.1016/j.jenvrad.2014.06.008&lt;/a&gt;, 2014. &lt;a href=&quot;#xref_text.38&quot;&gt;a&lt;/a&gt;</reference>
+		<reference numeration="21" content_type="text">Greilinger, M. and Kasper-Giebl, A.: Saharan Dust Records and Its Impact in the
+European Alps, Oxford University Press, &lt;a href=&quot;https://doi.org/10.1093/acrefore/9780190228620.013.827&quot;&gt;https://doi.org/10.1093/acrefore/9780190228620.013.827&lt;/a&gt;, 2021. &lt;a href=&quot;#xref_paren.5&quot;&gt;a&lt;/a&gt;</reference>
+		<reference numeration="22" content_type="text">Gross, A., Goren, T., Pio, C., Cardoso, J., Tirosh, O., Todd, M. C., Rosenfeld,
+D., Weiner, T., Custódio, D., and Angert, A.: Variability in Sources and
+Concentrations of Saharan Dust Phosphorus over the Atlantic Ocean,
+Environ. Sci. Technol., 2, 31–37,
+&lt;a href=&quot;https://doi.org/10.1021/ez500399z&quot;&gt;https://doi.org/10.1021/ez500399z&lt;/a&gt;, 2015. &lt;a href=&quot;#xref_text.50&quot;&gt;a&lt;/a&gt;</reference>
+		<reference numeration="23" content_type="text">Hagolle, O., Huc, M., Villa Pascual, D., and Dedieu, G.: A Multi-Temporal and
+Multi-Spectral Method to Estimate Aerosol Optical Thickness over Land, for
+the Atmospheric Correction of FormoSat-2, LandSat, VEN&lt;span class=&quot;inline-formula&quot;&gt;µ&lt;/span&gt;S and Sentinel-2
+Images, Remote Sens., 7, 2668–2691, &lt;a href=&quot;https://doi.org/10.3390/rs70302668&quot;&gt;https://doi.org/10.3390/rs70302668&lt;/a&gt;, 2015. &lt;a href=&quot;#xref_paren.30&quot;&gt;a&lt;/a&gt;</reference>
+		<reference numeration="24" content_type="text">Hagolle, O., Huc, M., Desjardins, C., Auer, S., and Richter, R.: MAJA Algorithm
+Theoretical Basis Document, &lt;a href=&quot;https://doi.org/10.5281/zenodo.1209633&quot;&gt;https://doi.org/10.5281/zenodo.1209633&lt;/a&gt;, 2017. &lt;a href=&quot;#xref_paren.30&quot;&gt;a&lt;/a&gt;</reference>
+		<reference numeration="25" content_type="text">He, C. and He, C.: Modelling light-absorbing particle–snow–radiation
+interactions and impacts on snow albedo: fundamentals, recent advances and
+future directions, Environ. Chem., 19, 296–311, &lt;a href=&quot;https://doi.org/10.1071/EN22013&quot;&gt;https://doi.org/10.1071/EN22013&lt;/a&gt;, 2022. &lt;a href=&quot;#xref_paren.6&quot;&gt;a&lt;/a&gt;, &lt;a href=&quot;#xref_paren.14&quot;&gt;b&lt;/a&gt;</reference>
+		<reference numeration="26" content_type="text">Herbin, H., Pujol, O., Hubert, P., and Petitprez, D.: New approach for the
+determination of aerosol refractive indices – Part I: Theoretical bases and
+numerical methodology, J. Quant. Spectrosc. Ra., 200, 311–319, &lt;a href=&quot;https://doi.org/10.1016/j.jqsrt.2017.03.005&quot;&gt;https://doi.org/10.1016/j.jqsrt.2017.03.005&lt;/a&gt;,
+2017. &lt;a href=&quot;#xref_paren.34&quot;&gt;a&lt;/a&gt;</reference>
+		<reference numeration="27" content_type="text">Hubert, P., Herbin, H., Visez, N., Pujol, O., and Petitprez, D.: New approach
+for the determination of aerosol refractive indices – Part II: Experimental
+set-up and application to amorphous silica particles, J. Quant.
+Spectrosc. Ra., 200, 320–327,
+&lt;a href=&quot;https://doi.org/10.1016/j.jqsrt.2017.03.037&quot;&gt;https://doi.org/10.1016/j.jqsrt.2017.03.037&lt;/a&gt;, 2017. &lt;a href=&quot;#xref_text.23&quot;&gt;a&lt;/a&gt;</reference>
+		<reference numeration="28" content_type="text">Josse, B., Simon, P., and Peuch, V.-H.: Radon global simulations with the
+multiscale chemistry and transport model MOCAGE, Tellus B, 56, 339–356, 2004. &lt;a href=&quot;#xref_paren.19&quot;&gt;a&lt;/a&gt;</reference>
+		<reference numeration="29" content_type="text">Kelley, J., Bond, L., and Beasley, T.: Global distribution of Pu isotopes and
+&lt;span class=&quot;inline-formula&quot;&gt;&lt;sup&gt;237&lt;/sup&gt;&lt;/span&gt;Np, Sci. Total Environ., 237-238, 483–500,
+&lt;a href=&quot;https://doi.org/10.1016/S0048-9697(99)00160-6&quot;&gt;https://doi.org/10.1016/S0048-9697(99)00160-6&lt;/a&gt;, 1999. &lt;a href=&quot;#xref_paren.44&quot;&gt;a&lt;/a&gt;</reference>
+		<reference numeration="30" content_type="text">Le Gall, M., Evrard, O., Foucher, A., Laceby, J. P., Salvador-Blanes, S.,
+Manière, L., Lefèvre, I., Cerdan, O., and Ayrault, S.: Investigating
+the temporal dynamics of suspended sediment during flood events with &lt;span class=&quot;inline-formula&quot;&gt;&lt;sup&gt;7&lt;/sup&gt;&lt;/span&gt;Be and
+&lt;span class=&quot;inline-formula&quot;&gt;&lt;sup&gt;210&lt;/sup&gt;&lt;/span&gt;Pbxs measurements in a drained lowland catchment, Sci. Rep., 7,
+42099, &lt;a href=&quot;https://doi.org/10.1038/srep42099&quot;&gt;https://doi.org/10.1038/srep42099&lt;/a&gt;, 2017. &lt;a href=&quot;#xref_text.39&quot;&gt;a&lt;/a&gt;</reference>
+		<reference numeration="31" content_type="text">Masson, O., Piga, D., Gurriaran, R., and Amico, D. D.: Impact of an exceptional
+Saharan dust outbreak in France: PM&lt;span class=&quot;inline-formula&quot;&gt;&lt;sub&gt;10&lt;/sub&gt;&lt;/span&gt; and artificial radionuclides
+concentrations in air and in dust deposit, Atmos. Environ., 44,
+2478–2486, &lt;a href=&quot;https://doi.org/10.1016/j.atmosenv.2010.03.004&quot;&gt;https://doi.org/10.1016/j.atmosenv.2010.03.004&lt;/a&gt;, 2010. &lt;a href=&quot;#xref_paren.46&quot;&gt;a&lt;/a&gt;</reference>
+		<reference numeration="32" content_type="text">Meinander, O., Alvarez Piedehierro, A., Kouznetsov, R., Rontu, L., Welti, A.,
+Kaakinen, A., Heikkinen, E., and Laaksonen, A.: Saharan dust transported and
+deposited in Finland on 23 February 2021, in: EGU General Assembly Conference
+Abstracts, EGU22–4818, &lt;a href=&quot;https://doi.org/10.5194/egusphere-egu22-4818&quot;&gt;https://doi.org/10.5194/egusphere-egu22-4818&lt;/a&gt;, 2022. &lt;a href=&quot;#xref_paren.53&quot;&gt;a&lt;/a&gt;</reference>
+		<reference numeration="33" content_type="text">Mott, R., Vionnet, V., and Grünewald, T.: The seasonal snow cover dynamics:
+review on wind-driven coupling processes, Front. Earth Sci., 6, 197, &lt;a href=&quot;https://doi.org/10.3389/feart.2018.00197&quot;&gt;https://doi.org/10.3389/feart.2018.00197&lt;/a&gt;,
+2018. &lt;a href=&quot;#xref_paren.40&quot;&gt;a&lt;/a&gt;</reference>
+		<reference numeration="34" content_type="text">Mărmureanu, L., Marin, C. A., Andrei, S., Antonescu, B., Ene, D., Boldeanu,
+M., Vasilescu, J., Viţelaru, C., Cadar, O., and Levei, E.: Orange Snow — A
+Saharan Dust Intrusion over Romania During Winter Conditions, Remote Sens.,
+11, 2466, &lt;a href=&quot;https://doi.org/10.3390/rs11212466&quot;&gt;https://doi.org/10.3390/rs11212466&lt;/a&gt;, 2019. &lt;a href=&quot;#xref_paren.10&quot;&gt;a&lt;/a&gt;</reference>
+		<reference numeration="35" content_type="text">Nickovic, S., Cvetkovic, B., Petković, S., Amiridis, V., Pejanović, G.,
+Solomos, S., Marinou, E., and Nikolic, J.: Cloud icing by mineral dust and
+impacts to aviation safety, Sci. Rep., 11, 1–9,
+&lt;a href=&quot;https://doi.org/10.1038/s41598-021-85566-y&quot;&gt;https://doi.org/10.1038/s41598-021-85566-y&lt;/a&gt;, 2021. &lt;a href=&quot;#xref_paren.2&quot;&gt;a&lt;/a&gt;</reference>
+		<reference numeration="36" content_type="text">Okin, G. S., Mahowald, N., Chadwick, O. A., and Artaxo, P.: Impact of desert
+dust on the biogeochemistry of phosphorus in terrestrial ecosystems, Global
+Biogeochem. Cy., 18, GB2005, &lt;a href=&quot;https://doi.org/10.1029/2003GB002145&quot;&gt;https://doi.org/10.1029/2003GB002145&lt;/a&gt;, 2004. &lt;a href=&quot;#xref_paren.4&quot;&gt;a&lt;/a&gt;, &lt;a href=&quot;#xref_paren.49&quot;&gt;b&lt;/a&gt;</reference>
+		<reference numeration="37" content_type="text">Pey, J., Revuelto, J., Moreno, N., Alonso-González, E., Bartolomé, M.,
+Reyes, J., Gascoin, S., and López-Moreno, J. I.: Snow Impurities in the
+Central Pyrenees: From Their Geochemical and Mineralogical Composition
+towards Their Impacts on Snow Albedo, Atmosphere, 11, 937,
+&lt;a href=&quot;https://doi.org/10.3390/atmos11090937&quot;&gt;https://doi.org/10.3390/atmos11090937&lt;/a&gt;, 2020. &lt;a href=&quot;#xref_paren.9&quot;&gt;a&lt;/a&gt;</reference>
+		<reference numeration="38" content_type="text">Réveillet, M., Dumont, M., Gascoin, S., Lafaysse, M., Nabat, P., Ribes, A.,
+Nheili, R., Tuzet, F., Ménégoz, M., Morin, S., Picard, G., and Ginoux, P.: Black carbon
+and dust alter the response of mountain snow cover under climate change,
+Nat. Commun., 13, 5279, &lt;a href=&quot;https://doi.org/10.1038/s41467-022-32501-y&quot;&gt;https://doi.org/10.1038/s41467-022-32501-y&lt;/a&gt;, 2022. &lt;a href=&quot;#xref_paren.6&quot;&gt;a&lt;/a&gt;, &lt;a href=&quot;#xref_paren.8&quot;&gt;b&lt;/a&gt;, &lt;a href=&quot;#xref_paren.55&quot;&gt;c&lt;/a&gt;, &lt;a href=&quot;#xref_paren.56&quot;&gt;d&lt;/a&gt;</reference>
+		<reference numeration="39" content_type="text">Rieger, D., Steiner, A., Bachmann, V., Gasch, P., Förstner, J., Deetz, K., Vogel, B., and Vogel, H.: Impact of the 4 April 2014 Saharan dust outbreak on the photovoltaic power generation in Germany, Atmos. Chem. Phys., 17, 13391–13415, &lt;a href=&quot;https://doi.org/10.5194/acp-17-13391-2017&quot;&gt;https://doi.org/10.5194/acp-17-13391-2017&lt;/a&gt;, 2017. &lt;a href=&quot;#xref_paren.2&quot;&gt;a&lt;/a&gt;</reference>
+		<reference numeration="40" content_type="text">Schladitz, A., Müller, T., Kaaden, N., Massling, A., Kandler, K., Ebert, M.,
+Weinbruch, S., Deutscher, C., and Wiedensohler, A.: In situ measurements of
+optical properties at Tinfou (Morocco) during the Saharan Mineral Dust
+Experiment SAMUM 2006, Tellus B, 61,
+64–78, &lt;a href=&quot;https://doi.org/10.1111/j.1600-0889.2008.00397.x&quot;&gt;https://doi.org/10.1111/j.1600-0889.2008.00397.x&lt;/a&gt;, 2009. &lt;a href=&quot;#xref_paren.25&quot;&gt;a&lt;/a&gt;</reference>
+		<reference numeration="41" content_type="text">Skiles, S. M. and Painter, T. H.: Toward Understanding Direct Absorption and
+Grain Size Feedbacks by Dust Radiative Forcing in Snow With Coupled Snow
+Physical and Radiative Transfer Modeling, Water Resour. Res., 55,
+7362–7378, &lt;a href=&quot;https://doi.org/10.1029/2018WR024573&quot;&gt;https://doi.org/10.1029/2018WR024573&lt;/a&gt;, 2019. &lt;a href=&quot;#xref_paren.11&quot;&gt;a&lt;/a&gt;</reference>
+		<reference numeration="42" content_type="text">Skiles, S. M., Flanner, M., Cook, J. M., Dumont, M., and Painter, T. H.:
+Radiative forcing by light-absorbing particles in snow, Nat. Clim.
+Change, 8, 964–971, 2018. &lt;a href=&quot;#xref_paren.6&quot;&gt;a&lt;/a&gt;, &lt;a href=&quot;#xref_paren.14&quot;&gt;b&lt;/a&gt;</reference>
+		<reference numeration="43" content_type="text">Tobías, A. and Stafoggia, M.: Modeling desert dust exposures in
+epidemiologic short-term health effects studies, Environ. Epidemiol., 31, 788–795, &lt;a href=&quot;https://doi.org/10.1097/EDE.0000000000001255&quot;&gt;https://doi.org/10.1097/EDE.0000000000001255&lt;/a&gt;, 2020. &lt;a href=&quot;#xref_paren.3&quot;&gt;a&lt;/a&gt;</reference>
+		<reference numeration="44" content_type="text">Tuzet, F., Dumont, M., Arnaud, L., Voisin, D., Lamare, M., Larue, F., Revuelto, J., and Picard, G.: Influence of light-absorbing particles on snow spectral irradiance profiles, The Cryosphere, 13, 2169–2187, &lt;a href=&quot;https://doi.org/10.5194/tc-13-2169-2019&quot;&gt;https://doi.org/10.5194/tc-13-2169-2019&lt;/a&gt;, 2019. &lt;a href=&quot;#xref_paren.12&quot;&gt;a&lt;/a&gt;, &lt;a href=&quot;#xref_paren.18&quot;&gt;b&lt;/a&gt;</reference>
+		<reference numeration="45" content_type="text">UNSCEAR: Effects of Ionizing Radiation, United Nations Scientific Committee on
+the Effects of Atomic Radiation (UNSCEAR) 2006 Report, Volume I: Report to
+the General Assembly, Scientific Annexes A and B, United Nations, 2008. &lt;a href=&quot;#xref_paren.45&quot;&gt;a&lt;/a&gt;, &lt;a href=&quot;#xref_altparen.48&quot;&gt;b&lt;/a&gt;</reference>
+		<reference numeration="46" content_type="text">Varga, G.: Changing nature of Saharan dust deposition in the Carpathian Basin
+(Central Europe): 40 years of identified North African dust events
+(1979–2018), Environment International, 139, 105712,
+&lt;a href=&quot;https://doi.org/10.1016/j.envint.2020.105712&quot;&gt;https://doi.org/10.1016/j.envint.2020.105712&lt;/a&gt;, 2020. &lt;a href=&quot;#xref_paren.2&quot;&gt;a&lt;/a&gt;, &lt;a href=&quot;#xref_paren.17&quot;&gt;b&lt;/a&gt;</reference>
+		<reference numeration="47" content_type="text">Varga, G., Dagsson-Waldhauserová, P., Gresina, F., and Helgadottir, A.:
+Saharan dust and giant quartz particle transport towards Iceland, Sci.
+Rep., 11, 1–12, 2021. &lt;a href=&quot;#xref_paren.41&quot;&gt;a&lt;/a&gt;</reference>
+		<reference numeration="48" content_type="text">Vernay, M., Lafaysse, M., Monteiro, D., Hagenmuller, P., Nheili, R., Samacoïts, R., Verfaillie, D., and Morin, S.: The S2M meteorological and snow cover reanalysis over the French mountainous areas: description and evaluation (1958–2021), Earth Syst. Sci. Data, 14, 1707–1733, &lt;a href=&quot;https://doi.org/10.5194/essd-14-1707-2022&quot;&gt;https://doi.org/10.5194/essd-14-1707-2022&lt;/a&gt;, 2022.
+ &lt;a href=&quot;#xref_paren.20&quot;&gt;a&lt;/a&gt;</reference>
+		<reference numeration="49" content_type="text">Yu, H., Chin, M., Yuan, T., Bian, H., Remer, L. A., Prospero, J. M., Omar, A.,
+Winker, D., Yang, Y., Zhang, Y., Zhang, Z., and Zhao, C.: The fertilizing
+role of African dust in the Amazon rainforest: A first multiyear assessment
+based on data from Cloud-Aerosol Lidar and Infrared Pathfinder Satellite
+Observations, Geophys. Res. Lett., 42, 1984–1991,
+&lt;a href=&quot;https://doi.org/10.1002/2015GL063040&quot;&gt;https://doi.org/10.1002/2015GL063040&lt;/a&gt;, 2015. &lt;a href=&quot;#xref_paren.4&quot;&gt;a&lt;/a&gt;</reference>
+	</references>
+</article>

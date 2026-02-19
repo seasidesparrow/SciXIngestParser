@@ -1,0 +1,74 @@
+{
+  "abstract": {
+    "textEnglish": "Presentation slides"
+  },
+  "authors": [
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Max Planck Computing and Data Facility, Garching, Germany"
+        }
+      ],
+      "name": {
+        "given_name": "Johannes",
+        "surname": "Reetz"
+      }
+    }
+  ],
+  "doctype": "misc",
+  "keywords": [
+    {
+      "keyString": "Science data management",
+      "keySystem": "datacite"
+    }
+  ],
+  "openAccess": {
+    "license": "Creative Commons Attribution 4.0 International",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "open": true
+  },
+  "persistentIDs": [
+    {
+      "DOI": "10.5281/zenodo.34650"
+    }
+  ],
+  "pubDate": {
+    "electrDate": "2015",
+    "otherDate": [
+      {
+        "otherDateType": "Issued",
+        "otherDateValue": "2015-12-03"
+      }
+    ]
+  },
+  "publication": {
+    "pubYear": "2015",
+    "publisher": "Zenodo"
+  },
+  "publisherIDs": [
+    {
+      "Identifier": "oai:zenodo.org:34650",
+      "attribute": "oai"
+    }
+  ],
+  "recordData": {
+    "createdTime": "",
+    "loadFormat": "OtherXML",
+    "loadLocation": "",
+    "loadType": "fromFile",
+    "parsedTime": "",
+    "recordOrigin": ""
+  },
+  "relatedTo": [
+    {
+      "relationship": "related"
+    },
+    {
+      "relatedDocID": "https://zenodo.org/communities/sciops2015",
+      "relationship": "related"
+    }
+  ],
+  "title": {
+    "textEnglish": "EUDAT - Open Data Services for Research"
+  }
+}

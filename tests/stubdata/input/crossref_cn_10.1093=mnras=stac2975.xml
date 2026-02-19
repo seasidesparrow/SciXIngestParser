@@ -1,0 +1,1047 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doi_records>
+  <doi_record owner="10.1093" timestamp="2022-11-10 14:30:08">
+    <crossref>
+      <journal>
+        <journal_metadata language="en">
+          <full_title>Monthly Notices of the Royal Astronomical Society</full_title>
+          <issn media_type="print">0035-8711</issn>
+          <issn media_type="electronic">1365-2966</issn>
+        </journal_metadata>
+        <journal_issue>
+          <publication_date media_type="other">
+            <month>12</month>
+            <year>2022</year>
+          </publication_date>
+          <publication_date media_type="print">
+            <month>11</month>
+            <day>10</day>
+            <year>2022</year>
+          </publication_date>
+          <journal_volume>
+            <volume>517</volume>
+          </journal_volume>
+          <issue>4</issue>
+        </journal_issue>
+        <journal_article publication_type="full_text">
+          <titles>
+            <title>Data mining techniques on astronomical spectra data – I. Clustering analysis</title>
+          </titles>
+          <contributors>
+            <person_name sequence="first" contributor_role="author">
+              <given_name>Haifeng</given_name>
+              <surname>Yang</surname>
+              <affiliations>
+                <institution>
+                  <institution_name>School of Computer Science and Technology, Taiyuan University of Science and Technology , Taiyuan 030024, China</institution_name>
+                </institution>
+              </affiliations>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Chenhui</given_name>
+              <surname>Shi</surname>
+              <affiliations>
+                <institution>
+                  <institution_name>School of Computer Science and Technology, Taiyuan University of Science and Technology , Taiyuan 030024, China</institution_name>
+                </institution>
+              </affiliations>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Jianghui</given_name>
+              <surname>Cai</surname>
+              <affiliations>
+                <institution>
+                  <institution_name>School of Computer Science and Technology, Taiyuan University of Science and Technology , Taiyuan 030024, China</institution_name>
+                </institution>
+                <institution>
+                  <institution_name>School of Computer Science and Technology, North University of China , Taiyuan 030051, China</institution_name>
+                </institution>
+              </affiliations>
+              <ORCID>http://orcid.org/0000-0001-6945-8093</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Lichan</given_name>
+              <surname>Zhou</surname>
+              <affiliations>
+                <institution>
+                  <institution_name>School of Computer Science and Technology, Taiyuan University of Science and Technology , Taiyuan 030024, China</institution_name>
+                </institution>
+              </affiliations>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Yuqing</given_name>
+              <surname>Yang</surname>
+              <affiliations>
+                <institution>
+                  <institution_name>School of Computer Science and Technology, Taiyuan University of Science and Technology , Taiyuan 030024, China</institution_name>
+                </institution>
+              </affiliations>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Xujun</given_name>
+              <surname>Zhao</surname>
+              <affiliations>
+                <institution>
+                  <institution_name>School of Computer Science and Technology, Taiyuan University of Science and Technology , Taiyuan 030024, China</institution_name>
+                </institution>
+              </affiliations>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Yanting</given_name>
+              <surname>He</surname>
+              <affiliations>
+                <institution>
+                  <institution_name>School of Computer Science and Technology, Taiyuan University of Science and Technology , Taiyuan 030024, China</institution_name>
+                </institution>
+              </affiliations>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Jing</given_name>
+              <surname>Hao</surname>
+              <affiliations>
+                <institution>
+                  <institution_name>School of Computer Science and Technology, Taiyuan University of Science and Technology , Taiyuan 030024, China</institution_name>
+                </institution>
+              </affiliations>
+            </person_name>
+          </contributors>
+          <abstract>
+            <title>ABSTRACT</title>
+            <p>Clustering is an effective tool for astronomical spectral analysis, to mine clustering patterns among data. With the implementation of large sky surveys, many clustering methods have been applied to tackle spectroscopic and photometric data effectively and automatically. Meanwhile, the performance of clustering methods under different data characteristics varies greatly. With the aim of summarizing astronomical spectral clustering algorithms and laying the foundation for further research, this work gives a review of clustering methods applied to astronomical spectra data in three parts. First, many clustering methods for astronomical spectra are investigated and analysed theoretically, looking at algorithmic ideas, applications, and features. Secondly, experiments are carried out on unified datasets constructed using three criteria (spectra data type, spectra quality, and data volume) to compare the performance of typical algorithms; spectra data are selected from the Large Sky Area Multi-Object Fibre Spectroscopic Telescope (LAMOST) survey and Sloan Digital Sky Survey (SDSS). Finally, source codes of the comparison clustering algorithms and manuals for usage and improvement are provided on GitHub.</p>
+          </abstract>
+          <publication_date media_type="other">
+            <month>12</month>
+            <year>2022</year>
+          </publication_date>
+          <publication_date media_type="print">
+            <month>11</month>
+            <day>10</day>
+            <year>2022</year>
+          </publication_date>
+          <publication_date media_type="online">
+            <month>09</month>
+            <day>20</day>
+            <year>2022</year>
+          </publication_date>
+          <pages>
+            <first_page>5496</first_page>
+            <last_page>5523</last_page>
+          </pages>
+          <program name="fundref">
+            <assertion name="fundgroup">
+              <assertion name="funder_name">
+                Chinese Academy of Sciences
+                <assertion name="funder_identifier">http://dx.doi.org/10.13039/501100002367</assertion>
+              </assertion>
+            </assertion>
+            <assertion name="fundgroup">
+              <assertion name="funder_name">
+                National Development and Reform Commission
+                <assertion name="funder_identifier">http://dx.doi.org/10.13039/501100010453</assertion>
+              </assertion>
+            </assertion>
+            <assertion name="fundgroup">
+              <assertion name="funder_name">
+                National Natural Science Foundation of China
+                <assertion name="funder_identifier">http://dx.doi.org/10.13039/501100001809</assertion>
+              </assertion>
+              <assertion name="award_number">U1931209</assertion>
+            </assertion>
+            <assertion name="fundgroup">
+              <assertion name="funder_name">
+                Key Research and Development Project of Shanxi Province
+                <assertion name="funder_identifier">http://dx.doi.org/10.13039/501100013317</assertion>
+              </assertion>
+              <assertion name="award_number">201903D121116</assertion>
+            </assertion>
+            <assertion name="fundgroup">
+              <assertion name="funder_name">
+                Science and Technology Development Fund
+                <assertion name="funder_identifier">http://dx.doi.org/10.13039/501100003009</assertion>
+              </assertion>
+              <assertion name="award_number">20201070</assertion>
+            </assertion>
+            <assertion name="fundgroup">
+              <assertion name="funder_name">Fundamental Research Program of Shanxi Province</assertion>
+              <assertion name="award_number">20210302123223</assertion>
+              <assertion name="award_number">202103021224275</assertion>
+            </assertion>
+          </program>
+          <program name="AccessIndicators">
+            <license_ref applies_to="vor">https://academic.oup.com/journals/pages/open_access/funder_policies/chorus/standard_publication_model</license_ref>
+          </program>
+          <doi_data>
+            <doi>10.1093/mnras/stac2975</doi>
+            <resource>https://academic.oup.com/mnras/article/517/4/5496/6764744</resource>
+            <collection property="crawler-based">
+              <item crawler="iParadigms">
+                <resource>https://academic.oup.com/mnras/article-pdf/517/4/5496/46951728/stac2975.pdf</resource>
+              </item>
+            </collection>
+            <collection property="syndication">
+              <item>
+                <resource mime_type="application/pdf" content_version="am">https://academic.oup.com/mnras/advance-article-pdf/doi/10.1093/mnras/stac2975/46581646/stac2975.pdf</resource>
+              </item>
+              <item>
+                <resource mime_type="application/pdf" content_version="vor">https://academic.oup.com/mnras/article-pdf/517/4/5496/46951728/stac2975.pdf</resource>
+              </item>
+            </collection>
+          </doi_data>
+          <citation_list>
+            <citation key="2022111019292998700_bib1">
+              <journal_title>MNRAS</journal_title>
+              <author>Acuner</author>
+              <volume>475</volume>
+              <first_page>1708</first_page>
+              <cYear>2018</cYear>
+              <doi>10.1093/mnras/stx3106</doi>
+            </citation>
+            <citation key="2022111019292998700_bib2">
+              <journal_title>MNRAS</journal_title>
+              <author>Armstrong</author>
+              <volume>452</volume>
+              <first_page>3159</first_page>
+              <cYear>2015</cYear>
+              <doi>10.1093/mnras/stv1398</doi>
+            </citation>
+            <citation key="2022111019292998700_bib3">
+              <journal_title>International Encyclopedia of Education</journal_title>
+              <author>Baker</author>
+              <volume>7</volume>
+              <first_page>112</first_page>
+              <cYear>2010</cYear>
+              <doi provider="crossref">10.1016/B978-0-08-044894-7.01318-X</doi>
+            </citation>
+            <citation key="2022111019292998700_bib4">
+              <journal_title>A&amp;A</journal_title>
+              <author>Balazs</author>
+              <volume>311</volume>
+              <first_page>145</first_page>
+              <cYear>1996</cYear>
+            </citation>
+            <citation key="2022111019292998700_bib5">
+              <journal_title>Ap&amp;SS</journal_title>
+              <author>Bazarghan</author>
+              <volume>337</volume>
+              <first_page>93</first_page>
+              <cYear>2011</cYear>
+              <doi>10.1007/s10509-011-0822-7</doi>
+            </citation>
+            <citation key="2022111019292998700_bib6">
+              <journal_title>MNRAS</journal_title>
+              <author>Beck</author>
+              <volume>457</volume>
+              <first_page>362</first_page>
+              <cYear>2016</cYear>
+              <doi>10.1093/mnras/stv2986</doi>
+            </citation>
+            <citation key="2022111019292998700_bib7">
+              <volume_title>Data Mining Techniques: For Marketing, Sales, and Customer Relationship Management</volume_title>
+              <author>Berry</author>
+              <edition_number>3rd edn.</edition_number>
+              <cYear>1997</cYear>
+            </citation>
+            <citation key="2022111019292998700_bib8">
+              <journal_title>A&amp;A</journal_title>
+              <author>Blanco-Cuaresma</author>
+              <volume>577</volume>
+              <first_page>A47</first_page>
+              <cYear>2015</cYear>
+              <doi>10.1051/0004-6361/201425232</doi>
+            </citation>
+            <citation key="2022111019292998700_bib9">
+              <journal_title>ApJ</journal_title>
+              <author>Bu</author>
+              <volume>817</volume>
+              <first_page>78</first_page>
+              <cYear>2016</cYear>
+              <doi>10.3847/0004-637X/817/1/78</doi>
+            </citation>
+            <citation key="2022111019292998700_bib10">
+              <journal_title>JA&amp;A</journal_title>
+              <author>Cai</author>
+              <volume>41</volume>
+              <first_page>15</first_page>
+              <cYear>2020</cYear>
+              <doi>10.1007/s12036-020-09634-x</doi>
+            </citation>
+            <citation key="2022111019292998700_bib11">
+              <journal_title>ACM Trans. Knowl. Discov. Data</journal_title>
+              <author>Cai</author>
+              <volume>16</volume>
+              <first_page>1</first_page>
+              <cYear>2022</cYear>
+              <doi>10.1145/3522592</doi>
+            </citation>
+            <citation key="2022111019292998700_bib12">
+              <journal_title>Spectroscopy and Spectral Analysis</journal_title>
+              <author>Cai-Xia</author>
+              <volume>40</volume>
+              <first_page>1304</first_page>
+              <cYear>2020</cYear>
+            </citation>
+            <citation key="2022111019292998700_bib13">
+              <journal_title>Phys. Rev. D</journal_title>
+              <author>Carlson</author>
+              <volume>88</volume>
+              <first_page>043006</first_page>
+              <cYear>2013</cYear>
+              <doi>10.1103/PhysRevD.88.043006</doi>
+            </citation>
+            <citation key="2022111019292998700_bib14">
+              <journal_title>A&amp;A</journal_title>
+              <author>Castro-Ginard</author>
+              <volume>661</volume>
+              <first_page>A118</first_page>
+              <cYear>2022</cYear>
+              <doi>10.1051/0004-6361/202142568</doi>
+            </citation>
+            <citation key="2022111019292998700_bib15">
+              <journal_title>MNRAS</journal_title>
+              <author>Chattopadhyay</author>
+              <volume>469</volume>
+              <first_page>3374</first_page>
+              <cYear>2017</cYear>
+              <doi>10.1093/mnras/stx1024</doi>
+            </citation>
+            <citation key="2022111019292998700_bib16">
+              <journal_title>ApJ</journal_title>
+              <author>Chattopadhyay</author>
+              <volume>750</volume>
+              <first_page>91</first_page>
+              <cYear>2012</cYear>
+              <doi>10.1088/0004-637X/750/2/91</doi>
+            </citation>
+            <citation key="2022111019292998700_bib18">
+              <journal_title>Res. Astron. Astrophys.</journal_title>
+              <author>Chen</author>
+              <volume>18</volume>
+              <first_page>073</first_page>
+              <cYear>2018</cYear>
+              <doi>10.1088/1674-4527/18/6/73</doi>
+            </citation>
+            <citation key="2022111019292998700_bib17">
+              <journal_title>ApJ</journal_title>
+              <author>Chen</author>
+              <volume>860</volume>
+              <first_page>70</first_page>
+              <cYear>2018</cYear>
+              <doi>10.3847/1538-4357/aac325</doi>
+            </citation>
+            <citation key="2022111019292998700_bib19">
+              <volume_title>Proc. 14th International Conference on Pattern Recognition</volume_title>
+              <author>Connell</author>
+              <first_page>182</first_page>
+              <cYear>1998</cYear>
+            </citation>
+            <citation key="2022111019292998700_bib20">
+              <journal_title>Elect. J. Stat.</journal_title>
+              <author>Couillet</author>
+              <volume>10</volume>
+              <first_page>1393</first_page>
+              <cYear>2016</cYear>
+              <doi>10.1214/16-EJS1144</doi>
+            </citation>
+            <citation key="2022111019292998700_bib21">
+              <journal_title>AJ</journal_title>
+              <author>Dehghan</author>
+              <volume>147</volume>
+              <first_page>52</first_page>
+              <cYear>2014</cYear>
+              <doi>10.1088/0004-6256/147/3/52</doi>
+            </citation>
+            <citation key="2022111019292998700_bib22">
+              <volume_title>10th International Congress on Image and Signal Processing, BioMedical Engineering and Informatics (CISP-BMEI)</volume_title>
+              <author>Deng</author>
+              <first_page>1</first_page>
+              <cYear>2017</cYear>
+            </citation>
+            <citation key="2022111019292998700_bib23">
+              <volume_title>Proc. International Conference on Image Processing</volume_title>
+              <author>Dorai</author>
+              <first_page>340</first_page>
+              <cYear>1995</cYear>
+              <doi>10.1109/ICIP.1995.538548</doi>
+            </citation>
+            <citation key="2022111019292998700_bib24">
+              <volume_title>12th International Conference on Computational Intelligence and Security (CIS)</volume_title>
+              <author>Du</author>
+              <first_page>134</first_page>
+              <cYear>2016</cYear>
+              <doi>10.1109/CIS.2016.0039</doi>
+            </citation>
+            <citation key="2022111019292998700_bib25">
+              <journal_title>MNRAS</journal_title>
+              <author>Duarte-Cabral</author>
+              <volume>500</volume>
+              <first_page>3027</first_page>
+              <cYear>2021</cYear>
+              <doi>10.1093/mnras/staa2480</doi>
+            </citation>
+            <citation key="2022111019292998700_bib26">
+              <volume_title>Biological Sequence Analysis: Probabilistic Models of Proteins and Nucleic Acids</volume_title>
+              <author>Durbin</author>
+              <cYear>1998</cYear>
+              <doi provider="crossref">10.1017/CBO9780511790492</doi>
+            </citation>
+            <citation key="2022111019292998700_bib27">
+              <volume_title>Social Network Analysis: An Introduction</volume_title>
+              <author>Everton</author>
+              <first_page>3</first_page>
+              <cYear>2012</cYear>
+              <doi>10.1017/CBO9781139136877.003</doi>
+            </citation>
+            <citation key="2022111019292998700_bib28">
+              <volume_title>2022 International Conference on Electrical, Computer and Energy Technologies (ICECET)</volume_title>
+              <author>Fielding</author>
+              <first_page>1</first_page>
+              <cYear>2022</cYear>
+              <doi>10.1109/ICECET55527.2022.9872611</doi>
+            </citation>
+            <citation key="2022111019292998700_bib29">
+              <volume_title>Computer Vision: A Modern Approach</volume_title>
+              <author>Forsyth</author>
+              <edition_number>2nd edn.</edition_number>
+              <cYear>2011</cYear>
+            </citation>
+            <citation key="2022111019292998700_bib30">
+              <journal_title>Environ. Plan. A</journal_title>
+              <author>Fotheringham</author>
+              <volume>30</volume>
+              <first_page>1905</first_page>
+              <cYear>1998</cYear>
+              <doi provider="crossref">10.1068/a301905</doi>
+            </citation>
+            <citation key="2022111019292998700_bib31">
+              <journal_title>A&amp;A</journal_title>
+              <author>Fraix-Burnet</author>
+              <volume>545</volume>
+              <first_page>A80</first_page>
+              <cYear>2012</cYear>
+              <doi>10.1051/0004-6361/201218769</doi>
+            </citation>
+            <citation key="2022111019292998700_bib32">
+              <journal_title>Expert Syst. Appl.</journal_title>
+              <author>Fustes</author>
+              <volume>40</volume>
+              <first_page>1530</first_page>
+              <cYear>2013</cYear>
+              <doi>10.1016/j.eswa.2012.08.069</doi>
+            </citation>
+            <citation key="2022111019292998700_bib33">
+              <journal_title>ApJ</journal_title>
+              <author>Gao</author>
+              <volume>894</volume>
+              <first_page>48</first_page>
+              <cYear>2020</cYear>
+              <doi>10.3847/1538-4357/ab8560</doi>
+            </citation>
+            <citation key="2022111019292998700_bib34">
+              <journal_title>Res. Astron. Astrophys.</journal_title>
+              <author>Gao</author>
+              <volume>14</volume>
+              <first_page>159</first_page>
+              <cYear>2014</cYear>
+              <doi>10.1088/1674-4527/14/2/004</doi>
+            </citation>
+            <citation key="2022111019292998700_bib35">
+              <journal_title>Res. Astron. Astrophys.</journal_title>
+              <author>Gao</author>
+              <volume>15</volume>
+              <first_page>2193</first_page>
+              <cYear>2015</cYear>
+              <doi>10.1088/1674-4527/15/12/007</doi>
+            </citation>
+            <citation key="2022111019292998700_bib36">
+              <journal_title>A&amp;A</journal_title>
+              <author>Garcia-Dias</author>
+              <volume>612</volume>
+              <first_page>A98</first_page>
+              <cYear>2018</cYear>
+              <doi>10.1051/0004-6361/201732134</doi>
+            </citation>
+            <citation key="2022111019292998700_bib37">
+              <journal_title>A&amp;A</journal_title>
+              <author>Garcia-Dias</author>
+              <volume>629</volume>
+              <first_page>A34</first_page>
+              <cYear>2019</cYear>
+              <doi>10.1051/0004-6361/201935223</doi>
+            </citation>
+            <citation key="2022111019292998700_bib38">
+              <volume_title>IEEE Trans. Parallel Distrib. Syst.</volume_title>
+              <author>Gowanlock</author>
+              <first_page>2595</first_page>
+              <cYear>2017</cYear>
+              <doi>10.1109/TPDS.2017.2675421</doi>
+            </citation>
+            <citation key="2022111019292998700_bib39">
+              <volume_title>in Proc. 1998 ACM SIGMOD International Conference on Management of Data (SIGMOD ’98</volume_title>
+              <author>Guha</author>
+              <first_page>73</first_page>
+              <cYear>1998</cYear>
+              <doi>10.1145/276304.276312</doi>
+            </citation>
+            <citation key="2022111019292998700_bib40">
+              <journal_title>Nature</journal_title>
+              <author>Harris</author>
+              <volume>585</volume>
+              <first_page>357</first_page>
+              <cYear>2020</cYear>
+              <doi>10.1038/s41586-020-2649-2</doi>
+            </citation>
+            <citation key="2022111019292998700_bib41">
+              <journal_title>MNRAS</journal_title>
+              <author>Hayes</author>
+              <volume>494</volume>
+              <first_page>4492</first_page>
+              <cYear>2020</cYear>
+              <doi>10.1093/mnras/staa978</doi>
+            </citation>
+            <citation key="2022111019292998700_bib42">
+              <journal_title>ApJ</journal_title>
+              <author>Hogg</author>
+              <volume>833</volume>
+              <first_page>262</first_page>
+              <cYear>2016</cYear>
+              <doi>10.3847/1538-4357/833/2/262</doi>
+            </citation>
+            <citation key="2022111019292998700_bib43">
+              <journal_title>Comput. Sci. Eng.</journal_title>
+              <author>Hunter</author>
+              <volume>9</volume>
+              <first_page>90</first_page>
+              <cYear>2007</cYear>
+              <doi>10.1109/MCSE.2007.55</doi>
+            </citation>
+            <citation key="2022111019292998700_bib44">
+              <journal_title>A&amp;A</journal_title>
+              <author>in der Au</author>
+              <volume>547</volume>
+              <first_page>A115</first_page>
+              <cYear>2012</cYear>
+              <doi>10.1051/0004-6361/201219958</doi>
+            </citation>
+            <citation key="2022111019292998700_bib45">
+              <journal_title>MNRAS</journal_title>
+              <author>Iwasaki</author>
+              <volume>488</volume>
+              <first_page>4106</first_page>
+              <cYear>2019</cYear>
+              <doi>10.1093/mnras/stz1990</doi>
+            </citation>
+            <citation key="2022111019292998700_bib46">
+              <author>Jin</author>
+              <cYear>2022</cYear>
+            </citation>
+            <citation key="2022111019292998700_bib47">
+              <journal_title>Biological Theory</journal_title>
+              <author>Kaplan</author>
+              <volume>7</volume>
+              <first_page>401</first_page>
+              <cYear>2013</cYear>
+              <doi>10.1007/s13752-012-0048-0</doi>
+            </citation>
+            <citation key="2022111019292998700_bib48">
+              <journal_title>Computer</journal_title>
+              <author>Karypis</author>
+              <volume>32</volume>
+              <first_page>68</first_page>
+              <cYear>1999</cYear>
+              <doi>10.1109/2.781637</doi>
+            </citation>
+            <citation key="2022111019292998700_bib49">
+              <journal_title>Ap&amp;SS</journal_title>
+              <author>Kheirdastan</author>
+              <volume>361</volume>
+              <first_page>304</first_page>
+              <cYear>2016</cYear>
+              <doi>10.1007/s10509-016-2880-3</doi>
+            </citation>
+            <citation key="2022111019292998700_bib50">
+              <volume_title>Proc. 38th Annual Hawaii International Conference on System Sciences</volume_title>
+              <author>Kiang</author>
+              <first_page>73b</first_page>
+              <cYear>2005</cYear>
+              <doi>10.1109/HICSS.2005.590</doi>
+            </citation>
+            <citation key="2022111019292998700_bib51">
+              <journal_title>MNRAS</journal_title>
+              <author>Kiar</author>
+              <volume>472</volume>
+              <first_page>1074</first_page>
+              <cYear>2017</cYear>
+              <doi>10.1093/mnras/stx2037</doi>
+            </citation>
+            <citation key="2022111019292998700_bib52">
+              <author>Kuhn</author>
+              <cYear>2017</cYear>
+            </citation>
+            <citation key="2022111019292998700_bib53">
+              <volume_title>Academic Press Library in Signal Processing, Vol. 1</volume_title>
+              <author>Lam</author>
+              <first_page>1115</first_page>
+              <cYear>2014</cYear>
+              <doi>10.1016/B978-0-12-396502-8.00020-6</doi>
+            </citation>
+            <citation key="2022111019292998700_bib54">
+              <journal_title>IEEE Access</journal_title>
+              <author>Li</author>
+              <volume>7</volume>
+              <first_page>74683</first_page>
+              <cYear>2019</cYear>
+              <doi>10.1109/ACCESS.2019.2921320</doi>
+            </citation>
+            <citation key="2022111019292998700_bib55">
+              <journal_title>Expert Syst. Appl.</journal_title>
+              <author>Liang</author>
+              <volume>193</volume>
+              <first_page>116410</first_page>
+              <cYear>2022</cYear>
+              <doi>10.1016/j.eswa.2021.116410</doi>
+            </citation>
+            <citation key="2022111019292998700_bib56">
+              <journal_title>A&amp;A</journal_title>
+              <author>Logan</author>
+              <volume>633</volume>
+              <first_page>A154</first_page>
+              <cYear>2020</cYear>
+              <doi>10.1051/0004-6361/201936648</doi>
+            </citation>
+            <citation key="2022111019292998700_bib57">
+              <volume_title>Proc. Conf. Ser. Vol. 5496, Advanced Software, Control, and Communication Systems for Astronomy</volume_title>
+              <author>Luo</author>
+              <first_page>756</first_page>
+              <cYear>2004</cYear>
+              <doi>10.1117/12.548737</doi>
+            </citation>
+            <citation key="2022111019292998700_bib58">
+              <volume_title>Proc. Conf. Ser. Vol. 7019, Advanced Software and Control for Astronomy II</volume_title>
+              <author>Luo</author>
+              <first_page>701935</first_page>
+              <cYear>2008</cYear>
+              <doi>10.1117/12.788251</doi>
+            </citation>
+            <citation key="2022111019292998700_bib59">
+              <volume_title>Setting the scene for Gaia and LAMOST, Vol. 298</volume_title>
+              <author>Luo</author>
+              <first_page>428</first_page>
+              <cYear>2014</cYear>
+              <doi>10.1017/S1743921313006947</doi>
+            </citation>
+            <citation key="2022111019292998700_bib60">
+              <journal_title>Res. Astron. Astrophys.</journal_title>
+              <author>Luo</author>
+              <volume>15</volume>
+              <first_page>1095</first_page>
+              <cYear>2015</cYear>
+              <doi>10.1088/1674-4527/15/8/002</doi>
+            </citation>
+            <citation key="2022111019292998700_bib61">
+              <volume_title>2017 International Conference on Computing Methodologies and Communication (ICCMC)</volume_title>
+              <author>Madhusudan</author>
+              <first_page>526</first_page>
+              <cYear>2017</cYear>
+              <doi>10.1109/ICCMC.2017.8282521</doi>
+            </citation>
+            <citation key="2022111019292998700_bib62">
+              <journal_title>MNRAS</journal_title>
+              <author>Mahajan</author>
+              <volume>478</volume>
+              <first_page>4336</first_page>
+              <cYear>2018</cYear>
+              <doi>10.1093/mnras/sty1370</doi>
+            </citation>
+            <citation key="2022111019292998700_bib63">
+              <author>McInnes</author>
+              <cYear>2018</cYear>
+            </citation>
+            <citation key="2022111019292998700_bib64">
+              <volume_title>IEEE Symposium Series on Computational Intelligence (SSCI)</volume_title>
+              <author>Merényi</author>
+              <first_page>1</first_page>
+              <cYear>2016</cYear>
+              <doi>10.1109/SSCI.2016.7849952</doi>
+            </citation>
+            <citation key="2022111019292998700_bib65">
+              <journal_title>A&amp;A</journal_title>
+              <author>Meusinger</author>
+              <volume>597</volume>
+              <first_page>A134</first_page>
+              <cYear>2017</cYear>
+              <doi>10.1051/0004-6361/201629139</doi>
+            </citation>
+            <citation key="2022111019292998700_bib66">
+              <journal_title>ApJ</journal_title>
+              <author>Morales-Luis</author>
+              <volume>743</volume>
+              <first_page>77</first_page>
+              <cYear>2011</cYear>
+              <doi>10.1088/0004-637X/743/1/77</doi>
+            </citation>
+            <citation key="2022111019292998700_bib67">
+              <journal_title>MNRAS</journal_title>
+              <author>Mosby</author>
+              <volume>447</volume>
+              <first_page>1638</first_page>
+              <cYear>2015</cYear>
+              <doi>10.1093/mnras/stu2531</doi>
+            </citation>
+            <citation key="2022111019292998700_bib68">
+              <volume_title>Handbook of Computational Statistics</volume_title>
+              <author>Ng</author>
+              <first_page>139</first_page>
+              <cYear>2012</cYear>
+              <doi provider="crossref">10.1007/978-3-642-21551-3_6</doi>
+            </citation>
+            <citation key="2022111019292998700_bib69">
+              <journal_title>MNRAS</journal_title>
+              <author>Oliver</author>
+              <volume>501</volume>
+              <first_page>4420</first_page>
+              <cYear>2021</cYear>
+              <doi>10.1093/mnras/staa3879</doi>
+            </citation>
+            <citation key="2022111019292998700_bib70">
+              <journal_title>J. Ecol.</journal_title>
+              <author>Openshaw</author>
+              <volume>74</volume>
+              <first_page>313</first_page>
+              <cYear>1985</cYear>
+              <doi provider="crossref">10.2307/2260381</doi>
+            </citation>
+            <citation key="2022111019292998700_bib71">
+              <journal_title>Research Notes of the AAS</journal_title>
+              <author>Ordonez</author>
+              <volume>6</volume>
+              <first_page>90</first_page>
+              <cYear>2022</cYear>
+              <doi>10.3847/2515-5172/ac6b41</doi>
+            </citation>
+            <citation key="2022111019292998700_bib72">
+              <journal_title>A&amp;A</journal_title>
+              <author>Ordovás-Pascual</author>
+              <volume>565</volume>
+              <first_page>A53</first_page>
+              <cYear>2014</cYear>
+              <doi>10.1051/0004-6361/201423806</doi>
+            </citation>
+            <citation key="2022111019292998700_bib73">
+              <journal_title>Applied Soft Computing</journal_title>
+              <author>Ordóñez</author>
+              <volume>12</volume>
+              <first_page>204</first_page>
+              <cYear>2012</cYear>
+              <doi provider="crossref">10.1016/j.asoc.2011.08.052</doi>
+            </citation>
+            <citation key="2022111019292998700_bib74">
+              <journal_title>ApJ</journal_title>
+              <author>Panos</author>
+              <volume>861</volume>
+              <first_page>62</first_page>
+              <cYear>2018</cYear>
+              <doi>10.3847/1538-4357/aac779</doi>
+            </citation>
+            <citation key="2022111019292998700_bib75">
+              <journal_title>MNRAS</journal_title>
+              <author>Price-Jones</author>
+              <volume>487</volume>
+              <first_page>871</first_page>
+              <cYear>2019</cYear>
+              <doi>10.1093/mnras/stz1260</doi>
+            </citation>
+            <citation key="2022111019292998700_bib76">
+              <journal_title>MNRAS</journal_title>
+              <author>Price-Jones</author>
+              <volume>496</volume>
+              <first_page>5101</first_page>
+              <cYear>2020</cYear>
+              <doi>10.1093/mnras/staa1905</doi>
+            </citation>
+            <citation key="2022111019292998700_bib77">
+              <journal_title>MNRAS</journal_title>
+              <author>Rahmani</author>
+              <volume>478</volume>
+              <first_page>4416</first_page>
+              <cYear>2018</cYear>
+              <doi>10.1093/mnras/sty1291</doi>
+            </citation>
+            <citation key="2022111019292998700_bib78">
+              <journal_title>Mach. Learn.</journal_title>
+              <author>Rebbapragada</author>
+              <volume>74</volume>
+              <first_page>281</first_page>
+              <cYear>2008</cYear>
+              <doi>10.1007/s10994-008-5093-3</doi>
+            </citation>
+            <citation key="2022111019292998700_bib79">
+              <journal_title>Encyclo. Biomet.</journal_title>
+              <author>Reynolds</author>
+              <volume>741</volume>
+              <first_page>659</first_page>
+              <cYear>2009</cYear>
+              <doi provider="crossref">10.1007/978-0-387-73003-5_196</doi>
+            </citation>
+            <citation key="2022111019292998700_bib80">
+              <volume_title>Introduction to Recommender Systems Handbook</volume_title>
+              <author>Ricci</author>
+              <first_page>1</first_page>
+              <cYear>2011</cYear>
+              <doi provider="crossref">10.1007/978-0-387-85820-3</doi>
+            </citation>
+            <citation key="2022111019292998700_bib81">
+              <journal_title>ApJ</journal_title>
+              <author>Rubin</author>
+              <volume>828</volume>
+              <first_page>111</first_page>
+              <cYear>2016</cYear>
+              <doi>10.3847/0004-637x/828/2/111</doi>
+            </citation>
+            <citation key="2022111019292998700_bib82">
+              <journal_title>ApJ</journal_title>
+              <author>Sánchez Almeida</author>
+              <volume>763</volume>
+              <first_page>50</first_page>
+              <cYear>2013</cYear>
+              <doi>10.1088/0004-637X/763/1/50</doi>
+            </citation>
+            <citation key="2022111019292998700_bib83">
+              <journal_title>ApJ</journal_title>
+              <author>Sánchez Almeida</author>
+              <volume>532</volume>
+              <first_page>1215</first_page>
+              <cYear>2000</cYear>
+              <doi>10.1086/308603</doi>
+            </citation>
+            <citation key="2022111019292998700_bib84">
+              <journal_title>ApJ</journal_title>
+              <author>Sánchez Almeida</author>
+              <volume>714</volume>
+              <first_page>487</first_page>
+              <cYear>2010</cYear>
+              <doi>10.1088/0004-637X/714/1/487</doi>
+            </citation>
+            <citation key="2022111019292998700_bib85">
+              <journal_title>ApJ</journal_title>
+              <author>Sánchez Almeida</author>
+              <volume>756</volume>
+              <first_page>163</first_page>
+              <cYear>2012</cYear>
+              <doi>10.1088/0004-637X/756/2/163</doi>
+            </citation>
+            <citation key="2022111019292998700_bib86">
+              <journal_title>A&amp;A</journal_title>
+              <author>Sans Fuentes</author>
+              <volume>599</volume>
+              <first_page>A143</first_page>
+              <cYear>2017</cYear>
+              <doi>10.1051/0004-6361/201629719</doi>
+            </citation>
+            <citation key="2022111019292998700_bib87">
+              <journal_title>MNRAS</journal_title>
+              <author>Sasdelli</author>
+              <volume>461</volume>
+              <first_page>2044</first_page>
+              <cYear>2016</cYear>
+              <doi>10.1093/mnras/stw1228</doi>
+            </citation>
+            <citation key="2022111019292998700_bib88">
+              <journal_title>Neurocomputing</journal_title>
+              <author>Saxena</author>
+              <volume>267</volume>
+              <first_page>664</first_page>
+              <cYear>2017</cYear>
+              <doi provider="crossref">10.1016/j.neucom.2017.06.053</doi>
+            </citation>
+            <citation key="2022111019292998700_bib89">
+              <volume_title>J. Astron. Instrumen.</volume_title>
+              <author>Seo</author>
+              <first_page>2050011</first_page>
+              <cYear>2020</cYear>
+              <doi>10.1142/S2251171720500117</doi>
+            </citation>
+            <citation key="2022111019292998700_bib90">
+              <journal_title>MNRAS</journal_title>
+              <author>Shang</author>
+              <volume>426</volume>
+              <first_page>3435</first_page>
+              <cYear>2012</cYear>
+              <doi>10.1111/j.1365-2966.2012.21897.x</doi>
+            </citation>
+            <citation key="2022111019292998700_bib91">
+              <journal_title>AJ</journal_title>
+              <author>Shin</author>
+              <volume>156</volume>
+              <first_page>201</first_page>
+              <cYear>2018</cYear>
+              <doi>10.3847/1538-3881/aae263</doi>
+            </citation>
+            <citation key="2022111019292998700_bib92">
+              <volume_title>2nd International Conference on Image, Vision and Computing (ICIVC)</volume_title>
+              <author>Shuxin</author>
+              <first_page>1002</first_page>
+              <cYear>2017</cYear>
+              <doi>10.1109/ICIVC.2017.7984705</doi>
+            </citation>
+            <citation key="2022111019292998700_bib93">
+              <volume_title>Proc. 2nd International Conference on Learning Analytics and Knowledge (LAK’12</volume_title>
+              <author>Siemens</author>
+              <first_page>252</first_page>
+              <cYear>2012</cYear>
+              <doi>10.1145/2330601.2330661</doi>
+            </citation>
+            <citation key="2022111019292998700_bib94">
+              <journal_title>MNRAS</journal_title>
+              <author>Simpson</author>
+              <volume>427</volume>
+              <first_page>1153</first_page>
+              <cYear>2012</cYear>
+              <doi>10.1111/j.1365-2966.2012.22012.x</doi>
+            </citation>
+            <citation key="2022111019292998700_bib95">
+              <journal_title>Computat. Geosci.</journal_title>
+              <author>Tahmasebi</author>
+              <volume>16</volume>
+              <first_page>779</first_page>
+              <cYear>2012</cYear>
+              <doi>10.1007/s10596-012-9287-1</doi>
+            </citation>
+            <citation key="2022111019292998700_bib96">
+              <journal_title>MNRAS</journal_title>
+              <author>Tammour</author>
+              <volume>459</volume>
+              <first_page>1659</first_page>
+              <cYear>2016</cYear>
+              <doi>10.1093/mnras/stw586</doi>
+            </citation>
+            <citation key="2022111019292998700_bib97">
+              <journal_title>A&amp;A</journal_title>
+              <author>Tarricq</author>
+              <volume>659</volume>
+              <first_page>A59</first_page>
+              <cYear>2022</cYear>
+              <doi>10.1051/0004-6361/202142186</doi>
+            </citation>
+            <citation key="2022111019292998700_bib98">
+              <journal_title>MNRAS</journal_title>
+              <author>Tóth</author>
+              <volume>486</volume>
+              <first_page>4823</first_page>
+              <cYear>2019</cYear>
+              <doi>10.1093/mnras/stz1188</doi>
+            </citation>
+            <citation key="2022111019292998700_bib99">
+              <journal_title>MNRAS</journal_title>
+              <author>Tramacere</author>
+              <volume>463</volume>
+              <first_page>2939</first_page>
+              <cYear>2016</cYear>
+              <doi>10.1093/mnras/stw2103</doi>
+            </citation>
+            <citation key="2022111019292998700_bib100">
+              <journal_title>ApJS</journal_title>
+              <author>Traven</author>
+              <volume>228</volume>
+              <first_page>24</first_page>
+              <cYear>2017</cYear>
+              <doi>10.3847/1538-4365/228/2/24</doi>
+            </citation>
+            <citation key="2022111019292998700_bib101">
+              <journal_title>J. Mach. Learn. Res.</journal_title>
+              <author>Van der Maaten</author>
+              <volume>9</volume>
+              <first_page>11</first_page>
+              <cYear>2008</cYear>
+            </citation>
+            <citation key="2022111019292998700_bib102">
+              <journal_title>A&amp;A</journal_title>
+              <author>Wagenveld</author>
+              <volume>660</volume>
+              <first_page>A22</first_page>
+              <cYear>2022</cYear>
+              <doi>10.1051/0004-6361/202142445</doi>
+            </citation>
+            <citation key="2022111019292998700_bib103">
+              <volume_title>Proc. 2015 IEEE International Conference on Big Data (Big Data). BIG DATA’15</volume_title>
+              <author>Wang</author>
+              <first_page>601</first_page>
+              <cYear>2015</cYear>
+              <doi provider="crossref">10.1109/BigData.2015.7363804</doi>
+            </citation>
+            <citation key="2022111019292998700_bib104">
+              <journal_title>Distill</journal_title>
+              <author>Wattenberg</author>
+              <volume>1</volume>
+              <first_page>e2</first_page>
+              <cYear>2016</cYear>
+              <doi provider="crossref">10.23915/distill.00002</doi>
+            </citation>
+            <citation key="2022111019292998700_bib105">
+              <journal_title>IEEE Access</journal_title>
+              <author>Wu</author>
+              <volume>8</volume>
+              <first_page>66475</first_page>
+              <cYear>2020</cYear>
+              <doi>10.1109/ACCESS.2020.2983745</doi>
+            </citation>
+            <citation key="2022111019292998700_bib106">
+              <journal_title>Annals of Data Sci.</journal_title>
+              <author>Xu</author>
+              <volume>2</volume>
+              <first_page>165</first_page>
+              <cYear>2015</cYear>
+              <doi provider="crossref">10.1007/s40745-015-0040-1</doi>
+            </citation>
+            <citation key="2022111019292998700_bib107">
+              <journal_title>Expert Syst. Appl.</journal_title>
+              <author>Yang</author>
+              <volume>139</volume>
+              <first_page>112846</first_page>
+              <cYear>2020</cYear>
+              <doi provider="crossref">10.1016/j.eswa.2019.112846</doi>
+            </citation>
+            <citation key="2022111019292998700_bib108">
+              <journal_title>Expert Syst. Appl.</journal_title>
+              <author>Yang</author>
+              <volume>201</volume>
+              <first_page>117018</first_page>
+              <cYear>2022</cYear>
+              <doi>10.1016/j.eswa.2022.117018</doi>
+            </citation>
+            <citation key="2022111019292998700_bib109">
+              <journal_title>Inf. Sci.</journal_title>
+              <author>Yang</author>
+              <volume>596</volume>
+              <first_page>414</first_page>
+              <cYear>2022</cYear>
+              <doi provider="crossref">10.1016/j.ins.2022.03.027</doi>
+            </citation>
+            <citation key="2022111019292998700_bib110">
+              <journal_title>ApJ</journal_title>
+              <author>Yan</author>
+              <volume>898</volume>
+              <first_page>80</first_page>
+              <cYear>2020</cYear>
+              <doi>10.3847/1538-4357/ab9f9c</doi>
+            </citation>
+            <citation key="2022111019292998700_bib111">
+              <journal_title>A&amp;A</journal_title>
+              <author>Zari</author>
+              <volume>628</volume>
+              <first_page>A123</first_page>
+              <cYear>2019</cYear>
+              <doi>10.1051/0004-6361/201935781</doi>
+            </citation>
+            <citation key="2022111019292998700_bib112">
+              <volume_title>Proc. 1996 ACM SIGMOD International Conference on Management of Data (SIGMOD’96</volume_title>
+              <author>Zhang</author>
+              <first_page>103</first_page>
+              <cYear>1996</cYear>
+              <doi provider="crossref">10.1145/233269.233324</doi>
+            </citation>
+          </citation_list>
+        </journal_article>
+      </journal>
+    </crossref>
+  </doi_record>
+</doi_records>

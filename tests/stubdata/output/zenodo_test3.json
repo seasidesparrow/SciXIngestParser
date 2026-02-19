@@ -1,0 +1,311 @@
+{
+  "abstract": {
+    "textEnglish": "Thread safety! (#285 -> #291 -> #329, #407, #417) Ease redirection of sys.stdout/stderr (#422) Minor internal stream bugfix (#439) AttributeError fixes (#323, #324, #418) Related to: Misc bugs (#334) concurrent.futures (#97) Multi-tqdm (#143) flush() and refresh() (#331) Newline on refresh() (#361) Nested trees (#384) Manually positioned nested bars clearing (#385)"
+  },
+  "authors": [
+    {
+      "name": {
+        "given_name": "Casper",
+        "pubraw": "Casper da Costa-Luis",
+        "surname": "da Costa-Luis"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Coma Science Group"
+        }
+      ],
+      "name": {
+        "given_name": "Stephen",
+        "pubraw": "Stephen L.",
+        "surname": "L."
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "University of McGill"
+        }
+      ],
+      "name": {
+        "given_name": "Hadrien",
+        "pubraw": "Hadrien Mary",
+        "surname": "Mary"
+      }
+    },
+    {
+      "name": {
+        "given_name": "noamraph",
+        "pubraw": "noamraph"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "@ScrapingHub"
+        }
+      ],
+      "name": {
+        "given_name": "Mikhail",
+        "pubraw": "Mikhail Korobov",
+        "surname": "Korobov"
+      }
+    },
+    {
+      "name": {
+        "given_name": "Ivan",
+        "pubraw": "Ivan Ivanov",
+        "surname": "Ivanov"
+      }
+    },
+    {
+      "name": {
+        "given_name": "James",
+        "pubraw": "James"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "UC Davis"
+        }
+      ],
+      "name": {
+        "given_name": "Matthew",
+        "middle_name": "D.",
+        "pubraw": "Matthew D. Pagel",
+        "surname": "Pagel"
+      }
+    },
+    {
+      "name": {
+        "given_name": "Socialery",
+        "pubraw": "Socialery"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "@Shopify"
+        }
+      ],
+      "name": {
+        "given_name": "Jack",
+        "pubraw": "Jack McCracken",
+        "surname": "McCracken"
+      }
+    },
+    {
+      "name": {
+        "given_name": "Fabian",
+        "pubraw": "Fabian Dill",
+        "surname": "Dill"
+      }
+    },
+    {
+      "name": {
+        "given_name": "Daniel",
+        "pubraw": "Daniel Panteleit",
+        "surname": "Panteleit"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "4Catalyzer"
+        }
+      ],
+      "name": {
+        "given_name": "Alex",
+        "pubraw": "Alex Rothberg",
+        "surname": "Rothberg"
+      }
+    },
+    {
+      "name": {
+        "given_name": "zed",
+        "pubraw": "zed"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Wikimedia Foundation"
+        }
+      ],
+      "name": {
+        "given_name": "Riccardo",
+        "pubraw": "Riccardo Coccioli",
+        "surname": "Coccioli"
+      }
+    },
+    {
+      "name": {
+        "given_name": "elsonidoq",
+        "pubraw": "elsonidoq"
+      }
+    },
+    {
+      "name": {
+        "given_name": "deeenes",
+        "pubraw": "deeenes"
+      }
+    },
+    {
+      "name": {
+        "given_name": "Albert",
+        "pubraw": "Albert Kottke",
+        "surname": "Kottke"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Dartmouth College, @Debian, @DataLad, @PyMVPA, @fail2ban"
+        }
+      ],
+      "name": {
+        "given_name": "Yaroslav",
+        "pubraw": "Yaroslav Halchenko",
+        "surname": "Halchenko"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "University of Cambridge"
+        }
+      ],
+      "name": {
+        "given_name": "Tomas",
+        "pubraw": "Tomas Ostasevicius",
+        "surname": "Ostasevicius"
+      }
+    },
+    {
+      "name": {
+        "given_name": "Shirish",
+        "pubraw": "Shirish Pokharel",
+        "surname": "Pokharel"
+      }
+    },
+    {
+      "name": {
+        "given_name": "ReadmeCritic",
+        "pubraw": "ReadmeCritic"
+      }
+    },
+    {
+      "name": {
+        "given_name": "Peter",
+        "pubraw": "Peter VandeHaar",
+        "surname": "VandeHaar"
+      }
+    },
+    {
+      "name": {
+        "given_name": "Kuang-che",
+        "pubraw": "Kuang-che Wu",
+        "surname": "Wu"
+      }
+    },
+    {
+      "name": {
+        "given_name": "jcea",
+        "pubraw": "jcea"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Nord Software"
+        }
+      ],
+      "name": {
+        "given_name": "Hugo",
+        "pubraw": "Hugo"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "@handwritingio"
+        }
+      ],
+      "name": {
+        "given_name": "Ford",
+        "pubraw": "Ford Hurley",
+        "surname": "Hurley"
+      }
+    },
+    {
+      "name": {
+        "given_name": "Arun",
+        "pubraw": "Arun Persaud",
+        "surname": "Persaud"
+      }
+    },
+    {
+      "name": {
+        "given_name": "Alexander",
+        "pubraw": "Alexander"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "@arbisoft"
+        }
+      ],
+      "name": {
+        "given_name": "Adnan",
+        "pubraw": "Adnan Umer",
+        "surname": "Umer"
+      }
+    }
+  ],
+  "doctype": "software",
+  "openAccess": {
+    "open": true
+  },
+  "persistentIDs": [
+    {
+      "DOI": "10.5281/zenodo.1000003"
+    }
+  ],
+  "pubDate": {
+    "electrDate": "2017",
+    "otherDate": [
+      {
+        "otherDateType": "Issued",
+        "otherDateValue": "2017-09-30"
+      }
+    ]
+  },
+  "publication": {
+    "pubYear": "2017",
+    "publisher": "Zenodo"
+  },
+  "recordData": {
+    "createdTime": "",
+    "loadFormat": "OtherXML",
+    "loadLocation": "",
+    "loadType": "fromFile",
+    "parsedTime": "",
+    "recordOrigin": ""
+  },
+  "relatedTo": [
+    {
+      "relatedDocID": "https://github.com/tqdm/tqdm/tree/v4.18.0",
+      "relationship": "supplement"
+    },
+    {
+      "relatedDocID": "10.5281/zenodo.595120",
+      "relationship": "related"
+    }
+  ],
+  "title": {
+    "textEnglish": "tqdm/tqdm: tqdm v4.18.0 stable"
+  }
+}

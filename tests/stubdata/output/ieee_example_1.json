@@ -1,0 +1,146 @@
+{
+  "abstract": {
+    "textEnglish": "This letter proposes a new method to solve convex programming problems with constraints expressed by differential linear matrix inequalities (DLMIs). Initially, feasible solutions of interest are characterized and a general numerical method, based on the well known outer linearization technique, is proposed and discussed from theoretical and numerical viewpoints. Feasible solutions are written as a truncated series of a given set of time valued continuous functions with symmetric matrix coefficients to be determined. The numerical method encompasses the piecewise linear solution usually adopted in the literature with lower computational burden. In the sequel, several sampled-data control design problems whose optimality conditions can be expressed in this mathematical framework are provided. They are solved in order to put in evidence the most important aspects of the proposed method as well as to evaluate and compare numerical efficiency and limitations. Moreover, it is shown that DLMIs are particularly well adapted to cope with this class of optimal control design problems."
+  },
+  "authors": [
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "School of Electrical and Computer Engineering, UNICAMP, Campinas, Brazil"
+        }
+      ],
+      "attrib": {
+        "email": "tiagorg@dca.fee.unicamp.br",
+        "orcid": "0000-0003-1735-7420"
+      },
+      "name": {
+        "given_name": "Tiago R.",
+        "surname": "Goncalves"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Division of Electronic Engineering, Instituto Tecnol&#x00F3;gico de Aeron&#x00E1;utica, S&#x00E3;o Jos&#x00E9; dos Campos, Brazil"
+        }
+      ],
+      "attrib": {
+        "corresp": true,
+        "email": "ggabriel@ita.br",
+        "orcid": "0000-0001-5631-9270"
+      },
+      "name": {
+        "given_name": "Gabriela W.",
+        "surname": "Gabriel"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "School of Electrical and Computer Engineering, UNICAMP, Campinas, Brazil"
+        }
+      ],
+      "attrib": {
+        "email": "geromel@dsce.fee.unicamp.br",
+        "orcid": "0000-0002-4961-3428"
+      },
+      "name": {
+        "given_name": "Jose C.",
+        "surname": "Geromel"
+      }
+    }
+  ],
+  "copyright": {
+    "statement": "2018 IEEE. 2475-1456 \u00a9 2018 IEEE. Personal use is permitted, but republication/redistribution requires IEEE permission. See http://www.ieee.org/publications_standards/publications/rights/index.html for more information.",
+    "status": true
+  },
+  "funding": [
+    {
+      "agencyname": "FAPESP/CAPES, Brazil",
+      "awardnumber": "2016/06343-5 (FAPESP), 2016/08043-9 (FAPESP)"
+    },
+    {
+      "agencyname": "CNPq, Brazil",
+      "awardnumber": "303887/2014-1"
+    }
+  ],
+  "keywords": [
+    {
+      "keyString": "Symmetric matrices",
+      "keySystem": "IEEE"
+    },
+    {
+      "keyString": "Linear matrix inequalities",
+      "keySystem": "IEEE"
+    },
+    {
+      "keyString": "Programming",
+      "keySystem": "IEEE"
+    },
+    {
+      "keyString": "Optimal control",
+      "keySystem": "IEEE"
+    },
+    {
+      "keyString": "Boundary conditions",
+      "keySystem": "IEEE"
+    },
+    {
+      "keyString": "Fourier series",
+      "keySystem": "IEEE"
+    },
+    {
+      "keyString": "Optimization",
+      "keySystem": "IEEE"
+    },
+    {
+      "keyString": "Differential linear matrix inequalities (DLMI)",
+      "keySystem": "IEEEFree"
+    },
+    {
+      "keyString": "optimal control",
+      "keySystem": "IEEEFree"
+    },
+    {
+      "keyString": "sampled-data control",
+      "keySystem": "IEEEFree"
+    }
+  ],
+  "pagination": {
+    "firstPage": "380",
+    "lastPage": "385"
+  },
+  "pubDate": {
+    "electrDate": "2019-1-4",
+    "printDate": "2019-04-00"
+  },
+  "publication": {
+    "ISSN": [
+      {
+        "issnString": "2475-1456",
+        "pubtype": "Electronic"
+      }
+    ],
+    "issueNum": "2",
+    "pubName": "IEEE Control Systems Letters",
+    "pubYear": "2019",
+    "volumeNum": "3"
+  },
+  "publisherIDs": [
+    {
+      "Identifier": "10.1109/LCSYS.7782633",
+      "attribute": "doi"
+    }
+  ],
+  "recordData": {
+    "createdTime": "",
+    "loadFormat": "IEEE",
+    "loadLocation": "",
+    "loadType": "fromFile",
+    "parsedTime": "",
+    "recordOrigin": ""
+  },
+  "title": {
+    "textEnglish": "Differential Linear Matrix Inequalities Optimization"
+  }
+}

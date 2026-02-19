@@ -1,0 +1,63 @@
+<?xml version="1.0"?>
+<record>
+  <header>
+    <identifer>none</identifer>
+  </header>
+  <metadata>
+    <crossref xmlns="http://www.crossref.org/xschema/1.1" xsi:schemaLocation="http://www.crossref.org/xschema/1.1 http://doi.crossref.org/schemas/unixref1.1.xsd">
+      <conference>
+        <event_metadata>
+          <conference_name>International Conference on Advanced Technology of Design and Manufacture (ATDM 2010)</conference_name>
+          <conference_location>Beijing, China</conference_location>
+          <conference_date>23-25 Nov. 2010</conference_date>
+        </event_metadata>
+        <proceedings_metadata language="en">
+          <proceedings_title>International Conference on Advanced Technology of Design and Manufacture (ATDM 2010)</proceedings_title>
+          <publisher>
+            <publisher_name>IET</publisher_name>
+          </publisher>
+          <publication_date>
+            <year>2010</year>
+          </publication_date>
+          <isbn>978 1 84919 238 5</isbn>
+        </proceedings_metadata>
+        <conference_paper>
+          <contributors>
+            <person_name sequence="first" contributor_role="author">
+              <surname>Shu-Jing Sun</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <surname>Yan Wang</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <surname>Hong Wang</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <surname>Gui-Fu Ding</surname>
+            </person_name>
+          </contributors>
+          <titles>
+            <title>Analysis of electrochemical degradation of coking wastewater using multiwall carbon nanotubes modified electrode</title>
+          </titles>
+          <publication_date>
+            <year>2010</year>
+          </publication_date>
+          <pages>
+            <first_page>447</first_page>
+            <last_page>449</last_page>
+          </pages>
+          <doi_data>
+            <doi>10.1049/cp.2010.1342</doi>
+            <timestamp>20120112185802</timestamp>
+            <resource>https://digital-library.theiet.org/content/conferences/10.1049/cp.2010.1342</resource>
+            <collection property="list-based" multi-resolution="unlock">
+              <item label="Xplore" setbyID="ieee_mr">
+                <resource>https://ieeexplore.ieee.org/document/6139062</resource>
+              </item>
+            </collection>
+          </doi_data>
+        </conference_paper>
+      </conference>
+    </crossref>
+  </metadata>
+</record>

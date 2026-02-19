@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doi_records>
+  <doi_record owner="10.1146" timestamp="2021-10-08 22:17:12">
+    <crossref>
+      <journal>
+        <journal_metadata language="en">
+          <full_title>Annual Review of Energy and the Environment</full_title>
+          <abbrev_title>Annu. Rev. Energy. Environ.</abbrev_title>
+          <issn media_type="print">1056-3466</issn>
+        </journal_metadata>
+        <journal_issue>
+          <publication_date media_type="print">
+            <month>11</month>
+            <year>2000</year>
+          </publication_date>
+          <journal_volume>
+            <volume>25</volume>
+          </journal_volume>
+          <issue>1</issue>
+          <doi_data>
+            <doi>10.1146/energy.2000.25.issue-1</doi>
+            <resource>https://www.annualreviews.org/toc/energy.2/25/1</resource>
+          </doi_data>
+        </journal_issue>
+        <journal_article publication_type="full_text">
+          <titles>
+            <title>Water Vapor Feedback and Global Warming</title>
+          </titles>
+          <contributors>
+            <person_name sequence="first" contributor_role="author">
+              <given_name>Isaac M.</given_name>
+              <surname>Held</surname>
+              <affiliation>Geophysical Fluid Dynamics Laboratory/National Oceanic and Atmospheric Administration, Princeton, New Jersey 08542</affiliation>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Brian J.</given_name>
+              <surname>Soden</surname>
+              <affiliation>Geophysical Fluid Dynamics Laboratory/National Oceanic and Atmospheric Administration, Princeton, New Jersey 08542</affiliation>
+            </person_name>
+          </contributors>
+          <abstract>
+            <p>▪ Abstract  Water vapor is the dominant greenhouse gas, the most important gaseous source of infrared opacity in the atmosphere. As the concentrations of other greenhouse gases, particularly carbon dioxide, increase because of human activity, it is centrally important to predict how the water vapor distribution will be affected. To the extent that water vapor concentrations increase in a warmer world, the climatic effects of the other greenhouse gases will be amplified. Models of the Earth's climate indicate that this is an important positive feedback that increases the sensitivity of surface temperatures to carbon dioxide by nearly a factor of two when considered in isolation from other feedbacks, and possibly by as much as a factor of three or more when interactions with other feedbacks are considered. Critics of this consensus have attempted to provide reasons why modeling results are overestimating the strength of this feedback.</p>
+            <p>
+              Our uncertainty concerning climate sensitivity is disturbing. The range most often quoted for the equilibrium global mean surface temperature response to a doubling of CO
+              <sub>2</sub>
+              concentrations in the atmosphere is 1.5°C to 4.5°C. If the Earth lies near the upper bound of this sensitivity range, climate changes in the twenty-first century will be profound. The range in sensitivity is primarily due to differing assumptions about how the Earth's cloud distribution is maintained; all the models on which these estimates are based possess strong water vapor feedback. If this feedback is, in fact, substantially weaker than predicted in current models, sensitivities in the upper half of this range would be much less likely, a conclusion that would clearly have important policy implications. In this review, we describe the background behind the prevailing view on water vapor feedback and some of the arguments raised by its critics, and attempt to explain why these arguments have not modified the consensus within the climate research community.
+            </p>
+          </abstract>
+          <publication_date media_type="print">
+            <month>11</month>
+            <year>2000</year>
+          </publication_date>
+          <pages>
+            <first_page>441</first_page>
+            <last_page>475</last_page>
+          </pages>
+          <publisher_item>
+            <identifier id_type="doi">10.1146/annurev.energy.25.1.441</identifier>
+          </publisher_item>
+          <doi_data>
+            <doi>10.1146/annurev.energy.25.1.441</doi>
+            <resource>https://www.annualreviews.org/doi/10.1146/annurev.energy.25.1.441</resource>
+            <collection property="crawler-based">
+              <item crawler="iParadigms">
+                <resource>https://www.annualreviews.org/doi/pdf/10.1146/annurev.energy.25.1.441</resource>
+              </item>
+            </collection>
+          </doi_data>
+          <citation_list>
+            <citation key="b1">
+              <unstructured_citation>Fourier JB. 1827. Memoire sur les temperatures du globe terrestre et des espaces planetaires. Mem. Acad. R. Sci. Inst. France7:569–604</unstructured_citation>
+            </citation>
+            <citation key="b2">
+              <doi>10.1080/14786446108643138</doi>
+            </citation>
+            <citation key="b3">
+              <volume_title>Historical Perspectives on Climate Change.</volume_title>
+              <author>Fleming JR</author>
+              <cYear>1998</cYear>
+              <doi provider="crossref">10.1093/oso/9780195078701.001.0001</doi>
+            </citation>
+            <citation key="b4">
+              <doi>10.1016/0169-8095(89)90020-3</doi>
+            </citation>
+            <citation key="b5">
+              <doi>10.1016/0169-8095(94)00028-C</doi>
+            </citation>
+            <citation key="b6">
+              <doi>10.1038/354382a0</doi>
+            </citation>
+            <citation key="b7">
+              <doi>10.1029/91JD00516</doi>
+            </citation>
+            <citation key="b8">
+              <doi>10.1029/90JD01450</doi>
+            </citation>
+            <citation key="b9">
+              <doi>10.1126/science.267.5197.496</doi>
+            </citation>
+            <citation key="b10">
+              <doi>10.1080/14786449608620846</doi>
+            </citation>
+            <citation key="b11">
+              <doi>10.1086/608449</doi>
+            </citation>
+            <citation key="b12">
+              <doi>10.1002/qj.49706427503</doi>
+            </citation>
+            <citation key="b13">
+              <doi>10.3402/tellusa.v8i2.8969</doi>
+            </citation>
+            <citation key="b14">
+              <doi>10.3402/tellusa.v12i2.9364</doi>
+            </citation>
+            <citation key="b15">
+              <doi>10.1029/JZ068i013p03877</doi>
+            </citation>
+            <citation key="b16">
+              <doi>10.1016/0019-1035(62)90015-5</doi>
+            </citation>
+            <citation key="b17">
+              <doi>10.1175/1520-0469(1964)021&lt;0361:TEOTAW&gt;2.0.CO;2</doi>
+            </citation>
+            <citation key="b18">
+              <doi>10.1175/1520-0469(1967)024&lt;0241:TEOTAW&gt;2.0.CO;2</doi>
+            </citation>
+            <citation key="b19">
+              <doi>10.1029/RG016i004p00465</doi>
+            </citation>
+            <citation key="b20">
+              <doi>10.1175/1520-0469(1988)045&lt;1397:CFPIAG&gt;2.0.CO;2</doi>
+            </citation>
+            <citation key="b21">
+              <doi>10.1029/93JD03523</doi>
+            </citation>
+            <citation key="b22">
+              <doi>10.1016/0019-1035(88)90116-9</doi>
+            </citation>
+            <citation key="b23">
+              <doi>10.1175/1520-0477(1984)065&lt;1170:TERBE&gt;2.0.CO;2</doi>
+            </citation>
+            <citation key="b24">
+              <doi>10.1038/342758a0</doi>
+            </citation>
+            <citation key="b25">
+              <doi>10.1029/91JD00973</doi>
+            </citation>
+            <citation key="b26">
+              <doi>10.1007/BF00211682</doi>
+            </citation>
+            <citation key="b27">
+              <doi>10.1002/qj.49712555809</doi>
+            </citation>
+            <citation key="b28">
+              <doi>10.1175/1520-0442(1997)010&lt;1050:VITTGE&gt;2.0.CO;2</doi>
+            </citation>
+            <citation key="b29">
+              <journal_title>J. Geophys. Res.</journal_title>
+              <author>Bates JJ</author>
+              <cYear>2000</cYear>
+            </citation>
+            <citation key="b30">
+              <journal_title>Meteor. Z.</journal_title>
+              <author>Bjerknes V</author>
+              <first_page>1</first_page>
+              <volume>21</volume>
+              <cYear>1904</cYear>
+            </citation>
+            <citation key="b31">
+              <volume_title>Weather Prediction by Numerical Process.</volume_title>
+              <author>Richardson LF</author>
+              <cYear>1922</cYear>
+            </citation>
+            <citation key="b32">
+              <doi>10.3402/tellusb.v51i1.16257</doi>
+            </citation>
+            <citation key="b33">
+              <doi>10.1175/1520-0469(1975)032&lt;0003:TEODTC&gt;2.0.CO;2</doi>
+            </citation>
+            <citation key="b34">
+              <volume_title>J. Geophys. Res.</volume_title>
+              <author>Knutson TR</author>
+              <cYear>2000</cYear>
+            </citation>
+            <citation key="b35">
+              <doi>10.1175/1520-0442(2000)013&lt;1879:ROTNCS&gt;2.0.CO;2</doi>
+            </citation>
+            <citation key="b36">
+              <doi>10.1038/376501a0</doi>
+            </citation>
+            <citation key="b37">
+              <doi>10.1175/1520-0442(1999)012&lt;3004:TCCSWA&gt;2.0.CO;2</doi>
+            </citation>
+            <citation key="b38">
+              <doi>10.1175/1520-0442(1999)012&lt;2224:ROACOA&gt;2.0.CO;2</doi>
+            </citation>
+            <citation key="b39">
+              <doi>10.1038/19505</doi>
+            </citation>
+            <citation key="b40">
+              <doi>10.1029/JD095iD10p16601</doi>
+            </citation>
+            <citation key="b41">
+              <doi>10.1175/1520-0442(1999)012&lt;2327:TROWVF&gt;2.0.CO;2</doi>
+            </citation>
+            <citation key="b42">
+              <doi>10.1175/1520-0477(1991)072&lt;1507:OTUORH&gt;2.0.CO;2</doi>
+            </citation>
+            <citation key="b43">
+              <doi>10.1029/93JD01283</doi>
+            </citation>
+            <citation key="b44">
+              <doi>10.1175/1520-0442(1996)009&lt;2036:TROTBI&gt;2.0.CO;2</doi>
+            </citation>
+            <citation key="b45">
+              <doi>10.1175/1520-0442(1997)010&lt;1648:EOTWVS&gt;2.0.CO;2</doi>
+            </citation>
+            <citation key="b46">
+              <doi>10.1029/97JD01769</doi>
+            </citation>
+            <citation key="b47">
+              <doi>10.1175/1520-0469(1994)051&lt;3437:PODABI&gt;2.0.CO;2</doi>
+            </citation>
+            <citation key="b48">
+              <doi>10.1175/1520-0477(1991)072&lt;0002:ICDP&gt;2.0.CO;2</doi>
+            </citation>
+            <citation key="b49">
+              <doi>10.1175/1520-0477(1997)078&lt;1097:HDITTF&gt;2.0.CO;2</doi>
+            </citation>
+            <citation key="b50">
+              <doi>10.1126/science.274.5290.1170</doi>
+            </citation>
+            <citation key="b51">
+              <doi>10.1029/GM029p0130</doi>
+            </citation>
+            <citation key="b52">
+              <doi>10.1175/1520-0469(1999)056&lt;1649:TWVACS&gt;2.0.CO;2</doi>
+            </citation>
+            <citation key="b53">
+              <doi>10.1175/1520-0477(1990)071&lt;0288:SCCGW&gt;2.0.CO;2</doi>
+            </citation>
+            <citation key="b54">
+              <doi>10.1016/0269-7491(94)90030-2</doi>
+            </citation>
+            <citation key="b55">
+              <doi>10.1175/1520-0469(1993)050&lt;1643:DOTTWV&gt;2.0.CO;2</doi>
+            </citation>
+            <citation key="b56">
+              <doi>10.1029/94JD00020</doi>
+            </citation>
+            <citation key="b57">
+              <journal_title>NATO ASI Ser. 35.</journal_title>
+              <author>Emanuel K</author>
+              <cYear>1996</cYear>
+            </citation>
+            <citation key="b58">
+              <doi>10.1175/1520-0469(2000)057&lt;0989:FDIAPA&gt;2.0.CO;2</doi>
+            </citation>
+            <citation key="b59">
+              <doi>10.1175/1520-0469(1993)050&lt;3909:RCEWET&gt;2.0.CO;2</doi>
+            </citation>
+            <citation key="b60">
+              <doi>10.1175/1520-0469(1999)056&lt;1885:TDCSMO&gt;2.0.CO;2</doi>
+            </citation>
+            <citation key="b61">
+              <doi>10.1175/1520-0469(1999)056&lt;3385:ASSORC&gt;2.0.CO;2</doi>
+            </citation>
+            <citation key="b62">
+              <doi>10.1175/1520-0442(1999)012&lt;0462:SOTCTS&gt;2.0.CO;2</doi>
+            </citation>
+            <citation key="b63">
+              <volume_title>Climate Change: The IPCC Scientific Assessment.</volume_title>
+              <author>IP CC</author>
+              <cYear>1990</cYear>
+            </citation>
+            <citation key="b64">
+              <volume_title>The IPCC Supplementary Report.</volume_title>
+              <author>IP CC</author>
+              <cYear>1992</cYear>
+            </citation>
+            <citation key="b65">
+              <volume_title>The Science of Climate Change.</volume_title>
+              <author>IP CC</author>
+              <cYear>1995</cYear>
+            </citation>
+            <citation key="b66">
+              <doi>10.1175/1520-0442(2000)013&lt;0257:SAUTDA&gt;2.0.CO;2</doi>
+            </citation>
+            <citation key="b67">
+              <doi>10.1175/1520-0442(1996)009&lt;2919:MOTFTT&gt;2.0.CO;2</doi>
+            </citation>
+            <citation key="b68">
+              <doi>10.1175/1520-0442(1997)010&lt;2533:ATAOTU&gt;2.0.CO;2</doi>
+            </citation>
+            <citation key="b69">
+              <doi>10.1029/2000JD900231</doi>
+            </citation>
+            <citation key="b70">
+              <doi>10.1029/1998GL900203</doi>
+            </citation>
+            <citation key="b71">
+              <doi>10.1175/1520-0442(1993)006&lt;0393:CDACTI&gt;2.0.CO;2</doi>
+            </citation>
+            <citation key="b72">
+              <doi>10.1038/349500a0</doi>
+            </citation>
+            <citation key="b73">
+              <doi>10.1029/94GL02658</doi>
+            </citation>
+            <citation key="b74">
+              <journal_title>J. Geophys. Res.</journal_title>
+              <author>Stephens GL</author>
+              <first_page>4391</first_page>
+              <volume>99</volume>
+              <cYear>1993</cYear>
+            </citation>
+            <citation key="b75">
+              <doi>10.1175/1520-0442(1994)007&lt;0715:POGEAC&gt;2.0.CO;2</doi>
+            </citation>
+            <citation key="b76">
+              <doi>10.1175/1520-0442(1995)008&lt;2333:ASAODC&gt;2.0.CO;2</doi>
+            </citation>
+            <citation key="b77">
+              <doi>10.1175/1520-0442(1995)008&lt;1681:SSFC&gt;2.0.CO;2</doi>
+            </citation>
+            <citation key="b78">
+              <doi>10.1029/96GL02414</doi>
+            </citation>
+            <citation key="b79">
+              <doi>10.1175/1520-0442(1998)011&lt;2686:WVSTAT&gt;2.0.CO;2</doi>
+            </citation>
+            <citation key="b80">
+              <doi>10.1029/1998JD900007</doi>
+            </citation>
+            <citation key="b81">
+              <doi>10.1175/1520-0442(1996)009&lt;0665:ACOMAO&gt;2.0.CO;2</doi>
+            </citation>
+            <citation key="b82">
+              <doi>10.1175/1520-0442(1996)009&lt;1235:AAOSAR&gt;2.0.CO;2</doi>
+            </citation>
+            <citation key="b83">
+              <doi>10.1175/1520-0442(2000)013&lt;0951:TCATLG&gt;2.0.CO;2</doi>
+            </citation>
+            <citation key="b84">
+              <doi>10.1175/1520-0442(1996)009&lt;3561:TWVCAT&gt;2.0.CO;2</doi>
+            </citation>
+            <citation key="b85">
+              <doi>10.1175/1520-0442(1997)010&lt;2643:AWVOC&gt;2.0.CO;2</doi>
+            </citation>
+            <citation key="b86">
+              <doi>10.1175/1520-0469(1996)053&lt;2773:LFOAVA&gt;2.0.CO;2</doi>
+            </citation>
+            <citation key="b87">
+              <doi>10.1029/98GL01029</doi>
+            </citation>
+            <citation key="b88">
+              <doi>10.1029/1998GL900169</doi>
+            </citation>
+            <citation key="b89">
+              <doi>10.1175/1520-0442(2000)013&lt;3337:DVITWV&gt;2.0.CO;2</doi>
+            </citation>
+          </citation_list>
+        </journal_article>
+      </journal>
+    </crossref>
+  </doi_record>
+</doi_records>

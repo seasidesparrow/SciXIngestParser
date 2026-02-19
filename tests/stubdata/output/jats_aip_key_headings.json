@@ -1,0 +1,160 @@
+{
+  "abstract": {
+    "textEnglish": "The FurnaSEM microfurnace was installed in the chamber of a scanning electron microscope to carry out in situ experiments at high temperatures and test its limits. The microfurnace was used in combination with different types of detectors (Everhart\u2013Thornley for the collection of secondary electrons in a high vacuum, gas secondary electron detector for the specific collection of secondary electrons in the presence of gas, and Karmen <sup>\u00a9</sup> detector for the collection of backscattered electrons at high temperature). Experiments carried out on various samples (metal alloys and ceramics) show that the microfurnace operates in both high-vacuum and low-vacuum modes. Temperature ramp rates during temperature cycles applied to the sample range from 1 to 120 \u00b0C/min (temperature rise) and 1 to 480 \u00b0C/min (controlled and natural cooling). The maximum temperature at which images were recorded up to 25 k \u00d7 magnification was 1340 \u00b0C, with a residual air atmosphere of 120 Pa. The choice of a flat furnace with the sample placed directly above it has enabled innovative experiments to be carried out, such as low-voltage imaging (using a shorter working distance\u2014up to 10 mm\u2014than is possible with conventional furnaces), 3D imaging (by tilting the stage by up to 10\u00b0), and high-temperature backscattered electron imaging (using a dedicated detector)."
+  },
+  "authors": [
+    {
+      "attrib": {
+        "orcid": "0009-0003-7717-691X"
+      },
+      "name": {
+        "given_name": "J\u00e9r\u00f4me",
+        "surname": "Mendon\u00e7a"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "ICSM, University of Montpellier, CNRS, CEA, ENSCM, Bagnols-sur-C\u00e8ze, France"
+        }
+      ],
+      "name": {
+        "given_name": "Joseph",
+        "surname": "Lautru"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "ICSM, University of Montpellier, CNRS, CEA, ENSCM, Bagnols-sur-C\u00e8ze, France"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0001-9018-5579"
+      },
+      "name": {
+        "given_name": "Henri-Pierre",
+        "surname": "Brau"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "NewTec Scientific, 2 Route de Sommi\u00e8res, 30820 Caveirac, France"
+        }
+      ],
+      "name": {
+        "given_name": "Dorian",
+        "surname": "Nogues"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "NewTec Scientific, 2 Route de Sommi\u00e8res, 30820 Caveirac, France"
+        }
+      ],
+      "name": {
+        "given_name": "Antoine",
+        "surname": "Candeias"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "ICSM, University of Montpellier, CNRS, CEA, ENSCM, Bagnols-sur-C\u00e8ze, France"
+        }
+      ],
+      "attrib": {
+        "corresp": true,
+        "email": "renaud.podor@cea.fr",
+        "orcid": "0000-0002-8103-1743"
+      },
+      "name": {
+        "given_name": "Renaud",
+        "surname": "Podor"
+      }
+    }
+  ],
+  "copyright": {
+    "statement": "\u00a9 2024 Author(s).",
+    "status": true
+  },
+  "editorialHistory": {
+    "acceptedDate": "2024-04-29",
+    "receivedDates": [
+      "2024-03-08"
+    ]
+  },
+  "funding": [
+    {
+      "agencyid": {
+        "idvalue": "Region Occitanie"
+      },
+      "agencyname": "\n\n",
+      "awardnumber": "Readynov"
+    },
+    {
+      "agencyid": {
+        "idvalue": "ANRT"
+      },
+      "agencyname": "\n\n",
+      "awardnumber": "PhD thesis grant"
+    }
+  ],
+  "keywords": [
+    {
+      "keyString": "Equipment and Techniques for Microscopy; Imaging Methods; Positioning Systems, Nanoparticles",
+      "keySystem": "subject"
+    }
+  ],
+  "openAccess": {
+    "license": "Published under an exclusive license by AIP Publishing."
+  },
+  "pagination": {
+    "electronicID": "053706",
+    "pageCount": "8"
+  },
+  "persistentIDs": [
+    {
+      "DOI": "10.1063/5.0207477"
+    }
+  ],
+  "pubDate": {
+    "printDate": "2024-05-01"
+  },
+  "publication": {
+    "ISSN": [
+      {
+        "issnString": "0034-6748",
+        "pubtype": "ppub"
+      },
+      {
+        "issnString": "1089-7623",
+        "pubtype": "epub"
+      }
+    ],
+    "issueNum": "5",
+    "pubName": "Review of Scientific Instruments",
+    "pubYear": "2024",
+    "publisher": "AIP Publishing LLC",
+    "volumeNum": "95"
+  },
+  "publisherIDs": [
+    {
+      "Identifier": "RSI24-AR-00481",
+      "attribute": "manuscript"
+    }
+  ],
+  "recordData": {
+    "createdTime": "",
+    "loadFormat": "JATS",
+    "loadLocation": "",
+    "loadType": "fromFile",
+    "parsedTime": "",
+    "recordOrigin": ""
+  },
+  "title": {
+    "textEnglish": "Development of a microfurnace dedicated to in situ scanning electron microscope observation up to 1300 \u00b0C. III. In situ high temperature experiments"
+  }
+}

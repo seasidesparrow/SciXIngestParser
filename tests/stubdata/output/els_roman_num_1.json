@@ -1,0 +1,75 @@
+{
+  "authors": [
+    {
+      "name": {
+        "given_name": "H.V.A.",
+        "surname": "Bushby"
+      }
+    },
+    {
+      "name": {
+        "given_name": "R.A.",
+        "surname": "Date"
+      }
+    },
+    {
+      "name": {
+        "given_name": "P.J.",
+        "surname": "Dart"
+      }
+    }
+  ],
+  "copyright": {
+    "statement": "Copyright @ unknown. Published by Elsevier Ltd",
+    "status": true
+  },
+  "doctype": "article",
+  "esources": [
+    {
+      "location": "http://dx.doi.org/10.1016/0038-0717(95)90036-5",
+      "source": "pub_html"
+    }
+  ],
+  "pagination": {
+    "firstPage": "vii",
+    "lastPage": "viii"
+  },
+  "persistentIDs": [
+    {
+      "DOI": "10.1016/0038-0717(95)90036-5"
+    }
+  ],
+  "pubDate": {
+    "printDate": "1995-00-00"
+  },
+  "publication": {
+    "ISSN": [
+      {
+        "issnString": "0038-0717",
+        "pubtype": "not specified"
+      }
+    ],
+    "issueNum": "4",
+    "pubName": "Soil Biology and Biochemistry",
+    "pubYear": "1995",
+    "publisher": "Elsevier Ltd",
+    "volumeNum": "27"
+  },
+  "publisherIDs": [
+    {
+      "Identifier": "0038-0717(95)90036-5",
+      "attribute": "PII"
+    }
+  ],
+  "recordData": {
+    "createdTime": "",
+    "loadFormat": "Elsevier",
+    "loadLocation": "",
+    "loadType": "fromFile",
+    "parsedTime": "",
+    "recordOrigin": ""
+  },
+  "title": {
+    "textEnglish": "Preface"
+  }
+}

@@ -1,0 +1,415 @@
+{
+  "abstract": {
+    "textEnglish": "A new instrument was designed to take visible-light (VL) polarized brightness ( <inline-formula> <mml:math> <mml:mi>pB</mml:mi> </mml:math> </inline-formula>) observations of the solar corona during the 14 December 2020 total solar eclipse. The instrument, called the Coronal Imaging Polarizer (CIP), consisted of a 16 MP CMOS detector, a linear polarizer housed within a piezoelectric rotation mount, and an f-5.6, 200 mm DSLR lens. Observations were successfully obtained, despite poor weather conditions, for five different exposure times (0.001 s, 0.01 s, 0.1 s, 1 s, and 3 s) at six different orientation angles of the linear polarizer ( <inline-formula> <mml:math> <mml:msup> <mml:mn>0</mml:mn> <mml:mo>\u2218</mml:mo> </mml:msup> </mml:math> </inline-formula>, <inline-formula> <mml:math> <mml:msup> <mml:mn>30</mml:mn> <mml:mo>\u2218</mml:mo> </mml:msup> </mml:math> </inline-formula>, <inline-formula> <mml:math> <mml:msup> <mml:mn>60</mml:mn> <mml:mo>\u2218</mml:mo> </mml:msup> </mml:math> </inline-formula>, <inline-formula> <mml:math> <mml:msup> <mml:mn>90</mml:mn> <mml:mo>\u2218</mml:mo> </mml:msup> </mml:math> </inline-formula>, <inline-formula> <mml:math> <mml:msup> <mml:mn>120</mml:mn> <mml:mo>\u2218</mml:mo> </mml:msup> </mml:math> </inline-formula>, and <inline-formula> <mml:math> <mml:msup> <mml:mn>150</mml:mn> <mml:mo>\u2218</mml:mo> </mml:msup> </mml:math> </inline-formula>). The images were manually aligned using the drift of background stars in the sky and images of different exposure times were combined using a simple signal-to-noise ratio cut. The polarization and brightness of the local sky were also estimated and the observations were subsequently corrected. The <inline-formula> <mml:math> <mml:mi>pB</mml:mi> </mml:math> </inline-formula> of the K-corona was determined using least-squares fitting and radiometric calibration was done relative to the Mauna Loa Solar Observatory (MLSO) K-Cor <inline-formula> <mml:math> <mml:mi>pB</mml:mi> </mml:math> </inline-formula> observations from the day of the eclipse. The <inline-formula> <mml:math> <mml:mi>pB</mml:mi> </mml:math> </inline-formula> data was then inverted to acquire the coronal electron density, <inline-formula> <mml:math> <mml:msub> <mml:mi>n</mml:mi> <mml:mi>e</mml:mi> </mml:msub> </mml:math> </inline-formula>, for an equatorial streamer and a polar coronal hole, which agreed very well with previous studies. The effect of changing the number of polarizer angles used to compute the <inline-formula> <mml:math> <mml:mi>pB</mml:mi> </mml:math> </inline-formula> is also discussed and it is found that the results vary by up to <inline-formula> <mml:math> <mml:mo>\u2248</mml:mo> <mml:mn>13</mml:mn> <mml:mi>%</mml:mi> </mml:math> </inline-formula> when using all six polarizer angles versus only a select of three angles."
+  },
+  "authors": [
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "https://ror.org/015m2p889",
+              "affIDType": "ROR"
+            },
+            {
+              "affID": "grid.8186.7",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0001 2168 2483",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Department of Physics, Aberystwyth University, SY23 3BZ, Ceredigion, Cymru, UK"
+        }
+      ],
+      "attrib": {
+        "corresp": true,
+        "email": "lie6@aber.ac.uk",
+        "orcid": "0000-0002-9222-8648"
+      },
+      "name": {
+        "given_name": "Liam",
+        "surname": "Edwards"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "https://ror.org/015m2p889",
+              "affIDType": "ROR"
+            },
+            {
+              "affID": "grid.8186.7",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0001 2168 2483",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Department of Physics, Aberystwyth University, SY23 3BZ, Ceredigion, Cymru, UK"
+        }
+      ],
+      "name": {
+        "given_name": "Kaine A.",
+        "surname": "Bunting"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "https://ror.org/015m2p889",
+              "affIDType": "ROR"
+            },
+            {
+              "affID": "grid.8186.7",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0001 2168 2483",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Department of Physics, Aberystwyth University, SY23 3BZ, Ceredigion, Cymru, UK"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0002-6845-1698"
+      },
+      "name": {
+        "given_name": "Brad",
+        "surname": "Ramsey"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "https://ror.org/015m2p889",
+              "affIDType": "ROR"
+            },
+            {
+              "affID": "grid.8186.7",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0001 2168 2483",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Department of Physics, Aberystwyth University, SY23 3BZ, Ceredigion, Cymru, UK"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0002-1366-678X"
+      },
+      "name": {
+        "given_name": "Matthew",
+        "surname": "Gunn"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "https://ror.org/015m2p889",
+              "affIDType": "ROR"
+            },
+            {
+              "affID": "grid.8186.7",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0001 2168 2483",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Department of Computer Science, Aberystwyth University, SY23 3DB, Ceredigion, Cymru, UK"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0002-0500-5789"
+      },
+      "name": {
+        "given_name": "Tomos",
+        "surname": "Fearn"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "https://ror.org/015m2p889",
+              "affIDType": "ROR"
+            },
+            {
+              "affID": "grid.8186.7",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0001 2168 2483",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Department of Physics, Aberystwyth University, SY23 3BZ, Ceredigion, Cymru, UK"
+        }
+      ],
+      "name": {
+        "given_name": "Thomas",
+        "surname": "Knight"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "https://ror.org/015m2p889",
+              "affIDType": "ROR"
+            },
+            {
+              "affID": "grid.8186.7",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0001 2168 2483",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Department of Physics, Aberystwyth University, SY23 3BZ, Ceredigion, Cymru, UK"
+        },
+        {
+          "affPubID": [
+            {
+              "affID": "https://ror.org/05dxps055",
+              "affIDType": "ROR"
+            },
+            {
+              "affID": "grid.20861.3d",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0001 0706 8890",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Space Radiation Lab, California Institute of Technology, 91125, Pasadena, CA, USA"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0003-0581-1278"
+      },
+      "name": {
+        "given_name": "Gabriel Domingo",
+        "surname": "Muro"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "https://ror.org/015m2p889",
+              "affIDType": "ROR"
+            },
+            {
+              "affID": "grid.8186.7",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0001 2168 2483",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Department of Physics, Aberystwyth University, SY23 3BZ, Ceredigion, Cymru, UK"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0002-6547-5838"
+      },
+      "name": {
+        "given_name": "Huw",
+        "surname": "Morgan"
+      }
+    }
+  ],
+  "copyright": {
+    "statement": "\u00a9 The Author(s) 2023",
+    "status": true
+  },
+  "editorialHistory": {
+    "acceptedDate": "2023-11-17",
+    "receivedDates": [
+      "2023-05-12"
+    ]
+  },
+  "funding": [
+    {
+      "agencyid": {
+        "idschema": "doi",
+        "idvalue": "http://dx.doi.org/10.13039/501100003507"
+      },
+      "agencyname": "Coleg Cymraeg Cenedlaethol"
+    },
+    {
+      "agencyid": {
+        "idschema": "doi",
+        "idvalue": "http://dx.doi.org/10.13039/501100000271"
+      },
+      "agencyname": "Science and Technology Facilities Council",
+      "awardnumber": "ST/N002962/1"
+    }
+  ],
+  "keywords": [
+    {
+      "keyString": "Eclipse observations",
+      "keySystem": "misc"
+    },
+    {
+      "keyString": "Polarization",
+      "keySystem": "misc"
+    },
+    {
+      "keyString": "Optical",
+      "keySystem": "misc"
+    },
+    {
+      "keyString": "Instrumentation and data management",
+      "keySystem": "misc"
+    },
+    {
+      "keyString": "Spectrum",
+      "keySystem": "misc"
+    },
+    {
+      "keyString": "Visible",
+      "keySystem": "misc"
+    }
+  ],
+  "openAccess": {
+    "license": "Open Access This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article\u2019s Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article\u2019s Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit http://creativecommons.org/licenses/by/4.0/.",
+    "licenseURL": "http://creativecommons.org/licenses/by/4.0/",
+    "open": true
+  },
+  "pagination": {
+    "electronicID": "140"
+  },
+  "persistentIDs": [
+    {
+      "DOI": "10.1007/s11207-023-02231-5"
+    }
+  ],
+  "pubDate": {
+    "electrDate": "2023-12-05",
+    "printDate": "2023-12-00"
+  },
+  "publication": {
+    "ISSN": [
+      {
+        "issnString": "0038-0938",
+        "pubtype": "ppub"
+      },
+      {
+        "issnString": "1573-093X",
+        "pubtype": "epub"
+      }
+    ],
+    "issueNum": "12",
+    "pubName": "Solar Physics",
+    "pubYear": "2023",
+    "publisher": "Springer Netherlands",
+    "volumeNum": "298"
+  },
+  "publisherIDs": [
+    {
+      "Identifier": "s11207-023-02231-5",
+      "attribute": "publisher-id"
+    },
+    {
+      "Identifier": "2231",
+      "attribute": "manuscript"
+    }
+  ],
+  "recordData": {
+    "createdTime": "",
+    "loadFormat": "JATS",
+    "loadLocation": "",
+    "loadType": "fromFile",
+    "parsedTime": "",
+    "recordOrigin": ""
+  },
+  "references": [
+    "<ref id=\"CR1\"> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Baumbach</surname> <given-names>S.</given-names> </name> </person-group> <article-title xml:lang=\"de\">Strahlung, ergiebigkeit und elektronendichte der sonnenkorona</article-title> <source>Astron. Nachr.</source> <year>1937</year> <volume>263</volume> <issue>6</issue> <fpage>121</fpage> <pub-id pub-id-type=\"bibcode\">1937AN....263..121B</pub-id> <pub-id pub-id-type=\"doi\">10.1002/asna.19372630602</pub-id> <comment>https://onlinelibrary.wiley.com/doi/abs/10.1002/asna.19372630602</comment> </mixed-citation> </ref>",
+    "<ref id=\"CR2\"> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Bemporad</surname> <given-names>A.</given-names> </name> </person-group> <article-title xml:lang=\"en\">Coronal electron densities derived with images acquired during the 2017 August 21 total solar eclipse</article-title> <source>Astrophys. J.</source> <year>2020</year> <volume>904</volume> <issue>2</issue> <fpage>178</fpage> <pub-id pub-id-type=\"bibcode\">2020ApJ...904..178B</pub-id> <pub-id pub-id-type=\"doi\">10.3847/1538-4357/abc482</pub-id> <comment>ADS</comment> </mixed-citation> </ref>",
+    "<ref id=\"CR3\"> <mixed-citation publication-type=\"book\"> <person-group person-group-type=\"author\"> <name> <surname>Boe</surname> <given-names>B.</given-names> </name> <name> <surname>Habbal</surname> <given-names>S.</given-names> </name> <name> <surname>Downs</surname> <given-names>C.</given-names> </name> <name> <surname>Druckmuller</surname> <given-names>M.</given-names> </name> </person-group> <article-title xml:lang=\"en\">A new color-based method for K- and F-corona extraction</article-title> <source>AGU Fall Meeting Abs. 2021</source> <year>2021</year> <comment>SH15D. ADS</comment> </mixed-citation> </ref>",
+    "<ref id=\"CR4\"> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Boe</surname> <given-names>B.</given-names> </name> <name> <surname>Habbal</surname> <given-names>S.</given-names> </name> <name> <surname>Downs</surname> <given-names>C.</given-names> </name> <name> <surname>Druckm\u00fcller</surname> <given-names>M.</given-names> </name> </person-group> <article-title xml:lang=\"en\">The color and brightness of the F-corona inferred from the 2019 July 2 total solar eclipse</article-title> <source>Astrophys. J.</source> <year>2021</year> <volume>912</volume> <issue>1</issue> <fpage>44</fpage> <pub-id pub-id-type=\"bibcode\">2021ApJ...912...44B</pub-id> <pub-id pub-id-type=\"doi\">10.3847/1538-4357/abea79</pub-id> <comment>ADS</comment> </mixed-citation> </ref>",
+    "<ref id=\"CR5\"> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Boe</surname> <given-names>B.</given-names> </name> <name> <surname>Yamashiro</surname> <given-names>B.</given-names> </name> <name> <surname>Druckm\u00fcller</surname> <given-names>M.</given-names> </name> <name> <surname>Habbal</surname> <given-names>S.</given-names> </name> </person-group> <article-title xml:lang=\"en\">The double-bubble coronal mass ejection of the 2020 December 14 total solar eclipse</article-title> <source>Astrophys. J. Lett.</source> <year>2021</year> <volume>914</volume> <issue>2</issue> <pub-id pub-id-type=\"bibcode\">2021ApJ...914L..39B</pub-id> <pub-id pub-id-type=\"doi\">10.3847/2041-8213/ac05ca</pub-id> <comment>ADS</comment> </mixed-citation> </ref>",
+    "<ref id=\"CR6\"> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Brueckner</surname> <given-names>G.E.</given-names> </name> <name> <surname>Howard</surname> <given-names>R.A.</given-names> </name> <name> <surname>Koomen</surname> <given-names>M.J.</given-names> </name> <name> <surname>Korendyke</surname> <given-names>C.M.</given-names> </name> <name> <surname>Michels</surname> <given-names>D.J.</given-names> </name> <name> <surname>Moses</surname> <given-names>J.D.</given-names> </name> <name> <surname>Socker</surname> <given-names>D.G.</given-names> </name> <name> <surname>Dere</surname> <given-names>K.P.</given-names> </name> <name> <surname>Lamy</surname> <given-names>P.L.</given-names> </name> <name> <surname>Llebaria</surname> <given-names>A.</given-names> </name> <name> <surname>Bout</surname> <given-names>M.V.</given-names> </name> <name> <surname>Schwenn</surname> <given-names>R.</given-names> </name> <name> <surname>Simnett</surname> <given-names>G.M.</given-names> </name> <name> <surname>Bedford</surname> <given-names>D.K.</given-names> </name> <name> <surname>Eyles</surname> <given-names>C.J.</given-names> </name> </person-group> <article-title xml:lang=\"en\">The Large Angle Spectroscopic Coronagraph (LASCO)</article-title> <source>Solar Phys.</source> <year>1995</year> <volume>162</volume> <issue>1\u2009\u2013\u20092</issue> <fpage>357</fpage> <pub-id pub-id-type=\"bibcode\">1995SoPh..162..357B</pub-id> <pub-id pub-id-type=\"doi\">10.1007/BF00733434</pub-id> <comment>ADS</comment> </mixed-citation> </ref>",
+    "<ref id=\"CR7\"> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Byrne</surname> <given-names>J.P.</given-names> </name> <name> <surname>Morgan</surname> <given-names>H.</given-names> </name> <name> <surname>Habbal</surname> <given-names>S.R.</given-names> </name> <name> <surname>Gallagher</surname> <given-names>P.T.</given-names> </name> </person-group> <article-title xml:lang=\"en\">Automatic detection and tracking of coronal mass ejections. II. Multiscale filtering of coronagraph images</article-title> <source>Astrophys. J.</source> <year>2012</year> <volume>752</volume> <issue>2</issue> <fpage>145</fpage> <pub-id pub-id-type=\"bibcode\">2012ApJ...752..145B</pub-id> <pub-id pub-id-type=\"doi\">10.1088/0004-637X/752/2/145</pub-id> <comment>ADS</comment> </mixed-citation> </ref>",
+    "<ref id=\"CR8\"> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Calbert</surname> <given-names>R.</given-names> </name> <name> <surname>Beard</surname> <given-names>D.B.</given-names> </name> </person-group> <article-title xml:lang=\"en\">The F and K components of the solar corona</article-title> <source>Astrophys. J.</source> <year>1972</year> <volume>176</volume> <fpage>497</fpage> <pub-id pub-id-type=\"bibcode\">1972ApJ...176..497C</pub-id> <pub-id pub-id-type=\"doi\">10.1086/151652</pub-id> <comment>ADS</comment> </mixed-citation> </ref>",
+    "<ref id=\"CR9\"> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>De Pontieu</surname> <given-names>B.</given-names> </name> <name> <surname>McIntosh</surname> <given-names>S.W.</given-names> </name> <name> <surname>Hansteen</surname> <given-names>V.H.</given-names> </name> <name> <surname>Schrijver</surname> <given-names>C.J.</given-names> </name> </person-group> <article-title xml:lang=\"en\">Observing the roots of solar coronal heating \u2013 in the chromosphere</article-title> <source>Astrophys. J. Lett.</source> <year>2009</year> <volume>701</volume> <issue>1</issue> <pub-id pub-id-type=\"bibcode\">2009ApJ...701L...1D</pub-id> <pub-id pub-id-type=\"doi\">10.1088/0004-637X/701/1/L1</pub-id> <comment>ADS</comment> </mixed-citation> </ref>",
+    "<ref id=\"CR10\"> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Del Zanna</surname> <given-names>G.</given-names> </name> <name> <surname>Samra</surname> <given-names>J.</given-names> </name> <name> <surname>Monaghan</surname> <given-names>A.</given-names> </name> <name> <surname>Madsen</surname> <given-names>C.</given-names> </name> <name> <surname>Bryans</surname> <given-names>P.</given-names> </name> <name> <surname>DeLuca</surname> <given-names>E.</given-names> </name> <name> <surname>Mason</surname> <given-names>H.</given-names> </name> <name> <surname>Berkey</surname> <given-names>B.</given-names> </name> <name> <surname>de Wijn</surname> <given-names>A.</given-names> </name> <name> <surname>Rivera</surname> <given-names>Y.J.</given-names> </name> </person-group> <article-title xml:lang=\"en\">Coronal densities, temperatures, and abundances during the 2019 total solar eclipse: the role of multiwavelength observations in coronal plasma characterization</article-title> <source>Astrophys. J. Suppl.</source> <year>2023</year> <volume>265</volume> <issue>1</issue> <fpage>11</fpage> <pub-id pub-id-type=\"bibcode\">2023ApJS..265...11D</pub-id> <pub-id pub-id-type=\"doi\">10.3847/1538-4365/acad68</pub-id> <comment>ADS</comment> </mixed-citation> </ref>",
+    "<ref id=\"CR11\"> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Domingo</surname> <given-names>V.</given-names> </name> <name> <surname>Fleck</surname> <given-names>B.</given-names> </name> <name> <surname>Poland</surname> <given-names>A.I.</given-names> </name> </person-group> <article-title xml:lang=\"en\">The SOHO mission: an overview</article-title> <source>Solar Phys.</source> <year>1995</year> <volume>162</volume> <issue>1\u2009\u2013\u20092</issue> <fpage>1</fpage> <pub-id pub-id-type=\"bibcode\">1995SoPh..162....1D</pub-id> <pub-id pub-id-type=\"doi\">10.1007/BF00733425</pub-id> <comment>ADS</comment> </mixed-citation> </ref>",
+    "<ref id=\"CR12\"> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Doyle</surname> <given-names>J.G.</given-names> </name> <name> <surname>Teriaca</surname> <given-names>L.</given-names> </name> <name> <surname>Banerjee</surname> <given-names>D.</given-names> </name> </person-group> <article-title xml:lang=\"en\">Coronal hole diagnostics out to 8R \t\t\t\t\t\t\t<inline-formula id=\"IEq143\"> <alternatives> <mml:math> <mml:msub> <mml:mrow/> <mml:mrow> <mml:mtext>sun</mml:mtext> </mml:mrow> </mml:msub> </mml:math> <tex-math id=\"IEq143_TeX\">\\documentclass[12pt]{minimal} \t\t\t\t\\usepackage{amsmath} \t\t\t\t\\usepackage{wasysym} \t\t\t\t\\usepackage{amsfonts} \t\t\t\t\\usepackage{amssymb} \t\t\t\t\\usepackage{amsbsy} \t\t\t\t\\usepackage{mathrsfs} \t\t\t\t\\usepackage{upgreek} \t\t\t\t\\setlength{\\oddsidemargin}{-69pt} \t\t\t\t\\begin{document}$_{\\text{sun}}$\\end{document}</tex-math> <inline-graphic xlink:href=\"11207_2023_2231_Article_IEq143.gif\"/> </alternatives> </inline-formula> </article-title> <source>Astron. Astrophys.</source> <year>1999</year> <volume>349</volume> <fpage>956</fpage> <pub-id pub-id-type=\"bibcode\">1999A&amp;A...349..956D</pub-id> <comment>ADS</comment> </mixed-citation> </ref>",
+    "<ref id=\"CR13\"> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Druckm\u00fcller</surname> <given-names>M.</given-names> </name> </person-group> <article-title xml:lang=\"en\">Phase correlation method for the alignment of total solar eclipse images</article-title> <source>Astrophys. J.</source> <year>2009</year> <volume>706</volume> <issue>2</issue> <fpage>1605</fpage> <pub-id pub-id-type=\"bibcode\">2009ApJ...706.1605D</pub-id> <pub-id pub-id-type=\"doi\">10.1088/0004-637X/706/2/1605</pub-id> <comment>ADS</comment> </mixed-citation> </ref>",
+    "<ref id=\"CR14\"> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Druckm\u00fcller</surname> <given-names>M.</given-names> </name> </person-group> <article-title xml:lang=\"en\">A noise adaptive fuzzy equalization method for processing solar extreme ultraviolet images</article-title> <source>Astrophys. J. Suppl.</source> <year>2013</year> <volume>207</volume> <issue>2</issue> <fpage>25</fpage> <pub-id pub-id-type=\"bibcode\">2013ApJS..207...25D</pub-id> <pub-id pub-id-type=\"doi\">10.1088/0067-0049/207/2/25</pub-id> <comment>ADS</comment> </mixed-citation> </ref>",
+    "<ref id=\"CR15\"> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Druckm\u00fcllerov\u00e1</surname> <given-names>H.</given-names> </name> <name> <surname>Morgan</surname> <given-names>H.</given-names> </name> <name> <surname>Habbal</surname> <given-names>S.R.</given-names> </name> </person-group> <article-title xml:lang=\"en\">Enhancing coronal structures with the Fourier normalizing-radial-graded filter</article-title> <source>Astrophys. J.</source> <year>2011</year> <volume>737</volume> <issue>2</issue> <fpage>88</fpage> <pub-id pub-id-type=\"bibcode\">2011ApJ...737...88D</pub-id> <pub-id pub-id-type=\"doi\">10.1088/0004-637X/737/2/88</pub-id> <comment>ADS</comment> </mixed-citation> </ref>",
+    "<ref id=\"CR16\"> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>D\u00fcrst</surname> <given-names>J.</given-names> </name> </person-group> <article-title xml:lang=\"en\">Two colour photometry and polarimetry of the solar corona of 16 February 1980</article-title> <source>Astron. Astrophys.</source> <year>1982</year> <volume>112</volume> <fpage>241</fpage> <pub-id pub-id-type=\"bibcode\">1982A&amp;A...112..241D</pub-id> <comment>ADS</comment> </mixed-citation> </ref>",
+    "<ref id=\"CR17\"> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Fainshtein</surname> <given-names>V.G.</given-names> </name> </person-group> <article-title xml:lang=\"en\">New method for separating K- and F-corona brightness based on LASCO/SOHO data</article-title> <source>Geomagn. Aeron.</source> <year>2009</year> <volume>49</volume> <issue>7</issue> <fpage>830</fpage> <pub-id pub-id-type=\"bibcode\">2009Ge&amp;Ae..49..830F</pub-id> <pub-id pub-id-type=\"doi\">10.1134/S0016793209070020</pub-id> <comment>ADS</comment> </mixed-citation> </ref>",
+    "<ref id=\"CR18\"> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Filippov</surname> <given-names>B.</given-names> </name> <name> <surname>Koutchmy</surname> <given-names>S.</given-names> </name> <name> <surname>Lefaudeux</surname> <given-names>N.</given-names> </name> </person-group> <article-title xml:lang=\"en\">Solar total eclipse of 21 August 2017: study of the inner corona dynamical events leading to a CME</article-title> <source>Solar Phys.</source> <year>2020</year> <volume>295</volume> <issue>2</issue> <fpage>24</fpage> <pub-id pub-id-type=\"bibcode\">2020SoPh..295...24F</pub-id> <pub-id pub-id-type=\"doi\">10.1007/s11207-020-1586-4</pub-id> <comment>ADS</comment> </mixed-citation> </ref>",
+    "<ref id=\"CR19\"> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Gallagher</surname> <given-names>P.T.</given-names> </name> <name> <surname>Mathioudakis</surname> <given-names>M.</given-names> </name> <name> <surname>Keenan</surname> <given-names>F.P.</given-names> </name> <name> <surname>Phillips</surname> <given-names>K.J.H.</given-names> </name> <name> <surname>Tsinganos</surname> <given-names>K.</given-names> </name> </person-group> <article-title xml:lang=\"en\">The radial and angular variation of the electron density in the solar corona</article-title> <source>Astrophys. J. Lett.</source> <year>1999</year> <volume>524</volume> <issue>2</issue> <pub-id pub-id-type=\"bibcode\">1999ApJ...524L.133G</pub-id> <pub-id pub-id-type=\"doi\">10.1086/312309</pub-id> <comment>ADS</comment> </mixed-citation> </ref>",
+    "<ref id=\"CR20\"> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Gibson</surname> <given-names>S.E.</given-names> </name> <name> <surname>Fludra</surname> <given-names>A.</given-names> </name> <name> <surname>Bagenal</surname> <given-names>F.</given-names> </name> <name> <surname>Biesecker</surname> <given-names>D.</given-names> </name> <name> <surname>del Zanna</surname> <given-names>G.</given-names> </name> <name> <surname>Bromage</surname> <given-names>B.</given-names> </name> </person-group> <article-title xml:lang=\"en\">Solar minimum streamer densities and temperatures using whole Sun month coordinated data sets</article-title> <source>J. Geophys. Res.</source> <year>1999</year> <volume>104</volume> <issue>A5</issue> <fpage>9691</fpage> <pub-id pub-id-type=\"bibcode\">1999JGR...104.9691G</pub-id> <pub-id pub-id-type=\"doi\">10.1029/98JA02681</pub-id> <comment>ADS</comment> </mixed-citation> </ref>",
+    "<ref id=\"CR21\"> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Gopalswamy</surname> <given-names>N.</given-names> </name> <name> <surname>Yashiro</surname> <given-names>S.</given-names> </name> <name> <surname>Michalek</surname> <given-names>G.</given-names> </name> <name> <surname>Stenborg</surname> <given-names>G.</given-names> </name> <name> <surname>Vourlidas</surname> <given-names>A.</given-names> </name> <name> <surname>Freeland</surname> <given-names>S.</given-names> </name> <name> <surname>Howard</surname> <given-names>R.</given-names> </name> </person-group> <article-title xml:lang=\"en\">The SOHO/LASCO CME catalog</article-title> <source>Earth Moon Planets</source> <year>2009</year> <volume>104</volume> <issue>1\u2009\u2013\u20094</issue> <fpage>295</fpage> <pub-id pub-id-type=\"bibcode\">2009EM&amp;P..104..295G</pub-id> <pub-id pub-id-type=\"doi\">10.1007/s11038-008-9282-7</pub-id> <comment>ADS</comment> </mixed-citation> </ref>",
+    "<ref id=\"CR22\"> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Guhathakurta</surname> <given-names>M.</given-names> </name> <name> <surname>Fludra</surname> <given-names>A.</given-names> </name> <name> <surname>Gibson</surname> <given-names>S.E.</given-names> </name> <name> <surname>Biesecker</surname> <given-names>D.</given-names> </name> <name> <surname>Fisher</surname> <given-names>R.</given-names> </name> </person-group> <article-title xml:lang=\"en\">Physical properties of a coronal hole from a coronal diagnostic spectrometer, Mauna Loa Coronagraph, and LASCO observations during the whole Sun month</article-title> <source>J. Geophys. Res.</source> <year>1999</year> <volume>104</volume> <issue>A5</issue> <fpage>9801</fpage> <pub-id pub-id-type=\"bibcode\">1999JGR...104.9801G</pub-id> <pub-id pub-id-type=\"doi\">10.1029/1998JA900082</pub-id> <comment>ADS</comment> </mixed-citation> </ref>",
+    "<ref id=\"CR23\"> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Habbal</surname> <given-names>S.R.</given-names> </name> </person-group> <article-title xml:lang=\"en\">Total solar eclipse observations: a treasure trove from the source and acceleration regions of the solar wind</article-title> <source>J. Phys. Conf. Ser.</source> <year>2020</year> <volume>1620</volume> <pub-id pub-id-type=\"doi\">10.1088/1742-6596/1620/1/012006</pub-id> <comment>ADS</comment> </mixed-citation> </ref>",
+    "<ref id=\"CR24\"> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Habbal</surname> <given-names>S.R.</given-names> </name> <name> <surname>Morgan</surname> <given-names>H.</given-names> </name> <name> <surname>Johnson</surname> <given-names>J.</given-names> </name> <name> <surname>Arndt</surname> <given-names>M.B.</given-names> </name> <name> <surname>Daw</surname> <given-names>A.</given-names> </name> <name> <surname>Jaeggli</surname> <given-names>S.</given-names> </name> <name> <surname>Kuhn</surname> <given-names>J.</given-names> </name> <name> <surname>Mickey</surname> <given-names>D.</given-names> </name> </person-group> <article-title xml:lang=\"en\">Localized enhancements of Fe \t\t\t\t\t\t\t<sup>+10</sup> density in the corona as observed in Fe XI 789.2 nm during the 2006 March 29 total solar eclipse \t\t\t\t\t\t</article-title> <source>Astrophys. J.</source> <year>2007</year> <volume>663</volume> <issue>1</issue> <fpage>598</fpage> <pub-id pub-id-type=\"bibcode\">2007ApJ...663..598H</pub-id> <pub-id pub-id-type=\"doi\">10.1086/518403</pub-id> <comment>ADS</comment> </mixed-citation> </ref>",
+    "<ref id=\"CR25\"> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Habbal</surname> <given-names>S.R.</given-names> </name> <name> <surname>Druckm\u00fcller</surname> <given-names>M.</given-names> </name> <name> <surname>Morgan</surname> <given-names>H.</given-names> </name> <name> <surname>Daw</surname> <given-names>A.</given-names> </name> <name> <surname>Johnson</surname> <given-names>J.</given-names> </name> <name> <surname>Ding</surname> <given-names>A.</given-names> </name> <name> <surname>Arndt</surname> <given-names>M.</given-names> </name> <name> <surname>Esser</surname> <given-names>R.</given-names> </name> <name> <surname>Ru\u0161in</surname> <given-names>V.</given-names> </name> <name> <surname>Scholl</surname> <given-names>I.</given-names> </name> </person-group> <article-title xml:lang=\"en\">Mapping the distribution of electron temperature and Fe charge states in the corona with total solar eclipse observations</article-title> <source>Astrophys. J.</source> <year>2010</year> <volume>708</volume> <issue>2</issue> <fpage>1650</fpage> <pub-id pub-id-type=\"bibcode\">2010ApJ...708.1650H</pub-id> <pub-id pub-id-type=\"doi\">10.1088/0004-637X/708/2/1650</pub-id> <comment>ADS</comment> </mixed-citation> </ref>",
+    "<ref id=\"CR26\"> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Habbal</surname> <given-names>S.R.</given-names> </name> <name> <surname>Druckm\u00fcller</surname> <given-names>M.</given-names> </name> <name> <surname>Morgan</surname> <given-names>H.</given-names> </name> <name> <surname>Ding</surname> <given-names>A.</given-names> </name> <name> <surname>Johnson</surname> <given-names>J.</given-names> </name> <name> <surname>Druckm\u00fcllerov\u00e1</surname> <given-names>H.</given-names> </name> <name> <surname>Daw</surname> <given-names>A.</given-names> </name> <name> <surname>Arndt</surname> <given-names>M.B.</given-names> </name> <name> <surname>Dietzel</surname> <given-names>M.</given-names> </name> <name> <surname>Saken</surname> <given-names>J.</given-names> </name> </person-group> <article-title xml:lang=\"en\">Thermodynamics of the solar corona and evolution of the solar magnetic field as inferred from the total solar eclipse observations of 2010 July 11</article-title> <source>Astrophys. J.</source> <year>2011</year> <volume>734</volume> <issue>2</issue> <fpage>120</fpage> <pub-id pub-id-type=\"bibcode\">2011ApJ...734..120H</pub-id> <pub-id pub-id-type=\"doi\">10.1088/0004-637X/734/2/120</pub-id> <comment>ADS</comment> </mixed-citation> </ref>",
+    "<ref id=\"CR27\"> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Hanaoka</surname> <given-names>Y.</given-names> </name> <name> <surname>Sakai</surname> <given-names>Y.</given-names> </name> <name> <surname>Takahashi</surname> <given-names>K.</given-names> </name> </person-group> <article-title xml:lang=\"en\">Polarization of the corona observed during the 2017 and 2019 total solar eclipses</article-title> <source>Solar Phys.</source> <year>2021</year> <volume>296</volume> <issue>11</issue> <fpage>158</fpage> <pub-id pub-id-type=\"bibcode\">2021SoPh..296..158H</pub-id> <pub-id pub-id-type=\"doi\">10.1007/s11207-021-01907-0</pub-id> <comment>ADS</comment> </mixed-citation> </ref>",
+    "<ref id=\"CR28\"> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Hanaoka</surname> <given-names>Y.</given-names> </name> <name> <surname>Hasuo</surname> <given-names>R.</given-names> </name> <name> <surname>Hirose</surname> <given-names>T.</given-names> </name> <name> <surname>Ikeda</surname> <given-names>A.C.</given-names> </name> <name> <surname>Ishibashi</surname> <given-names>T.</given-names> </name> <name> <surname>Manago</surname> <given-names>N.</given-names> </name> <name> <surname>Masuda</surname> <given-names>Y.</given-names> </name> <name> <surname>Morita</surname> <given-names>S.</given-names> </name> <name> <surname>Nakazawa</surname> <given-names>J.</given-names> </name> <name> <surname>Ohgoe</surname> <given-names>O.</given-names> </name> <name> <surname>Sakai</surname> <given-names>Y.</given-names> </name> <name> <surname>Sasaki</surname> <given-names>K.</given-names> </name> <name> <surname>Takahashi</surname> <given-names>K.</given-names> </name> <name> <surname>Toi</surname> <given-names>T.</given-names> </name> </person-group> <article-title xml:lang=\"en\">Solar coronal jets extending to high altitudes observed during the 2017 August 21 total eclipse</article-title> <source>Astrophys. J.</source> <year>2018</year> <volume>860</volume> <issue>2</issue> <fpage>142</fpage> <pub-id pub-id-type=\"bibcode\">2018ApJ...860..142H</pub-id> <pub-id pub-id-type=\"doi\">10.3847/1538-4357/aac49b</pub-id> <comment>ADS</comment> </mixed-citation> </ref>",
+    "<ref id=\"CR29\"> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Hayes</surname> <given-names>A.P.</given-names> </name> <name> <surname>Vourlidas</surname> <given-names>A.</given-names> </name> <name> <surname>Howard</surname> <given-names>R.A.</given-names> </name> </person-group> <article-title xml:lang=\"en\">Deriving the electron density of the solar corona from the inversion of total brightness measurements</article-title> <source>Astrophys. J.</source> <year>2001</year> <volume>548</volume> <issue>2</issue> <fpage>1081</fpage> <pub-id pub-id-type=\"bibcode\">2001ApJ...548.1081H</pub-id> <pub-id pub-id-type=\"doi\">10.1086/319029</pub-id> <comment>ADS</comment> </mixed-citation> </ref>",
+    "<ref id=\"CR30\"> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Hou</surname> <given-names>J.</given-names> </name> <name> <surname>de Wijn</surname> <given-names>A.G.</given-names> </name> <name> <surname>Tomczyk</surname> <given-names>S.</given-names> </name> </person-group> <article-title xml:lang=\"en\">Design and measurement of the Stokes polarimeter for the COSMO K-coronagraph</article-title> <source>Astrophys. J.</source> <year>2013</year> <volume>774</volume> <issue>1</issue> <fpage>85</fpage> <pub-id pub-id-type=\"bibcode\">2013ApJ...774...85H</pub-id> <pub-id pub-id-type=\"doi\">10.1088/0004-637X/774/1/85</pub-id> <comment>ADS</comment> </mixed-citation> </ref>",
+    "<ref id=\"CR31\"> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Howard</surname> <given-names>R.A.</given-names> </name> <name> <surname>Moses</surname> <given-names>J.D.</given-names> </name> <name> <surname>Vourlidas</surname> <given-names>A.</given-names> </name> <name> <surname>Newmark</surname> <given-names>J.S.</given-names> </name> <name> <surname>Socker</surname> <given-names>D.G.</given-names> </name> <name> <surname>Plunkett</surname> <given-names>S.P.</given-names> </name> <name> <surname>Korendyke</surname> <given-names>C.M.</given-names> </name> <name> <surname>Cook</surname> <given-names>J.W.</given-names> </name> <name> <surname>Hurley</surname> <given-names>A.</given-names> </name> <name> <surname>Davila</surname> <given-names>J.M.</given-names> </name> <name> <surname>Thompson</surname> <given-names>W.T.</given-names> </name> <name> <surname>St Cyr</surname> <given-names>O.C.</given-names> </name> <name> <surname>Mentzell</surname> <given-names>E.</given-names> </name> <name> <surname>Mehalick</surname> <given-names>K.</given-names> </name> <name> <surname>Lemen</surname> <given-names>J.R.</given-names> </name> <name> <surname>Wuelser</surname> <given-names>J.P.</given-names> </name> <name> <surname>Duncan</surname> <given-names>D.W.</given-names> </name> <name> <surname>Tarbell</surname> <given-names>T.D.</given-names> </name> <name> <surname>Wolfson</surname> <given-names>C.J.</given-names> </name> <name> <surname>Moore</surname> <given-names>A.</given-names> </name> <name> <surname>Harrison</surname> <given-names>R.A.</given-names> </name> <name> <surname>Waltham</surname> <given-names>N.R.</given-names> </name> <name> <surname>Lang</surname> <given-names>J.</given-names> </name> <name> <surname>Davis</surname> <given-names>C.J.</given-names> </name> <name> <surname>Eyles</surname> <given-names>C.J.</given-names> </name> <name> <surname>Mapson-Menard</surname> <given-names>H.</given-names> </name> <name> <surname>Simnett</surname> <given-names>G.M.</given-names> </name> <name> <surname>Halain</surname> <given-names>J.P.</given-names> </name> <name> <surname>Defise</surname> <given-names>J.M.</given-names> </name> <name> <surname>Mazy</surname> <given-names>E.</given-names> </name> <name> <surname>Rochus</surname> <given-names>P.</given-names> </name> <name> <surname>Mercier</surname> <given-names>R.</given-names> </name> <name> <surname>Ravet</surname> <given-names>M.F.</given-names> </name> <name> <surname>Delmotte</surname> <given-names>F.</given-names> </name> <name> <surname>Auchere</surname> <given-names>F.</given-names> </name> <name> <surname>Delaboudiniere</surname> <given-names>J.P.</given-names> </name> <name> <surname>Bothmer</surname> <given-names>V.</given-names> </name> <name> <surname>Deutsch</surname> <given-names>W.</given-names> </name> <name> <surname>Wang</surname> <given-names>D.</given-names> </name> <name> <surname>Rich</surname> <given-names>N.</given-names> </name> <name> <surname>Cooper</surname> <given-names>S.</given-names> </name> <name> <surname>Stephens</surname> <given-names>V.</given-names> </name> <name> <surname>Maahs</surname> <given-names>G.</given-names> </name> <name> <surname>Baugh</surname> <given-names>R.</given-names> </name> <name> <surname>McMullin</surname> <given-names>D.</given-names> </name> <name> <surname>Carter</surname> <given-names>T.</given-names> </name> </person-group> <article-title xml:lang=\"en\">Sun Earth connection coronal and heliospheric investigation (SECCHI)</article-title> <source>Space Sci. Rev.</source> <year>2008</year> <volume>136</volume> <issue>1\u2009\u2013\u20094</issue> <fpage>67</fpage> <pub-id pub-id-type=\"bibcode\">2008SSRv..136...67H</pub-id> <pub-id pub-id-type=\"doi\">10.1007/s11214-008-9341-4</pub-id> <comment>ADS</comment> </mixed-citation> </ref>",
+    "<ref id=\"CR32\"> <mixed-citation publication-type=\"other\"> \t\t\t\t\tInhester, B.: 2015, Thomson scattering in the solar corona. arXiv e-prints. \t\t\t\t\t\t<ext-link ext-link-type=\"url\" xlink:href=\"http://arxiv.org/abs/arXiv:1512.00651\">arXiv</ext-link>. \t\t\t\t\t\t<ext-link ext-link-type=\"url\" xlink:href=\"http://adsabs.harvard.edu/abs/2015arXiv151200651I\">ADS</ext-link>.  \t\t\t\t\t</mixed-citation> </ref>",
+    "<ref id=\"CR33\"> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Jej\u010di\u010d</surname> <given-names>S.</given-names> </name> <name> <surname>Heinzel</surname> <given-names>P.</given-names> </name> <name> <surname>Zapi\u00f3r</surname> <given-names>M.</given-names> </name> <name> <surname>Druckm\u00fcller</surname> <given-names>M.</given-names> </name> <name> <surname>Gun\u00e1r</surname> <given-names>S.</given-names> </name> <name> <surname>Kotr\u010d</surname> <given-names>P.</given-names> </name> </person-group> <article-title xml:lang=\"en\">Multi-wavelength eclipse observations of a quiescent prominence</article-title> <source>Solar Phys.</source> <year>2014</year> <volume>289</volume> <issue>7</issue> <fpage>2487</fpage> <pub-id pub-id-type=\"bibcode\">2014SoPh..289.2487J</pub-id> <pub-id pub-id-type=\"doi\">10.1007/s11207-014-0482-1</pub-id> <comment>ADS</comment> </mixed-citation> </ref>",
+    "<ref id=\"CR34\"> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Kaiser</surname> <given-names>M.L.</given-names> </name> <name> <surname>Kucera</surname> <given-names>T.A.</given-names> </name> <name> <surname>Davila</surname> <given-names>J.M.</given-names> </name> <name> <surname>St. Cyr</surname> <given-names>O.C.</given-names> </name> <name> <surname>Guhathakurta</surname> <given-names>M.</given-names> </name> <name> <surname>Christian</surname> <given-names>E.</given-names> </name> </person-group> <article-title xml:lang=\"en\">The STEREO mission: an introduction</article-title> <source>Space Sci. Rev.</source> <year>2008</year> <volume>136</volume> <issue>1\u2009\u2013\u20094</issue> <fpage>5</fpage> <pub-id pub-id-type=\"bibcode\">2008SSRv..136....5K</pub-id> <pub-id pub-id-type=\"doi\">10.1007/s11214-007-9277-0</pub-id> <comment>ADS</comment> </mixed-citation> </ref>",
+    "<ref id=\"CR35\"> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Koutchmy</surname> <given-names>S.</given-names> </name> <name> <surname>Baudin</surname> <given-names>F.</given-names> </name> <name> <surname>Bocchialini</surname> <given-names>K.</given-names> </name> <name> <surname>Daniel</surname> <given-names>J.-Y.</given-names> </name> <name> <surname>Delaboudini\u00e8re</surname> <given-names>J.-P.</given-names> </name> <name> <surname>Golub</surname> <given-names>L.</given-names> </name> <name> <surname>Lamy</surname> <given-names>P.</given-names> </name> <name> <surname>Adjabshirizadeh</surname> <given-names>A.</given-names> </name> </person-group> <article-title xml:lang=\"en\">The August 11th, 1999 CME</article-title> <source>Astron. Astrophys.</source> <year>2004</year> <volume>420</volume> <fpage>709</fpage> <pub-id pub-id-type=\"bibcode\">2004A&amp;A...420..709K</pub-id> <pub-id pub-id-type=\"doi\">10.1051/0004-6361:20040109</pub-id> <comment>ADS</comment> </mixed-citation> </ref>",
+    "<ref id=\"CR36\"> <mixed-citation publication-type=\"book\"> <person-group person-group-type=\"author\"> <name> <surname>Lamy</surname> <given-names>P.</given-names> </name> <name> <surname>Dam\u00e9</surname> <given-names>L.</given-names> </name> <name> <surname>Viv\u00e8s</surname> <given-names>S.</given-names> </name> <name> <surname>Zhukov</surname> <given-names>A.</given-names> </name> </person-group> <person-group person-group-type=\"editor\"> <name> <surname>Oschmann</surname> <given-names>J.</given-names> </name> <name> <surname>Jacobus</surname> <given-names>M.</given-names> </name> <name> <surname>Clampin</surname> <given-names>M.C.</given-names> </name> <name> <surname>MacEwen</surname> <given-names>H.A.</given-names> </name> </person-group> <article-title xml:lang=\"en\">ASPIICS: a giant coronagraph for the ESA/PROBA-3 formation flying mission</article-title> <source>Space Telescopes and Instrumentation 2010: Optical, Infrared, and Millimeter Wave</source> <year>2010</year> <fpage>773118</fpage> <pub-id pub-id-type=\"doi\">10.1117/12.858247</pub-id> <comment>ADS</comment> </mixed-citation> </ref>",
+    "<ref id=\"CR37\"> <mixed-citation publication-type=\"other\"> \t\t\t\t\tLang, K.R.: 2010. Chapter 6: Perpetual change, Sun, NASA\u2019s cosmos, Tufts University. \t\t\t\t\t\t<ext-link ext-link-type=\"url\" xlink:href=\"https://ase.tufts.edu/cosmos/print_images.asp?id=28\">https://ase.tufts.edu/cosmos/print_images.asp?id=28</ext-link>.  \t\t\t\t\t</mixed-citation> </ref>",
+    "<ref id=\"CR38\"> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Liang</surname> <given-names>Y.</given-names> </name> <name> <surname>Qu</surname> <given-names>Z.</given-names> </name> <name> <surname>Hao</surname> <given-names>L.</given-names> </name> <name> <surname>Xu</surname> <given-names>Z.</given-names> </name> <name> <surname>Zhong</surname> <given-names>Y.</given-names> </name> </person-group> <article-title xml:lang=\"en\">Imaging-polarimetric properties of the white-light inner corona during the 2017 total solar eclipse</article-title> <source>Mon. Not. Roy. Astron. Soc.</source> <year>2022</year> <pub-id pub-id-type=\"doi\">10.1093/mnras/stac3183</pub-id> <comment>ADS</comment> </mixed-citation> </ref>",
+    "<ref id=\"CR39\"> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Lyot</surname> <given-names>B.</given-names> </name> <name> <surname>Marshall</surname> <given-names>R.K.</given-names> </name> </person-group> <article-title xml:lang=\"en\">The study of the solar corona without an eclipse</article-title> <source>J. R. Astron. Soc. Can.</source> <year>1933</year> <volume>27</volume> <fpage>225</fpage> <pub-id pub-id-type=\"bibcode\">1933JRASC..27..225L</pub-id> <comment>ADS</comment> </mixed-citation> </ref>",
+    "<ref id=\"CR40\"> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>McComas</surname> <given-names>D.J.</given-names> </name> <name> <surname>Velli</surname> <given-names>M.</given-names> </name> <name> <surname>Lewis</surname> <given-names>W.S.</given-names> </name> <name> <surname>Acton</surname> <given-names>L.W.</given-names> </name> <name> <surname>Balat-Pichelin</surname> <given-names>M.</given-names> </name> <name> <surname>Bothmer</surname> <given-names>V.</given-names> </name> <name> <surname>Dirling</surname> <given-names>R.B.</given-names> </name> <name> <surname>Feldman</surname> <given-names>W.C.</given-names> </name> <name> <surname>Gloeckler</surname> <given-names>G.</given-names> </name> <name> <surname>Habbal</surname> <given-names>S.R.</given-names> </name> <name> <surname>Hassler</surname> <given-names>D.M.</given-names> </name> <name> <surname>Mann</surname> <given-names>I.</given-names> </name> <name> <surname>Matthaeus</surname> <given-names>W.H.</given-names> </name> <name> <surname>McNutt</surname> <given-names>R.L.</given-names> </name> <name> <surname>Mewaldt</surname> <given-names>R.A.</given-names> </name> <name> <surname>Murphy</surname> <given-names>N.</given-names> </name> <name> <surname>Ofman</surname> <given-names>L.</given-names> </name> <name> <surname>Sittler</surname> <given-names>E.C.</given-names> </name> <name> <surname>Smith</surname> <given-names>C.W.</given-names> </name> <name> <surname>Zurbuchen</surname> <given-names>T.H.</given-names> </name> </person-group> <article-title xml:lang=\"en\">Understanding coronal heating and solar wind acceleration: case for in situ near-Sun measurements</article-title> <source>Rev. Geophys.</source> <year>2007</year> <volume>45</volume> <issue>1</issue> <pub-id pub-id-type=\"bibcode\">2007RvGeo..45.1004M</pub-id> <pub-id pub-id-type=\"doi\">10.1029/2006RG000195</pub-id> <comment>ADS</comment> </mixed-citation> </ref>",
+    "<ref id=\"CR41\"> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Morgan</surname> <given-names>H.</given-names> </name> <name> <surname>Druckm\u00fcller</surname> <given-names>M.</given-names> </name> </person-group> <article-title xml:lang=\"en\">Multi-scale Gaussian normalization for solar image processing</article-title> <source>Solar Phys.</source> <year>2014</year> <volume>289</volume> <issue>8</issue> <fpage>2945</fpage> <pub-id pub-id-type=\"bibcode\">2014SoPh..289.2945M</pub-id> <pub-id pub-id-type=\"doi\">10.1007/s11207-014-0523-9</pub-id> <comment>ADS</comment> </mixed-citation> </ref>",
+    "<ref id=\"CR42\"> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Morgan</surname> <given-names>H.</given-names> </name> <name> <surname>Habbal</surname> <given-names>S.R.</given-names> </name> </person-group> <article-title xml:lang=\"en\">The long-term stability of the visible F corona at heights of 3-6 R_\u2299</article-title> <source>Astron. Astrophys.</source> <year>2007</year> <volume>471</volume> <issue>2</issue> <pub-id pub-id-type=\"bibcode\">2007A&amp;A...471L..47M</pub-id> <pub-id pub-id-type=\"doi\">10.1051/0004-6361:20078071</pub-id> <comment>ADS</comment> </mixed-citation> </ref>",
+    "<ref id=\"CR43\"> <mixed-citation publication-type=\"other\"> \t\t\t\t\tMuro, G.D., Gunn, M., Fearn, S., Fearn, T., Morgan, H.: 2023, Visible emission line spectroscopy of the solar corona during the 2019 total solar eclipse. \t\t\t\t\t\t<italic>PREPRINT (Version 1) available at Research Square</italic>. \t\t\t\t\t\t<ext-link ext-link-type=\"url\" xlink:href=\"https://doi.org/10.21203/rs.3.rs-2538179/v1\">DOI</ext-link>. \t\t\t\t\t\t<ext-link ext-link-type=\"url\" xlink:href=\"https://www.researchsquare.com/article/rs-2538179/v1\">https://www.researchsquare.com/article/rs-2538179/v1</ext-link>.  \t\t\t\t\t</mixed-citation> </ref>",
+    "<ref id=\"CR44\"> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Newkirk</surname> <given-names>J.G.</given-names> </name> </person-group> <article-title xml:lang=\"en\">Structure of the solar corona</article-title> <source>Annu. Rev. Astron. Astrophys.</source> <year>1967</year> <volume>5</volume> <fpage>213</fpage> <pub-id pub-id-type=\"bibcode\">1967ARA&amp;A...5..213N</pub-id> <pub-id pub-id-type=\"doi\">10.1146/annurev.aa.05.090167.001241</pub-id> <comment>ADS</comment> </mixed-citation> </ref>",
+    "<ref id=\"CR45\"> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Pasachoff</surname> <given-names>J.M.</given-names> </name> <name> <surname>Ru\u0161in</surname> <given-names>V.</given-names> </name> </person-group> <article-title xml:lang=\"en\">White-light coronal imaging at the 21 August 2017 total solar eclipse</article-title> <source>Solar Phys.</source> <year>2022</year> <volume>297</volume> <issue>3</issue> <fpage>28</fpage> <pub-id pub-id-type=\"bibcode\">2022SoPh..297...28P</pub-id> <pub-id pub-id-type=\"doi\">10.1007/s11207-022-01964-z</pub-id> <comment>ADS</comment> </mixed-citation> </ref>",
+    "<ref id=\"CR46\"> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Patel</surname> <given-names>R.</given-names> </name> <name> <surname>Majumdar</surname> <given-names>S.</given-names> </name> <name> <surname>Pant</surname> <given-names>V.</given-names> </name> <name> <surname>Banerjee</surname> <given-names>D.</given-names> </name> </person-group> <article-title xml:lang=\"en\">A simple radial gradient filter for batch-processing of coronagraph images</article-title> <source>Solar Phys.</source> <year>2022</year> <volume>297</volume> <issue>3</issue> <fpage>27</fpage> <pub-id pub-id-type=\"bibcode\">2022SoPh..297...27P</pub-id> <pub-id pub-id-type=\"doi\">10.1007/s11207-022-01957-y</pub-id> <comment>ADS</comment> </mixed-citation> </ref>",
+    "<ref id=\"CR47\"> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Qiang</surname> <given-names>Z.</given-names> </name> <name> <surname>Bai</surname> <given-names>X.</given-names> </name> <name> <surname>Ji</surname> <given-names>K.</given-names> </name> <name> <surname>Liu</surname> <given-names>H.</given-names> </name> <name> <surname>Shang</surname> <given-names>Z.</given-names> </name> </person-group> <article-title xml:lang=\"en\">Enhancing coronal structures with radial local multi-scale filter</article-title> <source>New Astron.</source> <year>2020</year> <volume>79</volume> <pub-id pub-id-type=\"doi\">10.1016/j.newast.2020.101383</pub-id> <comment>ADS</comment> </mixed-citation> </ref>",
+    "<ref id=\"CR48\"> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Qu\u00e9merais</surname> <given-names>E.</given-names> </name> <name> <surname>Lamy</surname> <given-names>P.</given-names> </name> </person-group> <article-title xml:lang=\"en\">Two-dimensional electron density in the solar corona from inversion of white light images \u2013 application to SOHO/LASCO-C2 observations</article-title> <source>Astron. Astrophys.</source> <year>2002</year> <volume>393</volume> <fpage>295</fpage> <pub-id pub-id-type=\"bibcode\">2002A&amp;A...393..295Q</pub-id> <pub-id pub-id-type=\"doi\">10.1051/0004-6361:20021019</pub-id> <comment>ADS</comment> </mixed-citation> </ref>",
+    "<ref id=\"CR49\"> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Raju</surname> <given-names>A.K.</given-names> </name> <name> <surname>Abhyankar</surname> <given-names>K.D.</given-names> </name> </person-group> <article-title xml:lang=\"en\">Polarization and electron densities in the solar corona of 1980 February 16</article-title> <source>Bull. Astron. Soc. India</source> <year>1986</year> <volume>14</volume> <fpage>217</fpage> <pub-id pub-id-type=\"bibcode\">1986BASI...14..217R</pub-id> <comment>ADS</comment> </mixed-citation> </ref>",
+    "<ref id=\"CR50\"> <mixed-citation publication-type=\"book\"> <person-group person-group-type=\"author\"> <name> <surname>Reginald</surname> <given-names>N.L.</given-names> </name> <name> <surname>Davila</surname> <given-names>J.</given-names> </name> <name> <surname>St. Cyr</surname> <given-names>C.</given-names> </name> </person-group> <article-title xml:lang=\"en\">Electron temperature maps of low solar corona: results from the total solar eclipse of 29 March 2006 in Libya</article-title> <source>AAS/Solar Physics Division Meeting</source> <year>2009</year> <fpage>14.03</fpage> <comment>ADS</comment> </mixed-citation> </ref>",
+    "<ref id=\"CR51\"> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Reginald</surname> <given-names>N.L.</given-names> </name> <name> <surname>Davila</surname> <given-names>J.M.</given-names> </name> <name> <surname>St. Cyr</surname> <given-names>O.C.</given-names> </name> <name> <surname>Rastaetter</surname> <given-names>L.</given-names> </name> </person-group> <article-title xml:lang=\"en\">Evaluating the uncertainties in the electron temperature and radial speed measurements using white light corona eclipse observations</article-title> <source>Solar Phys.</source> <year>2014</year> <volume>289</volume> <issue>6</issue> <fpage>2021</fpage> <pub-id pub-id-type=\"bibcode\">2014SoPh..289.2021R</pub-id> <pub-id pub-id-type=\"doi\">10.1007/s11207-013-0467-5</pub-id> <comment>ADS</comment> </mixed-citation> </ref>",
+    "<ref id=\"CR52\"> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Saito</surname> <given-names>K.</given-names> </name> <name> <surname>Poland</surname> <given-names>A.I.</given-names> </name> <name> <surname>Munro</surname> <given-names>R.H.</given-names> </name> </person-group> <article-title xml:lang=\"en\">A study of the background corona near solar minimum</article-title> <source>Solar Phys.</source> <year>1977</year> <volume>55</volume> <issue>1</issue> <fpage>121</fpage> <pub-id pub-id-type=\"bibcode\">1977SoPh...55..121S</pub-id> <pub-id pub-id-type=\"doi\">10.1007/BF00150879</pub-id> <comment>ADS</comment> </mixed-citation> </ref>",
+    "<ref id=\"CR53\"> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Sheeley</surname> <given-names>J.N.R.</given-names> </name> <name> <surname>Wang</surname> <given-names>Y.-M.</given-names> </name> </person-group> <article-title xml:lang=\"en\">Coronal inflows during the interval 1996-2014</article-title> <source>Astrophys. J.</source> <year>2014</year> <volume>797</volume> <issue>1</issue> <fpage>10</fpage> <pub-id pub-id-type=\"bibcode\">2014ApJ...797...10S</pub-id> <pub-id pub-id-type=\"doi\">10.1088/0004-637X/797/1/10</pub-id> <comment>ADS</comment> </mixed-citation> </ref>",
+    "<ref id=\"CR54\"> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Skomorovsky</surname> <given-names>V.I.</given-names> </name> <name> <surname>Trifonov</surname> <given-names>V.D.</given-names> </name> <name> <surname>Mashnich</surname> <given-names>G.P.</given-names> </name> <name> <surname>Zagaynova</surname> <given-names>Y.S.</given-names> </name> <name> <surname>Fainshtein</surname> <given-names>V.G.</given-names> </name> <name> <surname>Kushtal</surname> <given-names>G.I.</given-names> </name> <name> <surname>Chuprakov</surname> <given-names>S.A.</given-names> </name> </person-group> <article-title xml:lang=\"en\">White-light observations and polarimetric analysis of the solar corona during the eclipse of 1 August 2008</article-title> <source>Solar Phys.</source> <year>2012</year> <volume>277</volume> <issue>2</issue> <fpage>267</fpage> <pub-id pub-id-type=\"bibcode\">2012SoPh..277..267S</pub-id> <pub-id pub-id-type=\"doi\">10.1007/s11207-011-9910-7</pub-id> <comment>ADS</comment> </mixed-citation> </ref>",
+    "<ref id=\"CR55\"> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Strong</surname> <given-names>K.</given-names> </name> <name> <surname>Viall</surname> <given-names>N.</given-names> </name> <name> <surname>Schmelz</surname> <given-names>J.</given-names> </name> <name> <surname>Saba</surname> <given-names>J.</given-names> </name> </person-group> <article-title xml:lang=\"en\">Understanding space weather: part III: the Sun\u2019s domain</article-title> <source>Bull. Am. Meteorol. Soc.</source> <year>2017</year> <volume>98</volume> <issue>12</issue> <fpage>2593</fpage> <pub-id pub-id-type=\"bibcode\">2017BAMS...98.2593S</pub-id> <pub-id pub-id-type=\"doi\">10.1175/BAMS-D-16-0204.1</pub-id> <comment>ADS</comment> </mixed-citation> </ref>",
+    "<ref id=\"CR56\"> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Thernisien</surname> <given-names>A.F.</given-names> </name> <name> <surname>Howard</surname> <given-names>R.A.</given-names> </name> </person-group> <article-title xml:lang=\"en\">Electron density modeling of a streamer using LASCO data of 2004 January and February</article-title> <source>Astrophys. J.</source> <year>2006</year> <volume>642</volume> <issue>1</issue> <fpage>523</fpage> <pub-id pub-id-type=\"bibcode\">2006ApJ...642..523T</pub-id> <pub-id pub-id-type=\"doi\">10.1086/500818</pub-id> <comment>ADS</comment> </mixed-citation> </ref>",
+    "<ref id=\"CR57\"> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>van de Hulst</surname> <given-names>H.C.</given-names> </name> </person-group> <article-title xml:lang=\"en\">The electron density of the solar corona</article-title> <source>Bull. Astron. Inst. Neth.</source> <year>1950</year> <volume>11</volume> <fpage>135</fpage> <pub-id pub-id-type=\"bibcode\">1950BAN....11..135V</pub-id> <comment>ADS</comment> </mixed-citation> </ref>",
+    "<ref id=\"CR58\"> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Verroi</surname> <given-names>E.</given-names> </name> <name> <surname>Frassetto</surname> <given-names>F.</given-names> </name> <name> <surname>Naletto</surname> <given-names>G.</given-names> </name> </person-group> <article-title xml:lang=\"en\">Analysis of diffraction from the occulter edges of a giant externally occulted solar coronagraph</article-title> <source>J. Opt. Soc. Am. A</source> <year>2008</year> <volume>25</volume> <issue>1</issue> <fpage>182</fpage> <pub-id pub-id-type=\"bibcode\">2008JOSAA..25..182V</pub-id> <pub-id pub-id-type=\"doi\">10.1364/JOSAA.25.000182</pub-id> <comment>ADS</comment> </mixed-citation> </ref>",
+    "<ref id=\"CR59\"> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Vorobiev</surname> <given-names>D.</given-names> </name> <name> <surname>Ninkov</surname> <given-names>Z.</given-names> </name> <name> <surname>Bernard</surname> <given-names>L.</given-names> </name> <name> <surname>Brock</surname> <given-names>N.</given-names> </name> </person-group> <article-title xml:lang=\"en\">Imaging polarimetry of the 2017 solar eclipse with the RIT polarization imaging camera</article-title> <source>Publ. Astron. Soc. Pac.</source> <year>2020</year> <volume>132</volume> <issue>1008</issue> <pub-id pub-id-type=\"bibcode\">2020PASP..132b4202V</pub-id> <pub-id pub-id-type=\"doi\">10.1088/1538-3873/ab55f1</pub-id> <comment>ADS</comment> </mixed-citation> </ref>",
+    "<ref id=\"CR60\"> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Wang</surname> <given-names>F.</given-names> </name> <name> <surname>Theuwissen</surname> <given-names>A.</given-names> </name> </person-group> <article-title xml:lang=\"en\">Linearity analysis of a CMOS image sensor</article-title> <source>Electron. Imaging</source> <year>2017</year> <volume>29</volume> <fpage>84</fpage> <pub-id pub-id-type=\"doi\">10.2352/ISSN.2470-1173.2017.11.IMSE-191</pub-id> </mixed-citation> </ref>",
+    "<ref id=\"CR61\"> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Zotti</surname> <given-names>G.</given-names> </name> <name> <surname>Hoffmann</surname> <given-names>S.M.</given-names> </name> <name> <surname>Wolf</surname> <given-names>A.</given-names> </name> <name> <surname>Ch\u00e9reau</surname> <given-names>F.</given-names> </name> <name> <surname>Ch\u00e9reau</surname> <given-names>G.</given-names> </name> </person-group> <article-title xml:lang=\"en\">The simulated sky: stellarium for cultural astronomy research</article-title> <source>J. Skyscape Archaeol.</source> <year>2021</year> <volume>6</volume> <issue>2</issue> <fpage>221</fpage> <pub-id pub-id-type=\"doi\">10.1558/jsa.17822</pub-id> <comment>https://journal.equinoxpub.com/JSA/article/view/17822</comment> </mixed-citation> </ref>"
+  ],
+  "title": {
+    "textEnglish": "Derived Electron Densities from Linear Polarization Observations of the Visible-Light Corona During the 14 December 2020 Total Solar Eclipse"
+  }
+}

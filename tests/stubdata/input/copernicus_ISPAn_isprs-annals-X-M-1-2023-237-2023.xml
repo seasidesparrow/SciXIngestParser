@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE article SYSTEM "https://isprs-annals.copernicus.org/articles//inc/isprs-annals/copernicus.dtd">
+<article language="en" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<journal>
+		<journal_title>ISPRS Annals of the Photogrammetry, Remote Sensing and Spatial Information Sciences</journal_title>
+		<journal_url>https://isprs-annals.copernicus.org/articles/</journal_url>
+		<issn>2194-9042</issn>
+		<eissn>2194-9050</eissn>
+		<volume_number>X-M-1-2023</volume_number>
+		<volume_title>29th CIPA Symposium &quot;Documenting, Understanding, Preserving Cultural Heritage. Humanities and Digital Technologies for Shaping the Future&quot;</volume_title>
+		<publication_year>2023</publication_year>
+	</journal>
+	<doi>10.5194/isprs-annals-X-M-1-2023-237-2023</doi>
+	<article_url>https://isprs-annals.copernicus.org/articles/X-M-1-2023/237/2023/</article_url>
+	<abstract_html>https://isprs-annals.copernicus.org/articles/X-M-1-2023/237/2023/isprs-annals-X-M-1-2023-237-2023.html</abstract_html>
+	<fulltext_pdf>https://isprs-annals.copernicus.org/articles/X-M-1-2023/237/2023/isprs-annals-X-M-1-2023-237-2023.pdf</fulltext_pdf>
+	<start_page>237</start_page>
+	<end_page>244</end_page>
+	<publication_date>2023-06-23</publication_date>
+	<article_title content_type="html">MODERN METHODS OF DOCUMENTATION AND VISUALIZATION OF HISTORICAL MINES IN THE UNESCO MINING REGION IN THE ORE MOUNTAINS</article_title>
+	<authors>
+		<author numeration="1" affiliations="1">
+			<name>K. Pavelka jr.</name>
+			<email>karel.pavelka@cvut.cz</email>
+		</author>
+		<author numeration="2" affiliations="1">
+			<name>L. Běloch</name>
+			<email>lukas.beloch@fsv.cvut.cz</email>
+		</author>
+		<author numeration="3" affiliations="1">
+			<name>K. Pavelka</name>
+			<email>pavelka@fsv.cvut.cz</email>
+		</author>
+	</authors>
+	<affiliations>
+		<affiliation numeration="1" content_type="html">Czech Technical University in Prague, Faculty of Civil Engineering, 16629 Prague 6, Thakurova 7, Czech Republic</affiliation>
+	</affiliations>
+	<abstract content_type="html">The article focuses on modern methods of mining activity documentation and visualization. The development of technologies that allow us to display 3D models are many in recent years, from web portals, augmented reality using smartphones or tablets to virtual reality glasses. These technologies give us a whole new way of looking at and viewing 3D models. In this study, we will use most of the available options to visualize mining activities in the UNESCO-protected Ore Mountains. Each of these technologies needs differently prepared data. Because each of these technologies have different limits, we need to find these limits and modify the 3D models. The ZEB Revo laser scanner was used for data acquisition, which uses SLAM technology and is much more suitable for such areas than conventional terrestrial scanners, with which the work is lengthy and not nearly as efficient, and not the least of which eliminates the time-consuming post-scan work of merging scans. Especially when using scanning for mining, where there is not quite enough to go around, manually splicing scans is a nightmare, and automatic post-production merging is also often problematic.</abstract>
+</article>

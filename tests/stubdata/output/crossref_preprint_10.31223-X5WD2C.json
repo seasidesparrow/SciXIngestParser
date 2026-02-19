@@ -1,0 +1,75 @@
+{
+  "authors": [
+    {
+      "name": {
+        "given_name": "Toby",
+        "surname": "Halamka"
+      }
+    },
+    {
+      "name": {
+        "given_name": "Jonathan",
+        "surname": "Raberg"
+      }
+    },
+    {
+      "name": {
+        "given_name": "Jamie",
+        "surname": "McFarlin"
+      }
+    },
+    {
+      "name": {
+        "given_name": "Adam",
+        "surname": "Younkin"
+      }
+    },
+    {
+      "name": {
+        "given_name": "Christopher",
+        "surname": "Mulligan"
+      }
+    },
+    {
+      "name": {
+        "given_name": "Xiao-Lei",
+        "surname": "Liu"
+      }
+    },
+    {
+      "name": {
+        "given_name": "Sebastian",
+        "surname": "Kopf"
+      }
+    }
+  ],
+  "doctype": "eprint",
+  "esources": [
+    {
+      "location": "http://eartharxiv.org/repository/view/3263/",
+      "source": "pub_html"
+    }
+  ],
+  "persistentIDs": [
+    {
+      "DOI": "10.31223/X5WD2C"
+    }
+  ],
+  "pubDate": {
+    "electrDate": "2022-04-17"
+  },
+  "publication": {
+    "pubYear": "2022"
+  },
+  "recordData": {
+    "createdTime": "",
+    "loadFormat": "OtherXML",
+    "loadLocation": "",
+    "loadType": "fromFile",
+    "parsedTime": "",
+    "recordOrigin": ""
+  },
+  "title": {
+    "textEnglish": "Production of diverse brGDGTs by Acidobacterium Solibacter usitatus in response to temperature, pH, and O2 provides a culturing perspective on brGDGT paleoproxies and biosynthesis"
+  }
+}

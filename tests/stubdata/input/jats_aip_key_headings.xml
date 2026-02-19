@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article
+	xmlns:mml="http://www.w3.org/1998/Math/MathML"
+	xmlns:xlink="http://www.w3.org/1999/xlink"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" article-type="article" dtd-version="1.0" specific-use="syndication">
+	<front>
+		<journal-meta>
+			<journal-id journal-id-type="coden">RSINAK</journal-id>
+			<journal-title-group>
+				<journal-title>Review of Scientific Instruments</journal-title>
+				<abbrev-journal-title>Rev. Sci. Instrum.</abbrev-journal-title>
+			</journal-title-group>
+			<issn pub-type="ppub">0034-6748</issn>
+			<issn pub-type="epub">1089-7623</issn>
+			<publisher>
+				<publisher-name>AIP Publishing LLC</publisher-name>
+				<publisher-name specific-use="short-name">AIP Publishing</publisher-name>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="publisher-id:aipkey">5.0207477</article-id>
+			<article-id pub-id-type="doi">10.1063/5.0207477</article-id>
+			<article-id pub-id-type="manuscript">RSI24-AR-00481</article-id>
+			<article-categories>
+				<subj-group subj-group-type="toc-heading">
+					<subject>ARTICLES</subject>
+					<subj-group>
+						<subject>Equipment and Techniques for Microscopy; Imaging Methods; Positioning Systems, Nanoparticles</subject>
+					</subj-group>
+				</subj-group>
+			</article-categories>
+			<title-group>
+				<article-title>Development of a microfurnace dedicated to
+					<italic>in situ</italic> scanning electron microscope observation up to 1300 °C. III.
+					<italic>In situ</italic> high temperature experiments
+				</article-title>
+				<alt-title alt-title-type="short-title">Mendonça
+					<italic>et al.</italic>
+				</alt-title>
+			</title-group>
+			<contrib-group>
+				<contrib contrib-type="author">
+					<contrib-id contrib-id-type="orcid">https://orcid.org/0009-0003-7717-691X</contrib-id>
+					<name>
+						<surname>Mendonça</surname>
+						<given-names>Jérôme</given-names>
+					</name>
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Lautru</surname>
+						<given-names>Joseph</given-names>
+					</name>
+					<xref ref-type="aff" rid="a1">1</xref>
+					<xref ref-type="author-note" rid="n1">a)</xref>
+				</contrib>
+				<contrib contrib-type="author">
+					<contrib-id contrib-id-type="orcid">https://orcid.org/0000-0001-9018-5579</contrib-id>
+					<name>
+						<surname>Brau</surname>
+						<given-names>Henri-Pierre</given-names>
+					</name>
+					<xref ref-type="aff" rid="a1">1</xref>
+					<xref ref-type="author-note" rid="n1">a)</xref>
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Nogues</surname>
+						<given-names>Dorian</given-names>
+					</name>
+					<xref ref-type="aff" rid="a2">2</xref>
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Candeias</surname>
+						<given-names>Antoine</given-names>
+					</name>
+					<xref ref-type="aff" rid="a2">2</xref>
+				</contrib>
+				<contrib contrib-type="author" corresp="yes">
+					<contrib-id contrib-id-type="orcid">https://orcid.org/0000-0002-8103-1743</contrib-id>
+					<name>
+						<surname>Podor</surname>
+						<given-names>Renaud</given-names>
+					</name>
+					<xref ref-type="aff" rid="a1">1</xref>
+					<xref ref-type="author-note" rid="n1">a)</xref>
+					<xref ref-type="corresp" rid="cor1">b)</xref>
+					<email specific-use="metadata" xlink:href="mailto:renaud.podor@cea.fr"/>
+				</contrib>
+				<aff id="a1">
+					<label>1</label>
+					<institution>ICSM, University of Montpellier, CNRS, CEA, ENSCM</institution>, Bagnols-sur-Cèze,
+					<country>France</country>
+				</aff>
+				<aff id="a2">
+					<label>2</label>
+					<institution>NewTec Scientific</institution>, 2 Route de Sommières, 30820 Caveirac,
+					<country>France</country>
+				</aff>
+			</contrib-group>
+			<author-notes>
+				<fn id="n1">
+					<label>a)</label>
+					<p>Present address: Institut de-Chimie Séparative de-Marcoule, Site de-Marcoule, Bâtiment 426, BP 17171, F-30207 Bagnols sur Cèze Cedex, France.</p>
+				</fn>
+				<corresp id="cor1">
+					<label>b)</label>Author to whom correspondence should be addressed:
+					<ext-link ext-link-type="email" xlink:href="mailto:renaud.podor@cea.fr">renaud.podor@cea.fr</ext-link>. Tel.: 00 (33) 04.66.33.92.02
+				</corresp>
+			</author-notes>
+			<pub-date pub-type="ppub">
+				<day>01</day>
+				<month>05</month>
+				<year>2024</year>
+			</pub-date>
+			<volume>95</volume>
+			<issue>5</issue>
+			<elocation-id seq="1">053706</elocation-id>
+			<history>
+				<date date-type="received">
+					<day>08</day>
+					<month>03</month>
+					<year>2024</year>
+				</date>
+				<date date-type="accepted">
+					<day>29</day>
+					<month>04</month>
+					<year>2024</year>
+				</date>
+				<date date-type="published">
+					<day>16</day>
+					<month>05</month>
+					<year>2024</year>
+				</date>
+			</history>
+			<permissions>
+				<copyright-statement>© 2024 Author(s).</copyright-statement>
+				<copyright-year>2024</copyright-year>
+				<copyright-holder>Author(s)</copyright-holder>
+				<license license-type="exclusive">
+					<license-p>Published under an exclusive license by AIP Publishing.</license-p>
+				</license>
+			</permissions>
+			<abstract>
+				<p>The FurnaSEM microfurnace was installed in the chamber of a scanning electron microscope to carry out
+					<italic>in situ</italic> experiments at high temperatures and test its limits. The microfurnace was used in combination with different types of detectors (Everhart–Thornley for the collection of secondary electrons in a high vacuum, gas secondary electron detector for the specific collection of secondary electrons in the presence of gas, and Karmen
+					<sup>©</sup> detector for the collection of backscattered electrons at high temperature). Experiments carried out on various samples (metal alloys and ceramics) show that the microfurnace operates in both high-vacuum and low-vacuum modes. Temperature ramp rates during temperature cycles applied to the sample range from 1 to 120 °C/min (temperature rise) and 1 to 480 °C/min (controlled and natural cooling). The maximum temperature at which images were recorded up to 25 k × magnification was 1340 °C, with a residual air atmosphere of 120 Pa. The choice of a flat furnace with the sample placed directly above it has enabled innovative experiments to be carried out, such as low-voltage imaging (using a shorter working distance—up to 10 mm—than is possible with conventional furnaces), 3D imaging (by tilting the stage by up to 10°), and high-temperature backscattered electron imaging (using a dedicated detector).
+				</p>
+			</abstract>
+			<funding-group specific-use="FundRef">
+				<award-group>
+					<funding-source>
+						<named-content content-type="funder_name">Region Occitanie</named-content>
+					</funding-source>
+					<award-id award-type="contract">Readynov</award-id>
+				</award-group>
+				<award-group>
+					<funding-source>
+						<named-content content-type="funder_name">ANRT</named-content>
+					</funding-source>
+					<award-id award-type="contract">PhD thesis grant</award-id>
+				</award-group>
+			</funding-group>
+			<counts>
+				<page-count count="8"/>
+			</counts>
+			<custom-meta-group>
+				<custom-meta>
+					<meta-name>crossmark</meta-name>
+					<meta-value/>
+				</custom-meta>
+			</custom-meta-group>
+		</article-meta>
+	</front>
+	<body></body>
+	<back>
+		<ack>
+			<title>ACKNOWLEDGMENTS</title>
+			<p>The authors want to thank Professor Michel Vilasi and Pauline Vilasi (Université de-Lorraine), Aarne Pohjonen and Vahid Javaheri (University of Oulu), Alain Portavoce (Aix-Marseille University), and Mathias Barreau (University of Caen, Normandy) for providing samples.</p>
+			<p>The authors would like to thank the following organizations for helping to fund all or part of this work: The Région Occitanie and FEDER (Readynov Project Call) have funded the FurnaSEM project (2018–2021). Jerome Mendonça’s Ph.D. thesis (2019–2022) was funded by the Association Nationale de la Recherche et de la Technologie (ANRT) through the Cifre program.</p>
+		</ack>
+		<sec sec-type="author-declarations">
+			<title>AUTHOR DECLARATIONS</title>
+			<sec sec-type="conflict-of-interest">
+				<title>Conflict of Interest</title>
+				<p>The authors have no conflicts to disclose.</p>
+			</sec>
+			<sec sec-type="author-contributions">
+				<title>Author Contributions</title>
+				<p>
+					<bold>J. Mendonça</bold>: Investigation (equal); Methodology (equal); Writing – review &amp; editing (supporting).
+					<bold>J. Lautru</bold>: Formal analysis (equal); Investigation (equal); Methodology (equal); Validation (equal); Visualization (equal).
+					<bold>H.-P. Brau</bold>: Conceptualization (equal); Methodology (equal).
+					<bold>D. Nogues</bold>: Investigation (equal); Methodology (equal); Validation (equal).
+					<bold>A. Candeias</bold>: Funding acquisition (equal); Methodology (equal); Project administration (equal); Resources (equal); Supervision (equal); Validation (equal).
+					<bold>R. Podor</bold>: Conceptualization (equal); Data curation (equal); Funding acquisition (equal); Investigation (equal); Methodology (equal); Project administration (equal); Resources (equal); Visualization (equal); Writing – original draft (lead).
+				</p>
+			</sec>
+		</sec>
+		<sec sec-type="data-availability">
+			<title>DATA AVAILABILITY</title>
+			<p>The data that support the findings of this study are available from the corresponding author upon reasonable request.</p>
+		</sec>
+		<ref-list>
+			<title>REFERENCES</title>
+		</ref-list>
+	</back>
+</article>

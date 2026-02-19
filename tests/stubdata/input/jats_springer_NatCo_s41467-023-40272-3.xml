@@ -1,0 +1,2219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article SYSTEM "http://jats.nlm.nih.gov/archiving/1.2/JATS-archivearticle1.dtd">
+<article
+	xmlns:mml="http://www.w3.org/1998/Math/MathML"
+	xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.2" article-type="research-article" xml:lang="en">
+	<?properties open_access?>
+	<front>
+		<journal-meta>
+			<journal-id journal-id-type="publisher-id">41467</journal-id>
+			<journal-id journal-id-type="doi">10.1038/41467.2041-1723</journal-id>
+			<journal-title-group>
+				<journal-title>Nature Communications</journal-title>
+				<abbrev-journal-title abbrev-type="publisher">Nat Commun</abbrev-journal-title>
+			</journal-title-group>
+			<issn pub-type="epub">2041-1723</issn>
+			<publisher>
+				<publisher-name>Nature Publishing Group UK</publisher-name>
+				<publisher-loc>London</publisher-loc>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="publisher-id">s41467-023-40272-3</article-id>
+			<article-id pub-id-type="manuscript">40272</article-id>
+			<article-id pub-id-type="doi">10.1038/s41467-023-40272-3</article-id>
+			<article-categories>
+				<subj-group subj-group-type="heading">
+					<subject>Article</subject>
+				</subj-group>
+				<subj-group subj-group-type="SubjectPath">
+					<subject>/692/308/2779/109/1940</subject>
+				</subj-group>
+				<subj-group subj-group-type="SubjectPath">
+					<subject>/631/326/590/2294</subject>
+				</subj-group>
+				<subj-group subj-group-type="SubjectPath">
+					<subject>/631/326/596/4130</subject>
+				</subj-group>
+				<subj-group subj-group-type="TechniquePath">
+					<subject>/13/1</subject>
+				</subj-group>
+				<subj-group subj-group-type="TechniquePath">
+					<subject>/141</subject>
+				</subj-group>
+				<subj-group subj-group-type="TechniquePath">
+					<subject>/13/21</subject>
+				</subj-group>
+				<subj-group subj-group-type="NatureArticleTypeID">
+					<subject>article</subject>
+				</subj-group>
+			</article-categories>
+			<title-group>
+				<article-title xml:lang="en">Safety and immunogenicity of a SARS-CoV-2 Gamma variant RBD-based protein adjuvanted vaccine used as booster in healthy adults</article-title>
+			</title-group>
+			<contrib-group>
+				<contrib contrib-type="author" corresp="yes" id="Au1">
+					<contrib-id contrib-id-type="orcid">http://orcid.org/0000-0003-4448-0977</contrib-id>
+					<name>
+						<surname>Pasquevich</surname>
+						<given-names>Karina A.</given-names>
+					</name>
+					<xref ref-type="aff" rid="Aff1">1</xref>
+					<xref ref-type="aff" rid="Aff2">2</xref>
+					<xref ref-type="corresp" rid="IDs41467023402723_cor1">a</xref>
+				</contrib>
+				<contrib contrib-type="author" id="Au2">
+					<contrib-id contrib-id-type="orcid">http://orcid.org/0000-0001-5359-8382</contrib-id>
+					<name>
+						<surname>Coria</surname>
+						<given-names>Lorena M.</given-names>
+					</name>
+					<xref ref-type="aff" rid="Aff1">1</xref>
+					<xref ref-type="aff" rid="Aff2">2</xref>
+				</contrib>
+				<contrib contrib-type="author" id="Au3">
+					<name>
+						<surname>Ceballos</surname>
+						<given-names>Ana</given-names>
+					</name>
+					<xref ref-type="aff" rid="Aff3">3</xref>
+				</contrib>
+				<contrib contrib-type="author" id="Au4">
+					<name>
+						<surname>Mazzitelli</surname>
+						<given-names>Bianca</given-names>
+					</name>
+					<xref ref-type="aff" rid="Aff3">3</xref>
+				</contrib>
+				<contrib contrib-type="author" id="Au5">
+					<name>
+						<surname>Rodriguez</surname>
+						<given-names>Juan Manuel</given-names>
+					</name>
+					<xref ref-type="aff" rid="Aff4">4</xref>
+				</contrib>
+				<contrib contrib-type="author" id="Au6">
+					<name>
+						<surname>Demaría</surname>
+						<given-names>Agostina</given-names>
+					</name>
+					<xref ref-type="aff" rid="Aff1">1</xref>
+					<xref ref-type="aff" rid="Aff2">2</xref>
+				</contrib>
+				<contrib contrib-type="author" id="Au7">
+					<name>
+						<surname>Pueblas Castro</surname>
+						<given-names>Celeste</given-names>
+					</name>
+					<xref ref-type="aff" rid="Aff1">1</xref>
+					<xref ref-type="aff" rid="Aff2">2</xref>
+				</contrib>
+				<contrib contrib-type="author" id="Au8">
+					<name>
+						<surname>Bruno</surname>
+						<given-names>Laura</given-names>
+					</name>
+					<xref ref-type="aff" rid="Aff1">1</xref>
+					<xref ref-type="aff" rid="Aff2">2</xref>
+				</contrib>
+				<contrib contrib-type="author" id="Au9">
+					<name>
+						<surname>Saposnik</surname>
+						<given-names>Lucas</given-names>
+					</name>
+					<xref ref-type="aff" rid="Aff1">1</xref>
+					<xref ref-type="aff" rid="Aff2">2</xref>
+				</contrib>
+				<contrib contrib-type="author" id="Au10">
+					<name>
+						<surname>Salvatori</surname>
+						<given-names>Melina</given-names>
+					</name>
+					<xref ref-type="aff" rid="Aff3">3</xref>
+				</contrib>
+				<contrib contrib-type="author" id="Au11">
+					<name>
+						<surname>Varese</surname>
+						<given-names>Augusto</given-names>
+					</name>
+					<xref ref-type="aff" rid="Aff3">3</xref>
+				</contrib>
+				<contrib contrib-type="author" id="Au12">
+					<name>
+						<surname>González</surname>
+						<given-names>Soledad</given-names>
+					</name>
+					<xref ref-type="aff" rid="Aff5">5</xref>
+				</contrib>
+				<contrib contrib-type="author" id="Au13">
+					<contrib-id contrib-id-type="orcid">http://orcid.org/0000-0001-5231-1773</contrib-id>
+					<name>
+						<surname>González Martínez</surname>
+						<given-names>Veronica V.</given-names>
+					</name>
+					<xref ref-type="aff" rid="Aff5">5</xref>
+				</contrib>
+				<contrib contrib-type="author" id="Au14">
+					<name>
+						<surname>Geffner</surname>
+						<given-names>Jorge</given-names>
+					</name>
+					<xref ref-type="aff" rid="Aff3">3</xref>
+				</contrib>
+				<contrib contrib-type="author" id="Au15">
+					<name>
+						<surname>Álvarez</surname>
+						<given-names>Diego</given-names>
+					</name>
+					<xref ref-type="aff" rid="Aff1">1</xref>
+					<xref ref-type="aff" rid="Aff2">2</xref>
+				</contrib>
+				<contrib contrib-type="author" id="IAu1">
+					<collab>
+						<institution>Laboratorio Pablo Cassará R&amp;D and CMC for ARVAC CG consortium</institution>
+						<contrib-group>
+							<contrib contrib-type="author" id="Au16">
+								<name>
+									<surname>del Priore</surname>
+									<given-names>Sabrina A.</given-names>
+								</name>
+								<xref ref-type="aff" rid="Aff7">7</xref>
+							</contrib>
+							<contrib contrib-type="author" id="Au17">
+								<name>
+									<surname>Hernando Insua</surname>
+									<given-names>Andrés C.</given-names>
+								</name>
+								<xref ref-type="aff" rid="Aff1">1</xref>
+								<xref ref-type="aff" rid="Aff4">4</xref>
+							</contrib>
+							<contrib contrib-type="author" id="Au18">
+								<name>
+									<surname>Kaufmann</surname>
+									<given-names>Ingrid G.</given-names>
+								</name>
+								<xref ref-type="aff" rid="Aff7">7</xref>
+							</contrib>
+							<contrib contrib-type="author" id="Au19">
+								<name>
+									<surname>Di María</surname>
+									<given-names>Adrián</given-names>
+								</name>
+								<xref ref-type="aff" rid="Aff1">1</xref>
+							</contrib>
+							<contrib contrib-type="author" id="Au20">
+								<name>
+									<surname>Góngora</surname>
+									<given-names>Adrián</given-names>
+								</name>
+								<xref ref-type="aff" rid="Aff7">7</xref>
+							</contrib>
+							<contrib contrib-type="author" id="Au21">
+								<name>
+									<surname>Moreno</surname>
+									<given-names>Agustín</given-names>
+								</name>
+								<xref ref-type="aff" rid="Aff7">7</xref>
+							</contrib>
+							<contrib contrib-type="author" id="Au22">
+								<name>
+									<surname>Cervellini</surname>
+									<given-names>Susana</given-names>
+								</name>
+								<xref ref-type="aff" rid="Aff7">7</xref>
+							</contrib>
+							<contrib contrib-type="author" id="Au23">
+								<name>
+									<surname>Martin</surname>
+									<given-names>Blasco</given-names>
+								</name>
+								<xref ref-type="aff" rid="Aff7">7</xref>
+							</contrib>
+							<contrib contrib-type="author" id="Au24">
+								<name>
+									<surname>Ali</surname>
+									<given-names>Esteban</given-names>
+								</name>
+								<xref ref-type="aff" rid="Aff7">7</xref>
+							</contrib>
+							<contrib contrib-type="author" id="Au25">
+								<name>
+									<surname>Albarracín</surname>
+									<given-names>Romina</given-names>
+								</name>
+								<xref ref-type="aff" rid="Aff7">7</xref>
+							</contrib>
+							<contrib contrib-type="author" id="Au26">
+								<name>
+									<surname>Bruno</surname>
+									<given-names>Barsanti</given-names>
+								</name>
+								<xref ref-type="aff" rid="Aff7">7</xref>
+							</contrib>
+							<contrib contrib-type="author" id="Au27">
+								<name>
+									<surname>Toneguzzo</surname>
+									<given-names>Fernando</given-names>
+								</name>
+								<xref ref-type="aff" rid="Aff7">7</xref>
+							</contrib>
+							<contrib contrib-type="author" id="Au28">
+								<name>
+									<surname>Sasso</surname>
+									<given-names>Guillermina</given-names>
+								</name>
+								<xref ref-type="aff" rid="Aff7">7</xref>
+							</contrib>
+							<contrib contrib-type="author" id="Au29">
+								<name>
+									<surname>Stamer</surname>
+									<given-names>Sebastian</given-names>
+								</name>
+								<xref ref-type="aff" rid="Aff7">7</xref>
+							</contrib>
+							<contrib contrib-type="author" id="Au30">
+								<name>
+									<surname>Cardoso</surname>
+									<given-names>Regina</given-names>
+								</name>
+								<xref ref-type="aff" rid="Aff7">7</xref>
+							</contrib>
+							<contrib contrib-type="author" id="Au31">
+								<name>
+									<surname>Chajet</surname>
+									<given-names>Alejandro</given-names>
+								</name>
+								<xref ref-type="aff" rid="Aff7">7</xref>
+							</contrib>
+						</contrib-group>
+					</collab>
+				</contrib>
+				<contrib contrib-type="author" id="Au32">
+					<name>
+						<surname>Feleder</surname>
+						<given-names>Ethel</given-names>
+					</name>
+					<xref ref-type="aff" rid="Aff6">6</xref>
+				</contrib>
+				<contrib contrib-type="author" id="Au33">
+					<name>
+						<surname>Halabe</surname>
+						<given-names>Karina</given-names>
+					</name>
+					<xref ref-type="aff" rid="Aff6">6</xref>
+				</contrib>
+				<contrib contrib-type="author" id="Au34">
+					<name>
+						<surname>Perez Lera</surname>
+						<given-names>Pablo E.</given-names>
+					</name>
+					<xref ref-type="aff" rid="Aff6">6</xref>
+				</contrib>
+				<contrib contrib-type="author" id="Au35">
+					<name>
+						<surname>de Oca</surname>
+						<given-names>Federico Montes</given-names>
+					</name>
+					<xref ref-type="aff" rid="Aff7">7</xref>
+				</contrib>
+				<contrib contrib-type="author" id="Au36">
+					<name>
+						<surname>Vega</surname>
+						<given-names>Julio C.</given-names>
+					</name>
+					<xref ref-type="aff" rid="Aff7">7</xref>
+				</contrib>
+				<contrib contrib-type="author" id="Au37">
+					<name>
+						<surname>Lombardo</surname>
+						<given-names>Mónica</given-names>
+					</name>
+					<xref ref-type="aff" rid="Aff8">8</xref>
+				</contrib>
+				<contrib contrib-type="author" id="Au38">
+					<name>
+						<surname>Yerino</surname>
+						<given-names>Gustavo A.</given-names>
+					</name>
+					<xref ref-type="aff" rid="Aff6">6</xref>
+				</contrib>
+				<contrib contrib-type="author" id="Au39">
+					<contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-0051-7435</contrib-id>
+					<name>
+						<surname>Fló</surname>
+						<given-names>Juan</given-names>
+					</name>
+					<xref ref-type="aff" rid="Aff7">7</xref>
+				</contrib>
+				<contrib contrib-type="author" corresp="yes" id="Au40">
+					<contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-7122-869X</contrib-id>
+					<name>
+						<surname>Cassataro</surname>
+						<given-names>Juliana</given-names>
+					</name>
+					<xref ref-type="aff" rid="Aff1">1</xref>
+					<xref ref-type="aff" rid="Aff2">2</xref>
+					<xref ref-type="corresp" rid="IDs41467023402723_cor25">ab</xref>
+				</contrib>
+				<aff id="Aff1">
+					<label>1</label>
+					<institution-wrap>
+						<institution-id institution-id-type="GRID">grid.108365.9</institution-id>
+						<institution-id institution-id-type="ISNI">0000 0001 2105 0048</institution-id>
+						<institution content-type="org-division">Instituto de Investigaciones Biotecnológicas</institution>
+						<institution content-type="org-name">Universidad Nacional de San Martín (UNSAM) – Consejo Nacional de Investigaciones Científicas y Técnicas (CONICET)</institution>
+					</institution-wrap>
+					<addr-line content-type="street">San Martín (1650)</addr-line>
+					<addr-line content-type="city">Buenos Aires</addr-line>
+					<country country="AR">Argentina</country>
+				</aff>
+				<aff id="Aff2">
+					<label>2</label>
+					<institution-wrap>
+						<institution-id institution-id-type="GRID">grid.108365.9</institution-id>
+						<institution-id institution-id-type="ISNI">0000 0001 2105 0048</institution-id>
+						<institution content-type="org-division">Escuela de Bio y Nanotecnologías (EByN)</institution>
+						<institution content-type="org-name">Universidad Nacional de San Martín</institution>
+					</institution-wrap>
+					<addr-line content-type="street">San Martín (1650)</addr-line>
+					<addr-line content-type="city">Buenos Aires</addr-line>
+					<country country="AR">Argentina</country>
+				</aff>
+				<aff id="Aff3">
+					<label>3</label>
+					<institution-wrap>
+						<institution-id institution-id-type="GRID">grid.7345.5</institution-id>
+						<institution-id institution-id-type="ISNI">0000 0001 0056 1981</institution-id>
+						<institution content-type="org-division">Instituto de Investigaciones Biomédicas en Retrovirus y SIDA, INBIRS-CONICET</institution>
+						<institution content-type="org-name">Facultad de Medicina UBA</institution>
+					</institution-wrap>
+					<addr-line content-type="city">Buenos Aires</addr-line>
+					<country country="AR">Argentina</country>
+				</aff>
+				<aff id="Aff4">
+					<label>4</label>
+					<institution-wrap>
+						<institution content-type="org-name">Fundación Pablo Cassará - Unidad de I + D de Biofármacos</institution>
+					</institution-wrap>
+					<addr-line content-type="street">Saladillo 2452 C1440FFX</addr-line>
+					<addr-line content-type="city">Ciudad Autónoma de Buenos Aires</addr-line>
+					<country country="AR">Argentina</country>
+				</aff>
+				<aff id="Aff5">
+					<label>5</label>
+					<institution-wrap>
+						<institution-id institution-id-type="GRID">grid.494271.d</institution-id>
+						<institution-id institution-id-type="ISNI">0000 0004 0639 0062</institution-id>
+						<institution content-type="org-name">Ministerio de Salud de la Provincia de Buenos Aires</institution>
+					</institution-wrap>
+					<addr-line content-type="city">Buenos Aires</addr-line>
+					<country country="AR">Argentina</country>
+				</aff>
+				<aff id="Aff6">
+					<label>6</label>
+					<institution-wrap>
+						<institution content-type="org-division">FP CLINICAL PHARMA</institution>
+						<institution content-type="org-name">Ciudad Autónoma de Buenos Aires</institution>
+					</institution-wrap>
+					<addr-line content-type="city">Buenos Aires</addr-line>
+					<country country="AR">Argentina</country>
+				</aff>
+				<aff id="Aff7">
+					<label>7</label>
+					<institution-wrap>
+						<institution content-type="org-name">Laboratorio Pablo Cassará – Unidad de I + D de Biofármacos</institution>
+					</institution-wrap>
+					<addr-line content-type="street">Saladillo 2452 C1440FFX</addr-line>
+					<addr-line content-type="city">Ciudad Autónoma de Buenos Aires</addr-line>
+					<country country="AR">Argentina</country>
+				</aff>
+				<aff id="Aff8">
+					<label>8</label>
+					<institution-wrap>
+						<institution content-type="org-name">Nobeltri</institution>
+					</institution-wrap>
+					<addr-line content-type="city">Ciudad Autónoma de Buenos Aires</addr-line>
+					<country country="AR">Argentina</country>
+				</aff>
+			</contrib-group>
+			<author-notes>
+				<corresp id="IDs41467023402723_cor1">
+					<label>a</label>
+					<email>kpasquevich@iib.unsam.edu.ar</email>
+				</corresp>
+				<corresp id="IDs41467023402723_cor25">
+					<label>ab</label>
+					<email>jucassataro@iib.unsam.edu.ar</email>
+				</corresp>
+			</author-notes>
+			<pub-date date-type="pub" publication-format="electronic">
+				<day>28</day>
+				<month>7</month>
+				<year>2023</year>
+			</pub-date>
+			<pub-date date-type="collection" publication-format="electronic">
+				<month>12</month>
+				<year>2023</year>
+			</pub-date>
+			<volume>14</volume>
+			<issue seq="4551">1</issue>
+			<elocation-id>4551</elocation-id>
+			<history>
+				<date date-type="registration">
+					<day>20</day>
+					<month>7</month>
+					<year>2023</year>
+				</date>
+				<date date-type="received">
+					<day>17</day>
+					<month>2</month>
+					<year>2023</year>
+				</date>
+				<date date-type="accepted">
+					<day>20</day>
+					<month>7</month>
+					<year>2023</year>
+				</date>
+				<date date-type="online">
+					<day>28</day>
+					<month>7</month>
+					<year>2023</year>
+				</date>
+			</history>
+			<permissions>
+				<copyright-statement>© The Author(s) 2023</copyright-statement>
+				<copyright-year>2023</copyright-year>
+				<license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/4.0/">
+					<license-p>
+						<bold>Open Access</bold> This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, and indicate if changes were made. The images or other third party material in this article are included in the article’s Creative Commons license, unless indicated otherwise in a credit line to the material. If material is not included in the article’s Creative Commons license and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this license, visit
+						<ext-link xlink:href="http://creativecommons.org/licenses/by/4.0/" ext-link-type="url">http://creativecommons.org/licenses/by/4.0/</ext-link>.
+					</license-p>
+				</license>
+			</permissions>
+			<abstract id="Abs1" xml:lang="en">
+				<title>Abstract</title>
+				<p id="Par1">A Gamma Variant RBD-based aluminum hydroxide adjuvanted vaccine called ARVAC CG was selected for a first in human clinical trial. Healthy male and female participants (18-55 years old) with a complete COVID-19-primary vaccine scheme were assigned to receive two intramuscular doses of either a low-dose or a high-dose of ARVAC CG. The primary endpoint was safety. The secondary objective was humoral immunogenicity. Cellular immune responses were studied as an exploratory objective. The trial was prospectively registered in PRIISA.BA (Registration Code 6564) and ANMAT and retrospectively registered in ClinicalTrials.gov (NCT05656508). Samples from participants of a surveillance strategy implemented by the Ministry of Health of the Province of Buenos Aires that were boosted with BNT162b2 were also analyzed to compare with the booster effect of ARVAC CG. ARVAC CG exhibits a satisfactory safety profile, a robust and broad booster response of neutralizing antibodies against the Ancestral strain of SARS-CoV-2 and the Gamma, Delta, Omicron BA.1 and Omicron BA.5 variants of concern and a booster effect on T cell immunity in individuals previously immunized with different COVID-19 vaccine platforms.</p>
+			</abstract>
+			<abstract id="Abs2" xml:lang="en">
+				<p id="Par2">Here the authors show in a phase 1 trial that a recombinant subunit vaccine based on the gamma variant of SARS-CoV-2 exhibits a satisfactory safety profile, and induces a broad booster response of neutralizing antibodies and a booster effect on T cell immunity in individuals previously immunized with different SARS-CoV-2 vaccine platforms.</p>
+			</abstract>
+			<funding-group>
+				<award-group>
+					<funding-source>
+						<institution-wrap>
+							<institution>Laboratorio Pablo Cassara</institution>
+						</institution-wrap>
+					</funding-source>
+				</award-group>
+			</funding-group>
+			<custom-meta-group>
+				<custom-meta>
+					<meta-name>publisher-imprint-name</meta-name>
+					<meta-value>Nature Portfolio</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>volume-issue-count</meta-name>
+					<meta-value>1</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>issue-article-count</meta-name>
+					<meta-value>4551</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>issue-toc-levels</meta-name>
+					<meta-value>0</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>issue-pricelist-year</meta-name>
+					<meta-value>2023</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>issue-copyright-holder</meta-name>
+					<meta-value>Springer Nature Limited</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>issue-copyright-year</meta-name>
+					<meta-value>2023</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>article-contains-esm</meta-name>
+					<meta-value>Yes</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>article-numbering-style</meta-name>
+					<meta-value>Unnumbered</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>article-registration-date-year</meta-name>
+					<meta-value>2023</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>article-registration-date-month</meta-name>
+					<meta-value>7</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>article-registration-date-day</meta-name>
+					<meta-value>20</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>article-toc-levels</meta-name>
+					<meta-value>0</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>toc-levels</meta-name>
+					<meta-value>0</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>volume-type</meta-name>
+					<meta-value>Regular</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>journal-product</meta-name>
+					<meta-value>NonStandardArchiveJournal</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>numbering-style</meta-name>
+					<meta-value>Unnumbered</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>article-grants-type</meta-name>
+					<meta-value>OpenChoice</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>metadata-grant</meta-name>
+					<meta-value>OpenAccess</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>abstract-grant</meta-name>
+					<meta-value>OpenAccess</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>bodypdf-grant</meta-name>
+					<meta-value>OpenAccess</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>bodyhtml-grant</meta-name>
+					<meta-value>OpenAccess</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>bibliography-grant</meta-name>
+					<meta-value>OpenAccess</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>esm-grant</meta-name>
+					<meta-value>OpenAccess</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>online-first</meta-name>
+					<meta-value>false</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>pdf-file-reference</meta-name>
+					<meta-value>BodyRef/PDF/41467_2023_Article_40272.pdf</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>pdf-type</meta-name>
+					<meta-value>Typeset</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>target-type</meta-name>
+					<meta-value>OnlinePDF</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>issue-type</meta-name>
+					<meta-value>Regular</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>article-type</meta-name>
+					<meta-value>OriginalPaper</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>journal-subject-primary</meta-name>
+					<meta-value>Science, Humanities and Social Sciences, multidisciplinary</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>journal-subject-secondary</meta-name>
+					<meta-value>Science, Humanities and Social Sciences, multidisciplinary</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>journal-subject-secondary</meta-name>
+					<meta-value>Science, multidisciplinary</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>journal-subject-collection</meta-name>
+					<meta-value>Science (multidisciplinary)</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>open-access</meta-name>
+					<meta-value>true</meta-value>
+				</custom-meta>
+			</custom-meta-group>
+		</article-meta>
+		<notes notes-type="AuthorContribution">
+			<p>A list of authors and their affiliations appears at the end of the paper.</p>
+		</notes>
+	</front>
+	<body>
+		<sec id="Sec1" sec-type="introduction">
+			<title>Introduction</title>
+			<p id="Par3">The severe acute respiratory virus 2 (SARS-CoV-2) was first identified in November 2019 and soon thereafter, emerging new viral variants dramatically impacted the dynamics of Coronavirus disease 2019 (COVID-19) spread, globally. These virus variants are, in general, more contagious than previous strains. Moreover, some variants are capable of immunological and/or therapeutic escape
+				<sup>
+					<xref ref-type="bibr" rid="CR1">1</xref>,
+					<xref ref-type="bibr" rid="CR2">2</xref>
+				</sup>.
+			</p>
+			<p id="Par4">Numerous vaccines have been developed and proved effective to protect against severe disease, hospitalization, and fatal outcomes
+				<sup>
+					<xref ref-type="bibr" rid="CR3">3</xref>–
+					<xref ref-type="bibr" rid="CR5">5</xref>
+				</sup>. In Argentina, several platforms of COVID-19 vaccines have been introduced, including inactivated vaccines (BBIBP-CorV), viral vectored vaccines (Sputnik V, AZD1222, CanSino), and mRNA vaccines (BNT162b2 and mRNA-1273), resulting in a significant coverage of the population with complete primary vaccine series
+				<sup>
+					<xref ref-type="bibr" rid="CR6">6</xref>,
+					<xref ref-type="bibr" rid="CR7">7</xref>
+				</sup>. However, due to waning immunity and emergence of highly transmissible immune escape viral variants, two-dose COVID-19 vaccination programs may have not been enough to prevent breakthrough infections caused by these variants
+				<sup>
+					<xref ref-type="bibr" rid="CR8">8</xref>,
+					<xref ref-type="bibr" rid="CR9">9</xref>
+				</sup>. Clinical studies suggest that boosting with variant-adapted vaccines would optimize vaccine efficacy (VE) inducing strong and broad immune responses
+				<sup>
+					<xref ref-type="bibr" rid="CR10">10</xref>–
+					<xref ref-type="bibr" rid="CR12">12</xref>
+				</sup>.
+			</p>
+			<p id="Par5">The pandemic has disproportionately affected low- and middle-income countries (LMICs), which make up about 85% of the world population. Therefore, pandemic remains a threat unless most people get vaccinated. In response to the constraints imposed by the COVID-19 pandemic, and the limited access of many Latin American countries to costly vaccines, Laboratorio Pablo Cassará S.R.L., an Argentinian pharmaceutical company, launched a vaccine development program against SARS-CoV-2. ARVAC CG is a receptor binding domain (RBD)-based protein aluminum hydroxide-adjuvanted vaccine candidate that was designed and produced entirely in Argentina to be used as booster or primary vaccine against SARS-CoV-2. The vaccine is a variant-adapted vaccine based on the highly immune evasive Gamma SARS-CoV-2 variant of concern (VOC). Non-clinical studies of this vaccine prototype in mice indicated that the Gamma-variant vaccine-candidate is more immunogenic and induces a broader nAb response than the Ancestral vaccine-candidate
+				<sup>
+					<xref ref-type="bibr" rid="CR13">13</xref>
+				</sup>.
+			</p>
+			<p id="Par6">In this interim report safety and immunogenicity data after a booster dose of ARVAC CG vaccine from an ongoing first in human phase 1 study are presented. ARVAC CG exhibits a satisfactory safety profile, a robust and broad booster response of neutralizing antibodies against the Ancestral strain of SARS-CoV-2, the Gamma variant, and other VOCs (Delta, Omicron BA.1 and Omicron BA.5) and a booster effect on T cell immunity when used as booster in individuals previously immunized with different COVID-19 vaccine platforms.</p>
+		</sec>
+		<sec id="Sec2" sec-type="results">
+			<title>Results</title>
+			<sec id="Sec3">
+				<title>Population characteristics and local and systemic adverse events</title>
+				<p id="Par7">The flowchart of the study is shown in Fig.
+					<xref rid="Fig1" ref-type="fig">1</xref>. Demographic characteristics of the participants are presented in Table
+					<xref rid="Tab1" ref-type="table">1</xref>. Vaccination with ARVAC CG was well tolerated, with mild-to-moderate reactogenicity profiles (Fig.
+					<xref rid="Fig2" ref-type="fig">2a</xref>). Overall, solicited local adverse events (AEs) were more frequently noticed after the first dose of the vaccine than after the second. At least one local AE was observed in 68.3% volunteers of Group A (25 µg vaccine) after the first administration and in 47.5% following the second (
+					<italic>p</italic> = 0.026). In group B (50 µg vaccine), 60.0% of volunteers reported at least one local AE after the first injection whereas 27.8% following the second (
+					<italic>p</italic> = 0.0585) (Supplementary Table
+					<xref ref-type="supplementary-material" rid="MOESM1">1</xref>).
+					<fig id="Fig1">
+						<label>Fig. 1</label>
+						<caption xml:lang="en">
+							<title>Subject disposition in Phase-1 study (consort diagram).</title>
+							<p>Trial profile showing the study groups, number of participants, and vaccine dose received.</p>
+						</caption>
+						<p>
+							<graphic specific-use="HTML" mime-subtype="PNG" xlink:href="MediaObjects/41467_2023_40272_Fig1_HTML.png"/>
+						</p>
+					</fig>
+					<table-wrap id="Tab1">
+						<label>Table 1</label>
+						<caption xml:lang="en">
+							<p>Demographic Characteristics of the Participants in the ARVAC-F1-001 Trial at Enrolment</p>
+						</caption>
+						<table frame="hsides" rules="groups">
+							<thead>
+								<tr>
+									<th colspan="2">
+										<p>Variable</p>
+									</th>
+									<th>
+										<p>ARVAC CG 25 µg Group A</p>
+									</th>
+									<th>
+										<p>ARVAC CG 50 µg Group B</p>
+									</th>
+									<th>
+										<p>Total</p>
+									</th>
+								</tr>
+							</thead>
+							<tbody>
+								<tr>
+									<td colspan="2">
+										<p>No. of participants</p>
+									</td>
+									<td>
+										<p>60</p>
+									</td>
+									<td>
+										<p>20</p>
+									</td>
+									<td>
+										<p>80</p>
+									</td>
+								</tr>
+								<tr>
+									<td rowspan="2">
+										<p>Sex</p>
+									</td>
+									<td>
+										<p>Male (
+											<italic>N</italic> (%))
+										</p>
+									</td>
+									<td>
+										<p>29 (48.3)</p>
+									</td>
+									<td>
+										<p>8 (40)</p>
+									</td>
+									<td>
+										<p>37 (46.3)</p>
+									</td>
+								</tr>
+								<tr>
+									<td>
+										<p>Female (
+											<italic>N</italic> (%))
+										</p>
+									</td>
+									<td>
+										<p>31 (51.7)</p>
+									</td>
+									<td>
+										<p>12 (60)</p>
+									</td>
+									<td>
+										<p>43 (53.8)</p>
+									</td>
+								</tr>
+								<tr>
+									<td colspan="2">
+										<p>Age (Median (IQR
+											<sup>a</sup>))
+										</p>
+									</td>
+									<td>
+										<p>32 (25–37.25)</p>
+									</td>
+									<td>
+										<p>27 (20.75–33.25)</p>
+									</td>
+									<td>
+										<p>31 (24–37)</p>
+									</td>
+								</tr>
+								<tr>
+									<td colspan="2">
+										<p>Body-mass index (Median (IQR))</p>
+									</td>
+									<td>
+										<p>25.7 (22.9–27.8)</p>
+									</td>
+									<td>
+										<p>26.1 (21.1–27.4)</p>
+									</td>
+									<td>
+										<p>25.8 (22.9–27.8)</p>
+									</td>
+								</tr>
+								<tr>
+									<td rowspan="6">
+										<p>COVID-19 Primary Vaccine Platform</p>
+									</td>
+									<td>
+										<p>BBIBP-CorV (
+											<italic>N</italic> (%))
+										</p>
+									</td>
+									<td>
+										<p>20 (33.3)</p>
+									</td>
+									<td>
+										<p>14 (70.0)</p>
+									</td>
+									<td>
+										<p>34 (42.5)</p>
+									</td>
+								</tr>
+								<tr>
+									<td>
+										<p>Sputnik V (rAd26/rAd5) (
+											<italic>N</italic> (%))
+										</p>
+									</td>
+									<td>
+										<p>21 (35.0)</p>
+									</td>
+									<td>
+										<p>1 (5.0)</p>
+									</td>
+									<td>
+										<p>22 (27.5)</p>
+									</td>
+								</tr>
+								<tr>
+									<td>
+										<p>ChAdOx1-S (
+											<italic>N</italic> (%))
+										</p>
+									</td>
+									<td>
+										<p>17 (28.3)</p>
+									</td>
+									<td>
+										<p>1 (5.0)</p>
+									</td>
+									<td>
+										<p>18 (22.5)</p>
+									</td>
+								</tr>
+								<tr>
+									<td>
+										<p>CanSino (Ad5-nCoV) (
+											<italic>N</italic> (%))
+										</p>
+									</td>
+									<td>
+										<p>1 (1.7)</p>
+									</td>
+									<td>
+										<p>0 (0)</p>
+									</td>
+									<td>
+										<p>1 (1.3)</p>
+									</td>
+								</tr>
+								<tr>
+									<td>
+										<p>Janssen (Ad26.CoV2.S) (
+											<italic>N</italic> (%))
+										</p>
+									</td>
+									<td>
+										<p>0 (0)</p>
+									</td>
+									<td>
+										<p>1 (5.0)</p>
+									</td>
+									<td>
+										<p>1 (1.3)</p>
+									</td>
+								</tr>
+								<tr>
+									<td>
+										<p>Heterologous schedule (
+											<italic>N</italic> (%))
+										</p>
+									</td>
+									<td>
+										<p>1 (1.7)</p>
+									</td>
+									<td>
+										<p>3 (15.0)</p>
+									</td>
+									<td>
+										<p>4 (5.0)</p>
+									</td>
+								</tr>
+								<tr>
+									<td colspan="2">
+										<p>Time (months) since last dose of primary immunization schedule. (Median (IQR))</p>
+									</td>
+									<td>
+										<p>7.9 (6.2–8.7)</p>
+									</td>
+									<td>
+										<p>6.6 (4.9–8.1)</p>
+									</td>
+									<td>
+										<p>7.7 (6.0–8.4)</p>
+									</td>
+								</tr>
+								<tr>
+									<td rowspan="3">
+										<p>Prior COVID-19
+											<sup>b</sup>
+										</p>
+									</td>
+									<td>
+										<p>No (
+											<italic>N</italic> (%))
+										</p>
+									</td>
+									<td>
+										<p>55 (91.7)</p>
+									</td>
+									<td>
+										<p>16 (80.0)</p>
+									</td>
+									<td>
+										<p>71 (88.8)</p>
+									</td>
+								</tr>
+								<tr>
+									<td>
+										<p>Yes (
+											<italic>N</italic> (%))
+										</p>
+									</td>
+									<td>
+										<p>5 (8.3)</p>
+									</td>
+									<td>
+										<p>4 (20.0)</p>
+									</td>
+									<td>
+										<p>9 (11.3)</p>
+									</td>
+								</tr>
+								<tr>
+									<td>
+										<p>Time (months) since infection (Median (IQR))</p>
+									</td>
+									<td>
+										<p>12.0 (4.9–20.3)</p>
+									</td>
+									<td>
+										<p>5.7 (5.6–5.9)</p>
+									</td>
+									<td>
+										<p>5.8 (5.3–12.0)</p>
+									</td>
+								</tr>
+								<tr>
+									<td rowspan="2">
+										<p>Seropositive for N (SARS-CoV-2 nucleoprotein)-specific IgG</p>
+									</td>
+									<td>
+										<p>No (
+											<italic>N</italic> (%))
+										</p>
+									</td>
+									<td>
+										<p>23 (38.3)</p>
+									</td>
+									<td>
+										<p>9 (45.0)</p>
+									</td>
+									<td>
+										<p>32 (40.0)</p>
+									</td>
+								</tr>
+								<tr>
+									<td>
+										<p>Yes (
+											<italic>N</italic> (%))
+										</p>
+									</td>
+									<td>
+										<p>37 (61.7)</p>
+									</td>
+									<td>
+										<p>11 (55.0)</p>
+									</td>
+									<td>
+										<p>48 (60.0)</p>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+						<table-wrap-foot>
+							<p>
+								<sup>a</sup>
+								<italic>IQR</italic> Interquartile range.
+							</p>
+							<p>
+								<sup>b</sup>Confirmed diagnostic of COVID-19 (PCR, Antigen test or by epidemiological diagnostic).
+							</p>
+						</table-wrap-foot>
+					</table-wrap>
+					<fig id="Fig2">
+						<label>Fig. 2</label>
+						<caption xml:lang="en">
+							<title>Safety profile.</title>
+							<p>
+								<bold>a</bold> Percentage of participants in each study group with the indicated injection site AEs up to 7 days after the first or the second injection.
+								<bold>b</bold> Percentage of participants in each study group with the indicated systemic AEs recorded up to 28 days after each vaccine administration. Events were classified according to the FDA toxicity grading scale for healthy adult and adolescent volunteers enrolled in preventive vaccine clinical trials (Mild (Grade 1), Moderate (Grade 2), Severe (Grade 3), Potentially Life Threatening (Grade 4))
+								<sup>
+									<xref ref-type="bibr" rid="CR28">28</xref>
+								</sup>.
+							</p>
+						</caption>
+						<p>
+							<graphic specific-use="HTML" mime-subtype="PNG" xlink:href="MediaObjects/41467_2023_40272_Fig2_HTML.png"/>
+						</p>
+					</fig>
+				</p>
+				<p id="Par8">The most frequent local AEs were discomfort/tenderness and pain at injection site in both groups (Fig.
+					<xref rid="Fig2" ref-type="fig">2a</xref>). All reactions were transient and did not present complications.
+				</p>
+				<p id="Par9">Systemic AEs were less common. Reported frequency of solicited/unsolicited systemic AEs, was not significantly different between the first and second doses for both groups. In Group A, 33.3% and 35.6% of the volunteers reported at least one systemic AE after the first- and the second administration, respectively (
+					<italic>p</italic> = 0.848), while in Group B, 40.0% and 22.2% of the volunteers reported at least one systemic AE after each dose, respectively (
+					<italic>p</italic> = 0.485) (Supplementary Table
+					<xref ref-type="supplementary-material" rid="MOESM1">1</xref>).
+				</p>
+				<p id="Par10">The most frequent systemic AEs were drowsiness, headache, myalgia, and fatigue (Fig.
+					<xref rid="Fig2" ref-type="fig">2b</xref>). Only one case of fever (38.3 °C) lasting one day was reported. Of note, 89.9% of reported AEs were grade 1 and there was no grade 3 or more severe AE (Supplementary Table
+					<xref ref-type="supplementary-material" rid="MOESM1">1</xref>).
+				</p>
+				<p id="Par11">No abnormal laboratory values were reported to be clinically significant. There were no serious AEs, deaths, or withdrawals due to an AE during the study. No cases of Guillain-Barré syndrome, thromboembolic events, myocarditis or pericarditis, or other AE of special interest have been reported.</p>
+			</sec>
+			<sec id="Sec4">
+				<title>Immunogenicity results</title>
+				<p id="Par12">After 14 days of the first ARVAC CG booster administration a significant increase in the nAb titers against all the five SARS-CoV-2 VOCs analyzed was observed in both ARVAC CG vaccine cohorts, compared to pre-vaccination titers (
+					<italic>P</italic> &lt; 0.0001) (Fig.
+					<xref rid="Fig3" ref-type="fig">3</xref>). ARVAC CG 25 µg dose induced a 12.6 (95% CI, 8.8–17.9), 16.6 (95% CI, 11.8–23.4), 11.3 (95% CI, 7.8–16.5), 12.8 (95% CI, 9.2–18.0), and 8.6 (95% CI, 6.1–12.0) geometric mean fold rise (GMFR) in nAb titers against the Ancestral (Wuhan), Gamma, Delta, Omicron BA.1 or Omicron BA.5 variants of SARS-CoV-2, respectively (Fig.
+					<xref rid="Fig3" ref-type="fig">3a</xref>). Additionally, immunization with the 50 µg dose induced a GMFR of 29.9 (95% CI, 12.6–70.6), 30.9 (95% CI, 13.4–71.5), 18.4 (95% CI, 8.2–41.1), 29.9 (95% CI, 13.0–68.3), and 13.0 (95% CI, 6.0–28.4) in nAb titers against Ancestral, Gamma, Delta, Omicron BA.1 or Omicron BA.5 variants of SARS-CoV-2, respectively (Fig.
+					<xref rid="Fig3" ref-type="fig">3b</xref>). Of note, GMFR of nAb titers against Ancestral and Omicron BA.1 variants were significantly higher in Group B than in Group A (
+					<italic>P</italic> = 0.0448 and
+					<italic>P</italic> = 0.0271, respectively) (Supplementary Table
+					<xref ref-type="supplementary-material" rid="MOESM1">2</xref>).
+					<fig id="Fig3">
+						<label>Fig. 3</label>
+						<caption xml:lang="en">
+							<title>Administration of ARVAC CG booster increases the nAb titers against the Ancestral, Gamma, Delta, Omicron BA.1 and Omicron BA.5 variants of SARS-CoV-2.</title>
+							<p>The nAb titers against the Ancestral, Gamma, Delta and Omicron BA.1 and Omicron BA.5 variants of SARS-CoV-2 in plasma samples of individuals boosted with ARVAC CG 25 µg (
+								<italic>N</italic> = 60 individuals) (
+								<bold>a</bold>) or 50 µg (
+								<italic>N</italic> = 20 individuals) (
+								<bold>b</bold>) prior to the vaccine administration (d1) or after 14 days of booster administration (d14). Each point represents the nAb titer of a volunteer at the indicated time point and against the depicted viral variant. The nAb geometric mean titers (GMTs) and 95% CIs are shown as horizontal and error bars, respectively. The numbers depicted above the individual points for each specified time point and viral variant represent de GMT. The fold increase in the GMT from day 1 to day 14 (GMFR) for each specified variant are shown with a number followed by a ×. The dashed line represents the positivity threshold on the virus neutralization assay. Statistical differences were analyzed using the two-tailed Wilcoxon pair-matched test.
+								<italic>P</italic>-values are depicted above the data sets that were compared. In panel (
+								<bold>a</bold>) all
+								<italic>P</italic> values were smaller than 10e-15; in panel (
+								<bold>b</bold>)
+								<italic>P</italic> = 0.000004 for Ancestral strain, Gamma and Omicron BA.1 VOCs,
+								<italic>P</italic> = 0.000099 for Delta VOC and
+								<italic>P</italic> = 0.000015 for Omicron BA.5.
+							</p>
+						</caption>
+						<p>
+							<graphic specific-use="HTML" mime-subtype="PNG" xlink:href="MediaObjects/41467_2023_40272_Fig3_HTML.png"/>
+						</p>
+					</fig>
+				</p>
+				<p id="Par13">Seroconversion rates were evaluated as the percentage of subjects with at least a fourfold increase (4×-seroconversion rates) or a tenfold increase (10×-seroconversion rates) in the nAb titers at a specific timepoint respect to baseline values. After 14 days of a booster with ARVAC CG the 4×-seroconversion rates for the Ancestral SARS-CoV-2 strain were 88.3 % (95% CI, 77.8–94.2) in the 25 µg cohort and 90.0% (95% CI, 69.9–98.2) in the 50 µg cohort. Whereas the corresponding 4×-seroconversion rates were 90.0% (95% CI, 79.8–95.3) and 85% (95% CI, 64.0–94.8) against the Gamma VOC, 80.0% (95% CI, 68.2–88.2) and 85.0% (95% CI, 64.0–94.8) for Delta VOC, 93.3% (95% CI, 84.1–97.4) and 85.0% (95% CI, 64.0–94.8) for Omicron BA.1 VOC, and 80.0% (95% CI, 68.2–88.2) and 80.0% (95% CI, 58.4–91.9) for Omicron BA.5 VOC, respectively (Supplementary Table
+					<xref ref-type="supplementary-material" rid="MOESM1">2</xref>).
+				</p>
+				<p id="Par14">Fourteen days after boosting, 4×-seroconversion rates for all tested variants were similar in both dosage groups, while 10×-seroconversion rates for Omicron BA.1 VOC were significantly higher in the 50 µg cohort (Supplementary Table
+					<xref ref-type="supplementary-material" rid="MOESM1">2</xref>).
+				</p>
+				<p id="Par15">Based on pre-existing anti-N IgG titers and/or previous history of COVID-19, individuals were stratified into two populations: seronegative individuals with no previous COVID-19 history and seropositive and/or with previous history of COVID-19 individuals. Both populations developed similar nAb GMTs against Ancestral, Gamma, Delta, Omicron BA.1 and Omicron BA.5 after 14 days of ARVAC CG booster. Moreover, GMFR from baseline were similar for both populations in groups A and B either when analyzed in all individuals of each group (Supplementary Fig.
+					<xref ref-type="supplementary-material" rid="MOESM1">1</xref>) or in the subgroup of subjects who received BBIBP-CorV as primary vaccination (Supplementary Fig.
+					<xref ref-type="supplementary-material" rid="MOESM1">2</xref>).
+				</p>
+				<p id="Par16">No significant differences were found in the nAb responses and seroconversion rates between female or male volunteers, except for the 4×-seroconversion rate in nAbs against Delta VOC (Supplementary Table
+					<xref ref-type="supplementary-material" rid="MOESM1">3</xref>). In addition, no differences in the nAb titers after booster were observed in the ARVAC CG cohorts when participants were stratified regarding their time since completion of primary vaccination series (time &lt; 180 days vs. ≥ 180 days) (Supplementary Fig.
+					<xref ref-type="supplementary-material" rid="MOESM1">3</xref>).
+				</p>
+				<p id="Par17">When volunteers were subdivided regarding the primary vaccination received, a significant increase in the nAb GMTs against the different viral variants was observed in all previously vaccinated subgroups (Fig.
+					<xref rid="Fig4" ref-type="fig">4</xref>). Comparisons between group A and B in terms of GMFR of nAb titers and seroconversion rates was also assessed in the subgroup of individuals that had received the BBIBP-CorV vaccine as primary vaccination scheme. The GMFR in nAb titers against Ancestral, Gamma, Omicron BA.1 and Omicron BA.5 VOCs were significantly higher in Group B than in Group A (
+					<italic>P</italic> = 0.0154,
+					<italic>P</italic> = 0.0118,
+					<italic>P</italic> = 0.0160, and
+					<italic>P</italic> = 0.0459, respectively). Fourteen days after boosting, 4×-seroconversion rates for all tested variants were similar in both groups, whereas the 10×-seroconversion rates for the Ancestral and Omicron BA.1 VOC were significantly higher in the 50 µg cohort than in the 25 µg cohort (Supplementary Table
+					<xref ref-type="supplementary-material" rid="MOESM1">3</xref>).
+					<fig id="Fig4">
+						<label>Fig. 4</label>
+						<caption xml:lang="en">
+							<title>Administration of ARVAC CG as booster increases the nAb titers against the Ancestral, Gamma, Delta, Omicron BA.1 and Omicron BA.5 variants of SARS-CoV-2 in individuals with different primary vaccinations schemes.</title>
+							<p>Neutralizing antibody titers against the Ancestral (
+								<bold>a</bold>), Gamma (
+								<bold>b</bold>), Delta (
+								<bold>c</bold>), Omicron BA.1 (
+								<bold>d</bold>) and Omicron BA.5 (
+								<bold>e</bold>) variants of SARS-CoV-2 in plasma samples of individuals boosted with ARVAC CG 25 µg (left panels) or 50 µg (right panels) prior to the vaccine administration (d1) or after 14 days of booster (d14). Participants in each cohort were grouped according to the primary vaccination scheme received. ARVAC CG 25 µg cohort: BBIBP-CorV (
+								<italic>N</italic> = 20), ChAdOx1-S (
+								<italic>N</italic> = 17), rAd26/rAd5 (
+								<italic>N</italic> = 21), rAd26/ChAdOx1-S (
+								<italic>N</italic> = 1) and Ad5-nCoV (
+								<italic>N</italic> = 1). ARVAC CG 50 µg cohort: BBIBP-CorV (
+								<italic>N</italic> = 14), ChAdOx1-S (
+								<italic>N</italic> = 1), rAd26/rAd5 (
+								<italic>N</italic> = 1), heterologous vaccination regimens (ChAdOx1-S/mRNA1273 or BBIBP-CorV/BNT162b2) (
+								<italic>N</italic> = 3) and Ad26.CoV2.S (
+								<italic>N</italic> = 1). Each point represents the nAb titer of a volunteer. In subgroups with N &gt; 1, the nAb GMTs with geometric SD are shown as horizontal and error bars, respectively. The numbers depicted above the individual points for each specified time point represent the GMT values. The GMFR from day 1 to day 14 for each specified variant are shown with a number followed by a ×. The number of participants included in each data set analyzed are depicted in the bottom of each data set (N). Statistical differences were performed using the two-tailed Wilcoxon pair-matched test.
+								<italic>P</italic>-values are depicted above the data sets that were compared. Exact
+								<italic>P</italic>-values (d1 vs. d14 nAb titers) in ARVAC CG 25 µg subgroups (left panels) are: BBIBP-CorV (
+								<italic>P</italic> = 0.000002 (
+								<bold>a</bold>,
+								<bold>b</bold>,
+								<bold>d</bold>),
+								<italic>P</italic> = 0.00003 (
+								<bold>c</bold>), and
+								<italic>P</italic> = 0.000004 (
+								<bold>d</bold>,
+								<bold>e</bold>), ChAdOx1-S (
+								<italic>P</italic> = 0.000002 (
+								<bold>a</bold>,
+								<bold>b</bold>,
+								<bold>c</bold>) and
+								<italic>P</italic> = 0.00002 (
+								<bold>d</bold>,
+								<bold>e</bold>). In ARVAC CG 50 µg BBIBP-CorV primary vaccination exact
+								<italic>P</italic>-values are:
+								<italic>P</italic> = 0.0002 (
+								<bold>a</bold>,
+								<bold>b</bold>,
+								<bold>d</bold>),
+								<italic>P</italic> = 0.0001 (
+								<bold>c</bold>) and
+								<italic>P</italic> = 0.0005 (
+								<bold>e</bold>).
+							</p>
+						</caption>
+						<p>
+							<graphic specific-use="HTML" mime-subtype="PNG" xlink:href="MediaObjects/41467_2023_40272_Fig4_HTML.png"/>
+						</p>
+					</fig>
+				</p>
+				<p id="Par18">Similar results were observed at 28 days post-booster vaccination with ARVAC CG (Supplementary Fig.
+					<xref ref-type="supplementary-material" rid="MOESM1">4</xref> and Supplementary Table
+					<xref ref-type="supplementary-material" rid="MOESM1">4</xref>). Levels of anti-RBD and anti-spike antibodies raised significantly after 28 days with respect to baseline levels in both study groups (Supplementary Fig.
+					<xref ref-type="supplementary-material" rid="MOESM1">5</xref>).
+				</p>
+				<p id="Par19">To preliminarily assess the comparative immunogenicity of ARVAC CG, nAb GMTs and GMFR were compared with those in samples from a cohort of individuals out of the protocol, with similar demographic characteristic (Table
+					<xref rid="Tab2" ref-type="table">2</xref>), who had received a heterologous booster dose with the Ancestral-based BNT162b2 mRNA vaccine. Baseline nAb GMTs against the five viral variants in both ARVAC CG cohorts were similar to those observed before the booster with BNT162b2 (
+					<italic>P</italic> &gt; 0.05). After 14 or 28 days the nAb GMTs against the Ancestral SARS-CoV-2 in group A were similar to that achieved after BNT162b2 booster. However, nAb GMTs against Gamma, Delta, Omicron BA.1, and Omicron BA.5 were significantly higher in group A than those reached in BNT162b2 boosted individuals. Similarly, in group B nAb GMTs against Gamma VOC after 14 days of booster and against Omicron BA.1 and Omicron BA.5 VOCs at all tested timepoints were significantly higher than the corresponding nAb GMTs in BNT162b2 boosted individuals (Fig.
+					<xref rid="Fig5" ref-type="fig">5a–e</xref>).
+					<table-wrap id="Tab2">
+						<label>Table 2</label>
+						<caption xml:lang="en">
+							<p>Demographic Characteristics of the Participants of the surveillance strategy implemented by the Ministry of Health of the Province of Buenos Aires that were boosted with BNT162b2 at Enrolment</p>
+						</caption>
+						<table frame="hsides" rules="groups">
+							<thead>
+								<tr>
+									<th colspan="3">
+										<p>Variable</p>
+									</th>
+								</tr>
+							</thead>
+							<tbody>
+								<tr>
+									<td colspan="2">
+										<p>No. of participants</p>
+									</td>
+									<td>
+										<p>18</p>
+									</td>
+								</tr>
+								<tr>
+									<td rowspan="2">
+										<p>Sex</p>
+									</td>
+									<td>
+										<p>Male (
+											<italic>N</italic> (%))
+										</p>
+									</td>
+									<td>
+										<p>5 (27.8)</p>
+									</td>
+								</tr>
+								<tr>
+									<td>
+										<p>Female (
+											<italic>N</italic> (%))
+										</p>
+									</td>
+									<td>
+										<p>13 (72.2)</p>
+									</td>
+								</tr>
+								<tr>
+									<td colspan="2">
+										<p>Age (Median (IQR
+											<sup>a</sup>))
+										</p>
+									</td>
+									<td>
+										<p>36.5 (32–45)</p>
+									</td>
+								</tr>
+								<tr>
+									<td rowspan="3">
+										<p>COVID-19 Primary Vaccine Platform</p>
+									</td>
+									<td>
+										<p>BBIBP-CorV (
+											<italic>N</italic> (%))
+										</p>
+									</td>
+									<td>
+										<p>2 (11.1)</p>
+									</td>
+								</tr>
+								<tr>
+									<td>
+										<p>Sputnik V (rAd26/rAd5) (
+											<italic>N</italic> (%))
+										</p>
+									</td>
+									<td>
+										<p>16 (88.9)</p>
+									</td>
+								</tr>
+								<tr>
+									<td>
+										<p>Time since last dose of primary immunization schedule (in months, (Median (IQR))</p>
+									</td>
+									<td>
+										<p>4.2 (3.8–4.6)</p>
+									</td>
+								</tr>
+								<tr>
+									<td rowspan="2">
+										<p>Prior COVID-19
+											<sup>b</sup>
+										</p>
+									</td>
+									<td>
+										<p>No (
+											<italic>N</italic> (%))
+										</p>
+									</td>
+									<td>
+										<p>18 (100.0)</p>
+									</td>
+								</tr>
+								<tr>
+									<td>
+										<p>Yes (
+											<italic>N</italic> (%))
+										</p>
+									</td>
+									<td>
+										<p>0 (0.0)</p>
+									</td>
+								</tr>
+								<tr>
+									<td rowspan="2">
+										<p>Seropositive for N (SARS-CoV-2 nucleoprotein)-specific IgG</p>
+									</td>
+									<td>
+										<p>No (
+											<italic>N</italic> (%))
+										</p>
+									</td>
+									<td>
+										<p>9 (50.0)</p>
+									</td>
+								</tr>
+								<tr>
+									<td>
+										<p>Yes (
+											<italic>N</italic> (%))
+										</p>
+									</td>
+									<td>
+										<p>9 (50.0)</p>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+						<table-wrap-foot>
+							<p>
+								<sup>a</sup>
+								<italic>IQR</italic> Interquartile range.
+							</p>
+							<p>
+								<sup>b</sup>Confirmed diagnostic of COVID-19 (PCR, Antigen test or by epidemiological diagnostic).
+							</p>
+						</table-wrap-foot>
+					</table-wrap>
+					<fig id="Fig5">
+						<label>Fig. 5</label>
+						<caption xml:lang="en">
+							<title>Comparison of nAb GMT and GMFR after booster with ARVAC CG or booster with BNT162b2.</title>
+							<p>Neutralizing antibody titers against the Ancestral (
+								<bold>a</bold>), Gamma (
+								<bold>b</bold>), Delta (
+								<bold>c</bold>), Omicron BA.1 (
+								<bold>d</bold>) and Omicron BA.5 (
+								<bold>e</bold>) variants of SARS-CoV-2 in plasma samples of individuals boosted with the indicated vaccine (ARVAC CG 25 µg, ARVAC CG 50 µg or BNT162b2) prior booster administration (d1) or at the indicated days after booster administration (d14, d21, d28). Each point represents the nAb titer of a volunteer. Data are from participants with no missing data at all analyzed time points (ARVAC CG 25 µg (
+								<italic>N</italic> = 58), ARVAC CG 50 µg (
+								<italic>N</italic> = 18) or BNT162b2 (
+								<italic>N</italic> = 18). The nAb GMTs and 95% CIs are shown as horizontal and error bars, respectively. The numbers depicted above the individual points for each specified time point and viral variant represent the GMTs. The number of participants included in each data set analyzed is depicted in the bottom of the graph (
+								<italic>N</italic> = number of individuals in each data set). Statistical differences were analyzed using the Kruskal-Wallis test followed by the Dunn´s multiple comparison test.
+								<italic>P</italic>-values are depicted above the data sets that were compared. ns:
+								<italic>P</italic> &gt; 0.05. Exact
+								<italic>P</italic>-values for each comparison are: BNT162b2 d21 vs. ARVAC CG 25 µg d14:
+								<italic>P</italic> = 0.000007 (
+								<bold>b</bold>),
+								<italic>P</italic> = 0.0472 (
+								<bold>c</bold>),
+								<italic>P</italic> = 0.00001 (
+								<bold>d</bold>) and
+								<italic>P</italic> = 0.049 (
+								<bold>e</bold>); BNT162b2 d21 vs. ARVAC CG 25 µg d28:
+								<italic>P</italic> = 0.0016 (
+								<bold>b</bold>),
+								<italic>P</italic> = 0.015 (
+								<bold>c</bold>),
+								<italic>P</italic> = 0.0003 (
+								<bold>d</bold>) and
+								<italic>P</italic> = 0.0002 (
+								<bold>e</bold>); BNT162b2 d21 vs. ARVAC CG 50 µg d14:
+								<italic>P</italic> = 0.0006 (
+								<bold>b</bold>),
+								<italic>P</italic> = 0.00003 (
+								<bold>d</bold>) and
+								<italic>P</italic> = 0.0110 (
+								<bold>e</bold>); BNT162b2 d21 vs. ARVAC CG 50 µg d28:
+								<italic>P</italic> = 0.0033 (
+								<bold>d</bold>) and
+								<italic>P</italic> = 0.0171 (
+								<bold>e</bold>).
+								<bold>f</bold> Fold increases in the GMT from day 1 to day 21 or 28 (GMFR) for each specified variant represented by a point and written with a number followed by a ×. The horizontal lines represent the 95% CIs. Data are from participants with no missing data at baseline and at all time points analyzed (ARVAC CG 25 µg (
+								<italic>N</italic> = 58), ARVAC CG 50 µg (
+								<italic>N</italic> = 18) or BNT162b2 (
+								<italic>N</italic> = 18). Statistical differences were analyzed using Kruskal-Wallis test followed by the Dunn´s multiple comparison test. ns:
+								<italic>P</italic> &gt; 0.05,
+								<sup>★</sup>
+								<italic>P</italic> = 0.0243;
+								<sup>★★★</sup>
+								<italic>P</italic> = 0.0009;
+								<sup>★★★★</sup>
+								<italic>P</italic> = 0.00004.
+							</p>
+						</caption>
+						<p>
+							<graphic specific-use="HTML" mime-subtype="PNG" xlink:href="MediaObjects/41467_2023_40272_Fig5_HTML.png"/>
+						</p>
+					</fig>
+				</p>
+				<p id="Par20">While GMFR in nAb titers against Ancestral, Gamma and Delta VOCs after a booster dose with BNT162b2 were similar to those elicited in the ARVAC CG cohorts (
+					<italic>P</italic> &gt; 0.05), GMFR of nAb titers against Omicron BA.1 and BA.5 were significantly lower in the BNT162b2- than in the ARVAC CG boosted individuals (Fig.
+					<xref rid="Fig5" ref-type="fig">5f</xref>). Similar results were obtained when the nAb responses of the BNT162b2 group were compared to those of ARVAC CG boosted individuals whose time since completion of primary vaccination series and booster was less than 180 days (Supplementary Fig.
+					<xref ref-type="supplementary-material" rid="MOESM1">6</xref>) or when compared only the individuals whose primary vaccination scheme was rAd26/rAd5 (Sputnik V vaccine) (Supplementary Fig.
+					<xref ref-type="supplementary-material" rid="MOESM1">7</xref>).
+				</p>
+				<p id="Par21">Transformation of nAb titers to IU/ml, allowed the evaluation of the percentage of participants with nAb levels associated with high VE. In group A, rates of participants with nAb levels higher than of 949 IU/ml before the booster were 26.7% (95% CI 39.0, 17.1), 3.3% (95% CI 11.4, 0.6), 6.7% (95% CI 15.9, 2.6), and 1.7% (95% CI 8.9, 0.1) for the Ancestral, Gamma, Delta, and Omicron BA.1 SARS-CoV-2 VOCs, respectively. These rates rose significantly after 14 days of having received the booster to reach 83.3% (95% CI 90.7, 72.0), 80.0 % (95% CI 88.2, 68.2), 60.0% (95% CI 71.4, 47.4), and 78.3% (95% CI 86.9, 66.4) for each viral variant, respectively. Likewise, in group B the proportion of participants with nAb levels higher than 949 IU/ml raised significantly from 15.0% (95% CI 5.2, 36.0), 0.0% (95% CI 0.0, 16.1), 5.0% (95% CI 0.3, 23.6), and 10.0% (95% CI 1.8, 30.1) for the Ancestral, Gamma, Delta, and Omicron BA.1 SARS-CoV-2 VOCs respectively at baseline, to 80.0% (95% CI 58.4, 91.9), 70.0% (95% CI 48.1, 85.5), 45.0% (95% CI 25.8, 65.8), and 95.0% (95% CI, 76.4, 99.7) for each viral variant, respectively (Supplementary Fig.
+					<xref ref-type="supplementary-material" rid="MOESM1">8</xref>).
+				</p>
+				<p id="Par22">A significant increase in the frequency of IFN-γ producing cells upon in vitro re-stimulation with SARS-CoV-2 RBD peptide pools was observed in both ARVAC CG cohorts in comparison with the levels observed before the booster. In addition, a slight increase of IL-4 producing cells was observed after the booster in group A participants (Fig.
+					<xref rid="Fig6" ref-type="fig">6</xref>). Interestingly, booster vaccination with 25 µg or 50 µg of ARVAC CG led to increases in antigen-specific cellular immune responses in individuals primed with different vaccine platforms (Supplementary Fig.
+					<xref ref-type="supplementary-material" rid="MOESM1">9</xref>).
+					<fig id="Fig6">
+						<label>Fig. 6</label>
+						<caption xml:lang="en">
+							<title>ARVAC CG booster induces significant increase of Th1-predominant cell response measured by IFN-γ and IL-4 ELISpot after restimulation of PBMCs with RBD spanning peptide pool.</title>
+							<p>Before booster administration (d1) and after 28 days (d28) of administration of ARVAC CG 25 μg (
+								<bold>a</bold>) or 50 μg (
+								<bold>b</bold>) dose, RBD specific cellular responses were measured by IFN-γ and IL-4 ELISpot in PBMCs. Samples from 58 subjects and 18 subjects from ARVAC CG 25 µg and 50 µg cohorts were analyzed. Shown are spot-forming units (SFU) per 1 × 10
+								<sup>6</sup> PBMCs producing IFN-γ and IL-4 after stimulation with-RBD peptide pool from samples with viable cells:
+								<italic>N</italic> = 55 for IFN-γ and
+								<italic>N</italic> = 51 for IL-4 in ARVAC CG 25 µg group and
+								<italic>N</italic> = 18 for IFN-γ and
+								<italic>N</italic> = 14 for IL-4 in ARVAC CG 50 µg group. Each point represents the result from a subject. Bars indicate the mean, and error bars the SEM. Statistical analysis (d1 vs. d28) was performed by the two tailed Wilcoxon matched pairs signed rank test.
+								<bold>a</bold> IFN-γ SFU d1 vs. d28:
+								<italic>P</italic> = 0.000003; IL-4 SFU d1 vs. d28:
+								<italic>P</italic> = 0.00002; (
+								<bold>b</bold>) IFN-γ SFU d1 vs. d28:
+								<italic>P</italic> = 0.0155; IL-4 SFU d1 vs. d28:
+								<italic>P</italic> &gt; 0.05.
+							</p>
+						</caption>
+						<p>
+							<graphic specific-use="HTML" mime-subtype="PNG" xlink:href="MediaObjects/41467_2023_40272_Fig6_HTML.png"/>
+						</p>
+					</fig>
+				</p>
+				<p id="Par23">A second booster with ARVAC CG was given to the volunteers after 28 days to collect safety data after two vaccine administrations. The nAb titers remained significantly higher than baseline values (d1) after 42 days and 56 days of first dose administration (Supplementary Fig.
+					<xref ref-type="supplementary-material" rid="MOESM1">10</xref>).
+				</p>
+			</sec>
+		</sec>
+		<sec id="Sec5" sec-type="discussion">
+			<title>Discussion</title>
+			<p id="Par24">The main findings of this study are that the vaccine candidate ARVAC CG when given as a booster dose is well tolerated and induces a robust and broad nAb response against several SARS-CoV-2 VOCs.</p>
+			<p id="Par25">The interim results of this phase 1 study indicate that ARVAC CG vaccine given to individuals who previously received a complete primary vaccination regimen has a clinically acceptable safety and reactogenicity profile for both antigen doses (25 μg and 50 μg).</p>
+			<p id="Par26">Immunogenicity results indicate that ARVAC CG as a booster dose induces a sharp increase of broadly nAb titres against the Ancestral SARS-CoV-2 strain, the Gamma SARS-CoV-2 VOC, which is the vaccine prototype strain, as well as against antigenic distant SARS-CoV-2 VOCs like Delta, Omicron BA.1 and Omicron BA.5. Moreover, the ARVAC CG 50 μg dose outperformed the 25 μg dose in terms of nAb titers reached against the Ancestral and Omicron BA.1 viral variants and 10×-seroconversion rates in nAb against Omicron BA.1. The booster effect after one dose of ARVAC CG vaccine was evident despite the variety of immunization schemes received by the study participants.</p>
+			<p id="Par27">The differences in the proportions of subjects with different types of primary vaccine regimen in the low-dose and the high-dose groups may difficult comparisons. However, the possibility to include different primary vaccination schemes was important in this phase 1 study to have a representation of the diversity in primary vaccination schemes that were used in Argentina. Since most individuals in group B had received the BBIBP-CorV vaccine as primary vaccination regimen and there were approximately equal numbers of BBIBP-CorV recipients in the high and low dose groups, the comparison of these subgroups was also performed. Similar to the findings when all volunteers were included, in these more homogeneous subpopulations, the 50 µg dose was consistently more immunogenic than the 25 µg dose. Although the time since prior COVID-19 declared by participants was quite different between the high and low dose groups and this could be a limitation, the analysis of anti-N in sera of all individuals indicated that both populations were similar in their inferred previous exposure to the virus and that the immune responses after vaccination are independent of previous infection status.</p>
+			<p id="Par28">With the emergence of new VOCs it is clear that breakthrough infections can occur in vaccinated persons, including those with previous SARS-CoV-2 infection
+				<sup>
+					<xref ref-type="bibr" rid="CR14">14</xref>,
+					<xref ref-type="bibr" rid="CR15">15</xref>
+				</sup>. Therefore, the capability to boost the immune responses in individuals with a previous history of infection becomes critical, enhancing protection against COVID-19 and post-COVID conditions
+				<sup>
+					<xref ref-type="bibr" rid="CR16">16</xref>
+				</sup>. The results of this study highlight the potential benefit of the ARVAC CG vaccine for all populations regardless of their prior COVID-19 serological status.
+			</p>
+			<p id="Par29">The performance of the ARVAC CG booster dose regarding nAb GMTs and GMFR, was similar to that of the BNT162b2 booster against Ancestral and Delta VOCs, but better for Gamma, Omicron BA.1 and BA.5 VOCs. Similarly, booster shots with Beta variant-based vaccines elicit broad nAb responses against the Ancestral, the Beta and the Omicron BA.1 VOC, which were higher than that elicited by a booster with an ancestral-variant based vaccine
+				<sup>
+					<xref ref-type="bibr" rid="CR10">10</xref>,
+					<xref ref-type="bibr" rid="CR17">17</xref>,
+					<xref ref-type="bibr" rid="CR18">18</xref>
+				</sup>. Results presented here suggest that a booster with a Gamma variant RBD-based vaccine increases the breadth of the nAb and are in agreement with non-clinical results of this vaccine formulation
+				<sup>
+					<xref ref-type="bibr" rid="CR13">13</xref>
+				</sup>.
+			</p>
+			<p id="Par30">Even though there are not well-established threshold values of nAb levels that correlate with protection against symptomatic SARS-CoV-2 infection, an increasing number of studies using standardized methods offer hints about the nAb levels that might be associated with protection
+				<sup>
+					<xref ref-type="bibr" rid="CR15">15</xref>,
+					<xref ref-type="bibr" rid="CR19">19</xref>–
+					<xref ref-type="bibr" rid="CR21">21</xref>
+				</sup>. In this regard, nAb levels of ~100-120 IU/ml have been correlated with ~80% VE against symptomatic infection, whereas nAb levels of ~900-1030 IU/ml correlate with ~90% VE against symptomatic infection
+				<sup>
+					<xref ref-type="bibr" rid="CR19">19</xref>
+				</sup>. Results presented here suggest that a booster with ARVAC CG significantly increases the proportion of individuals with nAb titers that correlate with high VE.
+			</p>
+			<p id="Par31">T-cell immunity is crucial to combat acute SARS-CoV-2 infection and for the development of long-term immunity
+				<sup>
+					<xref ref-type="bibr" rid="CR22">22</xref>
+				</sup>. While antibody titers tend to wane rapidly and show limited neutralizing activity to newly arising VOCs, T-cell memory is largely conserved
+				<sup>
+					<xref ref-type="bibr" rid="CR22">22</xref>
+				</sup>. ARVAC CG boosted T cell immunity, which might contribute to eliminate virus-infected cells. Although it has been reported that durable spike-specific T-cell responses after different COVID-19 primary vaccination regimens are not further enhanced by an mRNA booster
+				<sup>
+					<xref ref-type="bibr" rid="CR23">23</xref>
+				</sup>, results presented here show that ARVAC CG booster significantly increases the proportion of antigen-specific IFN-γ and IL-4 producing T cells in individuals previously vaccinated with different primary schemes.
+			</p>
+			<p id="Par32">One limitation of this study is the lack of randomization for volunteers. Nevertheless, despite the sequential study design, enrolment dates of the booster groups occurred within weeks of each other, representing similar epidemiologic environments of circulating variants. The comparison of the immunogenicity results of ARVAC CG cohorts with those of a contemporaneous BNT162b2 booster study has another limitation, since the study participants presented some demographic differences in their ages (36.5 in BNT162b2 group versus 32 and 27 years in groups A and B, respectively). Although the time from last SARS-CoV-2 vaccine dose (4.2 months in the BNT162b2 boosted subjects versus 7.9 and 6.6 months in group A and B, respectively) was different this did not influence the immune outcomes in this study. Peak of nAb titers reached after booster in both ARVAC CG cohorts were similar whether the time since primary vaccination completion to booster was short ( &lt; 180 days) or long (≥ 180 days). Indeed, ARVAC CG boosters at short time ( &lt; 180 days) showed a better performance than BNT162b2 booster. The confirmed previous SARS-CoV-2 infection history (0% in group BNT162b2 versus 8% and 20% in groups A and B, respectively) was quite different, nevertheless anti-N antibodies serology indicated that the three populations had similar proportions of seropositive individuals and might had similar previous contact with the virus. The proportion of primary vaccination schemes was also different, since most individuals in BNT162b2 boosted cohort had received the rAd26/rAd5 (Sputnik V) vaccine as primary vaccination regimen, however the comparison among subjects with the same primary vaccination led to similar results.</p>
+			<p id="Par33">In this phase 1 study, safety was demonstrated after two ARVAC CG administrations highlighting that ARVAC CG is safe. Immune responses after a single booster dose could be assessed only after 14 and 28 days of administration. After the second ARVAC CG administration the nAb remained significantly higher than baseline but no booster effect was observed. The lack of booster effect may be due to the short interval between boosters, that may not be the optimal in terms of immunological performance
+				<sup>
+					<xref ref-type="bibr" rid="CR24">24</xref>–
+					<xref ref-type="bibr" rid="CR26">26</xref>
+				</sup>. Longer-term follow-up of immune responses after a single booster dose will have to be studied in an ongoing phase 2/3 study.
+			</p>
+			<p id="Par34">While both formulations of ARVAC CG exhibited a favorable safety and reactogenicity profile eliciting broadly nAb responses and T cell immunity against SARS-CoV-2, the 50 µg dose outperformed the 25 µg dose in certain of the immunogenicity variables evaluated. Therefore, the 50 µg dose vaccine is currently being tested in an ongoing Phase 2/3 study to evaluate its safety, and immunogenicity in a larger population. Selection of the 50 µg vaccine dose allowed the testing of a bivalent vaccine containing 25 µg of Gamma-based antigen plus 25 µg of Omicron BA.5-based antigen to improve the response capacity, as part of a Phase 2/3 study, in accordance with the recommendations from the advisory committee on immunization practices for the use of bivalent booster doses of COVID-19 vaccines to increase protection against circulating VOCs and to broaden neutralization to previous and potentially yet-to-emerge variants
+				<sup>
+					<xref ref-type="bibr" rid="CR27">27</xref>
+				</sup>.
+			</p>
+			<p id="Par35">There is a need for widespread immunization programs with new generation of COVID-19 booster vaccines which provide a wide breadth of protection against constantly emerging SARS-Cov-2 variants. Nonetheless, LMICs lag far behind in this effort due to limitations in affordability and accessibility to vaccines. Hence, developments such as ARVAC CG may offer an opportunity to overcome some of these challenges and improve the response capacity of many countries, worldwide.</p>
+		</sec>
+		<sec id="Sec6" sec-type="methods">
+			<title>Methods</title>
+			<sec id="Sec7">
+				<title>Trial design and oversight</title>
+				<p id="Par36">The trial was prospectively registered in PRIISA.BA (Registration Code 6564) and in ANMAT. Registration was performed in February 2022, before the study beginning and before enrollment of the first participant. Also the same protocol with no changes was retrospectively registered on December 23, 2022 in ClinicalTrials.gov (NCT05656508). The trial was conducted at Clinical Pharma (Clínica CIAREC, Intense Life S.A, Buenos Aires, Argentina). In this open-label, first-in-human, dose-escalation, phase 1 clinical trial, eligible volunteers were healthy men and nonpregnant women, aged 18 to 55, with a body-mass index of 18 to 30 and with a complete COVID-19 vaccine primary schedule. Health status, assessed during the screening period, was based on medical history and extensive clinical laboratory tests, vital signs, and physical examination. Participants with a history of SARS-Cov-2 infection or COVID-19 within 60 days prior to recruitment into the study, or who tested positive in real-time polymerase-chain-reaction (RT-PCR) assay at screening or worked in an occupation with high risk of exposure to SARS-CoV-2, as well as those with an incomplete COVID-19 vaccine primary schedule or who had received the last COVID19 primary vaccine shot within 4 months prior to recruitment into the study or have received a booster dose of any COVID-19 vaccine, were excluded. Participants sex (male, female) was assigned based on sex assigned at birth, as self-reported by the participant.</p>
+				<p id="Par37">The study protocol was initiated on April 10, 2022. Twenty seven out of 107 volunteers (13 males, 14 females) were excluded for not complying with eligibility criteria. Participants were recruited between April 28 and June 23, 2022, and sequentially assigned to one of two vaccine groups, one receiving a 25 µg dose of ARVAC CG (Group A) and the other a 50 µg dose (Group B). A sequential assignment plan was prespecified in the study protocol. In the first stage of enrollment, the first five enrolled participants received the low dose vaccine (25 µg/dose). Only one participant per day was vaccinated. Afterwards in the second stage of enrollment, participants 6th to 10th received the high dose vaccine formulation (50 µg/dose). Only one participant per day was vaccinated. The next fifty-five enrolled participants received the 25 µg/dose (stage 3), and then the last fifteen participants received the 50 µg/dose (stage 4). Of the 80 volunteers who received at least one intramuscular dose of ARVAC CG in the deltoid, three were excluded 28 days after the first dose of the vaccine due to impossibility to complete the protocol for personal reasons. Of the 77 remaining, 59 were inoculated with two 25 μg vaccine doses, and 18 with two 50 μg vaccine doses. One study participant was tested as SARS-CoV-2 positive in the fifth visit of the protocol (day 28 after first dose). The participant was completely asymptomatic and following protocol instructions the application of the second dose was delayed. While the safety data of this volunteer at 28 days and after the second booster are included, the immunogenicity data at day 28 and at later time points were excluded because the immunogenicity against the virus may shape the antibody response and lead to misinterpretation of the results. Investigators, and laboratory personnel involved in assays were blind to assignment until the end of the follow-up period.</p>
+				<p id="Par38">Missing data or deviations from original protocol were infrequent and inconsequential.</p>
+				<p id="Par39">Safety was assessed according to the scheme established in the Guidance for Industry, Toxicity Grading Scale for Healthy Adult and Adolescent Volunteers Enrolled in Preventive Vaccine Clinical Trials
+					<sup>
+						<xref ref-type="bibr" rid="CR28">28</xref>
+					</sup>. Solicited local and systemic adverse events (AE) were recorded during the first 7 days after each dose of vaccine received, unsolicited events were recorded during the first 28 days after vaccination, laboratory tests were carried out after 7 and 28 days of each dose. The following symptom grading was used for local and systemic AE: grade 1 (mild) to grade 4 (potentially life-threatening). All safety information collected was available to an external Independent Committee of Data Review for continuous monitoring of any relevant AE and recommendations of modifying or interrupting the protocol as necessary.
+				</p>
+				<p id="Par40">Causality assessment of AE was based on the standard definition and application of terms for vaccine pharmacovigilance as stated by the Report of the CIOMS/WHO Working Group on Vaccine Pharmacovigilance
+					<sup>
+						<xref ref-type="bibr" rid="CR29">29</xref>
+					</sup>.
+				</p>
+				<p id="Par41">The immunogenicity of ARVAC CG was compared to 18 samples obtained during the COVID-19 serology surveillance strategy implemented by the Ministry of Health of the Province of Buenos Aires, between February 4 and March 31, 2022. These were individuals with similar demographic characteristics who received a heterologous booster with the Ancestral-based BNT162b2 mRNA vaccine administered at least 3 months after a two-dose primary schedule (Table
+					<xref rid="Tab2" ref-type="table">2</xref>).
+				</p>
+			</sec>
+			<sec id="Sec8">
+				<title>Ethical statement</title>
+				<p id="Par42">All participants provided written informed consent before enrolment in the trial and after the nature and possible consequences of the study were explained. The study was conducted according to the Declaration of Helsinki. The trial protocol was approved on March 09, 2022, by the Ethic Committee in Clinical Research Stambulian (CEIC), and by the Food and Drugs National Regulatory Agency (Administración Nacional de Medicamentos, Alimentos y Tecnología Médica, ANMAT), on March 22, 2022. Participants received compensation for their participation by travel costs reimbursement and food during their stay at the facilities.</p>
+				<p id="Par43">Samples of the surveillance strategy implemented by the Ministry of Health of the Province of Buenos Aires that were used, were obtained from individuals that gave a written informed consent after receiving a fully explanation of the nature and possible consequences of the study. The study was approved on February 3, 2022, by the Central Ethics Committee of Buenos Aires Province (Comité de ética central de la provincia de Buenos Aires).</p>
+			</sec>
+			<sec id="Sec9">
+				<title>Vaccine</title>
+				<p id="Par44">The vaccine was manufactured by Laboratorio Pablo Cassará S.R.L, according to good manufacturing practice guidelines. The recombinant protein was produced in a CHO-S-cell line and consisted of a single-chain dimer of the receptor binding domain (RBD), comprising amino acids 319 R to 537 K of the Spike protein from Gamma SARS-CoV-2 virus variant. ARVAC CG consisted in a liquid formulation containing 25 μg or 50 μg per 0.5 mL in a vial, with aluminum hydroxide as the adjuvant
+					<sup>
+						<xref ref-type="bibr" rid="CR13">13</xref>
+					</sup> (see Supplementary methods for more detailed description of vaccine manufacture and quality control).
+				</p>
+			</sec>
+			<sec id="Sec10">
+				<title>SARS-CoV-2 Neutralization assays</title>
+				<p id="Par45">Neutralization assays were performed using live SARS-CoV-2 virus isolates
+					<sup>
+						<xref ref-type="bibr" rid="CR30">30</xref>
+					</sup>. Serial dilutions of plasma samples from 1/8 to 1/16384 were incubated 1 h at 37 °C in the presence of Ancestral (B.1), Gamma, Delta, or Omicron variants (BA.1 or BA.5) in Dulbecco’s Modified Eagle Medium (DMEM), 2% fetal bovine serum (FBS). Then, 50 μL of the mixture were deposited over Vero cell monolayers for an hour at 37 °C (MOI, 0.01). Infectious medium was removed and replaced by DMEM, 2%-FBS. After 72 h, cells were fixed with 4% paraformaldehyde (4 °C, 20 min) and stained with crystal violet solution in methanol. The cytopathic effect (CPE) on the cell monolayer was assessed visually. If damage to the monolayer was observed in the well, it was considered manifestation of CPE and the neutralization titer was defined as the highest serum dilution that prevented any CPE. The neutralization antibody titers below the detection limit (1:8 dilution) were set as 4.
+				</p>
+				<p id="Par46">The nAb titers were transformed to international units per ml (IU/ml) by the inclusion in each plate of a secondary standard that was calibrated with the WHO international standard (NIBSC code: 20/268) following the WHO procedures manual
+					<sup>
+						<xref ref-type="bibr" rid="CR31">31</xref>
+					</sup>.
+				</p>
+			</sec>
+			<sec id="Sec11">
+				<title>SARS-CoV-2 antibody ELISA</title>
+				<p id="Par47">Antibodies against SARS-CoV-2 spike protein or RBD were detected using established, commercially available, two-step ELISAs COVIDAR
+					<sup>
+						<xref ref-type="bibr" rid="CR28">28</xref>
+					</sup>, or SARS-CoV-2 (RBD) total Ab ELISA from DRG International (DRG Inc, Springfield, NJ 07081 USA) following manufacturer instructions. Data were collected using a Multiscan Go microplate reader from ThermoScientific with Thermo Scientific SkanIt Software. The immunoglobulin G (IgG) concentration of each sample, expressed in Binding Antibody Units/mL (BAU/mL) was calculated by extrapolation of the optical density at 450 nm (OD450) on a calibration curve built using serial dilutions of the WHO International Standard for anti-SARS-CoV-2 immunoglobulin.
+				</p>
+			</sec>
+			<sec id="Sec12">
+				<title>ELISpot</title>
+				<p id="Par48">The T-cell mediated immune response against the SARS-CoV-2 RBD was assessed after the in vitro peptide stimulation of peripheral blood mononuclear cells (PBMC), followed by IFN-γ and IL-4 enzyme-linked immune absorbent spot (IFN-γ (BD Biosciences) and IL-4 (MabTech) ELISpot). A peptide pool of overlapping SARS-CoV-2 peptides, encompassing the SARS-CoV-2 spike RBD covering the Gamma variant was used in the assay (JPT Peptide Technologies GmbH, Germany). ElisPot Plates were scanned on an ImmunoSpot reader (Cellular Technology Ltd.). Specific spots were counted using the ImmunoSpot 5.0 software.</p>
+			</sec>
+			<sec id="Sec13">
+				<title>Statistical analysis</title>
+				<p id="Par49">Variables are reported as means +/− standard deviations, medians and interquartile range (IQRs) or CI95%, and numbers and percentages. Immunogenicity response was assessed by means of nAb geometric mean titers (GMTs), and seroconversion rates. Fourfold seroconversion (4×-seroconversion) or tenfold seroconversion (10×-seroconversion) were defined respectively as an increase in neutralizing antibodies equal or higher than four- or ten-times when the baseline nAb titers before the booster vaccine were detectable or four times the lower detection limit when the baseline concentration was not detectable. Differences in mean, geometric mean, or percentage values between groups and among prior vaccine platforms were assessed by means of Mann Whitney u test, Wilcoxon pair-matched test, Kruskal-Wallis test with post hoc Dunn’s for multiple comparisons, Fisher exact test, or Chi-square distribution, as appropriate. 95% CI were calculated using the Wilson/Brown method. Missing data were assumed to be missing at random. Statistical analyses were done using GraphPad Prism v8.4.2 (GraphPad Software, San Diego, CA), Two-sided
+					<italic>P</italic>-values &lt; 0.05 were considered statistically significant.
+				</p>
+			</sec>
+			<sec id="Sec14">
+				<title>Reporting summary</title>
+				<p id="Par50">Further information on research design is available in the
+					<xref ref-type="supplementary-material" rid="MOESM3">Nature Portfolio Reporting Summary</xref> linked to this article.
+				</p>
+			</sec>
+		</sec>
+	</body>
+	<back>
+		<ack>
+			<title>Acknowledgements</title>
+			<p>We thank the trial volunteers for their contribution and commitment to vaccine research. We are thankful to the staff of Laboratorio Pablo Cassará for their essential contribution to the development, scaling, manufacture, control and stability studies of the clinical batches of ARVAC CG antigen and vaccine: Krum, Valeria; Drehe, Ignacio; Zurvarra, Francisco; Baque, Jonathan; Payes, Cristian; Heinrich, Brenda; Gambone, Melisa; Descoins, Horacio; De Nichilo, Analía; Sidabra, Johanna; Licausi, Mariana; Cortez, Christian; Roman, María Victoria; Villar, Alejandra; Diaz, Sebastián; Frattolillo, Matías; Mestre, Diego; Gonzalo, Javier; Maluvini, Ernesto; Sperandini, Cecilia; Farre, Paola; Trovato, Fernando; Strada, Ariel; Cocciolo, Giovanna; and Privitera, Anabella. We additionally thank Roberto Debagg for giving valuable advice during to the design and completion of the clinical trial. We thank Daniela Hozbor for the access to the samples obtained during the COVID-19 serology surveillance strategy implemented by the Ministry of Health of the Province of Buenos Aires. We thank Florencia Quiroga, Gabriela Turk and Natalia Laufer for performing T cell stimulation assays by ELISpot at Instituto de Investigaciones Biomédicas en Retrovirus y SIDA, INBIRS-CONICET, Buenos Aires, Argentina. We also thank Jaime Torres who provided medical writing support. We thank Elisa Estenssoro of the Ministry of Health of the Province of Buenos Aires for critical review of the manuscript. We are grateful to Dr. Ángela Spanguolo de Gentile, Dr. Pablo Bonvehí, and Dr. Hugo Krupitzki who are members of the external Independent Committee of Data Review for their dedication and continuous invaluable advice. The study was funded by Laboratorio Pablo Cassará S.R.L. (Argentina). Laboratorio Pablo Cassará, in collaboration with the other authors, had a role in the design and supervision of the study.</p>
+		</ack>
+		<sec sec-type="author-contribution">
+			<title>Author contributions</title>
+			<p>J.C., M.L., J.C.V., F.M.O., J.M.R., J.F., K.A.P., and L.M.C. conceptualized and designed the study. K.A.P., L.M.C., and J.C. wrote and edited the manuscript. M.L., F.M.O., and J.M.R. were responsible for project administration. J.C., K.A.P., L.M.C., M.L., and J.F., accessed, verified, and analyzed the data, and generated the interim report. E.F. is the study site scientific director and supervised the study. G.A.Y. is a study site principal investigator. K.H., G.A.Y., and P.E.P.L. were responsible for the site work including the recruitment, follow up, and data collection. B.M., M.S., A.D., C.P.C., L.S., L.B. performed immunogenicity experiments. A.C., A.V., D.A., and J.G. contributed to the performance and analysis of neutralizing antibody assays. S.G., and VVGM provided the plasma samples from individuals boosted with authorized vaccines. J.M.R., J.C.V., F.M.O. and L.P.C. R&amp;D and C.M.C. consortium were responsible for R&amp;D for chemistry, manufacture and controls of antigen and study products. J.C.V. and F.M.O. provided regulatory oversight. ML was responsible for the overall supervision of the study and monitored the trial. All authors contributed to data interpretation, review, and editing of this manuscript. All authors have read and approved the final version of the manuscript.</p>
+		</sec>
+		<sec sec-type="peer-review">
+			<title>Peer review</title>
+			<sec id="FPar1">
+				<title>Peer review information</title>
+				<p id="Par51">
+					<italic>Nature Communications</italic> thanks Brian Ward and the other, anonymous, reviewer(s) for their contribution to the peer review of this work. A peer review file is available.
+				</p>
+			</sec>
+		</sec>
+		<sec sec-type="data-availability">
+			<title>Data availability</title>
+			<p>All data are presented in the main text or the supplementary materials and are available upon reasonable request from the corresponding author. Data to be shared include all the individual participant data collected during the trial after deidentification and the study protocol. Data will be shared after completion of the trial and after publication of the results.
+				<xref rid="Sec16" ref-type="sec">Source data</xref> are provided with this paper.
+			</p>
+		</sec>
+		<sec sec-type="ethics-statement">
+			<sec id="FPar2" sec-type="COI-statement">
+				<title>Competing interests</title>
+				<p id="Par52">J.M.R., L.P.C. R&amp;D and CMC Group, F.M.O., J.C.V. are employees of Laboratorio Pablo Cassará S.R.L., which developed the vaccine and funded the trial. M.L. and J.F. are external consultants and received honoraria from Laboratorio Pablo Cassará S.R.L. All other authors declare no competing interests.</p>
+			</sec>
+		</sec>
+		<ref-list id="Bib1">
+			<title>References</title>
+			<ref-list>
+				<ref id="CR1">
+					<label>1.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Chi</surname>
+								<given-names>W-Y</given-names>
+							</name>
+							<etal/>
+						</person-group>
+						<article-title xml:lang="en">COVID-19 vaccine update: vaccine effectiveness, SARS-CoV-2 variants, boosters, adverse effects, and immune correlates of protection</article-title>
+						<source>J. Biomed. Sci.</source>
+						<year>2022</year>
+						<volume>29</volume>
+						<pub-id pub-id-type="doi">10.1186/s12929-022-00853-8</pub-id>
+						<pub-id pub-id-type="pmid">36243868</pub-id>
+						<pub-id pub-id-type="pmcid">9569411</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR2">
+					<label>2.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Shrestha</surname>
+								<given-names>LB</given-names>
+							</name>
+							<name>
+								<surname>Foster</surname>
+								<given-names>C</given-names>
+							</name>
+							<name>
+								<surname>Rawlinson</surname>
+								<given-names>W</given-names>
+							</name>
+							<name>
+								<surname>Tedla</surname>
+								<given-names>N</given-names>
+							</name>
+							<name>
+								<surname>Bull</surname>
+								<given-names>RA</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Evolution of the SARS-CoV-2 omicron variants BA.1 to BA.5: Implications for immune escape and transmission</article-title>
+						<source>Rev. Med Virol.</source>
+						<year>2022</year>
+						<volume>32</volume>
+						<fpage>e2381</fpage>
+						<pub-id pub-id-type="coi">1:CAS:528:DC%2BB38XitVWksr%2FO</pub-id>
+						<pub-id pub-id-type="doi">10.1002/rmv.2381</pub-id>
+						<pub-id pub-id-type="pmid">35856385</pub-id>
+						<pub-id pub-id-type="pmcid">9349777</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR3">
+					<label>3.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Martinez-Flores</surname>
+								<given-names>D</given-names>
+							</name>
+							<etal/>
+						</person-group>
+						<article-title xml:lang="en">SARS-CoV-2 Vaccines Based on the Spike Glycoprotein and Implications of New Viral Variants</article-title>
+						<source>Front Immunol.</source>
+						<year>2021</year>
+						<volume>12</volume>
+						<fpage>701501</fpage>
+						<pub-id pub-id-type="coi">1:CAS:528:DC%2BB3MXitFKgt7vO</pub-id>
+						<pub-id pub-id-type="doi">10.3389/fimmu.2021.701501</pub-id>
+						<pub-id pub-id-type="pmid">34322129</pub-id>
+						<pub-id pub-id-type="pmcid">8311925</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR4">
+					<label>4.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Pollet</surname>
+								<given-names>J</given-names>
+							</name>
+							<name>
+								<surname>Chen</surname>
+								<given-names>WH</given-names>
+							</name>
+							<name>
+								<surname>Strych</surname>
+								<given-names>U</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Recombinant protein vaccines, a proven approach against coronavirus pandemics</article-title>
+						<source>Adv. Drug Deliv. Rev.</source>
+						<year>2021</year>
+						<volume>170</volume>
+						<fpage>71</fpage>
+						<lpage>82</lpage>
+						<pub-id pub-id-type="coi">1:CAS:528:DC%2BB3MXhsVeqsrw%3D</pub-id>
+						<pub-id pub-id-type="doi">10.1016/j.addr.2021.01.001</pub-id>
+						<pub-id pub-id-type="pmid">33421475</pub-id>
+						<pub-id pub-id-type="pmcid">7788321</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR5">
+					<label>5.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Heidary</surname>
+								<given-names>M</given-names>
+							</name>
+							<etal/>
+						</person-group>
+						<article-title xml:lang="en">A Comprehensive Review of the Protein Subunit Vaccines Against COVID-19</article-title>
+						<source>Front Microbiol</source>
+						<year>2022</year>
+						<volume>13</volume>
+						<fpage>927306</fpage>
+						<pub-id pub-id-type="doi">10.3389/fmicb.2022.927306</pub-id>
+						<pub-id pub-id-type="pmid">35910658</pub-id>
+						<pub-id pub-id-type="pmcid">9329957</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR6">
+					<label>6.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Pascuale</surname>
+								<given-names>CA</given-names>
+							</name>
+							<etal/>
+						</person-group>
+						<article-title xml:lang="en">Immunogenicity and reactogenicity of heterologous immunization against SARS CoV-2 using Sputnik V, ChAdOx1-S, BBIBP-CorV, Ad5-nCoV, and mRNA-1273</article-title>
+						<source>Cell Rep. Med.</source>
+						<year>2022</year>
+						<volume>3</volume>
+						<fpage>100706</fpage>
+						<pub-id pub-id-type="coi">1:CAS:528:DC%2BB38XitVGgtLjP</pub-id>
+						<pub-id pub-id-type="doi">10.1016/j.xcrm.2022.100706</pub-id>
+						<pub-id pub-id-type="pmid">35926505</pub-id>
+						<pub-id pub-id-type="pmcid">9346506</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR7">
+					<label>7.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Rearte</surname>
+								<given-names>A</given-names>
+							</name>
+							<etal/>
+						</person-group>
+						<article-title xml:lang="en">Effectiveness of rAd26-rAd5, ChAdOx1 nCoV-19, and BBIBP-CorV vaccines for risk of infection with SARS-CoV-2 and death due to COVID-19 in people older than 60 years in Argentina: a test-negative, case-control, and retrospective longitudinal study</article-title>
+						<source>Lancet</source>
+						<year>2022</year>
+						<volume>399</volume>
+						<fpage>1254</fpage>
+						<lpage>1264</lpage>
+						<pub-id pub-id-type="coi">1:CAS:528:DC%2BB38XnsFClt7c%3D</pub-id>
+						<pub-id pub-id-type="doi">10.1016/S0140-6736(22)00011-3</pub-id>
+						<pub-id pub-id-type="pmid">35303473</pub-id>
+						<pub-id pub-id-type="pmcid">8923678</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR8">
+					<label>8.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Cele</surname>
+								<given-names>S</given-names>
+							</name>
+							<etal/>
+						</person-group>
+						<article-title xml:lang="en">Omicron extensively but incompletely escapes Pfizer BNT162b2 neutralization</article-title>
+						<source>Nature</source>
+						<year>2022</year>
+						<volume>602</volume>
+						<fpage>654</fpage>
+						<lpage>656</lpage>
+						<pub-id pub-id-type="bibcode">2022Natur.602..654C</pub-id>
+						<pub-id pub-id-type="coi">1:CAS:528:DC%2BB38XjvFOktLw%3D</pub-id>
+						<pub-id pub-id-type="doi">10.1038/s41586-021-04387-1</pub-id>
+						<pub-id pub-id-type="pmid">35016196</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR9">
+					<label>9.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Kuhlmann</surname>
+								<given-names>C</given-names>
+							</name>
+							<etal/>
+						</person-group>
+						<article-title xml:lang="en">Breakthrough infections with SARS-CoV-2 omicron despite mRNA vaccine booster dose</article-title>
+						<source>Lancet</source>
+						<year>2022</year>
+						<volume>399</volume>
+						<fpage>625</fpage>
+						<lpage>626</lpage>
+						<pub-id pub-id-type="coi">1:CAS:528:DC%2BB38Xhs1amtbc%3D</pub-id>
+						<pub-id pub-id-type="doi">10.1016/S0140-6736(22)00090-3</pub-id>
+						<pub-id pub-id-type="pmid">35063123</pub-id>
+						<pub-id pub-id-type="pmcid">8765759</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR10">
+					<label>10.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Launay</surname>
+								<given-names>O</given-names>
+							</name>
+							<etal/>
+						</person-group>
+						<article-title xml:lang="en">Immunogenicity and Safety of Beta-Adjuvanted Recombinant Booster Vaccine</article-title>
+						<source>N. Engl. J. Med.</source>
+						<year>2022</year>
+						<volume>387</volume>
+						<fpage>374</fpage>
+						<lpage>376</lpage>
+						<pub-id pub-id-type="doi">10.1056/NEJMc2206711</pub-id>
+						<pub-id pub-id-type="pmid">35767474</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR11">
+					<label>11.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Choi</surname>
+								<given-names>A</given-names>
+							</name>
+							<etal/>
+						</person-group>
+						<article-title xml:lang="en">Safety and immunogenicity of SARS-CoV-2 variant mRNA vaccine boosters in healthy adults: an interim analysis</article-title>
+						<source>Nat. Med.</source>
+						<year>2021</year>
+						<volume>27</volume>
+						<fpage>2025</fpage>
+						<lpage>2031</lpage>
+						<pub-id pub-id-type="coi">1:CAS:528:DC%2BB3MXitVequ7bM</pub-id>
+						<pub-id pub-id-type="doi">10.1038/s41591-021-01527-y</pub-id>
+						<pub-id pub-id-type="pmid">34526698</pub-id>
+						<pub-id pub-id-type="pmcid">8604720</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR12">
+					<label>12.</label>
+					<mixed-citation publication-type="other">Branche, A. R. et al. SARS-CoV-2 Variant Vaccine Boosters Trial: Preliminary Analyses.
+						<italic>medRxiv</italic>,
+						<ext-link xlink:href="https://doi.org/10.1101/2022.07.12.22277336" ext-link-type="doi">https://doi.org/10.1101/2022.07.12.22277336</ext-link> (2022).
+					</mixed-citation>
+				</ref>
+				<ref id="CR13">
+					<label>13.</label>
+					<mixed-citation publication-type="other">Coria, L. M. et al. A Gamma-adapted recombinant subunit vaccine induces broadly neutralizing antibodies against SARS-CoV-2 variants and protects mice from SARS-CoV-2 infection.
+						<italic>bioRxiv</italic>, 2023.2001.2003.522213,
+						<ext-link xlink:href="https://doi.org/10.1101/2023.01.03.522213" ext-link-type="doi">https://doi.org/10.1101/2023.01.03.522213</ext-link> (2023).
+					</mixed-citation>
+				</ref>
+				<ref id="CR14">
+					<label>14.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Carazo</surname>
+								<given-names>S</given-names>
+							</name>
+							<etal/>
+						</person-group>
+						<article-title xml:lang="en">Protection against omicron (B.1.1.529) BA.2 reinfection conferred by primary omicron BA.1 or pre-omicron SARS-CoV-2 infection among health-care workers with and without mRNA vaccination: a test-negative case-control study</article-title>
+						<source>Lancet Infect. Dis.</source>
+						<year>2022</year>
+						<volume>23</volume>
+						<fpage>45</fpage>
+						<lpage>55</lpage>
+						<pub-id pub-id-type="doi">10.1016/S1473-3099(22)00578-3</pub-id>
+						<pub-id pub-id-type="pmid">36152671</pub-id>
+						<pub-id pub-id-type="pmcid">9491856</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR15">
+					<label>15.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Khoury</surname>
+								<given-names>DS</given-names>
+							</name>
+							<etal/>
+						</person-group>
+						<article-title xml:lang="en">Neutralizing antibody levels are highly predictive of immune protection from symptomatic SARS-CoV-2 infection</article-title>
+						<source>Nat. Med</source>
+						<year>2021</year>
+						<volume>27</volume>
+						<fpage>1205</fpage>
+						<lpage>1211</lpage>
+						<pub-id pub-id-type="coi">1:CAS:528:DC%2BB3MXhtFSktLrP</pub-id>
+						<pub-id pub-id-type="doi">10.1038/s41591-021-01377-8</pub-id>
+						<pub-id pub-id-type="pmid">34002089</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR16">
+					<label>16.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Gilbert</surname>
+								<given-names>PB</given-names>
+							</name>
+							<etal/>
+						</person-group>
+						<article-title xml:lang="en">Immune correlates analysis of the mRNA-1273 COVID-19 vaccine efficacy clinical trial</article-title>
+						<source>Science</source>
+						<year>2022</year>
+						<volume>375</volume>
+						<fpage>43</fpage>
+						<lpage>50</lpage>
+						<pub-id pub-id-type="bibcode">2022Sci...375...43G</pub-id>
+						<pub-id pub-id-type="coi">1:CAS:528:DC%2BB38Xhtlamu70%3D</pub-id>
+						<pub-id pub-id-type="doi">10.1126/science.abm3425</pub-id>
+						<pub-id pub-id-type="pmid">34812653</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR17">
+					<label>17.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Chalkias</surname>
+								<given-names>S</given-names>
+							</name>
+							<etal/>
+						</person-group>
+						<article-title xml:lang="en">Safety, immunogenicity and antibody persistence of a bivalent Beta-containing booster vaccine against COVID-19: a phase 2/3 trial</article-title>
+						<source>Nat. Med</source>
+						<year>2022</year>
+						<volume>28</volume>
+						<fpage>2388</fpage>
+						<lpage>2397</lpage>
+						<pub-id pub-id-type="coi">1:CAS:528:DC%2BB38XisFygu7bL</pub-id>
+						<pub-id pub-id-type="doi">10.1038/s41591-022-02031-7</pub-id>
+						<pub-id pub-id-type="pmid">36202997</pub-id>
+						<pub-id pub-id-type="pmcid">9671805</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR18">
+					<label>18.</label>
+					<mixed-citation publication-type="other">Lien, C. E. et al.
+						<italic>A Phase I, Prospective, Randomized, Open-labeled Study to Evaluate the Safety, Tolerability, and Immunogenicity of Booster Dose with MVC-COV1901 or MVC-COV1901(Beta) SARS-CoV-2 Vaccine in Adults</italic> (Cold Spring Harbor Laboratory, 2022).
+					</mixed-citation>
+				</ref>
+				<ref id="CR19">
+					<label>19.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Feng</surname>
+								<given-names>S</given-names>
+							</name>
+							<etal/>
+						</person-group>
+						<article-title xml:lang="en">Correlates of protection against symptomatic and asymptomatic SARS-CoV-2 infection</article-title>
+						<source>Nat. Med.</source>
+						<year>2021</year>
+						<volume>27</volume>
+						<fpage>2032</fpage>
+						<lpage>2040</lpage>
+						<pub-id pub-id-type="coi">1:CAS:528:DC%2BB3MXitFCit7%2FL</pub-id>
+						<pub-id pub-id-type="doi">10.1038/s41591-021-01540-1</pub-id>
+						<pub-id pub-id-type="pmid">34588689</pub-id>
+						<pub-id pub-id-type="pmcid">8604724</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR20">
+					<label>20.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Goldblatt</surname>
+								<given-names>D</given-names>
+							</name>
+							<etal/>
+						</person-group>
+						<article-title xml:lang="en">Towards a population-based threshold of protection for COVID-19 vaccines</article-title>
+						<source>Vaccine</source>
+						<year>2022</year>
+						<volume>40</volume>
+						<fpage>306</fpage>
+						<lpage>315</lpage>
+						<pub-id pub-id-type="coi">1:CAS:528:DC%2BB38XntFyhtw%3D%3D</pub-id>
+						<pub-id pub-id-type="doi">10.1016/j.vaccine.2021.12.006</pub-id>
+						<pub-id pub-id-type="pmid">34933765</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR21">
+					<label>21.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Fong</surname>
+								<given-names>Y</given-names>
+							</name>
+							<etal/>
+						</person-group>
+						<article-title xml:lang="en">Immune correlates analysis of the ENSEMBLE single Ad26.COV2.S dose vaccine efficacy clinical trial</article-title>
+						<source>Nat. Microbiol.</source>
+						<year>2022</year>
+						<volume>7</volume>
+						<fpage>1996</fpage>
+						<lpage>2010</lpage>
+						<pub-id pub-id-type="coi">1:CAS:528:DC%2BB38XivVGltbbM</pub-id>
+						<pub-id pub-id-type="doi">10.1038/s41564-022-01262-1</pub-id>
+						<pub-id pub-id-type="pmid">36357712</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR22">
+					<label>22.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Wherry</surname>
+								<given-names>EJ</given-names>
+							</name>
+							<name>
+								<surname>Barouch</surname>
+								<given-names>DH</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">T cell immunity to COVID-19 vaccines</article-title>
+						<source>Science</source>
+						<year>2022</year>
+						<volume>377</volume>
+						<fpage>821</fpage>
+						<lpage>822</lpage>
+						<pub-id pub-id-type="bibcode">2022Sci...377..821W</pub-id>
+						<pub-id pub-id-type="coi">1:CAS:528:DC%2BB38Xit1yrtL7O</pub-id>
+						<pub-id pub-id-type="doi">10.1126/science.add2897</pub-id>
+						<pub-id pub-id-type="pmid">35981045</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR23">
+					<label>23.</label>
+					<mixed-citation publication-type="other">Maringer, Y. et al. Durable spike-specific T-cell responses after different COVID-19 vaccination regimens are not further enhanced by booster vaccination.
+						<italic>Sci Immunol.</italic>
+						<bold>7</bold>. eadd3899, (2022).
+					</mixed-citation>
+				</ref>
+				<ref id="CR24">
+					<label>24.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Payne</surname>
+								<given-names>RP</given-names>
+							</name>
+							<etal/>
+						</person-group>
+						<article-title xml:lang="en">Immunogenicity of standard and extended dosing intervals of BNT162b2 mRNA vaccine</article-title>
+						<source>Cell</source>
+						<year>2021</year>
+						<volume>184</volume>
+						<fpage>5699</fpage>
+						<lpage>5714.e5611</lpage>
+						<pub-id pub-id-type="coi">1:CAS:528:DC%2BB3MXisVantbnM</pub-id>
+						<pub-id pub-id-type="doi">10.1016/j.cell.2021.10.011</pub-id>
+						<pub-id pub-id-type="pmid">34735795</pub-id>
+						<pub-id pub-id-type="pmcid">8519781</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR25">
+					<label>25.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Zhao</surname>
+								<given-names>X</given-names>
+							</name>
+							<etal/>
+						</person-group>
+						<article-title xml:lang="en">Neutralisation of ZF2001-elicited antisera to SARS-CoV-2 variants</article-title>
+						<source>Lancet Microbe</source>
+						<year>2021</year>
+						<volume>2</volume>
+						<fpage>e494</fpage>
+						<pub-id pub-id-type="coi">1:CAS:528:DC%2BB3MXisVers7fP</pub-id>
+						<pub-id pub-id-type="doi">10.1016/S2666-5247(21)00217-2</pub-id>
+						<pub-id pub-id-type="pmid">34458880</pub-id>
+						<pub-id pub-id-type="pmcid">8378832</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR26">
+					<label>26.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Zhao</surname>
+								<given-names>X</given-names>
+							</name>
+							<etal/>
+						</person-group>
+						<article-title xml:lang="en">Effects of a Prolonged Booster Interval on Neutralization of Omicron Variant</article-title>
+						<source>N. Engl. J. Med.</source>
+						<year>2022</year>
+						<volume>386</volume>
+						<fpage>894</fpage>
+						<lpage>896</lpage>
+						<pub-id pub-id-type="coi">1:CAS:528:DC%2BB38Xmslamu7c%3D</pub-id>
+						<pub-id pub-id-type="doi">10.1056/NEJMc2119426</pub-id>
+						<pub-id pub-id-type="pmid">35081296</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR27">
+					<label>27.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Rosenblum</surname>
+								<given-names>HG</given-names>
+							</name>
+							<etal/>
+						</person-group>
+						<article-title xml:lang="en">Interim Recommendations from the Advisory Committee on Immunization Practices for the Use of Bivalent Booster Doses of COVID-19 Vaccines - United States, October 2022</article-title>
+						<source>MMWR Morb. Mortal. Wkly Rep.</source>
+						<year>2022</year>
+						<volume>71</volume>
+						<fpage>1436</fpage>
+						<lpage>1441</lpage>
+						<pub-id pub-id-type="doi">10.15585/mmwr.mm7145a2</pub-id>
+						<pub-id pub-id-type="pmid">36355612</pub-id>
+						<pub-id pub-id-type="pmcid">9707353</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR28">
+					<label>28.</label>
+					<mixed-citation publication-type="other">FDA. in
+						<italic>Guidance for Industry</italic> (ed U.S._Department_of_Health_and_Human_Services) (2007).
+					</mixed-citation>
+				</ref>
+				<ref id="CR29">
+					<label>29.</label>
+					<mixed-citation publication-type="other">CIOMS/WHO. Definition and Application of Terms for Vaccine Pharmacovigilance. (Working Group on Vaccine Pharmacovigilance. Council for International Organizations of Medical Sciences (CIOMS), World health organization (WHO), Geneva, 2012).</mixed-citation>
+				</ref>
+				<ref id="CR30">
+					<label>30.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Varese</surname>
+								<given-names>A</given-names>
+							</name>
+							<etal/>
+						</person-group>
+						<article-title xml:lang="en">Omicron Breakthrough Infection After Heterologous Prime-Boost Vaccination Induces a Vigorous Antibody Response</article-title>
+						<source>J. Infect. Dis.</source>
+						<year>2022</year>
+						<volume>226</volume>
+						<fpage>1717</fpage>
+						<lpage>1720</lpage>
+						<pub-id pub-id-type="coi">1:CAS:528:DC%2BB3sXptFart7w%3D</pub-id>
+						<pub-id pub-id-type="doi">10.1093/infdis/jiac250</pub-id>
+						<pub-id pub-id-type="pmid">35723970</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR31">
+					<label>31.</label>
+					<mixed-citation publication-type="other">World_Health_Organization. WHO manual for the establishment of national and other secondary standards for antibodies against infectious agents focusing on SARSCoV2. (World Health Organization, 2022).</mixed-citation>
+				</ref>
+			</ref-list>
+		</ref-list>
+		<app-group>
+			<app id="App1">
+				<sec id="Sec15">
+					<title>Supplementary information</title>
+					<p id="Par53">
+						<supplementary-material content-type="local-data" id="MOESM1" xlink:title="Supplementary information">
+							<media xlink:href="MediaObjects/41467_2023_40272_MOESM1_ESM.pdf" mimetype="application" mime-subtype="pdf">
+								<caption xml:lang="en">
+									<p>Supplementary Information</p>
+								</caption>
+							</media>
+						</supplementary-material>
+						<supplementary-material content-type="local-data" id="MOESM2" xlink:title="Supplementary information">
+							<media xlink:href="MediaObjects/41467_2023_40272_MOESM2_ESM.pdf" mimetype="application" mime-subtype="pdf">
+								<caption xml:lang="en">
+									<p>Peer Review File</p>
+								</caption>
+							</media>
+						</supplementary-material>
+						<supplementary-material content-type="local-data" id="MOESM3" xlink:title="Supplementary information">
+							<media xlink:href="MediaObjects/41467_2023_40272_MOESM3_ESM.pdf" mimetype="application" mime-subtype="pdf">
+								<caption xml:lang="en">
+									<p>Reporting Summary</p>
+								</caption>
+							</media>
+						</supplementary-material>
+					</p>
+				</sec>
+				<sec id="Sec16">
+					<title>Source data</title>
+					<p id="Par54">
+						<supplementary-material content-type="local-data" id="MOESM4" xlink:title="Source data">
+							<media xlink:href="MediaObjects/41467_2023_40272_MOESM4_ESM.zip" mimetype="application" mime-subtype="x-zip-compressed">
+								<caption xml:lang="en">
+									<p>Source Data</p>
+								</caption>
+							</media>
+						</supplementary-material>
+					</p>
+				</sec>
+			</app>
+		</app-group>
+		<notes notes-type="ESMHint">
+			<title>Supplementary information</title>
+			<p>The online version contains supplementary material available at
+				<ext-link xlink:href="https://doi.org/10.1038/s41467-023-40272-3" ext-link-type="doi">https://doi.org/10.1038/s41467-023-40272-3</ext-link>.
+			</p>
+		</notes>
+		<notes notes-type="Misc">
+			<p>
+				<bold>Publisher’s note</bold> Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+			</p>
+		</notes>
+	</back>
+</article>

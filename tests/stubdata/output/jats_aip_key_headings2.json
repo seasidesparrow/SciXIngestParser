@@ -1,0 +1,242 @@
+{
+  "abstract": {
+    "textEnglish": "Soft magnetic composites (SMCs) play a crucial role in modern electronics and electrical devices, for which challenges remain in maintaining magnetic performance and reducing loss at megahertz (MHz) frequencies. Here, CeFeCo/FeSiAl@ polyurethane (PU) SMCs have been rationally designed with the simultaneous achievement of large relative permeability, high domain-wall resonance frequency, and low power loss. As a rare-earth soft magnetic alloy, the CeFeCo is promising for high-frequency applications due to its easy-plane anisotropy, whereas FeSiAl is advantageous with increased electrical resistivity as well as approaching-zero magnetocrystalline anisotropy and magnetostriction. Hot pressing has been adopted to achieve a dense and homogeneous distribution of CeFeCo and FeSiAl powders in the PU for reduced magnetic dilution and eddy current loss. The resultant SMCs exhibit optional soft magnetic performance with large relative permeability of 21.0, low power loss of 3677.5 kW\u00b7m<sup>\u22123</sup> at 5 MHz, and high domain-wall resonance frequency of 386.1 MHz. As such this work provides insights into the design of high-frequency SMCs incorporating novel rare-earth soft magnetic alloys."
+  },
+  "authors": [
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "School of Materials Science and Engineering, State Key Laboratory of Silicon and Advanced Semiconductor Materials, Zhejiang University, Hangzhou 310027, China"
+        }
+      ],
+      "attrib": {
+        "orcid": "0009-0001-6993-4763"
+      },
+      "name": {
+        "given_name": "Wenchen",
+        "surname": "Wan"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "School of Materials Science and Engineering, State Key Laboratory of Silicon and Advanced Semiconductor Materials, Zhejiang University, Hangzhou 310027, China"
+        },
+        {
+          "affPubRaw": "Shanxi-Zheda Institute of Advanced Materials and Chemical Engineering, Taiyuan 030032, China"
+        }
+      ],
+      "attrib": {
+        "corresp": true,
+        "email": "chen_wu@zju.edu.cn",
+        "orcid": "0000-0001-7995-6264"
+      },
+      "name": {
+        "given_name": "Chen",
+        "surname": "Wu"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "School of Materials Science and Engineering, State Key Laboratory of Silicon and Advanced Semiconductor Materials, Zhejiang University, Hangzhou 310027, China"
+        },
+        {
+          "affPubRaw": "Key Laboratory of Rare Earths, Chinese Academy of Sciences, Ganzhou 341000, China"
+        }
+      ],
+      "attrib": {
+        "orcid": "0009-0000-7665-9491"
+      },
+      "name": {
+        "given_name": "Guang",
+        "surname": "Liu"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "School of Materials Science and Engineering, State Key Laboratory of Silicon and Advanced Semiconductor Materials, Zhejiang University, Hangzhou 310027, China"
+        }
+      ],
+      "attrib": {
+        "corresp": true
+      },
+      "name": {
+        "given_name": "Qiming",
+        "surname": "Chen"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "School of Materials Science and Engineering, State Key Laboratory of Silicon and Advanced Semiconductor Materials, Zhejiang University, Hangzhou 310027, China"
+        }
+      ],
+      "attrib": {
+        "corresp": true,
+        "email": "chen_wu@zju.edu.cn"
+      },
+      "name": {
+        "given_name": "Mi",
+        "surname": "Yan"
+      }
+    }
+  ],
+  "copyright": {
+    "statement": "\u00a9 2024 Author(s).",
+    "status": true
+  },
+  "editorialHistory": {
+    "acceptedDate": "2024-04-26",
+    "receivedDates": [
+      "2024-03-04"
+    ]
+  },
+  "funding": [
+    {
+      "agencyid": {
+        "idvalue": "National Key Research and Development Program of China"
+      },
+      "agencyname": "\n\nhttps://doi.org/10.13039/501100012166\n",
+      "awardnumber": "2021YFB3501303"
+    },
+    {
+      "agencyid": {
+        "idvalue": "\u201cPioneer\u201d R&D Program of Zhejiang Province"
+      },
+      "agencyname": "\n\n",
+      "awardnumber": "2022C01230"
+    },
+    {
+      "agencyid": {
+        "idvalue": "Shanxi-Zheda Institute of Advanced Materials and Chemical Engineering"
+      },
+      "agencyname": "\n\nhttps://doi.org/10.13039/100022805\n",
+      "awardnumber": "2021SZ-FR005"
+    },
+    {
+      "agencyid": {
+        "idvalue": "Space Application System of China Manned Space Program"
+      },
+      "agencyname": "\n\n",
+      "awardnumber": "KJZ-YY-NCL03"
+    },
+    {
+      "agencyid": {
+        "idvalue": "Key Research and Development Program of Zhejiang Province"
+      },
+      "agencyname": "\n\nhttps://doi.org/10.13039/100022963\n",
+      "awardnumber": "2021C01033"
+    },
+    {
+      "agencyid": {
+        "idvalue": "Opening Fund of Key Laboratory of Rare Earth, Chinese Academy of Sciences"
+      },
+      "agencyname": "\n\n"
+    },
+    {
+      "agencyid": {
+        "idvalue": "National Natural Science Foundation of China"
+      },
+      "agencyname": "\n\n",
+      "awardnumber": "52027802"
+    }
+  ],
+  "openAccess": {
+    "license": "All article content, except where otherwise noted, is licensed under a Creative Commons Attribution (CC BY) license (https://creativecommons.org/licenses/by/4.0/).",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "open": true
+  },
+  "pagination": {
+    "electronicID": "055213",
+    "pageCount": "8"
+  },
+  "persistentIDs": [
+    {
+      "DOI": "10.1063/5.0206772"
+    }
+  ],
+  "pubDate": {
+    "printDate": "2024-05-01"
+  },
+  "publication": {
+    "ISSN": [
+      {
+        "issnString": "2158-3226",
+        "pubtype": "epub"
+      }
+    ],
+    "issueNum": "5",
+    "pubName": "AIP Advances",
+    "pubYear": "2024",
+    "publisher": "AIP Publishing LLC",
+    "volumeNum": "14"
+  },
+  "publisherIDs": [
+    {
+      "Identifier": "ADV24-AR-01046",
+      "attribute": "manuscript"
+    }
+  ],
+  "recordData": {
+    "createdTime": "",
+    "loadFormat": "JATS",
+    "loadLocation": "",
+    "loadType": "fromFile",
+    "parsedTime": "",
+    "recordOrigin": ""
+  },
+  "references": [
+    "<ref id=\"c1\"> <label>1</label> <mixed-citation publication-type=\"journal\"><string-name><given-names>J. M.</given-names> <surname>Silveyra</surname></string-name>, <string-name><given-names>E.</given-names> <surname>Ferrara</surname></string-name>, <string-name><given-names>D. L.</given-names> <surname>Huber</surname></string-name>, and <string-name><given-names>T. C.</given-names> <surname>Monson</surname></string-name>, <source>Science</source> <volume>362</volume>(<issue>6413</issue>), <fpage>eaao0195</fpage> (<year>2018</year>).<pub-id pub-id-type=\"doi\" specific-use=\"metadata\">10.1126/science.aao0195</pub-id></mixed-citation> </ref>",
+    "<ref id=\"c2\"> <label>2</label> <mixed-citation publication-type=\"journal\"><string-name><given-names>D.</given-names> <surname>Liu</surname></string-name>, <string-name><given-names>C.</given-names> <surname>Wu</surname></string-name>, <string-name><given-names>M.</given-names> <surname>Yan</surname></string-name>, and <string-name><given-names>J.</given-names> <surname>Wang</surname></string-name>, <source>Acta Mater.</source> <volume>146</volume>, <fpage>294</fpage>\u2013<lpage>303</lpage> (<year>2018</year>).<pub-id pub-id-type=\"doi\" specific-use=\"metadata\">10.1016/j.actamat.2018.01.001</pub-id></mixed-citation> </ref>",
+    "<ref id=\"c3\"> <label>3</label> <mixed-citation publication-type=\"journal\"><string-name><given-names>E. A.</given-names> <surname>P\u00e9rigo</surname></string-name>, <string-name><given-names>B.</given-names> <surname>Weidenfeller</surname></string-name>, <string-name><given-names>P.</given-names> <surname>Koll\u00e1r</surname></string-name>, and <string-name><given-names>J.</given-names> <surname>F\u00fczer</surname></string-name>, <source>Appl. Phys. Rev.</source> <volume>5</volume>(<issue>3</issue>), <fpage>031301</fpage> (<year>2018</year>).<pub-id pub-id-type=\"doi\" specific-use=\"metadata\">10.1063/1.5027045</pub-id></mixed-citation> </ref>",
+    "<ref id=\"c4\"> <label>4</label> <mixed-citation publication-type=\"journal\"><string-name><given-names>M. L.</given-names> <surname>Tuballa</surname></string-name> and <string-name><given-names>M. L.</given-names> <surname>Abundo</surname></string-name>, <source>Renewable Sustainable Energy Rev.</source> <volume>59</volume>, <fpage>710</fpage>\u2013<lpage>725</lpage> (<year>2016</year>).<pub-id pub-id-type=\"doi\" specific-use=\"metadata\">10.1016/j.rser.2016.01.011</pub-id></mixed-citation> </ref>",
+    "<ref id=\"c5\"> <label>5</label> <mixed-citation publication-type=\"journal\"><string-name><given-names>G.</given-names> <surname>Zhao</surname></string-name>, <string-name><given-names>C.</given-names> <surname>Wu</surname></string-name>, and <string-name><given-names>M.</given-names> <surname>Yan</surname></string-name>, <source>J. Magn. Magn. Mater.</source> <volume>399</volume>, <fpage>51</fpage>\u2013<lpage>57</lpage> (<year>2016</year>).<pub-id pub-id-type=\"doi\" specific-use=\"metadata\">10.1016/j.jmmm.2015.09.054</pub-id></mixed-citation> </ref>",
+    "<ref id=\"c6\"> <label>6</label> <mixed-citation publication-type=\"journal\"><string-name><given-names>K.</given-names> <surname>Geng</surname></string-name>, <string-name><given-names>Y.</given-names> <surname>Xie</surname></string-name>, <string-name><given-names>L.</given-names> <surname>Xu</surname></string-name>, and <string-name><given-names>B.</given-names> <surname>Yan</surname></string-name>, <source>Adv. Powder Technol.</source> <volume>28</volume>(<issue>9</issue>), <fpage>2015</fpage>\u2013<lpage>2022</lpage> (<year>2017</year>).<pub-id pub-id-type=\"doi\" specific-use=\"metadata\">10.1016/j.apt.2017.04.029</pub-id></mixed-citation> </ref>",
+    "<ref id=\"c7\"> <label>7</label> <mixed-citation publication-type=\"journal\"><string-name><given-names>M.</given-names> <surname>Stre\u010dkov\u00e1</surname></string-name>, <string-name><given-names>J.</given-names> <surname>F\u00fczer</surname></string-name>, <string-name><given-names>L.</given-names> <surname>Kobera</surname></string-name>, <string-name><given-names>J.</given-names> <surname>Brus</surname></string-name>, <string-name><given-names>M.</given-names> <surname>F\u00e1berov\u00e1</surname></string-name>, <string-name><given-names>R.</given-names> <surname>Bure\u0161</surname></string-name>, <string-name><given-names>P.</given-names> <surname>Koll\u00e1r</surname></string-name>, <string-name><given-names>M.</given-names> <surname>Lauda</surname></string-name>, <string-name><given-names>\u0139.</given-names> <surname>Medveck\u00fd</surname></string-name>, <string-name><given-names>V.</given-names> <surname>Girman</surname></string-name>, <string-name><given-names>H.</given-names> <surname>Hadraba</surname></string-name>, <string-name><given-names>M.</given-names> <surname>Bat\u2019kov\u00e1</surname></string-name>, and <string-name><given-names>I.</given-names> <surname>Bat\u2019ko</surname></string-name>, <source>Mater. Chem. Phys.</source> <volume>147</volume>(<issue>3</issue>), <fpage>649</fpage>\u2013<lpage>660</lpage> (<year>2014</year>).<pub-id pub-id-type=\"doi\" specific-use=\"metadata\">10.1016/j.matchemphys.2014.06.004</pub-id></mixed-citation> </ref>",
+    "<ref id=\"c8\"> <label>8</label> <mixed-citation publication-type=\"journal\"><string-name><given-names>X.</given-names> <surname>Zhu</surname></string-name>, <string-name><given-names>W.</given-names> <surname>Liu</surname></string-name>, <string-name><given-names>J. Y.</given-names> <surname>Ju</surname></string-name>, <string-name><given-names>P. P.</given-names> <surname>Xu</surname></string-name>, <string-name><given-names>M. R.</given-names> <surname>Li</surname></string-name>, <string-name><given-names>X. B.</given-names> <surname>Zhang</surname></string-name>, <string-name><given-names>J. Z.</given-names> <surname>Wang</surname></string-name>, <string-name><given-names>Z. Q.</given-names> <surname>Zou</surname></string-name>, and <string-name><given-names>H. L.</given-names> <surname>Su</surname></string-name>, <source>J. Mater. Sci.: Mater. Electron.</source> <volume>34</volume>(<issue>20</issue>), <fpage>1523</fpage> (<year>2023</year>).<pub-id pub-id-type=\"doi\" specific-use=\"metadata\">10.1007/s10854-023-10960-3</pub-id></mixed-citation> </ref>",
+    "<ref id=\"c9\"> <label>9</label> <mixed-citation publication-type=\"journal\"><string-name><given-names>M.</given-names> <surname>Yan</surname></string-name>, <string-name><given-names>Q.</given-names> <surname>Chen</surname></string-name>, <string-name><given-names>D.</given-names> <surname>Liu</surname></string-name>, <string-name><given-names>C.</given-names> <surname>Wu</surname></string-name>, and <string-name><given-names>J.</given-names> <surname>Wang</surname></string-name>, <source>Engineering</source> <volume>20</volume>, <fpage>134</fpage>\u2013<lpage>142</lpage> (<year>2023</year>).<pub-id pub-id-type=\"doi\" specific-use=\"metadata\">10.1016/j.eng.2022.01.016</pub-id></mixed-citation> </ref>",
+    "<ref id=\"c10\"> <label>10</label> <mixed-citation publication-type=\"journal\"><string-name><given-names>H.</given-names> <surname>Long</surname></string-name>, <string-name><given-names>X.</given-names> <surname>Wu</surname></string-name>, <string-name><given-names>Y.</given-names> <surname>Lu</surname></string-name>, <string-name><given-names>H.</given-names> <surname>Zhang</surname></string-name>, and <string-name><given-names>J.</given-names> <surname>Hao</surname></string-name>, <source>Materials</source> <volume>15</volume>(<issue>9</issue>), <fpage>3350</fpage> (<year>2022</year>).<pub-id pub-id-type=\"doi\" specific-use=\"metadata\">10.3390/ma15093350</pub-id></mixed-citation> </ref>",
+    "<ref id=\"c11\"> <label>11</label> <mixed-citation publication-type=\"journal\"><string-name><given-names>H. J.</given-names> <surname>Woo</surname></string-name>, <string-name><given-names>S. W.</given-names> <surname>Kim</surname></string-name>, <string-name><given-names>C. P.</given-names> <surname>Kim</surname></string-name>, <string-name><given-names>D. H.</given-names> <surname>Choi</surname></string-name>, <string-name><given-names>S.</given-names> <surname>Kim</surname></string-name>, and <string-name><given-names>B. W.</given-names> <surname>Lee</surname></string-name>, <source>J. Magn. Magn. Mater.</source> <volume>565</volume>, <fpage>170181</fpage> (<year>2023</year>).<pub-id pub-id-type=\"doi\">10.1016/j.jmmm.2022.170181</pub-id></mixed-citation> </ref>",
+    "<ref id=\"c12\"> <label>12</label> <mixed-citation publication-type=\"journal\"><string-name><given-names>K.</given-names> <surname>Wang</surname></string-name>, <string-name><given-names>H.</given-names> <surname>Zhang</surname></string-name>, <string-name><given-names>Y.</given-names> <surname>Huang</surname></string-name>, <string-name><given-names>Z.</given-names> <surname>Xu</surname></string-name>, <string-name><given-names>F.</given-names> <surname>Li</surname></string-name>, and <string-name><given-names>T.</given-names> <surname>Wang</surname></string-name>, <source>J. Rare Earths</source> <volume>42</volume>(<issue>1</issue>), <fpage>110</fpage>\u2013<lpage>115</lpage> (<year>2024</year>).<pub-id pub-id-type=\"doi\" specific-use=\"metadata\">10.1016/j.jre.2023.02.003</pub-id></mixed-citation> </ref>",
+    "<ref id=\"c13\"> <label>13</label> <mixed-citation publication-type=\"journal\"><string-name><given-names>P.</given-names> <surname>Wang</surname></string-name>, <string-name><given-names>J.</given-names> <surname>Zhang</surname></string-name>, <string-name><given-names>G.</given-names> <surname>Wang</surname></string-name>, <string-name><given-names>B.</given-names> <surname>Duan</surname></string-name>, <string-name><given-names>T.</given-names> <surname>Wang</surname></string-name>, and <string-name><given-names>F.</given-names> <surname>Li</surname></string-name>, <source>Appl. Phys. Lett.</source> <volume>116</volume>(<issue>11</issue>), <fpage>112403</fpage> (<year>2020</year>).<pub-id pub-id-type=\"doi\" specific-use=\"metadata\">10.1063/5.0001477</pub-id></mixed-citation> </ref>",
+    "<ref id=\"c14\"> <label>14</label> <mixed-citation publication-type=\"journal\"><string-name><given-names>G.</given-names> <surname>Bertotti</surname></string-name>, <source>IEEE Trans. Magn.</source> <volume>24</volume>(<issue>1</issue>), <fpage>621</fpage>\u2013<lpage>630</lpage> (<year>1988</year>).<pub-id pub-id-type=\"doi\" specific-use=\"metadata\">10.1109/20.43994</pub-id></mixed-citation> </ref>",
+    "<ref id=\"c15\"> <label>15</label> <mixed-citation publication-type=\"journal\"><string-name><given-names>J.</given-names> <surname>Zhong</surname></string-name>, <string-name><given-names>G.</given-names> <surname>Tan</surname></string-name>, <string-name><given-names>Q.</given-names> <surname>Man</surname></string-name>, <string-name><given-names>M.</given-names> <surname>Ning</surname></string-name>, <string-name><given-names>Y.</given-names> <surname>Gao</surname></string-name>, <string-name><given-names>X.</given-names> <surname>Liu</surname></string-name>, and <string-name><given-names>J.</given-names> <surname>Pan</surname></string-name>, <source>J. Mater. Sci.: Mater. Electron.</source> <volume>32</volume>(<issue>23</issue>), <fpage>27849</fpage>\u2013<lpage>27859</lpage> (<year>2021</year>).<pub-id pub-id-type=\"doi\" specific-use=\"metadata\">10.1007/s10854-021-07167-9</pub-id></mixed-citation> </ref>",
+    "<ref id=\"c16\"> <label>16</label> <mixed-citation publication-type=\"journal\"><string-name><given-names>Q.</given-names> <surname>Hu</surname></string-name>, <string-name><given-names>G.</given-names> <surname>Qiao</surname></string-name>, <string-name><given-names>W.</given-names> <surname>Yang</surname></string-name>, <string-name><given-names>Z.</given-names> <surname>Liu</surname></string-name>, <string-name><given-names>P.</given-names> <surname>Zhang</surname></string-name>, <string-name><given-names>S. Q.</given-names> <surname>Liu</surname></string-name>, <string-name><given-names>C. S.</given-names> <surname>Wang</surname></string-name>, <string-name><given-names>D.</given-names> <surname>Zhou</surname></string-name>, <string-name><given-names>R.</given-names> <surname>Han</surname></string-name>, <string-name><given-names>D. Y.</given-names> <surname>Cai</surname></string-name>, <string-name><given-names>B. P.</given-names> <surname>Hu</surname></string-name>, and <string-name><given-names>J. B.</given-names> <surname>Yang</surname></string-name>, <source>J. Phys. D: Appl. Phys.</source> <volume>53</volume>(<issue>11</issue>), <fpage>115001</fpage> (<year>2020</year>).<pub-id pub-id-type=\"doi\" specific-use=\"metadata\">10.1088/1361-6463/ab60e9</pub-id></mixed-citation> </ref>",
+    "<ref id=\"c17\"> <label>17</label> <mixed-citation publication-type=\"journal\"><string-name><given-names>R.</given-names> <surname>Han</surname></string-name>, <string-name><given-names>H.</given-names> <surname>Yi</surname></string-name>, <string-name><given-names>J.</given-names> <surname>Wei</surname></string-name>, <string-name><given-names>L.</given-names> <surname>Qiao</surname></string-name>, <string-name><given-names>T.</given-names> <surname>Wang</surname></string-name>, and <string-name><given-names>F.</given-names> <surname>Li</surname></string-name>, <source>Appl. Phys. A</source> <volume>108</volume>(<issue>3</issue>), <fpage>665</fpage>\u2013<lpage>669</lpage> (<year>2012</year>).<pub-id pub-id-type=\"doi\" specific-use=\"metadata\">10.1007/s00339-012-6948-9</pub-id></mixed-citation> </ref>",
+    "<ref id=\"c18\"> <label>18</label> <mixed-citation publication-type=\"journal\"><string-name><given-names>M.</given-names> <surname>Yuan</surname></string-name>, <string-name><given-names>Q.</given-names> <surname>Yao</surname></string-name>, <string-name><given-names>H.</given-names> <surname>Zhou</surname></string-name>, <string-name><given-names>Q.</given-names> <surname>Long</surname></string-name>, <string-name><given-names>J.</given-names> <surname>Deng</surname></string-name>, <string-name><given-names>J.</given-names> <surname>Wang</surname></string-name>, <string-name><given-names>C. R.</given-names> <surname>Li</surname></string-name>, and <string-name><given-names>G. H.</given-names> <surname>Rao</surname></string-name>, <source>J. Mater. Sci.: Mater. Electron.</source> <volume>32</volume>(<issue>10</issue>), <fpage>13108</fpage>\u2013<lpage>13116</lpage> (<year>2021</year>).<pub-id pub-id-type=\"doi\" specific-use=\"metadata\">10.1007/s10854-021-05801-0</pub-id></mixed-citation> </ref>",
+    "<ref id=\"c19\"> <label>19</label> <mixed-citation publication-type=\"journal\"><string-name><given-names>Y.</given-names> <surname>Zhang</surname></string-name>, <string-name><given-names>P.</given-names> <surname>Wang</surname></string-name>, <string-name><given-names>T.</given-names> <surname>Ma</surname></string-name>, <string-name><given-names>Y.</given-names> <surname>Wang</surname></string-name>, <string-name><given-names>L.</given-names> <surname>Qiao</surname></string-name>, and <string-name><given-names>T.</given-names> <surname>Wang</surname></string-name>, <source>Appl. Phys. Lett.</source> <volume>108</volume>(<issue>9</issue>), <fpage>092406</fpage> (<year>2016</year>).<pub-id pub-id-type=\"doi\" specific-use=\"metadata\">10.1063/1.4943378</pub-id></mixed-citation> </ref>",
+    "<ref id=\"c20\"> <label>20</label> <mixed-citation publication-type=\"journal\"><string-name><given-names>R.</given-names> <surname>Han</surname></string-name>, <string-name><given-names>P.</given-names> <surname>Shen</surname></string-name>, <string-name><given-names>L.</given-names> <surname>Qiao</surname></string-name>, <string-name><given-names>H.</given-names> <surname>Chen</surname></string-name>, <string-name><given-names>Y.</given-names> <surname>Fang</surname></string-name>, <string-name><given-names>Z.</given-names> <surname>Guo</surname></string-name>, <string-name><given-names>S.</given-names> <surname>Dong</surname></string-name>, <string-name><given-names>M.</given-names> <surname>Zhu</surname></string-name>, <string-name><given-names>D.</given-names> <surname>Zhou</surname></string-name>, <string-name><given-names>F.</given-names> <surname>Li</surname></string-name>, and <string-name><given-names>W.</given-names> <surname>Li</surname></string-name>, <source>J. Magn. Magn. Mater.</source> <volume>529</volume>, <fpage>167859</fpage> (<year>2021</year>).<pub-id pub-id-type=\"doi\" specific-use=\"metadata\">10.1016/j.jmmm.2021.167859</pub-id></mixed-citation> </ref>",
+    "<ref id=\"c21\"> <label>21</label> <mixed-citation publication-type=\"journal\"><string-name><given-names>G.</given-names> <surname>Zhao</surname></string-name>, <string-name><given-names>C.</given-names> <surname>Wu</surname></string-name>, and <string-name><given-names>M.</given-names> <surname>Yan</surname></string-name>, <source>J. Alloys Compd.</source> <volume>710</volume>, <fpage>138</fpage>\u2013<lpage>143</lpage> (<year>2017</year>).<pub-id pub-id-type=\"doi\" specific-use=\"metadata\">10.1016/j.jallcom.2017.03.229</pub-id></mixed-citation> </ref>",
+    "<ref id=\"c22\"> <label>22</label> <mixed-citation publication-type=\"journal\"><string-name><given-names>J.</given-names> <surname>Zhao</surname></string-name>, <string-name><given-names>C.</given-names> <surname>Wu</surname></string-name>, <string-name><given-names>D.</given-names> <surname>Luo</surname></string-name>, and <string-name><given-names>M.</given-names> <surname>Yan</surname></string-name>, <source>J. Magn. Magn. Mater.</source> <volume>481</volume>, <fpage>140</fpage>\u2013<lpage>149</lpage> (<year>2019</year>).<pub-id pub-id-type=\"doi\" specific-use=\"metadata\">10.1016/j.jmmm.2019.01.070</pub-id></mixed-citation> </ref>",
+    "<ref id=\"c23\"> <label>23</label> <mixed-citation publication-type=\"journal\"><string-name><given-names>Z. H.</given-names> <surname>Chen</surname></string-name>, <string-name><given-names>X. S.</given-names> <surname>Liu</surname></string-name>, <string-name><given-names>X. C.</given-names> <surname>Kan</surname></string-name>, <string-name><given-names>Z.</given-names> <surname>Wang</surname></string-name>, <string-name><given-names>R. W.</given-names> <surname>Zhu</surname></string-name>, <string-name><given-names>W.</given-names> <surname>Yang</surname></string-name>, <string-name><given-names>Q. Y.</given-names> <surname>Wu</surname></string-name>, and <string-name><given-names>M.</given-names> <surname>Shezad</surname></string-name>, <source>J. Alloys Compd.</source> <volume>783</volume>, <fpage>434</fpage>\u2013<lpage>440</lpage> (<year>2019</year>).<pub-id pub-id-type=\"doi\" specific-use=\"metadata\">10.1016/j.jallcom.2018.12.328</pub-id></mixed-citation> </ref>",
+    "<ref id=\"c24\"> <label>24</label> <mixed-citation publication-type=\"journal\"><string-name><given-names>M.</given-names> <surname>Kab\u00e1tov\u00e1</surname></string-name>, <string-name><given-names>E.</given-names> <surname>Dudrov\u00e1</surname></string-name>, and <string-name><given-names>H.</given-names> <surname>Brunckov\u00e1</surname></string-name>, <source>Surf. Interface Anal.</source> <volume>45</volume>(<issue>7</issue>), <fpage>1166</fpage>\u2013<lpage>1173</lpage> (<year>2013</year>).<pub-id pub-id-type=\"doi\" specific-use=\"metadata\">10.1002/sia.5244</pub-id></mixed-citation> </ref>",
+    "<ref id=\"c25\"> <label>25</label> <mixed-citation publication-type=\"journal\"><string-name><given-names>J.</given-names> <surname>Li</surname></string-name>, <string-name><given-names>X.</given-names> <surname>Peng</surname></string-name>, <string-name><given-names>Y.</given-names> <surname>Yang</surname></string-name>, and <string-name><given-names>H.</given-names> <surname>Ge</surname></string-name>, <source>J. Magn. Magn. Mater.</source> <volume>426</volume>, <fpage>132</fpage>\u2013<lpage>136</lpage> (<year>2017</year>).<pub-id pub-id-type=\"doi\" specific-use=\"metadata\">10.1016/j.jmmm.2016.11.068</pub-id></mixed-citation> </ref>",
+    "<ref id=\"c26\"> <label>26</label> <mixed-citation publication-type=\"journal\"><string-name><given-names>J.</given-names> <surname>Li</surname></string-name>, <string-name><given-names>X.</given-names> <surname>Peng</surname></string-name>, <string-name><given-names>Y.</given-names> <surname>Yang</surname></string-name>, <string-name><given-names>H.</given-names> <surname>Ge</surname></string-name>, <string-name><given-names>D.</given-names> <surname>Wang</surname></string-name>, and <string-name><given-names>Y.</given-names> <surname>Du</surname></string-name>, <source>AIP Adv.</source> <volume>7</volume>(<issue>5</issue>), <fpage>056109</fpage> (<year>2017</year>).<pub-id pub-id-type=\"doi\" specific-use=\"metadata\">10.1063/1.4978402</pub-id></mixed-citation> </ref>",
+    "<ref id=\"c27\"> <label>27</label> <mixed-citation publication-type=\"journal\"><string-name><given-names>J.</given-names> <surname>Liu</surname></string-name>, <string-name><given-names>X.</given-names> <surname>Peng</surname></string-name>, <string-name><given-names>J.</given-names> <surname>Li</surname></string-name>, <string-name><given-names>Y.</given-names> <surname>Yang</surname></string-name>, <string-name><given-names>J. C.</given-names> <surname>Xu</surname></string-name>, <string-name><given-names>B.</given-names> <surname>Hong</surname></string-name>, <string-name><given-names>J.</given-names> <surname>Gong</surname></string-name>, <string-name><given-names>Y. B.</given-names> <surname>Han</surname></string-name>, <string-name><given-names>H. L.</given-names> <surname>Ge</surname></string-name>, and <string-name><given-names>X. Q.</given-names> <surname>Wang</surname></string-name>, <source>J. Magn. Magn. Mater.</source> <volume>538</volume>, <fpage>168297</fpage> (<year>2021</year>).<pub-id pub-id-type=\"doi\" specific-use=\"metadata\">10.1016/j.jmmm.2021.168297</pub-id></mixed-citation> </ref>",
+    "<ref id=\"c28\"> <label>28</label> <mixed-citation publication-type=\"journal\"><string-name><given-names>C.</given-names> <surname>Wu</surname></string-name>, <string-name><given-names>M.</given-names> <surname>Huang</surname></string-name>, <string-name><given-names>D.</given-names> <surname>Luo</surname></string-name>, <string-name><given-names>Y.</given-names> <surname>Jiang</surname></string-name>, and <string-name><given-names>M.</given-names> <surname>Yan</surname></string-name>, <source>J. Alloys Compd.</source> <volume>741</volume>, <fpage>35</fpage>\u2013<lpage>43</lpage> (<year>2018</year>).<pub-id pub-id-type=\"doi\" specific-use=\"metadata\">10.1016/j.jallcom.2017.12.322</pub-id></mixed-citation> </ref>",
+    "<ref id=\"c29\"> <label>29</label> <mixed-citation publication-type=\"journal\"><string-name><given-names>A. H.</given-names> <surname>Taghvaei</surname></string-name>, <string-name><given-names>A.</given-names> <surname>Ebrahimi</surname></string-name>, <string-name><given-names>K.</given-names> <surname>Gheisari</surname></string-name>, and <string-name><given-names>K.</given-names> <surname>Janghorban</surname></string-name>, <source>J. Magn. Magn. Mater.</source> <volume>322</volume>(<issue>23</issue>), <fpage>3748</fpage>\u2013<lpage>3754</lpage> (<year>2010</year>).<pub-id pub-id-type=\"doi\" specific-use=\"metadata\">10.1016/j.jmmm.2010.07.032</pub-id></mixed-citation> </ref>",
+    "<ref id=\"c30\"> <label>30</label> <mixed-citation publication-type=\"thesis\"><string-name><given-names>H. B.</given-names> <surname>Yi</surname></string-name>, Ph.D. thesis, <publisher-name>Lanzhou University</publisher-name>, <year>2012</year>.</mixed-citation> </ref>",
+    "<ref id=\"c31\"> <label>31</label> <mixed-citation publication-type=\"journal\"><string-name><given-names>G.</given-names> <surname>Bai</surname></string-name>, <string-name><given-names>J.</given-names> <surname>Liu</surname></string-name>, <string-name><given-names>S.</given-names> <surname>Bandaru</surname></string-name>, <string-name><given-names>Z.</given-names> <surname>Li</surname></string-name>, <string-name><given-names>J.</given-names> <surname>Sun</surname></string-name>, <string-name><given-names>Y.</given-names> <surname>Zhang</surname></string-name>, <string-name><given-names>Z.</given-names> <surname>Zhang</surname></string-name>, <string-name><given-names>X.</given-names> <surname>Liu</surname></string-name>, <string-name><given-names>H.</given-names> <surname>Li</surname></string-name>, <string-name><given-names>J.</given-names> <surname>Chen</surname></string-name>, and <string-name><given-names>X.</given-names> <surname>Zhang</surname></string-name>, <source>Adv. Funct. Mater.</source> <volume>33</volume>(<issue>42</issue>), <fpage>2303951</fpage> (<year>2023</year>).<pub-id pub-id-type=\"doi\" specific-use=\"metadata\">10.1002/adfm.202303951</pub-id></mixed-citation> </ref>",
+    "<ref id=\"c32\"> <label>32</label> <mixed-citation publication-type=\"journal\"><string-name><given-names>W.</given-names> <surname>Li</surname></string-name>, <string-name><given-names>H.</given-names> <surname>Cai</surname></string-name>, <string-name><given-names>Y.</given-names> <surname>Kang</surname></string-name>, <string-name><given-names>Y.</given-names> <surname>Ying</surname></string-name>, <string-name><given-names>J.</given-names> <surname>Yu</surname></string-name>, <string-name><given-names>J.</given-names> <surname>Zheng</surname></string-name>, <string-name><given-names>L.</given-names> <surname>Qiao</surname></string-name>, <string-name><given-names>Y.</given-names> <surname>Jiang</surname></string-name>, and <string-name><given-names>S.</given-names> <surname>Che</surname></string-name>, <source>Acta Mater.</source> <volume>167</volume>, <fpage>267</fpage>\u2013<lpage>274</lpage> (<year>2019</year>).<pub-id pub-id-type=\"doi\" specific-use=\"metadata\">10.1016/j.actamat.2019.01.035</pub-id></mixed-citation> </ref>",
+    "<ref id=\"c33\"> <label>33</label> <mixed-citation publication-type=\"journal\"><string-name><given-names>Z.</given-names> <surname>Gao</surname></string-name>, <string-name><given-names>L.</given-names> <surname>Li</surname></string-name>, <string-name><given-names>Y.</given-names> <surname>Ge</surname></string-name>, <string-name><given-names>S.</given-names> <surname>Zhu</surname></string-name>, <string-name><given-names>Y.</given-names> <surname>Du</surname></string-name>, <string-name><given-names>B.</given-names> <surname>Chen</surname></string-name>, and <string-name><given-names>B.</given-names> <surname>Pan</surname></string-name>, <source>J. Alloys Compd.</source> <volume>935</volume>, <fpage>168060</fpage> (<year>2023</year>).<pub-id pub-id-type=\"doi\" specific-use=\"metadata\">10.1016/j.jallcom.2022.168060</pub-id></mixed-citation> </ref>",
+    "<ref id=\"c34\"> <label>34</label> <mixed-citation publication-type=\"journal\"><string-name><given-names>H.-I.</given-names> <surname>Hsiang</surname></string-name> and <string-name><given-names>L.-F.</given-names> <surname>Fan</surname></string-name>, <source>Materials</source> <volume>16</volume>(<issue>17</issue>), <fpage>6033</fpage> (<year>2023</year>).<pub-id pub-id-type=\"doi\" specific-use=\"metadata\">10.3390/ma16176033</pub-id></mixed-citation> </ref>",
+    "<ref id=\"c35\"> <label>35</label> <mixed-citation publication-type=\"journal\"><string-name><given-names>K.</given-names> <surname>Wang</surname></string-name>, <string-name><given-names>Z.</given-names> <surname>Xu</surname></string-name>, <string-name><given-names>H.</given-names> <surname>Zhang</surname></string-name>, <string-name><given-names>Y.</given-names> <surname>Huang</surname></string-name>, <string-name><given-names>P.</given-names> <surname>Wu</surname></string-name>, <string-name><given-names>L.</given-names> <surname>Qiao</surname></string-name>, <string-name><given-names>Y.</given-names> <surname>Wang</surname></string-name>, <string-name><given-names>F.</given-names> <surname>Li</surname></string-name>, and <string-name><given-names>T.</given-names> <surname>Wang</surname></string-name>, <source>Physica B</source> <volume>675</volume>, <fpage>415611</fpage> (<year>2024</year>).<pub-id pub-id-type=\"doi\" specific-use=\"metadata\">10.1016/j.physb.2023.415611</pub-id></mixed-citation> </ref>",
+    "<ref id=\"c36\"> <label>36</label> <mixed-citation publication-type=\"journal\"><string-name><given-names>Y.</given-names> <surname>Liu</surname></string-name>, <string-name><given-names>Y.</given-names> <surname>Yi</surname></string-name>, <string-name><given-names>W.</given-names> <surname>Shao</surname></string-name>, and <string-name><given-names>Y. F.</given-names> <surname>Shao</surname></string-name>, <source>J. Magn. Magn. Mater.</source> <volume>330</volume>, <fpage>119</fpage>\u2013<lpage>133</lpage> (<year>2013</year>).<pub-id pub-id-type=\"doi\" specific-use=\"metadata\">10.1016/j.jmmm.2012.10.043</pub-id></mixed-citation> </ref>",
+    "<ref id=\"c37\"> <label>37</label> <mixed-citation publication-type=\"journal\"><string-name><given-names>D. Z.</given-names> <surname>Xie</surname></string-name>, <string-name><given-names>K. H.</given-names> <surname>Lin</surname></string-name>, and <string-name><given-names>S. T.</given-names> <surname>Lin</surname></string-name>, <source>J. Magn. Magn. Mater.</source> <volume>353</volume>, <fpage>34</fpage>\u2013<lpage>40</lpage> (<year>2014</year>).<pub-id pub-id-type=\"doi\" specific-use=\"metadata\">10.1016/j.jmmm.2013.10.014</pub-id></mixed-citation> </ref>",
+    "<ref id=\"c38\"> <label>38</label> <mixed-citation publication-type=\"journal\"><string-name><given-names>B.</given-names> <surname>Meng</surname></string-name>, <string-name><given-names>B.</given-names> <surname>Yang</surname></string-name>, <string-name><given-names>X.</given-names> <surname>Zhang</surname></string-name>, <string-name><given-names>B.</given-names> <surname>Zhou</surname></string-name>, <string-name><given-names>X.</given-names> <surname>Li</surname></string-name>, and <string-name><given-names>R.</given-names> <surname>Yu</surname></string-name>, <source>Mater. Chem. Phys.</source> <volume>242</volume>, <fpage>122478</fpage> (<year>2020</year>).<pub-id pub-id-type=\"doi\" specific-use=\"metadata\">10.1016/j.matchemphys.2019.122478</pub-id></mixed-citation> </ref>",
+    "<ref id=\"c39\"> <label>39</label> <mixed-citation publication-type=\"journal\"><string-name><given-names>P.</given-names> <surname>Koll\u00e1r</surname></string-name>, <string-name><given-names>D.</given-names> <surname>Olek\u0161\u00e1kov\u00e1</surname></string-name>, <string-name><given-names>V.</given-names> <surname>Vojtek</surname></string-name>, <string-name><given-names>J.</given-names> <surname>F\u00fczer</surname></string-name>, <string-name><given-names>M.</given-names> <surname>F\u00e1berov\u00e1</surname></string-name>, and <string-name><given-names>R.</given-names> <surname>Bure\u0161</surname></string-name>, <source>J. Magn. Magn. Mater.</source> <volume>424</volume>, <fpage>245</fpage>\u2013<lpage>250</lpage> (<year>2017</year>).<pub-id pub-id-type=\"doi\" specific-use=\"metadata\">10.1016/j.jmmm.2016.10.060</pub-id></mixed-citation> </ref>",
+    "<ref id=\"c40\"> <label>40</label> <mixed-citation publication-type=\"journal\"><string-name><given-names>F.</given-names> <surname>Hu</surname></string-name>, <string-name><given-names>J.</given-names> <surname>Ni</surname></string-name>, <string-name><given-names>S.</given-names> <surname>Feng</surname></string-name>, <string-name><given-names>X.</given-names> <surname>Kan</surname></string-name>, <string-name><given-names>R.</given-names> <surname>Zhu</surname></string-name>, <string-name><given-names>W.</given-names> <surname>Yang</surname></string-name>, <string-name><given-names>Y.</given-names> <surname>Yang</surname></string-name>, <string-name><given-names>Q.</given-names> <surname>Lv</surname></string-name>, and <string-name><given-names>X.</given-names> <surname>Liu</surname></string-name>, <source>J. Magn. Magn. Mater.</source> <volume>501</volume>, <fpage>166480</fpage> (<year>2020</year>).<pub-id pub-id-type=\"doi\" specific-use=\"metadata\">10.1016/j.jmmm.2020.166480</pub-id></mixed-citation> </ref>",
+    "<ref id=\"c41\"> <label>41</label> <mixed-citation publication-type=\"journal\"><string-name><given-names>Z.</given-names> <surname>Zhu</surname></string-name>, <string-name><given-names>J.</given-names> <surname>Liu</surname></string-name>, <string-name><given-names>H.</given-names> <surname>Zhao</surname></string-name>, <string-name><given-names>J.</given-names> <surname>Pang</surname></string-name>, <string-name><given-names>P.</given-names> <surname>Wang</surname></string-name>, and <string-name><given-names>J.</given-names> <surname>Zhang</surname></string-name>, <source>Materials</source> <volume>16</volume>(<issue>3</issue>), <fpage>1270</fpage> (<year>2023</year>).<pub-id pub-id-type=\"doi\" specific-use=\"metadata\">10.3390/ma16031270</pub-id></mixed-citation> </ref>",
+    "<ref id=\"c42\"> <label>42</label> <mixed-citation publication-type=\"journal\"><string-name><given-names>X.</given-names> <surname>Wang</surname></string-name>, <string-name><given-names>S.</given-names> <surname>Yi</surname></string-name>, <string-name><given-names>C.</given-names> <surname>Wu</surname></string-name>, <string-name><given-names>G.</given-names> <surname>Bai</surname></string-name>, and <string-name><given-names>M.</given-names> <surname>Yan</surname></string-name>, <source>J. Magn. Magn. Mater.</source> <volume>538</volume>, <fpage>168324</fpage> (<year>2021</year>).<pub-id pub-id-type=\"doi\" specific-use=\"metadata\">10.1016/j.jmmm.2021.168324</pub-id></mixed-citation> </ref>",
+    "<ref id=\"c43\"> <label>43</label> <mixed-citation publication-type=\"journal\"><string-name><given-names>S.</given-names> <surname>Yi</surname></string-name>, <string-name><given-names>G.</given-names> <surname>Bai</surname></string-name>, <string-name><given-names>X.</given-names> <surname>Wang</surname></string-name>, <string-name><given-names>X.</given-names> <surname>Zhang</surname></string-name>, <string-name><given-names>A.</given-names> <surname>Hussain</surname></string-name>, <string-name><given-names>J.</given-names> <surname>Jin</surname></string-name>, and <string-name><given-names>M.</given-names> <surname>Yan</surname></string-name>, <source>Ceram. Int.</source> <volume>46</volume>(<issue>7</issue>), <fpage>8935</fpage>\u2013<lpage>8941</lpage> (<year>2020</year>).<pub-id pub-id-type=\"doi\" specific-use=\"metadata\">10.1016/j.ceramint.2019.12.140</pub-id></mixed-citation> </ref>",
+    "<ref id=\"c44\"> <label>44</label> <mixed-citation publication-type=\"journal\"><string-name><given-names>O.</given-names> <surname>Inoue</surname></string-name>, <string-name><given-names>N.</given-names> <surname>Matsutani</surname></string-name>, and <string-name><given-names>K.</given-names> <surname>Kugimiya</surname></string-name>, <source>IEEE Trans. Magn.</source> <volume>29</volume>(<issue>6</issue>), <fpage>3532</fpage>\u2013<lpage>3534</lpage> (<year>1993</year>).<pub-id pub-id-type=\"doi\" specific-use=\"metadata\">10.1109/20.281220</pub-id></mixed-citation> </ref>",
+    "<ref id=\"c45\"> <label>45</label> <mixed-citation publication-type=\"journal\"><string-name><given-names>Z.</given-names> <surname>Bir\u010d\u00e1kov\u00e1</surname></string-name>, <string-name><given-names>P.</given-names> <surname>Koll\u00e1r</surname></string-name>, <string-name><given-names>J.</given-names> <surname>F\u00fczer</surname></string-name>, <string-name><given-names>M.</given-names> <surname>Lauda</surname></string-name>, <string-name><given-names>R.</given-names> <surname>Bure\u0161</surname></string-name>, and <string-name><given-names>M.</given-names> <surname>F\u00e1berov\u00e1</surname></string-name>, <source>IEEE Trans. Magn.</source> <volume>50</volume>(<issue>12</issue>), <fpage>6301507</fpage> (<year>2014</year>).<pub-id pub-id-type=\"doi\" specific-use=\"metadata\">10.1109/tmag.2014.2334273</pub-id></mixed-citation> </ref>",
+    "<ref id=\"c46\"> <label>46</label> <mixed-citation publication-type=\"journal\"><string-name><given-names>W.</given-names> <surname>Li</surname></string-name>, <string-name><given-names>X.</given-names> <surname>Zhou</surname></string-name>, <string-name><given-names>Y.</given-names> <surname>Kang</surname></string-name>, <string-name><given-names>T.</given-names> <surname>Zou</surname></string-name>, <string-name><given-names>W.</given-names> <surname>Li</surname></string-name>, <string-name><given-names>Y.</given-names> <surname>Ying</surname></string-name>, <string-name><given-names>J.</given-names> <surname>Yu</surname></string-name>, <string-name><given-names>J.</given-names> <surname>Zheng</surname></string-name>, <string-name><given-names>L.</given-names> <surname>Qiao</surname></string-name>, <string-name><given-names>J.</given-names> <surname>Li</surname></string-name>, and <string-name><given-names>S.</given-names> <surname>Che</surname></string-name>, <source>J. Alloys Compd.</source> <volume>960</volume>, <fpage>171010</fpage> (<year>2023</year>).<pub-id pub-id-type=\"doi\" specific-use=\"metadata\">10.1016/j.jallcom.2023.171010</pub-id></mixed-citation> </ref>",
+    "<ref id=\"c47\"> <label>47</label> <mixed-citation publication-type=\"journal\"><string-name><given-names>Z.</given-names> <surname>Zhang</surname></string-name>, <string-name><given-names>J.</given-names> <surname>Chang</surname></string-name>, <string-name><given-names>X.</given-names> <surname>Peng</surname></string-name>, <string-name><given-names>J.</given-names> <surname>Li</surname></string-name>, <string-name><given-names>Y.</given-names> <surname>Yang</surname></string-name>, <string-name><given-names>J.</given-names> <surname>Xu</surname></string-name>, <string-name><given-names>B.</given-names> <surname>Hong</surname></string-name>, <string-name><given-names>D.</given-names> <surname>Jin</surname></string-name>, <string-name><given-names>H.</given-names> <surname>Jin</surname></string-name>, <string-name><given-names>X.</given-names> <surname>Wang</surname></string-name>, and <string-name><given-names>H.</given-names> <surname>Ge</surname></string-name>, <source>J. Mater. Res. Technol.</source> <volume>18</volume>, <fpage>1381</fpage>\u2013<lpage>1390</lpage> (<year>2022</year>).<pub-id pub-id-type=\"doi\" specific-use=\"metadata\">10.1016/j.jmrt.2022.03.029</pub-id></mixed-citation> </ref>"
+  ],
+  "title": {
+    "textEnglish": "High-performance CeFeCo/FeSiAl soft magnetic composites for megahertz power devices"
+  }
+}

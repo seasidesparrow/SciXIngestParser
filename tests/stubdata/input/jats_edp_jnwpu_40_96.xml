@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN" "JATS-journalpublishing1.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" article-type="research-article" dtd-version="1.0" xml:lang="en">
+<front>
+<journal-meta>
+<journal-id journal-id-type="publisher-id">jnwpu</journal-id><journal-id journal-id-type="url">https://www.jnwpu.org</journal-id>
+<journal-title-group>
+<journal-title xml:lang="en">Xibei Gongye Daxue Xuebao/Journal of Northwestern Polytechnical University</journal-title>
+<trans-title-group xml:lang="zh">
+<trans-title>西北工业大学学报</trans-title>
+</trans-title-group>
+<abbrev-journal-title abbrev-type="publisher" xml:lang="en">JNWPU</abbrev-journal-title>
+<abbrev-journal-title abbrev-type="publisher" xml:lang="en">Journal of Northwestern Polytechnical University</abbrev-journal-title>
+<abbrev-journal-title abbrev-type="publisher" xml:lang="zh">西北工业大学学报</abbrev-journal-title>
+</journal-title-group>
+<issn pub-type="ppub">1000-2758</issn>
+<issn pub-type="epub">2609-7125</issn>
+<publisher>
+<publisher-name>The Northwestern Polytechnical University</publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="publisher-id">jnwpu2022401p95</article-id>
+<article-id pub-id-type="art-access-id">1000-2758(2022)01-0095-08</article-id>
+<article-id pub-id-type="doi">10.1051/jnwpu/20224010095</article-id>
+<article-id pub-id-type="other">TH122</article-id>
+<!--<article-categories>
+<subj-group subj-group-type="heading">
+<subject>论文</subject>
+</subj-group>
+</article-categories>-->
+<title-group>
+<article-title xml:lang="en">Analysis and evaluation of human lower limb energy collection and walking assisted exoskeleton</article-title>
+<trans-title-group xml:lang="zh">
+<trans-title>人体下肢能量收集与行走助力外骨骼分析与评价</trans-title>
+</trans-title-group>
+</title-group>
+<contrib-group content-type="authors">
+<contrib contrib-type="author">
+<name-alternatives>
+<!--<name name-style="eastern">
+<surname>周</surname>
+<given-names>欣</given-names>
+</name>-->
+<string-name content-type="native">周欣</string-name>
+<name name-style="western" xml:lang="en">
+<surname>ZHOU</surname>
+<given-names>Xin</given-names>
+</name>
+</name-alternatives>
+<!--<bio>
+<p>周欣(1989—), 西北工业大学博士研究生, 主要从事机械结构设计与康复医疗外骨骼研究。e-mail: <email>zhou-xin@mail.nwpu.edu.cn</email></p>
+</bio>-->
+<email>zhou-xin@mail.nwpu.edu.cn</email>
+<xref ref-type="aff" rid="AFF1">1</xref>
+<xref ref-type="aff" rid="AFF2">2</xref>
+</contrib>
+<contrib contrib-type="author">
+<name-alternatives>
+<!--<name name-style="eastern">
+<surname>刘</surname>
+<given-names>更</given-names>
+</name>-->
+<string-name content-type="native">刘更</string-name>
+<name name-style="western" xml:lang="en">
+<surname>LIU</surname>
+<given-names>Geng</given-names>
+</name>
+</name-alternatives>
+<xref ref-type="aff" rid="AFF1">1</xref>
+</contrib>
+<contrib contrib-type="author">
+<name-alternatives>
+<!--<name name-style="eastern">
+<surname>汤</surname>
+<given-names>运启</given-names>
+</name>-->
+<string-name content-type="native">汤运启</string-name>
+<name name-style="western" xml:lang="en">
+<surname>TANG</surname>
+<given-names>Yunqi</given-names>
+</name>
+</name-alternatives>
+<xref ref-type="aff" rid="AFF3">3</xref>
+</contrib>
+<contrib contrib-type="author">
+<name-alternatives>
+<!--<name name-style="eastern">
+<surname>韩</surname>
+<given-names>冰</given-names>
+</name>-->
+<string-name content-type="native">韩冰</string-name>
+<name name-style="western" xml:lang="en">
+<surname>HAN</surname>
+<given-names>Bing</given-names>
+</name>
+</name-alternatives>
+<xref ref-type="aff" rid="AFF1">1</xref>
+</contrib>
+<contrib contrib-type="author">
+<name-alternatives>
+<!--<name name-style="eastern">
+<surname>刘</surname>
+<given-names>晓丽</given-names>
+</name>-->
+<string-name content-type="native">刘晓丽</string-name>
+<name name-style="western" xml:lang="en">
+<surname>LIU</surname>
+<given-names>Xiaoli</given-names>
+</name>
+</name-alternatives>
+<xref ref-type="aff" rid="AFF4">4</xref>
+</contrib>
+</contrib-group>
+<aff id="AFF1">
+<label>1</label>
+<!--<addr-line>西北工业大学 陕西省机电传动与控制工程实验室, 陕西 西安 710072</addr-line>-->
+<addr-line xml:lang="en"><institution>Shaanxi Engineering Laboratory for Transmissions and Controls, Northwestern Polytechnical University</institution>, <named-content content-type="city">Xi'an</named-content> <named-content content-type="postcode">710072</named-content>, <country>China</country></addr-line>
+</aff>
+<aff id="AFF2">
+<label>2</label>
+<!--<addr-line>西安航空学院, 陕西 西安 710077</addr-line>-->
+<addr-line xml:lang="en"><institution>Xi'an Aeronautical University</institution>, <named-content content-type="city">Xi'an</named-content> <named-content content-type="postcode">710077</named-content>, <country>China</country></addr-line>
+</aff>
+<aff id="AFF3">
+<label>3</label>
+<!--<addr-line>陕西科技大学设计与艺术学院, 陕西 西安 710021</addr-line>-->
+<addr-line xml:lang="en"><institution>College of Art and Design, Shaanxi University of Science and Technology</institution>, <named-content content-type="city">Xi'an</named-content> <named-content content-type="postcode">710021</named-content>, <country>China</country></addr-line>
+</aff>
+<aff id="AFF4">
+<label>4</label>
+<!--<addr-line>西安市儿童医院, 陕西 西安 710003</addr-line>-->
+<addr-line xml:lang="en"><institution>Xi'an Children's Hospital</institution>, <named-content content-type="city">Xi'an</named-content> <named-content content-type="postcode">710003</named-content>, <country>China</country></addr-line>
+</aff><pub-date pub-type="final"><day>02</day><month>05</month><year>2022</year></pub-date><pub-date pub-type="epub"><day>02</day><month>05</month><year>2022</year></pub-date>
+<pub-date pub-type="ppub">
+<month>02</month>
+<year>2022</year>
+</pub-date>
+<volume>40</volume>
+<issue>1</issue><issue-id pub-id-type="publisher-id">jnwpu/2022/01</issue-id>
+<fpage>95</fpage>
+<lpage>102</lpage>
+<history>
+<date date-type="received">
+<day>07</day>
+<month>06</month>
+<year>2021</year>
+</date>
+</history>
+<permissions>
+<!--<copyright-statement>版权所有&#169;《西北工业大学学报》编辑部2022</copyright-statement>-->
+<copyright-statement xml:lang="en">© 2022 Journal of Northwestern Polytechnical University. All rights reserved.</copyright-statement>
+<copyright-year>2022</copyright-year>
+<copyright-holder xml:lang="en">Journal of Northwestern Polytechnical University. All rights reserved.</copyright-holder>
+<license license-type="open-access">
+<license-p content-type="cc-by-4.0">This is an Open Access article distributed under the terms of the Creative Commons Attribution License (<ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0">http://creativecommons.org/licenses/by/4.0</ext-link>), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p>
+</license>
+</permissions><self-uri content-type="abstract" xlink:href="https://www.jnwpu.org/articles/jnwpu/abs/2022/01/jnwpu2022401p95/jnwpu2022401p95.html"/><self-uri content-type="full_html" xlink:href="https://www.jnwpu.org/articles/jnwpu/full_html/2022/01/jnwpu2022401p95/jnwpu2022401p95.html"/><self-uri content-type="pdf" xlink:href="https://www.jnwpu.org/articles/jnwpu/pdf/2022/01/jnwpu2022401p95.pdf"/>
+<abstract xml:lang="en">
+<p>With the aging of the population, the decline of human body function leads to the decline of limb flexibility, and the severe cases lose the ability to walk. Research shows that the lower limb exoskeleton can assist human walking. In this paper, a lower limb exoskeleton is designed, which can collect the energy of the healthy side of the lower limb and release it when the affected side of the lower limb walks. The unilateral lower limb is used to compensate the movement of the affected limb, assist walking, and realize the collection, management and migration of human motion energy. The results showed that the root mean square value of rectus femoris decreased by 10%, and the EMG integral value of lateral gastrocnemius muscle decreased by 12%. The effect of exoskeleton on lower limb muscles is obvious. The walking assisted exoskeleton can provide auxiliary tension for lower limb movement and reduce muscle activity.</p>
+</abstract>
+<trans-abstract xml:lang="zh">
+<p>随着人口老龄化加剧, 人体机能衰退, 导致四肢灵活性下降, 严重者失去行走能力。研究表明, 借助下肢外骨骼可以辅助人体行走。设计了一种下肢外骨骼, 通过收集下肢健侧的能量, 在患侧下肢行走时释放。利用单侧下肢对患肢进行运动补偿, 辅助行走, 实现人体能量的收集、管理和迁移。通过人体穿戴实验评价外骨骼对于肌肉的影响, 结果表明股直肌的均方根值降幅可达10%, 腓肠肌外侧肌肉的肌电积分值降幅达12%。外骨骼对下肢肌肉的影响较为明显, 借助外骨骼可以为下肢运动提供辅助拉力, 同时降低肌肉活性。</p>
+</trans-abstract>
+<kwd-group xml:lang="en">
+<kwd>exoskeleton</kwd>
+<kwd>human energy</kwd>
+<kwd>energy harvester</kwd>
+<kwd>assist movement</kwd>
+<kwd>energy transfer</kwd>
+</kwd-group>
+<kwd-group xml:lang="zh">
+<kwd>外骨骼</kwd>
+<kwd>人体能量</kwd>
+<kwd>能量收集器</kwd>
+<kwd>辅助运动</kwd>
+<kwd>能量迁移</kwd>
+</kwd-group>
+<funding-group>
+<award-group>
+<funding-source country="CN">中央高校基础研究基金</funding-source>
+<award-id>31020190503004</award-id>
+</award-group>
+<award-group>
+<funding-source country="CN">高等学校学科创新引智计划</funding-source>
+<award-id>B13044</award-id>
+</award-group>
+<award-group>
+<funding-source country="CN">西安市儿童医院项目</funding-source>
+<award-id>2020D06</award-id>
+</award-group>
+<funding-statement>中央高校基础研究基金(31020190503004)、高等学校学科创新引智计划(B13044)及西安市儿童医院项目(2020D06)资助</funding-statement>
+</funding-group>
+<counts>
+<fig-count count="8"/>
+<table-count count="0"/>
+<equation-count count="5"/>
+<ref-count count="22"/>
+<page-count count="8"/>
+</counts>
+<custom-meta-group>
+<custom-meta>
+<meta-name>idline</meta-name>
+<meta-value>JNWPU 2022, 40(1): 95–102</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>cover_date</meta-name>
+<meta-value>February 2022</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>first_month</meta-name>
+<meta-value>02</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>last_month</meta-name>
+<meta-value>02</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>first_year</meta-name>
+<meta-value>2022</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>last_year</meta-name>
+<meta-value>2022</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>addr-line</meta-name>
+<meta-value>unstructured</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>open-access</meta-name>
+<meta-value>yes</meta-value>
+</custom-meta>
+</custom-meta-group>
+</article-meta>
+</front>
+
+<back>
+<ref-list><title>References</title>
+
+<ref id="R1"><label>1</label><mixed-citation publication-type="book" xml:lang="en"><string-name><surname>Jia</surname> <given-names>Jianping</given-names></string-name>. <source>Neurology</source>. <publisher-loc>Beijing</publisher-loc>: <publisher-name>People's Health Publishing House</publisher-name>, <year>2008</year>: <fpage>171</fpage> (in Chinese)</mixed-citation></ref>
+
+<ref id="R2"><label>2</label><mixed-citation publication-type="journal" xml:lang="en"><string-name><surname>Wang</surname> <given-names>Longde</given-names></string-name>, <string-name><surname>Liu</surname> <given-names>Jianmin</given-names></string-name>, <string-name><surname>Yang</surname> <given-names>Yi</given-names></string-name>, <etal>et al.</etal> <article-title>The prevention and treatment of stroke in China still faces great challenges: summary of China stroke prevention and treatment report 2018</article-title>[J]. <source>Chinese Journal of Circulation</source>, <year>2019</year>, <volume>34</volume>(<issue>2</issue>): <fpage>105</fpage><lpage>119</lpage><ext-link ext-link-type="uri" xlink:href="https://www.cnki.com.cn/Article/CJFDTOTAL-ZGXH201902002.htm">[Article]</ext-link> (in Chinese)</mixed-citation></ref>
+
+<ref id="R3"><label>3</label><mixed-citation publication-type="journal" xml:lang="en"><string-name><surname>Krakauer John</surname> <given-names>W</given-names></string-name>. <article-title>Motor learning: its relevance to stroke recovery and neurorehabilitation</article-title>[J]. <source>Current Opinion in Neurology</source>, <year>2006</year>, <volume>19</volume>(<issue>1</issue>): <fpage>84</fpage><ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1097/01.wco.0000200544.29915.cc">[Article]</ext-link></mixed-citation></ref>
+
+<ref id="R4"><label>4</label><mixed-citation publication-type="journal" xml:lang="en"><string-name><surname>Weber</surname> <given-names>L M</given-names></string-name>, <string-name><surname>Stein</surname> <given-names>J</given-names></string-name>. <article-title>The use of robots in stroke rehabilitation: a narrative review</article-title>[J]. <source>Neuro Rehabilitation</source>, <year>2018</year>, <volume>43</volume>(<issue>1</issue>): <fpage>99</fpage><lpage>110</lpage></mixed-citation></ref>
+
+<ref id="R5"><label>5</label><mixed-citation publication-type="journal" xml:lang="en"><string-name><surname>Mukherjee</surname> <given-names>D</given-names></string-name>, <string-name><surname>Levin</surname> <given-names>R L</given-names></string-name>, <string-name><surname>Heller</surname> <given-names>W</given-names></string-name>. <article-title>The cognitive, emotional, and social sequelae of stroke: psychological and ethical concerns in post-stroke adaptation</article-title>[J]. <source>Topics in Stroke Rehabilitation</source>, <year>2006</year>, <volume>13</volume>(<issue>4</issue>): <fpage>26</fpage>–<lpage>35</lpage><ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1310/tsr1304-26">[Article]</ext-link></mixed-citation></ref>
+
+<ref id="R6"><label>6</label><mixed-citation publication-type="journal" xml:lang="en"><string-name><surname>Awad</surname> <given-names>L N</given-names></string-name>, <string-name><surname>Bae</surname> <given-names>J</given-names></string-name>, <string-name><surname>O'Donnell</surname> <given-names>K</given-names></string-name>, <etal>et al.</etal> <article-title>A soft robotic exosuit improves walking in patients after stroke</article-title>[J]. <source>Science Translational Medicine</source>, <year>2017</year>, <volume>9</volume>(<issue>400</issue>): <fpage>1</fpage>–<lpage>12</lpage></mixed-citation></ref>
+
+<ref id="R7"><label>7</label><mixed-citation publication-type="journal" xml:lang="en"><string-name><surname>Kazerooni</surname> <given-names>H</given-names></string-name>. <article-title>The berkeley lower extremity exoskeleton</article-title>[J]. <source>Journal of Dynamic System Measurement &amp; Control</source>, <year>2006</year>, <volume>128</volume>(<issue>1</issue>): <fpage>9</fpage>–<lpage>15</lpage></mixed-citation></ref>
+
+<ref id="R8"><label>8</label><mixed-citation publication-type="journal" xml:lang="en"><string-name><surname>Gordon</surname> <given-names>K E</given-names></string-name>, <string-name><surname>Ferris</surname> <given-names>D P</given-names></string-name>. <article-title>Learning to walk with a robotic ankle exoskeleton</article-title>[J]. <source>Journal of Biomechanics</source>, <year>2007</year>, <volume>40</volume>(<issue>12</issue>): <fpage>2636</fpage>–<lpage>2644</lpage><ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1016/j.jbiomech.2006.12.006">[Article]</ext-link></mixed-citation></ref>
+
+<ref id="R9"><label>9</label><mixed-citation publication-type="journal" xml:lang="en"><string-name><surname>Collins</surname> <given-names>S H</given-names></string-name>, <string-name><surname>Wiggin</surname> <given-names>M B</given-names></string-name>, <string-name><surname>Sawicki</surname> <given-names>G S</given-names></string-name>. <article-title>Reducing the energy cost of human walking using an unpowered exoskeleton</article-title>[J]. <source>Nature</source>, <year>2015</year>, <volume>522</volume>(<issue>7555</issue>): <fpage>212</fpage>–<lpage>215</lpage><ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1038/nature14288">[Article]</ext-link></mixed-citation></ref>
+
+<ref id="R10"><label>10</label><mixed-citation publication-type="journal" xml:lang="en"><string-name><surname>Shepertycky</surname> <given-names>Michael</given-names></string-name>, <string-name><surname>Burton</surname> <given-names>Sarah</given-names></string-name>, <string-name><surname>Dickson</surname> <given-names>Andrew</given-names></string-name>, <etal>et al.</etal> <article-title>Removing energy with an exoskeleton reduces the metabolic cost of walking</article-title>[J]. <source>Science</source>, <year>2021</year>, <volume>372</volume>(<issue>6545</issue>): <fpage>957</fpage>–<lpage>960</lpage><ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1126/science.aba9947">[Article]</ext-link></mixed-citation></ref>
+
+<ref id="R11"><label>11</label><mixed-citation publication-type="journal" xml:lang="en"><string-name><surname>Xing</surname> <given-names>Kai</given-names></string-name>, <string-name><surname>Zhao</surname> <given-names>Xinhua</given-names></string-name>, <string-name><surname>Chen</surname> <given-names>Wei</given-names></string-name>, <etal>et al.</etal> <article-title>Research status and development trend of exoskeleton robot</article-title>[J]. <source>Medical and health equipment</source>, <year>2015</year>, <volume>36</volume>(<issue>1</issue>): <fpage>104</fpage>–<lpage>107</lpage><ext-link ext-link-type="uri" xlink:href="https://www.cnki.com.cn/Article/CJFDTOTAL-YNWS201501037.htm">[Article]</ext-link> (in Chinese)</mixed-citation></ref>
+
+<ref id="R12"><label>12</label><mixed-citation publication-type="book"><string-name><surname>Huang</surname> <given-names>Lei</given-names></string-name>. <source>Coupling simulation of human lower limbs and rehabilitation robot based on opensim</source>[D]. <publisher-loc>Tianjin</publisher-loc>: <publisher-name>Tianjin University</publisher-name>, <year>2016</year> (in Chinese)</mixed-citation></ref>
+
+<ref id="R13"><label>13</label><mixed-citation publication-type="conf-proc"><string-name><surname>Han</surname> <given-names>Bing</given-names></string-name>, <string-name><surname>Jiao</surname> <given-names>Yan</given-names></string-name>, <string-name><surname>Liu</surname> <given-names>Geng</given-names></string-name>, et al. <article-title>Kinematic &amp; dynamic models of human lower extremity during the gait cycle</article-title>[C]//<conf-name>2020 6th International Conference on Control, Automation and Robotics</conf-name>, <year>2020</year>: <fpage>568</fpage>–<lpage>573</lpage></mixed-citation></ref>
+
+<ref id="R14"><label>14</label><mixed-citation publication-type="other">国家标准化委员会. 中国成年人人体尺寸[S]. GB/T 10000-1988</mixed-citation></ref>
+
+<ref id="R15"><label>15</label><mixed-citation publication-type="other">国家标准化委员会. 中国成年人人体惯性参数[S]. GB/T 17245-2004</mixed-citation></ref>
+
+<ref id="R16"><label>16</label><mixed-citation publication-type="journal" xml:lang="en"><string-name><surname>Zhou</surname> <given-names>Xin</given-names></string-name>, <string-name><surname>Liu</surname> <given-names>Geng</given-names></string-name>, <string-name><surname>Han</surname> <given-names>Bing</given-names></string-name>, <etal>et al.</etal> <article-title>Different kinds of energy harvesters from human activities</article-title>[J]. <source>International Journal of Energy Research</source>, <year>2021</year>, <volume>45</volume>(<issue>5</issue>): <fpage>1</fpage>–<lpage>30</lpage></mixed-citation></ref>
+
+<ref id="R17"><label>17</label><mixed-citation publication-type="book" xml:lang="en"><string-name><surname>Neumann</surname> <given-names>D A</given-names></string-name>. <source>Kinesiology of the musculoskeletal system</source>. <publisher-loc>Mosby</publisher-loc>: <publisher-name>Elsevier</publisher-name>, <year>2010</year></mixed-citation></ref>
+
+<ref id="R18"><label>18</label><mixed-citation publication-type="other"><string-name><surname>Liu</surname> <given-names>Geng</given-names></string-name>, <string-name><surname>Zhou</surname> <given-names>Xin</given-names></string-name>, <string-name><surname>Han</surname> <given-names>Bing</given-names></string-name>, et al. <article-title>A flexible exoskeleton for energy collection, management and migration of human lower limbs</article-title>[P]. <comment>CN111102147A</comment> (in Chinese)</mixed-citation></ref>
+
+<ref id="R19"><label>19</label><mixed-citation publication-type="journal" xml:lang="en"><string-name><surname>Zhou</surname> <given-names>Xin</given-names></string-name>, <string-name><surname>Liu</surname> <given-names>Geng</given-names></string-name>, <string-name><surname>Han</surname> <given-names>Bing</given-names></string-name>, <etal>et al.</etal> <article-title>Design of a human lower limbs exoskeleton for biomechanical energy harvesting and assist walking</article-title>[J]. <source>Energy Technology</source>, <year>2020</year>, <volume>9</volume>(<issue>1</issue>): <fpage>1</fpage>–<lpage>14</lpage></mixed-citation></ref>
+
+<ref id="R20"><label>20</label><mixed-citation publication-type="book" xml:lang="en"><string-name><surname>Pu</surname> <given-names>Lianggui</given-names></string-name>, <string-name><surname>Chen</surname> <given-names>Guoding</given-names></string-name>, <string-name><surname>Wu</surname> <given-names>Liyan</given-names></string-name>. <source>Mechanical design</source>. <publisher-loc>Beijing</publisher-loc>: <publisher-name>Higher Education Press</publisher-name>, <year>2011</year> (in Chinese)</mixed-citation></ref>
+
+<ref id="R21"><label>21</label><mixed-citation publication-type="book" xml:lang="en"><string-name><surname>Sun</surname> <given-names>Huan</given-names></string-name>, <string-name><surname>Chen</surname> <given-names>Zuomo</given-names></string-name>, <string-name><surname>Ge</surname> <given-names>Wenjie</given-names></string-name>. <source>Mechanical principle</source>. <publisher-loc>Beijing</publisher-loc>: <publisher-name>Higher Education Press</publisher-name>, <year>2011</year> (in Chinese)</mixed-citation></ref>
+
+<ref id="R22"><label>22</label><mixed-citation publication-type="journal" xml:lang="en"><string-name><surname>Yan</surname> <given-names>Tiebin</given-names></string-name>, <string-name><surname>Wyc</surname> <given-names>Huichan</given-names></string-name>. <article-title>Maximum isometric voluntary contraction of ankle dorsiflexors and plantarflexors: comparison of surface electromyography between patients at the acute stage after stroke and age-matched healthy elderly</article-title>[J]. <source>Chinese Journal of physical medicine and rehabilitation</source>, <year>2003</year> (<issue>4</issue>): <fpage>22</fpage>–<lpage>25</lpage><ext-link ext-link-type="uri" xlink:href="https://www.cnki.com.cn/Article/CJFDTOTAL-ZHLY200304006.htm">[Article]</ext-link> (in Chinese)</mixed-citation></ref>
+</ref-list>
+</back>
+</article>

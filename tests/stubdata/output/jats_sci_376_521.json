@@ -1,0 +1,109 @@
+{
+  "abstract": {
+    "textEnglish": "After large galaxies merge, their central supermassive black holes are expected to form binary systems. Their orbital motion should generate a gravitational wave background (GWB) at nanohertz frequencies. Searches for this background use pulsar timing arrays, which perform long-term monitoring of millisecond pulsars at radio wavelengths. We used 12.5 years of Fermi Large Area Telescope data to form a gamma-ray pulsar timing array. Results from 35 bright gamma-ray pulsars place a 95% credible limit on the GWB characteristic strain of 1.0 \u00d7 10<sup>\u221214</sup> at a frequency of 1 year<sup>\u20131</sup>. The sensitivity is expected to scale with t<sub>obs</sub>, the observing time span, as <inline-formula><mml:math><mml:mrow><mml:msubsup><mml:mi>t</mml:mi><mml:mrow><mml:mtext>obs</mml:mtext></mml:mrow><mml:mrow><mml:mrow><mml:mrow><mml:mo>\u2212</mml:mo><mml:mn>13</mml:mn></mml:mrow><mml:mo>/</mml:mo><mml:mn>6</mml:mn></mml:mrow></mml:mrow></mml:msubsup></mml:mrow></mml:math></inline-formula>. This direct measurement provides an independent probe of the GWB while offering a check on radio noise models."
+  },
+  "authors": [
+    {
+      "attrib": {
+        "collab": true
+      },
+      "name": {
+        "collab": "The Fermi-LAT Collaboration"
+      }
+    }
+  ],
+  "copyright": {
+    "statement": "Copyright \u00a9 2022 The Authors, some rights reserved; exclusive licensee American Association for the Advancement of Science. No claim to original U.S. Government Works",
+    "status": true
+  },
+  "editorialHistory": {
+    "acceptedDate": "2022-03-24",
+    "receivedDates": [
+      "2021-09-10"
+    ]
+  },
+  "funding": [
+    {
+      "agencyid": {
+        "idschema": "FundRef",
+        "idvalue": "http://dx.doi.org/10.13039/100000001"
+      },
+      "agencyname": "National Science Foundation",
+      "awardnumber": "1430284"
+    },
+    {
+      "agencyid": {
+        "idschema": "FundRef",
+        "idvalue": "http://dx.doi.org/10.13039/100000015"
+      },
+      "agencyname": "U.S. Department of Energy",
+      "awardnumber": "DE-AC02-76SF00515"
+    },
+    {
+      "agencyid": {
+        "idschema": "FundRef",
+        "idvalue": "http://dx.doi.org/10.13039/100017437"
+      },
+      "agencyname": "NASA Headquarters",
+      "awardnumber": "NNG21OB03A"
+    },
+    {
+      "agencyid": {
+        "idschema": "FundRef",
+        "idvalue": "http://dx.doi.org/10.13039/100017437"
+      },
+      "agencyname": "NASA Headquarters",
+      "awardnumber": "80GSFC17M0002"
+    }
+  ],
+  "openAccess": {
+    "license": "This is an article distributed under the terms of the Science Journals Default License.",
+    "licenseURL": "https://www.science.org/content/page/science-licenses-journal-article-reuse"
+  },
+  "pagination": {
+    "firstPage": "521",
+    "lastPage": "523",
+    "pageRange": "521-523"
+  },
+  "persistentIDs": [
+    {
+      "DOI": "10.1126/science.abm3231"
+    }
+  ],
+  "pubDate": {
+    "electrDate": "2022-04-07",
+    "printDate": "2022-04-29"
+  },
+  "publication": {
+    "ISSN": [
+      {
+        "issnString": "0036-8075"
+      },
+      {
+        "issnString": "1095-9203"
+      }
+    ],
+    "issueNum": "6592",
+    "pubName": "Science",
+    "pubYear": "2022",
+    "publisher": "American Association for the Advancement of Science",
+    "volumeNum": "376"
+  },
+  "publisherIDs": [
+    {
+      "Identifier": "abm3231",
+      "attribute": "publisher-id"
+    }
+  ],
+  "recordData": {
+    "createdTime": "",
+    "loadFormat": "JATS",
+    "loadLocation": "",
+    "loadType": "fromFile",
+    "parsedTime": "",
+    "recordOrigin": ""
+  },
+  "title": {
+    "textEnglish": "A gamma-ray pulsar timing array constrains the nanohertz gravitational wave background"
+  }
+}

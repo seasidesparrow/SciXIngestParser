@@ -1,0 +1,83 @@
+{
+  "authors": [
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Universit\u00e9 de Lorraine, INRA, Laboratoire Interaction Arbres Microorganismes, Nancy, France"
+        }
+      ],
+      "attrib": {
+        "email": "j2p@univ-lorraine.fr"
+      },
+      "name": {
+        "given_name": "Jean-Pierre",
+        "surname": "Jacquot"
+      }
+    }
+  ],
+  "copyright": {
+    "statement": "\u00a9 International Union of Crystallography 2019",
+    "status": true
+  },
+  "keywords": [
+    {
+      "keyString": "book reviews",
+      "keySystem": "misc"
+    },
+    {
+      "keyString": "phospho\u00adrous chemistry",
+      "keySystem": "misc"
+    },
+    {
+      "keyString": "prebiotic chemisitry",
+      "keySystem": "misc"
+    }
+  ],
+  "openAccess": {
+    "license": "Prior permission is not required to reproduce short quotations, tables and figures from this article, provided the original authors and source are cited. For more information, see https://journals.iucr.org/services/copyrightpolicy.html."
+  },
+  "pagination": {
+    "firstPage": "616",
+    "lastPage": "617",
+    "pageCount": "2",
+    "pageRange": "616-617"
+  },
+  "persistentIDs": [
+    {
+      "DOI": "10.1107/S2059798319006272"
+    }
+  ],
+  "pubDate": {
+    "electrDate": "2019-05-28"
+  },
+  "publication": {
+    "ISSN": [
+      {
+        "issnString": "2059-7983",
+        "pubtype": "epub"
+      }
+    ],
+    "issueNum": "Pt 6",
+    "pubName": "Acta Crystallographica Section D",
+    "pubYear": "2019",
+    "publisher": "International Union of Crystallography",
+    "volumeNum": "75"
+  },
+  "publisherIDs": [
+    {
+      "Identifier": "xo0141",
+      "attribute": "publisher-id"
+    }
+  ],
+  "recordData": {
+    "createdTime": "",
+    "loadFormat": "JATS",
+    "loadLocation": "",
+    "loadType": "fromFile",
+    "parsedTime": "",
+    "recordOrigin": ""
+  },
+  "title": {
+    "textEnglish": "Phospho\u00adrus Chemistry. The Role of Phospho\u00adrus in Prebiotic Chemistry"
+  }
+}

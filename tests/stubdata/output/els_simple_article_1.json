@@ -1,0 +1,139 @@
+{
+  "abstract": {
+    "textEnglish": "Garnet has been proposed to be an important fractionating phase during magmatic differentiation in thick volcanic arcs because garnet fractionation can reproduce the hallmarks of continental crust by driving residual magmas to higher silica, lower total iron, and higher iron oxidation states. Recently, Holycross and Cottrell (2023b) have measured the partition coefficients for Fe<sup>2+</sup> and Fe<sup>3+</sup> between garnet and melt, which allow for more precise modeling of the oxidation effect of garnet fractionation. Using their new experimental results combined with fractional crystallization modeling, Holycross and Cottrell (2023a, 2023b) concluded that garnet crystallization has little influence on arc magma oxidation. However, these conclusions are based on conceptual errors in modeling the effects of garnet. Firstly, they ignored garnet fractionation beyond 50% crystallization which would cause substantial Fe<sup>3+</sup> enrichment. Limiting garnet fractionation to the initial 50% crystallization of arc basalts is inconsistent with existing experiments including their own experiments. Secondly, Fe<sup>2+</sup> partitioning was indirectly and incorrectly parameterized using FeMg exchange coefficients, inconsistent with experimental partition coefficients. Application of these recent models leads to unrealistic Fe<sup>2+</sup> partitioning behavior with progressive fractionation. When these models are corrected with proper mass balance and partitioning relationships, garnet as a driver of oxidation remains a viable and testable hypothesis."
+  },
+  "authors": [
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Key Laboratory of Orogenic Belt and Crustal Evolution, MOE, School of Earth and Space Sciences, Peking University, Beijing 100871, China"
+        }
+      ],
+      "attrib": {
+        "email": "mingtang@pku.edu.cn"
+      },
+      "name": {
+        "given_name": "Ming",
+        "surname": "Tang"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Key Laboratory of Orogenic Belt and Crustal Evolution, MOE, School of Earth and Space Sciences, Peking University, Beijing 100871, China"
+        }
+      ],
+      "name": {
+        "given_name": "Jiazhen",
+        "surname": "Wang"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Department of Earth, Environmental and Planetary Sciences, Rice University, Houston, TX 77005, USA"
+        }
+      ],
+      "name": {
+        "given_name": "Cin-Ty A.",
+        "surname": "Lee"
+      }
+    }
+  ],
+  "copyright": {
+    "statement": "\u00a9 2024 Elsevier B.V. All rights reserved.",
+    "status": true
+  },
+  "doctype": "article",
+  "editorialHistory": {
+    "acceptedDate": "2024-02-08",
+    "receivedDates": [
+      "2023-12-13"
+    ],
+    "revisedDates": [
+      "2024-02-08"
+    ]
+  },
+  "esources": [
+    {
+      "location": "http://dx.doi.org/10.1016/j.lithos.2024.107537",
+      "source": "pub_html"
+    }
+  ],
+  "keywords": [
+    {
+      "keyString": "Garnet",
+      "keySystem": "Elsevier"
+    },
+    {
+      "keyString": "Redox",
+      "keySystem": "Elsevier"
+    },
+    {
+      "keyString": "Arc magma",
+      "keySystem": "Elsevier"
+    },
+    {
+      "keyString": "Fe depletion",
+      "keySystem": "Elsevier"
+    }
+  ],
+  "pagination": {
+    "electronicID": "107537"
+  },
+  "persistentIDs": [
+    {
+      "DOI": "10.1016/j.lithos.2024.107537"
+    }
+  ],
+  "pubDate": {
+    "printDate": "2024-04-00"
+  },
+  "publication": {
+    "ISSN": [
+      {
+        "issnString": "0024-4937",
+        "pubtype": "not specified"
+      }
+    ],
+    "pubName": "LITHOS",
+    "pubYear": "2024",
+    "publisher": "Elsevier B.V.",
+    "volumeNum": "470-471"
+  },
+  "publisherIDs": [
+    {
+      "Identifier": "S0024-4937(24)00049-5",
+      "attribute": "PII"
+    }
+  ],
+  "recordData": {
+    "createdTime": "",
+    "loadFormat": "Elsevier",
+    "loadLocation": "",
+    "loadType": "fromFile",
+    "parsedTime": "",
+    "recordOrigin": ""
+  },
+  "references": [
+    "<sb:reference id=\"rf0005\"><sb:contribution langtype=\"en\"><sb:authors><sb:author><ce:given-name>A.</ce:given-name><ce:surname>B\u00e9zos</ce:surname></sb:author><sb:author><ce:given-name>E.</ce:given-name><ce:surname>Humler</ce:surname></sb:author></sb:authors><sb:title><sb:maintitle>The Fe3+/\u03a3Fe ratios of MORB glasses and their implications for mantle melting</sb:maintitle></sb:title></sb:contribution><sb:host><sb:issue><sb:series><sb:title><sb:maintitle>Geochim. Cosmochim. Acta</sb:maintitle></sb:title><sb:volume-nr>69</sb:volume-nr></sb:series><sb:date>2005</sb:date></sb:issue><sb:pages><sb:first-page>711</sb:first-page><sb:last-page>725</sb:last-page></sb:pages></sb:host></sb:reference>",
+    "<sb:reference id=\"rf0010\"><sb:contribution langtype=\"en\"><sb:authors><sb:author><ce:given-name>K.</ce:given-name><ce:surname>Chen</ce:surname></sb:author><sb:author><ce:given-name>M.</ce:given-name><ce:surname>Tang</ce:surname></sb:author><sb:author><ce:given-name>Z.</ce:given-name><ce:surname>Hu</ce:surname></sb:author><sb:author><ce:given-name>Y.</ce:given-name><ce:surname>Liu</ce:surname></sb:author></sb:authors><sb:title><sb:maintitle>Generation of tholeiitic and calc-alkaline arc magmas and its implications for continental growth</sb:maintitle></sb:title></sb:contribution><sb:host><sb:issue><sb:series><sb:title><sb:maintitle>Geochim. Cosmochim. Acta</sb:maintitle></sb:title><sb:volume-nr>355</sb:volume-nr></sb:series><sb:date>2023</sb:date></sb:issue><sb:pages><sb:first-page>173</sb:first-page><sb:last-page>183</sb:last-page></sb:pages></sb:host></sb:reference>",
+    "<sb:reference id=\"rf0015\"><sb:contribution langtype=\"en\"><sb:authors><sb:author><ce:given-name>D.-H.</ce:given-name><ce:surname>Du</ce:surname></sb:author><sb:author><ce:given-name>M.</ce:given-name><ce:surname>Tang</ce:surname></sb:author><sb:author><ce:given-name>W.</ce:given-name><ce:surname>Li</ce:surname></sb:author><sb:author><ce:given-name>S.M.</ce:given-name><ce:surname>Kay</ce:surname></sb:author><sb:author><ce:given-name>X.-L.</ce:given-name><ce:surname>Wang</ce:surname></sb:author></sb:authors><sb:title><sb:maintitle>What drives Fe depletion in calc-alkaline magma differentiation: Insights from Fe isotopes</sb:maintitle></sb:title></sb:contribution><sb:host><sb:issue><sb:series><sb:title><sb:maintitle>Geology</sb:maintitle></sb:title><sb:volume-nr>50</sb:volume-nr></sb:series><sb:date>2022</sb:date></sb:issue><sb:pages><sb:first-page>552</sb:first-page><sb:last-page>556</sb:last-page></sb:pages></sb:host></sb:reference>",
+    "<sb:reference id=\"rf0020\"><sb:contribution langtype=\"en\"><sb:authors><sb:author><ce:given-name>G.A.R.</ce:given-name><ce:surname>Gualda</ce:surname></sb:author><sb:author><ce:given-name>M.S.</ce:given-name><ce:surname>Ghiorso</ce:surname></sb:author><sb:author><ce:given-name>R.V.</ce:given-name><ce:surname>Lemons</ce:surname></sb:author><sb:author><ce:given-name>T.L.</ce:given-name><ce:surname>Carley</ce:surname></sb:author></sb:authors><sb:title><sb:maintitle>Rhyolite-MELTS: a Modified Calibration of MELTS Optimized for Silica-rich, Fluid-bearing Magmatic Systems</sb:maintitle></sb:title></sb:contribution><sb:host><sb:issue><sb:series><sb:title><sb:maintitle>J. Petrol.</sb:maintitle></sb:title><sb:volume-nr>53</sb:volume-nr></sb:series><sb:date>2012</sb:date></sb:issue><sb:pages><sb:first-page>875</sb:first-page><sb:last-page>890</sb:last-page></sb:pages></sb:host></sb:reference>",
+    "<sb:reference id=\"rf0025\"><sb:contribution langtype=\"en\"><sb:authors><sb:author><ce:given-name>M.</ce:given-name><ce:surname>Holycross</ce:surname></sb:author><sb:author><ce:given-name>E.</ce:given-name><ce:surname>Cottrell</ce:surname></sb:author></sb:authors><sb:title><sb:maintitle>Erratum for the research article;garnet crystallization does not drive oxidation at arcs; by M. Holycross and E. Cottrell</sb:maintitle></sb:title></sb:contribution><sb:host><sb:issue><sb:series><sb:title><sb:maintitle>Science</sb:maintitle></sb:title><sb:volume-nr>381</sb:volume-nr></sb:series><sb:date>2023</sb:date></sb:issue><sb:pages><sb:first-page>eadj6418</sb:first-page></sb:pages></sb:host></sb:reference>",
+    "<sb:reference id=\"rf0030\"><sb:contribution langtype=\"en\"><sb:authors><sb:author><ce:given-name>M.</ce:given-name><ce:surname>Holycross</ce:surname></sb:author><sb:author><ce:given-name>E.</ce:given-name><ce:surname>Cottrell</ce:surname></sb:author></sb:authors><sb:title><sb:maintitle>Garnet crystallization does not drive oxidation at arcs</sb:maintitle></sb:title></sb:contribution><sb:host><sb:issue><sb:series><sb:title><sb:maintitle>Science</sb:maintitle></sb:title><sb:volume-nr>380</sb:volume-nr></sb:series><sb:date>2023</sb:date></sb:issue><sb:pages><sb:first-page>506</sb:first-page><sb:last-page>509</sb:last-page></sb:pages></sb:host></sb:reference>",
+    "<sb:reference id=\"rf0035\"><sb:contribution langtype=\"en\"><sb:authors><sb:author><ce:given-name>K.A.</ce:given-name><ce:surname>Kelley</ce:surname></sb:author><sb:author><ce:given-name>E.</ce:given-name><ce:surname>Cottrell</ce:surname></sb:author></sb:authors><sb:title><sb:maintitle>Water and the Oxidation State of Subduction Zone Magmas</sb:maintitle></sb:title></sb:contribution><sb:host><sb:issue><sb:series><sb:title><sb:maintitle>Science</sb:maintitle></sb:title><sb:volume-nr>325</sb:volume-nr></sb:series><sb:date>2009</sb:date></sb:issue><sb:pages><sb:first-page>605</sb:first-page><sb:last-page>607</sb:last-page></sb:pages></sb:host></sb:reference>",
+    "<sb:reference id=\"rf0040\"><sb:contribution langtype=\"en\"><sb:authors><sb:author><ce:given-name>P.</ce:given-name><ce:surname>King</ce:surname></sb:author><sb:author><ce:given-name>R.</ce:given-name><ce:surname>Hervig</ce:surname></sb:author><sb:author><ce:given-name>J.</ce:given-name><ce:surname>Holloway</ce:surname></sb:author><sb:author><ce:given-name>J.</ce:given-name><ce:surname>Delaney</ce:surname></sb:author><sb:author><ce:given-name>M.</ce:given-name><ce:surname>Dyar</ce:surname></sb:author></sb:authors><sb:title><sb:maintitle>Partitioning of Fe3+/Fetotal between amphibole and basanitic melt as a function of oxygen fugacity</sb:maintitle></sb:title></sb:contribution><sb:host><sb:issue><sb:series><sb:title><sb:maintitle>Earth Planet. Sci. Lett.</sb:maintitle></sb:title><sb:volume-nr>178</sb:volume-nr></sb:series><sb:date>2000</sb:date></sb:issue><sb:pages><sb:first-page>97</sb:first-page><sb:last-page>112</sb:last-page></sb:pages></sb:host></sb:reference>",
+    "<sb:reference id=\"rf0045\"><sb:contribution langtype=\"en\"><sb:authors><sb:author><ce:given-name>Q.-W.</ce:given-name><ce:surname>Li</ce:surname></sb:author><sb:author><ce:given-name>Y.</ce:given-name><ce:surname>Nebel-Jacobsen</ce:surname></sb:author><sb:author><ce:given-name>J.-H.</ce:given-name><ce:surname>Zhao</ce:surname></sb:author><sb:author><ce:given-name>O.</ce:given-name><ce:surname>Nebel</ce:surname></sb:author><sb:author><ce:given-name>M.</ce:given-name><ce:surname>Richter</ce:surname></sb:author><sb:author><ce:given-name>P.A.</ce:given-name><ce:surname>Cawood</ce:surname></sb:author><sb:author><ce:given-name>Q.</ce:given-name><ce:surname>Wang</ce:surname></sb:author></sb:authors><sb:title><sb:maintitle>An early garnet redox-filter as an additive oxidizer in lower continental arc crust traced through Fe Isotopes</sb:maintitle></sb:title></sb:contribution><sb:host><sb:issue><sb:series><sb:title><sb:maintitle>J. Geophys. Res. Solid Earth</sb:maintitle></sb:title><sb:volume-nr>126</sb:volume-nr></sb:series><sb:date>2021</sb:date></sb:issue></sb:host><sb:comment>e2020JB021217</sb:comment></sb:reference>",
+    "<sb:reference id=\"rf0050\"><sb:contribution langtype=\"en\"><sb:authors><sb:author><ce:given-name>C.</ce:given-name><ce:surname>Sun</ce:surname></sb:author><sb:author><ce:given-name>C.-T.A.</ce:given-name><ce:surname>Lee</ce:surname></sb:author></sb:authors><sb:title><sb:maintitle>Redox evolution of crystallizing magmas with CHOS volatiles and its implications for atmospheric oxygenation</sb:maintitle></sb:title></sb:contribution><sb:host><sb:issue><sb:series><sb:title><sb:maintitle>Geochim. Cosmochim. Acta</sb:maintitle></sb:title><sb:volume-nr>338</sb:volume-nr></sb:series><sb:date>2022</sb:date></sb:issue><sb:pages><sb:first-page>302</sb:first-page><sb:last-page>321</sb:last-page></sb:pages></sb:host></sb:reference>",
+    "<sb:reference id=\"rf0055\"><sb:contribution langtype=\"en\"><sb:authors><sb:author><ce:given-name>M.</ce:given-name><ce:surname>Tang</ce:surname></sb:author></sb:authors><sb:title><sb:maintitle>Composition of the Earth\u2019s Crust</sb:maintitle></sb:title></sb:contribution><sb:host><sb:edited-book><sb:editors><sb:editor><ce:given-name>D.</ce:given-name><ce:surname>Alderton</ce:surname></sb:editor><sb:editor><ce:given-name>S.A.</ce:given-name><ce:surname>Elias</ce:surname></sb:editor></sb:editors><sb:title><sb:maintitle>Encyclopedia of Geology</sb:maintitle></sb:title><sb:edition>Second edition</sb:edition><sb:date>2021</sb:date><sb:publisher><sb:name>Academic Press</sb:name><sb:location>Oxford</sb:location></sb:publisher></sb:edited-book><sb:pages><sb:first-page>178</sb:first-page><sb:last-page>186</sb:last-page></sb:pages></sb:host></sb:reference>",
+    "<sb:reference id=\"rf0060\"><sb:contribution langtype=\"en\"><sb:authors><sb:author><ce:given-name>M.</ce:given-name><ce:surname>Tang</ce:surname></sb:author><sb:author><ce:given-name>M.</ce:given-name><ce:surname>Erdman</ce:surname></sb:author><sb:author><ce:given-name>G.</ce:given-name><ce:surname>Eldridge</ce:surname></sb:author><sb:author><ce:given-name>C.-T.A.</ce:given-name><ce:surname>Lee</ce:surname></sb:author></sb:authors><sb:title><sb:maintitle>The redox \u201cfilter\u201d beneath magmatic orogens and the formation of continental crust</sb:maintitle></sb:title></sb:contribution><sb:host><sb:issue><sb:series><sb:title><sb:maintitle>Sci. Adv.</sb:maintitle></sb:title><sb:volume-nr>4</sb:volume-nr></sb:series><sb:date>2018</sb:date></sb:issue></sb:host></sb:reference>",
+    "<sb:reference id=\"rf0065\"><sb:contribution langtype=\"en\"><sb:authors><sb:author><ce:given-name>M.</ce:given-name><ce:surname>Tang</ce:surname></sb:author><sb:author><ce:given-name>C.-T.A.</ce:given-name><ce:surname>Lee</ce:surname></sb:author><sb:author><ce:given-name>G.</ce:given-name><ce:surname>Costin</ce:surname></sb:author><sb:author><ce:given-name>H.E.</ce:given-name><ce:surname>H\u00f6fer</ce:surname></sb:author></sb:authors><sb:title><sb:maintitle>Recycling reduced iron at the base of magmatic orogens</sb:maintitle></sb:title></sb:contribution><sb:host><sb:issue><sb:series><sb:title><sb:maintitle>Earth Planet. Sci. Lett.</sb:maintitle></sb:title><sb:volume-nr>528</sb:volume-nr></sb:series><sb:date>2019</sb:date></sb:issue><sb:article-number>115827</sb:article-number></sb:host></sb:reference>",
+    "<sb:reference id=\"rf0070\"><sb:contribution langtype=\"en\"><sb:authors><sb:author><ce:given-name>M.</ce:given-name><ce:surname>Tang</ce:surname></sb:author><sb:author><ce:given-name>C.-T.A.</ce:given-name><ce:surname>Lee</ce:surname></sb:author><sb:author><ce:given-name>W.-Q.</ce:given-name><ce:surname>Ji</ce:surname></sb:author><sb:author><ce:given-name>R.</ce:given-name><ce:surname>Wang</ce:surname></sb:author><sb:author><ce:given-name>G.</ce:given-name><ce:surname>Costin</ce:surname></sb:author></sb:authors><sb:title><sb:maintitle>Crustal thickening and endogenic oxidation of magmatic sulfur</sb:maintitle></sb:title></sb:contribution><sb:host><sb:issue><sb:series><sb:title><sb:maintitle>Sci. Adv.</sb:maintitle></sb:title><sb:volume-nr>6</sb:volume-nr></sb:series><sb:date>2020</sb:date></sb:issue><sb:pages><sb:first-page>eaba6342</sb:first-page></sb:pages></sb:host></sb:reference>",
+    "<sb:reference id=\"rf0075\"><sb:contribution langtype=\"en\"><sb:authors><sb:author><ce:given-name>M.</ce:given-name><ce:surname>Tang</ce:surname></sb:author><sb:author><ce:given-name>X.</ce:given-name><ce:surname>Liu</ce:surname></sb:author><sb:author><ce:given-name>K.</ce:given-name><ce:surname>Chen</ce:surname></sb:author></sb:authors><sb:title><sb:maintitle>High Mg# of the continental crust explained by calc-alkaline differentiation</sb:maintitle></sb:title></sb:contribution><sb:host><sb:issue><sb:series><sb:title><sb:maintitle>Natl. Sci. Rev.</sb:maintitle></sb:title><sb:volume-nr>10</sb:volume-nr></sb:series><sb:date>2023</sb:date></sb:issue></sb:host></sb:reference>",
+    "<sb:reference id=\"rf0080\"><sb:contribution langtype=\"en\"><sb:authors><sb:author><ce:given-name>J.</ce:given-name><ce:surname>Zhang</ce:surname></sb:author><sb:author><ce:given-name>R.</ce:given-name><ce:surname>Wang</ce:surname></sb:author><sb:author><ce:given-name>J.</ce:given-name><ce:surname>Hong</ce:surname></sb:author></sb:authors><sb:title><sb:maintitle>Amphibole fractionation and its potential redox effect on arc crust: evidence from the Kohistan arc cumulates</sb:maintitle></sb:title></sb:contribution><sb:host><sb:issue><sb:series><sb:title><sb:maintitle>Am. Mineral.</sb:maintitle></sb:title><sb:volume-nr>107</sb:volume-nr></sb:series><sb:date>2022</sb:date></sb:issue><sb:pages><sb:first-page>1779</sb:first-page><sb:last-page>1788</sb:last-page></sb:pages></sb:host></sb:reference>"
+  ],
+  "title": {
+    "textEnglish": "Reevaluating the oxidation effect of garnet crystallization"
+  }
+}

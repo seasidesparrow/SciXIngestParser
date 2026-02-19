@@ -1,0 +1,115 @@
+{
+  "abstract": {
+    "textEnglish": "The final release of the supporting data and scripts to reproduce the figures in <a>O. Newton et al. (2023)</a>. This Letter appears in The Astrophysical Journal Letters. A full description of the files and data contained in this repository is provided in the README file. What's Changed Bump contourpy from 1.0.6 to 1.0.7 by @dependabot in <a>https://github.com/Musical-Neutron/lg_field_udgs/pull/16</a> Bump h5py from 3.7.0 to 3.8.0 by @dependabot in <a>https://github.com/Musical-Neutron/lg_field_udgs/pull/17</a> Bump fonttools from 4.38.0 to 4.39.2 by @dependabot in <a>https://github.com/Musical-Neutron/lg_field_udgs/pull/18</a> Fixing matplotlib warnings raised when running fig_04_plot_luminosity_functions.py and fig_05_plot_mock_sdss_observations.py Adding ApJL DOIs to README Full Changelog: <a>https://github.com/Musical-Neutron/lg_field_udgs/compare/v1.0...v1.1</a>"
+  },
+  "authors": [
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Center for Theoretical Physics, Polish Academy of Sciences"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0002-2769-9507"
+      },
+      "name": {
+        "given_name": "Oliver",
+        "pubraw": "Oliver Newton",
+        "surname": "Newton"
+      }
+    }
+  ],
+  "doctype": "software",
+  "keywords": [
+    {
+      "keyString": "Ultra-diffuse galaxies",
+      "keySystem": "datacite"
+    },
+    {
+      "keyString": "Milky Way",
+      "keySystem": "datacite"
+    },
+    {
+      "keyString": "Andromeda",
+      "keySystem": "datacite"
+    },
+    {
+      "keyString": "Local Group",
+      "keySystem": "datacite"
+    },
+    {
+      "keyString": "HESTIA",
+      "keySystem": "datacite"
+    },
+    {
+      "keyString": "Python",
+      "keySystem": "datacite"
+    }
+  ],
+  "openAccess": {
+    "license": "GNU Affero General Public License v3.0",
+    "licenseURL": "https://opensource.org/licenses/AGPL-3.0",
+    "open": true
+  },
+  "persistentIDs": [
+    {
+      "DOI": "10.5281/zenodo.7757685"
+    }
+  ],
+  "pubDate": {
+    "electrDate": "2023",
+    "otherDate": [
+      {
+        "otherDateType": "Issued",
+        "otherDateValue": "2023-03-21"
+      }
+    ]
+  },
+  "publication": {
+    "pubYear": "2023",
+    "publisher": "Zenodo"
+  },
+  "recordData": {
+    "createdTime": "",
+    "loadFormat": "OtherXML",
+    "loadLocation": "",
+    "loadType": "fromFile",
+    "parsedTime": "",
+    "recordOrigin": ""
+  },
+  "references": [
+    "10.1093/mnras/staa375",
+    "10.1088/0004-6256/144/1/4",
+    "10.3847/1538-4357/ac91cb",
+    "10.1086/589911"
+  ],
+  "relatedTo": [
+    {
+      "relatedDocID": "https://github.com/Musical-Neutron/lg_field_udgs/tree/v1.1",
+      "relationship": "supplement"
+    },
+    {
+      "relatedDocID": "10.48550/arXiv.2212.05066",
+      "relationship": "supplement"
+    },
+    {
+      "relatedDocID": "10.3847/2041-8213/acc2bb",
+      "relationship": "supplement"
+    },
+    {
+      "relatedDocID": "10.5281/zenodo.7729995",
+      "relationship": "related"
+    },
+    {
+      "relatedDocID": "https://zenodo.org/communities/aas",
+      "relationship": "related"
+    },
+    {
+      "relatedDocID": "https://zenodo.org/communities/astronomy-general",
+      "relationship": "related"
+    }
+  ],
+  "title": {
+    "textEnglish": "HESTIA Local Group field UDG paper scripts & reduced data"
+  }
+}

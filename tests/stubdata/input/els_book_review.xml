@@ -1,0 +1,62 @@
+<doc:document xmlns:doc="http://www.elsevier.com/xml/document/schema" xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema" xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dct="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/" xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/" xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/" xmlns:cja="http://www.elsevier.com/xml/cja/schema" xmlns:ja="http://www.elsevier.com/xml/ja/schema" xmlns:bk="http://www.elsevier.com/xml/bk/schema" xmlns:ce="http://www.elsevier.com/xml/common/schema" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:cals="http://www.elsevier.com/xml/common/cals/schema" xmlns:tb="http://www.elsevier.com/xml/common/table/schema" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema" xmlns:xlink="http://www.w3.org/1999/xlink"><rdf:RDF><rdf:Description rdf:about="http://dx.doi.org/10.1016/j.enbuild.2006.02.002"><dct:format>application/xml</dct:format><dct:title>D. Clements-Croome Intelligent Buildings: Design, Management and Operation 2004 Thomas Telford Publishing (424pp., &#163;49.50, ISBN 0-7277-3266-8)</dct:title><dct:creator>Branislav Todorovic</dct:creator><dct:description>Energy &amp; Buildings 38 (2006) 712-713. doi:10.1016/j.enbuild.2006.02.002</dct:description><prism:aggregationType>journal</prism:aggregationType><prism:publicationName>Energy &amp; Buildings</prism:publicationName><prism:copyright>Copyright @ 2006 Elsevier B.V. All rights reserved.</prism:copyright><dct:publisher>Elsevier B.V.</dct:publisher><prism:issn>0378-7788</prism:issn><prism:volume>38</prism:volume><prism:number>6</prism:number><prism:coverDisplayDate/><prism:coverDate>2006</prism:coverDate><prism:pageRange>712-713</prism:pageRange><prism:startingPage>712</prism:startingPage><prism:endingPage>713</prism:endingPage><prism:doi>10.1016/j.enbuild.2006.02.002</prism:doi><prism:url>http://dx.doi.org/10.1016/j.enbuild.2006.02.002</prism:url><dct:identifier>doi:10.1016/j.enbuild.2006.02.002</dct:identifier><dp:availableOnlineInformation><bam:availableOnline xmlns:cp="http://www.elsevier.com/xml/common/consyn-properties/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2006-03-13T00:00:00.000Z</bam:availableOnline></dp:availableOnlineInformation></rdf:Description></rdf:RDF><dp:document-properties><dp:aggregation-type>Journals</dp:aggregation-type><dp:version-number>S300.1</dp:version-number></dp:document-properties><ja:book-review version="5.0" xml:lang="en" docsubtype="brv">
+		<ja:item-info>
+			<ja:jid>ENB</ja:jid>
+			<ja:aid>2040</ja:aid>
+			<ce:pii>S0378-7788(06)00035-1</ce:pii>
+			<ce:doi>10.1016/j.enbuild.2006.02.002</ce:doi>
+			<ce:copyright type="full-transfer" year="2006">Elsevier B.V.</ce:copyright>
+		</ja:item-info>
+		<ja:book-review-head>
+			<ce:dochead>
+				<ce:textfn>Book review</ce:textfn>
+			</ce:dochead>
+			<sb:reference>
+				<sb:host>
+					<sb:edited-book>
+						<sb:editors>
+							<sb:editor>
+								<ce:given-name>D.</ce:given-name>
+								<ce:surname>Clements-Croome</ce:surname>
+							</sb:editor>
+						</sb:editors>
+						<sb:title>
+							<sb:maintitle>Intelligent Buildings: Design, Management and Operation</sb:maintitle>
+						</sb:title>
+						<sb:date>2004</sb:date>
+						<sb:publisher>
+							<sb:name>Thomas Telford Publishing</sb:name>
+						</sb:publisher>
+					</sb:edited-book>
+				</sb:host>
+				<sb:comment>(424pp., &#163;49.50, ISBN 0-7277-3266-8)</sb:comment>
+			</sb:reference>
+			<ce:author-group>
+				<ce:author>
+					<ce:given-name>Branislav</ce:given-name>
+					<ce:surname>Todorovic</ce:surname>
+					<ce:roles>Editor</ce:roles>
+					<ce:cross-ref refid="cor1">
+						<ce:sup loc="post">&#x204e;</ce:sup>
+					</ce:cross-ref>
+					<ce:e-address type="email">todorob@eunet.yu</ce:e-address>
+				</ce:author>
+				<ce:affiliation>
+					<ce:textfn>Mechanical Engineering, University of Belgrade, 27 Marto 80, 11000 Belgrade, Serbia and Montenegro</ce:textfn>
+				</ce:affiliation>
+				<ce:correspondence id="cor1">
+					<ce:label>&#x204e;</ce:label>
+					<ce:text>Tel.: +381 11 3370363; fax: +381 3370364.</ce:text>
+				</ce:correspondence>
+			</ce:author-group>
+			<ce:date-received day="17" month="6" year="2005"/>
+		</ja:book-review-head>
+		<ja:body view="all">
+			<ce:sections>
+				<ce:para view="all">The editor, Professor at the School of Construction Management and Engineering-University of Reading and director of the MSc in Intelligent Buildings, writing the first chapter, gives a perfect global view of intelligence. He states &#x201c;the nature of intelligence is one of the big science questions&#x201d;. There are many definitions given of natural and artificial intelligence related to several descriptions of intelligent buildings. Of course building intelligence will change with further developments in information and communication technologies, robotics, smart materials, sustainable issues technology and social change. The editor writes another chapter on &#x201c;Building Environment, Architecture and People&#x201d;, with an overview of 250 appropriate references.</ce:para>
+				<ce:para view="all">Separate chapters discuss the intelligence of intelligent buildings; information technology, communication and artificial intelligence; as well as engineering intelligence through nature.</ce:para>
+				<ce:para view="all">The second part of the book concerns &#x201c;management and operation&#x201d;, with financial analysis and investment appraisal including organizational strategy; the management strategy of design and of construction projects; as well as facilities management. Two case studies are presented in this part, and they are very interesting and useful.</ce:para>
+				<ce:para view="all">In Part III sustainable futures are covered with the relevant trends of culture of living and working which have changed enormously. The final chapter, again written by Professor Clements-Croome, presents &#x201c;sustainable architecture&#x201d;, giving a message which relates to all factors influencing a building: &#x201c;architecture, like music, needs technical resources, but at a higher level it requires interpretation to ignite the spirit of the users&#x201d;.</ce:para>
+				<ce:para view="all">The book with its philosophical view should be read by all specialists who are engaged in building, from the initial planning of a building to the end of its life time.</ce:para>
+			</ce:sections>
+		</ja:body>
+	</ja:book-review></doc:document>

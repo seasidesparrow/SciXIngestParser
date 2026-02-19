@@ -1,0 +1,150 @@
+{
+  "abstract": {
+    "textEnglish": "Morphotypes of plant macrofossil assemblages of the basal unit of the Upper Cretaceous (Turonian?\u2013Santonian) Comox Formation, Nanaimo Group, Vancouver Island, were investigated to provide insight into the character of the macroflora, environment of deposition, and paleogeography of Vancouver Island. Three floristic assemblages were documented: one dominated by angiosperm morphotypes such as Platanus, Menispermites, and Zizyphus-like leaves; another dominated by gymnosperm morphotypes such as those synonymous with Glyptostrobus comoxensis Bell and Pseudoctenis latipennis (Heer) Seward; and a third assemblage transitional between the previous two. These assemblages suggest the Saanich Member was likely deposited in a barrier island \u2013 estuarine floodplain complex with fluvial sedimentary input. The macrofloral assemblage also includes many endemic taxa, suggesting a barrier to floral migration between the paleocontinent and the Vancouver Island precursor during the Upper Cretaceous, which supports the existence of a third floristic province in North America during the Upper Cretaceous."
+  },
+  "authors": [
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "School of Earth and Ocean Sciences, University of Victoria, P.O. Box 3065 STN CSC, Victoria, BC V8W 3V6, Canada."
+        },
+        {
+          "affPubRaw": "Royal British Columbia Museum, 675 Belleville Street, Victoria, BC V8W 9W2, Canada."
+        }
+      ],
+      "attrib": {
+        "corresp": true,
+        "email": "jonssonc@uvic.ca"
+      },
+      "name": {
+        "given_name": "Carl H.W.",
+        "surname": "Jonsson"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "School of Earth and Ocean Sciences, University of Victoria, P.O. Box 3065 STN CSC, Victoria, BC V8W 3V6, Canada."
+        },
+        {
+          "affPubRaw": "Department of Biology, University of Victoria, P.O. Box 3020 STN CSC, Victoria, BC V8W 3N5, Canada."
+        },
+        {
+          "affPubRaw": "Royal British Columbia Museum, 675 Belleville Street, Victoria, BC V8W 9W2, Canada."
+        }
+      ],
+      "name": {
+        "given_name": "Richard J.",
+        "surname": "Hebda"
+      }
+    }
+  ],
+  "copyright": {
+    "statement": "Published by NRC Research Press",
+    "status": true
+  },
+  "editorialHistory": {
+    "acceptedDate": "2015-04-09",
+    "receivedDates": [
+      "2014-10-09"
+    ]
+  },
+  "otherContributor": [
+    {
+      "contrib": {
+        "name": {
+          "given_name": "Konrad",
+          "surname": "Gajewski"
+        }
+      },
+      "role": "assoc-editor"
+    }
+  ],
+  "pagination": {
+    "firstPage": "519",
+    "lastPage": "536",
+    "pageRange": "519-536"
+  },
+  "persistentIDs": [
+    {
+      "DOI": "10.1139/cjes-2014-0180"
+    }
+  ],
+  "pubDate": {
+    "electrDate": "2015-07-02",
+    "printDate": "2015-00-00"
+  },
+  "publication": {
+    "ISSN": [
+      {
+        "issnString": "0008-4077",
+        "pubtype": "ppub"
+      },
+      {
+        "issnString": "1480-3313",
+        "pubtype": "epub"
+      }
+    ],
+    "issueNum": "7",
+    "pubName": "Canadian Journal of Earth Sciences",
+    "pubYear": "2015",
+    "publisher": "NRC Research Press",
+    "volumeNum": "52"
+  },
+  "publisherIDs": [
+    {
+      "Identifier": "cjes-2014-0180",
+      "attribute": "manuscript"
+    },
+    {
+      "Identifier": "cjes-2014-0180",
+      "attribute": "publisher-id"
+    }
+  ],
+  "recordData": {
+    "createdTime": "",
+    "loadFormat": "JATS",
+    "loadLocation": "",
+    "loadType": "fromFile",
+    "parsedTime": "",
+    "recordOrigin": ""
+  },
+  "references": [
+    "<ref id=\"refg1\"> <mixed-citation id=\"ref1\" publication-type=\"other-ref\" xlink:type=\"simple\">Bell, W.A. 1949. Uppermost Cretaceous and Paleocene floras of Western Alberta. Geological Survey Bulletin 13. Canada Department of Mines and Resources. 231 pp.</mixed-citation> </ref>",
+    "<ref id=\"refg2\"> <mixed-citation id=\"ref2\" publication-type=\"other-ref\" xlink:type=\"simple\">Bell, W.A. 1957. Flora of the Upper Cretaceous Nanaimo Group of Vancouver Island, British Columbia. Geological Survey of Canada Memoir 293. 84 pp, 67 pls.</mixed-citation> </ref>",
+    "<ref id=\"refg3\"> <mixed-citation id=\"ref3\" publication-type=\"journal\" xlink:type=\"simple\"> <person-group person-group-type=\"author\"> <name name-style=\"western\"> <surname>Boyd</surname> <given-names>A.</given-names> </name> </person-group> <year>1993</year>. \t\t\t\t\t<article-title>Paleodepositional setting of the Late Cretaceous Paut\u00fbt flora from West Greenland as determined by sedimentological and plant taphonomical data</article-title>. \t\t\t\t\t<source>Palaeogeography, Palaeoclimatology, Palaeoecology</source>, \t\t\t\t\t<volume>103</volume>: \t\t\t\t\t<fpage>251</fpage>\u2013 \t\t\t\t\t<lpage>280</lpage>. \t\t\t\t\t<pub-id pub-id-type=\"doi\">10.1016/0031-0182(93)90145-9</pub-id>. \t\t\t\t</mixed-citation> </ref>",
+    "<ref id=\"refg4\"> <mixed-citation id=\"ref4\" publication-type=\"journal\" xlink:type=\"simple\"> <person-group person-group-type=\"author\"> <name name-style=\"western\"> <surname>Bradley</surname> <given-names>R.K.</given-names> </name> </person-group> <year>1973</year>. \t\t\t\t\t<article-title>Upper Cretaceous plant fossils from mainland coastal deposits north of Vancouver, British Columbia, Canada</article-title>. \t\t\t\t\t<source>Canadian Journal of Earth Sciences</source>, \t\t\t\t\t<volume>10</volume>( \t\t\t\t\t<issue>12</issue>): \t\t\t\t\t<fpage>1841</fpage>\u2013 \t\t\t\t\t<lpage>1843</lpage>. \t\t\t\t\t<pub-id pub-id-type=\"doi\">10.1139/e73-179</pub-id>. \t\t\t\t</mixed-citation> </ref>",
+    "<ref id=\"refg5\"> <mixed-citation id=\"ref5\" publication-type=\"journal\" xlink:type=\"simple\"> <person-group person-group-type=\"author\"> <name name-style=\"western\"> <surname>Braman</surname> <given-names>D.R.</given-names> </name> <name name-style=\"western\"> <surname>Sweet</surname> <given-names>A.R.</given-names> </name> </person-group> <year>2012</year>. \t\t\t\t\t<article-title>Biostratigraphically useful Late Cretaceous\u2013Paleocene Terrestrial palynomorphs from the Canadian Western Interior Sedimentary Basin</article-title>. \t\t\t\t\t<source>Palynology</source>, \t\t\t\t\t<volume>36</volume>( \t\t\t\t\t<supplement>suppl. 1</supplement>): \t\t\t\t\t<fpage>8</fpage>\u2013 \t\t\t\t\t<lpage>35</lpage>. \t\t\t\t\t<pub-id pub-id-type=\"doi\">10.1080/01916122.2011.642127</pub-id>. \t\t\t\t</mixed-citation> </ref>",
+    "<ref id=\"refg6\"> <mixed-citation id=\"ref6\" publication-type=\"journal\" xlink:type=\"simple\"> <person-group person-group-type=\"author\"> <name name-style=\"western\"> <surname>Brink</surname> <given-names>K.S.</given-names> </name> <name name-style=\"western\"> <surname>Stockey</surname> <given-names>R.A.</given-names> </name> <name name-style=\"western\"> <surname>Beard</surname> <given-names>G.</given-names> </name> <name name-style=\"western\"> <surname>Wehr</surname> <given-names>W.C.</given-names> </name> </person-group> <year>2009</year>. \t\t\t\t\t<article-title> <italic>Cunninghamia hornbyensis</italic> sp. nov.: permineralized twigs and leaves from the Upper Cretaceous of Hornby Island, British Columbia, Canada \t\t\t\t\t</article-title>. \t\t\t\t\t<source>Review of Palaeobotany and Palynology</source>, \t\t\t\t\t<volume>155</volume>( \t\t\t\t\t<issue>1</issue>): \t\t\t\t\t<fpage>89</fpage>\u2013 \t\t\t\t\t<lpage>98</lpage>. \t\t\t\t</mixed-citation> </ref>",
+    "<ref id=\"refg7\"> <mixed-citation id=\"ref7\" publication-type=\"journal\" xlink:type=\"simple\"> <person-group person-group-type=\"author\"> <name name-style=\"western\"> <surname>Coiffard</surname> <given-names>C.</given-names> </name> <name name-style=\"western\"> <surname>Gomez</surname> <given-names>B.</given-names> </name> </person-group> <year>2010</year>. \t\t\t\t\t<article-title>The rise to dominance of the angiosperm kingdom: dispersal, habitat widening and evolution during the Late Cretaceous of Europe</article-title>. \t\t\t\t\t<source>Lethaia</source>, \t\t\t\t\t<volume>43</volume>: \t\t\t\t\t<fpage>164</fpage>\u2013 \t\t\t\t\t<lpage>169</lpage>. \t\t\t\t\t<pub-id pub-id-type=\"doi\">10.1111/j.1502-3931.2009.00181.x</pub-id>. \t\t\t\t</mixed-citation> </ref>",
+    "<ref id=\"refg8\"> <mixed-citation id=\"ref8\" publication-type=\"journal\" xlink:type=\"simple\"> <person-group person-group-type=\"author\"> <name name-style=\"western\"> <surname>Coiffard</surname> <given-names>C.</given-names> </name> <name name-style=\"western\"> <surname>Gomez</surname> <given-names>B.</given-names> </name> <name name-style=\"western\"> <surname>Kvacek</surname> <given-names>J.</given-names> </name> <name name-style=\"western\"> <surname>Thevenard</surname> <given-names>F.</given-names> </name> </person-group> <year>2006</year>. \t\t\t\t\t<article-title>Early angiosperm ecology: evidence from the Albian\u2013Cenomanian of Europe</article-title>. \t\t\t\t\t<source>Annals of Botany</source>, \t\t\t\t\t<volume>98</volume>: \t\t\t\t\t<fpage>495</fpage>\u2013 \t\t\t\t\t<lpage>502</lpage>. \t\t\t\t\t<pub-id pub-id-type=\"doi\">10.1093/aob/mcl125</pub-id>. \t\t\t\t</mixed-citation> </ref>",
+    "<ref id=\"refg9\"> <mixed-citation id=\"ref9\" publication-type=\"journal\" xlink:type=\"simple\"> <person-group person-group-type=\"author\"> <name name-style=\"western\"> <surname>Coiffard</surname> <given-names>C.</given-names> </name> <name name-style=\"western\"> <surname>Gomez</surname> <given-names>B.</given-names> </name> <name name-style=\"western\"> <surname>Thevenard</surname> <given-names>F.</given-names> </name> </person-group> <year>2007</year>. \t\t\t\t\t<article-title>Early Cretaceous angiosperm invasion of Western Europe and major environmental changes</article-title>. \t\t\t\t\t<source>Annals of Botany</source>, \t\t\t\t\t<volume>100</volume>: \t\t\t\t\t<fpage>545</fpage>\u2013 \t\t\t\t\t<lpage>553</lpage>. \t\t\t\t\t<pub-id pub-id-type=\"doi\">10.1093/aob/mcm160</pub-id>. \t\t\t\t</mixed-citation> </ref>",
+    "<ref id=\"refg10\"> <mixed-citation id=\"ref10\" publication-type=\"journal\" xlink:type=\"simple\"> <person-group person-group-type=\"author\"> <name name-style=\"western\"> <surname>Coiffard</surname> <given-names>C.</given-names> </name> <name name-style=\"western\"> <surname>Gomez</surname> <given-names>B.</given-names> </name> <name name-style=\"western\"> <surname>Daviero-Gomez</surname> <given-names>V.</given-names> </name> <name name-style=\"western\"> <surname>Dilcher</surname> <given-names>D.L.</given-names> </name> </person-group> <year>2012</year>. \t\t\t\t\t<article-title>Rise to dominance of angiosperm pioneers in European Cretaceous environments</article-title>. \t\t\t\t\t<source>Proceedings of the National Academy of Science</source>, \t\t\t\t\t<volume>109</volume>( \t\t\t\t\t<issue>51</issue>): \t\t\t\t\t<fpage>20955</fpage>\u2013 \t\t\t\t\t<lpage>20959</lpage>. \t\t\t\t\t<pub-id pub-id-type=\"doi\">10.1073/pnas.1218633110</pub-id>. \t\t\t\t</mixed-citation> </ref>",
+    "<ref id=\"refg11\"> <mixed-citation id=\"ref11\" publication-type=\"journal\" xlink:type=\"simple\"> <person-group person-group-type=\"author\"> <name name-style=\"western\"> <surname>Craggs</surname> <given-names>H.J.</given-names> </name> </person-group> <year>2005</year>. \t\t\t\t\t<article-title>Late Cretaceous climate signal of the Northern Pekulney Range Flora of northeastern Russia</article-title>. \t\t\t\t\t<source>Palaeogeography, Palaeoclimatology, Palaeoecology</source>, \t\t\t\t\t<volume>217</volume>( \t\t\t\t\t<issue>1\u20132</issue>): \t\t\t\t\t<fpage>25</fpage>\u2013 \t\t\t\t\t<lpage>46</lpage>. \t\t\t\t\t<pub-id pub-id-type=\"doi\">10.1016/j.palaeo.2004.11.014</pub-id>. \t\t\t\t</mixed-citation> </ref>",
+    "<ref id=\"refg12\"> <mixed-citation id=\"ref12\" publication-type=\"journal\" xlink:type=\"simple\"> <person-group person-group-type=\"author\"> <name name-style=\"western\"> <surname>Crane</surname> <given-names>P.R.</given-names> </name> <name name-style=\"western\"> <surname>Lidgard</surname> <given-names>S.</given-names> </name> </person-group> <year>1989</year>. \t\t\t\t\t<article-title>Angiosperm diversification and paleolatitudinal gradients in Cretaceous floristic diversity</article-title>. \t\t\t\t\t<source>Science</source>, \t\t\t\t\t<volume>246</volume>: \t\t\t\t\t<fpage>675</fpage>\u2013 \t\t\t\t\t<lpage>678</lpage>. \t\t\t\t\t<pub-id pub-id-type=\"doi\">10.1126/science.246.4930.675</pub-id>. \t\t\t\t\t<pub-id pub-id-type=\"pmid\">17833420</pub-id>. \t\t\t\t</mixed-citation> </ref>",
+    "<ref id=\"refg13\"> <mixed-citation id=\"ref13\" publication-type=\"journal\" xlink:type=\"simple\"> <person-group person-group-type=\"author\"> <name name-style=\"western\"> <surname>Dawson</surname> <given-names>J.W.</given-names> </name> </person-group> <year>1883</year>. \t\t\t\t\t<article-title>On the Cretaceous and Tertiary floras of British Columbia and the Northwest Territory</article-title>. \t\t\t\t\t<source>Transactions of the Royal Society of Canada</source>, \t\t\t\t\t<volume>1</volume>( \t\t\t\t\t<issue>4</issue>): \t\t\t\t\t<fpage>15</fpage>\u2013 \t\t\t\t\t<lpage>34</lpage>, \t\t\t\t\t<comment>pls. 1\u20138</comment>. \t\t\t\t</mixed-citation> </ref>",
+    "<ref id=\"refg14\"> <mixed-citation id=\"ref14\" publication-type=\"journal\" xlink:type=\"simple\"> <person-group person-group-type=\"author\"> <name name-style=\"western\"> <surname>Dawson</surname> <given-names>J.W.</given-names> </name> </person-group> <year>1893</year>. \t\t\t\t\t<article-title>On new species of Cretaceous plants from Vancouver Island</article-title>. \t\t\t\t\t<source>Transactions of the Royal Society of Canada</source>, \t\t\t\t\t<volume>11</volume>( \t\t\t\t\t<issue>4</issue>): \t\t\t\t\t<fpage>53</fpage>\u2013 \t\t\t\t\t<lpage>72</lpage>, \t\t\t\t\t<comment>pls. 5\u201314</comment>. \t\t\t\t</mixed-citation> </ref>",
+    "<ref id=\"refg15\"> <mixed-citation id=\"ref15\" publication-type=\"other-ref\" xlink:type=\"simple\">Ellis, B., Daly, D.C., Hickey, L.J., Johnson, K.R., Mitchell, J.D., Wilf, P., and Wing, S.L. 2009. Manual of leaf architecture. Cornell University Press. 216 pp.</mixed-citation> </ref>",
+    "<ref id=\"refg16\"> <mixed-citation id=\"ref16\" publication-type=\"journal\" xlink:type=\"simple\"> <person-group person-group-type=\"author\"> <name name-style=\"western\"> <surname>Frederiksen</surname> <given-names>N.O.</given-names> </name> </person-group> <year>1987</year>. \t\t\t\t\t<article-title>Tectonic and paleogeographic setting of a new latest Cretaceous floristic province in North America</article-title>. \t\t\t\t\t<source>Palaios</source>, \t\t\t\t\t<volume>2</volume>( \t\t\t\t\t<issue>6</issue>): \t\t\t\t\t<fpage>533</fpage>\u2013 \t\t\t\t\t<lpage>542</lpage>. \t\t\t\t</mixed-citation> </ref>",
+    "<ref id=\"refg17\"> <mixed-citation id=\"ref17\" publication-type=\"other-ref\" xlink:type=\"simple\">Haggart, J.W. 1991. A new assessment of the age of the basal Nanaimo Group, Gulf Islands, British Columbia. \t\t\t\t\t<italic>In</italic> Current Research, Part E; Geological Survey of Canada, Paper 91-1E. pp. 77\u201382. \t\t\t\t</mixed-citation> </ref>",
+    "<ref id=\"refg18\"> <mixed-citation id=\"ref18\" publication-type=\"other-ref\" xlink:type=\"simple\">Haggart, J.W. 1994. Turonian (Upper Cretaceous) strata and biochronology of southern Gulf Islands, British Columbia. \t\t\t\t\t<italic>In</italic> Current Research 1994-A. Geological Survey of Canada. pp. 159\u2013164. \t\t\t\t</mixed-citation> </ref>",
+    "<ref id=\"refg19\"> <mixed-citation id=\"ref19\" publication-type=\"journal\" xlink:type=\"simple\"> <person-group person-group-type=\"author\"> <name name-style=\"western\"> <surname>Haggart</surname> <given-names>J.W.</given-names> </name> <name name-style=\"western\"> <surname>Ward</surname> <given-names>P.D.</given-names> </name> <name name-style=\"western\"> <surname>Orr</surname> <given-names>W.</given-names> </name> </person-group> <year>2005</year>. \t\t\t\t\t<article-title>Turonian (Upper Cretaceous) lithostratigraphy and biochronology, southern Gulf Islands, British Columbia, and northern San Juan Islands, Washington State</article-title>. \t\t\t\t\t<source>Canadian Journal of Earth Sciences</source>, \t\t\t\t\t<volume>42</volume>( \t\t\t\t\t<issue>11</issue>): \t\t\t\t\t<fpage>2001</fpage>\u2013 \t\t\t\t\t<lpage>2020</lpage>. \t\t\t\t\t<pub-id pub-id-type=\"doi\">10.1139/e05-066</pub-id>. \t\t\t\t</mixed-citation> </ref>",
+    "<ref id=\"refg20\"> <mixed-citation id=\"ref20\" publication-type=\"journal\" xlink:type=\"simple\"> <person-group person-group-type=\"author\"> <name name-style=\"western\"> <surname>Iglesias</surname> <given-names>A.</given-names> </name> <name name-style=\"western\"> <surname>Zamuner</surname> <given-names>A.B.</given-names> </name> <name name-style=\"western\"> <surname>Poir\u00e9</surname> <given-names>D.G.</given-names> </name> <name name-style=\"western\"> <surname>Larriestra</surname> <given-names>F.</given-names> </name> </person-group> <year>2007</year>. \t\t\t\t\t<article-title>Diversity, taphonomy and palaeoecology of an angiosperm flora from the Cretaceous (Cenomanian-Coniacian) in southern Patagonia, Argentina</article-title>. \t\t\t\t\t<source>Palaeontology</source>, \t\t\t\t\t<volume>50</volume>( \t\t\t\t\t<issue>2</issue>): \t\t\t\t\t<fpage>445</fpage>\u2013 \t\t\t\t\t<lpage>466</lpage>. \t\t\t\t\t<pub-id pub-id-type=\"doi\">10.1111/j.1475-4983.2007.00639.x</pub-id>. \t\t\t\t</mixed-citation> </ref>",
+    "<ref id=\"refg21\"> <mixed-citation id=\"ref21\" publication-type=\"journal\" xlink:type=\"simple\"> <person-group person-group-type=\"author\"> <name name-style=\"western\"> <surname>Johnson</surname> <given-names>K.R.</given-names> </name> <name name-style=\"western\"> <surname>Ellis</surname> <given-names>B.</given-names> </name> </person-group> <year>2002</year>. \t\t\t\t\t<article-title>A tropical rainforest in Colorado 1.4 million years after the Cretaceous-Tertiary boundary</article-title>. \t\t\t\t\t<source>Science</source>, \t\t\t\t\t<volume>296</volume>( \t\t\t\t\t<issue>5577</issue>): \t\t\t\t\t<fpage>2379</fpage>\u2013 \t\t\t\t\t<lpage>2383</lpage>. \t\t\t\t\t<pub-id pub-id-type=\"doi\">10.1126/science.1072102</pub-id>. \t\t\t\t</mixed-citation> </ref>",
+    "<ref id=\"refg22\"> <mixed-citation id=\"ref22\" publication-type=\"thesis\" xlink:type=\"simple\">Johnstone, P.D. 2006. Geology of the upper cretaceous Nanaimo Group, southernmost Gulf Islands and adjacent Saanich Peninsula, southwestern British Columbia. M.Sc. thesis, Department of Earth Sciences, Simon Fraser University, Vancouver, B.C.</mixed-citation> </ref>",
+    "<ref id=\"refg23\"> <mixed-citation id=\"ref23\" publication-type=\"journal\" xlink:type=\"simple\"> <person-group person-group-type=\"author\"> <name name-style=\"western\"> <surname>Johnstone</surname> <given-names>P.D.</given-names> </name> <name name-style=\"western\"> <surname>Mustard</surname> <given-names>P.S.</given-names> </name> <name name-style=\"western\"> <surname>MacEachern</surname> <given-names>J.A.</given-names> </name> </person-group> <year>2006</year>. \t\t\t\t\t<article-title>The basal unconformity of the Nanaimo Group, southwestern British Columbia: a Late Cretaceous storm-swept rocky shoreline</article-title>: \t\t\t\t\t<source>Canadian Journal of Earth Sciences</source>, \t\t\t\t\t<volume>43</volume>( \t\t\t\t\t<issue>8</issue>): \t\t\t\t\t<fpage>1165</fpage>\u2013 \t\t\t\t\t<lpage>1181</lpage>. \t\t\t\t\t<pub-id pub-id-type=\"doi\">10.1139/e06-046</pub-id>. \t\t\t\t</mixed-citation> </ref>",
+    "<ref id=\"refg24\"> <mixed-citation id=\"ref24\" publication-type=\"other-ref\" xlink:type=\"simple\">Kenyon, C., Cathyl-Bickford, C.G., and Hoffman, G. 1992. Quinsam and Chute Creek coal deposits (NTS 92F/13, 14). British Columbia Ministry of Energy, Mines and Petroleum Resources, Paper 1992-3. 96 pp.</mixed-citation> </ref>",
+    "<ref id=\"refg25\"> <mixed-citation id=\"ref25\" publication-type=\"journal\" xlink:type=\"simple\"> <person-group person-group-type=\"author\"> <name name-style=\"western\"> <surname>McIver</surname> <given-names>E.E.</given-names> </name> </person-group> <year>1994</year>. \t\t\t\t\t<article-title>An early \t\t\t\t\t\t<italic>Chamaecyparis</italic> (Cupressaceae) from the Late Cretaceous of Vancouver Island, British Columbia, Canada \t\t\t\t\t</article-title>. \t\t\t\t\t<source>Canadian Journal of Botany</source>, \t\t\t\t\t<volume>72</volume>( \t\t\t\t\t<issue>12</issue>): \t\t\t\t\t<fpage>1787</fpage>\u2013 \t\t\t\t\t<lpage>1796</lpage>. \t\t\t\t\t<pub-id pub-id-type=\"doi\">10.1139/b94-220</pub-id>. \t\t\t\t</mixed-citation> </ref>",
+    "<ref id=\"refg26\"> <mixed-citation id=\"ref26\" publication-type=\"book\" xlink:type=\"simple\">Mustard, P.S. 1994. The Upper Cretaceous Nanaimo Group, Georgia Basin, \t\t\t\t\t<italic>In</italic> Geology and geological hazards of the Vancouver Region, Southwestern British Columbia. \t\t\t\t\t<italic>Edited by</italic> J.W.H. Monger. Geological Survey of Canada, pp. 27\u201395. \t\t\t\t</mixed-citation> </ref>",
+    "<ref id=\"refg27\"> <mixed-citation id=\"ref27\" publication-type=\"other-ref\" xlink:type=\"simple\">Pearson, J., and Hebda, R.J. 2006. Paleoclimate of the Late Cretaceous Cranberry Arms flora of Vancouver Island: evidence for latitudinal displacement. \t\t\t\t\t<italic>In</italic> Paleogeography of the North American Cordillera: evidence for and against large-scale displacements. \t\t\t\t\t<italic>Edited</italic> by J. Haggart, R.J. Enkin, and J.W.H. Monger. Geological Association of Canada Special Paper 46. pp. 133\u2013145. \t\t\t\t</mixed-citation> </ref>",
+    "<ref id=\"refg28\"> <mixed-citation id=\"ref28\" publication-type=\"journal\" xlink:type=\"simple\"> <person-group person-group-type=\"author\"> <name name-style=\"western\"> <surname>Peppe</surname> <given-names>D.J.</given-names> </name> <name name-style=\"western\"> <surname>Hickey</surname> <given-names>L.J.</given-names> </name> <name name-style=\"western\"> <surname>Miller</surname> <given-names>I.M.</given-names> </name> <name name-style=\"western\"> <surname>Green</surname> <given-names>W.A.</given-names> </name> </person-group> <year>2008</year>. \t\t\t\t\t<article-title>A morphotype catalogue, floristic analysis and stratigraphic description of the Aspen Shale flora (Cretaceous\u2013Albian) of Southwestern Wyoming</article-title>. \t\t\t\t\t<source>Bulletin of the Peabody Museum of Natural History</source>, \t\t\t\t\t<volume>49</volume>( \t\t\t\t\t<issue>2</issue>): \t\t\t\t\t<fpage>181</fpage>\u2013 \t\t\t\t\t<lpage>208</lpage>. \t\t\t\t\t<pub-id pub-id-type=\"doi\">10.3374/0079-032X-49.2.181</pub-id>. \t\t\t\t</mixed-citation> </ref>",
+    "<ref id=\"refg29\"> <mixed-citation id=\"ref29\" publication-type=\"journal\" xlink:type=\"simple\"> <person-group person-group-type=\"author\"> <name name-style=\"western\"> <surname>Rouse</surname> <given-names>G.E.</given-names> </name> </person-group> <year>1967</year>. \t\t\t\t\t<article-title>A Late Cretaceous plant assemblage from east-central British Columbia: I, fossil leaves</article-title>. \t\t\t\t\t<source>Canadian Journal of Earth Sciences</source>, \t\t\t\t\t<volume>4</volume>( \t\t\t\t\t<issue>6</issue>): \t\t\t\t\t<fpage>1185</fpage>\u2013 \t\t\t\t\t<lpage>1197</lpage>, \t\t\t\t\t<comment>pls. 1\u201313</comment>. \t\t\t\t\t<pub-id pub-id-type=\"doi\">10.1139/e67-080</pub-id>. \t\t\t\t</mixed-citation> </ref>",
+    "<ref id=\"refg30\"> <mixed-citation id=\"ref30\" publication-type=\"conf\" xlink:type=\"simple\">Rouse, G.E., Hopkins, W.S., and Piel, K.M. 1971. Palynology of some Late Cretaceous and Early Tertiary deposits in British Columbia and adjacent Alberta. \t\t\t\t\t<italic>In</italic> Symposium on Palynology of the Late Cretaceous and Early Tertiary, Geological Society of America, Special Paper 127. pp. 213\u2013246. \t\t\t\t</mixed-citation> </ref>",
+    "<ref id=\"refg31\"> <mixed-citation id=\"ref31\" publication-type=\"journal\" xlink:type=\"simple\"> <person-group person-group-type=\"author\"> <name name-style=\"western\"> <surname>Tolliver</surname> <given-names>K.S.</given-names> </name> <name name-style=\"western\"> <surname>Martin</surname> <given-names>D.W.</given-names> </name> <name name-style=\"western\"> <surname>Young</surname> <given-names>D.R.</given-names> </name> </person-group> <year>1997</year>. \t\t\t\t\t<article-title>Freshwater and saltwater flooding response for woody species common to barrier island swales</article-title>. \t\t\t\t\t<source>Wetlands</source>, \t\t\t\t\t<volume>17</volume>( \t\t\t\t\t<issue>1</issue>): \t\t\t\t\t<fpage>10</fpage>\u2013 \t\t\t\t\t<lpage>18</lpage>. \t\t\t\t\t<pub-id pub-id-type=\"doi\">10.1007/BF03160714</pub-id>. \t\t\t\t</mixed-citation> </ref>",
+    "<ref id=\"refg32\"> <mixed-citation id=\"ref32\" publication-type=\"journal\" xlink:type=\"simple\"> <person-group person-group-type=\"author\"> <name name-style=\"western\"> <surname>Tomsich</surname> <given-names>C.S.</given-names> </name> <name name-style=\"western\"> <surname>McCarthy</surname> <given-names>P.J.</given-names> </name> <name name-style=\"western\"> <surname>Fowell</surname> <given-names>S.J.</given-names> </name> <name name-style=\"western\"> <surname>Sunderlin</surname> <given-names>D.</given-names> </name> </person-group> <year>2010</year>. \t\t\t\t\t<article-title>Paleofloristic and paleoenvironmental information from a Late Cretaceous (Maastrichtian) flora of the lower Cantwell Formation near Sable Mountain, Denali National Park, Alaska</article-title>. \t\t\t\t\t<source>Paleogeography, Palaeoclimatology, Palaeoecology</source>, \t\t\t\t\t<volume>295</volume>( \t\t\t\t\t<issue>3\u20134</issue>): \t\t\t\t\t<fpage>389</fpage>\u2013 \t\t\t\t\t<lpage>408</lpage>. \t\t\t\t\t<pub-id pub-id-type=\"doi\">10.1016/j.palaeo.2010.02.023</pub-id>. \t\t\t\t</mixed-citation> </ref>",
+    "<ref id=\"refg33\"> <mixed-citation id=\"ref33\" publication-type=\"other-ref\" xlink:type=\"simple\">Wolfe, J.A. 1993. A method of obtaining climatic parameters from leaf assemblages. U.S. Geological Survey Bulletin, 2040. 71 pp.</mixed-citation> </ref>"
+  ],
+  "title": {
+    "textEnglish": "Macroflora, paleogeography, and paleoecology of the Upper Cretaceous (Turonian?\u2013Santonian) Saanich Member of the Comox Formation, Saanich Peninsula, British Columbia, Canada"
+  }
+}

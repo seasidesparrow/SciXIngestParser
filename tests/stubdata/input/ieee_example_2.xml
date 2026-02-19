@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE publication PUBLIC "-//IEEE//IDAMS Exchange V2.0.0//EN" "ieee_idams_exchange.dtd">
+<publication>
+	<title>
+		<![CDATA[IEEE Control Systems Letters]]>
+	</title>
+	<titleabbrev>
+		<![CDATA[IEEE Control Syst. Lett.]]>
+	</titleabbrev>
+	<normtitle>
+		<![CDATA[Control Systems Letters, IEEE]]>
+	</normtitle>
+	<publicationinfo>
+		<idamsid>0b000064858a834f</idamsid>
+		<publicationdoi>10.1109/LCSYS.7782633</publicationdoi>
+		<publicationtype>Periodical</publicationtype>
+		<publicationsubtype>IEEE Letter</publicationsubtype>
+		<ieeeabbrev>LCSYS</ieeeabbrev>
+		<acronym acronymtype="PIMS">LCSYS</acronym>
+		<pubstatus>Active</pubstatus>
+		<publicationopenaccess>F</publicationopenaccess>
+		<issn mediatype="Electronic">2475-1456</issn>
+		<pubtopicalbrowseset>
+			<pubtopicalbrowse>Robotics and Control Systems</pubtopicalbrowse>
+		</pubtopicalbrowseset>
+		<copyrightgroup>
+			<copyright>
+				<year>2017</year>
+				<holder>IEEE</holder>
+			</copyright>
+		</copyrightgroup>
+		<publisher>
+			<publishername>IEEE</publishername>
+		</publisher>
+		<holdstatus>Publish</holdstatus>
+		<confgroup>
+			<doi_permission>F</doi_permission>
+		</confgroup>
+		<amsid>7782633</amsid>
+		<coden>ICSLBO</coden>
+	</publicationinfo>
+	<volume>
+		<volumeinfo>
+			<year>2019</year>
+			<volumenum>3</volumenum>
+			<idamsid>0b000064887dd287</idamsid>
+			<issue>
+				<issuenum>2</issuenum>
+				<amsid>8521722</amsid>
+				<issuestatus>Complete</issuestatus>
+			</issue>
+		</volumeinfo>
+		<article>
+			<title>
+				<![CDATA[Efficient Data-Driven Estimation of Passivity Properties]]>
+			</title>
+			<articleinfo>
+				<articleseqnum>32</articleseqnum>
+				<articledoi>10.1109/LCSYS.2018.2887241</articledoi>
+				<idamsid>0b00006488958384</idamsid>
+				<articlestatus>Active</articlestatus>
+				<contenttype>orig-research</contenttype>
+				<articleopenaccess>F</articleopenaccess>
+				<articleshowflag>T</articleshowflag>
+				<articleplagiarizedflag>F</articleplagiarizedflag>
+				<articlenodoiflag>F</articlenodoiflag>
+				<articlecoverimageflag>F</articlecoverimageflag>
+				<articlereferenceflag>F</articlereferenceflag>
+				<articlepeerreviewflag>F</articlepeerreviewflag>
+				<holdstatus>Publish</holdstatus>
+				<issuenum>2</issuenum>
+				<articlecopyright holderisieee="Yes" year="2018">IEEE</articlecopyright>
+				<article_copyright_statement>2475-1456 © 2018 IEEE. Personal use is permitted, but republication/redistribution requires IEEE permission. See http://www.ieee.org/publications_standards/publications/rights/index.html for more information.</article_copyright_statement>
+				<abstract abstracttype="Regular">
+					<![CDATA[In this letter, the estimation of passivity based on data is considered. We extend an existing estimation method that is based on iterative input&#x2013;output experiments and can determine the passivity of systems, but requires many experiments for each iteration. Therefore, we propose a method that reduces the number of experiments. Some of the measurements for the update of the input is omitted in the method, and as a result, the number of experiments is halved.]]>
+				</abstract>
+				<authorgroup>
+					<author role="primary-corresponding">
+						<authororder>0</authororder>
+						<orcid>0000-0003-0912-212X</orcid>
+						<normname>
+							<![CDATA[Tanemura, M.]]>
+						</normname>
+						<nonnormname>
+							<![CDATA[Masaya Tanemura]]>
+						</nonnormname>
+						<firstname>
+							<![CDATA[Masaya]]>
+						</firstname>
+						<unicodefirstname>
+							<![CDATA[Masaya]]>
+						</unicodefirstname>
+						<surname>
+							<![CDATA[Tanemura]]>
+						</surname>
+						<unicodesurname>
+							<![CDATA[Tanemura]]>
+						</unicodesurname>
+						<affiliation>
+							<![CDATA[Graduate School of Engineering, Nagoya University, Nagoya, Japan]]>
+						</affiliation>
+						<authortype>Author</authortype>
+						<email>
+							<![CDATA[masaya.tanemura@mae.nagoya-u.ac.jp]]>
+						</email>
+					</author>
+					<author role="coauthor">
+						<authororder>0</authororder>
+						<orcid>0000-0002-7274-0708</orcid>
+						<normname>
+							<![CDATA[Azuma, S.]]>
+						</normname>
+						<nonnormname>
+							<![CDATA[Shun-ichi Azuma]]>
+						</nonnormname>
+						<firstname>
+							<![CDATA[Shun-ichi]]>
+						</firstname>
+						<unicodefirstname>
+							<![CDATA[Shun-ichi]]>
+						</unicodefirstname>
+						<surname>
+							<![CDATA[Azuma]]>
+						</surname>
+						<unicodesurname>
+							<![CDATA[Azuma]]>
+						</unicodesurname>
+						<affiliation>
+							<![CDATA[Graduate School of Engineering, Nagoya University, Nagoya, Japan]]>
+						</affiliation>
+						<authortype>Author</authortype>
+						<email>
+							<![CDATA[shunichi.azuma@mae.nagoya-u.ac.jp]]>
+						</email>
+					</author>
+				</authorgroup>
+				<date datetype="OriginalPub">
+					<year>2019</year>
+					<month>April</month>
+				</date>
+				<date datetype="preprintdate">
+					<year>2018</year>
+					<month>12</month>
+					<day>17</day>
+				</date>
+				<date datetype="ePub">
+					<year>2019</year>
+					<month>1</month>
+					<day>4</day>
+				</date>
+				<size>750071</size>
+				<filename docpartition="7" filetype="MainPDF">08580387.pdf</filename>
+				<artpagenums endpage="403" startpage="398">398-403</artpagenums>
+				<amsid>8580387</amsid>
+				<keywordset keywordtype="IEEE">
+					<keyword>
+						<keywordterm>
+							<![CDATA[Estimation]]>
+						</keywordterm>
+					</keyword>
+					<keyword>
+						<keywordterm>
+							<![CDATA[Iterative methods]]>
+						</keywordterm>
+					</keyword>
+					<keyword>
+						<keywordterm>
+							<![CDATA[Indexes]]>
+						</keywordterm>
+					</keyword>
+					<keyword>
+						<keywordterm>
+							<![CDATA[Eigenvalues and eigenfunctions]]>
+						</keywordterm>
+					</keyword>
+					<keyword>
+						<keywordterm>
+							<![CDATA[Mathematical model]]>
+						</keywordterm>
+					</keyword>
+					<keyword>
+						<keywordterm>
+							<![CDATA[Aerospace electronics]]>
+						</keywordterm>
+					</keyword>
+					<keyword>
+						<keywordterm>
+							<![CDATA[Linear systems]]>
+						</keywordterm>
+					</keyword>
+				</keywordset>
+				<keywordset keywordtype="IEEEFree">
+					<keyword>
+						<keywordterm>
+							<![CDATA[Data-driven estimation]]>
+						</keywordterm>
+					</keyword>
+					<keyword>
+						<keywordterm>
+							<![CDATA[passivity]]>
+						</keywordterm>
+					</keyword>
+					<keyword>
+						<keywordterm>
+							<![CDATA[gradient methods]]>
+						</keywordterm>
+					</keyword>
+				</keywordset>
+				<fundrefgrp>
+					<fundref>
+						<funder_name>Japan Science and Technology Agency</funder_name>
+						<funder_id>10.13039/501100002241</funder_id>
+						<grant_number>JPMJCR15K1</grant_number>
+					</fundref>
+				</fundrefgrp>
+			</articleinfo>
+		</article>
+	</volume>
+</publication>

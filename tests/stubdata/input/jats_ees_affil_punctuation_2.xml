@@ -1,0 +1,2652 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//Atypon//DTD Atypon Systems Journal Archiving and Interchange NLM DTD v3.0.6 20130326//EN" "atypon-archivearticle3.dtd">
+<article
+	xmlns:xlink="http://www.w3.org/1999/xlink"
+	xmlns:mml="http://www.w3.org/1998/Math/MathML"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table" article-type="research-article" dtd-version="3.0" xml:lang="en">
+	<front>
+		<journal-meta>
+			<journal-id journal-id-type="publisher-id">ees</journal-id>
+			<journal-title-group>
+				<journal-title xml:lang="en">Environmental Engineering Science</journal-title>
+			</journal-title-group>
+			<issn pub-type="ppub">1092-8758</issn>
+			<issn pub-type="epub">1557-9018</issn>
+			<publisher>
+				<publisher-name>Mary Ann Liebert, Inc.</publisher-name>
+				<publisher-loc>
+					<addr-line>140 Huguenot Street, 3rd Floor</addr-line>
+					<addr-line>New Rochelle, NY 10801</addr-line>
+					<country>USA</country>
+				</publisher-loc>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="publisher-id">10.1089/ees.2013.0164</article-id>
+			<article-id pub-id-type="doi">10.1089/ees.2013.0164</article-id>
+			<article-categories>
+				<subj-group subj-group-type="heading">
+					<subject>Original Articles</subject>
+				</subj-group>
+			</article-categories>
+			<title-group>
+				<article-title>Improving Neural Network Prediction Accuracy for PM
+					<sub>10</sub> Individual Air Quality Index Pollution Levels
+				</article-title>
+			</title-group>
+			<contrib-group>
+				<contrib contrib-type="author" xlink:type="simple">
+					<name name-style="western">
+						<surname>Feng</surname>
+						<given-names>Qi</given-names>
+					</name>
+					<x xml:space="preserve">,</x>
+					<xref ref-type="aff" rid="aff1">
+						<sup>1,</sup>
+					</xref>
+					<xref ref-type="corresp" rid="corr1">
+						<sup>*</sup>
+					</xref>
+					<x xml:space="preserve"></x>
+				</contrib>
+				<contrib contrib-type="author" xlink:type="simple">
+					<name name-style="western">
+						<surname>Wu</surname>
+						<given-names>Shengjun</given-names>
+					</name>
+					<x xml:space="preserve">,</x>
+					<xref ref-type="aff" rid="aff2">
+						<sup>2</sup>
+					</xref>
+					<x xml:space="preserve"></x>
+				</contrib>
+				<contrib contrib-type="author" xlink:type="simple">
+					<name name-style="western">
+						<surname>Du</surname>
+						<given-names>Yun</given-names>
+					</name>
+					<x xml:space="preserve">,</x>
+					<xref ref-type="aff" rid="aff1">
+						<sup>1</sup>
+					</xref>
+					<x xml:space="preserve"></x>
+				</contrib>
+				<contrib contrib-type="author" xlink:type="simple">
+					<name name-style="western">
+						<surname>Xue</surname>
+						<given-names>Huaiping</given-names>
+					</name>
+					<x xml:space="preserve">,</x>
+					<xref ref-type="aff" rid="aff1">
+						<sup>1</sup>
+					</xref>
+					<x xml:space="preserve"></x>
+				</contrib>
+				<contrib contrib-type="author" xlink:type="simple">
+					<name name-style="western">
+						<surname>Xiao</surname>
+						<given-names>Fei</given-names>
+					</name>
+					<x xml:space="preserve">,</x>
+					<xref ref-type="aff" rid="aff1">
+						<sup>1</sup>
+					</xref>
+					<x xml:space="preserve"></x>
+				</contrib>
+				<contrib contrib-type="author" xlink:type="simple">
+					<name name-style="western">
+						<surname>Ban</surname>
+						<given-names>Xuan</given-names>
+					</name>
+					<x xml:space="preserve">,</x>
+					<xref ref-type="aff" rid="aff1">
+						<sup>1</sup>
+					</xref>
+					<x xml:space="preserve"> and </x>
+				</contrib>
+				<contrib contrib-type="author" xlink:type="simple">
+					<name name-style="western">
+						<surname>Li</surname>
+						<given-names>Xiaodong</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff1">
+						<sup>1</sup>
+					</xref>
+				</contrib>
+				<aff id="aff1">
+					<label>
+						<sup>1</sup>
+					</label>Key Laboratory for Environment and Disaster Monitoring and Evaluation, Institute of Geodesy and Geophysics, Chinese Academy of Sciences, Wuhan,
+					<country>China</country>.
+				</aff>
+				<aff id="aff2">
+					<label>
+						<sup>2</sup>
+					</label>Chongqing Institute of Green and Intelligent Technology, Chinese Academy of Sciences, Chongqing,
+					<country>China</country>.
+				</aff>
+			</contrib-group>
+			<author-notes>
+				<corresp id="corr1">
+					<label>
+						<sup>*</sup>
+					</label>
+					<italic>Corresponding author:</italic> Key Laboratory for Environment and Disaster Monitoring and Evaluation,
+					<institution xlink:type="simple">Institute of Geodesy and Geophysics</institution>, Chinese Academy of Sciences, No. 340 Xudong Road, Wuhan 430077, China.
+					<italic>Phone:</italic> +862768881075;
+					<italic>Fax:</italic> +862768881362;
+					<italic>E-mail:</italic>
+					<email xlink:href="mailto:fengqi@asch.whigg.ac.cn" xlink:type="simple">fengqi@asch.whigg.ac.cn</email>
+				</corresp>
+			</author-notes>
+			<pub-date pub-type="ppub">
+				<day>01</day>
+				<month>12</month>
+				<year>2013</year>
+				<string-date>December 2013</string-date>
+			</pub-date>
+			<volume>30</volume>
+			<issue>12</issue>
+			<fpage>725</fpage>
+			<lpage>732</lpage>
+			<history>
+				<date date-type="received">
+					<day>22</day>
+					<month>05</month>
+					<year>2013</year>
+					<string-date>
+						<italic>Received: May 22, 2013</italic>
+					</string-date>
+				</date>
+				<date date-type="accepted">
+					<day>10</day>
+					<month>09</month>
+					<year>2013</year>
+					<string-date>
+						<italic>Accepted in revised form: September 10, 2013</italic>
+					</string-date>
+				</date>
+			</history>
+			<permissions>
+				<copyright-statement>Copyright 2013, Mary Ann Liebert, Inc.</copyright-statement>
+				<copyright-year>2013</copyright-year>
+			</permissions>
+			<self-uri content-type="pdf" xlink:href="ees.2013.0164.pdf" xlink:type="simple"></self-uri>
+			<abstract>
+				<title>Abstract</title>
+				<p>Fugitive dust deriving from construction sites is a serious local source of particulate matter (PM) that leads to air pollution in cities undergoing rapid urbanization in China. In spite of this fact, no study has yet been published relating to prediction of high levels of PM with diameters &lt;10 μm (PM
+					<sub>10</sub>) as adjudicated by the Individual Air Quality Index (IAQI) on fugitive dust from nearby construction sites. To combat this problem, the Construction Influence Index (
+					<italic>Ci</italic>) is introduced in this article to improve forecasting models based on three neural network models (multilayer perceptron, Elman, and support vector machine) in predicting daily PM
+					<sub>10</sub> IAQI one day in advance. To obtain acceptable forecasting accuracy, measured time series data were decomposed into wavelet representations and wavelet coefficients were predicted. Effectiveness of these forecasters were tested using a time series recorded between January 1, 2005, and December 31, 2011, at six monitoring stations situated within the urban area of the city of Wuhan, China. Experimental trials showed that the improved models provided low root mean square error values and mean absolute error values in comparison to the original models. In addition, these improved models resulted in higher values of coefficients of determination and
+					<italic>AHPC</italic> (the accuracy rate of high PM
+					<sub>10</sub> IAQI caused by nearby construction activity) compared to the original models when predicting high PM
+					<sub>10</sub> IAQI levels attributable to fugitive dust from nearby construction sites.
+				</p>
+			</abstract>
+			<kwd-group kwd-group-type="author">
+				<title>
+					<bold>
+						<italic>Key words:</italic>
+					</bold>
+				</title>
+				<kwd>construction site</kwd>
+				<x xml:space="preserve">; </x>
+				<kwd>fugitive dust</kwd>
+				<x xml:space="preserve">; </x>
+				<kwd>neural network</kwd>
+				<x xml:space="preserve">; </x>
+				<kwd>PM
+					<sub>10</sub>
+				</kwd>
+				<x xml:space="preserve">; </x>
+				<kwd>pollution</kwd>
+			</kwd-group>
+			<counts>
+				<fig-count count="5"></fig-count>
+				<table-count count="6"></table-count>
+				<equation-count count="3"></equation-count>
+				<ref-count count="34"></ref-count>
+				<page-count count="8"></page-count>
+			</counts>
+		</article-meta>
+	</front>
+	<body>
+		<sec id="s001" sec-type="intro" disp-level="A">
+			<title>Introduction</title>
+			<p>C
+				<sc>onstruction of</sc>
+				<sc>buildings</sc> and infrastructure can produce significant emissions as a result of activities common to construction sites. Throughout the construction period, uncontrolled fugitive dust emissions can present serious environmental, health, and operational problems that impact both site personnel and nearby communities (Ashbaugh
+				<italic>et al.</italic>,
+				<xref ref-type="bibr" rid="B1">2003</xref>; Ho
+				<italic>et al.</italic>,
+				<xref ref-type="bibr" rid="B11">2003</xref>; Dorevitch
+				<italic>et al.</italic>,
+				<xref ref-type="bibr" rid="B6">2006</xref>; Kumar
+				<italic>et al.</italic>,
+				<xref ref-type="bibr" rid="B16">2012</xref>).
+			</p>
+			<p>An air quality index (AQI) is a quantitative measure used to uniformly report on the air quality of different constituents with respect to human health (Ministry of Environmental Protection,
+				<xref ref-type="bibr" rid="B19">2012</xref>). PM
+				<sub>10</sub> (particulate matter with a diameter &lt;10 μm) The Individual Air Quality Index (IAQI) is a conversion of PM
+				<sub>10</sub> (Ministry of Environmental Protection,
+				<xref ref-type="bibr" rid="B19">2012</xref>), one of the primary pollutants afflicting China today (Chan and Yao,
+				<xref ref-type="bibr" rid="B4">2008</xref>; Ministry of Environmental Protection,
+				<xref ref-type="bibr" rid="B18">2009–2011</xref>). It is measured at sampling stations on a 0:500 scale. A PM
+				<sub>10</sub> IAQI result of 100 corresponds to the short-term “PM
+				<sub>10</sub> air quality objective” established by the Air Pollution Control Ordinance. The Ministry of Environmental Protection of the People's Republic of China classifies PM
+				<sub>10</sub> air quality standards into six major categories with respect to PM
+				<sub>10</sub> IAQI values (
+				<xref ref-type="table" rid="T1">Table 1</xref>): I (clean), II (good), III (low-level pollution), IV (mid-level pollution), V (high-level pollution), and VI (serious pollution).
+			</p>
+			<table-wrap id="T1" position="float" orientation="portrait">
+				<label>
+					<sc>Table</sc> 1.
+				</label>
+				<caption>
+					<p>
+						<sc>Daily PM
+							<sub>10</sub> Individual Air Quality Index and Air Quality Management in China
+						</sc>
+					</p>
+				</caption>
+				<oasis:table>
+					<oasis:tgroup cols="5" align="left">
+						<oasis:colspec colnum="1" align="left" colname="col1"></oasis:colspec>
+						<oasis:colspec colnum="2" align="left" colname="col2"></oasis:colspec>
+						<oasis:colspec colnum="3" align="left" colname="col3"></oasis:colspec>
+						<oasis:colspec colnum="4" align="left" colname="col4"></oasis:colspec>
+						<oasis:colspec colnum="5" align="left" colname="col5"></oasis:colspec>
+						<oasis:thead>
+							<oasis:row>
+								<oasis:entry align="left">
+									<italic>PM
+										<sub>10</sub> IAQI
+									</italic>
+								</oasis:entry>
+								<oasis:entry align="center">
+									<italic>Daily PM
+										<sub>10</sub> concentration (μg/m
+										<sup>3</sup>)
+									</italic>
+								</oasis:entry>
+								<oasis:entry align="center">
+									<italic>Air quality classification</italic>
+								</oasis:entry>
+								<oasis:entry align="center">
+									<italic>Health influence</italic>
+								</oasis:entry>
+								<oasis:entry align="center">
+									<italic>Air quality description and management</italic>
+								</oasis:entry>
+							</oasis:row>
+						</oasis:thead>
+						<oasis:tbody>
+							<oasis:row>
+								<oasis:entry align="left">≤50</oasis:entry>
+								<oasis:entry align="center">≤50</oasis:entry>
+								<oasis:entry align="left">I (clean)</oasis:entry>
+								<oasis:entry align="left">No</oasis:entry>
+								<oasis:entry align="left">No action is required.</oasis:entry>
+							</oasis:row>
+							<oasis:row>
+								<oasis:entry align="left">51–100</oasis:entry>
+								<oasis:entry align="center">50–150</oasis:entry>
+								<oasis:entry align="left">II (good)</oasis:entry>
+								<oasis:entry align="left">No</oasis:entry>
+								<oasis:entry align="left">No action is required.</oasis:entry>
+							</oasis:row>
+							<oasis:row>
+								<oasis:entry align="left">101–150</oasis:entry>
+								<oasis:entry align="center">150–250</oasis:entry>
+								<oasis:entry align="left">III (low-level pollution)</oasis:entry>
+								<oasis:entry align="left">Minor but aggravating symptoms in healthy people.</oasis:entry>
+								<oasis:entry align="left">People with respiratory disease should be cautioned when participating in outdoor activities.</oasis:entry>
+							</oasis:row>
+							<oasis:row>
+								<oasis:entry align="left">151–200</oasis:entry>
+								<oasis:entry align="center">250–350</oasis:entry>
+								<oasis:entry align="left">IV (mid-level pollution)</oasis:entry>
+								<oasis:entry align="left">Symptoms start to become evident in healthy people.</oasis:entry>
+								<oasis:entry align="left">Healthy people are advised to take appropriate action to reduce outdoor activities.</oasis:entry>
+							</oasis:row>
+							<oasis:row>
+								<oasis:entry align="left">201–300</oasis:entry>
+								<oasis:entry align="center">350–420</oasis:entry>
+								<oasis:entry align="left">V (high-level pollution)</oasis:entry>
+								<oasis:entry align="left">Patients with heart disease and pulmonary symptoms are notably affected. A reduction in endurance commonly appears in healthy people when active outdoors.</oasis:entry>
+								<oasis:entry align="left">Air pollution is severe. Consequently, the general public is advised to reduce physical exertion and outdoor activities.</oasis:entry>
+							</oasis:row>
+							<oasis:row>
+								<oasis:entry align="left">&gt;300</oasis:entry>
+								<oasis:entry align="center">&gt;420</oasis:entry>
+								<oasis:entry align="left">VI (serious pollution)</oasis:entry>
+								<oasis:entry align="left">Healthy people exhibit obvious and intense symptoms, while participating in outdoor activities. Certain diseases develop prematurely.</oasis:entry>
+								<oasis:entry align="left">The general public is advised to avoid outdoor activities altogether.</oasis:entry>
+							</oasis:row>
+						</oasis:tbody>
+					</oasis:tgroup>
+				</oasis:table>
+				<table-wrap-foot>
+					<fn id="tf1">
+						<p>PM
+							<sub>10</sub>, particulate matter with a diameter &lt;10 μm; IAQI, Individual Air Quality Index.
+						</p>
+					</fn>
+				</table-wrap-foot>
+			</table-wrap>
+			<p>Forecasting models can be used to identify in advance what regulations should be enforced when an AQI exceeds acceptable values. This would prevent unnecessary annoyances and potential health risks to urban inhabitants.</p>
+			<p>Recently, model forecasting using various artificial neural networks (ANNs) has been shown to be an effective tool when planning health warning systems related to air quality and PM
+				<sub>10</sub> pollution (Brunelli
+				<italic>et al.</italic>,
+				<xref ref-type="bibr" rid="B2">2007</xref>). For example, Morabito and Versaci (
+				<xref ref-type="bibr" rid="B20">2003</xref>) have proposed the use of hybrid fuzzy neural systems for modeling and predicting time series of pollutant concentration levels in Italy. Similarly, Kukkonen
+				<italic>et al.</italic> (
+				<xref ref-type="bibr" rid="B15">2003</xref>) compared the performance of five different NN models for the prediction of PM
+				<sub>10</sub> concentrations in Helsinki. Results obtained showed that NN models performed better than linear models. In addition, Jiang
+				<italic>et al.</italic> (
+				<xref ref-type="bibr" rid="B14">2004</xref>) used an enhanced multilayer perceptron (MLP) network to formulate API predictions in Shanghai, while Hooyberghs
+				<italic>et al.</italic> (
+				<xref ref-type="bibr" rid="B12">2005</xref>) described the development of an MLP NN to forecast daily average PM
+				<sub>10</sub> concentrations in urban areas in Belgium one day in advance.
+			</p>
+			<p>One main benefit in PM
+				<sub>10</sub> prediction is its ability to predict pollution events or high pollution concentrations so that local residents or commuters can adjust their activities in response. Accordingly, a few studies have been published on models that can forecast high levels of PM
+				<sub>10</sub> pollution. For example, Grivas
+				<italic>et al.</italic> (
+				<xref ref-type="bibr" rid="B10">2006</xref>) used a genetic algorithm optimization procedure to select input variables to improve MLP network performance. It was reported to perform well in predicting high PM
+				<sub>10</sub> concentrations in Greece. In addition, Perez and Reyes (
+				<xref ref-type="bibr" rid="B25">2006</xref>) developed an integrated ANN to forecast maximum values of daily PM
+				<sub>10</sub> concentrations in Santiago, Chile. Cai
+				<italic>et al.</italic> (
+				<xref ref-type="bibr" rid="B3">2009</xref>) presented methods in forecasting hourly air pollutant concentrations in Guangzhou, China, using a backpropagation NN. Paschalidou
+				<italic>et al.</italic> (
+				<xref ref-type="bibr" rid="B24">2011</xref>) used MLP and radial basis function NN, as well as a principal component regression analysis to make reliable forecasting of hourly PM
+				<sub>10</sub> concentrations in Cyprus. Wu
+				<italic>et al.</italic> (
+				<xref ref-type="bibr" rid="B31">2011</xref>) considered dust storms when improving the Elman network in predicting PM
+				<sub>10</sub> API in Wuhan, China. Nejadkoorki and Baroutian (
+				<xref ref-type="bibr" rid="B22">2012</xref>) used the Levenberg–Marquardt method to optimize MLP, while also incorporating gaseous pollutants to predict maximum PM
+				<sub>10</sub> in Tehran, Iran. Chan and Jian (
+				<xref ref-type="bibr" rid="B5">2013</xref>) used NN to identify key factors (meteorological, traffic, etc.) that affected air pollution levels in Hangzhou, China. Siwek and Osowski (
+				<xref ref-type="bibr" rid="B27">2012</xref>) applied wavelet transform and NN ensemble averaging to improve accuracy of daily PM
+				<sub>10</sub> concentration predictions.
+			</p>
+			<p>While exiting PM
+				<sub>10</sub>, prediction models have utilized these and other variables (meteorological, vehicle exhaust, etc.) as inputs; no one has incorporated fugitive dust from construction sites. Even though construction related activities are considered to be important sources of pollution, particulate sources and how they influence surrounding areas have been less quantified to date (Kumar
+				<italic>et al.</italic>,
+				<xref ref-type="bibr" rid="B16">2012</xref>).
+			</p>
+			<p>Wuhan (
+				<xref ref-type="fig" rid="f1">Fig. 1a</xref>) is the capital of Hubei Province located in central China. The Yangtze River (the third longest river in the world) meets its largest tributary, Hanshui, at Wuhan, dividing the city into three sections: Hankou, Wuchang, and Hanyang—commonly referred to as the Three Towns of Wuhan. The population of Wuhan is ∼8.6 million, and its total area is ∼8500 km
+				<sup>2</sup>. Wuhan is situated within a humid subtropical monsoon climate and is consequently subject to hot and humid summers. As well as being the political, economic, and cultural center of Hubei Province, Wuhan is one of the largest junctions of land, water, and air transportation in China. Accordingly, the city has embarked on a path of rapid urbanization. Data have been published on the air quality problem the city has been experiencing in recent years. With the growing number of construction sites, the contribution from fugitive dust (having an approximate ratio of 30%) to overall PM
+				<sub>10</sub> concentration is increasing (Zhu
+				<italic>et al.</italic>,
+				<xref ref-type="bibr" rid="B34">2009</xref>; Feng
+				<italic>et al.</italic>,
+				<xref ref-type="bibr" rid="B8">2011a</xref>; Yang
+				<italic>et al.</italic>,
+				<xref ref-type="bibr" rid="B32">2011</xref>). Fugitive dust from construction sites has become one of the most significant sources of PM
+				<sub>10</sub> pollution in megacities in China (Chan and Yao,
+				<xref ref-type="bibr" rid="B4">2008</xref>).
+				<xref ref-type="fig" rid="f2">Figure 2</xref> and
+				<xref ref-type="table" rid="T2">Table 2</xref> list some information regarding construction sites surrounding St-2 (one of six PM
+				<sub>10</sub> monitoring stations in Wuhan). Additionally,
+				<xref ref-type="table" rid="T3">Table 3</xref> provides the total number of days PM
+				<sub>10</sub> IAQI exceeded 100 between 2003 and 2011 in the area surrounding St-2. The figures and tables provided clearly show that the intense processes governing building construction activity cannot be ignored in pollution modeling.
+			</p>
+			<fig id="f1" position="float" fig-type="figure" orientation="portrait">
+				<label>
+					<bold>FIG. 1.</bold>
+					<x xml:space="preserve"></x>
+				</label>
+				<caption>
+					<p>Wuhan:
+						<bold>(a)</bold> map and
+						<bold>(b)</bold> location of stations.
+					</p>
+				</caption>
+				<graphic xlink:href="figure1.tif" position="float" orientation="portrait" xlink:type="simple"></graphic>
+			</fig>
+			<fig id="f2" position="float" fig-type="figure" orientation="portrait">
+				<label>
+					<bold>FIG. 2.</bold>
+					<x xml:space="preserve"></x>
+				</label>
+				<caption>
+					<p>Construction site distribution surrounding St-2.</p>
+				</caption>
+				<graphic xlink:href="figure2.tif" position="float" orientation="portrait" xlink:type="simple"></graphic>
+			</fig>
+			<table-wrap id="T2" position="float" orientation="portrait">
+				<label>
+					<sc>Table</sc> 2.
+				</label>
+				<caption>
+					<p>
+						<sc>Brief Description of the Construction Sites Surrounding the St-2 Monitoring Station</sc>
+					</p>
+				</caption>
+				<oasis:table>
+					<oasis:tgroup cols="4" align="left">
+						<oasis:colspec colnum="1" align="left" colname="col1"></oasis:colspec>
+						<oasis:colspec colnum="2" align="left" colname="col2"></oasis:colspec>
+						<oasis:colspec colnum="3" align="left" colname="col3"></oasis:colspec>
+						<oasis:colspec colnum="4" align="left" colname="col4"></oasis:colspec>
+						<oasis:thead>
+							<oasis:row>
+								<oasis:entry align="left">
+									<italic>Construction site</italic>
+								</oasis:entry>
+								<oasis:entry align="center">
+									<italic>Area (m
+										<sup>2</sup>)
+									</italic>
+								</oasis:entry>
+								<oasis:entry align="center">
+									<italic>Distance
+										<sup>
+											<xref ref-type="table-fn" rid="tf2">a</xref>
+										</sup> (m)
+									</italic>
+								</oasis:entry>
+								<oasis:entry align="center">
+									<italic>Construction duration</italic>
+								</oasis:entry>
+							</oasis:row>
+						</oasis:thead>
+						<oasis:tbody>
+							<oasis:row>
+								<oasis:entry align="left">
+									<italic>a</italic>
+								</oasis:entry>
+								<oasis:entry align="center">38,160</oasis:entry>
+								<oasis:entry align="center">1570</oasis:entry>
+								<oasis:entry align="center">2009–current</oasis:entry>
+							</oasis:row>
+							<oasis:row>
+								<oasis:entry align="left">
+									<italic>b</italic>
+								</oasis:entry>
+								<oasis:entry align="center">54,760</oasis:entry>
+								<oasis:entry align="center">1915</oasis:entry>
+								<oasis:entry align="center">2009–current</oasis:entry>
+							</oasis:row>
+							<oasis:row>
+								<oasis:entry align="left">
+									<italic>c</italic>
+								</oasis:entry>
+								<oasis:entry align="center">48,508</oasis:entry>
+								<oasis:entry align="center">1145</oasis:entry>
+								<oasis:entry align="center">2009–current</oasis:entry>
+							</oasis:row>
+							<oasis:row>
+								<oasis:entry align="left">
+									<italic>d</italic>
+								</oasis:entry>
+								<oasis:entry align="center">143,250</oasis:entry>
+								<oasis:entry align="center">1314</oasis:entry>
+								<oasis:entry align="center">2009–current</oasis:entry>
+							</oasis:row>
+							<oasis:row>
+								<oasis:entry align="left">
+									<italic>e</italic>
+								</oasis:entry>
+								<oasis:entry align="center">37,200</oasis:entry>
+								<oasis:entry align="center">615</oasis:entry>
+								<oasis:entry align="center">2009–current</oasis:entry>
+							</oasis:row>
+							<oasis:row>
+								<oasis:entry align="left">
+									<italic>f</italic>
+								</oasis:entry>
+								<oasis:entry align="center">83,450</oasis:entry>
+								<oasis:entry align="center">870</oasis:entry>
+								<oasis:entry align="center">2009–current</oasis:entry>
+							</oasis:row>
+							<oasis:row>
+								<oasis:entry align="left">
+									<italic>g</italic>
+								</oasis:entry>
+								<oasis:entry align="center">56,287</oasis:entry>
+								<oasis:entry align="center">445</oasis:entry>
+								<oasis:entry align="center">2005–2007</oasis:entry>
+							</oasis:row>
+							<oasis:row>
+								<oasis:entry align="left">
+									<italic>h</italic>
+								</oasis:entry>
+								<oasis:entry align="center">61,864</oasis:entry>
+								<oasis:entry align="center">1153</oasis:entry>
+								<oasis:entry align="center">2007–2009</oasis:entry>
+							</oasis:row>
+							<oasis:row>
+								<oasis:entry align="left">
+									<italic>I</italic>
+								</oasis:entry>
+								<oasis:entry align="center">132,400</oasis:entry>
+								<oasis:entry align="center">1010</oasis:entry>
+								<oasis:entry align="center">2006–2009</oasis:entry>
+							</oasis:row>
+							<oasis:row>
+								<oasis:entry align="left">
+									<italic>j</italic>
+								</oasis:entry>
+								<oasis:entry align="center">543,800</oasis:entry>
+								<oasis:entry align="center">1495</oasis:entry>
+								<oasis:entry align="center">2005–current</oasis:entry>
+							</oasis:row>
+							<oasis:row>
+								<oasis:entry align="left">
+									<italic>k</italic>
+								</oasis:entry>
+								<oasis:entry align="center">118,030</oasis:entry>
+								<oasis:entry align="center">1948</oasis:entry>
+								<oasis:entry align="center">2007–current</oasis:entry>
+							</oasis:row>
+							<oasis:row>
+								<oasis:entry align="left">
+									<italic>l</italic>
+								</oasis:entry>
+								<oasis:entry align="center">96,500</oasis:entry>
+								<oasis:entry align="center">1200</oasis:entry>
+								<oasis:entry align="center">2009–2011</oasis:entry>
+							</oasis:row>
+							<oasis:row>
+								<oasis:entry align="left">
+									<italic>m</italic>
+								</oasis:entry>
+								<oasis:entry align="center">64,310</oasis:entry>
+								<oasis:entry align="center">1170</oasis:entry>
+								<oasis:entry align="center">2006–current</oasis:entry>
+							</oasis:row>
+							<oasis:row>
+								<oasis:entry align="left">
+									<italic>n</italic>
+								</oasis:entry>
+								<oasis:entry align="center">164,500</oasis:entry>
+								<oasis:entry align="center">1990</oasis:entry>
+								<oasis:entry align="center">2005–2008</oasis:entry>
+							</oasis:row>
+							<oasis:row>
+								<oasis:entry align="left">
+									<italic>o</italic>
+								</oasis:entry>
+								<oasis:entry align="center">25,510</oasis:entry>
+								<oasis:entry align="center">868</oasis:entry>
+								<oasis:entry align="center">2005–2006</oasis:entry>
+							</oasis:row>
+							<oasis:row>
+								<oasis:entry align="left">
+									<italic>p</italic>
+								</oasis:entry>
+								<oasis:entry align="center">221,774</oasis:entry>
+								<oasis:entry align="center">1627</oasis:entry>
+								<oasis:entry align="center">2007–2009</oasis:entry>
+							</oasis:row>
+						</oasis:tbody>
+					</oasis:tgroup>
+				</oasis:table>
+				<table-wrap-foot>
+					<fn id="tf2">
+						<label>
+							<sup>a</sup>
+						</label>
+						<p>Numbers in the distance column correspond to the shortest distances between construction site and St-2.</p>
+					</fn>
+				</table-wrap-foot>
+			</table-wrap>
+			<table-wrap id="T3" position="float" orientation="portrait">
+				<label>
+					<sc>Table</sc> 3.
+				</label>
+				<caption>
+					<p>
+						<sc>Number of Days when PM
+							<sub>10</sub> Individual Air Quality Index was Over 100 Between 2005 and 2011 as Determined by St-2
+						</sc>
+					</p>
+				</caption>
+				<oasis:table>
+					<oasis:tgroup cols="7" align="left">
+						<oasis:colspec colnum="1" align="left" colname="col1"></oasis:colspec>
+						<oasis:colspec colnum="2" align="left" colname="col2"></oasis:colspec>
+						<oasis:colspec colnum="3" align="left" colname="col3"></oasis:colspec>
+						<oasis:colspec colnum="4" align="left" colname="col4"></oasis:colspec>
+						<oasis:colspec colnum="5" align="left" colname="col5"></oasis:colspec>
+						<oasis:colspec colnum="6" align="left" colname="col6"></oasis:colspec>
+						<oasis:colspec colnum="7" align="left" colname="col7"></oasis:colspec>
+						<oasis:thead>
+							<oasis:row>
+								<oasis:entry align="left">
+									<italic>2005</italic>
+								</oasis:entry>
+								<oasis:entry align="center">
+									<italic>2006</italic>
+								</oasis:entry>
+								<oasis:entry align="center">
+									<italic>2007</italic>
+								</oasis:entry>
+								<oasis:entry align="center">
+									<italic>2008</italic>
+								</oasis:entry>
+								<oasis:entry align="center">
+									<italic>2009</italic>
+								</oasis:entry>
+								<oasis:entry align="center">
+									<italic>2010</italic>
+								</oasis:entry>
+								<oasis:entry align="center">
+									<italic>2011</italic>
+								</oasis:entry>
+							</oasis:row>
+						</oasis:thead>
+						<oasis:tbody>
+							<oasis:row>
+								<oasis:entry align="left">27</oasis:entry>
+								<oasis:entry align="center">49</oasis:entry>
+								<oasis:entry align="center">59</oasis:entry>
+								<oasis:entry align="center">62</oasis:entry>
+								<oasis:entry align="center">43</oasis:entry>
+								<oasis:entry align="center">67</oasis:entry>
+								<oasis:entry align="center">49</oasis:entry>
+							</oasis:row>
+						</oasis:tbody>
+					</oasis:tgroup>
+				</oasis:table>
+			</table-wrap>
+			<p>The initial aim of this study was to predict PM
+				<sub>10</sub> IAQI one day in advance using meteorological and construction pollutant-related parameters taken from the previous day. Three NN-based forecasters (MLP, Elman, and support vector machine [SVM]) were used. Experimental trials were aimed to improve existing neural models (Wu
+				<italic>et al.</italic>,
+				<xref ref-type="bibr" rid="B31">2011</xref>) to enhance prediction accuracy of high PM
+				<sub>10</sub> IAQI levels caused by fugitive dust derived from construction sites.
+			</p>
+			<p>Networks were assembled using a time series recorded between January 1, 2005, and December 31, 2011, at six monitoring stations (St-1 to St-6;
+				<xref ref-type="fig" rid="f1">Fig. 1b</xref>) situated around the city of Wuhan. Model validation was carried out by comparing model prediction values to a different set of recorded data not used in model training. A cross-validation strategy was used for validation. Both existing and modified models were tested and compared for performance in achieving a one day advanced forecast of a high level IAQI event attributable to nearby construction site fugitive dust.
+			</p>
+		</sec>
+		<sec id="s002" sec-type="methods" disp-level="A">
+			<title>Data and Methodology</title>
+			<sec id="s003" disp-level="B">
+				<title>Data preparation</title>
+				<p>Network training was based on data taken during a 7-year period between January 1, 2005, and December 31, 2011. Daily PM
+					<sub>10</sub> IAQI data acquired at the six monitoring stations were made available by the Wuhan Environmental Protection Bureau. Meteorological variables of average daily temperature (
+					<italic>T</italic> [°C]), relative humidity (
+					<italic>RH</italic>, %), wind speed (
+					<italic>Ws</italic>, m/s), barometric pressure (
+					<italic>P</italic> [bar]), rainfall amount (
+					<italic>RF</italic>, mm), and sunshine duration (
+					<italic>SD</italic>, hours) were monitored at a meteorological station located within the Wuhan Meteorological Bureau. A description of monitoring data from 2005 to 2011 is provided in
+					<xref ref-type="table" rid="T4">Table 4</xref>.
+				</p>
+				<table-wrap id="T4" position="float" orientation="portrait">
+					<label>
+						<sc>Table</sc> 4.
+					</label>
+					<caption>
+						<p>
+							<sc>Description of PM
+								<sub>10</sub> Individual Air Quality Index Monitoring and Meteorological Sites Around the Study Area
+							</sc>
+						</p>
+					</caption>
+					<oasis:table>
+						<oasis:tgroup cols="5" align="left">
+							<oasis:colspec colnum="1" align="left" colname="col1"></oasis:colspec>
+							<oasis:colspec colnum="2" align="left" colname="col2"></oasis:colspec>
+							<oasis:colspec colnum="3" align="left" colname="col3"></oasis:colspec>
+							<oasis:colspec colnum="4" align="left" colname="col4"></oasis:colspec>
+							<oasis:colspec colnum="5" align="left" colname="col5"></oasis:colspec>
+							<oasis:thead>
+								<oasis:row>
+									<oasis:entry align="left">
+										<italic>Site</italic>
+									</oasis:entry>
+									<oasis:entry align="center">
+										<italic>Location</italic>
+									</oasis:entry>
+									<oasis:entry align="center">
+										<italic>Arithmetic mean</italic>
+									</oasis:entry>
+									<oasis:entry align="center">
+										<italic>Median</italic>
+									</oasis:entry>
+									<oasis:entry align="center">
+										<italic>Range</italic>
+									</oasis:entry>
+								</oasis:row>
+							</oasis:thead>
+							<oasis:tbody>
+								<oasis:row>
+									<oasis:entry align="left">St-1</oasis:entry>
+									<oasis:entry align="left">Residential suburban area</oasis:entry>
+									<oasis:entry align="center">79.2</oasis:entry>
+									<oasis:entry align="center">76</oasis:entry>
+									<oasis:entry align="center">11–498</oasis:entry>
+								</oasis:row>
+								<oasis:row>
+									<oasis:entry align="left">St-2</oasis:entry>
+									<oasis:entry align="left">East Lake Park</oasis:entry>
+									<oasis:entry align="center">73.7</oasis:entry>
+									<oasis:entry align="center">71</oasis:entry>
+									<oasis:entry align="center">10–448</oasis:entry>
+								</oasis:row>
+								<oasis:row>
+									<oasis:entry align="left">St-3</oasis:entry>
+									<oasis:entry align="left">Residential area in Hanyang</oasis:entry>
+									<oasis:entry align="center">81.2</oasis:entry>
+									<oasis:entry align="center">78</oasis:entry>
+									<oasis:entry align="center">10–469</oasis:entry>
+								</oasis:row>
+								<oasis:row>
+									<oasis:entry align="left">St-4</oasis:entry>
+									<oasis:entry align="left">Residential area in Hankou</oasis:entry>
+									<oasis:entry align="center">80.7</oasis:entry>
+									<oasis:entry align="center">76</oasis:entry>
+									<oasis:entry align="center">11–457</oasis:entry>
+								</oasis:row>
+								<oasis:row>
+									<oasis:entry align="left">St-5</oasis:entry>
+									<oasis:entry align="left">Commercial area in Wuchang</oasis:entry>
+									<oasis:entry align="center">83.7</oasis:entry>
+									<oasis:entry align="center">79</oasis:entry>
+									<oasis:entry align="center">9–449</oasis:entry>
+								</oasis:row>
+								<oasis:row>
+									<oasis:entry align="left">St-6</oasis:entry>
+									<oasis:entry align="left">Heavy industrial area</oasis:entry>
+									<oasis:entry align="center">86.3</oasis:entry>
+									<oasis:entry align="center">82</oasis:entry>
+									<oasis:entry align="center">10–478</oasis:entry>
+								</oasis:row>
+								<oasis:row>
+									<oasis:entry align="left">St-M</oasis:entry>
+									<oasis:entry align="left">Residential area in Hankou</oasis:entry>
+									<oasis:entry align="left"></oasis:entry>
+									<oasis:entry align="left"></oasis:entry>
+									<oasis:entry align="left"></oasis:entry>
+								</oasis:row>
+							</oasis:tbody>
+						</oasis:tgroup>
+					</oasis:table>
+					<table-wrap-foot>
+						<fn id="tf3">
+							<p>St-1 to St-6 are six PM
+								<sub>10</sub> monitoring sites; St-M is the meteorological station.
+							</p>
+						</fn>
+					</table-wrap-foot>
+				</table-wrap>
+				<p>In this study, meteorological parameter input values used in model development corresponded to the actual time for which the prediction applies in the absence of available data from numerical weather forecasts.</p>
+				<p>Information related to construction area and duration was provided by the Wuhan Urban Construction Archives. Distances between construction site boundary and PM
+					<sub>10</sub> monitoring stations were measured using the ArcGIS system.
+				</p>
+			</sec>
+			<sec id="s004" disp-level="B">
+				<title>Methodology</title>
+				<p>To quantify nearby construction activity influence, this study consulted certain published literature (Watson and Chow,
+					<xref ref-type="bibr" rid="B30">2000</xref>; Muleski
+					<italic>et al.</italic>,
+					<xref ref-type="bibr" rid="B21">2005</xref>; Tian
+					<italic>et al.</italic>,
+					<xref ref-type="bibr" rid="B28">2008a</xref>,
+					<xref ref-type="bibr" rid="B29">2008b</xref>; Zhao
+					<italic>et al.</italic>,
+					<xref ref-type="bibr" rid="B33">2009</xref>; Mensink
+					<italic>et al.</italic>,
+					<xref ref-type="bibr" rid="B17">2011</xref>). The following variables, such as construction site area (
+					<italic>A</italic>, m
+					<sup>2</sup>), distance between construction site boundaries and PM
+					<sub>10</sub> monitoring stations (
+					<italic>D</italic>, m), and wind speed (
+					<italic>Ws</italic>, m/s) were therefore, introduced.
+				</p>
+				<p>A sigmoid was adopted to qualify the influence of one construction site when the corresponding PM
+					<sub>10</sub> monitoring station was located downwind from it:
+				</p>
+				<p>
+					<graphic xlink:href="figure6.tif" position="float" orientation="portrait" xlink:type="simple"></graphic>
+				</p>
+				<p>where
+					<italic>A</italic> (m
+					<sup>2</sup>) is the area of the construction site;
+					<italic>D</italic> (m) is the distance between construction site boundary and a specific monitoring station situated downwind from it; and
+					<italic>Ws</italic> is wind speed (m/s).
+					<italic>Ci</italic> is the Construction Influence Index of construction site
+					<italic>i</italic> relating to a specific monitoring station.
+				</p>
+				<p>When more than one construction site was situated upwind from a monitoring station, a sigmoid function was applied to the Construction Influence Index as follows:</p>
+				<p>where
+					<italic>Ci</italic> is the Construction Influence Index of
+					<italic>n</italic> construction sites to a specific monitoring station.
+				</p>
+			</sec>
+			<sec id="s005" disp-level="B">
+				<title>Neural type networks for prediction</title>
+				<p>The aim of this study was to improve ANN prediction accuracy by introducing
+					<italic>Ci</italic>. Three classical types of NNs were chosen since they individually represent independent approaches to the paradigm. MLP, one of the best known of these networks, applies the sigmoidal activation function (Hornik
+					<italic>et al.</italic>,
+					<xref ref-type="bibr" rid="B13">1989</xref>). SVM is a universal solution that applies kernel principle analysis with a sophisticated, robust statistical learning algorithm. Both MLP and SVM use the feedforward structure of signal processing. The Elman network has a feedback structure (Elman,
+					<xref ref-type="bibr" rid="B7">1990</xref>) and has proven to perform well when modeling complex processes related to pollution prediction (Brunelli
+					<italic>et al.</italic>,
+					<xref ref-type="bibr" rid="B2">2007</xref>). All three networks have demonstrated good performance when modeling complex processes related to air pollution formation (Brunelli
+					<italic>et al.</italic>,
+					<xref ref-type="bibr" rid="B2">2007</xref>; Osowski and Garanty,
+					<xref ref-type="bibr" rid="B23">2007</xref>; Paschalidou
+					<italic>et al.</italic>,
+					<xref ref-type="bibr" rid="B24">2011</xref>).
+				</p>
+				<p>Accurate predictions are difficult due to high variability. A solution is to decompose the predicted time series into terms of lower variability. Since the wavelet application in time series analysis and prediction has been applied successfully in the past (Osowski and Garanty,
+					<xref ref-type="bibr" rid="B23">2007</xref>; Siwek
+					<italic>et al.</italic>,
+					<xref ref-type="bibr" rid="B26">2009</xref>; Feng
+					<italic>et al.</italic>,
+					<xref ref-type="bibr" rid="B9">2011b</xref>), wavelet decomposition of the original PM
+					<sub>10</sub> IAQI time series was used for this study. Detailed methodology regarding wavelet decomposition of the original signals has been previously described by Osowski and Garanty (
+					<xref ref-type="bibr" rid="B23">2007</xref>).
+					<xref ref-type="fig" rid="f3">Figure 3</xref> illustrates results of exemplary five level wavelet decomposition of real data related to PM
+					<sub>10</sub> IAQI from St-2 in 2005 (the upper curve) obtained by applying Daubechies (db4) wavelets implemented on the MATLAB platform. All signals (the first five levels of wavelet coefficients from D1 to D5 and the coarse approximation A5 on the fifth level) are illustrated in their original resolutions.
+				</p>
+				<fig id="f3" position="float" fig-type="figure" orientation="portrait">
+					<label>
+						<bold>FIG. 3.</bold>
+						<x xml:space="preserve"></x>
+					</label>
+					<caption>
+						<p>Wavelet decomposition of the measured time series
+							<italic>x</italic>(
+							<italic>n</italic>) of PM
+							<sub>10</sub> IAQI from St-2 in 2005; D1–D5 represent the detailed coefficients and A5 the coarse approximation of
+							<italic>x</italic>(
+							<italic>n</italic>) on the fifth level. PM
+							<sub>10</sub>, particulate matter with a diameter &lt;10 μm; IAQI, Individual Air Quality Index.
+						</p>
+					</caption>
+					<graphic xlink:href="figure3.tif" position="float" orientation="portrait" xlink:type="simple"></graphic>
+				</fig>
+				<p>
+					<graphic xlink:href="figure7.tif" position="float" orientation="portrait" xlink:type="simple"></graphic>
+				</p>
+			</sec>
+			<sec id="s006" disp-level="B">
+				<title>Experiment</title>
+				<p>To evaluate the effectiveness of
+					<italic>Ci</italic>, three types of NNs (MLP, Elman, and SVM) were applied separately. Wavelet coefficient prediction on each level required the use of one specific network. An additional network was needed to predict a coarse approximation of the data. Since five levels of wavelet coefficients were chosen along with A5 for coarse approximation on the fifth level, six networks were used altogether.
+				</p>
+				<p>Each mode input pattern for each station contained a set of daily values for prediction of
+					<inline-formula>
+						<tex-math notation="LaTeX">
+							<![CDATA[\documentclass{aastex}\usepackage{amsbsy}\usepackage{amsfonts}\usepackage{amssymb}\usepackage{bm}\usepackage{mathrsfs}\usepackage{pifont}\usepackage{stmaryrd}\usepackage{textcomp}\usepackage{portland, xspace}\usepackage{amsmath, amsxtra}\pagestyle{empty}\DeclareMathSizes {10} {9} {7} {6}
+\begin{document}
+$$Di \ ( i = 1 , 2 , \ldots 5 )$$
+\end{document}]]>
+						</tex-math>
+					</inline-formula> or A5 from a specific station. One value was applied to both the current and subsequent day and where the final value was the specific PM
+					<sub>10</sub> IAQI monitoring station under consideration. Therefore, each neural mode input pattern had a total of 15 values: average temperature (
+					<italic>T</italic>), relative humidity (
+					<italic>RH</italic>), wind speed (
+					<italic>WS</italic>), barometric pressure (
+					<italic>P</italic>), rainfall amount (
+					<italic>RF</italic>), sunshine duration (
+					<italic>SD</italic>) from St-M, the Construction Influence Index of
+					<italic>n</italic> construction sites (
+					<italic>Ci</italic>), and the PM
+					<sub>10</sub> IAQI
+					<inline-formula>
+						<tex-math notation="LaTeX">
+							<![CDATA[\documentclass{aastex}\usepackage{amsbsy}\usepackage{amsfonts}\usepackage{amssymb}\usepackage{bm}\usepackage{mathrsfs}\usepackage{pifont}\usepackage{stmaryrd}\usepackage{textcomp}\usepackage{portland, xspace}\usepackage{amsmath, amsxtra}\pagestyle{empty}\DeclareMathSizes {10} {9} {7} {6}
+\begin{document}
+$$Di \ ( i = 1 , 2 , \ldots 5 )$$
+\end{document}]]>
+						</tex-math>
+					</inline-formula> or A5 from specific stations (St-1 to St-6) as illustrated in
+					<xref ref-type="fig" rid="f4">Fig. 4</xref>.
+				</p>
+				<fig id="f4" position="float" fig-type="figure" orientation="portrait">
+					<label>
+						<bold>FIG. 4.</bold>
+						<x xml:space="preserve"></x>
+					</label>
+					<caption>
+						<p>Neural network architecture for St-
+							<italic>i</italic> (
+							<italic>i</italic>=1, 2,…6).
+							<italic>T</italic> (average daily temperature);
+							<italic>RH</italic> (relative humidity);
+							<italic>WS</italic> (wind speed);
+							<italic>P</italic> (barometric pressure);
+							<italic>RF</italic> (rainfall amount);
+							<italic>SD</italic> (sunshine duration);
+							<italic>Di</italic> (wavelet coefficients from level
+							<italic>i</italic>); A5 (the coarse approximation on the fifth level);
+							<italic>Ci</italic> (Influence Index of construction site); St (station).
+						</p>
+					</caption>
+					<graphic xlink:href="figure4.tif" position="float" orientation="portrait" xlink:type="simple"></graphic>
+				</fig>
+				<p>On the basis of these predicted coefficients, the real prediction of PM
+					<sub>10</sub> IAQI from specific stations for the following day is made by simply adding them together as reported in published literature (Osowski and Garanty,
+					<xref ref-type="bibr" rid="B23">2007</xref>).
+					<xref ref-type="disp-formula" rid="eq3">Equation (3)</xref> shows the recovery process of the original PM
+					<sub>10</sub> IAQI signal:
+
+					<disp-formula id="eq1">
+						<tex-math notation="LaTeX">
+							<![CDATA[\documentclass{aastex}\usepackage{amsbsy}\usepackage{amsfonts}\usepackage{amssymb}\usepackage{bm}\usepackage{mathrsfs}\usepackage{pifont}\usepackage{stmaryrd}\usepackage{textcomp}\usepackage{portland,xspace}\usepackage{amsmath,amsxtra}\pagestyle{empty}\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\begin{align*}PM_{10} IAQI = D_1 + D_2 + D_3 + D_4 + D_5 + A_5 \tag{3}\end{align*}
+\end{document}]]>
+						</tex-math>
+					</disp-formula>
+				</p>
+				<p>The data set used to build the NN database constituted daily values related to a period between January 1, 2005, and December 31, 2011. Neural model performance was evaluated by applying a cross-validation strategy by which to test the effectiveness of the tested model for prediction accuracy. The entire data set between January 1, 2005, and December 31, 2010, was used as a training set, while the 2011 data set was shared between the three subsets, using two out of the three subsets to complete the training set. The remaining subset was applied as a test set. Accordingly, three different training and test sets were used to guarantee robust performance, and test set selection independency attributed for all models that were developed and tuned. The different training and test sets used are provided in
+					<xref ref-type="table" rid="T5">Table 5</xref>.
+				</p>
+				<table-wrap id="T5" position="float" orientation="portrait">
+					<label>
+						<sc>Table</sc> 5.
+					</label>
+					<caption>
+						<p>
+							<sc>Training and Test Sets Used for Cross Validation</sc>
+						</p>
+					</caption>
+					<oasis:table>
+						<oasis:tgroup cols="14" align="left">
+							<oasis:colspec colnum="1" align="left" colname="col1"></oasis:colspec>
+							<oasis:colspec colnum="2" align="left" colname="col2"></oasis:colspec>
+							<oasis:colspec colnum="3" align="left" colname="col3"></oasis:colspec>
+							<oasis:colspec colnum="4" align="left" colname="col4"></oasis:colspec>
+							<oasis:colspec colnum="5" align="left" colname="col5"></oasis:colspec>
+							<oasis:colspec colnum="6" align="left" colname="col6"></oasis:colspec>
+							<oasis:colspec colnum="7" align="left" colname="col7"></oasis:colspec>
+							<oasis:colspec colnum="8" align="left" colname="col8"></oasis:colspec>
+							<oasis:colspec colnum="9" align="left" colname="col9"></oasis:colspec>
+							<oasis:colspec colnum="10" align="left" colname="col10"></oasis:colspec>
+							<oasis:colspec colnum="11" align="left" colname="col11"></oasis:colspec>
+							<oasis:colspec colnum="12" align="left" colname="col12"></oasis:colspec>
+							<oasis:colspec colnum="13" align="left" colname="col13"></oasis:colspec>
+							<oasis:colspec colnum="14" align="left" colname="col14"></oasis:colspec>
+							<oasis:thead>
+								<oasis:row>
+									<oasis:entry align="left"></oasis:entry>
+									<oasis:entry align="center" namest="col2" nameend="col4">
+										<italic>2005</italic>
+									</oasis:entry>
+									<oasis:entry align="center" namest="col5" nameend="col7">
+										<italic>2006</italic>
+									</oasis:entry>
+									<oasis:entry align="center">…</oasis:entry>
+									<oasis:entry align="center" namest="col9" nameend="col11">
+										<italic>2010</italic>
+									</oasis:entry>
+									<oasis:entry align="center" namest="col12" nameend="col14">
+										<italic>2011</italic>
+									</oasis:entry>
+								</oasis:row>
+								<oasis:row>
+									<oasis:entry align="left"></oasis:entry>
+									<oasis:entry align="center">
+										<italic>Jan.–Apr.</italic>
+									</oasis:entry>
+									<oasis:entry align="center">
+										<italic>May–Aug.</italic>
+									</oasis:entry>
+									<oasis:entry align="center">
+										<italic>Sept.–Dec.</italic>
+									</oasis:entry>
+									<oasis:entry align="center">
+										<italic>Jan.–Apr.</italic>
+									</oasis:entry>
+									<oasis:entry align="center">
+										<italic>May–Aug.</italic>
+									</oasis:entry>
+									<oasis:entry align="center">
+										<italic>Sept.–Dec.</italic>
+									</oasis:entry>
+									<oasis:entry align="center">…</oasis:entry>
+									<oasis:entry align="center">
+										<italic>Jan.–Apr.</italic>
+									</oasis:entry>
+									<oasis:entry align="center">
+										<italic>May–Aug.</italic>
+									</oasis:entry>
+									<oasis:entry align="center">
+										<italic>Sept.–Dec.</italic>
+									</oasis:entry>
+									<oasis:entry align="center">
+										<italic>Jan.–Apr.</italic>
+									</oasis:entry>
+									<oasis:entry align="center">
+										<italic>May–Aug.</italic>
+									</oasis:entry>
+									<oasis:entry align="center">
+										<italic>Sept.–Dec.</italic>
+									</oasis:entry>
+								</oasis:row>
+							</oasis:thead>
+							<oasis:tbody>
+								<oasis:row>
+									<oasis:entry align="left">Set 1</oasis:entry>
+									<oasis:entry align="center">
+										<sup>
+											<xref ref-type="table-fn" rid="tf5">*</xref>
+										</sup>
+									</oasis:entry>
+									<oasis:entry align="center">
+										<sup>
+											<xref ref-type="table-fn" rid="tf5">*</xref>
+										</sup>
+									</oasis:entry>
+									<oasis:entry align="center">
+										<sup>
+											<xref ref-type="table-fn" rid="tf5">*</xref>
+										</sup>
+									</oasis:entry>
+									<oasis:entry align="center">
+										<sup>
+											<xref ref-type="table-fn" rid="tf5">*</xref>
+										</sup>
+									</oasis:entry>
+									<oasis:entry align="center">
+										<sup>
+											<xref ref-type="table-fn" rid="tf5">*</xref>
+										</sup>
+									</oasis:entry>
+									<oasis:entry align="center">
+										<sup>
+											<xref ref-type="table-fn" rid="tf5">*</xref>
+										</sup>
+									</oasis:entry>
+									<oasis:entry align="left">…</oasis:entry>
+									<oasis:entry align="center">
+										<sup>
+											<xref ref-type="table-fn" rid="tf5">*</xref>
+										</sup>
+									</oasis:entry>
+									<oasis:entry align="center">
+										<sup>
+											<xref ref-type="table-fn" rid="tf5">*</xref>
+										</sup>
+									</oasis:entry>
+									<oasis:entry align="center">
+										<sup>
+											<xref ref-type="table-fn" rid="tf5">*</xref>
+										</sup>
+									</oasis:entry>
+									<oasis:entry align="left"></oasis:entry>
+									<oasis:entry align="center">
+										<sup>
+											<xref ref-type="table-fn" rid="tf5">*</xref>
+										</sup>
+									</oasis:entry>
+									<oasis:entry align="center">
+										<sup>
+											<xref ref-type="table-fn" rid="tf5">*</xref>
+										</sup>
+									</oasis:entry>
+								</oasis:row>
+								<oasis:row>
+									<oasis:entry align="left">Set 2</oasis:entry>
+									<oasis:entry align="center">
+										<sup>
+											<xref ref-type="table-fn" rid="tf5">*</xref>
+										</sup>
+									</oasis:entry>
+									<oasis:entry align="center">
+										<sup>
+											<xref ref-type="table-fn" rid="tf5">*</xref>
+										</sup>
+									</oasis:entry>
+									<oasis:entry align="center">
+										<sup>
+											<xref ref-type="table-fn" rid="tf5">*</xref>
+										</sup>
+									</oasis:entry>
+									<oasis:entry align="center">
+										<sup>
+											<xref ref-type="table-fn" rid="tf5">*</xref>
+										</sup>
+									</oasis:entry>
+									<oasis:entry align="center">
+										<sup>
+											<xref ref-type="table-fn" rid="tf5">*</xref>
+										</sup>
+									</oasis:entry>
+									<oasis:entry align="center">
+										<sup>
+											<xref ref-type="table-fn" rid="tf5">*</xref>
+										</sup>
+									</oasis:entry>
+									<oasis:entry align="left">…</oasis:entry>
+									<oasis:entry align="center">
+										<sup>
+											<xref ref-type="table-fn" rid="tf5">*</xref>
+										</sup>
+									</oasis:entry>
+									<oasis:entry align="center">
+										<sup>
+											<xref ref-type="table-fn" rid="tf5">*</xref>
+										</sup>
+									</oasis:entry>
+									<oasis:entry align="center">
+										<sup>
+											<xref ref-type="table-fn" rid="tf5">*</xref>
+										</sup>
+									</oasis:entry>
+									<oasis:entry align="center">
+										<sup>
+											<xref ref-type="table-fn" rid="tf5">*</xref>
+										</sup>
+									</oasis:entry>
+									<oasis:entry align="left"></oasis:entry>
+									<oasis:entry align="center">
+										<sup>
+											<xref ref-type="table-fn" rid="tf5">*</xref>
+										</sup>
+									</oasis:entry>
+								</oasis:row>
+								<oasis:row>
+									<oasis:entry align="left">Set 3</oasis:entry>
+									<oasis:entry align="center">
+										<sup>
+											<xref ref-type="table-fn" rid="tf5">*</xref>
+										</sup>
+									</oasis:entry>
+									<oasis:entry align="center">
+										<sup>
+											<xref ref-type="table-fn" rid="tf5">*</xref>
+										</sup>
+									</oasis:entry>
+									<oasis:entry align="center">
+										<sup>
+											<xref ref-type="table-fn" rid="tf5">*</xref>
+										</sup>
+									</oasis:entry>
+									<oasis:entry align="center">
+										<sup>
+											<xref ref-type="table-fn" rid="tf5">*</xref>
+										</sup>
+									</oasis:entry>
+									<oasis:entry align="center">
+										<sup>
+											<xref ref-type="table-fn" rid="tf5">*</xref>
+										</sup>
+									</oasis:entry>
+									<oasis:entry align="center">
+										<sup>
+											<xref ref-type="table-fn" rid="tf5">*</xref>
+										</sup>
+									</oasis:entry>
+									<oasis:entry align="left">…</oasis:entry>
+									<oasis:entry align="center">
+										<sup>
+											<xref ref-type="table-fn" rid="tf5">*</xref>
+										</sup>
+									</oasis:entry>
+									<oasis:entry align="center">
+										<sup>
+											<xref ref-type="table-fn" rid="tf5">*</xref>
+										</sup>
+									</oasis:entry>
+									<oasis:entry align="center">
+										<sup>
+											<xref ref-type="table-fn" rid="tf5">*</xref>
+										</sup>
+									</oasis:entry>
+									<oasis:entry align="center">
+										<sup>
+											<xref ref-type="table-fn" rid="tf5">*</xref>
+										</sup>
+									</oasis:entry>
+									<oasis:entry align="center">
+										<sup>
+											<xref ref-type="table-fn" rid="tf5">*</xref>
+										</sup>
+									</oasis:entry>
+									<oasis:entry align="left"></oasis:entry>
+								</oasis:row>
+							</oasis:tbody>
+						</oasis:tgroup>
+					</oasis:table>
+					<table-wrap-foot>
+						<fn id="tf4">
+							<p>Data from four successive months were cyclically used as test sets.</p>
+						</fn>
+						<fn id="tf5">
+							<label>
+								<sup>*</sup>
+							</label>
+							<p>Dates marked by asterisks were used for network training.</p>
+						</fn>
+					</table-wrap-foot>
+				</table-wrap>
+				<p>Data were preprocessed to eliminate instrumental errors. This was accomplished by replacing holes in the established time series with values before or after a hole occurred. In addition, each value in the NN was normalized within the specified range [0, 1], using the following linear transformation:
+
+					<disp-formula id="eq2">
+						<tex-math notation="LaTeX">
+							<![CDATA[\documentclass{aastex}\usepackage{amsbsy}\usepackage{amsfonts}\usepackage{amssymb}\usepackage{bm}\usepackage{mathrsfs}\usepackage{pifont}\usepackage{stmaryrd}\usepackage{textcomp}\usepackage{portland,xspace}\usepackage{amsmath,amsxtra}\pagestyle{empty}\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\begin{align*}X^{ \prime} = ( X - V_{ \min} ) / ( V_{ \max} - V_{ \min} ) , \tag{4}\end{align*}
+\end{document}]]>
+						</tex-math>
+					</disp-formula>
+				</p>
+				<p>where
+					<italic>X′</italic> is the new normalized value;
+					<italic>X</italic> is the old value;
+					<italic>V</italic>
+					<sub>max</sub> is the maximum of the data set under consideration; and
+					<italic>V</italic>
+					<sub>min</sub> is the minimum of the data set under consideration. The normalized value set was used as the NN input.
+				</p>
+				<p>For experiments pertaining to nonlinear models of prediction, the same structures were used for predicting pollution and wavelet coefficients. Developed nonlinear network structures were as follows: 15-15-1 for MLP and 15-24-24-1 for Elman. They were established after a series of additional introductory trials. Gaussian kernel numbers of the SVM network were automatically adjusted by the learning procedures applied (Osowski and Garanty,
+					<xref ref-type="bibr" rid="B23">2007</xref>), which was different for each experiment.
+				</p>
+			</sec>
+			<sec id="s007" disp-level="B">
+				<title>Results and discussion</title>
+				<p>Trials were carried out with and without the
+					<italic>Ci</italic> input to promote training and optimization, as well as to evaluate the forecasting task for daily PM
+					<sub>10</sub> IAQI. Accordingly, the training set, given the previous description, comprised of a value of 80 months, while the test set comprised of a value of 4 months.
+				</p>
+				<p>The aim of experimental trials was to establish optimized architecture for each model. Model performance was evaluated using the following parameters: the correlation coefficient (
+					<italic>r</italic>), mean absolute error (
+					<italic>MAE</italic>), root mean square error (
+					<italic>RMSE</italic>), and mean absolute percentage error (
+					<italic>MAPE</italic>).
+				</p>
+				<p>Model performance evaluations were extended to include the prediction of high PM
+					<sub>10</sub> IAQI attributable to nearby construction activity. This task is of particular importance to administrators since successfully predicting high PM
+					<sub>10</sub> values in a timely manner provides the time to restrict and confine activities that put the health and welfare of local residents at risk.
+				</p>
+				<p>The prediction accuracy rate of high PM
+					<sub>10</sub> IAQI attributable to nearby construction activity (
+					<italic>AHPC</italic>) was introduced in this study to evaluate the six models investigated.
+
+					<disp-formula id="eq3">
+						<tex-math notation="LaTeX">
+							<![CDATA[\documentclass{aastex}\usepackage{amsbsy}\usepackage{amsfonts}\usepackage{amssymb}\usepackage{bm}\usepackage{mathrsfs}\usepackage{pifont}\usepackage{stmaryrd}\usepackage{textcomp}\usepackage{portland,xspace}\usepackage{amsmath,amsxtra}\pagestyle{empty}\DeclareMathSizes{10}{9}{7}{6}
+\begin{document}
+\begin{align*}AHPC = n_{ > 100} / N_{ > 100} \times 100\% , \tag{5}\end{align*}
+\end{document}]]>
+						</tex-math>
+					</disp-formula>
+				</p>
+				<p>where
+					<italic>AHPC</italic> is the accuracy rate of high PM
+					<sub>10</sub> IAQI attributable to nearby construction activity.
+					<italic>n
+						<sub>&gt;</sub>
+					</italic>
+					<sub>100</sub> is the total predicted number of records from the six stations wherein PM
+					<sub>10</sub> IAQI values exceeded 100 (attributable to nearby construction activity), while
+					<italic>N
+						<sub>&gt;</sub>
+					</italic>
+					<sub>100</sub> (with a value of 216 for this study) is the total number of records from the six stations wherein the PM
+					<sub>10</sub> IAQI value exceeded 100 (attributable to nearby construction activity) in 2011. Prediction accuracy was identified when the relative error of the prediction value and the record was &lt;10%. High PM
+					<sub>10</sub> pollution caused by remote sources, such as dust storms was excluded from this study.
+				</p>
+				<p>
+					<xref ref-type="fig" rid="f5">Figure 5</xref> provides a comparison between forecasting performance of the models with and without the
+					<italic>Ci</italic> input as they relate to high PM
+					<sub>10</sub> IAQI attributable to construction activity.
+				</p>
+				<fig id="f5" position="float" fig-type="figure" orientation="portrait">
+					<label>
+						<bold>FIG. 5.</bold>
+						<x xml:space="preserve"></x>
+					</label>
+					<caption>
+						<p>Prediction of high level PM
+							<sub>10</sub> IAQI attributable to nearby construction site activity by applying three neural networks with and without
+							<italic>Ci</italic> input.
+						</p>
+					</caption>
+					<graphic xlink:href="figure5.tif" position="float" orientation="portrait" xlink:type="simple"></graphic>
+				</fig>
+				<p>When taking into account
+					<xref ref-type="fig" rid="f5">Fig. 5</xref> and
+					<xref ref-type="table" rid="T6">Table 6</xref>, which compare predicted and observed values, correlation coefficient (
+					<italic>r</italic>) values and
+					<italic>AHPC</italic> were higher for the models using the
+					<italic>Ci</italic> input than the original models. Improved models also outperformed original models in other parameters.
+				</p>
+				<table-wrap id="T6" position="float" orientation="portrait">
+					<label>
+						<sc>Table</sc> 6.
+					</label>
+					<caption>
+						<p>
+							<sc>Static Index Applied to Models With and Without Construction Influence Index Input for High PM
+								<sub>10</sub> Individual Air Quality Index Event Predictions Attributable to Construction Fugitive Dust from Construction Sites
+							</sc>
+						</p>
+					</caption>
+					<oasis:table>
+						<oasis:tgroup cols="7" align="left">
+							<oasis:colspec colnum="1" align="left" colname="col1"></oasis:colspec>
+							<oasis:colspec colnum="2" align="left" colname="col2"></oasis:colspec>
+							<oasis:colspec colnum="3" align="left" colname="col3"></oasis:colspec>
+							<oasis:colspec colnum="4" align="left" colname="col4"></oasis:colspec>
+							<oasis:colspec colnum="5" align="left" colname="col5"></oasis:colspec>
+							<oasis:colspec colnum="6" align="left" colname="col6"></oasis:colspec>
+							<oasis:colspec colnum="7" align="left" colname="col7"></oasis:colspec>
+							<oasis:thead>
+								<oasis:row>
+									<oasis:entry align="left"></oasis:entry>
+									<oasis:entry align="center">
+										<italic>MLP</italic>
+									</oasis:entry>
+									<oasis:entry align="center">
+										<italic>MLP+Ci</italic>
+									</oasis:entry>
+									<oasis:entry align="center">
+										<italic>Elman</italic>
+									</oasis:entry>
+									<oasis:entry align="center">
+										<italic>Elman+Ci</italic>
+									</oasis:entry>
+									<oasis:entry align="center">
+										<italic>SVM</italic>
+									</oasis:entry>
+									<oasis:entry align="center">
+										<italic>SVM+Ci</italic>
+									</oasis:entry>
+								</oasis:row>
+							</oasis:thead>
+							<oasis:tbody>
+								<oasis:row>
+									<oasis:entry align="left">
+										<italic>r</italic>
+									</oasis:entry>
+									<oasis:entry align="center">0.88</oasis:entry>
+									<oasis:entry align="center">0.91</oasis:entry>
+									<oasis:entry align="center">0.89</oasis:entry>
+									<oasis:entry align="center">0.93</oasis:entry>
+									<oasis:entry align="center">0.89</oasis:entry>
+									<oasis:entry align="center">0.92</oasis:entry>
+								</oasis:row>
+								<oasis:row>
+									<oasis:entry align="left">
+										<italic>MAE</italic>
+									</oasis:entry>
+									<oasis:entry align="center">19.39</oasis:entry>
+									<oasis:entry align="center">11.99</oasis:entry>
+									<oasis:entry align="center">16.95</oasis:entry>
+									<oasis:entry align="center">10.95</oasis:entry>
+									<oasis:entry align="center">15.53</oasis:entry>
+									<oasis:entry align="center">10.20</oasis:entry>
+								</oasis:row>
+								<oasis:row>
+									<oasis:entry align="left">
+										<italic>RMSE</italic>
+									</oasis:entry>
+									<oasis:entry align="center">20.23</oasis:entry>
+									<oasis:entry align="center">12.93</oasis:entry>
+									<oasis:entry align="center">17.85</oasis:entry>
+									<oasis:entry align="center">11.63</oasis:entry>
+									<oasis:entry align="center">16.65</oasis:entry>
+									<oasis:entry align="center">11.03</oasis:entry>
+								</oasis:row>
+								<oasis:row>
+									<oasis:entry align="left">Mean value</oasis:entry>
+									<oasis:entry align="center">93.70</oasis:entry>
+									<oasis:entry align="center">101.19</oasis:entry>
+									<oasis:entry align="center">96.14</oasis:entry>
+									<oasis:entry align="center">102.26</oasis:entry>
+									<oasis:entry align="center">97.56</oasis:entry>
+									<oasis:entry align="center">103.08</oasis:entry>
+								</oasis:row>
+								<oasis:row>
+									<oasis:entry align="left">
+										<italic>MAPE</italic> (%)
+									</oasis:entry>
+									<oasis:entry align="center">16.96</oasis:entry>
+									<oasis:entry align="center">10.43</oasis:entry>
+									<oasis:entry align="center">14.79</oasis:entry>
+									<oasis:entry align="center">9.56</oasis:entry>
+									<oasis:entry align="center">13.48</oasis:entry>
+									<oasis:entry align="center">8.86</oasis:entry>
+								</oasis:row>
+								<oasis:row>
+									<oasis:entry align="left">
+										<italic>n</italic>
+										<sub>100</sub>
+									</oasis:entry>
+									<oasis:entry align="center">10</oasis:entry>
+									<oasis:entry align="center">99</oasis:entry>
+									<oasis:entry align="center">13</oasis:entry>
+									<oasis:entry align="center">132</oasis:entry>
+									<oasis:entry align="center">18</oasis:entry>
+									<oasis:entry align="center">161</oasis:entry>
+								</oasis:row>
+								<oasis:row>
+									<oasis:entry align="left">
+										<italic>AHPC</italic> (%)
+									</oasis:entry>
+									<oasis:entry align="center">4.63</oasis:entry>
+									<oasis:entry align="center">43.98</oasis:entry>
+									<oasis:entry align="center">6.01</oasis:entry>
+									<oasis:entry align="center">60.82</oasis:entry>
+									<oasis:entry align="center">8.33</oasis:entry>
+									<oasis:entry align="center">74.53</oasis:entry>
+								</oasis:row>
+							</oasis:tbody>
+						</oasis:tgroup>
+					</oasis:table>
+					<table-wrap-foot>
+						<fn id="tf6">
+							<p>MLP, multilayer perceptron; Ci, Construction Influence Index; SVM, support vector machine;
+								<italic>r</italic>, correlation coefficient;
+								<italic>MAE</italic>, mean absolute error;
+								<italic>RMSE</italic>, root mean square error;
+								<italic>MAPE</italic>, mean absolute percentage error;
+								<italic>AHPC</italic>, accuracy rate of high PM
+								<sub>10</sub> IAQI from nearby constrcution.
+							</p>
+						</fn>
+						<fn id="tf7">
+							<p>The mean value of measured PM
+								<sub>10</sub> IAQI is 113.09.
+							</p>
+						</fn>
+					</table-wrap-foot>
+				</table-wrap>
+			</sec>
+		</sec>
+		<sec id="s008" sec-type="conclusion" disp-level="A">
+			<title>Conclusion</title>
+			<p>The aim of this study was to improve the accuracy of neural models in forecasting high PM
+				<sub>10</sub> air pollutant values in rapidly urbanizing cities. The approach used was essentially to define a warning system as it relates to information regarding PM
+				<sub>10</sub> pollution to provide local residents the capacity to choose whether to reduce unnecessary risks during outbreaks of severe pollution. The authors of this study built a predictive model using three classical neural models (MLP, Elman, and SVM) and wavelet application. While most studies have exclusively focused on the use of meteorological variables, this study also considered construction pollutants in predicting high PM
+				<sub>10</sub> one day in advance of an outbreak. Prediction tasks were related to daily PM
+				<sub>10</sub> IAQI forecasting. Five statistical indicators (
+				<italic>r</italic>,
+				<italic>MAE</italic>,
+				<italic>RMSE</italic>,
+				<italic>MAPE</italic>, and
+				<italic>AHPC</italic>) were utilized to estimate output results. Improved models outperformed the original models when carrying out forecasting tasks related to high PM
+				<sub>10</sub> IAQI attributable to nearby construction activity. The benefit of the improved models is their potential in predicting PM
+				<sub>10</sub> IAQI parameters within rapidly urbanizing cities, making this forecaster an effective tool supporting other systems designed for high PM
+				<sub>10</sub> pollution management. Air pollution is complex in the Wuhan urban area as it is elsewhere. Therefore, it is necessary to add other key particle source indexes (such as vehicle exhaust) in the ongoing development of prediction models to achieve more accuracy in forecasting tasks as it pertains to local urban areas.
+			</p>
+		</sec>
+	</body>
+	<back>
+		<sec id="s009" sec-type="ack" disp-level="A">
+			<title>Acknowledgments</title>
+			<p>This study was jointly supported by one program from Hubei province and three programs from National Natural Science Foundation of China (grant No. 41301098, grant No. 41271125, grant No. 51109195) PM
+				<sub>10</sub> IAQI data used in this study were provided by the Wuhan Environmental Protection Bureau. Meteorological data were provided by the Wuhan Meteorological Station. Information related to construction area and construction project duration was provided by the Wuhan Urban Construction Archives. The authors would like to express their gratitude to the anonymous reviewers for their constructive and insightful comments.
+			</p>
+		</sec>
+		<sec id="s010" disp-level="A">
+			<title>Author Disclosure Statement</title>
+			<p>No competing financial interests exist.</p>
+		</sec>
+		<ref-list content-type="parsed">
+			<title>References</title>
+			<ref id="B1">
+				<mixed-citation publication-type="journal" xlink:type="simple">
+					<person-group person-group-type="author">
+						<name name-style="western">
+							<surname>Ashbaugh</surname>
+							<given-names>L.L.</given-names>
+						</name>
+					</person-group>,
+					<person-group person-group-type="author">
+						<name name-style="western">
+							<surname>Carvacho</surname>
+							<given-names>O.F.</given-names>
+						</name>
+					</person-group>,
+					<person-group person-group-type="author">
+						<name name-style="western">
+							<surname>Brown</surname>
+							<given-names>M.S.</given-names>
+						</name>
+					</person-group>,
+					<person-group person-group-type="author">
+						<name name-style="western">
+							<surname>Chow</surname>
+							<given-names>J.C.</given-names>
+						</name>
+					</person-group>,
+					<person-group person-group-type="author">
+						<name name-style="western">
+							<surname>Watson</surname>
+							<given-names>J.G.</given-names>
+						</name>
+					</person-group>, and
+					<person-group person-group-type="author">
+						<name name-style="western">
+							<surname>Magliano</surname>
+							<given-names>K.C.</given-names>
+						</name>
+					</person-group> (
+					<year>2003</year>).
+					<article-title>Soil sample collection and analysis for the Fugitive Dust Characterization Study</article-title>.
+					<source>Atmos. Environ.</source>
+					<volume>37</volume>,
+					<fpage>1163</fpage>
+					<comment>.</comment>
+				</mixed-citation>
+			</ref>
+			<ref id="B2">
+				<mixed-citation publication-type="journal" xlink:type="simple">
+					<person-group person-group-type="author">
+						<name name-style="western">
+							<surname>Brunelli</surname>
+							<given-names>U.</given-names>
+						</name>
+					</person-group>,
+					<person-group person-group-type="author">
+						<name name-style="western">
+							<surname>Piazza</surname>
+							<given-names>V.</given-names>
+						</name>
+					</person-group>,
+					<person-group person-group-type="author">
+						<name name-style="western">
+							<surname>Pignato</surname>
+							<given-names>L.</given-names>
+						</name>
+					</person-group>,
+					<person-group person-group-type="author">
+						<name name-style="western">
+							<surname>Sorbello</surname>
+							<given-names>F.</given-names>
+						</name>
+					</person-group>, and
+					<person-group person-group-type="author">
+						<name name-style="western">
+							<surname>Vitabile</surname>
+							<given-names>S.</given-names>
+						</name>
+					</person-group> (
+					<year>2007</year>).
+					<article-title>Two-days ahead prediction of daily maximum concentrations of SO
+						<sub>2</sub>, O
+						<sub>3</sub>, PM
+						<sub>10</sub>, NO
+						<sub>2</sub>, CO in the urban area of Palermo, Italy
+					</article-title>.
+					<source>Atmos. Environ.</source>
+					<volume>41</volume>,
+					<fpage>2967</fpage>
+					<comment>.</comment>
+				</mixed-citation>
+			</ref>
+			<ref id="B3">
+				<mixed-citation publication-type="journal" xlink:type="simple">
+					<person-group person-group-type="author">
+						<name name-style="western">
+							<surname>Cai</surname>
+							<given-names>M.</given-names>
+						</name>
+					</person-group>,
+					<person-group person-group-type="author">
+						<name name-style="western">
+							<surname>Yin</surname>
+							<given-names>Y.F.</given-names>
+						</name>
+					</person-group>, and
+					<person-group person-group-type="author">
+						<name name-style="western">
+							<surname>Xie</surname>
+							<given-names>M.</given-names>
+						</name>
+					</person-group> (
+					<year>2009</year>).
+					<article-title>Prediction of hourly air pollutant concentrations near urban arterials using artificial neural network approach</article-title>.
+					<source>Transport. Res. D</source>
+					<volume>14</volume>,
+					<fpage>32</fpage>
+					<comment>.</comment>
+				</mixed-citation>
+			</ref>
+			<ref id="B4">
+				<mixed-citation publication-type="journal" xlink:type="simple">
+					<person-group person-group-type="author">
+						<name name-style="western">
+							<surname>Chan</surname>
+							<given-names>C.K.</given-names>
+						</name>
+					</person-group>, and
+					<person-group person-group-type="author">
+						<name name-style="western">
+							<surname>Yao</surname>
+							<given-names>X.H.</given-names>
+						</name>
+					</person-group> (
+					<year>2008</year>).
+					<article-title>Air pollution in mega cities in China</article-title>.
+					<source>Atmos. Environ.</source>
+					<volume>42</volume>,
+					<fpage>1</fpage>
+					<comment>.</comment>
+				</mixed-citation>
+			</ref>
+			<ref id="B5">
+				<mixed-citation publication-type="journal" xlink:type="simple">
+					<person-group person-group-type="author">
+						<name name-style="western">
+							<surname>Chan</surname>
+							<given-names>K.Y.</given-names>
+						</name>
+					</person-group>, and
+					<person-group person-group-type="author">
+						<name name-style="western">
+							<surname>Jian</surname>
+							<given-names>L.</given-names>
+						</name>
+					</person-group> (
+					<year>2013</year>).
+					<article-title>Identification of significant factors for air pollution levels using a neural network based knowledge discovery system</article-title>.
+					<source>Neurocomputing</source>
+					<volume>99</volume>,
+					<fpage>564</fpage>
+					<comment>.</comment>
+				</mixed-citation>
+			</ref>
+			<ref id="B6">
+				<mixed-citation publication-type="journal" xlink:type="simple">
+					<person-group person-group-type="author">
+						<name name-style="western">
+							<surname>Dorevitch</surname>
+							<given-names>S.</given-names>
+						</name>
+					</person-group>,
+					<person-group person-group-type="author">
+						<name name-style="western">
+							<surname>Demirtas</surname>
+							<given-names>H.</given-names>
+						</name>
+					</person-group>,
+					<person-group person-group-type="author">
+						<name name-style="western">
+							<surname>Perksy</surname>
+							<given-names>V.W.</given-names>
+						</name>
+					</person-group>,
+					<person-group person-group-type="author">
+						<name name-style="western">
+							<surname>Erdal</surname>
+							<given-names>S.</given-names>
+						</name>
+					</person-group>,
+					<person-group person-group-type="author">
+						<name name-style="western">
+							<surname>Conroy</surname>
+							<given-names>L.</given-names>
+						</name>
+					</person-group>,
+					<person-group person-group-type="author">
+						<name name-style="western">
+							<surname>Schoonover</surname>
+							<given-names>T.</given-names>
+						</name>
+					</person-group>, and
+					<person-group person-group-type="author">
+						<name name-style="western">
+							<surname>Scheff</surname>
+							<given-names>P.A.</given-names>
+						</name>
+					</person-group> (
+					<year>2006</year>).
+					<article-title>Demolition of high-rise public housing increases particulate matter air pollution in communities of high-risk asthmatics</article-title>.
+					<source>J. Air Waste Manage. Assoc.</source>
+					<volume>56</volume>,
+					<fpage>1022</fpage>
+					<comment>.</comment>
+				</mixed-citation>
+			</ref>
+			<ref id="B7">
+				<mixed-citation publication-type="journal" xlink:type="simple">
+					<person-group person-group-type="author">
+						<name name-style="western">
+							<surname>Elman</surname>
+							<given-names>J.L.</given-names>
+						</name>
+					</person-group> (
+					<year>1990</year>).
+					<article-title>Finding structure in time</article-title>.
+					<source>Cogn. Sci.</source>
+					<volume>14</volume>,
+					<fpage>179</fpage>
+					<comment>.</comment>
+				</mixed-citation>
+			</ref>
+			<ref id="B8">
+				<mixed-citation publication-type="journal" xlink:type="simple">
+					<person-group person-group-type="author">
+						<name name-style="western">
+							<surname>Feng</surname>
+							<given-names>Q.</given-names>
+						</name>
+					</person-group>,
+					<person-group person-group-type="author">
+						<name name-style="western">
+							<surname>Wu</surname>
+							<given-names>S.J.</given-names>
+						</name>
+					</person-group>,
+					<person-group person-group-type="author">
+						<name name-style="western">
+							<surname>Du</surname>
+							<given-names>Y.</given-names>
+						</name>
+					</person-group>,
+					<person-group person-group-type="author">
+						<name name-style="western">
+							<surname>Li</surname>
+							<given-names>X.D.</given-names>
+						</name>
+					</person-group>,
+					<person-group person-group-type="author">
+						<name name-style="western">
+							<surname>Ling</surname>
+							<given-names>F.</given-names>
+						</name>
+					</person-group>,
+					<person-group person-group-type="author">
+						<name name-style="western">
+							<surname>Xue</surname>
+							<given-names>H.P.</given-names>
+						</name>
+					</person-group>, and
+					<person-group person-group-type="author">
+						<name name-style="western">
+							<surname>Cai</surname>
+							<given-names>S.M.</given-names>
+						</name>
+					</person-group>, (
+					<year>2011a</year>).
+					<article-title>Variations of PM
+						<sub>10</sub> concentrations in Wuhan, China
+					</article-title>.
+					<source>Environ. Monit. Assess.</source>
+					<volume>176</volume>,
+					<fpage>259</fpage>
+					<comment>.</comment>
+				</mixed-citation>
+			</ref>
+			<ref id="B9">
+				<mixed-citation publication-type="journal" xlink:type="simple">
+					<person-group person-group-type="author">
+						<name name-style="western">
+							<surname>Feng</surname>
+							<given-names>Q.</given-names>
+						</name>
+					</person-group>,
+					<person-group person-group-type="author">
+						<name name-style="western">
+							<surname>Wu</surname>
+							<given-names>S.J.</given-names>
+						</name>
+					</person-group>,
+					<person-group person-group-type="author">
+						<name name-style="western">
+							<surname>Du</surname>
+							<given-names>Y.</given-names>
+						</name>
+					</person-group>,
+					<person-group person-group-type="author">
+						<name name-style="western">
+							<surname>Li</surname>
+							<given-names>X.D.</given-names>
+						</name>
+					</person-group>,
+					<person-group person-group-type="author">
+						<name name-style="western">
+							<surname>Xue</surname>
+							<given-names>H.P.</given-names>
+						</name>
+					</person-group>, and
+					<person-group person-group-type="author">
+						<name name-style="western">
+							<surname>Cai</surname>
+							<given-names>S.M.</given-names>
+						</name>
+					</person-group> (
+					<year>2011b</year>).
+					<article-title>The application of wavelet analysis in the API of PM
+						<sub>10</sub> time series of Wuhan urban
+					</article-title>.
+					<source>J. Huazhong Normal Univ. (Nat. Sci.)</source>
+					<volume>44</volume>,
+					<fpage>678</fpage> (In Chinese)
+					<comment>.</comment>
+				</mixed-citation>
+			</ref>
+			<ref id="B10">
+				<mixed-citation publication-type="journal" xlink:type="simple">
+					<person-group person-group-type="author">
+						<name name-style="western">
+							<surname>Grivas</surname>
+							<given-names>G.</given-names>
+						</name>
+					</person-group>, and
+					<person-group person-group-type="author">
+						<name name-style="western">
+							<surname>Chaloulakou</surname>
+							<given-names>A.</given-names>
+						</name>
+					</person-group> (
+					<year>2006</year>).
+					<article-title>Artificial neural network models for prediction of PM
+						<sub>10</sub> hourly concentrations, in the Greater Area of Athens, Greece
+					</article-title>.
+					<source>Atmos. Environ.</source>
+					<volume>40</volume>,
+					<fpage>1216</fpage>
+					<comment>.</comment>
+				</mixed-citation>
+			</ref>
+			<ref id="B11">
+				<mixed-citation publication-type="journal" xlink:type="simple">
+					<person-group person-group-type="author">
+						<name name-style="western">
+							<surname>Ho</surname>
+							<given-names>K.F.</given-names>
+						</name>
+					</person-group>,
+					<person-group person-group-type="author">
+						<name name-style="western">
+							<surname>Lee</surname>
+							<given-names>S.C.</given-names>
+						</name>
+					</person-group>,
+					<person-group person-group-type="author">
+						<name name-style="western">
+							<surname>Chow</surname>
+							<given-names>J.C.</given-names>
+						</name>
+					</person-group>, and
+					<person-group person-group-type="author">
+						<name name-style="western">
+							<surname>Watson</surname>
+							<given-names>J.G.</given-names>
+						</name>
+					</person-group> (
+					<year>2003</year>).
+					<article-title>Characterization of PM
+						<sub>10</sub> and PM
+						<sub>2.5</sub> source profiles for fugitive dust in Hong Kong
+					</article-title>.
+					<source>Atmos. Environ.</source>
+					<volume>37</volume>,
+					<fpage>1023</fpage>
+					<comment>.</comment>
+				</mixed-citation>
+			</ref>
+			<ref id="B12">
+				<mixed-citation publication-type="journal" xlink:type="simple">
+					<person-group person-group-type="author">
+						<name name-style="western">
+							<surname>Hooyberghs</surname>
+							<given-names>J.</given-names>
+						</name>
+					</person-group>,
+					<person-group person-group-type="author">
+						<name name-style="western">
+							<surname>Mensink</surname>
+							<given-names>C.</given-names>
+						</name>
+					</person-group>,
+					<person-group person-group-type="author">
+						<name name-style="western">
+							<surname>Dumont</surname>
+							<given-names>G.</given-names>
+						</name>
+					</person-group>,
+					<person-group person-group-type="author">
+						<name name-style="western">
+							<surname>Fierens</surname>
+							<given-names>F.</given-names>
+						</name>
+					</person-group>, and
+					<person-group person-group-type="author">
+						<name name-style="western">
+							<surname>Brasserur</surname>
+							<given-names>O.</given-names>
+						</name>
+					</person-group> (
+					<year>2005</year>).
+					<article-title>A neural network forecast for daily average PM
+						<sub>10</sub> concentrations in Belgium
+					</article-title>.
+					<source>Atmos. Environ.</source>
+					<volume>39</volume>,
+					<fpage>3279</fpage>
+					<comment>.</comment>
+				</mixed-citation>
+			</ref>
+			<ref id="B13">
+				<mixed-citation publication-type="journal" xlink:type="simple">
+					<person-group person-group-type="author">
+						<name name-style="western">
+							<surname>Hornik</surname>
+							<given-names>K.</given-names>
+						</name>
+					</person-group>,
+					<person-group person-group-type="author">
+						<name name-style="western">
+							<surname>Stinchcombe</surname>
+							<given-names>M.</given-names>
+						</name>
+					</person-group>, and
+					<person-group person-group-type="author">
+						<name name-style="western">
+							<surname>White</surname>
+							<given-names>H.</given-names>
+						</name>
+					</person-group> (
+					<year>1989</year>).
+					<article-title>Multilayer feedforward networks are universal approximators</article-title>.
+					<source>Neural Netw.</source>
+					<volume>2</volume>,
+					<fpage>359</fpage>
+					<comment>.</comment>
+				</mixed-citation>
+			</ref>
+			<ref id="B14">
+				<mixed-citation publication-type="journal" xlink:type="simple">
+					<person-group person-group-type="author">
+						<name name-style="western">
+							<surname>Jiang</surname>
+							<given-names>D.H.</given-names>
+						</name>
+					</person-group>,
+					<person-group person-group-type="author">
+						<name name-style="western">
+							<surname>Zhang</surname>
+							<given-names>Y.</given-names>
+						</name>
+					</person-group>,
+					<person-group person-group-type="author">
+						<name name-style="western">
+							<surname>Hu</surname>
+							<given-names>X.</given-names>
+						</name>
+					</person-group>,
+					<person-group person-group-type="author">
+						<name name-style="western">
+							<surname>Zeng</surname>
+							<given-names>Y.</given-names>
+						</name>
+					</person-group>,
+					<person-group person-group-type="author">
+						<name name-style="western">
+							<surname>Tan</surname>
+							<given-names>J.G.</given-names>
+						</name>
+					</person-group>, and
+					<person-group person-group-type="author">
+						<name name-style="western">
+							<surname>Shao</surname>
+							<given-names>D.M.</given-names>
+						</name>
+					</person-group> (
+					<year>2004</year>).
+					<article-title>Progress in developing an ANN model for air pollution index forecast</article-title>.
+					<source>Atmos. Environ.</source>
+					<volume>38</volume>,
+					<fpage>7055</fpage>
+					<comment>.</comment>
+				</mixed-citation>
+			</ref>
+			<ref id="B15">
+				<mixed-citation publication-type="journal" xlink:type="simple">
+					<person-group person-group-type="author">
+						<name name-style="western">
+							<surname>Kukkonen</surname>
+							<given-names>J.</given-names>
+						</name>
+					</person-group>,
+					<person-group person-group-type="author">
+						<name name-style="western">
+							<surname>Partanen</surname>
+							<given-names>L.</given-names>
+						</name>
+					</person-group>,
+					<person-group person-group-type="author">
+						<name name-style="western">
+							<surname>Karppinen</surname>
+							<given-names>A.</given-names>
+						</name>
+					</person-group>,
+					<person-group person-group-type="author">
+						<name name-style="western">
+							<surname>Ruuskanen</surname>
+							<given-names>J.</given-names>
+						</name>
+					</person-group>,
+					<person-group person-group-type="author">
+						<name name-style="western">
+							<surname>Junninen</surname>
+							<given-names>H.</given-names>
+						</name>
+					</person-group>,
+					<person-group person-group-type="author">
+						<name name-style="western">
+							<surname>Kolehmainen</surname>
+							<given-names>M.</given-names>
+						</name>
+					</person-group>,
+					<person-group person-group-type="author">
+						<name name-style="western">
+							<surname>Niska</surname>
+							<given-names>H.</given-names>
+						</name>
+					</person-group>,
+					<person-group person-group-type="author">
+						<name name-style="western">
+							<surname>Dorling</surname>
+							<given-names>S.</given-names>
+						</name>
+					</person-group>,
+					<person-group person-group-type="author">
+						<name name-style="western">
+							<surname>Chatterton</surname>
+							<given-names>T.</given-names>
+						</name>
+					</person-group>,
+					<person-group person-group-type="author">
+						<name name-style="western">
+							<surname>Foxall</surname>
+							<given-names>R.</given-names>
+						</name>
+					</person-group>, and
+					<person-group person-group-type="author">
+						<name name-style="western">
+							<surname>Cawley</surname>
+							<given-names>G.</given-names>
+						</name>
+					</person-group> (
+					<year>2003</year>).
+					<article-title>Extensive evaluation of neural network models for the prediction of NO
+						<sub>2</sub> and PM
+						<sub>10</sub> concentrations, compared with a deterministic modelling system and measurements in central Helsinki
+					</article-title>.
+					<source>Atmos. Environ.</source>
+					<volume>37</volume>,
+					<fpage>4549</fpage>
+					<comment>.</comment>
+				</mixed-citation>
+			</ref>
+			<ref id="B16">
+				<mixed-citation publication-type="journal" xlink:type="simple">
+					<person-group person-group-type="author">
+						<name name-style="western">
+							<surname>Kumar</surname>
+							<given-names>P.</given-names>
+						</name>
+					</person-group>,
+					<person-group person-group-type="author">
+						<name name-style="western">
+							<surname>Mulheron</surname>
+							<given-names>M.</given-names>
+						</name>
+					</person-group>,
+					<person-group person-group-type="author">
+						<name name-style="western">
+							<surname>Fisher</surname>
+							<given-names>B.</given-names>
+						</name>
+					</person-group>, and
+					<person-group person-group-type="author">
+						<name name-style="western">
+							<surname>Harrison</surname>
+							<given-names>R.M.</given-names>
+						</name>
+					</person-group> (
+					<year>2012</year>).
+					<article-title>New directions: Airborne ultrafine particle dust from building activities—a source in need of quantification</article-title>.
+					<source>Atmos. Environ.</source>
+					<volume>56</volume>,
+					<fpage>262</fpage>
+					<comment>.</comment>
+				</mixed-citation>
+			</ref>
+			<ref id="B17">
+				<mixed-citation publication-type="journal" xlink:type="simple">
+					<person-group person-group-type="author">
+						<name name-style="western">
+							<surname>Mensink</surname>
+							<given-names>C.</given-names>
+						</name>
+					</person-group>,
+					<person-group person-group-type="author">
+						<name name-style="western">
+							<surname>Cosemans</surname>
+							<given-names>G.</given-names>
+						</name>
+					</person-group>,
+					<person-group person-group-type="author">
+						<name name-style="western">
+							<surname>Bleux</surname>
+							<given-names>N.</given-names>
+						</name>
+					</person-group>,
+					<person-group person-group-type="author">
+						<name name-style="western">
+							<surname>Berghmans</surname>
+							<given-names>P.</given-names>
+						</name>
+					</person-group>,
+					<person-group person-group-type="author">
+						<name name-style="western">
+							<surname>Deutsch</surname>
+							<given-names>F.</given-names>
+						</name>
+					</person-group>,
+					<person-group person-group-type="author">
+						<name name-style="western">
+							<surname>Janssen</surname>
+							<given-names>L.</given-names>
+						</name>
+					</person-group>,
+					<person-group person-group-type="author">
+						<name name-style="western">
+							<surname>Liekens</surname>
+							<given-names>I.</given-names>
+						</name>
+					</person-group>,
+					<person-group person-group-type="author">
+						<name name-style="western">
+							<surname>Torfs</surname>
+							<given-names>R.</given-names>
+						</name>
+					</person-group>, and
+					<person-group person-group-type="author">
+						<name name-style="western">
+							<surname>Van Rompaey</surname>
+							<given-names>H.</given-names>
+						</name>
+					</person-group> (
+					<year>2011</year>).
+					<article-title>Quantification of diffuse and fugitive PM
+						<sub>10</sub> sources by integrated “hot spot” method
+					</article-title>.
+					<source>Atmos. Environ.</source>
+					<volume>45</volume>,
+					<fpage>2233</fpage>
+					<comment>.</comment>
+				</mixed-citation>
+			</ref>
+			<ref id="B18">
+				<mixed-citation publication-type="web" xlink:type="simple">
+					<collab xlink:type="simple">Ministry of Environmental Protection of the People's Republic of China</collab>. (
+					<year>2009–2011</year>).
+					<article-title>State of the Environment in China</article-title>.
+					<uri xlink:href="http://jcs.mep.gov.cn/hjzl/zkgb" xlink:type="simple">http://jcs.mep.gov.cn/hjzl/zkgb</uri>
+				</mixed-citation>
+			</ref>
+			<ref id="B19">
+				<mixed-citation publication-type="other" xlink:type="simple">
+					<collab xlink:type="simple">Ministry of Environmental Protection of the People's Republic of China</collab>. (
+					<year>2012</year>).
+					<article-title>Technical Regulation on Ambient Air Quality Index (on trial)</article-title>. (HJ 633–2012)
+					<comment>.</comment>
+				</mixed-citation>
+			</ref>
+			<ref id="B20">
+				<mixed-citation publication-type="journal" xlink:type="simple">
+					<person-group person-group-type="author">
+						<name name-style="western">
+							<surname>Morabito</surname>
+							<given-names>F.C.</given-names>
+						</name>
+					</person-group>, and
+					<person-group person-group-type="author">
+						<name name-style="western">
+							<surname>Versaci</surname>
+							<given-names>M.</given-names>
+						</name>
+					</person-group> (
+					<year>2003</year>).
+					<article-title>Fuzzy neural identification and forecasting techniques to process experimental urban air pollution data</article-title>.
+					<source>Neural Netw.</source>
+					<volume>16</volume>,
+					<fpage>493</fpage>
+					<comment>.</comment>
+				</mixed-citation>
+			</ref>
+			<ref id="B21">
+				<mixed-citation publication-type="journal" xlink:type="simple">
+					<person-group person-group-type="author">
+						<name name-style="western">
+							<surname>Muleski</surname>
+							<given-names>G.E.</given-names>
+						</name>
+					</person-group>,
+					<person-group person-group-type="author">
+						<name name-style="western">
+							<surname>Cowherd</surname>
+							<given-names>C.</given-names>
+							<suffix>Jr.</suffix>
+						</name>
+					</person-group>, and
+					<person-group person-group-type="author">
+						<name name-style="western">
+							<surname>Kinsey</surname>
+							<given-names>J.S.</given-names>
+						</name>
+					</person-group> (
+					<year>2005</year>).
+					<article-title>Particulate emissions from construction activities</article-title>.
+					<source>J. Air Waste Manage. Assoc.</source>
+					<volume>55</volume>,
+					<fpage>772</fpage>
+					<comment>.</comment>
+				</mixed-citation>
+			</ref>
+			<ref id="B22">
+				<mixed-citation publication-type="journal" xlink:type="simple">
+					<person-group person-group-type="author">
+						<name name-style="western">
+							<surname>Nejadkoorki</surname>
+							<given-names>F.</given-names>
+						</name>
+					</person-group>, and
+					<person-group person-group-type="author">
+						<name name-style="western">
+							<surname>Baroutian</surname>
+							<given-names>S.</given-names>
+						</name>
+					</person-group> (
+					<year>2012</year>).
+					<article-title>Forecasting extreme PM
+						<sub>10</sub> concentrations using artificial neural networks
+					</article-title>.
+					<source>Int. J. Environ. Res.</source>
+					<volume>6</volume>,
+					<fpage>1735</fpage>
+					<comment>.</comment>
+				</mixed-citation>
+			</ref>
+			<ref id="B23">
+				<mixed-citation publication-type="journal" xlink:type="simple">
+					<person-group person-group-type="author">
+						<name name-style="western">
+							<surname>Osowski</surname>
+							<given-names>S.</given-names>
+						</name>
+					</person-group>, and
+					<person-group person-group-type="author">
+						<name name-style="western">
+							<surname>Garanty</surname>
+							<given-names>K.</given-names>
+						</name>
+					</person-group> (
+					<year>2007</year>).
+					<article-title>Forecasting of the daily meteorological pollution using wavelets and support vector machine</article-title>.
+					<source>Eng. Appl. Artif. Intel.</source>
+					<volume>20</volume>,
+					<fpage>745</fpage>
+					<comment>.</comment>
+				</mixed-citation>
+			</ref>
+			<ref id="B24">
+				<mixed-citation publication-type="journal" xlink:type="simple">
+					<person-group person-group-type="author">
+						<name name-style="western">
+							<surname>Paschalidou</surname>
+							<given-names>A.K.</given-names>
+						</name>
+					</person-group>,
+					<person-group person-group-type="author">
+						<name name-style="western">
+							<surname>Karaloysios</surname>
+							<given-names>S.</given-names>
+						</name>
+					</person-group>,
+					<person-group person-group-type="author">
+						<name name-style="western">
+							<surname>Kleanthous</surname>
+							<given-names>S.</given-names>
+						</name>
+					</person-group>, and
+					<person-group person-group-type="author">
+						<name name-style="western">
+							<surname>Kassomenos</surname>
+							<given-names>P.A.</given-names>
+						</name>
+					</person-group> (
+					<year>2011</year>).
+					<article-title>Forecasting hourly PM
+						<sub>10</sub> concentration in Cyprus through artificial neural networks and multiple regression models: implications to local environmental management
+					</article-title>.
+					<source>Environ. Sci. Pollut. R.</source>
+					<volume>18</volume>,
+					<fpage>316</fpage>
+					<comment>.</comment>
+				</mixed-citation>
+			</ref>
+			<ref id="B25">
+				<mixed-citation publication-type="journal" xlink:type="simple">
+					<person-group person-group-type="author">
+						<name name-style="western">
+							<surname>Perez</surname>
+							<given-names>P.</given-names>
+						</name>
+					</person-group>, and
+					<person-group person-group-type="author">
+						<name name-style="western">
+							<surname>Reyes</surname>
+							<given-names>J.</given-names>
+						</name>
+					</person-group> (
+					<year>2006</year>).
+					<article-title>An integrated neural network model for PM
+						<sub>10</sub> forecasting
+					</article-title>.
+					<source>Atmos. Environ.</source>
+					<volume>40</volume>,
+					<fpage>2845</fpage>
+					<comment>.</comment>
+				</mixed-citation>
+			</ref>
+			<ref id="B26">
+				<mixed-citation publication-type="confproc" xlink:type="simple">
+					<person-group person-group-type="author">
+						<name name-style="western">
+							<surname>Siwek</surname>
+							<given-names>K.</given-names>
+						</name>
+					</person-group>,
+					<person-group person-group-type="author">
+						<name name-style="western">
+							<surname>Osowski</surname>
+							<given-names>S.</given-names>
+						</name>
+					</person-group>, and
+					<person-group person-group-type="author">
+						<name name-style="western">
+							<surname>Sowinski</surname>
+							<given-names>M.</given-names>
+						</name>
+					</person-group> (
+					<year>2009</year>).
+					<article-title>Neural predictor ensemble for accurate forecasting of PM
+						<sub>10</sub> pollution
+					</article-title>.
+					<conf-name>Proceedings of the International Joint Conference on Neural Networks (IJCNN)</conf-name>,
+					<conf-loc>Barcelona</conf-loc>. p.
+					<fpage>1</fpage>
+					<comment>.</comment>
+				</mixed-citation>
+			</ref>
+			<ref id="B27">
+				<mixed-citation publication-type="journal" xlink:type="simple">
+					<person-group person-group-type="author">
+						<name name-style="western">
+							<surname>Siwek</surname>
+							<given-names>K.</given-names>
+						</name>
+					</person-group>, and
+					<person-group person-group-type="author">
+						<name name-style="western">
+							<surname>Osowski</surname>
+							<given-names>S.</given-names>
+						</name>
+					</person-group> (
+					<year>2012</year>).
+					<article-title>Improving the accuracy of prediction of PM
+						<sub>10</sub> pollution by the wavelet transformation and an ensemble of neural predictors
+					</article-title>.
+					<source>Eng. Appl. Artif. Intel.</source>
+					<volume>25</volume>,
+					<fpage>1246</fpage>
+					<comment>.</comment>
+				</mixed-citation>
+			</ref>
+			<ref id="B28">
+				<mixed-citation publication-type="journal" xlink:type="simple">
+					<person-group person-group-type="author">
+						<name name-style="western">
+							<surname>Tian</surname>
+							<given-names>G.</given-names>
+						</name>
+					</person-group>,
+					<person-group person-group-type="author">
+						<name name-style="western">
+							<surname>Fan</surname>
+							<given-names>S.B.</given-names>
+						</name>
+					</person-group>,
+					<person-group person-group-type="author">
+						<name name-style="western">
+							<surname>Huang</surname>
+							<given-names>Y.H.</given-names>
+						</name>
+					</person-group>,
+					<person-group person-group-type="author">
+						<name name-style="western">
+							<surname>Nie</surname>
+							<given-names>L.</given-names>
+						</name>
+					</person-group>, and
+					<person-group person-group-type="author">
+						<name name-style="western">
+							<surname>Li</surname>
+							<given-names>G.</given-names>
+						</name>
+					</person-group> (
+					<year>2008a</year>).
+					<article-title>Relationship between wind velocity and PM
+						<sub>10</sub> concentration &amp; emission flux of fugitive dust source
+					</article-title>.
+					<source>Environ. Sci.</source>
+					<volume>10</volume>,
+					<fpage>2983</fpage>. (In Chinese)
+				</mixed-citation>
+			</ref>
+			<ref id="B29">
+				<mixed-citation publication-type="journal" xlink:type="simple">
+					<person-group person-group-type="author">
+						<name name-style="western">
+							<surname>Tian</surname>
+							<given-names>G.</given-names>
+						</name>
+					</person-group>,
+					<person-group person-group-type="author">
+						<name name-style="western">
+							<surname>Li</surname>
+							<given-names>G.</given-names>
+						</name>
+					</person-group>,
+					<person-group person-group-type="author">
+						<name name-style="western">
+							<surname>Yan</surname>
+							<given-names>B.L.</given-names>
+						</name>
+					</person-group>,
+					<person-group person-group-type="author">
+						<name name-style="western">
+							<surname>Huang</surname>
+							<given-names>Y.H.</given-names>
+						</name>
+					</person-group>, and
+					<person-group person-group-type="author">
+						<name name-style="western">
+							<surname>Qin</surname>
+							<given-names>J.P.</given-names>
+						</name>
+					</person-group> (
+					<year>2008b</year>).
+					<article-title>Spatial dispersion laws of fugitive dust from construction sites</article-title>.
+					<source>Environ. Sci.</source>
+					<volume>1</volume>,
+					<fpage>259</fpage>. (In Chinese)
+				</mixed-citation>
+			</ref>
+			<ref id="B30">
+				<mixed-citation publication-type="book" xlink:type="simple">
+					<person-group person-group-type="author">
+						<name name-style="western">
+							<surname>Watson</surname>
+							<given-names>J.G.</given-names>
+						</name>
+					</person-group>, and
+					<person-group person-group-type="author">
+						<name name-style="western">
+							<surname>Chow</surname>
+							<given-names>J.C.</given-names>
+						</name>
+					</person-group> (
+					<year>2000</year>).
+					<source>Reconciling urban fugitive dust emissions inventory and ambient source contribution estimates: summary of current knowledge and needed research</source>.
+					<publisher-name>Desert Research Institute</publisher-name>, DRI Document No. 6110.4F
+					<comment>.</comment>
+				</mixed-citation>
+			</ref>
+			<ref id="B31">
+				<mixed-citation publication-type="journal" xlink:type="simple">
+					<person-group person-group-type="author">
+						<name name-style="western">
+							<surname>Wu</surname>
+							<given-names>S.J.</given-names>
+						</name>
+					</person-group>,
+					<person-group person-group-type="author">
+						<name name-style="western">
+							<surname>Feng</surname>
+							<given-names>Q.</given-names>
+						</name>
+					</person-group>,
+					<person-group person-group-type="author">
+						<name name-style="western">
+							<surname>Du</surname>
+							<given-names>Y.</given-names>
+						</name>
+					</person-group>, and
+					<person-group person-group-type="author">
+						<name name-style="western">
+							<surname>Li</surname>
+							<given-names>X.D.</given-names>
+						</name>
+					</person-group> (
+					<year>2011</year>).
+					<article-title>Artificial neural network models for daily PM
+						<sub>10</sub> air pollution index prediction in the urban area of Wuhan, China
+					</article-title>.
+					<source>Environ. Eng. Sci.</source>
+					<volume>28</volume>,
+					<fpage>357</fpage>
+					<comment>.</comment>
+				</mixed-citation>
+			</ref>
+			<ref id="B32">
+				<mixed-citation publication-type="journal" xlink:type="simple">
+					<person-group person-group-type="author">
+						<name name-style="western">
+							<surname>Yang</surname>
+							<given-names>T.</given-names>
+						</name>
+					</person-group>,
+					<person-group person-group-type="author">
+						<name name-style="western">
+							<surname>Zeng</surname>
+							<given-names>Q.L.</given-names>
+						</name>
+					</person-group>,
+					<person-group person-group-type="author">
+						<name name-style="western">
+							<surname>Liu</surname>
+							<given-names>Z.F.</given-names>
+						</name>
+					</person-group>, and
+					<person-group person-group-type="author">
+						<name name-style="western">
+							<surname>Liu</surname>
+							<given-names>Q.S.</given-names>
+						</name>
+					</person-group> (
+					<year>2011</year>).
+					<article-title>Magnetic properties of the road dusts from two parks in Wuhan city, China: implications for mapping urban environment</article-title>.
+					<source>Environ. Monit. Assess.</source>
+					<volume>177</volume>,
+					<fpage>637</fpage>
+					<comment>.</comment>
+				</mixed-citation>
+			</ref>
+			<ref id="B33">
+				<mixed-citation publication-type="journal" xlink:type="simple">
+					<person-group person-group-type="author">
+						<name name-style="western">
+							<surname>Zhao</surname>
+							<given-names>P.S.</given-names>
+						</name>
+					</person-group>,
+					<person-group person-group-type="author">
+						<name name-style="western">
+							<surname>Feng</surname>
+							<given-names>Y.G.</given-names>
+						</name>
+					</person-group>,
+					<person-group person-group-type="author">
+						<name name-style="western">
+							<surname>Zhang</surname>
+							<given-names>Y.F.</given-names>
+						</name>
+					</person-group>,
+					<person-group person-group-type="author">
+						<name name-style="western">
+							<surname>Zhu</surname>
+							<given-names>T.</given-names>
+						</name>
+					</person-group>,
+					<person-group person-group-type="author">
+						<name name-style="western">
+							<surname>Jin</surname>
+							<given-names>J.</given-names>
+						</name>
+					</person-group>, and
+					<person-group person-group-type="author">
+						<name name-style="western">
+							<surname>Zhang</surname>
+							<given-names>X.L.</given-names>
+						</name>
+					</person-group> (
+					<year>2009</year>).
+					<article-title>Modeling and impact study of fugitive dust emissions from building construction sites</article-title>.
+					<source>China Environmental Science</source>
+					<volume>6</volume>,
+					<fpage>567</fpage>. (In Chinese)
+				</mixed-citation>
+			</ref>
+			<ref id="B34">
+				<mixed-citation publication-type="journal" xlink:type="simple">
+					<person-group person-group-type="author">
+						<name name-style="western">
+							<surname>Zhu</surname>
+							<given-names>Z.C.</given-names>
+						</name>
+					</person-group>,
+					<person-group person-group-type="author">
+						<name name-style="western">
+							<surname>Kong</surname>
+							<given-names>L.L.</given-names>
+						</name>
+					</person-group>, and
+					<person-group person-group-type="author">
+						<name name-style="western">
+							<surname>Xia</surname>
+							<given-names>K.</given-names>
+						</name>
+					</person-group> (
+					<year>2009</year>).
+					<article-title>Analysis of PM
+						<sub>10</sub> source in Wuhan and its countermeasures [J]
+					</article-title>.
+					<source>Environ. Sci. Technol.</source>
+					<volume>9</volume>,
+					<fpage>64</fpage>. (In Chinese)
+				</mixed-citation>
+			</ref>
+		</ref-list>
+	</back>
+</article>

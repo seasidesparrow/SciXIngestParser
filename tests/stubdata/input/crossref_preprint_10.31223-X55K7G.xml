@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doi_records>
+  <doi_record owner="10.31223" timestamp="2021-08-06 09:46:05">
+    <crossref>
+      <posted_content type="preprint">
+        <group_title>Computer Sciences</group_title>
+        <contributors>
+          <person_name contributor_role="author" sequence="first">
+            <given_name>Jacob</given_name>
+            <surname>Zwart</surname>
+            <ORCID>https://orcid.org/0000-0002-3870-405X</ORCID>
+          </person_name>
+          <person_name contributor_role="author" sequence="additional">
+            <given_name>Samantha</given_name>
+            <surname>Oliver</surname>
+            <ORCID>https://orcid.org/0000-0001-5668-1165</ORCID>
+          </person_name>
+          <person_name contributor_role="author" sequence="additional">
+            <given_name>William</given_name>
+            <surname>Watkins</surname>
+            <ORCID>https://orcid.org/0000-0002-7544-0700</ORCID>
+          </person_name>
+          <person_name contributor_role="author" sequence="additional">
+            <given_name>Jeffrey</given_name>
+            <surname>Sadler</surname>
+            <ORCID>https://orcid.org/0000-0001-8776-4844</ORCID>
+          </person_name>
+          <person_name contributor_role="author" sequence="additional">
+            <given_name>Alison</given_name>
+            <surname>Appling</surname>
+            <ORCID>https://orcid.org/0000-0003-3638-8572</ORCID>
+          </person_name>
+          <person_name contributor_role="author" sequence="additional">
+            <given_name>Hayley</given_name>
+            <surname>Corson-Dosch</surname>
+            <ORCID>https://orcid.org/0000-0001-8695-1584</ORCID>
+          </person_name>
+          <person_name contributor_role="author" sequence="additional">
+            <given_name>Xiaowei</given_name>
+            <surname>Jia</surname>
+            <ORCID>https://orcid.org/0000-0001-8544-5233</ORCID>
+          </person_name>
+          <person_name contributor_role="author" sequence="additional">
+            <given_name>Vipin</given_name>
+            <surname>Kumar</surname>
+          </person_name>
+          <person_name contributor_role="author" sequence="additional">
+            <given_name>Jordan</given_name>
+            <surname>Read</surname>
+          </person_name>
+        </contributors>
+        <titles>
+          <title>Near-term forecasts of stream temperature using process-guided deep learning and data assimilation</title>
+        </titles>
+        <posted_date>
+          <month>8</month>
+          <day>6</day>
+          <year>2021</year>
+        </posted_date>
+        <acceptance_date>
+          <month>8</month>
+          <day>6</day>
+          <year>2021</year>
+        </acceptance_date>
+        <abstract>
+          <p>Near-term forecasts of environmental outcomes can inform real-time decision making. Data assimilation modeling techniques can be used for forecasts to leverage real-time data streams, where the difference between model predictions and observations can be used to adjust the model to make better predictions tomorrow. In this use case, we developed a process-guided deep learning and data assimilation approach to make 7-day forecasts of daily maximum water temperature in the Delaware River Basin. Our modeling system produced forecasts of daily maximum stream temperature with an average root mean squared error (RMSE) from 1.2 to 1.6°C for 1-day lead time across all sites. The data assimilation algorithm successfully adjusted the process-guided deep learning model states and marginally improved forecast performance when compared to forecasts produced using the process-guided deep learning model alone (7-13% lower RMSE with the data assimilation algorithm). Our model characterized forecast uncertainty relatively well as 57-80% of observations were within 90% forecast confidence intervals across all sites and lead times, and the uncertainty associated with our forecasts allow managers to anticipate probability of exceedances of ecologically relevant thresholds and aid in decisions about releasing reservoir water downstream. The flexibility of deep learning models to be applied to various prediction problems shows promise for using these types of models to forecast many other important environmental variables and aid in decision making.</p>
+        </abstract>
+        <!-- placeholder DOI, will be overwritten when DOI is minted -->
+        <doi_data>
+          <doi>10.31223/X55K7G</doi>
+          <resource>http://eartharxiv.org/repository/view/2590/</resource>
+        </doi_data>
+      </posted_content>
+    </crossref>
+  </doi_record>
+</doi_records>

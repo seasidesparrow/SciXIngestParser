@@ -1,0 +1,68 @@
+{
+  "doctype": "article",
+  "esources": [
+    {
+      "location": "https://ufn.ru/en/articles/2024/3/d/",
+      "source": "pub_html"
+    }
+  ],
+  "pagination": {
+    "firstPage": "292",
+    "lastPage": "292"
+  },
+  "persistentIDs": [
+    {
+      "DOI": "10.3367/UFNe.2022.11.039660"
+    }
+  ],
+  "pubDate": {
+    "electrDate": "2022-11-00",
+    "printDate": "2024-03-00"
+  },
+  "publication": {
+    "ISSN": [
+      {
+        "issnString": "1063-7869",
+        "pubtype": "print"
+      },
+      {
+        "issnString": "1468-4780",
+        "pubtype": "electronic"
+      }
+    ],
+    "issueNum": "03",
+    "pubName": "Physics-Uspekhi",
+    "pubYear": "2024",
+    "volumeNum": "67"
+  },
+  "recordData": {
+    "createdTime": "",
+    "loadFormat": "OtherXML",
+    "loadLocation": "",
+    "loadType": "fromFile",
+    "parsedTime": "",
+    "recordOrigin": ""
+  },
+  "references": [
+    "<citation key=\"key-10.3367/UFNe.2022.11.039660-1-1\"> <doi>10.3367/UFNe.2022.11.039276</doi> </citation>",
+    "<citation key=\"key-10.3367/UFNe.2022.11.039660-1-2\"> <doi>10.3367/UFNr.2022.11.039276</doi> </citation>",
+    "<citation key=\"key-10.3367/UFNe.2022.11.039660-2-1\"> <doi>10.3367/UFNe.2022.10.039268</doi> </citation>",
+    "<citation key=\"key-10.3367/UFNe.2022.11.039660-2-2\"> <doi>10.3367/UFNr.2022.10.039268</doi> </citation>",
+    "<citation key=\"key-10.3367/UFNe.2022.11.039660-3-1\"> <doi>10.3367/UFNe.2022.10.039270</doi> </citation>",
+    "<citation key=\"key-10.3367/UFNe.2022.11.039660-3-2\"> <doi>10.3367/UFNr.2022.10.039270</doi> </citation>",
+    "<citation key=\"key-10.3367/UFNe.2022.11.039660-5-1\"> <author>Zubarev</author> <cYear>2022</cYear> <journal_title>Kvantovaya Elektron.</journal_title> <volume>52</volume> <issue>12</issue> <first_page>1064-1069</first_page> </citation>",
+    "<citation key=\"key-10.3367/UFNe.2022.11.039660-6-1\"> <author>Slipchenko</author> <cYear>2023</cYear> <journal_title>Bull. Lebedev Phys. Inst.</journal_title> <volume>50</volume> <first_page>S494-S512</first_page> </citation>",
+    "<citation key=\"key-10.3367/UFNe.2022.11.039660-6-2\"> <author>Slipchenko</author> <cYear>2022</cYear> <journal_title>Kvantovaya Elektron.</journal_title> <volume>52</volume> <issue>12</issue> <first_page>1152</first_page> </citation>",
+    "<citation key=\"key-10.3367/UFNe.2022.11.039660-7-1\"> <author>Gus\\'kov</author> <cYear>2023</cYear> <journal_title>Bull. Lebedev Phys. Inst.</journal_title> <volume>50</volume> <first_page>S395-S404</first_page> </citation>",
+    "<citation key=\"key-10.3367/UFNe.2022.11.039660-7-2\"> <author>Gus\\'kov</author> <cYear>2022</cYear> <journal_title>Kvantovaya Elektron.</journal_title> <volume>52</volume> <issue>12</issue> <first_page>1070</first_page> </citation>",
+    "<citation key=\"key-10.3367/UFNe.2022.11.039660-8-1\"> <doi>10.3367/UFNe.2022.11.039347</doi> </citation>",
+    "<citation key=\"key-10.3367/UFNe.2022.11.039660-8-2\"> <doi>10.3367/UFNr.2022.11.039347</doi> </citation>",
+    "<citation key=\"key-10.3367/UFNe.2022.11.039660-9-1\"> <doi>10.3367/UFNe.2022.11.039357</doi> </citation>",
+    "<citation key=\"key-10.3367/UFNe.2022.11.039660-9-2\"> <doi>10.3367/UFNr.2022.11.039357</doi> </citation>",
+    "<citation key=\"key-10.3367/UFNe.2022.11.039660-10-1\"> <doi>10.3367/UFNe.2022.11.039612</doi> </citation>",
+    "<citation key=\"key-10.3367/UFNe.2022.11.039660-10-2\"> <doi>10.3367/UFNr.2022.11.039612</doi> </citation>"
+  ],
+  "title": {
+    "textEnglish": "Basov Readings"
+  }
+}

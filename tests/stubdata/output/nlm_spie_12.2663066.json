@@ -1,0 +1,146 @@
+{
+  "abstract": {
+    "textEnglish": "ONERA \u2013 The French Aerospace Lab \u2013 develops new concepts of 3D-LiDAR imaging systems including new sensor technologies such as detector for photon counting and, associated data processing. The rising complexities and costs of high performance systems, and the shrinking time to design drove the ONERA approach. The home-grown MATLIS software has been evolving for the past decade. It allows both linear mode LiDAR and single photon electro-optical systems simulation (both GmAPD and SPL) embedded on dynamic platforms (eg. UAVs, Aircrafts). The static or dynamic 3D scene is fully described both in terms of geometry and optical properties (eg. reflectance, background illumination, and atmosphere). The scanning system and the platform motion are taken into account. Laser propagation is fully modelled including atmospheric effects such as turbulence, absorption, and backscattering in the forward and backward directions. Target interaction is angle dependent (temporal broadening and directional backscattering). Optical full-wave-form signal is computed in the focal plane of the imaging system. A 3D point cloud is generated using sensor models (including but not limited to APD, GmAPD, SiPM\u2026). Here, we describe our end-to-end MATLIS software and present validation cases. Then, we apply a complete performance analysis study to design a novel and original concept of low-SWaP 3D-LiDAR to detect non-cooperative targets from a stratospheric surveillance platform."
+  },
+  "authors": [
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "ONERA/DOTA, Univ. of Toulouse (France)"
+        }
+      ],
+      "name": {
+        "given_name": "Nicolas",
+        "surname": "Riviere"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "ONERA/DOTA, Univ. of Toulouse (France)"
+        }
+      ],
+      "name": {
+        "given_name": "Paul-\u00c9douard",
+        "surname": "Dupouy"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "ONERA/DOTA, Univ. of Toulouse (France)"
+        }
+      ],
+      "name": {
+        "given_name": "Ahmed",
+        "surname": "Moussous"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "ONERA/DOTA, Univ. of Toulouse (France)"
+        }
+      ],
+      "name": {
+        "given_name": "Anita",
+        "surname": "Schilling"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "ONERA/DOTA, Univ. of Toulouse (France)"
+        }
+      ],
+      "name": {
+        "given_name": "Erwan",
+        "surname": "Viala"
+      }
+    }
+  ],
+  "copyright": {
+    "statement": "COPYRIGHT SPIE. Downloading of the abstract is permitted for personal use only.",
+    "status": true
+  },
+  "otherContributor": [
+    {
+      "contrib": {
+        "affiliation": [
+          {
+            "affPubRaw": "Argo AI, LLC (United States)"
+          }
+        ],
+        "name": {
+          "given_name": "Mark A.",
+          "surname": "Itzler"
+        }
+      },
+      "role": "editor"
+    },
+    {
+      "contrib": {
+        "affiliation": [
+          {
+            "affPubRaw": "National Institute of Standards and Technology (United States)"
+          }
+        ],
+        "name": {
+          "given_name": "Joshua C.",
+          "surname": "Bienfang"
+        }
+      },
+      "role": "editor"
+    },
+    {
+      "contrib": {
+        "affiliation": [
+          {
+            "affPubRaw": "MIT Lincoln Lab. (United States)"
+          }
+        ],
+        "name": {
+          "given_name": "K. Alex",
+          "surname": "McIntosh"
+        }
+      },
+      "role": "editor"
+    }
+  ],
+  "pagination": {
+    "firstPage": "125120D",
+    "lastPage": "125120D-7",
+    "pageRange": "125120D-125120D-7"
+  },
+  "persistentIDs": [
+    {
+      "DOI": "10.1117/12.2663066"
+    }
+  ],
+  "pubDate": {
+    "electrDate": "2023-06-15",
+    "printDate": "2023-06-15"
+  },
+  "publication": {
+    "ISSN": [
+      {
+        "issnString": "0277-786X"
+      }
+    ],
+    "confName": "Defense + Commercial Sensing",
+    "pubYear": "2023",
+    "publisher": "SPIE",
+    "volumeNum": "12512"
+  },
+  "recordData": {
+    "createdTime": "",
+    "loadFormat": "JATS",
+    "loadLocation": "",
+    "loadType": "fromFile",
+    "parsedTime": "",
+    "recordOrigin": ""
+  },
+  "title": {
+    "textEnglish": "Low-SWaP embedded 3D-LiDAR to detect non-cooperative targets"
+  }
+}

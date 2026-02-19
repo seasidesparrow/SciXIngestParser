@@ -1,0 +1,147 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v3.0 20080202//EN" "http://dtd.nlm.nih.gov/publishing/3.0/journalpublishing3.dtd">
+<article article-type="proceedings" dtd-version="3.0" xml:lang="en" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<front>
+<journal-meta>
+<issn>0277-786X</issn>
+<isbn>9781510661387</isbn>
+<publisher>
+<publisher-name>SPIE</publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="doi">10.1117/12.2664959</article-id>
+<title-group>
+<article-title>
+Advancements in linear-mode photon-counting HgCdTe e-APDs for space and defense applications
+</article-title>
+</title-group>
+<contrib-group content-type="volume">
+<contrib contrib-type="editor">
+<name>
+<surname>Itzler</surname>
+<given-names>Mark A.</given-names>
+</name>
+<xref ref-type="aff" rid="aff3" />
+</contrib>
+<contrib contrib-type="editor">
+<name>
+<surname>Bienfang</surname>
+<given-names>Joshua C.</given-names>
+</name>
+<xref ref-type="aff" rid="aff4" />
+</contrib>
+<contrib contrib-type="editor">
+<name>
+<surname>McIntosh</surname>
+<given-names>K. Alex</given-names>
+</name>
+<xref ref-type="aff" rid="aff5" />
+</contrib>
+</contrib-group>
+<contrib-group content-type="article">
+<contrib contrib-type="author">
+<name>
+<surname>Anderson</surname>
+<given-names>P. Duke</given-names>
+</name>
+<xref ref-type="aff" rid="aff1" />
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname>McCurdy</surname>
+<given-names>James</given-names>
+</name>
+<xref ref-type="aff" rid="aff1" />
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname>Huebner</surname>
+<given-names>Adam</given-names>
+</name>
+<xref ref-type="aff" rid="aff1" />
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname>Sawatsky</surname>
+<given-names>Austin</given-names>
+</name>
+<xref ref-type="aff" rid="aff1" />
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname>Schaake</surname>
+<given-names>Christopher</given-names>
+</name>
+<xref ref-type="aff" rid="aff1" />
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname>Cook</surname>
+<given-names>Grady</given-names>
+</name>
+<xref ref-type="aff" rid="aff1" />
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname>Sun</surname>
+<given-names>Xiaoli</given-names>
+</name>
+<xref ref-type="aff" rid="aff2" />
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname>Mitra</surname>
+<given-names>Pradip</given-names>
+</name>
+<xref ref-type="aff" rid="aff1" />
+</contrib>
+</contrib-group>
+<aff id="aff1">Leonardo DRS-EOIS (United States)</aff>
+<aff id="aff2">NASA Goddard Space Flight Ctr. (United States)</aff>
+<aff id="aff3">Argo AI, LLC (United States)</aff>
+<aff id="aff4">National Institute of Standards and Technology (United States)</aff>
+<aff id="aff5">MIT Lincoln Lab. (United States)</aff>
+<pub-date>
+<day>15</day>
+<month>6</month>
+<year>2023</year>
+</pub-date>
+<volume>12512</volume>
+<fpage>1251208</fpage>
+<lpage>1251208-6</lpage>
+<permissions>
+<copyright-statement>COPYRIGHT SPIE. Downloading of the abstract is permitted for personal use only.</copyright-statement>
+<copyright-year>2023</copyright-year>
+</permissions>
+<self-uri xlink:title="pdf" xlink:href="1251208.pdf"/>
+<abstract>
+In this paper we report on recent advancements in the development of linear-mode photon-counting (LMPC) electron-initiated avalanche photodiodes (e-APDs) at Leonardo DRS. The Hg1-xCdxTe linear-mode e-APD fills a gap in single-photon detectors from near- to mid-infrared wavelengths and enables several new space lidar and laser communication applications. The combination of high e-APD gain and near unity excess noise factor enables robust, single-photon detection. Another important feature of the Hg<sub>1-x</sub>Cd<sub>x</sub>Te e-APD is that there is no dead time or latency between successive photon detection events. Since the inception of the device, Leonardo DRS has sought to improve the performance of these e-APDs by: increasing linear gains to greater than 1000; decreasing single photon jitter; reducing ROIC glow contributions to dark counts; and decreasing intrinsic detector dark currents. To these ends, we begin by showing that ROIC glow contributions to the false-event rate (FER) can be significantly reduced using an improved, photon blocking shield. We continue by examining the performance of focal-plane arrays (FPAs) with two differing material cutoff wavelengths, demonstrating record low FERs at high photon detection efficiencies (PDEs); this improvement in performance is assisted in part to the successful integration of micro-lens arrays (MLAs) onto the detectors. We conclude our study by integrating one detector unit into a tactical, Integrated Dewar Cooler Assembly (IDCA) and comparing performance prior and following this integration.
+</abstract>
+<conference content-type="conf-level-1">
+<conf-date />
+<conf-name>Defense + Commercial Sensing</conf-name>
+<conf-acronym>DCS</conf-acronym>
+<conf-num>7</conf-num>
+</conference>
+<conference content-type="conf-level-2">
+<conf-date>2023-04-30|2023-05-05</conf-date>
+<conf-name>SPIE Defense + Commercial Sensing</conf-name>
+<conf-acronym>DCS23</conf-acronym>
+<conf-num>2619426</conf-num>
+<conf-loc>Orlando, Florida, United States</conf-loc>
+</conference>
+<conference content-type="volume">
+<conf-date />
+<conf-name>Advanced Photon Counting Techniques XVII</conf-name>
+<conf-num>12512</conf-num>
+</conference>
+<conference content-type="session">
+<conf-date />
+<conf-name>Developments in Single-Photon Avalanche Diodes</conf-name>
+<conf-num>4</conf-num>
+</conference>
+</article-meta>
+</front>
+<back>
+</back>
+</article>

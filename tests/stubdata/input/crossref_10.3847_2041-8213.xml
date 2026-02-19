@@ -1,0 +1,661 @@
+<?xml version="1.0"?>
+<record>
+  <header>
+    <identifier>info:doi/10.3847%2F2041-8213%2Fabd256</identifier>
+    <datestamp>2021-12-11</datestamp>
+    <setSpec>J</setSpec>
+    <setSpec>J:10.3847</setSpec>
+    <setSpec>J:10.3847:217347</setSpec>
+  </header>
+  <metadata>
+    <crossref xmlns="http://www.crossref.org/xschema/1.1" xsi:schemaLocation="http://www.crossref.org/xschema/1.1 http://www.crossref.org/schema/unixref1.1.xsd">
+      <journal>
+        <journal_metadata>
+          <full_title>The Astrophysical Journal Letters</full_title>
+          <abbrev_title>ApJL</abbrev_title>
+          <issn media_type="print">2041-8205</issn>
+          <issn media_type="electronic">2041-8213</issn>
+        </journal_metadata>
+        <journal_issue>
+          <publication_date media_type="online">
+            <month>01</month>
+            <day>13</day>
+            <year>2021</year>
+          </publication_date>
+          <publication_date media_type="print">
+            <month>01</month>
+            <day>01</day>
+            <year>2021</year>
+          </publication_date>
+          <journal_volume>
+            <volume>906</volume>
+          </journal_volume>
+          <issue>2</issue>
+        </journal_issue>
+        <journal_article publication_type="full_text" reference_distribution_opts="any">
+          <titles>
+            <title>Search for Continuous Gravitational Waves from Scorpius X-1 in LIGO O2 Data</title>
+          </titles>
+          <contributors>
+            <person_name sequence="first" contributor_role="author">
+              <given_name>Yuanhao</given_name>
+              <surname>Zhang</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Maria Alessandra</given_name>
+              <surname>Papa</surname>
+              <ORCID authenticated="false">http://orcid.org/0000-0002-1007-5298</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Badri</given_name>
+              <surname>Krishnan</surname>
+              <ORCID authenticated="false">http://orcid.org/0000-0003-3015-234X</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Anna L.</given_name>
+              <surname>Watts</surname>
+              <ORCID authenticated="false">http://orcid.org/0000-0002-1009-2354</ORCID>
+            </person_name>
+          </contributors>
+          <jats:abstract xmlns:jats="http://www.ncbi.nlm.nih.gov/JATS1">
+            <jats:title>Abstract</jats:title>
+            <jats:p>We present the results of a search in LIGO O2 public data for continuous gravitational waves from the neutron star in the low-mass X-ray binary Scorpius X-1. We search for signals with &#x2248; constant frequency in the range 40&#x2013;180 Hz. Thanks to the efficiency of our search pipeline we can use a long coherence time and achieve unprecedented sensitivity, significantly improving on existing results. This is the first search that has been able to probe gravitational wave amplitudes that could balance the accretion torque at the neutron star radius. Our search excludes emission at this level between 67.5 and 131.5 Hz, for an inclination angle 44&#xB0;&#xA0;&#xB1;&#xA0;6&#xB0; derived from radio observations, and assuming that the spin axis is perpendicular to the orbital plane. If the torque arm is &#x2248;26 km&#x2014;a conservative estimate of the Alfv&#xE9;n radius&#x2014;our results are more constraining than the indirect limit across the band. This allows us to exclude certain mass&#x2013;radius combinations and to place upper limits on the strength of the star&#x2019;s magnetic field with a different probe than ever used before. We also correct a mistake that appears in the literature in the equation that gives the gravitational wave amplitude at the torque balance and we re-interpret the associated latest LIGO/Virgo results in light of this.</jats:p>
+          </jats:abstract>
+          <publication_date media_type="online">
+            <month>01</month>
+            <day>13</day>
+            <year>2021</year>
+          </publication_date>
+          <publication_date media_type="print">
+            <month>01</month>
+            <day>01</day>
+            <year>2021</year>
+          </publication_date>
+          <pages>
+            <first_page>L14</first_page>
+          </pages>
+          <crossmark>
+            <crossmark_policy>http://dx.doi.org/10.1088/crossmark-policy</crossmark_policy>
+            <crossmark_domains>
+              <crossmark_domain>
+                <domain>iopscience.iop.org</domain>
+              </crossmark_domain>
+            </crossmark_domains>
+            <custom_metadata>
+              <assertion label="Article Title" name="article_title">Search for Continuous Gravitational Waves from Scorpius X-1 in LIGO O2 Data</assertion>
+              <assertion label="Journal Title" name="journal_title">The Astrophysical Journal Letters</assertion>
+              <assertion label="Article Type" name="article_type">paper</assertion>
+              <assertion label="Copyright Information" name="copyright_information">&#xA9; 2021. The Author(s). Published by the American Astronomical Society.</assertion>
+              <assertion label="Date Received" name="date_received" group_name="publication_dates" group_label="Publication dates">2020-11-09</assertion>
+              <assertion label="Date Accepted" name="date_accepted" group_name="publication_dates" group_label="Publication dates">2020-12-09</assertion>
+              <assertion label="Online publication date" name="date_epub" group_name="publication_dates" group_label="Publication dates">2021-01-13</assertion>
+              <program xmlns:ai="http://www.crossref.org/AccessIndicators.xsd" name="AccessIndicators">
+                <ai:license_ref applies_to="vor" start_date="2021-01-13">http://creativecommons.org/licenses/by/4.0/</ai:license_ref>
+                <ai:license_ref applies_to="tdm" start_date="2021-01-13"> https://iopscience.iop.org/info/page/text-and-data-mining </ai:license_ref>
+              </program>
+            </custom_metadata>
+          </crossmark>
+          <doi_data>
+            <doi>10.3847/2041-8213/abd256</doi>
+            <resource content_version="vor" mime_type="text/html">https://iopscience.iop.org/article/10.3847/2041-8213/abd256</resource>
+            <collection property="syndication">
+              <item>
+                <resource content_version="vor" mime_type="application/pdf">https://iopscience.iop.org/article/10.3847/2041-8213/abd256/pdf</resource>
+              </item>
+            </collection>
+            <collection property="crawler-based">
+              <item crawler="iParadigms">
+                <resource mime_type="application/pdf">https://iopscience.iop.org/article/10.3847/2041-8213/abd256/pdf</resource>
+              </item>
+              <item crawler="iParadigms">
+                <resource mime_type="text/html">https://iopscience.iop.org/article/10.3847/2041-8213/abd256</resource>
+              </item>
+              <item crawler="iParadigms">
+                <resource content_version="vor" mime_type="application/pdf">https://iopscience.iop.org/article/10.3847/2041-8213/abd256/pdf</resource>
+              </item>
+            </collection>
+            <collection property="text-mining">
+              <item>
+                <resource mime_type="application/pdf">https://iopscience.iop.org/article/10.3847/2041-8213/abd256/pdf</resource>
+              </item>
+              <item>
+                <resource mime_type="text/html">https://iopscience.iop.org/article/10.3847/2041-8213/abd256</resource>
+              </item>
+              <item>
+                <resource content_version="vor" mime_type="text/html">https://iopscience.iop.org/article/10.3847/2041-8213/abd256</resource>
+              </item>
+              <item>
+                <resource content_version="vor" mime_type="application/pdf">https://iopscience.iop.org/article/10.3847/2041-8213/abd256/pdf</resource>
+              </item>
+            </collection>
+          </doi_data>
+          <citation_list>
+            <citation key="apjlabd256bib1">
+              <journal_title>PhRvD</journal_title>
+              <author>Abbott</author>
+              <doi>10.1103/PhysRevD.100.122002</doi>
+              <volume>100</volume>
+              <first_page>122002</first_page>
+              <cYear>2019a</cYear>
+            </citation>
+            <citation key="apjlabd256bib2">
+              <journal_title>ApJ</journal_title>
+              <author>Abbott</author>
+              <doi>10.3847/1538-4357/aa677f</doi>
+              <volume>839</volume>
+              <first_page>12</first_page>
+              <cYear>2017a</cYear>
+            </citation>
+            <citation key="apjlabd256bib3">
+              <journal_title>PhRvD</journal_title>
+              <author>Abbott</author>
+              <doi>10.1103/PhysRevD.95.122003</doi>
+              <volume>95</volume>
+              <first_page>122003</first_page>
+              <cYear>2017b</cYear>
+            </citation>
+            <citation key="apjlabd256bib4">
+              <journal_title>PhRvL</journal_title>
+              <author>Abbott</author>
+              <doi>10.1103/PhysRevLett.118.121102</doi>
+              <volume>118</volume>
+              <first_page>121102</first_page>
+              <cYear>2017c</cYear>
+            </citation>
+            <citation key="apjlabd256bib5">
+              <journal_title>ApJ</journal_title>
+              <author>Abbott</author>
+              <doi>10.3847/1538-4357/aa86f0</doi>
+              <volume>847</volume>
+              <first_page>47</first_page>
+              <cYear>2017d</cYear>
+            </citation>
+            <citation key="apjlabd256bib7">
+              <journal_title>PhRvD</journal_title>
+              <author>Abbott</author>
+              <doi>10.1103/PhysRevD.95.122003</doi>
+              <volume>95</volume>
+              <first_page>122003</first_page>
+              <cYear>2017e</cYear>
+            </citation>
+            <citation key="apjlabd256bib8">
+              <journal_title>LRR</journal_title>
+              <author>Abbott</author>
+              <doi>10.1007/s41114-018-0012-9</doi>
+              <volume>21</volume>
+              <first_page>3</first_page>
+              <cYear>2018</cYear>
+            </citation>
+            <citation key="apjlabd256bib6">
+              <journal_title>PhRvX</journal_title>
+              <author>Abbott</author>
+              <doi>10.1103/PhysRevX.9.011001</doi>
+              <volume>9</volume>
+              <first_page>011001</first_page>
+              <cYear>2019b</cYear>
+            </citation>
+            <citation key="apjlabd256bib9">
+              <journal_title>ApJ</journal_title>
+              <author>Abbott</author>
+              <doi>10.3847/1538-4357/ab20cb</doi>
+              <volume>879</volume>
+              <first_page>10</first_page>
+              <cYear>2019c</cYear>
+            </citation>
+            <citation key="apjlabd256bib10">
+              <journal_title>PhRvD</journal_title>
+              <author>Abbott</author>
+              <doi>10.1103/PhysRevD.100.024004</doi>
+              <volume>100</volume>
+              <first_page>024004</first_page>
+              <cYear>2019d</cYear>
+            </citation>
+            <citation key="apjlabd256bib11">
+              <journal_title>ApJL</journal_title>
+              <author>Abbott</author>
+              <doi>10.3847/2041-8213/abb655</doi>
+              <volume>902</volume>
+              <first_page>L21</first_page>
+              <cYear>2020</cYear>
+            </citation>
+            <citation key="apjlabd256bib12">
+              <author/>
+              <cYear>2017</cYear>
+            </citation>
+            <citation key="apjlabd256bib13">
+              <journal_title>PhRvD</journal_title>
+              <author>Allen</author>
+              <doi>10.1103/PhysRevD.100.124004</doi>
+              <volume>100</volume>
+              <first_page>124004</first_page>
+              <cYear>2019</cYear>
+            </citation>
+            <citation key="apjlabd256bib14">
+              <journal_title>MNRAS</journal_title>
+              <author>Andersson</author>
+              <doi>10.1111/j.1365-2966.2005.09167.x</doi>
+              <volume>361</volume>
+              <first_page>1153</first_page>
+              <cYear>2005</cYear>
+            </citation>
+            <citation key="apjlabd256bib15">
+              <journal_title>ApJ</journal_title>
+              <author>Andersson</author>
+              <doi>10.1086/307082</doi>
+              <volume>516</volume>
+              <first_page>307</first_page>
+              <cYear>1999</cYear>
+            </citation>
+            <citation key="apjlabd256bib16">
+              <journal_title>Sci</journal_title>
+              <author>Antoniadis</author>
+              <doi>10.1126/science.1233232</doi>
+              <volume>340</volume>
+              <first_page>6131</first_page>
+              <cYear>2013</cYear>
+            </citation>
+            <citation key="apjlabd256bib17">
+              <journal_title>MNRAS</journal_title>
+              <author>Baiko</author>
+              <doi>10.1093/mnras/sty2259</doi>
+              <volume>480</volume>
+              <first_page>5511</first_page>
+              <cYear>2018</cYear>
+            </citation>
+            <citation key="apjlabd256bib18">
+              <journal_title>ApJL</journal_title>
+              <author>Bildsten</author>
+              <doi>10.1086/311440</doi>
+              <volume>501</volume>
+              <first_page>L89</first_page>
+              <cYear>1998</cYear>
+            </citation>
+            <citation key="apjlabd256bib19">
+              <journal_title>NatAs</journal_title>
+              <author>Capano</author>
+              <doi>10.1038/s41550-020-1014-6</doi>
+              <volume>4</volume>
+              <first_page>625</first_page>
+              <cYear>2020</cYear>
+            </citation>
+            <citation key="apjlabd256bib20">
+              <journal_title>ApJL</journal_title>
+              <author>Cook</author>
+              <doi>10.1086/187250</doi>
+              <volume>423</volume>
+              <first_page>L117</first_page>
+              <cYear>1994</cYear>
+            </citation>
+            <citation key="apjlabd256bib21">
+              <journal_title>PhRvD</journal_title>
+              <author>Covas</author>
+              <doi>10.1103/PhysRevD.97.082002</doi>
+              <volume>97</volume>
+              <first_page>082002</first_page>
+              <cYear>2018</cYear>
+            </citation>
+            <citation key="apjlabd256bib22">
+              <journal_title>NatAs</journal_title>
+              <author>Cromartie</author>
+              <doi>10.1038/s41550-019-0880-2</doi>
+              <volume>4</volume>
+              <first_page>72</first_page>
+              <cYear>2019</cYear>
+            </citation>
+            <citation key="apjlabd256bib23">
+              <journal_title>PhRvL</journal_title>
+              <author>Dergachev</author>
+              <doi>10.1103/PhysRevLett.123.101101</doi>
+              <volume>123</volume>
+              <first_page>101101</first_page>
+              <cYear>2019</cYear>
+            </citation>
+            <citation key="apjlabd256bib24">
+              <journal_title>ApJ</journal_title>
+              <author>Fesik</author>
+              <doi>10.3847/1538-4357/ab8193</doi>
+              <volume>895</volume>
+              <first_page>11</first_page>
+              <cYear>2020</cYear>
+            </citation>
+            <citation key="apjlabd256bib25">
+              <journal_title>ApJ</journal_title>
+              <author>Fomalont</author>
+              <doi>10.1086/322479</doi>
+              <volume>558</volume>
+              <first_page>283</first_page>
+              <cYear>2001</cYear>
+            </citation>
+            <citation key="apjlabd256bib26">
+              <journal_title>ApJ</journal_title>
+              <author>Galloway</author>
+              <doi>10.1088/0004-637X/781/1/14</doi>
+              <volume>781</volume>
+              <first_page>14</first_page>
+              <cYear>2014</cYear>
+            </citation>
+            <citation key="apjlabd256bib27">
+              <journal_title>MNRAS</journal_title>
+              <author>Gittins</author>
+              <doi>10.1093/mnras/stz1719</doi>
+              <volume>488</volume>
+              <first_page>99</first_page>
+              <cYear>2019</cYear>
+            </citation>
+            <citation key="apjlabd256bib28">
+              <author>Gittins</author>
+              <cYear>2020</cYear>
+            </citation>
+            <citation key="apjlabd256bib29">
+              <journal_title>A&amp;A</journal_title>
+              <author>Haensel</author>
+              <doi>10.1051/0004-6361/200811605</doi>
+              <volume>502</volume>
+              <first_page>605</first_page>
+              <cYear>2009</cYear>
+            </citation>
+            <citation key="apjlabd256bib30">
+              <journal_title>AAS/High Energy Astrophysics Division</journal_title>
+              <author>Hartman</author>
+              <volume>7</volume>
+              <first_page>17.38</first_page>
+              <cYear>2003</cYear>
+            </citation>
+            <citation key="apjlabd256bib31">
+              <journal_title>IJMPE</journal_title>
+              <author>Haskell</author>
+              <doi>10.1142/S0218301315410074</doi>
+              <volume>24</volume>
+              <first_page>1541007</first_page>
+              <cYear>2015</cYear>
+            </citation>
+            <citation key="apjlabd256bib32">
+              <journal_title>MNRAS</journal_title>
+              <author>Haskell</author>
+              <doi>10.1111/j.1365-2966.2006.10998.x</doi>
+              <volume>373</volume>
+              <first_page>1423</first_page>
+              <cYear>2006</cYear>
+            </citation>
+            <citation key="apjlabd256bib33">
+              <journal_title>MNRAS</journal_title>
+              <author>Haskell</author>
+              <doi>10.1111/j.1365-2966.2008.12861.x</doi>
+              <volume>385</volume>
+              <first_page>531</first_page>
+              <cYear>2008</cYear>
+            </citation>
+            <citation key="apjlabd256bib34">
+              <journal_title>ApJ</journal_title>
+              <author>Hebeler</author>
+              <doi>10.1088/0004-637X/773/1/11</doi>
+              <volume>773</volume>
+              <first_page>11</first_page>
+              <cYear>2013</cYear>
+            </citation>
+            <citation key="apjlabd256bib35">
+              <journal_title>PhRvL</journal_title>
+              <author>Horowitz</author>
+              <doi>10.1103/PhysRevLett.102.191102</doi>
+              <volume>102</volume>
+              <first_page>191102</first_page>
+              <cYear>2009</cYear>
+            </citation>
+            <citation key="apjlabd256bib36">
+              <journal_title>PhRvD</journal_title>
+              <author>Jaranowski</author>
+              <doi>10.1103/PhysRevD.58.063001</doi>
+              <volume>58</volume>
+              <first_page>063001</first_page>
+              <cYear>1998</cYear>
+            </citation>
+            <citation key="apjlabd256bib37">
+              <journal_title>PhRvD</journal_title>
+              <author>Johnson-McDaniel</author>
+              <doi>10.1103/PhysRevD.88.044004</doi>
+              <volume>88</volume>
+              <first_page>044004</first_page>
+              <cYear>2013</cYear>
+            </citation>
+            <citation key="apjlabd256bib38">
+              <journal_title>ApJ</journal_title>
+              <author>Kurkela</author>
+              <doi>10.1088/0004-637X/789/2/127</doi>
+              <volume>789</volume>
+              <first_page>127</first_page>
+              <cYear>2014</cYear>
+            </citation>
+            <citation key="apjlabd256bib39">
+              <journal_title>PASA</journal_title>
+              <author>Lasky</author>
+              <doi>10.1017/pasa.2015.35</doi>
+              <volume>32</volume>
+              <first_page>e034</first_page>
+              <cYear>2015</cYear>
+            </citation>
+            <citation key="apjlabd256bib40">
+              <author/>
+              <cYear>2019</cYear>
+            </citation>
+            <citation key="apjlabd256bib41">
+              <journal_title>MNRAS</journal_title>
+              <author>Mastrano</author>
+              <doi>10.1111/j.1365-2966.2011.19410.x</doi>
+              <volume>417</volume>
+              <first_page>2288</first_page>
+              <cYear>2011</cYear>
+            </citation>
+            <citation key="apjlabd256bib42">
+              <journal_title>PhRvD</journal_title>
+              <author>Meadors</author>
+              <doi>10.1103/PhysRevD.95.042005</doi>
+              <volume>95</volume>
+              <first_page>042005</first_page>
+              <cYear>2017</cYear>
+            </citation>
+            <citation key="apjlabd256bib43">
+              <journal_title>PhRvD</journal_title>
+              <author>Meadors</author>
+              <doi>10.1103/PhysRevD.97.044017</doi>
+              <volume>97</volume>
+              <first_page>044017</first_page>
+              <cYear>2018</cYear>
+            </citation>
+            <citation key="apjlabd256bib44">
+              <journal_title>ApJ</journal_title>
+              <author>Melatos</author>
+              <doi>10.1086/428600</doi>
+              <volume>623</volume>
+              <first_page>1044</first_page>
+              <cYear>2005</cYear>
+            </citation>
+            <citation key="apjlabd256bib45">
+              <journal_title>PhRvD</journal_title>
+              <author>Messenger</author>
+              <doi>10.1103/PhysRevD.92.023006</doi>
+              <volume>92</volume>
+              <first_page>023006</first_page>
+              <cYear>2015</cYear>
+            </citation>
+            <citation key="apjlabd256bib46">
+              <journal_title>PhRvD</journal_title>
+              <author>Mukherjee</author>
+              <doi>10.1103/PhysRevD.97.043016</doi>
+              <volume>97</volume>
+              <first_page>043016</first_page>
+              <cYear>2018</cYear>
+            </citation>
+            <citation key="apjlabd256bib47">
+              <journal_title>ApJ</journal_title>
+              <author>Nieder</author>
+              <doi>10.3847/1538-4357/ab357e</doi>
+              <volume>883</volume>
+              <first_page>42</first_page>
+              <cYear>2019</cYear>
+            </citation>
+            <citation key="apjlabd256bib48">
+              <journal_title>ApJL</journal_title>
+              <author>Nieder</author>
+              <doi>10.3847/2041-8213/abbc02</doi>
+              <volume>902</volume>
+              <first_page>L46</first_page>
+              <cYear>2020</cYear>
+            </citation>
+            <citation key="apjlabd256bib49">
+              <journal_title>ARA&amp;A</journal_title>
+              <author>&#xD6;zel</author>
+              <doi>10.1146/annurev-astro-081915-023322</doi>
+              <volume>54</volume>
+              <first_page>401</first_page>
+              <cYear>2016</cYear>
+            </citation>
+            <citation key="apjlabd256bib50">
+              <journal_title>MNRAS</journal_title>
+              <author>Papaloizou</author>
+              <doi>10.1093/mnras/184.3.501</doi>
+              <volume>184</volume>
+              <first_page>501</first_page>
+              <cYear>1978</cYear>
+            </citation>
+            <citation key="apjlabd256bib51">
+              <journal_title>ApJ</journal_title>
+              <author>Parfrey</author>
+              <doi>10.3847/0004-637X/822/1/33</doi>
+              <volume>822</volume>
+              <first_page>33</first_page>
+              <cYear>2016</cYear>
+            </citation>
+            <citation key="apjlabd256bib52">
+              <journal_title>ApJ</journal_title>
+              <author>Patruno</author>
+              <doi>10.3847/1538-4357/aa927a</doi>
+              <volume>850</volume>
+              <first_page>106</first_page>
+              <cYear>2017</cYear>
+            </citation>
+            <citation key="apjlabd256bib53">
+              <author>Patruno</author>
+              <cYear>2012</cYear>
+            </citation>
+            <citation key="apjlabd256bib54">
+              <author>Ray</author>
+              <cYear>2019</cYear>
+            </citation>
+            <citation key="apjlabd256bib55">
+              <journal_title>MNRAS</journal_title>
+              <author>Singh</author>
+              <doi>10.1093/mnras/staa442</doi>
+              <volume>493</volume>
+              <first_page>3866</first_page>
+              <cYear>2020</cYear>
+            </citation>
+            <citation key="apjlabd256bib69">
+              <author>Steltner</author>
+              <cYear>2020</cYear>
+            </citation>
+            <citation key="apjlabd256bib56">
+              <journal_title>MNRAS</journal_title>
+              <author>Suvorov</author>
+              <doi>10.1093/mnras/stw909</doi>
+              <volume>459</volume>
+              <first_page>3407</first_page>
+              <cYear>2016</cYear>
+            </citation>
+            <citation key="apjlabd256bib57">
+              <journal_title>PhRvD</journal_title>
+              <author>Suvorova</author>
+              <doi>10.1103/PhysRevD.93.123009</doi>
+              <volume>93</volume>
+              <first_page>123009</first_page>
+              <cYear>2016</cYear>
+            </citation>
+            <citation key="apjlabd256bib58">
+              <journal_title>MNRAS</journal_title>
+              <author>Ushomirsky</author>
+              <doi>10.1046/j.1365-8711.2000.03938.x</doi>
+              <volume>319</volume>
+              <first_page>902</first_page>
+              <cYear>2000</cYear>
+            </citation>
+            <citation key="apjlabd256bib59">
+              <journal_title>JPhCS</journal_title>
+              <author>Vallisneri</author>
+              <doi>10.1088/1742-6596/610/1/012021</doi>
+              <volume>610</volume>
+              <first_page>012021</first_page>
+              <cYear>2015</cYear>
+            </citation>
+            <citation key="apjlabd256bib60">
+              <journal_title>MNRAS</journal_title>
+              <author>Vigelius</author>
+              <doi>10.1111/j.1365-2966.2009.14690.x</doi>
+              <volume>395</volume>
+              <first_page>1972</first_page>
+              <cYear>2009</cYear>
+            </citation>
+            <citation key="apjlabd256bib61">
+              <journal_title>ApJ</journal_title>
+              <author>Wagoner</author>
+              <doi>10.1086/161798</doi>
+              <volume>278</volume>
+              <first_page>345</first_page>
+              <cYear>1984</cYear>
+            </citation>
+            <citation key="apjlabd256bib62">
+              <journal_title>MNRAS</journal_title>
+              <author>Wang</author>
+              <doi>10.1093/mnras/sty1441</doi>
+              <volume>478</volume>
+              <first_page>5174</first_page>
+              <cYear>2018</cYear>
+            </citation>
+            <citation key="apjlabd256bib63">
+              <journal_title>MNRAS</journal_title>
+              <author>Watts</author>
+              <doi>10.1111/j.1365-2966.2008.13594.x</doi>
+              <volume>389</volume>
+              <first_page>839</first_page>
+              <cYear>2008</cYear>
+            </citation>
+            <citation key="apjlabd256bib64">
+              <journal_title>ARA&amp;A</journal_title>
+              <author>Watts</author>
+              <doi>10.1146/annurev-astro-040312-132617</doi>
+              <volume>50</volume>
+              <first_page>609</first_page>
+              <cYear>2012</cYear>
+            </citation>
+            <citation key="apjlabd256bib65">
+              <journal_title>SCPMA</journal_title>
+              <author>Watts</author>
+              <doi>10.1007/s11433-017-9188-4</doi>
+              <volume>62</volume>
+              <first_page>29503</first_page>
+              <cYear>2019</cYear>
+            </citation>
+            <citation key="apjlabd256bib66">
+              <journal_title>PhRvD</journal_title>
+              <author>Whelan</author>
+              <doi>10.1103/PhysRevD.91.102005</doi>
+              <volume>91</volume>
+              <first_page>102005</first_page>
+              <cYear>2015</cYear>
+            </citation>
+            <citation key="apjlabd256bib67">
+              <journal_title>ApJL</journal_title>
+              <author>Woan</author>
+              <doi>10.3847/2041-8213/aad86a</doi>
+              <volume>863</volume>
+              <first_page>L40</first_page>
+              <cYear>2018</cYear>
+            </citation>
+            <citation key="apjlabd256bib68">
+              <author>Zhang</author>
+              <cYear>2020</cYear>
+            </citation>
+          </citation_list>
+        </journal_article>
+      </journal>
+    </crossref>
+  </metadata>
+</record>

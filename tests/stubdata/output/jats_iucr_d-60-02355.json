@@ -1,0 +1,255 @@
+{
+  "abstract": {
+    "textEnglish": "An active form of parasporin-2, a B. thuringiensis crystal protein toxic to particular human cells, has been crystallized. Native data have been collected to 2.75 \u00c5 resolution."
+  },
+  "authors": [
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Biological Information Research Center, AIST, Tsukuba, Ibaraki 305-8566, Japan"
+        }
+      ],
+      "name": {
+        "given_name": "Toshihiko",
+        "surname": "Akiba"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Department of Chemistry, Faculty of Science, Kyushu University, Fukuoka 812-8581, Japan"
+        }
+      ],
+      "name": {
+        "given_name": "Yuichi",
+        "surname": "Abe"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Department of Chemistry, Faculty of Science, Kyushu University, Fukuoka 812-8581, Japan"
+        }
+      ],
+      "name": {
+        "given_name": "Sakae",
+        "surname": "Kitada"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Department of Chemistry, Faculty of Science, Kyushu University, Fukuoka 812-8581, Japan"
+        }
+      ],
+      "name": {
+        "given_name": "Yoshitomo",
+        "surname": "Kusaka"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Department of Chemistry, Faculty of Science, Kyushu University, Fukuoka 812-8581, Japan"
+        }
+      ],
+      "name": {
+        "given_name": "Akio",
+        "surname": "Ito"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Biotechnology and Food Research Institute, Fukuoka Industrial Technology Center, Kurume, Fukuoka 839-0861, Japan"
+        }
+      ],
+      "name": {
+        "given_name": "Tokio",
+        "surname": "Ichimatsu"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Biotechnology and Food Research Institute, Fukuoka Industrial Technology Center, Kurume, Fukuoka 839-0861, Japan"
+        }
+      ],
+      "name": {
+        "given_name": "Hideki",
+        "surname": "Katayama"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Biotechnology and Food Research Institute, Fukuoka Industrial Technology Center, Kurume, Fukuoka 839-0861, Japan"
+        }
+      ],
+      "name": {
+        "given_name": "Tetsuyuki",
+        "surname": "Akao"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Biotechnology and Food Research Institute, Fukuoka Industrial Technology Center, Kurume, Fukuoka 839-0861, Japan"
+        }
+      ],
+      "name": {
+        "given_name": "Kazuhiko",
+        "surname": "Higuchi"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Biotechnology and Food Research Institute, Fukuoka Industrial Technology Center, Kurume, Fukuoka 839-0861, Japan"
+        }
+      ],
+      "name": {
+        "given_name": "Eiichi",
+        "surname": "Mizuki"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Department of Applied Genetics and Pest Management, Faculty of Agriculture, Kyushu University, Fukuoka 812-8581, Japan"
+        }
+      ],
+      "name": {
+        "given_name": "Michio",
+        "surname": "Ohba"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Biological Information Research Center, AIST, Tsukuba, Ibaraki 305-8566, Japan"
+        }
+      ],
+      "name": {
+        "given_name": "Ryuta",
+        "surname": "Kanai"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Biological Information Research Center, AIST, Tsukuba, Ibaraki 305-8566, Japan"
+        }
+      ],
+      "attrib": {
+        "email": "k-harata@aist.go.jp"
+      },
+      "name": {
+        "given_name": "Kazuaki",
+        "surname": "Harata"
+      }
+    }
+  ],
+  "copyright": {
+    "statement": "\u00a9 International Union of Crystallography 2004",
+    "status": true
+  },
+  "editorialHistory": {
+    "acceptedDate": "2004-10-18",
+    "receivedDates": [
+      "2004-08-10"
+    ]
+  },
+  "keywords": [
+    {
+      "keyString": "Bacillus thuringiensis",
+      "keySystem": "misc"
+    },
+    {
+      "keyString": "crystal proteins",
+      "keySystem": "misc"
+    },
+    {
+      "keyString": "bacterial toxins",
+      "keySystem": "misc"
+    },
+    {
+      "keyString": "cytotoxicity",
+      "keySystem": "misc"
+    },
+    {
+      "keyString": "parasporins",
+      "keySystem": "misc"
+    }
+  ],
+  "openAccess": {
+    "license": "Prior permission is not required to reproduce short quotations, tables and figures from this article, provided the original authors and source are cited. For more information, see http://journals.iucr.org/services/copyrightpolicy.html."
+  },
+  "pagination": {
+    "firstPage": "2355",
+    "lastPage": "2357",
+    "pageRange": "2355-2357"
+  },
+  "persistentIDs": [
+    {
+      "DOI": "10.1107/S0907444904026307"
+    }
+  ],
+  "pubDate": {
+    "electrDate": "2004-11-26"
+  },
+  "publication": {
+    "ISSN": [
+      {
+        "issnString": "0907-4449",
+        "pubtype": "epub"
+      }
+    ],
+    "issueNum": "Pt 12",
+    "pubName": "Acta Crystallographica Section D",
+    "pubYear": "2004",
+    "publisher": "International Union of Crystallography",
+    "volumeNum": "60"
+  },
+  "publisherIDs": [
+    {
+      "Identifier": "ts5037",
+      "attribute": "publisher-id"
+    }
+  ],
+  "recordData": {
+    "createdTime": "",
+    "loadFormat": "JATS",
+    "loadLocation": "",
+    "loadType": "fromFile",
+    "parsedTime": "",
+    "recordOrigin": ""
+  },
+  "references": [
+    "<ref id=\"bb1\"> <mixed-citation publication-type=\"journal\">Collaborative Computational Project, Number 4 (1994). <italic toggle=\"yes\">Acta Cryst.</italic> D<bold>50</bold>, 760\u2013763.</mixed-citation> </ref>",
+    "<ref id=\"bb2\"> <mixed-citation publication-type=\"journal\">Crickmore, N., Zeigler, D. R., Feitelson, J., Schnepf, E., Van Rie, J., Lereclus, D., Baum, J. &amp; Dean, D. H. (1998). <italic toggle=\"yes\">Microbiol. Mol. Biol. Rev.</italic> <bold>62</bold>, 807\u2013813.</mixed-citation> </ref>",
+    "<ref id=\"bb3\"> <mixed-citation publication-type=\"journal\">French, G. S. &amp; Wilson, K. S. (1978). <italic toggle=\"yes\">Acta Cryst.</italic> A<bold>34</bold>, 517\u2013525.</mixed-citation> </ref>",
+    "<ref id=\"bb4\"> <mixed-citation publication-type=\"journal\">Galitsky, N., Cody, V., Wojtczak, A., Ghosh, D., Luft, J. R., Pangborn, W. &amp; English, L. (2001). <italic toggle=\"yes\">Acta Cryst.</italic> D<bold>57</bold>, 1101\u20131109.</mixed-citation> </ref>",
+    "<ref id=\"bb5\"> <mixed-citation publication-type=\"journal\">Grochulski, P., Masson, L., Borisova, S., Pusztai-Carey, M., Schwartz, J. L., Brousseau, R. &amp; Cygler, M. (1995). <italic toggle=\"yes\">J. Mol. Biol.</italic> <bold>254</bold>, 447\u2013464.</mixed-citation> </ref>",
+    "<ref id=\"bb6\"> <mixed-citation publication-type=\"journal\">H\u00f6fte, H. &amp; Whiteley, H. R. (1989). <italic toggle=\"yes\">Microbiol. Rev.</italic> <bold>53</bold>, 242\u2013255.</mixed-citation> </ref>",
+    "<ref id=\"bb7\"> <mixed-citation publication-type=\"journal\">Ito, A., Sasaguri, Y., Kitada, S., Kusaka, Y., Kuwano, K., Masutomi, K., Mizuki, E., Akao, T. &amp; Ohba, M. (2004). <italic toggle=\"yes\">J. Biol. Chem.</italic> <bold>279</bold>, 21282\u201321286.</mixed-citation> </ref>",
+    "<ref id=\"bb8\"> <mixed-citation publication-type=\"journal\">Kim, H. S., Saitoh, H., Yamashita, S., Akao, T., Park, Y. S., Maeda, M., Tanaka, R., Mizuki, E. &amp; Ohba, M. (2003). <italic toggle=\"yes\">Curr. Microbiol.</italic> <bold>46</bold>, 33\u201338.</mixed-citation> </ref>",
+    "<ref id=\"bb9\"> <mixed-citation publication-type=\"journal\">Lee, D., Akao, T., Yamashita, S., Katayama, H., Maeda, M., Saitoh, H., Mizuki, E. &amp; Ohba, M. (2000). <italic toggle=\"yes\">Biochem. Biophys. Res. Commun.</italic> <bold>272</bold>, 218\u2013223.</mixed-citation> </ref>",
+    "<ref id=\"bb10\"> <mixed-citation publication-type=\"journal\">Lee, D., Katayama, H., Akao, T., Maeda, M., Tanaka, R., Yamashita, S., Saitoh, H., Mizuki, E. &amp; Ohba, M. (2001). <italic toggle=\"yes\">Biochem. Biophys. Acta</italic>, <bold>1547</bold>, 57\u201363.</mixed-citation> </ref>",
+    "<ref id=\"bb11\"> <mixed-citation publication-type=\"journal\">Li, J., Carroll, J. &amp; Ellar, D. J. (1991). <italic toggle=\"yes\">Nature (London)</italic>, <bold>353</bold>, 815\u2013821.</mixed-citation> </ref>",
+    "<ref id=\"bb12\"> <mixed-citation publication-type=\"journal\">Li, J., Koni, P. A. &amp; Ellar, D. J. (1996). <italic toggle=\"yes\">J. Mol. Biol.</italic> <bold>257</bold>, 129\u2013152.</mixed-citation> </ref>",
+    "<ref id=\"bb13\"> <mixed-citation publication-type=\"journal\">Maagd, R. A. de, Bosch, D. &amp; Stiekema, W. (1999). <italic toggle=\"yes\">Trends Plant Sci.</italic> <bold>4</bold>, 9\u201313.</mixed-citation> </ref>",
+    "<ref id=\"bb14\"> <mixed-citation publication-type=\"journal\">Maagd, R. A. de, Bravo, A., Berry, C., Crickmore, N. &amp; Schnepf, H. E. (2003). <italic toggle=\"yes\">Annu. Rev. Genet.</italic> <bold>37</bold>, 409\u2013433.</mixed-citation> </ref>",
+    "<ref id=\"bb15\"> <mixed-citation publication-type=\"journal\">Matthews, B. W. (1968). <italic toggle=\"yes\">J. Mol. Biol.</italic> <bold>33</bold>, 491\u2013497.</mixed-citation> </ref>",
+    "<ref id=\"bb16\"> <mixed-citation publication-type=\"journal\">Mizuki, E., Ohba, M., Akao, T., Yamashita, S., Saitoh, H. &amp; Park, Y. S. (1999). <italic toggle=\"yes\">J. Appl. Microbiol.</italic> <bold>86</bold>, 477\u2013486.</mixed-citation> </ref>",
+    "<ref id=\"bb17\"> <mixed-citation publication-type=\"journal\">Mizuki, E., Park, Y. S., Saitoh, H., Yamashita, S., Akao, T., Higuchi, K. &amp; Ohba, M. (2000). <italic toggle=\"yes\">Clin. Diagn. Lab. Immunol.</italic> <bold>7</bold>, 625\u2013634.</mixed-citation> </ref>",
+    "<ref id=\"bb18\"> <mixed-citation publication-type=\"journal\">Morse, R. J., Yamamoto, T. &amp; Stroud, R. M. (2001). <italic toggle=\"yes\">Structure</italic>, <bold>9</bold>, 409\u2013417.</mixed-citation> </ref>",
+    "<ref id=\"bb19\"> <mixed-citation publication-type=\"other\">Otwinowski, Z. &amp; Minor, W. (1997). <italic toggle=\"yes\">Methods Enzymol.</italic> <bold>276</bold>, 307\u2013326.</mixed-citation> </ref>",
+    "<ref id=\"bb20\"> <mixed-citation publication-type=\"journal\">Parker, M. W., Buckley, J. T., Postma, J. P. M., Tucker, A. D., Leonard, K., Pattus, F. &amp; Tsernoglou, D. (1994). <italic toggle=\"yes\">Nature (London)</italic>, <bold>367</bold>, 292\u2013295.</mixed-citation> </ref>",
+    "<ref id=\"bb21\"> <mixed-citation publication-type=\"journal\">Schnepf, E., Crickmore, N., Van Rie, J., Lereclus, D., Baum, J., Feitelson, J., Zeigler, D. R. &amp; Dean, D. H. (1998). <italic toggle=\"yes\">Microbiol. Mol. Biol. Rev.</italic> <bold>62</bold>, 775\u2013806.</mixed-citation> </ref>",
+    "<ref id=\"bb22\"> <mixed-citation publication-type=\"journal\">Vagin, A. &amp; Teplyakov, A. (1997). <italic toggle=\"yes\">J. Appl. Cryst.</italic> <bold>30</bold>, 1022\u20131025.</mixed-citation> </ref>"
+  ],
+  "title": {
+    "textEnglish": "Crystallization of parasporin-2, a Bacillus thuringiensis crystal protein with selective cytocidal activity against human cells"
+  }
+}

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE article SYSTEM "https://isprs-archives.copernicus.org/articles//inc/isprs-archives/copernicus.dtd">
+<article language="en" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<journal>
+		<journal_title>The International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences</journal_title>
+		<journal_url>https://isprs-archives.copernicus.org/articles/</journal_url>
+		<issn>1682-1750</issn>
+		<eissn>2194-9034</eissn>
+		<volume_number>XLVIII-M-2-2023</volume_number>
+		<volume_title>29th CIPA Symposium “Documenting, Understanding, Preserving Cultural Heritage. Humanities and Digital Technologies for Shaping the Future”</volume_title>
+		<publication_year>2023</publication_year>
+	</journal>
+	<doi>10.5194/isprs-archives-XLVIII-M-2-2023-721-2023</doi>
+	<article_url>https://isprs-archives.copernicus.org/articles/XLVIII-M-2-2023/721/2023/</article_url>
+	<abstract_html>https://isprs-archives.copernicus.org/articles/XLVIII-M-2-2023/721/2023/isprs-archives-XLVIII-M-2-2023-721-2023.html</abstract_html>
+	<fulltext_pdf>https://isprs-archives.copernicus.org/articles/XLVIII-M-2-2023/721/2023/isprs-archives-XLVIII-M-2-2023-721-2023.pdf</fulltext_pdf>
+	<start_page>721</start_page>
+	<end_page>727</end_page>
+	<publication_date>2023-06-24</publication_date>
+	<article_title content_type="html">A SEMI-AUTOMATED METHODOLOGY FOR 3D IMAGING OF LARGE VAULTED CEILING PAINTINGS</article_title>
+	<authors>
+		<author numeration="1" affiliations="1">
+			<name>J. Hindmarch</name>
+			<email>johnhindmarch@gmail.com</email>
+		</author>
+		<author numeration="2" affiliations="1">
+			<name>M. Hess</name>
+			<email>mona.hess@uni-bamberg.de</email>
+		</author>
+		<author numeration="3" affiliations="1">
+			<name>M. Groh</name>
+			<email>michael.groh@uni-bamberg.de</email>
+		</author>
+		<author numeration="4" affiliations="2">
+			<name>M. Burioni</name>
+			<email>matteo.burioni@lmu.de</email>
+		</author>
+	</authors>
+	<affiliations>
+		<affiliation numeration="1" content_type="html">Digital Technologies in Heritage Conservation, Institute of Archaeology, Heritage Conservation Studies and Art History, University of Bamberg, 96047, Germany</affiliation>
+		<affiliation numeration="2" content_type="html">Corpus of Baroque Ceiling Paintings, Institute of Art History, LMU Munich, 80798, Germany</affiliation>
+	</affiliations>
+	<abstract content_type="html">3D imaging of large painted and vaulted historic ceilings offers many challenges, including those due to complex small and large-scale geometry, environmental conditions and limited access. In this paper we introduce CHAPI (Cultural Heritage Automated Photogrammetric Imaging), a low cost solution to these problems which provides an efficient, semi-automated method of capturing large vaulted ceiling paintings in high detail, with a consistent photogrammetric network and in limited time. We will present and examine two different case studies from the Plafond3D project, the baroque ceiling paintings of the Schloss Rheinsberg Spiegelsaal (mirror room) and the Ansbach Residence Festsaal (great hall/ballroom). The paper will examine the particular challenges of capturing large painted areas with accurate colour and geometric reproduction, and suggest how the photogrammetric recording and reconstruction process of ceilings can be optimised for large rooms. This paper also gives technical specifications and Open Access Code for the CHAPI build.</abstract>
+</article>

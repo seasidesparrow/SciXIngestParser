@@ -1,0 +1,234 @@
+{
+  "abstract": {
+    "textEnglish": "Ultraviolet single-photon avalanche detectors (UV-SPADs) that are low cost, size, weight, and power as well as resilient to shock, high temperatures and stray magnetic fields have a number of applications. SiC is attractive for UV SPADs as it is inherently blind to visible light, and Geiger mode as well as high-gain linear-mode devices have been demonstrated. However, issues remain regarding bias dependence of spatial uniformity of detection efficiency (DE) and responsivity as well as the temporal resolution, or jitter, in Geiger mode. Over a wide range of device structures (p- vs. n- illuminated) we observe a non-uniform responsivity across the active area for values of gain from 100 to 10<sup>5</sup>, and we observe that the nonuniformity is somewhat reduced at higher gain. The spatial dependence of the DE in Geiger mode agrees with linear-mode results for gain >10<sup>5</sup>. This presents in all devices as an \u201coptically dead\u201d region on one side of the detector whose extent varies with operating conditions and is independent of contact geometry and device layout. The temporal resolution of single-photon detection is characterized with a femtosecond-pulsed source at 267 nm and found to have a full-width-at-half-maximum jitter < 92 ps, which is significantly lower than previously reported results and likely an upper bound due to the quenching circuit and the spatial non-uniformity. Numerical modeling suggests that small variations in doping densities and thicknesses of epitaxial layers might be a cause of the non-uniformity. Results also indicate that detector layer design, size, and geometry can mitigate the effects of spatial non-uniformity,"
+  },
+  "authors": [
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "DEVCOM Army Research Lab. (United States)"
+        }
+      ],
+      "name": {
+        "given_name": "Anand V.",
+        "surname": "Sampath"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "DEVCOM Army Research Lab. (United States)"
+        }
+      ],
+      "name": {
+        "given_name": "Gregory A.",
+        "surname": "Garrett"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "DEVCOM Army Research Lab. (United States)"
+        }
+      ],
+      "name": {
+        "given_name": "Jonathan",
+        "surname": "Schuster"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "DEVCOM Army Research Lab. (United States)"
+        }
+      ],
+      "name": {
+        "given_name": "Jeremy L.",
+        "surname": "Smith"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "DEVCOM Army Research Lab. (United States)"
+        }
+      ],
+      "name": {
+        "given_name": "Michael A.",
+        "surname": "Derenge"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "DEVCOM Army Research Lab. (United States)"
+        }
+      ],
+      "name": {
+        "given_name": "Daniel B.",
+        "surname": "Habersat"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "DEVCOM Army Research Lab. (United States)"
+        }
+      ],
+      "name": {
+        "given_name": "Brenda",
+        "surname": "VanMil"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "GE Research Ctr. (United States)"
+        }
+      ],
+      "name": {
+        "given_name": "Reza",
+        "surname": "Gandhi"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "GE Research Ctr. (United States)"
+        }
+      ],
+      "name": {
+        "given_name": "Sergei",
+        "surname": "Dolinsky"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "National Institute of Standards and Technology (United States)"
+        }
+      ],
+      "name": {
+        "given_name": "Edwin J.",
+        "surname": "Heilweil"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "National Institute of Standards and Technology (United States)"
+        }
+      ],
+      "name": {
+        "given_name": "Joshua C.",
+        "surname": "Bienfang"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Boston Univ. (United States)"
+        }
+      ],
+      "name": {
+        "given_name": "Enrico",
+        "surname": "Bellotti"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "DEVCOM Army Research Lab. (United States)"
+        }
+      ],
+      "name": {
+        "given_name": "Michael",
+        "surname": "Wraback"
+      }
+    }
+  ],
+  "copyright": {
+    "statement": "COPYRIGHT SPIE. Downloading of the abstract is permitted for personal use only.",
+    "status": true
+  },
+  "otherContributor": [
+    {
+      "contrib": {
+        "affiliation": [
+          {
+            "affPubRaw": "Argo AI, LLC (United States)"
+          }
+        ],
+        "name": {
+          "given_name": "Mark A.",
+          "surname": "Itzler"
+        }
+      },
+      "role": "editor"
+    },
+    {
+      "contrib": {
+        "affiliation": [
+          {
+            "affPubRaw": "National Institute of Standards and Technology (United States)"
+          }
+        ],
+        "name": {
+          "given_name": "Joshua C.",
+          "surname": "Bienfang"
+        }
+      },
+      "role": "editor"
+    },
+    {
+      "contrib": {
+        "affiliation": [
+          {
+            "affPubRaw": "MIT Lincoln Lab. (United States)"
+          }
+        ],
+        "name": {
+          "given_name": "K. Alex",
+          "surname": "McIntosh"
+        }
+      },
+      "role": "editor"
+    }
+  ],
+  "pagination": {
+    "firstPage": "1251206",
+    "lastPage": "1251206-10",
+    "pageRange": "1251206-1251206-10"
+  },
+  "persistentIDs": [
+    {
+      "DOI": "10.1117/12.2663387"
+    }
+  ],
+  "pubDate": {
+    "electrDate": "2023-06-15",
+    "printDate": "2023-06-15"
+  },
+  "publication": {
+    "ISSN": [
+      {
+        "issnString": "0277-786X"
+      }
+    ],
+    "confName": "Defense + Commercial Sensing",
+    "pubYear": "2023",
+    "publisher": "SPIE",
+    "volumeNum": "12512"
+  },
+  "recordData": {
+    "createdTime": "",
+    "loadFormat": "JATS",
+    "loadLocation": "",
+    "loadType": "fromFile",
+    "parsedTime": "",
+    "recordOrigin": ""
+  },
+  "title": {
+    "textEnglish": "Studies of spatial uniformity and jitter in SiC UV SPADs"
+  }
+}

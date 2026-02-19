@@ -1,0 +1,74 @@
+{
+  "authors": [
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Department of Natural Resources & the Environment, The Sustainability Institute ,University of New Hampshire. Durham, New Hampshire"
+        }
+      ],
+      "name": {
+        "given_name": "Allison M.",
+        "surname": "Leach"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Department of Environmental Sciences, University of Virginia, Charlottesville, Virginia"
+        }
+      ],
+      "name": {
+        "given_name": "Elizabeth A.",
+        "surname": "Castner"
+      }
+    }
+  ],
+  "copyright": {
+    "statement": "2017 by Mary Ann Liebert, Inc.",
+    "status": true
+  },
+  "pagination": {
+    "firstPage": "68",
+    "lastPage": "70",
+    "pageCount": "3",
+    "pageRange": "68-70"
+  },
+  "persistentIDs": [
+    {
+      "DOI": "10.1089/sus.2017.29089.aml"
+    }
+  ],
+  "pubDate": {
+    "printDate": "2017-04-00"
+  },
+  "publication": {
+    "ISSN": [
+      {
+        "issnString": "1937-0695",
+        "pubtype": "ppub"
+      }
+    ],
+    "issueNum": "2",
+    "pubName": "Sustainability",
+    "pubYear": "2017",
+    "publisher": "Mary Ann Liebert, Inc.",
+    "volumeNum": "10"
+  },
+  "publisherIDs": [
+    {
+      "Identifier": "sus.2017.29089",
+      "attribute": "publisher-id"
+    }
+  ],
+  "recordData": {
+    "createdTime": "",
+    "loadFormat": "JATS",
+    "loadLocation": "",
+    "loadType": "fromFile",
+    "parsedTime": "",
+    "recordOrigin": ""
+  },
+  "title": {
+    "textEnglish": "Universities, Sustainability, and Nitrogen Pollution"
+  }
+}

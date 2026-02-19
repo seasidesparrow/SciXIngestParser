@@ -1,0 +1,556 @@
+<?xml version="1.0" encoding="UTF-8"?><component xmlns="http://www.wiley.com/namespaces/wiley" xmlns:wiley="http://www.wiley.com/namespaces/wiley/wiley" version="2.0" type="serialArticle" xml:lang="en" xml:id="swe21103">
+<header>
+<publicationMeta level="product">
+<doi>10.1002/(ISSN)1542-7390</doi>
+<issn type="print">1542-7390</issn>
+<issn type="electronic">1542-7390</issn>
+<idGroup>
+<id type="product" value="SWE"/>
+</idGroup>
+<titleGroup>
+<title type="main" xml:lang="en" sort="SPACE WEATHER">Space Weather</title>
+<title type="short">Space Weather</title>
+</titleGroup>
+</publicationMeta>
+<publicationMeta level="part" position="30">
+<doi>10.1002/swe.v19.3</doi>
+<copyright ownership="thirdParty">© 2021. The Authors.</copyright>
+<numberingGroup>
+<numbering type="journalVolume" number="19">19</numbering>
+<numbering type="journalIssue">3</numbering>
+</numberingGroup>
+<coverDate startDate="2021-03">March 2021</coverDate>
+</publicationMeta>
+<publicationMeta level="unit" type="article" status="forIssue" accessType="open">
+<doi>10.1029/2020SW002674</doi>
+<idGroup>
+<id type="unit" value="SWE21103"/>
+<id type="society" value="2020SW002674"/>
+<id type="eLocator" value="e2020SW002674"/>
+</idGroup>
+<countGroup>
+<count type="pageTotal" number="18"/>
+</countGroup>
+<titleGroup>
+<title type="articleCategory">Research Article</title>
+<title type="tocHeading1">Research Article</title>
+</titleGroup>
+<copyright ownership="thirdParty">© 2021. The Authors.</copyright><legalStatement type="creativeCommonsBy">
+<p>This is an open access article under the terms of the <link href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution</link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</p></legalStatement>
+<eventGroup>
+    <event type="publishedOnlineAccepted" date="2021-02-08"/>
+    <event type="manuscriptRevised" date="2020-12-23"/>
+    <event type="firstOnline" date="2021-03-26"/>
+    <event type="publishedOnlineFinalForm" date="2021-03-26"/>
+    <event type="xmlCreated" date="2021-02-14" agent="TNQ"/>
+    <event type="manuscriptReceived" date="2020-10-30"/>
+    <event type="manuscriptAccepted" date="2021-01-29"/>
+    <event type="xmlConverted" agent="Converter:WML3G_To_WML3G version:5.9.9 mode:FullText,remove_FC" date="2021-03-29"/>
+</eventGroup>
+<numberingGroup>
+<numbering type="pageFirst">n/a</numbering>
+<numbering type="pageLast">n/a</numbering>
+</numberingGroup>
+<correspondenceTo>
+<lineatedText>
+<line><b>Correspondence to:</b></line>
+<line>J. Hinterreiter,</line>
+<line><email>juergen.hinterreiter@oeaw.ac.at</email></line>
+</lineatedText>
+</correspondenceTo>
+<subjectInfo>
+<subject href="http://agupubs.onlinelibrary.wiley.com/doi/toc/10.1002/(ISSN)1542-7390.SUNEARTHLP">Heliophysics and Space Weather Studies from the Sun‐Earth Lagrange Points</subject>
+<subject href="http://psi.agu.org/taxonomy5/2100">INTERPLANETARY PHYSICS</subject>
+<subjectInfo>
+<subject href="http://psi.agu.org/taxonomy5/2101">Coronal mass ejections</subject>
+</subjectInfo>
+<subject href="http://psi.agu.org/taxonomy5/2700" role="crossTerm">MAGNETOSPHERIC PHYSICS</subject>
+<subjectInfo>
+<subject href="http://psi.agu.org/taxonomy5/2788" role="crossTerm">Magnetic storms and substorms</subject>
+</subjectInfo>
+<subject href="http://psi.agu.org/taxonomy5/4300" role="crossTerm">NATURAL HAZARDS</subject>
+<subjectInfo>
+<subject href="http://psi.agu.org/taxonomy5/4305" role="crossTerm">Space weather</subject>
+</subjectInfo>
+<subject href="http://psi.agu.org/taxonomy5/7500" role="crossTerm">SOLAR PHYSICS, ASTROPHYSICS, AND ASTRONOMY</subject>
+<subjectInfo>
+<subject href="http://psi.agu.org/taxonomy5/7513" role="crossTerm">Coronal mass ejections</subject>
+</subjectInfo>
+<subject href="http://psi.agu.org/taxonomy5/7900" role="crossTerm">SPACE WEATHER</subject>
+<subjectInfo>
+<subject href="http://psi.agu.org/taxonomy5/7954" role="crossTerm">Magnetic storms</subject>
+</subjectInfo>
+</subjectInfo>
+<selfCitationGroup>
+<citation type="self" xml:id="swe21103-cit-0079"><author><familyName>Hinterreiter</familyName>, <givenNames>J.</givenNames></author>, <author><familyName>Amerstorfer</familyName>, <givenNames>T.</givenNames></author>, <author><familyName>Reiss</familyName>, <givenNames>M. A.</givenNames></author>, <author><familyName>Möstl</familyName>, <givenNames>C.</givenNames></author>, <author><familyName>Temmer</familyName>, <givenNames>M.</givenNames></author>, <author><familyName>Bauer</familyName>, <givenNames>M.</givenNames></author>, et al. (<pubYear year="2021">2021</pubYear>). <articleTitle>Why are ELEvoHI CME arrival predictions different if based on STEREO‐A or STEREO‐B Heliospheric Imager observations?</articleTitle> <journalTitle>Space Weather</journalTitle>, <vol>19</vol>, <eLocator>e2020SW002674</eLocator>. <url href="https://doi.org/10.1029/2020SW002674">https://doi.org/10.1029/2020SW002674</url></citation>
+</selfCitationGroup>
+<objectNameGroup>
+<objectName elementName="tabular">Table</objectName>
+<objectName elementName="figure">Figure</objectName>
+</objectNameGroup>
+
+</publicationMeta>
+<contentMeta>
+<countGroup>
+<count type="figureTotal" number="7"/>
+<count type="tableTotal" number="3"/>
+<count type="wordTotal" number="11005"/>
+</countGroup>
+<titleGroup>
+<title type="main" xml:lang="en">Why are ELEvoHI CME Arrival Predictions Different if Based on STEREO‐A or STEREO‐B Heliospheric Imager Observations?</title>
+<title type="shortAuthors">Hinterreiter et al.</title>
+</titleGroup>
+<creators>
+<creator creatorRole="author" affiliationRef="#swe21103-aff-0001 #swe21103-aff-0002" xml:id="swe21103-cr-0001" corresponding="yes">
+<idGroup>
+<id type="orcid" value="https://orcid.org/0000-0002-1222-8243"/>
+</idGroup>
+<personName><givenNames>Jürgen</givenNames><familyName>Hinterreiter</familyName></personName>
+<contactDetails><email>juergen.hinterreiter@oeaw.ac.at</email></contactDetails>
+</creator>
+<creator creatorRole="author" affiliationRef="#swe21103-aff-0001" xml:id="swe21103-cr-0002">
+<idGroup>
+<id type="orcid" value="https://orcid.org/0000-0001-9024-6706"/>
+</idGroup>
+<personName><givenNames>Tanja</givenNames><familyName>Amerstorfer</familyName></personName>
+</creator>
+<creator creatorRole="author" affiliationRef="#swe21103-aff-0001 #swe21103-aff-0003" xml:id="swe21103-cr-0003">
+<idGroup>
+<id type="orcid" value="https://orcid.org/0000-0002-6362-5054"/>
+</idGroup>
+<personName><givenNames>Martin A.</givenNames><familyName>Reiss</familyName></personName>
+</creator>
+<creator creatorRole="author" affiliationRef="#swe21103-aff-0001 #swe21103-aff-0003" xml:id="swe21103-cr-0004">
+<idGroup>
+<id type="orcid" value="https://orcid.org/0000-0001-6868-4152"/>
+</idGroup>
+<personName><givenNames>Christian</givenNames><familyName>Möstl</familyName></personName>
+</creator>
+<creator creatorRole="author" affiliationRef="#swe21103-aff-0002" xml:id="swe21103-cr-0005">
+<idGroup>
+<id type="orcid" value="https://orcid.org/0000-0003-4867-7558"/>
+</idGroup>
+<personName><givenNames>Manuela</givenNames><familyName>Temmer</familyName></personName>
+</creator>
+<creator creatorRole="author" affiliationRef="#swe21103-aff-0001 #swe21103-aff-0002" xml:id="swe21103-cr-0006">
+<idGroup>
+<id type="orcid" value="https://orcid.org/0000-0002-2507-7616"/>
+</idGroup>
+<personName><givenNames>Maike</givenNames><familyName>Bauer</familyName></personName>
+</creator>
+<creator creatorRole="author" affiliationRef="#swe21103-aff-0001" xml:id="swe21103-cr-0007">
+<idGroup>
+<id type="orcid" value="https://orcid.org/0000-0003-1516-5441"/>
+</idGroup>
+<personName><givenNames>Ute V.</givenNames><familyName>Amerstorfer</familyName></personName>
+</creator>
+<creator creatorRole="author" affiliationRef="#swe21103-aff-0004" xml:id="swe21103-cr-0008">
+<idGroup>
+<id type="orcid" value="https://orcid.org/0000-0003-2021-6557"/>
+</idGroup>
+<personName><givenNames>Rachel L.</givenNames><familyName>Bailey</familyName></personName>
+</creator>
+<creator creatorRole="author" affiliationRef="#swe21103-aff-0001 #swe21103-aff-0002 #swe21103-aff-0003" xml:id="swe21103-cr-0009">
+<idGroup>
+<id type="orcid" value="https://orcid.org/0000-0002-6273-4320"/>
+</idGroup>
+<personName><givenNames>Andreas J.</givenNames><familyName>Weiss</familyName></personName>
+</creator>
+<creator creatorRole="author" affiliationRef="#swe21103-aff-0005" xml:id="swe21103-cr-0010">
+<idGroup>
+<id type="orcid" value="https://orcid.org/0000-0001-9865-9281"/>
+</idGroup>
+<personName><givenNames>Jackie A.</givenNames><familyName>Davies</familyName></personName>
+</creator>
+<creator creatorRole="author" affiliationRef="#swe21103-aff-0006" xml:id="swe21103-cr-0011">
+<idGroup>
+<id type="orcid" value="https://orcid.org/0000-0001-9876-4612"/>
+</idGroup>
+<personName><givenNames>Luke A.</givenNames><familyName>Barnard</familyName></personName>
+</creator>
+<creator creatorRole="author" affiliationRef="#swe21103-aff-0006" xml:id="swe21103-cr-0012">
+<idGroup>
+<id type="orcid" value="https://orcid.org/0000-0003-2061-2453"/>
+</idGroup>
+<personName><givenNames>Mathew J.</givenNames><familyName>Owens</familyName></personName>
+</creator>
+</creators>
+<affiliationGroup>
+<affiliation countryCode="AT" type="private" xml:id="swe21103-aff-0001">
+<orgDiv>Space Research Institute</orgDiv>
+<orgName>Austrian Academy of Sciences</orgName>
+<address>
+<city>Graz</city>
+<country>Austria</country>
+</address>
+</affiliation>
+<affiliation countryCode="AT" type="private" xml:id="swe21103-aff-0002">
+<orgDiv>Institute of Physics</orgDiv>
+<orgName>University of Graz</orgName>
+<address>
+<city>Graz</city>
+<country>Austria</country>
+</address>
+</affiliation>
+<affiliation countryCode="AT" type="private" xml:id="swe21103-aff-0003">
+<orgDiv>Institute of Geodesy</orgDiv>
+<orgName>Graz University of Technology</orgName>
+<address>
+<city>Graz</city>
+<country>Austria</country>
+</address>
+</affiliation>
+<affiliation countryCode="AT" type="private" xml:id="swe21103-aff-0004">
+<orgDiv>Conrad Observatory</orgDiv>
+<orgName>Zentralanstalt für Meteorologie und Geodynamik</orgName>
+<address>
+<city>Vienna</city>
+<country>Austria</country>
+</address>
+</affiliation>
+<affiliation type="private" xml:id="swe21103-aff-0005" countryCode="GB">
+<orgDiv>RAL Space</orgDiv>
+<orgName>Rutherford Appleton Laboratory</orgName>
+<address>
+<city>Didcot</city>
+<country>UK</country>
+</address>
+</affiliation>
+<affiliation type="organization" xml:id="swe21103-aff-0006" countryCode="GB">
+<orgDiv>Department of Meteorology</orgDiv>
+<orgName>University of Reading</orgName>
+<address>
+<city>Reading</city>
+<country>UK</country>
+</address>
+</affiliation>
+</affiliationGroup>
+<fundingInfo>
+<fundingAgency fundRefName="Austrian Science Fund" funderDoi="10.13039/501100002428">Austrian Science Fund (FWF)</fundingAgency>
+<fundingNumber>P31659‐N27</fundingNumber>
+</fundingInfo>
+<fundingInfo>
+<fundingAgency fundRefName="Austrian Science Fund" funderDoi="10.13039/501100002428">Austrian Science Fund (FWF)</fundingAgency>
+<fundingNumber>P31521‐N27</fundingNumber>
+</fundingInfo>
+<fundingInfo>
+<fundingAgency fundRefName="Austrian Science Fund" funderDoi="10.13039/501100002428">Austrian Science Fund (FWF)</fundingAgency>
+<fundingNumber>P31265‐N27</fundingNumber>
+</fundingInfo>
+<fundingInfo>
+<fundingAgency fundRefName="Austrian Science Fund" funderDoi="10.13039/501100002428">Austrian Science Fund (FWF)</fundingAgency>
+<fundingNumber>J4160‐N27</fundingNumber>
+</fundingInfo>
+<abstractGroup>
+<abstract type="main" xml:lang="en">
+<title type="main">Abstract</title>
+<p>Accurate forecasting of the arrival time and arrival speed of coronal mass ejections (CMEs) is an unsolved problem in space weather research. In this study, a comparison of the predicted arrival times and speeds for each CME based, independently, on the inputs from the two STEREO vantage points is carried out. We perform hindcasts using ELlipse Evolution model based on Heliospheric Imager observations (ELEvoHI) ensemble modeling. An estimate of the ambient solar wind conditions is obtained by the Wang‐Sheeley‐Arge/Heliospheric Upwind eXtrapolation (WSA/HUX) model combination that serves as input to ELEvoHI. We carefully select 12 CMEs between February 2010 and July 2012 that show clear signatures in both STEREO‐A and STEREO‐B HI time‐elongation maps, that propagate close to the ecliptic plane, and that have corresponding in situ signatures at Earth. We find a mean arrival time difference of 6.5 h between predictions from the two different viewpoints, which can reach up to 9.5 h for individual CMEs, while the mean arrival speed difference is 63 km s<sup>−1</sup>. An ambient solar wind with a large speed variance leads to larger differences in the STEREO‐A and STEREO‐B CME arrival time predictions (<i>cc</i> = 0.92). Additionally, we compare the predicted arrivals, from both spacecraft, to the actual in situ arrivals at Earth and find a mean absolute error of 7.5 ± 9.5 h for the arrival time and 87 ± 111 km s<sup>−1</sup> for the arrival speed. There is no tendency for one spacecraft to provide more accurate arrival predictions than the other.</p>
+</abstract>
+<abstract type="short" xml:lang="en">
+<title type="main">Key Points</title>
+<p>
+<list style="bulleted">
+<listItem>
+<p>A comparison of CME arrival time and speed predictions from two vantage points was carried out using ELEvoHI</p></listItem>
+<listItem>
+<p>A highly structured ambient solar wind flow leads to larger arrival time differences between STA and STB predictions</p></listItem>
+<listItem>
+<p>The assumption of a rigid CME front in ELEvoHI and other HI‐based methods is most probably too simplistic</p></listItem>
+</list>
+</p>
+</abstract>
+</abstractGroup>
+</contentMeta>
+</header>
+<body sectionsNumbered="yes" xml:id="swe21103-body-0001">
+<section xml:id="swe21103-sec-0010">
+<title type="main">Introduction</title>
+<p>REDACTED</p>
+</section>
+<section xml:id="swe21103-sec-0020">
+<title type="main">Data Preparation</title>
+<p>REDACTED</p>
+</section>
+<section xml:id="swe21103-sec-0030">
+<title type="main">Methods</title>
+<p>REDACTED</p>
+</section>
+<section xml:id="swe21103-sec-0060">
+<title type="main">Results</title>
+<p>REDACTED</p>
+</section>
+<section xml:id="swe21103-sec-0100">
+<title type="main">Discussion and Conclusions</title>
+<p>REDACTED</p>
+</section>
+<section type="acknowledgments" numbered="no" xml:id="swe21103-sec-0160">
+<title type="main">Acknowledgments</title>
+<p>T. Amerstorfer, J. Hinterreiter, M. Bauer, M. A. Reiss, C. Möstl, A. J. Weiss, R. L. Bailey, and U. V. Amerstorfer thank the Austrian Science Fund (FWF): P31265‐N27, J4160‐N27, P31659‐N27, P31521‐N27.</p>
+</section>
+<section type="openResearch" numbered="no" xml:id="jame21290-sec-0110">
+<section type="dataAvailability" numbered="no" xml:id="jame21290-sec-0120">
+<title type="main">Data Availability Statement</title>
+<section numbered="no" xml:id="swe21103-sec-0120">
+<title type="main">Data</title>
+<p>STEREO/HI: <url href="https://www.ukssdc.ac.uk/solar/stereo/data.html">https://www.ukssdc.ac.uk/solar/stereo/data.html</url></p>
+<p>STEREO/COR2 and SoHO/LASCO: <url href="https://sdac.virtualsolar.org/cgi/">https://sdac.virtualsolar.org/cgi/</url></p>
+<p>NSO/GONG: <url href="https://gong.nso.edu/data/magmap/">https://gong.nso.edu/data/magmap/</url></p>
+<p>HELCATS: <url href="https://www.helcats-fp7.eu">https://www.helcats‐fp7.eu</url></p>
+<p>ICMECAT: <url href="https://doi.org/10.6084/m9.figshare.6356420">https://doi.org/10.6084/m9.figshare.6356420</url></p>
+</section>
+<section numbered="no" xml:id="swe21103-sec-0130">
+<title type="main">Model</title>
+<p>ELEvoHI is available at <url href="https://zenodo.org/record/3873420">https://zenodo.org/record/3873420</url>.</p>
+<p>EAGEL is available at <url href="https://zenodo.org/record/4154458">https://zenodo.org/record/4154458</url>.</p>
+</section>
+<section numbered="no" xml:id="swe21103-sec-0140">
+<title type="main">Results</title>
+<p>The visualization of each prediction result, i.e., movies and figures, can be downloaded from <url href="https://doi.org/10.6084/m9.figshare.12758312">https://doi.org/10.6084/m9.figshare.12758312</url>.</p>
+</section>
+<section numbered="no" xml:id="swe21103-sec-0150">
+<title type="main">Software</title>
+<p>IDL™ Version 8.4</p>
+<p>Python 3.7.6</p>
+<p>SATPLOT: <url href="https://hesperia.gsfc.nasa.gov/ssw/stereo/secchi/idl/jpl/satplot/SATPLOT_Guide.pdf">https://hesperia.gsfc.nasa.gov/ssw/stereo/secchi/idl/jpl/satplot/SATPLOT_Guide.pdf</url></p>
+</section>
+</section>
+</section>
+<bibliography style="nameDate" cited="yes" xml:id="swe21103-bibl-0001">
+<title type="main">References</title>
+<bib xml:id="swe21103-bib-0001">
+<citation type="journal" xml:id="swe21103-cit-0001"><author><familyName>Altschuler</familyName>, <givenNames>M. D.</givenNames></author>, &amp; <author><familyName>Newkirk</familyName>, <givenNames>G.</givenNames></author> (<pubYear year="1969">1969</pubYear>). <articleTitle>Magnetic fields and the structure of the solar corona. I: Methods of calculating coronal fields</articleTitle>. <journalTitle>Solar Physics</journalTitle>, <vol>9</vol>, <pageFirst>131</pageFirst>–<pageLast>149</pageLast>. <url href="https://doi.org/10.1007/BF00145734">https://doi.org/10.1007/BF00145734</url></citation>
+</bib>
+<bib xml:id="swe21103-bib-0002">
+<citation type="journal" xml:id="swe21103-cit-0002"><author><familyName>Amerstorfer</familyName>, <givenNames>T.</givenNames></author>, <author><familyName>Hinterreiter</familyName>, <givenNames>J.</givenNames></author>, <author><familyName>Reiss</familyName>, <givenNames>M. A.</givenNames></author>, <author><familyName>Möstl</familyName>, <givenNames>C.</givenNames></author>, <author><familyName>Davies</familyName>, <givenNames>J. A.</givenNames></author>, <author><familyName>Bailey</familyName>, <givenNames>R. L.</givenNames></author>, <author><familyName>Weiss</familyName>, <givenNames>A. J.</givenNames></author>, <author><familyName>Dumbović</familyName>, <givenNames>M.</givenNames></author>, <author><familyName>Bauer</familyName>, <givenNames>M.</givenNames></author>, <author><familyName>Amerstorfer</familyName>, <givenNames>U. V.</givenNames></author>, <author><familyName>Harrison</familyName>, <givenNames>R. A.</givenNames></author> (<pubYear year="2021">2021</pubYear>). <articleTitle>Evaluation of CME Arrival Prediction Using Ensemble Modeling Based on Heliospheric Imaging Observations</articleTitle>. <journalTitle>Space Weather</journalTitle>, <vol>19</vol>(<issue>1</issue>). <url href="http://dx.doi.org/10.1029/2020sw002553">http://dx.doi.org/10.1029/2020sw002553</url></citation>
+</bib>
+<bib xml:id="swe21103-bib-0003">
+<citation type="journal" xml:id="swe21103-cit-0003"><author><familyName>Amerstorfer</familyName>, <givenNames>T.</givenNames></author>, <author><familyName>Möstl</familyName>, <givenNames>C.</givenNames></author>, <author><familyName>Hess</familyName>, <givenNames>P.</givenNames></author>, <author><familyName>Temmer</familyName>, <givenNames>M.</givenNames></author>, <author><familyName>Mays</familyName>, <givenNames>M. L.</givenNames></author>, <author><familyName>Reiss</familyName>, <givenNames>M. A.</givenNames></author>, et al. (<pubYear year="2018">2018</pubYear>). <articleTitle>Ensemble prediction of a Halo coronal mass ejection using heliospheric imagers</articleTitle>. <journalTitle>Space Weather</journalTitle>, <vol>16</vol>, <pageFirst>784</pageFirst>–<pageLast>801</pageLast>. <url href="https://doi.org/10.1029/2017SW001786">https://doi.org/10.1029/2017SW001786</url></citation>
+</bib>
+<bib xml:id="swe21103-bib-0004">
+<citation type="book" xml:id="swe21103-cit-0004"><author><familyName>Arge</familyName>, <givenNames>C. N.</givenNames></author>, <author><familyName>Odstrcil</familyName>, <givenNames>D.</givenNames></author>, <author><familyName>Pizzo</familyName>, <givenNames>V. J.</givenNames></author>, &amp; <author><familyName>Mayer</familyName>, <givenNames>L. R.</givenNames></author> (<pubYear year="2003">2003</pubYear>). <articleTitle>Improved method for specifying solar wind speed near the Sun</articleTitle>. In <editor><givenNames>M.</givenNames> <familyName>Velli</familyName></editor>, <editor><givenNames>R.</givenNames> <familyName>Bruno</familyName></editor>, <editor><givenNames>F.</givenNames> <familyName>Malara</familyName></editor>, &amp; <editor><givenNames>B.</givenNames> <familyName>Bucci</familyName></editor> (Eds.), <bookTitle>Solar wind ten</bookTitle>, <bookSeriesTitle>American Institute of Physics Conference Series</bookSeriesTitle> (Vol. <vol>679</vol>, pp. <pageFirst>190</pageFirst>–<pageLast>193</pageLast>). <publisherLoc>Pisa, Italy</publisherLoc>. <url href="https://doi.org/10.1063/1.1618574">https://doi.org/10.1063/1.1618574</url></citation>
+</bib>
+<bib xml:id="swe21103-bib-0005">
+<citation type="journal" xml:id="swe21103-cit-0005"><author><familyName>Barnard</familyName>, <givenNames>L.</givenNames></author>, <author><familyName>Owens</familyName>, <givenNames>M. J.</givenNames></author>, <author><familyName>Scott</familyName>, <givenNames>C. J.</givenNames></author>, &amp; <author><familyName>de Koning</familyName>, <givenNames>C. A.</givenNames></author> (<pubYear year="2020">2020</pubYear>). <articleTitle>Ensemble CME modeling constrained by heliospheric imager observations</articleTitle>. <journalTitle>AGU Advances</journalTitle>, <vol>1</vol>, <eLocator>e2020AV000214</eLocator>. <url href="https://doi.org/10.1029/2020AV000214">https://doi.org/10.1029/2020AV000214</url></citation>
+</bib>
+<bib xml:id="swe21103-bib-0006">
+<citation type="journal" xml:id="swe21103-cit-0006"><author><familyName>Barnard</familyName>, <givenNames>L. A.</givenNames></author>, <author><familyName>de Koning</familyName>, <givenNames>C. A.</givenNames></author>, <author><familyName>Scott</familyName>, <givenNames>C. J.</givenNames></author>, <author><familyName>Owens</familyName>, <givenNames>M. J.</givenNames></author>, <author><familyName>Wilkinson</familyName>, <givenNames>J.</givenNames></author>, &amp; <author><familyName>Davies</familyName>, <givenNames>J. A.</givenNames></author> (<pubYear year="2017">2017</pubYear>). <articleTitle>Testing the current paradigm for space weather prediction with heliospheric imagers</articleTitle>. <journalTitle>Space Weather</journalTitle>, <vol>15</vol>, <pageFirst>782</pageFirst>–<pageLast>803</pageLast>. <url href="https://doi.org/10.1002/2017SW001609">https://doi.org/10.1002/2017SW001609</url></citation>
+</bib>
+<bib xml:id="swe21103-bib-0007">
+<citation type="journal" xml:id="swe21103-cit-0007"><author><familyName>Barnard</familyName>, <givenNames>L. A.</givenNames></author>, <author><familyName>Owens</familyName>, <givenNames>M. J.</givenNames></author>, <author><familyName>Scott</familyName>, <givenNames>C. J.</givenNames></author>, &amp; <author><familyName>Jones</familyName>, <givenNames>S. R.</givenNames></author> (<pubYear year="2019">2019</pubYear>). <articleTitle>Extracting inner‐heliosphere solar wind speed information from heliospheric imager observations</articleTitle>. <journalTitle>Space Weather</journalTitle>, <vol>17</vol>, <pageFirst>925</pageFirst>–<pageLast>938</pageLast>. <url href="https://doi.org/10.1029/2019SW002226">https://doi.org/10.1029/2019SW002226</url></citation>
+</bib>
+<bib xml:id="swe21103-bib-0008">
+<citation type="other" xml:id="swe21103-cit-0008"><author><familyName>Barnes</familyName>, <givenNames>D.</givenNames></author>, <author><familyName>Davies</familyName>, <givenNames>J. A.</givenNames></author>, <author><familyName>Harrison</familyName>, <givenNames>R. A.</givenNames></author>, <author><familyName>Byrne</familyName>, <givenNames>J. P.</givenNames></author>, <author><familyName>Perry</familyName>, <givenNames>C. H.</givenNames></author>, <author><familyName>Bothmer</familyName>, <givenNames>V.</givenNames></author>, et al. (<pubYear year="2020">2020</pubYear>). CMEs in the heliosphere: III. A statistical analysis of the kinematic properties derived from stereoscopic geometrical modelling techniques applied to CMEs detected in the heliosphere from 2008 to 2014 by STEREO/HI‐1. arXiv:2006.14879</citation>
+</bib>
+<bib xml:id="swe21103-bib-0009">
+<citation type="journal" xml:id="swe21103-cit-0009"><author><familyName>Braga</familyName>, <givenNames>C. R.</givenNames></author>, <author><familyName>Vourlidas</familyName>, <givenNames>A.</givenNames></author>, <author><familyName>Stenborg</familyName>, <givenNames>G.</givenNames></author>, <author><familyName>Dal Lago</familyName>, <givenNames>A.</givenNames></author>, <author><familyName>de Mendonça</familyName>, <givenNames>R. R. S.</givenNames></author>, &amp; <author><familyName>Echer</familyName>, <givenNames>E.</givenNames></author> (<pubYear year="2020">2020</pubYear>). <articleTitle>Predicting the time of arrival of coronal mass ejections at earth from heliospheric imaging observations</articleTitle>. <journalTitle>Journal of Geophysical Research: Space Physics</journalTitle>, <vol>125</vol>, <eLocator>e27885</eLocator>. <url href="https://doi.org/10.1029/2020JA027885">https://doi.org/10.1029/2020JA027885</url></citation>
+</bib>
+<bib xml:id="swe21103-bib-0010">
+<citation type="journal" xml:id="swe21103-cit-0010"><author><familyName>Brueckner</familyName>, <givenNames>G. E.</givenNames></author>, <author><familyName>Howard</familyName>, <givenNames>R. A.</givenNames></author>, <author><familyName>Koomen</familyName>, <givenNames>M. J.</givenNames></author>, <author><familyName>Korendyke</familyName>, <givenNames>C. M.</givenNames></author>, <author><familyName>Michels</familyName>, <givenNames>D. J.</givenNames></author>, <author><familyName>Moses</familyName>, <givenNames>J. D.</givenNames></author>, et al. (<pubYear year="1995">1995</pubYear>). <articleTitle>The large angle spectroscopic coronagraph (LASCO)</articleTitle>. <journalTitle>Solar Physics</journalTitle>, <vol>162</vol>(<issue>1–2</issue>), <pageFirst>357</pageFirst>–<pageLast>402</pageLast>. <url href="https://doi.org/10.1007/BF00733434">https://doi.org/10.1007/BF00733434</url></citation>
+</bib>
+<bib xml:id="swe21103-bib-0011">
+<citation type="journal" xml:id="swe21103-cit-0011"><author><familyName>Cannon</familyName>, <givenNames>P. S.</givenNames></author> (<pubYear year="2013">2013</pubYear>). <articleTitle>Extreme space weather—A report published by the UK Royal Academy of Engineering</articleTitle>. <journalTitle>Space Weather</journalTitle>, <vol>11</vol>, <pageFirst>138</pageFirst>–<pageLast>139</pageLast>. <url href="https://doi.org/10.1002/swe.20032">https://doi.org/10.1002/swe.20032</url></citation>
+</bib>
+<bib xml:id="swe21103-bib-0012">
+<citation type="journal" xml:id="swe21103-cit-0012"><author><familyName>Chi</familyName>, <givenNames>Y.</givenNames></author>, <author><familyName>Scott</familyName>, <givenNames>C.</givenNames></author>, <author><familyName>Shen</familyName>, <givenNames>C.</givenNames></author>, <author><familyName>Owens</familyName>, <givenNames>M.</givenNames></author>, <author><familyName>Lang</familyName>, <givenNames>M.</givenNames></author>, <author><familyName>Xu</familyName>, <givenNames>M.</givenNames></author>, et al. (<pubYear year="2020">2020</pubYear>). <articleTitle>Using the “ghost front” to predict the arrival time and speed of CMEs at Venus and earth</articleTitle>. <journalTitle>The Astrophysical Journal</journalTitle>, <vol>899</vol>(<issue>2</issue>), <pageFirst>143</pageFirst>. <url href="https://doi.org/10.3847/1538-4357/aba95a">https://doi.org/10.3847/1538‐4357/aba95a</url></citation>
+</bib>
+<bib xml:id="swe21103-bib-0013">
+<citation type="journal" xml:id="swe21103-cit-0013"><author><familyName>Davies</familyName>, <givenNames>J. A.</givenNames></author>, <author><familyName>Harrison</familyName>, <givenNames>R. A.</givenNames></author>, <author><familyName>Perry</familyName>, <givenNames>C. H.</givenNames></author>, <author><familyName>Möstl</familyName>, <givenNames>C.</givenNames></author>, <author><familyName>Lugaz</familyName>, <givenNames>N.</givenNames></author>, <author><familyName>Rollett</familyName>, <givenNames>T.</givenNames></author>, et al. (<pubYear year="2012">2012</pubYear>). <articleTitle>A self‐similar expansion model for use in solar wind transient propagation studies</articleTitle>. <journalTitle>The Astrophysical Journal</journalTitle>, <vol>750</vol>(<issue>1</issue>), <pageFirst>23</pageFirst>. <url href="https://doi.org/10.1088/0004-637X/750/1/23">https://doi.org/10.1088/0004‐637X/750/1/23</url></citation>
+</bib>
+<bib xml:id="swe21103-bib-0014">
+<citation type="journal" xml:id="swe21103-cit-0014"><author><familyName>Davies</familyName>, <givenNames>J. A.</givenNames></author>, <author><familyName>Harrison</familyName>, <givenNames>R. A.</givenNames></author>, <author><familyName>Rouillard</familyName>, <givenNames>A. P.</givenNames></author>, <author><familyName>Sheeley</familyName>, <givenNames>N. R.</givenNames></author>, <author><familyName>Perry</familyName>, <givenNames>C. H.</givenNames></author>, <author><familyName>Bewsher</familyName>, <givenNames>D.</givenNames></author>, et al. (<pubYear year="2009">2009</pubYear>). <articleTitle>A synoptic view of solar transient evolution in the inner heliosphere using the heliospheric imagers on STEREO</articleTitle>. <journalTitle>Geophysical Research Letters</journalTitle>, <vol>36</vol>, <eLocator>L02102</eLocator>. <url href="https://doi.org/10.1029/2008GL036182">https://doi.org/10.1029/2008GL036182</url></citation>
+</bib>
+<bib xml:id="swe21103-bib-0015">
+<citation type="journal" xml:id="swe21103-cit-0015"><author><familyName>Davies</familyName>, <givenNames>J. A.</givenNames></author>, <author><familyName>Perry</familyName>, <givenNames>C. H.</givenNames></author>, <author><familyName>Trines</familyName>, <givenNames>R. M. G. M.</givenNames></author>, <author><familyName>Harrison</familyName>, <givenNames>R. A.</givenNames></author>, <author><familyName>Lugaz</familyName>, <givenNames>N.</givenNames></author>, <author><familyName>Möstl</familyName>, <givenNames>C.</givenNames></author>, et al. (<pubYear year="2013">2013</pubYear>). <articleTitle>Establishing a stereoscopic technique for determining the kinematic properties of solar wind Transients based on a generalized self‐similarly expanding circular geometry</articleTitle>. <journalTitle>The Astrophysical Journal</journalTitle>, <vol>777</vol>(<issue>2</issue>), <pageFirst>167</pageFirst>. <url href="https://doi.org/10.1088/0004-637X/777/2/167">https://doi.org/10.1088/0004‐637X/777/2/167</url></citation>
+</bib>
+<bib xml:id="swe21103-bib-0016">
+<citation type="journal" xml:id="swe21103-cit-0016"><author><familyName>Dumbović</familyName>, <givenNames>M.</givenNames></author>, <author><familyName>Čalogović</familyName>, <givenNames>J.</givenNames></author>, <author><familyName>Vršnak</familyName>, <givenNames>B.</givenNames></author>, <author><familyName>Temmer</familyName>, <givenNames>M.</givenNames></author>, <author><familyName>Mays</familyName>, <givenNames>M. L.</givenNames></author>, <author><familyName>Veronig</familyName>, <givenNames>A.</givenNames></author>, &amp; <author><familyName>Piantschitsch</familyName>, <givenNames>I.</givenNames></author> (<pubYear year="2018">2018</pubYear>). <articleTitle>The drag‐based ensemble model (DBEM) for coronal mass ejection propagation</articleTitle>. <journalTitle>The Astrophysical Journal</journalTitle>, <vol>854</vol>(<issue>2</issue>), <pageFirst>180</pageFirst>. <url href="https://doi.org/10.3847/1538-4357/aaaa66">https://doi.org/10.3847/1538‐4357/aaaa66</url></citation>
+</bib>
+<bib xml:id="swe21103-bib-0017">
+<citation type="journal" xml:id="swe21103-cit-0017"><author><familyName>Eyles</familyName>, <givenNames>C. J.</givenNames></author>, <author><familyName>Harrison</familyName>, <givenNames>R. A.</givenNames></author>, <author><familyName>Davis</familyName>, <givenNames>C. J.</givenNames></author>, <author><familyName>Waltham</familyName>, <givenNames>N. R.</givenNames></author>, <author><familyName>Shaughnessy</familyName>, <givenNames>B. M.</givenNames></author>, <author><familyName>Mapson‐Menard</familyName>, <givenNames>H. C. A.</givenNames></author>, et al. (<pubYear year="2009">2009</pubYear>). <articleTitle>The heliospheric imagers onboard the STEREO mission</articleTitle>. <journalTitle>Solar Physics</journalTitle>, <vol>254</vol>(<issue>2</issue>), <pageFirst>387</pageFirst>–<pageLast>445</pageLast>. <url href="https://doi.org/10.1007/s11207-008-9299-0">https://doi.org/10.1007/s11207‐008‐9299‐0</url></citation>
+</bib>
+<bib xml:id="swe21103-bib-0018">
+<citation type="journal" xml:id="swe21103-cit-0018"><author><familyName>Gopalswamy</familyName>, <givenNames>N.</givenNames></author>, <author><familyName>Lara</familyName>, <givenNames>A.</givenNames></author>, <author><familyName>Lepping</familyName>, <givenNames>R. P.</givenNames></author>, <author><familyName>Kaiser</familyName>, <givenNames>M. L.</givenNames></author>, <author><familyName>Berdichevsky</familyName>, <givenNames>D.</givenNames></author>, &amp; <author><familyName>Cyr</familyName>, <givenNames>S. O. C.</givenNames></author> (<pubYear year="2000">2000</pubYear>). <articleTitle>Interplanetary acceleration of coronal mass ejections</articleTitle>. <journalTitle>Geophysical Research Letters</journalTitle>, <vol>27</vol>(<issue>2</issue>), <pageFirst>145</pageFirst>–<pageLast>148</pageLast>. <url href="https://doi.org/10.1029/1999GL003639">https://doi.org/10.1029/1999GL003639</url></citation>
+</bib>
+<bib xml:id="swe21103-bib-0019">
+<citation type="journal" xml:id="swe21103-cit-0019"><author><familyName>Gosling</familyName>, <givenNames>J. T.</givenNames></author>, <author><familyName>Bame</familyName>, <givenNames>S. J.</givenNames></author>, <author><familyName>McComas</familyName>, <givenNames>D. J.</givenNames></author>, &amp; <author><familyName>Phillips</familyName>, <givenNames>J. L.</givenNames></author> (<pubYear year="1990">1990</pubYear>). <articleTitle>Coronal mass ejections and large geomagnetic storms</articleTitle>. <journalTitle>Geophysical Research Letters</journalTitle>, <vol>17</vol>(<issue>7</issue>), <pageFirst>901</pageFirst>–<pageLast>904</pageLast>. <url href="https://doi.org/10.1029/GL017i007p00901">https://doi.org/10.1029/GL017i007p00901</url></citation>
+</bib>
+<bib xml:id="swe21103-bib-0020">
+<citation type="journal" xml:id="swe21103-cit-0020"><author><familyName>Harrison</familyName>, <givenNames>R. A.</givenNames></author>, <author><familyName>Davies</familyName>, <givenNames>J. A.</givenNames></author>, <author><familyName>Barnes</familyName>, <givenNames>D.</givenNames></author>, <author><familyName>Byrne</familyName>, <givenNames>J. P.</givenNames></author>, <author><familyName>Perry</familyName>, <givenNames>C. H.</givenNames></author>, <author><familyName>Bothmer</familyName>, <givenNames>V.</givenNames></author>, et al. (<pubYear year="2018">2018</pubYear>). <articleTitle>CMEs in the heliosphere: I. A statistical analysis of the observational properties of CMEs detected in the heliosphere from 2007 to 2017 by STEREO/HI‐1</articleTitle>. <journalTitle>Solar Physics</journalTitle>, <vol>293</vol>(<issue>5</issue>), <pageFirst>77</pageFirst>. <url href="https://doi.org/10.1007/s11207-018-1297-2">https://doi.org/10.1007/s11207‐018‐1297‐2</url></citation>
+</bib>
+<bib xml:id="swe21103-bib-0021">
+<citation type="journal" xml:id="swe21103-cit-0021"><author><familyName>Howard</familyName>, <givenNames>R. A.</givenNames></author>, <author><familyName>Moses</familyName>, <givenNames>J. D.</givenNames></author>, <author><familyName>Vourlidas</familyName>, <givenNames>A.</givenNames></author>, <author><familyName>Newmark</familyName>, <givenNames>J. S.</givenNames></author>, <author><familyName>Socker</familyName>, <givenNames>D. G.</givenNames></author>, <author><familyName>Plunkett</familyName>, <givenNames>S. P.</givenNames></author>, et al. (<pubYear year="2008">2008</pubYear>). <articleTitle>Sun earth connection coronal and heliospheric investigation (SECCHI)</articleTitle>. <journalTitle>Space Science Reviews</journalTitle>, <vol>136</vol>(<issue>1–4</issue>), <pageFirst>67</pageFirst>–<pageLast>115</pageLast>. <url href="https://doi.org/10.1007/s11214-008-9341-4">https://doi.org/10.1007/s11214‐008‐9341‐4</url></citation>
+</bib>
+<bib xml:id="swe21103-bib-0022">
+<citation type="book" xml:id="swe21103-cit-0022"><author><familyName>Hundhausen</familyName>, <givenNames>A. J.</givenNames></author>, <author><familyName>Stanger</familyName>, <givenNames>A. L.</givenNames></author>, &amp; <author><familyName>Serbicki</familyName>, <givenNames>S. A.</givenNames></author> (<pubYear year="1994">1994</pubYear>). <articleTitle>Mass and energy contents of coronal mass ejections: SMM results from 1980 and 1984‐1988</articleTitle>. In <editor><givenNames>J. J.</givenNames> <familyName>Hunt</familyName></editor> (Ed.), <bookSeriesTitle>Solar dynamic phenomena and solar wind consequences, the third SoHO workshop</bookSeriesTitle> (Vol. <vol>373</vol>, pp. <pageFirst>409</pageFirst>). <publisherLoc>Estes Park, CO</publisherLoc>: <publisherName>ESA Special Publication</publisherName>.</citation>
+</bib>
+<bib xml:id="swe21103-bib-0023">
+<citation type="journal" xml:id="swe21103-cit-0023"><author><familyName>Kaiser</familyName>, <givenNames>M. L.</givenNames></author>, <author><familyName>Kucera</familyName>, <givenNames>T. A.</givenNames></author>, <author><familyName>Davila</familyName>, <givenNames>J. M.</givenNames></author>, <author><familyName>Cyr</familyName>, <givenNames>S. O. C.</givenNames></author>, <author><familyName>Guhathakurta</familyName>, <givenNames>M.</givenNames></author>, &amp; <author><familyName>Christian</familyName>, <givenNames>E.</givenNames></author> (<pubYear year="2008">2008</pubYear>). <articleTitle>The STEREO mission: An introduction</articleTitle>. <journalTitle>Space Science Reviews</journalTitle>, <vol>136</vol>(<issue>1–4</issue>), <pageFirst>5</pageFirst>–<pageLast>16</pageLast>. <url href="https://doi.org/10.1007/s11214-007-9277-0">https://doi.org/10.1007/s11214‐007‐9277‐0</url></citation>
+</bib>
+<bib xml:id="swe21103-bib-0024">
+<citation type="journal" xml:id="swe21103-cit-0024"><author><familyName>Kay</familyName>, <givenNames>C.</givenNames></author>, <author><familyName>Mays</familyName>, <givenNames>M. L.</givenNames></author>, &amp; <author><familyName>Verbeke</familyName>, <givenNames>C.</givenNames></author> (<pubYear year="2020">2020</pubYear>). <articleTitle>Identifying critical input parameters for improving drag‐based CME arrival time predictions</articleTitle>. <journalTitle>Space Weather</journalTitle>, <vol>18</vol>, <eLocator>e02382</eLocator>. <url href="https://doi.org/10.1029/2019SW002382">https://doi.org/10.1029/2019SW002382</url></citation>
+</bib>
+<bib xml:id="swe21103-bib-0025">
+<citation type="book" xml:id="swe21103-cit-0025"><author><familyName>Kay</familyName>, <givenNames>C.</givenNames></author>, &amp; <author><familyName>Nieves‐Chinchilla</familyName>, <givenNames>T.</givenNames></author> (<pubYear year="2020">2020</pubYear>). <articleTitle>Modeling interplanetary expansion and deformation of CMEs with ANTEATR‐PARADE I: Relative contribution of different forces</articleTitle><bookTitle>.</bookTitle> arXiv:2011.06030</citation>
+</bib>
+<bib xml:id="swe21103-bib-0026">
+<citation type="journal" xml:id="swe21103-cit-0026"><author><familyName>Kay</familyName>, <givenNames>C.</givenNames></author>, &amp; <author><familyName>Opher</familyName>, <givenNames>M.</givenNames></author> (<pubYear year="2015">2015</pubYear>). <articleTitle>The heliocentric distance where the deflections and rotations of solar coronal mass ejections occur</articleTitle>. <journalTitle>The Astrophysical Journal Letters</journalTitle>, <vol>811</vol>(<issue>2</issue>), <pageFirst>L36</pageFirst>. <url href="https://doi.org/10.1088/2041-8205/811/2/L36">https://doi.org/10.1088/2041‐8205/811/2/L36</url></citation>
+</bib>
+<bib xml:id="swe21103-bib-0027">
+<citation type="journal" xml:id="swe21103-cit-0027"><author><familyName>Kilpua</familyName>, <givenNames>E. K. J.</givenNames></author>, <author><familyName>Jian</familyName>, <givenNames>L. K.</givenNames></author>, <author><familyName>Li</familyName>, <givenNames>Y.</givenNames></author>, <author><familyName>Luhmann</familyName>, <givenNames>J. G.</givenNames></author>, &amp; <author><familyName>Russell</familyName>, <givenNames>C. T.</givenNames></author> (<pubYear year="2012">2012</pubYear>). <articleTitle>Observations of ICMEs and ICME‐like solar wind structures from 2007‐2010 using near‐earth and STEREO observations</articleTitle>. <journalTitle>Solar Physics</journalTitle>, <vol>281</vol>(<issue>1</issue>), <pageFirst>391</pageFirst>–<pageLast>409</pageLast>. <url href="https://doi.org/10.1007/s11207-012-9957-0">https://doi.org/10.1007/s11207‐012‐9957‐0</url></citation>
+</bib>
+<bib xml:id="swe21103-bib-0028">
+<citation type="book" xml:id="swe21103-cit-0028"><author><familyName>Kraft</familyName>, <givenNames>S.</givenNames></author>, <author><familyName>Puschmann</familyName>, <givenNames>K. G.</givenNames></author>, &amp; <author><familyName>Luntama</familyName>, <givenNames>J. P.</givenNames></author> (<pubYear year="2017">2017</pubYear>). <articleTitle>Remote sensing optical instrumentation for enhanced space weather monitoring from the L1 and L5 Lagrange points</articleTitle>. In <editor><givenNames>B.</givenNames> <familyName>Cugny</familyName></editor>, <editor><givenNames>N.</givenNames> <familyName>Karafolas</familyName></editor>, &amp; <editor><givenNames>Z.</givenNames> <familyName>Sodnik</familyName></editor> (Eds.), <bookSeriesTitle>International conference on space optics “ICSO 2016”</bookSeriesTitle> (Vol. <vol>10562</vol>, pp. <pageFirst>115</pageFirst>–<pageLast>123</pageLast>). <publisherName>SPIE</publisherName>. <url href="https://doi.org/10.1117/12.2296100">https://doi.org/10.1117/12.2296100</url></citation>
+</bib>
+<bib xml:id="swe21103-bib-0029">
+<citation type="journal" xml:id="swe21103-cit-0029"><author><familyName>Kubicka</familyName>, <givenNames>M.</givenNames></author>, <author><familyName>Möstl</familyName>, <givenNames>C.</givenNames></author>, <author><familyName>Amerstorfer</familyName>, <givenNames>T.</givenNames></author>, <author><familyName>Boakes</familyName>, <givenNames>P. D.</givenNames></author>, <author><familyName>Feng</familyName>, <givenNames>L.</givenNames></author>, <author><familyName>Eastwood</familyName>, <givenNames>J. P.</givenNames></author>, &amp; <author><familyName>Törmänen</familyName>, <givenNames>O.</givenNames></author> (<pubYear year="2016">2016</pubYear>). <articleTitle>Prediction of geomagnetic storm strength from inner heliospheric in situ observations</articleTitle>. <journalTitle>The Astrophysical Journal</journalTitle>, <vol>833</vol>(<issue>2</issue>), <pageFirst>255</pageFirst>. <url href="https://doi.org/10.3847/1538-4357/833/2/255">https://doi.org/10.3847/1538‐4357/833/2/255</url></citation>
+</bib>
+<bib xml:id="swe21103-bib-0030">
+<citation type="journal" xml:id="swe21103-cit-0030"><author><familyName>Lavraud</familyName>, <givenNames>B.</givenNames></author>, <author><familyName>Liu</familyName>, <givenNames>Y.</givenNames></author>, <author><familyName>Segura</familyName>, <givenNames>K.</givenNames></author>, <author><familyName>He</familyName>, <givenNames>J.</givenNames></author>, <author><familyName>Qin</familyName>, <givenNames>G.</givenNames></author>, <author><familyName>Temmer</familyName>, <givenNames>M.</givenNames></author>, et al. (<pubYear year="2016">2016</pubYear>). <articleTitle>A small mission concept to the Sun‐Earth Lagrangian L5 point for innovative solar, heliospheric and space weather science</articleTitle>. <journalTitle>Journal of Atmospheric and Solar‐Terrestrial Physics</journalTitle>, <vol>146</vol>, <pageFirst>171</pageFirst>–<pageLast>185</pageLast>. <url href="https://doi.org/10.1016/j.jastp.2016.06.004">https://doi.org/10.1016/j.jastp.2016.06.004</url></citation>
+</bib>
+<bib xml:id="swe21103-bib-0031">
+<citation type="journal" xml:id="swe21103-cit-0031"><author><familyName>Liu</familyName>, <givenNames>Y.</givenNames></author>, <author><familyName>Davies</familyName>, <givenNames>J. A.</givenNames></author>, <author><familyName>Luhmann</familyName>, <givenNames>J. G.</givenNames></author>, <author><familyName>Vourlidas</familyName>, <givenNames>A.</givenNames></author>, <author><familyName>Bale</familyName>, <givenNames>S. D.</givenNames></author>, &amp; <author><familyName>Lin</familyName>, <givenNames>R. P.</givenNames></author> (<pubYear year="2010">2010</pubYear>). <articleTitle>Geometric triangulation of imaging observations to track coronal mass ejections continuously out to 1 AU</articleTitle>. <journalTitle>The Astrophysical Journal Letters</journalTitle>, <vol>710</vol>(<issue>1</issue>), <pageFirst>L82</pageFirst>–<pageLast>L87</pageLast>. <url href="https://doi.org/10.1088/2041-8205/710/1/L82">https://doi.org/10.1088/2041‐8205/710/1/L82</url></citation>
+</bib>
+<bib xml:id="swe21103-bib-0032">
+<citation type="journal" xml:id="swe21103-cit-0032"><author><familyName>Liu</familyName>, <givenNames>Y. D.</givenNames></author>, <author><familyName>Luhmann</familyName>, <givenNames>J. G.</givenNames></author>, <author><familyName>Kajdič</familyName>, <givenNames>P.</givenNames></author>, <author><familyName>Kilpua</familyName>, <givenNames>E. K. J.</givenNames></author>, <author><familyName>Lugaz</familyName>, <givenNames>N.</givenNames></author>, <author><familyName>Nitta</familyName>, <givenNames>N. V.</givenNames></author>, et al. (<pubYear year="2014">2014</pubYear>). <articleTitle>Observations of an extreme storm in interplanetary space caused by successive coronal mass ejections</articleTitle>. <journalTitle>Nature Communications</journalTitle>, <vol>5</vol>, <pageFirst>3481</pageFirst>. <url href="https://doi.org/10.1038/ncomms4481">https://doi.org/10.1038/ncomms4481</url></citation>
+</bib>
+<bib xml:id="swe21103-bib-0033">
+<citation type="journal" xml:id="swe21103-cit-0033"><author><familyName>Lugaz</familyName>, <givenNames>N.</givenNames></author> (<pubYear year="2010">2010</pubYear>). <articleTitle>Accuracy and limitations of fitting and stereoscopic methods to determine the direction of coronal mass ejections from heliospheric imagers observations</articleTitle>. <journalTitle>Solar Physics</journalTitle>, <vol>267</vol>(<issue>2</issue>), <pageFirst>411</pageFirst>–<pageLast>429</pageLast>. <url href="https://doi.org/10.1007/s11207-010-9654-9">https://doi.org/10.1007/s11207‐010‐9654‐9</url></citation>
+</bib>
+<bib xml:id="swe21103-bib-0034">
+<citation type="journal" xml:id="swe21103-cit-0034"><author><familyName>Lugaz</familyName>, <givenNames>N.</givenNames></author>, <author><familyName>Farrugia</familyName>, <givenNames>C. J.</givenNames></author>, <author><familyName>Davies</familyName>, <givenNames>J. A.</givenNames></author>, <author><familyName>Möstl</familyName>, <givenNames>C.</givenNames></author>, <author><familyName>Davis</familyName>, <givenNames>C. J.</givenNames></author>, <author><familyName>Roussev</familyName>, <givenNames>I. I.</givenNames></author>, &amp; <author><familyName>Temmer</familyName>, <givenNames>M.</givenNames></author> (<pubYear year="2012">2012</pubYear>). <articleTitle>The deflection of the two interacting coronal mass ejections of 2010 may 23‐24 as revealed by combined in situ measurements and heliospheric imaging</articleTitle>. <journalTitle>The Astrophysical Journal</journalTitle>, <vol>759</vol>(<issue>1</issue>), <pageFirst>68</pageFirst>. <url href="https://doi.org/10.1088/0004-637X/759/1/68">https://doi.org/10.1088/0004‐637X/759/1/68</url></citation>
+</bib>
+<bib xml:id="swe21103-bib-0035">
+<citation type="journal" xml:id="swe21103-cit-0035"><author><familyName>Lugaz</familyName>, <givenNames>N.</givenNames></author>, <author><familyName>Hernandez‐Charpak</familyName>, <givenNames>J. N.</givenNames></author>, <author><familyName>Roussev</familyName>, <givenNames>I. I.</givenNames></author>, <author><familyName>Davis</familyName>, <givenNames>C. J.</givenNames></author>, <author><familyName>Vourlidas</familyName>, <givenNames>A.</givenNames></author>, &amp; <author><familyName>Davies</familyName>, <givenNames>J. A.</givenNames></author> (<pubYear year="2010">2010</pubYear>). <articleTitle>Determining the azimuthal properties of coronal mass ejections from multi‐spacecraft remote‐sensing observations with STEREO SECCHI</articleTitle>. <journalTitle>The Astrophysical Journal</journalTitle>, <vol>715</vol>(<issue>1</issue>), <pageFirst>493</pageFirst>–<pageLast>499</pageLast>. <url href="https://doi.org/10.1088/0004-637X/715/1/493">https://doi.org/10.1088/0004‐637X/715/1/493</url></citation>
+</bib>
+<bib xml:id="swe21103-bib-0036">
+<citation type="journal" xml:id="swe21103-cit-0036"><author><familyName>Luhmann</familyName>, <givenNames>J. G.</givenNames></author>, <author><familyName>Curtis</familyName>, <givenNames>D. W.</givenNames></author>, <author><familyName>Schroeder</familyName>, <givenNames>P.</givenNames></author>, <author><familyName>McCauley</familyName>, <givenNames>J.</givenNames></author>, <author><familyName>Lin</familyName>, <givenNames>R. P.</givenNames></author>, <author><familyName>Larson</familyName>, <givenNames>D. E.</givenNames></author>, et al. (<pubYear year="2008">2008</pubYear>). <articleTitle>STEREO IMPACT investigation goals, measurements, and data products overview</articleTitle>. <journalTitle>Space Science Reviews</journalTitle>, <vol>136</vol>(<issue>1–4</issue>), <pageFirst>117</pageFirst>–<pageLast>184</pageLast>. <url href="https://doi.org/10.1007/s11214-007-9170-x">https://doi.org/10.1007/s11214‐007‐9170‐x</url></citation>
+</bib>
+<bib xml:id="swe21103-bib-0037">
+<citation type="journal" xml:id="swe21103-cit-0037"><author><familyName>Manoharan</familyName>, <givenNames>P. K.</givenNames></author>, <author><familyName>Gopalswamy</familyName>, <givenNames>N.</givenNames></author>, <author><familyName>Yashiro</familyName>, <givenNames>S.</givenNames></author>, <author><familyName>Lara</familyName>, <givenNames>A.</givenNames></author>, <author><familyName>Michalek</familyName>, <givenNames>G.</givenNames></author>, &amp; <author><familyName>Howard</familyName>, <givenNames>R. A.</givenNames></author> (<pubYear year="2004">2004</pubYear>). <articleTitle>Influence of coronal mass ejection interaction on propagation of interplanetary shocks</articleTitle>. <journalTitle>Journal of Geophysical Research</journalTitle>, <vol>109</vol>, <eLocator>A06109</eLocator>. <url href="https://doi.org/10.1029/2003JA010300">https://doi.org/10.1029/2003JA010300</url></citation>
+</bib>
+<bib xml:id="swe21103-bib-0038">
+<citation type="journal" xml:id="swe21103-cit-0038"><author><familyName>Manoharan</familyName>, <givenNames>P. K.</givenNames></author>, &amp; <author><familyName>Mujiber Rahman</familyName>, <givenNames>A.</givenNames></author> (<pubYear year="2011">2011</pubYear>). <articleTitle>Coronal mass ejections—Propagation time and associated internal energy</articleTitle>. <journalTitle>Journal of Atmospheric and Solar‐Terrestrial Physics</journalTitle>, <vol>73</vol>(<issue>5–6</issue>), <pageFirst>671</pageFirst>–<pageLast>677</pageLast>. <url href="https://doi.org/10.1016/j.jastp.2011.01.017">https://doi.org/10.1016/j.jastp.2011.01.017</url></citation>
+</bib>
+<bib xml:id="swe21103-bib-0039">
+<citation type="journal" xml:id="swe21103-cit-0039"><author><familyName>Mierla</familyName>, <givenNames>M.</givenNames></author>, <author><familyName>Inhester</familyName>, <givenNames>B.</givenNames></author>, <author><familyName>Antunes</familyName>, <givenNames>A.</givenNames></author>, <author><familyName>Boursier</familyName>, <givenNames>Y.</givenNames></author>, <author><familyName>Byrne</familyName>, <givenNames>J. P.</givenNames></author>, <author><familyName>Colaninno</familyName>, <givenNames>R.</givenNames></author>, et al. (<pubYear year="2010">2010</pubYear>). <articleTitle>On the 3‐D reconstruction of coronal mass ejections using coronagraph data</articleTitle>. <journalTitle>Annales Geophysicae</journalTitle>, <vol>28</vol>(<issue>1</issue>), <pageFirst>203</pageFirst>–<pageLast>215</pageLast>. <url href="https://doi.org/10.5194/angeo-28-203-2010">https://doi.org/10.5194/angeo‐28‐203‐2010</url></citation>
+</bib>
+<bib xml:id="swe21103-bib-0040">
+<citation type="journal" xml:id="swe21103-cit-0040"><author><familyName>Möstl</familyName>, <givenNames>C.</givenNames></author>, &amp; <author><familyName>Davies</familyName>, <givenNames>J. A.</givenNames></author> (<pubYear year="2013">2013</pubYear>). <articleTitle>Speeds and arrival times of solar transients approximated by self‐similar expanding circular fronts</articleTitle>. <journalTitle>Solar Physics</journalTitle>, <vol>285</vol>(<issue>1–2</issue>), <pageFirst>411</pageFirst>–<pageLast>423</pageLast>. <url href="https://doi.org/10.1007/s11207-012-9978-8">https://doi.org/10.1007/s11207‐012‐9978‐8</url></citation>
+</bib>
+<bib xml:id="swe21103-bib-0041">
+<citation type="journal" xml:id="swe21103-cit-0041"><author><familyName>Möstl</familyName>, <givenNames>C.</givenNames></author>, <author><familyName>Isavnin</familyName>, <givenNames>A.</givenNames></author>, <author><familyName>Boakes</familyName>, <givenNames>P. D.</givenNames></author>, <author><familyName>Kilpua</familyName>, <givenNames>E. K. J.</givenNames></author>, <author><familyName>Davies</familyName>, <givenNames>J. A.</givenNames></author>, <author><familyName>Harrison</familyName>, <givenNames>R. A.</givenNames></author>, et al. (<pubYear year="2017">2017</pubYear>). <articleTitle>Modeling observations of solar coronal mass ejections with heliospheric imagers verified with the Heliophysics System Observatory</articleTitle>. <journalTitle>Space Weather</journalTitle>, <vol>15</vol>, <pageFirst>955</pageFirst>–<pageLast>970</pageLast>. <url href="https://doi.org/10.1002/2017SW001614">https://doi.org/10.1002/2017SW001614</url></citation>
+</bib>
+<bib xml:id="swe21103-bib-0042">
+<citation type="journal" xml:id="swe21103-cit-0042"><author><familyName>Möstl</familyName>, <givenNames>C.</givenNames></author>, <author><familyName>Rollett</familyName>, <givenNames>T.</givenNames></author>, <author><familyName>Frahm</familyName>, <givenNames>R. A.</givenNames></author>, <author><familyName>Liu</familyName>, <givenNames>Y. D.</givenNames></author>, <author><familyName>Long</familyName>, <givenNames>D. M.</givenNames></author>, <author><familyName>Colaninno</familyName>, <givenNames>R. C.</givenNames></author>, et al. (<pubYear year="2015">2015</pubYear>). <articleTitle>Strong coronal channelling and interplanetary evolution of a solar storm up to Earth and Mars</articleTitle>. <journalTitle>Nature Communications</journalTitle>, <vol>6</vol>, <pageFirst>7135</pageFirst>. <url href="https://doi.org/10.1038/ncomms8135">https://doi.org/10.1038/ncomms8135</url></citation>
+</bib>
+<bib xml:id="swe21103-bib-0043">
+<citation type="journal" xml:id="swe21103-cit-0043"><author><familyName>Möstl</familyName>, <givenNames>C.</givenNames></author>, <author><familyName>Rollett</familyName>, <givenNames>T.</givenNames></author>, <author><familyName>Lugaz</familyName>, <givenNames>N.</givenNames></author>, <author><familyName>Farrugia</familyName>, <givenNames>C. J.</givenNames></author>, <author><familyName>Davies</familyName>, <givenNames>J. A.</givenNames></author>, <author><familyName>Temmer</familyName>, <givenNames>M.</givenNames></author>, et al. (<pubYear year="2011">2011</pubYear>). <articleTitle>Arrival time calculation for interplanetary coronal mass ejections with circular fronts and application to STEREO observations of the 2009 February 13 eruption</articleTitle>. <journalTitle>The Astrophysical Journal</journalTitle>, <vol>741</vol>(<issue>1</issue>), <pageFirst>34</pageFirst>. <url href="https://doi.org/10.1088/0004-637X/741/1/34">https://doi.org/10.1088/0004‐637X/741/1/34</url></citation>
+</bib>
+<bib xml:id="swe21103-bib-0044">
+<citation type="book" xml:id="swe21103-cit-0044"><author><familyName>Möstl</familyName>, <givenNames>C.</givenNames></author>, <author><familyName>Weiss</familyName>, <givenNames>A. J.</givenNames></author>, <author><familyName>Bailey</familyName>, <givenNames>R. L.</givenNames></author>, <author><familyName>Reiss</familyName>, <givenNames>M. A.</givenNames></author>, <author><familyName>Amerstorfer</familyName>, <givenNames>U. V.</givenNames></author>, <author><familyName>Amerstorfer</familyName>, <givenNames>T.</givenNames></author>, et al. (<pubYear year="2020">2020</pubYear>). <articleTitle>Prediction of the in situ coronal mass ejection rate for solar cycle 25: Implications for Parker Solar Probe in situ observations</articleTitle><bookTitle>.</bookTitle> arXiv:2007.14743</citation>
+</bib>
+<bib xml:id="swe21103-bib-0045">
+<citation type="journal" xml:id="swe21103-cit-0045"><author><familyName>Nieves‐Chinchilla</familyName>, <givenNames>T.</givenNames></author>, <author><familyName>Vourlidas</familyName>, <givenNames>A.</givenNames></author>, <author><familyName>Raymond</familyName>, <givenNames>J. C.</givenNames></author>, <author><familyName>Linton</familyName>, <givenNames>M. G.</givenNames></author>, <author><familyName>Al‐haddad</familyName>, <givenNames>N.</givenNames></author>, <author><familyName>Savani</familyName>, <givenNames>N. P.</givenNames></author>, et al. (<pubYear year="2018">2018</pubYear>). <articleTitle>Understanding the internal magnetic field configurations of ICMEs using more than 20 Years of wind observations</articleTitle>. <journalTitle>Solar Physics</journalTitle>, <vol>293</vol>(<issue>2</issue>), <pageFirst>25</pageFirst>. <url href="https://doi.org/10.1007/s11207-018-1247-z">https://doi.org/10.1007/s11207‐018‐1247‐z</url></citation>
+</bib>
+<bib xml:id="swe21103-bib-0046">
+<citation type="journal" xml:id="swe21103-cit-0046"><author><familyName>Odstrcil</familyName>, <givenNames>D.</givenNames></author>, <author><familyName>Pizzo</familyName>, <givenNames>V. J.</givenNames></author>, <author><familyName>Linker</familyName>, <givenNames>J. A.</givenNames></author>, <author><familyName>Riley</familyName>, <givenNames>P.</givenNames></author>, <author><familyName>Lionello</familyName>, <givenNames>R.</givenNames></author>, &amp; <author><familyName>Mikic</familyName>, <givenNames>Z.</givenNames></author> (<pubYear year="2004">2004</pubYear>). <articleTitle>Initial coupling of coronal and heliospheric numerical magnetohydrodynamic codes</articleTitle>. <journalTitle>Journal of Atmospheric and Solar‐Terrestrial Physics</journalTitle>, <vol>66</vol>(<issue>15–16</issue>), <pageFirst>1311</pageFirst>–<pageLast>1320</pageLast>. <url href="https://doi.org/10.1016/j.jastp.2004.04.007">https://doi.org/10.1016/j.jastp.2004.04.007</url></citation>
+</bib>
+<bib xml:id="swe21103-bib-0047">
+<citation type="journal" xml:id="swe21103-cit-0047"><author><familyName>Owens</familyName>, <givenNames>M. J.</givenNames></author>, <author><familyName>Lockwood</familyName>, <givenNames>M.</givenNames></author>, &amp; <author><familyName>Barnard</familyName>, <givenNames>L. A.</givenNames></author> (<pubYear year="2017">2017</pubYear>). <articleTitle>Coronal mass ejections are not coherent magnetohydrodynamic structures</articleTitle>. <journalTitle>Scientific Reports</journalTitle>, <vol>7</vol>, <pageFirst>4152</pageFirst>. <url href="https://doi.org/10.1038/s41598-017-04546-3">https://doi.org/10.1038/s41598‐017‐04546‐3</url></citation>
+</bib>
+<bib xml:id="swe21103-bib-0048">
+<citation type="journal" xml:id="swe21103-cit-0048"><author><familyName>Owens</familyName>, <givenNames>M. J.</givenNames></author>, <author><familyName>Lockwood</familyName>, <givenNames>M.</givenNames></author>, &amp; <author><familyName>Barnard</familyName>, <givenNames>L. A.</givenNames></author> (<pubYear year="2020">2020</pubYear>). <articleTitle>The value of CME arrival time forecasts for space weather mitigation</articleTitle>. <journalTitle>Space Weather</journalTitle>, <vol>18</vol>, <eLocator>e2020SW002507</eLocator>. <url href="https://doi.org/10.1029/2020SW002507">https://doi.org/10.1029/2020SW002507</url></citation>
+</bib>
+<bib xml:id="swe21103-bib-0049">
+<citation type="journal" xml:id="swe21103-cit-0049"><author><familyName>Owens</familyName>, <givenNames>M. J.</givenNames></author>, &amp; <author><familyName>Riley</familyName>, <givenNames>P.</givenNames></author> (<pubYear year="2017">2017</pubYear>). <articleTitle>Probabilistic solar wind forecasting using large ensembles of near‐Sun conditions with a simple one‐dimensional “upwind” scheme</articleTitle>. <journalTitle>Space Weather</journalTitle>, <vol>15</vol>, <pageFirst>1461</pageFirst>–<pageLast>1474</pageLast>. <url href="https://doi.org/10.1002/2017SW001679">https://doi.org/10.1002/2017SW001679</url></citation>
+</bib>
+<bib xml:id="swe21103-bib-0050">
+<citation type="journal" xml:id="swe21103-cit-0050"><author><familyName>Paouris</familyName>, <givenNames>E.</givenNames></author>, &amp; <author><familyName>Mavromichalaki</familyName>, <givenNames>H.</givenNames></author> (<pubYear year="2017">2017</pubYear>). <articleTitle>Effective acceleration model for the arrival time of interplanetary shocks driven by coronal mass ejections</articleTitle>. <journalTitle>Solar Physics</journalTitle>, <vol>292</vol>(<issue>12</issue>), <pageFirst>180</pageFirst>. <url href="https://doi.org/10.1007/s11207-017-1212-2">https://doi.org/10.1007/s11207‐017‐1212‐2</url></citation>
+</bib>
+<bib xml:id="swe21103-bib-0051">
+<citation type="journal" xml:id="swe21103-cit-0051"><author><familyName>Pomoell</familyName>, <givenNames>J.</givenNames></author>, &amp; <author><familyName>Poedts</familyName>, <givenNames>S.</givenNames></author> (<pubYear year="2018">2018</pubYear>). <articleTitle>Euhforia: European heliospheric forecasting information asset</articleTitle>. <journalTitle>Journal of Space Weather and Space Climate</journalTitle>, <vol>8</vol>, <pageFirst>A35</pageFirst>. <url href="https://doi.org/10.1051/swsc/2018020">https://doi.org/10.1051/swsc/2018020</url></citation>
+</bib>
+<bib xml:id="swe21103-bib-0052">
+<citation type="journal" xml:id="swe21103-cit-0052"><author><familyName>Reiss</familyName>, <givenNames>M. A.</givenNames></author>, <author><familyName>MacNeice</familyName>, <givenNames>P. J.</givenNames></author>, <author><familyName>Mays</familyName>, <givenNames>L. M.</givenNames></author>, <author><familyName>Arge</familyName>, <givenNames>C. N.</givenNames></author>, <author><familyName>Möstl</familyName>, <givenNames>C.</givenNames></author>, <author><familyName>Nikolic</familyName>, <givenNames>L.</givenNames></author>, &amp; <author><familyName>Amerstorfer</familyName>, <givenNames>T.</givenNames></author> (<pubYear year="2019">2019</pubYear>). <articleTitle>Forecasting the ambient solar wind with numerical models. I. On the implementation of an operational framework</articleTitle>. <journalTitle>The Astrophysical Journal Supplement Series</journalTitle>, <vol>240</vol>, <pageFirst>35</pageFirst>. <url href="https://doi.org/10.3847/1538-4365/aaf8b3">https://doi.org/10.3847/1538‐4365/aaf8b3</url></citation>
+</bib>
+<bib xml:id="swe21103-bib-0053">
+<citation type="journal" xml:id="swe21103-cit-0053"><author><familyName>Reiss</familyName>, <givenNames>M. A.</givenNames></author>, <author><familyName>MacNeice</familyName>, <givenNames>P. J.</givenNames></author>, <author><familyName>Muglach</familyName>, <givenNames>K.</givenNames></author>, <author><familyName>Arge</familyName>, <givenNames>C. N.</givenNames></author>, <author><familyName>Möstl</familyName>, <givenNames>C.</givenNames></author>, <author><familyName>Riley</familyName>, <givenNames>P.</givenNames></author>, et al. (<pubYear year="2020">2020</pubYear>). <articleTitle>Forecasting the ambient solar wind with numerical models. II. An adaptive prediction system for specifying solar wind speed near the Sun</articleTitle>. <journalTitle>The Astrophysical Journal</journalTitle>, <vol>891</vol>(<issue>2</issue>), <pageFirst>165</pageFirst>. <url href="https://doi.org/10.3847/1538-4357/ab78a0">https://doi.org/10.3847/1538‐4357/ab78a0</url></citation>
+</bib>
+<bib xml:id="swe21103-bib-0054">
+<citation type="journal" xml:id="swe21103-cit-0054"><author><familyName>Richardson</familyName>, <givenNames>I. G.</givenNames></author>, &amp; <author><familyName>Cane</familyName>, <givenNames>H. V.</givenNames></author> (<pubYear year="2010">2010</pubYear>). <articleTitle>Near‐Earth interplanetary coronal mass ejections during solar cycle 23 (1996‐2009): Catalog and summary of properties</articleTitle>. <journalTitle>Solar Physics</journalTitle>, <vol>264</vol>(<issue>1</issue>), <pageFirst>189</pageFirst>–<pageLast>237</pageLast>. <url href="https://doi.org/10.1007/s11207-010-9568-6">https://doi.org/10.1007/s11207‐010‐9568‐6</url></citation>
+</bib>
+<bib xml:id="swe21103-bib-0055">
+<citation type="journal" xml:id="swe21103-cit-0055"><author><familyName>Richardson</familyName>, <givenNames>I. G.</givenNames></author>, &amp; <author><familyName>Cane</familyName>, <givenNames>H. V.</givenNames></author> (<pubYear year="2012">2012</pubYear>). <articleTitle>Near‐earth solar wind flows and related geomagnetic activity during more than four solar cycles (1963‐2011)</articleTitle>. <journalTitle>Journal of Space Weather and Space Climate</journalTitle>, <vol>2</vol>, <pageFirst>A02</pageFirst>. <url href="https://doi.org/10.1051/swsc/2012003">https://doi.org/10.1051/swsc/2012003</url></citation>
+</bib>
+<bib xml:id="swe21103-bib-0056">
+<citation type="journal" xml:id="swe21103-cit-0056"><author><familyName>Riley</familyName>, <givenNames>P.</givenNames></author>, &amp; <author><familyName>Crooker</familyName>, <givenNames>N. U.</givenNames></author> (<pubYear year="2004">2004</pubYear>). <articleTitle>Kinematic treatment of coronal mass ejection evolution in the solar wind</articleTitle>. <journalTitle>The Astrophysical Journal</journalTitle>, <vol>600</vol>(<issue>2</issue>), <pageFirst>1035</pageFirst>–<pageLast>1042</pageLast>. <url href="https://doi.org/10.1086/379974">https://doi.org/10.1086/379974</url></citation>
+</bib>
+<bib xml:id="swe21103-bib-0057">
+<citation type="journal" xml:id="swe21103-cit-0057"><author><familyName>Riley</familyName>, <givenNames>P.</givenNames></author>, &amp; <author><familyName>Lionello</familyName>, <givenNames>R.</givenNames></author> (<pubYear year="2011">2011</pubYear>). <articleTitle>Mapping solar wind streams from the Sun to 1 AU: A comparison of techniques</articleTitle>. <journalTitle>Solar Physics</journalTitle>, <vol>270</vol>, <pageFirst>575</pageFirst>–<pageLast>592</pageLast>. <url href="https://doi.org/10.1007/s11207-011-9766-x">https://doi.org/10.1007/s11207‐011‐9766‐x</url></citation>
+</bib>
+<bib xml:id="swe21103-bib-0058">
+<citation type="journal" xml:id="swe21103-cit-0058"><author><familyName>Riley</familyName>, <givenNames>P.</givenNames></author>, <author><familyName>Mays</familyName>, <givenNames>M. L.</givenNames></author>, <author><familyName>Andries</familyName>, <givenNames>J.</givenNames></author>, <author><familyName>Amerstorfer</familyName>, <givenNames>T.</givenNames></author>, <author><familyName>Biesecker</familyName>, <givenNames>D.</givenNames></author>, <author><familyName>Delouille</familyName>, <givenNames>V.</givenNames></author>, et al. (<pubYear year="2018">2018</pubYear>). <articleTitle>Forecasting the arrival time of coronal mass ejections: Analysis of the CCMC CME scoreboard</articleTitle>. <journalTitle>Space Weather</journalTitle>, <vol>16</vol>, <pageFirst>1245</pageFirst>–<pageLast>1260</pageLast>. <url href="https://doi.org/10.1029/2018SW001962">https://doi.org/10.1029/2018SW001962</url></citation>
+</bib>
+<bib xml:id="swe21103-bib-0059">
+<citation type="journal" xml:id="swe21103-cit-0059"><author><familyName>Rollett</familyName>, <givenNames>T.</givenNames></author>, <author><familyName>Möstl</familyName>, <givenNames>C.</givenNames></author>, <author><familyName>Isavnin</familyName>, <givenNames>A.</givenNames></author>, <author><familyName>Davies</familyName>, <givenNames>J. A.</givenNames></author>, <author><familyName>Kubicka</familyName>, <givenNames>M.</givenNames></author>, <author><familyName>Amerstorfer</familyName>, <givenNames>U. V.</givenNames></author>, &amp; <author><familyName>Harrison</familyName>, <givenNames>R. A.</givenNames></author> (<pubYear year="2016">2016</pubYear>). <articleTitle>ElEvoHI: A novel CME prediction tool for heliospheric imaging combining an elliptical front with drag‐based model fitting</articleTitle>. <journalTitle>The Astrophysical Journal</journalTitle>, <vol>824</vol>(<issue>2</issue>), <pageFirst>131</pageFirst>. <url href="https://doi.org/10.3847/0004-637X/824/2/131">https://doi.org/10.3847/0004‐637X/824/2/131</url></citation>
+</bib>
+<bib xml:id="swe21103-bib-0060">
+<citation type="journal" xml:id="swe21103-cit-0060"><author><familyName>Rollett</familyName>, <givenNames>T.</givenNames></author>, <author><familyName>Möstl</familyName>, <givenNames>C.</givenNames></author>, <author><familyName>Temmer</familyName>, <givenNames>M.</givenNames></author>, <author><familyName>Frahm</familyName>, <givenNames>R. A.</givenNames></author>, <author><familyName>Davies</familyName>, <givenNames>J. A.</givenNames></author>, <author><familyName>Veronig</familyName>, <givenNames>A. M.</givenNames></author>, et al. (<pubYear year="2014">2014</pubYear>). <articleTitle>Combined multipoint remote and in situ observations of the asymmetric evolution of a fast solar coronal mass ejection</articleTitle>. <journalTitle>The Astrophysical Journal Letters</journalTitle>, <vol>790</vol>(<issue>1</issue>), <pageFirst>L6</pageFirst>. <url href="https://doi.org/10.1088/2041-8205/790/1/L6">https://doi.org/10.1088/2041‐8205/790/1/L6</url></citation>
+</bib>
+<bib xml:id="swe21103-bib-0061">
+<citation type="journal" xml:id="swe21103-cit-0061"><author><familyName>Rouillard</familyName>, <givenNames>A. P.</givenNames></author>, <author><familyName>Davies</familyName>, <givenNames>J. A.</givenNames></author>, <author><familyName>Forsyth</familyName>, <givenNames>R. J.</givenNames></author>, <author><familyName>Rees</familyName>, <givenNames>A.</givenNames></author>, <author><familyName>Davis</familyName>, <givenNames>C. J.</givenNames></author>, <author><familyName>Harrison</familyName>, <givenNames>R. A.</givenNames></author>, et al. (<pubYear year="2008">2008</pubYear>). <articleTitle>First imaging of corotating interaction regions using the STEREO spacecraft</articleTitle>. <journalTitle>Geophysical Research Letters</journalTitle>, <vol>35</vol>, <eLocator>L10110</eLocator>. <url href="https://doi.org/10.1029/2008GL033767">https://doi.org/10.1029/2008GL033767</url></citation>
+</bib>
+<bib xml:id="swe21103-bib-0062">
+<citation type="journal" xml:id="swe21103-cit-0062"><author><familyName>Ruffenach</familyName>, <givenNames>A.</givenNames></author>, <author><familyName>Lavraud</familyName>, <givenNames>B.</givenNames></author>, <author><familyName>Farrugia</familyName>, <givenNames>C. J.</givenNames></author>, <author><familyName>Démoulin</familyName>, <givenNames>P.</givenNames></author>, <author><familyName>Dasso</familyName>, <givenNames>S.</givenNames></author>, <author><familyName>Owens</familyName>, <givenNames>M. J.</givenNames></author>, et al. (<pubYear year="2015">2015</pubYear>). <articleTitle>Statistical study of magnetic cloud erosion by magnetic reconnection</articleTitle>. <journalTitle>Journal of Geophysical Research: Space Physics</journalTitle>, <vol>120</vol>, <pageFirst>43</pageFirst>–<pageLast>60</pageLast>. <url href="https://doi.org/10.1002/2014JA020628">https://doi.org/10.1002/2014JA020628</url></citation>
+</bib>
+<bib xml:id="swe21103-bib-0063">
+<citation type="journal" xml:id="swe21103-cit-0063"><author><familyName>Savani</familyName>, <givenNames>N. P.</givenNames></author>, <author><familyName>Owens</familyName>, <givenNames>M. J.</givenNames></author>, <author><familyName>Rouillard</familyName>, <givenNames>A. P.</givenNames></author>, <author><familyName>Forsyth</familyName>, <givenNames>R. J.</givenNames></author>, &amp; <author><familyName>Davies</familyName>, <givenNames>J. A.</givenNames></author> (<pubYear year="2010">2010</pubYear>). <articleTitle>Observational evidence of a coronal mass ejection distortion directly attributable to a structured solar wind</articleTitle>. <journalTitle>The Astrophysical Journal Letters</journalTitle>, <vol>714</vol>(<issue>1</issue>), <pageFirst>L128</pageFirst>–<pageLast>L132</pageLast>. <url href="https://doi.org/10.1088/2041-8205/714/1/L128">https://doi.org/10.1088/2041‐8205/714/1/L128</url></citation>
+</bib>
+<bib xml:id="swe21103-bib-0064">
+<citation type="journal" xml:id="swe21103-cit-0064"><author><familyName>Schatten</familyName>, <givenNames>K. H.</givenNames></author> (<pubYear year="1971">1971</pubYear>). <articleTitle>Current sheet magnetic model for the solar corona</articleTitle>. <journalTitle>Cosmic Electrodynamics</journalTitle>, <vol>2</vol>, <pageFirst>232</pageFirst>–<pageLast>245</pageLast>.</citation>
+</bib>
+<bib xml:id="swe21103-bib-0065">
+<citation type="journal" xml:id="swe21103-cit-0065"><author><familyName>Schatten</familyName>, <givenNames>K. H.</givenNames></author>, <author><familyName>Wilcox</familyName>, <givenNames>J. M.</givenNames></author>, &amp; <author><familyName>Ness</familyName>, <givenNames>N. F.</givenNames></author> (<pubYear year="1969">1969</pubYear>). <articleTitle>A model of interplanetary and coronal magnetic fields</articleTitle>. <journalTitle>Solar Physics</journalTitle>, <vol>6</vol>, <pageFirst>442</pageFirst>–<pageLast>455</pageLast>. <url href="https://doi.org/10.1007/BF00146478">https://doi.org/10.1007/BF00146478</url></citation>
+</bib>
+<bib xml:id="swe21103-bib-0066">
+<citation type="journal" xml:id="swe21103-cit-0066"><author><familyName>Scott</familyName>, <givenNames>C. J.</givenNames></author>, <author><familyName>Owens</familyName>, <givenNames>M. J.</givenNames></author>, <author><familyName>de Koning</familyName>, <givenNames>C. A.</givenNames></author>, <author><familyName>Barnard</familyName>, <givenNames>L. A.</givenNames></author>, <author><familyName>Jones</familyName>, <givenNames>S. R.</givenNames></author>, &amp; <author><familyName>Wilkinson</familyName>, <givenNames>J.</givenNames></author> (<pubYear year="2019">2019</pubYear>). <articleTitle>Using ghost fronts within STEREO heliospheric imager data to infer the evolution in longitudinal structure of a coronal mass ejection</articleTitle>. <journalTitle>Space Weather</journalTitle>, <vol>17</vol>, <pageFirst>539</pageFirst>–<pageLast>552</pageLast>. <url href="https://doi.org/10.1029/2018SW002093">https://doi.org/10.1029/2018SW002093</url></citation>
+</bib>
+<bib xml:id="swe21103-bib-0067">
+<citation type="journal" xml:id="swe21103-cit-0067"><author><familyName>Sheeley</familyName>, <givenNames>N. R.</givenNames></author>, <author><familyName>Walters</familyName>, <givenNames>J. H.</givenNames></author>, <author><familyName>Wang</familyName>, <givenNames>Y. M.</givenNames></author>, &amp; <author><familyName>Howard</familyName>, <givenNames>R. A.</givenNames></author> (<pubYear year="1999">1999</pubYear>). <articleTitle>Continuous tracking of coronal outflows: Two kinds of coronal mass ejections</articleTitle>. <journalTitle>Journal of Geophysical Research</journalTitle>, <vol>104</vol>(<issue>A11</issue>), <pageFirst>24739</pageFirst>–<pageLast>24768</pageLast>. <url href="https://doi.org/10.1029/1999JA900308">https://doi.org/10.1029/1999JA900308</url></citation>
+</bib>
+<bib xml:id="swe21103-bib-0068">
+<citation type="journal" xml:id="swe21103-cit-0068"><author><familyName>Srivastava</familyName>, <givenNames>N.</givenNames></author>, &amp; <author><familyName>Venkatakrishnan</familyName>, <givenNames>P.</givenNames></author> (<pubYear year="2004">2004</pubYear>). <articleTitle>Solar and interplanetary sources of major geomagnetic storms during 1996‐2002</articleTitle>. <journalTitle>Journal of Geophysical Research</journalTitle>, <vol>109</vol>, <eLocator>A10103</eLocator>. <url href="https://doi.org/10.1029/2003JA010175">https://doi.org/10.1029/2003JA010175</url></citation>
+</bib>
+<bib xml:id="swe21103-bib-0069">
+<citation type="journal" xml:id="swe21103-cit-0069"><author><familyName>Temmer</familyName>, <givenNames>M.</givenNames></author>, &amp; <author><familyName>Nitta</familyName>, <givenNames>N. V.</givenNames></author> (<pubYear year="2015">2015</pubYear>). <articleTitle>Interplanetary propagation behavior of the fast coronal mass ejection on 23 July 2012</articleTitle>. <journalTitle>Solar Physics</journalTitle>, <vol>290</vol>(<issue>3</issue>), <pageFirst>919</pageFirst>–<pageLast>932</pageLast>. <url href="https://doi.org/10.1007/s11207-014-0642-3">https://doi.org/10.1007/s11207‐014‐0642‐3</url></citation>
+</bib>
+<bib xml:id="swe21103-bib-0070">
+<citation type="journal" xml:id="swe21103-cit-0070"><author><familyName>Thernisien</familyName>, <givenNames>A.</givenNames></author>, <author><familyName>Vourlidas</familyName>, <givenNames>A.</givenNames></author>, &amp; <author><familyName>Howard</familyName>, <givenNames>R. A.</givenNames></author> (<pubYear year="2009">2009</pubYear>). <articleTitle>Forward modeling of coronal mass ejections using STEREO/SECCHI data</articleTitle>. <journalTitle>Solar Physics</journalTitle>, <vol>256</vol>(<issue>1–2</issue>), <pageFirst>111</pageFirst>–<pageLast>130</pageLast>. <url href="https://doi.org/10.1007/s11207-009-9346-5">https://doi.org/10.1007/s11207‐009‐9346‐5</url></citation>
+</bib>
+<bib xml:id="swe21103-bib-0071">
+<citation type="journal" xml:id="swe21103-cit-0071"><author><familyName>Thernisien</familyName>, <givenNames>A. F. R.</givenNames></author>, <author><familyName>Howard</familyName>, <givenNames>R. A.</givenNames></author>, &amp; <author><familyName>Vourlidas</familyName>, <givenNames>A.</givenNames></author> (<pubYear year="2006">2006</pubYear>). <articleTitle>Modeling of flux rope coronal mass ejections</articleTitle>. <journalTitle>The Astrophysical Journal</journalTitle>, <vol>652</vol>(<issue>1</issue>), <pageFirst>763</pageFirst>–<pageLast>773</pageLast>. <url href="https://doi.org/10.1086/508254">https://doi.org/10.1086/508254</url></citation>
+</bib>
+<bib xml:id="swe21103-bib-0072">
+<citation type="journal" xml:id="swe21103-cit-0072"><author><familyName>Volpes</familyName>, <givenNames>L.</givenNames></author>, &amp; <author><familyName>Bothmer</familyName>, <givenNames>V.</givenNames></author> (<pubYear year="2015">2015</pubYear>). <articleTitle>An application of the stereoscopic self‐similar‐expansion model to the determination of CME‐driven shock parameters</articleTitle>. <journalTitle>Solar Physics</journalTitle>, <vol>290</vol>(<issue>10</issue>), <pageFirst>3005</pageFirst>–<pageLast>3022</pageLast>. <url href="https://doi.org/10.1007/s11207-015-0775-z">https://doi.org/10.1007/s11207‐015‐0775‐z</url></citation>
+</bib>
+<bib xml:id="swe21103-bib-0073">
+<citation type="journal" xml:id="swe21103-cit-0073"><author><familyName>Vršnak</familyName>, <givenNames>B.</givenNames></author>, <author><familyName>Žic</familyName>, <givenNames>T.</givenNames></author>, <author><familyName>Vrbanec</familyName>, <givenNames>D.</givenNames></author>, <author><familyName>Temmer</familyName>, <givenNames>M.</givenNames></author>, <author><familyName>Rollett</familyName>, <givenNames>T.</givenNames></author>, <author><familyName>Möstl</familyName>, <givenNames>C.</givenNames></author>, et al. (<pubYear year="2013">2013</pubYear>). <articleTitle>Propagation of interplanetary coronal mass ejections: The drag‐based model</articleTitle>. <journalTitle>Solar Physics</journalTitle>, <vol>285</vol>(<issue>1–2</issue>), <pageFirst>295</pageFirst>–<pageLast>315</pageLast>. <url href="https://doi.org/10.1007/s11207-012-0035-4">https://doi.org/10.1007/s11207‐012‐0035‐4</url></citation>
+</bib>
+<bib xml:id="swe21103-bib-0074">
+<citation type="journal" xml:id="swe21103-cit-0074"><author><familyName>Wang</familyName>, <givenNames>Y.</givenNames></author>, <author><familyName>Shen</familyName>, <givenNames>C.</givenNames></author>, <author><familyName>Wang</familyName>, <givenNames>S.</givenNames></author>, &amp; <author><familyName>Ye</familyName>, <givenNames>P.</givenNames></author> (<pubYear year="2004">2004</pubYear>). <articleTitle>Deflection of coronal mass ejection in the interplanetary medium</articleTitle>. <journalTitle>Solar Physics</journalTitle>, <vol>222</vol>(<issue>2</issue>), <pageFirst>329</pageFirst>–<pageLast>343</pageLast>. <url href="https://doi.org/10.1023/B:SOLA.0000043576.21942.aa">https://doi.org/10.1023/B:SOLA.0000043576.21942.aa</url></citation>
+</bib>
+<bib xml:id="swe21103-bib-0075">
+<citation type="journal" xml:id="swe21103-cit-0075"><author><familyName>Wang</familyName>, <givenNames>Y.</givenNames></author>, <author><familyName>Wang</familyName>, <givenNames>B.</givenNames></author>, <author><familyName>Shen</familyName>, <givenNames>C.</givenNames></author>, <author><familyName>Shen</familyName>, <givenNames>F.</givenNames></author>, &amp; <author><familyName>Lugaz</familyName>, <givenNames>N.</givenNames></author> (<pubYear year="2014">2014</pubYear>). <articleTitle>Deflected propagation of a coronal mass ejection from the corona to interplanetary space</articleTitle>. <journalTitle>Journal of Geophysical Research: Space Physics</journalTitle>, <vol>119</vol>, <pageFirst>5117</pageFirst>–<pageLast>5132</pageLast>. <url href="https://doi.org/10.1002/2013JA019537">https://doi.org/10.1002/2013JA019537</url></citation>
+</bib>
+<bib xml:id="swe21103-bib-0076">
+<citation type="journal" xml:id="swe21103-cit-0076"><author><familyName>Wang</familyName>, <givenNames>Y.‐M.</givenNames></author>, &amp; <author><familyName>Sheeley</familyName>, <givenNames>N. R.</givenNames> <nameSuffix>Jr.</nameSuffix></author> (<pubYear year="1995">1995</pubYear>). <articleTitle>Solar implications of ULYSSES interplanetary field measurements</articleTitle>. <journalTitle>The Astrophysical Journal Letters</journalTitle>, <vol>447</vol>, <pageFirst>L143</pageFirst>. <url href="https://doi.org/10.1086/309578">https://doi.org/10.1086/309578</url></citation>
+</bib>
+<bib xml:id="swe21103-bib-0077">
+<citation type="journal" xml:id="swe21103-cit-0077"><author><familyName>Žic</familyName>, <givenNames>T.</givenNames></author>, <author><familyName>Vršnak</familyName>, <givenNames>B.</givenNames></author>, &amp; <author><familyName>Temmer</familyName>, <givenNames>M.</givenNames></author> (<pubYear year="2015">2015</pubYear>). <articleTitle>Heliospheric propagation of coronal mass ejections: Drag‐based model fitting</articleTitle>. <journalTitle>The Astrophysical Journal Supplement Series</journalTitle>, <vol>218</vol>(<issue>2</issue>), <pageFirst>32</pageFirst>. <url href="https://doi.org/10.1088/0067-0049/218/2/32">https://doi.org/10.1088/0067‐0049/218/2/32</url></citation>
+</bib>
+<bib xml:id="swe21103-bib-0078">
+<citation type="journal" xml:id="swe21103-cit-0078"><author><familyName>Zuccarello</familyName>, <givenNames>F. P.</givenNames></author>, <author><familyName>Bemporad</familyName>, <givenNames>A.</givenNames></author>, <author><familyName>Jacobs</familyName>, <givenNames>C.</givenNames></author>, <author><familyName>Mierla</familyName>, <givenNames>M.</givenNames></author>, <author><familyName>Poedts</familyName>, <givenNames>S.</givenNames></author>, &amp; <author><familyName>Zuccarello</familyName>, <givenNames>F.</givenNames></author> (<pubYear year="2012">2012</pubYear>). <articleTitle>The role of streamers in the deflection of coronal mass ejections: Comparison between STEREO three‐dimensional reconstructions and numerical simulations</articleTitle>. <journalTitle>The Astrophysical Journal</journalTitle>, <vol>744</vol>(<issue>1</issue>), <pageFirst>66</pageFirst>. <url href="https://doi.org/10.1088/0004-637X/744/1/66">https://doi.org/10.1088/0004‐637X/744/1/66</url></citation>
+</bib>
+</bibliography>
+</body>
+</component>

@@ -1,0 +1,148 @@
+{
+  "abstract": {
+    "textEnglish": "In situ U\u2013Th\u2013He geochronology is a potentially disruptive technique that combines laser ablation inductively coupled plasma mass spectrometry (LA-ICP-MS) with laser microprobe noble gas mass spectrometry. Despite its potential to revolutionize (detrital) thermochronology, in situ U\u2013Th\u2013He dating is not widely used due to persistent analytical challenges. A major issue is that current in situ U\u2013Th\u2013He dating approaches require that the U, Th, and He measurements are expressed in units of molar concentration, in contrast with conventional methods, which use units of molar abundance. Whereas molar abundances can be reliably determined by isotope dilution, accurate concentration measurements are not so easy to obtain. In the absence of matrix-matched U\u2013Th concentration standards and accurate He ablation pit measurements, the required molar concentration calculations introduce an uncertainty that is higher than the conventional method, an uncertainty that is itself difficult to accurately quantify. We present a solution to this problem by using proton-induced 3He as a proxy for ablation pit volume and by pairing samples with a standard of known U\u2013Th\u2013He age. Thus, the U\u2013Th\u2013He age equation can be solved using relative rather than absolute concentration measurements. Pilot experiments show that the new method produces accurate results. However, it is prone to overdispersion, which is attributed to gradients in the proton fluence. These gradients can be measured, and their effect can be removed by fixing the geometry of the sample and the standard during the proton irradiation."
+  },
+  "authors": [
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "London Geochronology Centre, Department of Earth Sciences, University College London, Gower Street, London WC1E 6BT, UK"
+        }
+      ],
+      "attrib": {
+        "email": "p.vermeesch@ucl.ac.uk",
+        "orcid": "0000-0003-3404-1209"
+      },
+      "name": {
+        "given_name": "Pieter",
+        "pubraw": "Pieter Vermeesch",
+        "surname": "Vermeesch"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "London Geochronology Centre, Department of Earth Sciences, University College London, Gower Street, London WC1E 6BT, UK"
+        },
+        {
+          "affPubRaw": "Guangdong Provincial Key Laboratory of Geodynamics and Geohazards, School of Earth Sciences and Engineering, Sun Yat-sen University, Guangzhou 510275, China"
+        }
+      ],
+      "attrib": {
+        "email": "tianyuntao@mail.sysu.edu.cn"
+      },
+      "name": {
+        "given_name": "Yuntao",
+        "pubraw": "Yuntao Tian",
+        "surname": "Tian"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "London Geochronology Centre, Department of Earth Sciences, University College London, Gower Street, London WC1E 6BT, UK"
+        }
+      ],
+      "attrib": {
+        "email": "schwana@gmail.com"
+      },
+      "name": {
+        "given_name": "Jae",
+        "pubraw": "Jae Schwanethal",
+        "surname": "Schwanethal"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Department of Earth Sciences, Natural History Museum, Cromwell Road, London SW7 5BD, UK"
+        }
+      ],
+      "attrib": {
+        "email": "y.buret@nhm.ac.uk"
+      },
+      "name": {
+        "given_name": "Yannick",
+        "pubraw": "Yannick Buret",
+        "surname": "Buret"
+      }
+    }
+  ],
+  "esources": [
+    {
+      "location": "https://gchron.copernicus.org/articles/5/323/2023/gchron-5-323-2023.pdf",
+      "source": "pub_pdf"
+    },
+    {
+      "location": "https://gchron.copernicus.org/articles/5/323/2023/gchron-5-323-2023.html",
+      "source": "pub_html"
+    }
+  ],
+  "pagination": {
+    "electronicID": "18",
+    "firstPage": "323",
+    "lastPage": "332"
+  },
+  "persistentIDs": [
+    {
+      "DOI": "10.5194/gchron-5-323-2023"
+    }
+  ],
+  "pubDate": {
+    "electrDate": "2023-07-19",
+    "printDate": "2023-07-19"
+  },
+  "publication": {
+    "ISSN": [
+      {
+        "issnString": "2628-3697",
+        "pubtype": "print"
+      },
+      {
+        "issnString": "2628-3719",
+        "pubtype": "electronic"
+      }
+    ],
+    "pubName": "Geochronology",
+    "pubYear": "2023",
+    "volumeNum": "5"
+  },
+  "recordData": {
+    "createdTime": "",
+    "loadFormat": "Copernicus",
+    "loadLocation": "",
+    "loadType": "fromFile",
+    "parsedTime": "",
+    "recordOrigin": ""
+  },
+  "references": [
+    "<reference content_type=\"text\" numeration=\"1\">Boyce, J. W., Hodges, K. V., Olszewski, W. J., Jercinovic, M. J., Carpenter, B. D., and Reiners, P. W.: Laser microprobe (U-Th)/He geochronology, Geochim. Cosmochim. Ac., 70, 3031\u20133039, &lt;a href=\"https://doi.org/10.1016/j.gca.2006.03.019\"&gt;https://doi.org/10.1016/j.gca.2006.03.019&lt;/a&gt;, 2006.\u2002&lt;a href=\"#xref_paren.3\"&gt;a&lt;/a&gt;, &lt;a href=\"#xref_text.4\"&gt;b&lt;/a&gt;</reference>",
+    "<reference content_type=\"text\" numeration=\"2\">Boyce, J. W., Hodges, K. V., King, D., Crowley, J. L., Jercinovic, M., Chatterjee, N., Bowring, S. A., and Searle, M.: Improved confidence in (U-Th)\u2009&lt;span class=\"inline-formula\"&gt;&lt;math xmlns=\"http://www.w3.org/1998/Math/MathML\" id=\"M228\" display=\"inline\" overflow=\"scroll\" dspmath=\"mathml\"&gt;&lt;mo&gt;/&lt;/mo&gt;&lt;/math&gt;&lt;span&gt;&lt;svg:svg xmlns:svg=\"http://www.w3.org/2000/svg\" width=\"8pt\" height=\"14pt\" class=\"svg-formula\" dspmath=\"mathimg\" md5hash=\"993b8c668726e2edb90be90fc3c12943\"&gt;&lt;svg:image xmlns:xlink=\"http://www.w3.org/1999/xlink\" xlink:href=\"gchron-5-323-2023-ie00050.svg\" width=\"8pt\" height=\"14pt\" src=\"gchron-5-323-2023-ie00050.png\"/&gt;&lt;/svg:svg&gt;&lt;/span&gt;&lt;/span&gt;\u2009He thermochronology using the laser microprobe: An example from a Pleistocene leucogranite, Nanga Parbat, Pakistan, Geochem. Geophy. Geosy., 10, Q0AA01, &lt;a href=\"https://doi.org/10.1029/2009GC002497\"&gt;https://doi.org/10.1029/2009GC002497&lt;/a&gt;, 2009.\u2002&lt;a href=\"#xref_paren.3\"&gt;a&lt;/a&gt;</reference>",
+    "<reference content_type=\"text\" numeration=\"3\">Brennan, C. J., Stockli, D. F., and Patterson, D. B.: Zircon &lt;span class=\"inline-formula\"&gt;&lt;sup&gt;4&lt;/sup&gt;&lt;/span&gt;He/&lt;span class=\"inline-formula\"&gt;&lt;sup&gt;3&lt;/sup&gt;&lt;/span&gt;He fractional loss step-heating and characterization of parent nuclide distribution, Chem. Geol., 549, 119692, &lt;a href=\"https://doi.org/10.106/j.chemgeo.2020.119692\"&gt;https://doi.org/10.106/j.chemgeo.2020.119692&lt;/a&gt;, 2020.\u2002&lt;a href=\"#xref_paren.25\"&gt;a&lt;/a&gt;</reference>",
+    "<reference content_type=\"text\" numeration=\"4\">Colleps, C., van der Beek, P., Denker, A., Amalberti, J., Dittwald, A., Bundesmann, J., and Bernard, M.: Improving the Efficiency of Proton Irradiations for &lt;span class=\"inline-formula\"&gt;&lt;sup&gt;4&lt;/sup&gt;&lt;/span&gt;He\u2009&lt;span class=\"inline-formula\"&gt;&lt;math xmlns=\"http://www.w3.org/1998/Math/MathML\" id=\"M232\" display=\"inline\" overflow=\"scroll\" dspmath=\"mathml\"&gt;&lt;mo&gt;/&lt;/mo&gt;&lt;/math&gt;&lt;span&gt;&lt;svg:svg xmlns:svg=\"http://www.w3.org/2000/svg\" width=\"8pt\" height=\"14pt\" class=\"svg-formula\" dspmath=\"mathimg\" md5hash=\"07ed3fe3ed45557237411726d77d3c9f\"&gt;&lt;svg:image xmlns:xlink=\"http://www.w3.org/1999/xlink\" xlink:href=\"gchron-5-323-2023-ie00051.svg\" width=\"8pt\" height=\"14pt\" src=\"gchron-5-323-2023-ie00051.png\"/&gt;&lt;/svg:svg&gt;&lt;/span&gt;&lt;/span&gt;\u2009&lt;span class=\"inline-formula\"&gt;&lt;sup&gt;3&lt;/sup&gt;&lt;/span&gt;He Thermochronology, AGU Fall Meeting 12\u201316 December 2022, Chicago, IL, USA, 2022AGUFMEP22E1381C,   EP22E\u20131381, 2022.\u2002&lt;a href=\"#xref_paren.26\"&gt;a&lt;/a&gt;</reference>",
+    "<reference content_type=\"text\" numeration=\"5\">Dani\u0161\u00edk, M., McInnes, B. I., Kirkland, C. L., McDonald, B. J., Evans, N. J., and Becker, T.: Seeing is believing: Visualization of He distribution in zircon and implications for thermal history reconstruction on single crystals, Sci. Adv., 3, e1601121, &lt;a href=\"https://doi.org/10.1126/sciadv.1601121\"&gt;https://doi.org/10.1126/sciadv.1601121&lt;/a&gt;, 2017.\u2002&lt;a href=\"#xref_paren.3\"&gt;a&lt;/a&gt;</reference>",
+    "<reference content_type=\"text\" numeration=\"6\">Evans, N., McInnes, B., McDonald, B., Dani\u0161\u00edk, M., Becker, T., Vermeesch, P., Shelley, M., Marillo-Sialer, E., and Patterson, D.: An in situ technique for (U\u2013Th\u2013Sm)\u2009&lt;span class=\"inline-formula\"&gt;&lt;math xmlns=\"http://www.w3.org/1998/Math/MathML\" id=\"M234\" display=\"inline\" overflow=\"scroll\" dspmath=\"mathml\"&gt;&lt;mo&gt;/&lt;/mo&gt;&lt;/math&gt;&lt;span&gt;&lt;svg:svg xmlns:svg=\"http://www.w3.org/2000/svg\" width=\"8pt\" height=\"14pt\" class=\"svg-formula\" dspmath=\"mathimg\" md5hash=\"ceb74817b1a2fec04b66f68b5f471f2c\"&gt;&lt;svg:image xmlns:xlink=\"http://www.w3.org/1999/xlink\" xlink:href=\"gchron-5-323-2023-ie00052.svg\" width=\"8pt\" height=\"14pt\" src=\"gchron-5-323-2023-ie00052.png\"/&gt;&lt;/svg:svg&gt;&lt;/span&gt;&lt;/span&gt;\u2009He and U\u2013Pb double dating, J. Anal. Atom. Spectrom., 30, 1636\u20131645, 2015.\u2002&lt;a href=\"#xref_paren.3\"&gt;a&lt;/a&gt;, &lt;a href=\"#xref_text.6\"&gt;b&lt;/a&gt;</reference>",
+    "<reference content_type=\"text\" numeration=\"7\">Farley, K. A., Wolf, R. A., and Silver, L. T.: The effects of long alpha-stopping distances on (U-Th)\u2009&lt;span class=\"inline-formula\"&gt;&lt;math xmlns=\"http://www.w3.org/1998/Math/MathML\" id=\"M235\" display=\"inline\" overflow=\"scroll\" dspmath=\"mathml\"&gt;&lt;mo&gt;/&lt;/mo&gt;&lt;/math&gt;&lt;span&gt;&lt;svg:svg xmlns:svg=\"http://www.w3.org/2000/svg\" width=\"8pt\" height=\"14pt\" class=\"svg-formula\" dspmath=\"mathimg\" md5hash=\"e417c4626eb4ece4be149e6cedcf6d5c\"&gt;&lt;svg:image xmlns:xlink=\"http://www.w3.org/1999/xlink\" xlink:href=\"gchron-5-323-2023-ie00053.svg\" width=\"8pt\" height=\"14pt\" src=\"gchron-5-323-2023-ie00053.png\"/&gt;&lt;/svg:svg&gt;&lt;/span&gt;&lt;/span&gt;\u2009He ages, Geochim. Cosmochim. Ac., 60, 4223\u20134229, &lt;a href=\"https://doi.org/10.1016/S0016-7037(96)00193-7\"&gt;https://doi.org/10.1016/S0016-7037(96)00193-7&lt;/a&gt;, 1996.\u2002&lt;a href=\"#xref_paren.1\"&gt;a&lt;/a&gt;</reference>",
+    "<reference content_type=\"text\" numeration=\"8\">House, M. A., Farley, K. A., and Stockli, D.: Helium chronometry of apatite and titanite using Nd-YAG laser heating, Earth   Planet. Sc. Lett., 183, 365\u2013368, &lt;a href=\"https://doi.org/10.1016/S0012-821X(00)00286-7\"&gt;https://doi.org/10.1016/S0012-821X(00)00286-7&lt;/a&gt;, 2000.\u2002&lt;a href=\"#xref_paren.2\"&gt;a&lt;/a&gt;</reference>",
+    "<reference content_type=\"text\" numeration=\"9\">Hurford, A. J. and Green, P. F.: The zeta age calibration of fission-track dating, Chem. Geol., 41, 285\u2013317, &lt;a href=\"https://doi.org/10.1016/S0009-2541(83)80026-6\"&gt;https://doi.org/10.1016/S0009-2541(83)80026-6&lt;/a&gt;, 1983.\u2002&lt;a href=\"#xref_paren.8\"&gt;a&lt;/a&gt;</reference>",
+    "<reference content_type=\"text\" numeration=\"10\">Jackson, S. E., Pearson, N. J., Griffin, W. L., and Belousova, E. A.: The application of laser ablation-inductively coupled plasma-mass spectrometry to in situ U\u2013Pb zircon geochronology, Chem. Geol., 211, 47\u201369, &lt;a href=\"https://doi.org/10.1016/j.chemgeo.2004.06.017\"&gt;https://doi.org/10.1016/j.chemgeo.2004.06.017&lt;/a&gt;, 2004.\u2002&lt;a href=\"#xref_paren.16\"&gt;a&lt;/a&gt;</reference>",
+    "<reference content_type=\"text\" numeration=\"11\">Ketcham, R. A., Gautheron, C., and Tassan-Got, L.: Accounting for long alpha-particle stopping distances in (U\u2013Th\u2013Sm)\u2009&lt;span class=\"inline-formula\"&gt;&lt;math xmlns=\"http://www.w3.org/1998/Math/MathML\" id=\"M236\" display=\"inline\" overflow=\"scroll\" dspmath=\"mathml\"&gt;&lt;mo&gt;/&lt;/mo&gt;&lt;/math&gt;&lt;span&gt;&lt;svg:svg xmlns:svg=\"http://www.w3.org/2000/svg\" width=\"8pt\" height=\"14pt\" class=\"svg-formula\" dspmath=\"mathimg\" md5hash=\"317c3818a2517d7616211ed6a4a280e9\"&gt;&lt;svg:image xmlns:xlink=\"http://www.w3.org/1999/xlink\" xlink:href=\"gchron-5-323-2023-ie00054.svg\" width=\"8pt\" height=\"14pt\" src=\"gchron-5-323-2023-ie00054.png\"/&gt;&lt;/svg:svg&gt;&lt;/span&gt;&lt;/span&gt;\u2009He geochronology: refinement of the baseline case, Geochim. Cosmochim. Ac., 75, 7779\u20137791, 2011.\u2002&lt;a href=\"#xref_paren.1\"&gt;a&lt;/a&gt;</reference>",
+    "<reference content_type=\"text\" numeration=\"12\">Kuiper, K. F., Deino, A., Hilgen, F. J., Krijgsman, W., Renne, P. R., and Wijbrans, J. R.: Synchronizing Rock Clocks of Earth History, Science, 320, 500\u2013504, &lt;a href=\"https://doi.org/10.1126/science.1154339\"&gt;https://doi.org/10.1126/science.1154339&lt;/a&gt;, 2008.\u2002&lt;a href=\"#xref_paren.15\"&gt;a&lt;/a&gt;</reference>",
+    "<reference content_type=\"text\" numeration=\"13\">Merrihue, C. and Turner, G.: Potassium-argon dating by activation with fast neutrons, J. Geophys. Res., 71, 2852\u20132857, 1966.\u2002&lt;a href=\"#xref_paren.7\"&gt;a&lt;/a&gt;</reference>",
+    "<reference content_type=\"text\" numeration=\"14\">Pastore, G., Baird, T., Vermeesch, P., Bristow, C., Resentini, A., and Garzanti, E.: Provenance and recycling of Sahara Desert sand, Earth-Sci. Rev., 216, 103606, &lt;a href=\"https://doi.org/10.1016/j.earscirev.2021.103606\"&gt;https://doi.org/10.1016/j.earscirev.2021.103606&lt;/a&gt;, 2021.\u2002&lt;a href=\"#xref_paren.23\"&gt;a&lt;/a&gt;</reference>",
+    "<reference content_type=\"text\" numeration=\"15\">Reiners, P. W., Campbell, I. H., Nicolescu, S., Allen, C. M., Hourigan, J. K., Garver, J. I., Mattinson, J. M., and Cowan, D. S.: (U-Th)\u2009&lt;span class=\"inline-formula\"&gt;&lt;math xmlns=\"http://www.w3.org/1998/Math/MathML\" id=\"M237\" display=\"inline\" overflow=\"scroll\" dspmath=\"mathml\"&gt;&lt;mo&gt;/&lt;/mo&gt;&lt;/math&gt;&lt;span&gt;&lt;svg:svg xmlns:svg=\"http://www.w3.org/2000/svg\" width=\"8pt\" height=\"14pt\" class=\"svg-formula\" dspmath=\"mathimg\" md5hash=\"8f83a261708356921dd52d045760b945\"&gt;&lt;svg:image xmlns:xlink=\"http://www.w3.org/1999/xlink\" xlink:href=\"gchron-5-323-2023-ie00055.svg\" width=\"8pt\" height=\"14pt\" src=\"gchron-5-323-2023-ie00055.png\"/&gt;&lt;/svg:svg&gt;&lt;/span&gt;&lt;/span&gt;\u2009(He-Pb) double dating of detrital zircons, Am. J. Sci., 305, 259\u2013311, &lt;a href=\"https://doi.org/10.2475/ajs.305.4.259\"&gt;https://doi.org/10.2475/ajs.305.4.259&lt;/a&gt;, 2005.\u2002&lt;a href=\"#xref_paren.24\"&gt;a&lt;/a&gt;</reference>",
+    "<reference content_type=\"text\" numeration=\"16\">Schwanethal, J.: Minimising &lt;span class=\"inline-formula\"&gt;&lt;sup&gt;12&lt;/sup&gt;&lt;/span&gt;C&lt;span class=\"inline-formula\"&gt;&lt;sup&gt;3+&lt;/sup&gt;&lt;/span&gt; interference on &lt;span class=\"inline-formula\"&gt;&lt;sup&gt;4&lt;/sup&gt;&lt;/span&gt;He&lt;span class=\"inline-formula\"&gt;&lt;sup&gt;+&lt;/sup&gt;&lt;/span&gt; measurements in a noble gas mass spectrometer, J. Anal. Atom. Spectrom., 30, 1400\u20131404, 2015.\u2002&lt;a href=\"#xref_text.18\"&gt;a&lt;/a&gt;</reference>",
+    "<reference content_type=\"text\" numeration=\"17\">Shuster, D. L., Farley, K. A., Sisterson, J. M., and Burnett, D. S.: Quantifying the diffusion kinetics and spatial distributions of radiogenic &lt;span class=\"inline-formula\"&gt;&lt;sup&gt;4&lt;/sup&gt;&lt;/span&gt;He in minerals containing proton-induced &lt;span class=\"inline-formula\"&gt;&lt;sup&gt;3&lt;/sup&gt;&lt;/span&gt;He, Earth  Planet. Sc. Lett., 217, 19\u201332, &lt;a href=\"https://doi.org/10.1016/S0012-821X(03)00594-6\"&gt;https://doi.org/10.1016/S0012-821X(03)00594-6&lt;/a&gt;, 2004.\u2002&lt;a href=\"#xref_paren.11\"&gt;a&lt;/a&gt;, &lt;a href=\"#xref_text.17\"&gt;b&lt;/a&gt;</reference>",
+    "<reference content_type=\"text\" numeration=\"18\">Tian, Y., Vermeesch, P., Dani\u0161\u00edk, M., Condon, D. J., Chen, W., Kohn, B., Schwanethal, J., and Rittner, M.: LGC-1: A zircon reference material for in-situ (U-Th)\u2009&lt;span class=\"inline-formula\"&gt;&lt;math xmlns=\"http://www.w3.org/1998/Math/MathML\" id=\"M244\" display=\"inline\" overflow=\"scroll\" dspmath=\"mathml\"&gt;&lt;mo&gt;/&lt;/mo&gt;&lt;/math&gt;&lt;span&gt;&lt;svg:svg xmlns:svg=\"http://www.w3.org/2000/svg\" width=\"8pt\" height=\"14pt\" class=\"svg-formula\" dspmath=\"mathimg\" md5hash=\"c0028856eb6950da65d6aa28f00161cb\"&gt;&lt;svg:image xmlns:xlink=\"http://www.w3.org/1999/xlink\" xlink:href=\"gchron-5-323-2023-ie00056.svg\" width=\"8pt\" height=\"14pt\" src=\"gchron-5-323-2023-ie00056.png\"/&gt;&lt;/svg:svg&gt;&lt;/span&gt;&lt;/span&gt;\u2009He dating, Chem. Geol., 454, 80\u201392, &lt;a href=\"https://doi.org/10.1016/j.chemgeo.2017.02.026\"&gt;https://doi.org/10.1016/j.chemgeo.2017.02.026&lt;/a&gt;, 2017. \u2002&lt;a href=\"#xref_paren.12\"&gt;a&lt;/a&gt;, &lt;a href=\"#xref_text.20\"&gt;b&lt;/a&gt;</reference>",
+    "<reference content_type=\"text\" numeration=\"19\">Tripathy-Lang, A., Hodges, K. V., Monteleone, B. D., and Soest, M. C.: Laser (U-Th)\u2009&lt;span class=\"inline-formula\"&gt;&lt;math xmlns=\"http://www.w3.org/1998/Math/MathML\" id=\"M245\" display=\"inline\" overflow=\"scroll\" dspmath=\"mathml\"&gt;&lt;mo&gt;/&lt;/mo&gt;&lt;/math&gt;&lt;span&gt;&lt;svg:svg xmlns:svg=\"http://www.w3.org/2000/svg\" width=\"8pt\" height=\"14pt\" class=\"svg-formula\" dspmath=\"mathimg\" md5hash=\"d6fd48d3d4e43d38e880fe6aed802593\"&gt;&lt;svg:image xmlns:xlink=\"http://www.w3.org/1999/xlink\" xlink:href=\"gchron-5-323-2023-ie00057.svg\" width=\"8pt\" height=\"14pt\" src=\"gchron-5-323-2023-ie00057.png\"/&gt;&lt;/svg:svg&gt;&lt;/span&gt;&lt;/span&gt;\u2009He thermochronology of detrital zircons as a tool for studying surface processes in modern catchments, J. Geophys. Res.-Earth, 118, 1333\u20131341, 2013.\u2002&lt;a href=\"#xref_paren.3\"&gt;a&lt;/a&gt;</reference>",
+    "<reference content_type=\"text\" numeration=\"20\">Tripathy-Lang, A., Fox, M., and Shuster, D. L.: Zircon &lt;span class=\"inline-formula\"&gt;&lt;sup&gt;4&lt;/sup&gt;&lt;/span&gt;He\u2009&lt;span class=\"inline-formula\"&gt;&lt;math xmlns=\"http://www.w3.org/1998/Math/MathML\" id=\"M247\" display=\"inline\" overflow=\"scroll\" dspmath=\"mathml\"&gt;&lt;mo&gt;/&lt;/mo&gt;&lt;/math&gt;&lt;span&gt;&lt;svg:svg xmlns:svg=\"http://www.w3.org/2000/svg\" width=\"8pt\" height=\"14pt\" class=\"svg-formula\" dspmath=\"mathimg\" md5hash=\"5ac6a9835ba4b00f225586fe4f4241b8\"&gt;&lt;svg:image xmlns:xlink=\"http://www.w3.org/1999/xlink\" xlink:href=\"gchron-5-323-2023-ie00058.svg\" width=\"8pt\" height=\"14pt\" src=\"gchron-5-323-2023-ie00058.png\"/&gt;&lt;/svg:svg&gt;&lt;/span&gt;&lt;/span&gt;\u2009&lt;span class=\"inline-formula\"&gt;&lt;sup&gt;3&lt;/sup&gt;&lt;/span&gt;He thermochronometry, Geochim. Cosmochim. Ac., 166, 1\u201314, 2015.\u2002&lt;a href=\"#xref_paren.21\"&gt;a&lt;/a&gt;</reference>",
+    "<reference content_type=\"text\" numeration=\"21\">van Soest, M. C., Monteleone, B. D., Hodges, K. V., and Boyce, J. W.: Laser depth profiling studies of helium diffusion in Durango fluorapatite, Geochim. Cosmochim. Ac., 75, 2409\u20132419, 2011.\u2002&lt;a href=\"#xref_paren.22\"&gt;a&lt;/a&gt;</reference>",
+    "<reference content_type=\"text\" numeration=\"22\">Vermeesch, P.: Three new ways to calculate average (U-Th)\u2009&lt;span class=\"inline-formula\"&gt;&lt;math xmlns=\"http://www.w3.org/1998/Math/MathML\" id=\"M249\" display=\"inline\" overflow=\"scroll\" dspmath=\"mathml\"&gt;&lt;mo&gt;/&lt;/mo&gt;&lt;/math&gt;&lt;span&gt;&lt;svg:svg xmlns:svg=\"http://www.w3.org/2000/svg\" width=\"8pt\" height=\"14pt\" class=\"svg-formula\" dspmath=\"mathimg\" md5hash=\"9d62fa3ba2edef941f7207d2abd6c42d\"&gt;&lt;svg:image xmlns:xlink=\"http://www.w3.org/1999/xlink\" xlink:href=\"gchron-5-323-2023-ie00059.svg\" width=\"8pt\" height=\"14pt\" src=\"gchron-5-323-2023-ie00059.png\"/&gt;&lt;/svg:svg&gt;&lt;/span&gt;&lt;/span&gt;\u2009He ages, Chem. Geol., 249, 339\u2013347, 2008.\u2002&lt;a href=\"#xref_paren.14\"&gt;a&lt;/a&gt;</reference>",
+    "<reference content_type=\"text\" numeration=\"23\">Vermeesch, P.: HelioPlot, and the treatment of overdispersed (U-Th-Sm)\u2009&lt;span class=\"inline-formula\"&gt;&lt;math xmlns=\"http://www.w3.org/1998/Math/MathML\" id=\"M250\" display=\"inline\" overflow=\"scroll\" dspmath=\"mathml\"&gt;&lt;mo&gt;/&lt;/mo&gt;&lt;/math&gt;&lt;span&gt;&lt;svg:svg xmlns:svg=\"http://www.w3.org/2000/svg\" width=\"8pt\" height=\"14pt\" class=\"svg-formula\" dspmath=\"mathimg\" md5hash=\"0764081de8f6b033edc50dcc6ed79e7a\"&gt;&lt;svg:image xmlns:xlink=\"http://www.w3.org/1999/xlink\" xlink:href=\"gchron-5-323-2023-ie00060.svg\" width=\"8pt\" height=\"14pt\" src=\"gchron-5-323-2023-ie00060.png\"/&gt;&lt;/svg:svg&gt;&lt;/span&gt;&lt;/span&gt;\u2009He data, Chem. Geol., 271, 108\u2013111, &lt;a href=\"https://doi.org/10.1016/j.chemgeo.2010.01.002\"&gt;https://doi.org/10.1016/j.chemgeo.2010.01.002&lt;/a&gt;, 2010.\u2002&lt;a href=\"#xref_paren.13\"&gt;a&lt;/a&gt;, &lt;a href=\"#xref_paren.19\"&gt;b&lt;/a&gt;</reference>",
+    "<reference content_type=\"text\" numeration=\"24\">Vermeesch, P.:  Logratio table of in-situ U-Th-4He/3He dated Fish Canyon zircon, Zenodo [data set], &lt;a href=\"https://doi.org/10.5281/zenodo.8005223\"&gt;https://doi.org/10.5281/zenodo.8005223&lt;/a&gt;, 2023.\u2002&lt;a href=\"#xref_altparen.27\"&gt;a&lt;/a&gt;</reference>",
+    "<reference content_type=\"text\" numeration=\"25\">Vermeesch, P., Sherlock, S. C., Roberts, N. M. W., and Carter, A.: A simple method for in-situ U-Th-He dating, Geochim. Cosmochim. Ac., 79, 140\u2013147, &lt;a href=\"https://doi.org/10.1016/j.gca.2011.11.042\"&gt;https://doi.org/10.1016/j.gca.2011.11.042&lt;/a&gt;, 2012.\u2002&lt;a href=\"#xref_paren.3\"&gt;a&lt;/a&gt;, &lt;a href=\"#xref_text.5\"&gt;b&lt;/a&gt;, &lt;a href=\"#xref_text.9\"&gt;c&lt;/a&gt;, &lt;a href=\"#xref_text.10\"&gt;d&lt;/a&gt;, &lt;a href=\"#xref_text.28\"&gt;e&lt;/a&gt;</reference>"
+  ],
+  "title": {
+    "textEnglish": "Technical Note: In Situ U\u2013Th\u2013He Dating By 4He\u2009\u2215\u20093He Laser Microprobe Analysis"
+  }
+}

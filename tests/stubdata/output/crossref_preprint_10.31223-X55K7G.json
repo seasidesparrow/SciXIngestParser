@@ -1,0 +1,111 @@
+{
+  "abstract": {
+    "textEnglish": "Near-term forecasts of environmental outcomes can inform real-time decision making. Data assimilation modeling techniques can be used for forecasts to leverage real-time data streams, where the difference between model predictions and observations can be used to adjust the model to make better predictions tomorrow. In this use case, we developed a process-guided deep learning and data assimilation approach to make 7-day forecasts of daily maximum water temperature in the Delaware River Basin. Our modeling system produced forecasts of daily maximum stream temperature with an average root mean squared error (RMSE) from 1.2 to 1.6\u00b0C for 1-day lead time across all sites. The data assimilation algorithm successfully adjusted the process-guided deep learning model states and marginally improved forecast performance when compared to forecasts produced using the process-guided deep learning model alone (7-13% lower RMSE with the data assimilation algorithm). Our model characterized forecast uncertainty relatively well as 57-80% of observations were within 90% forecast confidence intervals across all sites and lead times, and the uncertainty associated with our forecasts allow managers to anticipate probability of exceedances of ecologically relevant thresholds and aid in decisions about releasing reservoir water downstream. The flexibility of deep learning models to be applied to various prediction problems shows promise for using these types of models to forecast many other important environmental variables and aid in decision making."
+  },
+  "authors": [
+    {
+      "attrib": {
+        "orcid": "0000-0002-3870-405X"
+      },
+      "name": {
+        "given_name": "Jacob",
+        "surname": "Zwart"
+      }
+    },
+    {
+      "attrib": {
+        "orcid": "0000-0001-5668-1165"
+      },
+      "name": {
+        "given_name": "Samantha",
+        "surname": "Oliver"
+      }
+    },
+    {
+      "attrib": {
+        "orcid": "0000-0002-7544-0700"
+      },
+      "name": {
+        "given_name": "William",
+        "surname": "Watkins"
+      }
+    },
+    {
+      "attrib": {
+        "orcid": "0000-0001-8776-4844"
+      },
+      "name": {
+        "given_name": "Jeffrey",
+        "surname": "Sadler"
+      }
+    },
+    {
+      "attrib": {
+        "orcid": "0000-0003-3638-8572"
+      },
+      "name": {
+        "given_name": "Alison",
+        "surname": "Appling"
+      }
+    },
+    {
+      "attrib": {
+        "orcid": "0000-0001-8695-1584"
+      },
+      "name": {
+        "given_name": "Hayley",
+        "surname": "Corson-Dosch"
+      }
+    },
+    {
+      "attrib": {
+        "orcid": "0000-0001-8544-5233"
+      },
+      "name": {
+        "given_name": "Xiaowei",
+        "surname": "Jia"
+      }
+    },
+    {
+      "name": {
+        "given_name": "Vipin",
+        "surname": "Kumar"
+      }
+    },
+    {
+      "name": {
+        "given_name": "Jordan",
+        "surname": "Read"
+      }
+    }
+  ],
+  "doctype": "eprint",
+  "esources": [
+    {
+      "location": "http://eartharxiv.org/repository/view/2590/",
+      "source": "pub_html"
+    }
+  ],
+  "persistentIDs": [
+    {
+      "DOI": "10.31223/X55K7G"
+    }
+  ],
+  "pubDate": {
+    "electrDate": "2021-08-06"
+  },
+  "publication": {
+    "pubYear": "2021"
+  },
+  "recordData": {
+    "createdTime": "",
+    "loadFormat": "OtherXML",
+    "loadLocation": "",
+    "loadType": "fromFile",
+    "parsedTime": "",
+    "recordOrigin": ""
+  },
+  "title": {
+    "textEnglish": "Near-term forecasts of stream temperature using process-guided deep learning and data assimilation"
+  }
+}

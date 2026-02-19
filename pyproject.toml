@@ -1,0 +1,99 @@
+[project]
+name = "ingestparser"
+version = "1.0.0"
+description = "Parser library for publisher-supplied metadata"
+authors = [
+    { name = "Matthew Templeton", email = "matthew.templeton@cfa.harvard.edu"},
+    { name = "Kelly Lockhart", email = "kelly.lockhart@cfa.harvard.edu"},
+    { name = "Mugdha Polimera", email = "mugdha.polimera@cfa.harvard.edu"}
+]
+license = { text = "MIT" }
+readme = "README.md"
+repository = "https://github.com/adsabs/SciXIngestParser"
+documentation = "https://ingestparser.readthedocs.io"
+classifiers = [
+    "Development Status :: 4 - Beta",
+    "Intended Audience :: Developers",
+    "Natural Language :: English",
+    "Operating System :: OS Independent",
+    "Topic :: Software Development :: Libraries",
+]
+packages = [
+    "ingestparser",
+]
+
+dependencies = [
+    'beautifulsoup4==4.14.3',
+    'lxml==6.0.2',
+    'nameparser==1.1.3',
+    'ordered-set==4.1.0',
+    'adsingestschema @ git+https://github.com/adsabs/ingest_data_model@v1.0.12',
+    'validators==0.35.0',
+]
+
+
+[project.urls]
+Source = "https://github.com/adsabs/SciXIngestParser"
+Documentation = "https://ingestparser.readthedocs.io"
+
+
+[project.optional-dependencies]
+dev = [
+    'black==26.1.0',
+    'flake8==7.3.0',
+    'isort==7.0.0',
+    'pytest==9.0.2',
+    'pyupgrade==3.21.2',
+    'pytest-mock==3.15.1',
+    'pre-commit==4.5.1',
+    'coveralls==4.0.2',
+    'mock==5.2.0',
+    'coverage==7.13.4',
+    'pytest-cov==7.0.0',
+    'pytest-cookies==0.7.0',
+    'semantic-release==0.1.0',
+]
+docs = [
+    'Sphinx==7.2.6',
+    'myst-parser==2.0.0',
+    'sphinx-rtd-theme==2.0.0'
+]
+
+
+[tool.semantic_release]
+branch = "main"
+version_toml = "pyproject.toml:project.version"
+version_variable = "ingestparser/version.py:__version__"
+build_command = "flit build"
+
+[tool.pytest.ini_options]
+addopts = "-v -Wdefault --cov=ingestparser"
+cache_dir = ".tmp/"
+
+[tool.coverage.run]
+data_file = ".tmp/.coverage"
+
+[tool.coverage.report]
+skip_empty = true
+skip_covered = true
+
+[tool.isort]
+profile = "black"
+known_first_party = ["ingestparser", "tests"]
+
+[tool.black]
+line-length = 99 # override black's default line-length
+
+[build-system]
+requires = ["setuptools==60.10.0", "wheel", "flit_core >=3.2,<4", "ppsetuptools==2.0.2"]
+build-backend = "flit_core.buildapi"
+#build-backend = "setuptools.build_meta"
+
+# see setup.py for explanation of these
+[xsetup.entry_points]
+console_scripts = [
+    "ingestparser=ingestparser.cli:cli",
+]
+[xsetup]
+scripts = [
+]

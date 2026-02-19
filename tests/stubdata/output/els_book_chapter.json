@@ -1,0 +1,150 @@
+{
+  "abstract": {
+    "textEnglish": "The Luna program is not only the first artificial planet (Luna-1), the first hard landing on the surface of another celestial body (Luna-2), the first images of the Moon Far Side (Luna-3), the first soft landing and the first panoramas of the lunar landscape (Luna-9), the first artificial Moon satellite and the first gamma-ray survey of the lunar surface (Luna-10, Luna-12), and the first lunokhods (Luna-17, Luna-21). However, these are also lunar samples return by Luna-16, Luna-20 and Luna-24. The full cycle of lunar samples return is considered: drilling and soil sampling on the lunar surface, delivery, acceptance and primary processing of lunar soil in the ground-based receiving complex, research methods and the major scientific results. Studies revealed medium-titanium fine- and coarse-grained basalts in the Mare Fecunditatis, low-titanium and high-aluminum basalts in the Mare Crisium, and rocks of anorthosite-troctolite-norite series in a Highland region."
+  },
+  "authors": [
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Vernadsky Institute of Geochemistry and Analytical Chemistry RAS, Moscow, Kosygina Str. 19, Russia"
+        }
+      ],
+      "name": {
+        "given_name": "Evgeny",
+        "surname": "Slyuta"
+      }
+    }
+  ],
+  "copyright": {
+    "statement": "Copyright \u00a9 2021 Elsevier Inc. All rights reserved.",
+    "status": true
+  },
+  "doctype": "inbook",
+  "esources": [
+    {
+      "location": "http://dx.doi.org/10.1016/B978-0-12-818330-4.00003-3",
+      "source": "pub_html"
+    }
+  ],
+  "keywords": [
+    {
+      "keyString": "The Moon",
+      "keySystem": "Elsevier"
+    },
+    {
+      "keyString": "Lunar soil",
+      "keySystem": "Elsevier"
+    },
+    {
+      "keyString": "Gamma-survey",
+      "keySystem": "Elsevier"
+    },
+    {
+      "keyString": "Lunokhod",
+      "keySystem": "Elsevier"
+    },
+    {
+      "keyString": "Luna-16",
+      "keySystem": "Elsevier"
+    },
+    {
+      "keyString": "Luna-20",
+      "keySystem": "Elsevier"
+    },
+    {
+      "keyString": "Luna-24",
+      "keySystem": "Elsevier"
+    },
+    {
+      "keyString": "Mare Fecunditatis",
+      "keySystem": "Elsevier"
+    },
+    {
+      "keyString": "Mare Crisium",
+      "keySystem": "Elsevier"
+    },
+    {
+      "keyString": "lunar Highlands",
+      "keySystem": "Elsevier"
+    }
+  ],
+  "pagination": {
+    "firstPage": "37",
+    "lastPage": "78"
+  },
+  "persistentIDs": [
+    {
+      "DOI": "10.1016/B978-0-12-818330-4.00003-3",
+      "ISBN": [
+        {
+          "isbnString": "978-0-12-818330-4",
+          "pubtype": "not specified"
+        }
+      ]
+    }
+  ],
+  "pubDate": {
+    "printDate": "2021-00-00"
+  },
+  "publication": {
+    "pubName": "Sample Return Missions",
+    "pubYear": "2021",
+    "publisher": "Elsevier Inc."
+  },
+  "publisherIDs": [
+    {
+      "Identifier": "B978-0-12-818330-4.00003-3",
+      "attribute": "PII"
+    }
+  ],
+  "recordData": {
+    "createdTime": "",
+    "loadFormat": "Elsevier",
+    "loadLocation": "",
+    "loadType": "fromFile",
+    "parsedTime": "",
+    "recordOrigin": ""
+  },
+  "references": [
+    "<sb:reference id=\"sbref0001\"><sb:contribution langtype=\"iso\" xml:lang=\"ru\"><sb:authors><sb:collaboration>Atlas of the Moon Far Side. P.</sb:collaboration></sb:authors></sb:contribution><sb:host><sb:issue><sb:series><sb:title><sb:maintitle>Nauka, Moscow</sb:maintitle></sb:title><sb:volume-nr>2</sb:volume-nr></sb:series><sb:date>1967</sb:date></sb:issue><sb:pages><sb:first-page>236</sb:first-page></sb:pages></sb:host><sb:comment>in Russian</sb:comment></sb:reference>",
+    "<sb:reference id=\"sbref0002\"><sb:contribution langtype=\"iso\" xml:lang=\"ru\"><sb:authors><sb:collaboration>Atlas of the Moon Far Side. P.</sb:collaboration></sb:authors></sb:contribution><sb:host><sb:issue><sb:series><sb:title><sb:maintitle>Nauka, Moscow</sb:maintitle></sb:title><sb:volume-nr>3</sb:volume-nr></sb:series><sb:date>1975</sb:date></sb:issue><sb:pages><sb:first-page>240</sb:first-page></sb:pages></sb:host><sb:comment>in Russian</sb:comment></sb:reference>",
+    "<ce:other-ref id=\"sbref0003\"><ce:textref>Barsukov V. L. (Ed.), 1978. Mobile laboratory on the Moon Lunokhod-1. P. 2. Nauka, Moscow. 184 p. (in Russian).</ce:textref></ce:other-ref>",
+    "<ce:other-ref id=\"sbref0004\"><ce:textref>Barsukov V.L., and S Yu.A. (Eds.), 1979. Soil from the Moon highland region Nauka, Moscow. 708 p. (in Russian).</ce:textref></ce:other-ref>",
+    "<sb:reference id=\"sbref0005\"><sb:host><sb:edited-book><sb:editors><sb:editor><ce:surname>Barsukov</ce:surname><ce:given-name>V.L.</ce:given-name></sb:editor></sb:editors><sb:title><sb:maintitle>Lunar Soil from the Mare Crisium</sb:maintitle></sb:title><sb:date>1980</sb:date><sb:publisher><sb:name>Nauka</sb:name><sb:location>Moscow</sb:location></sb:publisher></sb:edited-book><sb:pages><sb:first-page>360</sb:first-page></sb:pages></sb:host><sb:comment>in Russian</sb:comment></sb:reference>",
+    "<sb:reference id=\"sbref0006\"><sb:contribution langtype=\"iso\" xml:lang=\"ru\"><sb:authors><sb:author><ce:surname>Bazilevsky</ce:surname><ce:given-name>A.T.</ce:given-name></sb:author><sb:author><ce:surname>Grebennik</ce:surname><ce:given-name>N.P.</ce:given-name></sb:author><sb:author><ce:surname>Gromov</ce:surname><ce:given-name>V.V.</ce:given-name></sb:author><sb:author><ce:surname>Dmitriev</ce:surname><ce:given-name>A.D.</ce:given-name></sb:author><sb:author><ce:surname>Kemurdzhian</ce:surname><ce:given-name>A.L.</ce:given-name></sb:author><sb:author><ce:surname>Polosukhin</ce:surname><ce:given-name>V.P.</ce:given-name></sb:author><sb:author><ce:surname>Semenov</ce:surname><ce:given-name>P.S.</ce:given-name></sb:author><sb:author><ce:surname>Florensky</ce:surname><ce:given-name>K.P.</ce:given-name></sb:author></sb:authors><sb:title><sb:maintitle>The dependence of the physico-mechanical properties of lunar soil on the features of the relief and processes in the area of the Lunokhod-2</sb:maintitle></sb:title></sb:contribution><sb:host><sb:issue><sb:series><sb:title><sb:maintitle>Kosmicheskie Issledovaniya</sb:maintitle></sb:title><sb:volume-nr>V. 22</sb:volume-nr></sb:series><sb:issue-nr>2</sb:issue-nr><sb:date>1984</sb:date></sb:issue><sb:pages><sb:first-page>243</sb:first-page><sb:last-page>251</sb:last-page></sb:pages></sb:host><sb:comment>in Russian</sb:comment></sb:reference>",
+    "<sb:reference id=\"sbref0007\"><sb:contribution langtype=\"iso\" xml:lang=\"ru\"><sb:authors><sb:collaboration>Bulletin of optical observation stations of artificial Earth satellites No. 45</sb:collaboration></sb:authors><sb:title><sb:maintitle>Astronomical council of the USSR academy of sciences</sb:maintitle></sb:title></sb:contribution><sb:host><sb:issue><sb:series><sb:title><sb:maintitle>Moscow</sb:maintitle></sb:title></sb:series><sb:date>1965</sb:date></sb:issue><sb:pages><sb:first-page>140</sb:first-page></sb:pages></sb:host><sb:comment>in Russian</sb:comment></sb:reference>",
+    "<sb:reference id=\"sbref0008\"><sb:contribution langtype=\"iso\" xml:lang=\"ru\"><sb:authors><sb:author><ce:surname>Cherkasov</ce:surname><ce:given-name>I.I.</ce:given-name></sb:author><sb:author><ce:surname>Shvarev</ce:surname><ce:given-name>V.V.</ce:given-name></sb:author></sb:authors><sb:title><sb:maintitle>Soil of the moon</sb:maintitle></sb:title></sb:contribution><sb:host><sb:issue><sb:series><sb:title><sb:maintitle>Nauka, Moscow</sb:maintitle></sb:title></sb:series><sb:date>1975</sb:date></sb:issue><sb:pages><sb:first-page>142</sb:first-page></sb:pages></sb:host><sb:comment>in Russian</sb:comment></sb:reference>",
+    "<sb:reference id=\"sbref0009\"><sb:contribution langtype=\"iso\" xml:lang=\"ru\"><sb:authors><sb:author><ce:surname>Florensky</ce:surname><ce:given-name>K.P.</ce:given-name></sb:author><sb:author><ce:surname>Bazilevsky</ce:surname><ce:given-name>A.T.</ce:given-name></sb:author><sb:author><ce:surname>Gurshteyn</ce:surname><ce:given-name>A.A.</ce:given-name></sb:author><sb:author><ce:surname>Zasetsky</ce:surname><ce:given-name>V.V.</ce:given-name></sb:author><sb:author><ce:surname>Pronin</ce:surname><ce:given-name>A.A.</ce:given-name></sb:author><sb:author><ce:surname>Polosukhin</ce:surname><ce:given-name>V.P.</ce:given-name></sb:author></sb:authors><sb:title><sb:maintitle>Geological and morphological analysis of the \u201cLunokhod-2\u201dwork area</sb:maintitle></sb:title></sb:contribution><sb:host><sb:issue><sb:series><sb:title><sb:maintitle>Doklady (Reports) USSR Acad. Sci. V.</sb:maintitle></sb:title><sb:volume-nr>214</sb:volume-nr></sb:series><sb:issue-nr>1</sb:issue-nr><sb:date>1974</sb:date></sb:issue><sb:pages><sb:first-page>75</sb:first-page><sb:last-page>78</sb:last-page></sb:pages></sb:host><sb:comment>in Russian</sb:comment></sb:reference>",
+    "<sb:reference id=\"sbref0010\"><sb:contribution langtype=\"en\"><sb:authors><sb:author><ce:surname>Ivanov</ce:surname><ce:given-name>B.A.</ce:given-name></sb:author><sb:author><ce:surname>Okulessky</ce:surname><ce:given-name>B.A.</ce:given-name></sb:author><sb:author><ce:surname>Bazilevsky</ce:surname><ce:given-name>A.T.</ce:given-name></sb:author></sb:authors><sb:title><sb:maintitle>An impulsive magnetic field from shock-induced polarization in lunar rocks as a possible cause of field anomalies associated with craters</sb:maintitle></sb:title></sb:contribution><sb:host><sb:issue><sb:series><sb:title><sb:maintitle>Sov. Astron. Lett., V.</sb:maintitle></sb:title><sb:volume-nr>2</sb:volume-nr></sb:series><sb:issue-nr>3</sb:issue-nr><sb:date>1976</sb:date></sb:issue><sb:pages><sb:first-page>101</sb:first-page><sb:last-page>102</sb:last-page></sb:pages></sb:host></sb:reference>",
+    "<sb:reference id=\"sbref0011\"><sb:contribution langtype=\"en\"><sb:authors><sb:author><ce:surname>Karachevtseva</ce:surname><ce:given-name>I.</ce:given-name></sb:author><sb:author><ce:surname>Oberst</ce:surname><ce:given-name>J.</ce:given-name></sb:author><sb:author><ce:surname>Scholten</ce:surname><ce:given-name>F.</ce:given-name></sb:author><sb:author><ce:surname>\u0410.</ce:surname><ce:given-name>K.</ce:given-name></sb:author><sb:author><ce:surname>Shingareva</ce:surname><ce:given-name>K.</ce:given-name></sb:author><sb:author><ce:surname>Cherepanova</ce:surname><ce:given-name>E.</ce:given-name></sb:author><sb:author><ce:surname>Gusakova</ce:surname><ce:given-name>E.</ce:given-name></sb:author><sb:author><ce:surname>Haase</ce:surname><ce:given-name>I.</ce:given-name></sb:author><sb:author><ce:surname>Peters</ce:surname><ce:given-name>O.</ce:given-name></sb:author><sb:author><ce:surname>Plescia</ce:surname><ce:given-name>J.</ce:given-name></sb:author><sb:author><ce:surname>Robinson</ce:surname><ce:given-name>M.</ce:given-name></sb:author></sb:authors><sb:title><sb:maintitle>Cartography of the Lunokhod-1 landing site and traverse from LRO image and stereo-topographic data</sb:maintitle></sb:title></sb:contribution><sb:host><sb:issue><sb:series><sb:title><sb:maintitle>Planet. Space Sci.</sb:maintitle></sb:title><sb:volume-nr>V. 85</sb:volume-nr></sb:series><sb:date>2013</sb:date></sb:issue><sb:pages><sb:first-page>175</sb:first-page><sb:last-page>187</sb:last-page></sb:pages></sb:host></sb:reference>",
+    "<sb:reference id=\"sbref0012\"><sb:contribution langtype=\"en\"><sb:authors><sb:author><ce:surname>Karachevtseva</ce:surname><ce:given-name>I.P.</ce:given-name></sb:author><sb:author><ce:surname>Kozlova</ce:surname><ce:given-name>N.A.</ce:given-name></sb:author><sb:author><ce:surname>Kokhanov</ce:surname><ce:given-name>A.A.</ce:given-name></sb:author><sb:author><ce:surname>Zubarev</ce:surname><ce:given-name>A.E.</ce:given-name></sb:author><sb:author><ce:surname>Nadezhdina</ce:surname><ce:given-name>I.E.</ce:given-name></sb:author><sb:author><ce:surname>Patratiy</ce:surname><ce:given-name>V.D.</ce:given-name></sb:author><sb:author><ce:surname>Konopikhin</ce:surname><ce:given-name>A.A.</ce:given-name></sb:author><sb:author><ce:surname>Basilevsky</ce:surname><ce:given-name>A.T.</ce:given-name></sb:author><sb:author><ce:surname>Abdrakhimov</ce:surname><ce:given-name>A.M.</ce:given-name></sb:author><sb:author><ce:surname>Oberst</ce:surname><ce:given-name>J.</ce:given-name></sb:author><sb:author><ce:surname>Haase</ce:surname><ce:given-name>I.</ce:given-name></sb:author><sb:author><ce:surname>Jolliffe</ce:surname><ce:given-name>B.L.</ce:given-name></sb:author><sb:author><ce:surname>Plescia</ce:surname><ce:given-name>J.B.</ce:given-name></sb:author><sb:author><ce:surname>Robinson</ce:surname><ce:given-name>M.S.</ce:given-name></sb:author></sb:authors><sb:title><sb:maintitle>Cartography of the Luna-21 landing site and lunokhod-2 traverse area based on lunar reconnaissance orbiter camera images and surface archive TV-panoramas</sb:maintitle></sb:title></sb:contribution><sb:host><sb:issue><sb:series><sb:title><sb:maintitle>Icarus</sb:maintitle></sb:title><sb:volume-nr>V. 283</sb:volume-nr></sb:series><sb:date>2017</sb:date></sb:issue><sb:pages><sb:first-page>104</sb:first-page><sb:last-page>121</sb:last-page></sb:pages></sb:host></sb:reference>",
+    "<sb:reference id=\"sbref0013\"><sb:host><sb:edited-book><sb:editors><sb:editor><ce:surname>Kemurdzhian</ce:surname><ce:given-name>A.L.</ce:given-name></sb:editor></sb:editors><sb:title><sb:maintitle>The Rovers</sb:maintitle></sb:title><sb:date>1993</sb:date><sb:publisher><sb:name>Mashinostroenie</sb:name><sb:location>Moscow</sb:location></sb:publisher></sb:edited-book><sb:pages><sb:first-page>400</sb:first-page></sb:pages></sb:host><sb:comment>in Russian</sb:comment></sb:reference>",
+    "<sb:reference id=\"sbref0014\"><sb:contribution langtype=\"iso\" xml:lang=\"ru\"><sb:authors><sb:author><ce:surname>Kocharov</ce:surname><ce:given-name>G.E.</ce:given-name></sb:author><sb:author><ce:surname>Viktorov</ce:surname><ce:given-name>S.V.</ce:given-name></sb:author></sb:authors><sb:title><sb:maintitle>Chemical composition of the lunar surface in the area of the Lunokhod-2</sb:maintitle></sb:title></sb:contribution><sb:host><sb:issue><sb:series><sb:title><sb:maintitle>Doklady (Reports) USSR Acad. Sci.</sb:maintitle></sb:title><sb:volume-nr>V. 214</sb:volume-nr></sb:series><sb:issue-nr>1</sb:issue-nr><sb:date>1974</sb:date></sb:issue><sb:pages><sb:first-page>71</sb:first-page><sb:last-page>74</sb:last-page></sb:pages></sb:host><sb:comment>in Russian</sb:comment></sb:reference>",
+    "<sb:reference id=\"sbref0015\"><sb:contribution langtype=\"iso\" xml:lang=\"ru\"><sb:authors><sb:author><ce:surname>Kuzmin</ce:surname><ce:given-name>R.O.</ce:given-name></sb:author></sb:authors><sb:title><sb:maintitle>Landslide phenomena in regolith on the slopes of the lunar topography</sb:maintitle></sb:title></sb:contribution><sb:host><sb:issue><sb:series><sb:title><sb:maintitle>Proceedings of the USSR Acad. Sci., Geological Ser</sb:maintitle></sb:title><sb:volume-nr>10</sb:volume-nr></sb:series><sb:date>1975</sb:date></sb:issue><sb:pages><sb:first-page>65</sb:first-page><sb:last-page>72</sb:last-page></sb:pages></sb:host><sb:comment>in Russian</sb:comment></sb:reference>",
+    "<sb:reference id=\"sbref0016\"><sb:contribution langtype=\"iso\" xml:lang=\"ru\"><sb:authors><sb:author><ce:surname>Marov</ce:surname><ce:given-name>M.Y.</ce:given-name></sb:author><sb:author><ce:surname>Huntress</ce:surname><ce:given-name>W.T.</ce:given-name></sb:author></sb:authors><sb:title><sb:maintitle>Soviet robots in the Solar system</sb:maintitle></sb:title></sb:contribution><sb:host><sb:book><sb:date>2013</sb:date><sb:publisher><sb:name>Technology and discovery</sb:name><sb:location>Moscow, Fizmatlit</sb:location></sb:publisher></sb:book><sb:pages><sb:first-page>612</sb:first-page></sb:pages></sb:host><sb:comment>in Russian</sb:comment></sb:reference>",
+    "<ce:other-ref id=\"sbref0017\"><ce:textref>Mare Crisium: the view from Luna 24. In: Merill, R.B., Papike, J.J. (Eds.), Proceedings of the Conference on Luna 24, Houston Texas, December 1-3, 1977. Pergamon Press, New York, p. 709.</ce:textref></ce:other-ref>",
+    "<sb:reference id=\"sbref0018\"><sb:contribution langtype=\"iso\" xml:lang=\"ru\"><sb:authors><sb:collaboration>Outstanding achievements of our cosmonautics</sb:collaboration></sb:authors></sb:contribution><sb:host><sb:issue><sb:series><sb:title><sb:maintitle>Pravda newspaper</sb:maintitle></sb:title></sb:series><sb:date>1970</sb:date></sb:issue></sb:host><sb:comment>October 4in Russian</sb:comment></sb:reference>",
+    "<sb:reference id=\"sbref0019\"><sb:host><sb:edited-book><sb:editors><sb:editor><ce:surname>Pomeroy</ce:surname><ce:given-name>J.H.</ce:given-name></sb:editor><sb:editor><ce:surname>Hubbard</ce:surname><ce:given-name>N.J.</ce:given-name></sb:editor></sb:editors><sb:title><sb:maintitle>The Soviet-American conference on cosmochemistry of the Moon and planets. P. 1, 2</sb:maintitle></sb:title><sb:date>1977</sb:date><sb:publisher><sb:name>NASA</sb:name><sb:location>Washington, D.C.</sb:location></sb:publisher></sb:edited-book><sb:pages><sb:first-page>929</sb:first-page></sb:pages></sb:host></sb:reference>",
+    "<sb:reference id=\"sbref0020\"><sb:contribution langtype=\"iso\" xml:lang=\"ru\"><sb:authors><sb:author><ce:surname>Sokolov</ce:surname><ce:given-name>S.</ce:given-name></sb:author><sb:author><ce:surname>Barsukov</ce:surname><ce:given-name>V.</ce:given-name></sb:author><sb:author><ce:surname>Vladimirov</ce:surname><ce:given-name>B.</ce:given-name></sb:author></sb:authors><sb:title><sb:maintitle>On the route Earth - Moon</sb:maintitle></sb:title></sb:contribution><sb:host><sb:book><sb:date>1976</sb:date><sb:publisher><sb:name>Pravda newspaper</sb:name></sb:publisher></sb:book></sb:host><sb:comment>October 13 (in Russian)</sb:comment></sb:reference>",
+    "<sb:reference id=\"sbref0021\"><sb:contribution langtype=\"iso\" xml:lang=\"ru\"><sb:authors><sb:collaboration>Soviet space rocket</sb:collaboration></sb:authors></sb:contribution><sb:host><sb:issue><sb:series><sb:title><sb:maintitle>Pravda newspaper</sb:maintitle></sb:title></sb:series><sb:date>1959</sb:date></sb:issue></sb:host><sb:comment>January 12 (in Russian)</sb:comment></sb:reference>",
+    "<sb:reference id=\"sbref0022\"><sb:contribution langtype=\"iso\" xml:lang=\"ru\"><sb:authors><sb:author><ce:surname>Surkov Yu</ce:surname><ce:given-name>A.</ce:given-name></sb:author></sb:authors><sb:title><sb:maintitle>Drilling in the lunar mountains</sb:maintitle></sb:title></sb:contribution><sb:host><sb:book><sb:date>1972</sb:date><sb:publisher><sb:name>Pravda newspaper</sb:name></sb:publisher></sb:book></sb:host><sb:comment>February 27 (in Russian)</sb:comment></sb:reference>",
+    "<sb:reference id=\"sbref0023\"><sb:contribution langtype=\"iso\" xml:lang=\"ru\"><sb:authors><sb:author><ce:surname>Surkov Yu</ce:surname><ce:given-name>A.</ce:given-name></sb:author><sb:author><ce:surname>Kheifets</ce:surname><ce:given-name>A.B.</ce:given-name></sb:author><sb:author><ce:surname>Rudnitsky</ce:surname><ce:given-name>E.M.</ce:given-name></sb:author><sb:author><ce:surname>Danilov</ce:surname><ce:given-name>K.D.</ce:given-name></sb:author><sb:author><ce:surname>Glotov</ce:surname><ce:given-name>V.A.</ce:given-name></sb:author><sb:author><ce:surname>Shvarev</ce:surname><ce:given-name>V.V.</ce:given-name></sb:author></sb:authors><sb:title><sb:maintitle>A chamber for working with extraterrestrial matter in an inert gas environment</sb:maintitle></sb:title></sb:contribution><sb:host><sb:issue><sb:series><sb:title><sb:maintitle>Kosmicheskie Issledovaniya.</sb:maintitle></sb:title><sb:volume-nr>V. 10</sb:volume-nr></sb:series><sb:issue-nr>5</sb:issue-nr><sb:date>1972</sb:date></sb:issue><sb:pages><sb:first-page>766</sb:first-page><sb:last-page>770</sb:last-page></sb:pages></sb:host><sb:comment>in Russian</sb:comment></sb:reference>",
+    "<sb:reference id=\"sbref0024\"><sb:contribution langtype=\"iso\" xml:lang=\"ru\"><sb:authors><sb:author><ce:surname>Surkov Yu.</ce:surname><ce:given-name>A.</ce:given-name></sb:author></sb:authors><sb:title><sb:maintitle>Gamma spectrometry in space research</sb:maintitle></sb:title></sb:contribution><sb:host><sb:book><sb:date>1977</sb:date><sb:publisher><sb:name>Atomizdat</sb:name><sb:location>Moscow</sb:location></sb:publisher></sb:book><sb:pages><sb:first-page>240</sb:first-page></sb:pages></sb:host><sb:comment>in Russian</sb:comment></sb:reference>",
+    "<sb:reference id=\"sbref0025\"><sb:contribution langtype=\"iso\" xml:lang=\"ru\"><sb:authors><sb:author><ce:surname>Surkov Yu.</ce:surname><ce:given-name>A.</ce:given-name></sb:author><sb:author><ce:surname>A.B.</ce:surname><ce:given-name>K.</ce:given-name></sb:author><sb:author><ce:surname>Rudnitsky</ce:surname><ce:given-name>E.M.</ce:given-name></sb:author><sb:author><ce:surname>Danilov</ce:surname><ce:given-name>K.D.</ce:given-name></sb:author><sb:author><ce:surname>Glotov</ce:surname><ce:given-name>V.A.</ce:given-name></sb:author></sb:authors><sb:title><sb:maintitle>The study of extraterrestrial matter in an inert gas medium and ultrahigh vacuum</sb:maintitle></sb:title></sb:contribution><sb:host><sb:issue><sb:series><sb:title><sb:maintitle>USSR Acad. Sci., Moscow</sb:maintitle></sb:title></sb:series><sb:date>1971</sb:date></sb:issue><sb:pages><sb:first-page>15</sb:first-page></sb:pages></sb:host><sb:comment>in Russian</sb:comment></sb:reference>",
+    "<sb:reference id=\"sbref0026\"><sb:contribution langtype=\"iso\" xml:lang=\"ru\"><sb:authors><sb:author><ce:surname>Tarasov</ce:surname><ce:given-name>L.S.</ce:given-name></sb:author><sb:author><ce:surname>Ivanov</ce:surname><ce:given-name>A.V.</ce:given-name></sb:author><sb:author><ce:surname>Florensky</ce:surname><ce:given-name>K.P.</ce:given-name></sb:author><sb:author><ce:surname>Rode</ce:surname><ce:given-name>O.D.</ce:given-name></sb:author><sb:author><ce:surname>Nazarov</ce:surname><ce:given-name>M.A.</ce:given-name></sb:author></sb:authors><sb:title><sb:maintitle>Lithological and morphological characteristics of lunar regolith from the Apollonius highland region</sb:maintitle></sb:title></sb:contribution><sb:host><sb:edited-book><sb:editors><sb:editor><ce:surname>Barsukov</ce:surname><ce:given-name>V.L.</ce:given-name></sb:editor><sb:editor><ce:surname>Surkov Yu</ce:surname><ce:given-name>A.</ce:given-name></sb:editor></sb:editors><sb:title><sb:maintitle>Soil from the Moon highland region</sb:maintitle></sb:title><sb:date>1979</sb:date><sb:publisher><sb:name>Nauka</sb:name><sb:location>Moscow</sb:location></sb:publisher></sb:edited-book><sb:pages><sb:first-page>62</sb:first-page><sb:last-page>73</sb:last-page></sb:pages></sb:host><sb:comment>in Russian</sb:comment></sb:reference>",
+    "<sb:reference id=\"sbref0027\"><sb:contribution langtype=\"iso\" xml:lang=\"ru\"><sb:authors><sb:collaboration>TASS message</sb:collaboration></sb:authors><sb:title><sb:maintitle>About the first results of launching a space rocket to the Moon</sb:maintitle></sb:title></sb:contribution><sb:host><sb:book><sb:date>1959</sb:date><sb:publisher><sb:name>Pravda newspaper</sb:name></sb:publisher></sb:book></sb:host><sb:comment>September 21 (in Russian)</sb:comment></sb:reference>",
+    "<sb:reference id=\"sbref0028\"><sb:contribution langtype=\"iso\" xml:lang=\"ru\"><sb:authors><sb:collaboration>The first panoramas of the lunar surface</sb:collaboration></sb:authors></sb:contribution><sb:host><sb:issue><sb:series><sb:title><sb:maintitle>Nauka, Moscow</sb:maintitle></sb:title></sb:series><sb:date>1966</sb:date></sb:issue><sb:pages><sb:first-page>130</sb:first-page></sb:pages></sb:host><sb:comment>in Russian</sb:comment></sb:reference>",
+    "<sb:reference id=\"sbref0029\"><sb:contribution langtype=\"iso\" xml:lang=\"ru\"><sb:authors><sb:collaboration>The first panoramas of the lunar surface. P. 2</sb:collaboration></sb:authors></sb:contribution><sb:host><sb:issue><sb:series><sb:title><sb:maintitle>Nauka, Moscow</sb:maintitle></sb:title></sb:series><sb:date>1969</sb:date></sb:issue><sb:pages><sb:first-page>104</sb:first-page></sb:pages></sb:host><sb:comment>in Russian</sb:comment></sb:reference>",
+    "<sb:reference id=\"sbref0030\"><sb:contribution langtype=\"iso\" xml:lang=\"ru\"><sb:authors><sb:collaboration>The first photographs of the Moon Far Side</sb:collaboration></sb:authors><sb:title><sb:maintitle>USSR Acad</sb:maintitle></sb:title></sb:contribution><sb:host><sb:issue><sb:series><sb:title><sb:maintitle>Sci., Moscow</sb:maintitle></sb:title><sb:volume-nr>38</sb:volume-nr></sb:series><sb:date>1959</sb:date></sb:issue></sb:host><sb:comment>in Russian</sb:comment></sb:reference>",
+    "<sb:reference id=\"sbref0031\"><sb:contribution langtype=\"iso\" xml:lang=\"ru\"><sb:authors><sb:collaboration>The third Soviet space rocket</sb:collaboration></sb:authors></sb:contribution><sb:host><sb:issue><sb:series><sb:title><sb:maintitle>Pravda newspaper</sb:maintitle></sb:title></sb:series><sb:date>1959</sb:date></sb:issue></sb:host><sb:comment>October 27 (in Russian)</sb:comment></sb:reference>",
+    "<sb:reference id=\"sbref0032\"><sb:host><sb:edited-book><sb:editors><sb:editor><ce:surname>Vinogradov</ce:surname><ce:given-name>A.P.</ce:given-name></sb:editor></sb:editors><sb:title><sb:maintitle>Mobile laboratory on the Moon Lunokhod-1</sb:maintitle></sb:title><sb:date>1971</sb:date><sb:publisher><sb:name>Nauka</sb:name><sb:location>Moscow</sb:location></sb:publisher></sb:edited-book><sb:pages><sb:first-page>128</sb:first-page></sb:pages></sb:host><sb:comment>in Russian</sb:comment></sb:reference>",
+    "<sb:reference id=\"sbref0033\"><sb:contribution langtype=\"iso\" xml:lang=\"ru\"><sb:authors><sb:author><ce:surname>Vinogradov</ce:surname><ce:given-name>A.P.</ce:given-name></sb:author></sb:authors><sb:title><sb:maintitle>Soil of the lunar mountains</sb:maintitle></sb:title></sb:contribution><sb:host><sb:book><sb:date>1972</sb:date><sb:publisher><sb:name>Pravda newspaper</sb:name></sb:publisher></sb:book></sb:host><sb:comment>May 04 (in Russian)</sb:comment></sb:reference>",
+    "<sb:reference id=\"sbref0034\"><sb:host><sb:edited-book><sb:editors><sb:editor><ce:surname>Vinogradov</ce:surname><ce:given-name>A.P.</ce:given-name></sb:editor></sb:editors><sb:title><sb:maintitle>Lunar soil from the Mare Fecunditatis</sb:maintitle></sb:title><sb:date>1974</sb:date><sb:publisher><sb:name>Nauka</sb:name><sb:location>Moscow</sb:location></sb:publisher></sb:edited-book><sb:pages><sb:first-page>624</sb:first-page></sb:pages></sb:host><sb:comment>(in Russian)</sb:comment></sb:reference>",
+    "<sb:reference id=\"sbref0035\"><sb:contribution langtype=\"iso\" xml:lang=\"ru\"><sb:authors><sb:author><ce:surname>Vinogradov</ce:surname><ce:given-name>A.P.</ce:given-name></sb:author></sb:authors><sb:title><sb:maintitle>Preliminary data on lunar soil delivered by the Luna-20 automatic station</sb:maintitle></sb:title></sb:contribution><sb:host><sb:edited-book><sb:editors><sb:editor><ce:surname>Barsukov</ce:surname><ce:given-name>V.L.</ce:given-name></sb:editor><sb:editor><ce:surname>Surkov Yu.</ce:surname><ce:given-name>A.</ce:given-name></sb:editor></sb:editors><sb:title><sb:maintitle>Soil from the Moon highland region</sb:maintitle></sb:title><sb:date>1979</sb:date><sb:publisher><sb:name>Nauka</sb:name><sb:location>Moscow</sb:location></sb:publisher></sb:edited-book><sb:pages><sb:first-page>7</sb:first-page><sb:last-page>17</sb:last-page></sb:pages></sb:host><sb:comment>in Russian</sb:comment></sb:reference>",
+    "<sb:reference id=\"sbref0036\"><sb:contribution langtype=\"iso\" xml:lang=\"ru\"><sb:authors><sb:author><ce:surname>Vinogradov</ce:surname><ce:given-name>A.P.</ce:given-name></sb:author><sb:author><ce:surname>Surkov</ce:surname><ce:given-name>Y.A.</ce:given-name></sb:author><sb:author><ce:surname>Chernov</ce:surname><ce:given-name>G.M.</ce:given-name></sb:author></sb:authors><sb:title><sb:maintitle>Studies of the intensity and spectral composition of gamma radiation of the Moon at the automatic station Luna-10</sb:maintitle></sb:title></sb:contribution><sb:host><sb:issue><sb:series><sb:title><sb:maintitle>Doklady (Reports) USSR Acad. Sci.</sb:maintitle></sb:title><sb:volume-nr>V. 170</sb:volume-nr></sb:series><sb:issue-nr>3</sb:issue-nr><sb:date>1966</sb:date></sb:issue><sb:pages><sb:first-page>561</sb:first-page><sb:last-page>564</sb:last-page></sb:pages></sb:host><sb:comment>in Russian</sb:comment></sb:reference>",
+    "<sb:reference id=\"sbref0037\"><sb:contribution langtype=\"iso\" xml:lang=\"ru\"><sb:authors><sb:author><ce:surname>Zolotov</ce:surname><ce:given-name>Y.</ce:given-name></sb:author></sb:authors><sb:title><sb:maintitle>Portrait of the lunar soil</sb:maintitle></sb:title></sb:contribution><sb:host><sb:book><sb:date>1976</sb:date><sb:publisher><sb:name>Pravda newspaper</sb:name></sb:publisher></sb:book></sb:host><sb:comment>September 5 (in Russian)</sb:comment></sb:reference>"
+  ],
+  "title": {
+    "textEnglish": "The Luna program"
+  }
+}

@@ -1,0 +1,147 @@
+{
+  "abstract": {
+    "textEnglish": "Set of scripts used to process direct infusion mass spectrometry data as described in the associated paper"
+  },
+  "authors": [
+    {
+      "attrib": {
+        "orcid": "0000-0002-2997-2175"
+      },
+      "name": {
+        "given_name": "AT",
+        "pubraw": "Zielinski, AT",
+        "surname": "Zielinski"
+      }
+    },
+    {
+      "name": {
+        "given_name": "M",
+        "pubraw": "Kalberer, M",
+        "surname": "Kalberer"
+      }
+    },
+    {
+      "name": {
+        "given_name": "C",
+        "pubraw": "Bortolini, C",
+        "surname": "Bortolini"
+      }
+    },
+    {
+      "name": {
+        "given_name": "C",
+        "pubraw": "Giorio, C",
+        "surname": "Giorio"
+      }
+    },
+    {
+      "name": {
+        "given_name": "SJ",
+        "pubraw": "Fuller, SJ",
+        "surname": "Fuller"
+      }
+    },
+    {
+      "name": {
+        "given_name": "I",
+        "pubraw": "Kourtchev, I",
+        "surname": "Kourtchev"
+      }
+    },
+    {
+      "name": {
+        "given_name": "O",
+        "pubraw": "Popoola, O",
+        "surname": "Popoola"
+      }
+    }
+  ],
+  "doctype": "software",
+  "keywords": [
+    {
+      "keyString": "UHRMS",
+      "keySystem": "datacite"
+    },
+    {
+      "keyString": "ESI",
+      "keySystem": "datacite"
+    },
+    {
+      "keyString": "APPI",
+      "keySystem": "datacite"
+    },
+    {
+      "keyString": "Environmental samples",
+      "keySystem": "datacite"
+    },
+    {
+      "keyString": "direct infusion",
+      "keySystem": "datacite"
+    },
+    {
+      "keyString": "Orbitrap",
+      "keySystem": "datacite"
+    }
+  ],
+  "openAccess": {
+    "license": "GNU General Public License version 3",
+    "licenseURL": "https://opensource.org/licenses/GPL-3.0",
+    "open": true
+  },
+  "otherContributor": [
+    {
+      "contrib": {
+        "name": {
+          "given_name": "Apollo",
+          "middle_name": "- University of",
+          "pubraw": "Apollo - University of Cambridge Repository",
+          "surname": "Cambridge Repository"
+        }
+      },
+      "role": "HostingInstitution"
+    }
+  ],
+  "persistentIDs": [
+    {
+      "DOI": "10.5072/example-software-2.0"
+    }
+  ],
+  "pubDate": {
+    "electrDate": "2017",
+    "otherDate": [
+      {
+        "otherDateType": "Issued",
+        "otherDateValue": "2017-05-08"
+      },
+      {
+        "otherDateType": "Available",
+        "otherDateValue": "2017-05-08"
+      }
+    ]
+  },
+  "publication": {
+    "pubYear": "2017",
+    "publisher": "Apollo - University of Cambridge Repository"
+  },
+  "recordData": {
+    "createdTime": "",
+    "loadFormat": "OtherXML",
+    "loadLocation": "",
+    "loadType": "fromFile",
+    "parsedTime": "",
+    "recordOrigin": ""
+  },
+  "relatedTo": [
+    {
+      "relatedDocID": "doi:10.5072/example-software-1.0",
+      "relationship": "updated"
+    },
+    {
+      "relatedDocID": "doi:10.5072/example-software-repository",
+      "relationship": "related"
+    }
+  ],
+  "title": {
+    "textEnglish": "Code supporting \"A new processing scheme for ultra-high resolution direct infusion mass spectrometry data\""
+  }
+}

@@ -1,0 +1,4301 @@
+{
+  "abstract": {
+    "textEnglish": "Future data provided by the Euclid mission will allow us to better understand the cosmic history of the Universe. A metric of its performance is the figure-of-merit (FoM) of dark energy, usually estimated with Fisher forecasts. The expected FoM has previously been estimated taking into account the two main probes of Euclid, namely the three-dimensional clustering of the spectroscopic galaxy sample, and the so-called 3\u00d72pt signal from the photometric sample (i.e., the weak lensing signal, the galaxy clustering, and their cross-correlation). So far, these two probes have been treated as independent. In this paper, we introduce a new observable given by the ratio of the (angular) two-point correlation function of galaxies from the two surveys. For identical (normalised) selection functions, this observable is unaffected by sampling noise, and its variance is solely controlled by Poisson noise. We present forecasts for Euclid where this multi-tracer method is applied and is particularly relevant because the two surveys will cover the same area of the sky. This method allows for the exploitation of the combination of the spectroscopic and photometric samples. When the correlation between this new observable and the other probes is not taken into account, a significant gain is obtained in the FoM, as well as in the constraints on other cosmological parameters. The benefit is more pronounced for a commonly investigated modified gravity model, namely the \u03b3 parametrisation of the growth factor. However, the correlation between the different probes is found to be significant and hence the actual gain is uncertain. We present various strategies for circumventing this issue and still extract useful information from the new observable."
+  },
+  "authors": [
+    {
+      "attrib": {
+        "collab": true
+      },
+      "name": {
+        "collab": "Euclid Collaboration"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Institut de Recherche en Astrophysique et Plan\u00e9tologie (IRAP), Universit\u00e9 de Toulouse, CNRS, UPS, CNES, 14 Av. Edouard Belin, 31400, Toulouse, France"
+        }
+      ],
+      "attrib": {
+        "collab": true
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "F.",
+        "surname": "Dournac"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Institut de Recherche en Astrophysique et Plan\u00e9tologie (IRAP), Universit\u00e9 de Toulouse, CNRS, UPS, CNES, 14 Av. Edouard Belin, 31400, Toulouse, France"
+        }
+      ],
+      "attrib": {
+        "collab": true,
+        "corresp": true,
+        "orcid": "0000-0001-8555-9003"
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "A.",
+        "surname": "Blanchard"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Universit\u00e9 Paris-Saclay, CNRS/IN2P3, IJCLab, 91405, Orsay, France"
+        },
+        {
+          "affPubRaw": "Institut de Recherche en Astrophysique et Plan\u00e9tologie (IRAP), Universit\u00e9 de Toulouse, CNRS, UPS, CNES, 14 Av. Edouard Belin, 31400, Toulouse, France"
+        }
+      ],
+      "attrib": {
+        "collab": true,
+        "orcid": "0000-0003-4285-9086"
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "S.",
+        "surname": "Ili\u0107"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Institut de Recherche en Astrophysique et Plan\u00e9tologie (IRAP), Universit\u00e9 de Toulouse, CNRS, UPS, CNES, 14 Av. Edouard Belin, 31400, Toulouse, France"
+        }
+      ],
+      "attrib": {
+        "collab": true,
+        "orcid": "0000-0002-9416-2320"
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "B.",
+        "surname": "Lamine"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Institut de Recherche en Astrophysique et Plan\u00e9tologie (IRAP), Universit\u00e9 de Toulouse, CNRS, UPS, CNES, 14 Av. Edouard Belin, 31400, Toulouse, France"
+        }
+      ],
+      "attrib": {
+        "collab": true,
+        "orcid": "0000-0002-3199-0399"
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "I.",
+        "surname": "Tutusaus"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "School of Mathematics and Physics, University of Surrey, Guildford, Surrey, GU2 7XH, UK"
+        }
+      ],
+      "attrib": {
+        "collab": true
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "A.",
+        "surname": "Amara"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "INAF-Osservatorio Astronomico di Brera, Via Brera 28, 20122, Milano, Italy"
+        }
+      ],
+      "attrib": {
+        "collab": true,
+        "orcid": "0000-0002-2041-8784"
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "S.",
+        "surname": "Andreon"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "INAF-Osservatorio di Astrofisica e Scienza dello Spazio di Bologna, Via Piero Gobetti 93/3, 40129, Bologna, Italy"
+        }
+      ],
+      "attrib": {
+        "collab": true,
+        "orcid": "0000-0003-4444-8651"
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "N.",
+        "surname": "Auricchio"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Universit\u00e9 Paris-Saclay, Universit\u00e9 Paris Cit\u00e9, CEA, CNRS, AIM, 91191, Gif-sur-Yvette, France"
+        }
+      ],
+      "attrib": {
+        "collab": true,
+        "orcid": "0000-0002-1371-5705"
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "H.",
+        "surname": "Aussel"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Dipartimento di Fisica e Astronomia, Universit\u00e0 di Bologna, Via Gobetti 93/2, 40129, Bologna, Italy"
+        },
+        {
+          "affPubRaw": "INAF-Osservatorio di Astrofisica e Scienza dello Spazio di Bologna, Via Piero Gobetti 93/3, 40129, Bologna, Italy"
+        },
+        {
+          "affPubRaw": "INFN-Sezione di Bologna, Viale Berti Pichat 6/2, 40127, Bologna, Italy"
+        }
+      ],
+      "attrib": {
+        "collab": true,
+        "orcid": "0000-0003-4145-1943"
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "M.",
+        "surname": "Baldi"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "INAF-Osservatorio di Astrofisica e Scienza dello Spazio di Bologna, Via Piero Gobetti 93/3, 40129, Bologna, Italy"
+        }
+      ],
+      "attrib": {
+        "collab": true,
+        "orcid": "0000-0002-8900-0298"
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "S.",
+        "surname": "Bardelli"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Max Planck Institute for Extraterrestrial Physics, Giessenbachstr. 1, 85748, Garching, Germany"
+        }
+      ],
+      "attrib": {
+        "collab": true
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "C.",
+        "surname": "Bodendorf"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "INAF-Osservatorio Astrofisico di Torino, Via Osservatorio 20, 10025, Pino Torinese (TO), Italy"
+        }
+      ],
+      "attrib": {
+        "collab": true,
+        "orcid": "0000-0002-3336-9977"
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "D.",
+        "surname": "Bonino"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Dipartimento di Fisica, Universit\u00e0 di Genova, Via Dodecaneso 33, 16146, Genova, Italy"
+        },
+        {
+          "affPubRaw": "INFN-Sezione di Genova, Via Dodecaneso 33, 16146, Genova, Italy"
+        },
+        {
+          "affPubRaw": "INAF-Osservatorio Astronomico di Brera, Via Brera 28, 20122, Milano, Italy"
+        }
+      ],
+      "attrib": {
+        "collab": true,
+        "orcid": "0000-0002-0808-6908"
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "E.",
+        "surname": "Branchini"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Institut de Recherche en Astrophysique et Plan\u00e9tologie (IRAP), Universit\u00e9 de Toulouse, CNRS, UPS, CNES, 14 Av. Edouard Belin, 31400, Toulouse, France"
+        }
+      ],
+      "attrib": {
+        "collab": true
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "S.",
+        "surname": "Brau-Nogue"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Department of Physics \u201cE. Pancini\u201d, University Federico II, Via Cinthia 6, 80126, Napoli, Italy"
+        },
+        {
+          "affPubRaw": "INAF-Osservatorio Astronomico di Capodimonte, Via Moiariello 16, 80131, Napoli, Italy"
+        },
+        {
+          "affPubRaw": "INFN section of Naples, Via Cinthia 6, 80126, Napoli, Italy"
+        }
+      ],
+      "attrib": {
+        "collab": true,
+        "orcid": "0000-0001-9506-5680"
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "M.",
+        "surname": "Brescia"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Instituto de Astrof\u00edsica e Ci\u00eancias do Espa\u00e7o, Universidade do Porto, CAUP, Rua das Estrelas, PT4150-762, Porto, Portugal"
+        }
+      ],
+      "attrib": {
+        "collab": true,
+        "orcid": "0000-0003-4359-8797"
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "J.",
+        "surname": "Brinchmann"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Dipartimento di Fisica, Universit\u00e0 degli Studi di Torino, Via P. Giuria 1, 10125, Torino, Italy"
+        },
+        {
+          "affPubRaw": "INFN-Sezione di Torino, Via P. Giuria 1, 10125, Torino, Italy"
+        },
+        {
+          "affPubRaw": "INAF-Osservatorio Astrofisico di Torino, Via Osservatorio 20, 10025, Pino Torinese (TO), Italy"
+        }
+      ],
+      "attrib": {
+        "collab": true,
+        "orcid": "0000-0003-3399-3574"
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "S.",
+        "surname": "Camera"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "INAF-Osservatorio Astrofisico di Torino, Via Osservatorio 20, 10025, Pino Torinese (TO), Italy"
+        }
+      ],
+      "attrib": {
+        "collab": true,
+        "orcid": "0000-0002-3309-7692"
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "V.",
+        "surname": "Capobianco"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Institut de F\u00edsica d\u2019Altes Energies (IFAE), The Barcelona Institute of Science and Technology, Campus UAB, 08193, Bellaterra (Barcelona), Spain"
+        },
+        {
+          "affPubRaw": "Port d\u2019Informaci\u00f3 Cient\u00edfica, Campus UAB, C. Albareda s/n, 08193, Bellaterra (Barcelona), Spain"
+        }
+      ],
+      "attrib": {
+        "collab": true,
+        "orcid": "0000-0002-3130-0204"
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "J.",
+        "surname": "Carretero"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Institute for Theoretical Particle Physics and Cosmology (TTK), RWTH Aachen University, 52056, Aachen, Germany"
+        }
+      ],
+      "attrib": {
+        "collab": true,
+        "orcid": "0000-0002-4751-5138"
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "S.",
+        "surname": "Casas"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "INAF-Osservatorio Astronomico di Roma, Via Frascati 33, 00078, Monteporzio Catone, Italy"
+        }
+      ],
+      "attrib": {
+        "collab": true,
+        "orcid": "0000-0001-9875-8263"
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "M.",
+        "surname": "Castellano"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "INAF-Osservatorio Astronomico di Capodimonte, Via Moiariello 16, 80131, Napoli, Italy"
+        },
+        {
+          "affPubRaw": "INFN section of Naples, Via Cinthia 6, 80126, Napoli, Italy"
+        }
+      ],
+      "attrib": {
+        "collab": true,
+        "orcid": "0000-0002-3787-4196"
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "S.",
+        "surname": "Cavuoti"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Dipartimento di Fisica e Astronomia \u201cAugusto Righi\u201d - Alma Mater Studiorum Universit\u00e0 di Bologna, Viale Berti Pichat 6/2, 40127, Bologna, Italy"
+        }
+      ],
+      "attrib": {
+        "collab": true
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "A.",
+        "surname": "Cimatti"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Institute for Astronomy, University of Edinburgh, Royal Observatory, Blackford Hill, Edinburgh, EH9 3HJ, UK"
+        }
+      ],
+      "attrib": {
+        "collab": true,
+        "orcid": "0000-0003-2508-0046"
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "G.",
+        "surname": "Congedo"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Jodrell Bank Centre for Astrophysics, Department of Physics and Astronomy, University of Manchester, Oxford Road, Manchester, M13 9PL, UK"
+        }
+      ],
+      "attrib": {
+        "collab": true
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "C. J.",
+        "surname": "Conselice"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "European Space Agency/ESRIN, Largo Galileo Galilei 1, 00044, Frascati, Roma, Italy"
+        },
+        {
+          "affPubRaw": "ESAC/ESA, Camino Bajo del Castillo, s/n., Urb. Villafranca del Castillo, 28692, Villanueva de la Ca\u00f1ada, Madrid, Spain"
+        }
+      ],
+      "attrib": {
+        "collab": true,
+        "orcid": "0000-0002-6710-8476"
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "L.",
+        "surname": "Conversi"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Universit\u00e9 Claude Bernard Lyon 1, CNRS/IN2P3, IP2I Lyon, UMR 5822, 69100, Villeurbanne, France"
+        }
+      ],
+      "attrib": {
+        "collab": true,
+        "orcid": "0000-0002-5317-7518"
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "Y.",
+        "surname": "Copin"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Institute of Physics, Laboratory of Astrophysics, Ecole Polytechnique F\u00e9d\u00e9rale de Lausanne (EPFL), Observatoire de Sauverny, 1290, Versoix, Switzerland"
+        }
+      ],
+      "attrib": {
+        "collab": true,
+        "orcid": "0000-0003-0758-6510"
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "F.",
+        "surname": "Courbin"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "UCB Lyon 1, CNRS/IN2P3, IUF, IP2I Lyon, 4 rue Enrico Fermi, 69622, Villeurbanne, France"
+        }
+      ],
+      "attrib": {
+        "collab": true,
+        "orcid": "0000-0003-0509-1776"
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "H. M.",
+        "surname": "Courtois"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Departamento de F\u00edsica, Faculdade de Ci\u00eancias, Universidade de Lisboa, Edif\u00edcio C8, Campo Grande, PT1749-016, Lisboa, Portugal"
+        },
+        {
+          "affPubRaw": "Instituto de Astrof\u00edsica e Ci\u00eancias do Espa\u00e7o, Faculdade de Ci\u00ean- cias, Universidade de Lisboa, Campo Grande, 1749-016, Lisboa, Portugal"
+        }
+      ],
+      "attrib": {
+        "collab": true
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "A.",
+        "surname": "Da Silva"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Department of Astronomy, University of Geneva, ch. d\u2019Ecogia 16, 1290, Versoix, Switzerland"
+        }
+      ],
+      "attrib": {
+        "collab": true,
+        "orcid": "0000-0002-5887-6799"
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "H.",
+        "surname": "Degaudenzi"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "INAF-Istituto di Astrofisica e Planetologia Spaziali, via del Fosso del Cavaliere, 100, 00100, Roma, Italy"
+        }
+      ],
+      "attrib": {
+        "collab": true,
+        "orcid": "0000-0002-4767-2360"
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "A. M.",
+        "surname": "Di Giorgio"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Departamento de F\u00edsica, Faculdade de Ci\u00eancias, Universidade de Lisboa, Edif\u00edcio C8, Campo Grande, PT1749-016, Lisboa, Portugal"
+        },
+        {
+          "affPubRaw": "Instituto de Astrof\u00edsica e Ci\u00eancias do Espa\u00e7o, Faculdade de Ci\u00ean- cias, Universidade de Lisboa, Campo Grande, 1749-016, Lisboa, Portugal"
+        }
+      ],
+      "attrib": {
+        "collab": true,
+        "orcid": "0000-0001-5075-1601"
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "J.",
+        "surname": "Dinis"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Universit\u00e9 Paris-Saclay, CNRS, Institut d\u2019astrophysique spatiale, 91405, Orsay, France"
+        }
+      ],
+      "attrib": {
+        "collab": true,
+        "orcid": "0000-0003-4203-3954"
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "M.",
+        "surname": "Douspis"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Department of Astronomy, University of Geneva, ch. d\u2019Ecogia 16, 1290, Versoix, Switzerland"
+        }
+      ],
+      "attrib": {
+        "collab": true,
+        "orcid": "0000-0002-6533-2810"
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "F.",
+        "surname": "Dubath"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "ESAC/ESA, Camino Bajo del Castillo, s/n., Urb. Villafranca del Castillo, 28692, Villanueva de la Ca\u00f1ada, Madrid, Spain"
+        }
+      ],
+      "attrib": {
+        "collab": true
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "X.",
+        "surname": "Dupac"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "INFN-Padova, Via Marzolo 8, 35131, Padova, Italy"
+        }
+      ],
+      "attrib": {
+        "collab": true,
+        "orcid": "0000-0002-1128-0664"
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "S.",
+        "surname": "Dusini"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Universit\u00e9 Claude Bernard Lyon 1, CNRS/IN2P3, IP2I Lyon, UMR 5822, 69100, Villeurbanne, France"
+        }
+      ],
+      "attrib": {
+        "collab": true
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "A.",
+        "surname": "Ealet"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "INAF-Istituto di Astrofisica e Planetologia Spaziali, via del Fosso del Cavaliere, 100, 00100, Roma, Italy"
+        }
+      ],
+      "attrib": {
+        "collab": true,
+        "orcid": "0000-0002-3089-7846"
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "M.",
+        "surname": "Farina"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Universit\u00e9 Paris-Saclay, Universit\u00e9 Paris Cit\u00e9, CEA, CNRS, AIM, 91191, Gif-sur-Yvette, France"
+        }
+      ],
+      "attrib": {
+        "collab": true,
+        "orcid": "0000-0002-9594-9387"
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "S.",
+        "surname": "Farrens"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Universit\u00e9 Claude Bernard Lyon 1, CNRS/IN2P3, IP2I Lyon, UMR 5822, 69100, Villeurbanne, France"
+        }
+      ],
+      "attrib": {
+        "collab": true
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "S.",
+        "surname": "Ferriol"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "INAF-Osservatorio Astronomico di Trieste, Via G. B. Tiepolo 11, 34143, Trieste, Italy"
+        }
+      ],
+      "attrib": {
+        "collab": true,
+        "orcid": "0000-0002-7400-2135"
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "M.",
+        "surname": "Frailis"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "INAF-Osservatorio di Astrofisica e Scienza dello Spazio di Bologna, Via Piero Gobetti 93/3, 40129, Bologna, Italy"
+        }
+      ],
+      "attrib": {
+        "collab": true,
+        "orcid": "0000-0002-0585-6591"
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "E.",
+        "surname": "Franceschi"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "INAF-Osservatorio Astronomico di Trieste, Via G. B. Tiepolo 11, 34143, Trieste, Italy"
+        }
+      ],
+      "attrib": {
+        "collab": true,
+        "orcid": "0000-0002-3748-5115"
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "S.",
+        "surname": "Galeotta"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Aix-Marseille Universit\u00e9, CNRS/IN2P3, CPPM, Marseille, France"
+        }
+      ],
+      "attrib": {
+        "collab": true,
+        "orcid": "0000-0003-4744-9748"
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "W.",
+        "surname": "Gillard"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Institute for Astronomy, University of Edinburgh, Royal Observatory, Blackford Hill, Edinburgh, EH9 3HJ, UK"
+        }
+      ],
+      "attrib": {
+        "collab": true,
+        "orcid": "0000-0002-4478-1270"
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "B.",
+        "surname": "Gillis"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "INAF-Osservatorio di Astrofisica e Scienza dello Spazio di Bologna, Via Piero Gobetti 93/3, 40129, Bologna, Italy"
+        },
+        {
+          "affPubRaw": "Istituto Nazionale di Fisica Nucleare, Sezione di Bologna, Via Irnerio 46, 40126, Bologna, Italy"
+        }
+      ],
+      "attrib": {
+        "collab": true,
+        "orcid": "0000-0002-9590-7961"
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "C.",
+        "surname": "Giocoli"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "INAF-Osservatorio Astronomico di Brera, Via Brera 28, 20122, Milano, Italy"
+        }
+      ],
+      "attrib": {
+        "collab": true,
+        "orcid": "0000-0003-2694-9284"
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "B. R.",
+        "surname": "Granett"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "INAF-Osservatorio Astronomico di Padova, Via dell\u2019Osservatorio 5, 35122, Padova, Italy"
+        }
+      ],
+      "attrib": {
+        "collab": true,
+        "orcid": "0000-0002-5688-0663"
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "A.",
+        "surname": "Grazian"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Max Planck Institute for Extraterrestrial Physics, Giessenbachstr. 1, 85748, Garching, Germany"
+        },
+        {
+          "affPubRaw": "Universit\u00e4ts-Sternwarte M\u00fcnchen, Fakult\u00e4t f\u00fcr Physik, Ludwig-Maximilians-Universit\u00e4t M\u00fcnchen, Scheinerstrasse 1, 81679, M\u00fcnchen, Germany"
+        }
+      ],
+      "attrib": {
+        "collab": true
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "F.",
+        "surname": "Grupp"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Institute of Theoretical Astrophysics, University of Oslo, PO Box 1029, Blindern, 0315, Oslo, Norway"
+        }
+      ],
+      "attrib": {
+        "collab": true,
+        "orcid": "0000-0001-9648-7260"
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "S. V. H.",
+        "surname": "Haugan"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Jet Propulsion Laboratory, California Institute of Technology, 4800 Oak Grove Drive, Pasadena, CA, 91109, USA"
+        }
+      ],
+      "attrib": {
+        "collab": true
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "W.",
+        "surname": "Holmes"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Department of Physics, Lancaster University, Lancaster, LA1 4YB, UK"
+        }
+      ],
+      "attrib": {
+        "collab": true,
+        "orcid": "0000-0002-2960-978X"
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "I.",
+        "surname": "Hook"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Felix Hormuth Engineering, Goethestr. 17, 69181, Leimen, Germany"
+        }
+      ],
+      "attrib": {
+        "collab": true,
+        "orcid": "0009-0000-2474-3130"
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "F.",
+        "surname": "Hormuth"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Technical University of Denmark, Elektrovej 327, 2800 Kgs., Lyngby, Denmark"
+        },
+        {
+          "affPubRaw": "Cosmic Dawn Center (DAWN), Denmark"
+        }
+      ],
+      "attrib": {
+        "collab": true,
+        "orcid": "0000-0002-3363-0936"
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "A.",
+        "surname": "Hornstrup"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Institut d\u2019Astrophysique de Paris, UMR 7095, CNRS, and Sorbonne Universit\u00e9, 98 bis boulevard Arago, 75014, Paris, France"
+        }
+      ],
+      "attrib": {
+        "collab": true
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "P.",
+        "surname": "Hudelot"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Max-Planck-Institut f\u00fcr Astronomie, K\u00f6nigstuhl 17, 69117, Heidelberg, Germany"
+        }
+      ],
+      "attrib": {
+        "collab": true,
+        "orcid": "0000-0003-3804-2137"
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "K.",
+        "surname": "Jahnke"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Department of Physics and Helsinki Institute of Physics, Gustaf H\u00e4llstr\u00f6min katu 2, 00014 University of Helsinki, Finland"
+        }
+      ],
+      "attrib": {
+        "collab": true,
+        "orcid": "0000-0003-1804-7715"
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "E.",
+        "surname": "Keih\u00e4nen"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Aix-Marseille Universit\u00e9, CNRS/IN2P3, CPPM, Marseille, France"
+        }
+      ],
+      "attrib": {
+        "collab": true,
+        "orcid": "0000-0002-0302-5735"
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "S.",
+        "surname": "Kermiche"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Jet Propulsion Laboratory, California Institute of Technology, 4800 Oak Grove Drive, Pasadena, CA, 91109, USA"
+        }
+      ],
+      "attrib": {
+        "collab": true,
+        "orcid": "0000-0002-2590-1273"
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "A.",
+        "surname": "Kiessling"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "AIM, CEA, CNRS, Universit\u00e9 Paris-Saclay, Universit\u00e9 de Paris, 91191, Gif-sur-Yvette, France"
+        }
+      ],
+      "attrib": {
+        "collab": true,
+        "orcid": "0000-0001-9513-7138"
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "M.",
+        "surname": "Kilbinger"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Universit\u00e9 Claude Bernard Lyon 1, CNRS/IN2P3, IP2I Lyon, UMR 5822, 69100, Villeurbanne, France"
+        }
+      ],
+      "attrib": {
+        "collab": true,
+        "orcid": "0009-0006-5823-4880"
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "B.",
+        "surname": "Kubik"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Universit\u00e4ts-Sternwarte M\u00fcnchen, Fakult\u00e4t f\u00fcr Physik, Ludwig-Maximilians-Universit\u00e4t M\u00fcnchen, Scheinerstrasse 1, 81679, M\u00fcnchen, Germany"
+        }
+      ],
+      "attrib": {
+        "collab": true,
+        "orcid": "0000-0003-2791-2117"
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "M.",
+        "surname": "K\u00fcmmel"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Universit\u00e9 de Gen\u00e8ve, D\u00e9partement de Physique Th\u00e9orique and Centre for Astroparticle Physics, 24 quai Ernest-Ansermet, 1211, Gen\u00e8ve 4, Switzerland"
+        }
+      ],
+      "attrib": {
+        "collab": true,
+        "orcid": "0000-0002-3052-7394"
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "M.",
+        "surname": "Kunz"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Department of Physics, P.O. Box 64, 00014, University of Helsinki, Finland"
+        },
+        {
+          "affPubRaw": "Helsinki Institute of Physics, Gustaf H\u00e4llstr\u00f6min katu 2, University of Helsinki, Helsinki, Finland"
+        }
+      ],
+      "attrib": {
+        "collab": true,
+        "orcid": "0000-0002-4618-3063"
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "H.",
+        "surname": "Kurki-Suonio"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "INAF-Osservatorio Astrofisico di Torino, Via Osservatorio 20, 10025, Pino Torinese (TO), Italy"
+        }
+      ],
+      "attrib": {
+        "collab": true,
+        "orcid": "0000-0003-4172-4606"
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "S.",
+        "surname": "Ligori"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Institute of Theoretical Astrophysics, University of Oslo, PO Box 1029, Blindern, 0315, Oslo, Norway"
+        }
+      ],
+      "attrib": {
+        "collab": true,
+        "orcid": "0000-0003-4324-7794"
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "P. B.",
+        "surname": "Lilje"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Department of Physics, P.O. Box 64, 00014, University of Helsinki, Finland"
+        },
+        {
+          "affPubRaw": "Helsinki Institute of Physics, Gustaf H\u00e4llstr\u00f6min katu 2, University of Helsinki, Helsinki, Finland"
+        }
+      ],
+      "attrib": {
+        "collab": true,
+        "orcid": "0000-0003-2317-5471"
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "V.",
+        "surname": "Lindholm"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "NOVA optical infrared instrumentation group at ASTRON, Oude Hoogeveensedijk 4, 7991PD, Dwingeloo, The Netherlands"
+        }
+      ],
+      "attrib": {
+        "collab": true,
+        "orcid": "0000-0001-5966-1434"
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "I.",
+        "surname": "Lloro"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Dipartimento di Fisica \u201cAldo Pontremoli\u201d, Universit\u00e0 degli Studi di Milano, Via Celoria 16, 20133, Milano, Italy"
+        },
+        {
+          "affPubRaw": "INAF-IASF Milano, Via Alfonso Corti 12, 20133, Milano, Italy"
+        },
+        {
+          "affPubRaw": "INFN-Sezione di Milano, Via Celoria 16, 20133, Milano, Italy"
+        }
+      ],
+      "attrib": {
+        "collab": true,
+        "orcid": "0000-0002-4761-1242"
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "D.",
+        "surname": "Maino"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "INAF-Osservatorio di Astrofisica e Scienza dello Spazio di Bologna, Via Piero Gobetti 93/3, 40129, Bologna, Italy"
+        }
+      ],
+      "attrib": {
+        "collab": true,
+        "orcid": "0000-0003-2593-4355"
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "E.",
+        "surname": "Maiorano"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "INAF-Osservatorio Astronomico di Trieste, Via G. B. Tiepolo 11, 34143, Trieste, Italy"
+        }
+      ],
+      "attrib": {
+        "collab": true,
+        "orcid": "0000-0001-5758-4658"
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "O.",
+        "surname": "Mansutti"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Universit\u00e4t Bonn, Argelander-Institut f\u00fcr Astronomie, Auf dem H\u00fcgel 71, 53121, Bonn, Germany"
+        }
+      ],
+      "attrib": {
+        "collab": true,
+        "orcid": "0000-0001-7242-3852"
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "O.",
+        "surname": "Marggraf"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Jet Propulsion Laboratory, California Institute of Technology, 4800 Oak Grove Drive, Pasadena, CA, 91109, USA"
+        }
+      ],
+      "attrib": {
+        "collab": true,
+        "orcid": "0000-0001-6764-073X"
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "K.",
+        "surname": "Markovic"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Aix-Marseille Universit\u00e9, CNRS, CNES, LAM, Marseille, France"
+        }
+      ],
+      "attrib": {
+        "collab": true,
+        "orcid": "0000-0003-2786-7790"
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "N.",
+        "surname": "Martinet"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Dipartimento di Fisica e Astronomia \u201cAugusto Righi\u201d - Alma Mater Studiorum Universit\u00e0 di Bologna, via Piero Gobetti 93/2, 40129, Bologna, Italy"
+        },
+        {
+          "affPubRaw": "INAF-Osservatorio di Astrofisica e Scienza dello Spazio di Bologna, Via Piero Gobetti 93/3, 40129, Bologna, Italy"
+        },
+        {
+          "affPubRaw": "INFN-Sezione di Bologna, Viale Berti Pichat 6/2, 40127, Bologna, Italy"
+        }
+      ],
+      "attrib": {
+        "collab": true,
+        "orcid": "0000-0002-8850-0303"
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "F.",
+        "surname": "Marulli"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Department of Physics, Centre for Extragalactic Astronomy, Durham University, South Road, DH1 3LE, UK"
+        }
+      ],
+      "attrib": {
+        "collab": true,
+        "orcid": "0000-0002-6085-3780"
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "R.",
+        "surname": "Massey"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Universit\u00e9 C\u00f4te d\u2019Azur, Observatoire de la C\u00f4te d\u2019Azur, CNRS, Laboratoire Lagrange, Bd de l\u2019Observatoire, CS 34229, 06304, Nice cedex 4, France"
+        }
+      ],
+      "attrib": {
+        "collab": true
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "S.",
+        "surname": "Maurogordato"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "INAF-Osservatorio di Astrofisica e Scienza dello Spazio di Bologna, Via Piero Gobetti 93/3, 40129, Bologna, Italy"
+        }
+      ],
+      "attrib": {
+        "collab": true,
+        "orcid": "0000-0002-4040-7783"
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "E.",
+        "surname": "Medinaceli"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Universit\u00e9 Paris Cit\u00e9, CNRS, Astroparticule et Cosmologie, 75013, Paris, France"
+        }
+      ],
+      "attrib": {
+        "collab": true,
+        "orcid": "0000-0002-2849-559X"
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "S.",
+        "surname": "Mei"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Institut d\u2019Astrophysique de Paris, 98bis Boulevard Arago, 75014, Paris, France"
+        },
+        {
+          "affPubRaw": "Institut d\u2019Astrophysique de Paris, UMR 7095, CNRS, and Sorbonne Universit\u00e9, 98 bis boulevard Arago, 75014, Paris, France"
+        }
+      ],
+      "attrib": {
+        "collab": true
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "Y.",
+        "surname": "Mellier"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "INAF-Osservatorio di Astrofisica e Scienza dello Spazio di Bologna, Via Piero Gobetti 93/3, 40129, Bologna, Italy"
+        },
+        {
+          "affPubRaw": "INFN-Sezione di Bologna, Viale Berti Pichat 6/2, 40127, Bologna, Italy"
+        }
+      ],
+      "attrib": {
+        "collab": true,
+        "orcid": "0000-0003-1225-7084"
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "M.",
+        "surname": "Meneghetti"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "INAF-Osservatorio Astronomico di Roma, Via Frascati 33, 00078, Monteporzio Catone, Italy"
+        }
+      ],
+      "attrib": {
+        "collab": true,
+        "orcid": "0000-0001-6870-8900"
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "E.",
+        "surname": "Merlin"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Institute of Physics, Laboratory of Astrophysics, Ecole Polytechnique F\u00e9d\u00e9rale de Lausanne (EPFL), Observatoire de Sauverny, 1290, Versoix, Switzerland"
+        }
+      ],
+      "attrib": {
+        "collab": true
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "G.",
+        "surname": "Meylan"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Dipartimento di Fisica e Astronomia \u201cAugusto Righi\u201d - Alma Mater Studiorum Universit\u00e0 di Bologna, via Piero Gobetti 93/2, 40129, Bologna, Italy"
+        },
+        {
+          "affPubRaw": "INAF-Osservatorio di Astrofisica e Scienza dello Spazio di Bologna, Via Piero Gobetti 93/3, 40129, Bologna, Italy"
+        }
+      ],
+      "attrib": {
+        "collab": true,
+        "orcid": "0000-0002-7616-7136"
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "M.",
+        "surname": "Moresco"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Dipartimento di Fisica e Astronomia \u201cAugusto Righi\u201d - Alma Mater Studiorum Universit\u00e0 di Bologna, via Piero Gobetti 93/2, 40129, Bologna, Italy"
+        },
+        {
+          "affPubRaw": "INAF-Osservatorio di Astrofisica e Scienza dello Spazio di Bologna, Via Piero Gobetti 93/3, 40129, Bologna, Italy"
+        },
+        {
+          "affPubRaw": "INFN-Sezione di Bologna, Viale Berti Pichat 6/2, 40127, Bologna, Italy"
+        }
+      ],
+      "attrib": {
+        "collab": true,
+        "orcid": "0000-0002-3473-6716"
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "L.",
+        "surname": "Moscardini"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "INAF-Osservatorio Astronomico di Trieste, Via G. B. Tiepolo 11, 34143, Trieste, Italy"
+        }
+      ],
+      "attrib": {
+        "collab": true,
+        "orcid": "0000-0002-1751-5946"
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "E.",
+        "surname": "Munari"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "European Space Agency/ESTEC, Keplerlaan 1, 2201 AZ, Noordwijk, The Netherlands"
+        }
+      ],
+      "attrib": {
+        "collab": true
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "S.-M.",
+        "surname": "Niemi"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "School of Mathematics, Statistics and Physics, Newcastle University, Herschel Building, Newcastle-upon-Tyne, NE1 7RU, UK"
+        },
+        {
+          "affPubRaw": "Department of Physics, Institute for Computational Cosmology, Durham University, South Road, DH1 3LE, UK"
+        }
+      ],
+      "attrib": {
+        "collab": true,
+        "orcid": "0000-0002-8987-7401"
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "J. W.",
+        "surname": "Nightingale"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Institut de F\u00edsica d\u2019Altes Energies (IFAE), The Barcelona Institute of Science and Technology, Campus UAB, 08193, Bellaterra (Barcelona), Spain"
+        }
+      ],
+      "attrib": {
+        "collab": true,
+        "orcid": "0000-0001-7951-0166"
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "C.",
+        "surname": "Padilla"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Department of Astronomy, University of Geneva, ch. d\u2019Ecogia 16, 1290, Versoix, Switzerland"
+        }
+      ],
+      "attrib": {
+        "collab": true,
+        "orcid": "0000-0002-8108-9179"
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "S.",
+        "surname": "Paltani"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "INAF-Osservatorio Astronomico di Trieste, Via G. B. Tiepolo 11, 34143, Trieste, Italy"
+        }
+      ],
+      "attrib": {
+        "collab": true,
+        "orcid": "0000-0002-4869-3227"
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "F.",
+        "surname": "Pasian"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Department of Physics and Astronomy, University of Aarhus, Ny Munkegade 120, 8000, Aarhus C, Denmark"
+        }
+      ],
+      "attrib": {
+        "collab": true
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "K.",
+        "surname": "Pedersen"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Waterloo Centre for Astrophysics, University of Waterloo, Waterloo, Ontario, N2L 3G1, Canada"
+        },
+        {
+          "affPubRaw": "Department of Physics and Astronomy, University of Waterloo, Waterloo, Ontario, N2L 3G1, Canada"
+        },
+        {
+          "affPubRaw": "Perimeter Institute for Theoretical Physics, Waterloo, Ontario, N2L 2Y5, Canada"
+        }
+      ],
+      "attrib": {
+        "collab": true,
+        "orcid": "0000-0002-0644-5727"
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "W. J.",
+        "surname": "Percival"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "European Space Agency/ESTEC, Keplerlaan 1, 2201 AZ, Noordwijk, The Netherlands"
+        }
+      ],
+      "attrib": {
+        "collab": true,
+        "orcid": "0000-0002-4203-9320"
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "V.",
+        "surname": "Pettorino"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Universit\u00e9 Paris-Saclay, Universit\u00e9 Paris Cit\u00e9, CEA, CNRS, AIM, 91191, Gif-sur-Yvette, France"
+        }
+      ],
+      "attrib": {
+        "collab": true,
+        "orcid": "0000-0002-0249-2104"
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "S.",
+        "surname": "Pires"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Space Science Data Center, Italian Space Agency, via del Politecnico snc, 00133, Roma, Italy"
+        }
+      ],
+      "attrib": {
+        "collab": true,
+        "orcid": "0000-0003-4067-9196"
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "G.",
+        "surname": "Polenta"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Centre National d\u2019Etudes Spatiales \u2013 Centre spatial de Toulouse, 18 avenue Edouard Belin, 31401, Toulouse Cedex 9, France"
+        }
+      ],
+      "attrib": {
+        "collab": true
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "M.",
+        "surname": "Poncet"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Institute of Space Science, Str. Atomistilor, nr. 409 M\u0103gurele, Ilfov, 077125, Romania"
+        }
+      ],
+      "attrib": {
+        "collab": true,
+        "orcid": "0000-0001-9045-9154"
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "L. A.",
+        "surname": "Popa"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "INAF-Osservatorio di Astrofisica e Scienza dello Spazio di Bologna, Via Piero Gobetti 93/3, 40129, Bologna, Italy"
+        }
+      ],
+      "attrib": {
+        "collab": true,
+        "orcid": "0000-0001-7085-0412"
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "L.",
+        "surname": "Pozzetti"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Max Planck Institute for Extraterrestrial Physics, Giessenbachstr. 1, 85748, Garching, Germany"
+        }
+      ],
+      "attrib": {
+        "collab": true,
+        "orcid": "0000-0002-7819-6918"
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "F.",
+        "surname": "Raison"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Instituto de Astrof\u00edsica de Canarias, Calle V\u00eda L\u00e1ctea s/n, 38204, San Crist\u00f3bal de La Laguna, Tenerife, Spain"
+        },
+        {
+          "affPubRaw": "Departamento de Astrof\u00edsica, Universidad de La Laguna, 38206, La Laguna, Tenerife, Spain"
+        }
+      ],
+      "attrib": {
+        "collab": true
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "R.",
+        "surname": "Rebolo"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Dipartimento di Fisica e Astronomia \u201cG. Galilei\u201d, Universit\u00e0 di Padova, Via Marzolo 8, 35131, Padova, Italy"
+        },
+        {
+          "affPubRaw": "INFN-Padova, Via Marzolo 8, 35131, Padova, Italy"
+        }
+      ],
+      "attrib": {
+        "collab": true,
+        "orcid": "0000-0001-9856-1970"
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "A.",
+        "surname": "Renzi"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Jet Propulsion Laboratory, California Institute of Technology, 4800 Oak Grove Drive, Pasadena, CA, 91109, USA"
+        }
+      ],
+      "attrib": {
+        "collab": true,
+        "orcid": "0000-0002-4485-8549"
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "J.",
+        "surname": "Rhodes"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "INAF-Osservatorio Astronomico di Capodimonte, Via Moiariello 16, 80131, Napoli, Italy"
+        }
+      ],
+      "attrib": {
+        "collab": true,
+        "orcid": "0000-0001-7020-1172"
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "G.",
+        "surname": "Riccio"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "INAF-Osservatorio Astronomico di Trieste, Via G. B. Tiepolo 11, 34143, Trieste, Italy"
+        }
+      ],
+      "attrib": {
+        "collab": true,
+        "orcid": "0000-0003-3069-9222"
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "E.",
+        "surname": "Romelli"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "INAF-Osservatorio di Astrofisica e Scienza dello Spazio di Bologna, Via Piero Gobetti 93/3, 40129, Bologna, Italy"
+        }
+      ],
+      "attrib": {
+        "collab": true,
+        "orcid": "0000-0001-9587-7822"
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "M.",
+        "surname": "Roncarelli"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Dipartimento di Fisica e Astronomia, Universit\u00e0 di Bologna, Via Gobetti 93/2, 40129, Bologna, Italy"
+        }
+      ],
+      "attrib": {
+        "collab": true
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "E.",
+        "surname": "Rossetti"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Universit\u00e4ts-Sternwarte M\u00fcnchen, Fakult\u00e4t f\u00fcr Physik, Ludwig-Maximilians-Universit\u00e4t M\u00fcnchen, Scheinerstrasse 1, 81679, M\u00fcnchen, Germany"
+        },
+        {
+          "affPubRaw": "Max Planck Institute for Extraterrestrial Physics, Giessenbachstr. 1, 85748, Garching, Germany"
+        }
+      ],
+      "attrib": {
+        "collab": true,
+        "orcid": "0000-0003-0378-7032"
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "R.",
+        "surname": "Saglia"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Departamento de F\u00edsica, FCFM, Universidad de Chile, Blanco Encalada 2008, Santiago, Chile"
+        }
+      ],
+      "attrib": {
+        "collab": true,
+        "orcid": "0000-0001-7089-4503"
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "D.",
+        "surname": "Sapone"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Universit\u00e4t Bonn, Argelander-Institut f\u00fcr Astronomie, Auf dem H\u00fcgel 71, 53121, Bonn, Germany"
+        }
+      ],
+      "attrib": {
+        "collab": true
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "P.",
+        "surname": "Schneider"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Aix-Marseille Universit\u00e9, CNRS/IN2P3, CPPM, Marseille, France"
+        }
+      ],
+      "attrib": {
+        "collab": true,
+        "orcid": "0000-0003-0505-3710"
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "A.",
+        "surname": "Secroun"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Max-Planck-Institut f\u00fcr Astronomie, K\u00f6nigstuhl 17, 69117, Heidelberg, Germany"
+        }
+      ],
+      "attrib": {
+        "collab": true,
+        "orcid": "0000-0003-2907-353X"
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "G.",
+        "surname": "Seidel"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Jet Propulsion Laboratory, California Institute of Technology, 4800 Oak Grove Drive, Pasadena, CA, 91109, USA"
+        }
+      ],
+      "attrib": {
+        "collab": true,
+        "orcid": "0000-0002-7536-9393"
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "M.",
+        "surname": "Seiffert"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Institut d\u2019Estudis Espacials de Catalunya (IEEC), Edifici RDIT, Campus UPC, 08860, Castelldefels, Barcelona, Spain"
+        },
+        {
+          "affPubRaw": "Institute of Space Sciences (ICE, CSIC), Campus UAB, Carrer de Can Magrans, s/n, 08193, Barcelona, Spain"
+        },
+        {
+          "affPubRaw": "Satlantis, University Science Park, Sede Bld 48940, Leioa-Bilbao, Spain"
+        }
+      ],
+      "attrib": {
+        "collab": true,
+        "orcid": "0000-0002-0211-2861"
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "S.",
+        "surname": "Serrano"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Dipartimento di Fisica e Astronomia \u201cG. Galilei\u201d, Universit\u00e0 di Padova, Via Marzolo 8, 35131, Padova, Italy"
+        },
+        {
+          "affPubRaw": "INFN-Padova, Via Marzolo 8, 35131, Padova, Italy"
+        }
+      ],
+      "attrib": {
+        "collab": true,
+        "orcid": "0000-0002-0995-7146"
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "C.",
+        "surname": "Sirignano"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "INFN-Sezione di Bologna, Viale Berti Pichat 6/2, 40127, Bologna, Italy"
+        }
+      ],
+      "attrib": {
+        "collab": true,
+        "orcid": "0000-0003-2626-2853"
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "G.",
+        "surname": "Sirri"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "INFN-Padova, Via Marzolo 8, 35131, Padova, Italy"
+        }
+      ],
+      "attrib": {
+        "collab": true,
+        "orcid": "0000-0002-9706-5104"
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "L.",
+        "surname": "Stanco"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Aix-Marseille Universit\u00e9, CNRS, CNES, LAM, Marseille, France"
+        }
+      ],
+      "attrib": {
+        "collab": true,
+        "orcid": "0000-0003-2592-0113"
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "C.",
+        "surname": "Surace"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Centro de Investigaciones Energ\u00e9ticas, Medioambientales y Tec- nol\u00f3gicas (CIEMAT), Avenida Complutense 40, 28040, Madrid, Spain"
+        },
+        {
+          "affPubRaw": "Port d\u2019Informaci\u00f3 Cient\u00edfica, Campus UAB, C. Albareda s/n, 08193, Bellaterra (Barcelona), Spain"
+        }
+      ],
+      "attrib": {
+        "collab": true,
+        "orcid": "0000-0002-1336-8328"
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "P.",
+        "surname": "Tallada-Cresp\u00ed"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "INAF-Osservatorio Astronomico di Trieste, Via G. B. Tiepolo 11, 34143, Trieste, Italy"
+        }
+      ],
+      "attrib": {
+        "collab": true,
+        "orcid": "0000-0001-7475-9894"
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "D.",
+        "surname": "Tavagnacco"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Institute for Astronomy, University of Edinburgh, Royal Observatory, Blackford Hill, Edinburgh, EH9 3HJ, UK"
+        }
+      ],
+      "attrib": {
+        "collab": true
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "A. N.",
+        "surname": "Taylor"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Departamento de F\u00edsica, Faculdade de Ci\u00eancias, Universidade de Lisboa, Edif\u00edcio C8, Campo Grande, PT1749-016, Lisboa, Portugal"
+        },
+        {
+          "affPubRaw": "Instituto de Astrof\u00edsica e Ci\u00eancias do Espa\u00e7o, Faculdade de Ci\u00ean- cias, Universidade de Lisboa, Tapada da Ajuda, 1349-018, Lisboa, Portugal"
+        }
+      ],
+      "attrib": {
+        "collab": true
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "I.",
+        "surname": "Tereno"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Universidad Polit\u00e9cnica de Cartagena, Departamento de Electr\u00f3nica y Tecnolog\u00eda de Computadoras, Plaza del Hospital 1, 30202, Cartagena, Spain"
+        }
+      ],
+      "attrib": {
+        "collab": true,
+        "orcid": "0000-0002-2997-4859"
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "R.",
+        "surname": "Toledo-Moreo"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Port d\u2019Informaci\u00f3 Cient\u00edfica, Campus UAB, C. Albareda s/n, 08193, Bellaterra (Barcelona), Spain"
+        },
+        {
+          "affPubRaw": "Centro de Investigaciones Energ\u00e9ticas, Medioambientales y Tec- nol\u00f3gicas (CIEMAT), Avenida Complutense 40, 28040, Madrid, Spain"
+        }
+      ],
+      "attrib": {
+        "collab": true,
+        "orcid": "0000-0003-1160-1517"
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "F.",
+        "surname": "Torradeflot"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Kapteyn Astronomical Institute, University of Groningen, PO Box 800, 9700 AV, Groningen, The Netherlands"
+        }
+      ],
+      "attrib": {
+        "collab": true
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "E. A.",
+        "surname": "Valentijn"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "INAF-Osservatorio di Astrofisica e Scienza dello Spazio di Bologna, Via Piero Gobetti 93/3, 40129, Bologna, Italy"
+        },
+        {
+          "affPubRaw": "INFN-Bologna, Via Irnerio 46, 40126, Bologna, Italy"
+        }
+      ],
+      "attrib": {
+        "collab": true,
+        "orcid": "0000-0002-1170-0104"
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "L.",
+        "surname": "Valenziano"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Universit\u00e4ts-Sternwarte M\u00fcnchen, Fakult\u00e4t f\u00fcr Physik, Ludwig-Maximilians-Universit\u00e4t M\u00fcnchen, Scheinerstrasse 1, 81679, M\u00fcnchen, Germany"
+        },
+        {
+          "affPubRaw": "INAF-Osservatorio Astronomico di Trieste, Via G. B. Tiepolo 11, 34143, Trieste, Italy"
+        }
+      ],
+      "attrib": {
+        "collab": true,
+        "orcid": "0000-0001-6512-6358"
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "T.",
+        "surname": "Vassallo"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "INAF-Osservatorio Astronomico di Brera, Via Brera 28, 20122, Milano, Italy"
+        },
+        {
+          "affPubRaw": "INFN-Sezione di Genova, Via Dodecaneso 33, 16146, Genova, Italy"
+        }
+      ],
+      "attrib": {
+        "collab": true,
+        "orcid": "0000-0003-2387-1194"
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "A.",
+        "surname": "Veropalumbo"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Infrared Processing and Analysis Center, California Institute of Technology, Pasadena, CA, 91125, USA"
+        }
+      ],
+      "attrib": {
+        "collab": true,
+        "orcid": "0000-0002-4749-2984"
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "Y.",
+        "surname": "Wang"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "INAF-Osservatorio Astronomico di Trieste, Via G. B. Tiepolo 11, 34143, Trieste, Italy"
+        },
+        {
+          "affPubRaw": "IFPU, Institute for Fundamental Physics of the Universe, via Beirut 2, 34151, Trieste, Italy"
+        }
+      ],
+      "attrib": {
+        "collab": true,
+        "orcid": "0000-0003-0396-1192"
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "A.",
+        "surname": "Zacchei"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "INAF-Osservatorio di Astrofisica e Scienza dello Spazio di Bologna, Via Piero Gobetti 93/3, 40129, Bologna, Italy"
+        }
+      ],
+      "attrib": {
+        "collab": true,
+        "orcid": "0000-0002-2318-301X"
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "G.",
+        "surname": "Zamorani"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Aix-Marseille Universit\u00e9, CNRS/IN2P3, CPPM, Marseille, France"
+        }
+      ],
+      "attrib": {
+        "collab": true,
+        "orcid": "0000-0003-1962-9805"
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "J.",
+        "surname": "Zoubian"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "INAF-Osservatorio di Astrofisica e Scienza dello Spazio di Bologna, Via Piero Gobetti 93/3, 40129, Bologna, Italy"
+        }
+      ],
+      "attrib": {
+        "collab": true,
+        "orcid": "0000-0002-5845-8132"
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "E.",
+        "surname": "Zucca"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "INAF-Osservatorio Astronomico di Trieste, Via G. B. Tiepolo 11, 34143, Trieste, Italy"
+        },
+        {
+          "affPubRaw": "IFPU, Institute for Fundamental Physics of the Universe, via Beirut 2, 34151, Trieste, Italy"
+        }
+      ],
+      "attrib": {
+        "collab": true,
+        "orcid": "0000-0002-0857-0732"
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "A.",
+        "surname": "Biviano"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "INAF-Osservatorio di Astrofisica e Scienza dello Spazio di Bologna, Via Piero Gobetti 93/3, 40129, Bologna, Italy"
+        }
+      ],
+      "attrib": {
+        "collab": true,
+        "orcid": "0000-0003-3278-4607"
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "M.",
+        "surname": "Bolzonella"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Universit\u00e9 Paris Cit\u00e9, CNRS, Astroparticule et Cosmologie, 75013, Paris, France"
+        }
+      ],
+      "attrib": {
+        "collab": true,
+        "orcid": "0000-0001-7387-2633"
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "A.",
+        "surname": "Boucaud"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Department of Astronomy, University of Geneva, ch. d\u2019Ecogia 16, 1290, Versoix, Switzerland"
+        }
+      ],
+      "attrib": {
+        "collab": true,
+        "orcid": "0000-0002-8201-1525"
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "E.",
+        "surname": "Bozzo"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "INAF, Istituto di Radioastronomia, Via Piero Gobetti 101, 40129, Bologna, Italy"
+        },
+        {
+          "affPubRaw": "INFN-Bologna, Via Irnerio 46, 40126, Bologna, Italy"
+        }
+      ],
+      "attrib": {
+        "collab": true,
+        "orcid": "0000-0002-3005-5796"
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "C.",
+        "surname": "Burigana"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Instituto de Astrof\u00edsica de Canarias, Calle V\u00eda L\u00e1ctea s/n, 38204, San Crist\u00f3bal de La Laguna, Tenerife, Spain"
+        }
+      ],
+      "attrib": {
+        "collab": true
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "C.",
+        "surname": "Colodro-Conde"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "INAF-Osservatorio Astronomico di Trieste, Via G. B. Tiepolo 11, 34143, Trieste, Italy"
+        }
+      ],
+      "attrib": {
+        "collab": true,
+        "orcid": "0000-0002-6220-9104"
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "G.",
+        "surname": "De Lucia"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "INFN-Sezione di Bologna, Viale Berti Pichat 6/2, 40127, Bologna, Italy"
+        }
+      ],
+      "attrib": {
+        "collab": true
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "D.",
+        "surname": "Di Ferdinando"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Max Planck Institute for Extraterrestrial Physics, Giessenbachstr. 1, 85748, Garching, Germany"
+        }
+      ],
+      "attrib": {
+        "collab": true
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "J. A.",
+        "surname": "Escartin Vigo"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "INAF-Osservatorio di Astrofisica e Scienza dello Spazio di Bologna, Via Piero Gobetti 93/3, 40129, Bologna, Italy"
+        }
+      ],
+      "attrib": {
+        "collab": true,
+        "orcid": "0000-0003-2212-367X"
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "R.",
+        "surname": "Farinelli"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Max Planck Institute for Extraterrestrial Physics, Giessenbachstr. 1, 85748, Garching, Germany"
+        }
+      ],
+      "attrib": {
+        "collab": true,
+        "orcid": "0000-0003-4689-3134"
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "J.",
+        "surname": "Gracia-Carpio"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Centre de Calcul de l\u2019IN2P3/CNRS, 21 avenue Pierre de Coubertin, 69627, Villeurbanne Cedex, France"
+        }
+      ],
+      "attrib": {
+        "collab": true,
+        "orcid": "0000-0003-2384-2377"
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "G.",
+        "surname": "Mainetti"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "INAF-Osservatorio Astronomico di Roma, Via Frascati 33, 00078, Monteporzio Catone, Italy"
+        },
+        {
+          "affPubRaw": "INFN-Sezione di Roma, Piazzale Aldo Moro, 2 - c/o Dipartimento di Fisica, Edificio G. Marconi, 00185, Roma, Italy"
+        }
+      ],
+      "attrib": {
+        "collab": true,
+        "orcid": "0000-0002-6943-7732"
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "M.",
+        "surname": "Martinelli"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Dipartimento di Fisica e Astronomia \u201cAugusto Righi\u201d - Alma Mater Studiorum Universit\u00e0 di Bologna, Viale Berti Pichat 6/2, 40127, Bologna, Italy"
+        },
+        {
+          "affPubRaw": "INFN-Sezione di Bologna, Viale Berti Pichat 6/2, 40127, Bologna, Italy"
+        }
+      ],
+      "attrib": {
+        "collab": true,
+        "orcid": "0000-0001-8196-1548"
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "N.",
+        "surname": "Mauri"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Institut de F\u00edsica d\u2019Altes Energies (IFAE), The Barcelona Institute of Science and Technology, Campus UAB, 08193, Bellaterra (Barcelona), Spain"
+        },
+        {
+          "affPubRaw": "Port d\u2019Informaci\u00f3 Cient\u00edfica, Campus UAB, C. Albareda s/n, 08193, Bellaterra (Barcelona), Spain"
+        }
+      ],
+      "attrib": {
+        "collab": true,
+        "orcid": "0000-0001-8524-4968"
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "C.",
+        "surname": "Neissner"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Institut f\u00fcr Theoretische Physik, University of Heidelberg, Philosophenweg 16, 69120, Heidelberg, Germany"
+        },
+        {
+          "affPubRaw": "Institut de Recherche en Astrophysique et Plan\u00e9tologie (IRAP), Universit\u00e9 de Toulouse, CNRS, UPS, CNES, 14 Av. Edouard Belin, 31400, Toulouse, France"
+        },
+        {
+          "affPubRaw": "Universit\u00e9 St Joseph; Faculty of Sciences, Beirut, Lebanon"
+        }
+      ],
+      "attrib": {
+        "collab": true,
+        "orcid": "0000-0002-4823-3757"
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "Z.",
+        "surname": "Sakr"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Institut d\u2019Astrophysique de Paris, 98bis Boulevard Arago, 75014, Paris, France"
+        },
+        {
+          "affPubRaw": "Junia, EPA department, 41 Bd Vauban, 59800, Lille, France"
+        }
+      ],
+      "attrib": {
+        "collab": true,
+        "orcid": "0009-0008-3864-940X"
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "V.",
+        "surname": "Scottez"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "INFN-Sezione di Bologna, Viale Berti Pichat 6/2, 40127, Bologna, Italy"
+        }
+      ],
+      "attrib": {
+        "collab": true,
+        "orcid": "0000-0002-4254-5901"
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "M.",
+        "surname": "Tenti"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "IFPU, Institute for Fundamental Physics of the Universe, via Beirut 2, 34151, Trieste, Italy"
+        },
+        {
+          "affPubRaw": "INAF-Osservatorio Astronomico di Trieste, Via G. B. Tiepolo 11, 34143, Trieste, Italy"
+        },
+        {
+          "affPubRaw": "SISSA, International School for Advanced Studies, Via Bonomea 265, 34136, Trieste TS, Italy"
+        },
+        {
+          "affPubRaw": "INFN, Sezione di Trieste, Via Valerio 2, 34127, Trieste TS, Italy"
+        },
+        {
+          "affPubRaw": "ICSC - Centro Nazionale di Ricerca in High Performance Computing, Big Data e Quantum Computing, Via Magnanelli 2, Bologna, Italy"
+        }
+      ],
+      "attrib": {
+        "collab": true,
+        "orcid": "0000-0002-2642-5707"
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "M.",
+        "surname": "Viel"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Institute of Theoretical Astrophysics, University of Oslo, PO Box 1029, Blindern, 0315, Oslo, Norway"
+        }
+      ],
+      "attrib": {
+        "collab": true,
+        "orcid": "0009-0000-8199-5860"
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "M.",
+        "surname": "Wiesmann"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Instituto de F\u00edsica Te\u00f3rica UAM-CSIC, Campus de Cantoblanco, 28049, Madrid, Spain"
+        },
+        {
+          "affPubRaw": "CERCA/ISO, Department of Physics, Case Western Reserve University, 10900 Euclid Avenue, Cleveland, OH, 44106, USA"
+        }
+      ],
+      "attrib": {
+        "collab": true,
+        "orcid": "0000-0002-2407-7956"
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "Y.",
+        "surname": "Akrami"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "INAF-Osservatorio Astronomico di Capodimonte, Via Moiariello 16, 80131, Napoli, Italy"
+        }
+      ],
+      "attrib": {
+        "collab": true,
+        "orcid": "0000-0001-7232-5152"
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "V.",
+        "surname": "Allevato"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "INFN-Padova, Via Marzolo 8, 35131, Padova, Italy"
+        },
+        {
+          "affPubRaw": "Dipartimento di Fisica e Astronomia \u201cG. Galilei\u201d, Universit\u00e0 di Padova, Via Marzolo 8, 35131, Padova, Italy"
+        },
+        {
+          "affPubRaw": "Laboratoire Univers et Th\u00e9orie, Observatoire de Paris, Universit\u00e9 PSL, Universit\u00e9 Paris Cit\u00e9, CNRS, 92190, Meudon, France"
+        }
+      ],
+      "attrib": {
+        "collab": true,
+        "orcid": "0000-0002-3579-9583"
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "S.",
+        "surname": "Anselmi"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "SISSA, International School for Advanced Studies, Via Bonomea 265, 34136, Trieste TS, Italy"
+        },
+        {
+          "affPubRaw": "INAF-Osservatorio Astronomico di Trieste, Via G. B. Tiepolo 11, 34143, Trieste, Italy"
+        },
+        {
+          "affPubRaw": "INFN, Sezione di Trieste, Via Valerio 2, 34127, Trieste TS, Italy"
+        },
+        {
+          "affPubRaw": "IFPU, Institute for Fundamental Physics of the Universe, via Beirut 2, 34151, Trieste, Italy"
+        }
+      ],
+      "attrib": {
+        "collab": true,
+        "orcid": "0000-0002-8211-1630"
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "C.",
+        "surname": "Baccigalupi"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Instituto de Astrof\u00edsica de Canarias, Calle V\u00eda L\u00e1ctea s/n, 38204, San Crist\u00f3bal de La Laguna, Tenerife, Spain"
+        },
+        {
+          "affPubRaw": "Departamento de Astrof\u00edsica, Universidad de La Laguna, 38206, La Laguna, Tenerife, Spain"
+        }
+      ],
+      "attrib": {
+        "collab": true,
+        "orcid": "0000-0001-5028-3035"
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "A.",
+        "surname": "Balaguera-Antolinez"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Dipartimento di Fisica e Scienze della Terra, Universit\u00e0 degli Studi di Ferrara, Via Giuseppe Saragat 1, 44122, Ferrara, Italy"
+        },
+        {
+          "affPubRaw": "INAF-Osservatorio di Astrofisica e Scienza dello Spazio di Bologna, Via Piero Gobetti 93/3, 40129, Bologna, Italy"
+        },
+        {
+          "affPubRaw": "Istituto Nazionale di Fisica Nucleare, Sezione di Ferrara, Via Giuseppe Saragat 1, 44122, Ferrara, Italy"
+        }
+      ],
+      "attrib": {
+        "collab": true,
+        "orcid": "0000-0003-4481-3559"
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "M.",
+        "surname": "Ballardini"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Kavli Institute for the Physics and Mathematics of the Universe (WPI), University of Tokyo, Kashiwa, Chiba, 277-8583, Japan"
+        },
+        {
+          "affPubRaw": "Laboratoire Univers et Th\u00e9orie, Observatoire de Paris, Universit\u00e9 PSL, Universit\u00e9 Paris Cit\u00e9, CNRS, 92190, Meudon, France"
+        }
+      ],
+      "attrib": {
+        "collab": true,
+        "orcid": "0000-0002-9622-7167"
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "L.",
+        "surname": "Blot"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Dipartimento di Fisica - Sezione di Astronomia, Universit\u00e0 di Trieste, Via Tiepolo 11, 34131, Trieste, Italy"
+        },
+        {
+          "affPubRaw": "IFPU, Institute for Fundamental Physics of the Universe, via Beirut 2, 34151, Trieste, Italy"
+        },
+        {
+          "affPubRaw": "INAF-Osservatorio Astronomico di Trieste, Via G. B. Tiepolo 11, 34143, Trieste, Italy"
+        },
+        {
+          "affPubRaw": "INFN, Sezione di Trieste, Via Valerio 2, 34127, Trieste TS, Italy"
+        }
+      ],
+      "attrib": {
+        "collab": true,
+        "orcid": "0000-0001-6151-6439"
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "S.",
+        "surname": "Borgani"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Minnesota Institute for Astrophysics, University of Minnesota, 116 Church St SE, Minneapolis, MN, 55455, USA"
+        }
+      ],
+      "attrib": {
+        "collab": true,
+        "orcid": "0000-0002-6503-5218"
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "S.",
+        "surname": "Bruton"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Institut de Recherche en Astrophysique et Plan\u00e9tologie (IRAP), Universit\u00e9 de Toulouse, CNRS, UPS, CNES, 14 Av. Edouard Belin, 31400, Toulouse, France"
+        }
+      ],
+      "attrib": {
+        "collab": true,
+        "orcid": "0000-0001-6679-2600"
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "R.",
+        "surname": "Cabanac"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "INAF-Osservatorio Astronomico di Roma, Via Frascati 33, 00078, Monteporzio Catone, Italy"
+        }
+      ],
+      "attrib": {
+        "collab": true
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "A.",
+        "surname": "Calabro"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "European Space Agency/ESTEC, Keplerlaan 1, 2201 AZ, Noordwijk, The Netherlands"
+        },
+        {
+          "affPubRaw": "Institute Lorentz, Leiden University, Niels Bohrweg 2, 2333 CA, Leiden, The Netherlands"
+        }
+      ],
+      "attrib": {
+        "collab": true,
+        "orcid": "0000-0003-2796-2149"
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "G.",
+        "surname": "Canas-Herrera"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "INAF-Osservatorio di Astrofisica e Scienza dello Spazio di Bologna, Via Piero Gobetti 93/3, 40129, Bologna, Italy"
+        },
+        {
+          "affPubRaw": "Universit\u00e9 C\u00f4te d\u2019Azur, Observatoire de la C\u00f4te d\u2019Azur, CNRS, Laboratoire Lagrange, Bd de l\u2019Observatoire, CS 34229, 06304, Nice cedex 4, France"
+        }
+      ],
+      "attrib": {
+        "collab": true,
+        "orcid": "0000-0002-9200-7167"
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "A.",
+        "surname": "Cappi"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Instituto de Astrof\u00edsica e Ci\u00eancias do Espa\u00e7o, Faculdade de Ci\u00ean- cias, Universidade de Lisboa, Tapada da Ajuda, 1349-018, Lisboa, Portugal"
+        }
+      ],
+      "attrib": {
+        "collab": true
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "C. S.",
+        "surname": "Carvalho"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "INAF-Osservatorio di Astrofisica e Scienza dello Spazio di Bologna, Via Piero Gobetti 93/3, 40129, Bologna, Italy"
+        }
+      ],
+      "attrib": {
+        "collab": true,
+        "orcid": "0000-0001-6831-0687"
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "G.",
+        "surname": "Castignani"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "INAF-Osservatorio Astronomico di Trieste, Via G. B. Tiepolo 11, 34143, Trieste, Italy"
+        },
+        {
+          "affPubRaw": "INFN, Sezione di Trieste, Via Valerio 2, 34127, Trieste TS, Italy"
+        },
+        {
+          "affPubRaw": "IFPU, Institute for Fundamental Physics of the Universe, via Beirut 2, 34151, Trieste, Italy"
+        },
+        {
+          "affPubRaw": "ICSC - Centro Nazionale di Ricerca in High Performance Computing, Big Data e Quantum Computing, Via Magnanelli 2, Bologna, Italy"
+        }
+      ],
+      "attrib": {
+        "collab": true,
+        "orcid": "0000-0002-6292-3228"
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "T.",
+        "surname": "Castro"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Institute for Astronomy, University of Hawaii, 2680 Woodlawn Drive, Honolulu, HI, 96822, USA"
+        }
+      ],
+      "attrib": {
+        "collab": true,
+        "orcid": "0000-0001-6965-7789"
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "K. C.",
+        "surname": "Chambers"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Max Planck Institute for Extraterrestrial Physics, Giessenbachstr. 1, 85748, Garching, Germany"
+        },
+        {
+          "affPubRaw": "Dipartimento di Fisica e Astronomia \u201cAugusto Righi\u201d - Alma Mater Studiorum Universit\u00e0 di Bologna, via Piero Gobetti 93/2, 40129, Bologna, Italy"
+        }
+      ],
+      "attrib": {
+        "collab": true,
+        "orcid": "0000-0002-9843-723X"
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "S.",
+        "surname": "Contarini"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Department of Physics & Astronomy, University of California Irvine, Irvine, CA, 92697, USA"
+        }
+      ],
+      "attrib": {
+        "collab": true,
+        "orcid": "0000-0002-3892-0190"
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "A. R.",
+        "surname": "Cooray"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Department of Astronomy, University of Geneva, ch. d\u2019Ecogia 16, 1290, Versoix, Switzerland"
+        }
+      ],
+      "attrib": {
+        "collab": true
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "J.",
+        "surname": "Coupon"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "INFN-Sezione di Genova, Via Dodecaneso 33, 16146, Genova, Italy"
+        }
+      ],
+      "attrib": {
+        "collab": true,
+        "orcid": "0000-0003-3269-1718"
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "S.",
+        "surname": "Davini"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "INFN-Padova, Via Marzolo 8, 35131, Padova, Italy"
+        },
+        {
+          "affPubRaw": "Dipartimento di Fisica e Astronomia \u201cG. Galilei\u201d, Universit\u00e0 di Padova, Via Marzolo 8, 35131, Padova, Italy"
+        }
+      ],
+      "attrib": {
+        "collab": true
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "B.",
+        "surname": "De Caro"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Aix-Marseille Universit\u00e9, CNRS, CNES, LAM, Marseille, France"
+        }
+      ],
+      "attrib": {
+        "collab": true
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "S.",
+        "surname": "de la Torre"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Department of Astronomy & Physics and Institute for Computational Astrophysics, Saint Mary\u2019s University, 923 Robie Street, Halifax, Nova Scotia, B3H 3C3, Canada"
+        }
+      ],
+      "attrib": {
+        "collab": true
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "G.",
+        "surname": "Desprez"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Departamento F\u00edsica Aplicada, Universidad Polit\u00e9cnica de Cartagena, Campus Muralla del Mar, 30202, Cartagena, Murcia, Spain"
+        }
+      ],
+      "attrib": {
+        "collab": true,
+        "orcid": "0000-0003-0748-4768"
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "A.",
+        "surname": "D\u00edaz-S\u00e1nchez"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Dipartimento di Fisica, Universit\u00e0 di Genova, Via Dodecaneso 33, 16146, Genova, Italy"
+        },
+        {
+          "affPubRaw": "INFN-Sezione di Genova, Via Dodecaneso 33, 16146, Genova, Italy"
+        }
+      ],
+      "attrib": {
+        "collab": true,
+        "orcid": "0000-0003-2863-5895"
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "S.",
+        "surname": "Di Domizio"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Universit\u00e9 Paris-Saclay, CNRS, Institut d\u2019astrophysique spatiale, 91405, Orsay, France"
+        }
+      ],
+      "attrib": {
+        "collab": true,
+        "orcid": "0000-0002-9767-3839"
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "H.",
+        "surname": "Dole"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Aix-Marseille Universit\u00e9, CNRS/IN2P3, CPPM, Marseille, France"
+        }
+      ],
+      "attrib": {
+        "collab": true,
+        "orcid": "0000-0002-2847-7498"
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "S.",
+        "surname": "Escoffier"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Dipartimento di Fisica e Astronomia \u201cAugusto Righi\u201d - Alma Mater Studiorum Universit\u00e0 di Bologna, Viale Berti Pichat 6/2, 40127, Bologna, Italy"
+        },
+        {
+          "affPubRaw": "INFN-Sezione di Bologna, Viale Berti Pichat 6/2, 40127, Bologna, Italy"
+        }
+      ],
+      "attrib": {
+        "collab": true,
+        "orcid": "0009-0005-5266-4110"
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "A. G.",
+        "surname": "Ferrari"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Department of Physics, Oxford University, Keble Road, Oxford, OX1 3RH, UK"
+        }
+      ],
+      "attrib": {
+        "collab": true,
+        "orcid": "0000-0002-3021-2851"
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "P. G.",
+        "surname": "Ferreira"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Institute of Theoretical Astrophysics, University of Oslo, PO Box 1029, Blindern, 0315, Oslo, Norway"
+        }
+      ],
+      "attrib": {
+        "collab": true,
+        "orcid": "0000-0002-1295-1132"
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "I.",
+        "surname": "Ferrero"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "INAF-Osservatorio di Astrofisica e Scienza dello Spazio di Bologna, Via Piero Gobetti 93/3, 40129, Bologna, Italy"
+        },
+        {
+          "affPubRaw": "INFN-Bologna, Via Irnerio 46, 40126, Bologna, Italy"
+        }
+      ],
+      "attrib": {
+        "collab": true,
+        "orcid": "0000-0002-6694-3269"
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "F.",
+        "surname": "Finelli"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Department of Physics, Oxford University, Keble Road, Oxford, OX1 3RH, UK"
+        }
+      ],
+      "attrib": {
+        "collab": true,
+        "orcid": "0000-0002-8486-8856"
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "L.",
+        "surname": "Gabarra"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Universit\u00e9 Paris Cit\u00e9, CNRS, Astroparticule et Cosmologie, 75013, Paris, France"
+        }
+      ],
+      "attrib": {
+        "collab": true,
+        "orcid": "0000-0001-8159-8208"
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "K.",
+        "surname": "Ganga"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Instituto de F\u00edsica Te\u00f3rica UAM-CSIC, Campus de Cantoblanco, 28049, Madrid, Spain"
+        }
+      ],
+      "attrib": {
+        "collab": true,
+        "orcid": "0000-0002-9370-8360"
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "J.",
+        "surname": "Garc\u00eda-Bellido"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Institute of Space Sciences (ICE, CSIC), Campus UAB, Carrer de Can Magrans, s/n, 08193, Barcelona, Spain"
+        },
+        {
+          "affPubRaw": "Institut d\u2019Estudis Espacials de Catalunya (IEEC), Edifici RDIT, Campus UPC, 08860, Castelldefels, Barcelona, Spain"
+        },
+        {
+          "affPubRaw": "Institute of Cosmology and Gravitation, University of Portsmouth, Portsmouth, PO1 3FX, UK"
+        }
+      ],
+      "attrib": {
+        "collab": true,
+        "orcid": "0000-0001-9632-0815"
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "E.",
+        "surname": "Gaztanaga"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "INFN-Sezione di Bologna, Viale Berti Pichat 6/2, 40127, Bologna, Italy"
+        }
+      ],
+      "attrib": {
+        "collab": true,
+        "orcid": "0000-0002-3129-2814"
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "F.",
+        "surname": "Giacomini"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Department of Computer Science, Aalto University, PO Box 15400, Espoo, 00 076, Finland"
+        },
+        {
+          "affPubRaw": "Department of Physics, P.O. Box 64, 00014, University of Helsinki, Finland"
+        }
+      ],
+      "attrib": {
+        "collab": true,
+        "orcid": "0000-0002-0236-919X"
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "G.",
+        "surname": "Gozaliasl"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Ruhr University Bochum, Faculty of Physics and Astronomy, Astronomical Institute (AIRUB), German Centre for Cosmological Lensing (GCCL), 44780, Bochum, Germany"
+        }
+      ],
+      "attrib": {
+        "collab": true,
+        "orcid": "0000-0002-9814-3338"
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "H.",
+        "surname": "Hildebrandt"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Univ. Grenoble Alpes, CNRS, Grenoble INP, LPSC-IN2P3, 53 Avenue des Martyrs, 38000, Grenoble, France"
+        }
+      ],
+      "attrib": {
+        "collab": true,
+        "orcid": "0009-0004-5252-185X"
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "A.",
+        "surname": "Jimenez Munoz"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Department of Physics and Astronomy, Vesilinnantie 5, 20014 University of Turku, Finland"
+        },
+        {
+          "affPubRaw": "Serco for European Space Agency (ESA), Camino bajo del Castillo, s/n, Urbanizacion Villafranca del Castillo, Villanueva de la Ca\u00f1ada, 28692, Madrid, Spain"
+        }
+      ],
+      "attrib": {
+        "collab": true,
+        "orcid": "0000-0002-3010-8333"
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "J. J. E.",
+        "surname": "Kajava"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "ARC Centre of Excellence for Dark Matter Particle Physics, Melbourne, Australia"
+        },
+        {
+          "affPubRaw": "Centre for Astrophysics & Supercomputing, Swinburne University of Technology, Victoria, 3122, Australia"
+        }
+      ],
+      "attrib": {
+        "collab": true,
+        "orcid": "0000-0002-4008-6078"
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "V.",
+        "surname": "Kansal"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "School of Physics and Astronomy, Queen Mary University of London, Mile End Road, London, E1 4NS, UK"
+        },
+        {
+          "affPubRaw": "Department of Physics and Astronomy, University of the Western Cape, Bellville, Cape Town, 7535, South Africa"
+        }
+      ],
+      "attrib": {
+        "collab": true,
+        "orcid": "0000-0002-4927-0816"
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "D.",
+        "surname": "Karagiannis"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Department of Physics and Helsinki Institute of Physics, Gustaf H\u00e4llstr\u00f6min katu 2, 00014 University of Helsinki, Finland"
+        }
+      ],
+      "attrib": {
+        "collab": true
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "C. C.",
+        "surname": "Kirkpatrick"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "ICTP South American Institute for Fundamental Research, Instituto de F\u00edsica Te\u00f3rica, Universidade Estadual Paulista, S\u00e3o Paulo, Brazil"
+        }
+      ],
+      "attrib": {
+        "collab": true,
+        "orcid": "0000-0003-0610-5252"
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "L.",
+        "surname": "Legrand"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Centre National d\u2019Etudes Spatiales \u2013 Centre spatial de Toulouse, 18 avenue Edouard Belin, 31401, Toulouse Cedex 9, France"
+        }
+      ],
+      "attrib": {
+        "collab": true
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "G.",
+        "surname": "Libet"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Oskar Klein Centre for Cosmoparticle Physics, Department of Physics, Stockholm University, Stockholm, 106 91, Sweden"
+        },
+        {
+          "affPubRaw": "Astrophysics Group, Blackett Laboratory, Imperial College London, London, SW7 2AZ, UK"
+        }
+      ],
+      "attrib": {
+        "collab": true,
+        "orcid": "0000-0002-4371-0876"
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "A.",
+        "surname": "Loureiro"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Univ. Grenoble Alpes, CNRS, Grenoble INP, LPSC-IN2P3, 53 Avenue des Martyrs, 38000, Grenoble, France"
+        }
+      ],
+      "attrib": {
+        "collab": true,
+        "orcid": "0000-0002-5385-2763"
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "J.",
+        "surname": "Macias-Perez"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "INAF-Osservatorio Astronomico di Trieste, Via G. B. Tiepolo 11, 34143, Trieste, Italy"
+        }
+      ],
+      "attrib": {
+        "collab": true,
+        "orcid": "0000-0003-4020-4836"
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "G.",
+        "surname": "Maggio"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "INAF-Istituto di Astrofisica e Planetologia Spaziali, via del Fosso del Cavaliere, 100, 00100, Roma, Italy"
+        }
+      ],
+      "attrib": {
+        "collab": true,
+        "orcid": "0000-0001-9158-4838"
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "M.",
+        "surname": "Magliocchetti"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "INAF-Osservatorio Astrofisico di Arcetri, Largo E. Fermi 5, 50125, Firenze, Italy"
+        }
+      ],
+      "attrib": {
+        "collab": true,
+        "orcid": "0000-0002-4803-2381"
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "F.",
+        "surname": "Mannucci"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Dipartimento di Fisica, Sapienza Universit\u00e0 di Roma, Piazzale Aldo Moro 2, 00185, Roma, Italy"
+        },
+        {
+          "affPubRaw": "INAF-Osservatorio Astronomico di Roma, Via Frascati 33, 00078, Monteporzio Catone, Italy"
+        }
+      ],
+      "attrib": {
+        "collab": true,
+        "orcid": "0000-0002-6065-3025"
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "R.",
+        "surname": "Maoli"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Centro de Astrof\u00edsica da Universidade do Porto, Rua das Estrelas, 4150-762, Porto, Portugal"
+        },
+        {
+          "affPubRaw": "Instituto de Astrof\u00edsica e Ci\u00eancias do Espa\u00e7o, Universidade do Porto, CAUP, Rua das Estrelas, PT4150-762, Porto, Portugal"
+        }
+      ],
+      "attrib": {
+        "collab": true,
+        "orcid": "0000-0002-4886-9261"
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "C. J. A. P.",
+        "surname": "Martins"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Institute for Astronomy, University of Edinburgh, Royal Observatory, Blackford Hill, Edinburgh, EH9 3HJ, UK"
+        }
+      ],
+      "attrib": {
+        "collab": true
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "S.",
+        "surname": "Matthew"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Universit\u00e9 Paris-Saclay, CNRS, Institut d\u2019astrophysique spatiale, 91405, Orsay, France"
+        }
+      ],
+      "attrib": {
+        "collab": true,
+        "orcid": "0000-0002-8406-0857"
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "L.",
+        "surname": "Maurin"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Dipartimento di Fisica e Astronomia \u201cAugusto Righi\u201d - Alma Mater Studiorum Universit\u00e0 di Bologna, via Piero Gobetti 93/2, 40129, Bologna, Italy"
+        },
+        {
+          "affPubRaw": "INAF-Osservatorio di Astrofisica e Scienza dello Spazio di Bologna, Via Piero Gobetti 93/3, 40129, Bologna, Italy"
+        }
+      ],
+      "attrib": {
+        "collab": true,
+        "orcid": "0000-0003-3167-2574"
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "R. B.",
+        "surname": "Metcalf"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Dipartimento di Fisica, Universit\u00e0 di Roma Tor Vergata, Via della Ricerca Scientifica 1, Roma, Italy"
+        },
+        {
+          "affPubRaw": "INFN, Sezione di Roma 2, Via della Ricerca Scientifica 1, Roma, Italy"
+        }
+      ],
+      "attrib": {
+        "collab": true
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "M.",
+        "surname": "Migliaccio"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Dipartimento di Fisica - Sezione di Astronomia, Universit\u00e0 di Trieste, Via Tiepolo 11, 34131, Trieste, Italy"
+        },
+        {
+          "affPubRaw": "INAF-Osservatorio Astronomico di Trieste, Via G. B. Tiepolo 11, 34143, Trieste, Italy"
+        },
+        {
+          "affPubRaw": "INFN, Sezione di Trieste, Via Valerio 2, 34127, Trieste TS, Italy"
+        },
+        {
+          "affPubRaw": "IFPU, Institute for Fundamental Physics of the Universe, via Beirut 2, 34151, Trieste, Italy"
+        }
+      ],
+      "attrib": {
+        "collab": true,
+        "orcid": "0000-0003-2083-7564"
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "P.",
+        "surname": "Monaco"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "SISSA, International School for Advanced Studies, Via Bonomea 265, 34136, Trieste TS, Italy"
+        },
+        {
+          "affPubRaw": "ICSC - Centro Nazionale di Ricerca in High Performance Computing, Big Data e Quantum Computing, Via Magnanelli 2, Bologna, Italy"
+        },
+        {
+          "affPubRaw": "INAF-Osservatorio Astronomico di Trieste, Via G. B. Tiepolo 11, 34143, Trieste, Italy"
+        },
+        {
+          "affPubRaw": "IFPU, Institute for Fundamental Physics of the Universe, via Beirut 2, 34151, Trieste, Italy"
+        },
+        {
+          "affPubRaw": "INFN, Sezione di Trieste, Via Valerio 2, 34127, Trieste TS, Italy"
+        }
+      ],
+      "attrib": {
+        "collab": true,
+        "orcid": "0000-0003-3314-8936"
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "C.",
+        "surname": "Moretti"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "INAF-Osservatorio di Astrofisica e Scienza dello Spazio di Bologna, Via Piero Gobetti 93/3, 40129, Bologna, Italy"
+        }
+      ],
+      "attrib": {
+        "collab": true
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "G.",
+        "surname": "Morgante"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Institute of Cosmology and Gravitation, University of Portsmouth, Portsmouth, PO1 3FX, UK"
+        }
+      ],
+      "attrib": {
+        "collab": true,
+        "orcid": "0000-0001-9070-3102"
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "S.",
+        "surname": "Nadathur"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Institute of Astronomy, University of Cambridge, Madingley Road, Cambridge, CB3 0HA, UK"
+        }
+      ],
+      "attrib": {
+        "collab": true,
+        "orcid": "0000-0003-3983-8778"
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "N. A.",
+        "surname": "Walton"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "INFN-Sezione di Bologna, Viale Berti Pichat 6/2, 40127, Bologna, Italy"
+        }
+      ],
+      "attrib": {
+        "collab": true,
+        "orcid": "0000-0002-9712-977X"
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "L.",
+        "surname": "Patrizii"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Max Planck Institute for Extraterrestrial Physics, Giessenbachstr. 1, 85748, Garching, Germany"
+        }
+      ],
+      "attrib": {
+        "collab": true,
+        "orcid": "0000-0003-0726-2268"
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "A.",
+        "surname": "Pezzotta"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Department of Physics, P.O. Box 64, 00014, University of Helsinki, Finland"
+        }
+      ],
+      "attrib": {
+        "collab": true,
+        "orcid": "0000-0001-5442-2530"
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "M.",
+        "surname": "P\u00f6ntinen"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Institute of Space Science, Str. Atomistilor, nr. 409 M\u0103gurele, Ilfov, 077125, Romania"
+        }
+      ],
+      "attrib": {
+        "collab": true
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "V.",
+        "surname": "Popa"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Universit\u00e4t Bonn, Argelander-Institut f\u00fcr Astronomie, Auf dem H\u00fcgel 71, 53121, Bonn, Germany"
+        }
+      ],
+      "attrib": {
+        "collab": true,
+        "orcid": "0000-0002-7797-2508"
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "C.",
+        "surname": "Porciani"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Department of Astrophysics, University of Zurich, Winterthur-erstrasse 190, 8057, Zurich, Switzerland"
+        }
+      ],
+      "attrib": {
+        "collab": true,
+        "orcid": "0000-0002-0757-5195"
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "D.",
+        "surname": "Potter"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Dipartimento di Fisica, Universit\u00e0 degli studi di Genova, and INFN-Sezione di Genova, via Dodecaneso 33, 16146, Genova, Italy"
+        }
+      ],
+      "attrib": {
+        "collab": true,
+        "orcid": "0000-0003-2525-7761"
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "I.",
+        "surname": "Risso"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Universit\u00e9 Paris-Saclay, CNRS, Institut d\u2019astrophysique spatiale, 91405, Orsay, France"
+        }
+      ],
+      "attrib": {
+        "collab": true,
+        "orcid": "0000-0001-8106-2702"
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "P.-F.",
+        "surname": "Rocci"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Theoretical astrophysics, Department of Physics and Astronomy, Uppsala University, Box 515, 751 20, Uppsala, Sweden"
+        }
+      ],
+      "attrib": {
+        "collab": true,
+        "orcid": "0000-0003-0973-4804"
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "M.",
+        "surname": "Sahl\u00e9n"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Max Planck Institute for Extraterrestrial Physics, Giessenbachstr. 1, 85748, Garching, Germany"
+        }
+      ],
+      "attrib": {
+        "collab": true,
+        "orcid": "0000-0003-1198-831X"
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "A. G.",
+        "surname": "S\u00e1nchez"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Institute for Astronomy, University of Edinburgh, Royal Observatory, Blackford Hill, Edinburgh, EH9 3HJ, UK"
+        }
+      ],
+      "attrib": {
+        "collab": true
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "J. A.",
+        "surname": "Schewtschenko"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Department of Astrophysics, University of Zurich, Winterthur-erstrasse 190, 8057, Zurich, Switzerland"
+        }
+      ],
+      "attrib": {
+        "collab": true,
+        "orcid": "0000-0001-7055-8104"
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "A.",
+        "surname": "Schneider"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "INAF-Osservatorio Astronomico di Trieste, Via G. B. Tiepolo 11, 34143, Trieste, Italy"
+        },
+        {
+          "affPubRaw": "IFPU, Institute for Fundamental Physics of the Universe, via Beirut 2, 34151, Trieste, Italy"
+        },
+        {
+          "affPubRaw": "INFN, Sezione di Trieste, Via Valerio 2, 34127, Trieste TS, Italy"
+        }
+      ],
+      "attrib": {
+        "collab": true,
+        "orcid": "0000-0003-0473-1567"
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "E.",
+        "surname": "Sefusatti"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "INAF-Osservatorio di Astrofisica e Scienza dello Spazio di Bologna, Via Piero Gobetti 93/3, 40129, Bologna, Italy"
+        },
+        {
+          "affPubRaw": "INFN-Sezione di Bologna, Viale Berti Pichat 6/2, 40127, Bologna, Italy"
+        }
+      ],
+      "attrib": {
+        "collab": true,
+        "orcid": "0000-0003-0302-0325"
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "M.",
+        "surname": "Sereno"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Max Planck Institute for Extraterrestrial Physics, Giessenbachstr. 1, 85748, Garching, Germany"
+        }
+      ],
+      "attrib": {
+        "collab": true,
+        "orcid": "0000-0001-7443-1047"
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "J.",
+        "surname": "Steinwagner"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Department of Physics and Astronomy, University College London, Gower Street, London, WC1E 6BT, UK"
+        }
+      ],
+      "attrib": {
+        "collab": true,
+        "orcid": "0000-0002-9696-7931"
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "N.",
+        "surname": "Tessore"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "INFN-Sezione di Genova, Via Dodecaneso 33, 16146, Genova, Italy"
+        }
+      ],
+      "attrib": {
+        "collab": true
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "G.",
+        "surname": "Testera"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Department of Astrophysical Sciences, Peyton Hall, Princeton University, Princeton, NJ, 08544, USA"
+        }
+      ],
+      "attrib": {
+        "collab": true,
+        "orcid": "0000-0001-7689-0933"
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "R.",
+        "surname": "Teyssier"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Cosmic Dawn Center (DAWN), Denmark"
+        },
+        {
+          "affPubRaw": "Niels Bohr Institute, University of Copenhagen, Jagtvej 128, 2200, Copenhagen, Denmark"
+        }
+      ],
+      "attrib": {
+        "collab": true,
+        "orcid": "0000-0003-3631-7176"
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "S.",
+        "surname": "Toft"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Dipartimento di Fisica, Universit\u00e0 di Genova, Via Dodecaneso 33, 16146, Genova, Italy"
+        },
+        {
+          "affPubRaw": "INAF-Osservatorio Astronomico di Brera, Via Brera 28, 20122, Milano, Italy"
+        },
+        {
+          "affPubRaw": "INFN-Sezione di Genova, Via Dodecaneso 33, 16146, Genova, Italy"
+        }
+      ],
+      "attrib": {
+        "collab": true,
+        "orcid": "0000-0002-7275-9193"
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "S.",
+        "surname": "Tosi"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Dipartimento di Fisica e Astronomia \u201cG. Galilei\u201d, Universit\u00e0 di Padova, Via Marzolo 8, 35131, Padova, Italy"
+        },
+        {
+          "affPubRaw": "INFN-Padova, Via Marzolo 8, 35131, Padova, Italy"
+        }
+      ],
+      "attrib": {
+        "collab": true,
+        "orcid": "0000-0003-0239-4595"
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "A.",
+        "surname": "Troja"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Department of Astronomy, University of Geneva, ch. d\u2019Ecogia 16, 1290, Versoix, Switzerland"
+        }
+      ],
+      "attrib": {
+        "collab": true
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "M.",
+        "surname": "Tucci"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Department of Physics, P.O. Box 64, 00014, University of Helsinki, Finland"
+        },
+        {
+          "affPubRaw": "Helsinki Institute of Physics, Gustaf H\u00e4llstr\u00f6min katu 2, University of Helsinki, Helsinki, Finland"
+        }
+      ],
+      "attrib": {
+        "collab": true,
+        "orcid": "0000-0001-6225-3693"
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "J.",
+        "surname": "Valiviita"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "INAF-Osservatorio di Astrofisica e Scienza dello Spazio di Bologna, Via Piero Gobetti 93/3, 40129, Bologna, Italy"
+        }
+      ],
+      "attrib": {
+        "collab": true,
+        "orcid": "0000-0003-0898-2216"
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "D.",
+        "surname": "Vergani"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Center for Cosmology and Particle Physics, Department of Physics, New York University, New York, NY, 10003, USA"
+        },
+        {
+          "affPubRaw": "Center for Computational Astrophysics, Flatiron Institute, 162 5th Avenue, 10010, New York, NY, USA"
+        }
+      ],
+      "attrib": {
+        "collab": true,
+        "orcid": "0000-0002-1886-8348"
+      },
+      "name": {
+        "collab": "Euclid Collaboration",
+        "given_name": "G.",
+        "surname": "Verza"
+      }
+    }
+  ],
+  "copyright": {
+    "statement": "\u00a9 The Authors 2024",
+    "status": true
+  },
+  "editorialHistory": {
+    "acceptedDate": "2024-07-08",
+    "receivedDates": [
+      "2024-04-14"
+    ]
+  },
+  "esources": [
+    {
+      "location": "https://www.aanda.org/articles/aa/full_html/2024/10/aa50368-24/aa50368-24.html",
+      "source": "pub_html"
+    },
+    {
+      "location": "https://www.aanda.org/articles/aa/pdf/2024/10/aa50368-24.pdf",
+      "source": "pub_pdf"
+    }
+  ],
+  "keywords": [
+    {
+      "keyString": "cosmological parameters",
+      "keySystem": "misc"
+    },
+    {
+      "keyString": "dark energy",
+      "keySystem": "misc"
+    },
+    {
+      "keyString": "large-scale structure of Universe",
+      "keySystem": "misc"
+    }
+  ],
+  "openAccess": {
+    "license": "Open Access article, published by EDP Sciences, under the terms of the Creative Commons Attribution License ( https://creativecommons.org/licenses/by/4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.",
+    "licenseURL": "https://www.edpsciences.org/en/",
+    "open": true
+  },
+  "pagination": {
+    "electronicID": "A30",
+    "pageCount": "16"
+  },
+  "persistentIDs": [
+    {
+      "DOI": "10.1051/0004-6361/202450368"
+    }
+  ],
+  "pubDate": {
+    "electrDate": "2024-09-30",
+    "printDate": "2024-10-00"
+  },
+  "publication": {
+    "ISSN": [
+      {
+        "issnString": "0004-6361",
+        "pubtype": "ppub"
+      },
+      {
+        "issnString": "1432-0746",
+        "pubtype": "epub"
+      }
+    ],
+    "pubName": "Astronomy & Astrophysics",
+    "pubYear": "2024",
+    "publisher": "EDP Sciences",
+    "volumeNum": "690"
+  },
+  "publisherIDs": [
+    {
+      "Identifier": "aa50368-24",
+      "attribute": "publisher-id"
+    },
+    {
+      "Identifier": "2024A%26A...690A..30E",
+      "attribute": "other"
+    }
+  ],
+  "recordData": {
+    "createdTime": "",
+    "loadFormat": "JATS",
+    "loadLocation": "",
+    "loadType": "fromFile",
+    "parsedTime": "",
+    "recordOrigin": ""
+  },
+  "references": [
+    "<ref id=\"R1\"> <mixed-citation publication-type=\"journal\"> <string-name> <surname>Abbott</surname>, \t\t\t\t\t\t<given-names>T. M. C.</given-names> </string-name>, \t\t\t\t\t<string-name> <surname>Aguena</surname>, \t\t\t\t\t\t<given-names>M.</given-names> </string-name>, \t\t\t\t\t<string-name> <surname>Alarcon</surname>, \t\t\t\t\t\t<given-names>A.</given-names> </string-name>, et al. \t\t\t\t\t<year>2022</year>, \t\t\t\t\t<source>Phys. Rev. D</source>, \t\t\t\t\t<volume>105</volume>, \t\t\t\t\t<fpage>023520</fpage> </mixed-citation> </ref>",
+    "<ref id=\"R2\"> <mixed-citation publication-type=\"journal\"> <string-name> <surname>Abramo</surname>, \t\t\t\t\t\t<given-names>L. R.</given-names> </string-name>, \t\t\t\t\t<string-name> <surname>Dinarte Ferri</surname>, \t\t\t\t\t\t<given-names>J. V.</given-names> </string-name>, \t\t\t\t\t<string-name> <surname>Tashiro</surname>, \t\t\t\t\t\t<given-names>I. L.</given-names> </string-name>, &amp; \t\t\t\t\t<string-name> <surname>Loureiro</surname>, \t\t\t\t\t\t<given-names>A.</given-names> </string-name> <year>2022</year>, \t\t\t\t\t<source>J. Cosmology Astropart. Phys.</source>, \t\t\t\t\t<volume>8</volume>, \t\t\t\t\t<fpage>073</fpage> </mixed-citation> </ref>",
+    "<ref id=\"R3\"> <mixed-citation publication-type=\"web\"> <string-name> <surname>Albrecht</surname>, \t\t\t\t\t\t<given-names>A.</given-names> </string-name>, \t\t\t\t\t<string-name> <surname>Bernstein</surname>, \t\t\t\t\t\t<given-names>G.</given-names> </string-name>, \t\t\t\t\t<string-name> <surname>Cahn</surname>, \t\t\t\t\t\t<given-names>R.</given-names> </string-name>, et al. \t\t\t\t\t<year>2006</year>, \t\t\t\t\t<source>arXiv e-prints</source> [ \t\t\t\t\t<ext-link ext-link-type=\"uri\" xlink:href=\"https://arxiv.org/abs/astro-ph/0609591\">arXiv:astro-ph/0609591</ext-link>] \t\t\t\t</mixed-citation> </ref>",
+    "<ref id=\"R4\"> <mixed-citation publication-type=\"journal\"> <string-name> <surname>Alcock</surname>, \t\t\t\t\t\t<given-names>C.</given-names> </string-name>, &amp; \t\t\t\t\t<string-name> <surname>Paczynski</surname>, \t\t\t\t\t\t<given-names>B.</given-names> </string-name> <year>1979</year>, \t\t\t\t\t<source>Nature</source>, \t\t\t\t\t<volume>281</volume>, \t\t\t\t\t<fpage>358</fpage> </mixed-citation> </ref>",
+    "<ref id=\"R5\"> <mixed-citation publication-type=\"journal\"> <string-name> <surname>Alimi</surname>, \t\t\t\t\t\t<given-names>J. M.</given-names> </string-name>, \t\t\t\t\t<string-name> <surname>Valls-Gabaud</surname>, \t\t\t\t\t\t<given-names>D.</given-names> </string-name>, &amp; \t\t\t\t\t<string-name> <surname>Blanchard</surname>, \t\t\t\t\t\t<given-names>A.</given-names> </string-name> <year>1988</year>, \t\t\t\t\t<source>A&amp;A</source>, \t\t\t\t\t<volume>206</volume>, \t\t\t\t\t<fpage>L11</fpage> </mixed-citation> </ref>",
+    "<ref id=\"R6\"> <mixed-citation publication-type=\"journal\"> <string-name> <surname>Amendola</surname>, \t\t\t\t\t\t<given-names>L.</given-names> </string-name>, \t\t\t\t\t<string-name> <surname>Appleby</surname>, \t\t\t\t\t\t<given-names>S.</given-names> </string-name>, \t\t\t\t\t<string-name> <surname>Avgoustidis</surname>, \t\t\t\t\t\t<given-names>A.</given-names> </string-name>, et al. \t\t\t\t\t<year>2018</year>, \t\t\t\t\t<source>Liv. Rev. Relativ.</source>, \t\t\t\t\t<volume>21</volume>, \t\t\t\t\t<fpage>2</fpage> </mixed-citation> </ref>",
+    "<ref id=\"R7\"> <mixed-citation publication-type=\"journal\"> <string-name> <surname>Aubourg</surname>, \t\t\t\t\t\t<given-names>\u00c9.</given-names> </string-name>, \t\t\t\t\t<string-name> <surname>Bailey</surname>, \t\t\t\t\t\t<given-names>S.</given-names> </string-name>, \t\t\t\t\t<string-name> <surname>Bautista</surname>, \t\t\t\t\t\t<given-names>J. E.</given-names> </string-name>, et al. \t\t\t\t\t<year>2015</year>, \t\t\t\t\t<source>Phys. Rev. D</source>, \t\t\t\t\t<volume>92</volume>, \t\t\t\t\t<fpage>123516</fpage> </mixed-citation> </ref>",
+    "<ref id=\"R8\"> <mixed-citation publication-type=\"journal\"> <string-name> <surname>Blanchard</surname>, \t\t\t\t\t\t<given-names>A.</given-names> </string-name> <year>2022</year>, \t\t\t\t\t<source>Universe</source>, \t\t\t\t\t<volume>8</volume>, \t\t\t\t\t<fpage>479</fpage> </mixed-citation> </ref>",
+    "<ref id=\"R9\"> <mixed-citation publication-type=\"journal\"> <string-name> <surname>Chevallier</surname>, \t\t\t\t\t\t<given-names>M.</given-names> </string-name>, &amp; \t\t\t\t\t<string-name> <surname>Polarski</surname>, \t\t\t\t\t\t<given-names>D.</given-names> </string-name> <year>2001</year>, \t\t\t\t\t<source>Int. J. Mod. Phys.</source>, \t\t\t\t\t<volume>D10</volume>, \t\t\t\t\t<fpage>213</fpage> </mixed-citation> </ref>",
+    "<ref id=\"R10\"> <mixed-citation publication-type=\"journal\"> <string-name> <surname>Cropper</surname>, \t\t\t\t\t\t<given-names>M.</given-names> </string-name>, \t\t\t\t\t<string-name> <surname>Pottinger</surname>, \t\t\t\t\t\t<given-names>S.</given-names> </string-name>, \t\t\t\t\t<string-name> <surname>Azzollini</surname>, \t\t\t\t\t\t<given-names>R.</given-names> </string-name>, et al. \t\t\t\t\t<year>2018</year>, \t\t\t\t\t<source>SPIE</source>, \t\t\t\t\t<volume>10698</volume>, \t\t\t\t\t<fpage>709</fpage> </mixed-citation> </ref>",
+    "<ref id=\"R11\"> <mixed-citation publication-type=\"journal\"> <string-name> <surname>Eisenstein</surname>, \t\t\t\t\t\t<given-names>D. J.</given-names> </string-name>, \t\t\t\t\t<string-name> <surname>Zehavi</surname>, \t\t\t\t\t\t<given-names>I.</given-names> </string-name>, \t\t\t\t\t<string-name> <surname>Hogg</surname>, \t\t\t\t\t\t<given-names>D. W.</given-names> </string-name>, et al. \t\t\t\t\t<year>2005</year>, \t\t\t\t\t<source>ApJ</source>, \t\t\t\t\t<volume>633</volume>, \t\t\t\t\t<fpage>560</fpage> </mixed-citation> </ref>",
+    "<ref id=\"R12\"> <mixed-citation publication-type=\"journal\"> <collab>Euclid Collaboration</collab> ( \t\t\t\t\t<string-name> <surname>Blanchard</surname>, \t\t\t\t\t\t<given-names>A.</given-names> </string-name>, et al.) \t\t\t\t\t<year>2020</year>, \t\t\t\t\t<source>A&amp;A</source>, \t\t\t\t\t<volume>642</volume>, \t\t\t\t\t<fpage>A191</fpage> </mixed-citation> </ref>",
+    "<ref id=\"R13\"> <mixed-citation publication-type=\"web\"> <collab>Euclid Collaboration</collab> ( \t\t\t\t\t<string-name> <surname>Cropper</surname>, \t\t\t\t\t\t<given-names>M.</given-names> </string-name>, et al.) \t\t\t\t\t<year>2024</year>a, \t\t\t\t\t<source>A&amp;A</source>, submitted [ \t\t\t\t\t<ext-link ext-link-type=\"uri\" xlink:href=\"https://arxiv.org/abs/2405.13492\">arXiv:2405.13492</ext-link>] \t\t\t\t</mixed-citation> </ref>",
+    "<ref id=\"R14\"> <mixed-citation publication-type=\"web\"> <collab>Euclid Collaboration</collab> ( \t\t\t\t\t<string-name> <surname>Jahnke</surname>, \t\t\t\t\t\t<given-names>K.</given-names> </string-name>, et al.) \t\t\t\t\t<year>2024</year>b, \t\t\t\t\t<source>A&amp;A</source>, in press, \t\t\t\t\t<ext-link ext-link-type=\"uri\" xlink:href=\"https://doi.org/10.1051/0004-6361/202450786\">https://doi.org/10.1051/0004-6361/202450786</ext-link> </mixed-citation> </ref>",
+    "<ref id=\"R15\"> <mixed-citation publication-type=\"web\"> <collab>Euclid Collaboration</collab> ( \t\t\t\t\t<string-name> <surname>Mellier</surname>, \t\t\t\t\t\t<given-names>Y.</given-names> </string-name>, et al.) \t\t\t\t\t<year>2024</year>c, \t\t\t\t\t<source>A&amp;A</source>, in press, \t\t\t\t\t<ext-link ext-link-type=\"uri\" xlink:href=\"https://doi.org/10.1051/0004-6361/202450010\">https://doi.org/10.1051/0004-6361/202450010</ext-link> </mixed-citation> </ref>",
+    "<ref id=\"R16\"> <mixed-citation publication-type=\"journal\"> <string-name> <surname>Hamaus</surname>, \t\t\t\t\t\t<given-names>N.</given-names> </string-name>, \t\t\t\t\t<string-name> <surname>Seljak</surname>, \t\t\t\t\t\t<given-names>U.</given-names> </string-name>, \t\t\t\t\t<string-name> <surname>Desjacques</surname>, \t\t\t\t\t\t<given-names>V.</given-names> </string-name>, \t\t\t\t\t<string-name> <surname>Smith</surname>, \t\t\t\t\t\t<given-names>R. E.</given-names> </string-name>, &amp; \t\t\t\t\t<string-name> <surname>Baldauf</surname>, \t\t\t\t\t\t<given-names>T.</given-names> </string-name> <year>2010</year>, \t\t\t\t\t<source>Phys. Rev. D</source>, \t\t\t\t\t<volume>82</volume>, \t\t\t\t\t<fpage>043515</fpage> </mixed-citation> </ref>",
+    "<ref id=\"R17\"> <mixed-citation publication-type=\"journal\"> <string-name> <surname>Heymans</surname>, \t\t\t\t\t\t<given-names>C.</given-names> </string-name>, \t\t\t\t\t<string-name> <surname>Tr\u00f6ster</surname>, \t\t\t\t\t\t<given-names>T.</given-names> </string-name>, \t\t\t\t\t<string-name> <surname>Asgari</surname>, \t\t\t\t\t\t<given-names>M.</given-names> </string-name>, et al. \t\t\t\t\t<year>2021</year>, \t\t\t\t\t<source>A&amp;A</source>, \t\t\t\t\t<volume>646</volume>, \t\t\t\t\t<fpage>A140</fpage> </mixed-citation> </ref>",
+    "<ref id=\"R18\"> <mixed-citation publication-type=\"journal\"> <string-name> <surname>Hu</surname>, \t\t\t\t\t\t<given-names>W.</given-names> </string-name>, &amp; \t\t\t\t\t<string-name> <surname>Sawicki</surname>, \t\t\t\t\t\t<given-names>I.</given-names> </string-name> <year>2007</year>, \t\t\t\t\t<source>Phys. Rev. D</source>, \t\t\t\t\t<volume>76</volume>, \t\t\t\t\t<fpage>104043</fpage> </mixed-citation> </ref>",
+    "<ref id=\"R19\"> <mixed-citation publication-type=\"journal\"> <string-name> <surname>Kilbinger</surname>, \t\t\t\t\t\t<given-names>M.</given-names> </string-name> <year>2015</year>, \t\t\t\t\t<source>Rep. Prog. Phys.</source>, \t\t\t\t\t<volume>78</volume>, \t\t\t\t\t<fpage>086901</fpage> </mixed-citation> </ref>",
+    "<ref id=\"R20\"> <mixed-citation publication-type=\"journal\"> <string-name> <surname>Lahav</surname>, \t\t\t\t\t\t<given-names>O.</given-names> </string-name>, \t\t\t\t\t<string-name> <surname>Lilje</surname>, \t\t\t\t\t\t<given-names>P. ?.</given-names> </string-name>, \t\t\t\t\t<string-name> <surname>Primack</surname>, \t\t\t\t\t\t<given-names>J. R.</given-names> </string-name>, &amp; \t\t\t\t\t<string-name> <surname>Rees</surname>, \t\t\t\t\t\t<given-names>M. J.</given-names> </string-name> <year>1991</year>, \t\t\t\t\t<source>MNRAS</source>, \t\t\t\t\t<volume>251</volume>, \t\t\t\t\t<fpage>128</fpage> </mixed-citation> </ref>",
+    "<ref id=\"R21\"> <mixed-citation publication-type=\"web\"> <string-name> <surname>Laureijs</surname>, \t\t\t\t\t\t<given-names>R.</given-names> </string-name>, \t\t\t\t\t<string-name> <surname>Amiaux</surname>, \t\t\t\t\t\t<given-names>J.</given-names> </string-name>, \t\t\t\t\t<string-name> <surname>Arduini</surname>, \t\t\t\t\t\t<given-names>S.</given-names> </string-name>, et al. \t\t\t\t\t<year>2011</year>, \t\t\t\t\t<source>arXiv e-prints</source> [ \t\t\t\t\t<ext-link ext-link-type=\"uri\" xlink:href=\"https://arxiv.org/abs/1110.3193\">arXiv:1110.3193</ext-link>] \t\t\t\t</mixed-citation> </ref>",
+    "<ref id=\"R22\"> <mixed-citation publication-type=\"web\"> <string-name> <surname>Lesgourgues</surname>, \t\t\t\t\t\t<given-names>J.</given-names> </string-name> <year>2011</year>, \t\t\t\t\t<source>arXiv e-prints</source> [ \t\t\t\t\t<ext-link ext-link-type=\"uri\" xlink:href=\"https://arxiv.org/abs/1104.2932\">arXiv:1104.2932</ext-link>] \t\t\t\t</mixed-citation> </ref>",
+    "<ref id=\"R23\"> <mixed-citation publication-type=\"journal\"> <string-name> <surname>Lewis</surname>, \t\t\t\t\t\t<given-names>A.</given-names> </string-name>, \t\t\t\t\t<string-name> <surname>Challinor</surname>, \t\t\t\t\t\t<given-names>A.</given-names> </string-name>, &amp; \t\t\t\t\t<string-name> <surname>Lasenby</surname>, \t\t\t\t\t\t<given-names>A.</given-names> </string-name> <year>2000</year>, \t\t\t\t\t<source>ApJ</source>, \t\t\t\t\t<volume>538</volume>, \t\t\t\t\t<fpage>473</fpage> </mixed-citation> </ref>",
+    "<ref id=\"R24\"> <mixed-citation publication-type=\"journal\"> <string-name> <surname>Linder</surname>, \t\t\t\t\t\t<given-names>E. V.</given-names> </string-name> <year>2003</year>, \t\t\t\t\t<source>Phys. Rev. Lett.</source>, \t\t\t\t\t<volume>90</volume>, \t\t\t\t\t<fpage>091301</fpage> </mixed-citation> </ref>",
+    "<ref id=\"R25\"> <mixed-citation publication-type=\"journal\"> <string-name> <surname>Linder</surname>, \t\t\t\t\t\t<given-names>E. V.</given-names> </string-name> <year>2005</year>, \t\t\t\t\t<source>Phys. Rev. D</source>, \t\t\t\t\t<volume>72</volume>, \t\t\t\t\t<fpage>043529</fpage> </mixed-citation> </ref>",
+    "<ref id=\"R26\"> <mixed-citation publication-type=\"journal\"> <string-name> <surname>LoVerde</surname>, \t\t\t\t\t\t<given-names>M.</given-names> </string-name>, &amp; \t\t\t\t\t<string-name> <surname>Afshordi</surname>, \t\t\t\t\t\t<given-names>N.</given-names> </string-name> <year>2008</year>, \t\t\t\t\t<source>Phys. Rev. D</source>, \t\t\t\t\t<volume>78</volume>, \t\t\t\t\t<fpage>123506</fpage> </mixed-citation> </ref>",
+    "<ref id=\"R27\"> <mixed-citation publication-type=\"web\"> <string-name> <surname>Ly</surname>, \t\t\t\t\t\t<given-names>A.</given-names> </string-name>, \t\t\t\t\t<string-name> <surname>Marsman</surname>, \t\t\t\t\t\t<given-names>M.</given-names> </string-name>, \t\t\t\t\t<string-name> <surname>Verhagen</surname>, \t\t\t\t\t\t<given-names>J.</given-names> </string-name>, \t\t\t\t\t<string-name> <surname>Grasman</surname>, \t\t\t\t\t\t<given-names>R.</given-names> </string-name>, &amp; \t\t\t\t\t<string-name> <surname>Wagenmakers</surname>, \t\t\t\t\t\t<given-names>E.-J.</given-names> </string-name> <year>2017</year>, \t\t\t\t\t<source>arXiv e-prints</source> [ \t\t\t\t\t<ext-link ext-link-type=\"uri\" xlink:href=\"https://arxiv.org/abs/1705.01064\">arXiv: 1705.01064</ext-link>] \t\t\t\t</mixed-citation> </ref>",
+    "<ref id=\"R28\"> <mixed-citation publication-type=\"journal\"> <string-name> <surname>Maciaszek</surname>, \t\t\t\t\t\t<given-names>T.</given-names> </string-name>, \t\t\t\t\t<string-name> <surname>Ealet</surname>, \t\t\t\t\t\t<given-names>A.</given-names> </string-name>, \t\t\t\t\t<string-name> <surname>Gillard</surname>, \t\t\t\t\t\t<given-names>W.</given-names> </string-name>, et al. \t\t\t\t\t<year>2022</year>, \t\t\t\t\t<source>SPIE Conf. Ser.</source>, \t\t\t\t\t<volume>12180</volume>, \t\t\t\t\t<fpage>121801K</fpage> </mixed-citation> </ref>",
+    "<ref id=\"R29\"> <mixed-citation publication-type=\"journal\"> <string-name> <surname>McDonald</surname>, \t\t\t\t\t\t<given-names>P.</given-names> </string-name>, &amp; \t\t\t\t\t<string-name> <surname>Seljak</surname>, \t\t\t\t\t\t<given-names>U.</given-names> </string-name> <year>2009</year>, \t\t\t\t\t<source>J. Cosmology Astropart. Phys.</source>, \t\t\t\t\t<volume>10</volume>, \t\t\t\t\t<fpage>007</fpage> </mixed-citation> </ref>",
+    "<ref id=\"R30\"> <mixed-citation publication-type=\"journal\"> <string-name> <surname>Passaglia</surname>, \t\t\t\t\t\t<given-names>S.</given-names> </string-name>, \t\t\t\t\t<string-name> <surname>Manzotti</surname>, \t\t\t\t\t\t<given-names>A.</given-names> </string-name>, &amp; \t\t\t\t\t<string-name> <surname>Dodelson</surname>, \t\t\t\t\t\t<given-names>S.</given-names> </string-name> <year>2017</year>, \t\t\t\t\t<source>Phys. Rev. D</source>, \t\t\t\t\t<volume>95</volume>, \t\t\t\t\t<fpage>123508</fpage> </mixed-citation> </ref>",
+    "<ref id=\"R31\"> <mixed-citation publication-type=\"journal\"> <string-name> <surname>Percival</surname>, \t\t\t\t\t\t<given-names>W. J.</given-names> </string-name>, &amp; \t\t\t\t\t<string-name> <surname>White</surname>, \t\t\t\t\t\t<given-names>M.</given-names> </string-name> <year>2009</year>, \t\t\t\t\t<source>MNRAS</source>, \t\t\t\t\t<volume>393</volume>, \t\t\t\t\t<fpage>297</fpage> </mixed-citation> </ref>",
+    "<ref id=\"R32\"> <mixed-citation publication-type=\"journal\"> <string-name> <surname>Pozzetti</surname>, \t\t\t\t\t\t<given-names>L.</given-names> </string-name>, \t\t\t\t\t<string-name> <surname>Hirata</surname>, \t\t\t\t\t\t<given-names>C. M.</given-names> </string-name>, \t\t\t\t\t<string-name> <surname>Geach</surname>, \t\t\t\t\t\t<given-names>J. E.</given-names> </string-name>, et al. \t\t\t\t\t<year>2016</year>, \t\t\t\t\t<source>A&amp;A</source>, \t\t\t\t\t<volume>590</volume>, \t\t\t\t\t<fpage>A3</fpage> </mixed-citation> </ref>",
+    "<ref id=\"R33\"> <mixed-citation publication-type=\"journal\"> <string-name> <surname>Seljak</surname>, \t\t\t\t\t\t<given-names>U.</given-names> </string-name> <year>2009</year>, \t\t\t\t\t<source>Phys. Rev. Lett.</source>, \t\t\t\t\t<volume>102</volume>, \t\t\t\t\t<fpage>021302</fpage> </mixed-citation> </ref>",
+    "<ref id=\"R34\"> <mixed-citation publication-type=\"journal\"> <string-name> <surname>Seljak</surname>, \t\t\t\t\t\t<given-names>U.</given-names> </string-name>, \t\t\t\t\t<string-name> <surname>Hamaus</surname>, \t\t\t\t\t\t<given-names>N.</given-names> </string-name>, &amp; \t\t\t\t\t<string-name> <surname>Desjacques</surname>, \t\t\t\t\t\t<given-names>V.</given-names> </string-name> <year>2009</year>, \t\t\t\t\t<source>Phys. Rev. Lett.</source>, \t\t\t\t\t<volume>103</volume>, \t\t\t\t\t<fpage>091303</fpage> </mixed-citation> </ref>",
+    "<ref id=\"R35\"> <mixed-citation publication-type=\"journal\"> <string-name> <surname>Sugiyama</surname>, \t\t\t\t\t\t<given-names>S.</given-names> </string-name>, \t\t\t\t\t<string-name> <surname>Miyatake</surname>, \t\t\t\t\t\t<given-names>H.</given-names> </string-name>, \t\t\t\t\t<string-name> <surname>More</surname>, \t\t\t\t\t\t<given-names>S.</given-names> </string-name>, et al. \t\t\t\t\t<year>2023</year>, \t\t\t\t\t<source>Phys. Rev. D</source>, \t\t\t\t\t<volume>108</volume>, \t\t\t\t\t<fpage>123521</fpage> </mixed-citation> </ref>",
+    "<ref id=\"R36\"> <mixed-citation publication-type=\"journal\"> <string-name> <surname>Tanidis</surname>, \t\t\t\t\t\t<given-names>K.</given-names> </string-name>, &amp; \t\t\t\t\t<string-name> <surname>Camera</surname>, \t\t\t\t\t\t<given-names>S.</given-names> </string-name> <year>2021</year>, \t\t\t\t\t<source>MNRAS</source>, \t\t\t\t\t<volume>502</volume>, \t\t\t\t\t<fpage>2952</fpage> </mixed-citation> </ref>",
+    "<ref id=\"R37\"> <mixed-citation publication-type=\"journal\"> <string-name> <surname>Tanidis</surname>, \t\t\t\t\t\t<given-names>K.</given-names> </string-name>, \t\t\t\t\t<string-name> <surname>Cardone</surname>, \t\t\t\t\t\t<given-names>V. F.</given-names> </string-name>, \t\t\t\t\t<string-name> <surname>Martinelli</surname>, \t\t\t\t\t\t<given-names>M.</given-names> </string-name>, et al. \t\t\t\t\t<year>2024</year>, \t\t\t\t\t<source>A&amp;A</source>, \t\t\t\t\t<volume>683</volume>, \t\t\t\t\t<fpage>A17</fpage> </mixed-citation> </ref>",
+    "<ref id=\"R38\"> <mixed-citation publication-type=\"journal\"> <string-name> <surname>Taylor</surname>, \t\t\t\t\t\t<given-names>P. L.</given-names> </string-name>, &amp; \t\t\t\t\t<string-name> <surname>Markovic</surname>, \t\t\t\t\t\t<given-names>K.</given-names> </string-name> <year>2022</year>, \t\t\t\t\t<source>Phys. Rev. D</source>, \t\t\t\t\t<volume>106</volume>, \t\t\t\t\t<fpage>063536</fpage> </mixed-citation> </ref>",
+    "<ref id=\"R39\"> <mixed-citation publication-type=\"journal\"> <string-name> <surname>Tessore</surname>, \t\t\t\t\t\t<given-names>N.</given-names> </string-name> <year>2017</year>, \t\t\t\t\t<source>MNRAS</source>, \t\t\t\t\t<volume>471</volume>, \t\t\t\t\t<fpage>L57</fpage> </mixed-citation> </ref>",
+    "<ref id=\"R40\"> <mixed-citation publication-type=\"journal\"> <string-name> <surname>Tutusaus</surname>, \t\t\t\t\t\t<given-names>I.</given-names> </string-name>, \t\t\t\t\t<string-name> <surname>Martinelli</surname>, \t\t\t\t\t\t<given-names>M.</given-names> </string-name>, \t\t\t\t\t<string-name> <surname>Cardone</surname>, \t\t\t\t\t\t<given-names>V. F.</given-names> </string-name>, et al. \t\t\t\t\t<year>2020</year>, \t\t\t\t\t<source>A&amp;A</source>, \t\t\t\t\t<volume>643</volume>, \t\t\t\t\t<fpage>A70</fpage> </mixed-citation> </ref>",
+    "<ref id=\"R41\"> <mixed-citation publication-type=\"journal\"> <string-name> <surname>Wang</surname>, \t\t\t\t\t\t<given-names>Y.</given-names> </string-name> <year>2008</year>, \t\t\t\t\t<source>Phys. Rev. D</source>, \t\t\t\t\t<volume>77</volume>, \t\t\t\t\t<fpage>123525</fpage> </mixed-citation> </ref>",
+    "<ref id=\"R42\"> <mixed-citation publication-type=\"journal\"> <string-name> <surname>Wang</surname>, \t\t\t\t\t\t<given-names>Y.</given-names> </string-name>, &amp; \t\t\t\t\t<string-name> <surname>Zhao</surname>, \t\t\t\t\t\t<given-names>G.-B.</given-names> </string-name> <year>2020</year>, \t\t\t\t\t<source>Res. Astron. Astrophys.</source>, \t\t\t\t\t<volume>20</volume>, \t\t\t\t\t<fpage>158</fpage> </mixed-citation> </ref>",
+    "<ref id=\"R43\"> <mixed-citation publication-type=\"journal\"> <string-name> <surname>Wang</surname>, \t\t\t\t\t\t<given-names>M. S.</given-names> </string-name>, \t\t\t\t\t<string-name> <surname>Avila</surname>, \t\t\t\t\t\t<given-names>S.</given-names> </string-name>, \t\t\t\t\t<string-name> <surname>Bianchi</surname>, \t\t\t\t\t\t<given-names>D.</given-names> </string-name>, \t\t\t\t\t<string-name> <surname>Crittenden</surname>, \t\t\t\t\t\t<given-names>R.</given-names> </string-name>, &amp; \t\t\t\t\t<string-name> <surname>Percival</surname>, \t\t\t\t\t\t<given-names>W. J.</given-names> </string-name> <year>2020</year>, \t\t\t\t\t<source>JCAP</source> <volume>10</volume>, \t\t\t\t\t<fpage>022</fpage> </mixed-citation> </ref>",
+    "<ref id=\"R44\"> <mixed-citation publication-type=\"journal\"> <string-name> <surname>Yahia-Cherif</surname>, \t\t\t\t\t\t<given-names>S.</given-names> </string-name>, \t\t\t\t\t<string-name> <surname>Blanchard</surname>, \t\t\t\t\t\t<given-names>A.</given-names> </string-name>, \t\t\t\t\t<string-name> <surname>Camera</surname>, \t\t\t\t\t\t<given-names>S.</given-names> </string-name>, et al. \t\t\t\t\t<year>2021</year>, \t\t\t\t\t<source>A&amp;A</source>, \t\t\t\t\t<volume>649</volume>, \t\t\t\t\t<fpage>A52</fpage> </mixed-citation> </ref>"
+  ],
+  "subtitle": {
+    "textEnglish": "XLVII. Improving cosmological constraints using a new multi-tracer method with the spectroscopic and photometric samples"
+  },
+  "title": {
+    "textEnglish": "Euclid preparation"
+  }
+}

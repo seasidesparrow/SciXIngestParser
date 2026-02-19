@@ -1,0 +1,78 @@
+{
+  "abstract": {
+    "textEnglish": "Geomagnetically induced currents (GICs) from solar storms pose a risk to the operation of power transmission grids in Europe and across the globe. The European Risk from Geomagnetically Induced Currents (EURISGIC) project, which began in March 2011 and is supported by the Seventh Framework Programme of the European Union, seeks to mitigate this natural hazard by developing European capabilities for GIC forecasting and warning. Recent well\u2010recognized GIC events were the province\u2010wide blackout in Quebec, Canada, in March 1989 and the blackout in the city of Malm\u00f6, in southern Sweden, during the Halloween storm of October 2003. The progressive integration of interconnected and geographically wide power transmission grids is obviously increasing the GIC risk. Hence, there is a need for greater scientific understanding of phenomena in the solar\u2010terrestrial environment that lead to GICs and for the development of systems that facilitate GIC modeling, forecasting, and mitigation."
+  },
+  "authors": [
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Senior scientist at the Finnish Meteorological Institute, in Helsinki, Finland. E\u2010mail: ari.viljanen@fmi.fi"
+        }
+      ],
+      "name": {
+        "given_name": "Ari",
+        "surname": "Viljanen"
+      }
+    }
+  ],
+  "copyright": {
+    "statement": "Copyright 2011 by the American Geophysical Union.",
+    "status": true
+  },
+  "keywords": [
+    {
+      "keyString": "geomagnetically induced currents",
+      "keySystem": "Wiley"
+    }
+  ],
+  "pagination": {
+    "firstPage": "S07007",
+    "pageCount": "2"
+  },
+  "persistentIDs": [
+    {
+      "DOI": "10.1029/2011SW000680"
+    }
+  ],
+  "pubDate": {
+    "electrDate": "2011-07-28",
+    "printDate": "2011-07-00"
+  },
+  "publication": {
+    "ISSN": [
+      {
+        "issnString": "1542-7390",
+        "pubtype": "print"
+      },
+      {
+        "issnString": "1542-7390",
+        "pubtype": "electronic"
+      }
+    ],
+    "issueNum": "7",
+    "pubName": "Space Weather",
+    "pubYear": "2011",
+    "volumeNum": "9"
+  },
+  "publisherIDs": [
+    {
+      "Identifier": "2011SW000680",
+      "attribute": "editorialOffice"
+    },
+    {
+      "Identifier": "SWE461",
+      "attribute": "unit"
+    }
+  ],
+  "recordData": {
+    "createdTime": "",
+    "loadFormat": "Wiley",
+    "loadLocation": "",
+    "loadType": "fromFile",
+    "parsedTime": "",
+    "recordOrigin": ""
+  },
+  "title": {
+    "textEnglish": "European Project to Improve Models of Geomagnetically Induced Currents"
+  }
+}

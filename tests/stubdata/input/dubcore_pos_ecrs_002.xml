@@ -1,0 +1,33 @@
+<record>
+    <header>
+        <identifier>oai:pos.sissa.it:ECRS/002</identifier>
+        <datestamp>2023-02-15</datestamp>
+        <setSpec>conference:ECRS</setSpec>
+        <setSpec>group:14</setSpec>
+    </header>
+    <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+            xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://ww
+w.w3.org/2001/XMLSchema-instance"
+            xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+            <dc:title>The Memories of the First European Cosmic Ray Symposium: Łódź 1968</dc:title>
+            <dc:creator>Alan Watson</dc:creator>
+            <dc:subject>Astroparticle Physics</dc:subject>
+            <dc:description>The origins of the series of European Cosmic-Ray Symposia are briefly described. The first
+                meeting in the seri
+                es, on ‘Hadronic Interactions and Extensive Air Showers’, held in Łódź, Poland in 1968, was attended by
+                the author: some memories are recounted.</dc:description>
+            <dc:publisher>Sissa Medialab</dc:publisher>
+            <dc:date>2023-02-15</dc:date>
+            <dc:type>Text</dc:type>
+            <dc:format>application/pdf</dc:format>
+            <dc:identifier>PoS(ECRS)002</dc:identifier>
+            <dc:identifier>10.22323/1.423.0002</dc:identifier>
+            <dc:identifier>https://pos.sissa.it/423/002/</dc:identifier>
+            <dc:language>en</dc:language>
+            <dc:relation>ECRS (27th European Cosmic Ray Symposium) Opening; isPartOf</dc:relation>
+            <dc:rights>Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND
+                4.0)</dc:rights>
+        </oai_dc:dc>
+    </metadata>
+</record>

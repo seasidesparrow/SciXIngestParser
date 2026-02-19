@@ -1,0 +1,3968 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article SYSTEM "http://jats.nlm.nih.gov/archiving/1.2/JATS-archivearticle1.dtd">
+<article
+	xmlns:mml="http://www.w3.org/1998/Math/MathML"
+	xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.2" article-type="research-article" xml:lang="en">
+	<?properties open_access?>
+	<front>
+		<journal-meta>
+			<journal-id journal-id-type="publisher-id">41598</journal-id>
+			<journal-id journal-id-type="doi">10.1038/41598.2045-2322</journal-id>
+			<journal-title-group>
+				<journal-title>Scientific Reports</journal-title>
+				<abbrev-journal-title abbrev-type="publisher">Sci Rep</abbrev-journal-title>
+			</journal-title-group>
+			<issn pub-type="epub">2045-2322</issn>
+			<publisher>
+				<publisher-name>Nature Publishing Group UK</publisher-name>
+				<publisher-loc>London</publisher-loc>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="publisher-id">s41598-023-38673-x</article-id>
+			<article-id pub-id-type="manuscript">38673</article-id>
+			<article-id pub-id-type="doi">10.1038/s41598-023-38673-x</article-id>
+			<article-categories>
+				<subj-group subj-group-type="heading">
+					<subject>Article</subject>
+				</subj-group>
+				<subj-group subj-group-type="SubjectPath">
+					<subject>/692/53/2423</subject>
+				</subj-group>
+				<subj-group subj-group-type="SubjectPath">
+					<subject>/631/378/2612</subject>
+				</subj-group>
+				<subj-group subj-group-type="SubjectPath">
+					<subject>/631/378/2649</subject>
+				</subj-group>
+				<subj-group subj-group-type="SubjectPath">
+					<subject>/692/617/375</subject>
+				</subj-group>
+				<subj-group subj-group-type="NatureArticleTypeID">
+					<subject>article</subject>
+				</subj-group>
+				<subj-group subj-group-type="TrialID">
+					<subject>NCT02265263</subject>
+				</subj-group>
+				<subj-group subj-group-type="TrialRegistry">
+					<subject>NCT</subject>
+				</subj-group>
+			</article-categories>
+			<title-group>
+				<article-title xml:lang="en">Preoperative thalamus volume is not associated with preoperative cognitive impairment (preCI) or postoperative cognitive dysfunction (POCD)</article-title>
+			</title-group>
+			<contrib-group>
+				<contrib contrib-type="author" corresp="yes" id="Au1">
+					<contrib-id contrib-id-type="orcid">http://orcid.org/0000-0001-9102-1373</contrib-id>
+					<name>
+						<surname>Fislage</surname>
+						<given-names>Marinus</given-names>
+					</name>
+					<xref ref-type="aff" rid="Aff1">1</xref>
+					<xref ref-type="corresp" rid="IDs4159802338673x_cor1">a</xref>
+				</contrib>
+				<contrib contrib-type="author" id="Au2">
+					<contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-0307-1862</contrib-id>
+					<name>
+						<surname>Feinkohl</surname>
+						<given-names>Insa</given-names>
+					</name>
+					<xref ref-type="aff" rid="Aff2">2</xref>
+					<xref ref-type="aff" rid="Aff3">3</xref>
+				</contrib>
+				<contrib contrib-type="author" id="Au3">
+					<contrib-id contrib-id-type="orcid">http://orcid.org/0000-0001-7290-2271</contrib-id>
+					<name>
+						<surname>Borchers</surname>
+						<given-names>Friedrich</given-names>
+					</name>
+					<xref ref-type="aff" rid="Aff1">1</xref>
+				</contrib>
+				<contrib contrib-type="author" id="Au4">
+					<contrib-id contrib-id-type="orcid">http://orcid.org/0000-0003-1568-767X</contrib-id>
+					<name>
+						<surname>Pischon</surname>
+						<given-names>Tobias</given-names>
+					</name>
+					<xref ref-type="aff" rid="Aff3">3</xref>
+					<xref ref-type="aff" rid="Aff4">4</xref>
+					<xref ref-type="aff" rid="Aff5">5</xref>
+				</contrib>
+				<contrib contrib-type="author" id="Au5">
+					<contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-1062-0495</contrib-id>
+					<name>
+						<surname>Spies</surname>
+						<given-names>Claudia D.</given-names>
+					</name>
+					<xref ref-type="aff" rid="Aff1">1</xref>
+				</contrib>
+				<contrib contrib-type="author" id="Au6">
+					<contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-3610-5029</contrib-id>
+					<name>
+						<surname>Winterer</surname>
+						<given-names>Georg</given-names>
+					</name>
+					<xref ref-type="aff" rid="Aff1">1</xref>
+					<xref ref-type="aff" rid="Aff6">6</xref>
+				</contrib>
+				<contrib contrib-type="author" id="Au7">
+					<contrib-id contrib-id-type="orcid">http://orcid.org/0000-0001-5794-5716</contrib-id>
+					<name>
+						<surname>Zacharias</surname>
+						<given-names>Norman</given-names>
+					</name>
+					<xref ref-type="aff" rid="Aff1">1</xref>
+					<xref ref-type="aff" rid="Aff6">6</xref>
+				</contrib>
+				<contrib contrib-type="author" id="IA1">
+					<collab>
+						<institution>BioCog Consortium</institution>
+						<contrib-group>
+							<contrib contrib-type="author" id="Au8">
+								<name>
+									<surname>Wolf</surname>
+									<given-names>Alissa</given-names>
+								</name>
+								<xref ref-type="aff" rid="Aff7">7</xref>
+							</contrib>
+							<contrib contrib-type="author" id="Au9">
+								<name>
+									<surname>Müller</surname>
+									<given-names>Anika</given-names>
+								</name>
+								<xref ref-type="aff" rid="Aff7">7</xref>
+							</contrib>
+							<contrib contrib-type="author" id="Au10">
+								<name>
+									<surname>Hadzidiakos</surname>
+									<given-names>Daniel</given-names>
+								</name>
+								<xref ref-type="aff" rid="Aff7">7</xref>
+							</contrib>
+							<contrib contrib-type="author" id="Au11">
+								<name>
+									<surname>Yürek</surname>
+									<given-names>Fatima</given-names>
+								</name>
+								<xref ref-type="aff" rid="Aff7">7</xref>
+							</contrib>
+							<contrib contrib-type="author" id="Au12">
+								<name>
+									<surname>Lachmann</surname>
+									<given-names>Gunnar</given-names>
+								</name>
+								<xref ref-type="aff" rid="Aff7">7</xref>
+							</contrib>
+							<contrib contrib-type="author" id="Au13">
+								<name>
+									<surname>Ofosu</surname>
+									<given-names>Kwaku</given-names>
+								</name>
+								<xref ref-type="aff" rid="Aff7">7</xref>
+							</contrib>
+							<contrib contrib-type="author" id="Au14">
+								<name>
+									<surname>Heinrich</surname>
+									<given-names>Maria</given-names>
+								</name>
+								<xref ref-type="aff" rid="Aff7">7</xref>
+							</contrib>
+							<contrib contrib-type="author" id="Au15">
+								<name>
+									<surname>Mörgeli</surname>
+									<given-names>Rudolf</given-names>
+								</name>
+								<xref ref-type="aff" rid="Aff7">7</xref>
+							</contrib>
+							<contrib contrib-type="author" id="Au16">
+								<name>
+									<surname>Gallinat</surname>
+									<given-names>Jürgen</given-names>
+								</name>
+								<xref ref-type="aff" rid="Aff8">8</xref>
+							</contrib>
+							<contrib contrib-type="author" id="Au17">
+								<name>
+									<surname>Kühn</surname>
+									<given-names>Simone</given-names>
+								</name>
+								<xref ref-type="aff" rid="Aff8">8</xref>
+							</contrib>
+							<contrib contrib-type="author" id="Au18">
+								<name>
+									<surname>Slooter</surname>
+									<given-names>Arjen</given-names>
+								</name>
+								<xref ref-type="aff" rid="Aff9">9</xref>
+							</contrib>
+							<contrib contrib-type="author" id="Au19">
+								<name>
+									<surname>van Dellen</surname>
+									<given-names>Edwin</given-names>
+								</name>
+								<xref ref-type="aff" rid="Aff9">9</xref>
+							</contrib>
+							<contrib contrib-type="author" id="Au20">
+								<name>
+									<surname>Kant</surname>
+									<given-names>Ilse</given-names>
+								</name>
+								<xref ref-type="aff" rid="Aff9">9</xref>
+							</contrib>
+							<contrib contrib-type="author" id="Au21">
+								<name>
+									<surname>de Bresser</surname>
+									<given-names>Jeroen</given-names>
+								</name>
+								<xref ref-type="aff" rid="Aff9">9</xref>
+							</contrib>
+							<contrib contrib-type="author" id="Au22">
+								<name>
+									<surname>Hendrikse</surname>
+									<given-names>Jeroen</given-names>
+								</name>
+								<xref ref-type="aff" rid="Aff9">9</xref>
+							</contrib>
+							<contrib contrib-type="author" id="Au23">
+								<name>
+									<surname>van Montfort</surname>
+									<given-names>Simone</given-names>
+								</name>
+								<xref ref-type="aff" rid="Aff9">9</xref>
+							</contrib>
+							<contrib contrib-type="author" id="Au24">
+								<name>
+									<surname>Menon</surname>
+									<given-names>David</given-names>
+								</name>
+								<xref ref-type="aff" rid="Aff10">10</xref>
+							</contrib>
+							<contrib contrib-type="author" id="Au25">
+								<name>
+									<surname>Stamatakis</surname>
+									<given-names>Emmanuel</given-names>
+								</name>
+								<xref ref-type="aff" rid="Aff10">10</xref>
+							</contrib>
+							<contrib contrib-type="author" id="Au26">
+								<name>
+									<surname>Preller</surname>
+									<given-names>Jacobus</given-names>
+								</name>
+								<xref ref-type="aff" rid="Aff10">10</xref>
+							</contrib>
+							<contrib contrib-type="author" id="Au27">
+								<name>
+									<surname>Moreno-López</surname>
+									<given-names>Laura</given-names>
+								</name>
+								<xref ref-type="aff" rid="Aff10">10</xref>
+							</contrib>
+							<contrib contrib-type="author" id="Au28">
+								<name>
+									<surname>Winzeck</surname>
+									<given-names>Stefan</given-names>
+								</name>
+								<xref ref-type="aff" rid="Aff10">10</xref>
+							</contrib>
+							<contrib contrib-type="author" id="Au29">
+								<name>
+									<surname>Melillo</surname>
+									<given-names>Daniela</given-names>
+								</name>
+								<xref ref-type="aff" rid="Aff11">11</xref>
+							</contrib>
+							<contrib contrib-type="author" id="Au30">
+								<name>
+									<surname>Boraschi</surname>
+									<given-names>Diana</given-names>
+								</name>
+								<xref ref-type="aff" rid="Aff11">11</xref>
+							</contrib>
+							<contrib contrib-type="author" id="Au31">
+								<name>
+									<surname>Camera</surname>
+									<given-names>Giacomo Della</given-names>
+								</name>
+								<xref ref-type="aff" rid="Aff11">11</xref>
+							</contrib>
+							<contrib contrib-type="author" id="Au32">
+								<name>
+									<surname>Italiani</surname>
+									<given-names>Paola</given-names>
+								</name>
+								<xref ref-type="aff" rid="Aff11">11</xref>
+							</contrib>
+							<contrib contrib-type="author" id="Au33">
+								<name>
+									<surname>Schneider</surname>
+									<given-names>Reinhard</given-names>
+								</name>
+								<xref ref-type="aff" rid="Aff12">12</xref>
+							</contrib>
+							<contrib contrib-type="author" id="Au34">
+								<name>
+									<surname>Krause</surname>
+									<given-names>Roland</given-names>
+								</name>
+								<xref ref-type="aff" rid="Aff12">12</xref>
+							</contrib>
+							<contrib contrib-type="author" id="Au35">
+								<name>
+									<surname>Heidtke</surname>
+									<given-names>Karsten</given-names>
+								</name>
+								<xref ref-type="aff" rid="Aff13">13</xref>
+							</contrib>
+							<contrib contrib-type="author" id="Au36">
+								<name>
+									<surname>Nürnberg</surname>
+									<given-names>Peter</given-names>
+								</name>
+								<xref ref-type="aff" rid="Aff13">13</xref>
+							</contrib>
+							<contrib contrib-type="author" id="Au37">
+								<name>
+									<surname>Helmschrodt</surname>
+									<given-names>Anja</given-names>
+								</name>
+								<xref ref-type="aff" rid="Aff14">14</xref>
+							</contrib>
+							<contrib contrib-type="author" id="Au38">
+								<name>
+									<surname>Böcher</surname>
+									<given-names>Axel</given-names>
+								</name>
+								<xref ref-type="aff" rid="Aff14">14</xref>
+							</contrib>
+							<contrib contrib-type="author" id="Au39">
+								<name>
+									<surname>Hafen</surname>
+									<given-names>Bettina</given-names>
+								</name>
+								<xref ref-type="aff" rid="Aff14">14</xref>
+							</contrib>
+							<contrib contrib-type="author" id="Au40">
+								<name>
+									<surname>Armbruster</surname>
+									<given-names>Franz Paul</given-names>
+								</name>
+								<xref ref-type="aff" rid="Aff14">14</xref>
+							</contrib>
+							<contrib contrib-type="author" id="Au41">
+								<name>
+									<surname>Diehl</surname>
+									<given-names>Ina</given-names>
+								</name>
+								<xref ref-type="aff" rid="Aff14">14</xref>
+							</contrib>
+							<contrib contrib-type="author" id="Au42">
+								<name>
+									<surname>Ruppert</surname>
+									<given-names>Jana</given-names>
+								</name>
+								<xref ref-type="aff" rid="Aff14">14</xref>
+							</contrib>
+							<contrib contrib-type="author" id="Au43">
+								<name>
+									<surname>Hartmann</surname>
+									<given-names>Katarina</given-names>
+								</name>
+								<xref ref-type="aff" rid="Aff14">14</xref>
+							</contrib>
+							<contrib contrib-type="author" id="Au44">
+								<name>
+									<surname>Kronabel</surname>
+									<given-names>Marion</given-names>
+								</name>
+								<xref ref-type="aff" rid="Aff14">14</xref>
+							</contrib>
+							<contrib contrib-type="author" id="Au45">
+								<name>
+									<surname>Weyer</surname>
+									<given-names>Marius</given-names>
+								</name>
+								<xref ref-type="aff" rid="Aff14">14</xref>
+							</contrib>
+							<contrib contrib-type="author" id="Au46">
+								<name>
+									<surname>Dschietzig</surname>
+									<given-names>Thomas Bernd</given-names>
+								</name>
+								<xref ref-type="aff" rid="Aff14">14</xref>
+							</contrib>
+							<contrib contrib-type="author" id="Au47">
+								<name>
+									<surname>Pietzsch</surname>
+									<given-names>Malte</given-names>
+								</name>
+								<xref ref-type="aff" rid="Aff15">15</xref>
+							</contrib>
+							<contrib contrib-type="author" id="Au48">
+								<name>
+									<surname>Weber</surname>
+									<given-names>Simon</given-names>
+								</name>
+								<xref ref-type="aff" rid="Aff15">15</xref>
+							</contrib>
+							<contrib contrib-type="author" id="Au49">
+								<name>
+									<surname>Ittermann</surname>
+									<given-names>Bernd</given-names>
+								</name>
+								<xref ref-type="aff" rid="Aff16">16</xref>
+							</contrib>
+							<contrib contrib-type="author" id="Au50">
+								<name>
+									<surname>Fillmer</surname>
+									<given-names>Ariane</given-names>
+								</name>
+								<xref ref-type="aff" rid="Aff16">16</xref>
+							</contrib>
+						</contrib-group>
+					</collab>
+				</contrib>
+				<aff id="Aff1">
+					<label>1</label>
+					<institution-wrap>
+						<institution-id institution-id-type="GRID">grid.7468.d</institution-id>
+						<institution-id institution-id-type="ISNI">0000 0001 2248 7639</institution-id>
+						<institution content-type="org-division">Department of Anesthesiology and Operative Intensive Care Medicine (CCM, CVK), Charité–Universitätsmedizin Berlin</institution>
+						<institution content-type="org-name">Corporate Member of Freie Universität Berlin and Humboldt-Universität zu Berlin</institution>
+					</institution-wrap>
+					<addr-line content-type="city">Berlin</addr-line>
+					<country country="DE">Germany</country>
+				</aff>
+				<aff id="Aff2">
+					<label>2</label>
+					<institution-wrap>
+						<institution-id institution-id-type="GRID">grid.412581.b</institution-id>
+						<institution-id institution-id-type="ISNI">0000 0000 9024 6397</institution-id>
+						<institution content-type="org-division">Faculty of Health/School of Medicine</institution>
+						<institution content-type="org-name">Witten/Herdecke University</institution>
+					</institution-wrap>
+					<addr-line content-type="city">Witten</addr-line>
+					<country country="DE">Germany</country>
+				</aff>
+				<aff id="Aff3">
+					<label>3</label>
+					<institution-wrap>
+						<institution-id institution-id-type="GRID">grid.419491.0</institution-id>
+						<institution-id institution-id-type="ISNI">0000 0001 1014 0849</institution-id>
+						<institution content-type="org-division">Molecular Epidemiology Research Group</institution>
+						<institution content-type="org-name">Max-Delbrueck-Center for Molecular Medicine in the Helmholtz Association (MDC)</institution>
+					</institution-wrap>
+					<addr-line content-type="city">Berlin</addr-line>
+					<country country="DE">Germany</country>
+				</aff>
+				<aff id="Aff4">
+					<label>4</label>
+					<institution-wrap>
+						<institution-id institution-id-type="GRID">grid.419491.0</institution-id>
+						<institution-id institution-id-type="ISNI">0000 0001 1014 0849</institution-id>
+						<institution content-type="org-division">Biobank Technology Platform</institution>
+						<institution content-type="org-name">Max-Delbrueck-Center for Molecular Medicine in the Helmholtz Association (MDC)</institution>
+					</institution-wrap>
+					<addr-line content-type="city">Berlin</addr-line>
+					<country country="DE">Germany</country>
+				</aff>
+				<aff id="Aff5">
+					<label>5</label>
+					<institution-wrap>
+						<institution-id institution-id-type="GRID">grid.484013.a</institution-id>
+						<institution-id institution-id-type="ISNI">0000 0004 6879 971X</institution-id>
+						<institution content-type="org-division">Core Facility Biobank</institution>
+						<institution content-type="org-name">Berlin Institute of Health at Charité - Universitätsmedizin Berlin</institution>
+					</institution-wrap>
+					<addr-line content-type="city">Berlin</addr-line>
+					<country country="DE">Germany</country>
+				</aff>
+				<aff id="Aff6">
+					<label>6</label>
+					<institution-wrap>
+						<institution-id institution-id-type="GRID">grid.518749.6</institution-id>
+						<institution content-type="org-name">Pharmaimage Biomarker Solutions GmbH</institution>
+					</institution-wrap>
+					<addr-line content-type="city">Berlin</addr-line>
+					<country country="DE">Germany</country>
+				</aff>
+				<aff id="Aff7">
+					<label>7</label>
+					<institution-wrap>
+						<institution-id institution-id-type="GRID">grid.6363.0</institution-id>
+						<institution-id institution-id-type="ISNI">0000 0001 2218 4662</institution-id>
+						<institution content-type="org-division">Department of Anesthesiology and Operative Intensive Care Medicine (CCM, CVK)</institution>
+						<institution content-type="org-name">Charité–Universitätsmedizin Berlin, Corporate Member of Freie Universität Berlin and Humboldt-Universität zu Berlin</institution>
+					</institution-wrap>
+					<addr-line content-type="city">Berlin</addr-line>
+					<country country="DE">Germany</country>
+				</aff>
+				<aff id="Aff8">
+					<label>8</label>
+					<institution-wrap>
+						<institution-id institution-id-type="GRID">grid.13648.38</institution-id>
+						<institution-id institution-id-type="ISNI">0000 0001 2180 3484</institution-id>
+						<institution content-type="org-name">University Medical Center Hamburg</institution>
+					</institution-wrap>
+					<addr-line content-type="city">Hamburg</addr-line>
+					<country country="DE">Germany</country>
+				</aff>
+				<aff id="Aff9">
+					<label>9</label>
+					<institution-wrap>
+						<institution-id institution-id-type="GRID">grid.7692.a</institution-id>
+						<institution-id institution-id-type="ISNI">0000000090126352</institution-id>
+						<institution content-type="org-name">University Medical Center Utrecht</institution>
+					</institution-wrap>
+					<addr-line content-type="city">Utrecht</addr-line>
+					<country country="NL">The Netherlands</country>
+				</aff>
+				<aff id="Aff10">
+					<label>10</label>
+					<institution-wrap>
+						<institution-id institution-id-type="GRID">grid.5335.0</institution-id>
+						<institution-id institution-id-type="ISNI">0000000121885934</institution-id>
+						<institution content-type="org-name">University of Cambridge</institution>
+					</institution-wrap>
+					<addr-line content-type="city">Cambridge</addr-line>
+					<country country="GB">UK</country>
+				</aff>
+				<aff id="Aff11">
+					<label>11</label>
+					<institution-wrap>
+						<institution-id institution-id-type="GRID">grid.5326.2</institution-id>
+						<institution-id institution-id-type="ISNI">0000 0001 1940 4177</institution-id>
+						<institution content-type="org-name">National Research Council Napoli</institution>
+					</institution-wrap>
+					<addr-line content-type="city">Naples</addr-line>
+					<country country="IT">Italy</country>
+				</aff>
+				<aff id="Aff12">
+					<label>12</label>
+					<institution-wrap>
+						<institution-id institution-id-type="GRID">grid.16008.3f</institution-id>
+						<institution-id institution-id-type="ISNI">0000 0001 2295 9843</institution-id>
+						<institution content-type="org-name">University of Luxembourg</institution>
+					</institution-wrap>
+					<addr-line content-type="city">Esch-sur-Alzette</addr-line>
+					<country country="LU">Luxembourg</country>
+				</aff>
+				<aff id="Aff13">
+					<label>13</label>
+					<institution-wrap>
+						<institution-id institution-id-type="GRID">grid.431916.8</institution-id>
+						<institution-id institution-id-type="ISNI">0000 0004 0533 937X</institution-id>
+						<institution content-type="org-name">ATLAS Biolabs GmBH</institution>
+					</institution-wrap>
+					<addr-line content-type="city">Berlin</addr-line>
+					<country country="DE">Germany</country>
+				</aff>
+				<aff id="Aff14">
+					<label>14</label>
+					<institution-wrap>
+						<institution-id institution-id-type="GRID">grid.491844.4</institution-id>
+						<institution-id institution-id-type="ISNI">0000 0004 0622 3037</institution-id>
+						<institution content-type="org-name">Immundiagnostik AG</institution>
+					</institution-wrap>
+					<addr-line content-type="city">Bensheim</addr-line>
+					<country country="DE">Germany</country>
+				</aff>
+				<aff id="Aff15">
+					<label>15</label>
+					<institution-wrap>
+						<institution content-type="org-name">Cellogic GmbH</institution>
+					</institution-wrap>
+					<addr-line content-type="city">Berlin</addr-line>
+					<country country="DE">Germany</country>
+				</aff>
+				<aff id="Aff16">
+					<label>16</label>
+					<institution-wrap>
+						<institution-id institution-id-type="GRID">grid.4764.1</institution-id>
+						<institution-id institution-id-type="ISNI">0000 0001 2186 1887</institution-id>
+						<institution content-type="org-name">Physikalisch-Technische Bundesanstalt</institution>
+					</institution-wrap>
+					<addr-line content-type="city">Berlin</addr-line>
+					<country country="DE">Germany</country>
+				</aff>
+			</contrib-group>
+			<author-notes>
+				<corresp id="IDs4159802338673x_cor1">
+					<label>a</label>
+					<email>marinus.fislage@charite.de</email>
+				</corresp>
+			</author-notes>
+			<pub-date date-type="pub" publication-format="electronic">
+				<day>20</day>
+				<month>7</month>
+				<year>2023</year>
+			</pub-date>
+			<pub-date date-type="collection" publication-format="electronic">
+				<month>12</month>
+				<year>2023</year>
+			</pub-date>
+			<volume>13</volume>
+			<issue seq="11732">1</issue>
+			<elocation-id>11732</elocation-id>
+			<history>
+				<date date-type="registration">
+					<day>12</day>
+					<month>7</month>
+					<year>2023</year>
+				</date>
+				<date date-type="received">
+					<day>9</day>
+					<month>9</month>
+					<year>2022</year>
+				</date>
+				<date date-type="accepted">
+					<day>12</day>
+					<month>7</month>
+					<year>2023</year>
+				</date>
+				<date date-type="online">
+					<day>20</day>
+					<month>7</month>
+					<year>2023</year>
+				</date>
+			</history>
+			<pub-history>
+				<event event-type="Update">
+					<event-desc>The original online version of this Article was revised: In the original version of this Article the ORCID IDs for Marinus Fislage, Tobias Pischon and Claudia Spies were omitted. The ORCID ID for Marinus Fislage is 0000-0001-9102-1373, for Tobias Pischon is 0000-0003-1568-767X and for Claudia Spies is 0000-0002-1062-0495.</event-desc>
+					<date>
+						<day>31</day>
+						<month>7</month>
+						<year>2023</year>
+					</date>
+				</event>
+			</pub-history>
+			<permissions>
+				<copyright-statement>© The Author(s) 2023. corrected publication 2023</copyright-statement>
+				<copyright-year>2023</copyright-year>
+				<license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/4.0/">
+					<license-p>
+						<bold>Open Access</bold> This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article's Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article's Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit
+						<ext-link xlink:href="http://creativecommons.org/licenses/by/4.0/" ext-link-type="url">http://creativecommons.org/licenses/by/4.0/</ext-link>.
+					</license-p>
+				</license>
+			</permissions>
+			<abstract id="Abs1" xml:lang="en">
+				<title>Abstract</title>
+				<p id="Par1">A growing body of literature suggests the important role of the thalamus in cognition and neurodegenerative diseases. This study aims to elucidate whether the preoperative thalamic volume is associated with preoperative cognitive impairment (preCI) and whether it is predictive for postoperative cognitive dysfunction at 3 months (POCD). We enrolled 301 patients aged 65 or older and without signs of dementia who were undergoing elective surgery. Magnetic resonance imaging was conducted prior to surgery. Freesurfer (version 5.3.) was used to automatically segment the thalamus volume. A neuropsychological test battery was administered before surgery and at a 3 month follow-up. It included the computerized tests Paired Associate Learning (PAL), Verbal Recognition Memory (VRM), Spatial Span Length (SSP), Simple Reaction Time (SRT), the pen-and-paper Trail-Making-Test (TMT) and the manual Grooved Pegboard Test (GPT). Using a reliable change index, preCI and POCD were defined as total Z-score &gt; 1.96 (sum score over all tests) and/or Z-scores &gt; 1.96 in ≥ 2 individual cognitive test parameters. For statistical analyses, multivariable logistic regression models were applied. Age, sex and intracranial volume were covariates in the models. Of 301 patients who received a presurgical neuropsychological testing and MRI, 34 (11.3%) had preCI. 89 patients (29.5%) were lost to follow-up. The remaining 212 patients received a follow-up cognitive test after 3 months, of whom 25 (8.3%) presented with POCD. Independently of age, sex and intracranial volume, neither preCI (OR per cm
+					<sup>3</sup> increment 0.81 [95% CI 0.60–1.07] p = 0.14) nor POCD (OR 1.02 per cm
+					<sup>3</sup> increment [95% CI 0.75–1.40] p = 0.87) were statistically significantly associated with patients’ preoperative thalamus volume. In this cohort we could not show an association of presurgical thalamus volume with preCI or POCD.
+				</p>
+				<p id="Par2">
+					<bold>Clinical Trial Number:</bold> NCT02265263 (
+					<ext-link xlink:href="https://clinicaltrials.gov/ct2/show/results/NCT02265263" ext-link-type="url">https://clinicaltrials.gov/ct2/show/results/NCT02265263</ext-link>)
+					<bold>.</bold>
+				</p>
+			</abstract>
+			<funding-group>
+				<award-group>
+					<funding-source>
+						<institution-wrap>
+							<institution>European Community's FP7</institution>
+						</institution-wrap>
+					</funding-source>
+					<award-id award-type="FundRef grant">602461</award-id>
+					<principal-award-recipient/>
+				</award-group>
+				<award-group>
+					<funding-source>
+						<institution-wrap>
+							<institution>Charité - Universitätsmedizin Berlin (3093)</institution>
+						</institution-wrap>
+					</funding-source>
+				</award-group>
+			</funding-group>
+			<custom-meta-group>
+				<custom-meta>
+					<meta-name>publisher-imprint-name</meta-name>
+					<meta-value>Nature Portfolio</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>volume-issue-count</meta-name>
+					<meta-value>1</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>issue-article-count</meta-name>
+					<meta-value>12388</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>issue-toc-levels</meta-name>
+					<meta-value>0</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>issue-pricelist-year</meta-name>
+					<meta-value>2023</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>issue-copyright-holder</meta-name>
+					<meta-value>Springer Nature Limited</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>issue-copyright-year</meta-name>
+					<meta-value>2023</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>article-contains-esm</meta-name>
+					<meta-value>Yes</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>article-numbering-style</meta-name>
+					<meta-value>Unnumbered</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>article-registration-date-year</meta-name>
+					<meta-value>2023</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>article-registration-date-month</meta-name>
+					<meta-value>7</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>article-registration-date-day</meta-name>
+					<meta-value>12</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>article-toc-levels</meta-name>
+					<meta-value>0</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>toc-levels</meta-name>
+					<meta-value>0</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>volume-type</meta-name>
+					<meta-value>Regular</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>journal-product</meta-name>
+					<meta-value>NonStandardArchiveJournal</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>numbering-style</meta-name>
+					<meta-value>Unnumbered</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>article-grants-type</meta-name>
+					<meta-value>OpenChoice</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>metadata-grant</meta-name>
+					<meta-value>OpenAccess</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>abstract-grant</meta-name>
+					<meta-value>OpenAccess</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>bodypdf-grant</meta-name>
+					<meta-value>OpenAccess</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>bodyhtml-grant</meta-name>
+					<meta-value>OpenAccess</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>bibliography-grant</meta-name>
+					<meta-value>OpenAccess</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>esm-grant</meta-name>
+					<meta-value>OpenAccess</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>online-first</meta-name>
+					<meta-value>false</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>pdf-file-reference</meta-name>
+					<meta-value>BodyRef/PDF/41598_2023_Article_38673.pdf</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>pdf-type</meta-name>
+					<meta-value>Typeset</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>target-type</meta-name>
+					<meta-value>OnlinePDF</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>issue-type</meta-name>
+					<meta-value>Regular</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>article-type</meta-name>
+					<meta-value>OriginalPaper</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>journal-subject-primary</meta-name>
+					<meta-value>Science, Humanities and Social Sciences, multidisciplinary</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>journal-subject-secondary</meta-name>
+					<meta-value>Science, Humanities and Social Sciences, multidisciplinary</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>journal-subject-secondary</meta-name>
+					<meta-value>Science, multidisciplinary</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>journal-subject-collection</meta-name>
+					<meta-value>Science (multidisciplinary)</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>open-access</meta-name>
+					<meta-value>true</meta-value>
+				</custom-meta>
+			</custom-meta-group>
+		</article-meta>
+		<notes notes-type="AuthorContribution">
+			<p>A list of authors and their affiliations appears at the end of the paper.</p>
+		</notes>
+		<notes notes-type="CopyrightComment">
+			<title>Copyright comment</title>
+			<p>corrected publication 2023</p>
+		</notes>
+	</front>
+	<body>
+		<sec id="Sec1">
+			<title>Introduction</title>
+			<p id="Par3">Depending on risk factors and study type, postoperative cognitive dysfunction (POCD) can be observed in 8.9% to 46.1% of surgical patients
+				<sup>
+					<xref ref-type="bibr" rid="CR1">1</xref>
+				</sup>. POCD is associated with increased mortality, prolonged necessity of social transfer payments and the premature termination of occupational practice
+				<sup>
+					<xref ref-type="bibr" rid="CR2">2</xref>
+				</sup>. POCD also causes substantial financial long-term care costs
+				<sup>
+					<xref ref-type="bibr" rid="CR3">3</xref>
+				</sup>. Hence, patients at risk should be identified and prevention strategies found. Little is known about the neural processes causing cognitive decline after surgery. Preoperative neuroimaging biomarkers may assist in risk stratification and allow insights into the neurobiological pathomechanisms leading to POCD. Previous research suggests that the thalamus might be a possible neuroimaging biomarker candidate for a different perioperative neurocognitive disorder: postoperative delirium (POD)
+				<sup>
+					<xref ref-type="bibr" rid="CR4">4</xref>
+				</sup>.
+			</p>
+			<p id="Par4">The thalamus is an important pharmacological target for most anesthetic agents which cause a reduction of thalamic blood flow and metabolism
+				<sup>
+					<xref ref-type="bibr" rid="CR5">5</xref>–
+					<xref ref-type="bibr" rid="CR7">7</xref>
+				</sup>. Anesthetics also affect thalamofrontal and resting neural connectivity in the anterior thalamic nuclei
+				<sup>
+					<xref ref-type="bibr" rid="CR8">8</xref>,
+					<xref ref-type="bibr" rid="CR9">9</xref>
+				</sup>. The structural integrity of the thalamus potentially mitigates the effect of stressors related to surgery such as anesthesia
+				<sup>
+					<xref ref-type="bibr" rid="CR10">10</xref>
+				</sup>. The brain reserve theory is the overarching theoretical concept underlying our research hypothesis
+				<sup>
+					<xref ref-type="bibr" rid="CR11">11</xref>–
+					<xref ref-type="bibr" rid="CR13">13</xref>
+				</sup>. In brief, it theorizes that a volumetric surplus of neurons helps individuals to cope with stressors, which may drive neurodegenerative processes. Older patients with a diminished thalamic cellular reserve may be particularly susceptible to perioperative cognitive disorders
+				<sup>
+					<xref ref-type="bibr" rid="CR14">14</xref>,
+					<xref ref-type="bibr" rid="CR15">15</xref>
+				</sup>.
+			</p>
+			<p id="Par5">While the crucial function of the thalamus as gatekeeper to consciousness, for instance during anesthesia, has been known for decades, its probable impact on cognition is receiving growing attention
+				<sup>
+					<xref ref-type="bibr" rid="CR14">14</xref>–
+					<xref ref-type="bibr" rid="CR17">17</xref>
+				</sup>. Although cognitive function has been predominantly linked to cortical regions
+				<sup>
+					<xref ref-type="bibr" rid="CR18">18</xref>
+				</sup>, recent cellular findings in mouse models have led to the assumption that the thalamus might play a role in coordinating rather than merely relaying cognitive processing. By recruiting inhibitory cortical neurons, the mediodorsal thalamus governs representation in the prefrontal cortex, which enables cognitive flexibility
+				<sup>
+					<xref ref-type="bibr" rid="CR19">19</xref>
+				</sup>. The pulvinar and the mediodorsal thalamus were shown to modulate the functional connectivity of cortical areas
+				<sup>
+					<xref ref-type="bibr" rid="CR20">20</xref>
+				</sup>. Moreover, cognitive domains such as declarative memory, executive functioning, attention, working memory and decision-making appear to rely on thalamic nuclei
+				<sup>
+					<xref ref-type="bibr" rid="CR16">16</xref>,
+					<xref ref-type="bibr" rid="CR21">21</xref>,
+					<xref ref-type="bibr" rid="CR22">22</xref>
+				</sup>.
+			</p>
+			<p id="Par6">Some epidemiological evidence suggests the thalamic function plays a role in age-related cognitive impairment. For instance, one study found that thalamic volume reduction was an early sign of amnestic mild cognitive impairment
+				<sup>
+					<xref ref-type="bibr" rid="CR23">23</xref>
+				</sup>. Strong thalamic volume reduction was also observed in Alzheimer’s disease
+				<sup>
+					<xref ref-type="bibr" rid="CR24">24</xref>
+				</sup>. In the perioperative setting, however, a study in middle-aged to older female patients with breast cancer found that a perioperative decline in thalamic grey matter did not coincide with an increased risk of POCD, which was operationalized as a decline in cognitive function from pre-surgery to a 6-day post-surgery assessment
+				<sup>
+					<xref ref-type="bibr" rid="CR25">25</xref>
+				</sup>.
+			</p>
+			<p id="Par7">A synopsis of prior research suggests that the thalamus might be a region of interest in the field of perioperative neurocognitive disorders. This secondary analysis was conducted as a longitudinal observational cohort study. We focused on preoperative brain health by measuring the preoperative thalamus volume in older patients scheduled for surgery by using structural magnetic resonance imaging. Our study objective was to investigate the possible association of presurgical thalamic volume with the presence of preoperative cognitive impairment (preCI) and its potential as a predictor for postoperative cognitive dysfunction at a 3-month follow-up (POCD). Furthermore, we aimed to clarify the role of the thalamus as a potential biomarker for perioperative neurocognitive disorders. Related findings may also help to understand the pathogenesis of cognitive impairment linked to surgical interventions. Our hypothesis suggests that a lower preoperative thalamus volume might be associated with preCI and it additionally predicts the onset of POCD.</p>
+		</sec>
+		<sec id="Sec2" sec-type="materials|methods">
+			<title>Materials and methods</title>
+			<p id="Par8">This manuscript adheres to the applicable ‘Strengthening the Reporting of Observational Studies in Epidemiology’ (STROBE) guidelines
+				<sup>
+					<xref ref-type="bibr" rid="CR26">26</xref>
+				</sup>.
+			</p>
+			<sec id="Sec3">
+				<title>Study setting and study population</title>
+				<p id="Par9">This exploratory secondary study is part of the ‘Biomarker Development for Postoperative Cognitive Impairment in the Elderly’ framework (BioCog;
+					<ext-link xlink:href="http://www.biocog.eu" ext-link-type="url">www.biocog.eu</ext-link>). The objectives and study design were previously published
+					<sup>
+						<xref ref-type="bibr" rid="CR27">27</xref>
+					</sup>. BioCog represents a multicenter prospective observational cohort study funded by the European Union. It was approved by local ethics committees (
+					<italic>Ethikkommission der Charité</italic> No. EA2/092/14 in Berlin, Germany; and
+					<italic>Medisch Ethische Toetsingscommissie Utrecht</italic> No. 14-469 in Utrecht, Netherlands) and was preregistered (NCT02265263). All methods were performed in accordance with all relevant guidelines and regulations that apply to research with human participants. The study was conducted in adherence with the Declaration of Helsinki. The patients’ written informed consent was obtained. Patients were enrolled from October 2014 to September 2019 at two study centers. To avoid test center effects, we exclusively included data from the MRI cohort of the Berlin study center, which was recruited at Charité—Universitätsmedizin Berlin, Germany. Our final analysis sample consisted of 301 patients (see Fig.
+					<xref rid="Fig1" ref-type="fig">1</xref>).
+					<fig id="Fig1">
+						<label>Figure 1</label>
+						<caption xml:lang="en">
+							<p>‘Strengthening the Reporting of Observational Studies in Epidemiology’ (STROBE) diagram. The flow chart shows reasons displays the inclusion process until the follow-up at 3 months. Reasons for exclusion are presented in gray boxes.</p>
+						</caption>
+						<p>
+							<graphic specific-use="HTML" mime-subtype="PNG" xlink:href="MediaObjects/41598_2023_38673_Fig1_HTML.png" id="MO1"/>
+						</p>
+					</fig>
+				</p>
+				<p id="Par10">Besides MRI eligibility, patients were deemed eligible, when they were aged &gt; 65, did not show signs of dementia (Mini-Mental State Examination; MMSE &gt; 23) and were assigned for major surgery (planned surgery time &gt; 60 min). Any condition that might interfere with the interpretation of the individual neuropsychological test performance was a reason for exclusion, e.g., anacusis or hypacusis, blindness, psychiatric diseases, or psychotropic medication (
+					<ext-link xlink:href="https://clinicaltrials.gov/ct2/show/NCT02265263" ext-link-type="url">https://clinicaltrials.gov/ct2/show/NCT02265263</ext-link>). For the patients’ characteristics see Table
+					<xref rid="Tab1" ref-type="table">1</xref>.
+					<table-wrap id="Tab1">
+						<label>Table 1</label>
+						<caption xml:lang="en">
+							<p>Patient characteristics.</p>
+						</caption>
+						<table frame="hsides" rules="groups">
+							<thead>
+								<tr>
+									<th align="left"/>
+									<th align="left">
+										<p>All</p>
+										<p>N = 301</p>
+									</th>
+									<th align="left">
+										<p>No PreCI nor POCD</p>
+										<p>N = 243</p>
+									</th>
+									<th align="left">
+										<p>PreCI</p>
+										<p>N = 34</p>
+									</th>
+									<th align="left">
+										<p>POCD</p>
+										<p>N = 25</p>
+									</th>
+								</tr>
+							</thead>
+							<tbody>
+								<tr>
+									<td align="left">
+										<p>Age [years]—mean (SD)</p>
+									</td>
+									<td align="left">
+										<p>72.4 (4.9)</p>
+									</td>
+									<td align="left">
+										<p>72.0 (4.8)</p>
+									</td>
+									<td align="left">
+										<p>73.7 (4.4)</p>
+									</td>
+									<td align="left">
+										<p>75.1 (6.0)</p>
+									</td>
+								</tr>
+								<tr>
+									<td align="left">
+										<p>Female sex</p>
+									</td>
+									<td align="left">
+										<p>131 (43.5%)</p>
+									</td>
+									<td align="left">
+										<p>104 (42.8%)</p>
+									</td>
+									<td align="left">
+										<p>17 (50%)</p>
+									</td>
+									<td align="left">
+										<p>11 (44.0%)</p>
+									</td>
+								</tr>
+								<tr>
+									<td align="left">
+										<p>Body mass index (BMI)—median (IQR)</p>
+									</td>
+									<td align="left">
+										<p>26.6 (5.1)</p>
+									</td>
+									<td align="left">
+										<p>26.5 (5.0)</p>
+									</td>
+									<td align="left">
+										<p>26.8 (7.6)</p>
+									</td>
+									<td align="left">
+										<p>27.1 (7.4)</p>
+									</td>
+								</tr>
+								<tr>
+									<td align="left">
+										<p>PreCI</p>
+									</td>
+									<td align="left">
+										<p>34 (11.3%)</p>
+									</td>
+									<td align="left">
+										<p>–</p>
+									</td>
+									<td align="left">
+										<p>–</p>
+									</td>
+									<td align="left">
+										<p>1 (4.0%)</p>
+									</td>
+								</tr>
+								<tr>
+									<td align="left">
+										<p>Postoperative delirium</p>
+									</td>
+									<td align="left">
+										<p>44 (14.6%)</p>
+									</td>
+									<td align="left">
+										<p>36 (14.8%)</p>
+									</td>
+									<td align="left">
+										<p>7 (20.6%)</p>
+									</td>
+									<td align="left">
+										<p>1 (4.0%)</p>
+									</td>
+								</tr>
+								<tr>
+									<td align="left">
+										<p>POCD</p>
+									</td>
+									<td align="left">
+										<p>25 (8.3%)</p>
+									</td>
+									<td align="left">
+										<p>–</p>
+									</td>
+									<td align="left">
+										<p>1 (2.9%)</p>
+									</td>
+									<td align="left">
+										<p>–</p>
+									</td>
+								</tr>
+								<tr>
+									<td align="left">
+										<p>Diabetes</p>
+									</td>
+									<td align="left">
+										<p>72 (23.9%)</p>
+									</td>
+									<td align="left">
+										<p>59 (24.3%)</p>
+									</td>
+									<td align="left">
+										<p>7 (20.6%)</p>
+									</td>
+									<td align="left">
+										<p>6 (24.0%)</p>
+									</td>
+								</tr>
+								<tr>
+									<td align="left">
+										<p>Hypertension</p>
+									</td>
+									<td align="left">
+										<p>203 (67.4%)</p>
+									</td>
+									<td align="left">
+										<p>163 (67.1%)</p>
+									</td>
+									<td align="left">
+										<p>22 (64.7%)</p>
+									</td>
+									<td align="left">
+										<p>18 (72.0%)</p>
+									</td>
+								</tr>
+								<tr>
+									<td align="left">
+										<p>History of stroke</p>
+									</td>
+									<td align="left">
+										<p>13 (4.3%)</p>
+									</td>
+									<td align="left">
+										<p>9 (3.7%)</p>
+									</td>
+									<td align="left">
+										<p>3 (8.3%)</p>
+									</td>
+									<td align="left">
+										<p>1 (4.0%)</p>
+									</td>
+								</tr>
+								<tr>
+									<td align="left">
+										<p>Malignancy</p>
+									</td>
+									<td align="left">
+										<p>115 (38.2%)</p>
+									</td>
+									<td align="left">
+										<p>96 (39.5%)</p>
+									</td>
+									<td align="left">
+										<p>12 (35.3%)</p>
+									</td>
+									<td align="left">
+										<p>7 (28.0%)</p>
+									</td>
+								</tr>
+								<tr>
+									<td align="left">
+										<p>Preoperative anaemia</p>
+									</td>
+									<td align="left">
+										<p>81 (26.9%)</p>
+									</td>
+									<td align="left">
+										<p>65 (26.7%)</p>
+									</td>
+									<td align="left">
+										<p>9 (26.5%)</p>
+									</td>
+									<td align="left">
+										<p>8 (23.0%)</p>
+									</td>
+								</tr>
+								<tr>
+									<td align="left">
+										<p>Mini-mental state examination (MMSE)—median (IQR)</p>
+									</td>
+									<td align="left">
+										<p>29 (2.0)</p>
+									</td>
+									<td align="left">
+										<p>29 (2)</p>
+									</td>
+									<td align="left">
+										<p>28 (2)</p>
+									</td>
+									<td align="left">
+										<p>28 (1.1)</p>
+									</td>
+								</tr>
+								<tr>
+									<td align="left">
+										<p>Benzodiazepine premedication</p>
+									</td>
+									<td align="left">
+										<p>38 (12.6%)</p>
+									</td>
+									<td align="left">
+										<p>29 (11.9%)</p>
+									</td>
+									<td align="left">
+										<p>4 (11.8%)</p>
+									</td>
+									<td align="left">
+										<p>5 (20.0%)</p>
+									</td>
+								</tr>
+								<tr>
+									<td align="left">
+										<p>Duration of anesthesia [min]—mean (SD)</p>
+									</td>
+									<td align="left">
+										<p>183.9 (116.3)</p>
+										<p>N = 295</p>
+									</td>
+									<td align="left">
+										<p>194.5 (120.7) N = 238</p>
+									</td>
+									<td align="left">
+										<p>137.8 (88.8)</p>
+										<p>N = 33</p>
+									</td>
+									<td align="left">
+										<p>142.4 (74.6)</p>
+									</td>
+								</tr>
+								<tr>
+									<td align="left" colspan="5">
+										<p>Type of anesthesia</p>
+									</td>
+								</tr>
+								<tr>
+									<td align="left">
+										<p> General</p>
+									</td>
+									<td align="left">
+										<p>230 (76.4%)</p>
+									</td>
+									<td align="left">
+										<p>178 (73.3%)</p>
+									</td>
+									<td align="left">
+										<p>31 (91.2%)</p>
+									</td>
+									<td align="left">
+										<p>22 (88.0%)</p>
+									</td>
+								</tr>
+								<tr>
+									<td align="left">
+										<p> Regional</p>
+									</td>
+									<td align="left">
+										<p>15 (5%)</p>
+									</td>
+									<td align="left">
+										<p>13 (5.3%)</p>
+									</td>
+									<td align="left">
+										<p>1 (2.9%)</p>
+									</td>
+									<td align="left">
+										<p>1 (4.0%)</p>
+									</td>
+								</tr>
+								<tr>
+									<td align="left">
+										<p> Combined</p>
+									</td>
+									<td align="left">
+										<p>56 (18.6%)</p>
+									</td>
+									<td align="left">
+										<p>52 (21.4%)</p>
+									</td>
+									<td align="left">
+										<p>2 (5.9%)</p>
+									</td>
+									<td align="left">
+										<p>2 (8.0%)</p>
+									</td>
+								</tr>
+								<tr>
+									<td align="left" colspan="5">
+										<p>Type of surgery</p>
+									</td>
+								</tr>
+								<tr>
+									<td align="left">
+										<p> Musculoskeletal</p>
+									</td>
+									<td align="left">
+										<p>85 (28.2%)</p>
+									</td>
+									<td align="left">
+										<p>69 (28.4%)</p>
+									</td>
+									<td align="left">
+										<p>9 (26.5%)</p>
+									</td>
+									<td align="left">
+										<p>8 (32.0%)</p>
+									</td>
+								</tr>
+								<tr>
+									<td align="left">
+										<p> Gastrointestinal</p>
+									</td>
+									<td align="left">
+										<p>51 (16.9%)</p>
+									</td>
+									<td align="left">
+										<p>45 (18.5%)</p>
+									</td>
+									<td align="left">
+										<p>2 (5.9%)</p>
+									</td>
+									<td align="left">
+										<p>4 (16.0%)</p>
+									</td>
+								</tr>
+								<tr>
+									<td align="left">
+										<p> Cardiovascular or thoracic</p>
+									</td>
+									<td align="left">
+										<p>17 (5.6%)</p>
+									</td>
+									<td align="left">
+										<p>15 (6.2%)</p>
+									</td>
+									<td align="left">
+										<p>1 (2.9%)</p>
+									</td>
+									<td align="left">
+										<p>1 (4.0%)</p>
+									</td>
+								</tr>
+								<tr>
+									<td align="left">
+										<p> Genitourinary</p>
+									</td>
+									<td align="left">
+										<p>66 (21.9%)</p>
+									</td>
+									<td align="left">
+										<p>54 (22.2%)</p>
+									</td>
+									<td align="left">
+										<p>9 (26.5%)</p>
+									</td>
+									<td align="left">
+										<p>3 (12.0%)</p>
+									</td>
+								</tr>
+								<tr>
+									<td align="left">
+										<p> Otorhinolaryngology</p>
+									</td>
+									<td align="left">
+										<p>23 (7.6%)</p>
+									</td>
+									<td align="left">
+										<p>16 (6.6%)</p>
+									</td>
+									<td align="left">
+										<p>6 (17.6%)</p>
+									</td>
+									<td align="left">
+										<p>1 (4.0%)</p>
+									</td>
+								</tr>
+								<tr>
+									<td align="left">
+										<p> Oral and maxillofacial</p>
+									</td>
+									<td align="left">
+										<p>16 (5.3%)</p>
+									</td>
+									<td align="left">
+										<p>10 (4.1%)</p>
+									</td>
+									<td align="left">
+										<p>5 (14.7%)</p>
+									</td>
+									<td align="left">
+										<p>1 (4.0%)</p>
+									</td>
+								</tr>
+								<tr>
+									<td align="left">
+										<p> Ophthalmology</p>
+									</td>
+									<td align="left">
+										<p>22 (7.3%)</p>
+									</td>
+									<td align="left">
+										<p>18 (7.4%)</p>
+									</td>
+									<td align="left">
+										<p>1 (2.9%)</p>
+									</td>
+									<td align="left">
+										<p>3 (12.0%)</p>
+									</td>
+								</tr>
+								<tr>
+									<td align="left">
+										<p> Neurosurgery</p>
+									</td>
+									<td align="left">
+										<p>6 (2.0%)</p>
+									</td>
+									<td align="left">
+										<p>3 (1.2%)</p>
+									</td>
+									<td align="left">
+										<p>1 (2.9%)</p>
+									</td>
+									<td align="left">
+										<p>2 (8.0%)</p>
+									</td>
+								</tr>
+								<tr>
+									<td align="left">
+										<p> Other</p>
+									</td>
+									<td align="left">
+										<p>15 (5.0%)</p>
+									</td>
+									<td align="left">
+										<p>13 (5.3%)</p>
+									</td>
+									<td align="left">
+										<p>0 (0%)</p>
+									</td>
+									<td align="left">
+										<p>2 (8.0%)</p>
+									</td>
+								</tr>
+								<tr>
+									<td align="left" colspan="5">
+										<p>ASA score</p>
+									</td>
+								</tr>
+								<tr>
+									<td align="left">
+										<p> ASA I</p>
+									</td>
+									<td align="left">
+										<p>7 (2.3%)</p>
+									</td>
+									<td align="left">
+										<p>6 (2.5%)</p>
+									</td>
+									<td align="left">
+										<p>1 (2.9%)</p>
+									</td>
+									<td align="left">
+										<p>0 (0%)</p>
+									</td>
+								</tr>
+								<tr>
+									<td align="left">
+										<p> ASA II</p>
+									</td>
+									<td align="left">
+										<p>204 (67.8%)</p>
+									</td>
+									<td align="left">
+										<p>166 (68.3%)</p>
+									</td>
+									<td align="left">
+										<p>23 (67.6%)</p>
+									</td>
+									<td align="left">
+										<p>16 (64%)</p>
+									</td>
+								</tr>
+								<tr>
+									<td align="left">
+										<p> ASA III</p>
+									</td>
+									<td align="left">
+										<p>90 (29.9%)</p>
+									</td>
+									<td align="left">
+										<p>71 (29.2%)</p>
+									</td>
+									<td align="left">
+										<p>10 (29.4%)</p>
+									</td>
+									<td align="left">
+										<p>9 (36%)</p>
+									</td>
+								</tr>
+								<tr>
+									<td align="left">
+										<p>Length of stay [days]—median (IQR)</p>
+									</td>
+									<td align="left">
+										<p>6 (6)</p>
+									</td>
+									<td align="left">
+										<p>6 (6)</p>
+									</td>
+									<td align="left">
+										<p>5.5 (5.25)</p>
+									</td>
+									<td align="left">
+										<p>4 (6)</p>
+									</td>
+								</tr>
+								<tr>
+									<td align="left">
+										<p>Inhouse mortality</p>
+									</td>
+									<td align="left">
+										<p>5 (1.7%)</p>
+									</td>
+									<td align="left">
+										<p>4 (1.6%)</p>
+									</td>
+									<td align="left">
+										<p>1 (2.9%)</p>
+									</td>
+									<td align="left">
+										<p>–</p>
+									</td>
+								</tr>
+								<tr>
+									<td align="left">
+										<p>Follow-up at 3 months</p>
+									</td>
+									<td align="left">
+										<p>212 (70.4%)</p>
+									</td>
+									<td align="left">
+										<p>168 (69.1%)</p>
+									</td>
+									<td align="left">
+										<p>20 (58.8%)</p>
+									</td>
+									<td align="left">
+										<p>–</p>
+									</td>
+								</tr>
+								<tr>
+									<td align="left">
+										<p>Thalamus volume [cm
+											<sup>3</sup>]—mean (SD)
+										</p>
+									</td>
+									<td align="left">
+										<p>12.9 (1.6)</p>
+									</td>
+									<td align="left">
+										<p>13.0 (2.5)</p>
+									</td>
+									<td align="left">
+										<p>12.5 (1.3)</p>
+									</td>
+									<td align="left">
+										<p>13.1 (1.6)</p>
+									</td>
+								</tr>
+								<tr>
+									<td align="left">
+										<p>Intracranial volume [cm
+											<sup>3</sup>]—mean (SD)
+										</p>
+									</td>
+									<td align="left">
+										<p>1339.0 (212.4)</p>
+									</td>
+									<td align="left">
+										<p>1333.4 (207.9)</p>
+									</td>
+									<td align="left">
+										<p>1321.6 (216.8)</p>
+									</td>
+									<td align="left">
+										<p>1414.7 (239.4)</p>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+						<table-wrap-foot>
+							<p>The table shows characteristics of all participants, the preoperative cognitive impairment (preCI) group and the postoperative cognitive dysfunction group (POCD) group. For categorical variables percentages are given instead of mean and standard deviation (SD) in parentheses. Percentages refer to the proportion of the corresponding group. The N of patients with available data was added in grey to items with cases of missing data. (ASA score ≙ American Society of Anesthesiologists’ Physical Status Classification; IQR ≙ Interquartile Range ≙ 25th to 75th percentile).</p>
+						</table-wrap-foot>
+					</table-wrap>
+				</p>
+			</sec>
+			<sec id="Sec4">
+				<title>Preoperative cognitive impairment (preCI) and postoperative cognitive dysfunction (POCD)</title>
+				<p id="Par11">A neuropsychological test battery comprising four computerized (CANTAB, Cambridge Cognition Ltd., UK. Paired Associates Learning (PAL), Verbal Recognition Memory (VRM), Spatial Span Length (SSP) and Simple Reaction Time (SRT)) and two non-computerized cognitive tests (Trail-Making-Test (TMT) in a pen-and-paper format and the manual Grooved Pegboard Test (GPT)) was used for the cognitive assessment (Table
+					<xref rid="Tab2" ref-type="table">2</xref>). Study nurses and doctoral students were instructed according to a standard operating procedure that was developed by two neuropsychologists (Tables
+					<xref rid="Tab3" ref-type="table">3</xref>,
+					<xref rid="Tab4" ref-type="table">4</xref>).
+					<table-wrap id="Tab2">
+						<label>Table 2</label>
+						<caption xml:lang="en">
+							<p>Neuropsychological tests.</p>
+						</caption>
+						<table frame="hsides" rules="groups">
+							<thead>
+								<tr>
+									<th align="left">
+										<p>Name of cognitive test</p>
+									</th>
+									<th align="left">
+										<p>Task</p>
+									</th>
+								</tr>
+							</thead>
+							<tbody>
+								<tr>
+									<td align="left">
+										<p>Paired associates learning (PAL)—visuospatial memory</p>
+									</td>
+									<td align="left">
+										<p>Different symbols appear in a randomized order in a distinct location on the screen. The symbols are then hidden, and participants are asked to show the location of a presented symbol. If they fail to remember the correct location on the screen, the task is repeated until a maximum of ten trials. In case of an accomplished sequence, there is a next level with an increased difficulty. As a result of the PAL, a memory score was calculated</p>
+									</td>
+								</tr>
+								<tr>
+									<td align="left">
+										<p>Verbal recognition memory (VRM)—verbal memory and new learning</p>
+									</td>
+									<td align="left">
+										<p>Participants must try to memorize a list of 12 words and repeat them freely afterwards. Then a second list was presented. It included the previous words and an additional number of distractors. Participants were asked to indicate, which items they remembered from the first list. After a delay of 20 min, the list appeared again. The number of recalled words was obtained and used for further analysis</p>
+									</td>
+								</tr>
+								<tr>
+									<td align="left">
+										<p>Spatial span (SSP)—visual working memory</p>
+									</td>
+									<td align="left">
+										<p>Color changing squares appeared in a random order on the screen. Participants were required to recall the order in which the squares have changed their color. The spatial length, which is the longest correct recognition sequence of in different order appearing squares, was measured</p>
+									</td>
+								</tr>
+								<tr>
+									<td align="left">
+										<p>Grooved pegboard (GP)—visual-motor coordination</p>
+									</td>
+									<td align="left">
+										<p>There are 25 pegs, which must be rotated so they fit into the differently shaped keyholes and could be correctly inserted. Participants were required to use only one hand. The time needed to accomplish the task with the dominant hand was used here</p>
+									</td>
+								</tr>
+								<tr>
+									<td align="left">
+										<p>Simple reaction time (SRT)—reaction time</p>
+									</td>
+									<td align="left">
+										<p>A square appeared on the screen. The time intervals were varying. Participants were instructed to select the response button as fast as possible after a square was shown. Here, we focused on the number of correct trials</p>
+									</td>
+								</tr>
+								<tr>
+									<td align="left">
+										<p>Trail-making test (TMT)—cognitive flexibility, working memory and attention</p>
+									</td>
+									<td align="left">
+										<p>In part A participants ought to draw a line between 25 numbers in a numerical order. Part B required the participants to draw a line alternating between numbers in a chronological and letters in an alphabetical order (‘START’ 1, A, 2, B…12, L, 13, ‘END’). The time needed to complete the task was measured. Lifting the pencil from the paper whilst being tested was not supposed to happen in neither of both tests. If the task had not been finished after 180 (part A) or 300 (part B) seconds, it was terminated and excluded from our analysis</p>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+						<table-wrap-foot>
+							<p>For more information, please see Lammers et al.
+								<sup>
+									<xref ref-type="bibr" rid="CR28">28</xref>
+								</sup>.
+							</p>
+						</table-wrap-foot>
+					</table-wrap>
+					<table-wrap id="Tab3">
+						<label>Table 3</label>
+						<caption xml:lang="en">
+							<p>Neuropsychological test results (baseline).</p>
+						</caption>
+						<table frame="hsides" rules="groups">
+							<thead>
+								<tr>
+									<th align="left"/>
+									<th align="left">
+										<p>No PreCI nor POCD</p>
+										<p>N = 243</p>
+									</th>
+									<th align="left">
+										<p>PreCI</p>
+										<p>N = 34</p>
+									</th>
+									<th align="left">
+										<p>POCD</p>
+										<p>N = 25</p>
+									</th>
+								</tr>
+							</thead>
+							<tbody>
+								<tr>
+									<td align="left">
+										<p>Paired associates learning (PAL)—memory score calculated for the first trial</p>
+									</td>
+									<td align="left">
+										<p>14.0 (4.2)</p>
+										<p>N = 239</p>
+									</td>
+									<td align="left">
+										<p>9.4 (4.5)</p>
+									</td>
+									<td align="left">
+										<p>14.0 (3.5)</p>
+									</td>
+								</tr>
+								<tr>
+									<td align="left">
+										<p>Verbal recognition memory (VRM)—number of correctly remembered words in ‘Free recall’</p>
+									</td>
+									<td align="left">
+										<p>6.3 (1.9)</p>
+									</td>
+									<td align="left">
+										<p>3.9 (1.8)</p>
+										<p>N = 32</p>
+									</td>
+									<td align="left">
+										<p>6.7 (1.8)</p>
+										<p>N = 24</p>
+									</td>
+								</tr>
+								<tr>
+									<td align="left">
+										<p>Verbal recognition memory—number of correct and incorrect responses in ‘delayed recognition’</p>
+									</td>
+									<td align="left">
+										<p>21.8 (1.9)</p>
+										<p>N = 208</p>
+									</td>
+									<td align="left">
+										<p>19.1 (2.4)</p>
+										<p>N = 27</p>
+									</td>
+									<td align="left">
+										<p>22.4 (1.8)</p>
+										<p>N = 18</p>
+									</td>
+								</tr>
+								<tr>
+									<td align="left">
+										<p>Spatial span (SSP)—spatial length (longest correct recognition sequence of squares appearing in different order</p>
+									</td>
+									<td align="left">
+										<p>4.9 (0.9)</p>
+										<p>N = 241</p>
+									</td>
+									<td align="left">
+										<p>4.0 (0.9)</p>
+									</td>
+									<td align="left">
+										<p>4.6 (1.0)</p>
+									</td>
+								</tr>
+								<tr>
+									<td align="left">
+										<p>Grooved pegboard (GP) [s]</p>
+									</td>
+									<td align="left">
+										<p>93.1 (24.7)</p>
+										<p>N = 230</p>
+									</td>
+									<td align="left">
+										<p>133.3 (43.7)</p>
+										<p>N = 32</p>
+									</td>
+									<td align="left">
+										<p>93.5 (19.9)</p>
+										<p>N = 22</p>
+									</td>
+								</tr>
+								<tr>
+									<td align="left">
+										<p>Simple reaction time (SRT) [s]—mean of correct trials (log-transformed and reversed)</p>
+									</td>
+									<td align="left">
+										<p>309.0 (89.6)</p>
+										<p>N = 242</p>
+									</td>
+									<td align="left">
+										<p>412.0 (151.8)</p>
+									</td>
+									<td align="left">
+										<p>322.6 (88.4)</p>
+									</td>
+								</tr>
+								<tr>
+									<td align="left">
+										<p>Trail-making test B (TMT) [s]</p>
+									</td>
+									<td align="left">
+										<p>112.3 (39.1)</p>
+										<p>N = 222</p>
+									</td>
+									<td align="left">
+										<p>174.5 (73.0)</p>
+										<p>N = 24</p>
+									</td>
+									<td align="left">
+										<p>125.6 (64.0)</p>
+										<p>N = 22</p>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+						<table-wrap-foot>
+							<p>The table displays mean and standard deviation in parentheses for preoperative cognitive test results. In case of missing data, the N of patients with available data was added to items with cases of missing data.</p>
+						</table-wrap-foot>
+					</table-wrap>
+					<table-wrap id="Tab4">
+						<label>Table 4</label>
+						<caption xml:lang="en">
+							<p>Neuropsychological test results (post).</p>
+						</caption>
+						<table frame="hsides" rules="groups">
+							<thead>
+								<tr>
+									<th align="left"/>
+									<th align="left">
+										<p>No PreCI nor POCD</p>
+										<p>N = 168</p>
+									</th>
+									<th align="left">
+										<p>PreCI</p>
+										<p>N = 20</p>
+									</th>
+									<th align="left">
+										<p>POCD</p>
+										<p>N = 25</p>
+									</th>
+								</tr>
+							</thead>
+							<tbody>
+								<tr>
+									<td align="left">
+										<p>Paired associates learning (PAL)—memory score calculated for the first trial</p>
+									</td>
+									<td align="left">
+										<p>15.5 (3.9)</p>
+										<p>N = 164</p>
+									</td>
+									<td align="left">
+										<p>10.6 (4.8)</p>
+										<p>N = 18</p>
+									</td>
+									<td align="left">
+										<p>10.7 (4.7)</p>
+										<p>N = 24</p>
+									</td>
+								</tr>
+								<tr>
+									<td align="left">
+										<p>Verbal recognition memory (VRM)—number of correctly remembered words in ‘Free recall’</p>
+									</td>
+									<td align="left">
+										<p>6.4 (1.7)</p>
+										<p>N = 167</p>
+									</td>
+									<td align="left">
+										<p>4.5 (1.6)</p>
+										<p>N = 19</p>
+									</td>
+									<td align="left">
+										<p>5.2 (1.4)</p>
+									</td>
+								</tr>
+								<tr>
+									<td align="left">
+										<p>Verbal recognition memory—number of correct and incorrect responses in ‘Delayed Recogniton’</p>
+									</td>
+									<td align="left">
+										<p>21.8 (2.0)</p>
+										<p>N = 164</p>
+									</td>
+									<td align="left">
+										<p>19.3 (2.6)</p>
+										<p>N = 17</p>
+									</td>
+									<td align="left">
+										<p>20.0 (2.6)</p>
+										<p>N = 24</p>
+									</td>
+								</tr>
+								<tr>
+									<td align="left">
+										<p>Spatial span (SSP)—spatial length (longest correct recognition sequence of squares appearing in different order</p>
+									</td>
+									<td align="left">
+										<p>5.0 (0.8)</p>
+										<p>N = 166</p>
+									</td>
+									<td align="left">
+										<p>4.6 (1.1)</p>
+										<p>N = 18</p>
+									</td>
+									<td align="left">
+										<p>4.6 (0.8)</p>
+									</td>
+								</tr>
+								<tr>
+									<td align="left">
+										<p>Grooved pegboard (GP) [s]</p>
+									</td>
+									<td align="left">
+										<p>88.0 (16.7)</p>
+										<p>N = 164</p>
+									</td>
+									<td align="left">
+										<p>116.1 (25.0)</p>
+										<p>N = 18</p>
+									</td>
+									<td align="left">
+										<p>112.2 (37.5)</p>
+									</td>
+								</tr>
+								<tr>
+									<td align="left">
+										<p>Simple reaction time (SRT) [s] mean of correct trials (log-transformed and reversed)</p>
+									</td>
+									<td align="left">
+										<p>309.4 (77.0)</p>
+										<p>N = 167</p>
+									</td>
+									<td align="left">
+										<p>347.4 (94.9)</p>
+										<p>N = 19</p>
+									</td>
+									<td align="left">
+										<p>418.4 (184.1)</p>
+									</td>
+								</tr>
+								<tr>
+									<td align="left">
+										<p>Trail-making test B (TMT) [s]</p>
+									</td>
+									<td align="left">
+										<p>102.7 (35.0)</p>
+										<p>N = 162</p>
+									</td>
+									<td align="left">
+										<p>118.7 (30.3)</p>
+										<p>N = 11</p>
+									</td>
+									<td align="left">
+										<p>123.3 (48.5)</p>
+										<p>N = 22</p>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+						<table-wrap-foot>
+							<p>The table displays mean and standard deviation in parentheses for postoperative cognitive test results at follow-up. In case of missing data, the N of patients with available data was added to items with cases of missing data.</p>
+						</table-wrap-foot>
+					</table-wrap>
+				</p>
+				<p id="Par12">POCD was defined as a dichotomous variable based on an algorithm adjusting the difference in neuropsychological test scores between pre-surgery and a 3-month postsurgical assessment for natural variability and learning effects based on cognitive testing performed in a non-surgical control group a. For calculations the following seven cognitive test parameters were used
+					<sup>
+						<xref ref-type="bibr" rid="CR28">28</xref>
+					</sup>:
+					<list list-type="order">
+						<list-item>
+							<p id="Par13">Paired Associates Learning—memory score calculated for the first trial.</p>
+						</list-item>
+						<list-item>
+							<p id="Par14">Verbal Recognition Memory—number of correctly remembered words in ‘Free recall’.</p>
+						</list-item>
+						<list-item>
+							<p id="Par15">Verbal recognition memory—number of correct and incorrect responses in ‘Delayed Recognition’.</p>
+						</list-item>
+						<list-item>
+							<p id="Par16">Spatial span—spatial length (longest correct recognition sequence of squares appearing in different order).</p>
+						</list-item>
+						<list-item>
+							<p id="Par17">Grooved pegboard—time (s) needed for the insertion of certain amount of pegs into differently-shaped holes on a board using the dominant hand (log-transformed and reversed).</p>
+						</list-item>
+						<list-item>
+							<p id="Par18">Simple reaction time (s)—the mean of correct trials (log-transformed and reversed).</p>
+						</list-item>
+						<list-item>
+							<p id="Par19">Trail-making test B (s)—(log-transformed and reversed).</p>
+						</list-item>
+					</list>
+				</p>
+				<p id="Par20">To define relevant cognitive change and for dichotomization the Reliable Change Index model as published by Rasmussen et al.
+					<sup>
+						<xref ref-type="bibr" rid="CR29">29</xref>
+					</sup> was then applied. POCD was defined as total Z-score &gt; 1.96 (sum score over all tests) and/or Z-scores &gt; 1.96 in ≥ 2 individual cognitive test parameters. We calculated PreCI using the same approach. To do so, we used patients’ preoperative neuropsychological data. The BioCog non-surgical control group included n = 114 participants. The stability of the neuropsychological tests was previously ascertained and published
+					<sup>
+						<xref ref-type="bibr" rid="CR30">30</xref>
+					</sup>. Furthermore, we have assessed the differences between surgical patients and the non-surgical control group (see
+					<xref ref-type="supplementary-material" rid="MOESM1">Supplements</xref>). There were no statistically significant differences in terms of age, sex, body mass index and MMSE. However, the prevalence of comorbidities was lower among controls.
+				</p>
+			</sec>
+			<sec id="Sec5">
+				<title>Imaging</title>
+				<p id="Par21">A 3 Tesla magnetic resonance imaging scanner (Siemens Trio Magnetom) was used to obtain structural brain images. The imaging sessions were hosted by the Berlin Center for Advanced Neuroimaging (BCAN; Berlin, Germany). We ran a T1-weighted 3D magnetization-prepared rapid gradient echo (MP RAGE) sequence (TR = 2500 ms, echo time = 4.77 ms, flip angle = 7°, 192 sagittal slices, field of view = 256 × 256 mm
+					<sup>2</sup>, voxel size = 1 × 1 × 1 mm
+					<sup>3</sup>). A 32-channel head coil was used. After image acquisition, a trained neuroradiologist examined the MRI data to identify intracranial pathologies.
+				</p>
+				<p id="Par22">Freesurfer (version 5.3.) on Linux CentOS6 (× 86) was used to automatically segment subcortical volumes. The processing of T1 weighted images included motion correction, averaging, removal of non-brain tissue compartments and Talairach transformation
+					<sup>
+						<xref ref-type="bibr" rid="CR31">31</xref>,
+						<xref ref-type="bibr" rid="CR32">32</xref>
+					</sup>. Subcortical structures were automatically identified and labeled
+					<sup>
+						<xref ref-type="bibr" rid="CR33">33</xref>
+					</sup>. Segmentation in Freesurfer proved to be as robust as manual delineation
+					<sup>
+						<xref ref-type="bibr" rid="CR34">34</xref>
+					</sup>. In particular, the thalamus volume can be reliably determined with this method
+					<sup>
+						<xref ref-type="bibr" rid="CR34">34</xref>
+					</sup>. Segmentation results were nevertheless manually reviewed. However, automatically assigned labels were not corrected by the reviewer since manual correction was decided to have little to no benefit
+					<sup>
+						<xref ref-type="bibr" rid="CR35">35</xref>
+					</sup>. Manual correction also negatively affects the reproducibility of the volumetric results. Severe anatomical deviations were excluded.
+				</p>
+				<p id="Par23">Volumetric measures were given in cubic millimeters. Freesurfer values for the left and the right thalamus hemisphere were combined to obtain a single variable for the entire thalamus. The Freesurfer variable ‘EstimatedTotalIntraCranialVol’ served as a measure for intracranial volume. (
+					<ext-link xlink:href="https://surfer.nmr.mgh.harvard.edu/fswiki/MorphometryStats" ext-link-type="url">https://surfer.nmr.mgh.harvard.edu/fswiki/MorphometryStats</ext-link>).
+				</p>
+			</sec>
+			<sec id="Sec6">
+				<title>Statistical analysis</title>
+				<p id="Par24">The scaling of volumetric data was adjusted from cubic millimeters to cubic centimeters. Statistical significance was defined as p &lt; 0.05. Multicollinearity was assessed with the variance inflating factor (VIF) per variable. Multicollinearity was assumed at VIF &gt; 2.5. Baseline missing-data were considered to be missing at random. The sample size for this specific analysis was not predetermined. However, general sample size calculations were undertaken for neuroimaging biomarkers in BioCog (see
+					<xref ref-type="supplementary-material" rid="MOESM1">Supplements</xref>).
+				</p>
+				<p id="Par25">For the analysis of preCI and POCD, we ran a logistic regression model for each outcome. The accuracy of logistic regression models was determined using the area under the curve (AUC) of a receiver operating characteristic (ROC) curve. An AUC above 0.7 indicated a sufficient predictive value.</p>
+				<p id="Par26">In this study, we intended to elucidate the role of the thalamus volume. Hence, thalamus volume was set as the predictor variable. We report unadjusted and adjusted odds ratio (OR). Adjustment covariates were integrated into the logistic regression based on their dependence structure prior to the statistical analysis. Since preCI was determined analogically to the definition of POCD, we used the same covariates for the preCI regression. For POCD, higher age was presented as a risk factor
+					<sup>
+						<xref ref-type="bibr" rid="CR36">36</xref>
+					</sup>. Similarly, thalamic volumes decrease with aging. Hence, the regressions measuring POCD included the variables age alongside thalamus volume. Brain atrophy might act as a potential confounder upon thalamus volume and POCD onset. Instead of brain atrophy, intracranial volume was described to be the variable appropriate for reflecting the cognitive ability in aging people
+					<sup>
+						<xref ref-type="bibr" rid="CR37">37</xref>
+					</sup>. Therefore, we also adjusted for intracranial volume.
+				</p>
+				<p id="Par27">To account for potential effects from the surgical procedure, we undertook a post-hoc sensitivity analysis, where we further included the surgery severity (minor, moderate, major and major+), type and duration of surgery. Moreover, we performed another sensitivity analysis using composite z-scores of cognitive data. The z-scores were calculated for baseline and follow-up data based on 928 surgical patients enrolled in the BioCog study. We also analyzed the change in z-scores from pre- to postoperative. Three linear regression models contained the thalamus as variable of interest and the respective z-scores as dependent variable. We again adjusted for age, sex and intracranial volume.</p>
+				<p id="Par28">We used Graphpad Prism (Version 9.3.1 GraphPad Software, Inc.) for the statistical analysis and for creating graphs.</p>
+			</sec>
+		</sec>
+		<sec id="Sec7" sec-type="results">
+			<title>Results</title>
+			<p id="Par29">In total, 301 patients underwent neuropsychological testing and MRI before surgery. The mean age was 72.4 years (SD 4.9) and 131 (43.5%) were female (Table
+				<xref rid="Tab1" ref-type="table">1</xref>).
+			</p>
+			<p id="Par30">Of the 301 patients, 34 (11.3%) had preCI. Patients with preCI had a mean age of 73.7 years (SD 4.4) and 17 (50%) were female. Of the 34 patients who had preCI, 7 (20.6%) developed POD and 20 (58.8%) participated in the follow-up cognitive testing. We observed an OR of 0.79 ([95% CI 0.61–1.004] p = 0.06) per cm
+				<sup>3</sup> increment in thalamic volume when associated with preCI without further adjustment. After adjusting for age, sex and intracranial volume, the logistic regression model did not reveal any statistically significant association of thalamus volume with preCI (OR per cm
+				<sup>3</sup> increment 0.81 [95% CI 0.60–1.07] p = 0.14) (see
+				<xref ref-type="supplementary-material" rid="MOESM1">Supplements</xref>). The area under the ROC curve was 0.60 (p = 0.04) (see
+				<xref ref-type="supplementary-material" rid="MOESM1">Supplements</xref>). According to the calculated VIFs, multicollinearity was not present (see
+				<xref ref-type="supplementary-material" rid="MOESM1">Supplements</xref>). The composite z-score of baseline cognitive tests was statistically significantly associated with the thalamus [Beta 0.15 (95% CI 0.06–0.23) p &lt; 0.001].
+			</p>
+			<p id="Par31">Of the 212 patients that received the postoperative testing at the 3 month follow-up, 25 (11.8%) presented with POCD. Of the 89 patients (29.5%) that were loss-to-follow-up, 19 (6.3%) dropped out of the study, 15 (5.0%) died before the follow-up, 19 (16.3%) were not reachable, and 26 (8.6%) were still alive, but were not tested for different reasons. 10 patients (3.3%) paused their participation. Although they did not want to participate in the 3 month testing, they consented to attending the subsequent follow-up testing. Of the 89 patients that did not receive a cognitive assessment at the 3 months follow-up, 24 (27.0%) developed POD, 5 (5.6%) died during their postoperative stay in the hospital.</p>
+			<p id="Par32">Of those 25 patients with POCD, one (4%) had preCI prior to, and one (4%) developed POD after surgery. The mean age of patients with POCD was 75.1 years (SD 6.0) with 11 (44.0%) female patients. In a simple logistic regression, thalamic volume was not statistically significantly associated with POCD (OR per cm
+				<sup>3</sup> increment 1.04 [95% CI 0.79–1.35] p = 0.79). After adjusting for covariates, the thalamus presented with an OR of POCD per cm
+				<sup>3</sup> increment of 1.02 (95% CI 0.75–1.40; p = 0.87) (see
+				<xref ref-type="supplementary-material" rid="MOESM1">Supplements</xref>). The area under the ROC curve was 0.67 with a p-value = 0.005 (see
+				<xref ref-type="supplementary-material" rid="MOESM1">Supplements</xref>). Multicollinearity was not observed (see
+				<xref ref-type="supplementary-material" rid="MOESM1">Supplements</xref>). For the visualization of group differences see Fig.
+				<xref rid="Fig2" ref-type="fig">2</xref>. After adjusting for the extent of surgery, we still did not observe an effect of thalamic volume on POCD (OR per cm
+				<sup>3</sup> increment 0.89 [95% CI 0.62–1.29] p = 0.54; n = 210). Using continuous postoperative z-scores and the change scores left the results unchanged (see
+				<xref ref-type="supplementary-material" rid="MOESM1">Supplements</xref>).
+				<fig id="Fig2">
+					<label>Figure 2</label>
+					<caption xml:lang="en">
+						<p>Boxplots of thalamus volume across groups. Thalamus volume in cm
+							<sup>3</sup> is displayed on the y-axis, while the different groups are placed on the x-axis: the entire cohort analysed in this study (n = 301 (all) in black, patients with preoperative cognitive impairment (preCI) in pink and patients with postoperative cognitive dysfunction (POCD) in green. Coloring was selected according to colorblind safe standards.
+						</p>
+					</caption>
+					<p>
+						<graphic specific-use="HTML" mime-subtype="PNG" xlink:href="MediaObjects/41598_2023_38673_Fig2_HTML.png" id="MO2"/>
+					</p>
+				</fig>
+			</p>
+		</sec>
+		<sec id="Sec8" sec-type="discussion">
+			<title>Discussion</title>
+			<p id="Par33">In this exploratory secondary analysis of an observational cohort study in older patients we did not find an association of thalamus volume with preCI nor POCD. Thus, we presume that the preoperative thalamus volume is not a suitable biomarker. In accordance with the growing body of literature indicating a pivotal role of the thalamus in cognition, we could observe an effect of thalamic volume on preoperative cognition measured as continuous composite z-score.</p>
+			<p id="Par34">While a smaller, possibly atrophic thalamus puts patients at risk for or can be observed in instances of mild cognitive impairment, Alzheimer’s disease and postoperative delirium
+				<sup>
+					<xref ref-type="bibr" rid="CR4">4</xref>,
+					<xref ref-type="bibr" rid="CR23">23</xref>,
+					<xref ref-type="bibr" rid="CR24">24</xref>
+				</sup>, this might not be the case in preCI and POCD. Perhaps the brain reserve theory cannot be directly applied to those instances of perioperative cognition. Although we have found an association of thalamic volume with preoperative cognition, this finding does not directly translate into a clinically relevant association with preCI as defined in this study.
+			</p>
+			<p id="Par35">A different study group has shown a thalamic volume reduction after surgery
+				<sup>
+					<xref ref-type="bibr" rid="CR25">25</xref>
+				</sup>. However, this was not statistically significantly associated with POCD. Notwithstanding these findings, a longitudinal analysis of the BioCog data may lead to different results. Separately, the POCD definition of this study differs profoundly from the BioCog definition since in this study POCD was determined at the seventh day after surgery
+				<sup>
+					<xref ref-type="bibr" rid="CR25">25</xref>
+				</sup>.
+			</p>
+			<p id="Par36">POCD as an outcome in research presents a variety of methodological shortcomings. For instance, definitions of POCD are fairly heterogenous
+				<sup>
+					<xref ref-type="bibr" rid="CR38">38</xref>
+				</sup>, which complicates comparing our findings in this outcome in particular with previous research. The “Recommendations for the Nomenclature of Cognitive Change Associated with Anaesthesia and Surgery” from 2018 suggests the term ‘delayed neurocognitive recovery’ for cognitive decline present 30 days after surgery
+				<sup>
+					<xref ref-type="bibr" rid="CR39">39</xref>
+				</sup>. After this period, experts recommend using the term ‘mild/major neurocognitive disorder postoperative’ for up to 12 months after surgery. The POCD definition conventionally used until this recommendation conflicts with the category of ‘mild/major neurocognitive disorder postoperative’, since the POCD follow-up was terminated at 3 months after surgical interventions. The newly proposed term still requires an additional assessment of the ‘activities of daily living’. Hence, we were not able to simply reassess our POCD variable, which was defined at the design stage of the BioCog study in 2016. This complicates the comparability with future studies.
+			</p>
+			<sec id="Sec9">
+				<title>Limitations</title>
+				<p id="Par37">This study faces further limitations. The patients more susceptible to developing POCD due to experiencing severe postoperative complications or suffering from a significant disease were, for these same reasons, more likely not to attend the 3 month follow-up. This may lead to an inherent selection bias within the follow-up cohort. Therefore, we probably underestimate the true number of patients with POCD. Patients who experienced major complications after surgery such as postoperative delirium are underrepresented in our POCD evaluation. For instance, only one patient with POCD (4%) had also experienced POD in the early days after surgery. This does not appear plausible considering the POD incidence of 44 (14.6%) for the whole analysis sample. The loss to follow-up was also higher than expected. The sample size was not predefined. We cannot rule out that this may not have caused insufficient statistical power. We recommend a detailed analysis with further independent surgical cohorts.</p>
+				<p id="Par38">The relatively low POCD incidence might also be a direct consequence of a relatively strict cut-off of 1.96 in the reliable change index model defining relevant cognitive change. Applying an RCI method could also have caused other issues in the study
+					<sup>
+						<xref ref-type="bibr" rid="CR40">40</xref>,
+						<xref ref-type="bibr" rid="CR41">41</xref>
+					</sup>. The method used in this paper to determine POCD was published in 2001
+					<sup>
+						<xref ref-type="bibr" rid="CR29">29</xref>
+					</sup>. It was the generally preferred method when BioCog was designed, but just like the changes in terminology, the understanding of the very nature of POCD has evolved. For instance, some researchers recommend understanding perioperative neurocognitive disorders as a continuous change in cognitive performance rather than a dichotomous entity
+					<sup>
+						<xref ref-type="bibr" rid="CR42">42</xref>
+					</sup>. Another limitation regards the non-surgical control group, which was used to correct for learning effects the composition of the control group. Although the control group resembles the surgical study group in important demographic factors (e.g., age, sex, body mass index and MMSE score), both groups differ significantly in terms of comorbidities.
+				</p>
+				<p id="Par39">The anesthesiologic management was not standardized. However, to avoid the effect of deep anesthesia and high burst suppression rates all study participants were monitored with an intraoperative electroencephalogram (Masimo Sedline) according to the routine clinical treatment standard. We were not able to account for potential confounders that arose from the anesthesiologic handling.</p>
+				<p id="Par40">Volumetric analyses can be affected by a variety of external and transient factors such as diurnal fluctuations, medication and hydration status
+					<sup>
+						<xref ref-type="bibr" rid="CR43">43</xref>
+					</sup>. We were not able to account for these factors.
+				</p>
+			</sec>
+		</sec>
+		<sec id="Sec10" sec-type="conclusions">
+			<title>Conclusion</title>
+			<p id="Par41">A relationship between thalamus size and preCI or POCD was not observed in our sample. These findings suggest that the thalamus volume does not predict cognitive function as defined in this study in older patients, neither before nor after surgery. Our findings indicate that the thalamus may not be involved in the etiology of preCI and POCD. Otherwise, its impact might not be adequately depicted by volumetric analyses. Future studies may require bigger sample sizes. Alternative analysis algorithms to handle raw cognitive data may also be needed.</p>
+		</sec>
+	</body>
+	<back>
+		<ack>
+			<title>Acknowledgements</title>
+			<p>The authors acknowledge financial support from the Open Access Publication Fund of Charité—Universitätsmedizin Berlin and the German Research Foundation (DFG). They would like to thank Aurelia Dochnal (Yale University, New Haven, USA) for language editing the manuscript.</p>
+		</ack>
+		<sec sec-type="author-contribution">
+			<title>Author contributions</title>
+			<p>Conceptualization: M.F. Funding acquisition: G.W., C.S. Investigation: M.F. Methodology: F.B., I.F., M.F. Project administration: G.W., C.S., T.P. Resources: G.W., C.S. Software: M.F., G.W., N.Z. Supervision: T.P., G.W., C.S., N.Z., I.F. Validation: F.B., I.F. Visualization: M.F. Writing—review &amp; editing: M.F., I.F., F.B., T.P., C.S., G.W., N.Z.</p>
+		</sec>
+		<sec>
+			<title>Funding</title>
+			<p>Open Access funding enabled and organized by Projekt DEAL. The project ‘Biomarker Development for Postoperative Cognitive Impairment in the Elderly’ (BioCog) was supported by the European Community's FP7 under Grant Agreement No. 602461.</p>
+		</sec>
+		<sec sec-type="data-availability">
+			<title>Data availability</title>
+			<p>The raw data are under restricted access and can be requested via the EBRAINS repository (
+				<ext-link xlink:href="https://search.kg.ebrains.eu/instances/Dataset/09f0d6e2-b492-41b0-bba4-37ad9e54de27" ext-link-type="url">https://search.kg.ebrains.eu/instances/Dataset/09f0d6e2-b492-41b0-bba4-37ad9e54de27</ext-link>).
+			</p>
+		</sec>
+		<sec sec-type="ethics-statement">
+			<sec id="FPar1" sec-type="COI-statement">
+				<title>Competing interests</title>
+				<p id="Par42">The authors declare no competing interests.</p>
+			</sec>
+		</sec>
+		<ref-list id="Bib1">
+			<title>References</title>
+			<ref-list>
+				<ref id="CR1">
+					<label>1.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Androsova</surname>
+								<given-names>G</given-names>
+							</name>
+							<name>
+								<surname>Krause</surname>
+								<given-names>R</given-names>
+							</name>
+							<name>
+								<surname>Winterer</surname>
+								<given-names>G</given-names>
+							</name>
+							<name>
+								<surname>Schneider</surname>
+								<given-names>R</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Biomarkers of postoperative delirium and cognitive dysfunction</article-title>
+						<source>Front. Aging Neurosci.</source>
+						<year>2015</year>
+						<volume>7</volume>
+						<fpage>112</fpage>
+						<pub-id pub-id-type="pmid">26106326</pub-id>
+						<pub-id pub-id-type="pmcid">4460425</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR2">
+					<label>2.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Steinmetz</surname>
+								<given-names>J</given-names>
+							</name>
+							<name>
+								<surname>Christensen</surname>
+								<given-names>KB</given-names>
+							</name>
+							<name>
+								<surname>Lund</surname>
+								<given-names>T</given-names>
+							</name>
+							<name>
+								<surname>Lohse</surname>
+								<given-names>N</given-names>
+							</name>
+							<name>
+								<surname>Rasmussen</surname>
+								<given-names>LS</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Long-term consequences of postoperative cognitive dysfunction</article-title>
+						<source>Anesthesiology</source>
+						<year>2009</year>
+						<volume>110</volume>
+						<fpage>548</fpage>
+						<lpage>555</lpage>
+						<pub-id pub-id-type="pmid">19225398</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR3">
+					<label>3.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Simon</surname>
+								<given-names>AW</given-names>
+							</name>
+							<name>
+								<surname>Malte</surname>
+								<given-names>P</given-names>
+							</name>
+							<name>
+								<surname>Claudia</surname>
+								<given-names>S</given-names>
+							</name>
+							<name>
+								<surname>Fatima</surname>
+								<given-names>Y</given-names>
+							</name>
+							<name>
+								<surname>Daniel</surname>
+								<given-names>H</given-names>
+							</name>
+							<name>
+								<surname>Friedrich</surname>
+								<given-names>B</given-names>
+							</name>
+							<name>
+								<surname>Florian</surname>
+								<given-names>L-L</given-names>
+							</name>
+							<name>
+								<surname>Sophie</surname>
+								<given-names>KP</given-names>
+							</name>
+							<name>
+								<surname>Jochen</surname>
+								<given-names>K</given-names>
+							</name>
+							<name>
+								<surname>Georg</surname>
+								<given-names>W</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">A model-based estimation of annual long-term care costs in germany following post-operative cognitive dysfunction (POCD) in elderly patients</article-title>
+						<source>J. Public Health Int.</source>
+						<year>2021</year>
+						<volume>3</volume>
+						<fpage>23</fpage>
+						<lpage>36</lpage>
+					</mixed-citation>
+				</ref>
+				<ref id="CR4">
+					<label>4.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Fislage</surname>
+								<given-names>M</given-names>
+							</name>
+							<name>
+								<surname>Feinkohl</surname>
+								<given-names>I</given-names>
+							</name>
+							<name>
+								<surname>Pischon</surname>
+								<given-names>T</given-names>
+							</name>
+							<name>
+								<surname>Spies</surname>
+								<given-names>CD</given-names>
+							</name>
+							<name>
+								<surname>Borchers</surname>
+								<given-names>F</given-names>
+							</name>
+							<name>
+								<surname>Winterer</surname>
+								<given-names>G</given-names>
+							</name>
+							<name>
+								<surname>Zacharias</surname>
+								<given-names>N</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Presurgical thalamus volume in postoperative delirium: A longitudinal observational cohort study in older patients</article-title>
+						<source>Anesth. Analg.</source>
+						<year>2022</year>
+						<volume>135</volume>
+						<fpage>136</fpage>
+						<lpage>142</lpage>
+						<pub-id pub-id-type="pmid">35442218</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR5">
+					<label>5.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Schlünzen</surname>
+								<given-names>L</given-names>
+							</name>
+							<name>
+								<surname>Juul</surname>
+								<given-names>N</given-names>
+							</name>
+							<name>
+								<surname>Hansen</surname>
+								<given-names>KV</given-names>
+							</name>
+							<name>
+								<surname>Cold</surname>
+								<given-names>GE</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Regional cerebral blood flow and glucose metabolism during propofol anaesthesia in healthy subjects studied with positron emission tomography</article-title>
+						<source>Acta Anaesthesiol. Scand.</source>
+						<year>2012</year>
+						<volume>56</volume>
+						<fpage>248</fpage>
+						<lpage>255</lpage>
+						<pub-id pub-id-type="pmid">22091956</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR6">
+					<label>6.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Xie</surname>
+								<given-names>G</given-names>
+							</name>
+							<name>
+								<surname>Deschamps</surname>
+								<given-names>A</given-names>
+							</name>
+							<name>
+								<surname>Backman</surname>
+								<given-names>SB</given-names>
+							</name>
+							<name>
+								<surname>Fiset</surname>
+								<given-names>P</given-names>
+							</name>
+							<name>
+								<surname>Chartrand</surname>
+								<given-names>D</given-names>
+							</name>
+							<name>
+								<surname>Dagher</surname>
+								<given-names>A</given-names>
+							</name>
+							<name>
+								<surname>Plourde</surname>
+								<given-names>G</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Critical involvement of the thalamus and precuneus during restoration of consciousness with physostigmine in humans during propofol anaesthesia: A positron emission tomography study</article-title>
+						<source>Br. J. Anaesth.</source>
+						<year>2011</year>
+						<volume>106</volume>
+						<fpage>548</fpage>
+						<lpage>557</lpage>
+						<pub-id pub-id-type="coi">1:CAS:528:DC%2BC3MXjsFOhu7c%3D</pub-id>
+						<pub-id pub-id-type="pmid">21285081</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR7">
+					<label>7.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Alkire</surname>
+								<given-names>MT</given-names>
+							</name>
+							<name>
+								<surname>Hudetz</surname>
+								<given-names>AG</given-names>
+							</name>
+							<name>
+								<surname>Tononi</surname>
+								<given-names>G</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Consciousness and anesthesia</article-title>
+						<source>Science</source>
+						<year>2008</year>
+						<volume>322</volume>
+						<fpage>876</fpage>
+						<lpage>880</lpage>
+						<pub-id pub-id-type="bibcode">2008Sci...322..876A</pub-id>
+						<pub-id pub-id-type="coi">1:CAS:528:DC%2BD1cXhtlaltL3N</pub-id>
+						<pub-id pub-id-type="pmid">18988836</pub-id>
+						<pub-id pub-id-type="pmcid">2743249</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR8">
+					<label>8.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>White</surname>
+								<given-names>NS</given-names>
+							</name>
+							<name>
+								<surname>Alkire</surname>
+								<given-names>MT</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Impaired thalamocortical connectivity in humans during general-anesthetic-induced unconsciousness</article-title>
+						<source>Neuroimage</source>
+						<year>2003</year>
+						<volume>19</volume>
+						<fpage>402</fpage>
+						<lpage>411</lpage>
+						<pub-id pub-id-type="pmid">12814589</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR9">
+					<label>9.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Stamatakis</surname>
+								<given-names>EA</given-names>
+							</name>
+							<name>
+								<surname>Adapa</surname>
+								<given-names>RM</given-names>
+							</name>
+							<name>
+								<surname>Absalom</surname>
+								<given-names>AR</given-names>
+							</name>
+							<name>
+								<surname>Menon</surname>
+								<given-names>DK</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Changes in resting neural connectivity during propofol sedation</article-title>
+						<source>PLoS ONE</source>
+						<year>2010</year>
+						<volume>5</volume>
+						<fpage>e14224</fpage>
+						<pub-id pub-id-type="bibcode">2010PLoSO...514224S</pub-id>
+						<pub-id pub-id-type="coi">1:CAS:528:DC%2BC3cXhsFGmu7rJ</pub-id>
+						<pub-id pub-id-type="pmid">21151992</pub-id>
+						<pub-id pub-id-type="pmcid">2996305</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR10">
+					<label>10.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Fislage</surname>
+								<given-names>M</given-names>
+							</name>
+							<name>
+								<surname>Winzeck</surname>
+								<given-names>S</given-names>
+							</name>
+							<name>
+								<surname>Stamatakis</surname>
+								<given-names>E</given-names>
+							</name>
+							<name>
+								<surname>Correia</surname>
+								<given-names>MM</given-names>
+							</name>
+							<name>
+								<surname>Preller</surname>
+								<given-names>J</given-names>
+							</name>
+							<name>
+								<surname>Feinkohl</surname>
+								<given-names>I</given-names>
+							</name>
+							<name>
+								<surname>Spies</surname>
+								<given-names>CD</given-names>
+							</name>
+							<name>
+								<surname>Hendrikse</surname>
+								<given-names>J</given-names>
+							</name>
+							<name>
+								<surname>Slooter</surname>
+								<given-names>JCA</given-names>
+							</name>
+							<name>
+								<surname>Winterer</surname>
+								<given-names>G</given-names>
+							</name>
+							<name>
+								<surname>Pischon</surname>
+								<given-names>T</given-names>
+							</name>
+							<name>
+								<surname>Menon</surname>
+								<given-names>DK</given-names>
+							</name>
+							<name>
+								<surname>Zacharias</surname>
+								<given-names>N</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Presurgical diffusion metrics of the thalamus and thalamic nuclei in postoperative delirium: A prospective two-centre cohort study in older patients</article-title>
+						<source>NeuroImage Clin.</source>
+						<year>2022</year>
+						<volume>36</volume>
+						<fpage>103208</fpage>
+						<pub-id pub-id-type="pmid">36201951</pub-id>
+						<pub-id pub-id-type="pmcid">9668602</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR11">
+					<label>11.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Staff</surname>
+								<given-names>RT</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Reserve, brain changes, and decline</article-title>
+						<source>Neuroimaging Clin. N. Am.</source>
+						<year>2012</year>
+						<volume>22</volume>
+						<fpage>99</fpage>
+						<lpage>105</lpage>
+						<pub-id pub-id-type="pmid">22284736</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR12">
+					<label>12.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Richards</surname>
+								<given-names>M</given-names>
+							</name>
+							<name>
+								<surname>Deary</surname>
+								<given-names>IJ</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">A life course approach to cognitive reserve: A model for cognitive aging and development?</article-title>
+						<source>Ann. Neurol.</source>
+						<year>2005</year>
+						<volume>58</volume>
+						<fpage>617</fpage>
+						<lpage>622</lpage>
+						<pub-id pub-id-type="pmid">16178025</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR13">
+					<label>13.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Deary</surname>
+								<given-names>IJ</given-names>
+							</name>
+							<name>
+								<surname>Penke</surname>
+								<given-names>L</given-names>
+							</name>
+							<name>
+								<surname>Johnson</surname>
+								<given-names>W</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">The neuroscience of human intelligence differences</article-title>
+						<source>Nat. Rev. Neurosci.</source>
+						<year>2010</year>
+						<volume>11</volume>
+						<fpage>201</fpage>
+						<lpage>211</lpage>
+						<pub-id pub-id-type="coi">1:CAS:528:DC%2BC3cXhslajt7k%3D</pub-id>
+						<pub-id pub-id-type="pmid">20145623</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR14">
+					<label>14.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Fama</surname>
+								<given-names>R</given-names>
+							</name>
+							<name>
+								<surname>Sullivan</surname>
+								<given-names>EV</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Thalamic structures and associated cognitive functions: Relations with age and aging</article-title>
+						<source>Neurosci. Biobehav. Rev.</source>
+						<year>2015</year>
+						<volume>54</volume>
+						<fpage>29</fpage>
+						<lpage>37</lpage>
+						<pub-id pub-id-type="pmid">25862940</pub-id>
+						<pub-id pub-id-type="pmcid">4457546</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR15">
+					<label>15.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Van Der Werf</surname>
+								<given-names>YD</given-names>
+							</name>
+							<name>
+								<surname>Tisserand</surname>
+								<given-names>DJ</given-names>
+							</name>
+							<name>
+								<surname>Visser</surname>
+								<given-names>PJ</given-names>
+							</name>
+							<name>
+								<surname>Hofman</surname>
+								<given-names>PA</given-names>
+							</name>
+							<name>
+								<surname>Vuurman</surname>
+								<given-names>E</given-names>
+							</name>
+							<name>
+								<surname>Uylings</surname>
+								<given-names>HB</given-names>
+							</name>
+							<name>
+								<surname>Jolles</surname>
+								<given-names>J</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Thalamic volume predicts performance on tests of cognitive speed and decreases in healthy aging. A magnetic resonance imaging-based volumetric analysis</article-title>
+						<source>Brain Res. Cogn. Brain Res.</source>
+						<year>2001</year>
+						<volume>11</volume>
+						<fpage>377</fpage>
+						<lpage>85</lpage>
+						<pub-id pub-id-type="pmid">11339987</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR16">
+					<label>16.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Parnaudeau</surname>
+								<given-names>S</given-names>
+							</name>
+							<name>
+								<surname>Bolkan</surname>
+								<given-names>SS</given-names>
+							</name>
+							<name>
+								<surname>Kellendonk</surname>
+								<given-names>C</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">The mediodorsal thalamus: An essential partner of the prefrontal cortex for cognition</article-title>
+						<source>Biol. Psychiatry</source>
+						<year>2018</year>
+						<volume>83</volume>
+						<fpage>648</fpage>
+						<lpage>656</lpage>
+						<pub-id pub-id-type="pmid">29275841</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR17">
+					<label>17.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Giattino</surname>
+								<given-names>CM</given-names>
+							</name>
+							<name>
+								<surname>Gardner</surname>
+								<given-names>JE</given-names>
+							</name>
+							<name>
+								<surname>Sbahi</surname>
+								<given-names>FM</given-names>
+							</name>
+							<name>
+								<surname>Roberts</surname>
+								<given-names>KC</given-names>
+							</name>
+							<name>
+								<surname>Cooter</surname>
+								<given-names>M</given-names>
+							</name>
+							<name>
+								<surname>Moretti</surname>
+								<given-names>E</given-names>
+							</name>
+							<name>
+								<surname>Browndyke</surname>
+								<given-names>JN</given-names>
+							</name>
+							<name>
+								<surname>Mathew</surname>
+								<given-names>JP</given-names>
+							</name>
+							<name>
+								<surname>Woldorff</surname>
+								<given-names>MG</given-names>
+							</name>
+							<name>
+								<surname>Berger</surname>
+								<given-names>M</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Intraoperative frontal alpha-band power correlates with preoperative neurocognitive function in older adults</article-title>
+						<source>Front. Syst. Neurosci.</source>
+						<year>2017</year>
+						<volume>11</volume>
+						<fpage>24</fpage>
+						<pub-id pub-id-type="pmid">28533746</pub-id>
+						<pub-id pub-id-type="pmcid">5420579</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR18">
+					<label>18.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Rikhye</surname>
+								<given-names>RV</given-names>
+							</name>
+							<name>
+								<surname>Wimmer</surname>
+								<given-names>RD</given-names>
+							</name>
+							<name>
+								<surname>Halassa</surname>
+								<given-names>MM</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Toward an integrative theory of thalamic function</article-title>
+						<source>Annu. Rev. Neurosci.</source>
+						<year>2018</year>
+						<volume>41</volume>
+						<fpage>163</fpage>
+						<lpage>183</lpage>
+						<pub-id pub-id-type="coi">1:CAS:528:DC%2BC1cXntVGiu7s%3D</pub-id>
+						<pub-id pub-id-type="pmid">29618284</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR19">
+					<label>19.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Rikhye</surname>
+								<given-names>RV</given-names>
+							</name>
+							<name>
+								<surname>Gilra</surname>
+								<given-names>A</given-names>
+							</name>
+							<name>
+								<surname>Halassa</surname>
+								<given-names>MM</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Thalamic regulation of switching between cortical representations enables cognitive flexibility</article-title>
+						<source>Nat. Neurosci.</source>
+						<year>2018</year>
+						<volume>21</volume>
+						<fpage>1753</fpage>
+						<lpage>1763</lpage>
+						<pub-id pub-id-type="coi">1:CAS:528:DC%2BC1cXit1Crsb3K</pub-id>
+						<pub-id pub-id-type="pmid">30455456</pub-id>
+						<pub-id pub-id-type="pmcid">7225728</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR20">
+					<label>20.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Halassa</surname>
+								<given-names>MM</given-names>
+							</name>
+							<name>
+								<surname>Kastner</surname>
+								<given-names>S</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Thalamic functions in distributed cognitive control</article-title>
+						<source>Nat. Neurosci.</source>
+						<year>2017</year>
+						<volume>20</volume>
+						<fpage>1669</fpage>
+						<lpage>1679</lpage>
+						<pub-id pub-id-type="coi">1:CAS:528:DC%2BC1cXltVyhtrk%3D</pub-id>
+						<pub-id pub-id-type="pmid">29184210</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR21">
+					<label>21.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Van der Werf</surname>
+								<given-names>YD</given-names>
+							</name>
+							<name>
+								<surname>Jolles</surname>
+								<given-names>J</given-names>
+							</name>
+							<name>
+								<surname>Witter</surname>
+								<given-names>MP</given-names>
+							</name>
+							<name>
+								<surname>Uylings</surname>
+								<given-names>HB</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Contributions of thalamic nuclei to declarative memory functioning</article-title>
+						<source>Cortex</source>
+						<year>2003</year>
+						<volume>39</volume>
+						<fpage>1047</fpage>
+						<lpage>1062</lpage>
+						<pub-id pub-id-type="pmid">14584566</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR22">
+					<label>22.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Van der Werf</surname>
+								<given-names>YD</given-names>
+							</name>
+							<name>
+								<surname>Scheltens</surname>
+								<given-names>P</given-names>
+							</name>
+							<name>
+								<surname>Lindeboom</surname>
+								<given-names>J</given-names>
+							</name>
+							<name>
+								<surname>Witter</surname>
+								<given-names>MP</given-names>
+							</name>
+							<name>
+								<surname>Uylings</surname>
+								<given-names>HB</given-names>
+							</name>
+							<name>
+								<surname>Jolles</surname>
+								<given-names>J</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Deficits of memory, executive functioning and attention following infarction in the thalamus; a study of 22 cases with localised lesions</article-title>
+						<source>Neuropsychologia</source>
+						<year>2003</year>
+						<volume>41</volume>
+						<fpage>1330</fpage>
+						<lpage>1344</lpage>
+						<pub-id pub-id-type="pmid">12757906</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR23">
+					<label>23.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Zidan</surname>
+								<given-names>M</given-names>
+							</name>
+							<name>
+								<surname>Boban</surname>
+								<given-names>J</given-names>
+							</name>
+							<name>
+								<surname>Bjelan</surname>
+								<given-names>M</given-names>
+							</name>
+							<name>
+								<surname>Todorović</surname>
+								<given-names>A</given-names>
+							</name>
+							<name>
+								<surname>Stankov Vujanić</surname>
+								<given-names>T</given-names>
+							</name>
+							<name>
+								<surname>Semnic</surname>
+								<given-names>M</given-names>
+							</name>
+							<name>
+								<surname>Boban</surname>
+								<given-names>N</given-names>
+							</name>
+							<name>
+								<surname>Kozić</surname>
+								<given-names>D</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Thalamic volume loss as an early sign of amnestic mild cognitive impairment</article-title>
+						<source>J. Clin. Neurosci.</source>
+						<year>2019</year>
+						<volume>68</volume>
+						<fpage>168</fpage>
+						<lpage>173</lpage>
+						<pub-id pub-id-type="pmid">31324472</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR24">
+					<label>24.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>de Jong</surname>
+								<given-names>LW</given-names>
+							</name>
+							<name>
+								<surname>van der Hiele</surname>
+								<given-names>K</given-names>
+							</name>
+							<name>
+								<surname>Veer</surname>
+								<given-names>IM</given-names>
+							</name>
+							<name>
+								<surname>Houwing</surname>
+								<given-names>JJ</given-names>
+							</name>
+							<name>
+								<surname>Westendorp</surname>
+								<given-names>RG</given-names>
+							</name>
+							<name>
+								<surname>Bollen</surname>
+								<given-names>EL</given-names>
+							</name>
+							<name>
+								<surname>de Bruin</surname>
+								<given-names>PW</given-names>
+							</name>
+							<name>
+								<surname>Middelkoop</surname>
+								<given-names>HA</given-names>
+							</name>
+							<name>
+								<surname>van Buchem</surname>
+								<given-names>MA</given-names>
+							</name>
+							<name>
+								<surname>van der Grond</surname>
+								<given-names>J</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Strongly reduced volumes of putamen and thalamus in Alzheimer's disease: An MRI study</article-title>
+						<source>Brain</source>
+						<year>2008</year>
+						<volume>131</volume>
+						<fpage>3277</fpage>
+						<lpage>3285</lpage>
+						<pub-id pub-id-type="pmid">19022861</pub-id>
+						<pub-id pub-id-type="pmcid">2639208</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR25">
+					<label>25.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Sato</surname>
+								<given-names>C</given-names>
+							</name>
+							<name>
+								<surname>Sekiguchi</surname>
+								<given-names>A</given-names>
+							</name>
+							<name>
+								<surname>Kawai</surname>
+								<given-names>M</given-names>
+							</name>
+							<name>
+								<surname>Kotozaki</surname>
+								<given-names>Y</given-names>
+							</name>
+							<name>
+								<surname>Nouchi</surname>
+								<given-names>R</given-names>
+							</name>
+							<name>
+								<surname>Tada</surname>
+								<given-names>H</given-names>
+							</name>
+							<name>
+								<surname>Takeuchi</surname>
+								<given-names>H</given-names>
+							</name>
+							<name>
+								<surname>Ishida</surname>
+								<given-names>T</given-names>
+							</name>
+							<name>
+								<surname>Taki</surname>
+								<given-names>Y</given-names>
+							</name>
+							<name>
+								<surname>Kawashima</surname>
+								<given-names>R</given-names>
+							</name>
+							<name>
+								<surname>Ohuchi</surname>
+								<given-names>N</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Postoperative structural brain changes and cognitive dysfunction in patients with breast cancer</article-title>
+						<source>PLoS ONE</source>
+						<year>2015</year>
+						<volume>10</volume>
+						<fpage>e0140655</fpage>
+						<pub-id pub-id-type="pmid">26536672</pub-id>
+						<pub-id pub-id-type="pmcid">4633203</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR26">
+					<label>26.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Von Elm</surname>
+								<given-names>E</given-names>
+							</name>
+							<name>
+								<surname>Altman</surname>
+								<given-names>DG</given-names>
+							</name>
+							<name>
+								<surname>Egger</surname>
+								<given-names>M</given-names>
+							</name>
+							<name>
+								<surname>Pocock</surname>
+								<given-names>SJ</given-names>
+							</name>
+							<name>
+								<surname>Gøtzsche</surname>
+								<given-names>PC</given-names>
+							</name>
+							<name>
+								<surname>Vandenbroucke</surname>
+								<given-names>JP</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">The strengthening the reporting of observational studies in epidemiology (STROBE) statement: Guidelines for reporting observational studies</article-title>
+						<source>PLoS Med.</source>
+						<year>2007</year>
+						<volume>4</volume>
+						<fpage>e296</fpage>
+					</mixed-citation>
+				</ref>
+				<ref id="CR27">
+					<label>27.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Winterer</surname>
+								<given-names>G</given-names>
+							</name>
+							<name>
+								<surname>Androsova</surname>
+								<given-names>G</given-names>
+							</name>
+							<name>
+								<surname>Bender</surname>
+								<given-names>O</given-names>
+							</name>
+							<name>
+								<surname>Boraschi</surname>
+								<given-names>D</given-names>
+							</name>
+							<name>
+								<surname>Borchers</surname>
+								<given-names>F</given-names>
+							</name>
+							<name>
+								<surname>Dschietzig</surname>
+								<given-names>TB</given-names>
+							</name>
+							<name>
+								<surname>Feinkohl</surname>
+								<given-names>I</given-names>
+							</name>
+							<name>
+								<surname>Fletcher</surname>
+								<given-names>P</given-names>
+							</name>
+							<name>
+								<surname>Gallinat</surname>
+								<given-names>J</given-names>
+							</name>
+							<name>
+								<surname>Hadzidiakos</surname>
+								<given-names>D</given-names>
+							</name>
+							<name>
+								<surname>Haynes</surname>
+								<given-names>JD</given-names>
+							</name>
+							<name>
+								<surname>Heppner</surname>
+								<given-names>F</given-names>
+							</name>
+							<name>
+								<surname>Hetzer</surname>
+								<given-names>S</given-names>
+							</name>
+							<name>
+								<surname>Hendrikse</surname>
+								<given-names>J</given-names>
+							</name>
+							<name>
+								<surname>Ittermann</surname>
+								<given-names>B</given-names>
+							</name>
+							<name>
+								<surname>Kant</surname>
+								<given-names>IMJ</given-names>
+							</name>
+							<name>
+								<surname>Kraft</surname>
+								<given-names>A</given-names>
+							</name>
+							<name>
+								<surname>Krannich</surname>
+								<given-names>A</given-names>
+							</name>
+							<name>
+								<surname>Krause</surname>
+								<given-names>R</given-names>
+							</name>
+							<name>
+								<surname>Kühn</surname>
+								<given-names>S</given-names>
+							</name>
+							<name>
+								<surname>Lachmann</surname>
+								<given-names>G</given-names>
+							</name>
+							<name>
+								<surname>van Montfort</surname>
+								<given-names>SJT</given-names>
+							</name>
+							<name>
+								<surname>Müller</surname>
+								<given-names>A</given-names>
+							</name>
+							<name>
+								<surname>Nürnberg</surname>
+								<given-names>P</given-names>
+							</name>
+							<name>
+								<surname>Ofosu</surname>
+								<given-names>K</given-names>
+							</name>
+							<name>
+								<surname>Pietsch</surname>
+								<given-names>M</given-names>
+							</name>
+							<name>
+								<surname>Pischon</surname>
+								<given-names>T</given-names>
+							</name>
+							<name>
+								<surname>Preller</surname>
+								<given-names>J</given-names>
+							</name>
+							<name>
+								<surname>Renzulli</surname>
+								<given-names>E</given-names>
+							</name>
+							<name>
+								<surname>Scheurer</surname>
+								<given-names>K</given-names>
+							</name>
+							<name>
+								<surname>Schneider</surname>
+								<given-names>R</given-names>
+							</name>
+							<name>
+								<surname>Slooter</surname>
+								<given-names>AJC</given-names>
+							</name>
+							<name>
+								<surname>Spies</surname>
+								<given-names>C</given-names>
+							</name>
+							<name>
+								<surname>Stamatakis</surname>
+								<given-names>E</given-names>
+							</name>
+							<name>
+								<surname>Volk</surname>
+								<given-names>HD</given-names>
+							</name>
+							<name>
+								<surname>Weber</surname>
+								<given-names>S</given-names>
+							</name>
+							<name>
+								<surname>Wolf</surname>
+								<given-names>A</given-names>
+							</name>
+							<name>
+								<surname>Yürek</surname>
+								<given-names>F</given-names>
+							</name>
+							<name>
+								<surname>Zacharias</surname>
+								<given-names>N</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Personalized risk prediction of postoperative cognitive impairment—Rationale for the EU-funded BioCog project</article-title>
+						<source>Eur. Psychiatry</source>
+						<year>2018</year>
+						<volume>50</volume>
+						<fpage>34</fpage>
+						<lpage>39</lpage>
+						<pub-id pub-id-type="coi">1:STN:280:DC%2BC1MvntFGgug%3D%3D</pub-id>
+						<pub-id pub-id-type="pmid">29398565</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR28">
+					<label>28.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Lammers</surname>
+								<given-names>F</given-names>
+							</name>
+							<name>
+								<surname>Borchers</surname>
+								<given-names>F</given-names>
+							</name>
+							<name>
+								<surname>Feinkohl</surname>
+								<given-names>I</given-names>
+							</name>
+							<name>
+								<surname>Hendrikse</surname>
+								<given-names>J</given-names>
+							</name>
+							<name>
+								<surname>Kant</surname>
+								<given-names>IMJ</given-names>
+							</name>
+							<name>
+								<surname>Kozma</surname>
+								<given-names>P</given-names>
+							</name>
+							<name>
+								<surname>Pischon</surname>
+								<given-names>T</given-names>
+							</name>
+							<name>
+								<surname>Slooter</surname>
+								<given-names>AJC</given-names>
+							</name>
+							<name>
+								<surname>Spies</surname>
+								<given-names>C</given-names>
+							</name>
+							<name>
+								<surname>van Montfort</surname>
+								<given-names>SJT</given-names>
+							</name>
+							<name>
+								<surname>Zacharias</surname>
+								<given-names>N</given-names>
+							</name>
+							<name>
+								<surname>Zaborszky</surname>
+								<given-names>L</given-names>
+							</name>
+							<name>
+								<surname>Winterer</surname>
+								<given-names>G</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Basal forebrain cholinergic system volume is associated with general cognitive ability in the elderly</article-title>
+						<source>Neuropsychologia</source>
+						<year>2018</year>
+						<volume>119</volume>
+						<fpage>145</fpage>
+						<lpage>156</lpage>
+						<pub-id pub-id-type="pmid">30096414</pub-id>
+						<pub-id pub-id-type="pmcid">6338214</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR29">
+					<label>29.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Rasmussen</surname>
+								<given-names>LS</given-names>
+							</name>
+							<name>
+								<surname>Larsen</surname>
+								<given-names>K</given-names>
+							</name>
+							<name>
+								<surname>Houx</surname>
+								<given-names>P</given-names>
+							</name>
+							<name>
+								<surname>Skovgaard</surname>
+								<given-names>LT</given-names>
+							</name>
+							<name>
+								<surname>Hanning</surname>
+								<given-names>CD</given-names>
+							</name>
+							<name>
+								<surname>Moller</surname>
+								<given-names>JT</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">The assessment of postoperative cognitive function</article-title>
+						<source>Acta Anaesthesiol. Scand.</source>
+						<year>2001</year>
+						<volume>45</volume>
+						<fpage>275</fpage>
+						<lpage>289</lpage>
+						<pub-id pub-id-type="coi">1:STN:280:DC%2BD3Mzit12isw%3D%3D</pub-id>
+						<pub-id pub-id-type="pmid">11207462</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR30">
+					<label>30.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Feinkohl</surname>
+								<given-names>I</given-names>
+							</name>
+							<name>
+								<surname>Borchers</surname>
+								<given-names>F</given-names>
+							</name>
+							<name>
+								<surname>Burkhardt</surname>
+								<given-names>S</given-names>
+							</name>
+							<name>
+								<surname>Krampe</surname>
+								<given-names>H</given-names>
+							</name>
+							<name>
+								<surname>Kraft</surname>
+								<given-names>A</given-names>
+							</name>
+							<name>
+								<surname>Speidel</surname>
+								<given-names>S</given-names>
+							</name>
+							<name>
+								<surname>Kant</surname>
+								<given-names>IMJ</given-names>
+							</name>
+							<name>
+								<surname>van Montfort</surname>
+								<given-names>SJT</given-names>
+							</name>
+							<name>
+								<surname>Aarts</surname>
+								<given-names>E</given-names>
+							</name>
+							<name>
+								<surname>Kruppa</surname>
+								<given-names>J</given-names>
+							</name>
+							<name>
+								<surname>Slooter</surname>
+								<given-names>A</given-names>
+							</name>
+							<name>
+								<surname>Winterer</surname>
+								<given-names>G</given-names>
+							</name>
+							<name>
+								<surname>Pischon</surname>
+								<given-names>T</given-names>
+							</name>
+							<name>
+								<surname>Spies</surname>
+								<given-names>C</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Stability of neuropsychological test performance in older adults serving as normative controls for a study on postoperative cognitive dysfunction</article-title>
+						<source>BMC Res. Notes</source>
+						<year>2020</year>
+						<volume>13</volume>
+						<fpage>55</fpage>
+						<pub-id pub-id-type="pmid">32019577</pub-id>
+						<pub-id pub-id-type="pmcid">7001199</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR31">
+					<label>31.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Dale</surname>
+								<given-names>AM</given-names>
+							</name>
+							<name>
+								<surname>Fischl</surname>
+								<given-names>B</given-names>
+							</name>
+							<name>
+								<surname>Sereno</surname>
+								<given-names>MI</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Cortical surface-based analysis. I. Segmentation and surface reconstruction</article-title>
+						<source>Neuroimage</source>
+						<year>1999</year>
+						<volume>9</volume>
+						<fpage>179</fpage>
+						<lpage>194</lpage>
+						<pub-id pub-id-type="coi">1:STN:280:DyaK1M7jt1Gisg%3D%3D</pub-id>
+						<pub-id pub-id-type="pmid">9931268</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR32">
+					<label>32.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Reuter</surname>
+								<given-names>M</given-names>
+							</name>
+							<name>
+								<surname>Rosas</surname>
+								<given-names>HD</given-names>
+							</name>
+							<name>
+								<surname>Fischl</surname>
+								<given-names>B</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Highly accurate inverse consistent registration: A robust approach</article-title>
+						<source>Neuroimage</source>
+						<year>2010</year>
+						<volume>53</volume>
+						<fpage>1181</fpage>
+						<lpage>1196</lpage>
+						<pub-id pub-id-type="pmid">20637289</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR33">
+					<label>33.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Fischl</surname>
+								<given-names>B</given-names>
+							</name>
+							<name>
+								<surname>Salat</surname>
+								<given-names>DH</given-names>
+							</name>
+							<name>
+								<surname>Busa</surname>
+								<given-names>E</given-names>
+							</name>
+							<name>
+								<surname>Albert</surname>
+								<given-names>M</given-names>
+							</name>
+							<name>
+								<surname>Dieterich</surname>
+								<given-names>M</given-names>
+							</name>
+							<name>
+								<surname>Haselgrove</surname>
+								<given-names>C</given-names>
+							</name>
+							<name>
+								<surname>van der Kouwe</surname>
+								<given-names>A</given-names>
+							</name>
+							<name>
+								<surname>Killiany</surname>
+								<given-names>R</given-names>
+							</name>
+							<name>
+								<surname>Kennedy</surname>
+								<given-names>D</given-names>
+							</name>
+							<name>
+								<surname>Klaveness</surname>
+								<given-names>S</given-names>
+							</name>
+							<name>
+								<surname>Montillo</surname>
+								<given-names>A</given-names>
+							</name>
+							<name>
+								<surname>Makris</surname>
+								<given-names>N</given-names>
+							</name>
+							<name>
+								<surname>Rosen</surname>
+								<given-names>B</given-names>
+							</name>
+							<name>
+								<surname>Dale</surname>
+								<given-names>AM</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Whole brain segmentation: Automated labeling of neuroanatomical structures in the human brain</article-title>
+						<source>Neuron</source>
+						<year>2002</year>
+						<volume>33</volume>
+						<fpage>341</fpage>
+						<lpage>355</lpage>
+						<pub-id pub-id-type="coi">1:CAS:528:DC%2BD38XjtlWnsbg%3D</pub-id>
+						<pub-id pub-id-type="pmid">11832223</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR34">
+					<label>34.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Keller</surname>
+								<given-names>SS</given-names>
+							</name>
+							<name>
+								<surname>Gerdes</surname>
+								<given-names>JS</given-names>
+							</name>
+							<name>
+								<surname>Mohammadi</surname>
+								<given-names>S</given-names>
+							</name>
+							<name>
+								<surname>Kellinghaus</surname>
+								<given-names>C</given-names>
+							</name>
+							<name>
+								<surname>Kugel</surname>
+								<given-names>H</given-names>
+							</name>
+							<name>
+								<surname>Deppe</surname>
+								<given-names>K</given-names>
+							</name>
+							<name>
+								<surname>Ringelstein</surname>
+								<given-names>EB</given-names>
+							</name>
+							<name>
+								<surname>Evers</surname>
+								<given-names>S</given-names>
+							</name>
+							<name>
+								<surname>Schwindt</surname>
+								<given-names>W</given-names>
+							</name>
+							<name>
+								<surname>Deppe</surname>
+								<given-names>M</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Volume estimation of the thalamus using freesurfer and stereology: Consistency between methods</article-title>
+						<source>Neuroinformatics</source>
+						<year>2012</year>
+						<volume>10</volume>
+						<fpage>341</fpage>
+						<lpage>350</lpage>
+						<pub-id pub-id-type="pmid">22481382</pub-id>
+						<pub-id pub-id-type="pmcid">3464372</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR35">
+					<label>35.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>McCarthy</surname>
+								<given-names>CS</given-names>
+							</name>
+							<name>
+								<surname>Ramprashad</surname>
+								<given-names>A</given-names>
+							</name>
+							<name>
+								<surname>Thompson</surname>
+								<given-names>C</given-names>
+							</name>
+							<name>
+								<surname>Botti</surname>
+								<given-names>JA</given-names>
+							</name>
+							<name>
+								<surname>Coman</surname>
+								<given-names>IL</given-names>
+							</name>
+							<name>
+								<surname>Kates</surname>
+								<given-names>WR</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">A comparison of FreeSurfer-generated data with and without manual intervention</article-title>
+						<source>Front. Neurosci.</source>
+						<year>2015</year>
+						<volume>9</volume>
+						<fpage>379</fpage>
+						<pub-id pub-id-type="pmid">26539075</pub-id>
+						<pub-id pub-id-type="pmcid">4612506</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR36">
+					<label>36.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Monk</surname>
+								<given-names>TG</given-names>
+							</name>
+							<name>
+								<surname>Weldon</surname>
+								<given-names>BC</given-names>
+							</name>
+							<name>
+								<surname>Garvan</surname>
+								<given-names>CW</given-names>
+							</name>
+							<name>
+								<surname>Dede</surname>
+								<given-names>DE</given-names>
+							</name>
+							<name>
+								<surname>van der Aa</surname>
+								<given-names>MT</given-names>
+							</name>
+							<name>
+								<surname>Heilman</surname>
+								<given-names>KM</given-names>
+							</name>
+							<name>
+								<surname>Gravenstein</surname>
+								<given-names>JS</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Predictors of cognitive dysfunction after major noncardiac surgery</article-title>
+						<source>Anesthesiology</source>
+						<year>2008</year>
+						<volume>108</volume>
+						<fpage>18</fpage>
+						<lpage>30</lpage>
+						<pub-id pub-id-type="pmid">18156878</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR37">
+					<label>37.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Shenkin</surname>
+								<given-names>SD</given-names>
+							</name>
+							<name>
+								<surname>Rivers</surname>
+								<given-names>CS</given-names>
+							</name>
+							<name>
+								<surname>Deary</surname>
+								<given-names>IJ</given-names>
+							</name>
+							<name>
+								<surname>Starr</surname>
+								<given-names>JM</given-names>
+							</name>
+							<name>
+								<surname>Wardlaw</surname>
+								<given-names>JM</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Maximum (prior) brain size, not atrophy, correlates with cognition in community-dwelling older people: A cross-sectional neuroimaging study</article-title>
+						<source>BMC Geriatr.</source>
+						<year>2009</year>
+						<volume>9</volume>
+						<fpage>12</fpage>
+						<pub-id pub-id-type="pmid">19341481</pub-id>
+						<pub-id pub-id-type="pmcid">2678272</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR38">
+					<label>38.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Borchers</surname>
+								<given-names>F</given-names>
+							</name>
+							<name>
+								<surname>Spies</surname>
+								<given-names>CD</given-names>
+							</name>
+							<name>
+								<surname>Feinkohl</surname>
+								<given-names>I</given-names>
+							</name>
+							<name>
+								<surname>Brockhaus</surname>
+								<given-names>WR</given-names>
+							</name>
+							<name>
+								<surname>Kraft</surname>
+								<given-names>A</given-names>
+							</name>
+							<name>
+								<surname>Kozma</surname>
+								<given-names>P</given-names>
+							</name>
+							<name>
+								<surname>Fislage</surname>
+								<given-names>M</given-names>
+							</name>
+							<name>
+								<surname>Kühn</surname>
+								<given-names>S</given-names>
+							</name>
+							<name>
+								<surname>Ionescu</surname>
+								<given-names>C</given-names>
+							</name>
+							<name>
+								<surname>Speidel</surname>
+								<given-names>S</given-names>
+							</name>
+							<name>
+								<surname>Hadzidiakos</surname>
+								<given-names>D</given-names>
+							</name>
+							<name>
+								<surname>Veldhuijzen</surname>
+								<given-names>DS</given-names>
+							</name>
+							<name>
+								<surname>Yürek</surname>
+								<given-names>F</given-names>
+							</name>
+							<name>
+								<surname>Evered</surname>
+								<given-names>LA</given-names>
+							</name>
+							<name>
+								<surname>Ottens</surname>
+								<given-names>TH</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Methodology of measuring postoperative cognitive dysfunction: A systematic review</article-title>
+						<source>Br. J. Anaesth.</source>
+						<year>2021</year>
+						<volume>126</volume>
+						<fpage>1119</fpage>
+						<lpage>1127</lpage>
+						<pub-id pub-id-type="pmid">33820655</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR39">
+					<label>39.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Evered</surname>
+								<given-names>L</given-names>
+							</name>
+							<name>
+								<surname>Silbert</surname>
+								<given-names>B</given-names>
+							</name>
+							<name>
+								<surname>Knopman</surname>
+								<given-names>DS</given-names>
+							</name>
+							<name>
+								<surname>Scott</surname>
+								<given-names>DA</given-names>
+							</name>
+							<name>
+								<surname>DeKosky</surname>
+								<given-names>ST</given-names>
+							</name>
+							<name>
+								<surname>Rasmussen</surname>
+								<given-names>LS</given-names>
+							</name>
+							<name>
+								<surname>Oh</surname>
+								<given-names>ES</given-names>
+							</name>
+							<name>
+								<surname>Crosby</surname>
+								<given-names>G</given-names>
+							</name>
+							<name>
+								<surname>Berger</surname>
+								<given-names>M</given-names>
+							</name>
+							<name>
+								<surname>Eckenhoff</surname>
+								<given-names>RG</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Recommendations for the nomenclature of cognitive change associated with anaesthesia and surgery-2018</article-title>
+						<source>Anesthesiology</source>
+						<year>2018</year>
+						<volume>129</volume>
+						<fpage>872</fpage>
+						<lpage>879</lpage>
+						<pub-id pub-id-type="coi">1:STN:280:DC%2BB3czpvVSmsQ%3D%3D</pub-id>
+						<pub-id pub-id-type="pmid">30325806</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR40">
+					<label>40.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Maassen</surname>
+								<given-names>GH</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Principles of defining reliable change indices</article-title>
+						<source>J. Clin. Exp. Neuropsychol.</source>
+						<year>2000</year>
+						<volume>22</volume>
+						<fpage>622</fpage>
+						<lpage>632</lpage>
+						<pub-id pub-id-type="coi">1:STN:280:DC%2BD3M%2Fls1entw%3D%3D</pub-id>
+						<pub-id pub-id-type="pmid">11094397</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR41">
+					<label>41.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Blampied</surname>
+								<given-names>NM</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Reliable change and the reliable change index: Still useful after all these years?</article-title>
+						<source>Cogn. Behav. Therap.</source>
+						<year>2022</year>
+						<volume>15</volume>
+						<fpage>e50</fpage>
+					</mixed-citation>
+				</ref>
+				<ref id="CR42">
+					<label>42.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Berger</surname>
+								<given-names>M</given-names>
+							</name>
+							<name>
+								<surname>Terrando</surname>
+								<given-names>N</given-names>
+							</name>
+							<name>
+								<surname>Smith</surname>
+								<given-names>SK</given-names>
+							</name>
+							<name>
+								<surname>Browndyke</surname>
+								<given-names>JN</given-names>
+							</name>
+							<name>
+								<surname>Newman</surname>
+								<given-names>MF</given-names>
+							</name>
+							<name>
+								<surname>Mathew</surname>
+								<given-names>JP</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Neurocognitive function after cardiac surgery: From phenotypes to mechanisms</article-title>
+						<source>Anesthesiology</source>
+						<year>2018</year>
+						<volume>129</volume>
+						<fpage>829</fpage>
+						<lpage>851</lpage>
+						<pub-id pub-id-type="pmid">29621031</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR43">
+					<label>43.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Dieleman</surname>
+								<given-names>N</given-names>
+							</name>
+							<name>
+								<surname>Koek</surname>
+								<given-names>HL</given-names>
+							</name>
+							<name>
+								<surname>Hendrikse</surname>
+								<given-names>J</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Short-term mechanisms influencing volumetric brain dynamics</article-title>
+						<source>Neuroimage Clin.</source>
+						<year>2017</year>
+						<volume>16</volume>
+						<fpage>507</fpage>
+						<lpage>513</lpage>
+						<pub-id pub-id-type="pmid">28971004</pub-id>
+						<pub-id pub-id-type="pmcid">5609861</pub-id>
+					</mixed-citation>
+				</ref>
+			</ref-list>
+		</ref-list>
+		<app-group>
+			<app id="App1">
+				<sec id="Sec11">
+					<title>Supplementary Information</title>
+					<p id="Par43">
+						<supplementary-material content-type="local-data" id="MOESM1" xlink:title="Supplementary Information">
+							<media xlink:href="MediaObjects/41598_2023_38673_MOESM1_ESM.docx" mimetype="application" mime-subtype="msword">
+								<caption xml:lang="en">
+									<p>Supplementary Information.</p>
+								</caption>
+							</media>
+						</supplementary-material>
+					</p>
+				</sec>
+			</app>
+		</app-group>
+		<notes notes-type="ESMHint">
+			<title>Supplementary Information</title>
+			<p>The online version contains supplementary material available at
+				<ext-link xlink:href="https://doi.org/10.1038/s41598-023-38673-x" ext-link-type="doi">https://doi.org/10.1038/s41598-023-38673-x</ext-link>.
+			</p>
+		</notes>
+		<notes notes-type="Misc">
+			<title>Publisher's note</title>
+			<p>Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.</p>
+		</notes>
+	</back>
+</article>

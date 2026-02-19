@@ -1,0 +1,112 @@
+{
+  "doctype": "inbook",
+  "esources": [
+    {
+      "location": "http://link.springer.com/10.1007/978-3-642-11274-4_2648",
+      "source": "pub_html"
+    }
+  ],
+  "otherContributor": [
+    {
+      "contrib": {
+        "name": {
+          "given_name": "Muriel",
+          "surname": "Gargaud"
+        }
+      },
+      "role": "editor"
+    },
+    {
+      "contrib": {
+        "name": {
+          "given_name": "Ricardo",
+          "surname": "Amils"
+        }
+      },
+      "role": "editor"
+    },
+    {
+      "contrib": {
+        "name": {
+          "given_name": "Jos\u00e9 Cernicharo",
+          "surname": "Quintanilla"
+        }
+      },
+      "role": "editor"
+    },
+    {
+      "contrib": {
+        "name": {
+          "given_name": "Henderson James",
+          "surname": "Cleaves"
+        }
+      },
+      "role": "editor"
+    },
+    {
+      "contrib": {
+        "name": {
+          "given_name": "William M.",
+          "surname": "Irvine"
+        }
+      },
+      "role": "editor"
+    },
+    {
+      "contrib": {
+        "name": {
+          "given_name": "Daniele L.",
+          "surname": "Pinti"
+        }
+      },
+      "role": "editor"
+    },
+    {
+      "contrib": {
+        "name": {
+          "given_name": "Michel",
+          "surname": "Viso"
+        }
+      },
+      "role": "editor"
+    }
+  ],
+  "pagination": {
+    "firstPage": "885",
+    "lastPage": "885"
+  },
+  "persistentIDs": [
+    {
+      "DOI": "10.1007/978-3-642-11274-4_2648",
+      "ISBN": [
+        {
+          "isbnString": "978-3-642-11271-3",
+          "pubtype": "print"
+        },
+        {
+          "isbnString": "978-3-642-11274-4",
+          "pubtype": "electronic"
+        }
+      ]
+    }
+  ],
+  "pubDate": {
+    "printDate": "2011-00-00"
+  },
+  "publication": {
+    "pubName": "Encyclopedia of Astrobiology",
+    "pubYear": "2011",
+    "publisher": "Springer Berlin Heidelberg"
+  },
+  "recordData": {
+    "createdTime": "",
+    "loadFormat": "OtherXML",
+    "loadLocation": "",
+    "loadType": "fromFile",
+    "parsedTime": "",
+    "recordOrigin": ""
+  },
+  "title": {
+    "textEnglish": "K/T Boundary"
+  }
+}

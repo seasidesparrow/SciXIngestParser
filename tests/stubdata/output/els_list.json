@@ -1,0 +1,196 @@
+{
+  "abstract": {
+    "textEnglish": "As part of planning for future space exploration, COSPAR (The Committee on Space Research) together with participating space agencies, organized and held interdisciplinary meetings to consider next steps in addressing knowledge gaps for planetary protection for future human missions to Mars. Beginning with the results of these meetings and earlier work by NASA, ESA, and COSPAR (e.g., Criswell et al., 2005; Hogan et al., 2006; Rummel et al., 2008) as a base the authors of this paper carried out a follow-on NASA planning activity to identify the necessary steps to be accomplished to close knowledge gaps. We identified significant overlap between the planetary protection needs and other sets of Mars preparation roadmaps (1) microbial monitoring requirements for crew health and medical systems, (2) studies of the microbiome of the built environment, (3) environmental control and life support systems (ECLSS), (4) waste management, and (5) planetary surface operations. In many cases, efforts to mature exploration class systems for Mars that are occurring in other domains can be leveraged with minor changes to address planetary protection gaps as well. In other cases, work planned for testing on the International Space Station (ISS) as an analog for crew Mars transit, or on the lunar surface as an analog for Mars surface operations can be used to close planetary protection technology and knowledge gaps. An overall strategic framework that combines these domains has the advantage of being more comprehensive, efficient, and timely for closing gaps. This approach has led to the development of a NASA roadmap for addressing planetary protection integrated with other related roadmaps. NASA's development and execution of the planetary protection is now viewed in an integrated way with related technology development and testing. Key features of the integrated capabilities roadmap include: \u2022 A focus on microbial monitoring needs for crewed systems overall, and the additional work needed to develop and demonstrate baseline vs. abnormal changes in microbial communities over time. \u2022 Integrated consideration of planetary protection and crew health requirements relevant to crew quarantine and science sample transportation. \u2022 Specific and targeted studies of microbial growth and biofilms in microgravity and lunar surface ECLSS systems. \u2022 Development of sterilization, cleaning, and waste handling technologies that meet habitation needs as well as planetary protection needs."
+  },
+  "authors": [
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "NASA HQ, ESDMD, Washington, DC, United States"
+        }
+      ],
+      "attrib": {
+        "email": "bette.siegel@nasa.gov",
+        "orcid": "0000-0002-5553-120X"
+      },
+      "name": {
+        "given_name": "Bette",
+        "surname": "Siegel"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "SETI Institute, Silver Spring, MD, United States"
+        }
+      ],
+      "name": {
+        "given_name": "J.Andy",
+        "surname": "Spry"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "NASA JSC, Houston, TX, United States"
+        }
+      ],
+      "name": {
+        "given_name": "James",
+        "surname": "Broyan"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "NASA JSC, Biomedical Research and Environmental Sciences Division, Houston, TX, United States"
+        }
+      ],
+      "name": {
+        "given_name": "Sarah L.",
+        "surname": "Castro-Wallace"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "NASA HQ, Biological and Physical Sciences Division, Science Mission Directorate Washington, DC, United States"
+        }
+      ],
+      "name": {
+        "given_name": "Kevin",
+        "surname": "Sato"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Stardog Union, Arlington, VA, United States"
+        }
+      ],
+      "name": {
+        "given_name": "Erin",
+        "surname": "Mahoney"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "NASA HQ, Science Mission Directorate, Washington, DC, United States"
+        }
+      ],
+      "name": {
+        "given_name": "Julie",
+        "surname": "Robinson"
+      }
+    }
+  ],
+  "copyright": {
+    "statement": "\u00a9 2023 Published by Elsevier B.V. on behalf of The Committee on Space Research (COSPAR).",
+    "status": true
+  },
+  "doctype": "article",
+  "editorialHistory": {
+    "acceptedDate": "2023-03-30",
+    "receivedDates": [
+      "2023-02-16"
+    ],
+    "revisedDates": [
+      "2023-03-27"
+    ]
+  },
+  "esources": [
+    {
+      "location": "http://dx.doi.org/10.1016/j.lssr.2023.03.009",
+      "source": "pub_html"
+    }
+  ],
+  "keywords": [
+    {
+      "keyString": "Planetary protection",
+      "keySystem": "Elsevier"
+    },
+    {
+      "keyString": "Mars",
+      "keySystem": "Elsevier"
+    },
+    {
+      "keyString": "Crewed missions",
+      "keySystem": "Elsevier"
+    },
+    {
+      "keyString": "Human missions",
+      "keySystem": "Elsevier"
+    },
+    {
+      "keyString": "Quarantine",
+      "keySystem": "Elsevier"
+    },
+    {
+      "keyString": "COSPAR",
+      "keySystem": "Elsevier"
+    }
+  ],
+  "pagination": {
+    "firstPage": "1",
+    "lastPage": "7"
+  },
+  "persistentIDs": [
+    {
+      "DOI": "10.1016/j.lssr.2023.03.009"
+    }
+  ],
+  "pubDate": {
+    "printDate": "2023-08-00"
+  },
+  "publication": {
+    "ISSN": [
+      {
+        "issnString": "2214-5524",
+        "pubtype": "not specified"
+      }
+    ],
+    "pubName": "Life Sciences in Space Research",
+    "pubYear": "2023",
+    "publisher": "Elsevier B.V.",
+    "volumeNum": "38"
+  },
+  "publisherIDs": [
+    {
+      "Identifier": "S2214-5524(23)00027-5",
+      "attribute": "PII"
+    }
+  ],
+  "recordData": {
+    "createdTime": "",
+    "loadFormat": "Elsevier",
+    "loadLocation": "",
+    "loadType": "fromFile",
+    "parsedTime": "",
+    "recordOrigin": ""
+  },
+  "references": [
+    "<sb:reference id=\"sbref0001\"> <sb:contribution langtype=\"en\"> <sb:authors> <sb:author> <ce:given-name>A.S.</ce:given-name> <ce:surname>Boguraev</ce:surname> </sb:author> <sb:author> <ce:given-name>H.C.</ce:given-name> <ce:surname>Christensen</ce:surname> </sb:author> <sb:author> <ce:given-name>A.R.</ce:given-name> <ce:surname>Bonneau</ce:surname> </sb:author> <sb:et-al/> </sb:authors> <sb:title> <sb:maintitle>Successful amplification of DNA aboard the International Space Station</sb:maintitle> </sb:title> </sb:contribution> <sb:host> <sb:issue> <sb:series> <sb:title> <sb:maintitle>npj Microgravity</sb:maintitle> </sb:title> <sb:volume-nr>3</sb:volume-nr> </sb:series> <sb:date>2017</sb:date> </sb:issue> <sb:pages> <sb:first-page>26</sb:first-page> </sb:pages> <ce:doi>10.1038/s41526-017-0033-9</ce:doi> </sb:host> </sb:reference>",
+    "<sb:reference id=\"sbref0002\"> <sb:contribution langtype=\"en\"> <sb:authors> <sb:author> <ce:given-name>A.S.</ce:given-name> <ce:surname>Burton</ce:surname> </sb:author> <sb:author> <ce:given-name>S.E.</ce:given-name> <ce:surname>Stahl</ce:surname> </sb:author> <sb:author> <ce:given-name>K.J.</ce:given-name> <ce:surname>John</ce:surname> </sb:author> <sb:author> <ce:given-name>M.</ce:given-name> <ce:surname>Jain</ce:surname> </sb:author> <sb:author> <ce:given-name>S.</ce:given-name> <ce:surname>Juul</ce:surname> </sb:author> <sb:author> <ce:given-name>D.J.</ce:given-name> <ce:surname>Turner</ce:surname> </sb:author> <sb:author> <ce:given-name>E.D.</ce:given-name> <ce:surname>Harrington</ce:surname> </sb:author> <sb:author> <ce:given-name>D.</ce:given-name> <ce:surname>Stoddart</ce:surname> </sb:author> <sb:author> <ce:given-name>B.</ce:given-name> <ce:surname>Paten</ce:surname> </sb:author> <sb:author> <ce:given-name>M.</ce:given-name> <ce:surname>Akeson</ce:surname> </sb:author> <sb:author> <ce:given-name>S.L.</ce:given-name> <ce:surname>Castro-Wallace</ce:surname> </sb:author> </sb:authors> <sb:title> <sb:maintitle>Off Earth identification of bacterial populations using 16S rDNA nanopore sequencing</sb:maintitle> </sb:title> </sb:contribution> <sb:host> <sb:issue> <sb:series> <sb:title> <sb:maintitle>Genes (Basel)</sb:maintitle> </sb:title> <sb:volume-nr>11</sb:volume-nr> </sb:series> <sb:issue-nr>1</sb:issue-nr> <sb:date>2020</sb:date> </sb:issue> <sb:pages> <sb:first-page>76</sb:first-page> </sb:pages> </sb:host> </sb:reference>",
+    "<sb:reference id=\"sbref0003\"> <sb:contribution langtype=\"en\"> <sb:authors> <sb:author> <ce:given-name>V.A.</ce:given-name> <ce:surname>Castro</ce:surname> </sb:author> <sb:author> <ce:given-name>A.N.</ce:given-name> <ce:surname>Thrasher</ce:surname> </sb:author> <sb:author> <ce:given-name>M.</ce:given-name> <ce:surname>Healy</ce:surname> </sb:author> <sb:author> <ce:given-name>C.M.</ce:given-name> <ce:surname>Ott</ce:surname> </sb:author> <sb:author> <ce:given-name>D.L.</ce:given-name> <ce:surname>Pierson</ce:surname> </sb:author> </sb:authors> <sb:title> <sb:maintitle>Microbial characterization during the early habitation of the international space station</sb:maintitle> </sb:title> </sb:contribution> <sb:host> <sb:issue> <sb:series> <sb:title> <sb:maintitle>Microb. Ecol.</sb:maintitle> </sb:title> <sb:volume-nr>47</sb:volume-nr> </sb:series> <sb:date>2004</sb:date> </sb:issue> <sb:pages> <sb:first-page>119</sb:first-page> <sb:last-page>126</sb:last-page> </sb:pages> </sb:host> </sb:reference>",
+    "<sb:reference id=\"sbref0004\"> <sb:contribution langtype=\"en\"> <sb:authors> <sb:author> <ce:given-name>S.L.</ce:given-name> <ce:surname>Castro-Wallace</ce:surname> </sb:author> <sb:author> <ce:given-name>C.Y.</ce:given-name> <ce:surname>Chiu</ce:surname> </sb:author> <sb:author> <ce:given-name>K.K.</ce:given-name> <ce:surname>John</ce:surname> </sb:author> <sb:author> <ce:given-name>S.E.</ce:given-name> <ce:surname>Stahl</ce:surname> </sb:author> <sb:author> <ce:given-name>K.H.</ce:given-name> <ce:surname>Rubins</ce:surname> </sb:author> <sb:author> <ce:given-name>A.B.R.</ce:given-name> <ce:surname>McIntyre</ce:surname> </sb:author> <sb:author> <ce:given-name>J.P.</ce:given-name> <ce:surname>Dworkin</ce:surname> </sb:author> <sb:author> <ce:given-name>M.L.</ce:given-name> <ce:surname>Lupisella</ce:surname> </sb:author> <sb:author> <ce:given-name>D.J.</ce:given-name> <ce:surname>Smith</ce:surname> </sb:author> <sb:author> <ce:given-name>D.J.</ce:given-name> <ce:surname>Botkin</ce:surname> </sb:author> <sb:author> <ce:given-name>T.A.</ce:given-name> <ce:surname>Stephenson</ce:surname> </sb:author> <sb:author> <ce:given-name>S.</ce:given-name> <ce:surname>Juul</ce:surname> </sb:author> <sb:author> <ce:given-name>D.J.</ce:given-name> <ce:surname>Turner</ce:surname> </sb:author> <sb:author> <ce:given-name>F.</ce:given-name> <ce:surname>Izquierdo</ce:surname> </sb:author> <sb:author> <ce:given-name>S.</ce:given-name> <ce:surname>Federman</ce:surname> </sb:author> <sb:author> <ce:given-name>D.</ce:given-name> <ce:surname>Stryke</ce:surname> </sb:author> <sb:author> <ce:given-name>S.</ce:given-name> <ce:surname>Somasekar</ce:surname> </sb:author> <sb:author> <ce:given-name>N.</ce:given-name> <ce:surname>Alexander</ce:surname> </sb:author> <sb:author> <ce:given-name>G.</ce:given-name> <ce:surname>Yu</ce:surname> </sb:author> <sb:author> <ce:given-name>C.E.</ce:given-name> <ce:surname>Mason</ce:surname> </sb:author> <sb:author> <ce:given-name>A.S.</ce:given-name> <ce:surname>Burton</ce:surname> </sb:author> </sb:authors> <sb:title> <sb:maintitle>Nanopore DNA sequencing and genome assembly on the international space station</sb:maintitle> </sb:title> </sb:contribution> <sb:host> <sb:issue> <sb:series> <sb:title> <sb:maintitle>Sci. Rep.</sb:maintitle> </sb:title> <sb:volume-nr>7</sb:volume-nr> </sb:series> <sb:date>2017</sb:date> </sb:issue> <sb:pages> <sb:first-page>18022</sb:first-page> </sb:pages> </sb:host> </sb:reference>",
+    "<ce:other-ref id=\"sbref0005\"> <ce:textref>COSPAR (2021) COSPAR policy on planetary protection \t\t\t\t\t\t\t\t<ce:inter-ref id=\"interref0001\" xlink:href=\"https://cosparhq.cnes.fr/assets/uploads/2021/07/PPPolicy_2021_3-June.pdf\" xlink:type=\"simple\">https://cosparhq.cnes.fr/assets/uploads/2021/07/PPPolicy_2021_3-June.pdf</ce:inter-ref>. \t\t\t\t\t\t\t</ce:textref> </ce:other-ref>",
+    "<sb:reference id=\"sbref0006\"> <sb:contribution langtype=\"en\"> <sb:authors> <sb:author> <ce:given-name>M.E.</ce:given-name> <ce:surname>Criswell</ce:surname> </sb:author> <sb:author> <ce:given-name>M.S.</ce:given-name> <ce:surname>Race</ce:surname> </sb:author> <sb:author> <ce:given-name>J.D.</ce:given-name> <ce:surname>Rummel</ce:surname> </sb:author> <sb:author> <ce:given-name>A.</ce:given-name> <ce:surname>Baker</ce:surname> </sb:author> </sb:authors> <sb:title> <sb:maintitle>Planetary Protection Issues in the Human Exploration of Mars</sb:maintitle> </sb:title> </sb:contribution> <sb:host> <sb:book> <sb:date>2005</sb:date> <sb:publisher> <sb:name>NASA Conference Publi-cation 2005-213461</sb:name> <sb:location>NASA, Moffett Field, CA</sb:location> </sb:publisher> </sb:book> </sb:host> </sb:reference>",
+    "<sb:reference id=\"sbref0007\"> <sb:contribution langtype=\"en\"> <sb:authors> <sb:author> <ce:given-name>J.A.</ce:given-name> <ce:surname>Hogan</ce:surname> </sb:author> <sb:author> <ce:given-name>M.S.</ce:given-name> <ce:surname>Race</ce:surname> </sb:author> <sb:author> <ce:given-name>J.W.</ce:given-name> <ce:surname>Fisher</ce:surname> </sb:author> <sb:author> <ce:given-name>J.A.</ce:given-name> <ce:surname>Joshi</ce:surname> </sb:author> <sb:author> <ce:given-name>J.D.</ce:given-name> <ce:surname>Rummel</ce:surname> </sb:author> </sb:authors> <sb:title> <sb:maintitle>Life Support and Habitation and Planetary Protection Workshop. Final Report</sb:maintitle> </sb:title> </sb:contribution> <sb:host> <sb:book> <sb:date>2006</sb:date> <sb:publisher> <sb:name>NASA Technical Memorandum 2006-213485</sb:name> <sb:location>NASA, Moffett Field, CA</sb:location> </sb:publisher> </sb:book> </sb:host> </sb:reference>",
+    "<ce:other-ref id=\"sbref0008\"> <ce:textref>Kminek, G. et\u00a0al., (2016) Report of the 1st COSPAR workshop on refining planetary protection requirements for human missions. Retrieved from: \t\t\t\t\t\t\t\t<ce:inter-ref id=\"interref0002\" xlink:href=\"https://sma.nasa.gov/docs/default-source/sma-disciplines-and-programs/planetary-protection/report-cospar-workshop-refining-planetary-protection-requirements-for-human-missions-final20180424.pdf?sfvrsn=a3fcfff8_2\" xlink:type=\"simple\">https://sma.nasa.gov/docs/default-source/sma-disciplines-and-programs/planetary-protection/report-cospar-workshop-refining-planetary-protection-requirements-for-human-missions-final20180424.pdf?sfvrsn=a3fcfff8_2</ce:inter-ref>. \t\t\t\t\t\t\t</ce:textref> </ce:other-ref>",
+    "<ce:other-ref id=\"tboref0001\"> <ce:textref>NASA (1971) Apollo Quarantine Discontinued. KSC News Release KSC-96-71 p50. Available at: \t\t\t\t\t\t\t\t<ce:inter-ref id=\"kutr\" xlink:href=\"https://www.nasa.gov/centers/kennedy/pdf/744322main_1971.pdf\" xlink:type=\"simple\">https://www.nasa.gov/centers/kennedy/pdf/744322main_1971.pdf</ce:inter-ref>, accessed 3/22/2023. \t\t\t\t\t\t\t</ce:textref> </ce:other-ref>",
+    "<ce:other-ref id=\"sbref0009\"> <ce:textref>NASA (2022a) Gateway integrated spacecraft configuration (downloadable at \t\t\t\t\t\t\t\t<ce:inter-ref id=\"interref0003\" xlink:href=\"https://www.nasa.gov/gateway/overview\" xlink:type=\"simple\">https://www.nasa.gov/gateway/overview</ce:inter-ref>, accessed 3/22/2023. \t\t\t\t\t\t\t</ce:textref> </ce:other-ref>",
+    "<ce:other-ref id=\"sbref0010\"> <ce:textref>NASA (2022b) \t\t\t\t\t\t\t\t<i>Reference Surface Activities For Crewed Mars Mission Systems and Utilization HEOMD-415 NASA</i> Washington, DC \t\t\t\t\t\t\t\t<ce:inter-ref id=\"interref0004\" xlink:href=\"https://ntrs.nasa.gov/citations/20220000589\" xlink:type=\"simple\">https://ntrs.nasa.gov/citations/20220000589</ce:inter-ref>. \t\t\t\t\t\t\t</ce:textref> </ce:other-ref>",
+    "<ce:other-ref id=\"sbref0011\"> <ce:textref>Race, M. et\u00a0al. (2015) NASA report of planetary protection knowledge gaps for human extraterrestrial missions \t\t\t\t\t\t\t\t<ce:inter-ref id=\"interref0005\" xlink:href=\"https://sma.nasa.gov/docs/default-source/sma-disciplines-and-programs/planetary-protection/2015-report.pdf?sfvrsn=b2fcfff8_6\" xlink:type=\"simple\">https://sma.nasa.gov/docs/default-source/sma-disciplines-and-programs/planetary-protection/2015-report.pdf?sfvrsn=b2fcfff8_6</ce:inter-ref>. \t\t\t\t\t\t\t</ce:textref> </ce:other-ref>",
+    "<ce:other-ref id=\"sbref0012\"> <ce:textref>Race, M. et\u00a0al., (2018) Report of the 2nd COSPAR Workshop on refining planetary protection requirements for human missions, and COSPAR work meeting on developing payload requirements for addressing planetary protection gaps on natural transport of contaminants on mars. Retrieved from: \t\t\t\t\t\t\t\t<ce:inter-ref id=\"interref0006\" xlink:href=\"https://sma.nasa.gov/docs/default-source/sma-disciplines-and-programs/planetary-protection/cospar-2019-2nd-workshop-on-refining-planetary-protection-requirements-for-human-missions-and-work-meeting-on-developing-payload-requirements-for-addressing-planetary-protection-gaps-on-nat.pdf?sfvrsn=507ff8f8_8\" xlink:type=\"simple\">https://sma.nasa.gov/docs/default-source/sma-disciplines-and-programs/planetary-protection/cospar-2019-2nd-workshop-on-refining-planetary-protection-requirements-for-human-missions-and-work-meeting-on-developing-payload-requirements-for-addressing-planetary-protection-gaps-on-nat.pdf?sfvrsn=507ff8f8_8</ce:inter-ref>. \t\t\t\t\t\t\t</ce:textref> </ce:other-ref>",
+    "<ce:other-ref id=\"sbref0013\"> <ce:textref>Race, M. et\u00a0al., (2019) 3rd COSPAR meeting on refining planetary protection requirements for human missions to mars \t\t\t\t\t\t\t\t<ce:inter-ref id=\"interref0007\" xlink:href=\"https://sma.nasa.gov/docs/default-source/sma-disciplines-and-programs/planetary-protection/cospar-2019-report-final-20200618.pdf?sfvrsn=559bc2f8_\" xlink:type=\"simple\">https://sma.nasa.gov/docs/default-source/sma-disciplines-and-programs/planetary-protection/cospar-2019-report-final-20200618.pdf?sfvrsn=559bc2f8_</ce:inter-ref>. \t\t\t\t\t\t\t</ce:textref> </ce:other-ref>",
+    "<sb:reference id=\"sbref0014\"> <sb:contribution langtype=\"en\"> <sb:authors> <sb:author> <ce:given-name>J.D.</ce:given-name> <ce:surname>Rummel</ce:surname> </sb:author> </sb:authors> <sb:title> <sb:maintitle>and the COSPAR panel on planetary protection</sb:maintitle> </sb:title> </sb:contribution> <sb:host> <sb:book> <sb:title> <sb:maintitle>Report of the Workshop on Planetary Protection</sb:maintitle> </sb:title> <sb:date>2008</sb:date> <sb:publisher> <sb:name>COSPAR</sb:name> <sb:location>Paris, France</sb:location> </sb:publisher> </sb:book> </sb:host> </sb:reference>",
+    "<ce:other-ref id=\"sbref0015\"> <ce:textref>Spry, J.A. et\u00a0al., (2020) 4th COSPAR (Virtual) workshop on refining planetary protection requirements for human missions \t\t\t\t\t\t\t\t<ce:inter-ref id=\"interref0008\" xlink:href=\"https://sma.nasa.gov/docs/default-source/sma-disciplines-and-programs/planetary-protection/2020-cospar-pp-for-human-missions-meeting-report-v1-0-508.pdf?sfvrsn=e855c1f8_0\" xlink:type=\"simple\">https://sma.nasa.gov/docs/default-source/sma-disciplines-and-programs/planetary-protection/2020-cospar-pp-for-human-missions-meeting-report-v1-0-508.pdf?sfvrsn=e855c1f8_0</ce:inter-ref>. \t\t\t\t\t\t\t</ce:textref> </ce:other-ref>",
+    "<sb:reference id=\"sbref0016\"> <sb:contribution langtype=\"en\"> <sb:authors> <sb:author> <ce:given-name>S.</ce:given-name> <ce:surname>Stahl-Rommel</ce:surname> </sb:author> <sb:author> <ce:given-name>M.</ce:given-name> <ce:surname>Jain</ce:surname> </sb:author> <sb:author> <ce:given-name>H.N.</ce:given-name> <ce:surname>Nguyen</ce:surname> </sb:author> <sb:author> <ce:given-name>R.R.</ce:given-name> <ce:surname>Arnold</ce:surname> </sb:author> <sb:author> <ce:given-name>S.M.</ce:given-name> <ce:surname>Aunon-Chancellor</ce:surname> </sb:author> <sb:author> <ce:given-name>G.M.</ce:given-name> <ce:surname>Sharp</ce:surname> </sb:author> <sb:author> <ce:given-name>C.</ce:given-name> <ce:surname>Castro</ce:surname> </sb:author> <sb:author> <ce:given-name>K.K.</ce:given-name> <ce:surname>John</ce:surname> </sb:author> <sb:author> <ce:given-name>S.</ce:given-name> <ce:surname>Juul</ce:surname> </sb:author> <sb:author> <ce:given-name>D.J.</ce:given-name> <ce:surname>Turner</ce:surname> </sb:author> <sb:author> <ce:given-name>D.</ce:given-name> <ce:surname>Stoddart</ce:surname> </sb:author> <sb:author> <ce:given-name>B.</ce:given-name> <ce:surname>Paten</ce:surname> </sb:author> <sb:author> <ce:given-name>M.</ce:given-name> <ce:surname>Akeson</ce:surname> </sb:author> <sb:author> <ce:given-name>A.S.</ce:given-name> <ce:surname>Burton</ce:surname> </sb:author> <sb:author> <ce:given-name>S.L.</ce:given-name> <ce:surname>Castro-Wallace</ce:surname> </sb:author> </sb:authors> <sb:title> <sb:maintitle>Real-time culture-independent microbial profiling aboard the international space station using nanopore sequencing</sb:maintitle> </sb:title> </sb:contribution> <sb:host> <sb:issue> <sb:series> <sb:title> <sb:maintitle>Genes (Basel)</sb:maintitle> </sb:title> <sb:volume-nr>12</sb:volume-nr> </sb:series> <sb:issue-nr>1</sb:issue-nr> <sb:date>2021</sb:date> </sb:issue> <sb:pages> <sb:first-page>106</sb:first-page> </sb:pages> </sb:host> </sb:reference>",
+    "<ce:other-ref id=\"sbref0017\"> <ce:textref>Tait, K.T., McCubbin, F.J., Smith, C.L., Agee, C.B., Busemann, H., Debaille, V., Hutzler, A., Usui, T., Kmniek, G., Meyer, M.A., Beaty, D.W., Carrier, B.L., Haltigin, T., Hays, LFk, Preliminary planning for mars sample return (MSR) curation activities in a samole receiving Facility (SRF) Published Online:2 Jun 2022https://doi.org/10.1089/ast.2021.0105.</ce:textref> </ce:other-ref>",
+    "<sb:reference id=\"sbref0018\"> <sb:contribution langtype=\"en\"> <sb:authors> <sb:author> <ce:given-name>N.</ce:given-name> <ce:surname>Yamaguchi</ce:surname> </sb:author> <sb:author> <ce:given-name>M.</ce:given-name> <ce:surname>Roberts</ce:surname> </sb:author> <sb:author> <ce:given-name>S.</ce:given-name> <ce:surname>Castro</ce:surname> </sb:author> <sb:author> <ce:given-name>C.</ce:given-name> <ce:surname>Oubre</ce:surname> </sb:author> <sb:author> <ce:given-name>K.</ce:given-name> <ce:surname>Makimura</ce:surname> </sb:author> <sb:author> <ce:given-name>N.</ce:given-name> <ce:surname>Leys</ce:surname> </sb:author> <sb:author> <ce:given-name>E.</ce:given-name> <ce:surname>Grohmann</ce:surname> </sb:author> <sb:author> <ce:given-name>T.</ce:given-name> <ce:surname>Sugita</ce:surname> </sb:author> <sb:author> <ce:given-name>T.</ce:given-name> <ce:surname>Ichijo</ce:surname> </sb:author> <sb:author> <ce:given-name>M.</ce:given-name> <ce:surname>Nasu</ce:surname> </sb:author> </sb:authors> <sb:title> <sb:maintitle>Microbial monitoring of crewed habitats in space\u2014current status and future perspectives</sb:maintitle> </sb:title> </sb:contribution> <sb:host> <sb:issue> <sb:series> <sb:title> <sb:maintitle>Microbes Environ.</sb:maintitle> </sb:title> <sb:volume-nr>29</sb:volume-nr> </sb:series> <sb:date>2014</sb:date> </sb:issue> <sb:pages> <sb:first-page>250</sb:first-page> <sb:last-page>260</sb:last-page> </sb:pages> </sb:host> </sb:reference>"
+  ],
+  "title": {
+    "textEnglish": "Development of a NASA roadmap for planetary protection to prepare for the first human missions to Mars <sup>\u2730</sup>"
+  }
+}

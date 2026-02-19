@@ -1,0 +1,121 @@
+{
+  "abstract": {
+    "textEnglish": "Airflow models are used to simulate the rates of incoming and outgoing airflows for a building with known leakage under given weather and shielding conditions. Additional information about the flow paths and air-mass flows inside the building can only be made by using multizone airflow models. In order to obtain more information on multizone airflow models, a literature review was performed in 1984. A second literature review and a questionnaire survey performed in 1989 revealed the existence of 50 multizone airflow models, all developed since 1966, two of which are still under development. All these programs use similar flow equations for crack flow, but differ in the versatility to describe the full range of flow phenomena and the algorithm provided for solving the set of nonlinear equations. This literature review has found that newer models are able to describe and simulate the ventilation systems and interrelation of mechanical and natural ventilation."
+  },
+  "authors": [
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Indoor Environment Program, Applied Science Division, Lawrence Berkeley Laboratory, Berkeley, CA 94720 USA"
+        }
+      ],
+      "name": {
+        "given_name": "Helmut E.",
+        "surname": "Feustel"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Indoor Environment Program, Applied Science Division, Lawrence Berkeley Laboratory, Berkeley, CA 94720 USA"
+        }
+      ],
+      "name": {
+        "given_name": "Juergen",
+        "surname": "Dieris"
+      }
+    }
+  ],
+  "copyright": {
+    "statement": "Copyright @ unknown. Published by Elsevier B.V.",
+    "status": true
+  },
+  "doctype": "article",
+  "editorialHistory": {
+    "acceptedDate": "1992-02-06",
+    "receivedDates": [
+      "1990-12-14"
+    ],
+    "revisedDates": [
+      "1991-03-01"
+    ]
+  },
+  "esources": [
+    {
+      "location": "http://dx.doi.org/10.1016/0378-7788(92)90040-N",
+      "source": "pub_html"
+    }
+  ],
+  "pagination": {
+    "firstPage": "79",
+    "lastPage": "100"
+  },
+  "persistentIDs": [
+    {
+      "DOI": "10.1016/0378-7788(92)90040-N"
+    }
+  ],
+  "pubDate": {
+    "printDate": "1992-00-00"
+  },
+  "publication": {
+    "ISSN": [
+      {
+        "issnString": "0378-7788",
+        "pubtype": "not specified"
+      }
+    ],
+    "issueNum": "2",
+    "pubName": "Energy & Buildings",
+    "pubYear": "1992",
+    "publisher": "Elsevier B.V.",
+    "volumeNum": "18"
+  },
+  "publisherIDs": [
+    {
+      "Identifier": "0378-7788(92)90040-N",
+      "attribute": "PII"
+    }
+  ],
+  "recordData": {
+    "createdTime": "",
+    "loadFormat": "Elsevier",
+    "loadLocation": "",
+    "loadType": "fromFile",
+    "parsedTime": "",
+    "recordOrigin": ""
+  },
+  "references": [
+    "<sb:reference> <sb:contribution langtype=\"en\"> <sb:authors> <sb:author> <ce:given-name>M.</ce:given-name> <ce:surname>Liddament</ce:surname> </sb:author> </sb:authors> </sb:contribution> <sb:host> <sb:edited-book> <sb:title> <sb:maintitle>Air Infiltration Calculation Techniques \u2014 An Applications Guide</sb:maintitle> </sb:title> <sb:date>June 1986</sb:date> <sb:publisher> <sb:name>Air Infiltration and Ventilation Centre</sb:name> <sb:location>Warwick, UK</sb:location> </sb:publisher> </sb:edited-book> </sb:host> </sb:reference>",
+    "<sb:reference> <sb:host> <sb:edited-book> <sb:title> <sb:maintitle>ASHRAE 1985 Handbook of Fundamentals</sb:maintitle> </sb:title> <sb:date>1985</sb:date> <sb:publisher> <sb:name>American Society of Heating, Refrigerating and Air-Conditioning Engineers</sb:name> <sb:location>Atlanta, GA</sb:location> </sb:publisher> </sb:edited-book> </sb:host> <sb:comment>Ch. 22</sb:comment> </sb:reference>",
+    "<sb:reference> <sb:contribution langtype=\"en\"> <sb:authors> <sb:author> <ce:given-name>H.E.</ce:given-name> <ce:surname>Feustel</ce:surname> </sb:author> <sb:author> <ce:given-name>V.M.</ce:given-name> <ce:surname>Kendon</ce:surname> </sb:author> </sb:authors> <sb:title> <sb:maintitle>Infiltration models for multicellular structures \u2014 a literature review</sb:maintitle> </sb:title> </sb:contribution> <sb:host> <sb:issue> <sb:series> <sb:title> <sb:maintitle>Energy Build.</sb:maintitle> </sb:title> <sb:volume-nr>2</sb:volume-nr> </sb:series> <sb:issue-nr>2</sb:issue-nr> <sb:date>1985</sb:date> </sb:issue> <sb:pages> <sb:first-page>123</sb:first-page> <sb:last-page>136</sb:last-page> </sb:pages> </sb:host> </sb:reference>",
+    "<sb:reference> <sb:host> <sb:edited-book> <sb:title> <sb:maintitle>LBL-Rep. No. 17588</sb:maintitle> </sb:title> <sb:date>Apr. 1985</sb:date> <sb:publisher> <sb:name>Lawrence Berkeley Laboratory</sb:name> </sb:publisher> </sb:edited-book> </sb:host> </sb:reference>",
+    "<sb:reference> <sb:contribution langtype=\"en\"> <sb:authors> <sb:author> <ce:given-name>P.J.</ce:given-name> <ce:surname>Jackman</ce:surname> </sb:author> </sb:authors> <sb:title> <sb:maintitle>A study of natural ventilation of tall office buildings</sb:maintitle> </sb:title> </sb:contribution> <sb:host> <sb:issue> <sb:series> <sb:title> <sb:maintitle>J. Inst. Heat. Vent. Eng.</sb:maintitle> </sb:title> <sb:volume-nr>38</sb:volume-nr> </sb:series> <sb:date>1970</sb:date> </sb:issue> </sb:host> </sb:reference>",
+    "<sb:reference> <sb:contribution langtype=\"en\"> <sb:authors> <sb:author> <ce:given-name>D.M.</ce:given-name> <ce:surname>Sander</ce:surname> </sb:author> </sb:authors> </sb:contribution> <sb:host> <sb:edited-book> <sb:title> <sb:maintitle>FORTRAN IV Program to calculate Air Infiltration in Buildings, DBR Computer Program No. 37</sb:maintitle> </sb:title> <sb:date>1984</sb:date> <sb:publisher> <sb:name>National Research Council Canada</sb:name> </sb:publisher> </sb:edited-book> </sb:host> </sb:reference>",
+    "<sb:reference> <sb:contribution langtype=\"en\"> <sb:authors> <sb:author> <ce:given-name>H.E.</ce:given-name> <ce:surname>Feustel</ce:surname> </sb:author> </sb:authors> <sb:title> <sb:maintitle>Entwicklung eines FORTRAN Programms zur Bestimmung der Luftstromverteilung in Geb\u00e4uden</sb:maintitle> </sb:title> </sb:contribution> <sb:host> <sb:edited-book> <sb:title> <sb:maintitle>Thesis</sb:maintitle> </sb:title> <sb:date>1977</sb:date> <sb:publisher> <sb:name>Technische Universit\u00e4t</sb:name> <sb:location>Berlin</sb:location> </sb:publisher> </sb:edited-book> </sb:host> </sb:reference>",
+    "<sb:reference> <sb:contribution langtype=\"en\"> <sb:authors> <sb:author> <ce:given-name>Jianxiong</ce:given-name> <ce:surname>Guo</ce:surname> </sb:author> </sb:authors> <sb:title> <sb:maintitle>Weiterentwicklung des Programms mit dem Ergebnis einer Ber\u00fccksichtigung thermischer Druckdifferenzen auch innerhalb eines Geschosses und einer sp\u00fcrbaren Verringerung des Rechenzeiten, Interner Institutsbericht</sb:maintitle> </sb:title> </sb:contribution> <sb:host> <sb:book> <sb:date>1988</sb:date> <sb:publisher> <sb:name>Technische Universit\u00e4t</sb:name> <sb:location>Berlin</sb:location> </sb:publisher> </sb:book> </sb:host> </sb:reference>",
+    "<sb:reference> <sb:contribution langtype=\"en\"> <sb:authors> <sb:author> <ce:given-name>W.F.</ce:given-name> <ce:surname>de Gids</ce:surname> </sb:author> </sb:authors> <sb:title> <sb:maintitle>Calculation Method for the Natural Ventilation of Buildings</sb:maintitle> </sb:title> </sb:contribution> <sb:host> <sb:book> <sb:date>1977</sb:date> <sb:publisher> <sb:name>TNO Research Institute for Environmental Hygiene</sb:name> <sb:location>Delft</sb:location> </sb:publisher> </sb:book> </sb:host> </sb:reference>",
+    "<sb:reference> <sb:contribution langtype=\"en\"> <sb:authors> <sb:author> <ce:given-name>D.W.</ce:given-name> <ce:surname>Etheridge</ce:surname> </sb:author> <sb:author> <ce:given-name>D.K.</ce:given-name> <ce:surname>Alexander</ce:surname> </sb:author> </sb:authors> <sb:title> <sb:maintitle>The British Gas multicell model for calculating ventilation</sb:maintitle> </sb:title> </sb:contribution> <sb:host> <sb:issue> <sb:series> <sb:title> <sb:maintitle>ASHRAE Trans.</sb:maintitle> </sb:title> <sb:volume-nr>86</sb:volume-nr> </sb:series> <sb:date>1980</sb:date> </sb:issue> </sb:host> <sb:comment>(Part II)</sb:comment> </sb:reference>",
+    "<sb:reference> <sb:contribution langtype=\"en\"> <sb:authors> <sb:author> <ce:given-name>E.</ce:given-name> <ce:surname>Evers</ce:surname> </sb:author> <sb:author> <ce:given-name>A.</ce:given-name> <ce:surname>Waterhouse</ce:surname> </sb:author> </sb:authors> <sb:title> <sb:maintitle>A Computer Model for Analysing Smoke Movement in Buildings</sb:maintitle> </sb:title> </sb:contribution> <sb:host> <sb:book> <sb:date>1978</sb:date> <sb:publisher> <sb:name>Building Research Establishment</sb:name> </sb:publisher> </sb:book> </sb:host> </sb:reference>",
+    "<sb:reference> <sb:contribution langtype=\"en\"> <sb:authors> <sb:author> <ce:given-name>M.</ce:given-name> <ce:surname>Nantka</ce:surname> </sb:author> </sb:authors> <sb:title> <sb:maintitle>A numerical method for air change rate of buildings calculated</sb:maintitle> </sb:title> </sb:contribution> <sb:host> <sb:edited-book> <sb:title> <sb:maintitle>Proc. 5th Int. Conf. on HVAC</sb:maintitle> </sb:title> <sb:conference>Praha</sb:conference> <sb:date>1981</sb:date> </sb:edited-book> </sb:host> </sb:reference>",
+    "<sb:reference> <sb:contribution langtype=\"en\"> <sb:authors> <sb:author> <ce:given-name>G.N.</ce:given-name> <ce:surname>Walton</ce:surname> </sb:author> </sb:authors> </sb:contribution> <sb:host> <sb:edited-book> <sb:title> <sb:maintitle>Thermal Analysis Research Program Reference Manual, NBSIR 83-2655</sb:maintitle> </sb:title> <sb:date>1983</sb:date> <sb:publisher> <sb:name>US Department of Commerce</sb:name> </sb:publisher> </sb:edited-book> </sb:host> </sb:reference>",
+    "<sb:reference> <sb:contribution langtype=\"en\"> <sb:authors> <sb:author> <ce:given-name>M.K.</ce:given-name> <ce:surname>Herrlin</ce:surname> </sb:author> </sb:authors> <sb:title> <sb:maintitle>MOVECOMP: a static multicell air flow model</sb:maintitle> </sb:title> </sb:contribution> <sb:host> <sb:issue> <sb:series> <sb:title> <sb:maintitle>ASHRAE Trans.</sb:maintitle> </sb:title> <sb:volume-nr>91</sb:volume-nr> </sb:series> <sb:date>1985</sb:date> </sb:issue> </sb:host> <sb:comment>(Part 2B)</sb:comment> </sb:reference>",
+    "<sb:reference> <sb:contribution langtype=\"en\"> <sb:authors> <sb:author> <ce:given-name>S.</ce:given-name> <ce:surname>Hayakawa</ce:surname> </sb:author> <sb:author> <ce:given-name>S.</ce:given-name> <ce:surname>Togari</ce:surname> </sb:author> </sb:authors> </sb:contribution> <sb:host> <sb:edited-book> <sb:title> <sb:maintitle>Flow Rate Variation of Air Conditioning Systems due to Stack Effect and Opening a Window, Rep. No. 30</sb:maintitle> </sb:title> <sb:date>1979</sb:date> <sb:publisher> <sb:name>Kajima Institute of Construction Technology</sb:name> <sb:location>Japan</sb:location> </sb:publisher> </sb:edited-book> </sb:host> </sb:reference>",
+    "<sb:reference> <sb:contribution langtype=\"en\"> <sb:authors> <sb:author> <ce:given-name>K.</ce:given-name> <ce:surname>Ishida</ce:surname> </sb:author> <sb:author> <ce:given-name>M.</ce:given-name> <ce:surname>Udagowo</ce:surname> </sb:author> </sb:authors> <sb:title> <sb:maintitle>Validation of the Ventilation Net Work Model for the Estimation of Room Temperatures and Heat Load of Residential Buildings with Measured Data</sb:maintitle> </sb:title> </sb:contribution> <sb:host> <sb:issue> <sb:series> <sb:title> <sb:maintitle>Trans. Archit. Inst. Jpn.</sb:maintitle> </sb:title> </sb:series> <sb:date>1988</sb:date> </sb:issue> </sb:host> </sb:reference>",
+    "<sb:reference> <sb:contribution langtype=\"en\"> <sb:authors> <sb:author> <ce:given-name>T.</ce:given-name> <ce:surname>Hayashi</ce:surname> </sb:author> <sb:author> <ce:given-name>Y.</ce:given-name> <ce:surname>Urano</ce:surname> </sb:author> <sb:author> <ce:given-name>T.</ce:given-name> <ce:surname>Watanabe</ce:surname> </sb:author> <sb:author> <ce:given-name>Y.</ce:given-name> <ce:surname>Ryu</ce:surname> </sb:author> </sb:authors> <sb:title> <sb:maintitle>Passive system simulation program PSSP and its applications</sb:maintitle> </sb:title> </sb:contribution> <sb:host> <sb:edited-book> <sb:title> <sb:maintitle>Proc. Building Energy Simulation Conf.</sb:maintitle> </sb:title> <sb:conference>Seattle, WA</sb:conference> <sb:date>1985</sb:date> </sb:edited-book> </sb:host> </sb:reference>",
+    "<sb:reference> <sb:contribution langtype=\"en\"> <sb:authors> <sb:author> <ce:given-name>T.</ce:given-name> <ce:surname>Sasaki</ce:surname> </sb:author> </sb:authors> <sb:title> <sb:maintitle>Der Lueftungszustand von der Luftschicht durch Wind-Unruhe</sb:maintitle> </sb:title> </sb:contribution> <sb:host> <sb:issue> <sb:series> <sb:title> <sb:maintitle>Trans. Archit. Inst. Jpn.</sb:maintitle> </sb:title> </sb:series> <sb:issue-nr>372</sb:issue-nr> <sb:date>1987</sb:date> </sb:issue> </sb:host> </sb:reference>",
+    "<sb:reference> <sb:contribution langtype=\"en\"> <sb:authors> <sb:author> <ce:given-name>H.</ce:given-name> <ce:surname>Okuyama</ce:surname> </sb:author> </sb:authors> <sb:title> <sb:maintitle>Network numerical analysis method for heat transfer and air flow in buildings</sb:maintitle> </sb:title> </sb:contribution> <sb:host> <sb:edited-book> <sb:title> <sb:maintitle>Proc. 17th Symp. Committee of Building Heat Transfer</sb:maintitle> </sb:title> <sb:date>1987</sb:date> <sb:publisher> <sb:name>Building Environment Committee of Architectural Institute of Japan</sb:name> </sb:publisher> </sb:edited-book> </sb:host> </sb:reference>",
+    "<sb:reference> <sb:contribution langtype=\"en\"> <sb:authors> <sb:author> <ce:given-name>M.</ce:given-name> <ce:surname>Matsumoto</ce:surname> </sb:author> <sb:author> <ce:given-name>H.</ce:given-name> <ce:surname>Yoshino</ce:surname> </sb:author> </sb:authors> <sb:title> <sb:maintitle>A calculation method for predicting air pollution in multi-celled buildings</sb:maintitle> </sb:title> </sb:contribution> <sb:host> <sb:edited-book> <sb:title> <sb:maintitle>Proc. Meet. of the Tohoku Branch of the Architectural Institute of Japan</sb:maintitle> </sb:title> <sb:date>1988</sb:date> </sb:edited-book> </sb:host> </sb:reference>",
+    "<sb:reference> <sb:contribution langtype=\"en\"> <sb:authors> <sb:author> <ce:given-name>D.</ce:given-name> <ce:surname>Cacavelli</ce:surname> </sb:author> <sb:author> <ce:given-name>J.J.</ce:given-name> <ce:surname>Roux</ce:surname> </sb:author> <sb:author> <ce:given-name>F.</ce:given-name> <ce:surname>Allard</ce:surname> </sb:author> </sb:authors> <sb:title> <sb:maintitle>A simplified approach of air infiltration in multizone buildings</sb:maintitle> </sb:title> </sb:contribution> <sb:host> <sb:edited-book> <sb:title> <sb:maintitle>Proc. 9th AIVC Conf.</sb:maintitle> </sb:title> <sb:conference>Gent</sb:conference> <sb:date>1988</sb:date> <sb:publisher> <sb:name>Air Infiltration and Ventilation Centre</sb:name> </sb:publisher> </sb:edited-book> </sb:host> </sb:reference>",
+    "<sb:reference> <sb:contribution langtype=\"en\"> <sb:authors> <sb:author> <ce:given-name>C.</ce:given-name> <ce:surname>Melo</ce:surname> </sb:author> </sb:authors> <sb:title> <sb:maintitle>FLOW \u2014 an algorithm for calculating air infiltration into buildings</sb:maintitle> </sb:title> </sb:contribution> <sb:host> <sb:edited-book> <sb:title> <sb:maintitle>Proc. ICBEM '87 Int. Congress Building Energy Management</sb:maintitle> </sb:title> <sb:conference>Lausanne, Switzerland</sb:conference> <sb:date>1987</sb:date> </sb:edited-book> </sb:host> </sb:reference>",
+    "<sb:reference> <sb:contribution langtype=\"en\"> <sb:authors> <sb:author> <ce:given-name>H.E.</ce:given-name> <ce:surname>Feustel</ce:surname> </sb:author> <sb:et-al/> </sb:authors> <sb:title> <sb:maintitle>The COMIS infiltration model</sb:maintitle> </sb:title> </sb:contribution> <sb:host> <sb:edited-book> <sb:title> <sb:maintitle>Proc. Building Simulation '89</sb:maintitle> </sb:title> <sb:date>1989</sb:date> <sb:publisher> <sb:name>Int. Building Performance Simulation Assoc</sb:name> <sb:location>Vancouver</sb:location> </sb:publisher> </sb:edited-book> </sb:host> </sb:reference>",
+    "<sb:reference> <sb:host> <sb:edited-book> <sb:editors> <sb:editor> <ce:given-name>H.E.</ce:given-name> <ce:surname>Feustel</ce:surname> </sb:editor> <sb:editor> <ce:given-name>A.</ce:given-name> <ce:surname>Raynor-Hoosen</ce:surname> </sb:editor> </sb:editors> <sb:title> <sb:maintitle>Fundamentals of the Multizone Air Flow Model \u2014 COMIS, Tech. Note 29</sb:maintitle> </sb:title> <sb:date>May 1990</sb:date> <sb:publisher> <sb:name>Air Infiltration and Ventilation Centre</sb:name> <sb:location>Warwick, UK</sb:location> </sb:publisher> </sb:edited-book> </sb:host> </sb:reference>",
+    "<sb:reference> <sb:host> <sb:edited-book> <sb:title> <sb:maintitle>German Standard DIN 4701: Regeln f\u00fcr die Berechnung des W\u00e4rmebedarfs von Geb\u00e4uden, Teil 1: Grundlagen der Berechnung, Teil 2: Tabellen, Bilder</sb:maintitle> </sb:title> <sb:date>1983</sb:date> <sb:publisher> <sb:name>Algorithmen Beuth Verlag Berlin</sb:name> <sb:location>Berlin</sb:location> </sb:publisher> </sb:edited-book> </sb:host> </sb:reference>",
+    "<sb:reference> <sb:contribution langtype=\"en\"> <sb:authors> <sb:author> <ce:given-name>H.E.</ce:given-name> <ce:surname>Feustel</ce:surname> </sb:author> <sb:author> <ce:given-name>M.H.</ce:given-name> <ce:surname>Sherman</ce:surname> </sb:author> </sb:authors> <sb:title> <sb:maintitle>A simplified model for predicting air flow in multizone structures</sb:maintitle> </sb:title> </sb:contribution> <sb:host> <sb:issue> <sb:series> <sb:title> <sb:maintitle>Energy Build.</sb:maintitle> </sb:title> <sb:volume-nr>13</sb:volume-nr> </sb:series> <sb:issue-nr>3</sb:issue-nr> <sb:date>1989</sb:date> </sb:issue> <sb:pages> <sb:first-page>217</sb:first-page> <sb:last-page>230</sb:last-page> </sb:pages> </sb:host> </sb:reference>",
+    "<sb:reference> <sb:contribution langtype=\"en\"> <sb:authors> <sb:author> <ce:given-name>P.</ce:given-name> <ce:surname>Charlesworth</ce:surname> </sb:author> </sb:authors> </sb:contribution> <sb:host> <sb:edited-book> <sb:title> <sb:maintitle>1986 Survey of Current Research into Air Infiltration and Related Air Quality Problems in Buildings, Tech. Note 19</sb:maintitle> </sb:title> <sb:date>Dec. 1986</sb:date> <sb:publisher> <sb:name>Air Infiltration and Ventilation Centre</sb:name> <sb:location>Warwick, UK</sb:location> </sb:publisher> </sb:edited-book> </sb:host> </sb:reference>",
+    "<sb:reference> <sb:contribution langtype=\"en\"> <sb:authors> <sb:author> <ce:given-name>J.</ce:given-name> <ce:surname>Blacknell</ce:surname> </sb:author> </sb:authors> </sb:contribution> <sb:host> <sb:edited-book> <sb:title> <sb:maintitle>A Subject Analysis of the AIVC's Bibliographic Database \u2014 AIRBASE (6th edn.), Tech. Note 25</sb:maintitle> </sb:title> <sb:date>Jan. 1989</sb:date> <sb:publisher> <sb:name>Air Infiltration and Ventilation Centre</sb:name> <sb:location>Warwick, UK</sb:location> </sb:publisher> </sb:edited-book> </sb:host> </sb:reference>"
+  ],
+  "title": {
+    "textEnglish": "A survey of airflow models for multizone structures"
+  }
+}

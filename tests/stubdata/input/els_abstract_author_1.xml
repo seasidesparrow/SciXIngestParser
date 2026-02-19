@@ -1,0 +1,1090 @@
+<doc:document
+	xmlns:doc="http://www.elsevier.com/xml/document/schema"
+	xmlns:dp="http://www.elsevier.com/xml/common/doc-properties/schema"
+	xmlns:cps="http://www.elsevier.com/xml/common/consyn-properties/schema"
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+	xmlns:oa="http://vtw.elsevier.com/data/ns/properties/OpenAccess-1/"
+	xmlns:bam="http://vtw.elsevier.com/data/voc/ns/bam-vtw-1/"
+	xmlns:cp="http://vtw.elsevier.com/data/ns/properties/Copyright-1/"
+	xmlns:cja="http://www.elsevier.com/xml/cja/schema"
+	xmlns:ja="http://www.elsevier.com/xml/ja/schema"
+	xmlns:bk="http://www.elsevier.com/xml/bk/schema"
+	xmlns:ce="http://www.elsevier.com/xml/common/schema"
+	xmlns:mml="http://www.w3.org/1998/Math/MathML"
+	xmlns:cals="http://www.elsevier.com/xml/common/cals/schema"
+	xmlns:tb="http://www.elsevier.com/xml/common/table/schema"
+	xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/schema"
+	xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/schema"
+	xmlns:xlink="http://www.w3.org/1999/xlink">
+	<rdf:RDF>
+		<rdf:Description rdf:about="http://dx.doi.org/10.1016/j.measurement.2024.114863">
+			<dct:format>application/xml</dct:format>
+			<dct:title>Merging experiment data and simulation data for parameter identification of shaft seal</dct:title>
+			<dct:creator>Yuan Yin</dct:creator>
+			<dct:creator>Qiang He</dct:creator>
+			<dct:creator>Fengming Hu</dct:creator>
+			<dct:creator>Weifeng Huang</dct:creator>
+			<dct:subject>
+				<rdf:Bag>
+					<rdf:li>Acoustic emissions</rdf:li>
+					<rdf:li>Parameter identification</rdf:li>
+					<rdf:li>Transfer learning</rdf:li>
+					<rdf:li>Convolutional neural network</rdf:li>
+				</rdf:Bag>
+			</dct:subject>
+			<dct:description>Measurement 236 (2024). doi:10.1016/j.measurement.2024.114863</dct:description>
+			<prism:aggregationType>journal</prism:aggregationType>
+			<prism:publicationName>Measurement</prism:publicationName>
+			<prism:copyright>&#169; 2024 Published by Elsevier Ltd.</prism:copyright>
+			<dct:publisher>Elsevier Ltd</dct:publisher>
+			<prism:issn>0263-2241</prism:issn>
+			<prism:volume>236</prism:volume>
+			<prism:coverDisplayDate>15 August 2024</prism:coverDisplayDate>
+			<prism:coverDate>2024-08-15</prism:coverDate>
+			<prism:doi>10.1016/j.measurement.2024.114863</prism:doi>
+			<prism:url>http://dx.doi.org/10.1016/j.measurement.2024.114863</prism:url>
+			<dct:identifier>doi:10.1016/j.measurement.2024.114863</dct:identifier>
+			<bam:articleNumber>114863</bam:articleNumber>
+			<dp:availableOnlineInformation>
+				<bam:availableOnline
+					xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2024-05-09T00:00:00.000Z
+				</bam:availableOnline>
+				<bam:vorAvailableOnline
+					xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+				</dp:availableOnlineInformation>
+			</rdf:Description>
+		</rdf:RDF>
+		<dp:document-properties>
+			<dp:aggregation-type>Journals</dp:aggregation-type>
+			<dp:version-number>S250.1</dp:version-number>
+		</dp:document-properties>
+		<ja:article docsubtype="fla" version="5.6" xml:lang="en">
+			<ja:item-info>
+				<ja:jid>MEASUR</ja:jid>
+				<ja:aid>114863</ja:aid>
+				<ce:article-number>114863</ce:article-number>
+				<ce:pii>S0263-2241(24)00748-6</ce:pii>
+				<ce:doi>10.1016/j.measurement.2024.114863</ce:doi>
+				<ce:copyright type="unknown" year="2024"/>
+			</ja:item-info>
+			<ce:floats>
+				<ce:figure id="fig1">
+					<ce:label>Fig. 1</ce:label>
+					<ce:caption id="d1e23">
+						<ce:simple-para id="d1e24" view="all">Faults and the face contact.</ce:simple-para>
+					</ce:caption>
+					<ce:link id="d1e26" locator="gr1" xlink:href="pii:S0263224124007486/gr1" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:type="simple"/>
+				</ce:figure>
+				<ce:figure id="fig2">
+					<ce:label>Fig. 2</ce:label>
+					<ce:caption id="d1e31">
+						<ce:simple-para id="d1e32" view="all">Overview of the acoustic emission signals acquired, taking experiment 2 as an example.</ce:simple-para>
+					</ce:caption>
+					<ce:link id="d1e34" locator="gr2" xlink:href="pii:S0263224124007486/gr2" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:type="simple"/>
+				</ce:figure>
+				<ce:figure id="fig3">
+					<ce:label>Fig. 3</ce:label>
+					<ce:caption id="d1e39">
+						<ce:simple-para id="d1e40" view="all">Embedding frequency spectrums into low-dimensionality space with an auto-encoder.</ce:simple-para>
+					</ce:caption>
+					<ce:link id="d1e42" locator="gr3" xlink:href="pii:S0263224124007486/gr3" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:type="simple"/>
+				</ce:figure>
+				<ce:figure id="fig4">
+					<ce:label>Fig. 4</ce:label>
+					<ce:caption id="d1e47">
+						<ce:simple-para id="d1e48" view="all">Distribution of the undetermined parameters.</ce:simple-para>
+					</ce:caption>
+					<ce:link id="d1e50" locator="gr4" xlink:href="pii:S0263224124007486/gr4" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:type="simple"/>
+				</ce:figure>
+				<ce:figure id="fig5">
+					<ce:label>Fig. 5</ce:label>
+					<ce:caption id="d1e55">
+						<ce:simple-para id="d1e56" view="all">Some of the calculated results. (a)&#x2013;(d) pressure fields at 4 different moments, taking case 1 as example; (e)
+							<mml:math altimg="si164.svg" display="inline" id="d1e59">
+								<mml:msub>
+									<mml:mrow>
+										<mml:mi>V</mml:mi>
+									</mml:mrow>
+									<mml:mrow>
+										<mml:mn>0</mml:mn>
+									</mml:mrow>
+								</mml:msub>
+							</mml:math> output, taking 5 cases as example.
+						</ce:simple-para>
+					</ce:caption>
+					<ce:link id="d1e68" locator="gr5" xlink:href="pii:S0263224124007486/gr5" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:type="simple"/>
+				</ce:figure>
+				<ce:figure id="fig6">
+					<ce:label>Fig. 6</ce:label>
+					<ce:caption id="d1e74">
+						<ce:simple-para id="d1e75" view="all">Modified convolutional neural network architecture. The sequences are extended before filtered by convolution layers.</ce:simple-para>
+					</ce:caption>
+					<ce:link id="d1e77" locator="gr6" xlink:href="pii:S0263224124007486/gr6" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:type="simple"/>
+				</ce:figure>
+				<ce:figure id="fig7">
+					<ce:label>Fig. 7</ce:label>
+					<ce:caption id="d1e82">
+						<ce:simple-para id="d1e83" view="all">Distribution of the identified load with filter size
+							<mml:math altimg="si237.svg" display="inline" id="d1e86">
+								<mml:mrow>
+									<mml:mi>s</mml:mi>
+									<mml:mo linebreak="goodbreak" linebreakstyle="after">=</mml:mo>
+									<mml:mn>4</mml:mn>
+								</mml:mrow>
+							</mml:math> and embedding dimensionality
+							<mml:math altimg="si238.svg" display="inline" id="d1e96">
+								<mml:mrow>
+									<mml:mi>u</mml:mi>
+									<mml:mo linebreak="goodbreak" linebreakstyle="after">=</mml:mo>
+									<mml:mn>64</mml:mn>
+								</mml:mrow>
+							</mml:math>. Medians (the points) and quartiles (the bars) are plotted.
+						</ce:simple-para>
+					</ce:caption>
+					<ce:link id="d1e105" locator="gr7" xlink:href="pii:S0263224124007486/gr7" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:type="simple"/>
+				</ce:figure>
+				<ce:figure id="fig8">
+					<ce:label>Fig. 8</ce:label>
+					<ce:caption id="d1e110">
+						<ce:simple-para id="d1e111" view="all">Comparison of transferring Module 1 from models using augmented data or not. (a) s=3, (b) s=4, (c) s=5.</ce:simple-para>
+					</ce:caption>
+					<ce:link id="d1e113" locator="gr8" xlink:href="pii:S0263224124007486/gr8" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:type="simple"/>
+				</ce:figure>
+				<ce:figure id="fig9">
+					<ce:label>Fig. 9</ce:label>
+					<ce:caption id="d1e118">
+						<ce:simple-para id="d1e119" view="all">Comparison of different transfer modes when augmentation is applied. (a) s=3, (b) s=4, (c) s=5.</ce:simple-para>
+					</ce:caption>
+					<ce:link id="d1e121" locator="gr9" xlink:href="pii:S0263224124007486/gr9" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:type="simple"/>
+				</ce:figure>
+				<ce:figure id="fig10">
+					<ce:label>Fig. 10</ce:label>
+					<ce:caption id="d1e126">
+						<ce:simple-para id="d1e127" view="all">Model output fluctuation along operation phases.</ce:simple-para>
+					</ce:caption>
+					<ce:link id="d1e129" locator="gr10" xlink:href="pii:S0263224124007486/gr10" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:type="simple"/>
+				</ce:figure>
+				<ce:table colsep="0" frame="topbot" id="tbl1" rowsep="0">
+					<ce:label>Table 1</ce:label>
+					<ce:caption id="d1e133">
+						<ce:simple-para id="d1e134" view="all">Adjusted abnormities in the test rig.</ce:simple-para>
+					</ce:caption>
+					<cals:tgroup cols="4">
+						<cals:colspec align="left" colname="col1" colnum="1"/>
+						<cals:colspec align="left" colname="col2" colnum="2"/>
+						<cals:colspec align="left" colname="col3" colnum="3"/>
+						<cals:colspec align="left" colname="col4" colnum="4"/>
+						<cals:thead>
+							<cals:row rowsep="1" valign="top">
+								<ce:entry align="left">Number of experiment</ce:entry>
+								<ce:entry align="left">Load (N)</ce:entry>
+								<ce:entry align="left">Rotor tilt (
+									<mml:math altimg="si3.svg" display="inline" id="d1e151">
+										<mml:mi mathvariant="normal">&#x03bc;</mml:mi>
+									</mml:math>rad)
+								</ce:entry>
+								<ce:entry align="left">Group</ce:entry>
+							</cals:row>
+						</cals:thead>
+						<cals:tbody>
+							<cals:row valign="top">
+								<ce:entry align="left" role="rowhead">1</ce:entry>
+								<ce:entry align="left">29.7</ce:entry>
+								<ce:entry align="left">46</ce:entry>
+								<ce:entry align="left">A</ce:entry>
+							</cals:row>
+							<cals:row valign="top">
+								<ce:entry align="left" role="rowhead">2</ce:entry>
+								<ce:entry align="left">54.6</ce:entry>
+								<ce:entry align="left">46</ce:entry>
+								<ce:entry align="left">A</ce:entry>
+							</cals:row>
+							<cals:row valign="top">
+								<ce:entry align="left" role="rowhead">3</ce:entry>
+								<ce:entry align="left">79.5</ce:entry>
+								<ce:entry align="left">46</ce:entry>
+								<ce:entry align="left">A</ce:entry>
+							</cals:row>
+							<cals:row valign="top">
+								<ce:entry align="left" role="rowhead">4</ce:entry>
+								<ce:entry align="left">104.4</ce:entry>
+								<ce:entry align="left">46</ce:entry>
+								<ce:entry align="left">A</ce:entry>
+							</cals:row>
+							<cals:row valign="top">
+								<ce:entry align="left" role="rowhead">5</ce:entry>
+								<ce:entry align="left">129.3</ce:entry>
+								<ce:entry align="left">46</ce:entry>
+								<ce:entry align="left">A</ce:entry>
+							</cals:row>
+							<cals:row valign="top">
+								<ce:entry align="left" role="rowhead">6</ce:entry>
+								<ce:entry align="left">29.7</ce:entry>
+								<ce:entry align="left">144</ce:entry>
+								<ce:entry align="left">B</ce:entry>
+							</cals:row>
+							<cals:row valign="top">
+								<ce:entry align="left" role="rowhead">7</ce:entry>
+								<ce:entry align="left">54.6</ce:entry>
+								<ce:entry align="left">144</ce:entry>
+								<ce:entry align="left">B</ce:entry>
+							</cals:row>
+							<cals:row valign="top">
+								<ce:entry align="left" role="rowhead">8</ce:entry>
+								<ce:entry align="left">79.5</ce:entry>
+								<ce:entry align="left">144</ce:entry>
+								<ce:entry align="left">B</ce:entry>
+							</cals:row>
+							<cals:row valign="top">
+								<ce:entry align="left" role="rowhead">9</ce:entry>
+								<ce:entry align="left">104.4</ce:entry>
+								<ce:entry align="left">144</ce:entry>
+								<ce:entry align="left">B</ce:entry>
+							</cals:row>
+							<cals:row valign="top">
+								<ce:entry align="left" role="rowhead">10</ce:entry>
+								<ce:entry align="left">129.3</ce:entry>
+								<ce:entry align="left">144</ce:entry>
+								<ce:entry align="left">B</ce:entry>
+							</cals:row>
+						</cals:tbody>
+					</cals:tgroup>
+				</ce:table>
+				<ce:table colsep="0" frame="topbot" id="tbl2" rowsep="0">
+					<ce:label>Table 2</ce:label>
+					<ce:caption id="d1e251">
+						<ce:simple-para id="d1e252" view="all">Varying parameters and their respective distributions for simulation data.</ce:simple-para>
+					</ce:caption>
+					<cals:tgroup cols="3">
+						<cals:colspec align="left" colname="col1" colnum="1"/>
+						<cals:colspec align="left" colname="col2" colnum="2"/>
+						<cals:colspec align="left" colname="col3" colnum="3"/>
+						<cals:thead>
+							<cals:row rowsep="1" valign="top">
+								<ce:entry align="left">Dimension index
+									<mml:math altimg="si116.svg" display="inline" id="d1e263">
+										<mml:mi>j</mml:mi>
+									</mml:math>
+								</ce:entry>
+								<ce:entry align="left">Variable</ce:entry>
+								<ce:entry align="left">Distribution</ce:entry>
+							</cals:row>
+						</cals:thead>
+						<cals:tbody>
+							<cals:row valign="top">
+								<ce:entry align="left" role="rowhead">1</ce:entry>
+								<ce:entry align="left">Extra axial force
+									<mml:math altimg="si117.svg" display="inline" id="d1e277">
+										<mml:mrow>
+											<mml:mi>F</mml:mi>
+											<mml:mrow>
+												<mml:mo>(</mml:mo>
+												<mml:mi mathvariant="normal">N</mml:mi>
+												<mml:mo>)</mml:mo>
+											</mml:mrow>
+										</mml:mrow>
+									</mml:math>
+								</ce:entry>
+								<ce:entry align="left">
+									<mml:math altimg="si118.svg" display="inline" id="d1e290">
+										<mml:mrow>
+											<mml:mi>N</mml:mi>
+											<mml:mrow>
+												<mml:mo>(</mml:mo>
+												<mml:mn>0</mml:mn>
+												<mml:mo>,</mml:mo>
+												<mml:mn>10</mml:mn>
+												<mml:msup>
+													<mml:mrow>
+														<mml:mn>0</mml:mn>
+													</mml:mrow>
+													<mml:mrow>
+														<mml:mn>2</mml:mn>
+													</mml:mrow>
+												</mml:msup>
+												<mml:mo>)</mml:mo>
+											</mml:mrow>
+										</mml:mrow>
+									</mml:math>
+									<ce:cross-ref id="d1e312" refid="tblfn2a">
+										<ce:sup loc="post">a</ce:sup>
+									</ce:cross-ref>
+								</ce:entry>
+							</cals:row>
+							<cals:row valign="top">
+								<ce:entry align="left" role="rowhead">2&#x2013;3</ce:entry>
+								<ce:entry align="left">Extra moment
+									<mml:math altimg="si119.svg" display="inline" id="d1e321">
+										<mml:mrow>
+											<mml:msub>
+												<mml:mrow>
+													<mml:mi>M</mml:mi>
+												</mml:mrow>
+												<mml:mrow>
+													<mml:mi>x</mml:mi>
+												</mml:mrow>
+											</mml:msub>
+											<mml:mo>,</mml:mo>
+											<mml:msub>
+												<mml:mrow>
+													<mml:mi>M</mml:mi>
+												</mml:mrow>
+												<mml:mrow>
+													<mml:mi>y</mml:mi>
+												</mml:mrow>
+											</mml:msub>
+											<mml:mspace class="nbsp" width="1em"/>
+											<mml:mrow>
+												<mml:mo>(</mml:mo>
+												<mml:mi mathvariant="normal">N</mml:mi>
+												<mml:mspace class="nbsp" width="1em"/>
+												<mml:mi mathvariant="normal">m</mml:mi>
+												<mml:mo>)</mml:mo>
+											</mml:mrow>
+										</mml:mrow>
+									</mml:math>
+								</ce:entry>
+								<ce:entry align="left">
+									<mml:math altimg="si120.svg" display="inline" id="d1e352">
+										<mml:mrow>
+											<mml:mi>N</mml:mi>
+											<mml:mrow>
+												<mml:mo>(</mml:mo>
+												<mml:mn>0</mml:mn>
+												<mml:mo>,</mml:mo>
+												<mml:msup>
+													<mml:mrow>
+														<mml:mn>5</mml:mn>
+													</mml:mrow>
+													<mml:mrow>
+														<mml:mn>2</mml:mn>
+													</mml:mrow>
+												</mml:msup>
+												<mml:mo>)</mml:mo>
+											</mml:mrow>
+										</mml:mrow>
+									</mml:math>
+								</ce:entry>
+							</cals:row>
+							<cals:row valign="top">
+								<ce:entry align="left" role="rowhead">4</ce:entry>
+								<ce:entry align="left">Support stiffness and damping scale
+									<mml:math altimg="si121.svg" display="inline" id="d1e378">
+										<mml:msub>
+											<mml:mrow>
+												<mml:mi>Q</mml:mi>
+											</mml:mrow>
+											<mml:mrow>
+												<mml:mi mathvariant="normal">s</mml:mi>
+											</mml:mrow>
+										</mml:msub>
+									</mml:math>
+								</ce:entry>
+								<ce:entry align="left">
+									<mml:math altimg="si122.svg" display="inline" id="d1e388">
+										<mml:mrow>
+											<mml:msup>
+												<mml:mrow>
+													<mml:mi>N</mml:mi>
+												</mml:mrow>
+												<mml:mrow>
+													<mml:mo>+</mml:mo>
+												</mml:mrow>
+											</mml:msup>
+											<mml:mrow>
+												<mml:mo>(</mml:mo>
+												<mml:mn>0</mml:mn>
+												<mml:mo>,</mml:mo>
+												<mml:mn>2</mml:mn>
+												<mml:msup>
+													<mml:mrow>
+														<mml:mn>5</mml:mn>
+													</mml:mrow>
+													<mml:mrow>
+														<mml:mn>2</mml:mn>
+													</mml:mrow>
+												</mml:msup>
+												<mml:mo>)</mml:mo>
+											</mml:mrow>
+										</mml:mrow>
+									</mml:math>
+									<ce:cross-ref id="d1e415" refid="tblfn2b">
+										<ce:sup loc="post">b</ce:sup>
+									</ce:cross-ref>
+								</ce:entry>
+							</cals:row>
+							<cals:row valign="top">
+								<ce:entry align="left" role="rowhead">5&#x2013;6</ce:entry>
+								<ce:entry align="left">Rotor tilt
+									<mml:math altimg="si123.svg" display="inline" id="d1e424">
+										<mml:mrow>
+											<mml:msub>
+												<mml:mrow>
+													<mml:mi>&#x03b3;</mml:mi>
+												</mml:mrow>
+												<mml:mrow>
+													<mml:mi mathvariant="normal">r</mml:mi>
+													<mml:mi>x</mml:mi>
+													<mml:mn>0</mml:mn>
+												</mml:mrow>
+											</mml:msub>
+											<mml:mo>,</mml:mo>
+											<mml:msub>
+												<mml:mrow>
+													<mml:mi>&#x03b3;</mml:mi>
+												</mml:mrow>
+												<mml:mrow>
+													<mml:mi mathvariant="normal">r</mml:mi>
+													<mml:msub>
+														<mml:mrow>
+															<mml:mi>y</mml:mi>
+														</mml:mrow>
+														<mml:mrow>
+															<mml:mn>0</mml:mn>
+														</mml:mrow>
+													</mml:msub>
+												</mml:mrow>
+											</mml:msub>
+											<mml:mspace class="nbsp" width="1em"/>
+											<mml:mrow>
+												<mml:mo>(</mml:mo>
+												<mml:mi mathvariant="normal">mrad</mml:mi>
+												<mml:mo>)</mml:mo>
+											</mml:mrow>
+										</mml:mrow>
+									</mml:math>
+								</ce:entry>
+								<ce:entry align="left">
+									<mml:math altimg="si124.svg" display="inline" id="d1e463">
+										<mml:mrow>
+											<mml:mi>N</mml:mi>
+											<mml:mrow>
+												<mml:mo>(</mml:mo>
+												<mml:mn>0</mml:mn>
+												<mml:mo>,</mml:mo>
+												<mml:mn>0</mml:mn>
+												<mml:mo>.</mml:mo>
+												<mml:mn>2</mml:mn>
+												<mml:msup>
+													<mml:mrow>
+														<mml:mn>5</mml:mn>
+													</mml:mrow>
+													<mml:mrow>
+														<mml:mn>2</mml:mn>
+													</mml:mrow>
+												</mml:msup>
+												<mml:mo>)</mml:mo>
+											</mml:mrow>
+										</mml:mrow>
+									</mml:math>
+								</ce:entry>
+							</cals:row>
+							<cals:row valign="top">
+								<ce:entry align="left" role="rowhead">7&#x2013;14</ce:entry>
+								<ce:entry align="left">Waviness
+									<mml:math altimg="si125.svg" display="inline" id="d1e495">
+										<mml:mrow>
+											<mml:msub>
+												<mml:mrow>
+													<mml:mi>h</mml:mi>
+												</mml:mrow>
+												<mml:mrow>
+													<mml:mi mathvariant="normal">ws</mml:mi>
+													<mml:mn>2</mml:mn>
+												</mml:mrow>
+											</mml:msub>
+											<mml:mo>,</mml:mo>
+											<mml:mo>&#x2026;</mml:mo>
+											<mml:mo>,</mml:mo>
+											<mml:msub>
+												<mml:mrow>
+													<mml:mi>h</mml:mi>
+												</mml:mrow>
+												<mml:mrow>
+													<mml:mi mathvariant="normal">wr</mml:mi>
+													<mml:mn>3</mml:mn>
+												</mml:mrow>
+											</mml:msub>
+											<mml:mspace class="nbsp" width="1em"/>
+											<mml:mrow>
+												<mml:mo>(</mml:mo>
+												<mml:mi mathvariant="normal">&#x03bc;</mml:mi>
+												<mml:mi mathvariant="normal">m</mml:mi>
+												<mml:mo>)</mml:mo>
+											</mml:mrow>
+										</mml:mrow>
+									</mml:math>
+								</ce:entry>
+								<ce:entry align="left">
+									<mml:math altimg="si124.svg" display="inline" id="d1e533">
+										<mml:mrow>
+											<mml:mi>N</mml:mi>
+											<mml:mrow>
+												<mml:mo>(</mml:mo>
+												<mml:mn>0</mml:mn>
+												<mml:mo>,</mml:mo>
+												<mml:mn>0</mml:mn>
+												<mml:mo>.</mml:mo>
+												<mml:mn>2</mml:mn>
+												<mml:msup>
+													<mml:mrow>
+														<mml:mn>5</mml:mn>
+													</mml:mrow>
+													<mml:mrow>
+														<mml:mn>2</mml:mn>
+													</mml:mrow>
+												</mml:msup>
+												<mml:mo>)</mml:mo>
+											</mml:mrow>
+										</mml:mrow>
+									</mml:math>
+								</ce:entry>
+							</cals:row>
+							<cals:row valign="top">
+								<ce:entry align="left" role="rowhead">15</ce:entry>
+								<ce:entry align="left">Coning
+									<mml:math altimg="si127.svg" display="inline" id="d1e565">
+										<mml:mrow>
+											<mml:mi>&#x03b4;</mml:mi>
+											<mml:mspace class="nbsp" width="1em"/>
+											<mml:mrow>
+												<mml:mo>(</mml:mo>
+												<mml:mi mathvariant="normal">&#x03bc;</mml:mi>
+												<mml:mi mathvariant="normal">m</mml:mi>
+												<mml:mo>)</mml:mo>
+											</mml:mrow>
+										</mml:mrow>
+									</mml:math>
+								</ce:entry>
+								<ce:entry align="left">
+									<mml:math altimg="si124.svg" display="inline" id="d1e581">
+										<mml:mrow>
+											<mml:mi>N</mml:mi>
+											<mml:mrow>
+												<mml:mo>(</mml:mo>
+												<mml:mn>0</mml:mn>
+												<mml:mo>,</mml:mo>
+												<mml:mn>0</mml:mn>
+												<mml:mo>.</mml:mo>
+												<mml:mn>2</mml:mn>
+												<mml:msup>
+													<mml:mrow>
+														<mml:mn>5</mml:mn>
+													</mml:mrow>
+													<mml:mrow>
+														<mml:mn>2</mml:mn>
+													</mml:mrow>
+												</mml:msup>
+												<mml:mo>)</mml:mo>
+											</mml:mrow>
+										</mml:mrow>
+									</mml:math>
+								</ce:entry>
+							</cals:row>
+							<cals:row valign="top">
+								<ce:entry align="left" role="rowhead">16</ce:entry>
+								<ce:entry align="left">Speed
+									<mml:math altimg="si129.svg" display="inline" id="d1e613">
+										<mml:mrow>
+											<mml:mi>&#x03c9;</mml:mi>
+											<mml:mspace class="nbsp" width="1em"/>
+											<mml:mrow>
+												<mml:mo>(</mml:mo>
+												<mml:mi mathvariant="normal">rad</mml:mi>
+												<mml:mo>)</mml:mo>
+											</mml:mrow>
+										</mml:mrow>
+									</mml:math>
+								</ce:entry>
+								<ce:entry align="left">
+									<mml:math altimg="si130.svg" display="inline" id="d1e627">
+										<mml:mrow>
+											<mml:mi>U</mml:mi>
+											<mml:mrow>
+												<mml:mo>(</mml:mo>
+												<mml:mn>600</mml:mn>
+												<mml:mo>,</mml:mo>
+												<mml:mn>1200</mml:mn>
+												<mml:mo>)</mml:mo>
+											</mml:mrow>
+										</mml:mrow>
+									</mml:math>
+									<ce:cross-ref id="d1e642" refid="tblfn2c">
+										<ce:sup loc="post">c</ce:sup>
+									</ce:cross-ref>
+								</ce:entry>
+							</cals:row>
+						</cals:tbody>
+					</cals:tgroup>
+					<ce:table-footnote id="tblfn2a">
+						<ce:label>a</ce:label>
+						<ce:note-para id="d1e648" view="all">
+							<mml:math altimg="si131.svg" display="inline" id="d1e650">
+								<mml:mrow>
+									<mml:mi>N</mml:mi>
+									<mml:mrow>
+										<mml:mo>(</mml:mo>
+										<mml:mi>&#x03bc;</mml:mi>
+										<mml:mo>,</mml:mo>
+										<mml:msup>
+											<mml:mrow>
+												<mml:mi>&#x03c3;</mml:mi>
+											</mml:mrow>
+											<mml:mrow>
+												<mml:mn>2</mml:mn>
+											</mml:mrow>
+										</mml:msup>
+										<mml:mo>)</mml:mo>
+									</mml:mrow>
+								</mml:mrow>
+							</mml:math> denotes a normal distribution with mean
+							<mml:math altimg="si132.svg" display="inline" id="d1e672">
+								<mml:mi>&#x03bc;</mml:mi>
+							</mml:math> and standard variance
+							<mml:math altimg="si133.svg" display="inline" id="d1e677">
+								<mml:mi>&#x03c3;</mml:mi>
+							</mml:math>.
+						</ce:note-para>
+					</ce:table-footnote>
+					<ce:table-footnote id="tblfn2b">
+						<ce:label>b</ce:label>
+						<ce:note-para id="d1e684" view="all">
+							<mml:math altimg="si134.svg" display="inline" id="d1e686">
+								<mml:mrow>
+									<mml:msup>
+										<mml:mrow>
+											<mml:mi>N</mml:mi>
+										</mml:mrow>
+										<mml:mrow>
+											<mml:mo>+</mml:mo>
+										</mml:mrow>
+									</mml:msup>
+									<mml:mrow>
+										<mml:mo>(</mml:mo>
+										<mml:mi>&#x03bc;</mml:mi>
+										<mml:mo>,</mml:mo>
+										<mml:msup>
+											<mml:mrow>
+												<mml:mi>&#x03c3;</mml:mi>
+											</mml:mrow>
+											<mml:mrow>
+												<mml:mn>2</mml:mn>
+											</mml:mrow>
+										</mml:msup>
+										<mml:mo>)</mml:mo>
+									</mml:mrow>
+								</mml:mrow>
+							</mml:math> denotes the right half (in terms of probability density function) of a normal distribution with mean
+							<mml:math altimg="si132.svg" display="inline" id="d1e713">
+								<mml:mi>&#x03bc;</mml:mi>
+							</mml:math> and standard variance
+							<mml:math altimg="si133.svg" display="inline" id="d1e718">
+								<mml:mi>&#x03c3;</mml:mi>
+							</mml:math>.
+						</ce:note-para>
+					</ce:table-footnote>
+					<ce:table-footnote id="tblfn2c">
+						<ce:label>c</ce:label>
+						<ce:note-para id="d1e725" view="all">
+							<mml:math altimg="si137.svg" display="inline" id="d1e727">
+								<mml:mrow>
+									<mml:mi>U</mml:mi>
+									<mml:mrow>
+										<mml:mo>(</mml:mo>
+										<mml:mi>a</mml:mi>
+										<mml:mo>,</mml:mo>
+										<mml:mi>b</mml:mi>
+										<mml:mo>)</mml:mo>
+									</mml:mrow>
+								</mml:mrow>
+							</mml:math> denotes a uniform distribution between
+							<mml:math altimg="si138.svg" display="inline" id="d1e744">
+								<mml:mi>a</mml:mi>
+							</mml:math> and
+							<mml:math altimg="si139.svg" display="inline" id="d1e749">
+								<mml:mi>b</mml:mi>
+							</mml:math>.
+						</ce:note-para>
+					</ce:table-footnote>
+				</ce:table>
+				<ce:table colsep="0" frame="topbot" id="tbl3" rowsep="0">
+					<ce:label>Table 3</ce:label>
+					<ce:caption id="d1e757">
+						<ce:simple-para id="d1e758" view="all">Cross validation error of different models.</ce:simple-para>
+					</ce:caption>
+					<cals:tgroup cols="10">
+						<cals:colspec align="left" colname="col1" colnum="1"/>
+						<cals:colspec align="left" colname="col2" colnum="2"/>
+						<cals:colspec align="left" colname="col3" colnum="3"/>
+						<cals:colspec align="left" colname="col4" colnum="4"/>
+						<cals:colspec align="left" colname="col5" colnum="5"/>
+						<cals:colspec align="left" colname="col6" colnum="6"/>
+						<cals:colspec align="left" colname="col7" colnum="7"/>
+						<cals:colspec align="left" colname="col8" colnum="8"/>
+						<cals:colspec align="left" colname="col9" colnum="9"/>
+						<cals:colspec align="left" colname="col10" colnum="10"/>
+						<cals:thead>
+							<cals:row valign="top">
+								<ce:entry align="left">
+									<mml:math altimg="si227.svg" display="inline" id="d1e775">
+										<mml:mi>s</mml:mi>
+									</mml:math>
+								</ce:entry>
+								<ce:entry align="left">
+									<mml:math altimg="si228.svg" display="inline" id="d1e780">
+										<mml:mi>u</mml:mi>
+									</mml:math>
+								</ce:entry>
+								<ce:entry align="left" nameend="col6" namest="col3" role="colgroup" rowsep="1">Not augmented</ce:entry>
+								<ce:entry align="left" nameend="col10" namest="col7" role="colgroup" rowsep="1">Augmented</ce:entry>
+							</cals:row>
+							<cals:row rowsep="1" valign="top">
+								<ce:entry align="left"/>
+								<ce:entry align="left"/>
+								<ce:entry align="left">&#x2013;</ce:entry>
+								<ce:entry align="left">M1</ce:entry>
+								<ce:entry align="left">M2</ce:entry>
+								<ce:entry align="left">M1, M2</ce:entry>
+								<ce:entry align="left">&#x2013;</ce:entry>
+								<ce:entry align="left">M1</ce:entry>
+								<ce:entry align="left">M2</ce:entry>
+								<ce:entry align="left">M1, M2</ce:entry>
+							</cals:row>
+						</cals:thead>
+						<cals:tbody>
+							<cals:row valign="top">
+								<ce:entry align="left" role="rowhead">3</ce:entry>
+								<ce:entry align="left">16</ce:entry>
+								<ce:entry align="left">0.291</ce:entry>
+								<ce:entry align="left">0.321</ce:entry>
+								<ce:entry align="left">0.29</ce:entry>
+								<ce:entry align="left">0.192</ce:entry>
+								<ce:entry align="left">0.291</ce:entry>
+								<ce:entry align="left">0.193</ce:entry>
+								<ce:entry align="left">0.351</ce:entry>
+								<ce:entry align="left">0.544</ce:entry>
+							</cals:row>
+							<cals:row valign="top">
+								<ce:entry align="left" role="rowhead"/>
+								<ce:entry align="left">32</ce:entry>
+								<ce:entry align="left">0.297</ce:entry>
+								<ce:entry align="left">0.255</ce:entry>
+								<ce:entry align="left">0.28</ce:entry>
+								<ce:entry align="left">0.333</ce:entry>
+								<ce:entry align="left">0.297</ce:entry>
+								<ce:entry align="left">0.225</ce:entry>
+								<ce:entry align="left">0.297</ce:entry>
+								<ce:entry align="left">0.244</ce:entry>
+							</cals:row>
+							<cals:row valign="top">
+								<ce:entry align="left" role="rowhead"/>
+								<ce:entry align="left">64</ce:entry>
+								<ce:entry align="left">0.259</ce:entry>
+								<ce:entry align="left">0.254</ce:entry>
+								<ce:entry align="left">0.344</ce:entry>
+								<ce:entry align="left">0.151</ce:entry>
+								<ce:entry align="left">0.259</ce:entry>
+								<ce:entry align="left">0.162</ce:entry>
+								<ce:entry align="left">0.137</ce:entry>
+								<ce:entry align="left">0.323</ce:entry>
+							</cals:row>
+							<cals:row valign="top">
+								<ce:entry align="left" role="rowhead"/>
+								<ce:entry align="left">128</ce:entry>
+								<ce:entry align="left">0.213</ce:entry>
+								<ce:entry align="left">0.246</ce:entry>
+								<ce:entry align="left">0.236</ce:entry>
+								<ce:entry align="left">0.218</ce:entry>
+								<ce:entry align="left">0.213</ce:entry>
+								<ce:entry align="left">0.158</ce:entry>
+								<ce:entry align="left">0.267</ce:entry>
+								<ce:entry align="left">0.243</ce:entry>
+							</cals:row>
+							<cals:row rowsep="1" valign="top">
+								<ce:entry align="left" role="rowhead"/>
+								<ce:entry align="left">256</ce:entry>
+								<ce:entry align="left">0.194</ce:entry>
+								<ce:entry align="left">0.227</ce:entry>
+								<ce:entry align="left">0.227</ce:entry>
+								<ce:entry align="left">0.264</ce:entry>
+								<ce:entry align="left">0.194</ce:entry>
+								<ce:entry align="left">0.147</ce:entry>
+								<ce:entry align="left">0.203</ce:entry>
+								<ce:entry align="left">0.321</ce:entry>
+							</cals:row>
+							<cals:row valign="top">
+								<ce:entry align="left" role="rowhead">4</ce:entry>
+								<ce:entry align="left">16</ce:entry>
+								<ce:entry align="left">0.279</ce:entry>
+								<ce:entry align="left">0.278</ce:entry>
+								<ce:entry align="left">0.378</ce:entry>
+								<ce:entry align="left">0.207</ce:entry>
+								<ce:entry align="left">0.279</ce:entry>
+								<ce:entry align="left">0.272</ce:entry>
+								<ce:entry align="left">0.198</ce:entry>
+								<ce:entry align="left">0.298</ce:entry>
+							</cals:row>
+							<cals:row valign="top">
+								<ce:entry align="left" role="rowhead"/>
+								<ce:entry align="left">32</ce:entry>
+								<ce:entry align="left">0.262</ce:entry>
+								<ce:entry align="left">0.258</ce:entry>
+								<ce:entry align="left">0.311</ce:entry>
+								<ce:entry align="left">0.526</ce:entry>
+								<ce:entry align="left">0.262</ce:entry>
+								<ce:entry align="left">0.175</ce:entry>
+								<ce:entry align="left">0.317</ce:entry>
+								<ce:entry align="left">0.201</ce:entry>
+							</cals:row>
+							<cals:row valign="top">
+								<ce:entry align="left" role="rowhead"/>
+								<ce:entry align="left">64</ce:entry>
+								<ce:entry align="left">0.244</ce:entry>
+								<ce:entry align="left">0.257</ce:entry>
+								<ce:entry align="left">0.265</ce:entry>
+								<ce:entry align="left">0.229</ce:entry>
+								<ce:entry align="left">0.244</ce:entry>
+								<ce:entry align="left">0.157</ce:entry>
+								<ce:entry align="left">0.211</ce:entry>
+								<ce:entry align="left">0.221</ce:entry>
+							</cals:row>
+							<cals:row valign="top">
+								<ce:entry align="left" role="rowhead"/>
+								<ce:entry align="left">128</ce:entry>
+								<ce:entry align="left">0.270</ce:entry>
+								<ce:entry align="left">0.221</ce:entry>
+								<ce:entry align="left">0.267</ce:entry>
+								<ce:entry align="left">0.246</ce:entry>
+								<ce:entry align="left">0.270</ce:entry>
+								<ce:entry align="left">0.130</ce:entry>
+								<ce:entry align="left">0.267</ce:entry>
+								<ce:entry align="left">0.215</ce:entry>
+							</cals:row>
+							<cals:row rowsep="1" valign="top">
+								<ce:entry align="left" role="rowhead"/>
+								<ce:entry align="left">256</ce:entry>
+								<ce:entry align="left">0.220</ce:entry>
+								<ce:entry align="left">0.262</ce:entry>
+								<ce:entry align="left">0.204</ce:entry>
+								<ce:entry align="left">0.172</ce:entry>
+								<ce:entry align="left">0.220</ce:entry>
+								<ce:entry align="left">0.133</ce:entry>
+								<ce:entry align="left">0.258</ce:entry>
+								<ce:entry align="left">0.254</ce:entry>
+							</cals:row>
+							<cals:row valign="top">
+								<ce:entry align="left" role="rowhead">5</ce:entry>
+								<ce:entry align="left">16</ce:entry>
+								<ce:entry align="left">0.311</ce:entry>
+								<ce:entry align="left">0.324</ce:entry>
+								<ce:entry align="left">0.512</ce:entry>
+								<ce:entry align="left">0.782</ce:entry>
+								<ce:entry align="left">0.311</ce:entry>
+								<ce:entry align="left">0.236</ce:entry>
+								<ce:entry align="left">0.292</ce:entry>
+								<ce:entry align="left">0.721</ce:entry>
+							</cals:row>
+							<cals:row valign="top">
+								<ce:entry align="left" role="rowhead"/>
+								<ce:entry align="left">32</ce:entry>
+								<ce:entry align="left">0.305</ce:entry>
+								<ce:entry align="left">0.265</ce:entry>
+								<ce:entry align="left">0.302</ce:entry>
+								<ce:entry align="left">0.496</ce:entry>
+								<ce:entry align="left">0.305</ce:entry>
+								<ce:entry align="left">0.175</ce:entry>
+								<ce:entry align="left">0.294</ce:entry>
+								<ce:entry align="left">0.534</ce:entry>
+							</cals:row>
+							<cals:row valign="top">
+								<ce:entry align="left" role="rowhead"/>
+								<ce:entry align="left">64</ce:entry>
+								<ce:entry align="left">0.275</ce:entry>
+								<ce:entry align="left">0.257</ce:entry>
+								<ce:entry align="left">0.275</ce:entry>
+								<ce:entry align="left">0.481</ce:entry>
+								<ce:entry align="left">0.275</ce:entry>
+								<ce:entry align="left">0.169</ce:entry>
+								<ce:entry align="left">0.270</ce:entry>
+								<ce:entry align="left">0.392</ce:entry>
+							</cals:row>
+							<cals:row valign="top">
+								<ce:entry align="left" role="rowhead"/>
+								<ce:entry align="left">128</ce:entry>
+								<ce:entry align="left">0.211</ce:entry>
+								<ce:entry align="left">0.252</ce:entry>
+								<ce:entry align="left">0.287</ce:entry>
+								<ce:entry align="left">0.304</ce:entry>
+								<ce:entry align="left">0.211</ce:entry>
+								<ce:entry align="left">0.164</ce:entry>
+								<ce:entry align="left">0.258</ce:entry>
+								<ce:entry align="left">0.237</ce:entry>
+							</cals:row>
+							<cals:row valign="top">
+								<ce:entry align="left" role="rowhead"/>
+								<ce:entry align="left">256</ce:entry>
+								<ce:entry align="left">0.208</ce:entry>
+								<ce:entry align="left">0.243</ce:entry>
+								<ce:entry align="left">0.219</ce:entry>
+								<ce:entry align="left">0.210</ce:entry>
+								<ce:entry align="left">0.208</ce:entry>
+								<ce:entry align="left">0.135</ce:entry>
+								<ce:entry align="left">0.281</ce:entry>
+								<ce:entry align="left">0.314</ce:entry>
+							</cals:row>
+						</cals:tbody>
+					</cals:tgroup>
+				</ce:table>
+			</ce:floats>
+			<ja:head>
+				<ce:title id="d1e1113">Merging experiment data and simulation data for parameter identification of shaft seal</ce:title>
+				<ce:author-group id="d1e1116">
+					<ce:author author-id="S0263224124007486-3ec02071dc3363034706f3f132404219" id="au000001">
+						<ce:given-name>Yuan</ce:given-name>
+						<ce:surname>Yin</ce:surname>
+						<ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-original-draft">Writing &#x2013; original draft</ce:contributor-role>
+						<ce:contributor-role role="http://credit.niso.org/contributor-roles/visualization">Visualization</ce:contributor-role>
+						<ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+						<ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+						<ce:contributor-role role="http://credit.niso.org/contributor-roles/formal-analysis">Formal analysis</ce:contributor-role>
+					</ce:author>
+					<ce:author author-id="S0263224124007486-129b013bce6df0a71733951bf1127438" id="au000002">
+						<ce:given-name>Qiang</ce:given-name>
+						<ce:surname>He</ce:surname>
+						<ce:contributor-role role="http://credit.niso.org/contributor-roles/visualization">Visualization</ce:contributor-role>
+						<ce:contributor-role role="http://credit.niso.org/contributor-roles/software">Software</ce:contributor-role>
+						<ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+					</ce:author>
+					<ce:author author-id="S0263224124007486-48f4d241aa814f80c487ba687244149a" id="au000003">
+						<ce:given-name>Fengming</ce:given-name>
+						<ce:surname>Hu</ce:surname>
+						<ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing &#x2013; review &amp; editing</ce:contributor-role>
+						<ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+						<ce:contributor-role role="http://credit.niso.org/contributor-roles/data-curation">Data curation</ce:contributor-role>
+					</ce:author>
+					<ce:author author-id="S0263224124007486-4636a09ee75cd18f40caaeede4a0d0e2" id="au000004">
+						<ce:given-name>Weifeng</ce:given-name>
+						<ce:surname>Huang</ce:surname>
+						<ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing &#x2013; review &amp; editing</ce:contributor-role>
+						<ce:contributor-role role="http://credit.niso.org/contributor-roles/supervision">Supervision</ce:contributor-role>
+						<ce:contributor-role role="http://credit.niso.org/contributor-roles/resources">Resources</ce:contributor-role>
+						<ce:contributor-role role="http://credit.niso.org/contributor-roles/project-administration">Project administration</ce:contributor-role>
+						<ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+						<ce:contributor-role role="http://credit.niso.org/contributor-roles/funding-acquisition">Funding acquisition</ce:contributor-role>
+						<ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+						<ce:cross-ref id="d1e1173" refid="cor1">
+							<ce:sup loc="post">&#x204e;</ce:sup>
+						</ce:cross-ref>
+						<ce:e-address id="ea1" type="email" xlink:href="mailto:huangwf@tsinghua.edu.cn">huangwf@tsinghua.edu.cn</ce:e-address>
+					</ce:author>
+					<ce:affiliation affiliation-id="S0263224124007486-75c44b2d29c7f9f46d3dafbdb7f35ebe" id="aff1">
+						<ce:textfn>State Key Laboratory of Tribology in Advanced Equipment, Tsinghua University, Beijing 100084, China</ce:textfn>
+						<sa:affiliation>
+							<sa:organization>State Key Laboratory of Tribology in Advanced Equipment, Tsinghua University</sa:organization>
+							<sa:city>Beijing</sa:city>
+							<sa:postal-code>100084</sa:postal-code>
+							<sa:country>China</sa:country>
+						</sa:affiliation>
+						<ce:source-text id="afs40">State Key Laboratory of Tribology in Advanced Equipment, Tsinghua University, Beijing 100084, China</ce:source-text>
+					</ce:affiliation>
+					<ce:correspondence id="cor1">
+						<ce:label>&#x204e;</ce:label>
+						<ce:text>Corresponding author.</ce:text>
+					</ce:correspondence>
+				</ce:author-group>
+				<ce:date-received day="31" month="1" year="2024"/>
+				<ce:date-revised day="30" month="3" year="2024"/>
+				<ce:date-accepted day="6" month="5" year="2024"/>
+				<ce:abstract class="author" id="d1e1201" view="all">
+					<ce:section-title id="d1e1202">Abstract</ce:section-title>
+					<ce:abstract-sec id="d1e1204" view="all">
+						<ce:simple-para id="d1e1205" view="all">A parameter identification method which merges experimentally monitored signals and physics-based simulation data is proposed, targeting the identification tasks in shaft seals which are challenging due to the high-dimensional parameter space. Features were extracted from the monitored acoustic emission signals following a proposed cross-timescale analysis routine, and the simulation data were augmented using Kriging surrogate model to obtain a dataset with stratified fidelity. Then, a transferable architecture of convolutional neural network modified for periodical data was proposed, with which part of the parameters trained by simulation data were reserved when training model using acoustic emission data acquired in experiments. Cross validation shows that transfer learning can effectively improve the performance, provided data augmentation and proper transfer mode. In conclusion, the study provides an effective parameter identification method which merges the simulation data which carry the physical knowledge and the experiment data which carry directly monitored results.</ce:simple-para>
+					</ce:abstract-sec>
+				</ce:abstract>
+				<ce:abstract class="author-highlights" id="d1e1207" view="all">
+					<ce:section-title id="d1e1208">Highlights</ce:section-title>
+					<ce:abstract-sec id="d1e1210" view="all">
+						<ce:simple-para id="d1e1211" view="all">
+							<ce:list id="d1e1213">
+								<ce:list-item id="d1e1214">
+									<ce:label>&#x2022;</ce:label>
+									<ce:para id="d1e1217" view="all">A method of performing parameter identification of shaft seal with acoustic emission monitoring is proposed. The method uses low-cost simulation data to pre-train, and uses reliable experiment data to fine-tune.</ce:para>
+								</ce:list-item>
+								<ce:list-item id="d1e1219">
+									<ce:label>&#x2022;</ce:label>
+									<ce:para id="d1e1222" view="all">The manuscript describes the concrete measures for a good transferring, including introducing surrogate-model-based augmentation, performing auto-encoder to embed frequency spectrums, and designing the neural network architecture. These could be enlightening for audiences who are working on similar tasks.</ce:para>
+								</ce:list-item>
+							</ce:list>
+						</ce:simple-para>
+					</ce:abstract-sec>
+				</ce:abstract>
+				<ce:keywords class="keyword" id="d1e1224" view="all" xml:lang="en">
+					<ce:section-title id="d1e1225">Keywords</ce:section-title>
+					<ce:keyword id="d1e1227">
+						<ce:text>Acoustic emissions</ce:text>
+					</ce:keyword>
+					<ce:keyword id="d1e1230">
+						<ce:text>Parameter identification</ce:text>
+					</ce:keyword>
+					<ce:keyword id="d1e1233">
+						<ce:text>Transfer learning</ce:text>
+					</ce:keyword>
+					<ce:keyword id="d1e1236">
+						<ce:text>Convolutional neural network</ce:text>
+					</ce:keyword>
+				</ce:keywords>
+				<ce:data-availability id="da1" view="all">
+					<ce:section-title id="d1e1240">Data availability</ce:section-title>
+					<ce:para id="d1e1242" view="all">The data that has been used is confidential.</ce:para>
+				</ce:data-availability>
+			</ja:head>
+			<ja:body view="all">
+				<ce:sections>
+                    text body here
+                </ce:sections>
+				<ce:acknowledgment id="d1e7594" view="all">
+					<ce:section-title id="d1e7595">Acknowledgments</ce:section-title>
+					<ce:para id="d1e7597" view="all">This work is supported by ABCDE.
+					</ce:para>
+				</ce:acknowledgment>
+			</ja:body>
+			<ja:tail view="all">
+				<ce:bibliography id="bib1" view="all">
+					<ce:section-title id="d1e7614">References</ce:section-title>
+					<ce:bibliography-sec id="d1e7616" view="all">
+						<ce:bib-reference id="b1">
+							<ce:label>[1]</ce:label>
+							<sb:reference id="sb1">
+								<sb:contribution langtype="en">
+									<sb:authors>
+										<sb:author>
+											<ce:surname>Abc</ce:surname>
+											<ce:given-name>D.</ce:given-name>
+										</sb:author>
+									</sb:authors>
+									<sb:title>
+										<sb:maintitle>Reference paper</sb:maintitle>
+									</sb:title>
+								</sb:contribution>
+								<sb:host>
+									<sb:issue>
+										<sb:series>
+											<sb:title>
+												<sb:maintitle>XYZ.</sb:maintitle>
+											</sb:title>
+											<sb:volume-nr>13</sb:volume-nr>
+										</sb:series>
+										<sb:date>2021</sb:date>
+									</sb:issue>
+									<sb:article-number>1234567890</sb:article-number>
+								</sb:host>
+							</sb:reference>
+							<ce:source-text id="afs1">D. Abc, Reference paper, XYZ 13 (2021) 1234567890.</ce:source-text>
+						</ce:bib-reference>
+					</ce:bibliography-sec>
+				</ce:bibliography>
+			</ja:tail>
+		</ja:article>
+	</doc:document>

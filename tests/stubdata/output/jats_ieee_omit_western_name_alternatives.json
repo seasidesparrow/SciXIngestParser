@@ -1,0 +1,145 @@
+{
+  "abstract": {
+    "textEnglish": "[REDACTED]"
+  },
+  "authors": [
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "12419",
+              "affIDType": "ringgold"
+            }
+          ],
+          "affPubRaw": "School of Life Health Information Science and Engineering, Chongqing University of Posts and Telecommunications, Chongqing, 400065, China"
+        }
+      ],
+      "attrib": {
+        "corresp": true,
+        "email": "hezh@cqupt.edu.cn",
+        "orcid": "0000-0003-4538-731X"
+      },
+      "name": {
+        "given_name": "Zhonghua",
+        "surname": "He"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Chongqing Traditional Chinese Medicine Hospital, Chongqing, 400021, China"
+        }
+      ],
+      "attrib": {
+        "orcid": "0009-0008-0509-564X"
+      },
+      "name": {
+        "given_name": "Yu",
+        "surname": "Fang"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Chinese Academy of Sciences, Beijing, 100045, China"
+        }
+      ],
+      "attrib": {
+        "corresp": true,
+        "email": "lxn@mail.iee.ac.cn",
+        "orcid": "0000-0001-8431-3212"
+      },
+      "name": {
+        "given_name": "Xiaonan",
+        "surname": "Li"
+      }
+    }
+  ],
+  "copyright": {
+    "statement": "1557-9662 2024 IEEE. Personal use is permitted, but republication/redistribution requires IEEE permission. See https://www.ieee.org/publications/rights/index.html for more information.",
+    "status": true
+  },
+  "funding": [
+    {
+      "agencyid": {
+        "idschema": "fundref",
+        "idvalue": "10.13039/501100005089"
+      },
+      "agencyname": "Chongqing Municipal Natural Science Foundation",
+      "awardnumber": "CSTB2024 NSCQ-MSX1171"
+    },
+    {
+      "agencyid": {
+        "idschema": "fundref",
+        "idvalue": "10.13039/501100007957"
+      },
+      "agencyname": "Science and Technology Research Program of Chongqing Municipal Education Commission",
+      "awardnumber": "KJQN202000633"
+    }
+  ],
+  "keywords": [
+    {
+      "keyString": "Bimorph actuator",
+      "keySystem": "misc"
+    },
+    {
+      "keyString": "magnetic resonance elastography (MRE)",
+      "keySystem": "misc"
+    },
+    {
+      "keyString": "single-sided magnetic resonance image",
+      "keySystem": "misc"
+    }
+  ],
+  "pagination": {
+    "firstPage": "1",
+    "lastPage": "8",
+    "pageCount": "8",
+    "pageRange": "1-8"
+  },
+  "persistentIDs": [
+    {
+      "DOI": "10.1109/TIM.2024.3484535"
+    }
+  ],
+  "pubDate": {
+    "otherDate": [
+      {
+        "otherDateType": "cover",
+        "otherDateValue": "2024-00-00"
+      }
+    ]
+  },
+  "publication": {
+    "ISSN": [
+      {
+        "issnString": "0018-9456"
+      },
+      {
+        "issnString": "1557-9662"
+      }
+    ],
+    "pubName": "IEEE Transactions on Instrumentation and Measurement",
+    "pubYear": "2024",
+    "publisher": "IEEE",
+    "volumeNum": "73"
+  },
+  "publisherIDs": [
+    {
+      "Identifier": "TIM-24-03941",
+      "attribute": "manuscript"
+    }
+  ],
+  "recordData": {
+    "createdTime": "",
+    "loadFormat": "JATS",
+    "loadLocation": "",
+    "loadType": "fromFile",
+    "parsedTime": "",
+    "recordOrigin": ""
+  },
+  "title": {
+    "textEnglish": "A Portable Single-Sided Magnetic Resonance Elastography System for Biological Tissues"
+  }
+}

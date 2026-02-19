@@ -1,0 +1,150 @@
+{
+  "abstract": {
+    "textEnglish": "High power fiber-coupled diode lasers are widely applied in laser material processing. Based on the commercial diode laser stacks, a comprehensive study of fiber-coupled diode lasers was presented using visualized beam shaping simulations. And then in experiment, refraction optical beam shaping, polarization multiplexing, wavelength multiplexing, and fiber coupling were used to produce a 4.08 kW output from an optical fiber with core diameter of 800 \u03bcm and NA of 0.2. An average fiber coupling efficiency about 95% was obtained, which was in good agreement with the simulation."
+  },
+  "authors": [
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "China National Institute of Standardization, Beijing, China"
+        }
+      ],
+      "attrib": {
+        "corresp": true,
+        "email": "liaojx@cnis.ac.cn"
+      },
+      "name": {
+        "given_name": "Jingxing",
+        "surname": "Liao"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "China National Institute of Standardization, Beijing, China"
+        }
+      ],
+      "attrib": {
+        "email": "fenglei@cnis.ac.cn"
+      },
+      "name": {
+        "given_name": "Lei",
+        "surname": "Feng"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "China National Institute of Standardization, Beijing, China"
+        }
+      ],
+      "attrib": {
+        "email": "yangjn@cnis.ac.cn"
+      },
+      "name": {
+        "given_name": "Jingna",
+        "surname": "Yang"
+      }
+    }
+  ],
+  "copyright": {
+    "statement": "\u00a9 2023 Society of Photo-Optical Instrumentation Engineers (SPIE)",
+    "status": true
+  },
+  "editorialHistory": {
+    "acceptedDate": "2023-05-31",
+    "receivedDates": [
+      "2023-03-26"
+    ],
+    "revisedDates": [
+      "2023-05-16"
+    ]
+  },
+  "keywords": [
+    {
+      "keyString": "beam shaping",
+      "keySystem": "misc"
+    },
+    {
+      "keyString": "numerical simulation",
+      "keySystem": "misc"
+    },
+    {
+      "keyString": "diode laser",
+      "keySystem": "misc"
+    },
+    {
+      "keyString": "fiber coupling",
+      "keySystem": "misc"
+    }
+  ],
+  "openAccess": {
+    "license": "0091-3286/2023/$28.00 \u00a9 2023 SPIE"
+  },
+  "pagination": {
+    "firstPage": "066101",
+    "lastPage": "066101",
+    "pageCount": "9",
+    "pageRange": "066101-066101"
+  },
+  "persistentIDs": [
+    {
+      "DOI": "10.1117/1.OE.62.6.066101"
+    }
+  ],
+  "pubDate": {
+    "electrDate": "2023-06-12",
+    "printDate": "2023-06-01"
+  },
+  "publication": {
+    "ISSN": [
+      {
+        "issnString": "0091-3286",
+        "pubtype": "ppub"
+      },
+      {
+        "issnString": "1560-2303",
+        "pubtype": "epub"
+      }
+    ],
+    "issueNum": "6",
+    "pubName": "Optical Engineering",
+    "pubYear": "2023",
+    "publisher": "Society of Photo-Optical Instrumentation Engineers",
+    "volumeNum": "62"
+  },
+  "publisherIDs": [
+    {
+      "Identifier": "OE-20230249G",
+      "attribute": "manuscript"
+    },
+    {
+      "Identifier": "20230249G",
+      "attribute": "publisher-id"
+    }
+  ],
+  "recordData": {
+    "createdTime": "",
+    "loadFormat": "JATS",
+    "loadLocation": "",
+    "loadType": "fromFile",
+    "parsedTime": "",
+    "recordOrigin": ""
+  },
+  "references": [
+    "<ref id=\"r1\"> <label>1.</label> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <string-name> <given-names>C. M.</given-names> <surname>Stickley</surname> </string-name> <etal>et al.</etal> </person-group>, \u201c<article-title>The future of high-efficiency diode lasers</article-title>,\u201d <source>Proc. SPIE</source><volume>5991</volume>, <fpage>59911O</fpage> (<year>2006</year>).<pub-id pub-id-type=\"coden\">PSISDG</pub-id><issn>0277-786X</issn><ext-link ext-link-type=\"doi\" specific-use=\"online\" xlink:href=\"https://doi.org/10.1117/12.639142\">https://doi.org/10.1117/12.639142</ext-link></mixed-citation> </ref>",
+    "<ref id=\"r2\"> <label>2.</label> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <string-name> <given-names>C. M.</given-names> <surname>Stickley</surname> </string-name> <etal>et al.</etal> </person-group>, \u201c<article-title>Overview of progress in super high efficiency diodes for pumping high energy lasers</article-title>,\u201d <source>Proc. SPIE</source><volume>6104</volume>, <fpage>610405</fpage> (<year>2006</year>).<pub-id pub-id-type=\"coden\">PSISDG</pub-id><issn>0277-786X</issn><ext-link ext-link-type=\"doi\" specific-use=\"online\" xlink:href=\"https://doi.org/10.1117/12.640448\">https://doi.org/10.1117/12.640448</ext-link></mixed-citation> </ref>",
+    "<ref id=\"r3\"> <label>3.</label> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <string-name> <given-names>F.</given-names> <surname>Bachmann</surname> </string-name> </person-group>, \u201c<article-title>Goals and status of the German national research initiative BRIOLAS (brilliant diode lasers)</article-title>,\u201d <source>Proc. SPIE</source><volume>6456</volume>, <fpage>645608</fpage> (<year>2007</year>).<pub-id pub-id-type=\"coden\">PSISDG</pub-id><issn>0277-786X</issn><ext-link ext-link-type=\"doi\" specific-use=\"online\" xlink:href=\"https://doi.org/10.1117/12.700146\">https://doi.org/10.1117/12.700146</ext-link></mixed-citation> </ref>",
+    "<ref id=\"r4\"> <label>4.</label> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <string-name> <given-names>F. G.</given-names> <surname>Bachmann</surname> </string-name> </person-group>, \u201c<article-title>Status and results of the German national diode laser research project \u201cModular Diode Laser Systems\u201d (MDS)</article-title>,\u201d <source>Proc. SPIE</source><volume>4831</volume>, <fpage>14</fpage>\u2013<lpage>20</lpage> (<year>2003</year>).<pub-id pub-id-type=\"coden\">PSISDG</pub-id><issn>0277-786X</issn><ext-link ext-link-type=\"doi\" specific-use=\"online\" xlink:href=\"https://doi.org/10.1117/12.497969\">https://doi.org/10.1117/12.497969</ext-link></mixed-citation> </ref>",
+    "<ref id=\"r5\"> <label>5.</label> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <string-name> <given-names>P.</given-names> <surname>Crump</surname> </string-name> <etal>et al.</etal> </person-group>, \u201c<article-title>Development of high-power diode lasers with beam parameter product below 2 mm\u00d7mrad within the BRIDLE project</article-title>,\u201d <source>Proc. SPIE</source><volume>9348</volume>, <fpage>93480D</fpage> (<year>2015</year>).<pub-id pub-id-type=\"coden\">PSISDG</pub-id><issn>0277-786X</issn><ext-link ext-link-type=\"doi\" specific-use=\"online\" xlink:href=\"https://doi.org/10.1117/12.2077617\">https://doi.org/10.1117/12.2077617</ext-link></mixed-citation> </ref>",
+    "<ref id=\"r6\"> <label>6.</label> <mixed-citation publication-type=\"conf-proc\"> <person-group person-group-type=\"author\"> <string-name> <given-names>A.</given-names> <surname>Unger</surname> </string-name> <etal>et al.</etal> </person-group>, \u201c<article-title>The BRIDLE project: high brilliance diode lasers for industrial applications</article-title>,\u201d in <conf-name>High Power Diode Lasers and Systems Conf. (HPD)</conf-name>, <conf-loc>West Midlands, UK</conf-loc>, pp. <fpage>28</fpage>\u2013<lpage>29</lpage> (<year>2013</year>).<ext-link ext-link-type=\"doi\" specific-use=\"online\" xlink:href=\"https://doi.org/10.1109/HPD.2013.6706602\">https://doi.org/10.1109/HPD.2013.6706602</ext-link></mixed-citation> </ref>",
+    "<ref id=\"r7\"> <label>7.</label> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <string-name> <given-names>D. G.</given-names> <surname>Matthews</surname> </string-name> <etal>et al.</etal> </person-group>, \u201c<article-title>A 15-kW fiber-coupled diode laser for pumping applications</article-title>,\u201d <source>Proc. SPIE</source><volume>8241</volume>, <fpage>824103</fpage> (<year>2012</year>).<pub-id pub-id-type=\"coden\">PSISDG</pub-id><issn>0277-786X</issn><ext-link ext-link-type=\"doi\" specific-use=\"online\" xlink:href=\"https://doi.org/10.1117/12.906464\">https://doi.org/10.1117/12.906464</ext-link></mixed-citation> </ref>",
+    "<ref id=\"r8\"> <label>8.</label> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <string-name> <given-names>J.</given-names> <surname>Malchus</surname> </string-name> <etal>et al.</etal> </person-group>, \u201c<article-title>A 25kW fiber-coupled diode laser for pumping applications</article-title>,\u201d <source>Proc. SPIE</source><volume>8965</volume>, <fpage>89650B</fpage> (<year>2014</year>).<pub-id pub-id-type=\"coden\">PSISDG</pub-id><issn>0277-786X</issn><ext-link ext-link-type=\"doi\" specific-use=\"online\" xlink:href=\"https://doi.org/10.1117/12.2039110\">https://doi.org/10.1117/12.2039110</ext-link></mixed-citation> </ref>",
+    "<ref id=\"r9\"> <label>9.</label> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <string-name> <given-names>J.</given-names> <surname>Malchus</surname> </string-name> <etal>et al.</etal> </person-group>, \u201c<article-title>A 40kW fiber-coupled diode laser for material processing and pumping applications</article-title>,\u201d <source>Proc. SPIE</source><volume>9348</volume>, <fpage>934803</fpage> (<year>2015</year>).<pub-id pub-id-type=\"coden\">PSISDG</pub-id><issn>0277-786X</issn><ext-link ext-link-type=\"doi\" specific-use=\"online\" xlink:href=\"https://doi.org/10.1117/12.2083909\">https://doi.org/10.1117/12.2083909</ext-link></mixed-citation> </ref>",
+    "<ref id=\"r10\"> <label>10.</label> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <string-name> <given-names>Z.</given-names> <surname>Dong</surname> </string-name> <etal>et al.</etal> </person-group>, \u201c<article-title>Simulation for fiber-coupled diode lasers by considering discreteness in propagation angles of individual emitters</article-title>,\u201d <source>Opt. Laser Technol.</source><volume>132</volume>, <fpage>106500</fpage> (<year>2020</year>).<pub-id pub-id-type=\"coden\">OLTCAS</pub-id><issn>0030-3992</issn><ext-link ext-link-type=\"doi\" specific-use=\"online\" xlink:href=\"https://doi.org/10.1016/j.optlastec.2020.106500\">https://doi.org/10.1016/j.optlastec.2020.106500</ext-link></mixed-citation> </ref>",
+    "<ref id=\"r11\"> <label>11.</label> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <string-name> <given-names>Z.</given-names> <surname>Wang</surname> </string-name> <etal>et al.</etal> </person-group>, \u201c<article-title>Fiber coupled diode laser beam parameter product calculation and rules for optimized design</article-title>,\u201d <source>Proc. SPIE</source><volume>7918</volume>, <fpage>791809</fpage> (<year>2011</year>).<pub-id pub-id-type=\"coden\">PSISDG</pub-id><issn>0277-786X</issn><ext-link ext-link-type=\"doi\" specific-use=\"online\" xlink:href=\"https://doi.org/10.1117/12.875386\">https://doi.org/10.1117/12.875386</ext-link></mixed-citation> </ref>"
+  ],
+  "title": {
+    "textEnglish": "High power fiber-coupled diode laser based on beam shaping simulation"
+  }
+}

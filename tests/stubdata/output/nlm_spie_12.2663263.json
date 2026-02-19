@@ -1,0 +1,135 @@
+{
+  "abstract": {
+    "textEnglish": "With the development of advanced and dedicated timing instrumentation, Time-Correlated Single-Photon Counting (TCSPC) has become the de-facto standard for the measurement of low-light signals in a wide variety of applications, from fluorescence observation in biology to 3D scanning in laser ranging. Despite the huge technical improvements, the historical pile-up limitation still represents an open issue, that reduces the maximum acquisition rate to few percent (1-5 %) of the laser excitation rate. This prevents high-speed and real-time exploitation of TCSPC, thus reducing the range of applications that can benefit from such a powerful technique. To overcome this limitation, in 2017 we proposed a novel theoretical approach based on a time-matching between detector dead time and laser period, and in 2021 we designed the first system implementing this new technique. Preliminary results showed a good accordance between the theoretical framework and practical experiments with standard fluorescence dies up to a rate of 32 Mcps. Since then, we have been working on the exploitation of our system in further practical measurements, to perform a deeper validation of its potential. In particular, we have explored the application of our system into a lidar experiment, as no a-priori knowledge is necessary on the specific type of signal. In this proceeding, we present an overview of our work from the theoretical principles to the field verification."
+  },
+  "authors": [
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Politecnico di Milano (Italy)"
+        }
+      ],
+      "name": {
+        "given_name": "Serena",
+        "surname": "Farina"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Politecnico di Milano (Italy)"
+        }
+      ],
+      "name": {
+        "given_name": "Ivan",
+        "surname": "Labanca"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Politecnico di Milano (Italy)"
+        }
+      ],
+      "name": {
+        "given_name": "Giulia",
+        "surname": "Acconcia"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Politecnico di Milano (Italy)"
+        }
+      ],
+      "name": {
+        "given_name": "Ivan",
+        "surname": "Rech"
+      }
+    }
+  ],
+  "copyright": {
+    "statement": "COPYRIGHT SPIE. Downloading of the abstract is permitted for personal use only.",
+    "status": true
+  },
+  "otherContributor": [
+    {
+      "contrib": {
+        "affiliation": [
+          {
+            "affPubRaw": "Argo AI, LLC (United States)"
+          }
+        ],
+        "name": {
+          "given_name": "Mark A.",
+          "surname": "Itzler"
+        }
+      },
+      "role": "editor"
+    },
+    {
+      "contrib": {
+        "affiliation": [
+          {
+            "affPubRaw": "National Institute of Standards and Technology (United States)"
+          }
+        ],
+        "name": {
+          "given_name": "Joshua C.",
+          "surname": "Bienfang"
+        }
+      },
+      "role": "editor"
+    },
+    {
+      "contrib": {
+        "affiliation": [
+          {
+            "affPubRaw": "MIT Lincoln Lab. (United States)"
+          }
+        ],
+        "name": {
+          "given_name": "K. Alex",
+          "surname": "McIntosh"
+        }
+      },
+      "role": "editor"
+    }
+  ],
+  "pagination": {
+    "firstPage": "1251204",
+    "lastPage": "1251204-4",
+    "pageRange": "1251204-1251204-4"
+  },
+  "persistentIDs": [
+    {
+      "DOI": "10.1117/12.2663263"
+    }
+  ],
+  "pubDate": {
+    "electrDate": "2023-06-15",
+    "printDate": "2023-06-15"
+  },
+  "publication": {
+    "ISSN": [
+      {
+        "issnString": "0277-786X"
+      }
+    ],
+    "confName": "Defense + Commercial Sensing",
+    "pubYear": "2023",
+    "publisher": "SPIE",
+    "volumeNum": "12512"
+  },
+  "recordData": {
+    "createdTime": "",
+    "loadFormat": "JATS",
+    "loadLocation": "",
+    "loadType": "fromFile",
+    "parsedTime": "",
+    "recordOrigin": ""
+  },
+  "title": {
+    "textEnglish": "A hardware approach to overcome pile-up in TCSPC: from principles to field verification"
+  }
+}

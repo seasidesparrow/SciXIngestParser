@@ -1,0 +1,113 @@
+{
+  "abstract": {
+    "textEnglish": "Effects of radiation on the dark count rate (DCR) of CMOS single photon avalanche diodes (SPADs) is reviewed. Both total ionizing and non ionizing dose effects are investigated using a test SPAD chip fabricated in a 180 nm CMOS technology as a case study. Models predicting the probability of damage, estimated through the measurement of DCR increase, are also presented. Emphasis is set on the damage dependence on radiation dose and device geometry. Particular attention is paid to the stochastic phenomena taking place in the sensitive volume of SPADs when they are exposed to relatively low fluences (micro-doses) of neutrons."
+  },
+  "authors": [
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Univ. degli Studi di Pavia (Italy)"
+        }
+      ],
+      "name": {
+        "given_name": "L.",
+        "surname": "Ratti"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Univ. degli Studi di Pavia (Italy)"
+        }
+      ],
+      "name": {
+        "given_name": "G.",
+        "surname": "Torilla"
+      }
+    }
+  ],
+  "copyright": {
+    "statement": "COPYRIGHT SPIE. Downloading of the abstract is permitted for personal use only.",
+    "status": true
+  },
+  "otherContributor": [
+    {
+      "contrib": {
+        "affiliation": [
+          {
+            "affPubRaw": "Argo AI, LLC (United States)"
+          }
+        ],
+        "name": {
+          "given_name": "Mark A.",
+          "surname": "Itzler"
+        }
+      },
+      "role": "editor"
+    },
+    {
+      "contrib": {
+        "affiliation": [
+          {
+            "affPubRaw": "National Institute of Standards and Technology (United States)"
+          }
+        ],
+        "name": {
+          "given_name": "Joshua C.",
+          "surname": "Bienfang"
+        }
+      },
+      "role": "editor"
+    },
+    {
+      "contrib": {
+        "affiliation": [
+          {
+            "affPubRaw": "MIT Lincoln Lab. (United States)"
+          }
+        ],
+        "name": {
+          "given_name": "K. Alex",
+          "surname": "McIntosh"
+        }
+      },
+      "role": "editor"
+    }
+  ],
+  "pagination": {
+    "firstPage": "1251209",
+    "lastPage": "1251209-10",
+    "pageRange": "1251209-1251209-10"
+  },
+  "persistentIDs": [
+    {
+      "DOI": "10.1117/12.2665157"
+    }
+  ],
+  "pubDate": {
+    "electrDate": "2023-06-15",
+    "printDate": "2023-06-15"
+  },
+  "publication": {
+    "ISSN": [
+      {
+        "issnString": "0277-786X"
+      }
+    ],
+    "confName": "Defense + Commercial Sensing",
+    "pubYear": "2023",
+    "publisher": "SPIE",
+    "volumeNum": "12512"
+  },
+  "recordData": {
+    "createdTime": "",
+    "loadFormat": "JATS",
+    "loadLocation": "",
+    "loadType": "fromFile",
+    "parsedTime": "",
+    "recordOrigin": ""
+  },
+  "title": {
+    "textEnglish": "Radiation effects and underlying damage mechanisms in CMOS SPADs"
+  }
+}

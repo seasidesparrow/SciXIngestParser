@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doi_records>
+  <doi_record owner="10.1130" timestamp="2016-03-09 07:11:56">
+    <crossref>
+      <conference>
+        <event_metadata>
+          <conference_name>Northeastern GSA Section Meeting</conference_name>
+          <conference_date>21-23 March 2016</conference_date>
+        </event_metadata>
+        <proceedings_series_metadata>
+          <series_metadata>
+            <titles>
+              <title>Geological Society of America Abstracts with Programs</title>
+            </titles>
+            <issn>00167592</issn>
+          </series_metadata>
+          <publisher>
+            <publisher_name>Geological Society of America</publisher_name>
+          </publisher>
+          <publication_date>
+            <year>2016</year>
+          </publication_date>
+        </proceedings_series_metadata>
+        <conference_paper>
+          <contributors>
+            <organization sequence="first" contributor_role="author">Ohio University</organization>
+            <person_name sequence="first" contributor_role="author">
+              <given_name>Alexander A.</given_name>
+              <surname>Conti</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Elizabeth H.</given_name>
+              <surname>Gierlowski-Kordesch</surname>
+            </person_name>
+          </contributors>
+          <titles>
+            <title>Delineating Lake Types of the Jurassic East Berlin Formation, Hartford Basin, Newark Supergroup</title>
+          </titles>
+          <abstract>
+            <p>The Mesozoic Hartford Basin, a fault-bounded half-graben in New England, is composed of four sedimentologic units displaying lacustrine, playa, and alluvial conditions separated by three tholeiitic basalt flows. Limited outcrop, however, has restricted analyses across the basin. The Jurassic East Berlin Formation, in particular, crops out only in the southern and northern extents of the basin, exposing the upper 100-118-m of deposits. As a result, a new core analysis across a 600-m-transect of East Berlin rocks has been completed in the central region of the basin, exposing the entire 195-m thickness of the formation for the first time. Cores expose eight 3-m-thick lacustrine mudrock units, the upper six of which are correlative to lake deposits identified in the southern and northern extents of the basin. Additionally, thin chicken-wire evaporites demarcate the lowermost, previously unexposed, lacustrine unit, 7-m beneath a 15-cm-thick tufa horizon. Thin playa deposits and thick sheetflood and Vertisol packages separate these lake sequences over 5-30-m of vertical distance.</p>
+            <p>To supplement these sedimentologic data, and better understand lake geochemistry of the basin during East Berlin time, new biomarker analyses have been applied to each of the eight lacustrine mudrock units for the first time. Biomarker data are useful for determining the lake-basin type, a paleolake classification system derived by Bohacs, Carroll, and others to describe predictable physical and geochemical evolution within rift basins from fluvial facies to over-filled, balance-filled, and under-filled lacustrine facies; subsequently, balance-filled lacustrine facies grade to a terminal fluvial facies during changes in accommodation space through time. While fluvial facies envelope lake deposits within the Hartford Basin, identifying the lake types within the East Berlin has been problematic because of limited exposures. These new sedimentologic and biomarker analyses, however, suggest balance-filled lacustrine conditions at the base of the East Berlin that grade into under-filled conditions upsection. These new biomarker data finally provide definitive evidence for changing lake types during East Berlin time.</p>
+          </abstract>
+          <publication_date>
+            <year>2016</year>
+          </publication_date>
+          <publisher_item>
+            <item_number item_number_type="article-number">271926</item_number>
+          </publisher_item>
+          <doi_data>
+            <doi>10.1130/abs/2016NE-271926</doi>
+            <resource>https://gsa.confex.com/gsa/2016NE/webprogram/Paper271926.html</resource>
+          </doi_data>
+        </conference_paper>
+      </conference>
+    </crossref>
+  </doi_record>
+</doi_records>

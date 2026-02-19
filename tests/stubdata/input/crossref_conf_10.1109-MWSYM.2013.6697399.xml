@@ -1,0 +1,93 @@
+<?xml version="1.0"?>
+<record>
+  <header>
+    <identifier>info:doi/10.1109%2FMWSYM.2013.6697399</identifier>
+    <datestamp>2021-06-08</datestamp>
+    <setSpec>B</setSpec>
+    <setSpec>B:10.1109</setSpec>
+    <setSpec>B:10.1109:1427404</setSpec>
+  </header>
+  <metadata>
+    <crossref xmlns="http://www.crossref.org/xschema/1.1" xsi:schemaLocation="http://www.crossref.org/xschema/1.1 http://www.crossref.org/schema/unixref1.1.xsd">
+      <conference>
+        <event_metadata>
+          <conference_name>2013 IEEE/MTT-S International Microwave Symposium - MTT 2013</conference_name>
+          <conference_location>Seattle, WA, USA</conference_location>
+          <conference_date start_month="6" start_year="2013" start_day="2" end_month="6" end_year="2013" end_day="7"/>
+        </event_metadata>
+        <proceedings_metadata>
+          <proceedings_title>2013 IEEE MTT-S International Microwave Symposium Digest (MTT)</proceedings_title>
+          <publisher>
+            <publisher_name>IEEE</publisher_name>
+          </publisher>
+          <publication_date>
+            <month>6</month>
+            <year>2013</year>
+          </publication_date>
+          <isbn media_type="electronic">978-1-4673-6176-7</isbn>
+          <doi_data>
+            <doi>10.1109/MTT11143.2013</doi>
+            <resource>https://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=6684335</resource>
+          </doi_data>
+        </proceedings_metadata>
+        <conference_paper>
+          <contributors>
+            <person_name sequence="first" contributor_role="author">
+              <given_name>Ulrich J.</given_name>
+              <surname>Lewark</surname>
+              <affiliation>Karlsruhe Institute of Technology (KIT), Institut fu&#xA8;r Hochfrequenztechnik und Elektronik, Karlsruhe, Germany</affiliation>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Axel</given_name>
+              <surname>Tessmann</surname>
+              <affiliation>Fraunhofer IAF, Freiburg, Germany Universita&#xA8;t Stuttgart, Institute of Robust Power Semiconductor Systems, Stuttgart, Germany</affiliation>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Hermann</given_name>
+              <surname>Massler</surname>
+              <affiliation>Fraunhofer IAF, Freiburg, Germany Universita&#xA8;t Stuttgart, Institute of Robust Power Semiconductor Systems, Stuttgart, Germany</affiliation>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Arnulf</given_name>
+              <surname>Leuther</surname>
+              <affiliation>Fraunhofer IAF, Freiburg, Germany Universita&#xA8;t Stuttgart, Institute of Robust Power Semiconductor Systems, Stuttgart, Germany</affiliation>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Thomas</given_name>
+              <surname>Zwick</surname>
+              <affiliation>Karlsruhe Institute of Technology (KIT), Institut fu&#xA8;r Hochfrequenztechnik und Elektronik, Karlsruhe, Germany</affiliation>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Ingmar</given_name>
+              <surname>Kallfass</surname>
+              <affiliation>Fraunhofer IAF, Freiburg, Germany Universita&#xA8;t Stuttgart, Institute of Robust Power Semiconductor Systems, Stuttgart, Germany</affiliation>
+            </person_name>
+          </contributors>
+          <titles>
+            <title>An active 600 GHz frequency multiplier-by-six S-MMIC</title>
+          </titles>
+          <publication_date>
+            <month>6</month>
+            <year>2013</year>
+          </publication_date>
+          <pages>
+            <first_page>1</first_page>
+            <last_page>3</last_page>
+          </pages>
+          <publisher_item>
+            <item_number item_number_type="arNumber">6697399</item_number>
+          </publisher_item>
+          <doi_data>
+            <doi>10.1109/MWSYM.2013.6697399</doi>
+            <resource>https://ieeexplore.ieee.org/document/6697399/</resource>
+            <collection property="crawler-based">
+              <item crawler="iParadigms">
+                <resource>http://xplorestaging.ieee.org/ielx7/6684335/6697324/06697399.pdf?arnumber=6697399</resource>
+              </item>
+            </collection>
+          </doi_data>
+        </conference_paper>
+      </conference>
+    </crossref>
+  </metadata>
+</record>

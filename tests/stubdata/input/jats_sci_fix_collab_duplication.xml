@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.2 20190208//EN" "JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:ali="http://www.niso.org/schemas/ali/1.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" article-type="research-article" dtd-version="1.2" xml:lang="EN">
+<front>
+<journal-meta>
+<journal-id journal-id-type="publisher-id">science</journal-id>
+<journal-title-group>
+<journal-title>Science</journal-title>
+<abbrev-journal-title abbrev-type="pubmed">Science</abbrev-journal-title>
+</journal-title-group>
+<issn publication-format="print">0036-8075</issn>
+<issn publication-format="electronic">1095-9203</issn>
+<publisher><publisher-name>American Association for the Advancement of Science</publisher-name></publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="publisher-id">abm3231</article-id>
+<article-id pub-id-type="doi">10.1126/science.abm3231</article-id>
+<article-categories>
+<subj-group subj-group-type="article-type"><subject>Report</subject></subj-group>
+<subj-group subj-group-type="heading"><subject>Reports</subject></subj-group>
+<subj-group subj-group-type="legacy-article-type"><subject>reports</subject></subj-group>
+<subj-group subj-group-type="field"><subject>ASTRONOMY</subject><subject>PHYSICS</subject></subj-group>
+<subj-group subj-group-type="overline"><subject>GRAVITATIONAL WAVES</subject></subj-group>
+</article-categories>
+<title-group>
+<article-title>A gamma-ray pulsar timing array constrains the nanohertz gravitational wave background</article-title>
+</title-group>
+<contrib-group><contrib contrib-type="author" corresp="yes"><collab>The Fermi-LAT Collaboration<xref ref-type="fn" rid="afn1">*</xref><xref ref-type="corresp" rid="cor1">†</xref></collab></contrib>
+</contrib-group>
+<author-notes>
+<fn id="afn1" fn-type="current-aff"><label>*</label><p>Fermi-LAT Collaboration authors and affiliations are listed in the supplementary materials.</p></fn>
+<corresp id="cor1"><label>†</label>Corresponding authors: Matthew Kerr (<email xlink:href="matthew.kerr@gmail.com">matthew.kerr@gmail.com</email>); Aditya Parthasarathy (<email xlink:href="adityapartha3112@gmail.com">adityapartha3112@gmail.com</email>)</corresp></author-notes>
+<pub-date publication-format="electronic" date-type="first_release"><day>07</day><month>04</month><year>2022</year></pub-date>
+<pub-date publication-format="print" date-type="pub"><day>29</day><month>04</month><year>2022</year></pub-date>
+<volume>376</volume>
+<issue>6592</issue>
+<fpage>521</fpage>
+<lpage>523</lpage>
+<supplementary-material content-type="publicationHistory" mimetype="application/pdf" xlink:href="science.abm3231.v1.pdf" position="float" orientation="portrait">
+	    <label>20220407-1</label>
+</supplementary-material>
+<history>
+<date date-type="received"><day>10</day><month>09</month><year>2021</year></date>
+<date date-type="accepted"><day>24</day><month>03</month><year>2022</year></date>
+</history>
+<permissions>
+<copyright-statement>Copyright © 2022 The Authors, some rights reserved; exclusive licensee American Association for the Advancement of Science. No claim to original U.S. Government Works</copyright-statement>
+<copyright-year>2022</copyright-year>
+<copyright-holder>American Association for the Advancement of Science</copyright-holder>
+<license license-type="Subscription"><ali:license_ref specific-use="vor" start_date="2023-04-29" id="p-1">https://www.sciencemag.org/about/science-licenses-journal-article-reuse</ali:license_ref>
+<license-p>This is an article distributed under the terms of the <ext-link ext-link-type="uri" xlink:href="https://www.science.org/content/page/science-licenses-journal-article-reuse">Science Journals Default License</ext-link>.</license-p>
+</license>
+<ali:free_to_read start_date="2023-04-29" />
+</permissions>
+<self-uri xlink:href="science.abm3231.pdf" content-type="pdf" />
+<abstract>
+<p>After large galaxies merge, their central supermassive black holes are expected to form binary systems. Their orbital motion should generate a gravitational wave background (GWB) at nanohertz frequencies. Searches for this background use pulsar timing arrays, which perform long-term monitoring of millisecond pulsars at radio wavelengths. We used 12.5 years of Fermi Large Area Telescope data to form a gamma-ray pulsar timing array. Results from 35 bright gamma-ray pulsars place a 95% credible limit on the GWB characteristic strain of 1.0 × 10<sup>−14</sup> at a frequency of 1 year<sup>–1</sup>. The sensitivity is expected to scale with <italic toggle="yes">t</italic><sub>obs</sub>, the observing time span, as <inline-formula><mml:math id="m1" overflow="scroll"><mml:mrow><mml:msubsup><mml:mi>t</mml:mi><mml:mrow><mml:mtext>obs</mml:mtext></mml:mrow><mml:mrow><mml:mrow><mml:mrow><mml:mo>−</mml:mo><mml:mn>13</mml:mn></mml:mrow><mml:mo>/</mml:mo><mml:mn>6</mml:mn></mml:mrow></mml:mrow></mml:msubsup></mml:mrow></mml:math></inline-formula>. This direct measurement provides an independent probe of the GWB while offering a check on radio noise models.</p>
+</abstract>
+<abstract abstract-type="key-image-no-article-view">
+<fig position="float" orientation="portrait">
+<alt-text>Description</alt-text>
+<graphic xlink:href="keyimage.jpg" position="float" orientation="portrait" />
+</fig>
+</abstract>
+<abstract abstract-type="editor">
+<title>A gamma-ray pulsar timing array</title>
+<p>After galaxies merge, the supermassive black holes (SMBHs) at their centers are expected to form binaries that emit gravitational waves at nanohertz frequencies. Numerous SMBH binaries throughout the Universe should combine to produce a gravitational wave background. Existing searches for this signal use radio observations of pulsars as sensitive clocks and look for small shifts in the pulse timings. The Fermi-LAT Collaboration implemented a pulsar timing array using gamma rays and achieved a sensitivity close to that of the radio approaches. The results set an independent upper limit on the gravitational wave background, which is subject to different noise sources. —KTS</p>
+</abstract>
+<abstract abstract-type="teaser">
+<p>A pulsar timing array is implemented using gamma rays, setting a limit on the nanohertz gravitational wave background.</p>
+</abstract>
+<funding-group>
+<award-group id="award909096">
+<funding-source>
+<institution-wrap>
+<institution-id institution-id-type="FundRef">http://dx.doi.org/10.13039/100000001</institution-id>
+<institution>National Science Foundation</institution>
+</institution-wrap>
+</funding-source>
+<award-id>1430284</award-id>
+</award-group>
+<award-group id="award909098">
+<funding-source>
+<institution-wrap>
+<institution-id institution-id-type="FundRef">http://dx.doi.org/10.13039/100000015</institution-id>
+<institution>U.S. Department of Energy</institution>
+</institution-wrap>
+</funding-source>
+<award-id>DE-AC02-76SF00515</award-id>
+</award-group>
+<award-group id="award908679">
+<funding-source>
+<institution-wrap>
+<institution-id institution-id-type="FundRef">http://dx.doi.org/10.13039/100017437</institution-id>
+<institution>NASA Headquarters</institution>
+</institution-wrap>
+</funding-source>
+<award-id>NNG21OB03A</award-id>
+</award-group>
+<award-group id="award909094">
+<funding-source>
+<institution-wrap>
+<institution-id institution-id-type="FundRef">http://dx.doi.org/10.13039/100017437</institution-id>
+<institution>NASA Headquarters</institution>
+</institution-wrap>
+</funding-source>
+<award-id>80GSFC17M0002</award-id>
+</award-group>
+</funding-group>
+<custom-meta-group>
+<custom-meta><meta-name>Number-color-figs</meta-name><meta-value>3</meta-value></custom-meta>
+<custom-meta><meta-name>Number-figs</meta-name><meta-value>3</meta-value></custom-meta>
+</custom-meta-group>
+</article-meta>
+</front>
+</article>

@@ -1,0 +1,919 @@
+{
+  "abstract": {
+    "textEnglish": "A Gamma Variant RBD-based aluminum hydroxide adjuvanted vaccine called ARVAC CG was selected for a first in human clinical trial. Healthy male and female participants (18-55 years old) with a complete COVID-19-primary vaccine scheme were assigned to receive two intramuscular doses of either a low-dose or a high-dose of ARVAC CG. The primary endpoint was safety. The secondary objective was humoral immunogenicity. Cellular immune responses were studied as an exploratory objective. The trial was prospectively registered in PRIISA.BA (Registration Code 6564) and ANMAT and retrospectively registered in ClinicalTrials.gov (NCT05656508). Samples from participants of a surveillance strategy implemented by the Ministry of Health of the Province of Buenos Aires that were boosted with BNT162b2 were also analyzed to compare with the booster effect of ARVAC CG. ARVAC CG exhibits a satisfactory safety profile, a robust and broad booster response of neutralizing antibodies against the Ancestral strain of SARS-CoV-2 and the Gamma, Delta, Omicron BA.1 and Omicron BA.5 variants of concern and a booster effect on T cell immunity in individuals previously immunized with different COVID-19 vaccine platforms."
+  },
+  "authors": [
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "grid.108365.9",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0001 2105 0048",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Instituto de Investigaciones Biotecnol\u00f3gicas, Universidad Nacional de San Mart\u00edn (UNSAM) \u2013 Consejo Nacional de Investigaciones Cient\u00edficas y T\u00e9cnicas (CONICET), San Mart\u00edn (1650), Buenos Aires, Argentina"
+        },
+        {
+          "affPubID": [
+            {
+              "affID": "grid.108365.9",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0001 2105 0048",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Escuela de Bio y Nanotecnolog\u00edas (EByN), Universidad Nacional de San Mart\u00edn, San Mart\u00edn (1650), Buenos Aires, Argentina"
+        }
+      ],
+      "attrib": {
+        "corresp": true,
+        "email": "kpasquevich@iib.unsam.edu.ar",
+        "orcid": "0000-0003-4448-0977"
+      },
+      "name": {
+        "given_name": "Karina A.",
+        "surname": "Pasquevich"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "grid.108365.9",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0001 2105 0048",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Instituto de Investigaciones Biotecnol\u00f3gicas, Universidad Nacional de San Mart\u00edn (UNSAM) \u2013 Consejo Nacional de Investigaciones Cient\u00edficas y T\u00e9cnicas (CONICET), San Mart\u00edn (1650), Buenos Aires, Argentina"
+        },
+        {
+          "affPubID": [
+            {
+              "affID": "grid.108365.9",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0001 2105 0048",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Escuela de Bio y Nanotecnolog\u00edas (EByN), Universidad Nacional de San Mart\u00edn, San Mart\u00edn (1650), Buenos Aires, Argentina"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0001-5359-8382"
+      },
+      "name": {
+        "given_name": "Lorena M.",
+        "surname": "Coria"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "grid.7345.5",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0001 0056 1981",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Instituto de Investigaciones Biom\u00e9dicas en Retrovirus y SIDA, INBIRS-CONICET, Facultad de Medicina UBA, Buenos Aires, Argentina"
+        }
+      ],
+      "name": {
+        "given_name": "Ana",
+        "surname": "Ceballos"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "grid.7345.5",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0001 0056 1981",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Instituto de Investigaciones Biom\u00e9dicas en Retrovirus y SIDA, INBIRS-CONICET, Facultad de Medicina UBA, Buenos Aires, Argentina"
+        }
+      ],
+      "name": {
+        "given_name": "Bianca",
+        "surname": "Mazzitelli"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Fundaci\u00f3n Pablo Cassar\u00e1 - Unidad de I + D de Biof\u00e1rmacos, Saladillo 2452 C1440FFX, Ciudad Aut\u00f3noma de Buenos Aires, Argentina"
+        }
+      ],
+      "name": {
+        "given_name": "Juan Manuel",
+        "surname": "Rodriguez"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "grid.108365.9",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0001 2105 0048",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Instituto de Investigaciones Biotecnol\u00f3gicas, Universidad Nacional de San Mart\u00edn (UNSAM) \u2013 Consejo Nacional de Investigaciones Cient\u00edficas y T\u00e9cnicas (CONICET), San Mart\u00edn (1650), Buenos Aires, Argentina"
+        },
+        {
+          "affPubID": [
+            {
+              "affID": "grid.108365.9",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0001 2105 0048",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Escuela de Bio y Nanotecnolog\u00edas (EByN), Universidad Nacional de San Mart\u00edn, San Mart\u00edn (1650), Buenos Aires, Argentina"
+        }
+      ],
+      "name": {
+        "given_name": "Agostina",
+        "surname": "Demar\u00eda"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "grid.108365.9",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0001 2105 0048",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Instituto de Investigaciones Biotecnol\u00f3gicas, Universidad Nacional de San Mart\u00edn (UNSAM) \u2013 Consejo Nacional de Investigaciones Cient\u00edficas y T\u00e9cnicas (CONICET), San Mart\u00edn (1650), Buenos Aires, Argentina"
+        },
+        {
+          "affPubID": [
+            {
+              "affID": "grid.108365.9",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0001 2105 0048",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Escuela de Bio y Nanotecnolog\u00edas (EByN), Universidad Nacional de San Mart\u00edn, San Mart\u00edn (1650), Buenos Aires, Argentina"
+        }
+      ],
+      "name": {
+        "given_name": "Celeste",
+        "surname": "Pueblas Castro"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "grid.108365.9",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0001 2105 0048",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Instituto de Investigaciones Biotecnol\u00f3gicas, Universidad Nacional de San Mart\u00edn (UNSAM) \u2013 Consejo Nacional de Investigaciones Cient\u00edficas y T\u00e9cnicas (CONICET), San Mart\u00edn (1650), Buenos Aires, Argentina"
+        },
+        {
+          "affPubID": [
+            {
+              "affID": "grid.108365.9",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0001 2105 0048",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Escuela de Bio y Nanotecnolog\u00edas (EByN), Universidad Nacional de San Mart\u00edn, San Mart\u00edn (1650), Buenos Aires, Argentina"
+        }
+      ],
+      "name": {
+        "given_name": "Laura",
+        "surname": "Bruno"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "grid.108365.9",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0001 2105 0048",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Instituto de Investigaciones Biotecnol\u00f3gicas, Universidad Nacional de San Mart\u00edn (UNSAM) \u2013 Consejo Nacional de Investigaciones Cient\u00edficas y T\u00e9cnicas (CONICET), San Mart\u00edn (1650), Buenos Aires, Argentina"
+        },
+        {
+          "affPubID": [
+            {
+              "affID": "grid.108365.9",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0001 2105 0048",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Escuela de Bio y Nanotecnolog\u00edas (EByN), Universidad Nacional de San Mart\u00edn, San Mart\u00edn (1650), Buenos Aires, Argentina"
+        }
+      ],
+      "name": {
+        "given_name": "Lucas",
+        "surname": "Saposnik"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "grid.7345.5",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0001 0056 1981",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Instituto de Investigaciones Biom\u00e9dicas en Retrovirus y SIDA, INBIRS-CONICET, Facultad de Medicina UBA, Buenos Aires, Argentina"
+        }
+      ],
+      "name": {
+        "given_name": "Melina",
+        "surname": "Salvatori"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "grid.7345.5",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0001 0056 1981",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Instituto de Investigaciones Biom\u00e9dicas en Retrovirus y SIDA, INBIRS-CONICET, Facultad de Medicina UBA, Buenos Aires, Argentina"
+        }
+      ],
+      "name": {
+        "given_name": "Augusto",
+        "surname": "Varese"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "grid.494271.d",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0004 0639 0062",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Ministerio de Salud de la Provincia de Buenos Aires, Buenos Aires, Argentina"
+        }
+      ],
+      "name": {
+        "given_name": "Soledad",
+        "surname": "Gonz\u00e1lez"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "grid.494271.d",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0004 0639 0062",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Ministerio de Salud de la Provincia de Buenos Aires, Buenos Aires, Argentina"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0001-5231-1773"
+      },
+      "name": {
+        "given_name": "Veronica V.",
+        "surname": "Gonz\u00e1lez Mart\u00ednez"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "grid.7345.5",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0001 0056 1981",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Instituto de Investigaciones Biom\u00e9dicas en Retrovirus y SIDA, INBIRS-CONICET, Facultad de Medicina UBA, Buenos Aires, Argentina"
+        }
+      ],
+      "name": {
+        "given_name": "Jorge",
+        "surname": "Geffner"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "grid.108365.9",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0001 2105 0048",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Instituto de Investigaciones Biotecnol\u00f3gicas, Universidad Nacional de San Mart\u00edn (UNSAM) \u2013 Consejo Nacional de Investigaciones Cient\u00edficas y T\u00e9cnicas (CONICET), San Mart\u00edn (1650), Buenos Aires, Argentina"
+        },
+        {
+          "affPubID": [
+            {
+              "affID": "grid.108365.9",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0001 2105 0048",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Escuela de Bio y Nanotecnolog\u00edas (EByN), Universidad Nacional de San Mart\u00edn, San Mart\u00edn (1650), Buenos Aires, Argentina"
+        }
+      ],
+      "name": {
+        "given_name": "Diego",
+        "surname": "\u00c1lvarez"
+      }
+    },
+    {
+      "attrib": {
+        "collab": true
+      },
+      "name": {
+        "collab": "Laboratorio Pablo Cassar\u00e1 R&D and CMC for ARVAC CG consortium"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Laboratorio Pablo Cassar\u00e1 \u2013 Unidad de I + D de Biof\u00e1rmacos, Saladillo 2452 C1440FFX, Ciudad Aut\u00f3noma de Buenos Aires, Argentina"
+        }
+      ],
+      "attrib": {
+        "collab": true
+      },
+      "name": {
+        "collab": "Laboratorio Pablo Cassar\u00e1 R&D and CMC for ARVAC CG consortium",
+        "given_name": "Sabrina A.",
+        "surname": "del Priore"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "grid.108365.9",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0001 2105 0048",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Instituto de Investigaciones Biotecnol\u00f3gicas, Universidad Nacional de San Mart\u00edn (UNSAM) \u2013 Consejo Nacional de Investigaciones Cient\u00edficas y T\u00e9cnicas (CONICET), San Mart\u00edn (1650), Buenos Aires, Argentina"
+        },
+        {
+          "affPubRaw": "Fundaci\u00f3n Pablo Cassar\u00e1 - Unidad de I + D de Biof\u00e1rmacos, Saladillo 2452 C1440FFX, Ciudad Aut\u00f3noma de Buenos Aires, Argentina"
+        }
+      ],
+      "attrib": {
+        "collab": true
+      },
+      "name": {
+        "collab": "Laboratorio Pablo Cassar\u00e1 R&D and CMC for ARVAC CG consortium",
+        "given_name": "Andr\u00e9s C.",
+        "surname": "Hernando Insua"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Laboratorio Pablo Cassar\u00e1 \u2013 Unidad de I + D de Biof\u00e1rmacos, Saladillo 2452 C1440FFX, Ciudad Aut\u00f3noma de Buenos Aires, Argentina"
+        }
+      ],
+      "attrib": {
+        "collab": true
+      },
+      "name": {
+        "collab": "Laboratorio Pablo Cassar\u00e1 R&D and CMC for ARVAC CG consortium",
+        "given_name": "Ingrid G.",
+        "surname": "Kaufmann"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "grid.108365.9",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0001 2105 0048",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Instituto de Investigaciones Biotecnol\u00f3gicas, Universidad Nacional de San Mart\u00edn (UNSAM) \u2013 Consejo Nacional de Investigaciones Cient\u00edficas y T\u00e9cnicas (CONICET), San Mart\u00edn (1650), Buenos Aires, Argentina"
+        }
+      ],
+      "attrib": {
+        "collab": true
+      },
+      "name": {
+        "collab": "Laboratorio Pablo Cassar\u00e1 R&D and CMC for ARVAC CG consortium",
+        "given_name": "Adri\u00e1n",
+        "surname": "Di Mar\u00eda"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Laboratorio Pablo Cassar\u00e1 \u2013 Unidad de I + D de Biof\u00e1rmacos, Saladillo 2452 C1440FFX, Ciudad Aut\u00f3noma de Buenos Aires, Argentina"
+        }
+      ],
+      "attrib": {
+        "collab": true
+      },
+      "name": {
+        "collab": "Laboratorio Pablo Cassar\u00e1 R&D and CMC for ARVAC CG consortium",
+        "given_name": "Adri\u00e1n",
+        "surname": "G\u00f3ngora"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Laboratorio Pablo Cassar\u00e1 \u2013 Unidad de I + D de Biof\u00e1rmacos, Saladillo 2452 C1440FFX, Ciudad Aut\u00f3noma de Buenos Aires, Argentina"
+        }
+      ],
+      "attrib": {
+        "collab": true
+      },
+      "name": {
+        "collab": "Laboratorio Pablo Cassar\u00e1 R&D and CMC for ARVAC CG consortium",
+        "given_name": "Agust\u00edn",
+        "surname": "Moreno"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Laboratorio Pablo Cassar\u00e1 \u2013 Unidad de I + D de Biof\u00e1rmacos, Saladillo 2452 C1440FFX, Ciudad Aut\u00f3noma de Buenos Aires, Argentina"
+        }
+      ],
+      "attrib": {
+        "collab": true
+      },
+      "name": {
+        "collab": "Laboratorio Pablo Cassar\u00e1 R&D and CMC for ARVAC CG consortium",
+        "given_name": "Susana",
+        "surname": "Cervellini"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Laboratorio Pablo Cassar\u00e1 \u2013 Unidad de I + D de Biof\u00e1rmacos, Saladillo 2452 C1440FFX, Ciudad Aut\u00f3noma de Buenos Aires, Argentina"
+        }
+      ],
+      "attrib": {
+        "collab": true
+      },
+      "name": {
+        "collab": "Laboratorio Pablo Cassar\u00e1 R&D and CMC for ARVAC CG consortium",
+        "given_name": "Blasco",
+        "surname": "Martin"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Laboratorio Pablo Cassar\u00e1 \u2013 Unidad de I + D de Biof\u00e1rmacos, Saladillo 2452 C1440FFX, Ciudad Aut\u00f3noma de Buenos Aires, Argentina"
+        }
+      ],
+      "attrib": {
+        "collab": true
+      },
+      "name": {
+        "collab": "Laboratorio Pablo Cassar\u00e1 R&D and CMC for ARVAC CG consortium",
+        "given_name": "Esteban",
+        "surname": "Ali"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Laboratorio Pablo Cassar\u00e1 \u2013 Unidad de I + D de Biof\u00e1rmacos, Saladillo 2452 C1440FFX, Ciudad Aut\u00f3noma de Buenos Aires, Argentina"
+        }
+      ],
+      "attrib": {
+        "collab": true
+      },
+      "name": {
+        "collab": "Laboratorio Pablo Cassar\u00e1 R&D and CMC for ARVAC CG consortium",
+        "given_name": "Romina",
+        "surname": "Albarrac\u00edn"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Laboratorio Pablo Cassar\u00e1 \u2013 Unidad de I + D de Biof\u00e1rmacos, Saladillo 2452 C1440FFX, Ciudad Aut\u00f3noma de Buenos Aires, Argentina"
+        }
+      ],
+      "attrib": {
+        "collab": true
+      },
+      "name": {
+        "collab": "Laboratorio Pablo Cassar\u00e1 R&D and CMC for ARVAC CG consortium",
+        "given_name": "Barsanti",
+        "surname": "Bruno"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Laboratorio Pablo Cassar\u00e1 \u2013 Unidad de I + D de Biof\u00e1rmacos, Saladillo 2452 C1440FFX, Ciudad Aut\u00f3noma de Buenos Aires, Argentina"
+        }
+      ],
+      "attrib": {
+        "collab": true
+      },
+      "name": {
+        "collab": "Laboratorio Pablo Cassar\u00e1 R&D and CMC for ARVAC CG consortium",
+        "given_name": "Fernando",
+        "surname": "Toneguzzo"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Laboratorio Pablo Cassar\u00e1 \u2013 Unidad de I + D de Biof\u00e1rmacos, Saladillo 2452 C1440FFX, Ciudad Aut\u00f3noma de Buenos Aires, Argentina"
+        }
+      ],
+      "attrib": {
+        "collab": true
+      },
+      "name": {
+        "collab": "Laboratorio Pablo Cassar\u00e1 R&D and CMC for ARVAC CG consortium",
+        "given_name": "Guillermina",
+        "surname": "Sasso"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Laboratorio Pablo Cassar\u00e1 \u2013 Unidad de I + D de Biof\u00e1rmacos, Saladillo 2452 C1440FFX, Ciudad Aut\u00f3noma de Buenos Aires, Argentina"
+        }
+      ],
+      "attrib": {
+        "collab": true
+      },
+      "name": {
+        "collab": "Laboratorio Pablo Cassar\u00e1 R&D and CMC for ARVAC CG consortium",
+        "given_name": "Sebastian",
+        "surname": "Stamer"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Laboratorio Pablo Cassar\u00e1 \u2013 Unidad de I + D de Biof\u00e1rmacos, Saladillo 2452 C1440FFX, Ciudad Aut\u00f3noma de Buenos Aires, Argentina"
+        }
+      ],
+      "attrib": {
+        "collab": true
+      },
+      "name": {
+        "collab": "Laboratorio Pablo Cassar\u00e1 R&D and CMC for ARVAC CG consortium",
+        "given_name": "Regina",
+        "surname": "Cardoso"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Laboratorio Pablo Cassar\u00e1 \u2013 Unidad de I + D de Biof\u00e1rmacos, Saladillo 2452 C1440FFX, Ciudad Aut\u00f3noma de Buenos Aires, Argentina"
+        }
+      ],
+      "attrib": {
+        "collab": true
+      },
+      "name": {
+        "collab": "Laboratorio Pablo Cassar\u00e1 R&D and CMC for ARVAC CG consortium",
+        "given_name": "Alejandro",
+        "surname": "Chajet"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "FP CLINICAL PHARMA, Ciudad Aut\u00f3noma de Buenos Aires, Buenos Aires, Argentina"
+        }
+      ],
+      "name": {
+        "given_name": "Ethel",
+        "surname": "Feleder"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "FP CLINICAL PHARMA, Ciudad Aut\u00f3noma de Buenos Aires, Buenos Aires, Argentina"
+        }
+      ],
+      "name": {
+        "given_name": "Karina",
+        "surname": "Halabe"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "FP CLINICAL PHARMA, Ciudad Aut\u00f3noma de Buenos Aires, Buenos Aires, Argentina"
+        }
+      ],
+      "name": {
+        "given_name": "Pablo E.",
+        "surname": "Perez Lera"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Laboratorio Pablo Cassar\u00e1 \u2013 Unidad de I + D de Biof\u00e1rmacos, Saladillo 2452 C1440FFX, Ciudad Aut\u00f3noma de Buenos Aires, Argentina"
+        }
+      ],
+      "name": {
+        "given_name": "Federico Montes",
+        "surname": "de Oca"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Laboratorio Pablo Cassar\u00e1 \u2013 Unidad de I + D de Biof\u00e1rmacos, Saladillo 2452 C1440FFX, Ciudad Aut\u00f3noma de Buenos Aires, Argentina"
+        }
+      ],
+      "name": {
+        "given_name": "Julio C.",
+        "surname": "Vega"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Nobeltri, Ciudad Aut\u00f3noma de Buenos Aires, Argentina"
+        }
+      ],
+      "name": {
+        "given_name": "M\u00f3nica",
+        "surname": "Lombardo"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "FP CLINICAL PHARMA, Ciudad Aut\u00f3noma de Buenos Aires, Buenos Aires, Argentina"
+        }
+      ],
+      "name": {
+        "given_name": "Gustavo A.",
+        "surname": "Yerino"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Laboratorio Pablo Cassar\u00e1 \u2013 Unidad de I + D de Biof\u00e1rmacos, Saladillo 2452 C1440FFX, Ciudad Aut\u00f3noma de Buenos Aires, Argentina"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0002-0051-7435"
+      },
+      "name": {
+        "given_name": "Juan",
+        "surname": "Fl\u00f3"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "grid.108365.9",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0001 2105 0048",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Instituto de Investigaciones Biotecnol\u00f3gicas, Universidad Nacional de San Mart\u00edn (UNSAM) \u2013 Consejo Nacional de Investigaciones Cient\u00edficas y T\u00e9cnicas (CONICET), San Mart\u00edn (1650), Buenos Aires, Argentina"
+        },
+        {
+          "affPubID": [
+            {
+              "affID": "grid.108365.9",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0001 2105 0048",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Escuela de Bio y Nanotecnolog\u00edas (EByN), Universidad Nacional de San Mart\u00edn, San Mart\u00edn (1650), Buenos Aires, Argentina"
+        }
+      ],
+      "attrib": {
+        "corresp": true,
+        "email": "jucassataro@iib.unsam.edu.ar",
+        "orcid": "0000-0002-7122-869X"
+      },
+      "name": {
+        "given_name": "Juliana",
+        "surname": "Cassataro"
+      }
+    }
+  ],
+  "copyright": {
+    "statement": "\u00a9 The Author(s) 2023",
+    "status": true
+  },
+  "editorialHistory": {
+    "acceptedDate": "2023-07-20",
+    "receivedDates": [
+      "2023-02-17"
+    ]
+  },
+  "funding": [
+    {
+      "agencyname": "Laboratorio Pablo Cassara"
+    }
+  ],
+  "openAccess": {
+    "license": "Open Access This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, and indicate if changes were made. The images or other third party material in this article are included in the article\u2019s Creative Commons license, unless indicated otherwise in a credit line to the material. If material is not included in the article\u2019s Creative Commons license and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/.",
+    "licenseURL": "http://creativecommons.org/licenses/by/4.0/",
+    "open": true
+  },
+  "pagination": {
+    "electronicID": "4551"
+  },
+  "persistentIDs": [
+    {
+      "DOI": "10.1038/s41467-023-40272-3"
+    }
+  ],
+  "pubDate": {
+    "electrDate": "2023-07-28",
+    "otherDate": [
+      {
+        "otherDateType": "collection",
+        "otherDateValue": "2023-12-00"
+      }
+    ]
+  },
+  "publication": {
+    "ISSN": [
+      {
+        "issnString": "2041-1723",
+        "pubtype": "epub"
+      }
+    ],
+    "issueNum": "1",
+    "pubName": "Nature Communications",
+    "pubYear": "2023",
+    "publisher": "Nature Publishing Group UK",
+    "volumeNum": "14"
+  },
+  "publisherIDs": [
+    {
+      "Identifier": "s41467-023-40272-3",
+      "attribute": "publisher-id"
+    },
+    {
+      "Identifier": "40272",
+      "attribute": "manuscript"
+    }
+  ],
+  "recordData": {
+    "createdTime": "",
+    "loadFormat": "JATS",
+    "loadLocation": "",
+    "loadType": "fromFile",
+    "parsedTime": "",
+    "recordOrigin": ""
+  },
+  "references": [
+    "<ref id=\"CR1\"> <label>1.</label> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Chi</surname> <given-names>W-Y</given-names> </name> <etal/> </person-group> <article-title xml:lang=\"en\">COVID-19 vaccine update: vaccine effectiveness, SARS-CoV-2 variants, boosters, adverse effects, and immune correlates of protection</article-title> <source>J. Biomed. Sci.</source> <year>2022</year> <volume>29</volume> <pub-id pub-id-type=\"doi\">10.1186/s12929-022-00853-8</pub-id> <pub-id pub-id-type=\"pmid\">36243868</pub-id> <pub-id pub-id-type=\"pmcid\">9569411</pub-id> </mixed-citation> </ref>",
+    "<ref id=\"CR2\"> <label>2.</label> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Shrestha</surname> <given-names>LB</given-names> </name> <name> <surname>Foster</surname> <given-names>C</given-names> </name> <name> <surname>Rawlinson</surname> <given-names>W</given-names> </name> <name> <surname>Tedla</surname> <given-names>N</given-names> </name> <name> <surname>Bull</surname> <given-names>RA</given-names> </name> </person-group> <article-title xml:lang=\"en\">Evolution of the SARS-CoV-2 omicron variants BA.1 to BA.5: Implications for immune escape and transmission</article-title> <source>Rev. Med Virol.</source> <year>2022</year> <volume>32</volume> <fpage>e2381</fpage> <pub-id pub-id-type=\"coi\">1:CAS:528:DC%2BB38XitVWksr%2FO</pub-id> <pub-id pub-id-type=\"doi\">10.1002/rmv.2381</pub-id> <pub-id pub-id-type=\"pmid\">35856385</pub-id> <pub-id pub-id-type=\"pmcid\">9349777</pub-id> </mixed-citation> </ref>",
+    "<ref id=\"CR3\"> <label>3.</label> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Martinez-Flores</surname> <given-names>D</given-names> </name> <etal/> </person-group> <article-title xml:lang=\"en\">SARS-CoV-2 Vaccines Based on the Spike Glycoprotein and Implications of New Viral Variants</article-title> <source>Front Immunol.</source> <year>2021</year> <volume>12</volume> <fpage>701501</fpage> <pub-id pub-id-type=\"coi\">1:CAS:528:DC%2BB3MXitFKgt7vO</pub-id> <pub-id pub-id-type=\"doi\">10.3389/fimmu.2021.701501</pub-id> <pub-id pub-id-type=\"pmid\">34322129</pub-id> <pub-id pub-id-type=\"pmcid\">8311925</pub-id> </mixed-citation> </ref>",
+    "<ref id=\"CR4\"> <label>4.</label> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Pollet</surname> <given-names>J</given-names> </name> <name> <surname>Chen</surname> <given-names>WH</given-names> </name> <name> <surname>Strych</surname> <given-names>U</given-names> </name> </person-group> <article-title xml:lang=\"en\">Recombinant protein vaccines, a proven approach against coronavirus pandemics</article-title> <source>Adv. Drug Deliv. Rev.</source> <year>2021</year> <volume>170</volume> <fpage>71</fpage> <lpage>82</lpage> <pub-id pub-id-type=\"coi\">1:CAS:528:DC%2BB3MXhsVeqsrw%3D</pub-id> <pub-id pub-id-type=\"doi\">10.1016/j.addr.2021.01.001</pub-id> <pub-id pub-id-type=\"pmid\">33421475</pub-id> <pub-id pub-id-type=\"pmcid\">7788321</pub-id> </mixed-citation> </ref>",
+    "<ref id=\"CR5\"> <label>5.</label> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Heidary</surname> <given-names>M</given-names> </name> <etal/> </person-group> <article-title xml:lang=\"en\">A Comprehensive Review of the Protein Subunit Vaccines Against COVID-19</article-title> <source>Front Microbiol</source> <year>2022</year> <volume>13</volume> <fpage>927306</fpage> <pub-id pub-id-type=\"doi\">10.3389/fmicb.2022.927306</pub-id> <pub-id pub-id-type=\"pmid\">35910658</pub-id> <pub-id pub-id-type=\"pmcid\">9329957</pub-id> </mixed-citation> </ref>",
+    "<ref id=\"CR6\"> <label>6.</label> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Pascuale</surname> <given-names>CA</given-names> </name> <etal/> </person-group> <article-title xml:lang=\"en\">Immunogenicity and reactogenicity of heterologous immunization against SARS CoV-2 using Sputnik V, ChAdOx1-S, BBIBP-CorV, Ad5-nCoV, and mRNA-1273</article-title> <source>Cell Rep. Med.</source> <year>2022</year> <volume>3</volume> <fpage>100706</fpage> <pub-id pub-id-type=\"coi\">1:CAS:528:DC%2BB38XitVGgtLjP</pub-id> <pub-id pub-id-type=\"doi\">10.1016/j.xcrm.2022.100706</pub-id> <pub-id pub-id-type=\"pmid\">35926505</pub-id> <pub-id pub-id-type=\"pmcid\">9346506</pub-id> </mixed-citation> </ref>",
+    "<ref id=\"CR7\"> <label>7.</label> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Rearte</surname> <given-names>A</given-names> </name> <etal/> </person-group> <article-title xml:lang=\"en\">Effectiveness of rAd26-rAd5, ChAdOx1 nCoV-19, and BBIBP-CorV vaccines for risk of infection with SARS-CoV-2 and death due to COVID-19 in people older than 60 years in Argentina: a test-negative, case-control, and retrospective longitudinal study</article-title> <source>Lancet</source> <year>2022</year> <volume>399</volume> <fpage>1254</fpage> <lpage>1264</lpage> <pub-id pub-id-type=\"coi\">1:CAS:528:DC%2BB38XnsFClt7c%3D</pub-id> <pub-id pub-id-type=\"doi\">10.1016/S0140-6736(22)00011-3</pub-id> <pub-id pub-id-type=\"pmid\">35303473</pub-id> <pub-id pub-id-type=\"pmcid\">8923678</pub-id> </mixed-citation> </ref>",
+    "<ref id=\"CR8\"> <label>8.</label> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Cele</surname> <given-names>S</given-names> </name> <etal/> </person-group> <article-title xml:lang=\"en\">Omicron extensively but incompletely escapes Pfizer BNT162b2 neutralization</article-title> <source>Nature</source> <year>2022</year> <volume>602</volume> <fpage>654</fpage> <lpage>656</lpage> <pub-id pub-id-type=\"bibcode\">2022Natur.602..654C</pub-id> <pub-id pub-id-type=\"coi\">1:CAS:528:DC%2BB38XjvFOktLw%3D</pub-id> <pub-id pub-id-type=\"doi\">10.1038/s41586-021-04387-1</pub-id> <pub-id pub-id-type=\"pmid\">35016196</pub-id> </mixed-citation> </ref>",
+    "<ref id=\"CR9\"> <label>9.</label> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Kuhlmann</surname> <given-names>C</given-names> </name> <etal/> </person-group> <article-title xml:lang=\"en\">Breakthrough infections with SARS-CoV-2 omicron despite mRNA vaccine booster dose</article-title> <source>Lancet</source> <year>2022</year> <volume>399</volume> <fpage>625</fpage> <lpage>626</lpage> <pub-id pub-id-type=\"coi\">1:CAS:528:DC%2BB38Xhs1amtbc%3D</pub-id> <pub-id pub-id-type=\"doi\">10.1016/S0140-6736(22)00090-3</pub-id> <pub-id pub-id-type=\"pmid\">35063123</pub-id> <pub-id pub-id-type=\"pmcid\">8765759</pub-id> </mixed-citation> </ref>",
+    "<ref id=\"CR10\"> <label>10.</label> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Launay</surname> <given-names>O</given-names> </name> <etal/> </person-group> <article-title xml:lang=\"en\">Immunogenicity and Safety of Beta-Adjuvanted Recombinant Booster Vaccine</article-title> <source>N. Engl. J. Med.</source> <year>2022</year> <volume>387</volume> <fpage>374</fpage> <lpage>376</lpage> <pub-id pub-id-type=\"doi\">10.1056/NEJMc2206711</pub-id> <pub-id pub-id-type=\"pmid\">35767474</pub-id> </mixed-citation> </ref>",
+    "<ref id=\"CR11\"> <label>11.</label> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Choi</surname> <given-names>A</given-names> </name> <etal/> </person-group> <article-title xml:lang=\"en\">Safety and immunogenicity of SARS-CoV-2 variant mRNA vaccine boosters in healthy adults: an interim analysis</article-title> <source>Nat. Med.</source> <year>2021</year> <volume>27</volume> <fpage>2025</fpage> <lpage>2031</lpage> <pub-id pub-id-type=\"coi\">1:CAS:528:DC%2BB3MXitVequ7bM</pub-id> <pub-id pub-id-type=\"doi\">10.1038/s41591-021-01527-y</pub-id> <pub-id pub-id-type=\"pmid\">34526698</pub-id> <pub-id pub-id-type=\"pmcid\">8604720</pub-id> </mixed-citation> </ref>",
+    "<ref id=\"CR12\"> <label>12.</label> <mixed-citation publication-type=\"other\">Branche, A. R. et al. SARS-CoV-2 Variant Vaccine Boosters Trial: Preliminary Analyses. \t\t\t\t\t\t<italic>medRxiv</italic>, \t\t\t\t\t\t<ext-link ext-link-type=\"doi\" xlink:href=\"https://doi.org/10.1101/2022.07.12.22277336\">https://doi.org/10.1101/2022.07.12.22277336</ext-link> (2022). \t\t\t\t\t</mixed-citation> </ref>",
+    "<ref id=\"CR13\"> <label>13.</label> <mixed-citation publication-type=\"other\">Coria, L. M. et al. A Gamma-adapted recombinant subunit vaccine induces broadly neutralizing antibodies against SARS-CoV-2 variants and protects mice from SARS-CoV-2 infection. \t\t\t\t\t\t<italic>bioRxiv</italic>, 2023.2001.2003.522213, \t\t\t\t\t\t<ext-link ext-link-type=\"doi\" xlink:href=\"https://doi.org/10.1101/2023.01.03.522213\">https://doi.org/10.1101/2023.01.03.522213</ext-link> (2023). \t\t\t\t\t</mixed-citation> </ref>",
+    "<ref id=\"CR14\"> <label>14.</label> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Carazo</surname> <given-names>S</given-names> </name> <etal/> </person-group> <article-title xml:lang=\"en\">Protection against omicron (B.1.1.529) BA.2 reinfection conferred by primary omicron BA.1 or pre-omicron SARS-CoV-2 infection among health-care workers with and without mRNA vaccination: a test-negative case-control study</article-title> <source>Lancet Infect. Dis.</source> <year>2022</year> <volume>23</volume> <fpage>45</fpage> <lpage>55</lpage> <pub-id pub-id-type=\"doi\">10.1016/S1473-3099(22)00578-3</pub-id> <pub-id pub-id-type=\"pmid\">36152671</pub-id> <pub-id pub-id-type=\"pmcid\">9491856</pub-id> </mixed-citation> </ref>",
+    "<ref id=\"CR15\"> <label>15.</label> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Khoury</surname> <given-names>DS</given-names> </name> <etal/> </person-group> <article-title xml:lang=\"en\">Neutralizing antibody levels are highly predictive of immune protection from symptomatic SARS-CoV-2 infection</article-title> <source>Nat. Med</source> <year>2021</year> <volume>27</volume> <fpage>1205</fpage> <lpage>1211</lpage> <pub-id pub-id-type=\"coi\">1:CAS:528:DC%2BB3MXhtFSktLrP</pub-id> <pub-id pub-id-type=\"doi\">10.1038/s41591-021-01377-8</pub-id> <pub-id pub-id-type=\"pmid\">34002089</pub-id> </mixed-citation> </ref>",
+    "<ref id=\"CR16\"> <label>16.</label> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Gilbert</surname> <given-names>PB</given-names> </name> <etal/> </person-group> <article-title xml:lang=\"en\">Immune correlates analysis of the mRNA-1273 COVID-19 vaccine efficacy clinical trial</article-title> <source>Science</source> <year>2022</year> <volume>375</volume> <fpage>43</fpage> <lpage>50</lpage> <pub-id pub-id-type=\"bibcode\">2022Sci...375...43G</pub-id> <pub-id pub-id-type=\"coi\">1:CAS:528:DC%2BB38Xhtlamu70%3D</pub-id> <pub-id pub-id-type=\"doi\">10.1126/science.abm3425</pub-id> <pub-id pub-id-type=\"pmid\">34812653</pub-id> </mixed-citation> </ref>",
+    "<ref id=\"CR17\"> <label>17.</label> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Chalkias</surname> <given-names>S</given-names> </name> <etal/> </person-group> <article-title xml:lang=\"en\">Safety, immunogenicity and antibody persistence of a bivalent Beta-containing booster vaccine against COVID-19: a phase 2/3 trial</article-title> <source>Nat. Med</source> <year>2022</year> <volume>28</volume> <fpage>2388</fpage> <lpage>2397</lpage> <pub-id pub-id-type=\"coi\">1:CAS:528:DC%2BB38XisFygu7bL</pub-id> <pub-id pub-id-type=\"doi\">10.1038/s41591-022-02031-7</pub-id> <pub-id pub-id-type=\"pmid\">36202997</pub-id> <pub-id pub-id-type=\"pmcid\">9671805</pub-id> </mixed-citation> </ref>",
+    "<ref id=\"CR18\"> <label>18.</label> <mixed-citation publication-type=\"other\">Lien, C. E. et al. \t\t\t\t\t\t<italic>A Phase I, Prospective, Randomized, Open-labeled Study to Evaluate the Safety, Tolerability, and Immunogenicity of Booster Dose with MVC-COV1901 or MVC-COV1901(Beta) SARS-CoV-2 Vaccine in Adults</italic> (Cold Spring Harbor Laboratory, 2022). \t\t\t\t\t</mixed-citation> </ref>",
+    "<ref id=\"CR19\"> <label>19.</label> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Feng</surname> <given-names>S</given-names> </name> <etal/> </person-group> <article-title xml:lang=\"en\">Correlates of protection against symptomatic and asymptomatic SARS-CoV-2 infection</article-title> <source>Nat. Med.</source> <year>2021</year> <volume>27</volume> <fpage>2032</fpage> <lpage>2040</lpage> <pub-id pub-id-type=\"coi\">1:CAS:528:DC%2BB3MXitFCit7%2FL</pub-id> <pub-id pub-id-type=\"doi\">10.1038/s41591-021-01540-1</pub-id> <pub-id pub-id-type=\"pmid\">34588689</pub-id> <pub-id pub-id-type=\"pmcid\">8604724</pub-id> </mixed-citation> </ref>",
+    "<ref id=\"CR20\"> <label>20.</label> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Goldblatt</surname> <given-names>D</given-names> </name> <etal/> </person-group> <article-title xml:lang=\"en\">Towards a population-based threshold of protection for COVID-19 vaccines</article-title> <source>Vaccine</source> <year>2022</year> <volume>40</volume> <fpage>306</fpage> <lpage>315</lpage> <pub-id pub-id-type=\"coi\">1:CAS:528:DC%2BB38XntFyhtw%3D%3D</pub-id> <pub-id pub-id-type=\"doi\">10.1016/j.vaccine.2021.12.006</pub-id> <pub-id pub-id-type=\"pmid\">34933765</pub-id> </mixed-citation> </ref>",
+    "<ref id=\"CR21\"> <label>21.</label> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Fong</surname> <given-names>Y</given-names> </name> <etal/> </person-group> <article-title xml:lang=\"en\">Immune correlates analysis of the ENSEMBLE single Ad26.COV2.S dose vaccine efficacy clinical trial</article-title> <source>Nat. Microbiol.</source> <year>2022</year> <volume>7</volume> <fpage>1996</fpage> <lpage>2010</lpage> <pub-id pub-id-type=\"coi\">1:CAS:528:DC%2BB38XivVGltbbM</pub-id> <pub-id pub-id-type=\"doi\">10.1038/s41564-022-01262-1</pub-id> <pub-id pub-id-type=\"pmid\">36357712</pub-id> </mixed-citation> </ref>",
+    "<ref id=\"CR22\"> <label>22.</label> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Wherry</surname> <given-names>EJ</given-names> </name> <name> <surname>Barouch</surname> <given-names>DH</given-names> </name> </person-group> <article-title xml:lang=\"en\">T cell immunity to COVID-19 vaccines</article-title> <source>Science</source> <year>2022</year> <volume>377</volume> <fpage>821</fpage> <lpage>822</lpage> <pub-id pub-id-type=\"bibcode\">2022Sci...377..821W</pub-id> <pub-id pub-id-type=\"coi\">1:CAS:528:DC%2BB38Xit1yrtL7O</pub-id> <pub-id pub-id-type=\"doi\">10.1126/science.add2897</pub-id> <pub-id pub-id-type=\"pmid\">35981045</pub-id> </mixed-citation> </ref>",
+    "<ref id=\"CR23\"> <label>23.</label> <mixed-citation publication-type=\"other\">Maringer, Y. et al. Durable spike-specific T-cell responses after different COVID-19 vaccination regimens are not further enhanced by booster vaccination. \t\t\t\t\t\t<italic>Sci Immunol.</italic> <bold>7</bold>. eadd3899, (2022). \t\t\t\t\t</mixed-citation> </ref>",
+    "<ref id=\"CR24\"> <label>24.</label> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Payne</surname> <given-names>RP</given-names> </name> <etal/> </person-group> <article-title xml:lang=\"en\">Immunogenicity of standard and extended dosing intervals of BNT162b2 mRNA vaccine</article-title> <source>Cell</source> <year>2021</year> <volume>184</volume> <fpage>5699</fpage> <lpage>5714.e5611</lpage> <pub-id pub-id-type=\"coi\">1:CAS:528:DC%2BB3MXisVantbnM</pub-id> <pub-id pub-id-type=\"doi\">10.1016/j.cell.2021.10.011</pub-id> <pub-id pub-id-type=\"pmid\">34735795</pub-id> <pub-id pub-id-type=\"pmcid\">8519781</pub-id> </mixed-citation> </ref>",
+    "<ref id=\"CR25\"> <label>25.</label> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Zhao</surname> <given-names>X</given-names> </name> <etal/> </person-group> <article-title xml:lang=\"en\">Neutralisation of ZF2001-elicited antisera to SARS-CoV-2 variants</article-title> <source>Lancet Microbe</source> <year>2021</year> <volume>2</volume> <fpage>e494</fpage> <pub-id pub-id-type=\"coi\">1:CAS:528:DC%2BB3MXisVers7fP</pub-id> <pub-id pub-id-type=\"doi\">10.1016/S2666-5247(21)00217-2</pub-id> <pub-id pub-id-type=\"pmid\">34458880</pub-id> <pub-id pub-id-type=\"pmcid\">8378832</pub-id> </mixed-citation> </ref>",
+    "<ref id=\"CR26\"> <label>26.</label> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Zhao</surname> <given-names>X</given-names> </name> <etal/> </person-group> <article-title xml:lang=\"en\">Effects of a Prolonged Booster Interval on Neutralization of Omicron Variant</article-title> <source>N. Engl. J. Med.</source> <year>2022</year> <volume>386</volume> <fpage>894</fpage> <lpage>896</lpage> <pub-id pub-id-type=\"coi\">1:CAS:528:DC%2BB38Xmslamu7c%3D</pub-id> <pub-id pub-id-type=\"doi\">10.1056/NEJMc2119426</pub-id> <pub-id pub-id-type=\"pmid\">35081296</pub-id> </mixed-citation> </ref>",
+    "<ref id=\"CR27\"> <label>27.</label> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Rosenblum</surname> <given-names>HG</given-names> </name> <etal/> </person-group> <article-title xml:lang=\"en\">Interim Recommendations from the Advisory Committee on Immunization Practices for the Use of Bivalent Booster Doses of COVID-19 Vaccines - United States, October 2022</article-title> <source>MMWR Morb. Mortal. Wkly Rep.</source> <year>2022</year> <volume>71</volume> <fpage>1436</fpage> <lpage>1441</lpage> <pub-id pub-id-type=\"doi\">10.15585/mmwr.mm7145a2</pub-id> <pub-id pub-id-type=\"pmid\">36355612</pub-id> <pub-id pub-id-type=\"pmcid\">9707353</pub-id> </mixed-citation> </ref>",
+    "<ref id=\"CR28\"> <label>28.</label> <mixed-citation publication-type=\"other\">FDA. in \t\t\t\t\t\t<italic>Guidance for Industry</italic> (ed U.S._Department_of_Health_and_Human_Services) (2007). \t\t\t\t\t</mixed-citation> </ref>",
+    "<ref id=\"CR29\"> <label>29.</label> <mixed-citation publication-type=\"other\">CIOMS/WHO. Definition and Application of Terms for Vaccine Pharmacovigilance. (Working Group on Vaccine Pharmacovigilance. Council for International Organizations of Medical Sciences (CIOMS), World health organization (WHO), Geneva, 2012).</mixed-citation> </ref>",
+    "<ref id=\"CR30\"> <label>30.</label> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Varese</surname> <given-names>A</given-names> </name> <etal/> </person-group> <article-title xml:lang=\"en\">Omicron Breakthrough Infection After Heterologous Prime-Boost Vaccination Induces a Vigorous Antibody Response</article-title> <source>J. Infect. Dis.</source> <year>2022</year> <volume>226</volume> <fpage>1717</fpage> <lpage>1720</lpage> <pub-id pub-id-type=\"coi\">1:CAS:528:DC%2BB3sXptFart7w%3D</pub-id> <pub-id pub-id-type=\"doi\">10.1093/infdis/jiac250</pub-id> <pub-id pub-id-type=\"pmid\">35723970</pub-id> </mixed-citation> </ref>",
+    "<ref id=\"CR31\"> <label>31.</label> <mixed-citation publication-type=\"other\">World_Health_Organization. WHO manual for the establishment of national and other secondary standards for antibodies against infectious agents focusing on SARSCoV2. (World Health Organization, 2022).</mixed-citation> </ref>"
+  ],
+  "title": {
+    "textEnglish": "Safety and immunogenicity of a SARS-CoV-2 Gamma variant RBD-based protein adjuvanted vaccine used as booster in healthy adults"
+  }
+}

@@ -1,0 +1,2976 @@
+<?xml version="1.0" encoding="ISO646-US"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD Journal Archiving and Interchange DTD v3.0 20080202//EN" "http://dtd.nlm.nih.gov/archiving/3.0/archivearticle3.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         article-type="research-article"><!--Input file: TMPH_A_2000057_J.xml
+Processed with: tfjats1.2-to-nlm3-headers.xsl
+$Id: tfjats1.2-to-nlm3-headers.xsl,v 1.13 2020/04/12 21:26:20 lee Exp $-->
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="publisher-acronym">TMPH</journal-id>
+         <journal-id journal-id-type="publisher-id">tmph20</journal-id>
+         <journal-title-group>
+            <journal-title>Molecular Physics</journal-title>
+            <journal-subtitle>An International Journal at the Interface Between Chemistry and Physics</journal-subtitle>
+         </journal-title-group>
+         <issn pub-type="ppub">0026-8976</issn>
+         <issn pub-type="epub">1362-3028</issn>
+         <publisher>
+            <publisher-name>Taylor &amp; Francis</publisher-name>
+         </publisher>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="publisher-id">2000057</article-id>
+         <article-id pub-id-type="doi">10.1080/00268976.2021.2000057</article-id>
+         <article-id pub-id-type="submission-id">TMPH-2021-0441.R1</article-id>
+         <article-categories>
+            <subj-group subj-group-type="article-type">
+               <subject>Research Article</subject>
+            </subj-group>
+            <subj-group subj-group-type="heading">
+               <subject>Research Articles</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>Connection between the SU(2) Lie algebraic approach and configuration space: application to methylene chloride</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>M.</given-names>
+                  <x xml:space="preserve"> </x>
+                  <surname>Rodr&#xed;guez-Arcos</surname>
+               </string-name>
+               <xref ref-type="aff" rid="AF1">
+                  <sup>a</sup>
+               </xref>
+               <xref ref-type="corresp" rid="cor1"/>
+               <x xml:space="preserve">, </x>
+            </contrib>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>M.</given-names>
+                  <x xml:space="preserve"> </x>
+                  <surname>Berm&#xfa;dez-Monta&#xf1;a</surname>
+               </string-name>
+               <xref ref-type="aff" rid="AF1">
+                  <sup>a</sup>
+               </xref>
+               <x xml:space="preserve"> &amp; </x>
+            </contrib>
+            <contrib contrib-type="author">
+               <string-name>
+                  <given-names>R.</given-names>
+                  <x xml:space="preserve"> </x>
+                  <surname>Lemus</surname>
+               </string-name>
+               <xref ref-type="aff" rid="AF1">
+                  <sup>a</sup>
+               </xref>
+            </contrib>
+            <aff id="AF1">
+               <label>
+                  <sup>a</sup>
+               </label> Instituto de Ciencias Nucleares, <institution>Universidad Nacional Aut&#xf3;noma de M&#xe9;xico</institution>, <named-content content-type="city">Mexico City</named-content>, <country>Mexico</country>
+            </aff>
+         </contrib-group>
+         <author-notes>
+            <corresp id="cor1">
+               <label>CONTACT </label>M. Rodr&#xed;guez-Arcos <email xlink:href="renato@nucleares.unam.mx">renato@nucleares.unam.mx</email>
+               <institution>Instituto de Ciencias Nucleares, UNAM</institution>, A. P. 70-543, Circuito Exterior, C. U., CDMX, <named-content content-type="postal-code">04510</named-content>
+               <named-content content-type="city">Mexico City</named-content>, <country>Mexico</country>
+            </corresp>
+         </author-notes>
+         <pub-date pub-type="ppub">
+            <day>16</day>
+            <month>02</month>
+            <year>2022</year>
+            <string-date>February 2022</string-date>
+         </pub-date>
+         <volume>120</volume>
+         <issue>4</issue>
+         <elocation-id seq="14">e2000057</elocation-id>
+         <history>
+            <date date-type="received">
+               <day>14</day>
+               <month>9</month>
+               <year>2021</year>
+            </date>
+            <date date-type="accepted">
+               <day>12</day>
+               <month>10</month>
+               <year>2021</year>
+            </date>
+         </history>
+         <permissions>
+            <copyright-statement>&#xa9; 2021 Informa UK Limited, trading as Taylor &amp; Francis Group</copyright-statement>
+            <copyright-year>2021</copyright-year>
+            <copyright-holder>Taylor &amp; Francis</copyright-holder>
+         </permissions>
+         <abstract>
+            <p>The <inline-formula>
+                  <inline-graphic xlink:href="tmph_a_2000057_ilm0001.gif"/>
+               </inline-formula>-Lie algebraic approach based on the dynamical group <inline-formula>
+                  <inline-graphic xlink:href="tmph_a_2000057_ilm0002.gif"/>
+               </inline-formula> to describe a set of <italic>n</italic> local oscillators is analysed from the point of view of its connection with configuration space. First, the matrix elements of a general Hamiltonian involving Casimir operators of the two dynamical algebras <inline-formula>
+                  <inline-graphic xlink:href="tmph_a_2000057_ilm0003.gif"/>
+               </inline-formula> and <inline-formula>
+                  <inline-graphic xlink:href="tmph_a_2000057_ilm0004.gif"/>
+               </inline-formula> are revised and subsequently the equivalent Hamiltonian in configuration space is established. This relationship permits us to evaluate the order of the interactions traditionally taken into account in the <inline-formula>
+                  <inline-graphic xlink:href="tmph_a_2000057_ilm0005.gif"/>
+               </inline-formula> vibron model with the additional advantage of providing the connection with force constants. Starting from configuration space our analysis is applied to the description of vibrational excitations of the molecule of methylene chloride including both stretching and bending degrees of freedom.</p>
+         </abstract>
+         <abstract abstract-type="graphical">
+            <title>GRAPHICAL ABSTRACT</title>
+            <fig id="UF0001" position="anchor" orientation="portrait">
+               <graphic xlink:href="tmph_a_2000057_uf0001_oc.jpg"
+                        content-type="color"
+                        specific-use="web-only"
+                        position="float"
+                        orientation="portrait"/>
+            </fig>
+         </abstract>
+         <kwd-group kwd-group-type="author">
+            <title>Keywords</title>
+            <kwd>
+               <inline-formula>
+                  <inline-graphic xlink:href="tmph_a_2000057_ilm0006.gif"/>
+               </inline-formula> lie algebras</kwd>
+            <kwd>connection with configuration space</kwd>
+            <kwd>vibrational excitations</kwd>
+            <kwd>methylene chloride</kwd>
+         </kwd-group>
+         <funding-group>
+            <award-group>
+               <funding-source>
+                  <institution>Direcci&#xf3;n General de Asuntos del Personal Acad&#xe9;mico, Universidad Nacional Aut&#xf3;noma de M&#xe9;xico</institution>
+               </funding-source>
+               <award-id>IN-212020</award-id>
+            </award-group>
+            <funding-statement>This work is partially supported by Direcci&#xf3;n General de Asuntos del Personal Acad&#xe9;mico, Universidad Nacional Aut&#xf3;noma de M&#xe9;xico (DGAPA-UNAM), Mexico&#xa0;[grant number IN-212020].</funding-statement>
+         </funding-group>
+         <counts>
+            <fig-count count="1"/>
+            <table-count count="10"/>
+            <equation-count count="684"/>
+            <ref-count count="94"/>
+            <page-count count="20"/>
+         </counts>
+      </article-meta>
+   </front>
+   <back>
+      <ref-list>
+         <ref id="CIT0001">
+            <mixed-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <x xml:space="preserve"> </x>
+                  <string-name>
+                     <given-names>M.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Moshinsky</surname>
+                  </string-name>
+               </person-group>
+               <x xml:space="preserve">, </x>
+               <source>
+                  <italic>Group Theory and the Many Body Problem</italic>
+               </source>
+               <x xml:space="preserve"> (</x>
+               <publisher-name>Gordon and Breach</publisher-name>
+               <x xml:space="preserve">, </x>
+               <publisher-loc>New York</publisher-loc>
+               <x xml:space="preserve">, </x>
+               <year>1967</year>
+               <x xml:space="preserve">).</x>
+            </mixed-citation>
+         </ref>
+         <ref id="CIT0002">
+            <mixed-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <given-names>S.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Califano</surname>
+                  </string-name>
+               </person-group>
+               <x xml:space="preserve">, </x>
+               <source>
+                  <italic>Vibrational States</italic>
+               </source>
+               <x xml:space="preserve"> (</x>
+               <publisher-name>Wiley</publisher-name>
+               <x xml:space="preserve">, </x>
+               <publisher-loc>New York</publisher-loc>
+               <x xml:space="preserve">, </x>
+               <year>1976</year>
+               <x xml:space="preserve">).</x>
+            </mixed-citation>
+         </ref>
+         <ref id="CIT0003">
+            <mixed-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <given-names>G.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Herzberg</surname>
+                  </string-name>
+               </person-group>
+               <x xml:space="preserve">, </x>
+               <source>
+                  <italic>Molecular Spectra and Molecular Structure II. Infrared and Raman Spectra</italic>
+               </source>
+               <x xml:space="preserve"> (</x>
+               <publisher-name>Van Nostrand, Reinhold</publisher-name>
+               <x xml:space="preserve">, </x>
+               <publisher-loc>New York</publisher-loc>
+               <x xml:space="preserve">, </x>
+               <year>1945</year>
+               <x xml:space="preserve">).</x>
+            </mixed-citation>
+         </ref>
+         <ref id="CIT0004">
+            <mixed-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <given-names>D.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Papousek</surname>
+                  </string-name>
+                  <x xml:space="preserve"> and </x>
+                  <string-name>
+                     <given-names>M.R.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Aliev</surname>
+                  </string-name>
+               </person-group>
+               <x xml:space="preserve">, </x>
+               <source>
+                  <italic>Molecular Vibrational-Rotational Spectra</italic>
+               </source>
+               <x xml:space="preserve"> (</x>
+               <publisher-name>Elsevier</publisher-name>
+               <x xml:space="preserve">, </x>
+               <publisher-loc>Amsterdam</publisher-loc>
+               <x xml:space="preserve">, </x>
+               <year>1982</year>
+               <x xml:space="preserve">).</x>
+            </mixed-citation>
+         </ref>
+         <ref id="CIT0005">
+            <mixed-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <given-names>P.R.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Bunker</surname>
+                  </string-name>
+                  <x xml:space="preserve"> and </x>
+                  <string-name>
+                     <given-names>P.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Jensen</surname>
+                  </string-name>
+               </person-group>
+               <x xml:space="preserve">, </x>
+               <source>
+                  <italic>Molecular Symmetry and Spectroscopy</italic>
+               </source>
+               <x xml:space="preserve"> (</x>
+               <publisher-name>NRC Research Press</publisher-name>
+               <x xml:space="preserve">, </x>
+               <publisher-loc>Ottawa</publisher-loc>
+               <x xml:space="preserve">, </x>
+               <year>1988</year>
+               <x xml:space="preserve">).</x>
+            </mixed-citation>
+         </ref>
+         <ref id="CIT0006">
+            <mixed-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <given-names>M.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Kellman</surname>
+                  </string-name>
+               </person-group>
+               <x xml:space="preserve">, </x>
+               <source>Annu. Rev. Phys. Chem.</source>
+               <x xml:space="preserve"> </x>
+               <volume>46</volume>
+               <x xml:space="preserve">, </x>
+               <fpage>395</fpage>
+               <x xml:space="preserve">&#x2013;</x>
+               <lpage>422</lpage>
+               <x xml:space="preserve"> (</x>
+               <year>1995</year>
+               <x xml:space="preserve">). doi:</x>
+               <pub-id pub-id-type="doi">10.1146/physchem.1995.46.issue-1</pub-id>
+            </mixed-citation>
+         </ref>
+         <ref id="CIT0007">
+            <mixed-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <given-names>M.P.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Jacobson</surname>
+                  </string-name>
+                  <x xml:space="preserve">, </x>
+                  <string-name>
+                     <given-names>J.P.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>O'Brien</surname>
+                  </string-name>
+                  <x xml:space="preserve">, </x>
+                  <string-name>
+                     <given-names>R.J.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Silbey</surname>
+                  </string-name>
+                  <x xml:space="preserve"> and </x>
+                  <string-name>
+                     <given-names>R.W.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Field</surname>
+                  </string-name>
+               </person-group>
+               <x xml:space="preserve">, </x>
+               <source>J. Chem. Phys.</source>
+               <x xml:space="preserve"> </x>
+               <volume>109</volume>
+               <x xml:space="preserve">, </x>
+               <fpage>121</fpage>
+               <x xml:space="preserve">&#x2013;</x>
+               <lpage>133</lpage>
+               <x xml:space="preserve"> (</x>
+               <year>1998</year>
+               <x xml:space="preserve">). doi:</x>
+               <pub-id pub-id-type="doi">10.1063/1.476529</pub-id>
+            </mixed-citation>
+         </ref>
+         <ref id="CIT0008">
+            <mixed-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <given-names>H.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Ishikawa</surname>
+                  </string-name>
+                  <x xml:space="preserve">, </x>
+                  <string-name>
+                     <given-names>C.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Nagao</surname>
+                  </string-name>
+                  <x xml:space="preserve">, </x>
+                  <string-name>
+                     <given-names>N.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Mikami</surname>
+                  </string-name>
+                  <x xml:space="preserve"> and </x>
+                  <string-name>
+                     <given-names>R.W.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Field</surname>
+                  </string-name>
+               </person-group>
+               <x xml:space="preserve">, </x>
+               <source>J. Chem. Phys.</source>
+               <x xml:space="preserve"> </x>
+               <volume>109</volume>
+               <x xml:space="preserve">, </x>
+               <fpage>492</fpage>
+               <x xml:space="preserve">&#x2013;</x>
+               <lpage>503</lpage>
+               <x xml:space="preserve"> (</x>
+               <year>1998</year>
+               <x xml:space="preserve">). doi:</x>
+               <pub-id pub-id-type="doi">10.1063/1.476586</pub-id>
+            </mixed-citation>
+         </ref>
+         <ref id="CIT0009">
+            <mixed-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <given-names>M.E.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Kellman</surname>
+                  </string-name>
+               </person-group>
+               <x xml:space="preserve">, </x>
+               <source>J. Chem. Phys.</source>
+               <x xml:space="preserve"> </x>
+               <volume>93</volume>
+               <x xml:space="preserve">, </x>
+               <fpage>6630</fpage>
+               <x xml:space="preserve">&#x2013;</x>
+               <lpage>6635</lpage>
+               <x xml:space="preserve"> (</x>
+               <year>1990</year>
+               <x xml:space="preserve">). doi:</x>
+               <pub-id pub-id-type="doi">10.1063/1.458930</pub-id>
+            </mixed-citation>
+         </ref>
+         <ref id="CIT0010">
+            <mixed-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <given-names>D.J.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Nesbitt</surname>
+                  </string-name>
+                  <x xml:space="preserve"> and </x>
+                  <string-name>
+                     <given-names>R.W.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Field</surname>
+                  </string-name>
+               </person-group>
+               <x xml:space="preserve">, </x>
+               <source>J. Phys. Chem.</source>
+               <x xml:space="preserve"> </x>
+               <volume>100</volume>
+               <x xml:space="preserve">, </x>
+               <fpage>12735</fpage>
+               <x xml:space="preserve">&#x2013;</x>
+               <lpage>12756</lpage>
+               <x xml:space="preserve"> (</x>
+               <year>1998</year>
+               <x xml:space="preserve">). doi:</x>
+               <pub-id pub-id-type="doi">10.1021/jp960698w</pub-id>
+            </mixed-citation>
+         </ref>
+         <ref id="CIT0011">
+            <mixed-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <given-names>J.M.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Hollas</surname>
+                  </string-name>
+               </person-group>
+               <x xml:space="preserve">, </x>
+               <source>
+                  <italic>High Resolution Spectroscopy</italic>
+               </source>
+               <x xml:space="preserve">, </x>
+               <edition>2nd ed.</edition>
+               <x xml:space="preserve"> (</x>
+               <publisher-name>Wiley</publisher-name>
+               <x xml:space="preserve">, </x>
+               <publisher-loc>New York</publisher-loc>
+               <x xml:space="preserve">, </x>
+               <year>1992</year>
+               <x xml:space="preserve">).</x>
+            </mixed-citation>
+         </ref>
+         <ref id="CIT0012">
+            <mixed-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <given-names>M.L.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Sage</surname>
+                  </string-name>
+                  <x xml:space="preserve"> and </x>
+                  <string-name>
+                     <given-names>J.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Jortner</surname>
+                  </string-name>
+               </person-group>
+               <x xml:space="preserve">, </x>
+               <source>Adv. Chem. Phys.</source>
+               <x xml:space="preserve"> </x>
+               <volume>47</volume>
+               <x xml:space="preserve">, </x>
+               <fpage>293</fpage>
+               <x xml:space="preserve"> (</x>
+               <year>1981)</year>
+               <x xml:space="preserve">. doi:</x>
+               <pub-id pub-id-type="doi">10.1002/9780470142677.ch5</pub-id>
+            </mixed-citation>
+         </ref>
+         <ref id="CIT0013">
+            <mixed-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <given-names>M.S.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Child</surname>
+                  </string-name>
+                  <x xml:space="preserve"> and </x>
+                  <string-name>
+                     <given-names>R.T.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Lawton</surname>
+                  </string-name>
+               </person-group>
+               <x xml:space="preserve">, </x>
+               <source>Faraday Discuss. Chem. Soc.</source>
+               <x xml:space="preserve"> </x>
+               <volume>71</volume>
+               <x xml:space="preserve">, </x>
+               <fpage>273</fpage>
+               <x xml:space="preserve"> (</x>
+               <year>1981</year>
+               <x xml:space="preserve">). doi:</x>
+               <pub-id pub-id-type="doi">10.1039/dc9817100273</pub-id>
+            </mixed-citation>
+         </ref>
+         <ref id="CIT0014">
+            <mixed-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <given-names>M.S.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Child</surname>
+                  </string-name>
+                  <x xml:space="preserve"> and </x>
+                  <string-name>
+                     <given-names>L.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Halonen</surname>
+                  </string-name>
+               </person-group>
+               <x xml:space="preserve">, </x>
+               <source>Adv. Chem. Phys.</source>
+               <x xml:space="preserve"> </x>
+               <volume>1</volume>
+               <x xml:space="preserve">, </x>
+               <fpage>1</fpage>
+               <x xml:space="preserve"> (</x>
+               <year>1984)</year>
+               <x xml:space="preserve">. doi:</x>
+               <pub-id pub-id-type="doi">10.1002/9780470142813.ch1</pub-id>
+            </mixed-citation>
+         </ref>
+         <ref id="CIT0015">
+            <mixed-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <given-names>L.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Halonen</surname>
+                  </string-name>
+               </person-group>
+               <x xml:space="preserve">, </x>
+               <source>Adv. Chem. Phys.</source>
+               <x xml:space="preserve"> </x>
+               <volume>104</volume>
+               <x xml:space="preserve">, </x>
+               <fpage>41</fpage>
+               <x xml:space="preserve"> (</x>
+               <year>1998)</year>
+               <x xml:space="preserve">. doi:</x>
+               <pub-id pub-id-type="doi">10.1002/9780470141632.ch2</pub-id>
+            </mixed-citation>
+         </ref>
+         <ref id="CIT0016">
+            <mixed-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <given-names>P.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Jensen</surname>
+                  </string-name>
+               </person-group>
+               <x xml:space="preserve">, </x>
+               <source>Mol. Phys.</source>
+               <x xml:space="preserve"> </x>
+               <volume>104</volume>
+               <x xml:space="preserve">, </x>
+               <fpage>1253</fpage>
+               <x xml:space="preserve">&#x2013;</x>
+               <lpage>1285</lpage>
+               <x xml:space="preserve"> (</x>
+               <year>2000</year>
+               <x xml:space="preserve">). doi:</x>
+               <pub-id pub-id-type="doi">10.1080/002689700413532</pub-id>
+            </mixed-citation>
+         </ref>
+         <ref id="CIT0017">
+            <mixed-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <given-names>I.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Mills</surname>
+                  </string-name>
+                  <x xml:space="preserve"> and </x>
+                  <string-name>
+                     <given-names>A.G.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Robiette</surname>
+                  </string-name>
+               </person-group>
+               <x xml:space="preserve">, </x>
+               <source>Mol. Phys.</source>
+               <x xml:space="preserve"> </x>
+               <volume>56</volume>
+               <x xml:space="preserve">, </x>
+               <fpage>743</fpage>
+               <x xml:space="preserve">&#x2013;</x>
+               <lpage>765</lpage>
+               <x xml:space="preserve"> (</x>
+               <year>1985</year>
+               <x xml:space="preserve">). doi:</x>
+               <pub-id pub-id-type="doi">10.1080/00268978500102691</pub-id>
+            </mixed-citation>
+         </ref>
+         <ref id="CIT0018">
+            <mixed-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <given-names>I.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Mills</surname>
+                  </string-name>
+                  <x xml:space="preserve"> and </x>
+                  <string-name>
+                     <given-names>F.J.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Mompean</surname>
+                  </string-name>
+               </person-group>
+               <x xml:space="preserve">, </x>
+               <source>Chem. Phys. Lett.</source>
+               <x xml:space="preserve"> </x>
+               <volume>124</volume>
+               <x xml:space="preserve">, </x>
+               <fpage>425</fpage>
+               <x xml:space="preserve">&#x2013;</x>
+               <lpage>431</lpage>
+               <x xml:space="preserve"> (</x>
+               <year>1986</year>
+               <x xml:space="preserve">). doi:</x>
+               <pub-id pub-id-type="doi">10.1016/0009-2614(86)85047-3</pub-id>
+            </mixed-citation>
+         </ref>
+         <ref id="CIT0019">
+            <mixed-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <given-names>R.G.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Della Valle</surname>
+                  </string-name>
+               </person-group>
+               <x xml:space="preserve">, </x>
+               <source>Mol. Phys.</source>
+               <x xml:space="preserve"> </x>
+               <volume>63</volume>
+               <x xml:space="preserve">, </x>
+               <fpage>611</fpage>
+               <x xml:space="preserve">&#x2013;</x>
+               <lpage>621</lpage>
+               <x xml:space="preserve"> (</x>
+               <year>1988</year>
+               <x xml:space="preserve">). doi:</x>
+               <pub-id pub-id-type="doi">10.1080/00268978800100421</pub-id>
+            </mixed-citation>
+         </ref>
+         <ref id="CIT0020">
+            <mixed-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <given-names>K.K.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Lehmann</surname>
+                  </string-name>
+               </person-group>
+               <x xml:space="preserve">, </x>
+               <source>Mol. Phys.</source>
+               <x xml:space="preserve"> </x>
+               <volume>66</volume>
+               <x xml:space="preserve">, </x>
+               <fpage>1129</fpage>
+               <x xml:space="preserve">&#x2013;</x>
+               <lpage>1137</lpage>
+               <x xml:space="preserve"> (</x>
+               <year>1989</year>
+               <x xml:space="preserve">). doi:</x>
+               <pub-id pub-id-type="doi">10.1080/00268978900100751</pub-id>
+            </mixed-citation>
+         </ref>
+         <ref id="CIT0021">
+            <mixed-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <given-names>M.M.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Law</surname>
+                  </string-name>
+                  <x xml:space="preserve"> and </x>
+                  <string-name>
+                     <given-names>J.M.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Duncan</surname>
+                  </string-name>
+               </person-group>
+               <x xml:space="preserve">, </x>
+               <source>Mol. Phys.</source>
+               <x xml:space="preserve"> </x>
+               <volume>93</volume>
+               <x xml:space="preserve">, </x>
+               <fpage>809</fpage>
+               <x xml:space="preserve">&#x2013;</x>
+               <lpage>819</lpage>
+               <x xml:space="preserve"> (</x>
+               <year>1998</year>
+               <x xml:space="preserve">). doi:</x>
+               <pub-id pub-id-type="doi">10.1080/002689798168826</pub-id>
+            </mixed-citation>
+         </ref>
+         <ref id="CIT0022">
+            <mixed-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <given-names>M.M.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Law</surname>
+                  </string-name>
+                  <x xml:space="preserve"> and </x>
+                  <string-name>
+                     <given-names>J.M.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Duncan</surname>
+                  </string-name>
+               </person-group>
+               <x xml:space="preserve">, </x>
+               <source>Mol. Phys.</source>
+               <x xml:space="preserve"> </x>
+               <volume>93</volume>
+               <x xml:space="preserve">, </x>
+               <fpage>821</fpage>
+               <x xml:space="preserve"> (</x>
+               <year>1998)</year>
+               <x xml:space="preserve">. doi:</x>
+               <pub-id pub-id-type="doi">10.1080/002689798168835</pub-id>
+            </mixed-citation>
+         </ref>
+         <ref id="CIT0023">
+            <mixed-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <given-names>A.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Gambi</surname>
+                  </string-name>
+                  <x xml:space="preserve"> and </x>
+                  <string-name>
+                     <given-names>R.G.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Della Valle</surname>
+                  </string-name>
+               </person-group>
+               <x xml:space="preserve">, </x>
+               <source>Mol. Phys.</source>
+               <x xml:space="preserve"> </x>
+               <volume>105</volume>
+               <x xml:space="preserve">, </x>
+               <fpage>1779</fpage>
+               <x xml:space="preserve">&#x2013;</x>
+               <lpage>1787</lpage>
+               <x xml:space="preserve"> (</x>
+               <year>2007</year>
+               <x xml:space="preserve">). doi:</x>
+               <pub-id pub-id-type="doi">10.1080/00268970701408297</pub-id>
+            </mixed-citation>
+         </ref>
+         <ref id="CIT0024">
+            <mixed-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <given-names>K.K.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Lehmann</surname>
+                  </string-name>
+               </person-group>
+               <x xml:space="preserve">, </x>
+               <source>J. Chem. Phys.</source>
+               <x xml:space="preserve"> </x>
+               <volume>79</volume>
+               <x xml:space="preserve">, </x>
+               <fpage>1098</fpage>
+               <x xml:space="preserve">&#x2013;</x>
+               <lpage>1098</lpage>
+               <x xml:space="preserve"> (</x>
+               <year>1983</year>
+               <x xml:space="preserve">). doi:</x>
+               <pub-id pub-id-type="doi">10.1063/1.445849</pub-id>
+            </mixed-citation>
+         </ref>
+         <ref id="CIT0025">
+            <mixed-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <given-names>M.E.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Kellman</surname>
+                  </string-name>
+               </person-group>
+               <x xml:space="preserve">, </x>
+               <source>J. Chem. Phys.</source>
+               <x xml:space="preserve"> </x>
+               <volume>83</volume>
+               <x xml:space="preserve">, </x>
+               <fpage>3843</fpage>
+               <x xml:space="preserve">&#x2013;</x>
+               <lpage>3858</lpage>
+               <x xml:space="preserve"> (</x>
+               <year>1985</year>
+               <x xml:space="preserve">). doi:</x>
+               <pub-id pub-id-type="doi">10.1063/1.449095</pub-id>
+            </mixed-citation>
+         </ref>
+         <ref id="CIT0026">
+            <mixed-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <given-names>P.M.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Morse</surname>
+                  </string-name>
+               </person-group>
+               <x xml:space="preserve">, </x>
+               <source>Phys. Rev.</source>
+               <x xml:space="preserve"> </x>
+               <volume>34</volume>
+               <x xml:space="preserve">, </x>
+               <fpage>57</fpage>
+               <x xml:space="preserve">&#x2013;</x>
+               <lpage>64</lpage>
+               <x xml:space="preserve"> (</x>
+               <year>1929</year>
+               <x xml:space="preserve">). doi:</x>
+               <pub-id pub-id-type="doi">10.1103/PhysRev.34.57</pub-id>
+            </mixed-citation>
+         </ref>
+         <ref id="CIT0027">
+            <mixed-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <given-names>A.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Matsumoto</surname>
+                  </string-name>
+               </person-group>
+               <x xml:space="preserve">, </x>
+               <source>J. Phys. B. At. Mol. Opt. Phys.</source>
+               <x xml:space="preserve"> </x>
+               <volume>21</volume>
+               <x xml:space="preserve">, </x>
+               <fpage>2863</fpage>
+               <x xml:space="preserve">&#x2013;</x>
+               <lpage>2870</lpage>
+               <x xml:space="preserve"> (</x>
+               <year>1988</year>
+               <x xml:space="preserve">). doi:</x>
+               <pub-id pub-id-type="doi">10.1088/0953-4075/21/16/011</pub-id>
+            </mixed-citation>
+         </ref>
+         <ref id="CIT0028">
+            <mixed-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <given-names>L.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Halonen</surname>
+                  </string-name>
+                  <x xml:space="preserve">, </x>
+                  <string-name>
+                     <given-names>T.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Carrington</surname>
+                  </string-name>
+                  <x xml:space="preserve"> and </x>
+                  <string-name>
+                     <given-names>M.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Quack</surname>
+                  </string-name>
+               </person-group>
+               <x xml:space="preserve">, </x>
+               <source>J. Chem. Soc. Faraday Trans. 2</source>
+               <x xml:space="preserve"> </x>
+               <volume>84</volume>
+               <x xml:space="preserve">, </x>
+               <fpage>1371</fpage>
+               <x xml:space="preserve">&#x2013;</x>
+               <lpage>1388</lpage>
+               <x xml:space="preserve"> (</x>
+               <year>1989</year>
+               <x xml:space="preserve">). doi:</x>
+               <pub-id pub-id-type="doi">10.1039/f29888401371</pub-id>
+            </mixed-citation>
+         </ref>
+         <ref id="CIT0029">
+            <mixed-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <given-names>E.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Kauppi</surname>
+                  </string-name>
+                  <x xml:space="preserve"> and </x>
+                  <string-name>
+                     <given-names>L.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Halonen</surname>
+                  </string-name>
+               </person-group>
+               <x xml:space="preserve">, </x>
+               <source>J. Chem. Phys.</source>
+               <x xml:space="preserve"> </x>
+               <volume>90</volume>
+               <x xml:space="preserve">, </x>
+               <fpage>6980</fpage>
+               <x xml:space="preserve">&#x2013;</x>
+               <lpage>6992</lpage>
+               <x xml:space="preserve"> (</x>
+               <year>1989</year>
+               <x xml:space="preserve">). doi:</x>
+               <pub-id pub-id-type="doi">10.1063/1.456681</pub-id>
+            </mixed-citation>
+         </ref>
+         <ref id="CIT0030">
+            <mixed-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <given-names>L.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Halonen</surname>
+                  </string-name>
+               </person-group>
+               <x xml:space="preserve">, </x>
+               <source>J. Chem. Phys.</source>
+               <x xml:space="preserve"> </x>
+               <volume>106</volume>
+               <x xml:space="preserve">, </x>
+               <fpage>831</fpage>
+               <x xml:space="preserve">&#x2013;</x>
+               <lpage>845</lpage>
+               <x xml:space="preserve"> (</x>
+               <year>1997</year>
+               <x xml:space="preserve">). doi:</x>
+               <pub-id pub-id-type="doi">10.1063/1.473228</pub-id>
+            </mixed-citation>
+         </ref>
+         <ref id="CIT0031">
+            <mixed-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <given-names>C.A.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Amezcua-Eccus</surname>
+                  </string-name>
+                  <x xml:space="preserve"> and </x>
+                  <string-name>
+                     <given-names>R.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Lemus</surname>
+                  </string-name>
+               </person-group>
+               <x xml:space="preserve">, </x>
+               <source>J. Mol. Spectrosc.</source>
+               <x xml:space="preserve"> </x>
+               <volume>260</volume>
+               <x xml:space="preserve">, </x>
+               <fpage>36</fpage>
+               <x xml:space="preserve">&#x2013;</x>
+               <lpage>49</lpage>
+               <x xml:space="preserve"> (</x>
+               <year>2010</year>
+               <x xml:space="preserve">). doi:</x>
+               <pub-id pub-id-type="doi">10.1016/j.jms.2009.12.007</pub-id>
+            </mixed-citation>
+         </ref>
+         <ref id="CIT0032">
+            <mixed-citation publication-type="other">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <given-names>R.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Lemus</surname>
+                  </string-name>
+               </person-group>
+               <x xml:space="preserve">, </x>
+               <italic>Adv. Phys. Chem.</italic>
+               <x xml:space="preserve">, </x>
+               <bold>2011</bold>
+               <x xml:space="preserve">, Article ID 593872.</x>
+            </mixed-citation>
+         </ref>
+         <ref id="CIT0033">
+            <mixed-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <given-names>M.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Berm&#xfa;dez Monta&#xf1;a</surname>
+                  </string-name>
+                  <x xml:space="preserve">, </x>
+                  <string-name>
+                     <given-names>R.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Lemus</surname>
+                  </string-name>
+                  <x xml:space="preserve">, </x>
+                  <string-name>
+                     <given-names>F.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>P&#xe9;rez-Bernal</surname>
+                  </string-name>
+                  <x xml:space="preserve"> and </x>
+                  <string-name>
+                     <given-names>M.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Carvajal</surname>
+                  </string-name>
+               </person-group>
+               <x xml:space="preserve">, </x>
+               <source>Eur. Phys. J. D</source>
+               <x xml:space="preserve"> </x>
+               <volume>71</volume>
+               <x xml:space="preserve">, </x>
+               <fpage>147</fpage>
+               <x xml:space="preserve"> (</x>
+               <year>2017)</year>
+               <x xml:space="preserve">. doi:</x>
+               <pub-id pub-id-type="doi">10.1140/epjd/e2017-80178-6</pub-id>
+            </mixed-citation>
+         </ref>
+         <ref id="CIT0034">
+            <mixed-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <given-names>M.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Berm&#xfa;dez-Monta&#xf1;a</surname>
+                  </string-name>
+                  <x xml:space="preserve">, </x>
+                  <string-name>
+                     <given-names>M.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Carvajal</surname>
+                  </string-name>
+                  <x xml:space="preserve">, </x>
+                  <string-name>
+                     <given-names>F.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>P&#xe9;rez-Bernal</surname>
+                  </string-name>
+                  <x xml:space="preserve"> and </x>
+                  <string-name>
+                     <given-names>R.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Lemus</surname>
+                  </string-name>
+               </person-group>
+               <x xml:space="preserve">, </x>
+               <source>J. Raman Spectrosc.</source>
+               <volume>51</volume>
+               <x xml:space="preserve">, </x>
+               <fpage>569</fpage>
+               <x xml:space="preserve">&#x2013;</x>
+               <lpage>583</lpage>
+               <x xml:space="preserve"> (</x>
+               <year>2020</year>
+               <x xml:space="preserve">). doi:</x>
+               <pub-id pub-id-type="doi">10.1002/jrs.v51.3</pub-id>
+            </mixed-citation>
+         </ref>
+         <ref id="CIT0035">
+            <mixed-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <given-names>M.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Berm&#xfa;dez Monta&#xf1;a</surname>
+                  </string-name>
+                  <x xml:space="preserve"> and </x>
+                  <string-name>
+                     <given-names>R.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Lemus</surname>
+                  </string-name>
+               </person-group>
+               <x xml:space="preserve">, </x>
+               <source>J. Mol. Spectrosc.</source>
+               <x xml:space="preserve"> </x>
+               <volume>331</volume>
+               <x xml:space="preserve">, </x>
+               <fpage>89</fpage>
+               <x xml:space="preserve">&#x2013;</x>
+               <lpage>105</lpage>
+               <x xml:space="preserve"> (</x>
+               <year>2017</year>
+               <x xml:space="preserve">). doi:</x>
+               <pub-id pub-id-type="doi">10.1016/j.jms.2016.10.003</pub-id>
+            </mixed-citation>
+         </ref>
+         <ref id="CIT0036">
+            <mixed-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <given-names>M.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Berm&#xfa;dez-Monta&#xf1;a</surname>
+                  </string-name>
+                  <x xml:space="preserve">, </x>
+                  <string-name>
+                     <given-names>R.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Lemus</surname>
+                  </string-name>
+                  <x xml:space="preserve"> and </x>
+                  <string-name>
+                     <given-names>O.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Casta&#xf1;os</surname>
+                  </string-name>
+               </person-group>
+               <x xml:space="preserve">, </x>
+               <source>Eur. Phys. Lett.</source>
+               <x xml:space="preserve"> </x>
+               <volume>116</volume>
+               <x xml:space="preserve">, </x>
+               <fpage>13001</fpage>
+               <x xml:space="preserve"> (</x>
+               <year>2016</year>
+               <x xml:space="preserve">). doi:</x>
+               <pub-id pub-id-type="doi">10.1209/0295-5075/116/13001</pub-id>
+            </mixed-citation>
+         </ref>
+         <ref id="CIT0037">
+            <mixed-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <given-names>M.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Berm&#xfa;dez-Monta&#xf1;a</surname>
+                  </string-name>
+                  <x xml:space="preserve">, </x>
+                  <string-name>
+                     <given-names>R.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Lemus</surname>
+                  </string-name>
+                  <x xml:space="preserve"> and </x>
+                  <string-name>
+                     <given-names>O.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Casta&#xf1;os</surname>
+                  </string-name>
+               </person-group>
+               <x xml:space="preserve">, </x>
+               <source>Mol. Phys.</source>
+               <x xml:space="preserve"> </x>
+               <volume>115</volume>
+               <x xml:space="preserve">, </x>
+               <fpage>3076</fpage>
+               <x xml:space="preserve">&#x2013;</x>
+               <lpage>3103</lpage>
+               <x xml:space="preserve"> (</x>
+               <year>2017</year>
+               <x xml:space="preserve">). doi:</x>
+               <pub-id pub-id-type="doi">10.1080/00268976.2017.1349347</pub-id>
+            </mixed-citation>
+         </ref>
+         <ref id="CIT0038">
+            <mixed-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <given-names>L.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Halonen</surname>
+                  </string-name>
+                  <x xml:space="preserve"> and </x>
+                  <string-name>
+                     <given-names>M.S.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Child</surname>
+                  </string-name>
+               </person-group>
+               <x xml:space="preserve">, </x>
+               <source>J. Chem. Phys.</source>
+               <x xml:space="preserve"> </x>
+               <volume>79</volume>
+               <x xml:space="preserve">, </x>
+               <fpage>559</fpage>
+               <x xml:space="preserve">&#x2013;</x>
+               <lpage>570</lpage>
+               <x xml:space="preserve"> (</x>
+               <year>1983</year>
+               <x xml:space="preserve">). doi:</x>
+               <pub-id pub-id-type="doi">10.1063/1.445856</pub-id>
+            </mixed-citation>
+         </ref>
+         <ref id="CIT0039">
+            <mixed-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <given-names>L.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Coello</surname>
+                  </string-name>
+                  <x xml:space="preserve"> and </x>
+                  <string-name>
+                     <given-names>R.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Lemus</surname>
+                  </string-name>
+               </person-group>
+               <x xml:space="preserve">, </x>
+               <source>Mol. Phys.</source>
+               <x xml:space="preserve"> </x>
+               <volume>119</volume>
+               <x xml:space="preserve">, </x>
+               <fpage>e1865582</fpage>
+               <x xml:space="preserve"> (</x>
+               <year>2021</year>
+               <x xml:space="preserve">). doi:</x>
+               <pub-id pub-id-type="doi">10.1080/00268976.2020.1865582</pub-id>
+            </mixed-citation>
+         </ref>
+         <ref id="CIT0040">
+            <mixed-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <given-names>R.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Lemus</surname>
+                  </string-name>
+               </person-group>
+               <x xml:space="preserve">, </x>
+               <source>Mol. Phys.</source>
+               <x xml:space="preserve"> </x>
+               <volume>101</volume>
+               <x xml:space="preserve">, </x>
+               <fpage>2511</fpage>
+               <x xml:space="preserve">&#x2013;</x>
+               <lpage>2528</lpage>
+               <x xml:space="preserve"> (</x>
+               <year>2003</year>
+               <x xml:space="preserve">). doi:</x>
+               <pub-id pub-id-type="doi">10.1080/0026897031000154310</pub-id>
+            </mixed-citation>
+         </ref>
+         <ref id="CIT0041">
+            <mixed-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <given-names>S.H.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Dong</surname>
+                  </string-name>
+                  <x xml:space="preserve">, </x>
+                  <string-name>
+                     <given-names>R.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Lemus</surname>
+                  </string-name>
+                  <x xml:space="preserve"> and </x>
+                  <string-name>
+                     <given-names>A.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Frank</surname>
+                  </string-name>
+               </person-group>
+               <x xml:space="preserve">, </x>
+               <source>Int. J. Quant. Chem.</source>
+               <x xml:space="preserve"> </x>
+               <volume>86</volume>
+               <x xml:space="preserve">, </x>
+               <fpage>433</fpage>
+               <x xml:space="preserve">&#x2013;</x>
+               <lpage>439</lpage>
+               <x xml:space="preserve"> (</x>
+               <year>2002</year>
+               <x xml:space="preserve">). doi:</x>
+               <pub-id pub-id-type="doi">10.1002/(ISSN)1097-461X</pub-id>
+            </mixed-citation>
+         </ref>
+         <ref id="CIT0042">
+            <mixed-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <given-names>R.D.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Levine</surname>
+                  </string-name>
+                  <x xml:space="preserve"> and </x>
+                  <string-name>
+                     <given-names>C.F.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Wulfman</surname>
+                  </string-name>
+               </person-group>
+               <x xml:space="preserve">, </x>
+               <source>Chem. Phys. Lett.</source>
+               <x xml:space="preserve"> </x>
+               <volume>60</volume>
+               <x xml:space="preserve">, </x>
+               <fpage>372</fpage>
+               <x xml:space="preserve">&#x2013;</x>
+               <lpage>376</lpage>
+               <x xml:space="preserve"> (</x>
+               <year>1979</year>
+               <x xml:space="preserve">). doi:</x>
+               <pub-id pub-id-type="doi">10.1016/0009-2614(79)80591-6</pub-id>
+            </mixed-citation>
+         </ref>
+         <ref id="CIT0043">
+            <mixed-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <given-names>C.F.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Wulfman</surname>
+                  </string-name>
+                  <x xml:space="preserve"> and </x>
+                  <string-name>
+                     <given-names>R.D.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Levine</surname>
+                  </string-name>
+               </person-group>
+               <x xml:space="preserve">, </x>
+               <source>Chem. Phys. Lett.</source>
+               <x xml:space="preserve"> </x>
+               <volume>104</volume>
+               <x xml:space="preserve">, </x>
+               <fpage>9</fpage>
+               <x xml:space="preserve">&#x2013;</x>
+               <lpage>12</lpage>
+               <x xml:space="preserve"> (</x>
+               <year>1984</year>
+               <x xml:space="preserve">). doi:</x>
+               <pub-id pub-id-type="doi">10.1016/0009-2614(84)85294-X</pub-id>
+            </mixed-citation>
+         </ref>
+         <ref id="CIT0044">
+            <mixed-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <given-names>O.S.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>van Roosmalen</surname>
+                  </string-name>
+                  <x xml:space="preserve">, </x>
+                  <string-name>
+                     <given-names>I.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Benjamin</surname>
+                  </string-name>
+                  <x xml:space="preserve"> and </x>
+                  <string-name>
+                     <given-names>R.D.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Levine</surname>
+                  </string-name>
+               </person-group>
+               <x xml:space="preserve">, </x>
+               <source>J. Chem. Phys.</source>
+               <x xml:space="preserve"> </x>
+               <volume>81</volume>
+               <x xml:space="preserve">, </x>
+               <fpage>5986</fpage>
+               <x xml:space="preserve"> (</x>
+               <lpage>5997</lpage>
+               <year>1984</year>
+               <x xml:space="preserve">). doi:</x>
+               <pub-id pub-id-type="doi">10.1063/1.447600</pub-id>
+            </mixed-citation>
+         </ref>
+         <ref id="CIT0045">
+            <mixed-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <given-names>S.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Oss</surname>
+                  </string-name>
+                  <x xml:space="preserve"> and </x>
+                  <string-name>
+                     <given-names>F.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Iachello</surname>
+                  </string-name>
+               </person-group>
+               <x xml:space="preserve">, </x>
+               <source>Phys. Rev. Lett.</source>
+               <x xml:space="preserve"> </x>
+               <volume>66</volume>
+               <x xml:space="preserve">, </x>
+               <fpage>2976</fpage>
+               <x xml:space="preserve">&#x2013;</x>
+               <lpage>2979</lpage>
+               <x xml:space="preserve"> (</x>
+               <year>1991</year>
+               <x xml:space="preserve">). doi:</x>
+               <pub-id pub-id-type="doi">10.1103/PhysRevLett.66.2976</pub-id>
+            </mixed-citation>
+         </ref>
+         <ref id="CIT0046">
+            <mixed-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <given-names>F.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Iachello</surname>
+                  </string-name>
+                  <x xml:space="preserve"> and </x>
+                  <string-name>
+                     <given-names>R.D.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Levine</surname>
+                  </string-name>
+               </person-group>
+               <x xml:space="preserve">, </x>
+               <source>
+                  <italic>Algebraic Theory of Molecules</italic>
+               </source>
+               <x xml:space="preserve"> (</x>
+               <publisher-name>Oxford University Press</publisher-name>
+               <x xml:space="preserve">, </x>
+               <publisher-loc>New York</publisher-loc>
+               <x xml:space="preserve">, </x>
+               <year>1995</year>
+               <x xml:space="preserve">).</x>
+            </mixed-citation>
+         </ref>
+         <ref id="CIT0047">
+            <mixed-citation publication-type="thesis">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <given-names>O.S.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>van Roosmalen</surname>
+                  </string-name>
+               </person-group>
+               <x xml:space="preserve">, PhD Thesis, </x>
+               <publisher-name>University of Groningen</publisher-name>
+               <x xml:space="preserve">, </x>
+               <year>1982</year>
+               <x xml:space="preserve">.</x>
+            </mixed-citation>
+         </ref>
+         <ref id="CIT0048">
+            <mixed-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <given-names>O.S.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>van Roosmalen</surname>
+                  </string-name>
+                  <x xml:space="preserve"> and </x>
+                  <string-name>
+                     <given-names>A.E.L.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Dieperink</surname>
+                  </string-name>
+               </person-group>
+               <x xml:space="preserve">, </x>
+               <source>Ann. Phys.</source>
+               <x xml:space="preserve"> </x>
+               <volume>139</volume>
+               <x xml:space="preserve">, </x>
+               <fpage>198</fpage>
+               <x xml:space="preserve">&#x2013;</x>
+               <lpage>211</lpage>
+               <x xml:space="preserve"> (</x>
+               <year>1982</year>
+               <x xml:space="preserve">). doi:</x>
+               <pub-id pub-id-type="doi">10.1016/0003-4916(82)90009-4</pub-id>
+            </mixed-citation>
+         </ref>
+         <ref id="CIT0049">
+            <mixed-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <given-names>O.S.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>van Roosmalen</surname>
+                  </string-name>
+                  <x xml:space="preserve">, </x>
+                  <string-name>
+                     <given-names>R.D.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Levine</surname>
+                  </string-name>
+                  <x xml:space="preserve"> and </x>
+                  <string-name>
+                     <given-names>A.E.L.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Dieperink</surname>
+                  </string-name>
+               </person-group>
+               <x xml:space="preserve">, </x>
+               <source>Chem. Phys. Lett.</source>
+               <x xml:space="preserve"> </x>
+               <volume>101</volume>
+               <x xml:space="preserve">, </x>
+               <fpage>512</fpage>
+               <x xml:space="preserve"> (</x>
+               <lpage>517</lpage>
+               <year>1983</year>
+               <x xml:space="preserve">). doi:</x>
+               <pub-id pub-id-type="doi">10.1016/0009-2614(83)87025-0</pub-id>
+            </mixed-citation>
+         </ref>
+         <ref id="CIT0050">
+            <mixed-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <given-names>A.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Leviatan</surname>
+                  </string-name>
+                  <x xml:space="preserve"> and </x>
+                  <string-name>
+                     <given-names>M.W.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Kirson</surname>
+                  </string-name>
+               </person-group>
+               <x xml:space="preserve">, </x>
+               <source>Ann. Phys.</source>
+               <x xml:space="preserve"> </x>
+               <volume>188</volume>
+               <x xml:space="preserve">, </x>
+               <fpage>142</fpage>
+               <x xml:space="preserve">&#x2013;</x>
+               <lpage>185</lpage>
+               <x xml:space="preserve"> (</x>
+               <year>1988</year>
+               <x xml:space="preserve">). doi:</x>
+               <pub-id pub-id-type="doi">10.1016/0003-4916(88)90093-0</pub-id>
+            </mixed-citation>
+         </ref>
+         <ref id="CIT0051">
+            <mixed-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <given-names>A.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Leviatan</surname>
+                  </string-name>
+               </person-group>
+               <x xml:space="preserve">, </x>
+               <source>J. Chem. Phys.</source>
+               <x xml:space="preserve"> </x>
+               <volume>91</volume>
+               <x xml:space="preserve">, </x>
+               <fpage>1706</fpage>
+               <x xml:space="preserve">&#x2013;</x>
+               <lpage>1718</lpage>
+               <x xml:space="preserve"> (</x>
+               <year>1989</year>
+               <x xml:space="preserve">). doi:</x>
+               <pub-id pub-id-type="doi">10.1063/1.457628</pub-id>
+            </mixed-citation>
+         </ref>
+         <ref id="CIT0052">
+            <mixed-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <given-names>O.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Casta&#xf1;os</surname>
+                  </string-name>
+                  <x xml:space="preserve"> and </x>
+                  <string-name>
+                     <given-names>R.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Lemus</surname>
+                  </string-name>
+               </person-group>
+               <x xml:space="preserve">, </x>
+               <source>Mol. Phys.</source>
+               <x xml:space="preserve"> </x>
+               <volume>108</volume>
+               <x xml:space="preserve">, </x>
+               <fpage>597</fpage>
+               <x xml:space="preserve">&#x2013;</x>
+               <lpage>610</lpage>
+               <x xml:space="preserve"> (</x>
+               <year>2010</year>
+               <x xml:space="preserve">). doi:</x>
+               <pub-id pub-id-type="doi">10.1080/00268971003630695</pub-id>
+            </mixed-citation>
+         </ref>
+         <ref id="CIT0053">
+            <mixed-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <given-names>A.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Frank</surname>
+                  </string-name>
+                  <x xml:space="preserve">, </x>
+                  <string-name>
+                     <given-names>R.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Lemus</surname>
+                  </string-name>
+                  <x xml:space="preserve">, </x>
+                  <string-name>
+                     <given-names>M.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Carvajal</surname>
+                  </string-name>
+                  <x xml:space="preserve">, </x>
+                  <string-name>
+                     <given-names>C.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Jung</surname>
+                  </string-name>
+                  <x xml:space="preserve"> and </x>
+                  <string-name>
+                     <given-names>E.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Ziemniak</surname>
+                  </string-name>
+               </person-group>
+               <x xml:space="preserve">, </x>
+               <source>Chem. Phys. Lett.</source>
+               <x xml:space="preserve"> </x>
+               <volume>308</volume>
+               <x xml:space="preserve">, </x>
+               <fpage>91</fpage>
+               <x xml:space="preserve">&#x2013;</x>
+               <lpage>98</lpage>
+               <x xml:space="preserve"> (</x>
+               <year>1999</year>
+               <x xml:space="preserve">). doi:</x>
+               <pub-id pub-id-type="doi">10.1016/S0009-2614(99)00576-X</pub-id>
+            </mixed-citation>
+         </ref>
+         <ref id="CIT0054">
+            <mixed-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <given-names>M.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Carvajal</surname>
+                  </string-name>
+                  <x xml:space="preserve">, </x>
+                  <string-name>
+                     <given-names>R.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Lemus</surname>
+                  </string-name>
+                  <x xml:space="preserve">, </x>
+                  <string-name>
+                     <given-names>A.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Frank</surname>
+                  </string-name>
+                  <x xml:space="preserve">, </x>
+                  <string-name>
+                     <given-names>C.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Jung</surname>
+                  </string-name>
+                  <x xml:space="preserve"> and </x>
+                  <string-name>
+                     <given-names>E.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Ziemniak</surname>
+                  </string-name>
+               </person-group>
+               <x xml:space="preserve">, </x>
+               <source>Chem. Phys.</source>
+               <x xml:space="preserve"> </x>
+               <volume>260</volume>
+               <x xml:space="preserve">, </x>
+               <fpage>105</fpage>
+               <x xml:space="preserve">&#x2013;</x>
+               <lpage>123</lpage>
+               <x xml:space="preserve"> (</x>
+               <year>2000</year>
+               <x xml:space="preserve">). doi:</x>
+               <pub-id pub-id-type="doi">10.1016/S0301-0104(00)00258-5</pub-id>
+            </mixed-citation>
+         </ref>
+         <ref id="CIT0055">
+            <mixed-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <given-names>R.D.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Santiago-Acosta</surname>
+                  </string-name>
+                  <x xml:space="preserve">, </x>
+                  <string-name>
+                     <given-names>J.M.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Arias</surname>
+                  </string-name>
+                  <x xml:space="preserve">, </x>
+                  <string-name>
+                     <given-names>J.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>G&#xf3;mez-Camacho</surname>
+                  </string-name>
+                  <x xml:space="preserve"> and </x>
+                  <string-name>
+                     <given-names>R.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Lemus</surname>
+                  </string-name>
+               </person-group>
+               <x xml:space="preserve">, </x>
+               <source>Mol. Phys.</source>
+               <x xml:space="preserve"> </x>
+               <volume>115</volume>
+               <x xml:space="preserve">, </x>
+               <fpage>3206</fpage>
+               <x xml:space="preserve">&#x2013;</x>
+               <lpage>3223</lpage>
+               <x xml:space="preserve"> (</x>
+               <year>2017</year>
+               <x xml:space="preserve">). doi:</x>
+               <pub-id pub-id-type="doi">10.1080/00268976.2017.1358829</pub-id>
+            </mixed-citation>
+         </ref>
+         <ref id="CIT0056">
+            <mixed-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <given-names>R.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Lemus</surname>
+                  </string-name>
+                  <x xml:space="preserve">, </x>
+                  <string-name>
+                     <given-names>M.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Carvajal</surname>
+                  </string-name>
+                  <x xml:space="preserve">, </x>
+                  <string-name>
+                     <given-names>J.C.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>L&#xf3;pez</surname>
+                  </string-name>
+                  <x xml:space="preserve"> and </x>
+                  <string-name>
+                     <given-names>A.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Frank</surname>
+                  </string-name>
+               </person-group>
+               <x xml:space="preserve">, </x>
+               <source>J. Mol. Spectrosc.</source>
+               <x xml:space="preserve"> </x>
+               <volume>214</volume>
+               <x xml:space="preserve">, </x>
+               <fpage>52</fpage>
+               <x xml:space="preserve">&#x2013;</x>
+               <lpage>68</lpage>
+               <x xml:space="preserve"> (</x>
+               <year>2002</year>
+               <x xml:space="preserve">). doi:</x>
+               <pub-id pub-id-type="doi">10.1006/jmsp.2002.8571</pub-id>
+            </mixed-citation>
+         </ref>
+         <ref id="CIT0057">
+            <mixed-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <given-names>R.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Lemus</surname>
+                  </string-name>
+               </person-group>
+               <x xml:space="preserve">, </x>
+               <source>J. Mol. Spectrosc.</source>
+               <x xml:space="preserve"> </x>
+               <volume>225</volume>
+               <x xml:space="preserve">, </x>
+               <fpage>73</fpage>
+               <x xml:space="preserve">&#x2013;</x>
+               <lpage>92</lpage>
+               <x xml:space="preserve"> (</x>
+               <year>2004</year>
+               <x xml:space="preserve">). doi:</x>
+               <pub-id pub-id-type="doi">10.1016/j.jms.2004.02.015</pub-id>
+            </mixed-citation>
+         </ref>
+         <ref id="CIT0058">
+            <mixed-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <given-names>M.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>S&#xe1;nchez-Castellanos</surname>
+                  </string-name>
+                  <x xml:space="preserve">, </x>
+                  <string-name>
+                     <given-names>C.A.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Amezcua-Eccius</surname>
+                  </string-name>
+                  <x xml:space="preserve">, </x>
+                  <string-name>
+                     <given-names>O.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>&#xc1;lvarez-Bajo</surname>
+                  </string-name>
+                  <x xml:space="preserve"> and </x>
+                  <string-name>
+                     <given-names>R.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Lemus</surname>
+                  </string-name>
+               </person-group>
+               <x xml:space="preserve">, </x>
+               <source>J. Mol. Spectrosc.</source>
+               <x xml:space="preserve"> </x>
+               <volume>247</volume>
+               <x xml:space="preserve">, </x>
+               <fpage>140</fpage>
+               <x xml:space="preserve">&#x2013;</x>
+               <lpage>159</lpage>
+               <x xml:space="preserve"> (</x>
+               <year>2008</year>
+               <x xml:space="preserve">). doi:</x>
+               <pub-id pub-id-type="doi">10.1016/j.jms.2007.11.003</pub-id>
+            </mixed-citation>
+         </ref>
+         <ref id="CIT0059">
+            <mixed-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <given-names>R.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Bernal</surname>
+                  </string-name>
+                  <x xml:space="preserve"> and </x>
+                  <string-name>
+                     <given-names>R.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Lemus</surname>
+                  </string-name>
+               </person-group>
+               <x xml:space="preserve">, </x>
+               <source>J. Mol. Spectrosc.</source>
+               <x xml:space="preserve"> </x>
+               <volume>235</volume>
+               <x xml:space="preserve">, </x>
+               <fpage>218</fpage>
+               <x xml:space="preserve">&#x2013;</x>
+               <lpage>234</lpage>
+               <x xml:space="preserve"> (</x>
+               <year>2006</year>
+               <x xml:space="preserve">). doi:</x>
+               <pub-id pub-id-type="doi">10.1016/j.jms.2005.11.008</pub-id>
+            </mixed-citation>
+         </ref>
+         <ref id="CIT0060">
+            <mixed-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <given-names>M.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>S&#xe1;nchez-Castellanos</surname>
+                  </string-name>
+                  <x xml:space="preserve"> and </x>
+                  <string-name>
+                     <given-names>R.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Lemus</surname>
+                  </string-name>
+               </person-group>
+               <x xml:space="preserve">, </x>
+               <source>J. Mol. Spectrosc.</source>
+               <x xml:space="preserve"> </x>
+               <volume>266</volume>
+               <x xml:space="preserve">, </x>
+               <fpage>1</fpage>
+               <x xml:space="preserve">&#x2013;</x>
+               <lpage>11</lpage>
+               <x xml:space="preserve"> (</x>
+               <year>2011</year>
+               <x xml:space="preserve">). doi:</x>
+               <pub-id pub-id-type="doi">10.1016/j.jms.2011.01.005</pub-id>
+            </mixed-citation>
+         </ref>
+         <ref id="CIT0061">
+            <mixed-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <given-names>F.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Iachello</surname>
+                  </string-name>
+                  <x xml:space="preserve"> and </x>
+                  <string-name>
+                     <given-names>S.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Oss</surname>
+                  </string-name>
+               </person-group>
+               <x xml:space="preserve">, </x>
+               <source>Phys. Rev. Lett.</source>
+               <x xml:space="preserve"> </x>
+               <volume>66</volume>
+               <x xml:space="preserve">, </x>
+               <fpage>2976</fpage>
+               <x xml:space="preserve">&#x2013;</x>
+               <lpage>2979</lpage>
+               <x xml:space="preserve"> (</x>
+               <year>1991</year>
+               <x xml:space="preserve">). doi:</x>
+               <pub-id pub-id-type="doi">10.1103/PhysRevLett.66.2976</pub-id>
+            </mixed-citation>
+         </ref>
+         <ref id="CIT0062">
+            <mixed-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <given-names>A.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Frank</surname>
+                  </string-name>
+                  <x xml:space="preserve"> and </x>
+                  <string-name>
+                     <given-names>R.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Lemus</surname>
+                  </string-name>
+               </person-group>
+               <x xml:space="preserve">, </x>
+               <source>Phys. Rev. Lett.</source>
+               <x xml:space="preserve"> </x>
+               <volume>68</volume>
+               <x xml:space="preserve">, </x>
+               <fpage>413</fpage>
+               <x xml:space="preserve">&#x2013;</x>
+               <lpage>413</lpage>
+               <x xml:space="preserve"> (</x>
+               <year>1992</year>
+               <x xml:space="preserve">). doi:</x>
+               <pub-id pub-id-type="doi">10.1103/PhysRevLett.68.413</pub-id>
+            </mixed-citation>
+         </ref>
+         <ref id="CIT0063">
+            <mixed-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <given-names>J.Q.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Chen</surname>
+                  </string-name>
+                  <x xml:space="preserve">, </x>
+                  <string-name>
+                     <given-names>F.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Iachello</surname>
+                  </string-name>
+                  <x xml:space="preserve"> and </x>
+                  <string-name>
+                     <given-names>J.L.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Ping</surname>
+                  </string-name>
+               </person-group>
+               <x xml:space="preserve">, </x>
+               <source>J. Chem. Phys.</source>
+               <x xml:space="preserve"> </x>
+               <volume>104</volume>
+               <x xml:space="preserve">, </x>
+               <fpage>815</fpage>
+               <x xml:space="preserve">&#x2013;</x>
+               <lpage>825</lpage>
+               <x xml:space="preserve"> (</x>
+               <year>1996</year>
+               <x xml:space="preserve">). doi:</x>
+               <pub-id pub-id-type="doi">10.1063/1.470807</pub-id>
+            </mixed-citation>
+         </ref>
+         <ref id="CIT0064">
+            <mixed-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <given-names>F.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Iachello</surname>
+                  </string-name>
+                  <x xml:space="preserve"> and </x>
+                  <string-name>
+                     <given-names>S.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Oss</surname>
+                  </string-name>
+               </person-group>
+               <x xml:space="preserve">, </x>
+               <source>Chem. Phys. Lett.</source>
+               <x xml:space="preserve"> </x>
+               <volume>20</volume>
+               <x xml:space="preserve">, </x>
+               <fpage>500</fpage>
+               <x xml:space="preserve">&#x2013;</x>
+               <lpage>505</lpage>
+               <x xml:space="preserve"> (</x>
+               <year>1991</year>
+               <x xml:space="preserve">). doi:</x>
+               <pub-id pub-id-type="doi">10.1016/0009-2614(91)80290-E</pub-id>
+            </mixed-citation>
+         </ref>
+         <ref id="CIT0065">
+            <mixed-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <given-names>F.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Iachello</surname>
+                  </string-name>
+                  <x xml:space="preserve"> and </x>
+                  <string-name>
+                     <given-names>S.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Oss</surname>
+                  </string-name>
+               </person-group>
+               <x xml:space="preserve">, </x>
+               <source>J. Chem. Phys.</source>
+               <x xml:space="preserve"> </x>
+               <volume>99</volume>
+               <x xml:space="preserve">, </x>
+               <fpage>7337</fpage>
+               <x xml:space="preserve">&#x2013;</x>
+               <lpage>7349</lpage>
+               <x xml:space="preserve"> (</x>
+               <year>1993</year>
+               <x xml:space="preserve">). doi:</x>
+               <pub-id pub-id-type="doi">10.1063/1.465715</pub-id>
+            </mixed-citation>
+         </ref>
+         <ref id="CIT0066">
+            <mixed-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <given-names>T.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Sako</surname>
+                  </string-name>
+                  <x xml:space="preserve">, </x>
+                  <string-name>
+                     <given-names>K.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Yamanouchi</surname>
+                  </string-name>
+                  <x xml:space="preserve"> and </x>
+                  <string-name>
+                     <given-names>F.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Iachello</surname>
+                  </string-name>
+               </person-group>
+               <x xml:space="preserve">, </x>
+               <source>J. Phys. Chem.</source>
+               <x xml:space="preserve"> </x>
+               <volume>113</volume>
+               <x xml:space="preserve">, </x>
+               <fpage>7292</fpage>
+               <x xml:space="preserve">&#x2013;</x>
+               <lpage>7305</lpage>
+               <x xml:space="preserve"> (</x>
+               <year>2000</year>
+               <x xml:space="preserve">). doi:</x>
+               <pub-id pub-id-type="doi">10.1063/1.1312285</pub-id>
+            </mixed-citation>
+         </ref>
+         <ref id="CIT0067">
+            <mixed-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <given-names>T.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Sako</surname>
+                  </string-name>
+                  <x xml:space="preserve">, </x>
+                  <string-name>
+                     <given-names>K.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Yamanouchi</surname>
+                  </string-name>
+                  <x xml:space="preserve"> and </x>
+                  <string-name>
+                     <given-names>F.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Iachello</surname>
+                  </string-name>
+               </person-group>
+               <x xml:space="preserve">, </x>
+               <source>J. Phys. Chem.</source>
+               <x xml:space="preserve"> </x>
+               <volume>117</volume>
+               <x xml:space="preserve">, </x>
+               <fpage>1641</fpage>
+               <x xml:space="preserve">&#x2013;</x>
+               <lpage>1648</lpage>
+               <x xml:space="preserve"> (</x>
+               <year>2002</year>
+               <x xml:space="preserve">). doi:</x>
+               <pub-id pub-id-type="doi">10.1063/1.1482699</pub-id>
+            </mixed-citation>
+         </ref>
+         <ref id="CIT0068">
+            <mixed-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <given-names>T.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Sako</surname>
+                  </string-name>
+                  <x xml:space="preserve">, </x>
+                  <string-name>
+                     <given-names>K.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Yamanouchi</surname>
+                  </string-name>
+                  <x xml:space="preserve"> and </x>
+                  <string-name>
+                     <given-names>F.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Iachello</surname>
+                  </string-name>
+               </person-group>
+               <x xml:space="preserve">, </x>
+               <source>J. Chem. Phys.</source>
+               <x xml:space="preserve"> </x>
+               <volume>114</volume>
+               <x xml:space="preserve">, </x>
+               <fpage>9441</fpage>
+               <x xml:space="preserve">&#x2013;</x>
+               <lpage>9452</lpage>
+               <x xml:space="preserve"> (</x>
+               <year>2001</year>
+               <x xml:space="preserve">). doi:</x>
+               <pub-id pub-id-type="doi">10.1063/1.1368132</pub-id>
+            </mixed-citation>
+         </ref>
+         <ref id="CIT0069">
+            <mixed-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <given-names>S.R.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Karumuri</surname>
+                  </string-name>
+                  <x xml:space="preserve">, </x>
+                  <string-name>
+                     <given-names>N.K.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Sarkar</surname>
+                  </string-name>
+                  <x xml:space="preserve">, </x>
+                  <string-name>
+                     <given-names>J.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Choudhury</surname>
+                  </string-name>
+                  <x xml:space="preserve"> and </x>
+                  <string-name>
+                     <given-names>R.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Bhattacharjee</surname>
+                  </string-name>
+               </person-group>
+               <x xml:space="preserve">, </x>
+               <source>Indian J. Phys.</source>
+               <x xml:space="preserve"> </x>
+               <volume>84</volume>
+               <x xml:space="preserve"> (</x>
+               <issue>6</issue>
+               <x xml:space="preserve">), </x>
+               <fpage>647</fpage>
+               <x xml:space="preserve">&#x2013;</x>
+               <lpage>652</lpage>
+               <x xml:space="preserve"> (</x>
+               <year>2010</year>
+               <x xml:space="preserve">). doi:</x>
+               <pub-id pub-id-type="doi">10.1007/s12648-010-0065-4</pub-id>
+            </mixed-citation>
+         </ref>
+         <ref id="CIT0070">
+            <mixed-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <given-names>S.R.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Karumuri</surname>
+                  </string-name>
+                  <x xml:space="preserve"> and </x>
+                  <string-name>
+                     <given-names>K.G.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Sravani</surname>
+                  </string-name>
+               </person-group>
+               <x xml:space="preserve">, </x>
+               <source>Mol. Phys.</source>
+               <x xml:space="preserve"> </x>
+               <volume>114</volume>
+               <x xml:space="preserve"> (</x>
+               <issue>5</issue>
+               <x xml:space="preserve">), </x>
+               <fpage>643</fpage>
+               <x xml:space="preserve">&#x2013;</x>
+               <lpage>649</lpage>
+               <x xml:space="preserve"> (</x>
+               <year>2016</year>
+               <x xml:space="preserve">). doi:</x>
+               <pub-id pub-id-type="doi">10.1080/00268976.2015.1110628</pub-id>
+            </mixed-citation>
+         </ref>
+         <ref id="CIT0071">
+            <mixed-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <given-names>S.R.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Karumuri</surname>
+                  </string-name>
+               </person-group>
+               <x xml:space="preserve">, </x>
+               <source>J. Mol. Spectrosc.</source>
+               <x xml:space="preserve"> </x>
+               <volume>259</volume>
+               <x xml:space="preserve"> (</x>
+               <issue>2</issue>
+               <x xml:space="preserve">), </x>
+               <fpage>86</fpage>
+               <x xml:space="preserve">&#x2013;</x>
+               <lpage>92</lpage>
+               <x xml:space="preserve"> (</x>
+               <year>2010</year>
+               <x xml:space="preserve">). doi:</x>
+               <pub-id pub-id-type="doi">10.1016/j.jms.2009.11.005</pub-id>
+            </mixed-citation>
+         </ref>
+         <ref id="CIT0072">
+            <mixed-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <given-names>S.R.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Karumuri</surname>
+                  </string-name>
+               </person-group>
+               <x xml:space="preserve">, </x>
+               <source>Chin. Phys. Lett.</source>
+               <x xml:space="preserve"> </x>
+               <volume>27</volume>
+               <x xml:space="preserve"> (</x>
+               <issue>10</issue>
+               <x xml:space="preserve">), </x>
+               <elocation-id content-type="artnum">103301</elocation-id>
+               <x xml:space="preserve"> (</x>
+               <year>2010</year>
+               <x xml:space="preserve">). doi:</x>
+               <pub-id pub-id-type="doi">10.1088/0256-307X/27/10/103301</pub-id>
+            </mixed-citation>
+         </ref>
+         <ref id="CIT0073">
+            <mixed-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <given-names>S.R.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Karumuri</surname>
+                  </string-name>
+               </person-group>
+               <x xml:space="preserve">, </x>
+               <source>Indian J. Phys.</source>
+               <x xml:space="preserve"> </x>
+               <volume>86</volume>
+               <x xml:space="preserve"> (</x>
+               <issue>12</issue>
+               <x xml:space="preserve">), </x>
+               <fpage>1147</fpage>
+               <x xml:space="preserve">&#x2013;</x>
+               <lpage>1153</lpage>
+               <x xml:space="preserve"> (</x>
+               <year>2012</year>
+               <x xml:space="preserve">). doi:</x>
+               <pub-id pub-id-type="doi">10.1007/s12648-012-0174-3</pub-id>
+            </mixed-citation>
+         </ref>
+         <ref id="CIT0074">
+            <mixed-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <given-names>S.R.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Karumuri</surname>
+                  </string-name>
+                  <x xml:space="preserve">, </x>
+                  <string-name>
+                     <given-names>J.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Vijayasekhar</surname>
+                  </string-name>
+                  <x xml:space="preserve">, </x>
+                  <string-name>
+                     <given-names>V.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Sreeram</surname>
+                  </string-name>
+                  <x xml:space="preserve">, </x>
+                  <string-name>
+                     <given-names>V.U.M.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Rao</surname>
+                  </string-name>
+                  <x xml:space="preserve"> and </x>
+                  <string-name>
+                     <given-names>M.V.B.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Rao</surname>
+                  </string-name>
+               </person-group>
+               <x xml:space="preserve">, </x>
+               <source>J. Mol. Spectrosc.</source>
+               <x xml:space="preserve"> </x>
+               <volume>269</volume>
+               <x xml:space="preserve">, </x>
+               <fpage>119</fpage>
+               <x xml:space="preserve">&#x2013;</x>
+               <lpage>123</lpage>
+               <x xml:space="preserve"> (</x>
+               <year>2011</year>
+               <x xml:space="preserve">). doi:</x>
+               <pub-id pub-id-type="doi">10.1016/j.jms.2011.04.018</pub-id>
+            </mixed-citation>
+         </ref>
+         <ref id="CIT0075">
+            <mixed-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <given-names>S.R.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Karumuri</surname>
+                  </string-name>
+                  <x xml:space="preserve">, </x>
+                  <string-name>
+                     <given-names>J.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Vijayasekhar</surname>
+                  </string-name>
+                  <x xml:space="preserve"> and </x>
+                  <string-name>
+                     <given-names>V.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Sreeram</surname>
+                  </string-name>
+               </person-group>
+               <x xml:space="preserve">, </x>
+               <source>Int. J. Spectrosc.</source>
+               <x xml:space="preserve"> </x>
+               <volume>2011</volume>
+               <x xml:space="preserve">, Article ID: </x>
+               <elocation-id content-type="artnum">452626</elocation-id>
+               <x xml:space="preserve"> (</x>
+               <year>2011</year>
+               <x xml:space="preserve">). doi:</x>
+               <pub-id pub-id-type="doi">10.1155/2011/452626</pub-id>
+            </mixed-citation>
+         </ref>
+         <ref id="CIT0076">
+            <mixed-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <given-names>M.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Sanchez-Castellanos</surname>
+                  </string-name>
+                  <x xml:space="preserve">, </x>
+                  <string-name>
+                     <given-names>R.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Lemus</surname>
+                  </string-name>
+                  <x xml:space="preserve">, </x>
+                  <string-name>
+                     <given-names>M.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Carvajal</surname>
+                  </string-name>
+                  <x xml:space="preserve"> and </x>
+                  <string-name>
+                     <given-names>F.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>P&#xe9;rez-Bernal</surname>
+                  </string-name>
+               </person-group>
+               <x xml:space="preserve">, </x>
+               <source>Int. J. Quant. Chem.</source>
+               <x xml:space="preserve"> </x>
+               <volume>112</volume>
+               <x xml:space="preserve">, </x>
+               <fpage>3498</fpage>
+               <x xml:space="preserve">&#x2013;</x>
+               <lpage>3507</lpage>
+               <x xml:space="preserve"> (</x>
+               <year>2012</year>
+               <x xml:space="preserve">). doi:</x>
+               <pub-id pub-id-type="doi">10.1002/qua.24141</pub-id>
+            </mixed-citation>
+         </ref>
+         <ref id="CIT0077">
+            <mixed-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <given-names>M.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Carvajal</surname>
+                  </string-name>
+                  <x xml:space="preserve"> and </x>
+                  <string-name>
+                     <given-names>R.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Lemus</surname>
+                  </string-name>
+               </person-group>
+               <x xml:space="preserve">, </x>
+               <source>J. Phys. Chem. A</source>
+               <x xml:space="preserve"> </x>
+               <volume>119</volume>
+               <x xml:space="preserve">, </x>
+               <fpage>12823</fpage>
+               <x xml:space="preserve">&#x2013;</x>
+               <lpage>12838</lpage>
+               <x xml:space="preserve"> (</x>
+               <year>2015</year>
+               <x xml:space="preserve">). doi:</x>
+               <pub-id pub-id-type="doi">10.1021/acs.jpca.5b09232</pub-id>
+            </mixed-citation>
+         </ref>
+         <ref id="CIT0078">
+            <mixed-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <given-names>M.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>S&#xe1;nchez</surname>
+                  </string-name>
+                  <x xml:space="preserve">, </x>
+                  <string-name>
+                     <given-names>R.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Lemus</surname>
+                  </string-name>
+                  <x xml:space="preserve">, </x>
+                  <string-name>
+                     <given-names>M.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Carvajal</surname>
+                  </string-name>
+                  <x xml:space="preserve"> and </x>
+                  <string-name>
+                     <given-names>F.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>P&#xe9;rez-Bernal</surname>
+                  </string-name>
+               </person-group>
+               <x xml:space="preserve">, </x>
+               <source>J. Mol. Spectrosc.</source>
+               <x xml:space="preserve"> </x>
+               <volume>253</volume>
+               <x xml:space="preserve">, </x>
+               <fpage>1</fpage>
+               <x xml:space="preserve">&#x2013;</x>
+               <lpage>15</lpage>
+               <x xml:space="preserve"> (</x>
+               <year>2009</year>
+               <x xml:space="preserve">). doi:</x>
+               <pub-id pub-id-type="doi">10.1016/j.jms.2008.10.001</pub-id>
+            </mixed-citation>
+         </ref>
+         <ref id="CIT0079">
+            <mixed-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <given-names>C.A.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Amezcua-Eccius</surname>
+                  </string-name>
+                  <x xml:space="preserve"> and </x>
+                  <string-name>
+                     <given-names>R.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Lemus</surname>
+                  </string-name>
+               </person-group>
+               <x xml:space="preserve">, </x>
+               <source>J. Mol. Spectrosc.</source>
+               <x xml:space="preserve"> </x>
+               <volume>260</volume>
+               <x xml:space="preserve">, </x>
+               <fpage>36</fpage>
+               <x xml:space="preserve">&#x2013;</x>
+               <lpage>49</lpage>
+               <x xml:space="preserve"> (</x>
+               <year>2010</year>
+               <x xml:space="preserve">). doi:</x>
+               <pub-id pub-id-type="doi">10.1016/j.jms.2009.12.007</pub-id>
+            </mixed-citation>
+         </ref>
+         <ref id="CIT0080">
+            <mixed-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <given-names>M.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>S&#xe1;nchez-Castellanos</surname>
+                  </string-name>
+                  <x xml:space="preserve"> and </x>
+                  <string-name>
+                     <given-names>R.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Lemus</surname>
+                  </string-name>
+               </person-group>
+               <x xml:space="preserve">, </x>
+               <source>J. Mol. Spectrosc.</source>
+               <x xml:space="preserve"> </x>
+               <volume>266</volume>
+               <x xml:space="preserve">, </x>
+               <fpage>1</fpage>
+               <x xml:space="preserve">&#x2013;</x>
+               <lpage>11</lpage>
+               <x xml:space="preserve"> (</x>
+               <year>2011</year>
+               <x xml:space="preserve">). doi:</x>
+               <pub-id pub-id-type="doi">10.1016/j.jms.2011.01.005</pub-id>
+            </mixed-citation>
+         </ref>
+         <ref id="CIT0081">
+            <mixed-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <given-names>R.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Lemus</surname>
+                  </string-name>
+                  <x xml:space="preserve"> and </x>
+                  <string-name>
+                     <given-names>M.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>S&#xe1;nchez-Castellanos</surname>
+                  </string-name>
+               </person-group>
+               <x xml:space="preserve">, </x>
+               <source>Mol. Phys.</source>
+               <x xml:space="preserve"> </x>
+               <volume>109</volume>
+               <x xml:space="preserve">, </x>
+               <fpage>2009</fpage>
+               <x xml:space="preserve">&#x2013;</x>
+               <lpage>2023</lpage>
+               <x xml:space="preserve"> (</x>
+               <year>2011</year>
+               <x xml:space="preserve">). doi:</x>
+               <pub-id pub-id-type="doi">10.1080/00268976.2011.604645</pub-id>
+            </mixed-citation>
+         </ref>
+         <ref id="CIT0082">
+            <mixed-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <given-names>M.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Rao Balla</surname>
+                  </string-name>
+                  <x xml:space="preserve"> and </x>
+                  <string-name>
+                     <given-names>V.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Jaliparthi</surname>
+                  </string-name>
+               </person-group>
+               <x xml:space="preserve">, </x>
+               <source>Mol. Phys.</source>
+               <x xml:space="preserve"> </x>
+               <volume>119</volume>
+               <x xml:space="preserve">, </x>
+               <fpage>e1828634</fpage>
+               <x xml:space="preserve"> (</x>
+               <year>2021</year>
+               <x xml:space="preserve">). doi:</x>
+               <pub-id pub-id-type="doi">10.1080/00268976.2020.1828634</pub-id>
+            </mixed-citation>
+         </ref>
+         <ref id="CIT0083">
+            <mixed-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <given-names>A.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Frank</surname>
+                  </string-name>
+                  <x xml:space="preserve">, </x>
+                  <string-name>
+                     <given-names>R.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Lemus</surname>
+                  </string-name>
+                  <x xml:space="preserve">, </x>
+                  <string-name>
+                     <given-names>R.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Bijker</surname>
+                  </string-name>
+                  <x xml:space="preserve">, </x>
+                  <string-name>
+                     <given-names>F.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>P&#xe9;rez-Bernal</surname>
+                  </string-name>
+                  <x xml:space="preserve"> and </x>
+                  <string-name>
+                     <given-names>J.M.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Arias</surname>
+                  </string-name>
+               </person-group>
+               <x xml:space="preserve">, </x>
+               <source>Ann. Phys.</source>
+               <x xml:space="preserve"> </x>
+               <volume>252</volume>
+               <x xml:space="preserve">, </x>
+               <fpage>211</fpage>
+               <x xml:space="preserve">&#x2013;</x>
+               <lpage>238</lpage>
+               <x xml:space="preserve"> (</x>
+               <year>1996</year>
+               <x xml:space="preserve">). doi:</x>
+               <pub-id pub-id-type="doi">10.1006/aphy.1996.0129</pub-id>
+               <x xml:space="preserve">F.P&#xe9;rez-Bernal</x>
+            </mixed-citation>
+         </ref>
+         <ref id="CIT0084">
+            <mixed-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <given-names>R.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Bijker</surname>
+                  </string-name>
+                  <x xml:space="preserve">, </x>
+                  <string-name>
+                     <given-names>A.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Frank</surname>
+                  </string-name>
+                  <x xml:space="preserve">, </x>
+                  <string-name>
+                     <given-names>R.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Lemus</surname>
+                  </string-name>
+                  <x xml:space="preserve"> and </x>
+                  <string-name>
+                     <given-names>J.M.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Arias</surname>
+                  </string-name>
+               </person-group>
+               <x xml:space="preserve">, </x>
+               <source>Chem. Phys. Lett.</source>
+               <x xml:space="preserve"> </x>
+               <volume>258</volume>
+               <x xml:space="preserve">, </x>
+               <fpage>301</fpage>
+               <x xml:space="preserve">&#x2013;</x>
+               <lpage>306</lpage>
+               <x xml:space="preserve"> (</x>
+               <year>1996</year>
+               <x xml:space="preserve">). doi:</x>
+               <pub-id pub-id-type="doi">10.1016/0009-2614(96)00612-4</pub-id>
+            </mixed-citation>
+         </ref>
+         <ref id="CIT0085">
+            <mixed-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <given-names>R.J.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Myers. X.DW. D. Gwinn</surname>
+                  </string-name>
+               </person-group>
+               <x xml:space="preserve">, </x>
+               <source>J. Chem. Phys.</source>
+               <x xml:space="preserve"> </x>
+               <volume>20</volume>
+               <x xml:space="preserve">, </x>
+               <fpage>1420</fpage>
+               <x xml:space="preserve">&#x2013;</x>
+               <lpage>1427</lpage>
+               <x xml:space="preserve"> (</x>
+               <year>1953</year>
+               <x xml:space="preserve">). doi:</x>
+               <pub-id pub-id-type="doi">10.1063/1.1700773</pub-id>
+            </mixed-citation>
+         </ref>
+         <ref id="CIT0086">
+            <mixed-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <given-names>T.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Shimanouchi</surname>
+                  </string-name>
+                  <x xml:space="preserve"> and </x>
+                  <string-name>
+                     <given-names>I.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Suzuki</surname>
+                  </string-name>
+               </person-group>
+               <x xml:space="preserve">, </x>
+               <source>J. Mol. Spectrosc.</source>
+               <x xml:space="preserve"> </x>
+               <volume>8</volume>
+               <x xml:space="preserve">, </x>
+               <fpage>222</fpage>
+               <x xml:space="preserve">&#x2013;</x>
+               <lpage>235</lpage>
+               <x xml:space="preserve"> (</x>
+               <year>1962</year>
+               <x xml:space="preserve">). doi:</x>
+               <pub-id pub-id-type="doi">10.1016/0022-2852(62)90023-1</pub-id>
+            </mixed-citation>
+         </ref>
+         <ref id="CIT0087">
+            <mixed-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <given-names>L.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Halonen</surname>
+                  </string-name>
+                  <x xml:space="preserve"> and </x>
+                  <string-name>
+                     <given-names>T.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Carrington Jr.</surname>
+                  </string-name>
+               </person-group>
+               <x xml:space="preserve">, </x>
+               <source>J. Chem. Phys.</source>
+               <x xml:space="preserve"> </x>
+               <volume>88</volume>
+               <x xml:space="preserve">, </x>
+               <fpage>4171</fpage>
+               <x xml:space="preserve">&#x2013;</x>
+               <lpage>4185</lpage>
+               <x xml:space="preserve"> (</x>
+               <year>1988</year>
+               <x xml:space="preserve">). doi:</x>
+               <pub-id pub-id-type="doi">10.1063/1.453824</pub-id>
+            </mixed-citation>
+         </ref>
+         <ref id="CIT0088">
+            <mixed-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <given-names>H.M.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Pickett</surname>
+                  </string-name>
+               </person-group>
+               <x xml:space="preserve">, </x>
+               <source>J. Chem. Phys.</source>
+               <x xml:space="preserve"> </x>
+               <volume>56</volume>
+               <x xml:space="preserve">, </x>
+               <fpage>1715</fpage>
+               <x xml:space="preserve">&#x2013;</x>
+               <lpage>1723</lpage>
+               <x xml:space="preserve"> (</x>
+               <year>1972</year>
+               <x xml:space="preserve">). doi:</x>
+               <pub-id pub-id-type="doi">10.1063/1.1677430</pub-id>
+            </mixed-citation>
+         </ref>
+         <ref id="CIT0089">
+            <mixed-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <given-names>R.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Meyer</surname>
+                  </string-name>
+                  <x xml:space="preserve"> and </x>
+                  <string-name>
+                     <given-names>H.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Gu&#xfc;nthard</surname>
+                  </string-name>
+               </person-group>
+               <x xml:space="preserve">, </x>
+               <source>J. Chem. Phys.</source>
+               <x xml:space="preserve"> </x>
+               <volume>49</volume>
+               <x xml:space="preserve">, </x>
+               <fpage>1510</fpage>
+               <x xml:space="preserve">&#x2013;</x>
+               <lpage>1520</lpage>
+               <x xml:space="preserve"> (</x>
+               <year>1968</year>
+               <x xml:space="preserve">). doi:</x>
+               <pub-id pub-id-type="doi">10.1063/1.1670272</pub-id>
+            </mixed-citation>
+         </ref>
+         <ref id="CIT0090">
+            <mixed-citation publication-type="thesis">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <given-names>L.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Walters</surname>
+                  </string-name>
+               </person-group>
+               <x xml:space="preserve">, Ph.D. Thesis, </x>
+               <publisher-name>University of Rijks</publisher-name>
+               <x xml:space="preserve">, </x>
+               <year>1989</year>
+               <x xml:space="preserve">.</x>
+            </mixed-citation>
+         </ref>
+         <ref id="CIT0091">
+            <mixed-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <given-names>P.J.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Brussaard</surname>
+                  </string-name>
+                  <x xml:space="preserve"> and </x>
+                  <string-name>
+                     <given-names>P.W.M.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Glandemans</surname>
+                  </string-name>
+               </person-group>
+               <x xml:space="preserve">, </x>
+               <source>
+                  <italic>Shell-Model Applications in Nuclear Spectrospcopy</italic>
+               </source>
+               <x xml:space="preserve"> (</x>
+               <publisher-name>North-Holland</publisher-name>
+               <x xml:space="preserve">, </x>
+               <publisher-loc>Amsterdam</publisher-loc>
+               <x xml:space="preserve">: </x>
+               <year>1977</year>
+               <x xml:space="preserve">).</x>
+            </mixed-citation>
+         </ref>
+         <ref id="CIT0092">
+            <mixed-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <given-names>L.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Halonen</surname>
+                  </string-name>
+               </person-group>
+               <x xml:space="preserve">, </x>
+               <source>J. Chem. Phys.</source>
+               <x xml:space="preserve"> </x>
+               <volume>88</volume>
+               <x xml:space="preserve">, </x>
+               <fpage>7599</fpage>
+               <x xml:space="preserve">&#x2013;</x>
+               <lpage>7602</lpage>
+               <x xml:space="preserve"> (</x>
+               <year>1988</year>
+               <x xml:space="preserve">). doi:</x>
+               <pub-id pub-id-type="doi">10.1063/1.454324</pub-id>
+            </mixed-citation>
+         </ref>
+         <ref id="CIT0093">
+            <mixed-citation publication-type="other">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <given-names>L.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Halonen</surname>
+                  </string-name>
+               </person-group>
+               <x xml:space="preserve">, in </x>
+               <italic>Computational Molecular Spectroscopy</italic>
+               <x xml:space="preserve">, edited by P. Jensen and P. Bunker (John Wiley and Sons, Chichester, 2000),&#xa0;pp. 325&#x2013;364.</x>
+            </mixed-citation>
+         </ref>
+         <ref id="CIT0094">
+            <mixed-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <string-name>
+                     <given-names>Q.-H.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Liua</surname>
+                  </string-name>
+                  <x xml:space="preserve">, </x>
+                  <string-name>
+                     <given-names>X.-N.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Lia</surname>
+                  </string-name>
+                  <x xml:space="preserve">, </x>
+                  <string-name>
+                     <given-names>L.-Y.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Haoa</surname>
+                  </string-name>
+                  <x xml:space="preserve">, </x>
+                  <string-name>
+                     <given-names>C.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Tana</surname>
+                  </string-name>
+                  <x xml:space="preserve">, </x>
+                  <string-name>
+                     <given-names>Y.-G.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Zhoub</surname>
+                  </string-name>
+                  <x xml:space="preserve">, </x>
+                  <string-name>
+                     <given-names>P.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Chena</surname>
+                  </string-name>
+                  <x xml:space="preserve"> and </x>
+                  <string-name>
+                     <given-names>H.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Zhuc</surname>
+                  </string-name>
+               </person-group>
+               <x xml:space="preserve">, </x>
+               <source>Chin. J. Chem. Phys.</source>
+               <x xml:space="preserve"> </x>
+               <volume>19</volume>
+               <x xml:space="preserve">, </x>
+               <fpage>15</fpage>
+               <x xml:space="preserve">&#x2013;</x>
+               <lpage>19</lpage>
+               <x xml:space="preserve"> (</x>
+               <year>2006</year>
+               <x xml:space="preserve">). doi:</x>
+               <pub-id pub-id-type="doi">10.1360/cjcp2006.19(1).15.5</pub-id>
+            </mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

@@ -1,0 +1,76 @@
+<record>
+      <header>
+        <identifier>oai:zenodo.org:7757685</identifier>
+        <datestamp>2023-07-06T23:58:10Z</datestamp>
+        <setSpec>software</setSpec>
+        <setSpec>user-aas</setSpec>
+        <setSpec>user-astronomy-general</setSpec>
+      </header>
+      <metadata>
+        <resource xmlns="http://datacite.org/schema/kernel-4" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4.1/metadata.xsd">
+          <identifier identifierType="DOI">10.5281/zenodo.7757685</identifier>
+          <creators>
+            <creator>
+              <creatorName>Oliver Newton</creatorName>
+              <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="http://orcid.org/">0000-0002-2769-9507</nameIdentifier>
+              <affiliation>Center for Theoretical Physics, Polish Academy of Sciences</affiliation>
+            </creator>
+          </creators>
+          <titles>
+            <title>HESTIA Local Group field UDG paper scripts &amp; reduced data</title>
+          </titles>
+          <publisher>Zenodo</publisher>
+          <publicationYear>2023</publicationYear>
+          <subjects>
+            <subject>Ultra-diffuse galaxies</subject>
+            <subject>Milky Way</subject>
+            <subject>Andromeda</subject>
+            <subject>Local Group</subject>
+            <subject>HESTIA</subject>
+            <subject>Python</subject>
+          </subjects>
+          <dates>
+            <date dateType="Issued">2023-03-21</date>
+          </dates>
+          <language>en</language>
+          <resourceType resourceTypeGeneral="Software"/>
+          <relatedIdentifiers>
+            <relatedIdentifier relatedIdentifierType="URL" relationType="IsSupplementTo">https://github.com/Musical-Neutron/lg_field_udgs/tree/v1.1</relatedIdentifier>
+            <relatedIdentifier relatedIdentifierType="DOI" relationType="IsSupplementTo" resourceTypeGeneral="Preprint">10.48550/arXiv.2212.05066</relatedIdentifier>
+            <relatedIdentifier relatedIdentifierType="DOI" relationType="IsSupplementTo" resourceTypeGeneral="JournalArticle">10.3847/2041-8213/acc2bb</relatedIdentifier>
+            <relatedIdentifier relatedIdentifierType="DOI" relationType="Cites" resourceTypeGeneral="JournalArticle">10.1093/mnras/staa375</relatedIdentifier>
+            <relatedIdentifier relatedIdentifierType="DOI" relationType="Cites" resourceTypeGeneral="JournalArticle">10.1088/0004-6256/144/1/4</relatedIdentifier>
+            <relatedIdentifier relatedIdentifierType="DOI" relationType="Cites" resourceTypeGeneral="JournalArticle">10.3847/1538-4357/ac91cb</relatedIdentifier>
+            <relatedIdentifier relatedIdentifierType="DOI" relationType="Cites" resourceTypeGeneral="JournalArticle">10.1086/589911</relatedIdentifier>
+            <relatedIdentifier relatedIdentifierType="DOI" relationType="IsVersionOf">10.5281/zenodo.7729995</relatedIdentifier>
+            <relatedIdentifier relatedIdentifierType="URL" relationType="IsPartOf">https://zenodo.org/communities/aas</relatedIdentifier>
+            <relatedIdentifier relatedIdentifierType="URL" relationType="IsPartOf">https://zenodo.org/communities/astronomy-general</relatedIdentifier>
+          </relatedIdentifiers>
+          <version>v1.1</version>
+          <rightsList>
+            <rights rightsURI="https://opensource.org/licenses/AGPL-3.0">GNU Affero General Public License v3.0</rights>
+            <rights rightsURI="info:eu-repo/semantics/openAccess">Open Access</rights>
+          </rightsList>
+          <descriptions>
+            <description descriptionType="Abstract">&lt;p&gt;The final release of the supporting data and scripts to reproduce the figures in &lt;a href="https://doi.org/10.3847/2041-8213/acc2bb"&gt;O. Newton et al. (2023)&lt;/a&gt;. This &lt;em&gt;Letter&lt;/em&gt; appears in The Astrophysical Journal Letters.&lt;/p&gt;
+
+&lt;p&gt;A full description of the files and data contained in this repository is provided in the README file.&lt;/p&gt;
+
+&lt;p&gt;What&amp;#39;s Changed&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;Bump contourpy from 1.0.6 to 1.0.7 by @dependabot in &lt;a href="https://github.com/Musical-Neutron/lg_field_udgs/pull/16"&gt;https://github.com/Musical-Neutron/lg_field_udgs/pull/16&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;Bump h5py from 3.7.0 to 3.8.0 by @dependabot in &lt;a href="https://github.com/Musical-Neutron/lg_field_udgs/pull/17"&gt;https://github.com/Musical-Neutron/lg_field_udgs/pull/17&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;Bump fonttools from 4.38.0 to 4.39.2 by @dependabot in &lt;a href="https://github.com/Musical-Neutron/lg_field_udgs/pull/18"&gt;https://github.com/Musical-Neutron/lg_field_udgs/pull/18&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;Fixing matplotlib warnings raised when running fig_04_plot_luminosity_functions.py and fig_05_plot_mock_sdss_observations.py&lt;/li&gt;
+	&lt;li&gt;Adding ApJL DOIs to README&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Full Changelog&lt;/strong&gt;: &lt;a href="https://github.com/Musical-Neutron/lg_field_udgs/compare/v1.0...v1.1"&gt;https://github.com/Musical-Neutron/lg_field_udgs/compare/v1.0...v1.1&lt;/a&gt;&lt;/p&gt;</description>
+            <description descriptionType="Other">Additional funding acknowledgements
+Project IDEX-LYON (ANR-16-IDEX-0005)
+Polish National Science Centre (2020/39/B/ST9/03494)</description>
+          </descriptions>
+        </resource>
+      </metadata>
+    </record>

@@ -1,0 +1,888 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doi_records>
+  <doi_record owner="10.1093" timestamp="2022-10-10 16:18:53">
+    <crossref>
+      <journal>
+        <journal_metadata language="en">
+          <full_title>Publications of the Astronomical Society of Japan</full_title>
+          <issn media_type="print">0004-6264</issn>
+          <issn media_type="electronic">2053-051X</issn>
+        </journal_metadata>
+        <journal_issue>
+          <publication_date media_type="other">
+            <month>10</month>
+            <year>2022</year>
+          </publication_date>
+          <publication_date media_type="print">
+            <month>10</month>
+            <day>03</day>
+            <year>2022</year>
+          </publication_date>
+          <publication_date media_type="online">
+            <month>07</month>
+            <day>19</day>
+            <year>2022</year>
+          </publication_date>
+          <journal_volume>
+            <volume>74</volume>
+          </journal_volume>
+          <issue>5</issue>
+        </journal_issue>
+        <journal_article publication_type="full_text">
+          <titles>
+            <title>X-ray line diagnostics of ion temperature at cosmic ray accelerating collisionless shocks</title>
+          </titles>
+          <contributors>
+            <person_name sequence="first" contributor_role="author">
+              <given_name>Jiro</given_name>
+              <surname>Shimoda</surname>
+              <affiliations>
+                <institution>
+                  <institution_name>Department of Physics, Graduate School of Science, Nagoya University , Furo-cho, Chikusa-ku, Nagoya, Aichi 464-8602, Japan</institution_name>
+                </institution>
+              </affiliations>
+              <ORCID>http://orcid.org/0000-0003-3383-2279</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Yutaka</given_name>
+              <surname>Ohira</surname>
+              <affiliations>
+                <institution>
+                  <institution_name>Department of Earth and Planetary Science, The University of Tokyo , 7-3-1 Hongo, Bunkyo-ku, Tokyo 113-0033, Japan</institution_name>
+                </institution>
+              </affiliations>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Aya</given_name>
+              <surname>Bamba</surname>
+              <affiliations>
+                <institution>
+                  <institution_name>Department of Physics, Graduate School of Science, the University of Tokyo , 7-3-1 Hongo, Bunkyo-ku, Tokyo 113-0033, Japan</institution_name>
+                </institution>
+                <institution>
+                  <institution_name>Research Center for the Early Universe, School of Science, The University of Tokyo , 7-3-1 Hongo, Bunkyo-ku, Tokyo 113-0033, Japan</institution_name>
+                </institution>
+              </affiliations>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Yukikatsu</given_name>
+              <surname>Terada</surname>
+              <affiliations>
+                <institution>
+                  <institution_name>Graduate School of Science and Engineering, Saitama University , 255 Shimo-Ohkubo, Saitama, Saitama 338-8570, Japan</institution_name>
+                </institution>
+                <institution>
+                  <institution_name>Institute of Space and Astronautical Science, Japan Aerospace Exploration Agency , 3-1-1 Yoshinodai, Chuo, Sagamihara, Kanagawa 252-5210, Japan</institution_name>
+                </institution>
+              </affiliations>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Ryo</given_name>
+              <surname>Yamazaki</surname>
+              <affiliations>
+                <institution>
+                  <institution_name>Department of Physical Sciences, Aoyama Gakuin University , 5-10-1 Fuchinobe, Chuo, Sagamihara, Kanagawa 252-5258, Japan</institution_name>
+                </institution>
+                <institution>
+                  <institution_name>Institute of Laser Engineering, Osaka University, 2-6 Yamadaoka , Suita, Osaka 565-0871, Japan</institution_name>
+                </institution>
+              </affiliations>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Tsuyoshi</given_name>
+              <surname>Inoue</surname>
+              <affiliations>
+                <institution>
+                  <institution_name>Department of Physics, Konan University , 8-9-1 Okamoto, Higashinada-ku, Kobe, Hyogo 658-8501, Japan</institution_name>
+                </institution>
+              </affiliations>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Shuta J</given_name>
+              <surname>Tanaka</surname>
+              <affiliations>
+                <institution>
+                  <institution_name>Department of Physical Sciences, Aoyama Gakuin University , 5-10-1 Fuchinobe, Chuo, Sagamihara, Kanagawa 252-5258, Japan</institution_name>
+                </institution>
+              </affiliations>
+            </person_name>
+          </contributors>
+          <abstract>
+            <title>Abstract</title>
+            <p>A novel collisionless shock jump condition is suggested by modeling the entropy production at the shock transition region. We also calculate downstream developments of the atomic ionization balance and the ion temperature relaxation in supernova remnants (SNRs). The injection process and subsequent acceleration of cosmic rays (CRs) in the SNR shocks are closely related to the formation process of the collisionless shocks. The formation of the shock is caused by wave–particle interactions. Since the wave–particle interactions result in energy exchanges between electromagnetic fields and charged particles, the randomization of particles associated with the shock transition may occur at a rate given by the scalar product of the electric field and current. We find that order-of-magnitude estimates of the randomization with reasonable strength of the electromagnetic fields in the SNR constrain the amount of CR nuclei and the ion temperatures. The constrained amount of CR nuclei can be sufficient to explain the Galactic CRs. The ion temperature becomes significantly lower than that in the case without CRs. To distinguish the case without CRs, we perform synthetic observations of atomic line emissions from the downstream region of the SNR RCW 86. Future observations by XRISM and Athena can distinguish whether the SNR shock accelerates the CRs or not from the ion temperatures.</p>
+          </abstract>
+          <publication_date media_type="other">
+            <month>10</month>
+            <year>2022</year>
+          </publication_date>
+          <publication_date media_type="print">
+            <month>10</month>
+            <day>03</day>
+            <year>2022</year>
+          </publication_date>
+          <publication_date media_type="online">
+            <month>07</month>
+            <day>19</day>
+            <year>2022</year>
+          </publication_date>
+          <pages>
+            <first_page>1022</first_page>
+            <last_page>1040</last_page>
+          </pages>
+          <program name="fundref">
+            <assertion name="fundgroup">
+              <assertion name="funder_name">
+                JSPS
+                <assertion name="funder_identifier">http://dx.doi.org/10.13039/501100001691</assertion>
+              </assertion>
+              <assertion name="award_number">20J01086</assertion>
+              <assertion name="award_number">19H01893</assertion>
+              <assertion name="award_number">JP21H04487</assertion>
+              <assertion name="award_number">19K03908</assertion>
+              <assertion name="award_number">20K04009</assertion>
+              <assertion name="award_number">18H01232</assertion>
+              <assertion name="award_number">22H01251</assertion>
+              <assertion name="award_number">20H01944</assertion>
+            </assertion>
+            <assertion name="fundgroup">
+              <assertion name="funder_name">
+                MEXT
+                <assertion name="funder_identifier">http://dx.doi.org/10.13039/501100001700</assertion>
+              </assertion>
+            </assertion>
+            <assertion name="fundgroup">
+              <assertion name="funder_name">
+                Aoyama Gakuin University Research Institute
+                <assertion name="funder_identifier">http://dx.doi.org/10.13039/501100004968</assertion>
+              </assertion>
+            </assertion>
+          </program>
+          <program name="AccessIndicators">
+            <license_ref applies_to="vor" start_date="2022-10-10">https://creativecommons.org/licenses/by/4.0/</license_ref>
+          </program>
+          <doi_data>
+            <doi>10.1093/pasj/psac053</doi>
+            <resource>https://academic.oup.com/pasj/article/74/5/1022/6646725</resource>
+            <collection property="crawler-based">
+              <item crawler="iParadigms">
+                <resource>https://academic.oup.com/pasj/article-pdf/74/5/1022/46417698/psac053.pdf</resource>
+              </item>
+            </collection>
+            <collection property="syndication">
+              <item>
+                <resource mime_type="application/pdf" content_version="vor">https://academic.oup.com/pasj/article-pdf/74/5/1022/46417698/psac053.pdf</resource>
+              </item>
+            </collection>
+          </doi_data>
+          <citation_list>
+            <citation key="2022101014261863600_bib1">
+              <journal_title>ApJ</journal_title>
+              <author>Abdo</author>
+              <volume>736</volume>
+              <first_page>131</first_page>
+              <cYear>2011</cYear>
+              <doi provider="crossref">10.1088/0004-637X/736/2/131</doi>
+            </citation>
+            <citation key="2022101014261863600_bib2">
+              <journal_title>A&amp;A</journal_title>
+              <author>Altun</author>
+              <volume>474</volume>
+              <first_page>1051</first_page>
+              <cYear>2007</cYear>
+              <doi provider="crossref">10.1051/0004-6361:20078238</doi>
+            </citation>
+            <citation key="2022101014261863600_bib3">
+              <journal_title>A&amp;AS</journal_title>
+              <author>Arnaud</author>
+              <volume>60</volume>
+              <first_page>425</first_page>
+              <cYear>1985</cYear>
+            </citation>
+            <citation key="2022101014261863600_bib4">
+              <journal_title>MNRAS</journal_title>
+              <author>Arthur</author>
+              <volume>414</volume>
+              <first_page>1747</first_page>
+              <cYear>2011</cYear>
+              <doi provider="crossref">10.1111/j.1365-2966.2011.18507.x</doi>
+            </citation>
+            <citation key="2022101014261863600_bib5">
+              <journal_title>ARA&amp;A</journal_title>
+              <author>Asplund</author>
+              <volume>47</volume>
+              <first_page>481</first_page>
+              <cYear>2009</cYear>
+              <doi provider="crossref">10.1146/annurev.astro.46.060407.145222</doi>
+            </citation>
+            <citation key="2022101014261863600_bib6">
+              <journal_title>PASJ</journal_title>
+              <author>Bamba</author>
+              <volume>52</volume>
+              <first_page>1157</first_page>
+              <cYear>2000</cYear>
+              <doi provider="crossref">10.1093/pasj/52.6.1157</doi>
+            </citation>
+            <citation key="2022101014261863600_bib7">
+              <journal_title>ApJ</journal_title>
+              <author>Bamba</author>
+              <volume>621</volume>
+              <first_page>793</first_page>
+              <cYear>2005</cYear>
+              <doi provider="crossref">10.1086/427620</doi>
+            </citation>
+            <citation key="2022101014261863600_bib8">
+              <volume_title>Proc. SPIE10699, Space Telescopes and Instrumentation 2018: Ultraviolet to Gamma Ray</volume_title>
+              <author>Barret</author>
+              <first_page>106991G</first_page>
+              <cYear>2018</cYear>
+            </citation>
+            <citation key="2022101014261863600_bib9">
+              <journal_title>Space Sci. Rev.</journal_title>
+              <author>Beck</author>
+              <volume>99</volume>
+              <first_page>243</first_page>
+              <cYear>2001</cYear>
+              <doi provider="crossref">10.1023/A:1013805401252</doi>
+            </citation>
+            <citation key="2022101014261863600_bib10">
+              <journal_title>MNRAS</journal_title>
+              <author>Bell</author>
+              <volume>182</volume>
+              <first_page>147</first_page>
+              <cYear>1978</cYear>
+              <doi provider="crossref">10.1093/mnras/182.2.147</doi>
+            </citation>
+            <citation key="2022101014261863600_bib11">
+              <journal_title>MNRAS</journal_title>
+              <author>Bell</author>
+              <volume>353</volume>
+              <first_page>550</first_page>
+              <cYear>2004</cYear>
+              <doi provider="crossref">10.1111/j.1365-2966.2004.08097.x</doi>
+            </citation>
+            <citation key="2022101014261863600_bib12">
+              <journal_title>ApJ</journal_title>
+              <author>Blandford</author>
+              <volume>221</volume>
+              <first_page>L29</first_page>
+              <cYear>1978</cYear>
+              <doi provider="crossref">10.1086/182658</doi>
+            </citation>
+            <citation key="2022101014261863600_bib13">
+              <journal_title>ApJ</journal_title>
+              <author>Borkowski</author>
+              <volume>550</volume>
+              <first_page>334</first_page>
+              <cYear>2001</cYear>
+              <doi provider="crossref">10.1086/319716</doi>
+            </citation>
+            <citation key="2022101014261863600_bib14">
+              <journal_title>MNRAS</journal_title>
+              <author>Broersen</author>
+              <volume>441</volume>
+              <first_page>3040</first_page>
+              <cYear>2014</cYear>
+              <doi provider="crossref">10.1093/mnras/stu667</doi>
+            </citation>
+            <citation key="2022101014261863600_bib15">
+              <journal_title>ApJ</journal_title>
+              <author>Caprioli</author>
+              <volume>905</volume>
+              <first_page>2</first_page>
+              <cYear>2020</cYear>
+              <doi provider="crossref">10.3847/1538-4357/abbe05</doi>
+            </citation>
+            <citation key="2022101014261863600_bib16">
+              <journal_title>ApJ</journal_title>
+              <author>Chevalier</author>
+              <volume>235</volume>
+              <first_page>186</first_page>
+              <cYear>1980</cYear>
+              <doi provider="crossref">10.1086/157623</doi>
+            </citation>
+            <citation key="2022101014261863600_bib17">
+              <journal_title>Nature</journal_title>
+              <author>De Cia</author>
+              <volume>597</volume>
+              <first_page>206</first_page>
+              <cYear>2021</cYear>
+              <doi provider="crossref">10.1038/s41586-021-03780-0</doi>
+            </citation>
+            <citation key="2022101014261863600_bib18">
+              <journal_title>ApJ</journal_title>
+              <author>Drury</author>
+              <volume>248</volume>
+              <first_page>344</first_page>
+              <cYear>1981</cYear>
+              <doi provider="crossref">10.1086/159159</doi>
+            </citation>
+            <citation key="2022101014261863600_bib19">
+              <journal_title>ApJ</journal_title>
+              <author>Fukui</author>
+              <volume>915</volume>
+              <first_page>84</first_page>
+              <cYear>2021</cYear>
+              <doi provider="crossref">10.3847/1538-4357/abff4a</doi>
+            </citation>
+            <citation key="2022101014261863600_bib20">
+              <journal_title>MNRAS</journal_title>
+              <author>Girichidis</author>
+              <volume>479</volume>
+              <first_page>3042</first_page>
+              <cYear>2018</cYear>
+              <doi provider="crossref">10.1093/mnras/sty1653</doi>
+            </citation>
+            <citation key="2022101014261863600_bib21">
+              <journal_title>A&amp;AS</journal_title>
+              <author>Gronenschild</author>
+              <volume>32</volume>
+              <first_page>283</first_page>
+              <cYear>1978</cYear>
+            </citation>
+            <citation key="2022101014261863600_bib22">
+              <journal_title>ApJ</journal_title>
+              <author>Hahn</author>
+              <volume>788</volume>
+              <first_page>46</first_page>
+              <cYear>2014</cYear>
+              <doi provider="crossref">10.1088/0004-637X/788/1/46</doi>
+            </citation>
+            <citation key="2022101014261863600_bib23">
+              <journal_title>Science</journal_title>
+              <author>Helder</author>
+              <volume>325</volume>
+              <first_page>719</first_page>
+              <cYear>2009</cYear>
+              <doi provider="crossref">10.1126/science.1173383</doi>
+            </citation>
+            <citation key="2022101014261863600_bib24">
+              <journal_title>MNRAS</journal_title>
+              <author>Helder</author>
+              <volume>435</volume>
+              <first_page>910</first_page>
+              <cYear>2013</cYear>
+              <doi provider="crossref">10.1093/mnras/stt993</doi>
+            </citation>
+            <citation key="2022101014261863600_bib25">
+              <journal_title>MNRAS</journal_title>
+              <author>Hopkins</author>
+              <volume>480</volume>
+              <first_page>800</first_page>
+              <cYear>2018</cYear>
+              <doi provider="crossref">10.1093/mnras/sty1690</doi>
+            </citation>
+            <citation key="2022101014261863600_bib26">
+              <journal_title>ApJ</journal_title>
+              <author>Hovey</author>
+              <volume>809</volume>
+              <first_page>119</first_page>
+              <cYear>2015</cYear>
+              <doi provider="crossref">10.1088/0004-637X/809/2/119</doi>
+            </citation>
+            <citation key="2022101014261863600_bib27">
+              <journal_title>ApJ</journal_title>
+              <author>Hovey</author>
+              <volume>862</volume>
+              <first_page>148</first_page>
+              <cYear>2018</cYear>
+              <doi provider="crossref">10.3847/1538-4357/aac94b</doi>
+            </citation>
+            <citation key="2022101014261863600_bib28">
+              <journal_title>ApJ</journal_title>
+              <author>Hughes</author>
+              <volume>543</volume>
+              <first_page>L61</first_page>
+              <cYear>2000</cYear>
+              <doi provider="crossref">10.1086/317102</doi>
+            </citation>
+            <citation key="2022101014261863600_bib29">
+              <journal_title>J. Low Temperature Phys.</journal_title>
+              <author>Ishisaki</author>
+              <volume>193</volume>
+              <first_page>991</first_page>
+              <cYear>2018</cYear>
+              <doi provider="crossref">10.1007/s10909-018-1913-4</doi>
+            </citation>
+            <citation key="2022101014261863600_bib30">
+              <journal_title>ApJ</journal_title>
+              <author>Itoh</author>
+              <volume>285</volume>
+              <first_page>601</first_page>
+              <cYear>1984</cYear>
+              <doi provider="crossref">10.1086/162535</doi>
+            </citation>
+            <citation key="2022101014261863600_bib31">
+              <volume_title>in Atomic and Plasma-Material Interaction Data for Fusion, Vol. 4 (Vienna: International Atomic Energy Agency)</volume_title>
+              <author>Janev</author>
+              <cYear>1993</cYear>
+            </citation>
+            <citation key="2022101014261863600_bib32">
+              <journal_title>Phys. Scr.</journal_title>
+              <author>Kotelnikov</author>
+              <volume>94</volume>
+              <first_page>055403</first_page>
+              <cYear>2019</cYear>
+              <doi provider="crossref">10.1088/1402-4896/ab060a</doi>
+            </citation>
+            <citation key="2022101014261863600_bib33">
+              <journal_title>A&amp;A</journal_title>
+              <author>Lagage</author>
+              <volume>118</volume>
+              <first_page>223</first_page>
+              <cYear>1983</cYear>
+            </citation>
+            <citation key="2022101014261863600_bib34">
+              <journal_title>A&amp;A</journal_title>
+              <author>Lagage</author>
+              <volume>125</volume>
+              <first_page>249</first_page>
+              <cYear>1983</cYear>
+            </citation>
+            <citation key="2022101014261863600_bib35">
+              <journal_title>ApJ</journal_title>
+              <author>Laming</author>
+              <volume>790</volume>
+              <first_page>11</first_page>
+              <cYear>2014</cYear>
+              <doi provider="crossref">10.1088/0004-637X/790/1/11</doi>
+            </citation>
+            <citation key="2022101014261863600_bib36">
+              <journal_title>J. Phys. Chemical Reference Data</journal_title>
+              <author>Lennon</author>
+              <volume>17</volume>
+              <first_page>1285</first_page>
+              <cYear>1988</cYear>
+              <doi provider="crossref">10.1063/1.555809</doi>
+            </citation>
+            <citation key="2022101014261863600_bib37">
+              <journal_title>ApJ</journal_title>
+              <author>Lestinsky</author>
+              <volume>698</volume>
+              <first_page>648</first_page>
+              <cYear>2009</cYear>
+              <doi provider="crossref">10.1088/0004-637X/698/1/648</doi>
+            </citation>
+            <citation key="2022101014261863600_bib38">
+              <volume_title>Proc. SPIE 11444, Space Telescopes and Instrumentation 2020: Ultraviolet to Gamma Ray</volume_title>
+              <author>Loewenstein</author>
+              <first_page>114445D</first_page>
+              <cYear>2020</cYear>
+            </citation>
+            <citation key="2022101014261863600_bib39">
+              <journal_title>Living Rev. Comput. Astrophys.</journal_title>
+              <author>Marcowith</author>
+              <volume>6</volume>
+              <first_page>1</first_page>
+              <cYear>2020</cYear>
+              <doi provider="crossref">10.1007/s41115-020-0007-6</doi>
+            </citation>
+            <citation key="2022101014261863600_bib40">
+              <journal_title>Phys. Rev. Lett.</journal_title>
+              <author>Matsumoto</author>
+              <volume>119</volume>
+              <first_page>105101</first_page>
+              <cYear>2017</cYear>
+              <doi provider="crossref">10.1103/PhysRevLett.119.105101</doi>
+            </citation>
+            <citation key="2022101014261863600_bib41">
+              <journal_title>A&amp;A</journal_title>
+              <author>Mewe</author>
+              <volume>20</volume>
+              <first_page>215</first_page>
+              <cYear>1972</cYear>
+            </citation>
+            <citation key="2022101014261863600_bib44">
+              <journal_title>A&amp;AS</journal_title>
+              <author>Mewe</author>
+              <volume>65</volume>
+              <first_page>511</first_page>
+              <cYear>1986</cYear>
+            </citation>
+            <citation key="2022101014261863600_bib42">
+              <journal_title>A&amp;AS</journal_title>
+              <author>Mewe</author>
+              <volume>40</volume>
+              <first_page>323</first_page>
+              <cYear>1980</cYear>
+            </citation>
+            <citation key="2022101014261863600_bib43">
+              <journal_title>A&amp;A</journal_title>
+              <author>Mewe</author>
+              <volume>87</volume>
+              <first_page>55</first_page>
+              <cYear>1980</cYear>
+            </citation>
+            <citation key="2022101014261863600_bib45">
+              <journal_title>Nat. Astron.</journal_title>
+              <author>Miceli</author>
+              <volume>3</volume>
+              <first_page>236</first_page>
+              <cYear>2019</cYear>
+              <doi provider="crossref">10.1038/s41550-018-0677-8</doi>
+            </citation>
+            <citation key="2022101014261863600_bib46">
+              <volume_title>Proc. SPIE 11444, Space Telescopes and Instrumentation 2020: Ultraviolet to Gamma Ray</volume_title>
+              <author>Miller</author>
+              <first_page>1144426</first_page>
+              <cYear>2020</cYear>
+            </citation>
+            <citation key="2022101014261863600_bib47">
+              <journal_title>A&amp;A</journal_title>
+              <author>Mitnik</author>
+              <volume>425</volume>
+              <first_page>1153</first_page>
+              <cYear>2004</cYear>
+              <doi provider="crossref">10.1051/0004-6361:20041297</doi>
+            </citation>
+            <citation key="2022101014261863600_bib48">
+              <journal_title>A&amp;A</journal_title>
+              <author>Morlino</author>
+              <volume>557</volume>
+              <first_page>A142</first_page>
+              <cYear>2013</cYear>
+              <doi provider="crossref">10.1051/0004-6361/201322161</doi>
+            </citation>
+            <citation key="2022101014261863600_bib50">
+              <journal_title>A&amp;A</journal_title>
+              <author>Morlino</author>
+              <volume>562</volume>
+              <first_page>A141</first_page>
+              <cYear>2014</cYear>
+              <doi provider="crossref">10.1051/0004-6361/201322986</doi>
+            </citation>
+            <citation key="2022101014261863600_bib49">
+              <journal_title>ApJ</journal_title>
+              <author>Morlino</author>
+              <volume>768</volume>
+              <first_page>148</first_page>
+              <cYear>2013</cYear>
+              <doi provider="crossref">10.1088/0004-637X/768/2/148</doi>
+            </citation>
+            <citation key="2022101014261863600_bib51">
+              <journal_title>J. Phys. B</journal_title>
+              <author>Murakami</author>
+              <volume>39</volume>
+              <first_page>2917</first_page>
+              <cYear>2006</cYear>
+              <doi provider="crossref">10.1088/0953-4075/39/14/001</doi>
+            </citation>
+            <citation key="2022101014261863600_bib52">
+              <journal_title>ApJ</journal_title>
+              <author>Myers</author>
+              <volume>225</volume>
+              <first_page>380</first_page>
+              <cYear>1978</cYear>
+              <doi provider="crossref">10.1086/156500</doi>
+            </citation>
+            <citation key="2022101014261863600_bib53">
+              <journal_title>ApJS</journal_title>
+              <author>Nahar</author>
+              <volume>101</volume>
+              <first_page>423</first_page>
+              <cYear>1995</cYear>
+              <doi provider="crossref">10.1086/192248</doi>
+            </citation>
+            <citation key="2022101014261863600_bib54">
+              <journal_title>Phys. Rev. A</journal_title>
+              <author>Nahar</author>
+              <volume>58</volume>
+              <first_page>3766</first_page>
+              <cYear>1998</cYear>
+              <doi provider="crossref">10.1103/PhysRevA.58.3766</doi>
+            </citation>
+            <citation key="2022101014261863600_bib55">
+              <journal_title>ApJS</journal_title>
+              <author>Nahar</author>
+              <volume>126</volume>
+              <first_page>537</first_page>
+              <cYear>2000</cYear>
+              <doi provider="crossref">10.1086/313307</doi>
+            </citation>
+            <citation key="2022101014261863600_bib56">
+              <journal_title>ApJS</journal_title>
+              <author>Nahar</author>
+              <volume>164</volume>
+              <first_page>280</first_page>
+              <cYear>2006</cYear>
+              <doi provider="crossref">10.1086/501503</doi>
+            </citation>
+            <citation key="2022101014261863600_bib57">
+              <journal_title>ApJS</journal_title>
+              <author>Nahar</author>
+              <volume>111</volume>
+              <first_page>339</first_page>
+              <cYear>1997</cYear>
+              <doi provider="crossref">10.1086/313013</doi>
+            </citation>
+            <citation key="2022101014261863600_bib58">
+              <journal_title>A&amp;AS</journal_title>
+              <author>Nahar</author>
+              <volume>135</volume>
+              <first_page>347</first_page>
+              <cYear>1999</cYear>
+              <doi provider="crossref">10.1051/aas:1999447</doi>
+            </citation>
+            <citation key="2022101014261863600_bib59">
+              <journal_title>ApJS</journal_title>
+              <author>Nahar</author>
+              <volume>133</volume>
+              <first_page>255</first_page>
+              <cYear>2001</cYear>
+              <doi provider="crossref">10.1086/319187</doi>
+            </citation>
+            <citation key="2022101014261863600_bib60">
+              <volume_title>Proc. SPIE 11444, Space Telescopes and Instrumentation 2020: Ultraviolet to Gamma Ray</volume_title>
+              <author>Nakajima</author>
+              <first_page>1144423</first_page>
+              <cYear>2020</cYear>
+            </citation>
+            <citation key="2022101014261863600_bib61">
+              <journal_title>ApJ</journal_title>
+              <author>Novotný</author>
+              <volume>753</volume>
+              <first_page>57</first_page>
+              <cYear>2012</cYear>
+              <doi provider="crossref">10.1088/0004-637X/753/1/57</doi>
+            </citation>
+            <citation key="2022101014261863600_bib62">
+              <journal_title>Phys. Rev. Lett.</journal_title>
+              <author>Ohira</author>
+              <volume>111</volume>
+              <first_page>245002</first_page>
+              <cYear>2013</cYear>
+              <doi provider="crossref">10.1103/PhysRevLett.111.245002</doi>
+            </citation>
+            <citation key="2022101014261863600_bib63">
+              <journal_title>ApJ</journal_title>
+              <author>Ohira</author>
+              <volume>827</volume>
+              <first_page>36</first_page>
+              <cYear>2016</cYear>
+              <doi provider="crossref">10.3847/0004-637X/827/1/36</doi>
+            </citation>
+            <citation key="2022101014261863600_bib64">
+              <journal_title>ApJ</journal_title>
+              <author>Ohira</author>
+              <volume>817</volume>
+              <first_page>137</first_page>
+              <cYear>2016</cYear>
+              <doi provider="crossref">10.3847/0004-637X/817/2/137</doi>
+            </citation>
+            <citation key="2022101014261863600_bib65">
+              <journal_title>ApJ</journal_title>
+              <author>Ohira</author>
+              <volume>729</volume>
+              <first_page>L13</first_page>
+              <cYear>2011</cYear>
+              <doi provider="crossref">10.1088/2041-8205/729/1/L13</doi>
+            </citation>
+            <citation key="2022101014261863600_bib68">
+              <journal_title>A&amp;A</journal_title>
+              <author>Ohira</author>
+              <volume>513</volume>
+              <first_page>A17</first_page>
+              <cYear>2010</cYear>
+              <doi provider="crossref">10.1051/0004-6361/200913495</doi>
+            </citation>
+            <citation key="2022101014261863600_bib66">
+              <journal_title>ApJ</journal_title>
+              <author>Ohira</author>
+              <volume>661</volume>
+              <first_page>L171</first_page>
+              <cYear>2007</cYear>
+              <doi provider="crossref">10.1086/518888</doi>
+            </citation>
+            <citation key="2022101014261863600_bib67">
+              <journal_title>ApJ</journal_title>
+              <author>Ohira</author>
+              <volume>688</volume>
+              <first_page>320</first_page>
+              <cYear>2008</cYear>
+              <doi provider="crossref">10.1086/592182</doi>
+            </citation>
+            <citation key="2022101014261863600_bib69">
+              <volume_title>Astrophysics of Gaseous Nebulae and Active Galactic Nuclei</volume_title>
+              <author>Osterbrock</author>
+              <cYear>2006</cYear>
+            </citation>
+            <citation key="2022101014261863600_bib70">
+              <volume_title>Proc. SPIE 11444, Space Telescopes and Instrumentation 2020: Ultraviolet to Gamma Ray</volume_title>
+              <author>Porter</author>
+              <first_page>1144424</first_page>
+              <cYear>2020</cYear>
+            </citation>
+            <citation key="2022101014261863600_bib71">
+              <journal_title>ApJ</journal_title>
+              <author>Rakowski</author>
+              <volume>684</volume>
+              <first_page>348</first_page>
+              <cYear>2008</cYear>
+              <doi provider="crossref">10.1086/590245</doi>
+            </citation>
+            <citation key="2022101014261863600_bib72">
+              <journal_title>ApJS</journal_title>
+              <author>Savin</author>
+              <volume>138</volume>
+              <first_page>337</first_page>
+              <cYear>2002</cYear>
+              <doi provider="crossref">10.1086/323388</doi>
+            </citation>
+            <citation key="2022101014261863600_bib73">
+              <volume_title>Similarity and Dimensional Methods in Mechanics</volume_title>
+              <author>Sedov</author>
+              <cYear>1959</cYear>
+            </citation>
+            <citation key="2022101014261863600_bib77">
+              <journal_title>MNRAS</journal_title>
+              <author>Shimoda</author>
+              <volume>480</volume>
+              <first_page>2200</first_page>
+              <cYear>2018</cYear>
+              <doi provider="crossref">10.1093/mnras/sty2034</doi>
+            </citation>
+            <citation key="2022101014261863600_bib76">
+              <journal_title>ApJ</journal_title>
+              <author>Shimoda</author>
+              <volume>803</volume>
+              <first_page>98</first_page>
+              <cYear>2015</cYear>
+              <doi provider="crossref">10.1088/0004-637X/803/2/98</doi>
+            </citation>
+            <citation key="2022101014261863600_bib74">
+              <journal_title>ApJ</journal_title>
+              <author>Shimoda</author>
+              <volume>926</volume>
+              <first_page>8</first_page>
+              <cYear>2022</cYear>
+              <doi provider="crossref">10.3847/1538-4357/ac4110</doi>
+            </citation>
+            <citation key="2022101014261863600_bib75">
+              <journal_title>MNRAS</journal_title>
+              <author>Shimoda</author>
+              <volume>485</volume>
+              <first_page>5453</first_page>
+              <cYear>2019</cYear>
+              <doi provider="crossref">10.1093/mnras/stz758</doi>
+            </citation>
+            <citation key="2022101014261863600_bib78">
+              <journal_title>MNRAS</journal_title>
+              <author>Shimoda</author>
+              <volume>473</volume>
+              <first_page>1394</first_page>
+              <cYear>2018</cYear>
+              <doi provider="crossref">10.1093/mnras/stx2339</doi>
+            </citation>
+            <citation key="2022101014261863600_bib79">
+              <volume_title>Physics of Fully Ionized Gases</volume_title>
+              <author>Spitzer</author>
+              <edition_number>2nd ed.</edition_number>
+              <cYear>1962</cYear>
+            </citation>
+            <citation key="2022101014261863600_bib80">
+              <volume_title>Proc. SPIE 11444, Space Telescopes and Instrumentation 2020: Ultraviolet to Gamma Ray</volume_title>
+              <author>Tashiro</author>
+              <first_page>1144422</first_page>
+              <cYear>2020</cYear>
+            </citation>
+            <citation key="2022101014261863600_bib81">
+              <journal_title>J. Astron. Telesc. Instrum. Syst.</journal_title>
+              <author>Terada</author>
+              <volume>7</volume>
+              <first_page>037001</first_page>
+              <cYear>2021</cYear>
+              <doi provider="crossref">10.1117/1.JATIS.7.3.037001</doi>
+            </citation>
+            <citation key="2022101014261863600_bib82">
+              <journal_title>ApJ</journal_title>
+              <author>Tsubone</author>
+              <volume>835</volume>
+              <first_page>34</first_page>
+              <cYear>2017</cYear>
+              <doi provider="crossref">10.3847/1538-4357/835/1/34</doi>
+            </citation>
+            <citation key="2022101014261863600_bib83">
+              <journal_title>Nature</journal_title>
+              <author>Uchiyama</author>
+              <volume>449</volume>
+              <first_page>576</first_page>
+              <cYear>2007</cYear>
+              <doi provider="crossref">10.1038/nature06210</doi>
+            </citation>
+            <citation key="2022101014261863600_bib84">
+              <journal_title>A&amp;AR</journal_title>
+              <author>Vink</author>
+              <volume>20</volume>
+              <first_page>49</first_page>
+              <cYear>2012</cYear>
+              <doi provider="crossref">10.1007/s00159-011-0049-1</doi>
+            </citation>
+            <citation key="2022101014261863600_bib87">
+              <journal_title>ApJ</journal_title>
+              <author>Vink</author>
+              <volume>648</volume>
+              <first_page>L33</first_page>
+              <cYear>2006</cYear>
+              <doi provider="crossref">10.1086/507628</doi>
+            </citation>
+            <citation key="2022101014261863600_bib85">
+              <journal_title>ApJ</journal_title>
+              <author>Vink</author>
+              <volume>584</volume>
+              <first_page>758</first_page>
+              <cYear>2003</cYear>
+              <doi provider="crossref">10.1086/345832</doi>
+            </citation>
+            <citation key="2022101014261863600_bib86">
+              <journal_title>ApJ</journal_title>
+              <author>Vink</author>
+              <volume>780</volume>
+              <first_page>125</first_page>
+              <cYear>2014</cYear>
+              <doi provider="crossref">10.1088/0004-637X/780/2/125</doi>
+            </citation>
+            <citation key="2022101014261863600_bib88">
+              <journal_title>ApJ</journal_title>
+              <author>Vink</author>
+              <volume>722</volume>
+              <first_page>1727</first_page>
+              <cYear>2010</cYear>
+              <doi provider="crossref">10.1088/0004-637X/722/2/1727</doi>
+            </citation>
+            <citation key="2022101014261863600_bib89">
+              <journal_title>ApJ</journal_title>
+              <author>Yamaguchi</author>
+              <volume>820</volume>
+              <first_page>L3</first_page>
+              <cYear>2016</cYear>
+              <doi provider="crossref">10.3847/2041-8205/820/1/L3</doi>
+            </citation>
+            <citation key="2022101014261863600_bib92">
+              <journal_title>A&amp;A</journal_title>
+              <author>Zatsarinny</author>
+              <volume>447</volume>
+              <first_page>379</first_page>
+              <cYear>2006</cYear>
+              <doi provider="crossref">10.1051/0004-6361:20053737</doi>
+            </citation>
+            <citation key="2022101014261863600_bib90">
+              <journal_title>A&amp;A</journal_title>
+              <author>Zatsarinny</author>
+              <volume>412</volume>
+              <first_page>587</first_page>
+              <cYear>2003</cYear>
+              <doi provider="crossref">10.1051/0004-6361:20031462</doi>
+            </citation>
+            <citation key="2022101014261863600_bib91">
+              <journal_title>A&amp;A</journal_title>
+              <author>Zatsarinny</author>
+              <volume>417</volume>
+              <first_page>1173</first_page>
+              <cYear>2004</cYear>
+              <doi provider="crossref">10.1051/0004-6361:20034174</doi>
+            </citation>
+          </citation_list>
+        </journal_article>
+      </journal>
+    </crossref>
+  </doi_record>
+</doi_records>

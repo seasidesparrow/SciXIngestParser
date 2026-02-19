@@ -1,0 +1,102 @@
+{
+  "abstract": {
+    "textEnglish": "XML example of all DataCite Metadata Schema v3.1 properties."
+  },
+  "authors": [
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "DataCite"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0001-5000-0007"
+      },
+      "name": {
+        "given_name": "Elizabeth",
+        "pubraw": "Miller, Elizabeth",
+        "surname": "Miller"
+      }
+    }
+  ],
+  "doctype": "software",
+  "keywords": [
+    {
+      "keyString": "000 computer science",
+      "keySystem": "datacite"
+    }
+  ],
+  "openAccess": {
+    "license": "CC0 1.0 Universal",
+    "licenseURL": "http://creativecommons.org/publicdomain/zero/1.0/",
+    "open": true
+  },
+  "otherContributor": [
+    {
+      "contrib": {
+        "affiliation": [
+          {
+            "affPubRaw": "California Digital Library"
+          }
+        ],
+        "attrib": {
+          "orcid": "0000-0002-7285-027X"
+        },
+        "name": {
+          "given_name": "Joan",
+          "pubraw": "Starr, Joan",
+          "surname": "Starr"
+        }
+      },
+      "role": "ProjectLeader"
+    }
+  ],
+  "persistentIDs": [
+    {
+      "DOI": "10.5072/example-full"
+    }
+  ],
+  "pubDate": {
+    "electrDate": "2014",
+    "otherDate": [
+      {
+        "otherDateType": "Updated",
+        "otherDateValue": "2014-10-17"
+      }
+    ]
+  },
+  "publication": {
+    "pubYear": "2014",
+    "publisher": "DataCite"
+  },
+  "publisherIDs": [
+    {
+      "Identifier": "http://schema.datacite.org/schema/meta/kernel-3.1/example/datacite-example-full-v3.1.xml",
+      "attribute": "URL"
+    }
+  ],
+  "recordData": {
+    "createdTime": "",
+    "loadFormat": "OtherXML",
+    "loadLocation": "",
+    "loadType": "fromFile",
+    "parsedTime": "",
+    "recordOrigin": ""
+  },
+  "relatedTo": [
+    {
+      "relatedDocID": "http://data.datacite.org/application/citeproc+json/10.5072/example-full",
+      "relationship": "related"
+    },
+    {
+      "relatedDocID": "arXiv:0706.0001",
+      "relationship": "related"
+    }
+  ],
+  "subtitle": {
+    "textEnglish": "Demonstration of DataCite Properties."
+  },
+  "title": {
+    "textEnglish": "Full DataCite XML Example"
+  }
+}

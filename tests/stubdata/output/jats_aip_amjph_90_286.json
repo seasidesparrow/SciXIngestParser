@@ -1,0 +1,226 @@
+{
+  "abstract": {
+    "textEnglish": "Gravitational-wave observatories around the world are searching for continuous waves: persistent signals from sources, such as spinning neutron stars. These searches use sophisticated statistical techniques to look for weak signals in noisy data. In this paper, we demonstrate these techniques using a table-top model gravitational-wave detector: a Michelson interferometer where sound is used as an analog for gravitational waves. Using signal processing techniques from continuous-wave searches, we demonstrate the recovery of tones with constant and wandering frequencies. We also explore the use of the interferometer as a teaching tool for educators in physics and electrical engineering by using it as an \u201coptical microphone\u201d to capture music and speech. A range of filtering techniques used to recover signals from noisy data are detailed in the supplementary material of this article. Here, we present the highlights of our results using a combined notch plus Wiener filter and the statistical log minimum mean-square error (logMMSE) estimator. Using these techniques, we easily recover recordings of simple chords and drums, but complex music and speech are more challenging. This demonstration can be used by educators in undergraduate laboratories and can be adapted for communicating gravitational-wave and signal-processing topics to nonspecialist audiences."
+  },
+  "authors": [
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Centre for Gravitational Astrophysics, The Australian National University, Acton, ACT 2601, Australia"
+        },
+        {
+          "affPubRaw": "OzGrav-ANU, Australian Research Council Centre of Excellence for Gravitational Wave Discovery, The Australian National University, Acton, ACT 2601, Australia; and, School of Physics, University of Melbourne, Parkville, Victoria 3010, Australia"
+        }
+      ],
+      "name": {
+        "given_name": "James W.",
+        "surname": "Gardner"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "School of Physics, University of Melbourne, Parkville, Victoria 3010, Australia; Centre for Astrophysics and Supercomputing, Swinburne University of Technology, Hawthorn, Victoria 3122, Australia; OzGrav-Melbourne, Australian Research Council Centre of Excellence for Gravitational Wave Discovery, Parkville, Victoria 3010, Australia; and School of Physics and Astronomy and Institute for Gravitational Wave Astronomy, University of Birmingham, Edgbaston, Birmingham, B15 9TT, United Kingdom"
+        }
+      ],
+      "attrib": {
+        "corresp": true
+      },
+      "name": {
+        "given_name": "Hannah",
+        "surname": "Middleton"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Department of Electrical and Electronic Engineering, University of Melbourne, Parkville, Victoria 3010, Australia and, OzGrav-Melbourne, Australian Research Council Centre of Excellence for Gravitational Wave Discovery, Parkville, Victoria 3010, Australia"
+        }
+      ],
+      "name": {
+        "given_name": "Changrong",
+        "surname": "Liu"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "School of Physics, University of Melbourne, Parkville, Victoria 3010, Australia, and, OzGrav-Melbourne, Australian Research Council Centre of Excellence for Gravitational Wave Discovery, Parkville, Victoria 3010, Australia"
+        }
+      ],
+      "name": {
+        "given_name": "Andrew",
+        "surname": "Melatos"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Department of Electrical and Electronic Engineering, University of Melbourne, Parkville, Victoria 3010, Australia and, OzGrav-Melbourne, Australian Research Council Centre of Excellence for Gravitational Wave Discovery, Parkville, Victoria 3010, Australia"
+        }
+      ],
+      "name": {
+        "given_name": "Robin",
+        "surname": "Evans"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Department of Electrical and Electronic Engineering, University of Melbourne, Parkville, Victoria 3010, Australia"
+        }
+      ],
+      "name": {
+        "given_name": "William",
+        "surname": "Moran"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Department of Physics, The University of Adelaide, Adelaide, South Australia 5005, Australia; The Institute of Photonics and Advanced Sensing (IPAS), The University of Adelaide, Adelaide, South Australia 5005, Australia; and, OzGrav-Adelaide, Australian Research Council Centre of Excellence for Gravitational Wave Discovery, Adelaide, South Australia 5005, Australia"
+        }
+      ],
+      "name": {
+        "given_name": "Deeksha",
+        "surname": "Beniwal"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Department of Physics, The University of Adelaide, Adelaide, South Australia 5005, Australia"
+        },
+        {
+          "affPubRaw": "The Institute of Photonics and Advanced Sensing (IPAS), The University of Adelaide, Adelaide, South Australia 5005, Australia; and, OzGrav-Adelaide, Australian Research Council Centre of Excellence for Gravitational Wave Discovery, Adelaide, South Australia 5005, Australia"
+        }
+      ],
+      "name": {
+        "given_name": "Huy Tuong",
+        "surname": "Cao"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Department of Physics, The University of Adelaide, Adelaide, South Australia 5005, Australia; The Institute of Photonics and Advanced Sensing (IPAS), The University of Adelaide, Adelaide, South Australia 5005, Australia; and, OzGrav-Adelaide, Australian Research Council Centre of Excellence for Gravitational Wave Discovery, Adelaide, South Australia 5005, Australia"
+        }
+      ],
+      "name": {
+        "given_name": "Craig",
+        "surname": "Ingram"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Department of Physics, The University of Adelaide, Adelaide, South Australia 5005, Australia; The Institute of Photonics and Advanced Sensing (IPAS), The University of Adelaide, Adelaide, South Australia 5005, Australia; and, OzGrav-Adelaide, Australian Research Council Centre of Excellence for Gravitational Wave Discovery, Adelaide, South Australia 5005, Australia"
+        }
+      ],
+      "name": {
+        "given_name": "Daniel",
+        "surname": "Brown"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Department of Physics, The University of Adelaide, Adelaide, South Australia 5005, Australia; The Institute of Photonics and Advanced Sensing (IPAS), The University of Adelaide, Adelaide, South Australia 5005, Australia; and, OzGrav-Adelaide, Australian Research Council Centre of Excellence for Gravitational Wave Discovery, Adelaide, South Australia 5005, Australia"
+        }
+      ],
+      "name": {
+        "given_name": "Sebastian",
+        "surname": "Ng"
+      }
+    }
+  ],
+  "copyright": {
+    "statement": "\u00a9 2022 Author(s).",
+    "status": true
+  },
+  "editorialHistory": {
+    "acceptedDate": "2021-12-07",
+    "receivedDates": [
+      "2020-11-19"
+    ]
+  },
+  "openAccess": {
+    "license": "Published under an exclusive license by American Association of Physics Teachers."
+  },
+  "pagination": {
+    "firstPage": "286",
+    "lastPage": "296",
+    "pageCount": "11",
+    "pageRange": "286-296"
+  },
+  "persistentIDs": [
+    {
+      "DOI": "10.1119/10.0009409"
+    }
+  ],
+  "pubDate": {
+    "printDate": "2022-04-00"
+  },
+  "publication": {
+    "ISSN": [
+      {
+        "issnString": "0002-9505",
+        "pubtype": "ppub"
+      },
+      {
+        "issnString": "1943-2909",
+        "pubtype": "epub"
+      }
+    ],
+    "issueNum": "4",
+    "pubName": "American Journal of Physics",
+    "pubYear": "2022",
+    "publisher": "American Association of Physics Teachers",
+    "volumeNum": "90"
+  },
+  "publisherIDs": [
+    {
+      "Identifier": "AJP22-AR-00002",
+      "attribute": "manuscript"
+    }
+  ],
+  "recordData": {
+    "createdTime": "",
+    "loadFormat": "JATS",
+    "loadLocation": "",
+    "loadType": "fromFile",
+    "parsedTime": "",
+    "recordOrigin": ""
+  },
+  "references": [
+    "<ref id=\"c1\"> <label>1.</label> <mixed-citation publication-type=\"journal\"> <string-name> <given-names>B. P.</given-names> <surname>Abbott</surname> </string-name>, <string-name> <given-names>R.</given-names> <surname>Abbott</surname> </string-name>, <string-name> <given-names>T. D.</given-names> <surname>Abbott</surname> </string-name> <etal><italic>et al.</italic></etal>, \u201c <article-title>Observation of gravitational waves from a binary black hole merger</article-title>,\u201d <source>Phys. Rev. Lett.</source> <volume><bold>116</bold></volume>, <fpage>061102</fpage> (<year>2016</year>).<pub-id pub-id-type=\"doi\" specific-use=\"metadata\">10.1103/PhysRevLett.116.061102</pub-id></mixed-citation> </ref>",
+    "<ref id=\"c2\"> <label>2.</label> <mixed-citation publication-type=\"journal\"> <string-name> <given-names>S. J.</given-names> <surname>Cooper</surname> </string-name>, <string-name> <given-names>A. C.</given-names> <surname>Green</surname> </string-name>, <string-name> <given-names>H. R.</given-names> <surname>Middleton</surname> </string-name> <etal><italic>et al.</italic></etal>, \u201c <article-title>An interactive gravitational-wave detector model for museums and fairs</article-title>,\u201d <source>Am. J. Phys.</source> <volume><bold>89</bold></volume>(<issue>7</issue>), <fpage>702</fpage>\u2013<lpage>712</lpage> (<year>2021</year>).<pub-id pub-id-type=\"doi\" specific-use=\"metadata\">10.1119/10.0003534</pub-id></mixed-citation> </ref>",
+    "<ref id=\"c3\"> <label>3.</label> <mixed-citation publication-type=\"eprint\"><collab>LIGO Scientific Collaboration</collab>, <collab>Virgo Collaboration</collab>, <collab>KAGRA Collaboration</collab>, <etal><italic>et al.</italic></etal>, \u201c <article-title>GWTC-3: Compact Binary Coalescences Observed by LIGO and Virgo During the Second Part of the Third Observing Run</article-title>,\u201d e-print <ext-link ext-link-type=\"arxiv\" xlink:href=\"http://arxiv.org/abs/arXiv:2111.03606\">arXiv:2111.03606</ext-link> (<year>2021</year>).</mixed-citation> </ref>",
+    "<ref id=\"c4\"> <label>4.</label> <mixed-citation publication-type=\"journal\"><collab>LIGO Scientific Collaboration, Virgo Collaboration, KAGRA Collaboration</collab>, <etal><italic>et al.</italic></etal>, \u201c <article-title>Observation of gravitational waves from two neutron star-black hole coalescences</article-title>,\u201d <source>Astrophys. J.</source> <volume><bold>915</bold></volume>(<issue>1</issue>), <fpage>L5</fpage> (<year>2021</year>).<pub-id pub-id-type=\"doi\" specific-use=\"metadata\">10.3847/2041-8213/ac082e</pub-id></mixed-citation> </ref>",
+    "<ref id=\"c5\"> <label>5.</label> <mixed-citation publication-type=\"book\"> <string-name> <given-names>W. H. G.</given-names> <surname>Lewin</surname> </string-name>, <string-name> <given-names>J.</given-names> <surname>van Paradijs</surname> </string-name>, and <string-name> <given-names>E. P. J.</given-names> <surname>van den Heuvel</surname> </string-name>, <source><italic>X-Ray Binaries</italic></source> ( <publisher-name>Cambridge U. P</publisher-name>., <publisher-loc>Cambridge</publisher-loc>, <year>1997</year>).</mixed-citation> </ref>",
+    "<ref id=\"c6\"> <label>6.</label> <mixed-citation publication-type=\"journal\"><collab>LIGO Scientific Collaboration and Virgo Collaboration</collab> <etal><italic>et al.</italic></etal>, \u201c <article-title>Search for gravitational waves from Scorpius X-1 in the second advanced LIGO observing run with an improved hidden Markov model</article-title>,\u201d <source>Phys. Rev. D</source> <volume><bold>100</bold></volume>(<issue>12</issue>), <fpage>122002</fpage> (<year>2019</year>).<pub-id pub-id-type=\"doi\" specific-use=\"metadata\">10.1103/PhysRevD.100.122002</pub-id></mixed-citation> </ref>",
+    "<ref id=\"c7\"> <label>7.</label> <mixed-citation publication-type=\"journal\"> <string-name> <given-names>S.</given-names> <surname>Suvorova</surname> </string-name>, <string-name> <given-names>P.</given-names> <surname>Clearwater</surname> </string-name>, <string-name> <given-names>A.</given-names> <surname>Melatos</surname> </string-name> <etal><italic>et al.</italic></etal>, \u201c <article-title>Hidden Markov model tracking of continuous gravitational waves from a binary neutron star with wandering spin. II. Binary orbital phase tracking</article-title>,\u201d <source>Phys. Rev. D</source> <volume><bold>96</bold></volume>(<issue>10</issue>), <fpage>102006</fpage> (<year>2017</year>).<pub-id pub-id-type=\"doi\" specific-use=\"metadata\">10.1103/PhysRevD.96.102006</pub-id></mixed-citation> </ref>",
+    "<ref id=\"c8\"> <label>8.</label> <mixed-citation publication-type=\"other\">When introducing the acoustic analogy to lay audiences, it is important to emphasize that gravitational waves are not sound. For example, gravitational waves can propagate in a vacuum. whereas sound cannot. Gravitational waves also travel at the speed of light and are not longitudinal waves.</mixed-citation> </ref>",
+    "<ref id=\"c9\"> <label>9.</label> <mixed-citation publication-type=\"journal\"> <string-name> <given-names>Piotr</given-names> <surname>Jaranowski</surname> </string-name>, <string-name> <given-names>Andrzej</given-names> <surname>Kr\u00f3lak</surname> </string-name>, and <string-name> <given-names>Bernard F.</given-names> <surname>Schutz</surname> </string-name>, \u201c <article-title>Data analysis of gravitational-wave signals from spinning neutron stars: The signal and its detection</article-title>,\u201d <source>Phys. Rev. D</source> <volume><bold>58</bold></volume>(<issue>6</issue>), <fpage>063001</fpage> (<year>1998</year>).<pub-id pub-id-type=\"doi\" specific-use=\"metadata\">10.1103/PhysRevD.58.063001</pub-id></mixed-citation> </ref>",
+    "<ref id=\"c10\"> <label>10.</label> <mixed-citation publication-type=\"journal\"> <string-name> <given-names>A.</given-names> <surname>Viterbi</surname> </string-name>, \u201c <article-title>Error bounds for convolutional codes and an asymptotically optimum decoding algorithm</article-title>,\u201d <source>IEEE Trans. Inf. Theory</source> <volume><bold>13</bold></volume>(<issue>2</issue>), <fpage>260</fpage>\u2013<lpage>269</lpage> (<year>1967</year>).<pub-id pub-id-type=\"doi\" specific-use=\"metadata\">10.1109/TIT.1967.1054010</pub-id></mixed-citation> </ref>",
+    "<ref id=\"c11\"> <label>11.</label> <mixed-citation publication-type=\"journal\"> <string-name> <given-names>Ralph P.</given-names> <surname>Muscatell</surname> </string-name>, \u201c <article-title>Laser microphone</article-title>,\u201d <source>J. Acoust. Soc. Am.</source> <volume><bold>76</bold></volume>(<issue>4</issue>), <fpage>1284</fpage> (<year>1984</year>).<pub-id pub-id-type=\"doi\" specific-use=\"metadata\">10.1121/1.391370</pub-id></mixed-citation> </ref>",
+    "<ref id=\"c12\"> <label>12.</label> <mixed-citation publication-type=\"other\">A photodiode is an electrical component that acts as a regular diode when no light is incident on it, blocking any current flow in the reverse direction. As the intensity of incident light rises, it becomes increasingly conductive in the reverse direction.</mixed-citation> </ref>",
+    "<ref id=\"c13\"> <label>13.</label> <mixed-citation publication-type=\"book\"> <string-name> <given-names>Steven M.</given-names> <surname>Kay</surname> </string-name>, <source><italic>Fundamentals of Statistical Signal Processing: Estimation Theory</italic></source> ( <publisher-name>Prentice-Hall, Inc</publisher-name>., <publisher-loc>New York</publisher-loc>, <year>1993</year>).</mixed-citation> </ref>",
+    "<ref id=\"c14\"> <label>14.</label> <mixed-citation publication-type=\"confproc\"> <string-name> <given-names>Yi</given-names> <surname>Hu</surname> </string-name> and <string-name> <given-names>P. C.</given-names> <surname>Loizou</surname> </string-name>, \u201c <article-title>Subjective comparison of speech enhancement algorithms</article-title>,\u201d in<conf-name><italic>2006 IEEE International Conference on Acoustics Speech and Signal Processing Proceedings</italic></conf-name> ( <publisher-name>IEEE</publisher-name>, <year>2006</year>), Vol. <volume>1</volume>, pp. <fpage>I</fpage>\u2013<lpage>I</lpage>.</mixed-citation> </ref>",
+    "<ref id=\"c15\"> <label>15.</label> <mixed-citation publication-type=\"website\"> <string-name> <given-names>Wilson</given-names> <surname>Ching</surname> </string-name>, LogMMSE for &lt;<ext-link ext-link-type=\"uri\" xlink:href=\"https://github.com/wilsonchingg/logmmse\">https://github.com/wilsonchingg/logmmse</ext-link>&gt;, <year>2019</year>.</mixed-citation> </ref>",
+    "<ref id=\"c16\"> <label>16.</label> <mixed-citation publication-type=\"confproc\"> <string-name> <given-names>Hatem M.</given-names> <surname>Elfekey</surname> </string-name> and <string-name> <given-names>Hany Ayad</given-names> <surname>Bastawrous</surname> </string-name>, \u201c <article-title>Design and implementation of a new thin cost effective AC hum based touch sensing keyboard</article-title>,\u201d in <conf-name><italic>2013 IEEE International Conference on Consumer Electronics (ICCE)</italic></conf-name> ( <publisher-name>IEEE</publisher-name>, <year>2013</year>), pp. <fpage>602</fpage>\u2013<lpage>605</lpage>.</mixed-citation> </ref>",
+    "<ref id=\"c17\"> <label>17.</label> <mixed-citation publication-type=\"journal\"> <string-name> <given-names>Benjamin P.</given-names> <surname>Abbott</surname> </string-name>, <string-name> <given-names>R.</given-names> <surname>Abbott</surname> </string-name>, <string-name> <given-names>T. D.</given-names> <surname>Abbott</surname> </string-name> <etal><italic>et al.</italic></etal>, \u201c <article-title>Exploring the sensitivity of next generation gravitational wave detectors</article-title>,\u201d <source>Classical Quantum Gravity</source> <volume><bold>34</bold></volume>(<issue>4</issue>), <fpage>044001</fpage> (<year>2017</year>).<pub-id pub-id-type=\"doi\" specific-use=\"metadata\">10.1088/1361-6382/aa51f4</pub-id></mixed-citation> </ref>",
+    "<ref id=\"c18\"> <label>18.</label> <mixed-citation publication-type=\"thesis\"> <string-name> <given-names>T.</given-names> <surname>Sekiguchi</surname> </string-name>, \u201c <article-title>Study of low frequency vibration isolation system for large scale gravitational wave detectors</article-title>,\u201d Ph.D. thesis ( <publisher-name>Tokyo University</publisher-name>, <year>2016</year>).</mixed-citation> </ref>",
+    "<ref id=\"c19\"> <label>19.</label> <mixed-citation publication-type=\"other\"> <string-name> <given-names>S. L. H.</given-names> <surname>Verhoeven</surname> </string-name>, <string-name> <given-names>M. M. J.</given-names> <surname>van de Wal</surname> </string-name>, <string-name> <given-names>IrTAE.</given-names> <surname>Oomen</surname> </string-name>, and <string-name> <given-names>O. H.</given-names> <surname>Bosgra</surname> </string-name>, \u201c <article-title>Robust control of flexible motion systems: A literature study</article-title>,\u201d DCT Rep. (<year>2009</year>).</mixed-citation> </ref>",
+    "<ref id=\"c20\"> <label>20.</label> <mixed-citation publication-type=\"eprint\"> <string-name> <given-names>Daniel</given-names> <surname>Dzibela</surname> </string-name> and <string-name> <given-names>Armin</given-names> <surname>Sehr</surname> </string-name>, \u201c <article-title>Hidden-Markov-model based speech enhancement</article-title>,\u201d e-print <ext-link ext-link-type=\"arxiv\" xlink:href=\"http://arxiv.org/abs/arXiv:1707.01090\">arXiv:1707.01090</ext-link> (<year>2017</year>).</mixed-citation> </ref>",
+    "<ref id=\"c21\"> <label>21.</label> <mixed-citation publication-type=\"eprint\"> <string-name> <given-names>Santiago</given-names> <surname>Pascual</surname> </string-name>, <string-name> <given-names>Antonio</given-names> <surname>Bonafonte</surname> </string-name>, and <string-name> <given-names>Joan</given-names> <surname>Serr\u00e0</surname> </string-name>, \u201c <article-title>SEGAN: Speech enhancement generative adversarial network</article-title>,\u201d e-print <ext-link ext-link-type=\"arxiv\" xlink:href=\"http://arxiv.org/abs/arXiv:1703.09452\">arXiv:1703.09452</ext-link> (<year>2017</year>).</mixed-citation> </ref>",
+    "<ref id=\"c22\"> <label>22.</label> <mixed-citation publication-type=\"book\"> <string-name> <given-names>Guy P.</given-names> <surname>Nason</surname> </string-name> and <string-name> <given-names>Bernard W.</given-names> <surname>Silverman</surname> </string-name>, \u201c <article-title>The stationary wavelet transform and some statistical applications</article-title>,\u201d in <source><italic>Wavelets and Statistics</italic></source> ( <publisher-name>Springer</publisher-name>, <publisher-loc>New York</publisher-loc>, <year>1995</year>), pp. <fpage>281</fpage>\u2013<lpage>299</lpage>.</mixed-citation> </ref>",
+    "<ref id=\"c23\"> <label>23.</label> <mixed-citation publication-type=\"confproc\"> <string-name> <given-names>Z.</given-names> <surname>Tufekci</surname> </string-name> and <string-name> <given-names>John N</given-names> <surname>Gowdy</surname> </string-name>, \u201c <article-title>Feature extraction using discrete wavelet transform for speech recognition</article-title>,\u201d in <conf-name><italic>Proceedings of the IEEE SoutheastCon 2000, Preparing for the New Millennium (Cat. No. 00CH37105)</italic></conf-name> ( <publisher-name>IEEE</publisher-name>, <year>2000</year>), pp. <fpage>116</fpage>\u2013<lpage>123</lpage>.</mixed-citation> </ref>",
+    "<ref id=\"c24\"> <label>24.</label> <mixed-citation publication-type=\"confproc\"><collab>Johnson Ihyeh Agbinya.</collab> \u201c <article-title>Discrete wavelet transform techniques in speech processing</article-title>,\u201d in <conf-name><italic>Proceedings of Digital Processing Applications (TENCON'96)</italic></conf-name> ( <publisher-name>IEEE</publisher-name>, <year>1996</year>), Vol. <volume>2</volume>, pp. <fpage>514</fpage>\u2013<lpage>519</lpage>.</mixed-citation> </ref>",
+    "<ref id=\"c25\"> <label>25.</label> <mixed-citation publication-type=\"book\"> <string-name> <given-names>E. T.</given-names> <surname>Jaynes</surname> </string-name>, <source><italic>Probability Theory: The Logic of Science</italic></source> ( <publisher-name>Cambridge U. P</publisher-name>., <publisher-loc>Cambridge</publisher-loc>, <year>2003</year>).</mixed-citation> </ref>",
+    "<ref id=\"c26\"> <label>26.</label> <mixed-citation publication-type=\"supplementary-material\">See supplementary material at <inline-supplementary-material xlink:href=\"https://www.scitation.org/doi/suppl/10.1119/10.0009409\">https://www.scitation.org/doi/suppl/10.1119/10.0009409</inline-supplementary-material> for further resources and a detailed explanation and discussion of the different signal-processing techniques used for speech enhancement of the recordings from the optical microphone, including techniques not presented in the main text.</mixed-citation> </ref>"
+  ],
+  "title": {
+    "textEnglish": "Continuous gravitational waves in the lab: Recovering audio signals with a table-top optical microphone"
+  }
+}

@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<record>
+  <header>
+    <identifier>info:doi/10.1017%2FCBO9780511709265</identifier>
+    <datestamp>2016-10-15</datestamp>
+    <setSpec>B</setSpec>
+    <setSpec>B:10.1017</setSpec>
+    <setSpec>B:10.1017:678960</setSpec>
+  </header>
+  <metadata>
+    <crossref xmlns="http://www.crossref.org/xschema/1.1" xsi:schemaLocation="http://www.crossref.org/xschema/1.1 http://www.crossref.org/schema/unixref1.1.xsd">
+      <book book_type="monograph">
+        <book_metadata>
+          <contributors>
+            <person_name sequence="first" contributor_role="author">
+              <given_name>Agnes Mary</given_name>
+              <surname>Clerke</surname>
+            </person_name>
+          </contributors>
+          <titles>
+            <title>The Herschels and Modern Astronomy</title>
+          </titles>
+          <publication_date media_type="print">
+            <year>2010</year>
+          </publication_date>
+          <publication_date media_type="online">
+            <year>2009</year>
+          </publication_date>
+          <isbn>9780511709265</isbn>
+          <publisher>
+            <publisher_name>Cambridge University Press</publisher_name>
+            <publisher_place>Cambridge</publisher_place>
+          </publisher>
+          <doi_data>
+            <doi>10.1017/CBO9780511709265</doi>
+            <resource>http://ebooks.cambridge.org/ref/id/CBO9780511709265</resource>
+          </doi_data>
+        </book_metadata>
+      </book>
+    </crossref>
+  </metadata>
+</record>

@@ -1,0 +1,147 @@
+{
+  "abstract": {
+    "textEnglish": "Since 2015, the Ecomodernist Manifesto has inspired efforts to shape a better future for people and the rest of life in the Anthropocene. At the same time, misconceptions and misunderstandings have arisen about what ecomodernism stands for. As three authors of the Manifesto, we offer this clarifying perspective."
+  },
+  "authors": [
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "University of Maryland, Baltimore County, USA"
+        },
+        {
+          "affPubRaw": "University of Oxford, UK"
+        }
+      ],
+      "attrib": {
+        "email": "ece@umbc.edu",
+        "orcid": "0000-0002-2006-3362"
+      },
+      "name": {
+        "given_name": "Erle C",
+        "surname": "Ellis"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Alliance for Science, USA"
+        },
+        {
+          "affPubRaw": "RePlanet, Belgium"
+        }
+      ],
+      "attrib": {
+        "orcid": "0009-0008-9059-4653"
+      },
+      "name": {
+        "given_name": "Mark",
+        "surname": "Lynas"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Breakthrough Institute, USA"
+        }
+      ],
+      "name": {
+        "given_name": "Ted",
+        "surname": "Nordhaus"
+      }
+    }
+  ],
+  "copyright": {
+    "statement": "\u00a9 The Author(s) 2023",
+    "status": true
+  },
+  "keywords": [
+    {
+      "keyString": "environmentalism",
+      "keySystem": "misc"
+    },
+    {
+      "keyString": "environmental limits",
+      "keySystem": "misc"
+    },
+    {
+      "keyString": "environmental politics",
+      "keySystem": "misc"
+    },
+    {
+      "keyString": "human development",
+      "keySystem": "misc"
+    },
+    {
+      "keyString": "innovation",
+      "keySystem": "misc"
+    },
+    {
+      "keyString": "technology",
+      "keySystem": "misc"
+    },
+    {
+      "keyString": "trade-offs",
+      "keySystem": "misc"
+    },
+    {
+      "keyString": "values",
+      "keySystem": "misc"
+    },
+    {
+      "keyString": "economic growth",
+      "keySystem": "misc"
+    }
+  ],
+  "openAccess": {
+    "license": "This article is distributed under the terms of the Creative Commons Attribution-NonCommercial 4.0 License (https://creativecommons.org/licenses/by-nc/4.0/) which permits non-commercial use, reproduction and distribution of the work without further permission provided the original work is attributed as specified on the SAGE and Open Access pages (https://us.sagepub.com/en-us/nam/open-access-at-sage).",
+    "licenseURL": "https://creativecommons.org/licenses/by-nc/4.0/",
+    "open": true
+  },
+  "pagination": {
+    "firstPage": "684",
+    "lastPage": "685",
+    "pageRange": "684-685"
+  },
+  "persistentIDs": [
+    {
+      "DOI": "10.1177/20530196231221495"
+    }
+  ],
+  "pubDate": {
+    "electrDate": "2024-12-00"
+  },
+  "publication": {
+    "ISSN": [
+      {
+        "issnString": "2053-0196",
+        "pubtype": "ppub"
+      },
+      {
+        "issnString": "2053-020X",
+        "pubtype": "epub"
+      }
+    ],
+    "issueNum": "3",
+    "pubName": "The Anthropocene Review",
+    "pubYear": "2024",
+    "publisher": "SAGE Publications",
+    "volumeNum": "11"
+  },
+  "publisherIDs": [
+    {
+      "Identifier": "10.1177_20530196231221495",
+      "attribute": "publisher-id"
+    }
+  ],
+  "recordData": {
+    "createdTime": "",
+    "loadFormat": "JATS",
+    "loadLocation": "",
+    "loadType": "fromFile",
+    "parsedTime": "",
+    "recordOrigin": ""
+  },
+  "title": {
+    "textEnglish": "Ecomodernism: A clarifying perspective"
+  }
+}

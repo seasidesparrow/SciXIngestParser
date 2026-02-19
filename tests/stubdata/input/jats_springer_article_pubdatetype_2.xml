@@ -1,0 +1,4415 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article SYSTEM "http://jats.nlm.nih.gov/archiving/1.2/JATS-archivearticle1.dtd">
+<article
+	xmlns:mml="http://www.w3.org/1998/Math/MathML"
+	xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.2" article-type="research-article" xml:lang="en">
+	<front>
+		<journal-meta>
+			<journal-id journal-id-type="publisher-id">13157</journal-id>
+			<journal-id journal-id-type="doi">10.1007/13157.1943-6246</journal-id>
+			<journal-title-group>
+				<journal-title>Wetlands</journal-title>
+				<journal-subtitle>Official Scholarly Journal of the Society of Wetland Scientists</journal-subtitle>
+				<abbrev-journal-title abbrev-type="publisher">Wetlands</abbrev-journal-title>
+			</journal-title-group>
+			<issn pub-type="ppub">0277-5212</issn>
+			<issn pub-type="epub">1943-6246</issn>
+			<publisher>
+				<publisher-name>Springer Netherlands</publisher-name>
+				<publisher-loc>Dordrecht</publisher-loc>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="publisher-id">s13157-023-01762-8</article-id>
+			<article-id pub-id-type="manuscript">1762</article-id>
+			<article-id pub-id-type="doi">10.1007/s13157-023-01762-8</article-id>
+			<article-categories>
+				<subj-group subj-group-type="heading">
+					<subject>Original Research Article</subject>
+				</subj-group>
+			</article-categories>
+			<title-group>
+				<article-title xml:lang="en">Identifying Internal Distributions and Multi-Scenario Simulation of Ecosystem Service Value in Liaohe Basin Based on Geodetector and PLUS Model</article-title>
+			</title-group>
+			<contrib-group>
+				<contrib contrib-type="author" id="Au1">
+					<name>
+						<surname>Jia</surname>
+						<given-names>Changgeng</given-names>
+					</name>
+					<xref ref-type="aff" rid="Aff1">1</xref>
+				</contrib>
+				<contrib contrib-type="author" id="Au2">
+					<name>
+						<surname>Fan</surname>
+						<given-names>Yu</given-names>
+					</name>
+					<xref ref-type="aff" rid="Aff1">1</xref>
+				</contrib>
+				<contrib contrib-type="author" id="Au3">
+					<name>
+						<surname>Wei</surname>
+						<given-names>Chaoxiang</given-names>
+					</name>
+					<xref ref-type="aff" rid="Aff1">1</xref>
+				</contrib>
+				<contrib contrib-type="author" id="Au4">
+					<name>
+						<surname>Luo</surname>
+						<given-names>Kunyu</given-names>
+					</name>
+					<xref ref-type="aff" rid="Aff1">1</xref>
+				</contrib>
+				<contrib contrib-type="author" id="Au5">
+					<name>
+						<surname>Li</surname>
+						<given-names>Sihui</given-names>
+					</name>
+					<xref ref-type="aff" rid="Aff1">1</xref>
+				</contrib>
+				<contrib contrib-type="author" corresp="yes" id="Au6">
+					<name>
+						<surname>Song</surname>
+						<given-names>Youtao</given-names>
+					</name>
+					<xref ref-type="aff" rid="Aff1">1</xref>
+					<xref ref-type="aff" rid="Aff2">2</xref>
+					<xref ref-type="corresp" rid="IDs13157023017628_cor6">f</xref>
+				</contrib>
+				<aff id="Aff1">
+					<label>1</label>
+					<institution-wrap>
+						<institution-id institution-id-type="ROR">https://ror.org/03xpwj629</institution-id>
+						<institution-id institution-id-type="GRID">grid.411356.4</institution-id>
+						<institution-id institution-id-type="ISNI">0000 0000 9339 3042</institution-id>
+						<institution content-type="org-division">College of Environmental Sciences</institution>
+						<institution content-type="org-name">Liaoning University</institution>
+					</institution-wrap>
+					<addr-line content-type="postcode">110036</addr-line>
+					<addr-line content-type="city">Shenyang</addr-line>
+					<country country="CN">People’s Republic of China</country>
+				</aff>
+				<aff id="Aff2">
+					<label>2</label>
+					<institution-wrap>
+						<institution-id institution-id-type="ROR">https://ror.org/018rbtf37</institution-id>
+						<institution-id institution-id-type="GRID">grid.413109.e</institution-id>
+						<institution-id institution-id-type="ISNI">0000 0000 9735 6249</institution-id>
+						<institution content-type="org-division">College of Marine and Environmental Sciences</institution>
+						<institution content-type="org-name">Tianjin University of Science &amp; Technology</institution>
+					</institution-wrap>
+					<addr-line content-type="postcode">300457</addr-line>
+					<addr-line content-type="city">Tianjin</addr-line>
+					<country country="CN">China</country>
+				</aff>
+			</contrib-group>
+			<author-notes>
+				<corresp id="IDs13157023017628_cor6">
+					<label>f</label>
+					<email>youtaosong@sina.com</email>
+				</corresp>
+			</author-notes>
+			<pub-date date-type="pub" publication-format="electronic">
+				<day>18</day>
+				<month>12</month>
+				<year>2023</year>
+			</pub-date>
+			<pub-date date-type="pub" publication-format="print">
+				<month>1</month>
+				<year>2024</year>
+			</pub-date>
+			<volume>44</volume>
+			<issue seq="7">1</issue>
+			<elocation-id>7</elocation-id>
+			<history>
+				<date date-type="registration">
+					<day>5</day>
+					<month>12</month>
+					<year>2023</year>
+				</date>
+				<date date-type="received">
+					<day>17</day>
+					<month>8</month>
+					<year>2023</year>
+				</date>
+				<date date-type="accepted">
+					<day>5</day>
+					<month>12</month>
+					<year>2023</year>
+				</date>
+				<date date-type="online">
+					<day>18</day>
+					<month>12</month>
+					<year>2023</year>
+				</date>
+			</history>
+			<permissions>
+				<copyright-statement>© The Author(s), under exclusive licence to Society of Wetland Scientists 2023. Springer Nature or its licensor (e.g. a society or other partner) holds exclusive rights to this article under a publishing agreement with the author(s) or other rightsholder(s); author self-archiving of the accepted manuscript version of this article is solely governed by the terms of such publishing agreement and applicable law.</copyright-statement>
+				<copyright-year>2023</copyright-year>
+			</permissions>
+			<abstract id="Abs1" xml:lang="en">
+				<title>Abstract</title>
+				<p id="Par1">Ecosystem services value (ESV) can assess the level of basin ecological restoration and provide a basis for ecological management decision-making. This study object selects Liaohe River Basin (LHB), a typical basin in Northeast China. The ecosystem service value variation caused by changes in land use cover and the spatial distribution characteristics was evaluated by employing the benefit transfer method, which is based on data sets for land use over 2000–2020. Meanwhile, geographical detector was employed to investigate the impacts and interactions of various factors driving the ESV, and predicted future changes in land and ESV by PLUS model. The results showed the following: (1) LHB land transformations mainly concentrated in the transformation between grassland, farmland and forestland. ESV in LHB decreased and then increased between 2000 and 2020 (1224 billion-928 billion-1238 billion), (2) Ecosystem service value exhibited a strong positive spatial autocorrelation, high ESV was mainly distributed in the eastern and western regions of LHB, and low ESV in the central region. (3) The variation in ecosystem service value mainly arose from the human activity intensity index of human factors. (4) In the future, the ecological protection priority scenario could improve the ESV in LHB, and the natural development priority and economic development priority scenario was not conducive to the improvement of ESV. The results showed that the ecological restoration effect of the LHB was obvious with the ecosystem service value is significantly improved. In the future, attention should be paid to control human activities and strengthen ecological protection in ESV hotspots.</p>
+			</abstract>
+			<kwd-group xml:lang="en">
+				<title>Keywords</title>
+				<kwd>Basin ecosystem service value</kwd>
+				<kwd>Land use change transition</kwd>
+				<kwd>Spatiotemporal pattern</kwd>
+				<kwd>Drive analysis</kwd>
+				<kwd>Multi-scenario simulation</kwd>
+			</kwd-group>
+			<custom-meta-group>
+				<custom-meta>
+					<meta-name>publisher-imprint-name</meta-name>
+					<meta-value>Springer</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>volume-issue-count</meta-name>
+					<meta-value>8</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>issue-article-count</meta-name>
+					<meta-value>12</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>issue-toc-levels</meta-name>
+					<meta-value>0</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>issue-pricelist-year</meta-name>
+					<meta-value>2024</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>issue-copyright-holder</meta-name>
+					<meta-value>Society of Wetland Scientists</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>issue-copyright-year</meta-name>
+					<meta-value>2024</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>article-contains-esm</meta-name>
+					<meta-value>No</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>article-numbering-style</meta-name>
+					<meta-value>Unnumbered</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>article-registration-date-year</meta-name>
+					<meta-value>2023</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>article-registration-date-month</meta-name>
+					<meta-value>12</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>article-registration-date-day</meta-name>
+					<meta-value>5</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>article-toc-levels</meta-name>
+					<meta-value>0</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>toc-levels</meta-name>
+					<meta-value>0</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>volume-type</meta-name>
+					<meta-value>Regular</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>journal-product</meta-name>
+					<meta-value>NonStandardArchiveJournal</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>numbering-style</meta-name>
+					<meta-value>Unnumbered</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>article-grants-type</meta-name>
+					<meta-value>Regular</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>metadata-grant</meta-name>
+					<meta-value>OpenAccess</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>abstract-grant</meta-name>
+					<meta-value>OpenAccess</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>bodypdf-grant</meta-name>
+					<meta-value>Restricted</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>bodyhtml-grant</meta-name>
+					<meta-value>Restricted</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>bibliography-grant</meta-name>
+					<meta-value>Restricted</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>esm-grant</meta-name>
+					<meta-value>OpenAccess</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>online-first</meta-name>
+					<meta-value>false</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>pdf-file-reference</meta-name>
+					<meta-value>BodyRef/PDF/13157_2023_Article_1762.pdf</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>pdf-type</meta-name>
+					<meta-value>Typeset</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>target-type</meta-name>
+					<meta-value>OnlinePDF</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>issue-online-date-year</meta-name>
+					<meta-value>2024</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>issue-online-date-month</meta-name>
+					<meta-value>2</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>issue-online-date-day</meta-name>
+					<meta-value>8</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>issue-print-date-year</meta-name>
+					<meta-value>2024</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>issue-print-date-month</meta-name>
+					<meta-value>2</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>issue-print-date-day</meta-name>
+					<meta-value>8</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>issue-type</meta-name>
+					<meta-value>Regular</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>article-type</meta-name>
+					<meta-value>OriginalPaper</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>journal-subject-primary</meta-name>
+					<meta-value>Life Sciences</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>journal-subject-secondary</meta-name>
+					<meta-value>Freshwater &amp; Marine Ecology</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>journal-subject-secondary</meta-name>
+					<meta-value>Environmental Management</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>journal-subject-secondary</meta-name>
+					<meta-value>Ecology</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>journal-subject-secondary</meta-name>
+					<meta-value>Hydrogeology</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>journal-subject-secondary</meta-name>
+					<meta-value>Coastal Sciences</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>journal-subject-secondary</meta-name>
+					<meta-value>Landscape Ecology</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>journal-subject-collection</meta-name>
+					<meta-value>Biomedical and Life Sciences</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>open-access</meta-name>
+					<meta-value>false</meta-value>
+				</custom-meta>
+			</custom-meta-group>
+		</article-meta>
+		<notes notes-type="Misc">
+			<p> Changgeng Jia and Yu Fan are co-first authors.</p>
+		</notes>
+		<notes notes-type="CopyrightComment">
+			<title>Copyright comment</title>
+			<p>Springer Nature or its licensor (e.g. a society or other partner) holds exclusive rights to this article under a publishing agreement with the author(s) or other rightsholder(s); author self-archiving of the accepted manuscript version of this article is solely governed by the terms of such publishing agreement and applicable law.</p>
+		</notes>
+	</front>
+	<body>
+		<sec id="Sec1">
+			<title>Introduction</title>
+			<p id="Par2">Ecosystem services (ES), the benefits that people obtain directly or indirectly from functioning ecosystems such as freshwater and food, underpin human well-being (Millennium Ecosystem Assessment
+				<xref ref-type="bibr" rid="CR26">2005</xref>; Costanza et al.
+				<xref ref-type="bibr" rid="CR5">2017</xref>). Continuous population growth, urbanization, and industrialization worldwide have imposed considerable pressures on ecosystems, altering the ecosystem services (Cumming et al.
+				<xref ref-type="bibr" rid="CR7">2014</xref>). Over the past several decades, 60% of worldwide ecosystem services have degraded, which has led to remarkable negative influences on human well-being (Costanza et al.
+				<xref ref-type="bibr" rid="CR6">2014</xref>). Therefore, understanding the spatiotemporal patterns of ecosystem services and their drivers has been a central issue for achieving natural resource management and sustainability on multiple scales (Zhang et al.
+				<xref ref-type="bibr" rid="CR46">2019</xref>).
+			</p>
+			<p id="Par3">Numerous studies have shown that human activities and climate change are the main driving factors leading to changes in ecosystems and their services (Zhang et al.
+				<xref ref-type="bibr" rid="CR49">2022</xref>). The policies of governments around the world are the key to leading to changes in ecosystem services The human activities brought about by a series of policies have promoted rapid economic development and urbanization process. This has exacerbated global ecological destruction and ecosystem degradation, leading to significant loss of natural habitats and significant loss of ecosystem services (Bai et al.
+				<xref ref-type="bibr" rid="CR1">2019</xref>). This situation is most severe in developing countries, such as China (Brain and Anderson
+				<xref ref-type="bibr" rid="CR3">2020</xref>). For improving the management of preservation initiatives, the Chinese government has implemented a range of ecological restoration programs (ERPs). These ERPs include the Program of Returning Farmland to Forest/Grassland (Bennett
+				<xref ref-type="bibr" rid="CR2">2008</xref>), the Natural Forest Protection Program (Xu et al.
+				<xref ref-type="bibr" rid="CR43">2006</xref>), and the Sloping Land Conversion Program (Yin and Yin
+				<xref ref-type="bibr" rid="CR45">2010</xref>). Numerous researches have demonstrated that the implementation of ERPs can successfully enhance damaged ecosystems. Ecological restoration project is an effective way to slow down ecological degradation, solve environmental problems and restore ecosystem function (Ouyang et al.
+				<xref ref-type="bibr" rid="CR27">2016</xref>). However, the effectiveness of these restoration projects has not been well evaluated, ecosystem service evaluation provides an important basis for solving this problem. Most research on ecosystem service assessment focuses on the impact of ecological destruction, urbanization, and climate change on ecosystem services, including specific administrative regions and natural ecosystems, including urban, woodland, grassland, wetland and other ecosystems (Fan et al.
+				<xref ref-type="bibr" rid="CR9">2023a</xref>; Yang et al.
+				<xref ref-type="bibr" rid="CR44">2023</xref>; Liu et al.
+				<xref ref-type="bibr" rid="CR18">2023</xref>; Zhang et al.
+				<xref ref-type="bibr" rid="CR49">2022</xref>), however, the impact of ecological restoration policies on regional ecosystem services is not yet clear.
+			</p>
+			<p id="Par4">Our research case is in the Liaohe River Basin (LHB), the ecological research in the Liaohe River Basin mainly focuses on the water quality, runoff changes, climate change, land change, and water resource carrying capacity of the basin (Lv et al.
+				<xref ref-type="bibr" rid="CR22">2014</xref>; Gong
+				<xref ref-type="bibr" rid="CR12">2022</xref>; Gao et al.,
+				<xref ref-type="bibr" rid="CR11">2022</xref>; Zhu et al.
+				<xref ref-type="bibr" rid="CR52">2023</xref>), to our knowledge, the evaluation of ecological restoration effectiveness and ecosystem service value in the Liaohe River Basin is almost in a blank state. Further, information that integrates changes in land cover and ecosystem services is also hampered by a lack of quantitative and spatially explicit data. This information deficiency has limited decision-making for promoting LHB regional economic development and improving human well-being. A comprehensive study focusing on how multiple ecosystem services have changed with land cover changes, impacted by diverse policies, is thus urgently needed for sustainable development in LHB .
+			</p>
+			<p id="Par5">The Liaohe River Basin (LHB) is one of the seven major rivers in China with important industrial and agricultural production base. Home to a population of 34.04 million in the LHB. It is also an important base for steel, machinery, building materials, chemical industry, grain production, and animal husbandry in China. The middle and lower reaches of the LHB are one of the most developed industrial and economic regions in China. Since the 1960s, with the acceleration of economic development, industrialization, and urbanization, numerous human activities have caused interference, especially the large discharge of industrial, agricultural, and domestic sewage. A series of problems such as poor water environment quality, river interruption, serious soil erosion, and continuous reduction of biodiversity have made ecological restoration in the LHB urgent. In 2006, the Liaohe River was listed as one of the key rivers for national governance. In 2010, the provincial government has designated the Liaohe River Reserve and established the Liaohe River Reserve Management Bureau to protect and manage the LHB through comprehensive planning, centralized management, and comprehensive protection between 2010 and 2019, the government invested a total of 18.249 billion yuan in water volume regulation, water quality restoration, and watershed ecological restoration (Fig. 
+				<xref rid="Fig1" ref-type="fig">1</xref>).
+			</p>
+			<p id="Par6">
+				<fig id="Fig1">
+					<label>Fig. 1</label>
+					<caption xml:lang="en">
+						<p>Ecological restoration investment in the Liaohe River Basin</p>
+					</caption>
+					<p>
+						<graphic specific-use="HTML" mime-subtype="PNG" xlink:href="MediaObjects/13157_2023_1762_Fig1_HTML.png"/>
+					</p>
+				</fig>
+			</p>
+			<p id="Par7">However, due to the lack of reasonable and effective evaluation methods, the effectiveness of ecological restoration is difficult to grasp in a timely manner, resulting in some unreasonable ecological restoration measures being difficult to correct in a timely manner. Not only does this result in a significant waste of human resources and materials, but it also hinders the advancement of ecological restoration and worsens the degradation of the environment. The correct evaluation of the restoration effect of river basin ecosystems has important practical significance in alleviating ecological degradation and promoting sustainable development of regional ecological environment. At the same time, in the context of global change and human interference, the land use mode of the basin has changed frequently, which has caused noticeable damage to its ecological environment. The urgent problem in achieving sustainable development of the basin ecology includes: evaluation of the ecological restoration project in the Liaohe River Basin based on the ecosystem service value; the main driving factors for the destruction and restoration of ecosystem services in the Liaohe River Basin; prediction of future land use and ecosystem services value.</p>
+			<p id="Par8">To address the above issues, the main objectives of this study are as follows: (1) To test the effectiveness of ecological restoration policies of LHB, we evaluated the changes in ecosystem service value in the LHB from 2000 to 2020 using the equivalent factor method; (2) Based on the method of cold and hot spot analysis, the spatial heterogeneity characteristics of ecosystem service value in river basins were systematically analyzed, revealing the coupling driving mechanism of natural and human factors on the spatial distribution pattern of ecosystem service value; (3) Predicted the ecosystem service value of the LHB under different development scenarios, providing a basis for decision-makers to formulate corresponding land management policies and sustainable development in the LHB.</p>
+		</sec>
+		<sec id="Sec2" sec-type="materials|methods">
+			<title>Materials and Methods</title>
+			<sec id="Sec3">
+				<title>Study Area</title>
+				<p id="Par9">The area of LHB is 219,000 km
+					<sup>2</sup>, of which 35.7% are mountainous, 23.5% hilly, 34.5% plain and 6.3% sand dune (Fig. 
+					<xref rid="Fig2" ref-type="fig">2</xref>). In the west are the Daxing’an Mountains, Qoltu Mountain and Nuruer Tiger Mountain, with an elevation of 500 ~ 1500 m, and in the east is Jilin Hadaling, Longgang Mountain and Qianshan Mountain, with an elevation of 500 ~ 2000 m. Flow through Hebei, Inner Mongolia, Jilin and Liaoning provinces, the main rivers include Hun River, Taizi River, Daliao River, West Liaohe River, East Liaohe River. The basin’s topography slopes mainly from north to south and from east to west towards the center, forming Liaohe Plain in the middle and lower reaches, with an elevation of less than 200 m. The LHB has a typical temperate monsoon climate type, with average annual temperature of approximately 6 ◦C and annual precipitation of approximately 678 mm. The temperature distribution of LHB, high plain, low mountain, annual average between 4 ~ 9℃, from south to north, each latitude about 0.8℃, the lowest in January, the average between-9 ~ 18℃, the absolute minimum temperature, all below-30℃, July temperature is the highest, the average between 21 ~ 28℃, the absolute highest temperature between 37 ~ 43℃.
+					<fig id="Fig2">
+						<label>Fig. 2</label>
+						<caption xml:lang="en">
+							<p>Study area</p>
+						</caption>
+						<p>
+							<graphic specific-use="HTML" mime-subtype="PNG" xlink:href="MediaObjects/13157_2023_1762_Fig2_HTML.png"/>
+						</p>
+					</fig>
+				</p>
+			</sec>
+			<sec id="Sec4">
+				<title>Evaluation of ESV</title>
+				<p id="Par10">Costanza et al. (
+					<xref ref-type="bibr" rid="CR4">1997</xref>) firstly defined the scientific estimation principle and method of ESV, and estimated 17 ESV of 16 ecosystems in the world. Considering the shortcomings and reliable results of previous studies, Xie et al. (
+					<xref ref-type="bibr" rid="CR41">2017</xref>) used the questionnaire survey based on 200 Chinese ecologists, and made many improvements to methods employed in the study of Costanza et al. (
+					<xref ref-type="bibr" rid="CR4">1997</xref>). The ecosystem service function was divided into the food production (FP), Raw materials (RM), water resource (WTR), gas regulation (GR), Climate regulation (CR), environmental purification(EP), Water regulation(WR), Soil retention (SR), Nutrient cycling(NC), Biodiversity protection Recreation (BR) and Recreation and culture (RC) (Xie et al.
+					<xref ref-type="bibr" rid="CR42">2008</xref>). According to the study of Xie et al. (
+					<xref ref-type="bibr" rid="CR41">2017</xref>), the ESV equivalent factor are equal to 1/7 of the average market value of grain production (Table
+					<xref rid="Tab1" ref-type="table">1</xref>). Hence, using this foundation, this research reevaluated the economic worth of the ESV equivalent factor per unit of land area using the mean grain yield and the average market price of unprocessed grain declared by the respective governmental departments. The formula is as follows:
+					<disp-formula id="Equ1">
+						<label>1</label>
+						<alternatives>
+							<mml:math display="block">
+								<mml:mrow>
+									<mml:msub>
+										<mml:mi>E</mml:mi>
+										<mml:mi>a</mml:mi>
+									</mml:msub>
+									<mml:mo>=</mml:mo>
+									<mml:mfrac>
+										<mml:mn>1</mml:mn>
+										<mml:mn>7</mml:mn>
+									</mml:mfrac>
+									<mml:msubsup>
+										<mml:mo>∑</mml:mo>
+										<mml:mrow>
+											<mml:mi>j</mml:mi>
+											<mml:mo>=</mml:mo>
+											<mml:mn>1</mml:mn>
+										</mml:mrow>
+										<mml:mi>n</mml:mi>
+									</mml:msubsup>
+									<mml:mfrac>
+										<mml:mrow>
+											<mml:msub>
+												<mml:mi>m</mml:mi>
+												<mml:mi>j</mml:mi>
+											</mml:msub>
+											<mml:msub>
+												<mml:mi>p</mml:mi>
+												<mml:mi>j</mml:mi>
+											</mml:msub>
+											<mml:msub>
+												<mml:mi>q</mml:mi>
+												<mml:mi>j</mml:mi>
+											</mml:msub>
+										</mml:mrow>
+										<mml:mi>M</mml:mi>
+									</mml:mfrac>
+								</mml:mrow>
+							</mml:math>
+							<tex-math id="Equ1_TeX">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym}
+				\usepackage{amsfonts}
+				\usepackage{amssymb}
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${E}_{a}=\frac{1}{7}\sum\nolimits_{j=1}^{n}\frac{{m}_{j}{p}_{j}{q}_{j}}{M}$$\end{document}</tex-math>
+							<graphic position="anchor" xlink:href="13157_2023_1762_Article_Equ1.gif"/>
+						</alternatives>
+					</disp-formula>
+				</p>
+				<p id="Par11">
+					<italic>Ea</italic> is the economic value of unit ecosystem in Yuan / (hm
+					<sup>2</sup> a);
+					<italic>j</italic> is food crop type;
+					<italic>m</italic>
+					<sub>
+						<italic>j</italic>
+					</sub> is the average price of the
+					<italic>j</italic> grain crops in the study area; the unit is Yuan / kg;
+					<italic>P</italic>
+					<sub>
+						<italic>j</italic>
+					</sub> is the unit in kg/hm
+					<sup>2</sup>;
+					<italic>q</italic>
+					<sub>
+						<italic>j</italic>
+					</sub> is the
+					<italic>j</italic> planting area in hm
+					<sup>2</sup>;
+					<italic>M</italic> is the total planting area of grain crops in hm
+					<sup>2</sup>. The results show that the economic value of the unit ecosystem service in the LHB is 3933.15 Yuan / (hm
+					<sup>2</sup>·a) (Table
+					<xref rid="Tab1" ref-type="table">1</xref>) (Xiao et al.
+					<xref ref-type="bibr" rid="CR40">2020</xref>; Li et al.
+					<xref ref-type="bibr" rid="CR14">2020</xref>).
+				</p>
+				<p id="Par12">The ecosystem services value is calculated as follows:
+					<disp-formula id="Equ2">
+						<label>2</label>
+						<alternatives>
+							<mml:math display="block">
+								<mml:mrow>
+									<mml:mi>E</mml:mi>
+									<mml:mi>S</mml:mi>
+									<mml:mi>V</mml:mi>
+									<mml:mo>=</mml:mo>
+									<mml:msubsup>
+										<mml:mo>∑</mml:mo>
+										<mml:mrow>
+											<mml:mi>i</mml:mi>
+											<mml:mo>=</mml:mo>
+											<mml:mn>1</mml:mn>
+										</mml:mrow>
+										<mml:mi>n</mml:mi>
+									</mml:msubsup>
+									<mml:msub>
+										<mml:mi>A</mml:mi>
+										<mml:mi>i</mml:mi>
+									</mml:msub>
+									<mml:mo>×</mml:mo>
+									<mml:msub>
+										<mml:mrow>
+											<mml:mi mathvariant="italic">VC</mml:mi>
+										</mml:mrow>
+										<mml:mi>i</mml:mi>
+									</mml:msub>
+								</mml:mrow>
+							</mml:math>
+							<tex-math id="Equ2_TeX">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym}
+				\usepackage{amsfonts}
+				\usepackage{amssymb}
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$ESV=\sum\nolimits_{i=1}^{n}{A}_{i}\times {VC}_{i}$$\end{document}</tex-math>
+							<graphic position="anchor" xlink:href="13157_2023_1762_Article_Equ2.gif"/>
+						</alternatives>
+					</disp-formula>
+					<disp-formula id="Equ3">
+						<label>3</label>
+						<alternatives>
+							<mml:math display="block">
+								<mml:mrow>
+									<mml:msub>
+										<mml:mrow>
+											<mml:mi mathvariant="italic">VC</mml:mi>
+										</mml:mrow>
+										<mml:mi>i</mml:mi>
+									</mml:msub>
+									<mml:mo>=</mml:mo>
+									<mml:msubsup>
+										<mml:mo>∑</mml:mo>
+										<mml:mrow>
+											<mml:mi>j</mml:mi>
+											<mml:mo>=</mml:mo>
+											<mml:mn>1</mml:mn>
+										</mml:mrow>
+										<mml:mi>k</mml:mi>
+									</mml:msubsup>
+									<mml:msub>
+										<mml:mrow>
+											<mml:mi mathvariant="italic">EC</mml:mi>
+										</mml:mrow>
+										<mml:mi>j</mml:mi>
+									</mml:msub>
+									<mml:mo>×</mml:mo>
+									<mml:msub>
+										<mml:mi>E</mml:mi>
+										<mml:mi>a</mml:mi>
+									</mml:msub>
+								</mml:mrow>
+							</mml:math>
+							<tex-math id="Equ3_TeX">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym}
+				\usepackage{amsfonts}
+				\usepackage{amssymb}
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${VC}_{i}=\sum\nolimits_{j=1}^{k}{EC}_{j}\times {E}_{a}$$\end{document}</tex-math>
+							<graphic position="anchor" xlink:href="13157_2023_1762_Article_Equ3.gif"/>
+						</alternatives>
+					</disp-formula>
+				</p>
+				<p id="Par13">
+					<italic>ESV</italic> is ecosystem service value, unit is Yuan / a;
+					<italic>i</italic> is land use type;
+					<italic>j</italic> is ecosystem service type;
+					<italic>Ai</italic> is distribution area of land use type, unit is hm
+					<sup>2</sup>;
+					<italic>VC</italic>
+					<sub>
+						<italic>i</italic>
+					</sub> is ecosystem service value equivalent per unit area of class i in Yuan / (hm
+					<sup>2</sup>·a);
+					<italic>EC</italic>
+					<sub>
+						<italic>j</italic>
+					</sub> is ecosystem service value equivalent of item
+					<italic>j</italic> of land use type;
+					<italic>k</italic> is quantity of ecosystem service type;
+					<italic>E</italic>
+					<sub>
+						<italic>a</italic>
+					</sub> is economic value of 1 unit ecosystem service, unit is Yuan / (hm
+					<sup>2</sup>·a) (Xie et al.
+					<xref ref-type="bibr" rid="CR41">2017</xref>).
+				</p>
+				<p id="Par14">
+					<table-wrap id="Tab1">
+						<label>Table 1</label>
+						<caption xml:lang="en">
+							<p>Value per unit area of ecosystem service value (yuan)</p>
+						</caption>
+						<table frame="hsides" rules="groups">
+							<thead>
+								<tr>
+									<th align="left">
+										<p>Primary category</p>
+									</th>
+									<th align="left">
+										<p>Subcategories</p>
+									</th>
+									<th align="left">
+										<p>Cultivated land</p>
+									</th>
+									<th align="left">
+										<p>Forestland</p>
+									</th>
+									<th align="left">
+										<p>Grassland</p>
+									</th>
+									<th align="left">
+										<p>Water area</p>
+									</th>
+									<th align="left">
+										<p>Barren land</p>
+									</th>
+									<th align="left">
+										<p>Urban land</p>
+									</th>
+								</tr>
+							</thead>
+							<tbody>
+								<tr>
+									<td align="left" rowspan="3">
+										<p>Provision services</p>
+									</td>
+									<td align="left">
+										<p>Food production</p>
+									</td>
+									<td char="." align="char">
+										<p>3343.24</p>
+									</td>
+									<td char="." align="char">
+										<p>1140.63</p>
+									</td>
+									<td char="." align="char">
+										<p>1494.62</p>
+									</td>
+									<td char="." align="char">
+										<p>3146.58</p>
+									</td>
+									<td char="." align="char">
+										<p>0.00</p>
+									</td>
+									<td char="." align="char">
+										<p>0.00</p>
+									</td>
+								</tr>
+								<tr>
+									<td align="left">
+										<p>Raw materials</p>
+									</td>
+									<td char="." align="char">
+										<p>1573.29</p>
+									</td>
+									<td char="." align="char">
+										<p>2595.93</p>
+									</td>
+									<td char="." align="char">
+										<p>2202.61</p>
+									</td>
+									<td char="." align="char">
+										<p>904.64</p>
+									</td>
+									<td char="." align="char">
+										<p>0.00</p>
+									</td>
+									<td char="." align="char">
+										<p>0.00</p>
+									</td>
+								</tr>
+								<tr>
+									<td align="left">
+										<p>Water resource</p>
+									</td>
+									<td char="." align="char">
+										<p>78.66</p>
+									</td>
+									<td char="." align="char">
+										<p>1337.30</p>
+									</td>
+									<td char="." align="char">
+										<p>1219.30</p>
+									</td>
+									<td char="." align="char">
+										<p>32606.42</p>
+									</td>
+									<td char="." align="char">
+										<p>0.00</p>
+									</td>
+									<td char="." align="char">
+										<p>0.00</p>
+									</td>
+								</tr>
+								<tr>
+									<td align="left" rowspan="4">
+										<p>Regulation services</p>
+									</td>
+									<td align="left">
+										<p>Gas regulation</p>
+									</td>
+									<td char="." align="char">
+										<p>2635.26</p>
+									</td>
+									<td char="." align="char">
+										<p>8535.09</p>
+									</td>
+									<td char="." align="char">
+										<p>7748.45</p>
+									</td>
+									<td char="." align="char">
+										<p>3028.58</p>
+									</td>
+									<td char="." align="char">
+										<p>78.66</p>
+									</td>
+									<td char="." align="char">
+										<p>0.00</p>
+									</td>
+								</tr>
+								<tr>
+									<td align="left">
+										<p>Climate regulation</p>
+									</td>
+									<td char="." align="char">
+										<p>1415.96</p>
+									</td>
+									<td char="." align="char">
+										<p>25565.95</p>
+									</td>
+									<td char="." align="char">
+										<p>20492.09</p>
+									</td>
+									<td char="." align="char">
+										<p>9007.08</p>
+									</td>
+									<td char="." align="char">
+										<p>0.00</p>
+									</td>
+									<td char="." align="char">
+										<p>0.00</p>
+									</td>
+								</tr>
+								<tr>
+									<td align="left">
+										<p>Environmental purification</p>
+									</td>
+									<td char="." align="char">
+										<p>393.32</p>
+									</td>
+									<td char="." align="char">
+										<p>7591.12</p>
+									</td>
+									<td char="." align="char">
+										<p>6765.14</p>
+									</td>
+									<td char="." align="char">
+										<p>21829.39</p>
+									</td>
+									<td char="." align="char">
+										<p>393.32</p>
+									</td>
+									<td char="." align="char">
+										<p>0.00</p>
+									</td>
+								</tr>
+								<tr>
+									<td align="left">
+										<p>Water regulation</p>
+									</td>
+									<td char="." align="char">
+										<p>1061.97</p>
+									</td>
+									<td char="." align="char">
+										<p>18643.48</p>
+									</td>
+									<td char="." align="char">
+										<p>15024.91</p>
+									</td>
+									<td char="." align="char">
+										<p>402132.75</p>
+									</td>
+									<td char="." align="char">
+										<p>118.00</p>
+									</td>
+									<td char="." align="char">
+										<p>0.00</p>
+									</td>
+								</tr>
+								<tr>
+									<td align="left" rowspan="3">
+										<p>Supporting services</p>
+									</td>
+									<td align="left">
+										<p>Soil retention</p>
+									</td>
+									<td char="." align="char">
+										<p>4051.22</p>
+									</td>
+									<td char="." align="char">
+										<p>10423.04</p>
+									</td>
+									<td char="." align="char">
+										<p>9439.74</p>
+									</td>
+									<td char="." align="char">
+										<p>3657.90</p>
+									</td>
+									<td char="." align="char">
+										<p>78.66</p>
+									</td>
+									<td char="." align="char">
+										<p>0.00</p>
+									</td>
+								</tr>
+								<tr>
+									<td align="left">
+										<p>Nutrient cycling</p>
+									</td>
+									<td char="." align="char">
+										<p>471.99</p>
+									</td>
+									<td char="." align="char">
+										<p>786.64</p>
+									</td>
+									<td char="." align="char">
+										<p>707.98</p>
+									</td>
+									<td char="." align="char">
+										<p>275.33</p>
+									</td>
+									<td char="." align="char">
+										<p>0.00</p>
+									</td>
+									<td char="." align="char">
+										<p>0.00</p>
+									</td>
+								</tr>
+								<tr>
+									<td align="left">
+										<p>Biodiversity protection</p>
+									</td>
+									<td char="." align="char">
+										<p>511.32</p>
+									</td>
+									<td char="." align="char">
+										<p>9479.07</p>
+									</td>
+									<td char="." align="char">
+										<p>9479.07</p>
+									</td>
+									<td char="." align="char">
+										<p>10029.72</p>
+									</td>
+									<td char="." align="char">
+										<p>78.66</p>
+									</td>
+									<td char="." align="char">
+										<p>0.00</p>
+									</td>
+								</tr>
+								<tr>
+									<td align="left">
+										<p>Cultural services</p>
+									</td>
+									<td align="left">
+										<p>Recreation and culture</p>
+									</td>
+									<td char="." align="char">
+										<p>235.99</p>
+									</td>
+									<td char="." align="char">
+										<p>4169.22</p>
+									</td>
+									<td char="." align="char">
+										<p>3775.89</p>
+									</td>
+									<td char="." align="char">
+										<p>7433.79</p>
+									</td>
+									<td char="." align="char">
+										<p>39.33</p>
+									</td>
+									<td char="." align="char">
+										<p>0.00</p>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+					</table-wrap>
+				</p>
+			</sec>
+			<sec id="Sec5">
+				<title>Identifiation of Spatial Patterns</title>
+				<sec id="Sec6">
+					<title>Land Use Transfer Matrix</title>
+					<p id="Par15">The LHB undergoes a transformation of land use types due to human or natural factors, which is known as land use transfer. The Stochastic matrix of land use refers to the mutual conversion relationship (area or transfer ratio) between land use types in different periods in the same research area, which can directly reflect the source and destination of each land type (Li et al.
+						<xref ref-type="bibr" rid="CR15">2021</xref>). The formula is as follows:
+						<disp-formula id="Equ4">
+							<label>4</label>
+							<alternatives>
+								<mml:math display="block">
+									<mml:mrow>
+										<mml:msub>
+											<mml:mi>P</mml:mi>
+											<mml:mrow>
+												<mml:mi mathvariant="italic">ij</mml:mi>
+											</mml:mrow>
+										</mml:msub>
+										<mml:mo>=</mml:mo>
+										<mml:mfenced close="]" open="[">
+											<mml:mrow>
+												<mml:mtable>
+													<mml:mtr>
+														<mml:mtd>
+															<mml:msub>
+																<mml:mi>P</mml:mi>
+																<mml:mn>11</mml:mn>
+															</mml:msub>
+														</mml:mtd>
+														<mml:mtd>
+															<mml:mo>⋯</mml:mo>
+														</mml:mtd>
+														<mml:mtd>
+															<mml:msub>
+																<mml:mi>P</mml:mi>
+																<mml:mrow>
+																	<mml:mn>1</mml:mn>
+																	<mml:mi>n</mml:mi>
+																</mml:mrow>
+															</mml:msub>
+														</mml:mtd>
+													</mml:mtr>
+													<mml:mtr>
+														<mml:mtd>
+															<mml:mrow>
+																<mml:mrow/>
+																<mml:mo>⋮</mml:mo>
+															</mml:mrow>
+														</mml:mtd>
+														<mml:mtd>
+															<mml:mo>⋱</mml:mo>
+														</mml:mtd>
+														<mml:mtd>
+															<mml:mo>⋮</mml:mo>
+														</mml:mtd>
+													</mml:mtr>
+													<mml:mtr>
+														<mml:mtd>
+															<mml:mrow>
+																<mml:mrow/>
+																<mml:msub>
+																	<mml:mi>P</mml:mi>
+																	<mml:mrow>
+																		<mml:mi>n</mml:mi>
+																		<mml:mn>1</mml:mn>
+																	</mml:mrow>
+																</mml:msub>
+															</mml:mrow>
+														</mml:mtd>
+														<mml:mtd>
+															<mml:mo>⋯</mml:mo>
+														</mml:mtd>
+														<mml:mtd>
+															<mml:msub>
+																<mml:mi>P</mml:mi>
+																<mml:mrow>
+																	<mml:mi mathvariant="italic">nm</mml:mi>
+																</mml:mrow>
+															</mml:msub>
+														</mml:mtd>
+													</mml:mtr>
+												</mml:mtable>
+											</mml:mrow>
+										</mml:mfenced>
+									</mml:mrow>
+								</mml:math>
+								<tex-math id="Equ4_TeX">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym}
+				\usepackage{amsfonts}
+				\usepackage{amssymb}
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${P}_{ij}=\left[\begin{array}{ccc}{P}_{11}&amp; \cdots &amp; {P}_{1n}\\ \vdots &amp; \ddots &amp; \vdots \\ {P}_{n1}&amp; \cdots &amp; {P}_{nm}\end{array}\right]$$\end{document}</tex-math>
+								<graphic position="anchor" xlink:href="13157_2023_1762_Article_Equ4.gif"/>
+							</alternatives>
+						</disp-formula>
+					</p>
+				</sec>
+				<sec id="Sec7">
+					<title>Spatial Autocorrelation Analysis</title>
+					<p id="Par16">To examine the spatial distribution of ESV in the LHB, the correlation and clustering patterns were analyzed using Moran’s I. Moran’s I is a widely used statistical measure that determines if there is a significant correlation between attribute values and their neighboring elements. Nonzero values indicate a correlation in the LHB data. According to Liu et al. (
+						<xref ref-type="bibr" rid="CR19">2020</xref>c), a negative Moran’s I value indicates a negative spatial correlation for LHB,whereas a positive value indicates a positive correlation.
+					</p>
+				</sec>
+				<sec id="Sec8">
+					<title>Hotspot Analysis of the Selected Ecosystem Services</title>
+					<p id="Par17">Hotspot analysis is a specialized method of spatial analysis that has been utilized to identify regions where there are concentrated high values for a particular variable of significance. It has been extensively employed to pinpoint prime areas that require attention for the preservation of biodiversity and ecosystem services (Li et al.
+						<xref ref-type="bibr" rid="CR16">2017</xref>; Schröter et al.
+						<xref ref-type="bibr" rid="CR30">2017</xref>; Fan et al.
+						<xref ref-type="bibr" rid="CR9">2023a</xref>). To identify areas that can offer substantial ecosystem service provisions, we utilized Gi* statistics,a functionality integrated into ArcGIS 10.3. The process of determining the distribution of hotspots for ecosystem services involved several steps. Initially, zonal statistics were applied to compute the cumulative sum of each chosen ecosystem service type within every county within the LHB region. Subsequently, the Hotspot Analysis (Getis-Ord Gi*) tool was employed to pinpoint the hotspots where ecosystem services are most prominently provided (Wang et al.
+						<xref ref-type="bibr" rid="CR38">2022</xref>; Fan et al.,
+						<xref ref-type="bibr" rid="CR10">2023b</xref>).
+					</p>
+				</sec>
+			</sec>
+			<sec id="Sec9">
+				<title>Geographical Detector</title>
+				<p id="Par18">Driving forces can ascertain the process of land cover transformation and unveil the mechanism behind regional ecological shifts. In particular, geographical detectors refer to a collection of statistical techniques that can identify spatial variations and uncover the concealed factors that drive such changes. Ever since Wang et al. (
+					<xref ref-type="bibr" rid="CR36">2010</xref>) introduced the geographic detector, which has been extensively employed in driving force analyses (Wu et al.
+					<xref ref-type="bibr" rid="CR39">2022</xref>).
+				</p>
+				<p id="Par19">We proposes two types of 8 driving factors from the perspectives of natural environment and socio-economic factors (Zhang et al.
+					<xref ref-type="bibr" rid="CR48">2021</xref>): (1) Natural environment driving factors: DEM (digital Elevation Model), Road distances, River distances, NDVI (normalized vegetation index), Annual precipitation (AP) Annual temperature (AT); (2) Socio-economic factors: GDP, HAI (human active index), Population density (PD). Here, we use the natural discontinuity method to discretization the data.
+				</p>
+			</sec>
+			<sec id="Sec10">
+				<title>PLUS Model</title>
+				<sec>
+					<p id="Par20">The PLUS model is a new land use simulation model proposed by Liang et al. (
+						<xref ref-type="bibr" rid="CR17">2021</xref>), which can better simulate the patch level change of multiple classes of land use types, It consists of a new land-use expansion analysis strategy (Land Expansion Analysis Strategy, LEAS) and based on multi-type random plaque seeds (CA based on multi-type random patch seeds, Cellular Automata for CARS) (Cellular Automata, CA) model consists of two major parts. PLUS model combining the advantages of transformation analysis strategy (TAS) and pattern analysis strategy (PAS) can better explore the inducement of various kinds of land use changes, simulate the changes of multiple types of land use patch level, and realize the simulation of multiple land use types. We set three development scenario models, including natural development priority (NDP), ecological protection priority(EPP), economic development priority (EDP).
+					</p>
+				</sec>
+				<sec id="FPar1">
+					<title>Natural Development Priority (NDP)</title>
+					<p id="Par21">Represented the historical trend of land use and land cover, being calculated based on the initial transfer matrix of LULC from 2000 to 2020. Based on the land use change rate and the driving factors of the base year from 2000 to 2020, the Markov model module in the PLUS model was used to predict the future scale of each category without considering the policy planning restrictions.</p>
+				</sec>
+				<sec id="FPar2">
+					<title>Ecological Protection Priority (EPP)</title>
+					<p id="Par22">Described the local government to strengthen the protection of woodland, grassland, and waters to achieve the harmonious coexistence of man and nature and sustainable development by strictly limiting construction land expansion. These areas were used as spatial constraints, and the conversion of woodland, grassland and waters to construction land and cultivated land was controlled. According to the ecological benefit level of land use type, it was converted in turn: woodland, waters, grassland, and other.</p>
+				</sec>
+				<sec id="FPar3">
+					<title>Economic Development Priority (EDP)</title>
+					<p id="Par23">Described the situation of local priority development of construction land to meet economic development needs. According to the trend of construction land in the study area from 2000 to 2020, the maximum growth of construction land was taken as the goal. The construction land conversion was prioritized according to the principle of one-way conversion of low-to-high-level land: construction land, cultivated land, woodland, grassland and waters (Su et al.
+						<xref ref-type="bibr" rid="CR33">2023</xref>).
+					</p>
+				</sec>
+				<sec>
+					<p id="Par24">Conversion cost matrix. a, b, c, d, e, and f represent cultivated land, woodland, grassland, waters, construction land, and unused land, respectively, the same figure below; 0 means that it cannot be transformed, and 1 means that it allows transformation, the conversion cost matrix was shown in Table 
+						<xref rid="Tab2" ref-type="table">2</xref>.
+					</p>
+				</sec>
+				<sec>
+					<p id="Par25">
+						<table-wrap id="Tab2">
+							<label>Table 2</label>
+							<caption xml:lang="en">
+								<p>Conversion cost matrix</p>
+							</caption>
+							<table frame="hsides" rules="groups">
+								<thead>
+									<tr>
+										<th align="left"/>
+										<th align="left" colspan="6">
+											<p>EDP</p>
+										</th>
+										<th align="left" colspan="6">
+											<p>EPP</p>
+										</th>
+										<th align="left" colspan="6">
+											<p>NDP</p>
+										</th>
+									</tr>
+									<tr>
+										<th align="left"/>
+										<th align="left">
+											<p>a</p>
+										</th>
+										<th align="left">
+											<p>b</p>
+										</th>
+										<th align="left">
+											<p>c</p>
+										</th>
+										<th align="left">
+											<p>d</p>
+										</th>
+										<th align="left">
+											<p>e</p>
+										</th>
+										<th align="left">
+											<p>f</p>
+										</th>
+										<th align="left">
+											<p>a</p>
+										</th>
+										<th align="left">
+											<p>b</p>
+										</th>
+										<th align="left">
+											<p>c</p>
+										</th>
+										<th align="left">
+											<p>d</p>
+										</th>
+										<th align="left">
+											<p>e</p>
+										</th>
+										<th align="left">
+											<p>f</p>
+										</th>
+										<th align="left">
+											<p>a</p>
+										</th>
+										<th align="left">
+											<p>b</p>
+										</th>
+										<th align="left">
+											<p>c</p>
+										</th>
+										<th align="left">
+											<p>d</p>
+										</th>
+										<th align="left">
+											<p>e</p>
+										</th>
+										<th align="left">
+											<p>f</p>
+										</th>
+									</tr>
+								</thead>
+								<tbody>
+									<tr>
+										<td align="left">
+											<p>a</p>
+										</td>
+										<td align="left">
+											<p>1</p>
+										</td>
+										<td align="left">
+											<p>0</p>
+										</td>
+										<td align="left">
+											<p>0</p>
+										</td>
+										<td align="left">
+											<p>0</p>
+										</td>
+										<td align="left">
+											<p>1</p>
+										</td>
+										<td align="left">
+											<p>0</p>
+										</td>
+										<td align="left">
+											<p>1</p>
+										</td>
+										<td align="left">
+											<p>1</p>
+										</td>
+										<td align="left">
+											<p>1</p>
+										</td>
+										<td align="left">
+											<p>1</p>
+										</td>
+										<td align="left">
+											<p>1</p>
+										</td>
+										<td align="left">
+											<p>1</p>
+										</td>
+										<td align="left">
+											<p>1</p>
+										</td>
+										<td align="left">
+											<p>0</p>
+										</td>
+										<td align="left">
+											<p>1</p>
+										</td>
+										<td align="left">
+											<p>1</p>
+										</td>
+										<td align="left">
+											<p>1</p>
+										</td>
+										<td align="left">
+											<p>1</p>
+										</td>
+									</tr>
+									<tr>
+										<td align="left">
+											<p>b</p>
+										</td>
+										<td align="left">
+											<p>1</p>
+										</td>
+										<td align="left">
+											<p>1</p>
+										</td>
+										<td align="left">
+											<p>0</p>
+										</td>
+										<td align="left">
+											<p>0</p>
+										</td>
+										<td align="left">
+											<p>1</p>
+										</td>
+										<td align="left">
+											<p>0</p>
+										</td>
+										<td align="left">
+											<p>0</p>
+										</td>
+										<td align="left">
+											<p>1</p>
+										</td>
+										<td align="left">
+											<p>0</p>
+										</td>
+										<td align="left">
+											<p>0</p>
+										</td>
+										<td align="left">
+											<p>0</p>
+										</td>
+										<td align="left">
+											<p>0</p>
+										</td>
+										<td align="left">
+											<p>1</p>
+										</td>
+										<td align="left">
+											<p>1</p>
+										</td>
+										<td align="left">
+											<p>0</p>
+										</td>
+										<td align="left">
+											<p>0</p>
+										</td>
+										<td align="left">
+											<p>0</p>
+										</td>
+										<td align="left">
+											<p>1</p>
+										</td>
+									</tr>
+									<tr>
+										<td align="left">
+											<p>c</p>
+										</td>
+										<td align="left">
+											<p>1</p>
+										</td>
+										<td align="left">
+											<p>0</p>
+										</td>
+										<td align="left">
+											<p>1</p>
+										</td>
+										<td align="left">
+											<p>0</p>
+										</td>
+										<td align="left">
+											<p>1</p>
+										</td>
+										<td align="left">
+											<p>0</p>
+										</td>
+										<td align="left">
+											<p>0</p>
+										</td>
+										<td align="left">
+											<p>1</p>
+										</td>
+										<td align="left">
+											<p>1</p>
+										</td>
+										<td align="left">
+											<p>1</p>
+										</td>
+										<td align="left">
+											<p>0</p>
+										</td>
+										<td align="left">
+											<p>0</p>
+										</td>
+										<td align="left">
+											<p>1</p>
+										</td>
+										<td align="left">
+											<p>1</p>
+										</td>
+										<td align="left">
+											<p>1</p>
+										</td>
+										<td align="left">
+											<p>1</p>
+										</td>
+										<td align="left">
+											<p>1</p>
+										</td>
+										<td align="left">
+											<p>1</p>
+										</td>
+									</tr>
+									<tr>
+										<td align="left">
+											<p>d</p>
+										</td>
+										<td align="left">
+											<p>0</p>
+										</td>
+										<td align="left">
+											<p>0</p>
+										</td>
+										<td align="left">
+											<p>0</p>
+										</td>
+										<td align="left">
+											<p>1</p>
+										</td>
+										<td align="left">
+											<p>0</p>
+										</td>
+										<td align="left">
+											<p>1</p>
+										</td>
+										<td align="left">
+											<p>0</p>
+										</td>
+										<td align="left">
+											<p>0</p>
+										</td>
+										<td align="left">
+											<p>0</p>
+										</td>
+										<td align="left">
+											<p>1</p>
+										</td>
+										<td align="left">
+											<p>0</p>
+										</td>
+										<td align="left">
+											<p>0</p>
+										</td>
+										<td align="left">
+											<p>0</p>
+										</td>
+										<td align="left">
+											<p>0</p>
+										</td>
+										<td align="left">
+											<p>1</p>
+										</td>
+										<td align="left">
+											<p>1</p>
+										</td>
+										<td align="left">
+											<p>0</p>
+										</td>
+										<td align="left">
+											<p>1</p>
+										</td>
+									</tr>
+									<tr>
+										<td align="left">
+											<p>e</p>
+										</td>
+										<td align="left">
+											<p>1</p>
+										</td>
+										<td align="left">
+											<p>1</p>
+										</td>
+										<td align="left">
+											<p>1</p>
+										</td>
+										<td align="left">
+											<p>0</p>
+										</td>
+										<td align="left">
+											<p>1</p>
+										</td>
+										<td align="left">
+											<p>1</p>
+										</td>
+										<td align="left">
+											<p>0</p>
+										</td>
+										<td align="left">
+											<p>0</p>
+										</td>
+										<td align="left">
+											<p>0</p>
+										</td>
+										<td align="left">
+											<p>0</p>
+										</td>
+										<td align="left">
+											<p>1</p>
+										</td>
+										<td align="left">
+											<p>0</p>
+										</td>
+										<td align="left">
+											<p>0</p>
+										</td>
+										<td align="left">
+											<p>0</p>
+										</td>
+										<td align="left">
+											<p>0</p>
+										</td>
+										<td align="left">
+											<p>0</p>
+										</td>
+										<td align="left">
+											<p>1</p>
+										</td>
+										<td align="left">
+											<p>0</p>
+										</td>
+									</tr>
+									<tr>
+										<td align="left">
+											<p>f</p>
+										</td>
+										<td align="left">
+											<p>1</p>
+										</td>
+										<td align="left">
+											<p>1</p>
+										</td>
+										<td align="left">
+											<p>1</p>
+										</td>
+										<td align="left">
+											<p>1</p>
+										</td>
+										<td align="left">
+											<p>1</p>
+										</td>
+										<td align="left">
+											<p>1</p>
+										</td>
+										<td align="left">
+											<p>1</p>
+										</td>
+										<td align="left">
+											<p>1</p>
+										</td>
+										<td align="left">
+											<p>1</p>
+										</td>
+										<td align="left">
+											<p>1</p>
+										</td>
+										<td align="left">
+											<p>1</p>
+										</td>
+										<td align="left">
+											<p>1</p>
+										</td>
+										<td align="left">
+											<p>1</p>
+										</td>
+										<td align="left">
+											<p>1</p>
+										</td>
+										<td align="left">
+											<p>1</p>
+										</td>
+										<td align="left">
+											<p>1</p>
+										</td>
+										<td align="left">
+											<p>1</p>
+										</td>
+										<td align="left">
+											<p>1</p>
+										</td>
+									</tr>
+								</tbody>
+							</table>
+						</table-wrap>
+					</p>
+				</sec>
+				<sec>
+					<p id="Par26">We simulated the land use cover spatial pattern of LHB in 2020 with 2010 as the starting year. Then, we compared the simulated land use cover with actual land use cover data in 2020 to verify the reliability of the simulation results. The kappa value (
+						<xref rid="Equ5" ref-type="disp-formula">5</xref>) was used to test the degree of consistency between the simulated and actual ESV grids.
+					</p>
+				</sec>
+				<sec>
+					<p id="Par27">
+						<disp-formula id="Equ5">
+							<label>5</label>
+							<alternatives>
+								<mml:math display="block">
+									<mml:mrow>
+										<mml:mi>K</mml:mi>
+										<mml:mi>a</mml:mi>
+										<mml:mi>p</mml:mi>
+										<mml:mi>p</mml:mi>
+										<mml:mi>a</mml:mi>
+										<mml:mo>=</mml:mo>
+										<mml:mo stretchy="false">(</mml:mo>
+										<mml:mi>P</mml:mi>
+										<mml:mi>O</mml:mi>
+										<mml:mo>-</mml:mo>
+										<mml:mi>P</mml:mi>
+										<mml:mi>C</mml:mi>
+										<mml:mo stretchy="false">)</mml:mo>
+										<mml:mo stretchy="false">/</mml:mo>
+										<mml:mo stretchy="false">(</mml:mo>
+										<mml:mi>P</mml:mi>
+										<mml:mi>P</mml:mi>
+										<mml:mo>-</mml:mo>
+										<mml:mi>P</mml:mi>
+										<mml:mi>C</mml:mi>
+										<mml:mo stretchy="false">)</mml:mo>
+									</mml:mrow>
+								</mml:math>
+								<tex-math id="Equ5_TeX">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym}
+				\usepackage{amsfonts}
+				\usepackage{amssymb}
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$Kappa=(PO-PC)/(PP-PC)$$\end{document}</tex-math>
+								<graphic position="anchor" xlink:href="13157_2023_1762_Article_Equ5.gif"/>
+							</alternatives>
+						</disp-formula>
+					</p>
+				</sec>
+				<sec>
+					<p id="Par28">
+						<italic>PO</italic> is the overall classification accuracy,
+						<italic>PC</italic> is the actual simulation.accuracy, and
+						<italic>PP</italic> is the ideal simulation accuracy (100%). In general, when kappa ≥ 0.75, the agreement between the actual and simulated degree is high. When 0.4 ≤ kappa ≤ 0.75, the agreement is general. When kappa ≤ 0.4, the agreement is low, (Zhao et al.
+						<xref ref-type="bibr" rid="CR50">2020</xref>), By comparing the actual and simulated land use over in 2020 (Fig. 
+						<xref rid="Fig3" ref-type="fig">3</xref>), the Kappa coefficient is 0.788.
+					</p>
+				</sec>
+				<sec>
+					<p id="Par29">
+						<fig id="Fig3">
+							<label>Fig. 3</label>
+							<caption xml:lang="en">
+								<p>Status and simulated land use type in 2020</p>
+							</caption>
+							<p>
+								<graphic specific-use="HTML" mime-subtype="PNG" xlink:href="MediaObjects/13157_2023_1762_Fig3_HTML.png"/>
+							</p>
+						</fig>
+					</p>
+				</sec>
+			</sec>
+			<sec id="Sec11">
+				<title>Data Sourcing</title>
+				<p id="Par30">Multiple sources were utilized to acquire spatial and statistical data. Spatial data included: land-use and land-cover (LULC) data from the year of 2000, 2005, 2010, 2015, and 2020, the spatial resolution is set at 30 m. The date is provided by Date Center for Resource and Environment Sciences, Chinese Academy of Science (RESDC) (
+					<ext-link xlink:href="http://www.Resdc.cn" ext-link-type="url">http://www.Resdc.cn</ext-link>). It interpreted from the datasets of USGS Landsat 5 and 8 Surface Reflectance Tier 1. Including forestland (woodland, shrub forest, sparse forest), farmland (paddy field, dry land), grassland, water area (rivers, lakes, reservoir), construction land (urban, mining area), barren land. The combined accuracy exceeded 89%, with Kappa coefficients exceeding 0.85. To calculate terrain factors and slopes, a digital elevation model (DEM) sourced from
+					<ext-link xlink:href="https://www.gscloud.cn/" ext-link-type="url">https://www.gscloud.cn/</ext-link> was utilized. Soil data was acquired from the Harmonized World Soil Database (HWSD) available at
+					<ext-link xlink:href="http://www.fao.org/" ext-link-type="url">http://www.fao.org/</ext-link>. The meteorological station data for the study area were obtained from the China Meteorological Data Service Centre (
+					<ext-link xlink:href="https://data.cma.cn/" ext-link-type="url">https://data.cma.cn/</ext-link>). To convert the point data into raster data, the monthly precipitation, temperature, and sunshine percentage data from 2000 to 2020 were interpolated using the thin-plate splines method. The statistical data consisted of annual food production, which came from the statistical yearbooks. To ensure consistency, all the data were transformed into a common spatial reference system (WGS1984, UTM Zone 49 N), and the raster data grid was adjusted to a resolution of 30 m × 30 m.
+				</p>
+			</sec>
+		</sec>
+		<sec id="Sec12">
+			<title>Result and Discussion</title>
+			<sec id="Sec13">
+				<title>Spatiotemporal Change in Land Use</title>
+				<p id="Par31">The land use change (LUC) dynamics in the LHB area is shown in Fig. 
+					<xref rid="Fig4" ref-type="fig">4</xref>. From 2000 to 2020, the cultivated land area in the LHB was the largest, accounting for approximately 50% of the total area, mainly concentrated in the southeast. Next are forest and grassland, accounting for approximately 17–20% of the total area, mainly distributed in the northwest region. Construction land accounts for approximately 8–12%, mainly concentrated in urban areas. The proportion of wetlands is the lowest, about 2%, mainly distributed in the eastern region. Between 2000 and 2020, the woodland construction land and grassland in LHB area increased, while the cultivated land and water area were significantly degraded (Table 
+					<xref rid="Tab3" ref-type="table">3</xref>).
+					<fig id="Fig4">
+						<label>Fig. 4</label>
+						<caption xml:lang="en">
+							<p>Land use dynamics in the LHB from 2000 to 2020</p>
+						</caption>
+						<p>
+							<graphic specific-use="HTML" mime-subtype="PNG" xlink:href="MediaObjects/13157_2023_1762_Fig4_HTML.png"/>
+						</p>
+					</fig>
+					<table-wrap id="Tab3">
+						<label>Table 3</label>
+						<caption xml:lang="en">
+							<p>Changes in the areas of ecosystem types in LHB (2000–2020)</p>
+						</caption>
+						<table frame="hsides" rules="groups">
+							<thead>
+								<tr>
+									<th align="left">
+										<p>Type</p>
+									</th>
+									<th align="left">
+										<p>2000</p>
+									</th>
+									<th align="left">
+										<p>2005</p>
+									</th>
+									<th align="left">
+										<p>2010</p>
+									</th>
+									<th align="left">
+										<p>2015</p>
+									</th>
+									<th align="left">
+										<p>2020</p>
+									</th>
+								</tr>
+							</thead>
+							<tbody>
+								<tr>
+									<td align="left">
+										<p>Farmland</p>
+									</td>
+									<td char="." align="char">
+										<p>124681.40</p>
+									</td>
+									<td char="." align="char">
+										<p>120573.46</p>
+									</td>
+									<td char="." align="char">
+										<p>120399.69</p>
+									</td>
+									<td char="." align="char">
+										<p>122989.28</p>
+									</td>
+									<td char="." align="char">
+										<p>117951.33</p>
+									</td>
+								</tr>
+								<tr>
+									<td align="left">
+										<p>Forestland</p>
+									</td>
+									<td char="." align="char">
+										<p>37045.84</p>
+									</td>
+									<td char="." align="char">
+										<p>38352.68</p>
+									</td>
+									<td char="." align="char">
+										<p>38995.67</p>
+									</td>
+									<td char="." align="char">
+										<p>39917.47</p>
+									</td>
+									<td char="." align="char">
+										<p>40400.41</p>
+									</td>
+								</tr>
+								<tr>
+									<td align="left">
+										<p>Grassland</p>
+									</td>
+									<td char="." align="char">
+										<p>77631.03</p>
+									</td>
+									<td char="." align="char">
+										<p>81163.16</p>
+									</td>
+									<td char="." align="char">
+										<p>78860.32</p>
+									</td>
+									<td char="." align="char">
+										<p>74335.21</p>
+									</td>
+									<td char="." align="char">
+										<p>78441.80</p>
+									</td>
+								</tr>
+								<tr>
+									<td align="left">
+										<p>Water area</p>
+									</td>
+									<td char="." align="char">
+										<p>1736.63</p>
+									</td>
+									<td char="." align="char">
+										<p>1718.71</p>
+									</td>
+									<td char="." align="char">
+										<p>1644.13</p>
+									</td>
+									<td char="." align="char">
+										<p>1622.82</p>
+									</td>
+									<td char="." align="char">
+										<p>1492.40</p>
+									</td>
+								</tr>
+								<tr>
+									<td align="left">
+										<p>Barren land</p>
+									</td>
+									<td char="." align="char">
+										<p>5787.15</p>
+									</td>
+									<td char="." align="char">
+										<p>4253.69</p>
+									</td>
+									<td char="." align="char">
+										<p>4823.65</p>
+									</td>
+									<td char="." align="char">
+										<p>4366.55</p>
+									</td>
+									<td char="." align="char">
+										<p>4152.91</p>
+									</td>
+								</tr>
+								<tr>
+									<td align="left">
+										<p>Urban land</p>
+									</td>
+									<td char="." align="char">
+										<p>11463.27</p>
+									</td>
+									<td char="." align="char">
+										<p>12283.63</p>
+									</td>
+									<td char="." align="char">
+										<p>13621.88</p>
+									</td>
+									<td char="." align="char">
+										<p>15114.00</p>
+									</td>
+									<td char="." align="char">
+										<p>15906.48</p>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+					</table-wrap>
+				</p>
+				<p id="Par32">Figure 
+					<xref rid="Fig5" ref-type="fig">5</xref> displays that from 2000 to 2020, the main types of land cover transferred out from the LHB were grassland, farmland, and forestland, corresponding to 4,336,863 ha, 3,119,759 ha, and 457,400 ha. From 2000 to 2020, the characteristics of land cover transfer remained consistent according to the three primary types of land transfer. Grassland is the land type with the most land change in the LHB region, and the grassland is mainly converted into farmland, with the transition amount increasing first and then decreasing during 2000–2020. The transition of grassland to forestland is increasing during 2000–2020, which is consistent with the trend of farmland transition. The conversion of farmland to forest land is increasing year by year. The increase in construction land mainly comes from the transition of arable land. The degradation of water area is mainly due to the transformation of water area into farmland.
+					<fig id="Fig5">
+						<label>Fig. 5</label>
+						<caption xml:lang="en">
+							<p>Land use transition of LHB during 2000–2020</p>
+						</caption>
+						<p>
+							<graphic specific-use="HTML" mime-subtype="PNG" xlink:href="MediaObjects/13157_2023_1762_Fig5_HTML.png"/>
+						</p>
+					</fig>
+				</p>
+			</sec>
+			<sec id="Sec14">
+				<title>Characteristics of ESVs in Different Land Use</title>
+				<p id="Par33">From 2000 to 2020, the ESV in the LHB region showed a trend of first decreasing and then increasing (Fig. 
+					<xref rid="Fig6" ref-type="fig">6</xref>; Table 
+					<xref rid="Tab4" ref-type="table">4</xref>). From 2000 to 2010, the ESV decreased by 24%, from 1224.42 billion yuan to 928.21 billion yuan. From 2010 to 2020, the ESV increased by 33%, from 928.24 billion yuan to 1238.2 billion yuan. The total ESV increased from 1224.45 billion yuan to 1238.24 billion yuan, with provision service value decreasing from 125.45 billion yuan to 123.25 billion yuan. Both regulatory support services and cultural services are showing an increasing trend.
+					<fig id="Fig6">
+						<label>Fig. 6</label>
+						<caption xml:lang="en">
+							<p>Spatial distribution map of the ecosystem service value</p>
+						</caption>
+						<p>
+							<graphic specific-use="HTML" mime-subtype="PNG" xlink:href="MediaObjects/13157_2023_1762_Fig6_HTML.png"/>
+						</p>
+					</fig>
+					<table-wrap id="Tab4">
+						<label>Table 4</label>
+						<caption xml:lang="en">
+							<p>Ecosystem services value in the LHB (100 million yuan)</p>
+						</caption>
+						<table frame="hsides" rules="groups">
+							<thead>
+								<tr>
+									<th align="left" rowspan="2" colspan="2">
+										<p>Types of ecosystem services</p>
+									</th>
+									<th align="left" colspan="2">
+										<p>2000</p>
+									</th>
+									<th align="left" colspan="2">
+										<p>2005</p>
+									</th>
+									<th align="left" colspan="2">
+										<p>2010</p>
+									</th>
+									<th align="left" colspan="2">
+										<p>2010</p>
+									</th>
+									<th align="left" colspan="2">
+										<p>2020</p>
+									</th>
+								</tr>
+								<tr>
+									<th align="left">
+										<p>ESV</p>
+									</th>
+									<th align="left">
+										<p>Ratio%</p>
+									</th>
+									<th align="left">
+										<p>ESV</p>
+									</th>
+									<th align="left">
+										<p>Ratio%</p>
+									</th>
+									<th align="left">
+										<p>ESV</p>
+									</th>
+									<th align="left">
+										<p>Ratio%</p>
+									</th>
+									<th align="left">
+										<p>ESV</p>
+									</th>
+									<th align="left">
+										<p>Ratio%</p>
+									</th>
+									<th align="left">
+										<p>ESV</p>
+									</th>
+									<th align="left">
+										<p>Ratio%</p>
+									</th>
+								</tr>
+							</thead>
+							<tbody>
+								<tr>
+									<td align="left" rowspan="3">
+										<p>Provision services</p>
+									</td>
+									<td align="left">
+										<p>
+											<bold>Food production</bold>
+										</p>
+									</td>
+									<td align="left">
+										<p>580.06</p>
+									</td>
+									<td align="left">
+										<p>4.74</p>
+									</td>
+									<td align="left">
+										<p>573.04</p>
+									</td>
+									<td align="left">
+										<p>4.56</p>
+									</td>
+									<td align="left">
+										<p>509.99</p>
+									</td>
+									<td align="left">
+										<p>5.49</p>
+									</td>
+									<td align="left">
+										<p>572.40</p>
+									</td>
+									<td align="left">
+										<p>4.71</p>
+									</td>
+									<td align="left">
+										<p>561.84</p>
+									</td>
+									<td align="left">
+										<p>4.54</p>
+									</td>
+								</tr>
+								<tr>
+									<td align="left">
+										<p>
+											<bold>Raw materials</bold>
+										</p>
+									</td>
+									<td align="left">
+										<p>464.46</p>
+									</td>
+									<td align="left">
+										<p>3.79</p>
+									</td>
+									<td align="left">
+										<p>469.15</p>
+									</td>
+									<td align="left">
+										<p>3.73</p>
+									</td>
+									<td align="left">
+										<p>377.69</p>
+									</td>
+									<td align="left">
+										<p>4.07</p>
+									</td>
+									<td align="left">
+										<p>461.90</p>
+									</td>
+									<td align="left">
+										<p>3.80</p>
+									</td>
+									<td align="left">
+										<p>464.15</p>
+									</td>
+									<td align="left">
+										<p>3.75</p>
+									</td>
+								</tr>
+								<tr>
+									<td align="left">
+										<p>
+											<bold>water resource</bold>
+										</p>
+									</td>
+									<td align="left">
+										<p>210.44</p>
+									</td>
+									<td align="left">
+										<p>1.72</p>
+									</td>
+									<td align="left">
+										<p>215.58</p>
+									</td>
+									<td align="left">
+										<p>1.72</p>
+									</td>
+									<td align="left">
+										<p>162.63</p>
+									</td>
+									<td align="left">
+										<p>1.75</p>
+									</td>
+									<td align="left">
+										<p>206.42</p>
+									</td>
+									<td align="left">
+										<p>1.70</p>
+									</td>
+									<td align="left">
+										<p>207.42</p>
+									</td>
+									<td align="left">
+										<p>1.68</p>
+									</td>
+								</tr>
+								<tr>
+									<td align="left" rowspan="4">
+										<p>Regulation services</p>
+									</td>
+									<td align="left">
+										<p>
+											<bold>Gas regulation</bold>
+										</p>
+									</td>
+									<td align="left">
+										<p>1250.84</p>
+									</td>
+									<td align="left">
+										<p>10.22</p>
+									</td>
+									<td align="left">
+										<p>1278.34</p>
+									</td>
+									<td align="left">
+										<p>10.17</p>
+									</td>
+									<td align="left">
+										<p>956.75</p>
+									</td>
+									<td align="left">
+										<p>10.31</p>
+									</td>
+									<td align="left">
+										<p>1244.90</p>
+									</td>
+									<td align="left">
+										<p>10.24</p>
+									</td>
+									<td align="left">
+										<p>1267.14</p>
+									</td>
+									<td align="left">
+										<p>10.23</p>
+									</td>
+								</tr>
+								<tr>
+									<td align="left">
+										<p>
+											<bold>Climate regulation</bold>
+										</p>
+									</td>
+									<td align="left">
+										<p>2727.61</p>
+									</td>
+									<td align="left">
+										<p>22.28</p>
+									</td>
+									<td align="left">
+										<p>2827.34</p>
+									</td>
+									<td align="left">
+										<p>22.50</p>
+									</td>
+									<td align="left">
+										<p>1979.53</p>
+									</td>
+									<td align="left">
+										<p>21.33</p>
+									</td>
+									<td align="left">
+										<p>2730.07</p>
+									</td>
+									<td align="left">
+										<p>22.45</p>
+									</td>
+									<td align="left">
+										<p>2818.19</p>
+									</td>
+									<td align="left">
+										<p>22.76</p>
+									</td>
+								</tr>
+								<tr>
+									<td align="left">
+										<p>
+											<bold>Environmental purification</bold>
+										</p>
+									</td>
+									<td align="left">
+										<p>894.81</p>
+									</td>
+									<td align="left">
+										<p>7.31</p>
+									</td>
+									<td align="left">
+										<p>925.98</p>
+									</td>
+									<td align="left">
+										<p>7.37</p>
+									</td>
+									<td align="left">
+										<p>644.38</p>
+									</td>
+									<td align="left">
+										<p>6.94</p>
+									</td>
+									<td align="left">
+										<p>890.60</p>
+									</td>
+									<td align="left">
+										<p>7.32</p>
+									</td>
+									<td align="left">
+										<p>917.12</p>
+									</td>
+									<td align="left">
+										<p>7.41</p>
+									</td>
+								</tr>
+								<tr>
+									<td align="left">
+										<p>
+											<bold>Water regulation</bold>
+										</p>
+									</td>
+									<td align="left">
+										<p>2686.04</p>
+									</td>
+									<td align="left">
+										<p>21.94</p>
+									</td>
+									<td align="left">
+										<p>2751.67</p>
+									</td>
+									<td align="left">
+										<p>21.90</p>
+									</td>
+									<td align="left">
+										<p>2100.58</p>
+									</td>
+									<td align="left">
+										<p>22.63</p>
+									</td>
+									<td align="left">
+										<p>2642.37</p>
+									</td>
+									<td align="left">
+										<p>21.73</p>
+									</td>
+									<td align="left">
+										<p>2655.25</p>
+									</td>
+									<td align="left">
+										<p>21.44</p>
+									</td>
+								</tr>
+								<tr>
+									<td align="left" rowspan="3">
+										<p>Supporting services</p>
+									</td>
+									<td align="left">
+										<p>
+											<bold>Soil retention</bold>
+										</p>
+									</td>
+									<td align="left">
+										<p>1629.37</p>
+									</td>
+									<td align="left">
+										<p>13.31</p>
+									</td>
+									<td align="left">
+										<p>1659.48</p>
+									</td>
+									<td align="left">
+										<p>13.21</p>
+									</td>
+									<td align="left">
+										<p>1267.56</p>
+									</td>
+									<td align="left">
+										<p>13.66</p>
+									</td>
+									<td align="left">
+										<p>1620.81</p>
+									</td>
+									<td align="left">
+										<p>13.33</p>
+									</td>
+									<td align="left">
+										<p>1643.69</p>
+									</td>
+									<td align="left">
+										<p>13.27</p>
+									</td>
+								</tr>
+								<tr>
+									<td align="left">
+										<p>
+											<bold>Nutrient cycling</bold>
+										</p>
+									</td>
+									<td align="left">
+										<p>143.30</p>
+									</td>
+									<td align="left">
+										<p>1.17</p>
+									</td>
+									<td align="left">
+										<p>144.88</p>
+									</td>
+									<td align="left">
+										<p>1.15</p>
+									</td>
+									<td align="left">
+										<p>115.46</p>
+									</td>
+									<td align="left">
+										<p>1.24</p>
+									</td>
+									<td align="left">
+										<p>142.39</p>
+									</td>
+									<td align="left">
+										<p>1.17</p>
+									</td>
+									<td align="left">
+										<p>143.27</p>
+									</td>
+									<td align="left">
+										<p>1.16</p>
+									</td>
+								</tr>
+								<tr>
+									<td align="left">
+										<p>
+											<bold>Biodiversity protection</bold>
+										</p>
+									</td>
+									<td align="left">
+										<p>1167.58</p>
+									</td>
+									<td align="left">
+										<p>9.54</p>
+									</td>
+									<td align="left">
+										<p>1211.01</p>
+									</td>
+									<td align="left">
+										<p>9.64</p>
+									</td>
+									<td align="left">
+										<p>816.97</p>
+									</td>
+									<td align="left">
+										<p>8.80</p>
+									</td>
+									<td align="left">
+										<p>1161.45</p>
+									</td>
+									<td align="left">
+										<p>9.55</p>
+									</td>
+									<td align="left">
+										<p>1201.02</p>
+									</td>
+									<td align="left">
+										<p>9.70</p>
+									</td>
+								</tr>
+								<tr>
+									<td align="left">
+										<p>Cultural services</p>
+									</td>
+									<td align="left">
+										<p>
+											<bold>Recreation and culture</bold>
+										</p>
+									</td>
+									<td align="left">
+										<p>489.69</p>
+									</td>
+									<td align="left">
+										<p>4.00</p>
+									</td>
+									<td align="left">
+										<p>507.30</p>
+									</td>
+									<td align="left">
+										<p>4.04</p>
+									</td>
+									<td align="left">
+										<p>350.33</p>
+									</td>
+									<td align="left">
+										<p>3.77</p>
+									</td>
+									<td align="left">
+										<p>487.92</p>
+									</td>
+									<td align="left">
+										<p>4.01</p>
+									</td>
+									<td align="left">
+										<p>503.26</p>
+									</td>
+									<td align="left">
+										<p>4.06</p>
+									</td>
+								</tr>
+								<tr>
+									<td align="left" colspan="2">
+										<p>Total</p>
+									</td>
+									<td align="left">
+										<p>12244.20</p>
+									</td>
+									<td align="left">
+										<p>100.00</p>
+									</td>
+									<td align="left">
+										<p>12563.76</p>
+									</td>
+									<td align="left">
+										<p>100.00</p>
+									</td>
+									<td align="left">
+										<p>9281.87</p>
+									</td>
+									<td align="left">
+										<p>100.00</p>
+									</td>
+									<td align="left">
+										<p>12161.23</p>
+									</td>
+									<td align="left">
+										<p>100.00</p>
+									</td>
+									<td align="left">
+										<p>12382.36</p>
+									</td>
+									<td align="left">
+										<p>100.00</p>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+					</table-wrap>
+				</p>
+				<p id="Par34">ESV had clear spatial heterogeneity in the LHB, the ESV increases outward from the LHB center, and high ESV areas are mainly distributed in the western and eastern regions. The coverage of forest and grassland in these areas is relatively high. Among the various land covers in LHB, forest can provide the highest regulatory support and cultural services (Fig. 
+					<xref rid="Fig5" ref-type="fig">5</xref>), while low ESV is mainly distributed in the central region, which is mainly concentrated in construction land and cannot provide ecosystem service value. Other moderate ESV areas are mainly composed of cultivated land, which can provide a large amount of product supply services.
+				</p>
+			</sec>
+			<sec id="Sec15">
+				<title>Spatial Agglomeration of ESVs</title>
+				<p id="Par35">This study validated the spatial correlation of ecological risk in the research area, Moran’s I scatterplots and global spatial autocorrelation analyses were conducted. The results revealed that the LHB exhibited strong positive spatial correlation across the period of 2000–2020 (Fig.
+					<xref rid="Fig7" ref-type="fig">7</xref>), with Moran’s I values of 0.8113, 0.8103, 0.8119, 0.8082, 0.8096, and 0.8161 (Table
+					<xref rid="Tab5" ref-type="table">5</xref>), respectively. This significant Moran value indicates a clear clustering pattern in the spatial distribution of LHB, supporting the findings of Liu et al. (
+					<xref ref-type="bibr" rid="CR19">2020</xref>).
+				</p>
+				<p id="Par36">
+					<fig id="Fig7">
+						<label>Fig. 7</label>
+						<caption xml:lang="en">
+							<p>Spatial autocorrelation of ecosystem service in 2000–2020</p>
+						</caption>
+						<p>
+							<graphic specific-use="HTML" mime-subtype="PNG" xlink:href="MediaObjects/13157_2023_1762_Fig7_HTML.png"/>
+						</p>
+					</fig>
+				</p>
+				<p id="Par37">
+					<table-wrap id="Tab5">
+						<label>Table 5</label>
+						<caption xml:lang="en">
+							<p>Moran’I index table</p>
+						</caption>
+						<table frame="hsides" rules="groups">
+							<thead>
+								<tr>
+									<th align="left">
+										<p>Year</p>
+									</th>
+									<th align="left">
+										<p>Moran
+											<italic>I</italic>
+										</p>
+									</th>
+									<th align="left">
+										<p>Z(I)</p>
+									</th>
+									<th align="left">
+										<p>P(I)</p>
+									</th>
+								</tr>
+							</thead>
+							<tbody>
+								<tr>
+									<td align="left">
+										<p>2000</p>
+									</td>
+									<td align="left">
+										<p>0.7828</p>
+									</td>
+									<td align="left">
+										<p>117.64</p>
+									</td>
+									<td align="left">
+										<p>0.00</p>
+									</td>
+								</tr>
+								<tr>
+									<td align="left">
+										<p>2005</p>
+									</td>
+									<td align="left">
+										<p>0.7809</p>
+									</td>
+									<td align="left">
+										<p>117.64</p>
+									</td>
+									<td align="left">
+										<p>0.00</p>
+									</td>
+								</tr>
+								<tr>
+									<td align="left">
+										<p>2010</p>
+									</td>
+									<td align="left">
+										<p>0.7807</p>
+									</td>
+									<td align="left">
+										<p>117.31</p>
+									</td>
+									<td align="left">
+										<p>0.00</p>
+									</td>
+								</tr>
+								<tr>
+									<td align="left">
+										<p>2015</p>
+									</td>
+									<td align="left">
+										<p>0.7811</p>
+									</td>
+									<td align="left">
+										<p>117.39</p>
+									</td>
+									<td align="left">
+										<p>0.00</p>
+									</td>
+								</tr>
+								<tr>
+									<td align="left">
+										<p>2020</p>
+									</td>
+									<td align="left">
+										<p>0.7791</p>
+									</td>
+									<td align="left">
+										<p>117.09</p>
+									</td>
+									<td align="left">
+										<p>0.00</p>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+					</table-wrap>
+				</p>
+				<p id="Par38">Figure
+					<xref rid="Fig8" ref-type="fig">8</xref> displayed the hotspots for various ecosystem services in 2000 and 2020, indicating their respective confidence levels. It is widely accepted that a confidence level of P &lt; 0.05 (i.e.,95% confidence level) is considered statistically significant (Li et al.
+					<xref ref-type="bibr" rid="CR16">2017</xref>). Therefore, our study primarily focused on hotspots with confidence levels exceeding 95%, as these were deemed crucial for the provision of ecosystem services. The spatial distribution pattern of ecosystem services cold hotspots in the LHB region from 2000 to 2020 is similar, with hotspots mainly distributed in the western and eastern regions. This is because the ecological vegetation coverage in the western and eastern regions is high, with higher elevations and rich terrain. Forests and grasslands are mainly concentrated in this area and can provide various ecosystem services (Du et al.
+					<xref ref-type="bibr" rid="CR8">2023</xref>). The central and eastern regions are where the majority of the cold spot area is found. These areas are mainly composed of grassland and arable land, and their aggregation is relatively scattered.
+				</p>
+				<p id="Par39">
+					<fig id="Fig8">
+						<label>Fig. 8</label>
+						<caption xml:lang="en">
+							<p>Hotspots of ecosystem services in LHB</p>
+						</caption>
+						<p>
+							<graphic specific-use="HTML" mime-subtype="PNG" xlink:href="MediaObjects/13157_2023_1762_Fig8_HTML.png"/>
+						</p>
+					</fig>
+				</p>
+			</sec>
+			<sec id="Sec16">
+				<title>Mechanisms of Drive Changes in ESVs</title>
+				<p id="Par40">The results from differentiating and detecting factors indicated that the spatial differentiation of ESV in the study region was influenced by multiple factors (Table 
+					<xref rid="Tab5" ref-type="table">5</xref>).
+				</p>
+				<p id="Par41">The Q values were ranked as follows: HAI (0.424) &gt; AP(0.298) &gt; DEM(0.232) &gt; AT(0.211) &gt; other factors (&lt; 0.2). HAI was the main driver of the differences in ecosystem services value (ESV) across the study area. Factors related to human actions had a bigger impact on ESV compared to natural factors. The analysis showed that the combined effects of pairs of factors were more significant than the individual effects of any single factor. These interactions mostly contributed to enhancing the effects of both factors involved (Table 
+					<xref rid="Tab6" ref-type="table">6</xref>; Fig. 
+					<xref rid="Fig9" ref-type="fig">9</xref>). The factors LA and HAI were strongly influenced by AP and NDVI,as indicated by significant factor interactions (0.796, 0.817). Additionally, the q values for the interactions between LA and other factors,as well as HAI and other factors, were several times higher than the values for the independent actions of these factors.
+
+					<table-wrap id="Tab6">
+						<label>Table 6</label>
+						<caption xml:lang="en">
+							<p>The contributions (Q statistics) of different factors to ESV variation</p>
+						</caption>
+						<table frame="hsides" rules="groups">
+							<thead>
+								<tr>
+									<th align="left">
+										<p>Factor</p>
+									</th>
+									<th align="left">
+										<p>Q statistic</p>
+									</th>
+									<th align="left">
+										<p>P value</p>
+									</th>
+								</tr>
+							</thead>
+							<tbody>
+								<tr>
+									<td align="left">
+										<p>DEM</p>
+									</td>
+									<td align="left">
+										<p>0.232</p>
+									</td>
+									<td align="left">
+										<p>0.000</p>
+									</td>
+								</tr>
+								<tr>
+									<td align="left">
+										<p>GDP</p>
+									</td>
+									<td align="left">
+										<p>0.052</p>
+									</td>
+									<td align="left">
+										<p>0.000</p>
+									</td>
+								</tr>
+								<tr>
+									<td align="left">
+										<p>Road distances</p>
+									</td>
+									<td align="left">
+										<p>0.037</p>
+									</td>
+									<td align="left">
+										<p>0.000</p>
+									</td>
+								</tr>
+								<tr>
+									<td align="left">
+										<p>HAI</p>
+									</td>
+									<td align="left">
+										<p>0.424</p>
+									</td>
+									<td align="left">
+										<p>0.000</p>
+									</td>
+								</tr>
+								<tr>
+									<td align="left">
+										<p>River distances</p>
+									</td>
+									<td align="left">
+										<p>0.018</p>
+									</td>
+									<td align="left">
+										<p>0.000</p>
+									</td>
+								</tr>
+								<tr>
+									<td align="left">
+										<p>NDVI</p>
+									</td>
+									<td align="left">
+										<p>0.153</p>
+									</td>
+									<td align="left">
+										<p>0.000</p>
+									</td>
+								</tr>
+								<tr>
+									<td align="left">
+										<p>Annual precipitation (AP)</p>
+									</td>
+									<td align="left">
+										<p>0.298</p>
+									</td>
+									<td align="left">
+										<p>0.000</p>
+									</td>
+								</tr>
+								<tr>
+									<td align="left">
+										<p>Population density (PD)</p>
+									</td>
+									<td align="left">
+										<p>0.043</p>
+									</td>
+									<td align="left">
+										<p>0.000</p>
+									</td>
+								</tr>
+								<tr>
+									<td align="left">
+										<p>Annual temperature (AT)</p>
+									</td>
+									<td align="left">
+										<p>0.211</p>
+									</td>
+									<td align="left">
+										<p>0.000</p>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+					</table-wrap>
+					<fig id="Fig9">
+						<label>Fig. 9</label>
+						<caption xml:lang="en">
+							<p>Interactive effects between the factors</p>
+						</caption>
+						<p>
+							<graphic specific-use="HTML" mime-subtype="PNG" xlink:href="MediaObjects/13157_2023_1762_Fig9_HTML.png"/>
+						</p>
+					</fig>
+				</p>
+				<p id="Par42">Among the different factors studied,the combined influence of LA and NDVI, AP and AD had the most noteworthy impact on ESV. The average q values for these interactions were consistently above 0.5, indicating their significant effects. Meanwhile, out of all the factors, LA and NDVI had the highest q value of 0.817, highlighting their substantial contribution to the spatial variation of ESV across the study area. Both LA and AP had q values greater than 0.2, indicating that the spatial variation of ESV in the LHB was influenced by a combination of human factors, natural factors. Among these, human factors had the greatest impact.</p>
+			</sec>
+			<sec id="Sec17">
+				<title>Multi-Scenario Simulation of Land Pattern and ESVs</title>
+				<p id="Par43">The land use in the LHB have undergone significant changes under three scenarios (Fig. 
+					<xref rid="Fig10" ref-type="fig">10</xref>). The area of farmland land has decreased under all three scenarios, with the EPP scenario showing the largest decrease of 8011km
+					<sup>2</sup>, while the forest area has increased, the EPP scenario shows the largest increase of 5822km
+					<sup>2</sup>. Under the NDP and EDP scenarios, the grassland area significantly decreased by 7765km
+					<sup>2</sup> and 7735km
+					<sup>2</sup>, while the grassland increased 1157km
+					<sup>2</sup> under the EPP senarios. The water area slightly increased under the NDP and EPP scenarios, while decreased under the EDP scenario. The area of barren land significantly decreased in all scenarios, with EDP mode having the highest reduction. The urban land shows an increasing trend, with the smallest increase in urban land under the EPP scenario.
+				</p>
+				<p id="Par44">
+					<fig id="Fig10">
+						<label>Fig. 10</label>
+						<caption xml:lang="en">
+							<p>Spatial distribution of land use under three different scenarios in 2060</p>
+						</caption>
+						<p>
+							<graphic specific-use="HTML" mime-subtype="PNG" xlink:href="MediaObjects/13157_2023_1762_Fig10_HTML.png"/>
+						</p>
+					</fig>
+				</p>
+				<p id="Par45">The distribution of ESV in LHB projected under different scenarios was shown in Fig. 
+					<xref rid="Fig11" ref-type="fig">11</xref>. The distribution of ESV in 2026 under various scenarios is similar, with CR being the highest, approaching 300 billion yuan, followed by WR, both exceeding 250 billion yuan. Moreover, the value of WR and CR under the EPP scenario is much higher than that of NDP and EDP. SR, EP, and GR are all between 100 and 200 billion yuan, while other services do not exceed 100 billion yuan, with EPP slightly higher than NDP and EDP, and EDP being the lowest.
+				</p>
+				<p id="Par46">
+					<fig id="Fig11">
+						<label>Fig. 11</label>
+						<caption xml:lang="en">
+							<p>The distribution of ESV in LHB projected under different scenarios</p>
+						</caption>
+						<p>
+							<graphic specific-use="HTML" mime-subtype="PNG" xlink:href="MediaObjects/13157_2023_1762_Fig11_HTML.png"/>
+						</p>
+					</fig>
+				</p>
+				<p id="Par47">The value of ESV in LHB projected under different scenarios was shown in Table 
+					<xref rid="Tab7" ref-type="table">7</xref>, The ESV in the LHB region improved under the EPP scenario, with the ESV in 2060-EPP increasing by 50.74 billion yuan compared to 2020. Regulatory services are the main driving factor, with an increase of 38 billion yuan compared to 2020. Support services and culture services increased by 10.33 billion yuan and 2.78 billion yuan respectively. The ESV under the NDP and EDP scenarios decreased by 25 billion yuan and 36.44 billion yuan respectively compared to 2020. The change in ESV in the NDP scenario is attributed to a decrease in product supply and regulatory services, while the change in ESV in EDP is mainly attributed to a decrease in regulatory and support services.
+				</p>
+				<p id="Par48">
+					<table-wrap id="Tab7">
+						<label>Table 7</label>
+						<caption xml:lang="en">
+							<p>The value of ESV in LHB projected under different scenarios</p>
+						</caption>
+						<table frame="hsides" rules="groups">
+							<thead>
+								<tr>
+									<th align="left">
+										<p>Year</p>
+									</th>
+									<th align="left">
+										<p>2020</p>
+									</th>
+									<th align="left" colspan="2">
+										<p>2060-NDP</p>
+									</th>
+									<th align="left" colspan="2">
+										<p>2060-EPP</p>
+									</th>
+									<th align="left" colspan="2">
+										<p>2060-EDP</p>
+									</th>
+								</tr>
+								<tr>
+									<th align="left"/>
+									<th align="left">
+										<p>ESV</p>
+									</th>
+									<th align="left">
+										<p>ESV</p>
+									</th>
+									<th align="left">
+										<p>Change</p>
+									</th>
+									<th align="left">
+										<p>ESV</p>
+									</th>
+									<th align="left">
+										<p>Change</p>
+									</th>
+									<th align="left">
+										<p>ESV</p>
+									</th>
+									<th align="left">
+										<p>Change</p>
+									</th>
+								</tr>
+							</thead>
+							<tbody>
+								<tr>
+									<td align="left">
+										<p>Provision services</p>
+									</td>
+									<td align="left">
+										<p>1234.54</p>
+									</td>
+									<td align="left">
+										<p>1196.27</p>
+									</td>
+									<td align="left">
+										<p>-38.38</p>
+									</td>
+									<td align="left">
+										<p>1231.26</p>
+									</td>
+									<td align="left">
+										<p>-3.38</p>
+									</td>
+									<td align="left">
+										<p>1187.37</p>
+									</td>
+									<td align="left">
+										<p>-47.26</p>
+									</td>
+								</tr>
+								<tr>
+									<td align="left">
+										<p>Regulation services</p>
+									</td>
+									<td align="left">
+										<p>7664.75</p>
+									</td>
+									<td align="left">
+										<p>7526.47</p>
+									</td>
+									<td align="left">
+										<p>-138.38</p>
+									</td>
+									<td align="left">
+										<p>8045.24</p>
+									</td>
+									<td align="left">
+										<p>380.52</p>
+									</td>
+									<td align="left">
+										<p>7452.86</p>
+									</td>
+									<td align="left">
+										<p>-211.94</p>
+									</td>
+								</tr>
+								<tr>
+									<td align="left">
+										<p>Supporting services</p>
+									</td>
+									<td align="left">
+										<p>2990.77</p>
+									</td>
+									<td align="left">
+										<p>2965.77</p>
+									</td>
+									<td align="left">
+										<p>-25</p>
+									</td>
+									<td align="left">
+										<p>3093.77</p>
+									</td>
+									<td align="left">
+										<p>103</p>
+									</td>
+									<td align="left">
+										<p>2899.15</p>
+									</td>
+									<td align="left">
+										<p>-91.63</p>
+									</td>
+								</tr>
+								<tr>
+									<td align="left">
+										<p>Cultural services</p>
+									</td>
+									<td align="left">
+										<p>503.78</p>
+									</td>
+									<td align="left">
+										<p>495.18</p>
+									</td>
+									<td align="left">
+										<p>-8.69</p>
+									</td>
+									<td align="left">
+										<p>530.77</p>
+									</td>
+									<td align="left">
+										<p>27</p>
+									</td>
+									<td align="left">
+										<p>490.24</p>
+									</td>
+									<td align="left">
+										<p>-13.53</p>
+									</td>
+								</tr>
+								<tr>
+									<td align="left">
+										<p>Total ESV</p>
+									</td>
+									<td align="left">
+										<p>12393.79</p>
+									</td>
+									<td align="left">
+										<p>12143.47</p>
+									</td>
+									<td align="left">
+										<p>-250.32</p>
+									</td>
+									<td align="left">
+										<p>12900.82</p>
+									</td>
+									<td align="left">
+										<p>507.14</p>
+									</td>
+									<td align="left">
+										<p>12029.46</p>
+									</td>
+									<td align="left">
+										<p>-364.33</p>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+					</table-wrap>
+				</p>
+			</sec>
+		</sec>
+		<sec id="Sec18" sec-type="discussion">
+			<title>Discussion</title>
+			<p id="Par49">The study results showed big overall changes in the land use of the study region, indicating an extremely unstable ecosystem structure in the area (Table
+				<xref rid="Tab2" ref-type="table">2</xref>; Fig.
+				<xref rid="Fig4" ref-type="fig">4</xref>). Complex dynamic conversions between different land-use categories and different levels within a category occurred during the study period. Throughout the study period,intricate and dynamic shifts were observed between various land-use classifications and within each category. The main conversions primarily took place in agricultural land, which experienced concentrated human activities. This result corresponds to one of the main characteristics of resource use in Northeast China (Mao et al.
+				<xref ref-type="bibr" rid="CR24">2019a</xref>,
+				<xref ref-type="bibr" rid="CR25">b</xref>; Jia et al.
+				<xref ref-type="bibr" rid="CR13">2022</xref>). Changes in land use encompass modifications in the intensification and conversion of land utilization, ultimately leading to alterations in ecosystem services value (Song and Deng
+				<xref ref-type="bibr" rid="CR31">2017</xref>).
+			</p>
+			<p id="Par50">The results of ESV in the LHB region show a trend of first decreasing and then increasing, which is due to the rapid economic development promoting urbanization, the increase in human activity intensity leading to an increase in construction land, as well as the degradation of water and grassland, which leads to a decrease in ESV in the LHB region. After 2010, ESV significantly increased, mainly due to a significant increase in forest area with ecological restoration, from 38995.67 km
+				<sup>2</sup> to 39917.47 km
+				<sup>2</sup>. The ESV has increased from 928.18 to 1238.23 billion yuan, which indicates that the governance of the LHB has achieved significant results. This is consistent with the results of the existing relevant studies. Grain-for-Green and Grain-for-Blue Policies of Shandong province has increased net primary productivity and soil erosion service value by 20% and 40% (Song et al.,
+				<xref ref-type="bibr" rid="CR32">2015</xref>). The value of ESV in Lishui city increased from 143.28 billion yuan in 2009 to 150.23 billion yuan in 2019 under the ecological restoration policy (Tang et al.
+				<xref ref-type="bibr" rid="CR34">2022</xref>). Ecological restoration of Nature Reserves in Ningxia had a positive effect on the value of ecosystem services during 2000–2010 (Wang et al.
+				<xref ref-type="bibr" rid="CR35">2014</xref>).
+			</p>
+			<p id="Par51">In addition, we also explore the spatial distribution of ESVs in the LHB through spatial analysis. The results of spatial autocorrelation analysis in LHB region show that the ESV in the LHB have very high spatial autocorrelation, which indicates that the spatial concentration of ESV in LHB region is very high. The results of the cold hot spot analysis also prove this, as the ESV hot spot area is mainly distributed in the western and eastern regions of the LHB. Ecological degradation of these region could cause a significant decline in multiple ecosystem services (Qiu and Turner
+				<xref ref-type="bibr" rid="CR29">2013</xref>). which poses a serious threat to human well-being. Therefore, these areas should be priority areas for LHB ecological protection to ensure regional ecological security. We predicted the changes in land and ESV under three scenarios based on the PLUS model in 2060, and the results showed that ESV only increased under the environmental protection scenario, while natural development and economic development scenarios reduced ESV. This indicates that the ecological restoration work in the LHB area is not yet complete, and it is necessary to increase the protection of the ecosystem. We should continue to protect and restore hotspots of ecosystem services in the future, this is a long-term process. It is similar to the research results of Wang et al. (
+				<xref ref-type="bibr" rid="CR37">2021</xref>) that the ecological restoration projects did not increase the value of all ecosystem services in Northeast China, ecological protection policies should be continued in the future.
+			</p>
+			<p id="Par52">Additionally, we discovered that the urban region of LHB does not align with the distribution of ecological service hotspots. We also found that the urban area of LHB does not match the distribution of ecosystem service hotspots, which limits the supply of ecosystem services to human society possible interventions include the development of ecological corridors in the region to strengthen the flow of ESV while coordinating with regional economic development. These ecological corridors can also serve as landscape amenities,boosting the economic benefits associated with an improved ecological environment (Luo et al.
+				<xref ref-type="bibr" rid="CR21">2022</xref>).
+			</p>
+			<p id="Par53">This study was a quantitative analysis of the relative importance of ESV drivers in the study region, and interactions between factors were identified. The results of the analysis revealed that the spatial differentiation in the ESV of the study region is attributed to the interactions between multiple factors. Among these factors, the HAI for human activities was identified as the primary driver. This result is consistent with those of existing studies on drivers of ecosystem services (Pan et al.
+				<xref ref-type="bibr" rid="CR28">2021</xref>; Luo et al.
+				<xref ref-type="bibr" rid="CR20">2020</xref>), which indicates that ESV in the LHB is most affected by HAI. HAI is used to describe the overall intensity of human activities on the value of land ecosystem services in a certain area. It refers to the impact index of land change caused by human activities on the value of ecosystem services, which also indicates that land change is one of the main driving factors affecting the ESV of LHB ( ). The results of the land transfer matrix also showed that the LHB area experienced significant land changes in the process of destruction and restoration. During the period from 2000 to 2010, the degradation of cultivated land and wetland suppressed the supply of ESV, which reduced the value of ecosystem services such as food production and climate regulation. With the gradual recovery of forestland, the ESV of 2010–2020 increased significantly, and the forestland could provide various ecosystem services, including gas regulation, climate regulation, environmental purification, soil retention, nutrient cycling service.
+			</p>
+			<p id="Par54">Rapid socioeconomic development has accelerated the intensity of human exploitation of resources from the natural environment, forcibly converting regional natural landscapes into semi-natural (e.g., farmland) and artificial landscapes (Ma et al.
+				<xref ref-type="bibr" rid="CR23">2018</xref>). Simultaneously, the population has been steadily increasing,resulting in an increased demand for both construction lands and food. Consequently, there has been a continuous reclamation of substantial non-agricultural areas and an intensification of regional land use within this context. Ultimately, this will result in a reduction of ESV.
+			</p>
+			<p id="Par55">Even though this study has adjusted the value coefficient based on the current conditions of the study area, there is still a level of uncertainty.</p>
+			<p id="Par56">This research utilized the equivalent coefficient of ESV per unit area to estimate ESV in the middle and lower sections of the LHB. However, the determination of this equivalent ESV coefficient is subjective, which impacts the precision of the ESV assessment findings (Zhang et al.
+				<xref ref-type="bibr" rid="CR47">2020</xref>. Zheng et al.
+				<xref ref-type="bibr" rid="CR51">2020</xref>). To address these concerns,it is necessary to develop more accurate evaluation models for the research area that can account for these influences. Furthermore, relying solely on economic value to estimate the value of regional ecosystem services fails to capture the worth of intangible services like aesthetic and cultural contributions. Hence, the evaluation results currently fail to accurately depict the full range of service functions and values provided by the study area ecosystem. Consequently, for future research, it is crucial to develop an assessment model that more comprehensively embodies the ecosystem service functions in the study area and aligns with the actual conditions in the study area, for mitigating the influences (Pan et al.
+				<xref ref-type="bibr" rid="CR28">2021</xref>).
+			</p>
+		</sec>
+		<sec id="Sec19" sec-type="conclusions">
+			<title>Conclusions</title>
+			<p id="Par57">This study utilized the benefit transfer method to assess the ESV of the midstream and downstream regions of the Liaohe River Basin (LHB), and the spatiotemporal distribution of ESV was analysed accordingly. Afterwards, the Geographical detector model was used to measure the contributions of factors that drive the ecosystem service value. The primary findings demonstrated that the land use and land cover structure in the study area was not stable as a result of both ecological destruction and restoration, which were marked by significant human activities. Over the course of the 20-year study period, there was a continuous increase in the expansion of forested and grassy areas of land. The total ESV in LHB area decreased first and then increased, which indicates that the restoration of LHB basin was effective. Moreover, the spatial clustering of ESV in LHB is high, with ESV hotspots mainly concentrated in the western and eastern regions. The intensity of human activity is the main driver of ESV variation.</p>
+		</sec>
+	</body>
+	<back>
+		<sec sec-type="author-contribution">
+			<title>Author Contribution</title>
+			<p>Changgeng Jia.</p>
+			<p>Contributions: The idea construction and writing of the paper.</p>
+			<p>Yu Fan.</p>
+			<p>Contributions: Paper guidance and revision.</p>
+			<p>Chaoxiang Wei.</p>
+			<p>Contributions: Value accounting of ecosystem services in the paper.</p>
+			<p>Kunyu Luo.</p>
+			<p>Contributions: Ecological model construction in the paper.</p>
+			<p>Sihui Li.</p>
+			<p>Contributions: Related accounting data support.</p>
+			<p>Youtao Song.</p>
+			<p>Contributions: Paper guidance and revision.</p>
+		</sec>
+		<sec>
+			<title>Funding</title>
+			<p>No funding was obtained for this study.</p>
+		</sec>
+		<sec sec-type="data-availability">
+			<title>Data Availability</title>
+			<p>The datasets used or analysed during the current study are available from the corresponding author on reasonable request.</p>
+		</sec>
+		<sec sec-type="ethics-statement">
+			<title>Declarations</title>
+			<sec id="FPar4" sec-type="COI-statement">
+				<title>Competing Interests</title>
+				<p id="Par58">The authors declare that there is no conflict of interest.</p>
+			</sec>
+		</sec>
+		<ref-list id="Bib1">
+			<title>References</title>
+			<ref-list>
+				<ref id="CR1">
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Bai</surname>
+								<given-names>Y</given-names>
+							</name>
+							<name>
+								<surname>Ochuodho</surname>
+								<given-names>TO</given-names>
+							</name>
+							<name>
+								<surname>Yang</surname>
+								<given-names>J</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Impact of land use and climate change on water related ecosystem services in Kentucky, USA</article-title>
+						<source>Ecological Indicators</source>
+						<year>2019</year>
+						<volume>102</volume>
+						<fpage>51</fpage>
+						<lpage>64</lpage>
+						<pub-id pub-id-type="doi">10.1016/j.ecolind.2019.01.079</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR2">
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Bennett</surname>
+								<given-names>MT</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">China’s sloping land conversion program: institutional innovation or business as usual?</article-title>
+						<source>Ecological Economics</source>
+						<year>2008</year>
+						<volume>65</volume>
+						<fpage>699</fpage>
+						<lpage>711</lpage>
+						<pub-id pub-id-type="doi">10.1016/j.ecolecon.2007.09.017</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR3">
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Brain</surname>
+								<given-names>RA</given-names>
+							</name>
+							<name>
+								<surname>Anderson</surname>
+								<given-names>JC</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Anthropogenic factors affecting wildlife species status outcomes: why the fixation on pesticides?</article-title>
+						<source>Environmental Science and Pollution Research</source>
+						<year>2020</year>
+						<volume>1</volume>
+						<fpage>1</fpage>
+						<lpage>24</lpage>
+						<pub-id pub-id-type="doi">10.1007/s11356-020-08980-1</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR4">
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Costanza</surname>
+								<given-names>R</given-names>
+							</name>
+							<name>
+								<surname>Darge</surname>
+								<given-names>R</given-names>
+							</name>
+							<name>
+								<surname>Groot</surname>
+								<given-names>R</given-names>
+							</name>
+							<name>
+								<surname>Belt</surname>
+								<given-names>H</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">The value of the world’s ecosystem services and natural capital</article-title>
+						<source>Nature</source>
+						<year>1997</year>
+						<volume>387</volume>
+						<issue>6630</issue>
+						<fpage>253</fpage>
+						<lpage>260</lpage>
+						<pub-id pub-id-type="coi">1:CAS:528:DyaK2sXjtlShtbs%3D</pub-id>
+						<pub-id pub-id-type="doi">10.1038/387253a0</pub-id>
+						<pub-id pub-id-type="bibcode">1997Natur.387..253C</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR5">
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Costanza</surname>
+								<given-names>R</given-names>
+							</name>
+							<name>
+								<surname>de Groot</surname>
+								<given-names>R</given-names>
+							</name>
+							<name>
+								<surname>Braat</surname>
+								<given-names>L</given-names>
+							</name>
+							<name>
+								<surname>Kubiszewski</surname>
+								<given-names>I</given-names>
+							</name>
+							<name>
+								<surname>Fioramonti</surname>
+								<given-names>L</given-names>
+							</name>
+							<name>
+								<surname>Sutton</surname>
+								<given-names>P</given-names>
+							</name>
+							<name>
+								<surname>Farber</surname>
+								<given-names>S</given-names>
+							</name>
+							<name>
+								<surname>Grasso</surname>
+								<given-names>M</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Twenty years of ecosystem services: how far have we come and how far do we still need to go?</article-title>
+						<source>Ecosystem Service</source>
+						<year>2017</year>
+						<volume>28</volume>
+						<fpage>1</fpage>
+						<lpage>16</lpage>
+						<pub-id pub-id-type="doi">10.1016/j.ecoser.2017.09.008</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR6">
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Costanza</surname>
+								<given-names>R</given-names>
+							</name>
+							<name>
+								<surname>de Groot</surname>
+								<given-names>R</given-names>
+							</name>
+							<name>
+								<surname>Sutton</surname>
+								<given-names>P</given-names>
+							</name>
+							<name>
+								<surname>van der Ploeg</surname>
+								<given-names>S</given-names>
+							</name>
+							<name>
+								<surname>Anderson</surname>
+								<given-names>SJ</given-names>
+							</name>
+							<name>
+								<surname>Kubiszewski</surname>
+								<given-names>I</given-names>
+							</name>
+							<name>
+								<surname>Farber</surname>
+								<given-names>S</given-names>
+							</name>
+							<name>
+								<surname>Turner</surname>
+								<given-names>RK</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Changes in the global value of ecosystem services</article-title>
+						<source>Global Environmental Change-Human Policy Dimensions Change</source>
+						<year>2014</year>
+						<volume>26</volume>
+						<fpage>152</fpage>
+						<lpage>158</lpage>
+						<pub-id pub-id-type="doi">10.1016/j.gloenvcha.2014.04.002</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR7">
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Cumming</surname>
+								<given-names>GS</given-names>
+							</name>
+							<name>
+								<surname>Buerkert</surname>
+								<given-names>A</given-names>
+							</name>
+							<name>
+								<surname>Hoffmann</surname>
+								<given-names>EM</given-names>
+							</name>
+							<name>
+								<surname>Schlecht</surname>
+								<given-names>E</given-names>
+							</name>
+							<name>
+								<surname>von Cramon-Taubadel</surname>
+								<given-names>S</given-names>
+							</name>
+							<name>
+								<surname>Tscharntke</surname>
+								<given-names>T</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Implications of agricultural transitions and urbanization for ecosystem services</article-title>
+						<source>Nature</source>
+						<year>2014</year>
+						<volume>515</volume>
+						<issue>7525</issue>
+						<fpage>50</fpage>
+						<lpage>57</lpage>
+						<pub-id pub-id-type="coi">1:CAS:528:DC%2BC2cXitFanurfE</pub-id>
+						<pub-id pub-id-type="doi">10.1038/nature13945</pub-id>
+						<pub-id pub-id-type="pmid">25373674</pub-id>
+						<pub-id pub-id-type="bibcode">2014Natur.515...50C</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR8">
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Du</surname>
+								<given-names>LD</given-names>
+							</name>
+							<name>
+								<surname>Dong</surname>
+								<given-names>C</given-names>
+							</name>
+							<name>
+								<surname>Kang</surname>
+								<given-names>XC</given-names>
+							</name>
+							<name>
+								<surname>Qian</surname>
+								<given-names>XL</given-names>
+							</name>
+							<name>
+								<surname>Gu</surname>
+								<given-names>LX</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Spatiotemporal evolution of land cover changes and landscape ecological risk assessment in the Yellow River Basin, 2015–2020</article-title>
+						<source>Journal of Environmental Management</source>
+						<year>2023</year>
+						<volume>332</volume>
+						<fpage>117149</fpage>
+						<pub-id pub-id-type="doi">10.1016/j.jenvman.2022.117149</pub-id>
+						<pub-id pub-id-type="pmid">36808004</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR9">
+					<mixed-citation publication-type="other">Fan Y, Ji JJ, Jia CG, Lei M, Wu W, Zheng Y, Wang Z, Zhang G, Song Y (2023a) The valuation of gross ecosystem product in the three provinces in northeast of China. Natural Resources Forum 1–17. 
+						<ext-link xlink:href="https://doi.org/10.1111/1477-8947.12325" ext-link-type="doi">https://doi.org/10.1111/1477-8947.12325</ext-link>
+					</mixed-citation>
+				</ref>
+				<ref id="CR10">
+					<mixed-citation publication-type="other">Fan Y, Wu Q, Jia C, Liu X, Li S, Ji J, Zheng Y, Song Y (2023b) The valuation of ecosystems services in the Inner Mongolia Autonomous Region of China. Natural Resources Forum 1–17.
+						<ext-link xlink:href="https://doi.org/10.1111/1477-8947.12321" ext-link-type="doi">https://doi.org/10.1111/1477-8947.12321</ext-link>
+					</mixed-citation>
+				</ref>
+				<ref id="CR11">
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Gao</surname>
+								<given-names>H</given-names>
+							</name>
+							<name>
+								<surname>Zhao</surname>
+								<given-names>FQ</given-names>
+							</name>
+							<name>
+								<surname>Li</surname>
+								<given-names>RJ</given-names>
+							</name>
+							<name>
+								<surname>Jin</surname>
+								<given-names>SC</given-names>
+							</name>
+							<name>
+								<surname>Zhang</surname>
+								<given-names>HB</given-names>
+							</name>
+							<name>
+								<surname>Zhang</surname>
+								<given-names>KY</given-names>
+							</name>
+							<name>
+								<surname>Li</surname>
+								<given-names>SS</given-names>
+							</name>
+							<name>
+								<surname>Shu</surname>
+								<given-names>Q</given-names>
+							</name>
+							<name>
+								<surname>Na</surname>
+								<given-names>GS</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Occurrence and distribution of antibiotics and antibiotic resistance genes in water of Liaohe River Basin, China</article-title>
+						<source>Journal of Environmental Chemical Engineering</source>
+						<year>2022</year>
+						<volume>10</volume>
+						<fpage>108297</fpage>
+						<pub-id pub-id-type="coi">1:CAS:528:DC%2BB38XhvFyktbzJ</pub-id>
+						<pub-id pub-id-type="doi">10.1016/j.jece.2022.108297</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR12">
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Gong</surname>
+								<given-names>Y</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Spatio-temporal distribution characteristics and influencing factors of drought in the Liaohe river basin, China</article-title>
+						<source>Frontiers of Environmental Science &amp; Engineering in China</source>
+						<year>2022</year>
+						<pub-id pub-id-type="doi">10.3389/fenvs.2022.1044837</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR13">
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Jia</surname>
+								<given-names>G</given-names>
+							</name>
+							<name>
+								<surname>Dong</surname>
+								<given-names>Y</given-names>
+							</name>
+							<name>
+								<surname>Zhang</surname>
+								<given-names>S</given-names>
+							</name>
+							<name>
+								<surname>He</surname>
+								<given-names>X</given-names>
+							</name>
+							<name>
+								<surname>Zheng</surname>
+								<given-names>H</given-names>
+							</name>
+							<name>
+								<surname>Guo</surname>
+								<given-names>Y</given-names>
+							</name>
+							<name>
+								<surname>Shen</surname>
+								<given-names>G</given-names>
+							</name>
+							<name>
+								<surname>Chen</surname>
+								<given-names>W</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Spatiotemporal changes of ecosystem service trade-offs under the influence of forest conservation project in Northeast China</article-title>
+						<source>Frontiers in Ecology and Evolution</source>
+						<year>2022</year>
+						<pub-id pub-id-type="doi">10.3389/fevo.2022.978145</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR14">
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Li</surname>
+								<given-names>W</given-names>
+							</name>
+							<name>
+								<surname>Hai</surname>
+								<given-names>X</given-names>
+							</name>
+							<name>
+								<surname>Han</surname>
+								<given-names>L</given-names>
+							</name>
+							<name>
+								<surname>Mao</surname>
+								<given-names>J</given-names>
+							</name>
+							<name>
+								<surname>Tian</surname>
+								<given-names>M</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Does urbanization intensify regional water scarcity? Evidence and implications from a megaregion of China</article-title>
+						<source>Journal of Cleaner Production</source>
+						<year>2020</year>
+						<volume>244</volume>
+						<pub-id pub-id-type="doi">10.1016/j.jclepro.2019.118592</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR15">
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Li</surname>
+								<given-names>C</given-names>
+							</name>
+							<name>
+								<surname>Wu</surname>
+								<given-names>Y</given-names>
+							</name>
+							<name>
+								<surname>Gao</surname>
+								<given-names>B</given-names>
+							</name>
+							<name>
+								<surname>Zheng</surname>
+								<given-names>K</given-names>
+							</name>
+							<name>
+								<surname>Wu</surname>
+								<given-names>Y</given-names>
+							</name>
+							<name>
+								<surname>Li</surname>
+								<given-names>C</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Multi-scenario simulation of ecosystem service value for optimization of land use in the sichuan-yunnan ecological barrier, China</article-title>
+						<source>Ecological Indicators</source>
+						<year>2021</year>
+						<volume>132</volume>
+						<pub-id pub-id-type="doi">10.1016/j.ecolind.2021.108328</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR16">
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Li</surname>
+								<given-names>Y</given-names>
+							</name>
+							<name>
+								<surname>Zhang</surname>
+								<given-names>L</given-names>
+							</name>
+							<name>
+								<surname>Yan</surname>
+								<given-names>J</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Mapping the hotspots and cold spots of ecosystem services in conservation priority setting</article-title>
+						<source>Journal of Geographical Sciences</source>
+						<year>2017</year>
+						<volume>27</volume>
+						<fpage>681</fpage>
+						<lpage>696</lpage>
+						<pub-id pub-id-type="doi">10.1007/s11442-017-1400-x</pub-id>
+						<pub-id pub-id-type="bibcode">1996JAerS..27..681L</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR17">
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Liang</surname>
+								<given-names>X</given-names>
+							</name>
+							<name>
+								<surname>Guan</surname>
+								<given-names>QF</given-names>
+							</name>
+							<name>
+								<surname>Clarke</surname>
+								<given-names>KC</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Understanding the drivers of sustainable land expansion using a patch-generating land use simulation (PLUS) model: a case study in Wuhan, China</article-title>
+						<source>Computers, Environment and Urban Systems</source>
+						<year>2021</year>
+						<volume>85</volume>
+						<fpage>101569</fpage>
+						<pub-id pub-id-type="doi">10.1016/j.compenvurbsys.2020.101569</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR18">
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Liu</surname>
+								<given-names>JM</given-names>
+							</name>
+							<name>
+								<surname>Pei</surname>
+								<given-names>XT</given-names>
+							</name>
+							<name>
+								<surname>Zhu</surname>
+								<given-names>WY</given-names>
+							</name>
+							<name>
+								<surname>Jiao</surname>
+								<given-names>JZ</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Understanding the intricate tradeoffs among ecosystem services in the Beijing-Tianjin-Hebei urban agglomeration across spatiotemporal features</article-title>
+						<source>Science of The Total Environment</source>
+						<year>2023</year>
+						<volume>898</volume>
+						<fpage> 165453</fpage>
+						<pub-id pub-id-type="coi">1:CAS:528:DC%2BB3sXhsFSgs7%2FL</pub-id>
+						<pub-id pub-id-type="doi">10.1016/j.scitotenv.2023.165453</pub-id>
+						<pub-id pub-id-type="pmid">37451449</pub-id>
+						<pub-id pub-id-type="bibcode">2023ScTEn.898p5453L</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR19">
+					<mixed-citation publication-type="other">Liu J, Wang M, Yang L (2020) Assessing landscape ecological risk induced by land use/cover change in a county in China: a GIS- and landscape-metric-based approach. Sustainability 12.
+						<ext-link xlink:href="https://doi.org/10.3390/su12219037" ext-link-type="doi">https://doi.org/10.3390/su12219037</ext-link>
+					</mixed-citation>
+				</ref>
+				<ref id="CR20">
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Luo</surname>
+								<given-names>QL</given-names>
+							</name>
+							<name>
+								<surname>Zhou</surname>
+								<given-names>JF</given-names>
+							</name>
+							<name>
+								<surname>Li</surname>
+								<given-names>ZG</given-names>
+							</name>
+							<name>
+								<surname>Yu</surname>
+								<given-names>BL</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Spatial differences of ecosystem services and their driving factors: a comparation analysis among three urban agglomerations in China’s Yangtze River Economic Belt</article-title>
+						<source>Science of The Total Environment </source>
+						<year>2020</year>
+						<volume>725</volume>
+						<fpage>138452</fpage>
+						<pub-id pub-id-type="coi">1:CAS:528:DC%2BB3cXntFGnsbo%3D</pub-id>
+						<pub-id pub-id-type="doi">10.1016/j.scitotenv.2020.138452</pub-id>
+						<pub-id pub-id-type="pmid">32302846</pub-id>
+						<pub-id pub-id-type="bibcode">2020ScTEn.725m8452L</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR21">
+					<mixed-citation publication-type="other">Luo QL, Zhou JF, Zhang Y (2022) What is the spatiotemporal relationship between urbanization and ecosystem services? A case from 110 cities in the Yangtze River Economic Belt, China. Journal of Environmental Management 321.
+						<ext-link xlink:href="https://doi.org/10.1016/j.jenvman.2022.115709" ext-link-type="doi">https://doi.org/10.1016/j.jenvman.2022.115709</ext-link>
+					</mixed-citation>
+				</ref>
+				<ref id="CR22">
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Lv</surname>
+								<given-names>J</given-names>
+							</name>
+							<name>
+								<surname>Xu</surname>
+								<given-names>J</given-names>
+							</name>
+							<name>
+								<surname>Guo</surname>
+								<given-names>C</given-names>
+							</name>
+							<name>
+								<surname>Zhang</surname>
+								<given-names>Y</given-names>
+							</name>
+							<name>
+								<surname>Bai</surname>
+								<given-names>Y</given-names>
+							</name>
+							<name>
+								<surname>Meng</surname>
+								<given-names>W</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Spatial and temporal distribution of polycyclic aromatic hydrocarbons (pahs) in surface water from liaohe river basin, northeast China</article-title>
+						<source>Environmental Scienceand Pollution Research</source>
+						<year>2014</year>
+						<pub-id pub-id-type="doi">10.1007/s11356-014-2604-6</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR23">
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Ma</surname>
+								<given-names>LB</given-names>
+							</name>
+							<name>
+								<surname>Cheng</surname>
+								<given-names>WJ</given-names>
+							</name>
+							<name>
+								<surname>Bo</surname>
+								<given-names>J</given-names>
+							</name>
+							<name>
+								<surname>Li</surname>
+								<given-names>XY</given-names>
+							</name>
+							<name>
+								<surname>Gu</surname>
+								<given-names>Y</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Spatio-temporal variation of land-use intensity from a multi-perspective—taking the middle and lower reaches of Shule River Basin in China as an example</article-title>
+						<source>Sustainability</source>
+						<year>2018</year>
+						<volume>10</volume>
+						<pub-id pub-id-type="doi">10.3390/su10030771</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR24">
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Mao</surname>
+								<given-names>DH</given-names>
+							</name>
+							<name>
+								<surname>He</surname>
+								<given-names>XY</given-names>
+							</name>
+							<name>
+								<surname>Wang</surname>
+								<given-names>ZM</given-names>
+							</name>
+							<name>
+								<surname>Tian</surname>
+								<given-names>YL</given-names>
+							</name>
+							<name>
+								<surname>Xiang</surname>
+								<given-names>HX</given-names>
+							</name>
+							<name>
+								<surname>Yu</surname>
+								<given-names>H</given-names>
+							</name>
+							<name>
+								<surname>Man</surname>
+								<given-names>WD</given-names>
+							</name>
+							<name>
+								<surname>Jia</surname>
+								<given-names>MM</given-names>
+							</name>
+							<name>
+								<surname>Ren</surname>
+								<given-names>CY</given-names>
+							</name>
+							<name>
+								<surname>Zheng</surname>
+								<given-names>HF</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Diverse policies leading to contrasting impacts on land cover and ecosystem services in Northeast China</article-title>
+						<source>Journal of Cleaner Production</source>
+						<year>2019</year>
+						<volume>240</volume>
+						<fpage>117961</fpage>
+						<pub-id pub-id-type="doi">10.1016/j.jclepro.2019.11796</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR25">
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Mao</surname>
+								<given-names>D</given-names>
+							</name>
+							<name>
+								<surname>He</surname>
+								<given-names>X</given-names>
+							</name>
+							<name>
+								<surname>Wang</surname>
+								<given-names>Z</given-names>
+							</name>
+							<name>
+								<surname>Tian</surname>
+								<given-names>Y</given-names>
+							</name>
+							<name>
+								<surname>Zheng</surname>
+								<given-names>H</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Diverse policies leading to contrasting impacts on land cover and ecosystem services in northeast China</article-title>
+						<source>Journal of Cleaner Production</source>
+						<year>2019</year>
+						<volume>240</volume>
+						<pub-id pub-id-type="doi">10.1016/j.jclepro.2019.117961</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR26">
+					<mixed-citation publication-type="book">
+						<person-group person-group-type="author">
+							<collab>Millennium Ecosystem Assessment (MA)</collab>
+						</person-group>
+						<source>Ecosystems and human wellbeing. Synthesis</source>
+						<year>2005</year>
+						<publisher-loc>Washington</publisher-loc>
+						<publisher-name>Island Press</publisher-name>
+					</mixed-citation>
+				</ref>
+				<ref id="CR27">
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Ouyang</surname>
+								<given-names>Z</given-names>
+							</name>
+							<name>
+								<surname>Zheng</surname>
+								<given-names>H</given-names>
+							</name>
+							<name>
+								<surname>Xiao</surname>
+								<given-names>Y</given-names>
+							</name>
+							<name>
+								<surname>Polasky</surname>
+								<given-names>S</given-names>
+							</name>
+							<name>
+								<surname>Liu</surname>
+								<given-names>J</given-names>
+							</name>
+							<name>
+								<surname>Xu</surname>
+								<given-names>W</given-names>
+							</name>
+							<name>
+								<surname>Wang</surname>
+								<given-names>Q</given-names>
+							</name>
+							<name>
+								<surname>Zhang</surname>
+								<given-names>L</given-names>
+							</name>
+							<name>
+								<surname>Xiao</surname>
+								<given-names>Y</given-names>
+							</name>
+							<name>
+								<surname>Rao</surname>
+								<given-names>E</given-names>
+							</name>
+							<name>
+								<surname>Jiang</surname>
+								<given-names>L</given-names>
+							</name>
+							<name>
+								<surname>Lu</surname>
+								<given-names>F</given-names>
+							</name>
+							<name>
+								<surname>Wang</surname>
+								<given-names>X</given-names>
+							</name>
+							<name>
+								<surname>Yang</surname>
+								<given-names>G</given-names>
+							</name>
+							<name>
+								<surname>Gong</surname>
+								<given-names>S</given-names>
+							</name>
+							<name>
+								<surname>Wu</surname>
+								<given-names>B</given-names>
+							</name>
+							<name>
+								<surname>Zeng</surname>
+								<given-names>Y</given-names>
+							</name>
+							<name>
+								<surname>Yang</surname>
+								<given-names>W</given-names>
+							</name>
+							<name>
+								<surname>Daily</surname>
+								<given-names>G</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Improvements in ecosystem services from investments in natural capital</article-title>
+						<source>Science</source>
+						<year>2016</year>
+						<volume>352</volume>
+						<issue>6292</issue>
+						<fpage>1455</fpage>
+						<lpage>1459</lpage>
+						<pub-id pub-id-type="coi">1:CAS:528:DC%2BC28XpslOqs7k%3D</pub-id>
+						<pub-id pub-id-type="doi">10.1126/science.aaf2295</pub-id>
+						<pub-id pub-id-type="pmid">27313045</pub-id>
+						<pub-id pub-id-type="bibcode">2016Sci...352.1455O</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR28">
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Pan</surname>
+								<given-names>NH</given-names>
+							</name>
+							<name>
+								<surname>Guan</surname>
+								<given-names>QY</given-names>
+							</name>
+							<name>
+								<surname>Wang</surname>
+								<given-names>QZ</given-names>
+							</name>
+							<name>
+								<surname>Sun</surname>
+								<given-names>YF</given-names>
+							</name>
+							<name>
+								<surname>Li</surname>
+								<given-names>HC</given-names>
+							</name>
+							<name>
+								<surname>Ma</surname>
+								<given-names>YR</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Spatial differentiation and driving mechanisms in Ecosystem Service Value of Arid Region: a case study in the middle and lower reaches of Shule River Basin, NW China</article-title>
+						<source>Journal of Cleaner Production</source>
+						<year>2021</year>
+						<volume>319</volume>
+						<fpage>128718</fpage>
+						<pub-id pub-id-type="doi">10.1016/j.jclepro.2021.128718</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR29">
+					<mixed-citation publication-type="other">Qiu J, Turner MG (2013) Spatial interactions among ecosystem services in an urbanizing agricultural watershed. Proceedings of the National Academy of Sciences 110:12149–12154.
+						<ext-link xlink:href="https://doi.org/10.1073/pnas.131053911" ext-link-type="doi">https://doi.org/10.1073/pnas.131053911</ext-link>
+					</mixed-citation>
+				</ref>
+				<ref id="CR30">
+					<mixed-citation publication-type="other">Schröter M, Kraemer R, Ceauşu S, Rusch GM (2017) Incorporating threat in hotspots and coldspots of biodiversity and ecosystem services. Ambio 46:756–768.
+						<ext-link xlink:href="https://doi.org/10.1007/s13280-017-0922-x" ext-link-type="doi">https://doi.org/10.1007/s13280-017-0922-x</ext-link>
+					</mixed-citation>
+				</ref>
+				<ref id="CR31">
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Song</surname>
+								<given-names>W</given-names>
+							</name>
+							<name>
+								<surname>Deng</surname>
+								<given-names>XZ</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Land-use/land-cover change and ecosystem service provision in China</article-title>
+						<source>Science of The Total Environment</source>
+						<year>2017</year>
+						<volume>576</volume>
+						<fpage>705</fpage>
+						<lpage>719</lpage>
+						<pub-id pub-id-type="coi">1:CAS:528:DC%2BC28XhslOht7%2FN</pub-id>
+						<pub-id pub-id-type="doi">10.1016/j.scitotenv.2016.07.078</pub-id>
+						<pub-id pub-id-type="pmid">27810757</pub-id>
+						<pub-id pub-id-type="bibcode">2017ScTEn.576..705S</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR32">
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Song</surname>
+								<given-names>W</given-names>
+							</name>
+							<name>
+								<surname>Deng</surname>
+								<given-names>XZ</given-names>
+							</name>
+							<name>
+								<surname>Liu</surname>
+								<given-names>B</given-names>
+							</name>
+							<name>
+								<surname>Li</surname>
+								<given-names>ZH</given-names>
+							</name>
+							<name>
+								<surname>Jin</surname>
+								<given-names>G</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Impacts of grain-for-green and grain-for-blue policies on valued ecosystem services in shandong province, china</article-title>
+						<source>Advances in Meteorology</source>
+						<year>2015</year>
+						<volume>2015</volume>
+						<pub-id pub-id-type="doi">10.1155/2015/213534</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR33">
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Su</surname>
+								<given-names>YQ</given-names>
+							</name>
+							<name>
+								<surname>Ma</surname>
+								<given-names>XH</given-names>
+							</name>
+							<name>
+								<surname>Feng</surname>
+								<given-names>Q</given-names>
+							</name>
+							<name>
+								<surname>Liu</surname>
+								<given-names>W</given-names>
+							</name>
+							<name>
+								<surname>Zhu</surname>
+								<given-names>M</given-names>
+							</name>
+							<name>
+								<surname>Niu</surname>
+								<given-names>JJ</given-names>
+							</name>
+							<name>
+								<surname>Liu</surname>
+								<given-names>G</given-names>
+							</name>
+							<name>
+								<surname>Shi</surname>
+								<given-names>LF</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Patterns and controls of ecosystem service values under different land-use change scenarios in a mining-dominated basin of northern China</article-title>
+						<source>Ecological Indicators</source>
+						<year>2023</year>
+						<volume>151</volume>
+						<fpage>110321</fpage>
+						<pub-id pub-id-type="doi">10.1016/j.ecolind.2023.110321</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR34">
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Tang</surname>
+								<given-names>Y</given-names>
+							</name>
+							<name>
+								<surname>Tang</surname>
+								<given-names>J</given-names>
+							</name>
+							<name>
+								<surname>Yu</surname>
+								<given-names>X</given-names>
+							</name>
+							<name>
+								<surname>Qiu</surname>
+								<given-names>L</given-names>
+							</name>
+							<name>
+								<surname>Wang</surname>
+								<given-names>J</given-names>
+							</name>
+							<name>
+								<surname>Hou</surname>
+								<given-names>X</given-names>
+							</name>
+							<name>
+								<surname>Chen</surname>
+								<given-names>D</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Land ecological protection polices improve ecosystem services: a case study of Lishui, China</article-title>
+						<source>Frontiers of Environmental Science &amp; Engineering in China</source>
+						<year>2022</year>
+						<volume>10</volume>
+						<pub-id pub-id-type="doi">10.3389/fenvs.2022.973524</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR35">
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Wang</surname>
+								<given-names>Y</given-names>
+							</name>
+							<name>
+								<surname>Gao</surname>
+								<given-names>J</given-names>
+							</name>
+							<name>
+								<surname>Wang</surname>
+								<given-names>J</given-names>
+							</name>
+							<name>
+								<surname>Qiu</surname>
+								<given-names>J</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Value assessment of ecosystem services in nature reserves in Ningxia, China: a response to ecological restoration</article-title>
+						<source>PLoS One1</source>
+						<year>2014</year>
+						<volume>9</volume>
+						<issue>2</issue>
+						<pub-id pub-id-type="coi">1:CAS:528:DC%2BC2cXhsVWht7jJ</pub-id>
+						<pub-id pub-id-type="doi">10.1371/journal.pone.0089174</pub-id>
+						<pub-id pub-id-type="bibcode">2014PLoSO...989174W</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR36">
+					<mixed-citation publication-type="other">Wang J, Li,X, Christakos G, Liao Y, Zhang T, Gu X, Zheng X (2010) Geographical detectors-based health risk assessment and its application in the neural tube defects study of the Heshun Region, China. J Geogr Inf Sci 24(1):107–127.
+						<ext-link xlink:href="https://doi.org/10.1080/13658810802443457" ext-link-type="doi">https://doi.org/10.1080/13658810802443457</ext-link>
+					</mixed-citation>
+				</ref>
+				<ref id="CR37">
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Wang</surname>
+								<given-names>LJ</given-names>
+							</name>
+							<name>
+								<surname>Ma</surname>
+								<given-names>S</given-names>
+							</name>
+							<name>
+								<surname>Zhao</surname>
+								<given-names>YG</given-names>
+							</name>
+							<name>
+								<surname>Zhang</surname>
+								<given-names>JC</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Ecological restoration projects did not increase the value of all ecosystem services in Northeast China</article-title>
+						<source>Forest Ecology and Management</source>
+						<year>2021</year>
+						<volume>459</volume>
+						<fpage>119340</fpage>
+						<pub-id pub-id-type="doi">10.1016/j.foreco.2021.119340</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR38">
+					<mixed-citation publication-type="other">Wang J, Zhou W, Guan YJ (2022) Optimization of management by analyzing ecosystem service value variations in different watersheds in the Three-River Headwaters Basin. J Environ Manage 321:115956.
+						<ext-link xlink:href="https://doi.org/10.1016/j.jenvman.2022.115956" ext-link-type="doi">https://doi.org/10.1016/j.jenvman.2022.115956</ext-link>
+					</mixed-citation>
+				</ref>
+				<ref id="CR39">
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Wu</surname>
+								<given-names>J</given-names>
+							</name>
+							<name>
+								<surname>Luo</surname>
+								<given-names>J</given-names>
+							</name>
+							<name>
+								<surname>Zhang</surname>
+								<given-names>H</given-names>
+							</name>
+							<name>
+								<surname>Qin</surname>
+								<given-names>S</given-names>
+							</name>
+							<name>
+								<surname>Yu</surname>
+								<given-names>M</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Projections of land use change and habitat quality assessment by coupling climate change and development patterns</article-title>
+						<source>Science of the Total Environment</source>
+						<year>2022</year>
+						<volume>847</volume>
+						<pub-id pub-id-type="coi">1:CAS:528:DC%2BB38XhvFyhtLzN</pub-id>
+						<pub-id pub-id-type="doi">10.1016/j.scitotenv.2022.157491</pub-id>
+						<pub-id pub-id-type="pmid">35870584</pub-id>
+						<pub-id pub-id-type="bibcode">2022ScTEn.847o7491W</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR40">
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Xiao</surname>
+								<given-names>R</given-names>
+							</name>
+							<name>
+								<surname>Lin</surname>
+								<given-names>M</given-names>
+							</name>
+							<name>
+								<surname>Fei</surname>
+								<given-names>X</given-names>
+							</name>
+							<name>
+								<surname>Li</surname>
+								<given-names>Y</given-names>
+							</name>
+							<name>
+								<surname>Zhang</surname>
+								<given-names>Z</given-names>
+							</name>
+							<name>
+								<surname>Meng</surname>
+								<given-names>Q</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Exploring the interactive coercing relationship between urbanization and ecosystem service value in the Shanghai-Hangzhou Bay Metropolitan Region</article-title>
+						<source>Journal of Cleaner Production</source>
+						<year>2020</year>
+						<volume>253</volume>
+						<pub-id pub-id-type="doi">10.1016/j.jclepro.2019.119803</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR41">
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Xie</surname>
+								<given-names>G</given-names>
+							</name>
+							<name>
+								<surname>Zhang</surname>
+								<given-names>C</given-names>
+							</name>
+							<name>
+								<surname>Zhen</surname>
+								<given-names>L</given-names>
+							</name>
+							<name>
+								<surname>Zhang</surname>
+								<given-names>L</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Dynamic changes in the value of China’s ecosystem services</article-title>
+						<source>Ecosystem Services</source>
+						<year>2017</year>
+						<volume>26</volume>
+						<fpage>146</fpage>
+						<lpage>154</lpage>
+						<pub-id pub-id-type="doi">10.1016/j.ecoser.2017.06.010</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR42">
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Xie</surname>
+								<given-names>G</given-names>
+							</name>
+							<name>
+								<surname>Zhen</surname>
+								<given-names>L</given-names>
+							</name>
+							<name>
+								<surname>Lu</surname>
+								<given-names>C</given-names>
+							</name>
+							<name>
+								<surname>Xiao</surname>
+								<given-names>Y</given-names>
+							</name>
+							<name>
+								<surname>Chen</surname>
+								<given-names>C</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Expert knowledge-based valuation method of ecosystem services in China</article-title>
+						<source>Journal of Natura Resource</source>
+						<year>2008</year>
+						<volume>23</volume>
+						<fpage>911</fpage>
+						<lpage>919</lpage>
+						<pub-id pub-id-type="doi">10.11849/zrzyxb.2008.05.019</pub-id>
+						<comment>In Chinese</comment>
+					</mixed-citation>
+				</ref>
+				<ref id="CR43">
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Xu</surname>
+								<given-names>J</given-names>
+							</name>
+							<name>
+								<surname>Yin</surname>
+								<given-names>R</given-names>
+							</name>
+							<name>
+								<surname>Li</surname>
+								<given-names>Z</given-names>
+							</name>
+							<name>
+								<surname>Liu</surname>
+								<given-names>C</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">China’s ecological rehabilitation: unprecedented efforts, dramatic impacts, and requisite policies</article-title>
+						<source>Ecological Economics</source>
+						<year>2006</year>
+						<volume>57</volume>
+						<fpage>595</fpage>
+						<lpage>607</lpage>
+						<pub-id pub-id-type="doi">10.1016/j.ecolecon.2005.05.008</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR44">
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Yang</surname>
+								<given-names>MG</given-names>
+							</name>
+							<name>
+								<surname>Gao</surname>
+								<given-names>XD</given-names>
+							</name>
+							<name>
+								<surname>Siddique</surname>
+								<given-names>KHM</given-names>
+							</name>
+							<name>
+								<surname>Wu</surname>
+								<given-names>PT</given-names>
+							</name>
+							<name>
+								<surname>Zhao</surname>
+								<given-names>XN</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Spatiotemporal exploration of ecosystem service, urbanization, and their interactive coercing relationship in the Yellow River Basin over the past 40 years</article-title>
+						<source>Science of The Total Environment</source>
+						<year>2023</year>
+						<volume>858</volume>
+						<fpage>159757</fpage>
+						<pub-id pub-id-type="coi">1:CAS:528:DC%2BB38XivVWnt7rK</pub-id>
+						<pub-id pub-id-type="doi">10.1016/j.scitotenv.2022.159757</pub-id>
+						<pub-id pub-id-type="pmid">36349629</pub-id>
+						<pub-id pub-id-type="bibcode">2023ScTEn.858o9757Y</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR45">
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Yin</surname>
+								<given-names>R</given-names>
+							</name>
+							<name>
+								<surname>Yin</surname>
+								<given-names>G</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">China’s primary programs of terrestrial ecosystem restoration: initiation, implementation, and challenges</article-title>
+						<source>Environmental Management</source>
+						<year>2010</year>
+						<volume>45</volume>
+						<fpage>429</fpage>
+						<lpage>441</lpage>
+						<pub-id pub-id-type="doi">10.1007/s00267-009-9373-x</pub-id>
+						<pub-id pub-id-type="pmid">19771465</pub-id>
+						<pub-id pub-id-type="bibcode">2010EnMan..45..429Y</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR46">
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Zhang</surname>
+								<given-names>Y</given-names>
+							</name>
+							<name>
+								<surname>Liu</surname>
+								<given-names>YF</given-names>
+							</name>
+							<name>
+								<surname>Zhang</surname>
+								<given-names>Y</given-names>
+							</name>
+							<name>
+								<surname>Liu</surname>
+								<given-names>Y</given-names>
+							</name>
+							<name>
+								<surname>Zhang</surname>
+								<given-names>G</given-names>
+							</name>
+							<name>
+								<surname>Chen</surname>
+								<given-names>Y</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">On the spatial relationship between ecosystem services and urbanization: a case study in Wuhan, China</article-title>
+						<source>Sci Total Environ</source>
+						<year>2019</year>
+						<volume>637–638</volume>
+						<fpage>780</fpage>
+						<lpage>790</lpage>
+						<pub-id pub-id-type="coi">1:CAS:528:DC%2BC1cXpsl2rt7c%3D</pub-id>
+						<pub-id pub-id-type="doi">10.1016/j.scitotenv.2018.04.396</pub-id>
+						<pub-id pub-id-type="bibcode">2019ScTEn.688..780Z</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR47">
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Zhang</surname>
+								<given-names>J</given-names>
+							</name>
+							<name>
+								<surname>Qu</surname>
+								<given-names>M</given-names>
+							</name>
+							<name>
+								<surname>Wang</surname>
+								<given-names>C</given-names>
+							</name>
+							<name>
+								<surname>Zhao</surname>
+								<given-names>J</given-names>
+							</name>
+							<name>
+								<surname>Cao</surname>
+								<given-names>Y</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Quantifying landscape pattern and ecosystem service value changes: a case study at the county level in the Chinese LoessPlateau</article-title>
+						<source>Global Ecology and Conservation</source>
+						<year>2020</year>
+						<volume>23</volume>
+						<fpage> 01110</fpage>
+						<pub-id pub-id-type="doi">10.1016/j.gecco.2020.e01110</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR48">
+					<mixed-citation publication-type="other">Zhang H, Wang Z, Yang B, Chai J, Wei C (2021) Spatial-temporal characteristics of illegal land use and its driving factors in China from 2004 to 2017. Journal of Environmental Research and Public Health 18.
+						<ext-link xlink:href="https://doi.org/10.3390/ijerph18031336" ext-link-type="doi">https://doi.org/10.3390/ijerph18031336</ext-link>
+					</mixed-citation>
+				</ref>
+				<ref id="CR49">
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Zhang</surname>
+								<given-names>Y</given-names>
+							</name>
+							<name>
+								<surname>Wu</surname>
+								<given-names>T</given-names>
+							</name>
+							<name>
+								<surname>Song</surname>
+								<given-names>CS</given-names>
+							</name>
+							<name>
+								<surname>Hein</surname>
+								<given-names>L</given-names>
+							</name>
+							<name>
+								<surname>Shi</surname>
+								<given-names>FQ</given-names>
+							</name>
+							<name>
+								<surname>Han</surname>
+								<given-names>MH</given-names>
+							</name>
+							<name>
+								<surname>Ouyang</surname>
+								<given-names>ZY</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Influences of climate change and land use change on the interactions of ecosystem services in China’s Xijiang River Basin</article-title>
+						<source>Ecosystem Service</source>
+						<year>2022</year>
+						<volume>58</volume>
+						<fpage>101489</fpage>
+						<pub-id pub-id-type="doi">10.1016/j.ecoser.2022.101489</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR50">
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Zhao</surname>
+								<given-names>Q</given-names>
+							</name>
+							<name>
+								<surname>Wen</surname>
+								<given-names>Z</given-names>
+							</name>
+							<name>
+								<surname>Chen</surname>
+								<given-names>S</given-names>
+							</name>
+							<name>
+								<surname>Ding</surname>
+								<given-names>S</given-names>
+							</name>
+							<name>
+								<surname>Zhang</surname>
+								<given-names>M</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Quantifying land use/land cover and landscape pattern changes and impacts on ecosystem services</article-title>
+						<source>International Journal of Environmental Research and Public Health</source>
+						<year>2020</year>
+						<volume>17</volume>
+						<issue>1</issue>
+						<fpage> 126</fpage>
+						<pub-id pub-id-type="doi">10.3390/ijerph17010126</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR51">
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Zheng</surname>
+								<given-names>DF</given-names>
+							</name>
+							<name>
+								<surname>Wang</surname>
+								<given-names>YH</given-names>
+							</name>
+							<name>
+								<surname>Hao</surname>
+								<given-names>S</given-names>
+							</name>
+							<name>
+								<surname>Xu</surname>
+								<given-names>WJ</given-names>
+							</name>
+							<name>
+								<surname>Lv</surname>
+								<given-names>LT</given-names>
+							</name>
+							<name>
+								<surname>Yu</surname>
+								<given-names>S</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Spatial-temporal variation and tradeoffs/synergies analysis on multiple ecosystem services: a case study in the three-river Headwaters region of China</article-title>
+						<source>Ecological Indicators</source>
+						<year>2020</year>
+						<volume>116</volume>
+						<fpage>106494</fpage>
+						<pub-id pub-id-type="doi">10.1016/j.ecolind.2020.106494</pub-id>
+					</mixed-citation>
+				</ref>
+				<ref id="CR52">
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Zhu</surname>
+								<given-names>LY</given-names>
+							</name>
+							<name>
+								<surname>Sun</surname>
+								<given-names>S</given-names>
+							</name>
+							<name>
+								<surname>Li</surname>
+								<given-names>Y</given-names>
+							</name>
+							<name>
+								<surname>Liu</surname>
+								<given-names>XB</given-names>
+							</name>
+							<name>
+								<surname>Hu</surname>
+								<given-names>K</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Effects of climate change and anthropogenic activity on the vegetation greening in the Liaohe River Basin of northeastern China</article-title>
+						<source>Ecological Indicators</source>
+						<year>2023</year>
+						<volume>148</volume>
+						<fpage>110105</fpage>
+						<pub-id pub-id-type="doi">10.1016/j.ecolind.2023.110105</pub-id>
+					</mixed-citation>
+				</ref>
+			</ref-list>
+		</ref-list>
+		<notes notes-type="Misc">
+			<title>Publisher’s Note</title>
+			<p>Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.</p>
+		</notes>
+	</back>
+</article>
