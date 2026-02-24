@@ -588,7 +588,6 @@ class BaseBeautifulSoupParser(IngestBase):
         # list of all processing instructions in the object like <?index>
         if newr.find_all(string=True):
             instruction_list = newr.find_all(string=True)
-            print("so i guess here's instruction_list: %s" % str(instruction_list))
         else:
             instruction_list = []
         for ins in instruction_list:
