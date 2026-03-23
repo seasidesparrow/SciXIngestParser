@@ -4,7 +4,7 @@ import os
 import unittest
 
 import pytest
-from adsingestschema import ads_schema_validator
+from json_schema import ads_schema_validator
 
 from ingestparser.parsers import wiley
 

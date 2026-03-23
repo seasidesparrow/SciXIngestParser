@@ -11,7 +11,7 @@ import json
 import os
 import unittest
 
-from adsingestschema import ads_schema_validator
+from json_schema import ads_schema_validator
 
 from ingestparser.parsers import copernicus
 

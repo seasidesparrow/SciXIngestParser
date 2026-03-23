@@ -27,7 +27,7 @@ dependencies = [
     'lxml==6.0.2',
     'nameparser==1.1.3',
     'ordered-set==4.1.0',
-    'adsingestschema @ git+https://github.com/adsabs/ingest_data_model@v1.0.12',
+    'json_schema @ git+https://github.com/seasidesparrow/ingest_data_model@e82b2897273f25799fc509211a9cc24e00eac0c7',
     'validators==0.35.0',
 ]
 

@@ -1,12 +1,13 @@
+import bs4
 import datetime
 import html
 import re
-import warnings
-
-import bs4
-from bs4 import MarkupResemblesLocatorWarning, XMLParsedAsHTMLWarning
 
 from ingestparser.ingest_exceptions import WrongFormatException
+
+from bs4 import XMLParsedAsHTMLWarning
+import warnings
+
 
 
 class IngestBase(object):
@@ -23,8 +24,7 @@ class IngestBase(object):
     ]
 
     def __init__(self, xml_ref=True):
-        warnings.filterwarnings("ignore", category=MarkupResemblesLocatorWarning, module="bs4")
-        warnings.filterwarnings("ignore", category=XMLParsedAsHTMLWarning, module="bs4")
+        warnings.filterwarnings("ignore", category=XMLParsedAsHTMLWarning)
         self.xml_ref = xml_ref
 
     def _clean_empty(self, input_to_clean, keys_to_keep=required_keys):
@@ -324,6 +324,8 @@ class IngestBase(object):
                 "name": {
                     "surname": i.get("surname", ""),
                     "given_name": i.get("given", ""),
+                    "native_surname": i.get("native_surname", ""),
+                    "native_given_name": i.get("native_given_name", ""),
                     "middle_name": i.get("middle", ""),
                     "prefix": i.get("prefix", ""),
                     "suffix": i.get("suffix", ""),
