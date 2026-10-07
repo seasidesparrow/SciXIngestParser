@@ -1,14 +1,14 @@
 import logging
 
-from adsingestp import utils
-from adsingestp.ingest_exceptions import (
+from ingestparser import utils
+from ingestparser.ingest_exceptions import (
     MissingAuthorsException,
     MissingTitleException,
     NoSchemaException,
     WrongSchemaException,
     XmlLoadException,
 )
-from adsingestp.parsers.base import BaseBeautifulSoupParser, IngestBase
+from ingestparser.parsers.base import BaseBeautifulSoupParser, IngestBase
 
 logger = logging.getLogger(__name__)
 

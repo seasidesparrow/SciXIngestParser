@@ -1,8 +1,8 @@
 import json
 import logging
 
-from adsingestp import utils
-from adsingestp.parsers.base import BaseBeautifulSoupParser
+from ingestparser import utils
+from ingestparser.parsers.base import BaseBeautifulSoupParser
 
 logger = logging.getLogger(__name__)
 

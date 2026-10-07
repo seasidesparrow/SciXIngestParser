@@ -6,7 +6,7 @@ from datetime import datetime
 import bs4
 from bs4 import MarkupResemblesLocatorWarning
 
-from adsingestp.ingest_exceptions import WrongFormatException
+from ingestparser.ingest_exceptions import WrongFormatException
 
 
 class IngestBase(object):

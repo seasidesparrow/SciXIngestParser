@@ -3,10 +3,10 @@
 import logging
 import re
 
-from adsingestp import utils
-from adsingestp.ingest_exceptions import XmlLoadException
-from adsingestp.parsers.base import BaseBeautifulSoupParser
-from adsingestp.parsers.jats import JATSAffils
+from ingestparser import utils
+from ingestparser.ingest_exceptions import XmlLoadException
+from ingestparser.parsers.base import BaseBeautifulSoupParser
+from ingestparser.parsers.jats import JATSAffils
 
 logger = logging.getLogger(__name__)
 

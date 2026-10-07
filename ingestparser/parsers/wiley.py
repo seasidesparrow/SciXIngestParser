@@ -1,8 +1,8 @@
 import logging
 import re
 
-from adsingestp.ingest_exceptions import XmlLoadException
-from adsingestp.parsers.base import BaseBeautifulSoupParser
+from ingestparser.ingest_exceptions import XmlLoadException
+from ingestparser.parsers.base import BaseBeautifulSoupParser
 
 logger = logging.getLogger(__name__)
 

@@ -1,0 +1,705 @@
+{
+  "abstract": {
+    "textEnglish": "In this contribution, new data concerning the distribution of vascular flora alien to Italy are presented. It includes new records, confirmations, exclusions, and status changes for Italy or for Italian administrative regions of taxa in the genera Bunias, Calocedrus, Calycanthus, Celosia, Clerodendrum, Convolvulus, Crassula, Cyclamen, Datura, Dicliptera, Eragrostis, Erigeron, Gamochaeta, Gazania, Impatiens, Kolkwitzia, Leucaena, Ludwigia, Medicago, Muscari, Nigella, Oenothera, Opuntia, Paulownia, Petroselinum, Phyllostachys, Physalis, Pseudosasa, Quercus, Reynoutria, Roldana, Saccharum, Sedum, Semiarundinaria, Senecio, Sisyrinchium, Solanum, Sporobolus, Tulipa, Vachellia, Verbena, and Youngia. Nomenclatural and distribution updates published elsewhere are provided as Suppl. material 1."
+  },
+  "authors": [
+    {
+      "attrib": {
+        "orcid": "0000-0002-2501-456X"
+      },
+      "name": {
+        "given_name": "Gabriele",
+        "pubraw": "Galasso,Gabriele",
+        "surname": "Galasso"
+      }
+    },
+    {
+      "attrib": {
+        "orcid": "0000-0003-4184-398X"
+      },
+      "name": {
+        "given_name": "Gianniantonio",
+        "pubraw": "Domina,Gianniantonio",
+        "surname": "Domina"
+      }
+    },
+    {
+      "attrib": {
+        "orcid": "0000-0001-5907-2496"
+      },
+      "name": {
+        "given_name": "Sebastiano",
+        "pubraw": "Andreatta,Sebastiano",
+        "surname": "Andreatta"
+      }
+    },
+    {
+      "attrib": {
+        "orcid": "0000-0002-9054-9480"
+      },
+      "name": {
+        "given_name": "Claudia",
+        "pubraw": "Angiolini,Claudia",
+        "surname": "Angiolini"
+      }
+    },
+    {
+      "attrib": {
+        "orcid": "0000-0002-4366-5729"
+      },
+      "name": {
+        "given_name": "Nicola",
+        "middle_name": "Maria Giuseppe",
+        "pubraw": "Ardenghi,Nicola Maria Giuseppe",
+        "surname": "Ardenghi"
+      }
+    },
+    {
+      "name": {
+        "given_name": "Claudio",
+        "pubraw": "Aristarchi,Claudio",
+        "surname": "Aristarchi"
+      }
+    },
+    {
+      "attrib": {
+        "orcid": "0000-0002-7579-5405"
+      },
+      "name": {
+        "given_name": "Matteo",
+        "pubraw": "Arnoul,Matteo",
+        "surname": "Arnoul"
+      }
+    },
+    {
+      "name": {
+        "given_name": "Mattia",
+        "middle_name": "Martin",
+        "pubraw": "Azzella,Mattia Martin",
+        "surname": "Azzella"
+      }
+    },
+    {
+      "attrib": {
+        "orcid": "0000-0002-1714-3978"
+      },
+      "name": {
+        "given_name": "Gianluigi",
+        "pubraw": "Bacchetta,Gianluigi",
+        "surname": "Bacchetta"
+      }
+    },
+    {
+      "attrib": {
+        "orcid": "0000-0001-8199-6003"
+      },
+      "name": {
+        "given_name": "Fabrizio",
+        "pubraw": "Bartolucci,Fabrizio",
+        "surname": "Bartolucci"
+      }
+    },
+    {
+      "name": {
+        "given_name": "Silvia",
+        "pubraw": "Bodino,Silvia",
+        "surname": "Bodino"
+      }
+    },
+    {
+      "name": {
+        "given_name": "Giacomo",
+        "pubraw": "Bommartini,Giacomo",
+        "surname": "Bommartini"
+      }
+    },
+    {
+      "attrib": {
+        "orcid": "0000-0002-5574-6067"
+      },
+      "name": {
+        "given_name": "Gianmaria",
+        "pubraw": "Bonari,Gianmaria",
+        "surname": "Bonari"
+      }
+    },
+    {
+      "name": {
+        "given_name": "Sergio",
+        "pubraw": "Buono,Sergio",
+        "surname": "Buono"
+      }
+    },
+    {
+      "name": {
+        "given_name": "Vito",
+        "pubraw": "Buono,Vito",
+        "surname": "Buono"
+      }
+    },
+    {
+      "name": {
+        "given_name": "Orazio",
+        "pubraw": "Caldarella,Orazio",
+        "surname": "Caldarella"
+      }
+    },
+    {
+      "name": {
+        "given_name": "Giacomo",
+        "pubraw": "Calvia,Giacomo",
+        "surname": "Calvia"
+      }
+    },
+    {
+      "name": {
+        "given_name": "Emilio",
+        "pubraw": "Corti,Emilio",
+        "surname": "Corti"
+      }
+    },
+    {
+      "attrib": {
+        "orcid": "0000-0003-4986-032X"
+      },
+      "name": {
+        "given_name": "Marco",
+        "pubraw": "D'Antraccoli,Marco",
+        "surname": "D'Antraccoli"
+      }
+    },
+    {
+      "name": {
+        "given_name": "Rocco",
+        "pubraw": "De Luca,Rocco",
+        "surname": "De Luca"
+      }
+    },
+    {
+      "name": {
+        "given_name": "Fabrizio",
+        "pubraw": "De Mattia,Fabrizio",
+        "surname": "De Mattia"
+      }
+    },
+    {
+      "attrib": {
+        "orcid": "0000-0001-7962-6425"
+      },
+      "name": {
+        "given_name": "Stefano",
+        "pubraw": "Di Natale,Stefano",
+        "surname": "Di Natale"
+      }
+    },
+    {
+      "name": {
+        "given_name": "Alessandra",
+        "pubraw": "Di Turi,Alessandra",
+        "surname": "Di Turi"
+      }
+    },
+    {
+      "attrib": {
+        "orcid": "0000-0003-2937-7373"
+      },
+      "name": {
+        "given_name": "Assunta",
+        "pubraw": "Esposito,Assunta",
+        "surname": "Esposito"
+      }
+    },
+    {
+      "attrib": {
+        "orcid": "0000-0002-4637-6068"
+      },
+      "name": {
+        "given_name": "Giulio",
+        "pubraw": "Ferretti,Giulio",
+        "surname": "Ferretti"
+      }
+    },
+    {
+      "attrib": {
+        "orcid": "0000-0003-0403-2387"
+      },
+      "name": {
+        "given_name": "Tiberio",
+        "pubraw": "Fiaschi,Tiberio",
+        "surname": "Fiaschi"
+      }
+    },
+    {
+      "name": {
+        "given_name": "Maria",
+        "middle_name": "C.",
+        "pubraw": "Fogu,Maria C.",
+        "surname": "Fogu"
+      }
+    },
+    {
+      "attrib": {
+        "orcid": "0000-0001-8168-7999"
+      },
+      "name": {
+        "given_name": "Luigi",
+        "pubraw": "Forte,Luigi",
+        "surname": "Forte"
+      }
+    },
+    {
+      "name": {
+        "given_name": "Jessica",
+        "pubraw": "Frigerio,Jessica",
+        "surname": "Frigerio"
+      }
+    },
+    {
+      "name": {
+        "given_name": "Leonardo",
+        "pubraw": "Gubellini,Leonardo",
+        "surname": "Gubellini"
+      }
+    },
+    {
+      "name": {
+        "given_name": "Lorenzo",
+        "pubraw": "Guzzetti,Lorenzo",
+        "surname": "Guzzetti"
+      }
+    },
+    {
+      "name": {
+        "given_name": "Nicole",
+        "pubraw": "Hofmann,Nicole",
+        "surname": "Hofmann"
+      }
+    },
+    {
+      "name": {
+        "given_name": "Valentina",
+        "middle_name": "L. A.",
+        "pubraw": "Laface,Valentina L. A.",
+        "surname": "Laface"
+      }
+    },
+    {
+      "name": {
+        "given_name": "Gaetano",
+        "pubraw": "Laghetti,Gaetano",
+        "surname": "Laghetti"
+      }
+    },
+    {
+      "attrib": {
+        "orcid": "0000-0003-4810-7096"
+      },
+      "name": {
+        "given_name": "Andrea",
+        "pubraw": "Lallai,Andrea",
+        "surname": "Lallai"
+      }
+    },
+    {
+      "attrib": {
+        "orcid": "0000-0002-1914-9329"
+      },
+      "name": {
+        "given_name": "Alfonso",
+        "pubraw": "La Rosa,Alfonso",
+        "surname": "La Rosa"
+      }
+    },
+    {
+      "attrib": {
+        "orcid": "0000-0003-0514-0793"
+      },
+      "name": {
+        "given_name": "Lorenzo",
+        "pubraw": "Lazzaro,Lorenzo",
+        "surname": "Lazzaro"
+      }
+    },
+    {
+      "name": {
+        "given_name": "Silvano",
+        "pubraw": "Lodetti,Silvano",
+        "surname": "Lodetti"
+      }
+    },
+    {
+      "attrib": {
+        "orcid": "0000-0001-8886-0328"
+      },
+      "name": {
+        "given_name": "Michele",
+        "pubraw": "Lonati,Michele",
+        "surname": "Lonati"
+      }
+    },
+    {
+      "attrib": {
+        "orcid": "0000-0003-1649-4802"
+      },
+      "name": {
+        "given_name": "Fabio",
+        "pubraw": "Luchino,Fabio",
+        "surname": "Luchino"
+      }
+    },
+    {
+      "attrib": {
+        "orcid": "0000-0002-7966-7574"
+      },
+      "name": {
+        "given_name": "Sara",
+        "pubraw": "Magrini,Sara",
+        "surname": "Magrini"
+      }
+    },
+    {
+      "attrib": {
+        "orcid": "0000-0002-4629-9015"
+      },
+      "name": {
+        "given_name": "Andrea",
+        "pubraw": "Mainetti,Andrea",
+        "surname": "Mainetti"
+      }
+    },
+    {
+      "attrib": {
+        "orcid": "0000-0002-8420-5454"
+      },
+      "name": {
+        "given_name": "Michela",
+        "pubraw": "Marignani,Michela",
+        "surname": "Marignani"
+      }
+    },
+    {
+      "name": {
+        "given_name": "Gina",
+        "pubraw": "Maruca,Gina",
+        "surname": "Maruca"
+      }
+    },
+    {
+      "name": {
+        "given_name": "Pietro",
+        "pubraw": "Medagli,Pietro",
+        "surname": "Medagli"
+      }
+    },
+    {
+      "attrib": {
+        "orcid": "0000-0002-5576-1929"
+      },
+      "name": {
+        "given_name": "Giacomo",
+        "pubraw": "Mei,Giacomo",
+        "surname": "Mei"
+      }
+    },
+    {
+      "name": {
+        "given_name": "Flavio",
+        "pubraw": "Menini,Flavio",
+        "surname": "Menini"
+      }
+    },
+    {
+      "name": {
+        "given_name": "Valerio",
+        "pubraw": "Mezzasalma,Valerio",
+        "surname": "Mezzasalma"
+      }
+    },
+    {
+      "name": {
+        "given_name": "Alice",
+        "pubraw": "Misuri,Alice",
+        "surname": "Misuri"
+      }
+    },
+    {
+      "name": {
+        "given_name": "Sara",
+        "pubraw": "Mossini,Sara",
+        "surname": "Mossini"
+      }
+    },
+    {
+      "attrib": {
+        "orcid": "0000-0003-4315-2920"
+      },
+      "name": {
+        "given_name": "Michele",
+        "pubraw": "Mugnai,Michele",
+        "surname": "Mugnai"
+      }
+    },
+    {
+      "attrib": {
+        "orcid": "0000-0002-0120-190X"
+      },
+      "name": {
+        "given_name": "Carmelo",
+        "middle_name": "Maria",
+        "pubraw": "Musarella,Carmelo Maria",
+        "surname": "Musarella"
+      }
+    },
+    {
+      "attrib": {
+        "orcid": "0000-0002-1265-1201"
+      },
+      "name": {
+        "given_name": "Ginevra",
+        "pubraw": "Nota,Ginevra",
+        "surname": "Nota"
+      }
+    },
+    {
+      "name": {
+        "given_name": "Nicola",
+        "pubraw": "Olivieri,Nicola",
+        "surname": "Olivieri"
+      }
+    },
+    {
+      "name": {
+        "given_name": "Alessia",
+        "pubraw": "Padula,Alessia",
+        "surname": "Padula"
+      }
+    },
+    {
+      "name": {
+        "given_name": "Marziano",
+        "pubraw": "Pascale,Marziano",
+        "surname": "Pascale"
+      }
+    },
+    {
+      "name": {
+        "given_name": "Federico",
+        "pubraw": "Pasquini,Federico",
+        "surname": "Pasquini"
+      }
+    },
+    {
+      "attrib": {
+        "orcid": "0000-0001-9008-273X"
+      },
+      "name": {
+        "given_name": "Lorenzo",
+        "pubraw": "Peruzzi,Lorenzo",
+        "surname": "Peruzzi"
+      }
+    },
+    {
+      "name": {
+        "given_name": "Gianni",
+        "pubraw": "Picella,Gianni",
+        "surname": "Picella"
+      }
+    },
+    {
+      "name": {
+        "given_name": "Lorenzo",
+        "pubraw": "Pinzani,Lorenzo",
+        "surname": "Pinzani"
+      }
+    },
+    {
+      "name": {
+        "given_name": "Silvia",
+        "pubraw": "Pirani,Silvia",
+        "surname": "Pirani"
+      }
+    },
+    {
+      "attrib": {
+        "orcid": "0000-0001-6748-8790"
+      },
+      "name": {
+        "given_name": "Marco",
+        "pubraw": "Pittarello,Marco",
+        "surname": "Pittarello"
+      }
+    },
+    {
+      "attrib": {
+        "orcid": "0000-0001-6737-737X"
+      },
+      "name": {
+        "given_name": "Lina",
+        "pubraw": "Podda,Lina",
+        "surname": "Podda"
+      }
+    },
+    {
+      "name": {
+        "given_name": "Simone",
+        "pubraw": "Ravetto Enri,Simone",
+        "surname": "Ravetto Enri"
+      }
+    },
+    {
+      "name": {
+        "given_name": "Carmelo",
+        "middle_name": "D.",
+        "pubraw": "Rifici,Carmelo D.",
+        "surname": "Rifici"
+      }
+    },
+    {
+      "attrib": {
+        "orcid": "0000-0002-2184-0311"
+      },
+      "name": {
+        "given_name": "Francesco",
+        "pubraw": "Roma-Marzio,Francesco",
+        "surname": "Roma-Marzio"
+      }
+    },
+    {
+      "name": {
+        "given_name": "Rosario",
+        "pubraw": "Romano,Rosario",
+        "surname": "Romano"
+      }
+    },
+    {
+      "name": {
+        "given_name": "Leonardo",
+        "pubraw": "Rosati,Leonardo",
+        "surname": "Rosati"
+      }
+    },
+    {
+      "name": {
+        "given_name": "Filippo",
+        "pubraw": "Scafidi,Filippo",
+        "surname": "Scafidi"
+      }
+    },
+    {
+      "name": {
+        "given_name": "Enrico",
+        "pubraw": "Scarici,Enrico",
+        "surname": "Scarici"
+      }
+    },
+    {
+      "name": {
+        "given_name": "Marco",
+        "pubraw": "Scarici,Marco",
+        "surname": "Scarici"
+      }
+    },
+    {
+      "attrib": {
+        "orcid": "0000-0002-7700-841X"
+      },
+      "name": {
+        "given_name": "Giovanni",
+        "pubraw": "Spampinato,Giovanni",
+        "surname": "Spampinato"
+      }
+    },
+    {
+      "attrib": {
+        "orcid": "0000-0002-8275-0184"
+      },
+      "name": {
+        "given_name": "Adriano",
+        "pubraw": "Stinca,Adriano",
+        "surname": "Stinca"
+      }
+    },
+    {
+      "attrib": {
+        "orcid": "0000-0002-1614-4821"
+      },
+      "name": {
+        "given_name": "Robert",
+        "middle_name": "Philipp",
+        "pubraw": "Wagensommer,Robert Philipp",
+        "surname": "Wagensommer"
+      }
+    },
+    {
+      "name": {
+        "given_name": "Giovanni",
+        "pubraw": "Zanoni,Giovanni",
+        "surname": "Zanoni"
+      }
+    },
+    {
+      "name": {
+        "given_name": "Chiara",
+        "pubraw": "Nepi,Chiara",
+        "surname": "Nepi"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "keyString": "Alien species"
+    },
+    {
+      "keyString": "floristic data"
+    },
+    {
+      "keyString": "Italy"
+    }
+  ],
+  "persistentIDs": [
+    {
+      "DOI": "10.3897/italianbotanist.8.48621"
+    }
+  ],
+  "pubDate": {
+    "electrDate": "2019"
+  },
+  "publication": {
+    "pubName": "Italian Botanist 8: 63-93",
+    "pubYear": "2019",
+    "publisher": "Pensoft Publishers"
+  },
+  "publisherIDs": [
+    {
+      "Identifier": "10.3897/italianbotanist.8.48621",
+      "attribute": "urn"
+    },
+    {
+      "Identifier": "info:doi:10.3897/italianbotanist.8.48621",
+      "attribute": "publisher-id"
+    },
+    {
+      "Identifier": "https://doi.org/10.3897/italianbotanist.8.48621",
+      "attribute": "publisher-id"
+    },
+    {
+      "Identifier": "https://italianbotanist.pensoft.net/article/48621/",
+      "attribute": "publisher-id"
+    },
+    {
+      "Identifier": "https://italianbotanist.pensoft.net/article/48621/download/pdf/",
+      "attribute": "publisher-id"
+    }
+  ],
+  "recordData": {
+    "createdTime": "",
+    "loadFormat": "OtherXML",
+    "loadLocation": "",
+    "loadType": "fromFile",
+    "parsedTime": "",
+    "recordOrigin": ""
+  },
+  "title": {
+    "textEnglish": "Notulae to the Italian alien vascular flora: 8"
+  }
+}

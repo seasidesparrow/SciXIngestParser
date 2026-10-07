@@ -1,0 +1,144 @@
+{
+  "abstract": {
+    "textEnglish": "Foliar fungal communities are essential components of the plant microbiome, playing a vital role in maintaining plant health and influencing ecosystem dynamics. Despite increasing interest in plant\u2013microbe associations, the drivers shaping foliar fungal community composition remain poorly understood, including the roles of host phylogeny, functional traits, and belowground mycorrhizal symbiosis. We used the MycoPhylo experimental field, in which plant species are planted in a replicated, phylogenetically diverse design, to investigate the influence of host plant identity, mycorrhizal type, and leaf functional traits on foliar fungal assemblages. We examined foliar fungal communities across 158 plots representing 110 distinct plant species using a metabarcoding approach. The resulting operational taxonomic units (OTUs) were dominated by Dothideomycetes (44.5%), Tremellomycetes (12.7%), and Taphrinomycetes (9.0%). Functional guild analysis revealed that plant pathogens and saprotrophs were the most abundant ecological groups. Foliar fungal alpha diversity and community composition were significantly influenced by plant growth form and mycorrhizal association. Although plant deciduousness did not affect fungal richness, it significantly affected fungal community composition. The measured leaf traits (hairiness and thickness) showed the least influence on fungal richness. Mantel tests revealed weak, guild-dependent relationships between host phylogenetic distance and foliar fungal community dissimilarity. Moreover, plant phylogenetic eigenvectors accounted for up to 25.8% of the variation in fungal richness. These findings indicate that host phylogeny and plant traits contribute to\u2014but do not solely determine\u2014the structure of foliar fungal assemblages under field conditions."
+  },
+  "authors": [
+    {
+      "attrib": {
+        "orcid": "0000-0002-7277-0544"
+      },
+      "name": {
+        "given_name": "Manikandan",
+        "pubraw": "Ariyan,Manikandan",
+        "surname": "Ariyan"
+      }
+    },
+    {
+      "attrib": {
+        "orcid": "0000-0003-2786-2690"
+      },
+      "name": {
+        "given_name": "Vladimir",
+        "pubraw": "Mikryukov,Vladimir",
+        "surname": "Mikryukov"
+      }
+    },
+    {
+      "attrib": {
+        "orcid": "0000-0001-7288-8772"
+      },
+      "name": {
+        "given_name": "Hajra",
+        "pubraw": "khalil,Hajra",
+        "surname": "khalil"
+      }
+    },
+    {
+      "attrib": {
+        "orcid": "0000-0003-0312-1142"
+      },
+      "name": {
+        "given_name": "Daniyal",
+        "pubraw": "Gohar,Daniyal",
+        "surname": "Gohar"
+      }
+    },
+    {
+      "attrib": {
+        "orcid": "0000-0003-0406-5541"
+      },
+      "name": {
+        "given_name": "Mahdieh",
+        "middle_name": "S. Hosseini",
+        "pubraw": "Hosseini Moghadam,Mahdieh S.",
+        "surname": "Moghadam"
+      }
+    },
+    {
+      "attrib": {
+        "orcid": "0009-0009-8283-7333"
+      },
+      "name": {
+        "given_name": "Rein",
+        "pubraw": "Drenkhan,Rein",
+        "surname": "Drenkhan"
+      }
+    },
+    {
+      "attrib": {
+        "orcid": "0000-0002-1635-1249"
+      },
+      "name": {
+        "given_name": "Leho",
+        "pubraw": "Tedersoo,Leho",
+        "surname": "Tedersoo"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "keyString": "Community composition"
+    },
+    {
+      "keyString": "foliar fungi"
+    },
+    {
+      "keyString": "fungal diversity"
+    },
+    {
+      "keyString": "host plant identity"
+    },
+    {
+      "keyString": "leaf functional traits"
+    },
+    {
+      "keyString": "mycorrhizal association"
+    }
+  ],
+  "persistentIDs": [
+    {
+      "DOI": "10.3897/imafungus.17.173358"
+    }
+  ],
+  "pubDate": {
+    "electrDate": "2026"
+  },
+  "publication": {
+    "pubName": "IMA Fungus 17: e173358",
+    "pubYear": "2026",
+    "publisher": "Pensoft Publishers"
+  },
+  "publisherIDs": [
+    {
+      "Identifier": "10.3897/imafungus.17.173358",
+      "attribute": "urn"
+    },
+    {
+      "Identifier": "info:doi:10.3897/imafungus.17.173358",
+      "attribute": "publisher-id"
+    },
+    {
+      "Identifier": "https://doi.org/10.3897/imafungus.17.173358",
+      "attribute": "publisher-id"
+    },
+    {
+      "Identifier": "https://imafungus.pensoft.net/article/173358/",
+      "attribute": "publisher-id"
+    },
+    {
+      "Identifier": "https://imafungus.pensoft.net/article/173358/download/pdf/",
+      "attribute": "publisher-id"
+    }
+  ],
+  "recordData": {
+    "createdTime": "",
+    "loadFormat": "OtherXML",
+    "loadLocation": "",
+    "loadType": "fromFile",
+    "parsedTime": "",
+    "recordOrigin": ""
+  },
+  "title": {
+    "textEnglish": "Impact of plant species, mycorrhizal type, and leaf traits on foliar fungal communities (in a common garden experiment)"
+  }
+}

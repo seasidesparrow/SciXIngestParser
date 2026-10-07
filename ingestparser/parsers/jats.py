@@ -7,9 +7,9 @@ import bs4
 import validators
 from ordered_set import OrderedSet
 
-from adsingestp import utils
-from adsingestp.ingest_exceptions import XmlLoadException
-from adsingestp.parsers.base import BaseBeautifulSoupParser
+from ingestparser import utils
+from ingestparser.ingest_exceptions import XmlLoadException
+from ingestparser.parsers.base import BaseBeautifulSoupParser
 
 logger = logging.getLogger(__name__)
 

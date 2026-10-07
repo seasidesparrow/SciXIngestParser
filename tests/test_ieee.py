@@ -1,11 +1,3 @@
-"""
-Created on Wed Aug 30 17:03:57 2023
-
-@author: mugdhapolimera
-
-Unittest for Copernicus parser
-"""
-
 import datetime
 import json
 import os
@@ -13,30 +5,28 @@ import unittest
 
 from adsingestschema import ads_schema_validator
 
-from ingestparser.parsers import copernicus
+from ingestparser.parsers import ieee
 
 TIMESTAMP_FMT = "%Y-%m-%dT%H:%M:%S.%fZ"
 
 
-class TestCopernicus(unittest.TestCase):
+class TestIEEE(unittest.TestCase):
     def setUp(self):
         stubdata_dir = os.path.join(os.path.dirname(__file__), "stubdata/")
         self.inputdir = os.path.join(stubdata_dir, "input")
         self.outputdir = os.path.join(stubdata_dir, "output")
-        self.maxDiff = None
 
-    def test_copernicus(self):
+    def test_ieee(self):
         filenames = [
-            "copernicus_ESSD_essd-15-3075-2023",
-            "copernicus_ISPAn_isprs-annals-X-M-1-2023-237-2023",
-            "copernicus_GeChr_gchron-5-323-2023",
-            "copernicus_ISPAr_isprs-archives-XLVIII-M-2-2023-721-2023",
-            "copernicus_wes-8-1625-2023",
+            "ieee_conf1",
+            "ieee_conf2",
+            "ieee_conf3",
+            "ieee_conf4",
         ]
         for f in filenames:
             test_infile = os.path.join(self.inputdir, f + ".xml")
             test_outfile = os.path.join(self.outputdir, f + ".json")
-            parser = copernicus.CopernicusParser()
+            parser = ieee.IEEEParser()
 
             with open(test_infile, "rb") as fp:
                 input_data = fp.read()
@@ -62,4 +52,5 @@ class TestCopernicus(unittest.TestCase):
             self.assertTrue(abs(time_difference) < datetime.timedelta(seconds=10))
             parsed["recordData"]["parsedTime"] = ""
 
+            self.maxDiff = None
             self.assertEqual(parsed, output_data)

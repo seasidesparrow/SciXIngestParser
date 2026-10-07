@@ -4,12 +4,12 @@ try:
     import lvtn1_utils as utils
 
     config = utils.load_config()
-    logger = utils.setup_logging("adsingestp.cli")
+    logger = utils.setup_logging("ingestparser.cli")
 except ImportError:
     import logging
 
     config = {}
-    logger = logging.getLogger("adsingestp.cli")
+    logger = logging.getLogger("ingestparser.cli")
 
 
 @click.group()

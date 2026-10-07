@@ -4,9 +4,9 @@ import re
 import validators
 from lxml import etree
 
-from adsingestp import utils
-from adsingestp.ingest_exceptions import NoSchemaException, XmlLoadException
-from adsingestp.parsers.base import BaseBeautifulSoupParser
+from ingestparser import utils
+from ingestparser.ingest_exceptions import NoSchemaException, XmlLoadException
+from ingestparser.parsers.base import BaseBeautifulSoupParser
 
 logger = logging.getLogger(__name__)
 

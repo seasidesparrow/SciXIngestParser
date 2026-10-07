@@ -1,0 +1,798 @@
+{
+  "abstract": {
+    "textEnglish": "The contribution of chemotherapy-induced tissue injury to individual susceptibility to metastasis remains largely unexplored. We report that chemotherapy indirectly prevents colorectal cancer (CRC) liver metastases by inducing a lasting systemic \u201cchemomemory\u201d. Chemotherapy-induced intestinal mucositis alters nutrient availability, promoting the expansion of tryptophan-metabolizing bacteria and production of the microbial metabolite indole-3-propionic acid (IPA). IPA reprograms bone marrow myelopoiesis by redirecting common myeloid progenitor fate toward the macrophage lineage, limiting generation of immunosuppressive Ly6C<sup>high</sup>CCR2<sup>+</sup> monocytes. This shift enhances CD4<sup>+</sup> T cell antitumor function by promoting Th1 differentiation and spatially reorganizing CD8<sup>+</sup> and CD4<sup>+</sup> T cell interactions within the metastatic microenvironment. In a subset of CRC patients, circulating IPA levels increase after chemotherapy and inversely correlate with monocyte abundance, while high monocyte levels were associated with reduced survival. Our findings reveal that chemotherapy-induced intestinal injury normalizes pathological myelopoiesis through a microbiota-derived metabolite and identify IPA as a potential adjuvant to counteract monocyte-driven immunosuppression and metastasis."
+  },
+  "authors": [
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "https://ror.org/019whta54",
+              "affIDType": "ROR"
+            },
+            {
+              "affID": "grid.9851.5",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0001 2165 4204",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Department of Fundamental Oncology, University of Lausanne and Ludwig Institute for Cancer Research Lausanne, Lausanne, Switzerland"
+        }
+      ],
+      "attrib": {
+        "orcid": "0009-0002-1695-3626"
+      },
+      "name": {
+        "given_name": "Ludivine",
+        "surname": "Bersier"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "https://ror.org/02s376052",
+              "affIDType": "ROR"
+            },
+            {
+              "affID": "grid.5333.6",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0001 2183 9049",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Laboratory of Stem Cell Bioengineering, Institute of Bioengineering, School of Life Sciences and School of Engineering, Ecole Polytechnique F\u00e9d\u00e9rale de Lausanne, Lausanne, Switzerland"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0003-4717-9338"
+      },
+      "name": {
+        "given_name": "L. Francisco",
+        "surname": "Lorenzo-Martin"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "https://ror.org/019whta54",
+              "affIDType": "ROR"
+            },
+            {
+              "affID": "grid.9851.5",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0001 2165 4204",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Department of Fundamental Oncology, University of Lausanne and Ludwig Institute for Cancer Research Lausanne, Lausanne, Switzerland"
+        }
+      ],
+      "name": {
+        "given_name": "Yi-Hsuan",
+        "surname": "Chiang"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "https://ror.org/05a28rw58",
+              "affIDType": "ROR"
+            },
+            {
+              "affID": "grid.5801.c",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0001 2156 2780",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Institute of Molecular Systems Biology, Department of Biology, ETH Z\u00fcrich, Z\u00fcrich, Switzerland"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0003-2307-7070"
+      },
+      "name": {
+        "given_name": "Stephan",
+        "surname": "Durot"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "https://ror.org/01swzsf04",
+              "affIDType": "ROR"
+            },
+            {
+              "affID": "grid.8591.5",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0001 2175 2154",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Department of Pathology and Immunology, Faculty of Medicine, University of Geneva, Geneva, Switzerland"
+        },
+        {
+          "affPubID": [
+            {
+              "affID": "https://ror.org/01swzsf04",
+              "affIDType": "ROR"
+            },
+            {
+              "affID": "grid.8591.5",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0001 2175 2154",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Geneva Centre for Inflammation Research, Faculty of Medicine, University of Geneva, Geneva, Switzerland"
+        }
+      ],
+      "name": {
+        "given_name": "Aleksander",
+        "surname": "Czauderna"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "https://ror.org/02k7v4d05",
+              "affIDType": "ROR"
+            },
+            {
+              "affID": "grid.5734.5",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0001 0726 5157",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Department of Visceral Surgery and Medicine, Inselspital, Bern University Hospital, University of Bern, Bern, Switzerland"
+        },
+        {
+          "affPubID": [
+            {
+              "affID": "https://ror.org/02k7v4d05",
+              "affIDType": "ROR"
+            },
+            {
+              "affID": "grid.5734.5",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0001 0726 5157",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Department for BioMedical Research, University of Bern, Bern, Switzerland"
+        }
+      ],
+      "name": {
+        "given_name": "Tural",
+        "surname": "Yarahmadov"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "https://ror.org/019whta54",
+              "affIDType": "ROR"
+            },
+            {
+              "affID": "grid.9851.5",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0001 2165 4204",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Department of Fundamental Oncology, University of Lausanne and Ludwig Institute for Cancer Research Lausanne, Lausanne, Switzerland"
+        },
+        {
+          "affPubID": [
+            {
+              "affID": "https://ror.org/002n09z45",
+              "affIDType": "ROR"
+            },
+            {
+              "affID": "grid.419765.8",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0001 2223 3006",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "SIB Swiss Institute of Bioinformatics, Lausanne, Switzerland"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0003-2641-0895"
+      },
+      "name": {
+        "given_name": "Tania",
+        "surname": "Wyss Lozano"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "https://ror.org/019whta54",
+              "affIDType": "ROR"
+            },
+            {
+              "affID": "grid.9851.5",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0001 2165 4204",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Department of Fundamental Oncology, University of Lausanne and Ludwig Institute for Cancer Research Lausanne, Lausanne, Switzerland"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0002-9522-0641"
+      },
+      "name": {
+        "given_name": "Irena",
+        "surname": "Roci"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "https://ror.org/019whta54",
+              "affIDType": "ROR"
+            },
+            {
+              "affID": "grid.9851.5",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0001 2165 4204",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Department of Fundamental Oncology, University of Lausanne and Ludwig Institute for Cancer Research Lausanne, Lausanne, Switzerland"
+        },
+        {
+          "affPubID": [
+            {
+              "affID": "https://ror.org/04q78tk20",
+              "affIDType": "ROR"
+            },
+            {
+              "affID": "grid.264381.a",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0001 2181 989X",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Department of Ophthalmology, Samsung Medical Center, Sungkyunkwan University School of Medicine, Seoul, Republic of Korea"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0002-8003-5849"
+      },
+      "name": {
+        "given_name": "Jaeryung",
+        "surname": "Kim"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "https://ror.org/05a28rw58",
+              "affIDType": "ROR"
+            },
+            {
+              "affID": "grid.5801.c",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0001 2156 2780",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Institute of Molecular Systems Biology, Department of Biology, ETH Z\u00fcrich, Z\u00fcrich, Switzerland"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0003-1271-1021"
+      },
+      "name": {
+        "given_name": "Nicola",
+        "surname": "Zamboni"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "https://ror.org/019whta54",
+              "affIDType": "ROR"
+            },
+            {
+              "affID": "grid.9851.5",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0001 2165 4204",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Department of Fundamental Oncology, University of Lausanne and Ludwig Institute for Cancer Research Lausanne, Lausanne, Switzerland"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0002-6351-7512"
+      },
+      "name": {
+        "given_name": "Nicola",
+        "surname": "Vannini"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "https://ror.org/019whta54",
+              "affIDType": "ROR"
+            },
+            {
+              "affID": "grid.9851.5",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0001 2165 4204",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Service of Neurology, Department of Clinical Neurosciences, Lausanne University Hospital (CHUV) and University of Lausanne, Lausanne, Switzerland"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0002-1146-3129"
+      },
+      "name": {
+        "given_name": "Caroline",
+        "surname": "Pot"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "https://ror.org/01m1pv723",
+              "affIDType": "ROR"
+            },
+            {
+              "affID": "grid.150338.c",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0001 0721 9812",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Service of Endocrinology, Diabetes and Metabolism, Department of Medicine, Geneva University Hospitals, Geneva, Switzerland"
+        },
+        {
+          "affPubID": [
+            {
+              "affID": "https://ror.org/01swzsf04",
+              "affIDType": "ROR"
+            },
+            {
+              "affID": "grid.8591.5",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0001 2175 2154",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Diabetes Centre, Faculty of Medicine, University of Geneva, Geneva, Switzerland"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0002-3243-1222"
+      },
+      "name": {
+        "given_name": "Tinh-Hai",
+        "surname": "Collet"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "https://ror.org/02k7v4d05",
+              "affIDType": "ROR"
+            },
+            {
+              "affID": "grid.5734.5",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0001 0726 5157",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Department of Visceral Surgery and Medicine, Inselspital, Bern University Hospital, University of Bern, Bern, Switzerland"
+        },
+        {
+          "affPubID": [
+            {
+              "affID": "https://ror.org/02k7v4d05",
+              "affIDType": "ROR"
+            },
+            {
+              "affID": "grid.5734.5",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0001 0726 5157",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Department for BioMedical Research, University of Bern, Bern, Switzerland"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0002-3517-3871"
+      },
+      "name": {
+        "given_name": "Deborah",
+        "surname": "Stroka"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "https://ror.org/019whta54",
+              "affIDType": "ROR"
+            },
+            {
+              "affID": "grid.9851.5",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0001 2165 4204",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Department of Fundamental Oncology, University of Lausanne and Ludwig Institute for Cancer Research Lausanne, Lausanne, Switzerland"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0002-6407-1049"
+      },
+      "name": {
+        "given_name": "Jeremiah",
+        "surname": "Bernier-Latmani"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "https://ror.org/02s376052",
+              "affIDType": "ROR"
+            },
+            {
+              "affID": "grid.5333.6",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0001 2183 9049",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Laboratory of Stem Cell Bioengineering, Institute of Bioengineering, School of Life Sciences and School of Engineering, Ecole Polytechnique F\u00e9d\u00e9rale de Lausanne, Lausanne, Switzerland"
+        },
+        {
+          "affPubID": [
+            {
+              "affID": "https://ror.org/00by1q217",
+              "affIDType": "ROR"
+            },
+            {
+              "affID": "grid.417570.0",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0004 0374 1269",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Institute of Human Biology (IHB), Roche Pharma Research and Early Development (pRED), Roche Innovation Center Basel, F. Hoffmann-La Roche Ltd., Basel, Switzerland"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0002-5898-305X"
+      },
+      "name": {
+        "given_name": "Matthias P.",
+        "surname": "Lutolf"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "https://ror.org/01swzsf04",
+              "affIDType": "ROR"
+            },
+            {
+              "affID": "grid.8591.5",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0001 2175 2154",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Department of Pathology and Immunology, Faculty of Medicine, University of Geneva, Geneva, Switzerland"
+        },
+        {
+          "affPubID": [
+            {
+              "affID": "https://ror.org/01swzsf04",
+              "affIDType": "ROR"
+            },
+            {
+              "affID": "grid.8591.5",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0001 2175 2154",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Geneva Centre for Inflammation Research, Faculty of Medicine, University of Geneva, Geneva, Switzerland"
+        }
+      ],
+      "name": {
+        "given_name": "Simone",
+        "surname": "Becattini"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "https://ror.org/01m1pv723",
+              "affIDType": "ROR"
+            },
+            {
+              "affID": "grid.150338.c",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0001 0721 9812",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Center for Translational Research in Oncology-Hematology, Department of Oncology, University Hospital of Geneva, Geneva, Switzerland"
+        },
+        {
+          "affPubID": [
+            {
+              "affID": "https://ror.org/01m1pv723",
+              "affIDType": "ROR"
+            },
+            {
+              "affID": "grid.150338.c",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0001 0721 9812",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Department of Oncology, Geneva University Hospital, Geneva, Switzerland"
+        }
+      ],
+      "attrib": {
+        "orcid": "0000-0001-9196-9076"
+      },
+      "name": {
+        "given_name": "Thibaud",
+        "surname": "Koessler"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubID": [
+            {
+              "affID": "https://ror.org/019whta54",
+              "affIDType": "ROR"
+            },
+            {
+              "affID": "grid.9851.5",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0001 2165 4204",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Department of Fundamental Oncology, University of Lausanne and Ludwig Institute for Cancer Research Lausanne, Lausanne, Switzerland"
+        },
+        {
+          "affPubID": [
+            {
+              "affID": "https://ror.org/02s376052",
+              "affIDType": "ROR"
+            },
+            {
+              "affID": "grid.5333.6",
+              "affIDType": "GRID"
+            },
+            {
+              "affID": "0000 0001 2183 9049",
+              "affIDType": "ISNI"
+            }
+          ],
+          "affPubRaw": "Swiss Institute for Experimental Cancer Research (ISREC), School of Life Sciences, EPFL, Lausanne, Switzerland"
+        }
+      ],
+      "attrib": {
+        "corresp": true,
+        "email": "tatiana.petrova@unil.ch",
+        "orcid": "0000-0002-0563-6521"
+      },
+      "name": {
+        "given_name": "Tatiana V.",
+        "surname": "Petrova"
+      }
+    }
+  ],
+  "copyright": {
+    "statement": "\u00a9 The Author(s) 2025",
+    "status": true
+  },
+  "editorialHistory": {
+    "acceptedDate": "2025-11-24",
+    "receivedDates": [
+      "2025-04-09"
+    ]
+  },
+  "funding": [
+    {
+      "agencyname": "Swiss cancer research: KFS-4895-08-2019 ISREC Fondation: TANDEM"
+    },
+    {
+      "agencyname": "Swiss National Foundation and Swiss Cancer research: MD-PhD 5089-06-2020 Bryn Turner-Samuels Foundation Joseph and Lina Spicher Foundation"
+    },
+    {
+      "agencyname": "iGE3 Genomics Platform of the University of Geneva: PhD Salary Award"
+    },
+    {
+      "agencyid": {
+        "idschema": "doi",
+        "idvalue": "https://doi.org/10.13039/501100001711"
+      },
+      "agencyname": "Schweizerischer Nationalfonds zur F\u00f6rderung der Wissenschaftlichen Forschung (Swiss National Science Foundation)",
+      "awardnumber": "SNSF 10003598"
+    }
+  ],
+  "keywords": [
+    {
+      "keyString": "Medical and Health Sciences",
+      "keySystem": "misc"
+    },
+    {
+      "keyString": "Oncology and Carcinogenesis",
+      "keySystem": "misc"
+    }
+  ],
+  "openAccess": {
+    "license": "Open Access This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article\u2019s Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article\u2019s Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit http://creativecommons.org/licenses/by/4.0/.",
+    "licenseURL": "http://creativecommons.org/licenses/by/4.0/",
+    "open": true
+  },
+  "pagination": {
+    "electronicID": "832"
+  },
+  "persistentIDs": [
+    {
+      "DOI": "10.1038/s41467-025-67169-7"
+    }
+  ],
+  "pubDate": {
+    "electrDate": "2025-12-15",
+    "otherDate": [
+      {
+        "otherDateType": "collection",
+        "otherDateValue": "2026-12-00"
+      },
+      {
+        "otherDateType": "version-of-record",
+        "otherDateValue": "2026-01-22"
+      }
+    ]
+  },
+  "publication": {
+    "ISSN": [
+      {
+        "issnString": "2041-1723",
+        "pubtype": "epub"
+      }
+    ],
+    "issueNum": "1",
+    "pubName": "Nature Communications",
+    "pubYear": "2026",
+    "publisher": "Nature Publishing Group UK",
+    "volumeNum": "17"
+  },
+  "publisherIDs": [
+    {
+      "Identifier": "s41467-025-67169-7",
+      "attribute": "publisher-id"
+    },
+    {
+      "Identifier": "67169",
+      "attribute": "manuscript"
+    }
+  ],
+  "recordData": {
+    "createdTime": "",
+    "loadFormat": "JATS",
+    "loadLocation": "",
+    "loadType": "fromFile",
+    "parsedTime": "",
+    "recordOrigin": ""
+  },
+  "title": {
+    "textEnglish": "Chemotherapy-driven intestinal dysbiosis and indole-3-propionic acid rewire myelopoiesis to promote a metastasis-refractory state"
+  }
+}

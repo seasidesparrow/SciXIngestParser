@@ -6,7 +6,7 @@ import re
 
 import nameparser
 
-from adsingestp.ingest_exceptions import AuthorParserException
+from ingestparser.ingest_exceptions import AuthorParserException
 
 logger = logging.getLogger(__name__)
 
