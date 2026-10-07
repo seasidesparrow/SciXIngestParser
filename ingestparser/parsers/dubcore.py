@@ -1,14 +1,14 @@
 import logging
 
-from ingestparser import utils
-from ingestparser.ingest_exceptions import (
+from adsingestp import utils
+from adsingestp.ingest_exceptions import (
     MissingAuthorsException,
     MissingTitleException,
     NoSchemaException,
     WrongSchemaException,
     XmlLoadException,
 )
-from ingestparser.parsers.base import BaseBeautifulSoupParser, IngestBase
+from adsingestp.parsers.base import BaseBeautifulSoupParser, IngestBase
 
 logger = logging.getLogger(__name__)
 
@@ -59,11 +59,20 @@ class DublinCoreParser(BaseBeautifulSoupParser):
                     {"attribute": "urn", "Identifier": dc_id.get_text()}
                 )
 
+        doi = None
         if self.input_metadata.find("dc:identifier"):
             for dc_id in self.input_metadata.find_all("dc:identifier"):
+                id_text = dc_id.get_text().strip()
+
                 self.base_metadata["ids"]["pub-id"].append(
-                    {"attribute": "publisher-id", "Identifier": dc_id.get_text()}
+                    {"attribute": "publisher-id", "Identifier": id_text}
                 )
+
+                if "doi.org/" in id_text:
+                    # normalize to just the DOI
+                    doi = id_text.split("doi.org/")[-1]
+        if doi:
+            self.base_metadata["ids"]["doi"] = doi
 
     def _parse_title(self):
         title_array = self.input_metadata.find_all("dc:title")
@@ -81,13 +90,25 @@ class DublinCoreParser(BaseBeautifulSoupParser):
         name_parser = utils.AuthorNames()
 
         author_array = self.input_metadata.find_all("dc:creator")
+
         for a in author_array:
-            a = a.get_text()
+            # Get ORCID from id attribute if present
+            orcid = a.get("id")
+            if orcid and "orcid.org" in orcid:
+                # normalize to just the ORCID
+                orcid = orcid.split("orcid.org/")[-1]
+
+            author_text = a.get_text()
             parsed_name_list = name_parser.parse(
-                a, collaborations_params=self.author_collaborations_params
+                author_text,
+                collaborations_params=self.author_collaborations_params,
             )
-            for name in parsed_name_list:
-                authors_out.append(name)
+
+            for author_tmp in parsed_name_list:
+                # Get author ORCID if present
+                if orcid:
+                    author_tmp["orcid"] = orcid
+                authors_out.append(author_tmp)
 
         if not authors_out:
             raise MissingAuthorsException("No contributors found for")
@@ -100,7 +121,10 @@ class DublinCoreParser(BaseBeautifulSoupParser):
                 "dc:date"
             ).get_text()
 
-    def _parse_publisher(self):
+    def _parse_pub(self):
+        if self.input_metadata.find("dc:source"):
+            self.base_metadata["publication"] = self.input_metadata.find("dc:source").get_text()
+
         if self.input_metadata.find("dc:publisher"):
             self.base_metadata["publisher"] = self.input_metadata.find("dc:publisher").get_text()
 
@@ -140,10 +164,20 @@ class DublinCoreParser(BaseBeautifulSoupParser):
 
         if d.find("record"):
             self.input_header = d.find("record").find("header")
-        if d.find("record") and d.find("record").find("metadata"):
-            self.input_metadata = d.find("record").find("metadata").find("oai_dc:dc")
 
-        schema_spec = self.input_metadata.get("xmlns:oai_dc", "")
+        dc_elem = None
+        if d.find("record") and d.find("record").find("metadata"):
+            # self.input_metadata = d.find("record").find("metadata").find("oai_dc:dc")
+            metadata = d.find("record").find("metadata")
+            dc_elem = metadata.find("oai_dc:dc") or metadata.find("oai-dc:dc")
+
+        if dc_elem is None:
+            raise NoSchemaException("Unknown record schema.")
+
+        self.input_metadata = dc_elem
+
+        schema_spec = dc_elem.get("xmlns:oai_dc") or dc_elem.get("xmlns:oai-dc") or ""
+
         if not schema_spec:
             raise NoSchemaException("Unknown record schema.")
         elif schema_spec not in self.DUBCORE_SCHEMA:
@@ -155,7 +189,7 @@ class DublinCoreParser(BaseBeautifulSoupParser):
         self._parse_pubdate()
         self._parse_abstract()
         self._parse_keywords()
-        self._parse_publisher()
+        self._parse_pub()
 
         self.base_metadata = self._entity_convert(self.base_metadata)
 

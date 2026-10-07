@@ -4,9 +4,9 @@ import re
 import validators
 from lxml import etree
 
-from ingestparser import utils
-from ingestparser.ingest_exceptions import NoSchemaException, XmlLoadException
-from ingestparser.parsers.base import BaseBeautifulSoupParser
+from adsingestp import utils
+from adsingestp.ingest_exceptions import NoSchemaException, XmlLoadException
+from adsingestp.parsers.base import BaseBeautifulSoupParser
 
 logger = logging.getLogger(__name__)
 
@@ -24,7 +24,7 @@ def flatten_author_groups(soup):
     g2.extend(group_list)
     group_list = []
     for g in g2:
-        if type(g) is list:
+        if type(g) == list:
             group_list.append(g[0])
         else:
             group_list.append(g)
@@ -314,6 +314,13 @@ class ElsevierParser(BaseBeautifulSoupParser):
                 # In case given-name is present, but no surname is available, put the given name in the surname
                 author_tmp["surname"] = author.find("ce:given-name")
             author_tmp["orcid"] = author.get("orcid", "")
+            if not author_tmp.get("orcid", None):
+                for k, v in affs_xref.items():
+                    if "orcid.org" in v:
+                        orcid_id = v.split("/")[-1]
+                        author_tmp["orcid"] = orcid_id
+                        del affs_xref[k]
+                        break
             if (
                 author.find("ce:e-address")
                 and author.find("ce:e-address").get("type", "") == "email"

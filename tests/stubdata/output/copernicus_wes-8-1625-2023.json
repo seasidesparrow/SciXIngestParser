@@ -1,7 +1,9 @@
 {
-  "abstract": {
-    "textEnglish": "Vortex-induced vibrations on wind turbine blades are a complex phenomenon not predictable by standard engineering models. For this reason, higher-fidelity computational fluid dynamics (CFD) methods are needed. However, the term CFD covers a broad range of fidelities, and this study investigates which choices have to be made when wanting to capture the vortex-induced vibration (VIV) phenomenon to a satisfying degree. The method studied is the so-called forced-motion (FM) approach, where the structural motion is imposed on the CFD blade surface through mode shape assumptions rather than fully coupled two-way fluid\u2013structure interaction. In the study, two independent CFD solvers, EllipSys3D and Ansys CFX, are used and five different turbulence models of varying fidelities are tested. Varying flow scenarios are studied with low to high inclination angles, which determine the component of the flow in the spanwise direction. In all scenarios, the cross-sectional component of the flow is close to perpendicular to the chord of the blade. It is found that the low-inclination-angle and high-inclination-angle scenarios, despite having a difference equivalent to up to only a 30\u2218 azimuth, have quite different requirements of both grid resolution and turbulence models. For high inclination angles, where the flow has a large spanwise component from the tip towards the root, satisfying results are found from quite affordable grid sizes, and even with unsteady Reynolds-averaged Navier\u2013Stokes (URANS) k\u2013\u03c9 turbulence, the result is quite consistent with models resolving more of the turbulent scales. For low inclination, which has a high degree of natural vortex shedding, the picture is the opposite. Here, even for scale-resolving turbulence models, a much finer grid resolution is needed. This allows us to capture the many incoherent vortices, which have a large impact on the coherent vortices, which in turn inject power into the blade or extract power. It is found that a good consistency is seen using different variations of the higher-fidelity hybrid RANS\u2013large eddy simulation (LES) turbulence models, like improved delayed detached eddy simulation (IDDES), stress-blended eddy simulation (SBES) and k\u2013\u03c9 scale-adaptive simulation (SAS) models, which agree well for various flow conditions and imposed amplitudes. This study shows that extensive care and consideration are needed when modeling 3D VIVs using CFD, as the flow phenomena, and thereby solver requirements, rapidly change for different scenarios."
-  },
+  "abstract": [
+    {
+      "atext": "Vortex-induced vibrations on wind turbine blades are a complex phenomenon not predictable by standard engineering models. For this reason, higher-fidelity computational fluid dynamics (CFD) methods are needed. However, the term CFD covers a broad range of fidelities, and this study investigates which choices have to be made when wanting to capture the vortex-induced vibration (VIV) phenomenon to a satisfying degree. The method studied is the so-called forced-motion (FM) approach, where the structural motion is imposed on the CFD blade surface through mode shape assumptions rather than fully coupled two-way fluid\u2013structure interaction. In the study, two independent CFD solvers, EllipSys3D and Ansys CFX, are used and five different turbulence models of varying fidelities are tested. Varying flow scenarios are studied with low to high inclination angles, which determine the component of the flow in the spanwise direction. In all scenarios, the cross-sectional component of the flow is close to perpendicular to the chord of the blade. It is found that the low-inclination-angle and high-inclination-angle scenarios, despite having a difference equivalent to up to only a 30\u2218 azimuth, have quite different requirements of both grid resolution and turbulence models. For high inclination angles, where the flow has a large spanwise component from the tip towards the root, satisfying results are found from quite affordable grid sizes, and even with unsteady Reynolds-averaged Navier\u2013Stokes (URANS) k\u2013\u03c9 turbulence, the result is quite consistent with models resolving more of the turbulent scales. For low inclination, which has a high degree of natural vortex shedding, the picture is the opposite. Here, even for scale-resolving turbulence models, a much finer grid resolution is needed. This allows us to capture the many incoherent vortices, which have a large impact on the coherent vortices, which in turn inject power into the blade or extract power. It is found that a good consistency is seen using different variations of the higher-fidelity hybrid RANS\u2013large eddy simulation (LES) turbulence models, like improved delayed detached eddy simulation (IDDES), stress-blended eddy simulation (SBES) and k\u2013\u03c9 scale-adaptive simulation (SAS) models, which agree well for various flow conditions and imposed amplitudes. This study shows that extensive care and consideration are needed when modeling 3D VIVs using CFD, as the flow phenomena, and thereby solver requirements, rapidly change for different scenarios."
+    }
+  ],
   "authors": [
     {
       "affiliation": [
@@ -122,6 +124,7 @@
       "source": "pub_html"
     }
   ],
+  "language": "en",
   "pagination": {
     "electronicID": "83",
     "firstPage": "1625",
@@ -152,10 +155,13 @@
     "volumeNum": "8"
   },
   "recordData": {
+    "UUID": "",
     "createdTime": "",
+    "dataType": "",
     "loadFormat": "Copernicus",
     "loadLocation": "",
     "loadType": "fromFile",
+    "masterRecord": "",
     "parsedTime": "",
     "recordOrigin": ""
   },
@@ -193,7 +199,9 @@
     "<reference content_type=\"text\" numeration=\"31\">Vir\u00e9, A., Derksen, A., Folkersma, M., and Sarwar, K.: Two-dimensional numerical simulations of vortex-induced vibrations for a cylinder in conditions representative of wind turbine towers, Wind Energ. Sci., 5, 793\u2013806, &lt;a href=\"https://doi.org/10.5194/wes-5-793-2020\"&gt;https://doi.org/10.5194/wes-5-793-2020&lt;/a&gt;, 2020.\u2002&lt;a href=\"#xref_paren.6\"&gt;a&lt;/a&gt;</reference>",
     "<reference content_type=\"text\" numeration=\"32\">Zahle, F.: PGL \u2013 Parametric Geometry Library, &lt;span class=\"uri\"&gt;https://gitlab.windenergy.dtu.dk/frza/PGL&lt;/span&gt; (last access: 24\u00a0October\u00a02023), 2022.\u2002&lt;a href=\"#xref_paren.22\"&gt;a&lt;/a&gt;</reference>"
   ],
-  "title": {
-    "textEnglish": "Forced-Motion Simulations Of Vortex-Induced Vibrations Of Wind Turbine Blades \u2013 A Study Of Sensitivities"
-  }
+  "title": [
+    {
+      "atext": "Forced-Motion Simulations Of Vortex-Induced Vibrations Of Wind Turbine Blades \u2013 A Study Of Sensitivities"
+    }
+  ]
 }

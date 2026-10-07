@@ -1,7 +1,9 @@
 {
-  "abstract": {
-    "textEnglish": "In situ U\u2013Th\u2013He geochronology is a potentially disruptive technique that combines laser ablation inductively coupled plasma mass spectrometry (LA-ICP-MS) with laser microprobe noble gas mass spectrometry. Despite its potential to revolutionize (detrital) thermochronology, in situ U\u2013Th\u2013He dating is not widely used due to persistent analytical challenges. A major issue is that current in situ U\u2013Th\u2013He dating approaches require that the U, Th, and He measurements are expressed in units of molar concentration, in contrast with conventional methods, which use units of molar abundance. Whereas molar abundances can be reliably determined by isotope dilution, accurate concentration measurements are not so easy to obtain. In the absence of matrix-matched U\u2013Th concentration standards and accurate He ablation pit measurements, the required molar concentration calculations introduce an uncertainty that is higher than the conventional method, an uncertainty that is itself difficult to accurately quantify. We present a solution to this problem by using proton-induced 3He as a proxy for ablation pit volume and by pairing samples with a standard of known U\u2013Th\u2013He age. Thus, the U\u2013Th\u2013He age equation can be solved using relative rather than absolute concentration measurements. Pilot experiments show that the new method produces accurate results. However, it is prone to overdispersion, which is attributed to gradients in the proton fluence. These gradients can be measured, and their effect can be removed by fixing the geometry of the sample and the standard during the proton irradiation."
-  },
+  "abstract": [
+    {
+      "atext": "In situ U\u2013Th\u2013He geochronology is a potentially disruptive technique that combines laser ablation inductively coupled plasma mass spectrometry (LA-ICP-MS) with laser microprobe noble gas mass spectrometry. Despite its potential to revolutionize (detrital) thermochronology, in situ U\u2013Th\u2013He dating is not widely used due to persistent analytical challenges. A major issue is that current in situ U\u2013Th\u2013He dating approaches require that the U, Th, and He measurements are expressed in units of molar concentration, in contrast with conventional methods, which use units of molar abundance. Whereas molar abundances can be reliably determined by isotope dilution, accurate concentration measurements are not so easy to obtain. In the absence of matrix-matched U\u2013Th concentration standards and accurate He ablation pit measurements, the required molar concentration calculations introduce an uncertainty that is higher than the conventional method, an uncertainty that is itself difficult to accurately quantify. We present a solution to this problem by using proton-induced 3He as a proxy for ablation pit volume and by pairing samples with a standard of known U\u2013Th\u2013He age. Thus, the U\u2013Th\u2013He age equation can be solved using relative rather than absolute concentration measurements. Pilot experiments show that the new method produces accurate results. However, it is prone to overdispersion, which is attributed to gradients in the proton fluence. These gradients can be measured, and their effect can be removed by fixing the geometry of the sample and the standard during the proton irradiation."
+    }
+  ],
   "authors": [
     {
       "affiliation": [
@@ -78,6 +80,7 @@
       "source": "pub_html"
     }
   ],
+  "language": "en",
   "pagination": {
     "electronicID": "18",
     "firstPage": "323",
@@ -108,10 +111,13 @@
     "volumeNum": "5"
   },
   "recordData": {
+    "UUID": "",
     "createdTime": "",
+    "dataType": "",
     "loadFormat": "Copernicus",
     "loadLocation": "",
     "loadType": "fromFile",
+    "masterRecord": "",
     "parsedTime": "",
     "recordOrigin": ""
   },
@@ -142,7 +148,9 @@
     "<reference content_type=\"text\" numeration=\"24\">Vermeesch, P.:  Logratio table of in-situ U-Th-4He/3He dated Fish Canyon zircon, Zenodo [data set], &lt;a href=\"https://doi.org/10.5281/zenodo.8005223\"&gt;https://doi.org/10.5281/zenodo.8005223&lt;/a&gt;, 2023.\u2002&lt;a href=\"#xref_altparen.27\"&gt;a&lt;/a&gt;</reference>",
     "<reference content_type=\"text\" numeration=\"25\">Vermeesch, P., Sherlock, S. C., Roberts, N. M. W., and Carter, A.: A simple method for in-situ U-Th-He dating, Geochim. Cosmochim. Ac., 79, 140\u2013147, &lt;a href=\"https://doi.org/10.1016/j.gca.2011.11.042\"&gt;https://doi.org/10.1016/j.gca.2011.11.042&lt;/a&gt;, 2012.\u2002&lt;a href=\"#xref_paren.3\"&gt;a&lt;/a&gt;, &lt;a href=\"#xref_text.5\"&gt;b&lt;/a&gt;, &lt;a href=\"#xref_text.9\"&gt;c&lt;/a&gt;, &lt;a href=\"#xref_text.10\"&gt;d&lt;/a&gt;, &lt;a href=\"#xref_text.28\"&gt;e&lt;/a&gt;</reference>"
   ],
-  "title": {
-    "textEnglish": "Technical Note: In Situ U\u2013Th\u2013He Dating By 4He\u2009\u2215\u20093He Laser Microprobe Analysis"
-  }
+  "title": [
+    {
+      "atext": "Technical Note: In Situ U\u2013Th\u2013He Dating By 4He\u2009\u2215\u20093He Laser Microprobe Analysis"
+    }
+  ]
 }

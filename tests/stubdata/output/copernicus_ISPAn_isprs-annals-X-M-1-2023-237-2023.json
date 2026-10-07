@@ -1,7 +1,9 @@
 {
-  "abstract": {
-    "textEnglish": "The article focuses on modern methods of mining activity documentation and visualization. The development of technologies that allow us to display 3D models are many in recent years, from web portals, augmented reality using smartphones or tablets to virtual reality glasses. These technologies give us a whole new way of looking at and viewing 3D models. In this study, we will use most of the available options to visualize mining activities in the UNESCO-protected Ore Mountains. Each of these technologies needs differently prepared data. Because each of these technologies have different limits, we need to find these limits and modify the 3D models. The ZEB Revo laser scanner was used for data acquisition, which uses SLAM technology and is much more suitable for such areas than conventional terrestrial scanners, with which the work is lengthy and not nearly as efficient, and not the least of which eliminates the time-consuming post-scan work of merging scans. Especially when using scanning for mining, where there is not quite enough to go around, manually splicing scans is a nightmare, and automatic post-production merging is also often problematic."
-  },
+  "abstract": [
+    {
+      "atext": "The article focuses on modern methods of mining activity documentation and visualization. The development of technologies that allow us to display 3D models are many in recent years, from web portals, augmented reality using smartphones or tablets to virtual reality glasses. These technologies give us a whole new way of looking at and viewing 3D models. In this study, we will use most of the available options to visualize mining activities in the UNESCO-protected Ore Mountains. Each of these technologies needs differently prepared data. Because each of these technologies have different limits, we need to find these limits and modify the 3D models. The ZEB Revo laser scanner was used for data acquisition, which uses SLAM technology and is much more suitable for such areas than conventional terrestrial scanners, with which the work is lengthy and not nearly as efficient, and not the least of which eliminates the time-consuming post-scan work of merging scans. Especially when using scanning for mining, where there is not quite enough to go around, manually splicing scans is a nightmare, and automatic post-production merging is also often problematic."
+    }
+  ],
   "authors": [
     {
       "affiliation": [
@@ -60,6 +62,7 @@
       "source": "pub_html"
     }
   ],
+  "language": "en",
   "pagination": {
     "firstPage": "237",
     "lastPage": "244"
@@ -89,14 +92,19 @@
     "volumeNum": "X-M-1-2023"
   },
   "recordData": {
+    "UUID": "",
     "createdTime": "",
+    "dataType": "",
     "loadFormat": "Copernicus",
     "loadLocation": "",
     "loadType": "fromFile",
+    "masterRecord": "",
     "parsedTime": "",
     "recordOrigin": ""
   },
-  "title": {
-    "textEnglish": "Modern Methods Of Documentation And Visualization Of Historical Mines In The Unesco Mining Region In The Ore Mountains"
-  }
+  "title": [
+    {
+      "atext": "Modern Methods Of Documentation And Visualization Of Historical Mines In The Unesco Mining Region In The Ore Mountains"
+    }
+  ]
 }

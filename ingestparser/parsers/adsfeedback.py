@@ -1,8 +1,8 @@
 import json
 import logging
 
-from ingestparser import utils
-from ingestparser.parsers.base import BaseBeautifulSoupParser
+from adsingestp import utils
+from adsingestp.parsers.base import BaseBeautifulSoupParser
 
 logger = logging.getLogger(__name__)
 
@@ -72,7 +72,7 @@ class ADSFeedbackParser(BaseBeautifulSoupParser):
         properties = {}
         url_data = self.data.get("urls", "")
         for url in url_data:
-            utype, link = url.split()
+            (utype, link) = url.split()
             utype = utype.strip("(").strip(")").upper()
             properties[utype] = link
         if properties:

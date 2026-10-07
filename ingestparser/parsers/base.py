@@ -1,13 +1,12 @@
-import bs4
-import datetime
 import html
 import re
-
-from ingestparser.ingest_exceptions import WrongFormatException
-
-from bs4 import XMLParsedAsHTMLWarning
 import warnings
+from datetime import datetime
 
+import bs4
+from bs4 import MarkupResemblesLocatorWarning
+
+from adsingestp.ingest_exceptions import WrongFormatException
 
 
 class IngestBase(object):
@@ -24,7 +23,7 @@ class IngestBase(object):
     ]
 
     def __init__(self, xml_ref=True):
-        warnings.filterwarnings("ignore", category=XMLParsedAsHTMLWarning)
+        warnings.filterwarnings("ignore", category=MarkupResemblesLocatorWarning, module="bs4")
         self.xml_ref = xml_ref
 
     def _clean_empty(self, input_to_clean, keys_to_keep=required_keys):
@@ -219,6 +218,7 @@ class IngestBase(object):
             "Elsevier",
             "IEEE",
             "Wiley",
+            "Springer",
         ]:
             raise WrongFormatException
 
@@ -226,9 +226,7 @@ class IngestBase(object):
 
         output["recordData"] = {
             "createdTime": "",
-            "parsedTime": datetime.datetime.now(datetime.timezone.utc).strftime(
-                self.TIMESTAMP_FMT
-            ),
+            "parsedTime": datetime.utcnow().strftime(self.TIMESTAMP_FMT),
             "loadType": "fromURL" if format == "HTML" else "fromFile",
             "loadFormat": format,
             "loadLocation": "",
@@ -255,6 +253,12 @@ class IngestBase(object):
             ],
         }
 
+        # new decision tree for pubyear
+        versionOfRecordDate = ""
+        if input_dict.get("pubdate_other", []):
+            for o in input_dict["pubdate_other"]:
+                if o.get("type", "") == "version-of-record":
+                    versionOfRecordDate = o.get("date")[0:4]
         output["publication"] = {
             # "docType": "XXX",
             "pubName": input_dict.get("publication", ""),
@@ -266,7 +270,9 @@ class IngestBase(object):
             "publisher": input_dict.get("publisher", ""),
             "issueNum": input_dict.get("issue", ""),
             "volumeNum": input_dict.get("volume", ""),
-            "pubYear": (
+            "pubYear": versionOfRecordDate
+            if versionOfRecordDate
+            else (
                 input_dict["pubdate_print"][0:4]
                 if "pubdate_print" in input_dict
                 else (
@@ -324,8 +330,6 @@ class IngestBase(object):
                 "name": {
                     "surname": i.get("surname", ""),
                     "given_name": i.get("given", ""),
-                    "native_surname": i.get("native_surname", ""),
-                    "native_given_name": i.get("native_given_name", ""),
                     "middle_name": i.get("middle", ""),
                     "prefix": i.get("prefix", ""),
                     "suffix": i.get("suffix", ""),
@@ -471,7 +475,7 @@ class IngestBase(object):
         output["openAccess"] = {
             "open": input_dict.get("openAccess", {}).get("open", False),
             "license": input_dict.get("openAccess", {}).get("license", ""),
-            "licenseURL": input_dict.get("openAccess", {}).get("licenseURL", ""),
+            "licenseURL": input_dict.get("openAccess", {}).get("licenseURL", "")
             # "preprint": "XXX",
             # "startDate": "XXX",
             # "endDate": "XXX",
@@ -561,12 +565,17 @@ class BaseBeautifulSoupParser(IngestBase):
         math_elements = r.find_all("tex-math")
         for e in math_elements:
             text = e.get_text()
+            doc_class = text.find("\\documentclass")
+            doc_class_len = len("\\documentclass")
             begin = text.find("\\begin{document}")
             end = text.find("\\end{document}")
             begin_len = len("\\begin{document}")
             if begin == -1 or end == -1:
                 continue
-            newtext = text[begin + begin_len : end]
+            if doc_class:
+                newtext = text[doc_class + doc_class_len : end]
+            else:
+                newtext = text[begin + begin_len : end]
             e.string = newtext
         return r
 
@@ -593,7 +602,7 @@ class BaseBeautifulSoupParser(IngestBase):
         else:
             instruction_list = []
         for ins in instruction_list:
-            if ins.startswith("index") or ins.startswith("?index"):
+            if ins.startswith("index"):
                 # Remove preceding white-space
                 if ins.previous_sibling and isinstance(ins.previous_sibling, str):
                     ins.previous_sibling.replace_with(ins.previous_sibling.rstrip())

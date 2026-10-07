@@ -1,7 +1,9 @@
 {
-  "abstract": {
-    "textEnglish": "Saharan dust outbreaks have profound effects on ecosystems, climate, human health, and the cryosphere in Europe. However, the spatial deposition pattern of Saharan dust is poorly known due to a sparse network of ground measurements. Following the extreme dust deposition event of February 2021 across Europe, a citizen science campaign was launched to sample dust on snow over the Pyrenees and the European Alps. This somewhat improvised campaign triggered wide interest since 152 samples were collected from the snow in the Pyrenees, the French Alps, and the Swiss Alps in less than 4 weeks. Among the 152 samples, 113 in total could be analysed, corresponding to 70 different locations. The analysis of the samples showed a large variability in the dust properties and amount. We found a decrease in the deposited mass and particle sizes with distance from the source along the transport path. This spatial trend was also evident in the elemental composition of the dust as the iron mass fraction decreased from 11 % in the Pyrenees to 2 % in the Swiss Alps. At the local scale, we found a higher dust mass on south-facing slopes, in agreement with estimates from high-resolution remote sensing data. This unique dataset, which resulted from the collaboration of several research laboratories and citizens, is provided as an open dataset to benefit a large community and to enable further scientific investigations. Data presented in this study are available at https://doi.org/10.5281/zenodo.7969515 (Dumont et al., 2022a)."
-  },
+  "abstract": [
+    {
+      "atext": "Saharan dust outbreaks have profound effects on ecosystems, climate, human health, and the cryosphere in Europe. However, the spatial deposition pattern of Saharan dust is poorly known due to a sparse network of ground measurements. Following the extreme dust deposition event of February 2021 across Europe, a citizen science campaign was launched to sample dust on snow over the Pyrenees and the European Alps. This somewhat improvised campaign triggered wide interest since 152 samples were collected from the snow in the Pyrenees, the French Alps, and the Swiss Alps in less than 4 weeks. Among the 152 samples, 113 in total could be analysed, corresponding to 70 different locations. The analysis of the samples showed a large variability in the dust properties and amount. We found a decrease in the deposited mass and particle sizes with distance from the source along the transport path. This spatial trend was also evident in the elemental composition of the dust as the iron mass fraction decreased from 11 % in the Pyrenees to 2 % in the Swiss Alps. At the local scale, we found a higher dust mass on south-facing slopes, in agreement with estimates from high-resolution remote sensing data. This unique dataset, which resulted from the collaboration of several research laboratories and citizens, is provided as an open dataset to benefit a large community and to enable further scientific investigations. Data presented in this study are available at https://doi.org/10.5281/zenodo.7969515 (Dumont et al., 2022a)."
+    }
+  ],
   "authors": [
     {
       "affiliation": [
@@ -629,6 +631,7 @@
       "source": "pub_html"
     }
   ],
+  "language": "en",
   "pagination": {
     "electronicID": "145",
     "firstPage": "3075",
@@ -659,10 +662,13 @@
     "volumeNum": "15"
   },
   "recordData": {
+    "UUID": "",
     "createdTime": "",
+    "dataType": "",
     "loadFormat": "Copernicus",
     "loadLocation": "",
     "loadType": "fromFile",
+    "masterRecord": "",
     "parsedTime": "",
     "recordOrigin": ""
   },
@@ -717,7 +723,9 @@
     "<reference content_type=\"text\" numeration=\"48\">Vernay, M., Lafaysse, M., Monteiro, D., Hagenmuller, P., Nheili, R., Samaco\u00efts, R., Verfaillie, D., and Morin, S.: The S2M meteorological and snow cover reanalysis over the French mountainous areas: description and evaluation (1958\u20132021), Earth Syst. Sci. Data, 14, 1707\u20131733, &lt;a href=\"https://doi.org/10.5194/essd-14-1707-2022\"&gt;https://doi.org/10.5194/essd-14-1707-2022&lt;/a&gt;, 2022. \u2002&lt;a href=\"#xref_paren.20\"&gt;a&lt;/a&gt;</reference>",
     "<reference content_type=\"text\" numeration=\"49\">Yu, H., Chin, M., Yuan, T., Bian, H., Remer, L. A., Prospero, J. M., Omar, A., Winker, D., Yang, Y., Zhang, Y., Zhang, Z., and Zhao, C.: The fertilizing role of African dust in the Amazon rainforest: A first multiyear assessment based on data from Cloud-Aerosol Lidar and Infrared Pathfinder Satellite Observations, Geophys. Res. Lett., 42, 1984\u20131991, &lt;a href=\"https://doi.org/10.1002/2015GL063040\"&gt;https://doi.org/10.1002/2015GL063040&lt;/a&gt;, 2015.\u2002&lt;a href=\"#xref_paren.4\"&gt;a&lt;/a&gt;</reference>"
   ],
-  "title": {
-    "textEnglish": "Spatial Variability Of Saharan Dust Deposition Revealed Through A Citizen Science Campaign"
-  }
+  "title": [
+    {
+      "atext": "Spatial Variability Of Saharan Dust Deposition Revealed Through A Citizen Science Campaign"
+    }
+  ]
 }

@@ -7,9 +7,9 @@ import bs4
 import validators
 from ordered_set import OrderedSet
 
-from ingestparser import utils
-from ingestparser.ingest_exceptions import XmlLoadException
-from ingestparser.parsers.base import BaseBeautifulSoupParser
+from adsingestp import utils
+from adsingestp.ingest_exceptions import XmlLoadException
+from adsingestp.parsers.base import BaseBeautifulSoupParser
 
 logger = logging.getLogger(__name__)
 
@@ -137,11 +137,11 @@ class JATSAffils(object):
                         logger.warning("Bad format in _fix_email: %s" % err)
             else:
                 try:
-                    if type(em) is str:
+                    if type(em) == str:
                         if email_format.search(em):
                             email_new.add(email_format.search(em).group(0))
                             email_parsed = True
-                    elif type(em) is list:
+                    elif type(em) == list:
                         for e in em:
                             if email_format.search(e):
                                 email_new.add(email_format.search(e).group(0))
@@ -325,7 +325,7 @@ class JATSAffils(object):
 
                     # This is checking if a collaboration is listed as an author
                     if collab:
-                        if type(collab.contents[0].get_text()) is str:
+                        if type(collab.contents[0].get_text()) == str:
                             collab_name = collab.contents[0].get_text().strip()
                         else:
                             collab_name = collab.get_text().strip()
@@ -414,7 +414,7 @@ class JATSAffils(object):
                 collab = contrib.find("collab")
 
                 if collab:
-                    if type(collab.contents[0].get_text()) is str:
+                    if type(collab.contents[0].get_text()) == str:
                         collab_name = collab.contents[0].get_text().strip()
                     else:
                         collab_name = collab.get_text().strip()
@@ -514,7 +514,7 @@ class JATSAffils(object):
                         i = self._decompose(soup=i, tag="sup")
                         i, aff_extids_tmp = self._get_inst_identifiers(i)
                         affstr = i.get_text(separator=", ").strip()
-                        affstr, email_list = self._fix_affil(affstr)
+                        (affstr, email_list) = self._fix_affil(affstr)
                         aff_text.append(affstr)
                         aff_extids.extend(aff_extids_tmp)
                         i.decompose()
@@ -528,7 +528,7 @@ class JATSAffils(object):
                         for aff in aff_list:
                             aff, aff_extids_tmp = self._get_inst_identifiers(aff)
                             aff_fix = aff.get_text(separator=", ").strip()
-                            affstr, email_fix = self._fix_affil(aff_fix)
+                            (affstr, email_fix) = self._fix_affil(aff_fix)
                             email_list.extend(email_fix)
                             aff_text.append(affstr)
                             aff_extids.extend(aff_extids_tmp)
@@ -658,7 +658,7 @@ class JATSAffils(object):
                     # a = self._decompose(soup=a, tag='ext-link')
 
                     affstr = aff.get_text(separator=", ").strip()
-                    affstr, email_list = self._fix_affil(affstr)
+                    (affstr, email_list) = self._fix_affil(affstr)
                     if not self.email_xref.get(key, None):
                         if email_list:
                             self.email_xref[key] = email_list
@@ -699,7 +699,7 @@ class JATSAffils(object):
 
             aff, aff_extids_tmp = self._get_inst_identifiers(aff)
             affstr = aff.get_text(separator=", ").strip()
-            aff_list, email_list = self._fix_affil(affstr)
+            (aff_list, email_list) = self._fix_affil(affstr)
             self.xref_dict[key] = aff_list
             if self.xref_xid_dict.get(key, None):
                 self.xref_xid_dict[key].extend(aff_extids_tmp)
@@ -914,6 +914,14 @@ class JATSParser(BaseBeautifulSoupParser):
                     revised.append(eddate)
                 elif date_type == "accepted":
                     self.base_metadata["edhist_acc"] = eddate
+                # special case: if "version-of-record" add to pubDate.otherDate
+                elif date_type == "version-of-record":
+                    pd = {"type": date_type, "date": eddate}
+                    # self.base_metadata["pubdate_other"]
+                    if self.base_metadata.get("pubdate_other", []):
+                        self.base_metadata["pubdate_other"].append(pd)
+                    else:
+                        self.base_metadata["pubdate_other"] = [pd]
                 else:
                     logger.info("Editorial history date type (%s) not recognized.", date_type)
 
@@ -1011,15 +1019,15 @@ class JATSParser(BaseBeautifulSoupParser):
         event_meta = self.article_meta.find("conference")
 
         if event_meta.find("conf-name"):
-            conf_name = self._remove_latex(event_meta.find("conf-name"))
+            conf_name = self._remove_latex(event_meta.find("conf-name", ""))
             self.base_metadata["conf_name"] = self._detag(conf_name, [])
 
         if event_meta.find("conf-loc"):
-            conf_loc = self._remove_latex(event_meta.find("conf-loc"))
+            conf_loc = self._remove_latex(event_meta.find("conf-loc", ""))
             self.base_metadata["conf_location"] = self._detag(conf_loc, [])
 
         if event_meta.find("conf-date"):
-            conf_date = self._remove_latex(event_meta.find("conf-date"))
+            conf_date = self._remove_latex(event_meta.find("conf-date", ""))
             self.base_metadata["conf_date"] = self._detag(conf_date, [])
 
     def _parse_pub(self):
@@ -1148,17 +1156,25 @@ class JATSParser(BaseBeautifulSoupParser):
         pub_dates = self.article_meta.find_all("pub-date")
 
         for d in pub_dates:
+            d = d.extract()
             pub_format = d.get("publication-format", "")
             pub_type = d.get("pub-type", "")
             date_type = d.get("date-type", "")
-            accepted_date_types = ["pub", "", "first_release", "epub-ppub", "ppub-epub"]
+            accepted_date_types = [
+                "pub",
+                "",
+                "first_release",
+                "epub-ppub",
+                "ppub-epub",
+                "version-of-record",
+            ]
             pubdate = self._get_date(d)
             if (
                 pub_format == "print"
                 or pub_type == "ppub"
                 or pub_type == "cover"
                 or (pub_type == "" and pub_format == "")
-            ) and (date_type == "pub" or date_type == ""):
+            ) and (date_type == "pub" or date_type == "" or date_type == "version-of-record"):
                 self.base_metadata["pubdate_print"] = pubdate
 
             if (
@@ -1171,8 +1187,14 @@ class JATSParser(BaseBeautifulSoupParser):
                 self.base_metadata["pubdate_electronic"] = pubdate
 
             elif (date_type != "pub") and (date_type != ""):
-                self.base_metadata["pubdate_other"] = [{"type": date_type, "date": pubdate}]
-
+                # you need to check the next level to see if there's an
+                # embedded version of record date-type
+                if self.base_metadata.get("pubdate_other", []):
+                    self.base_metadata["pubdate_other"].append(
+                        {"type": date_type, "date": pubdate}
+                    )
+                else:
+                    self.base_metadata["pubdate_other"] = [{"type": date_type, "date": pubdate}]
             if pub_type == "open-access":
                 self.base_metadata.setdefault("openAccess", {}).setdefault("open", True)
 
@@ -1335,25 +1357,41 @@ class JATSParser(BaseBeautifulSoupParser):
         except Exception as err:
             raise XmlLoadException(err)
 
-        document = d.article
-        # front_meta = document.front
-        try:
-            front_meta = document.front
-        except Exception as err:
-            raise XmlLoadException("No front matter found, stopping: %s" % err)
+        document = getattr(d, "article", None) or getattr(d, "conf-article", None)
+        if document is None:
+            raise XmlLoadException("No <article> or <conf-article> element found")
+
+        front_meta = getattr(document, "front", None) or getattr(document, "conf-front", None)
+        if front_meta is None:
+            raise XmlLoadException("No <front> or <conf-front> element found")
+
         self.back_meta = document.back
 
-        self.article_meta = front_meta.find("article-meta")
-        self.journal_meta = front_meta.find("journal-meta")
+        # If a journal
+        if front_meta.find("journal-meta"):
+            self.journal_meta = front_meta.find("journal-meta")
+        if front_meta.find("article-meta"):
+            self.article_meta = front_meta.find("article-meta")
+
+        # If a conference
+        # IEEE JATS for conferences contains 2 container elements about the conference:
+        # <conf-proc-meta> about the proceedings
+        # <conf-meta> about the conference itself
+        if front_meta.find("conf-proc-meta"):
+            self.journal_meta = front_meta.find("conf-proc-meta")
+        if front_meta.find("conf-meta"):
+            confm = front_meta.find("conf-meta")
+            for child in list(confm.children):
+                self.journal_meta.append(child)
+            # self.journal_meta = front_meta.find("conf-meta")
+        if front_meta.find("conf-article-meta"):
+            self.article_meta = front_meta.find("conf-article-meta")
 
         # parse individual pieces
         self._parse_title_abstract()
         self._parse_author()
         self._parse_copyright()
         self._parse_keywords()
-
-        if self.article_meta.find("conference"):
-            self._parse_conference()
 
         # Volume:
         volume = self.article_meta.volume
@@ -1364,6 +1402,9 @@ class JATSParser(BaseBeautifulSoupParser):
         issue = self.article_meta.issue
         if issue:
             self.base_metadata["issue"] = self._detag(issue, [])
+
+        if self.article_meta.find("conference"):
+            self._parse_conference()
 
         self._parse_pub()
         self._parse_related()

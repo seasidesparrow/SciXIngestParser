@@ -1,7 +1,9 @@
 {
-  "abstract": {
-    "textEnglish": "The origins of the series of European Cosmic-Ray Symposia are briefly described. The first meeting in the seri es, on \u2018Hadronic Interactions and Extensive Air Showers\u2019, held in \u0141\u00f3d\u017a, Poland in 1968, was attended by the author: some memories are recounted."
-  },
+  "abstract": [
+    {
+      "atext": "The origins of the series of European Cosmic-Ray Symposia are briefly described. The first meeting in the seri es, on \u2018Hadronic Interactions and Extensive Air Showers\u2019, held in \u0141\u00f3d\u017a, Poland in 1968, was attended by the author: some memories are recounted."
+    }
+  ],
   "authors": [
     {
       "name": {
@@ -16,6 +18,7 @@
       "keyString": "Astroparticle Physics"
     }
   ],
+  "language": "en",
   "pubDate": {
     "electrDate": "2023-02-15"
   },
@@ -42,14 +45,19 @@
     }
   ],
   "recordData": {
+    "UUID": "",
     "createdTime": "",
+    "dataType": "",
     "loadFormat": "OtherXML",
     "loadLocation": "",
     "loadType": "fromFile",
+    "masterRecord": "",
     "parsedTime": "",
     "recordOrigin": ""
   },
-  "title": {
-    "textEnglish": "The Memories of the First European Cosmic Ray Symposium: \u0141\u00f3d\u017a 1968"
-  }
+  "title": [
+    {
+      "atext": "The Memories of the First European Cosmic Ray Symposium: \u0141\u00f3d\u017a 1968"
+    }
+  ]
 }

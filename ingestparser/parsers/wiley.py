@@ -1,8 +1,8 @@
 import logging
 import re
 
-from ingestparser.ingest_exceptions import XmlLoadException
-from ingestparser.parsers.base import BaseBeautifulSoupParser
+from adsingestp.ingest_exceptions import XmlLoadException
+from adsingestp.parsers.base import BaseBeautifulSoupParser
 
 logger = logging.getLogger(__name__)
 
@@ -17,7 +17,6 @@ class WileyParser(BaseBeautifulSoupParser):
         self.pubmeta_part = None
         self.pubmeta_unit = None
         self.content_meta = None
-        self.WILEY_NON_HTML = ["fc", "fi", "fr"]
 
     def _parse_ids(self):
         self.base_metadata["ids"] = {}
@@ -247,13 +246,6 @@ class WileyParser(BaseBeautifulSoupParser):
         except Exception as err:
             raise XmlLoadException(err)
 
-        # Wiley has some non-html formatting directives that should be deleted
-
-        for tag in self.WILEY_NON_HTML:
-            print("piffol")
-            for ext in d.find_all(tag):
-                ext.unwrap()
-
         for p in d.find_all("publicationMeta"):
             if p["level"] == "product":
                 self.pubmeta_prod = p
@@ -276,8 +268,6 @@ class WileyParser(BaseBeautifulSoupParser):
         self._parse_authors()
         self._parse_keywords()
         self._parse_references()
-
-        self.base_metadata = self._entity_convert(self.base_metadata)
 
         output = self.format(self.base_metadata, format="Wiley")
 

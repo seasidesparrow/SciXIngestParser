@@ -1,7 +1,9 @@
 {
-  "abstract": {
-    "textEnglish": "3D imaging of large painted and vaulted historic ceilings offers many challenges, including those due to complex small and large-scale geometry, environmental conditions and limited access. In this paper we introduce CHAPI (Cultural Heritage Automated Photogrammetric Imaging), a low cost solution to these problems which provides an efficient, semi-automated method of capturing large vaulted ceiling paintings in high detail, with a consistent photogrammetric network and in limited time. We will present and examine two different case studies from the Plafond3D project, the baroque ceiling paintings of the Schloss Rheinsberg Spiegelsaal (mirror room) and the Ansbach Residence Festsaal (great hall/ballroom). The paper will examine the particular challenges of capturing large painted areas with accurate colour and geometric reproduction, and suggest how the photogrammetric recording and reconstruction process of ceilings can be optimised for large rooms. This paper also gives technical specifications and Open Access Code for the CHAPI build."
-  },
+  "abstract": [
+    {
+      "atext": "3D imaging of large painted and vaulted historic ceilings offers many challenges, including those due to complex small and large-scale geometry, environmental conditions and limited access. In this paper we introduce CHAPI (Cultural Heritage Automated Photogrammetric Imaging), a low cost solution to these problems which provides an efficient, semi-automated method of capturing large vaulted ceiling paintings in high detail, with a consistent photogrammetric network and in limited time. We will present and examine two different case studies from the Plafond3D project, the baroque ceiling paintings of the Schloss Rheinsberg Spiegelsaal (mirror room) and the Ansbach Residence Festsaal (great hall/ballroom). The paper will examine the particular challenges of capturing large painted areas with accurate colour and geometric reproduction, and suggest how the photogrammetric recording and reconstruction process of ceilings can be optimised for large rooms. This paper also gives technical specifications and Open Access Code for the CHAPI build."
+    }
+  ],
   "authors": [
     {
       "affiliation": [
@@ -74,6 +76,7 @@
       "source": "pub_html"
     }
   ],
+  "language": "en",
   "pagination": {
     "firstPage": "721",
     "lastPage": "727"
@@ -103,14 +106,19 @@
     "volumeNum": "XLVIII-M-2-2023"
   },
   "recordData": {
+    "UUID": "",
     "createdTime": "",
+    "dataType": "",
     "loadFormat": "Copernicus",
     "loadLocation": "",
     "loadType": "fromFile",
+    "masterRecord": "",
     "parsedTime": "",
     "recordOrigin": ""
   },
-  "title": {
-    "textEnglish": "A Semi-Automated Methodology For 3D Imaging Of Large Vaulted Ceiling Paintings"
-  }
+  "title": [
+    {
+      "atext": "A Semi-Automated Methodology For 3D Imaging Of Large Vaulted Ceiling Paintings"
+    }
+  ]
 }
