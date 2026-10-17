@@ -30,7 +30,7 @@ dependencies = [
     'nameparser==2.4.2',
     'ordered-set==4.1.0',
     'python-dateutil==2.8.1',
-    'adsingestschema @ git+https://github.com/adsabs/ingest_data_model@v1.0.12',
+    'json_schema @ git+https://github.com/adsabs/ingest_data_model@v1.1.0',
     'validators==0.36.0',
 ]
 

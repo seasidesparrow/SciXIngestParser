@@ -123,10 +123,22 @@ class IngestBase(object):
         Converts parsed metadata dictionary into formal data model. Parsed metadata dictionary should be
         of the following format:
 
-        input_dict: {'abstract': string,
+        input_dict: {'abstract': [{'atext': string,
+                                   'language': string,
+                                   'footnotes': [{'id': string,
+                                                  'label': string,
+                                                  'text': string}],
+                                   'datalinks': [{'title': string,
+                                                  'identifier': string,
+                                                  'dataType': string,
+                                                  'comment': string}]}
+                                 ]
                      'authors': [{'given': string,
                                   'middle': string,
                                   'surname': string,
+                                  'native_surname': string,
+                                  'native_given_name': string,
+                                  'native_lang': string,
                                   'prefix': string,
                                   'suffix': string,
                                   'pubraw': string,
@@ -141,6 +153,9 @@ class IngestBase(object):
                      'contributors': [{'given': string,
                                        'middle': string,
                                        'surname': string,
+                                       'native_surname': string,
+                                       'native_given_name': string,
+                                       'native_lang': string,
                                        'prefix': string,
                                        'suffix': string,
                                        'pubraw': string,
@@ -175,7 +190,7 @@ class IngestBase(object):
                      'issue': string,
                      'keywords': [{'string': string,
                                    'system': string}],
-                     'lang_native': string,
+                     'language': string,
                      'numpages': string,
                      'openAccess': {'open': bool},
                      'page_first': string,
@@ -193,13 +208,21 @@ class IngestBase(object):
                      'series_title': string,
                      'series_id': string,
                      'series_id_description': string,
-                     'sub_lang_native': string,
-                     'subtitle': string,
-                     'subtitle_native': string,
-                     'subtitle_notes': [string],
-                     'title': string,
-                     'title_native': string,
-                     'title_notes': [string],
+                     'subtitle': [{'atext': string,
+                                   'language': string,
+                                   'footnotes': [
+                                       {'id': string,
+                                        'label': string,
+                                        'text': string}]
+                                 }],
+
+                     'title': [{'atext': string,
+                                'language': string,
+                                'footnotes': [
+                                    {'id': string,
+                                     'label': string,
+                                     'text': string}]
+                              }],
                      'volume': string
                     }
 
@@ -337,6 +360,8 @@ class IngestBase(object):
                     "suffix": i.get("suffix", ""),
                     "pubraw": i.get("nameraw", ""),
                     "native_lang": i.get("native_lang", ""),
+                    "native_surname": i.get("native_surname", ""),
+                    "native_given_name": i.get("native_given_name", ""),
                     "collab": i.get("collab", ""),
                 },
                 "affiliation": [
@@ -387,27 +412,33 @@ class IngestBase(object):
             for i in input_dict.get("contributors", [])
         ]
 
-        output["title"] = {
-            "textEnglish": input_dict.get("title", ""),
-            "textNative": input_dict.get("title_native", ""),
-            "langNative": input_dict.get("lang_native", ""),
-            "textNotes": input_dict.get("title_notes", []),
-        }
+        output["title"] = [
+            {
+                "atext": i.get("atext", ""),
+                "language": i.get("language", ""),
+                "footnotes": i.get("footnotes", []),
+            }
+            for i in input_dict.get("title", [])
+        ]
 
-        output["subtitle"] = {
-            "textEnglish": input_dict.get("subtitle", ""),
-            "textNative": input_dict.get("subtitle_native", ""),
-            "langNative": input_dict.get("sub_lang_native", ""),
-            "textNotes": input_dict.get("subtitle_notes", []),
-        }
+        output["subtitle"] = [
+            {
+                "atext": i.get("atext", ""),
+                "language": i.get("language", ""),
+                "footnotes": i.get("footnotes", []),
+            }
+            for i in input_dict.get("subtitle", [])
+        ]
 
-        output["abstract"] = {
-            "textEnglish": input_dict.get(
-                "abstract", ""
-            ),  # TODO need to tweak for case of foreign language abstract
-            # "textNative": "XXX", # TODO
-            # "langNative": "XXX" # TODO
-        }
+        output["abstract"] = [
+            {
+                "atext": i.get("atext", ""),
+                "language": i.get("language", ""),
+                "footnotes": i.get("footnotes", []),
+                "datalinks": i.get("datalinks", []),
+            }
+            for i in input_dict.get("abstract", [])
+        ]
 
         output["comments"] = [
             {"commentOrigin": i.get("origin", ""), "commentText": i.get("text", "")}
@@ -448,15 +479,16 @@ class IngestBase(object):
             for (source, location) in input_dict.get("esources", "")
         ]
 
-        # output["dataLinks"] = [
-        #     {
-        #         "title": "XXX",
-        #         "identifier": "XXX",
-        #         "location": "XXX",
-        #         "dataType": "XXX",
-        #         "comment": "XXX"
-        #     }
-        # ] # TODO need an example
+        output["datalinks"] = [
+            {
+                "title": i.get("title", ""),
+                "identifier": i.get("identifier", ""),
+                "location": i.get("location", ""),
+                "dataType": i.get("dataType", ""),
+                "comment": i.get("comment", "")
+            }
+            for i in input_dict.get("dataLinks", [])
+        ] 
 
         output["doctype"] = input_dict.get("doctype", "")
 
@@ -489,6 +521,8 @@ class IngestBase(object):
         output["funding"] = input_dict.get("funding", [])
         #
         # output["version"] = "XXX" # TODO need an example
+
+        output["language"] = input_dict.get("language", "")
 
         output_clean = self._clean_empty(output)
 

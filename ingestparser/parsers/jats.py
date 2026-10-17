@@ -24,6 +24,7 @@ class JATSAffils(object):
         self.xref_dict = OrderedDict()
         self.xref_xid_dict = OrderedDict()
         self.email_xref = OrderedDict()
+        self.meta_lang = None
         self.output = None
 
     def _decompose(self, soup=None, tag=None):
@@ -783,43 +784,84 @@ class JATSParser(BaseBeautifulSoupParser):
 
         return pubdate
 
+    def _title_notes_xrefs(self, titletag):
+        title_fn_dict = {}
+        title_fn_list = []
+        try:
+            # title footnotes
+            for df in titletag.find_all("fn"):
+                key = df.get("id", None)
+                df = self._remove_latex(df)
+                note = self._detag(df, self.HTML_TAGSET["abstract"]).strip()
+                if key and note:
+                    title_fn_dict[key] = note
+                df.decompose()
+            # title xrefs
+            for dx in titletag.find_all("xref"):
+                key = dx.get("rid", None)
+                if title_fn_dict.get(key, None):
+                    title_fn_list.append(title_fn_dict.get(key, None))
+                dx.decompose()
+            # make footnotes field
+            title_notes = []
+            if title_fn_list:
+                title_notes.extend(title_fn_list)
+            return title_notes
+        except Exception:
+            pass
+
     def _parse_title_abstract(self):
+        self.titledoi = None
         title_fn_dict = {}
         title_fn_list = []
         subtitle_fn_list = []
-        self.titledoi = None
+        art_title = []
+        sub_title = []
         title_group = self.article_meta.find("title-group")
-        art_title = None
-        sub_title = None
         if title_group:
+            article_title_footnotes = self._title_notes_xrefs(title_group)
+
+            self.base_metadata["title"] = []
+            # check for article title -- this is always the primary title
             if title_group.find("article-title"):
+                article_title = title_group.find("article-title").extract()
+                article_title_lang = article_title.get("xml:lang", None)
+                article_title_atext = self._remove_latex(article_title)
+                article_title_atext = self._detag(article_title_atext, self.HTML_TAGSET["title"]).strip()
+                article_title_dict = {"atext": article_title_atext}
+                if article_title_lang:
+                    article_title_dict["language"] = article_title_lang
+                if article_title_footnotes:
+                    article_title_dict["footnotes"] = article_title_footnotes
+                    article_title_footnotes = None
+                self.base_metadata["title"].append(article_title_dict)
+
+            # is there a translated title in title group?
+            if title_group.find("trans-title-group"):
+                trans_title_group = title_group.find("trans-title-group").extract()
+                trans_title = trans_title_group.find("trans-title").extract()
+                trans_title_lang = trans_title.get("xml:lang", None)
+                trans_title_atext = self._remove_latex(trans_title)
+                trans_title_atext = self._detag(trans_title_atext, self.HTML_TAGSET["title"]).strip()
+                trans_title_dict = {"atext": trans_title_atext,
+                                    "language": trans_title_lang}
+                # only add footnotes to trans title dict if article title dict doesn't exist
+                if article_title_footnotes:
+                    trans_title_dict["footnotes"] = article_title_footnotes
+                self.base_metadata["title"].append(trans_title_dict)
+
+
+                #article title may have embedded alt and translated titles
+                alt_title = article_title.find_all("alt-title")
+               
                 title = title_group.find("article-title")
                 if not title or not title.get_text():
                     title = title_group.find("alt-title")
-                for dx in title.find_all("ext-link"):
-                    if dx.find("xlink:href"):
-                        self.titledoi = dx.find("xlink:href")
-                # all title footnotes:
-                for df in title_group.find_all("fn"):
-                    key = df.get("id", None)
-                    df = self._remove_latex(df)
-                    note = self._detag(df, self.HTML_TAGSET["abstract"]).strip()
-                    if key and note:
-                        title_fn_dict[key] = note
-                    df.decompose()
-                # title xrefs
-                for dx in title.find_all("xref"):
-                    key = dx.get("rid", None)
-                    if title_fn_dict.get(key, None):
-                        title_fn_list.append(title_fn_dict.get(key, None))
-                    dx.decompose()
-                # strip latex out of title
-                title = self._remove_latex(title)
-                art_title = self._detag(title, self.HTML_TAGSET["title"]).strip()
-
-                title_notes = []
-                if title_fn_list:
-                    title_notes.extend(title_fn_list)
+                else:
+                    for dx in title.find_all("ext-link"):
+                        if dx.find("xlink:href"):
+                            self.titledoi = dx.find("xlink:href")
+                
 
                 if title_group.find("subtitle"):
                     subtitle = title_group.find("subtitle")
@@ -835,31 +877,35 @@ class JATSParser(BaseBeautifulSoupParser):
                 subtitle_notes = []
                 if subtitle_fn_list:
                     subtitle_notes.extend(subtitle_fn_list)
-            if art_title:
-                self.base_metadata["title"] = art_title
-                if title_notes:
-                    self.base_metadata["title_notes"] = title_notes
-                if sub_title:
-                    self.base_metadata["subtitle"] = sub_title
-                if subtitle_notes:
-                    self.base_metadata["subtitle_notes"] = subtitle_notes
 
-        if self.article_meta.find("abstract"):
-            if self.article_meta.find("abstract").find("p"):
-                abstract_all = self.article_meta.find("abstract").find_all("p")
-                abstract_paragraph_list = list()
-                for paragraph in abstract_all:
-                    paragraph = self._remove_latex(paragraph)
-                    para = self._detag(paragraph, self.HTML_TAGSET["abstract"])
-                    abstract_paragraph_list.append(para)
-                self.base_metadata["abstract"] = "\n".join(abstract_paragraph_list)
-                if title_fn_list:
-                    self.base_metadata["abstract"] += "  " + " ".join(title_fn_list)
-            else:
-                abs_raw = self.article_meta.find("abstract")
-                abs_raw = self._remove_latex(abs_raw)
-                abs_txt = self._detag(abs_raw, self.HTML_TAGSET["abstract"])
-                self.base_metadata["abstract"] = abs_txt
+#-----------------------------end title-------------------------------
+
+        self.base_metadata["abstract"] = []
+        for abstr in ["abstract", "trans-abstract"]:
+            abstract_dict = {}
+            abstr_data = self.article_meta.find(abstr)
+            if abstr_data:
+                language = abstr_data.get("xml:lang", None)
+                if language:
+                    abstract_dict["language"] = language
+                if abstr_data.find_all("p"):
+                    abstract_paragraph_list = list()
+                    for paragraph in abstr_data.find_all("p"):
+                        paragraph = self._remove_latex(paragraph)
+                        para = self._detag(paragraph, self.HTML_TAGSET["abstract"])
+                        abstract_paragraph_list.append(para)
+                    abstract_dict["atext"] = "\n".join(abstract_paragraph_list)
+                    #self.base_metadata["abstract"] = "\n".join(abstract_paragraph_list)
+                    #if title_fn_list:
+                    #    self.base_metadata["abstract"] += "  " + " ".join(title_fn_list)
+                else:
+                    abs_raw = abstr_data
+                    abs_raw = self._remove_latex(abs_raw)
+                    abs_txt = self._detag(abs_raw, self.HTML_TAGSET["abstract"])
+                    abstract_dict["atext"] = abs_txt
+            if abstract_dict:
+                self.base_metadata["abstract"].append(abstract_dict)
+#-----------------------------end abstract-------------------------------
 
     def _parse_author(self):
         auth_affil = JATSAffils()
@@ -1366,6 +1412,13 @@ class JATSParser(BaseBeautifulSoupParser):
             raise XmlLoadException("No <front> or <conf-front> element found")
 
         self.back_meta = document.back
+
+        # get the document language from the header
+        try:
+            self.meta_lang = document.get("xml:lang", "")
+        except:
+            self.meta_lang = ""
+        self.base_metadata["language"] = self.meta_lang
 
         # If a journal
         if front_meta.find("journal-meta"):
