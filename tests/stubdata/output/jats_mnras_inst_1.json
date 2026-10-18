@@ -1,7 +1,9 @@
 {
-  "abstract": {
-    "textEnglish": "OB stars are crucial for our understanding of Galactic structure, star formation, stellar feedback and multiplicity. In this paper we have compiled a census of all OB stars within 1 kpc of the Sun. We performed evolutionary and atmospheric model fits to observed SEDs compiled from astro-photometric survey data. We have characterized and mapped 24,706 O- and B-type stars (<inline-formula><tex-math>$T_{\\rm eff} \\gt 10,000$</tex-math></inline-formula> K) within 1 kpc of the Sun, whose overdensities correspond to well-studied OB associations and massive star-forming regions such as Sco-Cen, Orion OB1, Vela OB2, Cepheus and Circinus. We have assessed the quality of our catalogue by comparing it with spectroscopic samples and similar catalogues of OB(A) stars, as well as catalogues of OB associations, star-forming regions and young open clusters. Finally, we have also exploited our list of OB stars to estimate their scale height (76 <inline-formula><tex-math>$\\pm$</tex-math></inline-formula> 1 pc), a local star formation rate of <inline-formula><tex-math>$2896^{+417}_{-1}$</tex-math></inline-formula> M<inline-formula><tex-math>$_{\\odot }$</tex-math></inline-formula> Myr<inline-formula><tex-math>$^{-1}$</tex-math></inline-formula> and a local core-collapse supernova rate of <inline-formula><tex-math>$\\sim$</tex-math></inline-formula>15\u201330 per Myr. We extrapolate these rates to the entire Milky Way to derive a Galactic SFR of <inline-formula><tex-math>$0.67^{+0.09}_{-0.01}$</tex-math></inline-formula> M<inline-formula><tex-math>$_{\\odot }$</tex-math></inline-formula> yr<inline-formula><tex-math>$^{-1}$</tex-math></inline-formula> and a core-collapse supernova rate of 0.4\u20130.5 per century. These are slightly lower than previous estimates, which we attribute to improvements in our census of OB stars and changes to evolutionary models. We calculate a near-Earth core collapse supernova rate of <inline-formula><tex-math>$\\sim$</tex-math></inline-formula>2.5 per Gyr that supports the view that a nearby supernova explosion could have caused one of the recorded mass extinction events on Earth."
-  },
+  "abstract": [
+    {
+      "atext": "OB stars are crucial for our understanding of Galactic structure, star formation, stellar feedback and multiplicity. In this paper we have compiled a census of all OB stars within 1 kpc of the Sun. We performed evolutionary and atmospheric model fits to observed SEDs compiled from astro-photometric survey data. We have characterized and mapped 24,706 O- and B-type stars (<inline-formula><tex-math>$T_{\\rm eff} \\gt 10,000$</tex-math></inline-formula> K) within 1 kpc of the Sun, whose overdensities correspond to well-studied OB associations and massive star-forming regions such as Sco-Cen, Orion OB1, Vela OB2, Cepheus and Circinus. We have assessed the quality of our catalogue by comparing it with spectroscopic samples and similar catalogues of OB(A) stars, as well as catalogues of OB associations, star-forming regions and young open clusters. Finally, we have also exploited our list of OB stars to estimate their scale height (76 <inline-formula><tex-math>$\\pm$</tex-math></inline-formula> 1 pc), a local star formation rate of <inline-formula><tex-math>$2896^{+417}_{-1}$</tex-math></inline-formula> M<inline-formula><tex-math>$_{\\odot }$</tex-math></inline-formula> Myr<inline-formula><tex-math>$^{-1}$</tex-math></inline-formula> and a local core-collapse supernova rate of <inline-formula><tex-math>$\\sim$</tex-math></inline-formula>15\u201330 per Myr. We extrapolate these rates to the entire Milky Way to derive a Galactic SFR of <inline-formula><tex-math>$0.67^{+0.09}_{-0.01}$</tex-math></inline-formula> M<inline-formula><tex-math>$_{\\odot }$</tex-math></inline-formula> yr<inline-formula><tex-math>$^{-1}$</tex-math></inline-formula> and a core-collapse supernova rate of 0.4\u20130.5 per century. These are slightly lower than previous estimates, which we attribute to improvements in our census of OB stars and changes to evolutionary models. We calculate a near-Earth core collapse supernova rate of <inline-formula><tex-math>$\\sim$</tex-math></inline-formula>2.5 per Gyr that supports the view that a nearby supernova explosion could have caused one of the recorded mass extinction events on Earth."
+    }
+  ],
   "authors": [
     {
       "affiliation": [
@@ -128,6 +130,7 @@
       "keySystem": "misc"
     }
   ],
+  "language": "en",
   "openAccess": {
     "license": "This is an Open Access article distributed under the terms of the Creative Commons Attribution License (https://creativecommons.org/licenses/by/4.0/), which permits unrestricted reuse, distribution, and reproduction in any medium, provided the original work is properly cited.",
     "licenseURL": "https://creativecommons.org/licenses/by/4.0/"
@@ -171,10 +174,13 @@
     }
   ],
   "recordData": {
+    "UUID": "",
     "createdTime": "",
+    "dataType": "",
     "loadFormat": "JATS",
     "loadLocation": "",
     "loadType": "fromFile",
+    "masterRecord": "",
     "parsedTime": "",
     "recordOrigin": ""
   },
@@ -325,7 +331,9 @@
     "<ref id=\"bib144\"> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <string-name name-style=\"western\"> <surname>Zucker</surname> <given-names>C.</given-names> </string-name>, <string-name name-style=\"western\"><surname>Speagle</surname><given-names>J. S.</given-names></string-name>, <string-name name-style=\"western\"><surname>Schlafly</surname><given-names>E. F.</given-names></string-name>, <string-name name-style=\"western\"><surname>Green</surname><given-names>G. M.</given-names></string-name>, <string-name name-style=\"western\"><surname>Finkbeiner</surname><given-names>D. P.</given-names></string-name>, <string-name name-style=\"western\"><surname>Goodman</surname><given-names>A.</given-names></string-name>, <string-name name-style=\"western\"><surname>Alves</surname><given-names>J.</given-names></string-name></person-group>, <year>2020</year>, <source>A&amp;A</source>, <volume>633</volume>, <fpage>A51</fpage><pub-id pub-id-type=\"doi\">10.1051/0004-6361/201936145</pub-id></mixed-citation> </ref>",
     "<ref id=\"bib145\"> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <string-name name-style=\"western\"> <surname>Zucker</surname> <given-names>C.</given-names> </string-name> <etal>et al.</etal> </person-group>, <year>2022</year>, <source>Nature</source>, <volume>601</volume>, <fpage>334</fpage><pub-id pub-id-type=\"doi\">10.1038/s41586-021-04286-5</pub-id></mixed-citation> </ref>"
   ],
-  "title": {
-    "textEnglish": "A census of OB stars within 1 kpc and the star formation and core collapse supernova rates of the Milky Way"
-  }
+  "title": [
+    {
+      "atext": "A census of OB stars within 1 kpc and the star formation and core collapse supernova rates of the Milky Way"
+    }
+  ]
 }

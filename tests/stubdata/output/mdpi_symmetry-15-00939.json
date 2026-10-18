@@ -1,7 +1,9 @@
 {
-  "abstract": {
-    "textEnglish": "One of the most important problems in the study of geometric function theory is knowing how to obtain the sharp bounds of the coefficients that appear in the Taylor\u2013Maclaurin series of univalent functions. In the present investigation, our aim is to calculate some sharp estimates of problems involving coefficients for the family of convex functions with respect to symmetric points and associated with a hyperbolic tangent function. These problems include the first four initial coefficients, the Fekete\u2013Szeg\u00f6 and Zalcman inequalities, and the second-order Hankel determinant. Additionally, the inverse and logarithmic coefficients of the functions belonging to the defined class are also studied in relation to the current problems."
-  },
+  "abstract": [
+    {
+      "atext": "One of the most important problems in the study of geometric function theory is knowing how to obtain the sharp bounds of the coefficients that appear in the Taylor\u2013Maclaurin series of univalent functions. In the present investigation, our aim is to calculate some sharp estimates of problems involving coefficients for the family of convex functions with respect to symmetric points and associated with a hyperbolic tangent function. These problems include the first four initial coefficients, the Fekete\u2013Szeg\u00f6 and Zalcman inequalities, and the second-order Hankel determinant. Additionally, the inverse and logarithmic coefficients of the functions belonging to the defined class are also studied in relation to the current problems."
+    }
+  ],
   "authors": [
     {
       "affiliation": [
@@ -104,6 +106,7 @@
       "keySystem": "misc"
     }
   ],
+  "language": "en",
   "openAccess": {
     "license": "Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (https://creativecommons.org/licenses/by/4.0/).",
     "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
@@ -151,10 +154,13 @@
     }
   ],
   "recordData": {
+    "UUID": "",
     "createdTime": "",
+    "dataType": "",
     "loadFormat": "JATS",
     "loadLocation": "",
     "loadType": "fromFile",
+    "masterRecord": "",
     "parsedTime": "",
     "recordOrigin": ""
   },
@@ -220,7 +226,9 @@
     "<ref id=\"B59-symmetry-15-00939\"> <label>59.</label> <element-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Shi</surname> <given-names>L.</given-names> </name> <name> <surname>Arif</surname> <given-names>M.</given-names> </name> <name> <surname>Abbas</surname> <given-names>M.</given-names> </name> <name> <surname>Ihsan</surname> <given-names>M.</given-names> </name> </person-group> <article-title>Sharp bounds of Hankel determinant for the inverse functions on a subclass of bounded turning functions</article-title> <source>Mediterr. J. Math.</source> <year>2023</year> <volume>20</volume> <fpage>156</fpage> <pub-id pub-id-type=\"doi\">10.1007/s00009-023-02371-9</pub-id> </element-citation> </ref>",
     "<ref id=\"B60-symmetry-15-00939\"> <label>60.</label> <element-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Shi</surname> <given-names>L.</given-names> </name> <name> <surname>Srivastava</surname> <given-names>H.M.</given-names> </name> <name> <surname>Rafiq</surname> <given-names>A.</given-names> </name> <name> <surname>Arif</surname> <given-names>M.</given-names> </name> <name> <surname>Ihsan</surname> <given-names>M.</given-names> </name> </person-group> <article-title>Results on Hankel determinants for the inverse of certain analytic functions subordinated to the exponential function</article-title> <source>Mathematics</source> <year>2022</year> <volume>10</volume> <elocation-id>3429</elocation-id> <pub-id pub-id-type=\"doi\">10.3390/math10193429</pub-id> </element-citation> </ref>"
   ],
-  "title": {
-    "textEnglish": "Results on Second-Order Hankel Determinants for Convex Functions with Symmetric Points"
-  }
+  "title": [
+    {
+      "atext": "Results on Second-Order Hankel Determinants for Convex Functions with Symmetric Points"
+    }
+  ]
 }

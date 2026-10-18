@@ -1,7 +1,10 @@
 {
-  "abstract": {
-    "textEnglish": "A Gamma Variant RBD-based aluminum hydroxide adjuvanted vaccine called ARVAC CG was selected for a first in human clinical trial. Healthy male and female participants (18-55 years old) with a complete COVID-19-primary vaccine scheme were assigned to receive two intramuscular doses of either a low-dose or a high-dose of ARVAC CG. The primary endpoint was safety. The secondary objective was humoral immunogenicity. Cellular immune responses were studied as an exploratory objective. The trial was prospectively registered in PRIISA.BA (Registration Code 6564) and ANMAT and retrospectively registered in ClinicalTrials.gov (NCT05656508). Samples from participants of a surveillance strategy implemented by the Ministry of Health of the Province of Buenos Aires that were boosted with BNT162b2 were also analyzed to compare with the booster effect of ARVAC CG. ARVAC CG exhibits a satisfactory safety profile, a robust and broad booster response of neutralizing antibodies against the Ancestral strain of SARS-CoV-2 and the Gamma, Delta, Omicron BA.1 and Omicron BA.5 variants of concern and a booster effect on T cell immunity in individuals previously immunized with different COVID-19 vaccine platforms."
-  },
+  "abstract": [
+    {
+      "atext": "A Gamma Variant RBD-based aluminum hydroxide adjuvanted vaccine called ARVAC CG was selected for a first in human clinical trial. Healthy male and female participants (18-55 years old) with a complete COVID-19-primary vaccine scheme were assigned to receive two intramuscular doses of either a low-dose or a high-dose of ARVAC CG. The primary endpoint was safety. The secondary objective was humoral immunogenicity. Cellular immune responses were studied as an exploratory objective. The trial was prospectively registered in PRIISA.BA (Registration Code 6564) and ANMAT and retrospectively registered in ClinicalTrials.gov (NCT05656508). Samples from participants of a surveillance strategy implemented by the Ministry of Health of the Province of Buenos Aires that were boosted with BNT162b2 were also analyzed to compare with the booster effect of ARVAC CG. ARVAC CG exhibits a satisfactory safety profile, a robust and broad booster response of neutralizing antibodies against the Ancestral strain of SARS-CoV-2 and the Gamma, Delta, Omicron BA.1 and Omicron BA.5 variants of concern and a booster effect on T cell immunity in individuals previously immunized with different COVID-19 vaccine platforms.",
+      "language": "en"
+    }
+  ],
   "authors": [
     {
       "affiliation": [
@@ -827,6 +830,7 @@
       "agencyname": "Laboratorio Pablo Cassara"
     }
   ],
+  "language": "en",
   "openAccess": {
     "license": "Open Access This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, and indicate if changes were made. The images or other third party material in this article are included in the article\u2019s Creative Commons license, unless indicated otherwise in a credit line to the material. If material is not included in the article\u2019s Creative Commons license and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/.",
     "licenseURL": "http://creativecommons.org/licenses/by/4.0/",
@@ -873,10 +877,13 @@
     }
   ],
   "recordData": {
+    "UUID": "",
     "createdTime": "",
+    "dataType": "",
     "loadFormat": "JATS",
     "loadLocation": "",
     "loadType": "fromFile",
+    "masterRecord": "",
     "parsedTime": "",
     "recordOrigin": ""
   },
@@ -913,7 +920,10 @@
     "<ref id=\"CR30\"> <label>30.</label> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Varese</surname> <given-names>A</given-names> </name> <etal/> </person-group> <article-title xml:lang=\"en\">Omicron Breakthrough Infection After Heterologous Prime-Boost Vaccination Induces a Vigorous Antibody Response</article-title> <source>J. Infect. Dis.</source> <year>2022</year> <volume>226</volume> <fpage>1717</fpage> <lpage>1720</lpage> <pub-id pub-id-type=\"coi\">1:CAS:528:DC%2BB3sXptFart7w%3D</pub-id> <pub-id pub-id-type=\"doi\">10.1093/infdis/jiac250</pub-id> <pub-id pub-id-type=\"pmid\">35723970</pub-id> </mixed-citation> </ref>",
     "<ref id=\"CR31\"> <label>31.</label> <mixed-citation publication-type=\"other\">World_Health_Organization. WHO manual for the establishment of national and other secondary standards for antibodies against infectious agents focusing on SARSCoV2. (World Health Organization, 2022).</mixed-citation> </ref>"
   ],
-  "title": {
-    "textEnglish": "Safety and immunogenicity of a SARS-CoV-2 Gamma variant RBD-based protein adjuvanted vaccine used as booster in healthy adults"
-  }
+  "title": [
+    {
+      "atext": "Safety and immunogenicity of a SARS-CoV-2 Gamma variant RBD-based protein adjuvanted vaccine used as booster in healthy adults",
+      "language": "en"
+    }
+  ]
 }

@@ -1,7 +1,9 @@
 {
-  "abstract": {
-    "textEnglish": "Radioactive nuclei were present in the early solar system (ESS), as inferred from analysis of meteorites. Many are produced in massive stars, either during their lives or their final explosions. In the first paper of this series (Brinkman et al. 2019), we focused on the production of <sup>26</sup>Al in massive binaries. Here, we focus on the production of another two short-lived radioactive nuclei, <sup>36</sup>Cl and <sup>41</sup>Ca, and the comparison to the ESS data. We used the MESA stellar evolution code with an extended nuclear network and computed massive (10\u201380 M <sub>\u2299</sub>), rotating (with initial velocities of 150 and 300 km s<sup>\u22121</sup>) and nonrotating single stars at solar metallicity (Z = 0.014) up to the onset of core collapse. We present the wind yields for the radioactive isotopes <sup>26</sup>Al, <sup>36</sup>Cl, and <sup>41</sup>Ca, and the stable isotopes <sup>19</sup>F and <sup>22</sup>Ne. In relation to the stable isotopes, we find that only the most massive models, \u226560 and \u226540 M <sub>\u2299</sub> give positive <sup>19</sup>F and <sup>22</sup>Ne yields, respectively, depending on the initial rotation rate. In relation to the radioactive isotopes, we find that the ESS abundances of <sup>26</sup>Al and <sup>41</sup>Ca can be matched with by models with initial masses \u226540 M <sub>\u2299</sub>, while <sup>36</sup>Cl is matched only by our most massive models, \u226560 M <sub>\u2299</sub>. <sup>60</sup>Fe is not significantly produced by any wind model, as required by the observations. Therefore, massive star winds are a favored candidate for the origin of the very short-lived <sup>26</sup>Al, <sup>36</sup>Cl, and <sup>41</sup>Ca in the ESS."
-  },
+  "abstract": [
+    {
+      "atext": "Radioactive nuclei were present in the early solar system (ESS), as inferred from analysis of meteorites. Many are produced in massive stars, either during their lives or their final explosions. In the first paper of this series (Brinkman et al. 2019), we focused on the production of <sup>26</sup>Al in massive binaries. Here, we focus on the production of another two short-lived radioactive nuclei, <sup>36</sup>Cl and <sup>41</sup>Ca, and the comparison to the ESS data. We used the MESA stellar evolution code with an extended nuclear network and computed massive (10\u201380 M <sub>\u2299</sub>), rotating (with initial velocities of 150 and 300 km s<sup>\u22121</sup>) and nonrotating single stars at solar metallicity (Z = 0.014) up to the onset of core collapse. We present the wind yields for the radioactive isotopes <sup>26</sup>Al, <sup>36</sup>Cl, and <sup>41</sup>Ca, and the stable isotopes <sup>19</sup>F and <sup>22</sup>Ne. In relation to the stable isotopes, we find that only the most massive models, \u226560 and \u226540 M <sub>\u2299</sub> give positive <sup>19</sup>F and <sup>22</sup>Ne yields, respectively, depending on the initial rotation rate. In relation to the radioactive isotopes, we find that the ESS abundances of <sup>26</sup>Al and <sup>41</sup>Ca can be matched with by models with initial masses \u226540 M <sub>\u2299</sub>, while <sup>36</sup>Cl is matched only by our most massive models, \u226560 M <sub>\u2299</sub>. <sup>60</sup>Fe is not significantly produced by any wind model, as required by the observations. Therefore, massive star winds are a favored candidate for the origin of the very short-lived <sup>26</sup>Al, <sup>36</sup>Cl, and <sup>41</sup>Ca in the ESS."
+    }
+  ],
   "authors": [
     {
       "affiliation": [
@@ -145,6 +147,7 @@
       "keySystem": "UAT"
     }
   ],
+  "language": "en",
   "openAccess": {
     "license": "This article is available under the terms of the IOP-Standard License."
   },
@@ -193,10 +196,13 @@
     }
   ],
   "recordData": {
+    "UUID": "",
     "createdTime": "",
+    "dataType": "",
     "loadFormat": "JATS",
     "loadLocation": "",
     "loadType": "fromFile",
+    "masterRecord": "",
     "parsedTime": "",
     "recordOrigin": ""
   },
@@ -284,7 +290,9 @@
     "<ref id=\"apjac25eabib81\"><element-citation publication-type=\"journal\" xlink:type=\"simple\"><person-group person-group-type=\"author\"> <name name-style=\"western\"><surname>Wasserburg</surname><given-names>G. J.</given-names></name> <name name-style=\"western\"><surname>Busso</surname><given-names>M.</given-names></name> <name name-style=\"western\"><surname>Gallino</surname><given-names>R.</given-names></name> <name name-style=\"western\"><surname>Nollett</surname><given-names>K. M.</given-names></name> </person-group><year>2006</year><source>NuPhA</source><volume>777</volume><fpage>5</fpage><ext-link ext-link-type=\"bibcode\" xlink:type=\"simple\">2006NuPhA.777....5W</ext-link><pub-id pub-id-type=\"doi\">10.1016/j.nuclphysa.2005.07.015</pub-id></element-citation></ref>",
     "<ref id=\"apjac25eabib82\"><element-citation publication-type=\"journal\" xlink:type=\"simple\"><person-group person-group-type=\"author\"> <name name-style=\"western\"><surname>Young</surname><given-names>E. D.</given-names></name> </person-group><year>2014</year><source>E&amp;PSL</source><volume>392</volume><fpage>16</fpage><ext-link ext-link-type=\"bibcode\" xlink:type=\"simple\">2014E&amp;PSL.392...16Y</ext-link><pub-id pub-id-type=\"doi\">10.1016/j.epsl.2014.02.014</pub-id></element-citation></ref>"
   ],
-  "title": {
-    "textEnglish": "<sup>26</sup>Aluminum from Massive Binary Stars. II. Rotating Single Stars Up to Core Collapse and Their Impact on the Early Solar System"
-  }
+  "title": [
+    {
+      "atext": "<sup>26</sup>Aluminum from Massive Binary Stars. II. Rotating Single Stars Up to Core Collapse and Their Impact on the Early Solar System"
+    }
+  ]
 }

@@ -1,7 +1,10 @@
 {
-  "abstract": {
-    "textEnglish": "Gestational diabetes mellitus (GDM) plus rectus abdominis muscle (RAM) myopathy predicts long-term urinary incontinence (UI). Atrophic and stiff RAM are characteristics of diabetes-induced myopathy (DiM) in pregnant rats. This study aimed to determine whether swimming exercise (SE) has a therapeutic effect in mild hyperglycemic pregnant rats model. We hypothesized that SE training might help to reverse RAM DiM. Mild hyperglycemic pregnant rats model was obtained by a unique subcutaneous injection of 100 mg/kg streptozotocin (diabetic group) or citrate buffer (non-diabetic group) on the first day of life in Wistar female newborns. At 90 days of life, the rats are mated and randomly allocated to remain sedentary or subjected to a SE protocol. The SE protocol started at gestational day 0 and consisted of 60 min/day for 6 days/week in a period of 20 days in a swim tunnel. On day 21, rats were sacrificed, and RAM was collected and studied by picrosirius red, immunohistochemistry, and transmission electron microscopy. The SE protocol increased the fiber area and diameter, and the slow-twitch and fast-twitch fiber area and diameter in the diabetic exercised group, a finding was also seen in control sedentary animals. There was a decreased type I collagen but not type III collagen area and showed a similar type I/type III ratio compared with the control sedentary group. In conclusion, SE during pregnancy reversed the RAM DiM in pregnant rats. These findings may be a potential protocol to consider in patients with RAM damage caused by GDM."
-  },
+  "abstract": [
+    {
+      "atext": "Gestational diabetes mellitus (GDM) plus rectus abdominis muscle (RAM) myopathy predicts long-term urinary incontinence (UI). Atrophic and stiff RAM are characteristics of diabetes-induced myopathy (DiM) in pregnant rats. This study aimed to determine whether swimming exercise (SE) has a therapeutic effect in mild hyperglycemic pregnant rats model. We hypothesized that SE training might help to reverse RAM DiM. Mild hyperglycemic pregnant rats model was obtained by a unique subcutaneous injection of 100 mg/kg streptozotocin (diabetic group) or citrate buffer (non-diabetic group) on the first day of life in Wistar female newborns. At 90 days of life, the rats are mated and randomly allocated to remain sedentary or subjected to a SE protocol. The SE protocol started at gestational day 0 and consisted of 60 min/day for 6 days/week in a period of 20 days in a swim tunnel. On day 21, rats were sacrificed, and RAM was collected and studied by picrosirius red, immunohistochemistry, and transmission electron microscopy. The SE protocol increased the fiber area and diameter, and the slow-twitch and fast-twitch fiber area and diameter in the diabetic exercised group, a finding was also seen in control sedentary animals. There was a decreased type I collagen but not type III collagen area and showed a similar type I/type III ratio compared with the control sedentary group. In conclusion, SE during pregnancy reversed the RAM DiM in pregnant rats. These findings may be a potential protocol to consider in patients with RAM damage caused by GDM.",
+      "language": "en"
+    }
+  ],
   "authors": [
     {
       "affiliation": [
@@ -2265,6 +2268,7 @@
       "awardnumber": "1190316"
     }
   ],
+  "language": "en",
   "openAccess": {
     "license": "Open Access This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article's Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article's Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit http://creativecommons.org/licenses/by/4.0/.",
     "licenseURL": "http://creativecommons.org/licenses/by/4.0/",
@@ -2311,10 +2315,13 @@
     }
   ],
   "recordData": {
+    "UUID": "",
     "createdTime": "",
+    "dataType": "",
     "loadFormat": "JATS",
     "loadLocation": "",
     "loadType": "fromFile",
+    "masterRecord": "",
     "parsedTime": "",
     "recordOrigin": ""
   },
@@ -2371,7 +2378,10 @@
     "<ref id=\"CR50\"> <label>50.</label> <mixed-citation publication-type=\"other\">Damasceno, D.C., Kempinas, W.G., Volpato, G.T., Consoni, M., Rudge, M.V.C., Paumgartten, F. \t\t\t\t\t\t<italic>Anomalias Cong\u00eanitas</italic> <italic>: </italic> <italic>Estudos Experimentais</italic>. (Coopmed, 2008). \t\t\t\t\t</mixed-citation> </ref>",
     "<ref id=\"CR51\"> <label>51.</label> <mixed-citation publication-type=\"other\">Nascimento, L. Avalia\u00e7\u00e3o de diferentes modelos de indu\u00e7\u00e3o do diabete moderado em ratas Wistar e suas repercuss\u00f5es no organismo materno-fetal. (2014).</mixed-citation> </ref>"
   ],
-  "title": {
-    "textEnglish": "Reversal of diabetic-induced myopathy by swimming exercise in pregnant rats: a translational intervention study"
-  }
+  "title": [
+    {
+      "atext": "Reversal of diabetic-induced myopathy by swimming exercise in pregnant rats: a translational intervention study",
+      "language": "en"
+    }
+  ]
 }

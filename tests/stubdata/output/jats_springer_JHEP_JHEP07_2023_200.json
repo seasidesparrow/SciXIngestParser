@@ -1,7 +1,10 @@
 {
-  "abstract": {
-    "textEnglish": "This article reports measurements of the angle between differently defined jet axes in pp collisions at <inline-formula> <mml:math> <mml:msqrt> <mml:mi>s</mml:mi> </mml:msqrt> </mml:math> </inline-formula> = 5 .02 TeV carried out by the ALICE Collaboration. Charged particles at midrapidity are clustered into jets with resolution parameters R = 0 .2 and 0.4. The jet axis, before and after Soft Drop grooming, is compared to the jet axis from the Winner-Takes-All (WTA) recombination scheme. The angle between these axes, \u2206 R <sub>axis</sub>, probes a wide phase space of the jet formation and evolution, ranging from the initial high-momentum-transfer scattering to the hadronization process. The \u2206 R <sub>axis</sub> observable is presented for 20 < <inline-formula> <mml:math> <mml:msubsup> <mml:mi>p</mml:mi> <mml:mi>T</mml:mi> <mml:mrow> <mml:mi>ch</mml:mi> <mml:mspace></mml:mspace> <mml:mi>jet</mml:mi> </mml:mrow> </mml:msubsup> </mml:math> </inline-formula> < 100 GeV/ c, and compared to predictions from the PYTHIA 8 and Herwig 7 event generators. The distributions can also be calculated analytically with a leading hadronization correction related to the non-perturbative component of the Collins-Soper-Sterman (CSS) evolution kernel. Comparisons to analytical predictions at next-to-leading-logarithmic accuracy with leading hadronization correction implemented from experimental extractions of the CSS kernel in Drell-Yan measurements are presented. The analytical predictions describe the measured data within 20% in the perturbative regime, with surprising agreement in the non-perturbative regime as well. These results are compatible with the universality of the CSS kernel in the context of jet substructure.\n"
-  },
+  "abstract": [
+    {
+      "atext": "This article reports measurements of the angle between differently defined jet axes in pp collisions at <inline-formula> <mml:math> <mml:msqrt> <mml:mi>s</mml:mi> </mml:msqrt> </mml:math> </inline-formula> = 5 .02 TeV carried out by the ALICE Collaboration. Charged particles at midrapidity are clustered into jets with resolution parameters R = 0 .2 and 0.4. The jet axis, before and after Soft Drop grooming, is compared to the jet axis from the Winner-Takes-All (WTA) recombination scheme. The angle between these axes, \u2206 R <sub>axis</sub>, probes a wide phase space of the jet formation and evolution, ranging from the initial high-momentum-transfer scattering to the hadronization process. The \u2206 R <sub>axis</sub> observable is presented for 20 &lt; <inline-formula> <mml:math> <mml:msubsup> <mml:mi>p</mml:mi> <mml:mi>T</mml:mi> <mml:mrow> <mml:mi>ch</mml:mi> <mml:mspace></mml:mspace> <mml:mi>jet</mml:mi> </mml:mrow> </mml:msubsup> </mml:math> </inline-formula> &lt; 100 GeV/ c, and compared to predictions from the PYTHIA 8 and Herwig 7 event generators. The distributions can also be calculated analytically with a leading hadronization correction related to the non-perturbative component of the Collins-Soper-Sterman (CSS) evolution kernel. Comparisons to analytical predictions at next-to-leading-logarithmic accuracy with leading hadronization correction implemented from experimental extractions of the CSS kernel in Drell-Yan measurements are presented. The analytical predictions describe the measured data within 20% in the perturbative regime, with surprising agreement in the non-perturbative regime as well. These results are compatible with the universality of the CSS kernel in the context of jet substructure.\n",
+      "language": "en"
+    }
+  ],
   "authors": [
     {
       "attrib": {
@@ -20880,6 +20883,7 @@
       "keySystem": "misc"
     }
   ],
+  "language": "en",
   "openAccess": {
     "license": "Open Access. This article is distributed under the terms of the Creative Commons Attribution License ( CC-BY 4.0), which permits any use, distribution and reproduction in any medium, provided the original author(s) and source are credited.",
     "licenseURL": "http://creativecommons.org/licenses/by/4.0/",
@@ -20926,10 +20930,13 @@
     }
   ],
   "recordData": {
+    "UUID": "",
     "createdTime": "",
+    "dataType": "",
     "loadFormat": "JATS",
     "loadLocation": "",
     "loadType": "fromFile",
+    "masterRecord": "",
     "parsedTime": "",
     "recordOrigin": ""
   },
@@ -21013,7 +21020,10 @@
     "<ref id=\"CR77\"> <label>[77]</label> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Kang</surname> <given-names>Z-B</given-names> </name> <name> <surname>Ringer</surname> <given-names>F</given-names> </name> <name> <surname>Vitev</surname> <given-names>I</given-names> </name> </person-group> <article-title xml:lang=\"en\"> <italic>The semi-inclusive jet function in SCET and small radius resummation for inclusive jet production</italic> </article-title> <source>JHEP</source> <year>2016</year> <volume>10</volume> <fpage>125</fpage> <pub-id pub-id-type=\"bibcode\">2016JHEP...10..125K</pub-id> <pub-id pub-id-type=\"doi\">10.1007/JHEP10(2016)125</pub-id> <comment>[arXiv:1606.06732] [INSPIRE]</comment> </mixed-citation> </ref>",
     "<ref id=\"CR78\"> <label>[78]</label> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Gieseke</surname> <given-names>S</given-names> </name> <name> <surname>Rohr</surname> <given-names>C</given-names> </name> <name> <surname>Siodmok</surname> <given-names>A</given-names> </name> </person-group> <article-title xml:lang=\"en\"> <italic>Colour reconnections in Herwig++</italic> </article-title> <source>Eur. Phys. J. C</source> <year>2012</year> <volume>72</volume> <fpage>2225</fpage> <pub-id pub-id-type=\"bibcode\">2012EPJC...72.2225G</pub-id> <pub-id pub-id-type=\"doi\">10.1140/epjc/s10052-012-2225-5</pub-id> <comment>[arXiv:1206.0041] [INSPIRE]</comment> </mixed-citation> </ref>"
   ],
-  "title": {
-    "textEnglish": "Measurement of the angle between jet axes in pp collisions at <inline-formula> <mml:math> <mml:msqrt> <mml:mi>s</mml:mi> </mml:msqrt> </mml:math> </inline-formula> = 5 .02 TeV"
-  }
+  "title": [
+    {
+      "atext": "Measurement of the angle between jet axes in pp collisions at <inline-formula> <mml:math> <mml:msqrt> <mml:mi>s</mml:mi> </mml:msqrt> </mml:math> </inline-formula> = 5 .02 TeV",
+      "language": "en"
+    }
+  ]
 }

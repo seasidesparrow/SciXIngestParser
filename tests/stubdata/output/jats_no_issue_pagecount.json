@@ -1,7 +1,9 @@
 {
-  "abstract": {
-    "textEnglish": "Flexible electronics have attracted increasing attention and are extensively used in medical care and health monitoring applications. However, research on their applications in low-temperature environments is limited, mainly owing to material intrinsic limitation. In this work, a cryogenic pressure sensor using low-melting (\u221271 \u00b0C) ionic liquid 1-butyl-3-methylimidazolium tetrafluoroborate ([BMIM]BF4) is fabricated via the template removal method. The sensor unit can function at temperatures ranging from \u221250 to 30 \u00b0C, with improved sensing performance at lower temperatures. At \u221250 \u00b0C, it demonstrates an ultralow detection limit of 0.5 Pa and a high sensitivity of 2.0 \u00d7 10 <sup>5</sup> \u03a9/kPa, thereby enabling the detection of dynamic pressure loads with different frequencies (0.2 to 2 Hz) and waveforms (sine and triangle). Subsequently, these units are integrated into a 3 \u00d7 3 array and embedded into a bionic thumb. The sensor can accurately identify up to 9 independent touch points and recognize dynamic sliding with velocities in the range of 0.31 to 4.42 cm/s at an extremely low temperature (\u221250 \u00b0C), thus demonstrating remarkable multitouch and sliding trajectory recognition capabilities. Furthermore, the proposed sensor unit is expected to contribute to the research on the human\u2013machine interface of space suits."
-  },
+  "abstract": [
+    {
+      "atext": "Flexible electronics have attracted increasing attention and are extensively used in medical care and health monitoring applications. However, research on their applications in low-temperature environments is limited, mainly owing to material intrinsic limitation. In this work, a cryogenic pressure sensor using low-melting (\u221271 \u00b0C) ionic liquid 1-butyl-3-methylimidazolium tetrafluoroborate ([BMIM]BF4) is fabricated via the template removal method. The sensor unit can function at temperatures ranging from \u221250 to 30 \u00b0C, with improved sensing performance at lower temperatures. At \u221250 \u00b0C, it demonstrates an ultralow detection limit of 0.5 Pa and a high sensitivity of 2.0 \u00d7 10 <sup>5</sup> \u03a9/kPa, thereby enabling the detection of dynamic pressure loads with different frequencies (0.2 to 2 Hz) and waveforms (sine and triangle). Subsequently, these units are integrated into a 3 \u00d7 3 array and embedded into a bionic thumb. The sensor can accurately identify up to 9 independent touch points and recognize dynamic sliding with velocities in the range of 0.31 to 4.42 cm/s at an extremely low temperature (\u221250 \u00b0C), thus demonstrating remarkable multitouch and sliding trajectory recognition capabilities. Furthermore, the proposed sensor unit is expected to contribute to the research on the human\u2013machine interface of space suits."
+    }
+  ],
   "authors": [
     {
       "affiliation": [
@@ -159,6 +161,7 @@
       "awardnumber": "KQTD20170809110344233 and KQTD20200820113045083"
     }
   ],
+  "language": "EN",
   "openAccess": {
     "license": "Exclusive licensee Beijing Institute of Aerospace Control Devices. No claim to original U.S. Government Works. Distributed under a Creative Commons Attribution License 4.0 (CC BY 4.0).",
     "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
@@ -200,10 +203,13 @@
     }
   ],
   "recordData": {
+    "UUID": "",
     "createdTime": "",
+    "dataType": "",
     "loadFormat": "JATS",
     "loadLocation": "",
     "loadType": "fromFile",
+    "masterRecord": "",
     "parsedTime": "",
     "recordOrigin": ""
   },
@@ -252,7 +258,9 @@
     "<ref id=\"B42\"> <label>42.</label> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <string-name name-style=\"western\"> <surname>Valkenburg</surname> <given-names>MEV</given-names> </string-name>,  \t\t\t\t\t\t<string-name name-style=\"western\"> <surname>Vaughn</surname> <given-names>RL</given-names> </string-name>,  \t\t\t\t\t\t<string-name name-style=\"western\"> <surname>Williams</surname> <given-names>M</given-names> </string-name>,  \t\t\t\t\t\t<string-name name-style=\"western\"> <surname>Wilkes</surname> <given-names>JS</given-names> </string-name> </person-group>.   \t\t\t\t\t<article-title>Thermochemistry of ionic liquid heat-transfer fluids</article-title>.  \t\t\t\t\t<source>Thermochim Acta</source>.  \t\t\t\t\t<year>2005</year>;  \t\t\t\t\t<volume>425</volume>(  \t\t\t\t\t<issue>1\u20132</issue>):  \t\t\t\t\t<fpage>181</fpage>\u2013  \t\t\t\t\t<lpage>188</lpage>.  \t\t\t\t</mixed-citation> </ref>",
     "<ref id=\"B43\"> <label>43.</label> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <string-name name-style=\"western\"> <surname>Jiang</surname> <given-names>N</given-names> </string-name>,  \t\t\t\t\t\t<string-name name-style=\"western\"> <surname>Hu</surname> <given-names>D</given-names> </string-name>,  \t\t\t\t\t\t<string-name name-style=\"western\"> <surname>Xu</surname> <given-names>Y</given-names> </string-name>,  \t\t\t\t\t\t<string-name name-style=\"western\"> <surname>Chen</surname> <given-names>J</given-names> </string-name>,  \t\t\t\t\t\t<string-name name-style=\"western\"> <surname>Chang</surname> <given-names>X</given-names> </string-name>,  \t\t\t\t\t\t<string-name name-style=\"western\"> <surname>Zhu</surname> <given-names>Y</given-names> </string-name>,  \t\t\t\t\t\t<string-name name-style=\"western\"> <surname>Li</surname> <given-names>Y</given-names> </string-name>,  \t\t\t\t\t\t<string-name name-style=\"western\"> <surname>Guo</surname> <given-names>Z</given-names> </string-name> </person-group>.   \t\t\t\t\t<article-title>Ionic liquid enabled flexible transparent polydimethylsiloxane sensors for both strain and temperature sensing</article-title>.  \t\t\t\t\t<source>Adv Compos Hybrid Mater</source>.  \t\t\t\t\t<year>2021</year>;  \t\t\t\t\t<volume>4</volume>(  \t\t\t\t\t<issue>3</issue>):  \t\t\t\t\t<fpage>574</fpage>\u2013  \t\t\t\t\t<lpage>583</lpage>.  \t\t\t\t</mixed-citation> </ref>"
   ],
-  "title": {
-    "textEnglish": "Additively Manufactured Flexible Electronics Filled with Ionic Liquid for Cryogenic Pressure Sensing"
-  }
+  "title": [
+    {
+      "atext": "Additively Manufactured Flexible Electronics Filled with Ionic Liquid for Cryogenic Pressure Sensing"
+    }
+  ]
 }

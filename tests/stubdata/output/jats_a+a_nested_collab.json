@@ -1,7 +1,10 @@
 {
-  "abstract": {
-    "textEnglish": "Future data provided by the Euclid mission will allow us to better understand the cosmic history of the Universe. A metric of its performance is the figure-of-merit (FoM) of dark energy, usually estimated with Fisher forecasts. The expected FoM has previously been estimated taking into account the two main probes of Euclid, namely the three-dimensional clustering of the spectroscopic galaxy sample, and the so-called 3\u00d72pt signal from the photometric sample (i.e., the weak lensing signal, the galaxy clustering, and their cross-correlation). So far, these two probes have been treated as independent. In this paper, we introduce a new observable given by the ratio of the (angular) two-point correlation function of galaxies from the two surveys. For identical (normalised) selection functions, this observable is unaffected by sampling noise, and its variance is solely controlled by Poisson noise. We present forecasts for Euclid where this multi-tracer method is applied and is particularly relevant because the two surveys will cover the same area of the sky. This method allows for the exploitation of the combination of the spectroscopic and photometric samples. When the correlation between this new observable and the other probes is not taken into account, a significant gain is obtained in the FoM, as well as in the constraints on other cosmological parameters. The benefit is more pronounced for a commonly investigated modified gravity model, namely the \u03b3 parametrisation of the growth factor. However, the correlation between the different probes is found to be significant and hence the actual gain is uncertain. We present various strategies for circumventing this issue and still extract useful information from the new observable."
-  },
+  "abstract": [
+    {
+      "atext": "Future data provided by the Euclid mission will allow us to better understand the cosmic history of the Universe. A metric of its performance is the figure-of-merit (FoM) of dark energy, usually estimated with Fisher forecasts. The expected FoM has previously been estimated taking into account the two main probes of Euclid, namely the three-dimensional clustering of the spectroscopic galaxy sample, and the so-called 3\u00d72pt signal from the photometric sample (i.e., the weak lensing signal, the galaxy clustering, and their cross-correlation). So far, these two probes have been treated as independent. In this paper, we introduce a new observable given by the ratio of the (angular) two-point correlation function of galaxies from the two surveys. For identical (normalised) selection functions, this observable is unaffected by sampling noise, and its variance is solely controlled by Poisson noise. We present forecasts for Euclid where this multi-tracer method is applied and is particularly relevant because the two surveys will cover the same area of the sky. This method allows for the exploitation of the combination of the spectroscopic and photometric samples. When the correlation between this new observable and the other probes is not taken into account, a significant gain is obtained in the FoM, as well as in the constraints on other cosmological parameters. The benefit is more pronounced for a commonly investigated modified gravity model, namely the \u03b3 parametrisation of the growth factor. However, the correlation between the different probes is found to be significant and hence the actual gain is uncertain. We present various strategies for circumventing this issue and still extract useful information from the new observable.",
+      "language": "en"
+    }
+  ],
   "authors": [
     {
       "attrib": {
@@ -4194,11 +4197,25 @@
       "keySystem": "misc"
     }
   ],
+  "language": "en",
   "openAccess": {
     "license": "Open Access article, published by EDP Sciences, under the terms of the Creative Commons Attribution License ( https://creativecommons.org/licenses/by/4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.",
     "licenseURL": "https://www.edpsciences.org/en/",
     "open": true
   },
+  "otherContributor": [
+    {
+      "contrib": {
+        "attrib": {
+          "collab": true
+        },
+        "name": {
+          "collab": "Euclid Collaboration"
+        }
+      },
+      "role": "collab"
+    }
+  ],
   "pagination": {
     "electronicID": "A30",
     "pageCount": "16"
@@ -4239,10 +4256,13 @@
     }
   ],
   "recordData": {
+    "UUID": "",
     "createdTime": "",
+    "dataType": "",
     "loadFormat": "JATS",
     "loadLocation": "",
     "loadType": "fromFile",
+    "masterRecord": "",
     "parsedTime": "",
     "recordOrigin": ""
   },
@@ -4292,10 +4312,16 @@
     "<ref id=\"R43\"> <mixed-citation publication-type=\"journal\"> <string-name> <surname>Wang</surname>, \t\t\t\t\t\t<given-names>M. S.</given-names> </string-name>, \t\t\t\t\t<string-name> <surname>Avila</surname>, \t\t\t\t\t\t<given-names>S.</given-names> </string-name>, \t\t\t\t\t<string-name> <surname>Bianchi</surname>, \t\t\t\t\t\t<given-names>D.</given-names> </string-name>, \t\t\t\t\t<string-name> <surname>Crittenden</surname>, \t\t\t\t\t\t<given-names>R.</given-names> </string-name>, &amp; \t\t\t\t\t<string-name> <surname>Percival</surname>, \t\t\t\t\t\t<given-names>W. J.</given-names> </string-name> <year>2020</year>, \t\t\t\t\t<source>JCAP</source> <volume>10</volume>, \t\t\t\t\t<fpage>022</fpage> </mixed-citation> </ref>",
     "<ref id=\"R44\"> <mixed-citation publication-type=\"journal\"> <string-name> <surname>Yahia-Cherif</surname>, \t\t\t\t\t\t<given-names>S.</given-names> </string-name>, \t\t\t\t\t<string-name> <surname>Blanchard</surname>, \t\t\t\t\t\t<given-names>A.</given-names> </string-name>, \t\t\t\t\t<string-name> <surname>Camera</surname>, \t\t\t\t\t\t<given-names>S.</given-names> </string-name>, et al. \t\t\t\t\t<year>2021</year>, \t\t\t\t\t<source>A&amp;A</source>, \t\t\t\t\t<volume>649</volume>, \t\t\t\t\t<fpage>A52</fpage> </mixed-citation> </ref>"
   ],
-  "subtitle": {
-    "textEnglish": "XLVII. Improving cosmological constraints using a new multi-tracer method with the spectroscopic and photometric samples"
-  },
-  "title": {
-    "textEnglish": "Euclid preparation"
-  }
+  "subtitle": [
+    {
+      "atext": "XLVII. Improving cosmological constraints using a new multi-tracer method with the spectroscopic and photometric samples",
+      "language": "en"
+    }
+  ],
+  "title": [
+    {
+      "atext": "Euclid preparation",
+      "language": "en"
+    }
+  ]
 }

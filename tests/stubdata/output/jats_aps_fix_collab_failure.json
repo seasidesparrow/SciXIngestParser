@@ -1,7 +1,9 @@
 {
-  "abstract": {
-    "textEnglish": "The correlations between event-by-event fluctuations of symmetry planes are measured in Pb-Pb collisions at a center-of-mass energy per nucleon pair <inline-formula><mml:math><mml:mrow><mml:msqrt><mml:msub><mml:mi>s</mml:mi><mml:mrow><mml:mi>N</mml:mi><mml:mi>N</mml:mi></mml:mrow></mml:msub></mml:msqrt><mml:mo>=</mml:mo><mml:mn>5.02</mml:mn><mml:mspace></mml:mspace><mml:mi>TeV</mml:mi></mml:mrow></mml:math></inline-formula> recorded by the ALICE detector at the Large Hadron Collider. This analysis is conducted using the Gaussian estimator technique, which is insensitive to biases from correlations between different flow amplitudes. The study presents, for the first time, the centrality dependence of correlations involving up to five different symmetry planes. The correlation strength varies depending on the harmonic order of the symmetry plane and the collision centrality. Comparisons with measurements from lower energies indicate no significant differences within uncertainties. Additionally, the results are compared with hydrodynamic model calculations. Although the model predictions provide a qualitative explanation of the experimental results, they overestimate the data for some observables. This is particularly true for correlators that are sensitive to the nonlinear response of the medium to initial-state anisotropies in the collision system. As these new correlators provide unique information\u2014independent of flow amplitudes\u2014their usage in future model developments can further constrain the properties of the strongly interacting matter created in ultrarelativistic heavy-ion collisions."
-  },
+  "abstract": [
+    {
+      "atext": "The correlations between event-by-event fluctuations of symmetry planes are measured in Pb-Pb collisions at a center-of-mass energy per nucleon pair <inline-formula><mml:math><mml:mrow><mml:msqrt><mml:msub><mml:mi>s</mml:mi><mml:mrow><mml:mi>N</mml:mi><mml:mi>N</mml:mi></mml:mrow></mml:msub></mml:msqrt><mml:mo>=</mml:mo><mml:mn>5.02</mml:mn><mml:mspace></mml:mspace><mml:mi>TeV</mml:mi></mml:mrow></mml:math></inline-formula> recorded by the ALICE detector at the Large Hadron Collider. This analysis is conducted using the Gaussian estimator technique, which is insensitive to biases from correlations between different flow amplitudes. The study presents, for the first time, the centrality dependence of correlations involving up to five different symmetry planes. The correlation strength varies depending on the harmonic order of the symmetry plane and the collision centrality. Comparisons with measurements from lower energies indicate no significant differences within uncertainties. Additionally, the results are compared with hydrodynamic model calculations. Although the model predictions provide a qualitative explanation of the experimental results, they overestimate the data for some observables. This is particularly true for correlators that are sensitive to the nonlinear response of the medium to initial-state anisotropies in the collision system. As these new correlators provide unique information\u2014independent of flow amplitudes\u2014their usage in future model developments can further constrain the properties of the strongly interacting matter created in ultrarelativistic heavy-ion collisions."
+    }
+  ],
   "authors": [
     {
       "affiliation": [
@@ -21080,6 +21082,7 @@
       "keySystem": "subject"
     }
   ],
+  "language": "en",
   "openAccess": {
     "license": "Published by the American Physical Society under the terms of the Creative Commons Attribution 4.0 International license. Further distribution of this work must maintain attribution to the author(s) and the published article's title, journal citation, and DOI. Open access publication funded by CERN.",
     "licenseURL": "https://creativecommons.org/licenses/by/4.0/"
@@ -21120,10 +21123,13 @@
     "volumeNum": "111"
   },
   "recordData": {
+    "UUID": "",
     "createdTime": "",
+    "dataType": "",
     "loadFormat": "JATS",
     "loadLocation": "",
     "loadType": "fromFile",
+    "masterRecord": "",
     "parsedTime": "",
     "recordOrigin": ""
   },
@@ -21200,7 +21206,15 @@
     "<ref id=\"c70\"><label>[70]</label><mixed-citation publication-type=\"journal\"><object-id>70</object-id><person-group person-group-type=\"author\"><string-name>H. Niemi</string-name>, <string-name>K. J. Eskola</string-name>, <string-name>R. Paatelainen</string-name>, and <string-name>K. Tuominen</string-name></person-group>, <article-title>Predictions for 5.023 TeV Pb + Pb collisions at the CERN Large Hadron Collider</article-title>, <source>Phys. Rev. C</source> <volume>93</volume>, <page-range>014912</page-range> (<year>2016</year>)<issn>2469-9985</issn><pub-id assigning-authority=\"crossref\" pub-id-type=\"doi\" specific-use=\"suppress-display\">10.1103/PhysRevC.93.014912</pub-id>.</mixed-citation></ref>",
     "<ref id=\"c71\"><label>[71]</label><mixed-citation publication-type=\"journal\"><object-id>71</object-id><person-group person-group-type=\"author\"><string-name>J. Noronha-Hostler</string-name>, <string-name>M. Luzum</string-name>, and <string-name>J.-Y. Ollitrault</string-name></person-group>, <article-title>Hydrodynamic predictions for 5.02 TeV Pb-Pb collisions</article-title>, <source>Phys. Rev. C</source> <volume>93</volume>, <page-range>034912</page-range> (<year>2016</year>)<issn>2469-9985</issn><pub-id assigning-authority=\"crossref\" pub-id-type=\"doi\" specific-use=\"suppress-display\">10.1103/PhysRevC.93.034912</pub-id>.</mixed-citation></ref>"
   ],
-  "title": {
-    "textEnglish": "Higher-order symmetry plane correlations in Pb-Pb collisions at <inline-formula><mml:math><mml:mrow><mml:msqrt><mml:msub><mml:mi>s</mml:mi><mml:mrow><mml:mi>N</mml:mi><mml:mi>N</mml:mi></mml:mrow></mml:msub></mml:msqrt><mml:mo>=</mml:mo><mml:mn>5.02</mml:mn><mml:mspace></mml:mspace><mml:mi>TeV</mml:mi></mml:mrow></mml:math></inline-formula>"
-  }
+  "title": [
+    {
+      "atext": "Higher-order symmetry plane correlations in Pb-Pb collisions at <inline-formula><mml:math><mml:mrow><mml:msqrt><mml:msub><mml:mi>s</mml:mi><mml:mrow><mml:mi>N</mml:mi><mml:mi>N</mml:mi></mml:mrow></mml:msub></mml:msqrt><mml:mo>=</mml:mo><mml:mn>5.02</mml:mn><mml:mspace></mml:mspace><mml:mi>TeV</mml:mi></mml:mrow></mml:math></inline-formula>"
+    },
+    {
+      "atext": "HIGHER-ORDER SYMMETRY PLANE CORRELATIONS \u2026"
+    },
+    {
+      "atext": "S. ACHARYA et\u00a0al."
+    }
+  ]
 }

@@ -4,9 +4,12 @@ import re
 import warnings
 
 import bs4
-from bs4 import MarkupResemblesLocatorWarning
+from bs4 import MarkupResemblesLocatorWarning, XMLParsedAsHTMLWarning
 
 from ingestparser.ingest_exceptions import WrongFormatException
+
+warnings.filterwarnings("ignore", category=MarkupResemblesLocatorWarning)
+warnings.filterwarnings("ignore", category=XMLParsedAsHTMLWarning)
 
 
 class IngestBase(object):
@@ -16,10 +19,13 @@ class IngestBase(object):
     required_keys = [
         "createdTime",
         "parsedTime",
+        "masterRecord",
+        "dataType",
         "loadType",
         "loadFormat",
         "loadLocation",
         "recordOrigin",
+        "UUID",
     ]
 
     def __init__(self, xml_ref=True):
@@ -249,11 +255,14 @@ class IngestBase(object):
 
         output["recordData"] = {
             "createdTime": "",
+            "dataType": "",
             "parsedTime": datetime.datetime.now(datetime.UTC).strftime(self.TIMESTAMP_FMT),
             "loadType": "fromURL" if format == "HTML" else "fromFile",
             "loadFormat": format,
             "loadLocation": "",
             "recordOrigin": "",
+            "masterRecord": "",
+            "UUID": "",
         }
 
         output["relatedTo"] = [
@@ -392,7 +401,7 @@ class IngestBase(object):
                         "prefix": i.get("prefix", ""),
                         "suffix": i.get("suffix", ""),
                         "pubraw": i.get("nameraw", ""),
-                        # "native_lang": "XXX",
+                        "native_lang": i.get("native_lang", ""),
                         "collab": i.get("collab", ""),
                     },
                     "affiliation": [
@@ -485,10 +494,10 @@ class IngestBase(object):
                 "identifier": i.get("identifier", ""),
                 "location": i.get("location", ""),
                 "dataType": i.get("dataType", ""),
-                "comment": i.get("comment", "")
+                "comment": i.get("comment", ""),
             }
             for i in input_dict.get("dataLinks", [])
-        ] 
+        ]
 
         output["doctype"] = input_dict.get("doctype", "")
 

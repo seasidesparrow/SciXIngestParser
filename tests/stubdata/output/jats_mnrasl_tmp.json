@@ -1,0 +1,127 @@
+{
+  "abstract": [
+    {
+      "atext": "Despite helium abundance (A<sub>He</sub> = n<sub>H</sub>/n<sub>He</sub>) is \u223c 8% at the solar photospheric/chromospheric heights, A<sub>He</sub> can be found to exceed 8% in interplanetary coronal mass ejections (ICMEs) on many occasions. Although various factors like interplanetary shocks, chromospheric evaporation and \u201csludge removal\u201d have been separately invoked in the past to address the A<sub>He</sub> enhancements in ICMEs, none of these processes could explain the variability of A<sub>He</sub> in ICMEs comprehensively. Based on extensive analysis of 275 ICME events, we show that there is a solar activity variation of ICME averaged A<sub>He</sub> values. We also found that the first ionization potential effect as well as localized coronal heating due to magnetic reconnection are not the major contributing factors for A<sub>He</sub> enhancements in ICMEs. Investigation on concurrent solar flares and ICME events for 63 cases reveals that chromospheric evaporation in tandem with gravitational settling determine the A<sub>He</sub> enhancements and variabilities beyond 8% in ICMEs. While chromospheric evaporation releases the helium from chromosphere into the corona, the gravitationally settled helium is thrown out during the ICMEs. We show that the intensity and timing of the preceding flares from the same active region from where the CME erupts are important factors to understand the A<sub>He</sub> enhancements in ICMEs."
+    }
+  ],
+  "authors": [
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Physical Research Laboratory, Navrangpura, Ahmedabad 380009, India"
+        },
+        {
+          "affPubRaw": "Indian Institute of Technology-Gandhinagar, Gandhinagar 382055, India"
+        }
+      ],
+      "attrib": {
+        "corresp": true,
+        "email": "yphy22@gmail.com"
+      },
+      "name": {
+        "given_name": "Yogesh"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Physical Research Laboratory, Navrangpura, Ahmedabad 380009, India"
+        }
+      ],
+      "name": {
+        "given_name": "D",
+        "surname": "Chakrabarty"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Udaipur Solar Observatory, Physical Research Laboratory, Udaipur 313001, India"
+        }
+      ],
+      "name": {
+        "given_name": "N",
+        "surname": "Srivastava"
+      }
+    }
+  ],
+  "copyright": {
+    "statement": "\u00a9 2022 The Author(s) Published by Oxford University Press on behalf of the Royal Astronomical Society",
+    "status": true
+  },
+  "keywords": [
+    {
+      "keyString": "Sun: coronal mass ejections (CMEs)",
+      "keySystem": "misc"
+    },
+    {
+      "keyString": "Sun: Flares",
+      "keySystem": "misc"
+    },
+    {
+      "keyString": "Sun: abundances",
+      "keySystem": "misc"
+    },
+    {
+      "keyString": "solar wind",
+      "keySystem": "misc"
+    },
+    {
+      "keyString": "Sun: activity",
+      "keySystem": "misc"
+    }
+  ],
+  "language": "en",
+  "openAccess": {
+    "license": "This article is published and distributed under the terms of the Oxford University Press, Standard Journals Publication Model (https://academic.oup.com/journals/pages/open_access/funder_policies/chorus/standard_publication_model)",
+    "licenseURL": "https://academic.oup.com/journals/pages/open_access/funder_policies/chorus/standard_publication_model"
+  },
+  "pagination": {
+    "electronicID": "slac044"
+  },
+  "persistentIDs": [
+    {
+      "DOI": "10.1093/mnrasl/slac044"
+    }
+  ],
+  "pubDate": {
+    "electrDate": "2022-04-27"
+  },
+  "publication": {
+    "ISSN": [
+      {
+        "issnString": "1745-3925",
+        "pubtype": "ppub"
+      },
+      {
+        "issnString": "1745-3933",
+        "pubtype": "epub"
+      }
+    ],
+    "pubName": "Monthly Notices of the Royal Astronomical Society: Letters",
+    "pubYear": "2022",
+    "publisher": "Oxford University Press"
+  },
+  "publisherIDs": [
+    {
+      "Identifier": "slac044",
+      "attribute": "publisher-id"
+    }
+  ],
+  "recordData": {
+    "UUID": "",
+    "createdTime": "",
+    "dataType": "",
+    "loadFormat": "JATS",
+    "loadLocation": "",
+    "loadType": "fromFile",
+    "masterRecord": "",
+    "parsedTime": "",
+    "recordOrigin": ""
+  },
+  "title": [
+    {
+      "atext": "A holistic approach to understand Helium enrichment in Interplanetary coronal mass ejections: New insights"
+    }
+  ]
+}

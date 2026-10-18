@@ -1,7 +1,10 @@
 {
-  "abstract": {
-    "textEnglish": "We construct non-linear machine learning (ML) prediction models for systolic and diastolic blood pressure (SBP, DBP) using demographic and clinical variables and polygenic risk scores (PRSs). We developed a two-model ensemble, consisting of a baseline model, where prediction is based on demographic and clinical variables only, and a genetic model, where we also include PRSs. We evaluate the use of a linear versus a non-linear model at both the baseline and the genetic model levels and assess the improvement in performance when incorporating multiple PRSs. We report the ensemble model\u2019s performance as percentage variance explained (PVE) on a held-out test dataset. A non-linear baseline model improved the PVEs from 28.1 to 30.1% (SBP) and 14.3% to 17.4% (DBP) compared with a linear baseline model. Including seven PRSs in the genetic model computed based on the largest available GWAS of SBP/DBP improved the genetic model PVE from 4.8 to 5.1% (SBP) and 4.7 to 5% (DBP) compared to using a single PRS. Adding additional 14 PRSs computed based on two independent GWASs further increased the genetic model PVE to 6.3% (SBP) and 5.7% (DBP). PVE differed across self-reported race/ethnicity groups, with primarily all non-White groups benefitting from the inclusion of additional PRSs. In summary, non-linear ML models improves BP prediction in models incorporating diverse populations."
-  },
+  "abstract": [
+    {
+      "atext": "We construct non-linear machine learning (ML) prediction models for systolic and diastolic blood pressure (SBP, DBP) using demographic and clinical variables and polygenic risk scores (PRSs). We developed a two-model ensemble, consisting of a baseline model, where prediction is based on demographic and clinical variables only, and a genetic model, where we also include PRSs. We evaluate the use of a linear versus a non-linear model at both the baseline and the genetic model levels and assess the improvement in performance when incorporating multiple PRSs. We report the ensemble model\u2019s performance as percentage variance explained (PVE) on a held-out test dataset. A non-linear baseline model improved the PVEs from 28.1 to 30.1% (SBP) and 14.3% to 17.4% (DBP) compared with a linear baseline model. Including seven PRSs in the genetic model computed based on the largest available GWAS of SBP/DBP improved the genetic model PVE from 4.8 to 5.1% (SBP) and 4.7 to 5% (DBP) compared to using a single PRS. Adding additional 14 PRSs computed based on two independent GWASs further increased the genetic model PVE to 6.3% (SBP) and 5.7% (DBP). PVE differed across self-reported race/ethnicity groups, with primarily all non-White groups benefitting from the inclusion of additional PRSs. In summary, non-linear ML models improves BP prediction in models incorporating diverse populations.",
+      "language": "en"
+    }
+  ],
   "authors": [
     {
       "affiliation": [
@@ -1409,6 +1412,7 @@
       "awardnumber": "R01HL161012"
     }
   ],
+  "language": "en",
   "openAccess": {
     "license": "Open Access This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article's Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article's Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit http://creativecommons.org/licenses/by/4.0/.",
     "licenseURL": "http://creativecommons.org/licenses/by/4.0/",
@@ -1455,10 +1459,13 @@
     }
   ],
   "recordData": {
+    "UUID": "",
     "createdTime": "",
+    "dataType": "",
     "loadFormat": "JATS",
     "loadLocation": "",
     "loadType": "fromFile",
+    "masterRecord": "",
     "parsedTime": "",
     "recordOrigin": ""
   },
@@ -1526,7 +1533,10 @@
     "<ref id=\"CR61\"> <label>61.</label> <mixed-citation publication-type=\"other\">Akiba, T. \t\t\t\t\t\t<italic>et al</italic>. Optuna: A next-generation hyperparameter optimization framework. In \t\t\t\t\t\t<italic>Proc. 25th ACM SIGKDD International Conference on Knowledge Discovery &amp; Data Mining</italic> 2623\u20132631 (Association for Computing Machinery, 2019). \t\t\t\t\t</mixed-citation> </ref>",
     "<ref id=\"CR62\"> <label>62.</label> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Pedregosa</surname> <given-names>F</given-names> </name> <etal/> </person-group> <article-title xml:lang=\"en\">Scikit-learn: Machine learning in python</article-title> <source>J. Mach. Learn. Res.</source> <year>2011</year> <volume>12</volume> <fpage>2825</fpage> <lpage>2830</lpage> <pub-id pub-id-type=\"amsid\">2854348</pub-id> </mixed-citation> </ref>"
   ],
-  "title": {
-    "textEnglish": "Machine learning models for predicting blood pressure phenotypes by combining multiple polygenic risk scores"
-  }
+  "title": [
+    {
+      "atext": "Machine learning models for predicting blood pressure phenotypes by combining multiple polygenic risk scores",
+      "language": "en"
+    }
+  ]
 }

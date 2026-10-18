@@ -1,7 +1,9 @@
 {
-  "abstract": {
-    "textEnglish": "The IR spectra of Be stars display numerous hydrogen recombination lines, constituting a great resource for obtaining information on the physical and dynamic structures of different regions within the circumstellar envelope. Nevertheless, this spectral region has not been analysed in depth, and there is a lack of synthetic spectra with which to compare observations. Therefore, we computed synthetic spectra with the HDUST code for different disc parameters. Here, we present our results on the spectral region that includes lines of the Brackett series. We discuss the dependence of the line series strengths on several parameters that describe the structure of the disc. We also compared model line profiles, fluxes, and EWs with observational data for two Be stars (MX Pup and <inline-formula><mml:math><mml:semantics><mml:mi>\u03c0</mml:mi></mml:semantics></mml:math></inline-formula> Aqr). Even though the synthetic spectra adequately fit our observations of both stars and allow us to constrain the parameters of the disc, there is a discrepancy with the observed data in the EW and flux measurements, especially in the case of MX Pup. It is possible that by including Brackett lines of higher terms or adding the analysis of other series, we may be able to better constrain the parameters of the observed disc."
-  },
+  "abstract": [
+    {
+      "atext": "The IR spectra of Be stars display numerous hydrogen recombination lines, constituting a great resource for obtaining information on the physical and dynamic structures of different regions within the circumstellar envelope. Nevertheless, this spectral region has not been analysed in depth, and there is a lack of synthetic spectra with which to compare observations. Therefore, we computed synthetic spectra with the HDUST code for different disc parameters. Here, we present our results on the spectral region that includes lines of the Brackett series. We discuss the dependence of the line series strengths on several parameters that describe the structure of the disc. We also compared model line profiles, fluxes, and EWs with observational data for two Be stars (MX Pup and <inline-formula><mml:math><mml:semantics><mml:mi>\u03c0</mml:mi></mml:semantics></mml:math></inline-formula> Aqr). Even though the synthetic spectra adequately fit our observations of both stars and allow us to constrain the parameters of the disc, there is a discrepancy with the observed data in the EW and flux measurements, especially in the case of MX Pup. It is possible that by including Brackett lines of higher terms or adding the analysis of other series, we may be able to better constrain the parameters of the observed disc."
+    }
+  ],
   "authors": [
     {
       "affiliation": [
@@ -130,6 +132,7 @@
       "keySystem": "misc"
     }
   ],
+  "language": "en",
   "openAccess": {
     "license": "Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (https://creativecommons.org/licenses/by/4.0/).",
     "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
@@ -177,10 +180,13 @@
     }
   ],
   "recordData": {
+    "UUID": "",
     "createdTime": "",
+    "dataType": "",
     "loadFormat": "JATS",
     "loadLocation": "",
     "loadType": "fromFile",
+    "masterRecord": "",
     "parsedTime": "",
     "recordOrigin": ""
   },
@@ -226,7 +232,9 @@
     "<ref id=\"B39-galaxies-11-00090\"> <label>39.</label> <element-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <collab>Astropy Collaboration</collab> <name> <surname>Price-Whelan</surname> <given-names>A.M.</given-names> </name> <name> <surname>Sip\u0151cz</surname> <given-names>B.M.</given-names> </name> <name> <surname>G\u00fcnther</surname> <given-names>H.M.</given-names> </name> <name> <surname>Lim</surname> <given-names>P.L.</given-names> </name> <name> <surname>Crawford</surname> <given-names>S.M.</given-names> </name> <name> <surname>Conseil</surname> <given-names>S.</given-names> </name> <name> <surname>Shupe</surname> <given-names>D.L.</given-names> </name> <name> <surname>Craig</surname> <given-names>M.W.</given-names> </name> <name> <surname>Dencheva</surname> <given-names>N.</given-names> </name> <etal/> </person-group> <article-title>The Astropy Project: Building an Open-science Project and Status of the v2.0 Core Package</article-title> <source>Astron. J.</source> <year>2018</year> <volume>156</volume> <fpage>123</fpage> <pub-id pub-id-type=\"doi\">10.3847/1538-3881/aabc4f</pub-id> </element-citation> </ref>",
     "<ref id=\"B40-galaxies-11-00090\"> <label>40.</label> <element-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <collab>Astropy Collaboration</collab> <name> <surname>Price-Whelan</surname> <given-names>A.M.</given-names> </name> <name> <surname>Lim</surname> <given-names>P.L.</given-names> </name> <name> <surname>Earl</surname> <given-names>N.</given-names> </name> <name> <surname>Starkman</surname> <given-names>N.</given-names> </name> <name> <surname>Bradley</surname> <given-names>L.</given-names> </name> <name> <surname>Shupe</surname> <given-names>D.L.</given-names> </name> <name> <surname>Patil</surname> <given-names>A.A.</given-names> </name> <name> <surname>Corrales</surname> <given-names>L.</given-names> </name> <name> <surname>Brasseur</surname> <given-names>C.E.</given-names> </name> <etal/> </person-group> <article-title>The Astropy Project: Sustaining and Growing a Community-oriented Open-source Project and the Latest Major Release (v5.0) of the Core Package</article-title> <source>Astrophys. J.</source> <year>2022</year> <volume>935</volume> <fpage>167</fpage> <pub-id pub-id-type=\"doi\">10.3847/1538-4357/ac7c74</pub-id> </element-citation> </ref>"
   ],
-  "title": {
-    "textEnglish": "Infrared Spectroscopy of Be Stars: Influence of the Envelope Parameters on Brackett-Series Behaviour"
-  }
+  "title": [
+    {
+      "atext": "Infrared Spectroscopy of Be Stars: Influence of the Envelope Parameters on Brackett-Series Behaviour"
+    }
+  ]
 }

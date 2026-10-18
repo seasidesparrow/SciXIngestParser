@@ -1,7 +1,9 @@
 {
-  "abstract": {
-    "textEnglish": "We explore deep rest-frame UV to FIR data in the COSMOS field to measure the individual spectral energy distributions (SED) of the \u223c4000 SC4K (Sobral et al.) Lyman \u03b1 (Ly \u03b1) emitters (LAEs) at z \u223c 2\u20136. We find typical stellar masses of 10<sup>9.3 \u00b1 0.6</sup> M<sub>\u2299</sub> and star formation rates (SFR) of SFR<inline-formula><tex-math>$_{\\rm SED}=4.4^{+10.5}_{-2.4}$</tex-math></inline-formula> M<sub>\u2299</sub> yr<sup>\u22121</sup> and SFR<inline-formula><tex-math>$_{\\rm Ly\\,\\alpha }=5.9^{+6.3}_{-2.6}$</tex-math></inline-formula> M<sub>\u2299</sub> yr<sup>\u22121</sup>, combined with very blue UV slopes of <inline-formula><tex-math>$\\beta =-2.1^{+0.5}_{-0.4}$</tex-math></inline-formula>, but with significant variations within the population. M<sub>UV</sub> and \u03b2 are correlated in a similar way to UV-selected sources, but LAEs are consistently bluer. This suggests that LAEs are the youngest and/or most dust-poor subset of the UV-selected population. We also study the Ly \u03b1 rest-frame equivalent width (EW<sub>0</sub>) and find 45 \u2018extreme\u2019 LAEs with EW<sub>0</sub> > 240 \u00c5 (3\u03c3), implying a low number density of (7 \u00b1 1) \u00d7 10<sup>\u22127</sup> Mpc<sup>\u22123</sup>. Overall, we measure little to no evolution of the Ly \u03b1 EW<sub>0</sub> and scale length parameter (w<sub>0</sub>), which are consistently high (EW<inline-formula><tex-math>$_0=140^{+280}_{-70}$</tex-math></inline-formula> \u00c5, <inline-formula><tex-math>$w_0=129^{+11}_{-11}$</tex-math></inline-formula> \u00c5) from z \u223c 6 to z \u223c 2 and below. However, w<sub>0</sub> is anticorrelated with M<sub>UV</sub> and stellar mass. Our results imply that sources selected as LAEs have a high Ly \u03b1 escape fraction (f<sub>esc,Ly \u03b1</sub>) irrespective of cosmic time, but f<sub>esc,Ly \u03b1</sub> is still higher for UV-fainter and lower mass LAEs. The least massive LAEs (<10<sup>9.5</sup> M<sub>\u2299</sub>) are typically located above the star formation \u2018main sequence\u2019 (MS), but the offset from the MS decreases towards z \u223c 6 and towards 10<sup>10</sup> M<sub>\u2299</sub>. Our results imply a lack of evolution in the properties of LAEs across time and reveals the increasing overlap in properties of LAEs and UV-continuum selected galaxies as typical star-forming galaxies at high redshift effectively become LAEs."
-  },
+  "abstract": [
+    {
+      "atext": "We explore deep rest-frame UV to FIR data in the COSMOS field to measure the individual spectral energy distributions (SED) of the \u223c4000 SC4K (Sobral et al.) Lyman \u03b1 (Ly \u03b1) emitters (LAEs) at z \u223c 2\u20136. We find typical stellar masses of 10<sup>9.3 \u00b1 0.6</sup> M<sub>\u2299</sub> and star formation rates (SFR) of SFR<inline-formula><tex-math>$_{\\rm SED}=4.4^{+10.5}_{-2.4}$</tex-math></inline-formula> M<sub>\u2299</sub> yr<sup>\u22121</sup> and SFR<inline-formula><tex-math>$_{\\rm Ly\\,\\alpha }=5.9^{+6.3}_{-2.6}$</tex-math></inline-formula> M<sub>\u2299</sub> yr<sup>\u22121</sup>, combined with very blue UV slopes of <inline-formula><tex-math>$\\beta =-2.1^{+0.5}_{-0.4}$</tex-math></inline-formula>, but with significant variations within the population. M<sub>UV</sub> and \u03b2 are correlated in a similar way to UV-selected sources, but LAEs are consistently bluer. This suggests that LAEs are the youngest and/or most dust-poor subset of the UV-selected population. We also study the Ly \u03b1 rest-frame equivalent width (EW<sub>0</sub>) and find 45 \u2018extreme\u2019 LAEs with EW<sub>0</sub> &gt; 240 \u00c5 (3\u03c3), implying a low number density of (7 \u00b1 1) \u00d7 10<sup>\u22127</sup> Mpc<sup>\u22123</sup>. Overall, we measure little to no evolution of the Ly \u03b1 EW<sub>0</sub> and scale length parameter (w<sub>0</sub>), which are consistently high (EW<inline-formula><tex-math>$_0=140^{+280}_{-70}$</tex-math></inline-formula> \u00c5, <inline-formula><tex-math>$w_0=129^{+11}_{-11}$</tex-math></inline-formula> \u00c5) from z \u223c 6 to z \u223c 2 and below. However, w<sub>0</sub> is anticorrelated with M<sub>UV</sub> and stellar mass. Our results imply that sources selected as LAEs have a high Ly \u03b1 escape fraction (f<sub>esc,Ly \u03b1</sub>) irrespective of cosmic time, but f<sub>esc,Ly \u03b1</sub> is still higher for UV-fainter and lower mass LAEs. The least massive LAEs (&lt;10<sup>9.5</sup> M<sub>\u2299</sub>) are typically located above the star formation \u2018main sequence\u2019 (MS), but the offset from the MS decreases towards z \u223c 6 and towards 10<sup>10</sup> M<sub>\u2299</sub>. Our results imply a lack of evolution in the properties of LAEs across time and reveals the increasing overlap in properties of LAEs and UV-continuum selected galaxies as typical star-forming galaxies at high redshift effectively become LAEs."
+    }
+  ],
   "authors": [
     {
       "affiliation": [
@@ -174,6 +176,7 @@
       "keySystem": "misc"
     }
   ],
+  "language": "en",
   "openAccess": {
     "license": "This article is published and distributed under the terms of the Oxford University Press, Standard Journals Publication Model (https://academic.oup.com/journals/pages/open_access/funder_policies/chorus/standard_publication_model)",
     "licenseURL": "https://academic.oup.com/journals/pages/open_access/funder_policies/chorus/standard_publication_model"
@@ -217,10 +220,13 @@
     }
   ],
   "recordData": {
+    "UUID": "",
     "createdTime": "",
+    "dataType": "",
     "loadFormat": "JATS",
     "loadLocation": "",
     "loadType": "fromFile",
+    "masterRecord": "",
     "parsedTime": "",
     "recordOrigin": ""
   },
@@ -359,7 +365,9 @@
     "<ref id=\"bib132\"> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <string-name name-style=\"western\"> <surname>Wold</surname> <given-names>I. G. B.</given-names> </string-name>, <string-name name-style=\"western\"><surname>Finkelstein</surname><given-names>S. L.</given-names></string-name>, <string-name name-style=\"western\"><surname>Barger</surname><given-names>A. J.</given-names></string-name>, <string-name name-style=\"western\"><surname>Cowie</surname><given-names>L. L.</given-names></string-name>, <string-name name-style=\"western\"><surname>Rosenwasser</surname><given-names>B.</given-names></string-name></person-group>, <year>2017</year>, <source>ApJ</source>, <volume>848</volume>, <fpage>108</fpage><pub-id pub-id-type=\"doi\">10.3847/1538-4357/aa8d6b</pub-id></mixed-citation> </ref>",
     "<ref id=\"bib133\"> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <string-name name-style=\"western\"> <surname>Yajima</surname> <given-names>H.</given-names> </string-name>, <string-name name-style=\"western\"><surname>Li</surname><given-names>Y.</given-names></string-name>, <string-name name-style=\"western\"><surname>Zhu</surname><given-names>Q.</given-names></string-name>, <string-name name-style=\"western\"><surname>Abel</surname><given-names>T.</given-names></string-name>, <string-name name-style=\"western\"><surname>Gronwall</surname><given-names>C.</given-names></string-name>, <string-name name-style=\"western\"><surname>Ciardullo</surname><given-names>R.</given-names></string-name></person-group>, <year>2012</year>, <source>ApJ</source>, <volume>754</volume>, <fpage>118</fpage><pub-id pub-id-type=\"doi\">10.1088/0004-637X/754/2/118</pub-id></mixed-citation> </ref>"
   ],
-  "title": {
-    "textEnglish": "The evolution of rest-frame UV properties, Ly \u03b1 EWs, and the SFR\u2013stellar mass relation at z \u223c 2\u20136 for SC4K LAEs"
-  }
+  "title": [
+    {
+      "atext": "The evolution of rest-frame UV properties, Ly \u03b1 EWs, and the SFR\u2013stellar mass relation at z \u223c 2\u20136 for SC4K LAEs"
+    }
+  ]
 }

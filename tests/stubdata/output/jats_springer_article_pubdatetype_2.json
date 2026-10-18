@@ -1,7 +1,10 @@
 {
-  "abstract": {
-    "textEnglish": "Ecosystem services value (ESV) can assess the level of basin ecological restoration and provide a basis for ecological management decision-making. This study object selects Liaohe River Basin (LHB), a typical basin in Northeast China. The ecosystem service value variation caused by changes in land use cover and the spatial distribution characteristics was evaluated by employing the benefit transfer method, which is based on data sets for land use over 2000\u20132020. Meanwhile, geographical detector was employed to investigate the impacts and interactions of various factors driving the ESV, and predicted future changes in land and ESV by PLUS model. The results showed the following: (1) LHB land transformations mainly concentrated in the transformation between grassland, farmland and forestland. ESV in LHB decreased and then increased between 2000 and 2020 (1224 billion-928 billion-1238 billion), (2) Ecosystem service value exhibited a strong positive spatial autocorrelation, high ESV was mainly distributed in the eastern and western regions of LHB, and low ESV in the central region. (3) The variation in ecosystem service value mainly arose from the human activity intensity index of human factors. (4) In the future, the ecological protection priority scenario could improve the ESV in LHB, and the natural development priority and economic development priority scenario was not conducive to the improvement of ESV. The results showed that the ecological restoration effect of the LHB was obvious with the ecosystem service value is significantly improved. In the future, attention should be paid to control human activities and strengthen ecological protection in ESV hotspots."
-  },
+  "abstract": [
+    {
+      "atext": "Ecosystem services value (ESV) can assess the level of basin ecological restoration and provide a basis for ecological management decision-making. This study object selects Liaohe River Basin (LHB), a typical basin in Northeast China. The ecosystem service value variation caused by changes in land use cover and the spatial distribution characteristics was evaluated by employing the benefit transfer method, which is based on data sets for land use over 2000\u20132020. Meanwhile, geographical detector was employed to investigate the impacts and interactions of various factors driving the ESV, and predicted future changes in land and ESV by PLUS model. The results showed the following: (1) LHB land transformations mainly concentrated in the transformation between grassland, farmland and forestland. ESV in LHB decreased and then increased between 2000 and 2020 (1224 billion-928 billion-1238 billion), (2) Ecosystem service value exhibited a strong positive spatial autocorrelation, high ESV was mainly distributed in the eastern and western regions of LHB, and low ESV in the central region. (3) The variation in ecosystem service value mainly arose from the human activity intensity index of human factors. (4) In the future, the ecological protection priority scenario could improve the ESV in LHB, and the natural development priority and economic development priority scenario was not conducive to the improvement of ESV. The results showed that the ecological restoration effect of the LHB was obvious with the ecosystem service value is significantly improved. In the future, attention should be paid to control human activities and strengthen ecological protection in ESV hotspots.",
+      "language": "en"
+    }
+  ],
   "authors": [
     {
       "affiliation": [
@@ -207,6 +210,7 @@
       "keySystem": "misc"
     }
   ],
+  "language": "en",
   "pagination": {
     "electronicID": "7"
   },
@@ -247,10 +251,13 @@
     }
   ],
   "recordData": {
+    "UUID": "",
     "createdTime": "",
+    "dataType": "",
     "loadFormat": "JATS",
     "loadLocation": "",
     "loadType": "fromFile",
+    "masterRecord": "",
     "parsedTime": "",
     "recordOrigin": ""
   },
@@ -308,7 +315,10 @@
     "<ref id=\"CR51\"> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Zheng</surname> <given-names>DF</given-names> </name> <name> <surname>Wang</surname> <given-names>YH</given-names> </name> <name> <surname>Hao</surname> <given-names>S</given-names> </name> <name> <surname>Xu</surname> <given-names>WJ</given-names> </name> <name> <surname>Lv</surname> <given-names>LT</given-names> </name> <name> <surname>Yu</surname> <given-names>S</given-names> </name> </person-group> <article-title xml:lang=\"en\">Spatial-temporal variation and tradeoffs/synergies analysis on multiple ecosystem services: a case study in the three-river Headwaters region of China</article-title> <source>Ecological Indicators</source> <year>2020</year> <volume>116</volume> <fpage>106494</fpage> <pub-id pub-id-type=\"doi\">10.1016/j.ecolind.2020.106494</pub-id> </mixed-citation> </ref>",
     "<ref id=\"CR52\"> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Zhu</surname> <given-names>LY</given-names> </name> <name> <surname>Sun</surname> <given-names>S</given-names> </name> <name> <surname>Li</surname> <given-names>Y</given-names> </name> <name> <surname>Liu</surname> <given-names>XB</given-names> </name> <name> <surname>Hu</surname> <given-names>K</given-names> </name> </person-group> <article-title xml:lang=\"en\">Effects of climate change and anthropogenic activity on the vegetation greening in the Liaohe River Basin of northeastern China</article-title> <source>Ecological Indicators</source> <year>2023</year> <volume>148</volume> <fpage>110105</fpage> <pub-id pub-id-type=\"doi\">10.1016/j.ecolind.2023.110105</pub-id> </mixed-citation> </ref>"
   ],
-  "title": {
-    "textEnglish": "Identifying Internal Distributions and Multi-Scenario Simulation of Ecosystem Service Value in Liaohe Basin Based on Geodetector and PLUS Model"
-  }
+  "title": [
+    {
+      "atext": "Identifying Internal Distributions and Multi-Scenario Simulation of Ecosystem Service Value in Liaohe Basin Based on Geodetector and PLUS Model",
+      "language": "en"
+    }
+  ]
 }

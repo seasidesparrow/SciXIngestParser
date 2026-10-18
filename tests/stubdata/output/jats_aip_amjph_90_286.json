@@ -1,7 +1,9 @@
 {
-  "abstract": {
-    "textEnglish": "Gravitational-wave observatories around the world are searching for continuous waves: persistent signals from sources, such as spinning neutron stars. These searches use sophisticated statistical techniques to look for weak signals in noisy data. In this paper, we demonstrate these techniques using a table-top model gravitational-wave detector: a Michelson interferometer where sound is used as an analog for gravitational waves. Using signal processing techniques from continuous-wave searches, we demonstrate the recovery of tones with constant and wandering frequencies. We also explore the use of the interferometer as a teaching tool for educators in physics and electrical engineering by using it as an \u201coptical microphone\u201d to capture music and speech. A range of filtering techniques used to recover signals from noisy data are detailed in the supplementary material of this article. Here, we present the highlights of our results using a combined notch plus Wiener filter and the statistical log minimum mean-square error (logMMSE) estimator. Using these techniques, we easily recover recordings of simple chords and drums, but complex music and speech are more challenging. This demonstration can be used by educators in undergraduate laboratories and can be adapted for communicating gravitational-wave and signal-processing topics to nonspecialist audiences."
-  },
+  "abstract": [
+    {
+      "atext": "Gravitational-wave observatories around the world are searching for continuous waves: persistent signals from sources, such as spinning neutron stars. These searches use sophisticated statistical techniques to look for weak signals in noisy data. In this paper, we demonstrate these techniques using a table-top model gravitational-wave detector: a Michelson interferometer where sound is used as an analog for gravitational waves. Using signal processing techniques from continuous-wave searches, we demonstrate the recovery of tones with constant and wandering frequencies. We also explore the use of the interferometer as a teaching tool for educators in physics and electrical engineering by using it as an \u201coptical microphone\u201d to capture music and speech. A range of filtering techniques used to recover signals from noisy data are detailed in the supplementary material of this article. Here, we present the highlights of our results using a combined notch plus Wiener filter and the statistical log minimum mean-square error (logMMSE) estimator. Using these techniques, we easily recover recordings of simple chords and drums, but complex music and speech are more challenging. This demonstration can be used by educators in undergraduate laboratories and can be adapted for communicating gravitational-wave and signal-processing topics to nonspecialist audiences."
+    }
+  ],
   "authors": [
     {
       "affiliation": [
@@ -185,10 +187,13 @@
     }
   ],
   "recordData": {
+    "UUID": "",
     "createdTime": "",
+    "dataType": "",
     "loadFormat": "JATS",
     "loadLocation": "",
     "loadType": "fromFile",
+    "masterRecord": "",
     "parsedTime": "",
     "recordOrigin": ""
   },
@@ -220,7 +225,9 @@
     "<ref id=\"c25\"> <label>25.</label> <mixed-citation publication-type=\"book\"> <string-name> <given-names>E. T.</given-names> <surname>Jaynes</surname> </string-name>, <source><italic>Probability Theory: The Logic of Science</italic></source> ( <publisher-name>Cambridge U. P</publisher-name>., <publisher-loc>Cambridge</publisher-loc>, <year>2003</year>).</mixed-citation> </ref>",
     "<ref id=\"c26\"> <label>26.</label> <mixed-citation publication-type=\"supplementary-material\">See supplementary material at <inline-supplementary-material xlink:href=\"https://www.scitation.org/doi/suppl/10.1119/10.0009409\">https://www.scitation.org/doi/suppl/10.1119/10.0009409</inline-supplementary-material> for further resources and a detailed explanation and discussion of the different signal-processing techniques used for speech enhancement of the recordings from the optical microphone, including techniques not presented in the main text.</mixed-citation> </ref>"
   ],
-  "title": {
-    "textEnglish": "Continuous gravitational waves in the lab: Recovering audio signals with a table-top optical microphone"
-  }
+  "title": [
+    {
+      "atext": "Continuous gravitational waves in the lab: Recovering audio signals with a table-top optical microphone"
+    }
+  ]
 }

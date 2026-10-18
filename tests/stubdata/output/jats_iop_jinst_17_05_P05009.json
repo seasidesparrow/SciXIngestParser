@@ -1,8 +1,18 @@
 {
-  "abstract": {
-    "textEnglish": "The centrality of heavy-ion collisions is directly related to the created medium in these interactions. A procedure to determine the centrality of collisions with the LHCb detector is implemented for lead-lead collisions at \u221as <sub>NN</sub> = 5 TeV and lead-neon fixed-target collisions at \u221as <sub>NN</sub> = 69 GeV. The energy deposits in the electromagnetic calorimeter are used to determine and define the centrality classes. The correspondence between the number of participants and the centrality for the lead-lead collisions is in good agreement with the correspondence found in other experiments, and the centrality measurements for the lead-neon collisions presented here are performed for the first time in fixed-target collisions at the LHC."
-  },
+  "abstract": [
+    {
+      "atext": "The centrality of heavy-ion collisions is directly related to the created medium in these interactions. A procedure to determine the centrality of collisions with the LHCb detector is implemented for lead-lead collisions at \u221as <sub>NN</sub> = 5 TeV and lead-neon fixed-target collisions at \u221as <sub>NN</sub> = 69 GeV. The energy deposits in the electromagnetic calorimeter are used to determine and define the centrality classes. The correspondence between the number of participants and the centrality for the lead-lead collisions is in good agreement with the correspondence found in other experiments, and the centrality measurements for the lead-neon collisions presented here are performed for the first time in fixed-target collisions at the LHC."
+    }
+  ],
   "authors": [
+    {
+      "attrib": {
+        "collab": true
+      },
+      "name": {
+        "collab": "The LHCb collaboration"
+      }
+    },
     {
       "attrib": {
         "collab": true
@@ -9518,6 +9528,7 @@
       "keySystem": "misc"
     }
   ],
+  "language": "en",
   "openAccess": {
     "license": "Published by IOP Publishing Ltd on behalf of Sissa Medialab. Original content from this work may be used under the terms of the Creative Commons Attribution 4.0 licence. Any further distribution of this work must maintain attribution to the author(s) and the title of the work, journal citation and DOI.",
     "licenseURL": "http://creativecommons.org/licenses/by/4.0",
@@ -9564,10 +9575,13 @@
     }
   ],
   "recordData": {
+    "UUID": "",
     "createdTime": "",
+    "dataType": "",
     "loadFormat": "JATS",
     "loadLocation": "",
     "loadType": "fromFile",
+    "masterRecord": "",
     "parsedTime": "",
     "recordOrigin": ""
   },
@@ -9600,7 +9614,9 @@
     "<ref id=\"bd4c99230e4d77cda06d7e0e761b458f2\"><label>[26]</label><element-citation publication-type=\"journal\" xlink:type=\"simple\"><person-group person-group-type=\"author\"> <collab xlink:type=\"simple\">LHCb Collaboration</collab> <name name-style=\"western\"><surname>Aaij</surname><given-names>Roel</given-names></name> <etal/> </person-group><article-title>Measurement of charged particle multiplicities and densities in pp collisions at \u221a(s)=7TeV in the forward region</article-title><source>Eur. Phys. J. C</source><year>2014</year><volume>74</volume><fpage>2888</fpage><pub-id pub-id-type=\"doi\">10.1140/epjc/s10052-014-2888-1</pub-id><comment>(arXiv:<ext-link ext-link-type=\"arxiv\" xlink:href=\"https://arxiv.org/abs/1402.4430\" xlink:type=\"simple\">1402.4430</ext-link>)</comment></element-citation></ref>",
     "<ref id=\"b437702c71faae7284e9c521ea506ea81\"><label>[27]</label><element-citation publication-type=\"journal\" xlink:type=\"simple\"><person-group person-group-type=\"author\"> <collab xlink:type=\"simple\">ALICE Collaboration</collab> <name name-style=\"western\"><surname>Abelev</surname><given-names>Betty</given-names></name> <etal/> </person-group><article-title>Centrality determination of Pb-Pb collisions at \u221a(s_NN) = 2.76 TeV with ALICE</article-title><source>Phys. Rev. C</source><year>2013</year><volume>88</volume><elocation-id>044909</elocation-id><pub-id pub-id-type=\"doi\">10.1103/PhysRevC.88.044909</pub-id><comment>(arXiv:<ext-link ext-link-type=\"arxiv\" xlink:href=\"https://arxiv.org/abs/1301.4361\" xlink:type=\"simple\">1301.4361</ext-link>)</comment></element-citation></ref>"
   ],
-  "title": {
-    "textEnglish": "Centrality determination in heavy-ion collisions with the LHCb detector"
-  }
+  "title": [
+    {
+      "atext": "Centrality determination in heavy-ion collisions with the LHCb detector"
+    }
+  ]
 }

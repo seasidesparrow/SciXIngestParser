@@ -1,7 +1,9 @@
 {
-  "abstract": {
-    "textEnglish": "Soft magnetic composites (SMCs) play a crucial role in modern electronics and electrical devices, for which challenges remain in maintaining magnetic performance and reducing loss at megahertz (MHz) frequencies. Here, CeFeCo/FeSiAl@ polyurethane (PU) SMCs have been rationally designed with the simultaneous achievement of large relative permeability, high domain-wall resonance frequency, and low power loss. As a rare-earth soft magnetic alloy, the CeFeCo is promising for high-frequency applications due to its easy-plane anisotropy, whereas FeSiAl is advantageous with increased electrical resistivity as well as approaching-zero magnetocrystalline anisotropy and magnetostriction. Hot pressing has been adopted to achieve a dense and homogeneous distribution of CeFeCo and FeSiAl powders in the PU for reduced magnetic dilution and eddy current loss. The resultant SMCs exhibit optional soft magnetic performance with large relative permeability of 21.0, low power loss of 3677.5 kW\u00b7m<sup>\u22123</sup> at 5 MHz, and high domain-wall resonance frequency of 386.1 MHz. As such this work provides insights into the design of high-frequency SMCs incorporating novel rare-earth soft magnetic alloys."
-  },
+  "abstract": [
+    {
+      "atext": "Soft magnetic composites (SMCs) play a crucial role in modern electronics and electrical devices, for which challenges remain in maintaining magnetic performance and reducing loss at megahertz (MHz) frequencies. Here, CeFeCo/FeSiAl@ polyurethane (PU) SMCs have been rationally designed with the simultaneous achievement of large relative permeability, high domain-wall resonance frequency, and low power loss. As a rare-earth soft magnetic alloy, the CeFeCo is promising for high-frequency applications due to its easy-plane anisotropy, whereas FeSiAl is advantageous with increased electrical resistivity as well as approaching-zero magnetocrystalline anisotropy and magnetostriction. Hot pressing has been adopted to achieve a dense and homogeneous distribution of CeFeCo and FeSiAl powders in the PU for reduced magnetic dilution and eddy current loss. The resultant SMCs exhibit optional soft magnetic performance with large relative permeability of 21.0, low power loss of 3677.5 kW\u00b7m<sup>\u22123</sup> at 5 MHz, and high domain-wall resonance frequency of 386.1 MHz. As such this work provides insights into the design of high-frequency SMCs incorporating novel rare-earth soft magnetic alloys."
+    }
+  ],
   "authors": [
     {
       "affiliation": [
@@ -180,10 +182,13 @@
     }
   ],
   "recordData": {
+    "UUID": "",
     "createdTime": "",
+    "dataType": "",
     "loadFormat": "JATS",
     "loadLocation": "",
     "loadType": "fromFile",
+    "masterRecord": "",
     "parsedTime": "",
     "recordOrigin": ""
   },
@@ -236,7 +241,12 @@
     "<ref id=\"c46\"> <label>46</label> <mixed-citation publication-type=\"journal\"><string-name><given-names>W.</given-names> <surname>Li</surname></string-name>, <string-name><given-names>X.</given-names> <surname>Zhou</surname></string-name>, <string-name><given-names>Y.</given-names> <surname>Kang</surname></string-name>, <string-name><given-names>T.</given-names> <surname>Zou</surname></string-name>, <string-name><given-names>W.</given-names> <surname>Li</surname></string-name>, <string-name><given-names>Y.</given-names> <surname>Ying</surname></string-name>, <string-name><given-names>J.</given-names> <surname>Yu</surname></string-name>, <string-name><given-names>J.</given-names> <surname>Zheng</surname></string-name>, <string-name><given-names>L.</given-names> <surname>Qiao</surname></string-name>, <string-name><given-names>J.</given-names> <surname>Li</surname></string-name>, and <string-name><given-names>S.</given-names> <surname>Che</surname></string-name>, <source>J. Alloys Compd.</source> <volume>960</volume>, <fpage>171010</fpage> (<year>2023</year>).<pub-id pub-id-type=\"doi\" specific-use=\"metadata\">10.1016/j.jallcom.2023.171010</pub-id></mixed-citation> </ref>",
     "<ref id=\"c47\"> <label>47</label> <mixed-citation publication-type=\"journal\"><string-name><given-names>Z.</given-names> <surname>Zhang</surname></string-name>, <string-name><given-names>J.</given-names> <surname>Chang</surname></string-name>, <string-name><given-names>X.</given-names> <surname>Peng</surname></string-name>, <string-name><given-names>J.</given-names> <surname>Li</surname></string-name>, <string-name><given-names>Y.</given-names> <surname>Yang</surname></string-name>, <string-name><given-names>J.</given-names> <surname>Xu</surname></string-name>, <string-name><given-names>B.</given-names> <surname>Hong</surname></string-name>, <string-name><given-names>D.</given-names> <surname>Jin</surname></string-name>, <string-name><given-names>H.</given-names> <surname>Jin</surname></string-name>, <string-name><given-names>X.</given-names> <surname>Wang</surname></string-name>, and <string-name><given-names>H.</given-names> <surname>Ge</surname></string-name>, <source>J. Mater. Res. Technol.</source> <volume>18</volume>, <fpage>1381</fpage>\u2013<lpage>1390</lpage> (<year>2022</year>).<pub-id pub-id-type=\"doi\" specific-use=\"metadata\">10.1016/j.jmrt.2022.03.029</pub-id></mixed-citation> </ref>"
   ],
-  "title": {
-    "textEnglish": "High-performance CeFeCo/FeSiAl soft magnetic composites for megahertz power devices"
-  }
+  "title": [
+    {
+      "atext": "High-performance CeFeCo/FeSiAl soft magnetic composites for megahertz power devices"
+    },
+    {
+      "atext": "Wan et\u00a0al."
+    }
+  ]
 }

@@ -1,7 +1,9 @@
 {
-  "abstract": {
-    "textEnglish": "Many Lidar system applications are best implemented with photon-counting sensors such as Geiger-mode avalanche photo diode arrays (GmAPD). To meet this emerging need, SRI has become a merchant supplier for custom GmAPD sensor arrays. SRI is currently building several different custom sensor chip assembly (SCA) designs for our customers. These entirely new sensors are based on our extensive GmAPD design and camera sensor manufacturing experience and designed to address lessons learned in the field. Our objective is to build GmAPD arrays that are truly ready for use in fielded mission critical systems. We report on our development of new ROICS and both planar and mesa type detectors at 1.0um and 1.5um and our packaging, assembly, and testing approach for these new single photon sensitive sensors."
-  },
+  "abstract": [
+    {
+      "atext": "Many Lidar system applications are best implemented with photon-counting sensors such as Geiger-mode avalanche photo diode arrays (GmAPD). To meet this emerging need, SRI has become a merchant supplier for custom GmAPD sensor arrays. SRI is currently building several different custom sensor chip assembly (SCA) designs for our customers. These entirely new sensors are based on our extensive GmAPD design and camera sensor manufacturing experience and designed to address lessons learned in the field. Our objective is to build GmAPD arrays that are truly ready for use in fielded mission critical systems. We report on our development of new ROICS and both planar and mesa type detectors at 1.0um and 1.5um and our packaging, assembly, and testing approach for these new single photon sensitive sensors."
+    }
+  ],
   "authors": [
     {
       "affiliation": [
@@ -206,6 +208,7 @@
     "statement": "COPYRIGHT SPIE. Downloading of the abstract is permitted for personal use only.",
     "status": true
   },
+  "language": "en",
   "otherContributor": [
     {
       "contrib": {
@@ -276,14 +279,19 @@
     "volumeNum": "12512"
   },
   "recordData": {
+    "UUID": "",
     "createdTime": "",
+    "dataType": "",
     "loadFormat": "JATS",
     "loadLocation": "",
     "loadType": "fromFile",
+    "masterRecord": "",
     "parsedTime": "",
     "recordOrigin": ""
   },
-  "title": {
-    "textEnglish": "Geiger-mode avalanche InGaAsInP photodiode focal plane arrays for 1.0um and 1.5um Lidar imaging"
-  }
+  "title": [
+    {
+      "atext": "Geiger-mode avalanche InGaAsInP photodiode focal plane arrays for 1.0um and 1.5um Lidar imaging"
+    }
+  ]
 }

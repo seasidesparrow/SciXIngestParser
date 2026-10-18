@@ -1,7 +1,9 @@
 {
-  "abstract": {
-    "textEnglish": "Garlic and chitosan are well-known have an antimicrobial activity to terminate or inhibit the growth of bacteria. This study aims to synthesize, characterize chitosan-garlic film using FTIR, SEM, UV-VIS Spectrophotometry, and swelling analysis; and obtain antimicrobial activity during period time. The variation processes were a type of garlic extract, type of bacteria, and the concentration of garlic extract 1%, 2%, 3%, 10%, and 20%. Chitosan-garlic composite film as a product has an elastic and greasy texture. FTIR analysis shows that chitosan-garlic composite film has ionic interaction between chitosan and garlic extract. The water absorption ability of chitosan-garlic composite film cannot be well determined as not using a crosslinking agent that links garlic extract to composite film. SEM analysis shows the heterogeneous morphology surface of the chitosan-garlic film. Chitosan-garlic powder composite film at 20% concentration (b/v) tested against S. aureus has the highest antimicrobial activity with OD<sub>600</sub> 0,001342. Chitosan-garlic oil composite film at 20% concentration (v/v) tested against S. aureus has the highest antimicrobial activity with OD<sub>600</sub> 0,0013. Spectrophotometry UV-VIS method confirmed that the antimicrobial activity of chitosan-garlic composite film increased compared to the concentration of garlic extract and decreased compared to storage time. The elasticity of chitosan-garlic composite film decreased compared to the concentration of garlic extract."
-  },
+  "abstract": [
+    {
+      "atext": "Garlic and chitosan are well-known have an antimicrobial activity to terminate or inhibit the growth of bacteria. This study aims to synthesize, characterize chitosan-garlic film using FTIR, SEM, UV-VIS Spectrophotometry, and swelling analysis; and obtain antimicrobial activity during period time. The variation processes were a type of garlic extract, type of bacteria, and the concentration of garlic extract 1%, 2%, 3%, 10%, and 20%. Chitosan-garlic composite film as a product has an elastic and greasy texture. FTIR analysis shows that chitosan-garlic composite film has ionic interaction between chitosan and garlic extract. The water absorption ability of chitosan-garlic composite film cannot be well determined as not using a crosslinking agent that links garlic extract to composite film. SEM analysis shows the heterogeneous morphology surface of the chitosan-garlic film. Chitosan-garlic powder composite film at 20% concentration (b/v) tested against S. aureus has the highest antimicrobial activity with OD<sub>600</sub> 0,001342. Chitosan-garlic oil composite film at 20% concentration (v/v) tested against S. aureus has the highest antimicrobial activity with OD<sub>600</sub> 0,0013. Spectrophotometry UV-VIS method confirmed that the antimicrobial activity of chitosan-garlic composite film increased compared to the concentration of garlic extract and decreased compared to storage time. The elasticity of chitosan-garlic composite film decreased compared to the concentration of garlic extract."
+    }
+  ],
   "authors": [
     {
       "affiliation": [
@@ -157,10 +159,13 @@
     }
   ],
   "recordData": {
+    "UUID": "",
     "createdTime": "",
+    "dataType": "",
     "loadFormat": "JATS",
     "loadLocation": "",
     "loadType": "fromFile",
+    "masterRecord": "",
     "parsedTime": "",
     "recordOrigin": ""
   },
@@ -183,7 +188,9 @@
     "<ref id=\"c16\"><label>16.</label><mixed-citation publication-type=\"other\"><string-name><given-names>A.</given-names> <surname>Lucas</surname></string-name>, A. <source>Pengaruh Plasticizer terhadap Sifat Mekanik dan Struktur Kimia Film Kitosan-Pati. Penelitian.</source> (<year>2010</year>)</mixed-citation></ref>",
     "<ref id=\"c17\"><label>17.</label><mixed-citation publication-type=\"journal\"><string-name><given-names>A.M.</given-names> <surname>Far\u00edas-Campomanes</surname></string-name>, <string-name><given-names>C. N.</given-names> <surname>Horita</surname></string-name>, <string-name><given-names>M.A.R.</given-names> <surname>Pollonio</surname></string-name>, <string-name><given-names>M. A. A.</given-names> <surname>Meireles</surname></string-name>. <article-title>Allicin-Rich Extract Obtained from Garlic by Pressurized Liquid Extraction: Quantitative Determination of Allicin in Garlic Samples</article-title>, <source>Food and Public Health</source> <volume>4</volume>(<issue>6</issue>): <fpage>272</fpage>\u2013<lpage>278</lpage> (<year>2014</year>)</mixed-citation></ref>"
   ],
-  "title": {
-    "textEnglish": "Synthesis and characterization of chitosan-Allium sativum film"
-  }
+  "title": [
+    {
+      "atext": "Synthesis and characterization of chitosan-Allium sativum film"
+    }
+  ]
 }

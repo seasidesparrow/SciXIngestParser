@@ -1,7 +1,10 @@
 {
-  "abstract": {
-    "textEnglish": "Isolation of complex patterns of correlation between variables, association among samples and anomaly identification, through conventional parametric multivariate statistical procedures, may be obscured by the presence of multivariate outliers and non-normal variable distributions. Procedures such as k-means clustering generally require substantial data pre-processing. Unsupervised neural networks (UNN) have the capacity to cluster multivariate data, using a modified form of the standard unsupervised Kohonen self-organizing map that is non-linear, non-parametric, rapid and robust. The number of clusters into which samples are allocated is determined by the unsupervised neural network and is directly dependent upon the original input data.\nUNN and k-means clustering was performed on stream sediment geochemical data from 1670 sub-catchments in the northeast region of New South Wales. Both methods produced clusters for the feldspar-associated elements that were closely related to sub-catchment geology and topography. UNN clustering revealed more subtle variations within the major lithological groups. UNN clustering of CuPbZn produced ten main clusters and identified 26 anomalies, that were mainly from sub-catchments, containing significant base metal mineralization occurrences. K-means clustering of transformed CuPbZn yielded five major clusters and only 19 anomalies. Progressive increase in k from eight to 20 did not substantially alter the k-means classification of samples between common groups and anomalies. Some catchments identified only as anomalous by UNN clustering contain known base metal mineralization."
-  },
+  "abstract": [
+    {
+      "atext": "Isolation of complex patterns of correlation between variables, association among samples and anomaly identification, through conventional parametric multivariate statistical procedures, may be obscured by the presence of multivariate outliers and non-normal variable distributions. Procedures such as k-means clustering generally require substantial data pre-processing. Unsupervised neural networks (UNN) have the capacity to cluster multivariate data, using a modified form of the standard unsupervised Kohonen self-organizing map that is non-linear, non-parametric, rapid and robust. The number of clusters into which samples are allocated is determined by the unsupervised neural network and is directly dependent upon the original input data.\nUNN and k-means clustering was performed on stream sediment geochemical data from 1670 sub-catchments in the northeast region of New South Wales. Both methods produced clusters for the feldspar-associated elements that were closely related to sub-catchment geology and topography. UNN clustering revealed more subtle variations within the major lithological groups. UNN clustering of CuPbZn produced ten main clusters and identified 26 anomalies, that were mainly from sub-catchments, containing significant base metal mineralization occurrences. K-means clustering of transformed CuPbZn yielded five major clusters and only 19 anomalies. Progressive increase in k from eight to 20 did not substantially alter the k-means classification of samples between common groups and anomalies. Some catchments identified only as anomalous by UNN clustering contain known base metal mineralization.",
+      "language": "en"
+    }
+  ],
   "authors": [
     {
       "affiliation": [
@@ -55,6 +58,7 @@
       "keySystem": "misc"
     }
   ],
+  "language": "en",
   "pagination": {
     "firstPage": "119",
     "lastPage": "134",
@@ -92,10 +96,13 @@
     }
   ],
   "recordData": {
+    "UUID": "",
     "createdTime": "",
+    "dataType": "",
     "loadFormat": "JATS",
     "loadLocation": "",
     "loadType": "fromFile",
+    "masterRecord": "",
     "parsedTime": "",
     "recordOrigin": ""
   },
@@ -123,7 +130,9 @@
     "<ref id=\"B21\"> <mixed-citation><named-content content-type=\"arthw-firstauthor\"><named-content content-type=\"arthw-snm\">MACQUEEN</named-content>, <named-content content-type=\"arthw-fnm\">J.</named-content></named-content> <year>1967</year>. Some methods for classification and analysis of multivariate observations. <italic toggle=\"yes\">In</italic>: Le Cam, L.M, Neyman, &amp; J. (eds) . <italic toggle=\"yes\">Proceedings of the Fifth Berkeley Symposium on Mathematical Statistics and Probability, Volume 1</italic>. University of California Press, Berkeley<fpage>281</fpage>-297.</mixed-citation> </ref>",
     "<ref id=\"B22\"> <mixed-citation><named-content content-type=\"arthw-firstauthor\"><named-content content-type=\"arthw-snm\">MANCEY</named-content>, <named-content content-type=\"arthw-fnm\">S. J.</named-content></named-content> &amp; HOWARTH, R. J. <year>1980</year>. Power-transform removal of skewness from large data sets. <source><italic toggle=\"yes\">Institute for Mining and Metallurgy Transactions, Section B</italic></source> <volume><italic toggle=\"yes\">89</italic></volume>, <fpage>92</fpage>-97.</mixed-citation> </ref>"
   ],
-  "title": {
-    "textEnglish": "A comparison of unsupervised neural networks and k-means clustering in the analysis of multi-element stream sediment data"
-  }
+  "title": [
+    {
+      "atext": "A comparison of unsupervised neural networks and k-means clustering in the analysis of multi-element stream sediment data"
+    }
+  ]
 }

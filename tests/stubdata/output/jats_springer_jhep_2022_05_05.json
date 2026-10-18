@@ -1,7 +1,10 @@
 {
-  "abstract": {
-    "textEnglish": "A search for new heavy resonances decaying to a pair of Higgs bosons (HH) in proton-proton collisions at a center-of-mass energy of 13 TeV is presented. Data were collected with the CMS detector at the LHC in 2016\u20132018, corresponding to an integrated luminosity of 138 fb <sup> \u22121 </sup>. Resonances with a mass between 0.8 and 4.5 TeV are considered using events in which one Higgs boson decays into a bottom quark pair and the other into final states with either one or two charged leptons. Specifically, the single-lepton decay channel <inline-formula> <mml:math> <mml:mi>HH</mml:mi> <mml:mo>\u2192</mml:mo> <mml:mi>b</mml:mi> <mml:mover> <mml:mi>b</mml:mi> <mml:mo>\u00af</mml:mo> </mml:mover> <mml:msup> <mml:mi>WW</mml:mi> <mml:mo>\u2217</mml:mo> </mml:msup> <mml:mo>\u2192</mml:mo> <mml:mi>b</mml:mi> <mml:mover> <mml:mi>b</mml:mi> <mml:mo>\u00af</mml:mo> </mml:mover> <mml:mi>\u2113</mml:mi> <mml:mi>v</mml:mi> <mml:mi>q</mml:mi> <mml:msup> <mml:mover> <mml:mi>q</mml:mi> <mml:mo>\u00af</mml:mo> </mml:mover> <mml:mo>\u2032</mml:mo> </mml:msup> </mml:math> </inline-formula> and the dilepton decay channels <inline-formula> <mml:math> <mml:mi>HH</mml:mi> <mml:mo>\u2192</mml:mo> <mml:mi>b</mml:mi> <mml:mover> <mml:mi>b</mml:mi> <mml:mo>\u00af</mml:mo> </mml:mover> <mml:msup> <mml:mi>WW</mml:mi> <mml:mo>\u2217</mml:mo> </mml:msup> <mml:mo>\u2192</mml:mo> <mml:mi>b</mml:mi> <mml:mover> <mml:mi>b</mml:mi> <mml:mo>\u00af</mml:mo> </mml:mover> <mml:mi>\u2113</mml:mi> <mml:mi>v</mml:mi> <mml:mi>\u2113</mml:mi> <mml:mi>v</mml:mi> </mml:math> </inline-formula> and <inline-formula> <mml:math> <mml:mi>HH</mml:mi> <mml:mo>\u2192</mml:mo> <mml:mi>b</mml:mi> <mml:mover> <mml:mi>b</mml:mi> <mml:mo>\u00af</mml:mo> </mml:mover> <mml:mi>\u03c4\u03c4</mml:mi> <mml:mo>\u2192</mml:mo> <mml:mi>b</mml:mi> <mml:mover> <mml:mi>b</mml:mi> <mml:mo>\u00af</mml:mo> </mml:mover> <mml:mi>\u2113</mml:mi> <mml:mi>vv</mml:mi> <mml:mi>\u2113</mml:mi> <mml:mi>vv</mml:mi> </mml:math> </inline-formula> are examined, where \u2113 in the final state corresponds to an electron or muon. The signal is extracted using a two-dimensional maximum likelihood fit of the <inline-formula> <mml:math> <mml:mi>H</mml:mi> <mml:mo>\u2192</mml:mo> <mml:mi>b</mml:mi> <mml:mover> <mml:mi>b</mml:mi> <mml:mo>\u00af</mml:mo> </mml:mover> </mml:math> </inline-formula> jet mass and HH invariant mass distributions. No significant excess above the standard model expectation is observed in data. Model-independent exclusion limits are placed on the product of the cross section and branching fraction for narrow spin-0 and spin-2 massive bosons decaying to HH. The results are also interpreted in the context of radion and bulk graviton production in models with a warped extra spatial dimension. The results provide the most stringent limits to date for X \u2192 HH signatures with final-state leptons and at some masses provide the most sensitive limits of all X \u2192 HH searches.\n[graphic not available: see fulltext]"
-  },
+  "abstract": [
+    {
+      "atext": "A search for new heavy resonances decaying to a pair of Higgs bosons (HH) in proton-proton collisions at a center-of-mass energy of 13 TeV is presented. Data were collected with the CMS detector at the LHC in 2016\u20132018, corresponding to an integrated luminosity of 138 fb <sup> \u22121 </sup>. Resonances with a mass between 0.8 and 4.5 TeV are considered using events in which one Higgs boson decays into a bottom quark pair and the other into final states with either one or two charged leptons. Specifically, the single-lepton decay channel <inline-formula> <mml:math> <mml:mi>HH</mml:mi> <mml:mo>\u2192</mml:mo> <mml:mi>b</mml:mi> <mml:mover> <mml:mi>b</mml:mi> <mml:mo>\u00af</mml:mo> </mml:mover> <mml:msup> <mml:mi>WW</mml:mi> <mml:mo>\u2217</mml:mo> </mml:msup> <mml:mo>\u2192</mml:mo> <mml:mi>b</mml:mi> <mml:mover> <mml:mi>b</mml:mi> <mml:mo>\u00af</mml:mo> </mml:mover> <mml:mi>\u2113</mml:mi> <mml:mi>v</mml:mi> <mml:mi>q</mml:mi> <mml:msup> <mml:mover> <mml:mi>q</mml:mi> <mml:mo>\u00af</mml:mo> </mml:mover> <mml:mo>\u2032</mml:mo> </mml:msup> </mml:math> </inline-formula> and the dilepton decay channels <inline-formula> <mml:math> <mml:mi>HH</mml:mi> <mml:mo>\u2192</mml:mo> <mml:mi>b</mml:mi> <mml:mover> <mml:mi>b</mml:mi> <mml:mo>\u00af</mml:mo> </mml:mover> <mml:msup> <mml:mi>WW</mml:mi> <mml:mo>\u2217</mml:mo> </mml:msup> <mml:mo>\u2192</mml:mo> <mml:mi>b</mml:mi> <mml:mover> <mml:mi>b</mml:mi> <mml:mo>\u00af</mml:mo> </mml:mover> <mml:mi>\u2113</mml:mi> <mml:mi>v</mml:mi> <mml:mi>\u2113</mml:mi> <mml:mi>v</mml:mi> </mml:math> </inline-formula> and <inline-formula> <mml:math> <mml:mi>HH</mml:mi> <mml:mo>\u2192</mml:mo> <mml:mi>b</mml:mi> <mml:mover> <mml:mi>b</mml:mi> <mml:mo>\u00af</mml:mo> </mml:mover> <mml:mi>\u03c4\u03c4</mml:mi> <mml:mo>\u2192</mml:mo> <mml:mi>b</mml:mi> <mml:mover> <mml:mi>b</mml:mi> <mml:mo>\u00af</mml:mo> </mml:mover> <mml:mi>\u2113</mml:mi> <mml:mi>vv</mml:mi> <mml:mi>\u2113</mml:mi> <mml:mi>vv</mml:mi> </mml:math> </inline-formula> are examined, where \u2113 in the final state corresponds to an electron or muon. The signal is extracted using a two-dimensional maximum likelihood fit of the <inline-formula> <mml:math> <mml:mi>H</mml:mi> <mml:mo>\u2192</mml:mo> <mml:mi>b</mml:mi> <mml:mover> <mml:mi>b</mml:mi> <mml:mo>\u00af</mml:mo> </mml:mover> </mml:math> </inline-formula> jet mass and HH invariant mass distributions. No significant excess above the standard model expectation is observed in data. Model-independent exclusion limits are placed on the product of the cross section and branching fraction for narrow spin-0 and spin-2 massive bosons decaying to HH. The results are also interpreted in the context of radion and bulk graviton production in models with a warped extra spatial dimension. The results provide the most stringent limits to date for X \u2192 HH signatures with final-state leptons and at some masses provide the most sensitive limits of all X \u2192 HH searches.\n[graphic not available: see fulltext]",
+      "language": "en"
+    }
+  ],
   "authors": [
     {
       "attrib": {
@@ -56692,6 +56695,7 @@
       "keySystem": "misc"
     }
   ],
+  "language": "en",
   "openAccess": {
     "license": "Open Access. This article is distributed under the terms of the Creative Commons Attribution License ( CC-BY 4.0), which permits any use, distribution and reproduction in any medium, provided the original author(s) and source are credited.",
     "licenseURL": "http://creativecommons.org/licenses/by/4.0/",
@@ -56738,10 +56742,13 @@
     }
   ],
   "recordData": {
+    "UUID": "",
     "createdTime": "",
+    "dataType": "",
     "loadFormat": "JATS",
     "loadLocation": "",
     "loadType": "fromFile",
+    "masterRecord": "",
     "parsedTime": "",
     "recordOrigin": ""
   },
@@ -56861,7 +56868,10 @@
     "<ref id=\"CR113\"> <label>[113]</label> <mixed-citation publication-type=\"other\">A. Carvalho, \t\t\t\t\t\t<italic>Gravity particles from Warped Extra Dimensions, predictions for LHC</italic>, \t\t\t\t\t\t<ext-link ext-link-type=\"url\" xlink:href=\"https://arxiv.org/abs/1404.0102\">arXiv:1404.0102</ext-link> [ \t\t\t\t\t\t<ext-link ext-link-type=\"url\" xlink:href=\"https://inspirehep.net/search?p=find%2BEPRINT%2BarXiv%3A1404.0102\">INSPIRE</ext-link>]. \t\t\t\t\t</mixed-citation> </ref>",
     "<ref id=\"CR114\"> <label>[114]</label> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Gouzevitch</surname> <given-names>M</given-names> </name> <name> <surname>Oliveira</surname> <given-names>A</given-names> </name> <name> <surname>Rojo</surname> <given-names>J</given-names> </name> <name> <surname>Rosenfeld</surname> <given-names>R</given-names> </name> <name> <surname>Salam</surname> <given-names>GP</given-names> </name> <name> <surname>Sanz</surname> <given-names>V</given-names> </name> </person-group> <article-title xml:lang=\"en\"> <italic>Scale-invariant resonance tagging in multijet events and new physics in Higgs pair production</italic> </article-title> <source>JHEP</source> <year>2013</year> <volume>07</volume> <fpage>148</fpage> <pub-id pub-id-type=\"bibcode\">2013JHEP...07..148G</pub-id> <pub-id pub-id-type=\"doi\">10.1007/JHEP07(2013)148</pub-id> <comment>[arXiv:1303.6636] [INSPIRE]</comment> </mixed-citation> </ref>"
   ],
-  "title": {
-    "textEnglish": "Search for heavy resonances decaying to a pair of Lorentz-boosted Higgs bosons in final states with leptons and a bottom quark pair at <inline-formula> <mml:math> <mml:msqrt> <mml:mi>s</mml:mi> </mml:msqrt> </mml:math> </inline-formula>= 13 TeV"
-  }
+  "title": [
+    {
+      "atext": "Search for heavy resonances decaying to a pair of Lorentz-boosted Higgs bosons in final states with leptons and a bottom quark pair at <inline-formula> <mml:math> <mml:msqrt> <mml:mi>s</mml:mi> </mml:msqrt> </mml:math> </inline-formula>= 13 TeV",
+      "language": "en"
+    }
+  ]
 }

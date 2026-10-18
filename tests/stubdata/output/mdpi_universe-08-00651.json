@@ -1,7 +1,9 @@
 {
-  "abstract": {
-    "textEnglish": "We investigate the dependence of elemental abundances on physical constants, and the implications this has for the distribution of complex life for various proposed habitability criteria. We consider three main sources of abundance variation: differing supernova rates, alpha burning in massive stars, and isotopic stability, and how each affects the metal-to-rock ratio and the abundances of carbon, oxygen, nitrogen, phosphorus, sulfur, silicon, magnesium, and iron. Our analysis leads to several predictions for which habitability criteria are correct by determining which ones make our observations of the physical constants, as well as a few other observed features of our universe, most likely. Our results indicate that carbon-rich or carbon-poor planets are uninhabitable, slightly magnesium-rich planets are habitable, and life does not depend on nitrogen abundance too sensitively. We also find suggestive but inconclusive evidence that metal-rich planets and phosphorus-poor planets are habitable. These predictions can then be checked by probing regions of our universe that closely resemble normal environments in other universes. If any of these predictions are found to be wrong, the multiverse scenario would predict that the majority of observers are born in universes differing substantially from ours, and so can be ruled out, to varying degrees of statistical significance."
-  },
+  "abstract": [
+    {
+      "atext": "We investigate the dependence of elemental abundances on physical constants, and the implications this has for the distribution of complex life for various proposed habitability criteria. We consider three main sources of abundance variation: differing supernova rates, alpha burning in massive stars, and isotopic stability, and how each affects the metal-to-rock ratio and the abundances of carbon, oxygen, nitrogen, phosphorus, sulfur, silicon, magnesium, and iron. Our analysis leads to several predictions for which habitability criteria are correct by determining which ones make our observations of the physical constants, as well as a few other observed features of our universe, most likely. Our results indicate that carbon-rich or carbon-poor planets are uninhabitable, slightly magnesium-rich planets are habitable, and life does not depend on nitrogen abundance too sensitively. We also find suggestive but inconclusive evidence that metal-rich planets and phosphorus-poor planets are habitable. These predictions can then be checked by probing regions of our universe that closely resemble normal environments in other universes. If any of these predictions are found to be wrong, the multiverse scenario would predict that the majority of observers are born in universes differing substantially from ours, and so can be ruled out, to varying degrees of statistical significance."
+    }
+  ],
   "authors": [
     {
       "affiliation": [
@@ -89,6 +91,7 @@
       "keySystem": "misc"
     }
   ],
+  "language": "en",
   "openAccess": {
     "license": "Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (https://creativecommons.org/licenses/by/4.0/).",
     "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
@@ -136,10 +139,13 @@
     }
   ],
   "recordData": {
+    "UUID": "",
     "createdTime": "",
+    "dataType": "",
     "loadFormat": "JATS",
     "loadLocation": "",
     "loadType": "fromFile",
+    "masterRecord": "",
     "parsedTime": "",
     "recordOrigin": ""
   },
@@ -258,7 +264,9 @@
     "<ref id=\"B112-universe-08-00651\"> <label>112.</label> <element-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Lau</surname> <given-names>H.H.</given-names> </name> <name> <surname>Potter</surname> <given-names>A.T.</given-names> </name> <name> <surname>Tout</surname> <given-names>C.A.</given-names> </name> </person-group> <article-title>Spin-down of massive rotating stars</article-title> <source>Mon. Not. R. Astron. Soc.</source> <year>2011</year> <volume>415</volume> <fpage>959</fpage> <lpage>963</lpage> <pub-id pub-id-type=\"doi\">10.1111/j.1365-2966.2011.18766.x</pub-id> </element-citation> </ref>",
     "<ref id=\"B113-universe-08-00651\"> <label>113.</label> <element-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Talon</surname> <given-names>S.</given-names> </name> <name> <surname>Zahn</surname> <given-names>J.P.</given-names> </name> </person-group> <article-title>Anisotropic diffusion and shear instabilities</article-title> <source>Astron. Astrophys.</source> <year>1997</year> <volume>317</volume> <fpage>749</fpage> <lpage>751</lpage> </element-citation> </ref>"
   ],
-  "title": {
-    "textEnglish": "Multiverse Predictions for Habitability: Element Abundances"
-  }
+  "title": [
+    {
+      "atext": "Multiverse Predictions for Habitability: Element Abundances"
+    }
+  ]
 }

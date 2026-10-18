@@ -1,7 +1,9 @@
 {
-  "abstract": {
-    "textEnglish": "Since 2015, the Ecomodernist Manifesto has inspired efforts to shape a better future for people and the rest of life in the Anthropocene. At the same time, misconceptions and misunderstandings have arisen about what ecomodernism stands for. As three authors of the Manifesto, we offer this clarifying perspective."
-  },
+  "abstract": [
+    {
+      "atext": "Since 2015, the Ecomodernist Manifesto has inspired efforts to shape a better future for people and the rest of life in the Anthropocene. At the same time, misconceptions and misunderstandings have arisen about what ecomodernism stands for. As three authors of the Manifesto, we offer this clarifying perspective."
+    }
+  ],
   "authors": [
     {
       "affiliation": [
@@ -92,6 +94,7 @@
       "keySystem": "misc"
     }
   ],
+  "language": "en",
   "openAccess": {
     "license": "This article is distributed under the terms of the Creative Commons Attribution-NonCommercial 4.0 License (https://creativecommons.org/licenses/by-nc/4.0/) which permits non-commercial use, reproduction and distribution of the work without further permission provided the original work is attributed as specified on the SAGE and Open Access pages (https://us.sagepub.com/en-us/nam/open-access-at-sage).",
     "licenseURL": "https://creativecommons.org/licenses/by-nc/4.0/",
@@ -134,14 +137,19 @@
     }
   ],
   "recordData": {
+    "UUID": "",
     "createdTime": "",
+    "dataType": "",
     "loadFormat": "JATS",
     "loadLocation": "",
     "loadType": "fromFile",
+    "masterRecord": "",
     "parsedTime": "",
     "recordOrigin": ""
   },
-  "title": {
-    "textEnglish": "Ecomodernism: A clarifying perspective"
-  }
+  "title": [
+    {
+      "atext": "Ecomodernism: A clarifying perspective"
+    }
+  ]
 }

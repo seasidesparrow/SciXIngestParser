@@ -1,7 +1,9 @@
 {
-  "abstract": {
-    "textEnglish": "Eddy saturation describes the nonlinear mechanism in geophysical flows whereby, when average conditions are considered, direct forcing of the zonal flow increases the eddy kinetic energy, while the energy associated with the zonal flow does not increase. Here, we present a minimal baroclinic model that exhibits complete eddy saturation. Starting from Phillips' classical quasi-geostrophic two-level model on the beta channel of the mid-latitudes, we derive a reduced order model comprising of six ordinary differential equations including parameterised eddies. This model features two physically realisable steady state solutions, one a purely zonal flow and one where, additionally, finite eddy motions are present. As the baroclinic forcing in the form of diabatic heating is increased, the zonal solution loses stability and the eddy solution becomes attracting. After this bifurcation, the zonal components of the solution are independent of the baroclinic forcing, and the excess of heat in the low latitudes is efficiently transported northwards by finite eddies, in the spirit of baroclinic adjustment."
-  },
+  "abstract": [
+    {
+      "atext": "Eddy saturation describes the nonlinear mechanism in geophysical flows whereby, when average conditions are considered, direct forcing of the zonal flow increases the eddy kinetic energy, while the energy associated with the zonal flow does not increase. Here, we present a minimal baroclinic model that exhibits complete eddy saturation. Starting from Phillips' classical quasi-geostrophic two-level model on the beta channel of the mid-latitudes, we derive a reduced order model comprising of six ordinary differential equations including parameterised eddies. This model features two physically realisable steady state solutions, one a purely zonal flow and one where, additionally, finite eddy motions are present. As the baroclinic forcing in the form of diabatic heating is increased, the zonal solution loses stability and the eddy solution becomes attracting. After this bifurcation, the zonal components of the solution are independent of the baroclinic forcing, and the excess of heat in the low latitudes is efficiently transported northwards by finite eddies, in the spirit of baroclinic adjustment."
+    }
+  ],
   "authors": [
     {
       "affiliation": [
@@ -134,10 +136,13 @@
     }
   ],
   "recordData": {
+    "UUID": "",
     "createdTime": "",
+    "dataType": "",
     "loadFormat": "JATS",
     "loadLocation": "",
     "loadType": "fromFile",
+    "masterRecord": "",
     "parsedTime": "",
     "recordOrigin": ""
   },
@@ -167,7 +172,9 @@
     "<ref id=\"CIT0023\"> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <string-name> <surname>Straub</surname> <x xml:space=\"preserve\">, </x> <given-names>D.N.</given-names> </string-name> </person-group> <x xml:space=\"preserve\">, </x> <article-title>On the transport and angular momentum balance of channel models of the Antarctic circumpolar current</article-title> <x xml:space=\"preserve\">. </x> <source> <italic>J. Phys. Oceanogr.</italic> </source> <x xml:space=\"preserve\"> </x> <year>1993</year> <x xml:space=\"preserve\">, </x> <volume> <bold>23</bold> </volume> <x xml:space=\"preserve\">, </x> <fpage>776</fpage> <x xml:space=\"preserve\">\u2013</x> <lpage>782</lpage> <x xml:space=\"preserve\">.</x> </mixed-citation> </ref>",
     "<ref id=\"CIT0024\"> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <string-name> <surname>Thompson</surname> <x xml:space=\"preserve\">, </x> <given-names>P.D.</given-names> </string-name> </person-group> <x xml:space=\"preserve\">, </x> <article-title>Large-scale dynamical response to differential heating: statistical equilibrium states and amplitude vacillation</article-title> <x xml:space=\"preserve\">. </x> <source> <italic>J. Atmos. Sci.</italic> </source> <x xml:space=\"preserve\"> </x> <year>1987</year> <x xml:space=\"preserve\">, </x> <volume> <bold>44</bold> </volume> <x xml:space=\"preserve\">, </x> <fpage>1237</fpage> <x xml:space=\"preserve\">\u2013</x> <lpage>1248</lpage> <x xml:space=\"preserve\">.</x> </mixed-citation> </ref>"
   ],
-  "title": {
-    "textEnglish": "Eddy saturation in a reduced two-level model of the atmosphere"
-  }
+  "title": [
+    {
+      "atext": "Eddy saturation in a reduced two-level model of the atmosphere"
+    }
+  ]
 }

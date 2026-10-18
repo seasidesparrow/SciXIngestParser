@@ -1,7 +1,9 @@
 {
-  "abstract": {
-    "textEnglish": "Iron line spectroscopy has been one of the leading methods not only for measuring the spins of accreting black holes but also for testing fundamental physics. Basing on such a method, we present an analysis of a data set observed simultaneously by NuSTAR and NICER for the black hole binary candidate MAXI J1803-298, which shows prominent relativistic reflection features. Various relxill_ nk flavors are utilized to test the Kerr black hole hypothesis. The results obtained from our analysis provide stringent constraints on Johannsen deformation parameter \u03b1 <sub>13</sub> with the highest precise to date, namely <inline-formula> <mml:math> <mml:msub> <mml:mrow> <mml:mi>\u03b1</mml:mi> </mml:mrow> <mml:mrow> <mml:mn>13</mml:mn> </mml:mrow> </mml:msub> <mml:mo>=</mml:mo> <mml:msubsup> <mml:mrow> <mml:mn>0.023</mml:mn> </mml:mrow> <mml:mrow> <mml:mo>\u2212</mml:mo> <mml:mn>0.038</mml:mn> </mml:mrow> <mml:mrow> <mml:mo>+</mml:mo> <mml:mn>0.071</mml:mn> </mml:mrow> </mml:msubsup> </mml:math> </inline-formula> from relxillD_ nk and <inline-formula> <mml:math> <mml:msub> <mml:mrow> <mml:mi>\u03b1</mml:mi> </mml:mrow> <mml:mrow> <mml:mn>13</mml:mn> </mml:mrow> </mml:msub> <mml:mo>=</mml:mo> <mml:msubsup> <mml:mrow> <mml:mn>0.006</mml:mn> </mml:mrow> <mml:mrow> <mml:mo>\u2212</mml:mo> <mml:mn>0.022</mml:mn> </mml:mrow> <mml:mrow> <mml:mo>+</mml:mo> <mml:mn>0.045</mml:mn> </mml:mrow> </mml:msubsup> </mml:math> </inline-formula> from relxillion_ nk, respectively, in 3 \u03c3 credible lever, where the Johannsen metric reduces to the Kerr metric when \u03b1 <sub>13</sub> vanishes. Furthermore, we investigate the best model fit results using Akaike information criterion and assess its systematic uncertainties."
-  },
+  "abstract": [
+    {
+      "atext": "Iron line spectroscopy has been one of the leading methods not only for measuring the spins of accreting black holes but also for testing fundamental physics. Basing on such a method, we present an analysis of a data set observed simultaneously by NuSTAR and NICER for the black hole binary candidate MAXI J1803-298, which shows prominent relativistic reflection features. Various relxill_ nk flavors are utilized to test the Kerr black hole hypothesis. The results obtained from our analysis provide stringent constraints on Johannsen deformation parameter \u03b1 <sub>13</sub> with the highest precise to date, namely <inline-formula> <mml:math> <mml:msub> <mml:mrow> <mml:mi>\u03b1</mml:mi> </mml:mrow> <mml:mrow> <mml:mn>13</mml:mn> </mml:mrow> </mml:msub> <mml:mo>=</mml:mo> <mml:msubsup> <mml:mrow> <mml:mn>0.023</mml:mn> </mml:mrow> <mml:mrow> <mml:mo>\u2212</mml:mo> <mml:mn>0.038</mml:mn> </mml:mrow> <mml:mrow> <mml:mo>+</mml:mo> <mml:mn>0.071</mml:mn> </mml:mrow> </mml:msubsup> </mml:math> </inline-formula> from relxillD_ nk and <inline-formula> <mml:math> <mml:msub> <mml:mrow> <mml:mi>\u03b1</mml:mi> </mml:mrow> <mml:mrow> <mml:mn>13</mml:mn> </mml:mrow> </mml:msub> <mml:mo>=</mml:mo> <mml:msubsup> <mml:mrow> <mml:mn>0.006</mml:mn> </mml:mrow> <mml:mrow> <mml:mo>\u2212</mml:mo> <mml:mn>0.022</mml:mn> </mml:mrow> <mml:mrow> <mml:mo>+</mml:mo> <mml:mn>0.045</mml:mn> </mml:mrow> </mml:msubsup> </mml:math> </inline-formula> from relxillion_ nk, respectively, in 3 \u03c3 credible lever, where the Johannsen metric reduces to the Kerr metric when \u03b1 <sub>13</sub> vanishes. Furthermore, we investigate the best model fit results using Akaike information criterion and assess its systematic uncertainties."
+    }
+  ],
   "authors": [
     {
       "affiliation": [
@@ -158,6 +160,7 @@
       "keySystem": "UAT"
     }
   ],
+  "language": "en",
   "openAccess": {
     "license": "Original content from this work may be used under the terms of the Creative Commons Attribution 4.0 licence. Any further distribution of this work must maintain attribution to the author(s) and the title of the work, journal citation and DOI.",
     "licenseURL": "http://creativecommons.org/licenses/by/4.0/",
@@ -208,10 +211,13 @@
     }
   ],
   "recordData": {
+    "UUID": "",
     "createdTime": "",
+    "dataType": "",
     "loadFormat": "JATS",
     "loadLocation": "",
     "loadType": "fromFile",
+    "masterRecord": "",
     "parsedTime": "",
     "recordOrigin": ""
   },
@@ -278,7 +284,9 @@
     "<ref id=\"apjad3c2bbib60\"> <element-citation publication-type=\"preprint\" xlink:type=\"simple\"> <person-group person-group-type=\"author\"> <name name-style=\"western\"> <surname>Zhang</surname> <given-names>Z.</given-names> </name> <name name-style=\"western\"> <surname>Bambi</surname> <given-names>C.</given-names> </name> <name name-style=\"western\"> <surname>Liu</surname> <given-names>H.</given-names> </name> <etal/> </person-group> <year>2024</year> <comment>arXiv: \t\t\t\t\t\t<ext-link ext-link-type=\"arxiv\" xlink:href=\"http://arxiv.org/abs/2402.10315\" xlink:type=\"simple\">2402.10315</ext-link> </comment> <pub-id pub-id-type=\"other\" specific-use=\"ads\">2024arXiv240210315Z</pub-id> </element-citation> </ref>",
     "<ref id=\"apjad3c2bbib61\"> <element-citation publication-type=\"journal\" xlink:type=\"simple\"> <person-group person-group-type=\"author\"> <name name-style=\"western\"> <surname>Zhu</surname> <given-names>H.</given-names> </name> <name name-style=\"western\"> <surname>Chen</surname> <given-names>X.</given-names> </name> <name name-style=\"western\"> <surname>Wang</surname> <given-names>W.</given-names> </name> </person-group> <year>2023</year> <source>MNRAS</source> <volume>523</volume> <fpage>4394</fpage> <pub-id pub-id-type=\"other\" specific-use=\"ads\">2023MNRAS.523.4394Z</pub-id> <pub-id pub-id-type=\"doi\">10.1093/mnras/stad1656</pub-id> </element-citation> </ref>"
   ],
-  "title": {
-    "textEnglish": "Tests of the Kerr Hypothesis with MAXI J1803-298 Using Different RELXILL_NK Flavors"
-  }
+  "title": [
+    {
+      "atext": "Tests of the Kerr Hypothesis with MAXI J1803-298 Using Different RELXILL_NK Flavors"
+    }
+  ]
 }

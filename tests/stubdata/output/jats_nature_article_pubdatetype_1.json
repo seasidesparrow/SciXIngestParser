@@ -1,7 +1,10 @@
 {
-  "abstract": {
-    "textEnglish": "Developing skeletal editing tools is not a trivial task, and realizing the corresponding single-atom transmutation in a ring system without altering the ring size is even more challenging. Here, we introduce a skeletal editing strategy that enables polycyclic arenols, a highly prevalent motif in bioactive molecules, to be readily converted into N-heteroarenes through carbon\u2013nitrogen transmutation. The reaction features selective nitrogen insertion into the C\u2013C bond of the arenol frameworks by azidative dearomatization and aryl migration, followed by ring-opening, and ring-closing (ANRORC) to achieve carbon-to-nitrogen transmutation in the aromatic framework of the arenol. Using widely available arenols as N-heteroarene precursors, this alternative approach allows the streamlined assembly of complex polycyclic heteroaromatics with broad functional group tolerance. Finally, pertinent transformations of the products, including synthesis complex biheteroarene skeletons, were conducted and exhibited significant potential in materials chemistry."
-  },
+  "abstract": [
+    {
+      "atext": "Developing skeletal editing tools is not a trivial task, and realizing the corresponding single-atom transmutation in a ring system without altering the ring size is even more challenging. Here, we introduce a skeletal editing strategy that enables polycyclic arenols, a highly prevalent motif in bioactive molecules, to be readily converted into N-heteroarenes through carbon\u2013nitrogen transmutation. The reaction features selective nitrogen insertion into the C\u2013C bond of the arenol frameworks by azidative dearomatization and aryl migration, followed by ring-opening, and ring-closing (ANRORC) to achieve carbon-to-nitrogen transmutation in the aromatic framework of the arenol. Using widely available arenols as N-heteroarene precursors, this alternative approach allows the streamlined assembly of complex polycyclic heteroaromatics with broad functional group tolerance. Finally, pertinent transformations of the products, including synthesis complex biheteroarene skeletons, were conducted and exhibited significant potential in materials chemistry.",
+      "language": "en"
+    }
+  ],
   "authors": [
     {
       "affiliation": [
@@ -189,6 +192,7 @@
       "agencyname": "Natural Science Basic Research Plan in Shaanxi Province of China (2023-JC-YB-126)"
     }
   ],
+  "language": "en",
   "openAccess": {
     "license": "Open Access This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article\u2019s Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article\u2019s Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit http://creativecommons.org/licenses/by/4.0/.",
     "licenseURL": "http://creativecommons.org/licenses/by/4.0/",
@@ -235,10 +239,13 @@
     }
   ],
   "recordData": {
+    "UUID": "",
     "createdTime": "",
+    "dataType": "",
     "loadFormat": "JATS",
     "loadLocation": "",
     "loadType": "fromFile",
+    "masterRecord": "",
     "parsedTime": "",
     "recordOrigin": ""
   },
@@ -306,7 +313,10 @@
     "<ref id=\"CR61\"> <label>61.</label> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Szostak</surname> <given-names>M</given-names> </name> <name> <surname>Yao</surname> <given-names>L</given-names> </name> <name> <surname>Aub\u00e9</surname> <given-names>J</given-names> </name> </person-group> <article-title xml:lang=\"en\">Proximity effects in nucleophilic addition reactions to medium-bridged twisted lactams: remarkably stable tetrahedral intermediates</article-title> <source>J. Am. Chem. Soc.</source> <year>2010</year> <volume>132</volume> <fpage>2078</fpage> <lpage>2084</lpage> <pub-id pub-id-type=\"coi\">1:CAS:528:DC%2BC3cXptlyhuw%3D%3D</pub-id> <pub-id pub-id-type=\"pmid\">20095610</pub-id> <pub-id pub-id-type=\"pmcid\">2820158</pub-id> <pub-id pub-id-type=\"doi\">10.1021/ja909792h</pub-id> </mixed-citation> </ref>",
     "<ref id=\"CR62\"> <label>62.</label> <mixed-citation publication-type=\"other\">Bagdanoff, J. T., Behenna, D. C., Stockdill, J. L. &amp; B. M. Stoltz. Enantioselective synthesis of caprolactam and enone precursors to the heterocyclic DEFG ring system of zoanthenol. \t\t\t\t\t\t<italic>Eur. J. Org. Chem</italic>. \t\t\t\t\t\t<bold>2016</bold>, 2101\u20132104 (2016). \t\t\t\t\t</mixed-citation> </ref>"
   ],
-  "title": {
-    "textEnglish": "Carbon\u2013nitrogen transmutation in polycyclic arenol skeletons to access N-heteroarenes"
-  }
+  "title": [
+    {
+      "atext": "Carbon\u2013nitrogen transmutation in polycyclic arenol skeletons to access N-heteroarenes",
+      "language": "en"
+    }
+  ]
 }

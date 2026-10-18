@@ -1,7 +1,10 @@
 {
-  "abstract": {
-    "textEnglish": "A growing body of literature suggests the important role of the thalamus in cognition and neurodegenerative diseases. This study aims to elucidate whether the preoperative thalamic volume is associated with preoperative cognitive impairment (preCI) and whether it is predictive for postoperative cognitive dysfunction at 3 months (POCD). We enrolled 301 patients aged 65 or older and without signs of dementia who were undergoing elective surgery. Magnetic resonance imaging was conducted prior to surgery. Freesurfer (version 5.3.) was used to automatically segment the thalamus volume. A neuropsychological test battery was administered before surgery and at a 3 month follow-up. It included the computerized tests Paired Associate Learning (PAL), Verbal Recognition Memory (VRM), Spatial Span Length (SSP), Simple Reaction Time (SRT), the pen-and-paper Trail-Making-Test (TMT) and the manual Grooved Pegboard Test (GPT). Using a reliable change index, preCI and POCD were defined as total Z-score > 1.96 (sum score over all tests) and/or Z-scores > 1.96 in \u2265 2 individual cognitive test parameters. For statistical analyses, multivariable logistic regression models were applied. Age, sex and intracranial volume were covariates in the models. Of 301 patients who received a presurgical neuropsychological testing and MRI, 34 (11.3%) had preCI. 89 patients (29.5%) were lost to follow-up. The remaining 212 patients received a follow-up cognitive test after 3 months, of whom 25 (8.3%) presented with POCD. Independently of age, sex and intracranial volume, neither preCI (OR per cm <sup>3</sup> increment 0.81 [95% CI 0.60\u20131.07] p = 0.14) nor POCD (OR 1.02 per cm <sup>3</sup> increment [95% CI 0.75\u20131.40] p = 0.87) were statistically significantly associated with patients\u2019 preoperative thalamus volume. In this cohort we could not show an association of presurgical thalamus volume with preCI or POCD.\nClinical Trial Number: NCT02265263 ( https://clinicaltrials.gov/ct2/show/results/NCT02265263) ."
-  },
+  "abstract": [
+    {
+      "atext": "A growing body of literature suggests the important role of the thalamus in cognition and neurodegenerative diseases. This study aims to elucidate whether the preoperative thalamic volume is associated with preoperative cognitive impairment (preCI) and whether it is predictive for postoperative cognitive dysfunction at 3 months (POCD). We enrolled 301 patients aged 65 or older and without signs of dementia who were undergoing elective surgery. Magnetic resonance imaging was conducted prior to surgery. Freesurfer (version 5.3.) was used to automatically segment the thalamus volume. A neuropsychological test battery was administered before surgery and at a 3 month follow-up. It included the computerized tests Paired Associate Learning (PAL), Verbal Recognition Memory (VRM), Spatial Span Length (SSP), Simple Reaction Time (SRT), the pen-and-paper Trail-Making-Test (TMT) and the manual Grooved Pegboard Test (GPT). Using a reliable change index, preCI and POCD were defined as total Z-score &gt; 1.96 (sum score over all tests) and/or Z-scores &gt; 1.96 in \u2265 2 individual cognitive test parameters. For statistical analyses, multivariable logistic regression models were applied. Age, sex and intracranial volume were covariates in the models. Of 301 patients who received a presurgical neuropsychological testing and MRI, 34 (11.3%) had preCI. 89 patients (29.5%) were lost to follow-up. The remaining 212 patients received a follow-up cognitive test after 3 months, of whom 25 (8.3%) presented with POCD. Independently of age, sex and intracranial volume, neither preCI (OR per cm <sup>3</sup> increment 0.81 [95% CI 0.60\u20131.07] p = 0.14) nor POCD (OR 1.02 per cm <sup>3</sup> increment [95% CI 0.75\u20131.40] p = 0.87) were statistically significantly associated with patients\u2019 preoperative thalamus volume. In this cohort we could not show an association of presurgical thalamus volume with preCI or POCD.\nClinical Trial Number: NCT02265263 ( https://clinicaltrials.gov/ct2/show/results/NCT02265263) .",
+      "language": "en"
+    }
+  ],
   "authors": [
     {
       "affiliation": [
@@ -1313,6 +1316,7 @@
       "agencyname": "Charit\u00e9 - Universit\u00e4tsmedizin Berlin (3093)"
     }
   ],
+  "language": "en",
   "openAccess": {
     "license": "Open Access This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article's Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article's Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit http://creativecommons.org/licenses/by/4.0/.",
     "licenseURL": "http://creativecommons.org/licenses/by/4.0/",
@@ -1359,10 +1363,13 @@
     }
   ],
   "recordData": {
+    "UUID": "",
     "createdTime": "",
+    "dataType": "",
     "loadFormat": "JATS",
     "loadLocation": "",
     "loadType": "fromFile",
+    "masterRecord": "",
     "parsedTime": "",
     "recordOrigin": ""
   },
@@ -1411,7 +1418,10 @@
     "<ref id=\"CR42\"> <label>42.</label> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Berger</surname> <given-names>M</given-names> </name> <name> <surname>Terrando</surname> <given-names>N</given-names> </name> <name> <surname>Smith</surname> <given-names>SK</given-names> </name> <name> <surname>Browndyke</surname> <given-names>JN</given-names> </name> <name> <surname>Newman</surname> <given-names>MF</given-names> </name> <name> <surname>Mathew</surname> <given-names>JP</given-names> </name> </person-group> <article-title xml:lang=\"en\">Neurocognitive function after cardiac surgery: From phenotypes to mechanisms</article-title> <source>Anesthesiology</source> <year>2018</year> <volume>129</volume> <fpage>829</fpage> <lpage>851</lpage> <pub-id pub-id-type=\"pmid\">29621031</pub-id> </mixed-citation> </ref>",
     "<ref id=\"CR43\"> <label>43.</label> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Dieleman</surname> <given-names>N</given-names> </name> <name> <surname>Koek</surname> <given-names>HL</given-names> </name> <name> <surname>Hendrikse</surname> <given-names>J</given-names> </name> </person-group> <article-title xml:lang=\"en\">Short-term mechanisms influencing volumetric brain dynamics</article-title> <source>Neuroimage Clin.</source> <year>2017</year> <volume>16</volume> <fpage>507</fpage> <lpage>513</lpage> <pub-id pub-id-type=\"pmid\">28971004</pub-id> <pub-id pub-id-type=\"pmcid\">5609861</pub-id> </mixed-citation> </ref>"
   ],
-  "title": {
-    "textEnglish": "Preoperative thalamus volume is not associated with preoperative cognitive impairment (preCI) or postoperative cognitive dysfunction (POCD)"
-  }
+  "title": [
+    {
+      "atext": "Preoperative thalamus volume is not associated with preoperative cognitive impairment (preCI) or postoperative cognitive dysfunction (POCD)",
+      "language": "en"
+    }
+  ]
 }

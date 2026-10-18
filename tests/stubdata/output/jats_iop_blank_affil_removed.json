@@ -1,7 +1,9 @@
 {
-  "abstract": {
-    "textEnglish": "Observations of supernovae (SNe) Ic occurring after the prompt emission of long gamma-ray bursts (GRBs) are addressed within the binary-driven hypernova (BdHN) model where GRBs originate from a binary composed of a \u223c10M <sub>\u2299</sub> carbon\u2013oxygen (CO) star and a neutron star (NS). The CO core collapse gives the trigger, leading to a hypernova with a fast-spinning newborn NS (\u03bdNS) at its center. The evolution depends strongly on the binary period, P <sub>bin</sub>. For P <sub>bin</sub> \u223c 5 min, BdHNe I occur with energies 10<sup>52</sup>\u201310<sup>54</sup> erg. The accretion of SN ejecta onto the NS leads to its collapse, forming a black hole (BH) originating the MeV/GeV radiation. For P <sub>bin</sub> \u223c 10 min, BdHNe II occur with energies 10<sup>50</sup>\u201310<sup>52</sup> erg and for P <sub>bin</sub> \u223c hours, BdHNe III occur with energies below 10<sup>50</sup> erg. In BdHNe II and III, no BH is formed. The 1\u20131000 ms \u03bdNS originates, in all BdHNe, the X-ray-optical-radio afterglows by synchrotron emission. The hypernova follows an independent evolution, becoming an SN Ic, powered by nickel decay, observable after the GRB prompt emission. We report 24 SNe Ic associated with BdHNe. Their optical peak luminosity and time of occurrence are similar and independent of the associated GRBs. From previously identified 380 BdHN I comprising redshifts up to z = 8.2, we analyze four examples with their associated hypernovae. By multiwavelength extragalactic observations, we identify seven new episodes, theoretically explained, fortunately not yet detected in Galactic sources, opening new research areas. Refinement of population synthesis simulations is needed to map the progenitors of such short-lived binary systems inside our galaxy."
-  },
+  "abstract": [
+    {
+      "atext": "Observations of supernovae (SNe) Ic occurring after the prompt emission of long gamma-ray bursts (GRBs) are addressed within the binary-driven hypernova (BdHN) model where GRBs originate from a binary composed of a \u223c10M <sub>\u2299</sub> carbon\u2013oxygen (CO) star and a neutron star (NS). The CO core collapse gives the trigger, leading to a hypernova with a fast-spinning newborn NS (\u03bdNS) at its center. The evolution depends strongly on the binary period, P <sub>bin</sub>. For P <sub>bin</sub> \u223c 5 min, BdHNe I occur with energies 10<sup>52</sup>\u201310<sup>54</sup> erg. The accretion of SN ejecta onto the NS leads to its collapse, forming a black hole (BH) originating the MeV/GeV radiation. For P <sub>bin</sub> \u223c 10 min, BdHNe II occur with energies 10<sup>50</sup>\u201310<sup>52</sup> erg and for P <sub>bin</sub> \u223c hours, BdHNe III occur with energies below 10<sup>50</sup> erg. In BdHNe II and III, no BH is formed. The 1\u20131000 ms \u03bdNS originates, in all BdHNe, the X-ray-optical-radio afterglows by synchrotron emission. The hypernova follows an independent evolution, becoming an SN Ic, powered by nickel decay, observable after the GRB prompt emission. We report 24 SNe Ic associated with BdHNe. Their optical peak luminosity and time of occurrence are similar and independent of the associated GRBs. From previously identified 380 BdHN I comprising redshifts up to z = 8.2, we analyze four examples with their associated hypernovae. By multiwavelength extragalactic observations, we identify seven new episodes, theoretically explained, fortunately not yet detected in Galactic sources, opening new research areas. Refinement of population synthesis simulations is needed to map the progenitors of such short-lived binary systems inside our galaxy."
+    }
+  ],
   "authors": [
     {
       "affiliation": [
@@ -134,6 +136,8 @@
       },
       "name": {
         "given_name": "Liang",
+        "native_given_name": "\u4eae",
+        "native_surname": "\u674e",
         "surname": "Li"
       }
     },
@@ -258,6 +262,8 @@
       },
       "name": {
         "given_name": "Y.",
+        "native_given_name": "\u745c",
+        "native_surname": "\u738b",
         "surname": "Wang"
       }
     },
@@ -278,6 +284,8 @@
       ],
       "name": {
         "given_name": "S. R.",
+        "native_given_name": "\u4e66\u745e",
+        "native_surname": "\u5f20",
         "surname": "Zhang"
       }
     }
@@ -302,6 +310,7 @@
       "keySystem": "UAT"
     }
   ],
+  "language": "en",
   "openAccess": {
     "license": "Original content from this work may be used under the terms of the Creative Commons Attribution 4.0 licence. Any further distribution of this work must maintain attribution to the author(s) and the title of the work, journal citation and DOI.",
     "licenseURL": "http://creativecommons.org/licenses/by/4.0/",
@@ -352,10 +361,13 @@
     }
   ],
   "recordData": {
+    "UUID": "",
     "createdTime": "",
+    "dataType": "",
     "loadFormat": "JATS",
     "loadLocation": "",
     "loadType": "fromFile",
+    "masterRecord": "",
     "parsedTime": "",
     "recordOrigin": ""
   },
@@ -648,7 +660,9 @@
     "<ref id=\"apjace721bib286\"><element-citation publication-type=\"journal\" xlink:type=\"simple\"><person-group person-group-type=\"author\"> <name name-style=\"western\"><surname>Zhang</surname><given-names>W.</given-names></name> <name name-style=\"western\"><surname>Woosley</surname><given-names>S. E.</given-names></name> <name name-style=\"western\"><surname>Heger</surname><given-names>A.</given-names></name> </person-group><year>2004</year><source>ApJ</source><volume>608</volume><fpage>365</fpage><pub-id pub-id-type=\"other\" specific-use=\"ads\">2004ApJ...608..365Z</pub-id><pub-id pub-id-type=\"doi\">10.1086/386300</pub-id></element-citation></ref>",
     "<ref id=\"apjace721bib287\"><element-citation publication-type=\"journal\" xlink:type=\"simple\"><person-group person-group-type=\"author\"> <name name-style=\"western\"><surname>Zheng</surname><given-names>W.</given-names></name> <name name-style=\"western\"><surname>Filippenko</surname><given-names>A. V.</given-names></name> </person-group><year>2018</year><source>GCN</source><volume>23033</volume><fpage>1</fpage><pub-id pub-id-type=\"other\" specific-use=\"ads\">2018GCN.23033....1Z</pub-id></element-citation></ref>"
   ],
-  "title": {
-    "textEnglish": "GRB-SN Association within the Binary-driven Hypernova Model"
-  }
+  "title": [
+    {
+      "atext": "GRB-SN Association within the Binary-driven Hypernova Model"
+    }
+  ]
 }

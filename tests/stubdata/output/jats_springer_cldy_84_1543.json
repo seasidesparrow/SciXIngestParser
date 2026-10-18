@@ -1,7 +1,10 @@
 {
-  "abstract": {
-    "textEnglish": "For decades, scaled analog experiments have improved the understanding of a broad range of multiphase volcanological processes in controlled laboratory environments. Successfully modeled processes include magma flow through magma reservoirs, conduits and sheets, associated crustal deformation, lava flow, volcanic plume dynamics, ash cloud dispersion, pyroclast sedimentation, pyroclastic density currents, and debris flows. Prior to the advent of computational modeling in volcanology, analog experiments were the primary method used to test newly developed concepts. Over the past two decades, technological advances have led to increased quantification of model observables, including deformation fields, lava flow rheologies, bubble and particle suspension compositions, runout distances, plume geometries, and rates of ash cloud spreading and sedimentation. For experimental results to yield further insights into volcanic processes and observables directly useful to volcano monitoring efforts, we expect future progress to focus on three major fronts: (1) improved multimethod measurements in experiments; (2) upscaling to near-natural-scale experiments conducted by multidisciplinary teams at internationally shared facilities; and (3) integration with computational models that will guide future geophysical observations and predictions of volcanic activity. This way, analog experiments will bridge gaps between other techniques in volcanology and improve our understanding and forecasting of volcanic activity from the Earth\u2019s mantle to the surface and into the atmosphere."
-  },
+  "abstract": [
+    {
+      "atext": "For decades, scaled analog experiments have improved the understanding of a broad range of multiphase volcanological processes in controlled laboratory environments. Successfully modeled processes include magma flow through magma reservoirs, conduits and sheets, associated crustal deformation, lava flow, volcanic plume dynamics, ash cloud dispersion, pyroclast sedimentation, pyroclastic density currents, and debris flows. Prior to the advent of computational modeling in volcanology, analog experiments were the primary method used to test newly developed concepts. Over the past two decades, technological advances have led to increased quantification of model observables, including deformation fields, lava flow rheologies, bubble and particle suspension compositions, runout distances, plume geometries, and rates of ash cloud spreading and sedimentation. For experimental results to yield further insights into volcanic processes and observables directly useful to volcano monitoring efforts, we expect future progress to focus on three major fronts: (1) improved multimethod measurements in experiments; (2) upscaling to near-natural-scale experiments conducted by multidisciplinary teams at internationally shared facilities; and (3) integration with computational models that will guide future geophysical observations and predictions of volcanic activity. This way, analog experiments will bridge gaps between other techniques in volcanology and improve our understanding and forecasting of volcanic activity from the Earth\u2019s mantle to the surface and into the atmosphere.",
+      "language": "en"
+    }
+  ],
   "authors": [
     {
       "affiliation": [
@@ -230,6 +233,7 @@
       "keySystem": "misc"
     }
   ],
+  "language": "en",
   "pagination": {
     "electronicID": "52"
   },
@@ -271,10 +275,13 @@
     }
   ],
   "recordData": {
+    "UUID": "",
     "createdTime": "",
+    "dataType": "",
     "loadFormat": "JATS",
     "loadLocation": "",
     "loadType": "fromFile",
+    "masterRecord": "",
     "parsedTime": "",
     "recordOrigin": ""
   },
@@ -436,7 +443,10 @@
     "<ref id=\"CR155\"> <mixed-citation publication-type=\"other\">Zhu J, Liu X, Shi Q, et al (2020) Development trends and perspectives of future sensors and MEMS/NEMS. Micromachines 11. \t\t\t\t\t\t<ext-link ext-link-type=\"doi\" xlink:href=\"https://doi.org/10.3390/mi11010007\">https://doi.org/10.3390/mi11010007</ext-link> </mixed-citation> </ref>",
     "<ref id=\"CR156\"> <mixed-citation publication-type=\"other\">Zorn EU, Walter TR, Heap MJ, Kueppers U (2020) Insights into lava dome and spine extrusion using analogue sandbox experiments. Earth Planet Sci Lett 551:116571. \t\t\t\t\t\t<ext-link ext-link-type=\"doi\" xlink:href=\"https://doi.org/10.1016/j.epsl.2020.116571\">https://doi.org/10.1016/j.epsl.2020.116571</ext-link> </mixed-citation> </ref>"
   ],
-  "title": {
-    "textEnglish": "Analog experiments in volcanology: towards multimethod, upscaled, and integrated models"
-  }
+  "title": [
+    {
+      "atext": "Analog experiments in volcanology: towards multimethod, upscaled, and integrated models",
+      "language": "en"
+    }
+  ]
 }

@@ -11,6 +11,7 @@
     "statement": "\u00a9 2022",
     "status": true
   },
+  "language": "EN",
   "openAccess": {
     "license": "This article is distributed under Creative Commons Attribution-NonCommercial-NoDerivatives License 4.0 (CC BY-NC-ND).",
     "licenseURL": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
@@ -52,10 +53,13 @@
     }
   ],
   "recordData": {
+    "UUID": "",
     "createdTime": "",
+    "dataType": "",
     "loadFormat": "JATS",
     "loadLocation": "",
     "loadType": "fromFile",
+    "masterRecord": "",
     "parsedTime": "",
     "recordOrigin": ""
   },
@@ -65,7 +69,9 @@
     "<ref id=\"r3\"><label>3</label><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><string-name name-style=\"western\"><given-names>L.</given-names> <surname>Liu</surname></string-name> <etal/></person-group>, <article-title>Glial lipid droplets and ROS induced by mitochondrial defects promote neurodegeneration</article-title>. <source>Cell</source> <volume><bold>160</bold></volume>, <fpage>177</fpage>\u2013<lpage>190</lpage> (<year>2015</year>).</mixed-citation></ref>",
     "<ref id=\"r4\"><label>4</label><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><string-name name-style=\"western\"><given-names>G.</given-names> <surname>Lin</surname></string-name> <etal/></person-group>, <article-title>Phospholipase <italic toggle=\"yes\">PLA2G6</italic>, a parkinsonism-associated gene, affects Vps26 and Vps35, retromer function, and ceramide levels, similar to \u03b1-synuclein gain</article-title>. <source>Cell Metab.</source> <volume><bold>28</bold></volume>, <fpage>605</fpage>\u2013<lpage>618.e6</lpage> (<year>2018</year>).</mixed-citation></ref>"
   ],
-  "title": {
-    "textEnglish": "QnAs with Hugo J. Bellen"
-  }
+  "title": [
+    {
+      "atext": "QnAs with Hugo J. Bellen"
+    }
+  ]
 }

@@ -16,6 +16,7 @@
     "statement": "\u00a9 Kluwer Academic Publishers 1988",
     "status": true
   },
+  "language": "en",
   "pagination": {
     "firstPage": "vii",
     "lastPage": "vii",
@@ -57,14 +58,20 @@
     }
   ],
   "recordData": {
+    "UUID": "",
     "createdTime": "",
+    "dataType": "",
     "loadFormat": "JATS",
     "loadLocation": "",
     "loadType": "fromFile",
+    "masterRecord": "",
     "parsedTime": "",
     "recordOrigin": ""
   },
-  "title": {
-    "textEnglish": "Obituary"
-  }
+  "title": [
+    {
+      "atext": "Obituary",
+      "language": "en"
+    }
+  ]
 }

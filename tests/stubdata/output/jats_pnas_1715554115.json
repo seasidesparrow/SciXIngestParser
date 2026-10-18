@@ -1,7 +1,9 @@
 {
-  "abstract": {
-    "textEnglish": "Alzheimer\u2019s disease (AD) is an age-related neurodegenerative disease. Genome-wide association studies predominately focusing on Caucasian populations have identified risk loci and genes associated with AD; the majority of these variants reside in noncoding regions with unclear functions. Here, we report a whole-genome sequencing study for AD in the Chinese population. Other than the APOE locus, we identified common variants in GCH1 and KCNJ15 that show suggestive associations with AD. For these two risk variants, an association with AD or advanced onset of disease can be observed in non-Asian AD cohorts. An association study of risk variants with expression data revealed their modulatory effects on immune signatures, linking the potential roles of these genes with immune-related pathways during AD pathogenesis."
-  },
+  "abstract": [
+    {
+      "atext": "Alzheimer\u2019s disease (AD) is an age-related neurodegenerative disease. Genome-wide association studies predominately focusing on Caucasian populations have identified risk loci and genes associated with AD; the majority of these variants reside in noncoding regions with unclear functions. Here, we report a whole-genome sequencing study for AD in the Chinese population. Other than the APOE locus, we identified common variants in GCH1 and KCNJ15 that show suggestive associations with AD. For these two risk variants, an association with AD or advanced onset of disease can be observed in non-Asian AD cohorts. An association study of risk variants with expression data revealed their modulatory effects on immune signatures, linking the potential roles of these genes with immune-related pathways during AD pathogenesis."
+    }
+  ],
   "authors": [
     {
       "affiliation": [
@@ -192,6 +194,7 @@
       "keySystem": "misc"
     }
   ],
+  "language": "EN",
   "openAccess": {
     "license": "This open access article is distributed under Creative Commons Attribution-NonCommercial-NoDerivatives License 4.0 (CC BY-NC-ND).",
     "licenseURL": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
@@ -256,7 +259,6 @@
       "contrib": {
         "name": {
           "given_name": "Clifford R.",
-          "suffix": "Jr.",
           "surname": "Jack"
         }
       },
@@ -1301,7 +1303,6 @@
       "contrib": {
         "name": {
           "given_name": "Daniel",
-          "suffix": "II",
           "surname": "D\u2019Agostino"
         }
       },
@@ -1455,7 +1456,6 @@
       "contrib": {
         "name": {
           "given_name": "Rob",
-          "prefix": "Dr",
           "surname": "Bartha"
         }
       },
@@ -3472,10 +3472,13 @@
     }
   ],
   "recordData": {
+    "UUID": "",
     "createdTime": "",
+    "dataType": "",
     "loadFormat": "JATS",
     "loadLocation": "",
     "loadType": "fromFile",
+    "masterRecord": "",
     "parsedTime": "",
     "recordOrigin": ""
   },
@@ -3559,7 +3562,12 @@
     "<ref id=\"r77\"><label>77</label><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><string-name name-style=\"western\"><given-names>E</given-names> <surname>Masliah</surname></string-name>, <string-name name-style=\"western\"><given-names>W</given-names> <surname>Dumaop</surname></string-name>, <string-name name-style=\"western\"><given-names>D</given-names> <surname>Galasko</surname></string-name>, <string-name name-style=\"western\"><given-names>P</given-names> <surname>Desplats</surname></string-name></person-group>, <article-title>Distinctive patterns of DNA methylation associated with Parkinson disease: Identification of concordant epigenetic changes in brain and peripheral blood leukocytes</article-title>. <source><italic toggle=\"yes\">Epigenetics</italic></source> <volume><bold>8</bold></volume>, <fpage>1030</fpage>\u2013<lpage>1038</lpage> (<year>2013</year>).</mixed-citation></ref>",
     "<ref id=\"r78\"><label>78</label><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><string-name name-style=\"western\"><given-names>NA</given-names> <surname>Bowden</surname></string-name>, <etal/></person-group>, <article-title>Preliminary investigation of gene expression profiles in peripheral blood lymphocytes in schizophrenia</article-title>. <source><italic toggle=\"yes\">Schizophr Res</italic></source> <volume><bold>82</bold></volume>, <fpage>175</fpage>\u2013<lpage>183</lpage> (<year>2006</year>).</mixed-citation></ref>"
   ],
-  "title": {
-    "textEnglish": "Identification of genetic risk factors in the Chinese population implicates a role of immune system in Alzheimer\u2019s disease pathogenesis"
-  }
+  "title": [
+    {
+      "atext": "Identification of genetic risk factors in the Chinese population implicates a role of immune system in Alzheimer\u2019s disease pathogenesis"
+    },
+    {
+      "atext": "New risk factors of Alzheimer\u2019s disease in Chinese"
+    }
+  ]
 }

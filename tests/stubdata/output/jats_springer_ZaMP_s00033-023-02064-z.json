@@ -1,7 +1,10 @@
 {
-  "abstract": {
-    "textEnglish": "This paper is concerned with the time-asymptotic stability of a nonlinear wave for the outflow problem of the isentropic compressible Navier\u2013Stokes\u2013Korteweg equations in the half space. Under some suitable assumptions on the spatial-asymptotic states and boundary data, the time-asymptotic profile is a nonlinear wave which is the superposition of a stationary solution and a rarefaction wave. Employing the <inline-formula> <mml:math> <mml:msup> <mml:mi>L</mml:mi> <mml:mn>2</mml:mn> </mml:msup> </mml:math> </inline-formula>-energy method and the decay (in both time and space variables) estimates of each component of the nonlinear wave, we prove that this nonlinear wave is time asymptotically stable under a small initial perturbation."
-  },
+  "abstract": [
+    {
+      "atext": "This paper is concerned with the time-asymptotic stability of a nonlinear wave for the outflow problem of the isentropic compressible Navier\u2013Stokes\u2013Korteweg equations in the half space. Under some suitable assumptions on the spatial-asymptotic states and boundary data, the time-asymptotic profile is a nonlinear wave which is the superposition of a stationary solution and a rarefaction wave. Employing the <inline-formula> <mml:math> <mml:msup> <mml:mi>L</mml:mi> <mml:mn>2</mml:mn> </mml:msup> </mml:math> </inline-formula>-energy method and the decay (in both time and space variables) estimates of each component of the nonlinear wave, we prove that this nonlinear wave is time asymptotically stable under a small initial perturbation.",
+      "language": "en"
+    }
+  ],
   "authors": [
     {
       "affiliation": [
@@ -142,6 +145,7 @@
       "keySystem": "misc"
     }
   ],
+  "language": "en",
   "pagination": {
     "electronicID": "167"
   },
@@ -182,10 +186,13 @@
     }
   ],
   "recordData": {
+    "UUID": "",
     "createdTime": "",
+    "dataType": "",
     "loadFormat": "JATS",
     "loadLocation": "",
     "loadType": "fromFile",
+    "masterRecord": "",
     "parsedTime": "",
     "recordOrigin": ""
   },
@@ -244,7 +251,10 @@
     "<ref id=\"CR52\"> <label>52.</label> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Wang</surname> <given-names>Y-J</given-names> </name> <name> <surname>Tan</surname> <given-names>Z</given-names> </name> </person-group> <article-title xml:lang=\"en\">Optimal decay rates for the compressible fluid models of Korteweg type</article-title> <source>J. Math. Anal. Appl.</source> <year>2011</year> <volume>379</volume> <fpage>256</fpage> <lpage>271</lpage> <pub-id pub-id-type=\"amsid\">2776470</pub-id> <pub-id pub-id-type=\"zbl\">1211.35228</pub-id> <pub-id pub-id-type=\"doi\">10.1016/j.jmaa.2011.01.006</pub-id> </mixed-citation> </ref>",
     "<ref id=\"CR53\"> <label>53.</label> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Wang</surname> <given-names>W-J</given-names> </name> <name> <surname>Wang</surname> <given-names>W-K</given-names> </name> </person-group> <article-title xml:lang=\"en\">Decay rate of the compressible Navier-Stokes-Korteweg equations with potential force</article-title> <source>Dis. Contin. Dyn. Syst.</source> <year>2015</year> <volume>35</volume> <fpage>513</fpage> <lpage>536</lpage> <pub-id pub-id-type=\"amsid\">3286970</pub-id> <pub-id pub-id-type=\"zbl\">1304.35576</pub-id> <pub-id pub-id-type=\"doi\">10.3934/dcds.2015.35.513</pub-id> </mixed-citation> </ref>"
   ],
-  "title": {
-    "textEnglish": "Asymptotic stability of a nonlinear wave for the compressible Navier\u2013Stokes\u2013Korteweg equations in the half space"
-  }
+  "title": [
+    {
+      "atext": "Asymptotic stability of a nonlinear wave for the compressible Navier\u2013Stokes\u2013Korteweg equations in the half space",
+      "language": "en"
+    }
+  ]
 }

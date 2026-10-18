@@ -1,7 +1,9 @@
 {
-  "abstract": {
-    "textEnglish": "Drought is one natural disaster with the greatest impact worldwide. Southern Africa (SA) is susceptible and vulnerable to drought due to its type of climate. In the last four decades, droughts have occurred more frequently, with increasing intensity and impacts on ecosystems, agriculture, and health. The work consists of a systematic literature review on the drought regime\u2019s characteristics in the SA under current and future climatic conditions, conducted on the Web of Science and Scopus platforms, using the PRISMA2020 methodology, with usual and appropriate inclusion and exclusion criteria to minimize/eliminate the risk of bias, which lead to 53 documents published after the year 1987. The number of publications on the drought regime in SA is still very small. The country with the most drought situations studied is South Africa, and the countries with fewer studies are Angola and Namibia. The analysis revealed that the main driver of drought in SA is the ocean\u2013atmosphere interactions, including the El Ni\u00f1o Southern Oscillation. The documents used drought indices, evaluating drought descriptors for some regions, but it was not possible to identify one publication that reports the complete study of the drought regime, including the spatial and temporal distribution of all drought descriptors in SA."
-  },
+  "abstract": [
+    {
+      "atext": "Drought is one natural disaster with the greatest impact worldwide. Southern Africa (SA) is susceptible and vulnerable to drought due to its type of climate. In the last four decades, droughts have occurred more frequently, with increasing intensity and impacts on ecosystems, agriculture, and health. The work consists of a systematic literature review on the drought regime\u2019s characteristics in the SA under current and future climatic conditions, conducted on the Web of Science and Scopus platforms, using the PRISMA2020 methodology, with usual and appropriate inclusion and exclusion criteria to minimize/eliminate the risk of bias, which lead to 53 documents published after the year 1987. The number of publications on the drought regime in SA is still very small. The country with the most drought situations studied is South Africa, and the countries with fewer studies are Angola and Namibia. The analysis revealed that the main driver of drought in SA is the ocean\u2013atmosphere interactions, including the El Ni\u00f1o Southern Oscillation. The documents used drought indices, evaluating drought descriptors for some regions, but it was not possible to identify one publication that reports the complete study of the drought regime, including the spatial and temporal distribution of all drought descriptors in SA."
+    }
+  ],
   "authors": [
     {
       "affiliation": [
@@ -88,6 +90,7 @@
       "keySystem": "misc"
     }
   ],
+  "language": "en",
   "openAccess": {
     "license": "Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (https://creativecommons.org/licenses/by/4.0/).",
     "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
@@ -135,10 +138,13 @@
     }
   ],
   "recordData": {
+    "UUID": "",
     "createdTime": "",
+    "dataType": "",
     "loadFormat": "JATS",
     "loadLocation": "",
     "loadType": "fromFile",
+    "masterRecord": "",
     "parsedTime": "",
     "recordOrigin": ""
   },
@@ -279,7 +285,9 @@
     "<ref id=\"B134-climate-11-00147\"> <label>134.</label> <element-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Samways</surname> <given-names>M.J.</given-names> </name> <name> <surname>Deacon</surname> <given-names>C.</given-names> </name> <name> <surname>Kietzka</surname> <given-names>G.J.</given-names> </name> <name> <surname>Pryke</surname> <given-names>J.S.</given-names> </name> <name> <surname>Vorster</surname> <given-names>C.</given-names> </name> <name> <surname>Simaika</surname> <given-names>J.P.</given-names> </name> </person-group> <article-title>Value of Artificial Ponds for Aquatic Insects in Drought-Prone Southern Africa: A Review</article-title> <source>Biodivers. Conserv.</source> <year>2020</year> <volume>29</volume> <fpage>3131</fpage> <lpage>3150</lpage> <pub-id pub-id-type=\"doi\">10.1007/s10531-020-02020-7</pub-id> </element-citation> </ref>",
     "<ref id=\"B135-climate-11-00147\"> <label>135.</label> <element-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Dean</surname> <given-names>W.R.J.</given-names> </name> <name> <surname>Barnard</surname> <given-names>P.</given-names> </name> <name> <surname>Anderson</surname> <given-names>M.D.</given-names> </name> </person-group> <article-title>When to Stay, When to Go: Trade-Offs for Southern African Arid-Zone Birds in Times of Drought</article-title> <source>S. Afr. J. Sci.</source> <year>2009</year> <volume>105</volume> <fpage>24</fpage> <lpage>28</lpage> <pub-id pub-id-type=\"doi\">10.4102/sajs.v105i1/2.7</pub-id> </element-citation> </ref>"
   ],
-  "title": {
-    "textEnglish": "The Drought Regime in Southern Africa: A Systematic Review"
-  }
+  "title": [
+    {
+      "atext": "The Drought Regime in Southern Africa: A Systematic Review"
+    }
+  ]
 }

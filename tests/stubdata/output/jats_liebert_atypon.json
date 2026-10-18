@@ -82,6 +82,7 @@
     "statement": "Copyright 2013, Mary Ann Liebert, Inc.",
     "status": true
   },
+  "language": "en",
   "pagination": {
     "firstPage": "3",
     "lastPage": "9",
@@ -120,14 +121,19 @@
     }
   ],
   "recordData": {
+    "UUID": "",
     "createdTime": "",
+    "dataType": "",
     "loadFormat": "JATS",
     "loadLocation": "",
     "loadType": "fromFile",
+    "masterRecord": "",
     "parsedTime": "",
     "recordOrigin": ""
   },
-  "title": {
-    "textEnglish": "Growing the Future of Commercial Space"
-  }
+  "title": [
+    {
+      "atext": "Growing the Future of Commercial Space"
+    }
+  ]
 }

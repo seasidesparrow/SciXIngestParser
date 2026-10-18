@@ -1,7 +1,9 @@
 {
-  "abstract": {
-    "textEnglish": "By circumventing the difficulty of obtaining exact string state solutions to Bethe ansatz equations, we devise a truncated string state space approach for investigating spin dynamics in a nonintegrable spin- <inline-formula> <mml:math> <mml:mfrac> <mml:mn>1</mml:mn> <mml:mn>2</mml:mn> </mml:mfrac> </mml:math> </inline-formula> Heisenberg chain subjected to a staggered field at various magnetizations. The obtained dynamical spectra reveal a series of elastic peaks at integer multiples of the ordering wave vector <inline-formula> <mml:math> <mml:mi>Q</mml:mi> </mml:math> </inline-formula>, indicating the presence of multi- <inline-formula> <mml:math> <mml:mi>Q</mml:mi> </mml:math> </inline-formula> Bethe string states within the ground state. The spectrum exhibits a separation between different string continua as the strength of the staggered field increases at low magnetization, reflecting the confinement of the Bethe strings. This approach provides a unified string-state-based framework for understanding spin dynamics in low-dimensional nonintegrable Heisenberg models, which has a successful application to observations across various phases of the quasi-one-dimensional antiferromagnet <inline-formula> <mml:math> <mml:msub> <mml:mi>YbAlO</mml:mi> <mml:mn>3</mml:mn> </mml:msub> </mml:math> </inline-formula>."
-  },
+  "abstract": [
+    {
+      "atext": "By circumventing the difficulty of obtaining exact string state solutions to Bethe ansatz equations, we devise a truncated string state space approach for investigating spin dynamics in a nonintegrable spin- <inline-formula> <mml:math> <mml:mfrac> <mml:mn>1</mml:mn> <mml:mn>2</mml:mn> </mml:mfrac> </mml:math> </inline-formula> Heisenberg chain subjected to a staggered field at various magnetizations. The obtained dynamical spectra reveal a series of elastic peaks at integer multiples of the ordering wave vector <inline-formula> <mml:math> <mml:mi>Q</mml:mi> </mml:math> </inline-formula>, indicating the presence of multi- <inline-formula> <mml:math> <mml:mi>Q</mml:mi> </mml:math> </inline-formula> Bethe string states within the ground state. The spectrum exhibits a separation between different string continua as the strength of the staggered field increases at low magnetization, reflecting the confinement of the Bethe strings. This approach provides a unified string-state-based framework for understanding spin dynamics in low-dimensional nonintegrable Heisenberg models, which has a successful application to observations across various phases of the quasi-one-dimensional antiferromagnet <inline-formula> <mml:math> <mml:msub> <mml:mi>YbAlO</mml:mi> <mml:mn>3</mml:mn> </mml:msub> </mml:math> </inline-formula>."
+    }
+  ],
   "authors": [
     {
       "affiliation": [
@@ -96,6 +98,7 @@
       "keySystem": "subject"
     }
   ],
+  "language": "en",
   "pagination": {
     "electronicID": "214421",
     "pageCount": "11"
@@ -127,10 +130,13 @@
     "volumeNum": "109"
   },
   "recordData": {
+    "UUID": "",
     "createdTime": "",
+    "dataType": "",
     "loadFormat": "JATS",
     "loadLocation": "",
     "loadType": "fromFile",
+    "masterRecord": "",
     "parsedTime": "",
     "recordOrigin": ""
   },
@@ -215,7 +221,15 @@
     "<ref id=\"c78\"> <label>[78]</label> <mixed-citation publication-type=\"journal\"> <object-id>78</object-id> <person-group person-group-type=\"author\"> <string-name>Z. Wang</string-name>, \t\t\t\t\t\t<string-name>J. Wu</string-name>, \t\t\t\t\t\t<string-name>S. Xu</string-name>, \t\t\t\t\t\t<string-name>W. Yang</string-name>, \t\t\t\t\t\t<string-name>C. Wu</string-name>, \t\t\t\t\t\t<string-name>A. K. Bera</string-name>, \t\t\t\t\t\t<string-name>A. T. M. N. Islam</string-name>, \t\t\t\t\t\t<string-name>B. Lake</string-name>, \t\t\t\t\t\t<string-name>D. Kamenskyi</string-name>, \t\t\t\t\t\t<string-name>P. Gogoi</string-name>, \t\t\t\t\t\t<string-name>H. Engelkamp</string-name>, \t\t\t\t\t\t<string-name>N. Wang</string-name>, \t\t\t\t\t\t<string-name>J. Deisenhofer</string-name>, and \t\t\t\t\t\t<string-name>A. Loidl</string-name> </person-group>, \t\t\t\t\t<article-title>From confined spinons to emergent fermions: Observation of elementary magnetic excitations in a transverse-field Ising chain</article-title>, \t\t\t\t\t<source>Phys. Rev. B</source> <volume>94</volume>, \t\t\t\t\t<page-range>125130</page-range> ( \t\t\t\t\t<year>2016</year>) \t\t\t\t\t<issn>2469-9950</issn> <pub-id assigning-authority=\"crossref\" pub-id-type=\"doi\" specific-use=\"suppress-display\">10.1103/PhysRevB.94.125130</pub-id>. \t\t\t\t</mixed-citation> </ref>",
     "<ref id=\"c79\"> <label>[79]</label> <mixed-citation publication-type=\"journal\"> <object-id>79</object-id> <person-group person-group-type=\"author\"> <string-name>N. A. Slavnov</string-name> </person-group>, \t\t\t\t\t<article-title>Calculation of scalar products of wave functions and form factors in the framework of the alcebraic Bethe ansatz</article-title>, \t\t\t\t\t<source>Theor. Math. Phys.</source> <volume>79</volume>, \t\t\t\t\t<page-range>502</page-range> ( \t\t\t\t\t<year>1989</year>) \t\t\t\t\t<issn>0040-5779</issn> <pub-id assigning-authority=\"crossref\" pub-id-type=\"doi\" specific-use=\"suppress-display\">10.1007/BF01016531</pub-id>. \t\t\t\t</mixed-citation> </ref>"
   ],
-  "title": {
-    "textEnglish": "Truncated string state space approach and its application to the nonintegrable spin- <inline-formula> <mml:math> <mml:mfrac> <mml:mn>1</mml:mn> <mml:mn>2</mml:mn> </mml:mfrac> </mml:math> </inline-formula> Heisenberg chain"
-  }
+  "title": [
+    {
+      "atext": "Truncated string state space approach and its application to the nonintegrable spin- <inline-formula> <mml:math> <mml:mfrac> <mml:mn>1</mml:mn> <mml:mn>2</mml:mn> </mml:mfrac> </mml:math> </inline-formula> Heisenberg chain"
+    },
+    {
+      "atext": "TRUNCATED STRING STATE SPACE APPROACH AND ITS \u2026"
+    },
+    {
+      "atext": "JIAHAO YANG AND JIANDA WU"
+    }
+  ]
 }

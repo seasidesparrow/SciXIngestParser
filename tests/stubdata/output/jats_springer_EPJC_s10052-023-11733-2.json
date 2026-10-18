@@ -1,7 +1,10 @@
 {
-  "abstract": {
-    "textEnglish": "The Pandora Software Development Kit and algorithm libraries provide pattern-recognition logic essential to the reconstruction of particle interactions in liquid argon time projection chamber detectors. Pandora is the primary event reconstruction software used at ProtoDUNE-SP, a prototype for the Deep Underground Neutrino Experiment far detector. ProtoDUNE-SP, located at CERN, is exposed to a charged-particle test beam. This paper gives an overview of the Pandora reconstruction algorithms and how they have been tailored for use at ProtoDUNE-SP. In complex events with numerous cosmic-ray and beam background particles, the simulated reconstruction and identification efficiency for triggered test-beam particles is above 80% for the majority of particle type and beam momentum combinations. Specifically, simulated 1 GeV/ c charged pions and protons are correctly reconstructed and identified with efficiencies of 86.1 <inline-formula> <mml:math> <mml:mrow> <mml:mo>\u00b1</mml:mo> <mml:mn>0.6</mml:mn> </mml:mrow> </mml:math> </inline-formula>% and 84.1 <inline-formula> <mml:math> <mml:mrow> <mml:mo>\u00b1</mml:mo> <mml:mn>0.6</mml:mn> </mml:mrow> </mml:math> </inline-formula>%, respectively. The efficiencies measured for test-beam data are shown to be within 5% of those predicted by the simulation."
-  },
+  "abstract": [
+    {
+      "atext": "The Pandora Software Development Kit and algorithm libraries provide pattern-recognition logic essential to the reconstruction of particle interactions in liquid argon time projection chamber detectors. Pandora is the primary event reconstruction software used at ProtoDUNE-SP, a prototype for the Deep Underground Neutrino Experiment far detector. ProtoDUNE-SP, located at CERN, is exposed to a charged-particle test beam. This paper gives an overview of the Pandora reconstruction algorithms and how they have been tailored for use at ProtoDUNE-SP. In complex events with numerous cosmic-ray and beam background particles, the simulated reconstruction and identification efficiency for triggered test-beam particles is above 80% for the majority of particle type and beam momentum combinations. Specifically, simulated 1 GeV/ c charged pions and protons are correctly reconstructed and identified with efficiencies of 86.1 <inline-formula> <mml:math> <mml:mrow> <mml:mo>\u00b1</mml:mo> <mml:mn>0.6</mml:mn> </mml:mrow> </mml:math> </inline-formula>% and 84.1 <inline-formula> <mml:math> <mml:mrow> <mml:mo>\u00b1</mml:mo> <mml:mn>0.6</mml:mn> </mml:mrow> </mml:math> </inline-formula>%, respectively. The efficiencies measured for test-beam data are shown to be within 5% of those predicted by the simulation.",
+      "language": "en"
+    }
+  ],
   "authors": [
     {
       "affiliation": [
@@ -26759,6 +26762,7 @@
       "2022-06-30"
     ]
   },
+  "language": "en",
   "openAccess": {
     "license": "Open Access This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article\u2019s Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article\u2019s Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit http://creativecommons.org/licenses/by/4.0/.",
     "licenseURL": "http://creativecommons.org/licenses/by/4.0/",
@@ -26805,10 +26809,13 @@
     }
   ],
   "recordData": {
+    "UUID": "",
     "createdTime": "",
+    "dataType": "",
     "loadFormat": "JATS",
     "loadLocation": "",
     "loadType": "fromFile",
+    "masterRecord": "",
     "parsedTime": "",
     "recordOrigin": ""
   },
@@ -26841,7 +26848,10 @@
     "<ref id=\"CR26\"> <label>26.</label> <mixed-citation publication-type=\"other\">E. Gramellini, \t\t\t\t\t\t<italic>Measurement of the Negative Pion and Positive Kaon Total Hadronic Cross Sections on Argon at the LArIAT Experiment</italic> Ph.D. thesis, Yale U. (2018) \t\t\t\t\t</mixed-citation> </ref>",
     "<ref id=\"CR27\"> <label>27.</label> <mixed-citation publication-type=\"other\">E. Gramellini et al. Measurement of the ( \t\t\t\t\t\t<inline-formula id=\"IEq115\"> <alternatives> <mml:math> <mml:msup> <mml:mi>\u03c0</mml:mi> <mml:mo>-</mml:mo> </mml:msup> </mml:math> <tex-math id=\"IEq115_TeX\">\\documentclass[12pt]{minimal} \t\t\t\t\\usepackage{amsmath} \t\t\t\t\\usepackage{wasysym} \t\t\t\t\\usepackage{amsfonts} \t\t\t\t\\usepackage{amssymb} \t\t\t\t\\usepackage{amsbsy} \t\t\t\t\\usepackage{mathrsfs} \t\t\t\t\\usepackage{upgreek} \t\t\t\t\\setlength{\\oddsidemargin}{-69pt} \t\t\t\t\\begin{document}$$\\pi ^-$$\\end{document}</tex-math> <inline-graphic xlink:href=\"10052_2023_11733_Article_IEq115.gif\"/> </alternatives> </inline-formula>, Ar) total hadronic cross section at the LArIAT experiment (2021). \t\t\t\t\t\t<ext-link ext-link-type=\"url\" xlink:href=\"http://arxiv.org/abs/2108.00040\">arXiv:2108.00040</ext-link> [physics.ins-det] \t\t\t\t\t</mixed-citation> </ref>"
   ],
-  "title": {
-    "textEnglish": "Reconstruction of interactions in the ProtoDUNE-SP detector with Pandora"
-  }
+  "title": [
+    {
+      "atext": "Reconstruction of interactions in the ProtoDUNE-SP detector with Pandora",
+      "language": "en"
+    }
+  ]
 }

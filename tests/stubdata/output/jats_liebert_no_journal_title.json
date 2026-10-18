@@ -27,6 +27,7 @@
     "statement": "2017 by Mary Ann Liebert, Inc.",
     "status": true
   },
+  "language": "en",
   "pagination": {
     "firstPage": "68",
     "lastPage": "70",
@@ -61,14 +62,19 @@
     }
   ],
   "recordData": {
+    "UUID": "",
     "createdTime": "",
+    "dataType": "",
     "loadFormat": "JATS",
     "loadLocation": "",
     "loadType": "fromFile",
+    "masterRecord": "",
     "parsedTime": "",
     "recordOrigin": ""
   },
-  "title": {
-    "textEnglish": "Universities, Sustainability, and Nitrogen Pollution"
-  }
+  "title": [
+    {
+      "atext": "Universities, Sustainability, and Nitrogen Pollution"
+    }
+  ]
 }

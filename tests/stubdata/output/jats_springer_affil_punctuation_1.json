@@ -1,7 +1,10 @@
 {
-  "abstract": {
-    "textEnglish": "Boron (B) and phosphorus (P) are the most problematic impurities to be removed in the production of solar-grade silicon by the metallurgical process. In this work, the distribution of B and P between CaO-(La <sub>2</sub>O <sub>3</sub>)-SiO <sub>2</sub> slags and Si-10 mass pct Sn melt was experimentally studied. B distribution coefficient increased from 2.93 in binary CaO-SiO <sub>2</sub> slag to 3.33 and 3.65 with 2 and 10 mass pct La <sub>2</sub>O <sub>3</sub> additions, respectively. In the followed acid-leaching experiments, the slag-treated Si-Sn alloys exhibited higher B and P removal than that of the initial alloy without slag treatment. Molecular dynamics simulations were performed to study the effect of La <sub>2</sub>O <sub>3</sub> addition on the slag structural and transport properties. A novel oxygen classification method was proposed to distinguish the different structural roles of La and Ca in the CaO-La <sub>2</sub>O <sub>3</sub>-SiO <sub>2</sub> system. It was found that La <sup>3+</sup> prefers to stay in the depolymerized region, mostly connects with 6-7 non-bridging oxygen, and requires a weak charge compensation with Ca <sup>2+</sup>. Possible silicothermic reduction was evaluated to discuss the slag chemistry and the mass transfer between slag and metal phase. A thermodynamic model was derived to theoretically study the alloying effect on impurity distribution in slag refining where positive interaction coefficient and high alloying concentration were found most beneficial to improve the impurity removal."
-  },
+  "abstract": [
+    {
+      "atext": "Boron (B) and phosphorus (P) are the most problematic impurities to be removed in the production of solar-grade silicon by the metallurgical process. In this work, the distribution of B and P between CaO-(La <sub>2</sub>O <sub>3</sub>)-SiO <sub>2</sub> slags and Si-10 mass pct Sn melt was experimentally studied. B distribution coefficient increased from 2.93 in binary CaO-SiO <sub>2</sub> slag to 3.33 and 3.65 with 2 and 10 mass pct La <sub>2</sub>O <sub>3</sub> additions, respectively. In the followed acid-leaching experiments, the slag-treated Si-Sn alloys exhibited higher B and P removal than that of the initial alloy without slag treatment. Molecular dynamics simulations were performed to study the effect of La <sub>2</sub>O <sub>3</sub> addition on the slag structural and transport properties. A novel oxygen classification method was proposed to distinguish the different structural roles of La and Ca in the CaO-La <sub>2</sub>O <sub>3</sub>-SiO <sub>2</sub> system. It was found that La <sup>3+</sup> prefers to stay in the depolymerized region, mostly connects with 6-7 non-bridging oxygen, and requires a weak charge compensation with Ca <sup>2+</sup>. Possible silicothermic reduction was evaluated to discuss the slag chemistry and the mass transfer between slag and metal phase. A thermodynamic model was derived to theoretically study the alloying effect on impurity distribution in slag refining where positive interaction coefficient and high alloying concentration were found most beneficial to improve the impurity removal.",
+      "language": "en"
+    }
+  ],
   "authors": [
     {
       "affiliation": [
@@ -183,6 +186,7 @@
       "agencyname": "NTNU Norwegian University of Science and Technology (incl St. Olavs Hospital - Trondheim University Hospital)"
     }
   ],
+  "language": "en",
   "openAccess": {
     "license": "Open AccessThis article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article's Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article's Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit http://creativecommons.org/licenses/by/4.0/.",
     "licenseURL": "http://creativecommons.org/licenses/by/4.0/",
@@ -230,10 +234,13 @@
     }
   ],
   "recordData": {
+    "UUID": "",
     "createdTime": "",
+    "dataType": "",
     "loadFormat": "JATS",
     "loadLocation": "",
     "loadType": "fromFile",
+    "masterRecord": "",
     "parsedTime": "",
     "recordOrigin": ""
   },
@@ -305,7 +312,10 @@
     "<ref id=\"CR65\"> <label>65.</label> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Shimpo</surname> <given-names>T.</given-names> </name> <name> <surname>Yoshikawa</surname> <given-names>T.</given-names> </name> <name> <surname>Morita</surname> <given-names>K.</given-names> </name> </person-group> <source>Metall. Mater. Trans. B</source> <year>2004</year> <volume>35B</volume> <fpage>277</fpage> <lpage>84</lpage> <pub-id pub-id-type=\"coi\">1:CAS:528:DC%2BD2cXivFCgtLc%3D</pub-id> <pub-id pub-id-type=\"doi\">10.1007/s11663-004-0029-1</pub-id> </mixed-citation> </ref>",
     "<ref id=\"CR66\"> <label>66.</label> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Tang</surname> <given-names>K.</given-names> </name> <name> <surname>L\u00f8vvik</surname> <given-names>O.M.</given-names> </name> <name> <surname>Safarian</surname> <given-names>J.</given-names> </name> <name> <surname>Ma</surname> <given-names>X.</given-names> </name> <name> <surname>Tangstad</surname> <given-names>M.</given-names> </name> </person-group> <source>Metall. Mater. Trans. E</source> <year>2014</year> <volume>1E</volume> <fpage>257</fpage> <lpage>62</lpage> </mixed-citation> </ref>"
   ],
-  "title": {
-    "textEnglish": "Effects of La <sub>2</sub>O <sub>3</sub> Addition into CaO-SiO <sub>2</sub> Slag: Structural Evolution and Impurity Separation from Si-Sn Alloy"
-  }
+  "title": [
+    {
+      "atext": "Effects of La <sub>2</sub>O <sub>3</sub> Addition into CaO-SiO <sub>2</sub> Slag: Structural Evolution and Impurity Separation from Si-Sn Alloy",
+      "language": "en"
+    }
+  ]
 }

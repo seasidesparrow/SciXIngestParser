@@ -1,7 +1,14 @@
 {
-  "abstract": {
-    "textEnglish": "Construction of infrastructure in cold regions requires an understanding of the mechanical characteristics of soils under unfrozen and frozen states. For investigating the constitutive behaviors of a coarse sand under unfrozen and frozen states, a critical state model considering the effect of particle breakage was developed, followed by the establishment of a mesomechanical-based frozen soil model based on homogenization theory. The relative breakage, defined by grain size distributions (GSDs) and evaluated by modified plastic work, was introduced into the elastic law and hardening rule of sandy soil. The deformation and relative breakage properties of sandy soil during the loading process were examined by the developed particle crushing model. Meanwhile, the behavior of the ice inclusion phase was described by a generalized hyperbolic model. On the basis of constitutive equations of the sandy matrix as well as ice inclusions, a mesomechanical-based model of the frozen sandy sample was established by introducing a simplified stress concentration tensor between meso and macro stresses. Compared with triaxial test data, the mesomechanical-based model developed in this study reproduced the constitutive behavior of frozen sandy sample at different temperatures and at various stress paths well. It is hoped that the results of this work can serve as a reference for the constitutive simulation of soils in cold regions.\n"
-  },
+  "abstract": [
+    {
+      "atext": "Construction of infrastructure in cold regions requires an understanding of the mechanical characteristics of soils under unfrozen and frozen states. For investigating the constitutive behaviors of a coarse sand under unfrozen and frozen states, a critical state model considering the effect of particle breakage was developed, followed by the establishment of a mesomechanical-based frozen soil model based on homogenization theory. The relative breakage, defined by grain size distributions (GSDs) and evaluated by modified plastic work, was introduced into the elastic law and hardening rule of sandy soil. The deformation and relative breakage properties of sandy soil during the loading process were examined by the developed particle crushing model. Meanwhile, the behavior of the ice inclusion phase was described by a generalized hyperbolic model. On the basis of constitutive equations of the sandy matrix as well as ice inclusions, a mesomechanical-based model of the frozen sandy sample was established by introducing a simplified stress concentration tensor between meso and macro stresses. Compared with triaxial test data, the mesomechanical-based model developed in this study reproduced the constitutive behavior of frozen sandy sample at different temperatures and at various stress paths well. It is hoped that the results of this work can serve as a reference for the constitutive simulation of soils in cold regions.\n",
+      "language": "en"
+    },
+    {
+      "atext": "\u5728\u5bd2\u533a\u8fdb\u884c\u57fa\u7840\u8bbe\u65bd\u5efa\u8bbe, \u9700\u8981\u4e86\u89e3\u571f\u4f53\u5728\u672a\u51bb\u7ed3\u548c\u51bb\u7ed3\u72b6\u6001\u4e0b\u7684\u529b\u5b66\u7279\u6027. \u4e3a\u7814\u7a76\u7c97\u7802\u5728\u672a\u51bb\u7ed3\u548c\u51bb\u7ed3\u72b6\u6001\u4e0b\u7684\u672c\u6784\u884c\u4e3a, \u672c\u6587\u9996\u5148\u5c06\u9897\u7c92\u7834\u788e\u7387\u5f15\u5165\u7802\u571f\u7684\u5f39\u6027\u5b9a\u5f8b\u548c\u786c\u5316\u89c4\u5f8b\u4e2d, \u5efa\u7acb\u7802\u571f\u7684\u4e34\u754c\u72b6\u6001\u6a21\u578b, \u5bf9\u52a0\u8f7d\u8fc7\u7a0b\u4e2d\u7684\u53d8\u5f62\u548c\u7834\u788e\u60c5\u51b5\u8fdb\u884c\u4e86\u7814\u7a76. \u540c\u65f6, \u91c7\u7528\u5e7f\u4e49\u53cc\u66f2\u7ebf\u6a21\u578b\u63cf\u8ff0\u4e86\u51b0\u5939\u6742\u76f8\u7684\u529b\u5b66\u884c\u4e3a. \u5728\u57fa\u8d28\u4f53\u548c\u5939\u6742\u4f53\u672c\u6784\u65b9\u7a0b\u57fa\u7840\u4e0a, \u901a\u8fc7\u5728\u7ec6\u89c2\u5e94\u529b\u548c\u5b8f\u89c2\u5e94\u529b\u4e4b\u95f4\u5f15\u5165\u7b80\u5316\u7684\u5e94\u529b\u96c6\u4e2d\u5f20\u91cf, \u5efa\u7acb\u4e86\u57fa\u4e8e\u7ec6\u89c2\u529b\u5b66\u7684\u51bb\u7ed3\u7802\u571f\u6a21\u578b. \u901a\u8fc7\u4e0e\u4e0d\u540c\u6e29\u5ea6\u548c\u4e0d\u540c\u5e94\u529b\u8def\u5f84\u4e0b\u7684\u4e09\u8f74\u8bd5\u9a8c\u7ed3\u679c\u5bf9\u6bd4, \u9a8c\u8bc1\u4e86\u672c\u6587\u6240\u5efa\u7acb\u7684\u51bb\u7ed3\u7c97\u7802\u5b8f\u7ec6\u89c2\u672c\u6784\u6a21\u578b.",
+      "language": "zh"
+    }
+  ],
   "authors": [
     {
       "affiliation": [
@@ -111,6 +118,7 @@
       "keySystem": "misc"
     }
   ],
+  "language": "en",
   "pagination": {
     "electronicID": "423108"
   },
@@ -151,10 +159,13 @@
     }
   ],
   "recordData": {
+    "UUID": "",
     "createdTime": "",
+    "dataType": "",
     "loadFormat": "JATS",
     "loadLocation": "",
     "loadType": "fromFile",
+    "masterRecord": "",
     "parsedTime": "",
     "recordOrigin": ""
   },
@@ -221,7 +232,14 @@
     "<ref id=\"CR60\"> <label>60</label> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Han</surname> <given-names>H</given-names> </name> <name> <surname>Xie</surname> <given-names>F</given-names> </name> <name> <surname>Wang</surname> <given-names>E</given-names> </name> <name> <surname>Zhang</surname> <given-names>D</given-names> </name> </person-group> <article-title xml:lang=\"en\">Experimental study on properties of compressive strength and failure criteria of river ice under triaxial compression</article-title> <source>J. Hydraulic Eng.</source> <year>2018</year> <volume>49</volume> <fpage>1199</fpage> </mixed-citation> </ref>",
     "<ref id=\"CR61\"> <label>61</label> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Xu</surname> <given-names>S H</given-names> </name> <name> <surname>Zheng</surname> <given-names>G</given-names> </name> <name> <surname>Xu</surname> <given-names>G L</given-names> </name> </person-group> <article-title xml:lang=\"en\">Critical state constitutive model of sand with shear hardening</article-title> <source>Chin. J. Geotech. Eng.</source> <year>2009</year> <volume>31</volume> <fpage>953</fpage> </mixed-citation> </ref>"
   ],
-  "title": {
-    "textEnglish": "Constitutive modelling of a coarse sand under unfrozen and frozen states"
-  }
+  "title": [
+    {
+      "atext": "Constitutive modelling of a coarse sand under unfrozen and frozen states",
+      "language": "en"
+    },
+    {
+      "atext": "\u672a\u51bb\u7ed3\u548c\u51bb\u7ed3\u7c97\u7802\u7684\u672c\u6784\u6a21\u578b\u7814\u7a76",
+      "language": "zh"
+    }
+  ]
 }

@@ -1,7 +1,9 @@
 {
-  "abstract": {
-    "textEnglish": "Using a data sample of <inline-formula><mml:math><mml:mrow><mml:mn>1.31</mml:mn><mml:mo>\u00d7</mml:mo><mml:msup><mml:mrow><mml:mn>10</mml:mn></mml:mrow><mml:mrow><mml:mn>9</mml:mn></mml:mrow></mml:msup><mml:mtext> </mml:mtext><mml:mi>J</mml:mi><mml:mo>/</mml:mo><mml:mi>\u03c8</mml:mi></mml:mrow></mml:math></inline-formula> events collected with the BESIII detector, a search for <inline-formula><mml:math><mml:msup><mml:mi>\u03b7</mml:mi><mml:mo>\u2032</mml:mo></mml:msup><mml:mo>\u2192</mml:mo><mml:mi>\u03b3</mml:mi><mml:mi>\u03b3</mml:mi><mml:mi>\u03b7</mml:mi></mml:math></inline-formula> via <inline-formula><mml:math><mml:mrow><mml:mi>J</mml:mi><mml:mo>/</mml:mo><mml:mi>\u03c8</mml:mi><mml:mo>\u2192</mml:mo><mml:mi>\u03b3</mml:mi><mml:msup><mml:mrow><mml:mi>\u03b7</mml:mi></mml:mrow><mml:mrow><mml:mo>\u2032</mml:mo></mml:mrow></mml:msup></mml:mrow></mml:math></inline-formula> is performed for the first time. No significant <inline-formula><mml:math><mml:msup><mml:mi>\u03b7</mml:mi><mml:mo>\u2032</mml:mo></mml:msup></mml:math></inline-formula> signal is observed in the <inline-formula><mml:math><mml:mi>\u03b3</mml:mi><mml:mi>\u03b3</mml:mi><mml:mi>\u03b7</mml:mi></mml:math></inline-formula> invariant mass spectrum, and the branching fraction of <inline-formula><mml:math><mml:msup><mml:mi>\u03b7</mml:mi><mml:mo>\u2032</mml:mo></mml:msup><mml:mo>\u2192</mml:mo><mml:mi>\u03b3</mml:mi><mml:mi>\u03b3</mml:mi><mml:mi>\u03b7</mml:mi></mml:math></inline-formula> is determined to be less than <inline-formula><mml:math><mml:mn>1.33</mml:mn><mml:mo>\u00d7</mml:mo><mml:msup><mml:mn>10</mml:mn><mml:mrow><mml:mo>-</mml:mo><mml:mn>4</mml:mn></mml:mrow></mml:msup></mml:math></inline-formula> at the 90% confidence level."
-  },
+  "abstract": [
+    {
+      "atext": "Using a data sample of <inline-formula><mml:math><mml:mrow><mml:mn>1.31</mml:mn><mml:mo>\u00d7</mml:mo><mml:msup><mml:mrow><mml:mn>10</mml:mn></mml:mrow><mml:mrow><mml:mn>9</mml:mn></mml:mrow></mml:msup><mml:mtext> </mml:mtext><mml:mi>J</mml:mi><mml:mo>/</mml:mo><mml:mi>\u03c8</mml:mi></mml:mrow></mml:math></inline-formula> events collected with the BESIII detector, a search for <inline-formula><mml:math><mml:msup><mml:mi>\u03b7</mml:mi><mml:mo>\u2032</mml:mo></mml:msup><mml:mo>\u2192</mml:mo><mml:mi>\u03b3</mml:mi><mml:mi>\u03b3</mml:mi><mml:mi>\u03b7</mml:mi></mml:math></inline-formula> via <inline-formula><mml:math><mml:mrow><mml:mi>J</mml:mi><mml:mo>/</mml:mo><mml:mi>\u03c8</mml:mi><mml:mo>\u2192</mml:mo><mml:mi>\u03b3</mml:mi><mml:msup><mml:mrow><mml:mi>\u03b7</mml:mi></mml:mrow><mml:mrow><mml:mo>\u2032</mml:mo></mml:mrow></mml:msup></mml:mrow></mml:math></inline-formula> is performed for the first time. No significant <inline-formula><mml:math><mml:msup><mml:mi>\u03b7</mml:mi><mml:mo>\u2032</mml:mo></mml:msup></mml:math></inline-formula> signal is observed in the <inline-formula><mml:math><mml:mi>\u03b3</mml:mi><mml:mi>\u03b3</mml:mi><mml:mi>\u03b7</mml:mi></mml:math></inline-formula> invariant mass spectrum, and the branching fraction of <inline-formula><mml:math><mml:msup><mml:mi>\u03b7</mml:mi><mml:mo>\u2032</mml:mo></mml:msup><mml:mo>\u2192</mml:mo><mml:mi>\u03b3</mml:mi><mml:mi>\u03b3</mml:mi><mml:mi>\u03b7</mml:mi></mml:math></inline-formula> is determined to be less than <inline-formula><mml:math><mml:mn>1.33</mml:mn><mml:mo>\u00d7</mml:mo><mml:msup><mml:mn>10</mml:mn><mml:mrow><mml:mo>-</mml:mo><mml:mn>4</mml:mn></mml:mrow></mml:msup></mml:math></inline-formula> at the 90% confidence level."
+    }
+  ],
   "authors": [
     {
       "affiliation": [
@@ -5970,6 +5972,19 @@
     "license": "Published by the American Physical Society under the terms of the Creative Commons Attribution 4.0 International license. Further distribution of this work must maintain attribution to the author(s) and the published article\u2019s title, journal citation, and DOI. Funded by SCOAP3.",
     "licenseURL": "https://creativecommons.org/licenses/by/4.0/"
   },
+  "otherContributor": [
+    {
+      "contrib": {
+        "attrib": {
+          "collab": true
+        },
+        "name": {
+          "collab": "(BESIII Collaboration)"
+        }
+      },
+      "role": "collaboration"
+    }
+  ],
   "pagination": {
     "electronicID": "052015",
     "pageCount": "7"
@@ -6001,10 +6016,13 @@
     "volumeNum": "100"
   },
   "recordData": {
+    "UUID": "",
     "createdTime": "",
+    "dataType": "",
     "loadFormat": "JATS",
     "loadLocation": "",
     "loadType": "fromFile",
+    "masterRecord": "",
     "parsedTime": "",
     "recordOrigin": ""
   },
@@ -6038,7 +6056,15 @@
     "<ref id=\"c27\"><label>[27]</label><mixed-citation publication-type=\"journal\"><object-id>27</object-id><person-group person-group-type=\"author\"><string-name>M. Ablikim</string-name> <etal/> (<collab>BESIII Collaboration</collab>)</person-group>, <source>Phys. Rev. D</source> <volume>96</volume>, <page-range>112012</page-range> (<year>2017</year>).<pub-id pub-id-type=\"coden\">PRVDAQ</pub-id><issn>2470-0010</issn><pub-id pub-id-type=\"doi\" specific-use=\"suppress-display\">10.1103/PhysRevD.96.112012</pub-id></mixed-citation></ref>",
     "<ref id=\"c28\"><label>[28]</label><mixed-citation publication-type=\"journal\"><object-id>28</object-id><person-group person-group-type=\"author\"><string-name>M. Ablikim</string-name> <etal/> (<collab>BESIII Collaboration</collab>)</person-group>, <source>Chin. Phys. C</source> <volume>41</volume>, <page-range>013001</page-range> (<year>2017</year>).<pub-id pub-id-type=\"coden\">CPCHCQ</pub-id><issn>1674-1137</issn><pub-id pub-id-type=\"doi\" specific-use=\"suppress-display\">10.1088/1674-1137/41/1/013001</pub-id></mixed-citation></ref>"
   ],
-  "title": {
-    "textEnglish": "Search for the decay <inline-formula><mml:math><mml:msup><mml:mi>\u03b7</mml:mi><mml:mo>\u2032</mml:mo></mml:msup><mml:mo>\u2192</mml:mo><mml:mi>\u03b3</mml:mi><mml:mi>\u03b3</mml:mi><mml:mi>\u03b7</mml:mi></mml:math></inline-formula>"
-  }
+  "title": [
+    {
+      "atext": "Search for the decay <inline-formula><mml:math><mml:msup><mml:mi>\u03b7</mml:mi><mml:mo>\u2032</mml:mo></mml:msup><mml:mo>\u2192</mml:mo><mml:mi>\u03b3</mml:mi><mml:mi>\u03b3</mml:mi><mml:mi>\u03b7</mml:mi></mml:math></inline-formula>"
+    },
+    {
+      "atext": "SEARCH FOR THE DECAY \u2026"
+    },
+    {
+      "atext": "ABLIKIM M. et\u00a0al."
+    }
+  ]
 }

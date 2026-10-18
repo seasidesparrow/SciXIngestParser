@@ -1,7 +1,9 @@
 {
-  "abstract": {
-    "textEnglish": "Within the last decades, a large number of techniques for contrast enhancement has been proposed. There are some comparisons of such algorithms for few images and figures of merit. However, many of these figures of merit cannot assess usability of altered image content for specific tasks, such as object recognition. In this work, the effect of contrast enhancement algorithms is evaluated by means of the triangle orientation discrimination (TOD), which is a current method for imager performance assessment. The conventional TOD approach requires observers to recognize equilateral triangles pointing in four different directions, whereas here convolutional neural network models are used for the classification task. These models are trained by artificial images with single triangles. Many methods for contrast enhancement highly depend on the content of the entire image. Therefore, the images are superimposed over natural backgrounds with varying standard deviations to provide different signal-to-background ratios. Then, these images are degraded by Gaussian blur and noise representing degradational camera effects and sensor noise. Different algorithms, such as the contrast-limited adaptive histogram equalization or local range modification, are applied. Then accuracies of the trained models on these images are compared for different contrast enhancement algorithms. Accuracy gains for low signal-to-background ratios and sufficiently large triangles are found, whereas impairments are found for high signal-to-background ratios and small triangles. A high generalization ability of our TOD model is found from the similar accuracies for several image databases used for backgrounds. Finally, implications of replacing triangles with real target signatures when using such advanced digital signal processing algorithms are discussed. The results are a step toward the assessment of those algorithms for generic target recognition."
-  },
+  "abstract": [
+    {
+      "atext": "Within the last decades, a large number of techniques for contrast enhancement has been proposed. There are some comparisons of such algorithms for few images and figures of merit. However, many of these figures of merit cannot assess usability of altered image content for specific tasks, such as object recognition. In this work, the effect of contrast enhancement algorithms is evaluated by means of the triangle orientation discrimination (TOD), which is a current method for imager performance assessment. The conventional TOD approach requires observers to recognize equilateral triangles pointing in four different directions, whereas here convolutional neural network models are used for the classification task. These models are trained by artificial images with single triangles. Many methods for contrast enhancement highly depend on the content of the entire image. Therefore, the images are superimposed over natural backgrounds with varying standard deviations to provide different signal-to-background ratios. Then, these images are degraded by Gaussian blur and noise representing degradational camera effects and sensor noise. Different algorithms, such as the contrast-limited adaptive histogram equalization or local range modification, are applied. Then accuracies of the trained models on these images are compared for different contrast enhancement algorithms. Accuracy gains for low signal-to-background ratios and sufficiently large triangles are found, whereas impairments are found for high signal-to-background ratios and small triangles. A high generalization ability of our TOD model is found from the similar accuracies for several image databases used for backgrounds. Finally, implications of replacing triangles with real target signatures when using such advanced digital signal processing algorithms are discussed. The results are a step toward the assessment of those algorithms for generic target recognition."
+    }
+  ],
   "authors": [
     {
       "affiliation": [
@@ -115,10 +117,13 @@
     }
   ],
   "recordData": {
+    "UUID": "",
     "createdTime": "",
+    "dataType": "",
     "loadFormat": "JATS",
     "loadLocation": "",
     "loadType": "fromFile",
+    "masterRecord": "",
     "parsedTime": "",
     "recordOrigin": ""
   },
@@ -193,7 +198,9 @@
     "<ref id=\"r68\"> <label>68.</label> <mixed-citation publication-type=\"conf-proc\"> <person-group person-group-type=\"author\"> <string-name> <given-names>B. N.</given-names> <surname>Anoop</surname> </string-name>, <string-name><given-names>P. E.</given-names><surname>Ameenudeen</surname></string-name> and <string-name><given-names>J.</given-names><surname>Joseph</surname></string-name></person-group>, \u201c<article-title>A meta-analysis of contrast measures used for the performance evaluation of histogram equalization based image enhancement techniques</article-title>,\u201d in <conf-name>9th Int. Conf. Comput., Commun. and Netw. Technol. (ICCCNT)</conf-name>, pp. <fpage>1</fpage>\u2013<lpage>6</lpage> (<year>2018</year>).<ext-link ext-link-type=\"doi\" specific-use=\"online\" xlink:href=\"https://doi.org/10.1109/ICCCNT.2018.8494069\">https://doi.org/10.1109/ICCCNT.2018.8494069</ext-link></mixed-citation> </ref>",
     "<ref id=\"r69\"> <label>69.</label> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <string-name> <given-names>S. V.</given-names> <surname>Renuka</surname> </string-name>, <string-name><given-names>D. R.</given-names><surname>Edla</surname></string-name> and <string-name><given-names>J.</given-names><surname>Joseph</surname></string-name></person-group>, \u201c<article-title>An objective measure for assessing the quality of contrast enhancement on magnetic resonance images</article-title>,\u201d <source>J. King Saud Univ. \u2013 Comput. Inf. Sci.</source><volume>34</volume>(<issue>10, Part B</issue>), <fpage>9732</fpage>\u2013<lpage>9744</lpage> (<year>2021</year>).<ext-link ext-link-type=\"doi\" specific-use=\"online\" xlink:href=\"https://doi.org/10.1016/j.jksuci.2021.12.005\">https://doi.org/10.1016/j.jksuci.2021.12.005</ext-link></mixed-citation> </ref>"
   ],
-  "title": {
-    "textEnglish": "Comparison of algorithms for contrast enhancement based on triangle orientation discrimination assessments by convolutional neural networks"
-  }
+  "title": [
+    {
+      "atext": "Comparison of algorithms for contrast enhancement based on triangle orientation discrimination assessments by convolutional neural networks"
+    }
+  ]
 }

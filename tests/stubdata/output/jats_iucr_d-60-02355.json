@@ -1,7 +1,9 @@
 {
-  "abstract": {
-    "textEnglish": "An active form of parasporin-2, a B. thuringiensis crystal protein toxic to particular human cells, has been crystallized. Native data have been collected to 2.75 \u00c5 resolution."
-  },
+  "abstract": [
+    {
+      "atext": "An active form of parasporin-2, a B. thuringiensis crystal protein toxic to particular human cells, has been crystallized. Native data have been collected to 2.75 \u00c5 resolution."
+    }
+  ],
   "authors": [
     {
       "affiliation": [
@@ -182,6 +184,7 @@
       "keySystem": "misc"
     }
   ],
+  "language": "EN",
   "openAccess": {
     "license": "Prior permission is not required to reproduce short quotations, tables and figures from this article, provided the original authors and source are cited. For more information, see http://journals.iucr.org/services/copyrightpolicy.html."
   },
@@ -218,10 +221,13 @@
     }
   ],
   "recordData": {
+    "UUID": "",
     "createdTime": "",
+    "dataType": "",
     "loadFormat": "JATS",
     "loadLocation": "",
     "loadType": "fromFile",
+    "masterRecord": "",
     "parsedTime": "",
     "recordOrigin": ""
   },
@@ -249,7 +255,12 @@
     "<ref id=\"bb21\"> <mixed-citation publication-type=\"journal\">Schnepf, E., Crickmore, N., Van Rie, J., Lereclus, D., Baum, J., Feitelson, J., Zeigler, D. R. &amp; Dean, D. H. (1998). <italic toggle=\"yes\">Microbiol. Mol. Biol. Rev.</italic> <bold>62</bold>, 775\u2013806.</mixed-citation> </ref>",
     "<ref id=\"bb22\"> <mixed-citation publication-type=\"journal\">Vagin, A. &amp; Teplyakov, A. (1997). <italic toggle=\"yes\">J. Appl. Cryst.</italic> <bold>30</bold>, 1022\u20131025.</mixed-citation> </ref>"
   ],
-  "title": {
-    "textEnglish": "Crystallization of parasporin-2, a Bacillus thuringiensis crystal protein with selective cytocidal activity against human cells"
-  }
+  "title": [
+    {
+      "atext": "Crystallization of parasporin-2, a Bacillus thuringiensis crystal protein with selective cytocidal activity against human cells"
+    },
+    {
+      "atext": "Parasporin-2"
+    }
+  ]
 }

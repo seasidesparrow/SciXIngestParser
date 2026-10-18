@@ -1,7 +1,9 @@
 {
-  "abstract": {
-    "textEnglish": "Upcoming large-scale structure surveys can shed new light on the properties of dark energy. In particular, if dark energy is a dynamical component, it must have spatial perturbations. Their behaviour is regulated by the speed of sound parameter, which is currently unconstrained. In this work, we present the numerical methods that will allow to perform cosmological simulations of inhomogeneous dark energy scenarios where the speed of sound is small and non-vanishing. We treat the dark energy component as an effective fluid and build upon established numerical methods for hydrodynamics to construct a numerical solution of the effective continuity and Euler equations. In particular, we develop conservative finite volume schemes that rely on the solution of the Riemann problem, which we provide here in both exact and approximate forms for the case of a dark energy fluid."
-  },
+  "abstract": [
+    {
+      "atext": "Upcoming large-scale structure surveys can shed new light on the properties of dark energy. In particular, if dark energy is a dynamical component, it must have spatial perturbations. Their behaviour is regulated by the speed of sound parameter, which is currently unconstrained. In this work, we present the numerical methods that will allow to perform cosmological simulations of inhomogeneous dark energy scenarios where the speed of sound is small and non-vanishing. We treat the dark energy component as an effective fluid and build upon established numerical methods for hydrodynamics to construct a numerical solution of the effective continuity and Euler equations. In particular, we develop conservative finite volume schemes that rely on the solution of the Riemann problem, which we provide here in both exact and approximate forms for the case of a dark energy fluid."
+    }
+  ],
   "authors": [
     {
       "affiliation": [
@@ -66,6 +68,7 @@
       "keySystem": "misc"
     }
   ],
+  "language": "en",
   "openAccess": {
     "license": "Published by IOP Publishing Ltd on behalf of Sissa Medialab. Original content from this work may be used under the terms of the Creative Commons Attribution 4.0 licence. Any further distribution of this work must maintain attribution to the author(s) and the title of the work, journal citation and DOI.",
     "licenseURL": "http://creativecommons.org/licenses/by/4.0",
@@ -112,10 +115,13 @@
     }
   ],
   "recordData": {
+    "UUID": "",
     "createdTime": "",
+    "dataType": "",
     "loadFormat": "JATS",
     "loadLocation": "",
     "loadType": "fromFile",
+    "masterRecord": "",
     "parsedTime": "",
     "recordOrigin": ""
   },
@@ -176,7 +182,9 @@
     "<ref id=\"b799cc3bd37e47b9d18b3654c86456197\"><label>[54]</label><element-citation publication-type=\"other\" xlink:type=\"simple\"><comment> M. Zingale, <italic toggle=\"yes\">Introduction to Computational Astrophysical Hydrodynamics</italic>, <ext-link ext-link-type=\"uri\" xlink:href=\"http://bender.astro.sunysb.edu/hydro_by_example/CompHydroTutorial.pdf\" xlink:type=\"simple\">http://bender.astro.sunysb.edu/hydro_by_example/CompHydroTutorial.pdf</ext-link>.   </comment></element-citation></ref>",
     "<ref id=\"b869deae2f493f21948d6030dfaad7ec0\"><label>[55]</label><element-citation publication-type=\"journal\" xlink:type=\"simple\"><person-group person-group-type=\"author\"> <name name-style=\"western\"><surname>Colella</surname><given-names>Phillip</given-names></name> <name name-style=\"western\"><surname>Woodward</surname><given-names>Paul R.</given-names></name> </person-group><article-title>The Piecewise Parabolic Method (PPM) for Gas Dynamical Simulations</article-title><source>J. Comput. Phys.</source><year>1984</year><volume>54</volume><fpage>174</fpage><lpage>201</lpage><pub-id pub-id-type=\"doi\">10.1016/0021-9991(84)90143-8</pub-id></element-citation></ref>"
   ],
-  "title": {
-    "textEnglish": "Non-linear Eulerian hydrodynamics of dark energy: Riemann problem and finite volume schemes"
-  }
+  "title": [
+    {
+      "atext": "Non-linear Eulerian hydrodynamics of dark energy: Riemann problem and finite volume schemes"
+    }
+  ]
 }

@@ -1,7 +1,9 @@
 {
-  "abstract": {
-    "textEnglish": "Coronal mass ejections (CMEs) exhibit a wide range of quasiperiodic variations and are crucial for our understanding of the cyclical evolution of large-scale magnetic fields. However, the mid-term periodicities of different types of CMEs associated with different processes at the source location need to be clearly understood. Based on the CDAW catalog released by the Large Angle and Spectroscopic Coronagraph mission on the Solar and Heliospheric Observatory, we investigated the period of CMEs based on the speeds and accelerations using the continuous wavelet transformation method. Our results revealed that the distribution of CMEs over time is quite distinctly different for different speeds, and there are Rieger-type periods and quasi-biennial oscillations of the CMEs. The two types of periodic signals show significant differences in solar cycles 23 and 24. Furthermore, the periodicity patterns for the northern hemisphere differ from those in the southern hemisphere. The potential mechanisms and explanations of the results are also discussed."
-  },
+  "abstract": [
+    {
+      "atext": "Coronal mass ejections (CMEs) exhibit a wide range of quasiperiodic variations and are crucial for our understanding of the cyclical evolution of large-scale magnetic fields. However, the mid-term periodicities of different types of CMEs associated with different processes at the source location need to be clearly understood. Based on the CDAW catalog released by the Large Angle and Spectroscopic Coronagraph mission on the Solar and Heliospheric Observatory, we investigated the period of CMEs based on the speeds and accelerations using the continuous wavelet transformation method. Our results revealed that the distribution of CMEs over time is quite distinctly different for different speeds, and there are Rieger-type periods and quasi-biennial oscillations of the CMEs. The two types of periodic signals show significant differences in solar cycles 23 and 24. Furthermore, the periodicity patterns for the northern hemisphere differ from those in the southern hemisphere. The potential mechanisms and explanations of the results are also discussed."
+    }
+  ],
   "authors": [
     {
       "affiliation": [
@@ -14,6 +16,8 @@
       ],
       "name": {
         "given_name": "Zhuolang",
+        "native_given_name": "\u9633\u5353\u6717",
+        "native_surname": "\u6b27",
         "surname": "Ouyang"
       }
     },
@@ -32,6 +36,8 @@
       },
       "name": {
         "given_name": "Hui",
+        "native_given_name": "\u8f89",
+        "native_surname": "\u9093",
         "surname": "Deng"
       }
     },
@@ -51,6 +57,8 @@
       },
       "name": {
         "given_name": "Feng",
+        "native_given_name": "\u950b",
+        "native_surname": "\u738b",
         "surname": "Wang"
       }
     },
@@ -69,6 +77,8 @@
       },
       "name": {
         "given_name": "LinHua",
+        "native_given_name": "\u6797\u534e",
+        "native_surname": "\u9093",
         "surname": "Deng"
       }
     },
@@ -87,6 +97,8 @@
       },
       "name": {
         "given_name": "Ying",
+        "native_given_name": "\u76c8",
+        "native_surname": "\u6885",
         "surname": "Mei"
       }
     },
@@ -104,6 +116,8 @@
       },
       "name": {
         "given_name": "XiaoJuan",
+        "native_given_name": "\u5c0f\u5a1f",
+        "native_surname": "\u5f20",
         "surname": "Zhang"
       }
     }
@@ -160,6 +174,7 @@
       "keySystem": "UAT"
     }
   ],
+  "language": "en",
   "openAccess": {
     "license": "Original content from this work may be used under the terms of the Creative Commons Attribution 4.0 licence. Any further distribution of this work must maintain attribution to the author(s) and the title of the work, journal citation and DOI.",
     "licenseURL": "http://creativecommons.org/licenses/by/4.0/",
@@ -210,10 +225,13 @@
     }
   ],
   "recordData": {
+    "UUID": "",
     "createdTime": "",
+    "dataType": "",
     "loadFormat": "JATS",
     "loadLocation": "",
     "loadType": "fromFile",
+    "masterRecord": "",
     "parsedTime": "",
     "recordOrigin": ""
   },
@@ -296,7 +314,9 @@
     "<ref id=\"apjad4d9fbib76\"><element-citation publication-type=\"journal\" xlink:type=\"simple\"><person-group person-group-type=\"author\"> <name name-style=\"western\"><surname>Zhang</surname><given-names>X. J.</given-names></name> <name name-style=\"western\"><surname>Deng</surname><given-names>L. H.</given-names></name> <name name-style=\"western\"><surname>Qiang</surname><given-names>Z. P.</given-names></name> <etal/> </person-group><year>2023</year><source>MNRAS</source><volume>520</volume><fpage>3923</fpage><pub-id pub-id-type=\"other\" specific-use=\"ads\">2023MNRAS.520.3923Z</pub-id><pub-id pub-id-type=\"doi\">10.1093/mnras/stad323</pub-id></element-citation></ref>",
     "<ref id=\"apjad4d9fbib77\"><element-citation publication-type=\"journal\" xlink:type=\"simple\"><person-group person-group-type=\"author\"> <name name-style=\"western\"><surname>Zolotova</surname><given-names>N. V.</given-names></name> <name name-style=\"western\"><surname>Ponyavin</surname><given-names>D. I.</given-names></name> </person-group><year>2007</year><source>SoPh</source><volume>243</volume><fpage>193</fpage><pub-id pub-id-type=\"other\" specific-use=\"ads\">2007SoPh..243..193Z</pub-id><pub-id pub-id-type=\"doi\">10.1007/s11207-007-0405-5</pub-id></element-citation></ref>"
   ],
-  "title": {
-    "textEnglish": "Mid-term Periodicity of Coronal Mass Ejections during the Time Interval 1996\u20132022"
-  }
+  "title": [
+    {
+      "atext": "Mid-term Periodicity of Coronal Mass Ejections during the Time Interval 1996\u20132022"
+    }
+  ]
 }

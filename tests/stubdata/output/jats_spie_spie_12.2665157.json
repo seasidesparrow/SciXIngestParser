@@ -1,7 +1,9 @@
 {
-  "abstract": {
-    "textEnglish": "Effects of radiation on the dark count rate (DCR) of CMOS single photon avalanche diodes (SPADs) is reviewed. Both total ionizing and non ionizing dose effects are investigated using a test SPAD chip fabricated in a 180 nm CMOS technology as a case study. Models predicting the probability of damage, estimated through the measurement of DCR increase, are also presented. Emphasis is set on the damage dependence on radiation dose and device geometry. Particular attention is paid to the stochastic phenomena taking place in the sensitive volume of SPADs when they are exposed to relatively low fluences (micro-doses) of neutrons."
-  },
+  "abstract": [
+    {
+      "atext": "Effects of radiation on the dark count rate (DCR) of CMOS single photon avalanche diodes (SPADs) is reviewed. Both total ionizing and non ionizing dose effects are investigated using a test SPAD chip fabricated in a 180 nm CMOS technology as a case study. Models predicting the probability of damage, estimated through the measurement of DCR increase, are also presented. Emphasis is set on the damage dependence on radiation dose and device geometry. Particular attention is paid to the stochastic phenomena taking place in the sensitive volume of SPADs when they are exposed to relatively low fluences (micro-doses) of neutrons."
+    }
+  ],
   "authors": [
     {
       "affiliation": [
@@ -30,6 +32,7 @@
     "statement": "COPYRIGHT SPIE. Downloading of the abstract is permitted for personal use only.",
     "status": true
   },
+  "language": "en",
   "otherContributor": [
     {
       "contrib": {
@@ -100,14 +103,19 @@
     "volumeNum": "12512"
   },
   "recordData": {
+    "UUID": "",
     "createdTime": "",
+    "dataType": "",
     "loadFormat": "JATS",
     "loadLocation": "",
     "loadType": "fromFile",
+    "masterRecord": "",
     "parsedTime": "",
     "recordOrigin": ""
   },
-  "title": {
-    "textEnglish": "Radiation effects and underlying damage mechanisms in CMOS SPADs"
-  }
+  "title": [
+    {
+      "atext": "Radiation effects and underlying damage mechanisms in CMOS SPADs"
+    }
+  ]
 }

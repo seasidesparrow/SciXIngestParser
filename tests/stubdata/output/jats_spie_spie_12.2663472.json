@@ -1,7 +1,9 @@
 {
-  "abstract": {
-    "textEnglish": "ONERA \u2013 The French Aerospace Lab \u2013 develops new concepts of 3D-LiDAR imaging systems including new sensor technologies and data processing. Here, we present a more efficient strategy than existing solutions to numerically enhance the lateral resolution of low photon 3D-LiDAR operating in Geiger mode. Our pipeline makes it possible to reconstruct 3D-images with an unprecedented lateral-resolution, simultaneously at low photon count and Hertz level framerates. It is applied on simulated GmAPD 3D-LiDAR signals. Signals acquired using this category of sensors are unsuitable for direct applications of Compressive Sensing algorithms. Our contribution focuses on a more efficient strategy for waveform denoising and reconstruction. For each pixel, we reconstruct sub-pixels by using a Compressive Sensing approach. Compressive Sensing has already been used for single-photon applications with single-pixel cameras. In our pipeline, we extend this method to focal plane arrays in Geiger-mode. This process can be summarized as a set of signal processing techniques to enhance the incoming signal and to improve the Compressive Sensing reconstruction. Our goal is to recover a complete noise-free waveform. We distinguish two main parts: a reconstruction part which compensates the low dynamic range of the signal induced by the Geiger mode; a denoising part which uses a new denoising strategy based on statistical comparisons. This pipeline can be parallelized on GPU, as each pixel in the focal plane array is independent from the others. In this paper, we will detail the pipeline and then demonstrate its applicability on realistic simulated data."
-  },
+  "abstract": [
+    {
+      "atext": "ONERA \u2013 The French Aerospace Lab \u2013 develops new concepts of 3D-LiDAR imaging systems including new sensor technologies and data processing. Here, we present a more efficient strategy than existing solutions to numerically enhance the lateral resolution of low photon 3D-LiDAR operating in Geiger mode. Our pipeline makes it possible to reconstruct 3D-images with an unprecedented lateral-resolution, simultaneously at low photon count and Hertz level framerates. It is applied on simulated GmAPD 3D-LiDAR signals. Signals acquired using this category of sensors are unsuitable for direct applications of Compressive Sensing algorithms. Our contribution focuses on a more efficient strategy for waveform denoising and reconstruction. For each pixel, we reconstruct sub-pixels by using a Compressive Sensing approach. Compressive Sensing has already been used for single-photon applications with single-pixel cameras. In our pipeline, we extend this method to focal plane arrays in Geiger-mode. This process can be summarized as a set of signal processing techniques to enhance the incoming signal and to improve the Compressive Sensing reconstruction. Our goal is to recover a complete noise-free waveform. We distinguish two main parts: a reconstruction part which compensates the low dynamic range of the signal induced by the Geiger mode; a denoising part which uses a new denoising strategy based on statistical comparisons. This pipeline can be parallelized on GPU, as each pixel in the focal plane array is independent from the others. In this paper, we will detail the pipeline and then demonstrate its applicability on realistic simulated data."
+    }
+  ],
   "authors": [
     {
       "affiliation": [
@@ -52,6 +54,7 @@
     "statement": "COPYRIGHT SPIE. Downloading of the abstract is permitted for personal use only.",
     "status": true
   },
+  "language": "en",
   "otherContributor": [
     {
       "contrib": {
@@ -122,14 +125,19 @@
     "volumeNum": "12512"
   },
   "recordData": {
+    "UUID": "",
     "createdTime": "",
+    "dataType": "",
     "loadFormat": "JATS",
     "loadLocation": "",
     "loadType": "fromFile",
+    "masterRecord": "",
     "parsedTime": "",
     "recordOrigin": ""
   },
-  "title": {
-    "textEnglish": "Lateral-resolution enhancement of low-photon 3D-LiDAR by compressive sensing"
-  }
+  "title": [
+    {
+      "atext": "Lateral-resolution enhancement of low-photon 3D-LiDAR by compressive sensing"
+    }
+  ]
 }

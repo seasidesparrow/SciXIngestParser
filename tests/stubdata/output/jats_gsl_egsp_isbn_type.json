@@ -1,7 +1,9 @@
 {
-  "abstract": {
-    "textEnglish": "Swelling and shrinking soils are soils that can experience large changes in volume due to changes in water content. This may be due to seasonal changes in moisture content, local site changes such as leakage from water supply pipes or drains, changes to surface drainage and landscaping, or following the planting, removal or severe pruning of trees or hedges. These soils represent a significant hazard to structural engineers across the world due to their shrink\u2013swell behaviour, with the cost of mitigation alone running into several billion pounds annually. These soils usually contain some form of clay mineral, such as smectite or vermiculite, and can be found in humid and arid/semi-arid environments where their expansive nature can cause significant damage to properties and infrastructure. This chapter discusses the properties and costs associated with shrink\u2013swell soils, their formation and distribution throughout the UK and the rest of the world, and their geological and geotechnical characterization. It also considers the mechanisms of shrink-swell soils and their behaviour, reviewing strategies for managing them in an engineering context, before finally outlining the problem of trees and shrink\u2013swell soils."
-  },
+  "abstract": [
+    {
+      "atext": "Swelling and shrinking soils are soils that can experience large changes in volume due to changes in water content. This may be due to seasonal changes in moisture content, local site changes such as leakage from water supply pipes or drains, changes to surface drainage and landscaping, or following the planting, removal or severe pruning of trees or hedges. These soils represent a significant hazard to structural engineers across the world due to their shrink\u2013swell behaviour, with the cost of mitigation alone running into several billion pounds annually. These soils usually contain some form of clay mineral, such as smectite or vermiculite, and can be found in humid and arid/semi-arid environments where their expansive nature can cause significant damage to properties and infrastructure. This chapter discusses the properties and costs associated with shrink\u2013swell soils, their formation and distribution throughout the UK and the rest of the world, and their geological and geotechnical characterization. It also considers the mechanisms of shrink-swell soils and their behaviour, reviewing strategies for managing them in an engineering context, before finally outlining the problem of trees and shrink\u2013swell soils."
+    }
+  ],
   "authors": [
     {
       "affiliation": [
@@ -45,6 +47,7 @@
     "statement": "\u00a9 2020 [BGS \u00a9 UKRI All rights reserved]. Published by The Geological Society of London. All rights reserved",
     "status": true
   },
+  "language": "en",
   "pagination": {
     "firstPage": "223",
     "lastPage": "242",
@@ -93,10 +96,13 @@
     }
   ],
   "recordData": {
+    "UUID": "",
     "createdTime": "",
+    "dataType": "",
     "loadFormat": "JATS",
     "loadLocation": "",
     "loadType": "fromFile",
+    "masterRecord": "",
     "parsedTime": "",
     "recordOrigin": ""
   },
@@ -108,7 +114,15 @@
     "<ref id=\"EGSP29_8C81\"><mixed-citation publication-type=\"book\"><collab>TRB</collab> <year>1985</year>. <chapter-title>Evaluation and control of expansive soils</chapter-title>. <publisher-name>Transportation Research Board</publisher-name>, <publisher-loc>London</publisher-loc>.</mixed-citation></ref>",
     "<ref id=\"EGSP29_8C82\"><mixed-citation publication-type=\"book\"><person-group person-group-type=\"editor\"><string-name name-style=\"western\"><surname>Vipulanandan</surname><given-names>C.</given-names></string-name>, <string-name name-style=\"western\"><surname>Addison</surname><given-names>M.B.</given-names></string-name> &amp; <string-name name-style=\"western\"><surname>Hasen</surname><given-names>M.</given-names></string-name></person-group> [eds] <year>2001</year>. <source>Expansive Clay Soils and Vegetative Influence on Shallow Foundations</source>. <series>Geotechnical Special Publication</series> <volume>115</volume>, <publisher-loc>Virginia</publisher-loc>: <publisher-name>American Society of Civil Engineers</publisher-name>.</mixed-citation></ref>"
   ],
-  "title": {
-    "textEnglish": "Chapter 8 Swelling and shrinking soils"
-  }
+  "title": [
+    {
+      "atext": "Chapter 8 Swelling and shrinking soils"
+    },
+    {
+      "atext": "L. Jones et al."
+    },
+    {
+      "atext": "Swelling and Shrinking Soils"
+    }
+  ]
 }

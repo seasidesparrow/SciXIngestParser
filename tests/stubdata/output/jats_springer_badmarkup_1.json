@@ -1,7 +1,10 @@
 {
-  "abstract": {
-    "textEnglish": "The kinematics of about 40 single stars belonging to the <inline-formula> <tex-math>$$\\beta$$</tex-math> </inline-formula> Pictoris moving group is studied. The age of the <inline-formula> <tex-math>$$\\beta$$</tex-math> </inline-formula> Pictoris moving group is estimated from these stars with ground-based line-of-sight velocity determinations by two methods. Both estimates are kinematic. In the first method we considered the traceback trajectories of the stars, giving an estimate of <inline-formula> <tex-math>$$t=13.2\\pm 1.4$$</tex-math> </inline-formula> Myr. In the second method, by analyzing the instantaneous velocities of the stars, we show that there is an expansion of the stellar system occurring in the Galactic <inline-formula> <tex-math>$$xy$$</tex-math> </inline-formula> plane. Based on this effect, we find the time interval elapsed from the beginning of the expansion of the <inline-formula> <tex-math>$$\\beta$$</tex-math> </inline-formula> Pictoris moving group to the present day, <inline-formula> <tex-math>$$t=20\\pm 2$$</tex-math> </inline-formula> Myr."
-  },
+  "abstract": [
+    {
+      "atext": "The kinematics of about 40 single stars belonging to the <inline-formula> <tex-math>$$\\beta$$</tex-math> </inline-formula> Pictoris moving group is studied. The age of the <inline-formula> <tex-math>$$\\beta$$</tex-math> </inline-formula> Pictoris moving group is estimated from these stars with ground-based line-of-sight velocity determinations by two methods. Both estimates are kinematic. In the first method we considered the traceback trajectories of the stars, giving an estimate of <inline-formula> <tex-math>$$t=13.2\\pm 1.4$$</tex-math> </inline-formula> Myr. In the second method, by analyzing the instantaneous velocities of the stars, we show that there is an expansion of the stellar system occurring in the Galactic <inline-formula> <tex-math>$$xy$$</tex-math> </inline-formula> plane. Based on this effect, we find the time interval elapsed from the beginning of the expansion of the <inline-formula> <tex-math>$$\\beta$$</tex-math> </inline-formula> Pictoris moving group to the present day, <inline-formula> <tex-math>$$t=20\\pm 2$$</tex-math> </inline-formula> Myr.",
+      "language": "en"
+    }
+  ],
   "authors": [
     {
       "affiliation": [
@@ -93,6 +96,7 @@
       "keySystem": "misc"
     }
   ],
+  "language": "en",
   "pagination": {
     "firstPage": "238",
     "lastPage": "248",
@@ -135,10 +139,13 @@
     }
   ],
   "recordData": {
+    "UUID": "",
     "createdTime": "",
+    "dataType": "",
     "loadFormat": "JATS",
     "loadLocation": "",
     "loadType": "fromFile",
+    "masterRecord": "",
     "parsedTime": "",
     "recordOrigin": ""
   },
@@ -173,7 +180,10 @@
     "<ref id=\"CR28\"> <label>28</label> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Zuckerman</surname> <given-names>B.</given-names> </name> <name> <surname>Song</surname> <given-names>I.</given-names> </name> <name> <surname>Bessell</surname> <given-names>M. S.</given-names> </name> <name> <surname>Webb</surname> <given-names>R. A.</given-names> </name> </person-group> <source>Astrophys. J.</source> <year>2001</year> <volume>562</volume> <fpage>L87</fpage> <pub-id pub-id-type=\"bibcode\">2001ApJ...562L..87Z</pub-id> <pub-id pub-id-type=\"doi\">10.1086/337968</pub-id> </mixed-citation> </ref>",
     "<ref id=\"CR29\"> <label>29</label> <mixed-citation publication-type=\"other\">The HIPPARCOS and Tycho Catalogues, ESA SP-1200 (1997). </mixed-citation> </ref>"
   ],
-  "title": {
-    "textEnglish": "Estimation of the Kinematic Age of the <inline-formula> <tex-math>$$\\boldsymbol{\\beta}$$</tex-math> </inline-formula> Pictoris Moving Group from Up-to-date Data"
-  }
+  "title": [
+    {
+      "atext": "Estimation of the Kinematic Age of the <inline-formula> <tex-math>$$\\boldsymbol{\\beta}$$</tex-math> </inline-formula> Pictoris Moving Group from Up-to-date Data",
+      "language": "en"
+    }
+  ]
 }

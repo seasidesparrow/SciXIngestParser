@@ -1,7 +1,10 @@
 {
-  "abstract": {
-    "textEnglish": "Context. V838 Monocerotis is a peculiar binary that underwent an immense stellar explosion in 2002, leaving behind an expanding cool supergiant and a hot B3V companion. Five years after the outburst, the B3V companion disappeared from view, and has not returned to its original state.\nAims. We investigate the changes in the light curve and spectral features to explain the behaviour of V838 Mon during the current long-lasting minimum.\nMethods. A monitoring campaign has been performed over the past 13 years with the Nordic Optical Telescope to obtain optical photometric and spectroscopic data. The datasets are used to analyse the temporal evolution of the spectral features and the spectral energy distribution, and to characterise the object.\nResults. Our photometric data show a steady brightening in all bands over the past 13 years, which is particularly prominent in the blue. This rise is also reflected in the spectra, showing a gradual relative increase in the continuum flux at shorter wavelengths. In addition, a slow brightening of the H\u03b1 emission line starting in 2015 was detected. These changes might imply that the B3V companion is slowly reappearing. During the same time interval, our analysis reveals a considerable change in the observed colours of the object along with a steady decrease in the strength and width of molecular absorption bands in our low-resolution spectra. These changes suggest a rising temperature of the cool supergiant along with a weakening of its wind, most likely combined with a slow recovery of the secondary due to the evaporation of the dust and accretion of the material from the shell in which the hot companion is embedded. From our medium-resolution spectra, we find that the heliocentric radial velocity of the atomic absorption line of Ti I 6556.06 \u00c5 has been stable for more than a decade. We propose that Ti I lines are tracing the velocity of the red supergiant in V838 Mon, and do not represent the infalling matter as previously stated.  \u22c6 Full Tables 2 and 4 and spectra (FITS files) are only available at the CDS via anonymous ftp to cdsarc.cds.unistra.fr (130.79.128.5) or via https://cdsarc.cds.unistra.fr/viz-bin/cat/J/A+A/670/A13"
-  },
+  "abstract": [
+    {
+      "atext": "Context. V838 Monocerotis is a peculiar binary that underwent an immense stellar explosion in 2002, leaving behind an expanding cool supergiant and a hot B3V companion. Five years after the outburst, the B3V companion disappeared from view, and has not returned to its original state.\nAims. We investigate the changes in the light curve and spectral features to explain the behaviour of V838 Mon during the current long-lasting minimum.\nMethods. A monitoring campaign has been performed over the past 13 years with the Nordic Optical Telescope to obtain optical photometric and spectroscopic data. The datasets are used to analyse the temporal evolution of the spectral features and the spectral energy distribution, and to characterise the object.\nResults. Our photometric data show a steady brightening in all bands over the past 13 years, which is particularly prominent in the blue. This rise is also reflected in the spectra, showing a gradual relative increase in the continuum flux at shorter wavelengths. In addition, a slow brightening of the H\u03b1 emission line starting in 2015 was detected. These changes might imply that the B3V companion is slowly reappearing. During the same time interval, our analysis reveals a considerable change in the observed colours of the object along with a steady decrease in the strength and width of molecular absorption bands in our low-resolution spectra. These changes suggest a rising temperature of the cool supergiant along with a weakening of its wind, most likely combined with a slow recovery of the secondary due to the evaporation of the dust and accretion of the material from the shell in which the hot companion is embedded. From our medium-resolution spectra, we find that the heliocentric radial velocity of the atomic absorption line of Ti I 6556.06 \u00c5 has been stable for more than a decade. We propose that Ti I lines are tracing the velocity of the red supergiant in V838 Mon, and do not represent the infalling matter as previously stated.",
+      "language": "en"
+    }
+  ],
   "authors": [
     {
       "affiliation": [
@@ -288,6 +291,7 @@
       "keySystem": "misc"
     }
   ],
+  "language": "en",
   "openAccess": {
     "license": "Open Access article, published by EDP Sciences, under the terms of the Creative Commons Attribution License (https://creativecommons.org/licenses/by/4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.",
     "licenseURL": "https://www.edpsciences.org",
@@ -333,10 +337,13 @@
     }
   ],
   "recordData": {
+    "UUID": "",
     "createdTime": "",
+    "dataType": "",
     "loadFormat": "JATS",
     "loadLocation": "",
     "loadType": "fromFile",
+    "masterRecord": "",
     "parsedTime": "",
     "recordOrigin": ""
   },
@@ -397,10 +404,17 @@
     "<ref id=\"R54\"> <mixed-citation publication-type=\"journal\"> <string-name><surname>Woodward</surname>, <given-names>C. E.</given-names></string-name>, <string-name><surname>Evans</surname>, <given-names>A.</given-names></string-name>, <string-name><surname>Banerjee</surname>, <given-names>D. P. K.</given-names></string-name>, et al. <year>2021</year>, <source>AJ</source>, <volume>162</volume>, <fpage>183</fpage> </mixed-citation> </ref>",
     "<ref id=\"R55\"> <mixed-citation publication-type=\"journal\"> <string-name><surname>Worthey</surname>, <given-names>G.</given-names></string-name>, &amp; <string-name><surname>Lee</surname>, <given-names>H.-C.</given-names></string-name> <year>2011</year>, <source>A&amp;AS</source>, <volume>193</volume>, <fpage>1</fpage> </mixed-citation> </ref>"
   ],
-  "title": {
-    "textEnglish": "V838 Mon: A slow waking up of Sleeping Beauty?",
-    "textNotes": [
-      "\u22c6 Full Tables 2 and 4 and spectra (FITS files) are only available at the CDS via anonymous ftp to cdsarc.cds.unistra.fr (130.79.128.5) or via https://cdsarc.cds.unistra.fr/viz-bin/cat/J/A+A/670/A13"
-    ]
-  }
+  "title": [
+    {
+      "atext": "V838 Mon: A slow waking up of Sleeping Beauty?\u22c6",
+      "footnotes": [
+        {
+          "id": "FN1",
+          "label": "\u22c6",
+          "text": "Full Tables 2 and 4 and spectra (FITS files) are only available at the CDS via anonymous ftp to cdsarc.cds.unistra.fr (130.79.128.5) or via https://cdsarc.cds.unistra.fr/viz-bin/cat/J/A+A/670/A13"
+        }
+      ],
+      "language": "en"
+    }
+  ]
 }

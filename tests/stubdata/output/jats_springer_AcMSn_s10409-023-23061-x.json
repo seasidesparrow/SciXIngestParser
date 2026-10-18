@@ -1,7 +1,14 @@
 {
-  "abstract": {
-    "textEnglish": "This work uses a bio-inspired flapping wing model to numerically investigate the effect of morphing wingspan on wake structures. The model consists of a rectangular flat-plate wing heaving harmonically in a uniform incoming flow at the Reynolds number of 300 and Strouhal number of 0.3. The wingspan changes during heaving, with a maximum wingspan at the middle of downstroke and minimum wingspan at the middle of upstroke. The wake is characterized by two oblique chains of interconnected vortex loops. Although the morphing wingspan has little effect on the wake topology, it significantly affects the magnitude and size of the vortices near the wing surface, which leads to an asymmetric distribution of vortex loop chains in the wake. The shrinking of leading-edge vortex under the lower surface of the wing in downstroke and the destructive interaction of tip vortices in upstroke are identified as the two vortex dynamics corresponding to the asymmetric wake structures. The analysis on the lift coefficients shows that the above vortex interactions are mainly caused by the change of span length instead of spanwise velocity.\n"
-  },
+  "abstract": [
+    {
+      "atext": "This work uses a bio-inspired flapping wing model to numerically investigate the effect of morphing wingspan on wake structures. The model consists of a rectangular flat-plate wing heaving harmonically in a uniform incoming flow at the Reynolds number of 300 and Strouhal number of 0.3. The wingspan changes during heaving, with a maximum wingspan at the middle of downstroke and minimum wingspan at the middle of upstroke. The wake is characterized by two oblique chains of interconnected vortex loops. Although the morphing wingspan has little effect on the wake topology, it significantly affects the magnitude and size of the vortices near the wing surface, which leads to an asymmetric distribution of vortex loop chains in the wake. The shrinking of leading-edge vortex under the lower surface of the wing in downstroke and the destructive interaction of tip vortices in upstroke are identified as the two vortex dynamics corresponding to the asymmetric wake structures. The analysis on the lift coefficients shows that the above vortex interactions are mainly caused by the change of span length instead of spanwise velocity.\n",
+      "language": "en"
+    },
+    {
+      "atext": "\u672c\u6587\u57fa\u4e8e\u4eff\u751f\u6251\u7ffc\u6d41\u52a8\u7684\u6570\u503c\u6a21\u62df\u7814\u7a76\u53d8\u5f62\u7ffc\u5c55\u5bf9\u5c3e\u8ff9\u7ed3\u6784\u7684\u5f71\u54cd. \u6240\u91c7\u7528\u7684\u6251\u7ffc\u6a21\u578b\u4e3a\u4e00\u4e2a\u5728\u5747\u5300\u6765\u6d41\u4e2d\u4e0a\u4e0b\u6251\u52a8\u7684\u5e73 \u677f. \u7ffc\u5c55\u968f\u7740\u6251\u52a8\u800c\u53d8\u5316, \u6700\u5927\u7ffc\u5c55\u5728\u4e0b\u6251\u884c\u7a0b\u7684\u4e2d\u95f4, \u6700\u5c0f\u7ffc\u5c55\u5728\u4e0a\u6325\u884c\u7a0b\u7684\u4e2d\u95f4. \u5176\u5c3e\u8ff9\u7684\u7279\u5f81\u8868\u73b0\u4e3a\u4e24\u6761\u76f8\u4e92\u8fde\u63a5\u7684\u503e\u659c\u6da1\u94fe. \u867d\u7136\u53d8\u5f62\u7ffc\u5c55\u5bf9\u5c3e\u6d41\u62d3\u6251\u7ed3\u6784\u7684\u5f71\u54cd\u4e0d\u5927, \u4f46\u5b83\u663e\u8457\u5f71\u54cd\u4e86\u6251\u7ffc\u9644\u8fd1\u6da1\u7ed3\u6784, \u5bfc\u81f4\u5c3e\u6d41\u4e2d\u6da1\u73af\u94fe\u7684\u5206\u5e03\u4e0d\u5bf9\u79f0. \u4e0b\u6251\u8fc7\u7a0b\u4e2d, \u4f4d\u4e8e\u6251\u7ffc \u4e0b\u8868\u9762\u7684\u524d\u7f18\u6da1\u6536\u7f29, \u4e0e\u4e0a\u6325\u4e2d\u7ffc\u5c16\u6da1\u76f8\u4e92\u4f5c\u7528, \u901a\u8fc7\u5206\u6790\u5347\u529b\u7cfb\u6570, \u53d1\u73b0\u4e0a\u8ff0\u6da1\u7684\u76f8\u4e92\u4f5c\u7528\u662f\u7531\u7ffc\u5c55\u957f\u5ea6\u7684\u53d8\u5316\u5f15\u8d77\u7684.",
+      "language": "zh"
+    }
+  ],
   "authors": [
     {
       "affiliation": [
@@ -150,6 +157,7 @@
       "keySystem": "misc"
     }
   ],
+  "language": "en",
   "pagination": {
     "electronicID": "323061"
   },
@@ -190,10 +198,13 @@
     }
   ],
   "recordData": {
+    "UUID": "",
     "createdTime": "",
+    "dataType": "",
     "loadFormat": "JATS",
     "loadLocation": "",
     "loadType": "fromFile",
+    "masterRecord": "",
     "parsedTime": "",
     "recordOrigin": ""
   },
@@ -257,7 +268,14 @@
     "<ref id=\"CR57\"> <label>57</label> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Taira</surname> <given-names>K</given-names> </name> <name> <surname>Colonius</surname> <given-names>T</given-names> </name> </person-group> <article-title xml:lang=\"en\">Three-dimensional flows around low-aspect-ratio flat-plate wings at low Reynolds numbers</article-title> <source>J. Fluid Mech.</source> <year>2009</year> <volume>623</volume> <fpage>187</fpage> <pub-id pub-id-type=\"zbl\">1157.76321</pub-id> <pub-id pub-id-type=\"doi\">10.1017/S0022112008005314</pub-id> </mixed-citation> </ref>",
     "<ref id=\"CR58\"> <label>58</label> <mixed-citation publication-type=\"book\"> <person-group person-group-type=\"author\"> <name> <surname>Anderson</surname> <given-names>J</given-names> </name> <name> <surname>Anderson</surname> <given-names>J D</given-names> </name> </person-group> <source>Fundamentals of Aerodynamics</source> <year>2010</year> <edition>5 ed.</edition> <publisher-loc>Columbus</publisher-loc> <publisher-name>McGraw-Hill</publisher-name> </mixed-citation> </ref>"
   ],
-  "title": {
-    "textEnglish": "Wake of a bio-inspired flapping wing with morphing wingspan"
-  }
+  "title": [
+    {
+      "atext": "Wake of a bio-inspired flapping wing with morphing wingspan",
+      "language": "en"
+    },
+    {
+      "atext": "\u53d8\u7ffc\u5c55\u7684\u4eff\u751f\u6251\u7ffc\u5c3e\u8ff9\u7279\u5f81",
+      "language": "zh"
+    }
+  ]
 }

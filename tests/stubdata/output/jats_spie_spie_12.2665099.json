@@ -1,7 +1,9 @@
 {
-  "abstract": {
-    "textEnglish": "We present a study of the main SPAD figures of merit using a multiscale approach, from Monte Carlo simulations to SPICE simulations. We explore novel stochastic approaches capable of predicting accurately experimental measurements such as the Breakdown Probability, and the jitter. Additionally, the SPAD avalanche dynamics that is a stochastic process, is discussed within a transient Monte Carlo simulation perspective. We also derived a VerilogA model, making possible the analysis of the stochastic responses of the SPAD, including the buildup of the avalanche but also its quench. This latter quench probability of these diodes once in avalanche, rarely discussed in literature, is related to the dynamics of the voltage change of the floating cathode node. If the cathode voltage recovery (after the debiasing due to the quench circuit) is quicker than the time needed for the carrier evacuation within the avalanche junction, small additional avalanches can occur."
-  },
+  "abstract": [
+    {
+      "atext": "We present a study of the main SPAD figures of merit using a multiscale approach, from Monte Carlo simulations to SPICE simulations. We explore novel stochastic approaches capable of predicting accurately experimental measurements such as the Breakdown Probability, and the jitter. Additionally, the SPAD avalanche dynamics that is a stochastic process, is discussed within a transient Monte Carlo simulation perspective. We also derived a VerilogA model, making possible the analysis of the stochastic responses of the SPAD, including the buildup of the avalanche but also its quench. This latter quench probability of these diodes once in avalanche, rarely discussed in literature, is related to the dynamics of the voltage change of the floating cathode node. If the cathode voltage recovery (after the debiasing due to the quench circuit) is quicker than the time needed for the carrier evacuation within the avalanche junction, small additional avalanches can occur."
+    }
+  ],
   "authors": [
     {
       "affiliation": [
@@ -195,6 +197,7 @@
     "statement": "COPYRIGHT SPIE. Downloading of the abstract is permitted for personal use only.",
     "status": true
   },
+  "language": "en",
   "otherContributor": [
     {
       "contrib": {
@@ -265,14 +268,19 @@
     "volumeNum": "12512"
   },
   "recordData": {
+    "UUID": "",
     "createdTime": "",
+    "dataType": "",
     "loadFormat": "JATS",
     "loadLocation": "",
     "loadType": "fromFile",
+    "masterRecord": "",
     "parsedTime": "",
     "recordOrigin": ""
   },
-  "title": {
-    "textEnglish": "Multiscale SPAD modeling: from Monte Carlo to SPICE simulations"
-  }
+  "title": [
+    {
+      "atext": "Multiscale SPAD modeling: from Monte Carlo to SPICE simulations"
+    }
+  ]
 }

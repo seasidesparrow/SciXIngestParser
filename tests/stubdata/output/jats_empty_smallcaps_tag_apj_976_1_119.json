@@ -1,7 +1,9 @@
 {
-  "abstract": {
-    "textEnglish": "Environment plays a critical role in shaping the assembly of low-mass galaxies. Here, we use the UNIVERSEMACHINE (UM) galaxy\u2013halo connection framework and Data Release 3 of the Satellites Around Galactic Analogs (SAGA) Survey to place dwarf galaxy star formation and quenching into a cosmological context. UM is a data-driven forward model that flexibly parameterizes galaxy star formation rates (SFRs) using only halo mass and assembly history. We add a new quenching model to UM, tailored for galaxies with m <sub>\u22c6</sub> \u2272 10<sup>9</sup> M <sub>\u2299</sub>, and constrain the model down to m <sub>\u22c6</sub> \u2273 10<sup>7</sup> M <sub>\u2299</sub> using new SAGA observations of 101 satellite systems around Milky Way (MW)\u2013mass hosts and a sample of isolated field galaxies in a similar mass range from the Sloan Digital Sky Survey. The new best-fit model, \u201cUM-SAGA,\u201d reproduces the satellite stellar mass functions, average SFRs, and quenched fractions in SAGA satellites while keeping isolated dwarfs mostly star-forming. The enhanced quenching in satellites relative to isolated field galaxies leads the model to maximally rely on halo assembly to explain the observed environmental quenching. Extrapolating the model down to m <sub>\u22c6</sub> \u223c 10<sup>6.5</sup> M <sub>\u2299</sub> yields a quenched fraction of \u227330% for isolated field galaxies and \u227380% for satellites of MW-mass hosts at this stellar mass. Spectroscopic surveys can soon test this specific prediction to reveal the relative importance of internal feedback, cessation of mass and gas accretion, satellite-specific gas processes, and reionization for the evolution of faint low-mass galaxies."
-  },
+  "abstract": [
+    {
+      "atext": "Environment plays a critical role in shaping the assembly of low-mass galaxies. Here, we use the UNIVERSEMACHINE (UM) galaxy\u2013halo connection framework and Data Release 3 of the Satellites Around Galactic Analogs (SAGA) Survey to place dwarf galaxy star formation and quenching into a cosmological context. UM is a data-driven forward model that flexibly parameterizes galaxy star formation rates (SFRs) using only halo mass and assembly history. We add a new quenching model to UM, tailored for galaxies with m <sub>\u22c6</sub> \u2272 10<sup>9</sup> M <sub>\u2299</sub>, and constrain the model down to m <sub>\u22c6</sub> \u2273 10<sup>7</sup> M <sub>\u2299</sub> using new SAGA observations of 101 satellite systems around Milky Way (MW)\u2013mass hosts and a sample of isolated field galaxies in a similar mass range from the Sloan Digital Sky Survey. The new best-fit model, \u201cUM-SAGA,\u201d reproduces the satellite stellar mass functions, average SFRs, and quenched fractions in SAGA satellites while keeping isolated dwarfs mostly star-forming. The enhanced quenching in satellites relative to isolated field galaxies leads the model to maximally rely on halo assembly to explain the observed environmental quenching. Extrapolating the model down to m <sub>\u22c6</sub> \u223c 10<sup>6.5</sup> M <sub>\u2299</sub> yields a quenched fraction of \u227330% for isolated field galaxies and \u227380% for satellites of MW-mass hosts at this stellar mass. Spectroscopic surveys can soon test this specific prediction to reveal the relative importance of internal feedback, cessation of mass and gas accretion, satellite-specific gas processes, and reionization for the evolution of faint low-mass galaxies."
+    }
+  ],
   "authors": [
     {
       "affiliation": [
@@ -294,6 +296,7 @@
       "keySystem": "UAT"
     }
   ],
+  "language": "en",
   "openAccess": {
     "license": "Original content from this work may be used under the terms of the Creative Commons Attribution 4.0 licence. Any further distribution of this work must maintain attribution to the author(s) and the title of the work, journal citation and DOI.",
     "licenseURL": "http://creativecommons.org/licenses/by/4.0/",
@@ -344,10 +347,13 @@
     }
   ],
   "recordData": {
+    "UUID": "",
     "createdTime": "",
+    "dataType": "",
     "loadFormat": "JATS",
     "loadLocation": "",
     "loadType": "fromFile",
+    "masterRecord": "",
     "parsedTime": "",
     "recordOrigin": ""
   },
@@ -482,7 +488,9 @@
     "<ref id=\"apjad7f4cbib128\"><element-citation publication-type=\"journal\" xlink:type=\"simple\"><person-group person-group-type=\"author\"> <name name-style=\"western\"><surname>York</surname><given-names>D. G.</given-names></name> <name name-style=\"western\"><surname>Adelman</surname><given-names>J.</given-names></name> <name name-style=\"western\"><surname>Anderson</surname><given-names>J. E. J.</given-names></name> </person-group><year>2000</year><source>AJ</source><volume>120</volume><fpage>1579</fpage><pub-id pub-id-type=\"other\" specific-use=\"ads\">2000AJ....120.1579Y</pub-id><pub-id pub-id-type=\"doi\">10.1086/301513</pub-id></element-citation></ref>",
     "<ref id=\"apjad7f4cbib129\"><element-citation publication-type=\"preprint\" xlink:type=\"simple\"><person-group person-group-type=\"author\"> <name name-style=\"western\"><surname>Yuan</surname><given-names>S.</given-names></name> <name name-style=\"western\"><surname>Wechsler</surname><given-names>R. H.</given-names></name> <name name-style=\"western\"><surname>Wang</surname><given-names>Y.</given-names></name> <etal/> </person-group><year>2023</year><comment>arXiv:<ext-link ext-link-type=\"arxiv\" xlink:href=\"http://arxiv.org/abs/2310.09329\" xlink:type=\"simple\">2310.09329</ext-link> </comment><pub-id pub-id-type=\"other\" specific-use=\"ads\">2023arXiv231009329Y</pub-id></element-citation></ref>"
   ],
-  "title": {
-    "textEnglish": "The SAGA Survey. V. Modeling Satellite Systems around Milky Way\u2013Mass Galaxies with Updated UNIVERSEMACHINE"
-  }
+  "title": [
+    {
+      "atext": "The SAGA Survey. V. Modeling Satellite Systems around Milky Way\u2013Mass Galaxies with Updated UNIVERSEMACHINE"
+    }
+  ]
 }

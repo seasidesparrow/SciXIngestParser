@@ -1,7 +1,9 @@
 {
-  "abstract": {
-    "textEnglish": "This study presents a high porous nanocomposite composed of reduced graphene oxide and NiMoS<sub>4</sub> (RGO/NiMoS<sub>4</sub>) for supercapacitor electrode materials. The different morphologies of NiMoS<sub>4</sub> growth on RGO sheets were obtained via a facile one-step microwave-assisted method. The obtained material comprised NiMoS<sub>4</sub> nanoneedles of several nanometers in diameter, which are well attached to the surface of RGO nanosheets. The RGO/NiMoS<sub>4</sub> nanocomposite had a mesoporous structure, high specific surface area, and high electric conductivity. These excellent characteristics yield a fast electron and ion transport, and a large number of electroactive sites. The RGO/NiMoS<sub>4</sub> composite delivered a specific capacitance of 1273 F g<sup>1</sup> at a current density of 1.0 A g<sup>1</sup>, high-rate capability of 71.3 retention from 1 to 6.5 A g<sup>1</sup>. Besides, an asymmetric supercapacitor device had a capacitance of 80 F g<sup>1</sup> at a current density of 1.0 A g<sup>1</sup> and an energy density of 82.5 Wh kg<sup>1</sup> at a power density of 1000 W kg<sup>1</sup> with an operating voltage of 1.6 V. Thus, the current RGO/NiMoS<sub>4</sub> nanocomposite has a great potential for energy storage application."
-  },
+  "abstract": [
+    {
+      "atext": "This study presents a high porous nanocomposite composed of reduced graphene oxide and NiMoS<sub>4</sub> (RGO/NiMoS<sub>4</sub>) for supercapacitor electrode materials. The different morphologies of NiMoS<sub>4</sub> growth on RGO sheets were obtained via a facile one-step microwave-assisted method. The obtained material comprised NiMoS<sub>4</sub> nanoneedles of several nanometers in diameter, which are well attached to the surface of RGO nanosheets. The RGO/NiMoS<sub>4</sub> nanocomposite had a mesoporous structure, high specific surface area, and high electric conductivity. These excellent characteristics yield a fast electron and ion transport, and a large number of electroactive sites. The RGO/NiMoS<sub>4</sub> composite delivered a specific capacitance of 1273 F g<sup>1</sup> at a current density of 1.0 A g<sup>1</sup>, high-rate capability of 71.3 retention from 1 to 6.5 A g<sup>1</sup>. Besides, an asymmetric supercapacitor device had a capacitance of 80 F g<sup>1</sup> at a current density of 1.0 A g<sup>1</sup> and an energy density of 82.5 Wh kg<sup>1</sup> at a power density of 1000 W kg<sup>1</sup> with an operating voltage of 1.6 V. Thus, the current RGO/NiMoS<sub>4</sub> nanocomposite has a great potential for energy storage application."
+    }
+  ],
   "authors": [
     {
       "affiliation": [
@@ -165,10 +167,13 @@
     }
   ],
   "recordData": {
+    "UUID": "",
     "createdTime": "",
+    "dataType": "",
     "loadFormat": "JATS",
     "loadLocation": "",
     "loadType": "fromFile",
+    "masterRecord": "",
     "parsedTime": "",
     "recordOrigin": ""
   },
@@ -199,7 +204,12 @@
     "<ref id=\"ansnabfa8ebib24\"> <label>24</label> <element-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Han</surname> <given-names>X</given-names> </name> <name> <surname>Tao</surname> <given-names>K</given-names> </name> <name> <surname>Wang</surname> <given-names>D</given-names> </name> <name> <surname>Han</surname> <given-names>L</given-names> </name> </person-group> <year>2018</year> <source>Nanoscale</source> <volume>10</volume> <fpage>2735</fpage> <pub-id pub-id-type=\"doi\">10.1039/C7NR07931A</pub-id> </element-citation> </ref>",
     "<ref id=\"ansnabfa8ebib25\"> <label>25</label> <element-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Hoa</surname> <given-names>N V</given-names> </name> <name> <surname>Dat</surname> <given-names>P A</given-names> </name> <name> <surname>Nghia</surname> <given-names>N H</given-names> </name> </person-group> <year>2021</year> <source>J. Mater. Sci.</source> <volume>56</volume> <fpage>5132</fpage> <pub-id pub-id-type=\"doi\">10.1007/s10853-020-05591-6</pub-id> </element-citation> </ref>"
   ],
-  "title": {
-    "textEnglish": "Highly porous nanocomposite of NiMoS<sub>4</sub> nanosheets and reduced graphene oxide for energy storage application"
-  }
+  "title": [
+    {
+      "atext": "Highly porous nanocomposite of NiMoS<sub>4</sub> nanosheets and reduced graphene oxide for energy storage application"
+    },
+    {
+      "atext": "Highly porous nanocomposite of NiMoS4 nanosheets and reduced graphene oxide for energy storage application"
+    }
+  ]
 }

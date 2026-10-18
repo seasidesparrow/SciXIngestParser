@@ -1,7 +1,9 @@
 {
-  "abstract": {
-    "textEnglish": "The need for flexible food packaging has increased substantially in recent years around the world due to the unprecedented growth in food consumption. Due to low cost and ease of processing, petroleum-based synthetic polymer packaging materials are being predominantly used for food packaging these days. To avoid contributing to environmental problems caused by ecological risks, consumers have been searching for alternatives to plastic food packaging due to the fact that plastics cannot be recycled and are not biodegradable. Therefore, bioplastics made from corn starch, which are biodegradable, can be one solution to these issues. The starch\u2019s amylopectin and amylase composition has a significant impact on the polysaccharide\u2019s characteristics. Corn starch (CS) is utilized as a food source for humans and other animals, but it also has many other applications in industry. Corn starch, on the other hand, has a few issues that need to be addressed through some modifications. Although starch-based packaging is expensive, they create less waste overall, which helps in the reduction amount of plastic pollution. A variety of natural and synthetic polymers \u2013 including polysaccharide-based materials like Kappaphycus alvarezii seaweed, collagen, alginate, chitosan, zein, cellulose, gelatin, various amino acids and polymeric materials like acrylic acid, polybutylene (PB), polyacrylic acid, polyethylene (PE), polyvinyl chloride (PVC), polyvinyl alcohol (PVA), and polycaprolactone (PCL) \u2013 are used as starch modifiers to produce polymers with a starch base that are completely biodegradable. These biopolymers have the potential to replacing petroleum-based polymers in a variety of commercial and industrial settings. Besides, corn starch nanocomposite films reinforced with nanocellulose have been investigated as a potential eco-friendly packaging material. Consequently, the effects of nanocellulose content on the mechanical, thermal, and barrier properties of corn starch-based films will be discussed in this work."
-  },
+  "abstract": [
+    {
+      "atext": "The need for flexible food packaging has increased substantially in recent years around the world due to the unprecedented growth in food consumption. Due to low cost and ease of processing, petroleum-based synthetic polymer packaging materials are being predominantly used for food packaging these days. To avoid contributing to environmental problems caused by ecological risks, consumers have been searching for alternatives to plastic food packaging due to the fact that plastics cannot be recycled and are not biodegradable. Therefore, bioplastics made from corn starch, which are biodegradable, can be one solution to these issues. The starch\u2019s amylopectin and amylase composition has a significant impact on the polysaccharide\u2019s characteristics. Corn starch (CS) is utilized as a food source for humans and other animals, but it also has many other applications in industry. Corn starch, on the other hand, has a few issues that need to be addressed through some modifications. Although starch-based packaging is expensive, they create less waste overall, which helps in the reduction amount of plastic pollution. A variety of natural and synthetic polymers \u2013 including polysaccharide-based materials like Kappaphycus alvarezii seaweed, collagen, alginate, chitosan, zein, cellulose, gelatin, various amino acids and polymeric materials like acrylic acid, polybutylene (PB), polyacrylic acid, polyethylene (PE), polyvinyl chloride (PVC), polyvinyl alcohol (PVA), and polycaprolactone (PCL) \u2013 are used as starch modifiers to produce polymers with a starch base that are completely biodegradable. These biopolymers have the potential to replacing petroleum-based polymers in a variety of commercial and industrial settings. Besides, corn starch nanocomposite films reinforced with nanocellulose have been investigated as a potential eco-friendly packaging material. Consequently, the effects of nanocellulose content on the mechanical, thermal, and barrier properties of corn starch-based films will be discussed in this work."
+    }
+  ],
   "authors": [
     {
       "affiliation": [
@@ -204,6 +206,7 @@
       "keySystem": "misc"
     }
   ],
+  "language": "en",
   "pagination": {
     "firstPage": "2653",
     "lastPage": "2681",
@@ -238,10 +241,13 @@
     }
   ],
   "recordData": {
+    "UUID": "",
     "createdTime": "",
+    "dataType": "",
     "loadFormat": "JATS",
     "loadLocation": "",
     "loadType": "fromFile",
+    "masterRecord": "",
     "parsedTime": "",
     "recordOrigin": ""
   },
@@ -396,7 +402,9 @@
     "<ref id=\"j_psr-2022-0011_ref_149\"> <label>148.</label> <mixed-citation>Lalia, BS, Samad, YA, Hashaikeh, R. Nanocrystalline cellulose-reinforced composite mats for lithium-ion batteries: electrochemical and thermomechanical performance. \t\t\t\t\t<italic>J Solid State Electrochem</italic> 2013;17:575\u201381. \t\t\t\t\t<ext-link ext-link-type=\"doi\" xlink:href=\"https://doi.org/10.1007/s10008-012-1894-1\">https://doi.org/10.1007/s10008-012-1894-1</ext-link>. \t\t\t\t</mixed-citation> <element-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Lalia</surname> <given-names>BS</given-names> </name> <name> <surname>Samad</surname> <given-names>YA</given-names> </name> <name> <surname>Hashaikeh</surname> <given-names>R</given-names> </name> </person-group> <article-title>Nanocrystalline cellulose-reinforced composite mats for lithium-ion batteries: electrochemical and thermomechanical performance</article-title> <source>J Solid State Electrochem</source> <year>2013</year> <volume>17</volume> <fpage>575</fpage> <lpage>81</lpage> <ext-link ext-link-type=\"doi\" xlink:href=\"https://doi.org/10.1007/s10008-012-1894-1\">https://doi.org/10.1007/s10008-012-1894-1</ext-link> </element-citation> </ref>",
     "<ref id=\"j_psr-2022-0011_ref_150\"> <label>149.</label> <mixed-citation>Lynch, M. Decorative skin and hair cosmetics containing microcrystalline cellulose as enhancing agent. 2004;1.</mixed-citation> <element-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Lynch</surname> <given-names>M</given-names> </name> </person-group> <article-title>Decorative skin and hair cosmetics containing microcrystalline cellulose as enhancing agent</article-title> <year>2004</year> <volume>1</volume> <source>.</source> </element-citation> </ref>"
   ],
-  "title": {
-    "textEnglish": "Corn starch nanocomposite films reinforced with nanocellulose"
-  }
+  "title": [
+    {
+      "atext": "Corn starch nanocomposite films reinforced with nanocellulose"
+    }
+  ]
 }

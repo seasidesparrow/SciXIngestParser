@@ -126,14 +126,14 @@ class JATSAffils(object):
         email_new = OrderedSet()
 
         email_format = re.compile(r"(^[a-zA-Z0-9_.+-]+@[a-zA-Z0-9-]+\.[a-zA-Z0-9-.]+$)")
-        email_parsed = False
+        # email_parsed = False
         for em in email:
             if " " in em:
                 for e in em.strip().split():
                     try:
                         if email_format.search(e):
                             email_new.add(email_format.search(e).group(0))
-                            email_parsed = True
+                            # email_parsed = True
                     except Exception as err:
                         logger.warning("Bad format in _fix_email: %s" % err)
             else:
@@ -141,17 +141,17 @@ class JATSAffils(object):
                     if type(em) is str:
                         if email_format.search(em):
                             email_new.add(email_format.search(em).group(0))
-                            email_parsed = True
+                            # email_parsed = True
                     elif type(em) is list:
                         for e in em:
                             if email_format.search(e):
                                 email_new.add(email_format.search(e).group(0))
-                                email_parsed = True
+                                # email_parsed = True
                 except Exception as err:
                     logger.warning("Bad format in _fix_email: %s" % err)
 
-        if not email_parsed:
-            logger.warning("Email not verified as valid. Input email list: %s", str(email))
+        # if not email_parsed:
+        #     logger.warning("Email not verified as valid. Input email list: %s", str(email))
 
         return list(email_new)
 
@@ -350,6 +350,8 @@ class JATSAffils(object):
                             "prefix": "",
                             "suffix": "",
                             "native_lang": "",
+                            "native_surname": "",
+                            "native_given_name": "",
                             "orcid": "",
                         }
 
@@ -440,6 +442,8 @@ class JATSAffils(object):
                             "prefix": "",
                             "suffix": "",
                             "native_lang": "",
+                            "native_surname": "",
+                            "native_given_name": "",
                             "orcid": "",
                         }
 
@@ -448,57 +452,63 @@ class JATSAffils(object):
                     l_correspondent = True
 
                 # get author's name
-                if contrib.find("name") and contrib.find("name").find("surname"):
-                    surname = contrib.find("name").find("surname").get_text()
-                elif contrib.find("string-name") and contrib.find("string-name").find("surname"):
-                    surname = contrib.find("string-name").find("surname").get_text()
-                else:
-                    surname = ""
+                # FIX: name tag may have attribute style="western"/"eastern",
+                # and there may be more than one "name" tag per contributor,
+                # so make sure you disentangle all this
+                contrib_name_list = contrib.find_all("name")
+                contrib_string_name_list = contrib.find_all("string-name")
 
-                if contrib.find("name") and contrib.find("name").find("given-names"):
-                    given = contrib.find("name").find("given-names").get_text()
-                elif contrib.find("string-name") and contrib.find("string-name").find(
-                    "given-names"
-                ):
-                    given = contrib.find("string-name").find("given-names").get_text()
-                else:
-                    given = ""
+                # these may never get defined, so at least set them to None
+                surname = None
+                given_name = None
+                namestring = None
+                prefix = None
+                suffix = None
+                native_surname = None
+                native_given_name = None
+                native_lang = None
 
-                if contrib.find("name") and contrib.find("name").find("suffix"):
-                    suffix = contrib.find("name").find("suffix").get_text()
-                elif contrib.find("string-name") and contrib.find("string-name").find("suffix"):
-                    suffix = contrib.find("string-name").find("suffix").get_text()
-                else:
-                    suffix = ""
+                if contrib_name_list:
+                    for name in contrib_name_list:
+                        # remember everything here is still a tag...
+                        # use .get_text() to get utf-8 string
+                        surname_tmp = name.find("surname")
+                        given_name_tmp = name.find("given-names")
+                        prefix_tmp = name.find("prefix")
+                        suffix_tmp = name.find("suffix")
+                        if not prefix and prefix_tmp:
+                            prefix = prefix_tmp
+                        if not suffix and suffix_tmp:
+                            suffix = suffix_tmp
 
-                if contrib.find("name") and contrib.find("name").find("prefix"):
-                    prefix = contrib.find("name").find("prefix").get_text()
-                elif contrib.find("string-name") and contrib.find("string-name").find("prefix"):
-                    prefix = contrib.find("string-name").find("prefix").get_text()
-                else:
-                    prefix = ""
-
-                # get native language author name
-                if contrib.find("name-alternatives"):
-                    if contrib.find("name-alternatives").find("string-name"):
-                        if (
-                            contrib.find("name-alternatives")
-                            .find("string-name")
-                            .get("name-style", "")
-                            != "western"
+                        style = name.get("name-style", None)
+                        cont_type = name.get("content-type", None)
+                        if str(style) == "eastern" or (
+                            "native" in str(cont_type) or "non-latin-no-space" in str(cont_type)
                         ):
-                            native_lang = (
-                                contrib.find("name-alternatives")
-                                .find("string-name")
-                                .get_text()
-                                .strip()
-                            )
+                            # assume eastern style name
+                            native_surname = surname_tmp
+                            native_given_name = given_name_tmp
                         else:
-                            native_lang = ""
-                    else:
-                        native_lang = contrib.find("name-alternatives").get_text().strip()
-                else:
-                    native_lang = ""
+                            surname = surname_tmp
+                            given_name = given_name_tmp
+
+                if contrib_string_name_list:
+                    for name in contrib_string_name_list:
+                        surname_tmp = name.find("surname")
+                        given_name_tmp = name.find("given-names")
+                        name_style = name.get("name-style")
+                        name_lang = name.get("xml:lang")
+                        if (name_style and name_style != "western") or (
+                            name_lang and "en" not in name_lang
+                        ):
+                            native_lang = name
+                        else:
+                            if surname_tmp and not surname:
+                                surname = surname_tmp
+                            if given_name_tmp and not given_name:
+                                given_name = given_name_tmp
+                            namestring = name
 
                 # NOTE: institution-id is actually useful, but at
                 # at the moment, strip it
@@ -581,12 +591,24 @@ class JATSAffils(object):
                     orcid_out = ""
 
                 # create the author dict
-                auth["corresp"] = l_correspondent
-                auth["surname"] = surname
-                auth["given"] = given
-                auth["suffix"] = suffix
-                auth["prefix"] = prefix
-                auth["native_lang"] = native_lang
+                if l_correspondent:
+                    auth["corresp"] = l_correspondent
+                if surname:
+                    auth["surname"] = surname.get_text()
+                if namestring:
+                    auth["namestring"] = namestring.get_text()
+                if given_name:
+                    auth["given"] = given_name.get_text()
+                if suffix:
+                    auth["suffix"] = suffix.get_text()
+                if prefix:
+                    auth["prefix"] = prefix.get_text()
+                if native_lang:
+                    auth["native_lang"] = native_lang.get_text()
+                if native_surname:
+                    auth["native_surname"] = native_surname.get_text()
+                if native_given_name:
+                    auth["native_given_name"] = native_given_name.get_text()
                 auth["aff"] = aff_text
                 auth["affid"] = aff_extids
                 auth["xaff"] = xref_aff
@@ -784,50 +806,46 @@ class JATSParser(BaseBeautifulSoupParser):
 
         return pubdate
 
-    def _title_notes_xrefs(self, titletag):
-        title_fn_dict = {}
-        title_fn_list = []
+    def _section_notes_xrefs(self, section):
+        footnotes = []
         try:
             # title footnotes
-            for df in titletag.find_all("fn"):
-                key = df.get("id", None)
+            for df in section.find_all("fn"):
+                footnote_dict = {}
+                if df.get("id", None):
+                    footnote_dict["id"] = df.get("id")
+                if df.find("label"):
+                    footnote_dict["label"] = df.find("label").extract().get_text()
+
                 df = self._remove_latex(df)
                 note = self._detag(df, self.HTML_TAGSET["abstract"]).strip()
-                if key and note:
-                    title_fn_dict[key] = note
+                footnote_dict["text"] = note
                 df.decompose()
-            # title xrefs
-            for dx in titletag.find_all("xref"):
-                key = dx.get("rid", None)
-                if title_fn_dict.get(key, None):
-                    title_fn_list.append(title_fn_dict.get(key, None))
-                dx.decompose()
-            # make footnotes field
-            title_notes = []
-            if title_fn_list:
-                title_notes.extend(title_fn_list)
-            return title_notes
+                footnotes.append(footnote_dict)
+            return footnotes
         except Exception:
             pass
 
     def _parse_title_abstract(self):
+
+        # TITLE and SUBTITLE
         self.titledoi = None
-        title_fn_dict = {}
-        title_fn_list = []
-        subtitle_fn_list = []
-        art_title = []
-        sub_title = []
         title_group = self.article_meta.find("title-group")
         if title_group:
-            article_title_footnotes = self._title_notes_xrefs(title_group)
+            article_title_footnotes = self._section_notes_xrefs(title_group)
 
             self.base_metadata["title"] = []
             # check for article title -- this is always the primary title
             if title_group.find("article-title"):
                 article_title = title_group.find("article-title").extract()
+                for dx in article_title.find_all("ext-link"):
+                    if dx.find("xlink:href"):
+                        self.titledoi = dx.find("xlink:href")
                 article_title_lang = article_title.get("xml:lang", None)
                 article_title_atext = self._remove_latex(article_title)
-                article_title_atext = self._detag(article_title_atext, self.HTML_TAGSET["title"]).strip()
+                article_title_atext = self._detag(
+                    article_title_atext, self.HTML_TAGSET["title"]
+                ).strip()
                 article_title_dict = {"atext": article_title_atext}
                 if article_title_lang:
                     article_title_dict["language"] = article_title_lang
@@ -835,6 +853,11 @@ class JATSParser(BaseBeautifulSoupParser):
                     article_title_dict["footnotes"] = article_title_footnotes
                     article_title_footnotes = None
                 self.base_metadata["title"].append(article_title_dict)
+            if title_group.find_all("alt-title"):
+                for alt in title_group.find_all("alt-title"):
+                    alt_title_dict = {}
+                    alt_title_dict["atext"] = alt.get_text()
+                    self.base_metadata["title"].append(alt_title_dict)
 
             # is there a translated title in title group?
             if title_group.find("trans-title-group"):
@@ -842,49 +865,38 @@ class JATSParser(BaseBeautifulSoupParser):
                 trans_title = trans_title_group.find("trans-title").extract()
                 trans_title_lang = trans_title.get("xml:lang", None)
                 trans_title_atext = self._remove_latex(trans_title)
-                trans_title_atext = self._detag(trans_title_atext, self.HTML_TAGSET["title"]).strip()
-                trans_title_dict = {"atext": trans_title_atext,
-                                    "language": trans_title_lang}
+                trans_title_atext = self._detag(
+                    trans_title_atext, self.HTML_TAGSET["title"]
+                ).strip()
+                trans_title_dict = {"atext": trans_title_atext, "language": trans_title_lang}
                 # only add footnotes to trans title dict if article title dict doesn't exist
                 if article_title_footnotes:
                     trans_title_dict["footnotes"] = article_title_footnotes
                 self.base_metadata["title"].append(trans_title_dict)
 
+            # subtitle?
+            self.base_metadata["subtitle"] = []
+            if title_group.find("subtitle"):
+                article_subtitle_dict = {}
+                article_subtitle = title_group.find("subtitle").extract()
+                article_subtitle_lang = article_subtitle.get("xml:lang", None)
+                article_subtitle_atext = self._remove_latex(article_subtitle)
+                article_subtitle_atext = self._detag(
+                    article_subtitle_atext, self.HTML_TAGSET["title"]
+                ).strip()
+                article_subtitle_dict["atext"] = article_subtitle_atext
+                if article_subtitle_lang:
+                    article_subtitle_dict["language"] = article_subtitle_lang
+                self.base_metadata["subtitle"].append(article_subtitle_dict)
 
-                #article title may have embedded alt and translated titles
-                alt_title = article_title.find_all("alt-title")
-               
-                title = title_group.find("article-title")
-                if not title or not title.get_text():
-                    title = title_group.find("alt-title")
-                else:
-                    for dx in title.find_all("ext-link"):
-                        if dx.find("xlink:href"):
-                            self.titledoi = dx.find("xlink:href")
-                
-
-                if title_group.find("subtitle"):
-                    subtitle = title_group.find("subtitle")
-                    if subtitle.get("content-type", "") != "running-title":
-                        # subtitle xrefs
-                        for dx in subtitle.find_all("xref"):
-                            key = dx.get("rid", None)
-                            if title_fn_dict.get(key, None):
-                                subtitle_fn_list.append(title_fn_dict.get(key, None))
-                            dx.decompose()
-                        subtitle = self._remove_latex(subtitle)
-                        sub_title = self._detag(subtitle, self.HTML_TAGSET["title"]).strip()
-                subtitle_notes = []
-                if subtitle_fn_list:
-                    subtitle_notes.extend(subtitle_fn_list)
-
-#-----------------------------end title-------------------------------
+        # ABSTRACT
 
         self.base_metadata["abstract"] = []
         for abstr in ["abstract", "trans-abstract"]:
             abstract_dict = {}
             abstr_data = self.article_meta.find(abstr)
             if abstr_data:
+                abstract_dict["footnotes"] = self._section_notes_xrefs(abstr_data)
                 language = abstr_data.get("xml:lang", None)
                 if language:
                     abstract_dict["language"] = language
@@ -895,17 +907,14 @@ class JATSParser(BaseBeautifulSoupParser):
                         para = self._detag(paragraph, self.HTML_TAGSET["abstract"])
                         abstract_paragraph_list.append(para)
                     abstract_dict["atext"] = "\n".join(abstract_paragraph_list)
-                    #self.base_metadata["abstract"] = "\n".join(abstract_paragraph_list)
-                    #if title_fn_list:
-                    #    self.base_metadata["abstract"] += "  " + " ".join(title_fn_list)
                 else:
                     abs_raw = abstr_data
                     abs_raw = self._remove_latex(abs_raw)
                     abs_txt = self._detag(abs_raw, self.HTML_TAGSET["abstract"])
                     abstract_dict["atext"] = abs_txt
+
             if abstract_dict:
                 self.base_metadata["abstract"].append(abstract_dict)
-#-----------------------------end abstract-------------------------------
 
     def _parse_author(self):
         auth_affil = JATSAffils()
@@ -1416,7 +1425,7 @@ class JATSParser(BaseBeautifulSoupParser):
         # get the document language from the header
         try:
             self.meta_lang = document.get("xml:lang", "")
-        except:
+        except Exception:
             self.meta_lang = ""
         self.base_metadata["language"] = self.meta_lang
 

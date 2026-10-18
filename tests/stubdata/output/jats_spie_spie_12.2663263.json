@@ -1,7 +1,9 @@
 {
-  "abstract": {
-    "textEnglish": "With the development of advanced and dedicated timing instrumentation, Time-Correlated Single-Photon Counting (TCSPC) has become the de-facto standard for the measurement of low-light signals in a wide variety of applications, from fluorescence observation in biology to 3D scanning in laser ranging. Despite the huge technical improvements, the historical pile-up limitation still represents an open issue, that reduces the maximum acquisition rate to few percent (1-5 %) of the laser excitation rate. This prevents high-speed and real-time exploitation of TCSPC, thus reducing the range of applications that can benefit from such a powerful technique. To overcome this limitation, in 2017 we proposed a novel theoretical approach based on a time-matching between detector dead time and laser period, and in 2021 we designed the first system implementing this new technique. Preliminary results showed a good accordance between the theoretical framework and practical experiments with standard fluorescence dies up to a rate of 32 Mcps. Since then, we have been working on the exploitation of our system in further practical measurements, to perform a deeper validation of its potential. In particular, we have explored the application of our system into a lidar experiment, as no a-priori knowledge is necessary on the specific type of signal. In this proceeding, we present an overview of our work from the theoretical principles to the field verification."
-  },
+  "abstract": [
+    {
+      "atext": "With the development of advanced and dedicated timing instrumentation, Time-Correlated Single-Photon Counting (TCSPC) has become the de-facto standard for the measurement of low-light signals in a wide variety of applications, from fluorescence observation in biology to 3D scanning in laser ranging. Despite the huge technical improvements, the historical pile-up limitation still represents an open issue, that reduces the maximum acquisition rate to few percent (1-5 %) of the laser excitation rate. This prevents high-speed and real-time exploitation of TCSPC, thus reducing the range of applications that can benefit from such a powerful technique. To overcome this limitation, in 2017 we proposed a novel theoretical approach based on a time-matching between detector dead time and laser period, and in 2021 we designed the first system implementing this new technique. Preliminary results showed a good accordance between the theoretical framework and practical experiments with standard fluorescence dies up to a rate of 32 Mcps. Since then, we have been working on the exploitation of our system in further practical measurements, to perform a deeper validation of its potential. In particular, we have explored the application of our system into a lidar experiment, as no a-priori knowledge is necessary on the specific type of signal. In this proceeding, we present an overview of our work from the theoretical principles to the field verification."
+    }
+  ],
   "authors": [
     {
       "affiliation": [
@@ -52,6 +54,7 @@
     "statement": "COPYRIGHT SPIE. Downloading of the abstract is permitted for personal use only.",
     "status": true
   },
+  "language": "en",
   "otherContributor": [
     {
       "contrib": {
@@ -122,14 +125,19 @@
     "volumeNum": "12512"
   },
   "recordData": {
+    "UUID": "",
     "createdTime": "",
+    "dataType": "",
     "loadFormat": "JATS",
     "loadLocation": "",
     "loadType": "fromFile",
+    "masterRecord": "",
     "parsedTime": "",
     "recordOrigin": ""
   },
-  "title": {
-    "textEnglish": "A hardware approach to overcome pile-up in TCSPC: from principles to field verification"
-  }
+  "title": [
+    {
+      "atext": "A hardware approach to overcome pile-up in TCSPC: from principles to field verification"
+    }
+  ]
 }

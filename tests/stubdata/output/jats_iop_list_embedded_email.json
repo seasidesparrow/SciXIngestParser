@@ -1,7 +1,9 @@
 {
-  "abstract": {
-    "textEnglish": "Precision radial velocity spectrographs that use adaptive optics (AO) show promise to advance telescope observing capabilities beyond those of seeing-limited designs. We are building a spectrograph for the Large Binocular Telescope (LBT) named iLocater that uses AO to inject starlight directly into single mode fibers. iLocater's first acquisition camera system (the SX camera), which receives light from one of the 8.4 m diameter primary mirrors of the LBT, was initially installed in summer 2019 and has since been used for several commissioning runs. We present results from first-light observations that include on-sky measurements as part of commissioning activities. Imaging measurements of the bright B3IV star 2 Cygni (V = 4.98) resulted in the direct detection of a candidate companion star at an angular separation of only \u03b8 = 70 mas. Follow-up AO measurements using Keck/NIRC2 recover the candidate companion in multiple filters. An R \u2248 1500 miniature spectrograph recently installed at the LBT named Lili provides spatially resolved spectra of each binary component, indicating similar spectral types and strengthening the case for companionship. Studying the multiplicity of young runaway star systems like 2 Cygni (36.6 \u00b1 0.5 Myr) can help to understand formation mechanisms for stars that exhibit anomalous velocities through the Galaxy. This on-sky demonstration illustrates the spatial resolution of the iLocater SX acquisition camera working in tandem with the LBT AO system; it further derisks a number of technical hurdles involved in combining AO with Doppler spectroscopy."
-  },
+  "abstract": [
+    {
+      "atext": "Precision radial velocity spectrographs that use adaptive optics (AO) show promise to advance telescope observing capabilities beyond those of seeing-limited designs. We are building a spectrograph for the Large Binocular Telescope (LBT) named iLocater that uses AO to inject starlight directly into single mode fibers. iLocater's first acquisition camera system (the SX camera), which receives light from one of the 8.4 m diameter primary mirrors of the LBT, was initially installed in summer 2019 and has since been used for several commissioning runs. We present results from first-light observations that include on-sky measurements as part of commissioning activities. Imaging measurements of the bright B3IV star 2 Cygni (V = 4.98) resulted in the direct detection of a candidate companion star at an angular separation of only \u03b8 = 70 mas. Follow-up AO measurements using Keck/NIRC2 recover the candidate companion in multiple filters. An R \u2248 1500 miniature spectrograph recently installed at the LBT named Lili provides spatially resolved spectra of each binary component, indicating similar spectral types and strengthening the case for companionship. Studying the multiplicity of young runaway star systems like 2 Cygni (36.6 \u00b1 0.5 Myr) can help to understand formation mechanisms for stars that exhibit anomalous velocities through the Galaxy. This on-sky demonstration illustrates the spatial resolution of the iLocater SX acquisition camera working in tandem with the LBT AO system; it further derisks a number of technical hurdles involved in combining AO with Doppler spectroscopy."
+    }
+  ],
   "authors": [
     {
       "affiliation": [
@@ -445,6 +447,8 @@
       },
       "name": {
         "given_name": "Ji",
+        "native_given_name": "\u5409",
+        "native_surname": "\u738b",
         "surname": "Wang"
       }
     },
@@ -509,6 +513,7 @@
       "keySystem": "UAT"
     }
   ],
+  "language": "en",
   "openAccess": {
     "license": "Original content from this work may be used under the terms of the Creative Commons Attribution 4.0 licence. Any further distribution of this work must maintain attribution to the author(s) and the title of the work, journal citation and DOI.",
     "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
@@ -559,10 +564,13 @@
     }
   ],
   "recordData": {
+    "UUID": "",
     "createdTime": "",
+    "dataType": "",
     "loadFormat": "JATS",
     "loadLocation": "",
     "loadType": "fromFile",
+    "masterRecord": "",
     "parsedTime": "",
     "recordOrigin": ""
   },
@@ -643,7 +651,9 @@
     "<ref id=\"ajad9b1dbib74\"><element-citation publication-type=\"journal\"><person-group person-group-type=\"author\"> <name name-style=\"western\"><surname>Wilson</surname><given-names>R. H.</given-names></name> </person-group><year>1950</year><source>AJ</source><volume>55</volume><fpage>153</fpage><pub-id pub-id-type=\"other\" specific-use=\"ads\">1950AJ.....55..153W</pub-id><pub-id pub-id-type=\"doi\">10.1086/106378</pub-id></element-citation></ref>",
     "<ref id=\"ajad9b1dbib75\"><element-citation publication-type=\"journal\"><person-group person-group-type=\"author\"> <name name-style=\"western\"><surname>Wright</surname><given-names>J. T.</given-names></name> <name name-style=\"western\"><surname>Roy</surname><given-names>A.</given-names></name> <name name-style=\"western\"><surname>Mahadevan</surname><given-names>S.</given-names></name> <etal/> </person-group><year>2013</year><source>ApJ</source><volume>770</volume><fpage>119</fpage><pub-id pub-id-type=\"other\" specific-use=\"ads\">2013ApJ...770..119W</pub-id><pub-id pub-id-type=\"doi\">10.1088/0004-637X/770/2/119</pub-id></element-citation></ref>"
   ],
-  "title": {
-    "textEnglish": "Resolving the Young 2 Cygni Runaway Star into a Binary Using iLocater"
-  }
+  "title": [
+    {
+      "atext": "Resolving the Young 2 Cygni Runaway Star into a Binary Using iLocater"
+    }
+  ]
 }

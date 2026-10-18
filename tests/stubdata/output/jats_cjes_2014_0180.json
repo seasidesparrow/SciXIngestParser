@@ -1,7 +1,14 @@
 {
-  "abstract": {
-    "textEnglish": "Morphotypes of plant macrofossil assemblages of the basal unit of the Upper Cretaceous (Turonian?\u2013Santonian) Comox Formation, Nanaimo Group, Vancouver Island, were investigated to provide insight into the character of the macroflora, environment of deposition, and paleogeography of Vancouver Island. Three floristic assemblages were documented: one dominated by angiosperm morphotypes such as Platanus, Menispermites, and Zizyphus-like leaves; another dominated by gymnosperm morphotypes such as those synonymous with Glyptostrobus comoxensis Bell and Pseudoctenis latipennis (Heer) Seward; and a third assemblage transitional between the previous two. These assemblages suggest the Saanich Member was likely deposited in a barrier island \u2013 estuarine floodplain complex with fluvial sedimentary input. The macrofloral assemblage also includes many endemic taxa, suggesting a barrier to floral migration between the paleocontinent and the Vancouver Island precursor during the Upper Cretaceous, which supports the existence of a third floristic province in North America during the Upper Cretaceous."
-  },
+  "abstract": [
+    {
+      "atext": "Morphotypes of plant macrofossil assemblages of the basal unit of the Upper Cretaceous (Turonian?\u2013Santonian) Comox Formation, Nanaimo Group, Vancouver Island, were investigated to provide insight into the character of the macroflora, environment of deposition, and paleogeography of Vancouver Island. Three floristic assemblages were documented: one dominated by angiosperm morphotypes such as Platanus, Menispermites, and Zizyphus-like leaves; another dominated by gymnosperm morphotypes such as those synonymous with Glyptostrobus comoxensis Bell and Pseudoctenis latipennis (Heer) Seward; and a third assemblage transitional between the previous two. These assemblages suggest the Saanich Member was likely deposited in a barrier island \u2013 estuarine floodplain complex with fluvial sedimentary input. The macrofloral assemblage also includes many endemic taxa, suggesting a barrier to floral migration between the paleocontinent and the Vancouver Island precursor during the Upper Cretaceous, which supports the existence of a third floristic province in North America during the Upper Cretaceous.",
+      "language": "en"
+    },
+    {
+      "atext": "Des morphotypes d\u2019assemblages de macrofossiles v\u00e9g\u00e9taux de l\u2019unit\u00e9 basale da la Formation de Comox du Groupe de Nanaimo (Cr\u00e9tac\u00e9 sup\u00e9rieur, Turonien?\u2013Santonien) sur l\u2019\u00eele de Vancouver ont \u00e9t\u00e9 \u00e9tudi\u00e9s dans le but de fournir un aper\u00e7u du caract\u00e8re de la macroflore, de l\u2019environnement de d\u00e9position et de la pal\u00e9og\u00e9ographie de l\u2019\u00eele de Vancouver. Trois assemblages floristiques ont \u00e9t\u00e9 document\u00e9s : le premier domin\u00e9 par des morphotypes angiospermes tels que Platanus, Menispermites, et avec des feuilles de type Zizyphus; un autre domin\u00e9 par des morphotypes gymnospermes, tels que ceux synonymes avec Glyptostrobus comoxensis Bell et Pseudoctenis latipennis (Heer) Seward; ainsi qu\u2019un troisi\u00e8me assemblage de transition entre les deux d\u00e9j\u00e0 mentionn\u00e9s. Selon ces assemblages, le membre Saanich a probablement \u00e9t\u00e9 d\u00e9pos\u00e9 dans un complexe d\u2019\u00eele barri\u00e8re-estuaire-plaine inondable avec apport de s\u00e9diments fluviaux. L\u2019assemblage macrofloral comprend aussi de nombreux taxons end\u00e9miques, sugg\u00e9rant une barri\u00e8re \u00e0 la migration florale entre le pal\u00e9ocontinent et le pr\u00e9curseur de l\u2019\u00eele de Vancouver au Cr\u00e9tac\u00e9 sup\u00e9rieur; cet assemblage supporte aussi l\u2019existence d\u2019une troisi\u00e8me province floristique en Am\u00e9rique du Nord durant le Cr\u00e9tac\u00e9 sup\u00e9rieur. [Traduit par la R\u00e9daction]",
+      "language": "fr"
+    }
+  ],
   "authors": [
     {
       "affiliation": [
@@ -49,6 +56,7 @@
       "2014-10-09"
     ]
   },
+  "language": "en",
   "otherContributor": [
     {
       "contrib": {
@@ -102,10 +110,13 @@
     }
   ],
   "recordData": {
+    "UUID": "",
     "createdTime": "",
+    "dataType": "",
     "loadFormat": "JATS",
     "loadLocation": "",
     "loadType": "fromFile",
+    "masterRecord": "",
     "parsedTime": "",
     "recordOrigin": ""
   },
@@ -144,7 +155,9 @@
     "<ref id=\"refg32\"> <mixed-citation id=\"ref32\" publication-type=\"journal\" xlink:type=\"simple\"> <person-group person-group-type=\"author\"> <name name-style=\"western\"> <surname>Tomsich</surname> <given-names>C.S.</given-names> </name> <name name-style=\"western\"> <surname>McCarthy</surname> <given-names>P.J.</given-names> </name> <name name-style=\"western\"> <surname>Fowell</surname> <given-names>S.J.</given-names> </name> <name name-style=\"western\"> <surname>Sunderlin</surname> <given-names>D.</given-names> </name> </person-group> <year>2010</year>. \t\t\t\t\t<article-title>Paleofloristic and paleoenvironmental information from a Late Cretaceous (Maastrichtian) flora of the lower Cantwell Formation near Sable Mountain, Denali National Park, Alaska</article-title>. \t\t\t\t\t<source>Paleogeography, Palaeoclimatology, Palaeoecology</source>, \t\t\t\t\t<volume>295</volume>( \t\t\t\t\t<issue>3\u20134</issue>): \t\t\t\t\t<fpage>389</fpage>\u2013 \t\t\t\t\t<lpage>408</lpage>. \t\t\t\t\t<pub-id pub-id-type=\"doi\">10.1016/j.palaeo.2010.02.023</pub-id>. \t\t\t\t</mixed-citation> </ref>",
     "<ref id=\"refg33\"> <mixed-citation id=\"ref33\" publication-type=\"other-ref\" xlink:type=\"simple\">Wolfe, J.A. 1993. A method of obtaining climatic parameters from leaf assemblages. U.S. Geological Survey Bulletin, 2040. 71 pp.</mixed-citation> </ref>"
   ],
-  "title": {
-    "textEnglish": "Macroflora, paleogeography, and paleoecology of the Upper Cretaceous (Turonian?\u2013Santonian) Saanich Member of the Comox Formation, Saanich Peninsula, British Columbia, Canada"
-  }
+  "title": [
+    {
+      "atext": "Macroflora, paleogeography, and paleoecology of the Upper Cretaceous (Turonian?\u2013Santonian) Saanich Member of the Comox Formation, Saanich Peninsula, British Columbia, Canada"
+    }
+  ]
 }

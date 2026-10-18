@@ -1,7 +1,9 @@
 {
-  "abstract": {
-    "textEnglish": "Fugitive dust deriving from construction sites is a serious local source of particulate matter (PM) that leads to air pollution in cities undergoing rapid urbanization in China. In spite of this fact, no study has yet been published relating to prediction of high levels of PM with diameters <10 \u03bcm (PM <sub>10</sub>) as adjudicated by the Individual Air Quality Index (IAQI) on fugitive dust from nearby construction sites. To combat this problem, the Construction Influence Index ( Ci) is introduced in this article to improve forecasting models based on three neural network models (multilayer perceptron, Elman, and support vector machine) in predicting daily PM <sub>10</sub> IAQI one day in advance. To obtain acceptable forecasting accuracy, measured time series data were decomposed into wavelet representations and wavelet coefficients were predicted. Effectiveness of these forecasters were tested using a time series recorded between January 1, 2005, and December 31, 2011, at six monitoring stations situated within the urban area of the city of Wuhan, China. Experimental trials showed that the improved models provided low root mean square error values and mean absolute error values in comparison to the original models. In addition, these improved models resulted in higher values of coefficients of determination and AHPC (the accuracy rate of high PM <sub>10</sub> IAQI caused by nearby construction activity) compared to the original models when predicting high PM <sub>10</sub> IAQI levels attributable to fugitive dust from nearby construction sites."
-  },
+  "abstract": [
+    {
+      "atext": "Fugitive dust deriving from construction sites is a serious local source of particulate matter (PM) that leads to air pollution in cities undergoing rapid urbanization in China. In spite of this fact, no study has yet been published relating to prediction of high levels of PM with diameters &lt;10 \u03bcm (PM <sub>10</sub>) as adjudicated by the Individual Air Quality Index (IAQI) on fugitive dust from nearby construction sites. To combat this problem, the Construction Influence Index ( Ci) is introduced in this article to improve forecasting models based on three neural network models (multilayer perceptron, Elman, and support vector machine) in predicting daily PM <sub>10</sub> IAQI one day in advance. To obtain acceptable forecasting accuracy, measured time series data were decomposed into wavelet representations and wavelet coefficients were predicted. Effectiveness of these forecasters were tested using a time series recorded between January 1, 2005, and December 31, 2011, at six monitoring stations situated within the urban area of the city of Wuhan, China. Experimental trials showed that the improved models provided low root mean square error values and mean absolute error values in comparison to the original models. In addition, these improved models resulted in higher values of coefficients of determination and AHPC (the accuracy rate of high PM <sub>10</sub> IAQI caused by nearby construction activity) compared to the original models when predicting high PM <sub>10</sub> IAQI levels attributable to fugitive dust from nearby construction sites."
+    }
+  ],
   "authors": [
     {
       "affiliation": [
@@ -116,6 +118,7 @@
       "keySystem": "misc"
     }
   ],
+  "language": "en",
   "pagination": {
     "firstPage": "725",
     "lastPage": "732",
@@ -154,10 +157,13 @@
     }
   ],
   "recordData": {
+    "UUID": "",
     "createdTime": "",
+    "dataType": "",
     "loadFormat": "JATS",
     "loadLocation": "",
     "loadType": "fromFile",
+    "masterRecord": "",
     "parsedTime": "",
     "recordOrigin": ""
   },
@@ -197,7 +203,9 @@
     "<ref id=\"B33\"> <mixed-citation publication-type=\"journal\" xlink:type=\"simple\"> <person-group person-group-type=\"author\"> <name name-style=\"western\"> <surname>Zhao</surname> <given-names>P.S.</given-names> </name> </person-group>, \t\t\t\t\t<person-group person-group-type=\"author\"> <name name-style=\"western\"> <surname>Feng</surname> <given-names>Y.G.</given-names> </name> </person-group>, \t\t\t\t\t<person-group person-group-type=\"author\"> <name name-style=\"western\"> <surname>Zhang</surname> <given-names>Y.F.</given-names> </name> </person-group>, \t\t\t\t\t<person-group person-group-type=\"author\"> <name name-style=\"western\"> <surname>Zhu</surname> <given-names>T.</given-names> </name> </person-group>, \t\t\t\t\t<person-group person-group-type=\"author\"> <name name-style=\"western\"> <surname>Jin</surname> <given-names>J.</given-names> </name> </person-group>, and \t\t\t\t\t<person-group person-group-type=\"author\"> <name name-style=\"western\"> <surname>Zhang</surname> <given-names>X.L.</given-names> </name> </person-group> ( \t\t\t\t\t<year>2009</year>). \t\t\t\t\t<article-title>Modeling and impact study of fugitive dust emissions from building construction sites</article-title>. \t\t\t\t\t<source>China Environmental Science</source> <volume>6</volume>, \t\t\t\t\t<fpage>567</fpage>. (In Chinese) \t\t\t\t</mixed-citation> </ref>",
     "<ref id=\"B34\"> <mixed-citation publication-type=\"journal\" xlink:type=\"simple\"> <person-group person-group-type=\"author\"> <name name-style=\"western\"> <surname>Zhu</surname> <given-names>Z.C.</given-names> </name> </person-group>, \t\t\t\t\t<person-group person-group-type=\"author\"> <name name-style=\"western\"> <surname>Kong</surname> <given-names>L.L.</given-names> </name> </person-group>, and \t\t\t\t\t<person-group person-group-type=\"author\"> <name name-style=\"western\"> <surname>Xia</surname> <given-names>K.</given-names> </name> </person-group> ( \t\t\t\t\t<year>2009</year>). \t\t\t\t\t<article-title>Analysis of PM \t\t\t\t\t\t<sub>10</sub> source in Wuhan and its countermeasures [J] \t\t\t\t\t</article-title>. \t\t\t\t\t<source>Environ. Sci. Technol.</source> <volume>9</volume>, \t\t\t\t\t<fpage>64</fpage>. (In Chinese) \t\t\t\t</mixed-citation> </ref>"
   ],
-  "title": {
-    "textEnglish": "Improving Neural Network Prediction Accuracy for PM <sub>10</sub> Individual Air Quality Index Pollution Levels"
-  }
+  "title": [
+    {
+      "atext": "Improving Neural Network Prediction Accuracy for PM <sub>10</sub> Individual Air Quality Index Pollution Levels"
+    }
+  ]
 }

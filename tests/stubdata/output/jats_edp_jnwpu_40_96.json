@@ -1,7 +1,14 @@
 {
-  "abstract": {
-    "textEnglish": "With the aging of the population, the decline of human body function leads to the decline of limb flexibility, and the severe cases lose the ability to walk. Research shows that the lower limb exoskeleton can assist human walking. In this paper, a lower limb exoskeleton is designed, which can collect the energy of the healthy side of the lower limb and release it when the affected side of the lower limb walks. The unilateral lower limb is used to compensate the movement of the affected limb, assist walking, and realize the collection, management and migration of human motion energy. The results showed that the root mean square value of rectus femoris decreased by 10%, and the EMG integral value of lateral gastrocnemius muscle decreased by 12%. The effect of exoskeleton on lower limb muscles is obvious. The walking assisted exoskeleton can provide auxiliary tension for lower limb movement and reduce muscle activity."
-  },
+  "abstract": [
+    {
+      "atext": "With the aging of the population, the decline of human body function leads to the decline of limb flexibility, and the severe cases lose the ability to walk. Research shows that the lower limb exoskeleton can assist human walking. In this paper, a lower limb exoskeleton is designed, which can collect the energy of the healthy side of the lower limb and release it when the affected side of the lower limb walks. The unilateral lower limb is used to compensate the movement of the affected limb, assist walking, and realize the collection, management and migration of human motion energy. The results showed that the root mean square value of rectus femoris decreased by 10%, and the EMG integral value of lateral gastrocnemius muscle decreased by 12%. The effect of exoskeleton on lower limb muscles is obvious. The walking assisted exoskeleton can provide auxiliary tension for lower limb movement and reduce muscle activity.",
+      "language": "en"
+    },
+    {
+      "atext": "\u968f\u7740\u4eba\u53e3\u8001\u9f84\u5316\u52a0\u5267, \u4eba\u4f53\u673a\u80fd\u8870\u9000, \u5bfc\u81f4\u56db\u80a2\u7075\u6d3b\u6027\u4e0b\u964d, \u4e25\u91cd\u8005\u5931\u53bb\u884c\u8d70\u80fd\u529b\u3002\u7814\u7a76\u8868\u660e, \u501f\u52a9\u4e0b\u80a2\u5916\u9aa8\u9abc\u53ef\u4ee5\u8f85\u52a9\u4eba\u4f53\u884c\u8d70\u3002\u8bbe\u8ba1\u4e86\u4e00\u79cd\u4e0b\u80a2\u5916\u9aa8\u9abc, \u901a\u8fc7\u6536\u96c6\u4e0b\u80a2\u5065\u4fa7\u7684\u80fd\u91cf, \u5728\u60a3\u4fa7\u4e0b\u80a2\u884c\u8d70\u65f6\u91ca\u653e\u3002\u5229\u7528\u5355\u4fa7\u4e0b\u80a2\u5bf9\u60a3\u80a2\u8fdb\u884c\u8fd0\u52a8\u8865\u507f, \u8f85\u52a9\u884c\u8d70, \u5b9e\u73b0\u4eba\u4f53\u80fd\u91cf\u7684\u6536\u96c6\u3001\u7ba1\u7406\u548c\u8fc1\u79fb\u3002\u901a\u8fc7\u4eba\u4f53\u7a7f\u6234\u5b9e\u9a8c\u8bc4\u4ef7\u5916\u9aa8\u9abc\u5bf9\u4e8e\u808c\u8089\u7684\u5f71\u54cd, \u7ed3\u679c\u8868\u660e\u80a1\u76f4\u808c\u7684\u5747\u65b9\u6839\u503c\u964d\u5e45\u53ef\u8fbe10%, \u8153\u80a0\u808c\u5916\u4fa7\u808c\u8089\u7684\u808c\u7535\u79ef\u5206\u503c\u964d\u5e45\u8fbe12%\u3002\u5916\u9aa8\u9abc\u5bf9\u4e0b\u80a2\u808c\u8089\u7684\u5f71\u54cd\u8f83\u4e3a\u660e\u663e, \u501f\u52a9\u5916\u9aa8\u9abc\u53ef\u4ee5\u4e3a\u4e0b\u80a2\u8fd0\u52a8\u63d0\u4f9b\u8f85\u52a9\u62c9\u529b, \u540c\u65f6\u964d\u4f4e\u808c\u8089\u6d3b\u6027\u3002",
+      "language": "zh"
+    }
+  ],
   "authors": [
     {
       "affiliation": [
@@ -17,7 +24,6 @@
       },
       "name": {
         "given_name": "Xin",
-        "native_lang": "\u5468\u6b23",
         "surname": "ZHOU"
       }
     },
@@ -29,7 +35,6 @@
       ],
       "name": {
         "given_name": "Geng",
-        "native_lang": "\u5218\u66f4",
         "surname": "LIU"
       }
     },
@@ -41,7 +46,6 @@
       ],
       "name": {
         "given_name": "Yunqi",
-        "native_lang": "\u6c64\u8fd0\u542f",
         "surname": "TANG"
       }
     },
@@ -53,7 +57,6 @@
       ],
       "name": {
         "given_name": "Bing",
-        "native_lang": "\u97e9\u51b0",
         "surname": "HAN"
       }
     },
@@ -65,7 +68,6 @@
       ],
       "name": {
         "given_name": "Xiaoli",
-        "native_lang": "\u5218\u6653\u4e3d",
         "surname": "LIU"
       }
     }
@@ -145,6 +147,7 @@
       "keySystem": "misc"
     }
   ],
+  "language": "en",
   "openAccess": {
     "license": "This is an Open Access article distributed under the terms of the Creative Commons Attribution License (http://creativecommons.org/licenses/by/4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.",
     "licenseURL": "http://creativecommons.org/licenses/by/4.0",
@@ -193,10 +196,13 @@
     }
   ],
   "recordData": {
+    "UUID": "",
     "createdTime": "",
+    "dataType": "",
     "loadFormat": "JATS",
     "loadLocation": "",
     "loadType": "fromFile",
+    "masterRecord": "",
     "parsedTime": "",
     "recordOrigin": ""
   },
@@ -224,7 +230,13 @@
     "<ref id=\"R21\"><label>21</label><mixed-citation publication-type=\"book\" xml:lang=\"en\"><string-name><surname>Sun</surname> <given-names>Huan</given-names></string-name>, <string-name><surname>Chen</surname> <given-names>Zuomo</given-names></string-name>, <string-name><surname>Ge</surname> <given-names>Wenjie</given-names></string-name>. <source>Mechanical principle</source>. <publisher-loc>Beijing</publisher-loc>: <publisher-name>Higher Education Press</publisher-name>, <year>2011</year> (in Chinese)</mixed-citation></ref>",
     "<ref id=\"R22\"><label>22</label><mixed-citation publication-type=\"journal\" xml:lang=\"en\"><string-name><surname>Yan</surname> <given-names>Tiebin</given-names></string-name>, <string-name><surname>Wyc</surname> <given-names>Huichan</given-names></string-name>. <article-title>Maximum isometric voluntary contraction of ankle dorsiflexors and plantarflexors: comparison of surface electromyography between patients at the acute stage after stroke and age-matched healthy elderly</article-title>[J]. <source>Chinese Journal of physical medicine and rehabilitation</source>, <year>2003</year> (<issue>4</issue>): <fpage>22</fpage>\u2013<lpage>25</lpage><ext-link ext-link-type=\"uri\" xlink:href=\"https://www.cnki.com.cn/Article/CJFDTOTAL-ZHLY200304006.htm\">[Article]</ext-link> (in Chinese)</mixed-citation></ref>"
   ],
-  "title": {
-    "textEnglish": "Analysis and evaluation of human lower limb energy collection and walking assisted exoskeleton"
-  }
+  "title": [
+    {
+      "atext": "Analysis and evaluation of human lower limb energy collection and walking assisted exoskeleton",
+      "language": "en"
+    },
+    {
+      "atext": "\u4eba\u4f53\u4e0b\u80a2\u80fd\u91cf\u6536\u96c6\u4e0e\u884c\u8d70\u52a9\u529b\u5916\u9aa8\u9abc\u5206\u6790\u4e0e\u8bc4\u4ef7"
+    }
+  ]
 }

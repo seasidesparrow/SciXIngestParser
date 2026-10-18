@@ -3,6 +3,7 @@
     "statement": "\u00a9 Springer Nature Limited 2006",
     "status": true
   },
+  "language": "en",
   "pagination": {
     "firstPage": "xi",
     "lastPage": "xi",
@@ -45,14 +46,20 @@
     }
   ],
   "recordData": {
+    "UUID": "",
     "createdTime": "",
+    "dataType": "",
     "loadFormat": "JATS",
     "loadLocation": "",
     "loadType": "fromFile",
+    "masterRecord": "",
     "parsedTime": "",
     "recordOrigin": ""
   },
-  "title": {
-    "textEnglish": "Abstractions"
-  }
+  "title": [
+    {
+      "atext": "Abstractions",
+      "language": "en"
+    }
+  ]
 }

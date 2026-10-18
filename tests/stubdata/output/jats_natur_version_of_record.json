@@ -1,7 +1,10 @@
 {
-  "abstract": {
-    "textEnglish": "The contribution of chemotherapy-induced tissue injury to individual susceptibility to metastasis remains largely unexplored. We report that chemotherapy indirectly prevents colorectal cancer (CRC) liver metastases by inducing a lasting systemic \u201cchemomemory\u201d. Chemotherapy-induced intestinal mucositis alters nutrient availability, promoting the expansion of tryptophan-metabolizing bacteria and production of the microbial metabolite indole-3-propionic acid (IPA). IPA reprograms bone marrow myelopoiesis by redirecting common myeloid progenitor fate toward the macrophage lineage, limiting generation of immunosuppressive Ly6C<sup>high</sup>CCR2<sup>+</sup> monocytes. This shift enhances CD4<sup>+</sup> T cell antitumor function by promoting Th1 differentiation and spatially reorganizing CD8<sup>+</sup> and CD4<sup>+</sup> T cell interactions within the metastatic microenvironment. In a subset of CRC patients, circulating IPA levels increase after chemotherapy and inversely correlate with monocyte abundance, while high monocyte levels were associated with reduced survival. Our findings reveal that chemotherapy-induced intestinal injury normalizes pathological myelopoiesis through a microbiota-derived metabolite and identify IPA as a potential adjuvant to counteract monocyte-driven immunosuppression and metastasis."
-  },
+  "abstract": [
+    {
+      "atext": "The contribution of chemotherapy-induced tissue injury to individual susceptibility to metastasis remains largely unexplored. We report that chemotherapy indirectly prevents colorectal cancer (CRC) liver metastases by inducing a lasting systemic \u201cchemomemory\u201d. Chemotherapy-induced intestinal mucositis alters nutrient availability, promoting the expansion of tryptophan-metabolizing bacteria and production of the microbial metabolite indole-3-propionic acid (IPA). IPA reprograms bone marrow myelopoiesis by redirecting common myeloid progenitor fate toward the macrophage lineage, limiting generation of immunosuppressive Ly6C<sup>high</sup>CCR2<sup>+</sup> monocytes. This shift enhances CD4<sup>+</sup> T cell antitumor function by promoting Th1 differentiation and spatially reorganizing CD8<sup>+</sup> and CD4<sup>+</sup> T cell interactions within the metastatic microenvironment. In a subset of CRC patients, circulating IPA levels increase after chemotherapy and inversely correlate with monocyte abundance, while high monocyte levels were associated with reduced survival. Our findings reveal that chemotherapy-induced intestinal injury normalizes pathological myelopoiesis through a microbiota-derived metabolite and identify IPA as a potential adjuvant to counteract monocyte-driven immunosuppression and metastasis.",
+      "language": "en"
+    }
+  ],
   "authors": [
     {
       "affiliation": [
@@ -735,6 +738,7 @@
       "keySystem": "misc"
     }
   ],
+  "language": "en",
   "openAccess": {
     "license": "Open Access This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article\u2019s Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article\u2019s Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit http://creativecommons.org/licenses/by/4.0/.",
     "licenseURL": "http://creativecommons.org/licenses/by/4.0/",
@@ -785,14 +789,20 @@
     }
   ],
   "recordData": {
+    "UUID": "",
     "createdTime": "",
+    "dataType": "",
     "loadFormat": "JATS",
     "loadLocation": "",
     "loadType": "fromFile",
+    "masterRecord": "",
     "parsedTime": "",
     "recordOrigin": ""
   },
-  "title": {
-    "textEnglish": "Chemotherapy-driven intestinal dysbiosis and indole-3-propionic acid rewire myelopoiesis to promote a metastasis-refractory state"
-  }
+  "title": [
+    {
+      "atext": "Chemotherapy-driven intestinal dysbiosis and indole-3-propionic acid rewire myelopoiesis to promote a metastasis-refractory state",
+      "language": "en"
+    }
+  ]
 }

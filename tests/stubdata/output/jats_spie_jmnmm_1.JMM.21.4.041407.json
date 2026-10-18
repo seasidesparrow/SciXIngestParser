@@ -1,7 +1,9 @@
 {
-  "abstract": {
-    "textEnglish": "Extreme ultraviolet (EUV) lithography is crucial to achieving smaller device sizes for next-generation technology, although organic resists face substantial challenges, such as low etch resistance, which limit the resolution of smaller features.\nEvaluate the potential for area-selective deposition (ASD) to improve EUV pattern resolution (e.g., by increasing etch resistance).\nWe evaluate thermal compatibility, atomic layer deposition growth rate, and selectivity for TiO<sub>2</sub> ASD on various organic EUV resist materials using water contact angle, Rutherford backscattering spectrometry, and X-ray photoelectron spectroscopy. The effects of photo-acid generator (PAG) and EUV exposure on polymer properties and selectivity are considered.\nThe organic resist materials studied demonstrate thermal compatibility with TiO<sub>2</sub> ALD (125\u00b0C for 60 min). The TiO<sub>2</sub> ALD process from TiCl<sub>4</sub> and H<sub>2</sub>O proceeds readily on poly(tert-butyl methacrylate), poly(p-hydroxystyrene), and poly(p-hydroxystyrene-random-methacrylic acid) polymers, with and without PAG incorporation, in either the as-formed or EUV exposed state. However, TiO<sub>2</sub> is inhibited on poly(cyclohexyl methacrylate).\nWe demonstrate that as-formed EUV resists can serve as either the growth or nongrowth surface during TiO<sub>2</sub> ASD, thereby enabling resist hardening and tone inversion applications, respectively. These results serve as a basis for further ASD studies on EUV resist materials to improve pattern resolution in next-generation devices."
-  },
+  "abstract": [
+    {
+      "atext": "Extreme ultraviolet (EUV) lithography is crucial to achieving smaller device sizes for next-generation technology, although organic resists face substantial challenges, such as low etch resistance, which limit the resolution of smaller features.\nEvaluate the potential for area-selective deposition (ASD) to improve EUV pattern resolution (e.g., by increasing etch resistance).\nWe evaluate thermal compatibility, atomic layer deposition growth rate, and selectivity for TiO<sub>2</sub> ASD on various organic EUV resist materials using water contact angle, Rutherford backscattering spectrometry, and X-ray photoelectron spectroscopy. The effects of photo-acid generator (PAG) and EUV exposure on polymer properties and selectivity are considered.\nThe organic resist materials studied demonstrate thermal compatibility with TiO<sub>2</sub> ALD (125\u00b0C for 60 min). The TiO<sub>2</sub> ALD process from TiCl<sub>4</sub> and H<sub>2</sub>O proceeds readily on poly(tert-butyl methacrylate), poly(p-hydroxystyrene), and poly(p-hydroxystyrene-random-methacrylic acid) polymers, with and without PAG incorporation, in either the as-formed or EUV exposed state. However, TiO<sub>2</sub> is inhibited on poly(cyclohexyl methacrylate).\nWe demonstrate that as-formed EUV resists can serve as either the growth or nongrowth surface during TiO<sub>2</sub> ASD, thereby enabling resist hardening and tone inversion applications, respectively. These results serve as a basis for further ASD studies on EUV resist materials to improve pattern resolution in next-generation devices."
+    }
+  ],
   "authors": [
     {
       "affiliation": [
@@ -188,10 +190,13 @@
     }
   ],
   "recordData": {
+    "UUID": "",
     "createdTime": "",
+    "dataType": "",
     "loadFormat": "JATS",
     "loadLocation": "",
     "loadType": "fromFile",
+    "masterRecord": "",
     "parsedTime": "",
     "recordOrigin": ""
   },
@@ -227,7 +232,9 @@
     "<ref id=\"r29\"> <label>29.</label> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <string-name> <given-names>C. A.</given-names> <surname>Wilson</surname> </string-name>, <string-name><given-names>R. K.</given-names><surname>Grubbs</surname></string-name> and <string-name><given-names>S. M.</given-names><surname>George</surname></string-name></person-group>, \u201c<article-title>Nucleation and growth during <inline-formula><mml:math display=\"inline\"><mml:mrow><mml:msub><mml:mrow><mml:mi>Al</mml:mi></mml:mrow><mml:mrow><mml:mn>2</mml:mn></mml:mrow></mml:msub><mml:msub><mml:mrow><mml:mi mathvariant=\"normal\">O</mml:mi></mml:mrow><mml:mrow><mml:mn>3</mml:mn></mml:mrow></mml:msub></mml:mrow></mml:math></inline-formula> atomic layer deposition on polymers</article-title>,\u201d <source>Chem. Mater.</source><volume>17</volume>, <fpage>5625</fpage>\u2013<lpage>5634</lpage> (<year>2005</year>).<pub-id pub-id-type=\"coden\">CMATEX</pub-id><issn>0897-4756</issn><ext-link ext-link-type=\"doi\" specific-use=\"online\" xlink:href=\"https://doi.org/10.1021/cm050704d\">https://doi.org/10.1021/cm050704d</ext-link></mixed-citation> </ref>",
     "<ref id=\"r30\"> <label>30.</label> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <string-name> <given-names>A.</given-names> <surname>Sinha</surname> </string-name>, <string-name><given-names>D. W.</given-names><surname>Hess</surname></string-name> and <string-name><given-names>C. L.</given-names><surname>Henderson</surname></string-name></person-group>, \u201c<article-title>Transport behavior of atomic layer deposition precursors through polymer masking layers: influence on area selective atomic layer deposition</article-title>,\u201d <source>J. Vac. Sci. Technol. B: Microelectron. Nanometer Struct.</source><volume>25</volume>(<issue>5</issue>), <fpage>1721</fpage> (<year>2007</year>).<ext-link ext-link-type=\"doi\" specific-use=\"online\" xlink:href=\"https://doi.org/10.1116/1.2782546\">https://doi.org/10.1116/1.2782546</ext-link></mixed-citation> </ref>"
   ],
-  "title": {
-    "textEnglish": "Compatibility between polymethacrylate-based extreme ultraviolet resists and <inline-formula><mml:math><mml:mrow><mml:msub><mml:mrow><mml:mi>TiO</mml:mi></mml:mrow><mml:mrow><mml:mn>2</mml:mn></mml:mrow></mml:msub></mml:mrow></mml:math></inline-formula> area-selective deposition"
-  }
+  "title": [
+    {
+      "atext": "Compatibility between polymethacrylate-based extreme ultraviolet resists and <inline-formula><mml:math><mml:mrow><mml:msub><mml:mrow><mml:mi>TiO</mml:mi></mml:mrow><mml:mrow><mml:mn>2</mml:mn></mml:mrow></mml:msub></mml:mrow></mml:math></inline-formula> area-selective deposition"
+    }
+  ]
 }

@@ -1,7 +1,9 @@
 {
-  "abstract": {
-    "textEnglish": "A catalog containing details of the highest-energy cosmic rays recorded through the detection of extensive air showers at the Pierre Auger Observatory is presented with the aim of opening the data to detailed examination. Descriptions of the 100 showers created by the highest-energy particles recorded between 2004 January 1 and 2020 December 31 are given for cosmic rays that have energies in the range 78\u2013166 EeV. Details are also given on a further nine very energetic events that have been used in the calibration procedure adopted to determine the energy of each primary. A sky plot of the arrival directions of the most energetic particles is shown. No interpretations of the data are offered."
-  },
+  "abstract": [
+    {
+      "atext": "A catalog containing details of the highest-energy cosmic rays recorded through the detection of extensive air showers at the Pierre Auger Observatory is presented with the aim of opening the data to detailed examination. Descriptions of the 100 showers created by the highest-energy particles recorded between 2004 January 1 and 2020 December 31 are given for cosmic rays that have energies in the range 78\u2013166 EeV. Details are also given on a further nine very energetic events that have been used in the calibration procedure adopted to determine the energy of each primary. A sky plot of the arrival directions of the most energetic particles is shown. No interpretations of the data are offered."
+    }
+  ],
   "authors": [
     {
       "affiliation": [
@@ -5315,6 +5317,14 @@
       "name": {
         "collab": "(The Pierre Auger Collaboration)"
       }
+    },
+    {
+      "attrib": {
+        "collab": true
+      },
+      "name": {
+        "collab": "(The Pierre Auger Collaboration)"
+      }
     }
   ],
   "copyright": {
@@ -5362,6 +5372,7 @@
       "keySystem": "UAT"
     }
   ],
+  "language": "en",
   "openAccess": {
     "license": "Original content from this work may be used under the terms of the Creative Commons Attribution 4.0 licence. Any further distribution of this work must maintain attribution to the author(s) and the title of the work, journal citation and DOI.",
     "licenseURL": "http://creativecommons.org/licenses/by/4.0/",
@@ -5412,10 +5423,13 @@
     }
   ],
   "recordData": {
+    "UUID": "",
     "createdTime": "",
+    "dataType": "",
     "loadFormat": "JATS",
     "loadLocation": "",
     "loadType": "fromFile",
+    "masterRecord": "",
     "parsedTime": "",
     "recordOrigin": ""
   },
@@ -5464,7 +5478,9 @@
     "<ref id=\"apjsaca537bib42\"><element-citation publication-type=\"journal\" xlink:type=\"simple\"><person-group person-group-type=\"author\"> <name name-style=\"western\"><surname>Vali\u00f1o</surname><given-names>I.</given-names></name> <name name-style=\"western\"><surname>Alvarez-Mu\u00f1iz</surname><given-names>J.</given-names></name> <name name-style=\"western\"><surname>Roth</surname><given-names>M.</given-names></name> <name name-style=\"western\"><surname>Vazquez</surname><given-names>R. A.</given-names></name> <name name-style=\"western\"><surname>Zas</surname><given-names>E.</given-names></name> </person-group><year>2010</year><source>APh</source><volume>32</volume><fpage>304</fpage><pub-id pub-id-type=\"other\" specific-use=\"ads\">2010APh....32..304V</pub-id><pub-id pub-id-type=\"doi\">10.1016/j.astropartphys.2009.09.008</pub-id></element-citation></ref>",
     "<ref id=\"apjsaca537bib43\"><element-citation publication-type=\"journal\" xlink:type=\"simple\"><person-group person-group-type=\"author\"> <name name-style=\"western\"><surname>Yushkov</surname><given-names>A.</given-names></name> </person-group><year>2019</year><source>ICRC (Madison)</source><volume>36</volume><fpage>482</fpage><pub-id pub-id-type=\"other\" specific-use=\"ads\">2019ICRC...36..482Y</pub-id><pub-id pub-id-type=\"doi\">10.22323/1.358.0482</pub-id></element-citation></ref>"
   ],
-  "title": {
-    "textEnglish": "A Catalog of the Highest-energy Cosmic Rays Recorded during Phase I of Operation of the Pierre Auger Observatory"
-  }
+  "title": [
+    {
+      "atext": "A Catalog of the Highest-energy Cosmic Rays Recorded during Phase I of Operation of the Pierre Auger Observatory"
+    }
+  ]
 }

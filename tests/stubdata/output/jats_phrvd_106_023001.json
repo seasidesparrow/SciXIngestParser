@@ -1,7 +1,9 @@
 {
-  "abstract": {
-    "textEnglish": "Two important parameters inferred from the gravitational wave signals of binaries of precessing black holes are the spin tilt angles, i.e., the angles at which the black holes\u2019 spin axes are inclined with respect to the binary\u2019s orbital angular momentum. The LIGO-Virgo parameter estimation analyses provide spin tilts at a fiducial reference frequency, often the lowest frequency used in the data analysis. However, the most astrophysically interesting quantities are the spin tilts when the binary was formed, which can be significantly different from those at the reference frequency for strongly precessing binaries. The spin tilts at formally infinite separation are a good approximation to the tilts at formation in many formation channels and can be computed efficiently for binary black holes using precession-averaged evolution. Here, we present a new code for computing the tilts at infinity that combines the precession-averaged evolution with orbit-averaged evolution at high frequencies and illustrate its application to GW190521 and other binary black hole detections from O3. We have empirically determined the transition frequency between the orbit-averaged and precession-averaged evolution to produce tilts at infinity with a given accuracy and find that using only the precession-averaged evolution can lead to errors in the cosines of the tilts at infinity of <inline-formula> <mml:math> <mml:mo>></mml:mo> <mml:mn>0.8</mml:mn> </mml:math> </inline-formula> for certain binary configurations. However, the precession-averaged evolution alone is sufficient for good accuracy when obtaining the posterior distributions of the tilts at infinity for current detections. We also have regularized the precession-averaged equations in order to obtain good accuracy for the very close-to-equal-mass binary parameters encountered in practice. This additionally allows us to investigate the singular equal-mass limit of the precession-averaged expressions, where we find that to a good approximation the results only depend on the orbital angular momentum <inline-formula> <mml:math> <mml:mi>L</mml:mi> </mml:math> </inline-formula> through the combination <inline-formula> <mml:math> <mml:mo>(</mml:mo> <mml:mn>1</mml:mn> <mml:mo>-</mml:mo> <mml:mi>q</mml:mi> <mml:mo>)</mml:mo> <mml:mi>L</mml:mi> </mml:math> </inline-formula>, where <inline-formula> <mml:math> <mml:mi>q</mml:mi> </mml:math> </inline-formula> is the mass ratio."
-  },
+  "abstract": [
+    {
+      "atext": "Two important parameters inferred from the gravitational wave signals of binaries of precessing black holes are the spin tilt angles, i.e., the angles at which the black holes\u2019 spin axes are inclined with respect to the binary\u2019s orbital angular momentum. The LIGO-Virgo parameter estimation analyses provide spin tilts at a fiducial reference frequency, often the lowest frequency used in the data analysis. However, the most astrophysically interesting quantities are the spin tilts when the binary was formed, which can be significantly different from those at the reference frequency for strongly precessing binaries. The spin tilts at formally infinite separation are a good approximation to the tilts at formation in many formation channels and can be computed efficiently for binary black holes using precession-averaged evolution. Here, we present a new code for computing the tilts at infinity that combines the precession-averaged evolution with orbit-averaged evolution at high frequencies and illustrate its application to GW190521 and other binary black hole detections from O3. We have empirically determined the transition frequency between the orbit-averaged and precession-averaged evolution to produce tilts at infinity with a given accuracy and find that using only the precession-averaged evolution can lead to errors in the cosines of the tilts at infinity of <inline-formula> <mml:math> <mml:mo>&gt;</mml:mo> <mml:mn>0.8</mml:mn> </mml:math> </inline-formula> for certain binary configurations. However, the precession-averaged evolution alone is sufficient for good accuracy when obtaining the posterior distributions of the tilts at infinity for current detections. We also have regularized the precession-averaged equations in order to obtain good accuracy for the very close-to-equal-mass binary parameters encountered in practice. This additionally allows us to investigate the singular equal-mass limit of the precession-averaged expressions, where we find that to a good approximation the results only depend on the orbital angular momentum <inline-formula> <mml:math> <mml:mi>L</mml:mi> </mml:math> </inline-formula> through the combination <inline-formula> <mml:math> <mml:mo>(</mml:mo> <mml:mn>1</mml:mn> <mml:mo>-</mml:mo> <mml:mi>q</mml:mi> <mml:mo>)</mml:mo> <mml:mi>L</mml:mi> </mml:math> </inline-formula>, where <inline-formula> <mml:math> <mml:mi>q</mml:mi> </mml:math> </inline-formula> is the mass ratio."
+    }
+  ],
   "authors": [
     {
       "affiliation": [
@@ -157,10 +159,13 @@
     "volumeNum": "106"
   },
   "recordData": {
+    "UUID": "",
     "createdTime": "",
+    "dataType": "",
     "loadFormat": "JATS",
     "loadLocation": "",
     "loadType": "fromFile",
+    "masterRecord": "",
     "parsedTime": "",
     "recordOrigin": ""
   },
@@ -257,7 +262,15 @@
     "<ref id=\"c90\"> <label>[90]</label> <mixed-citation publication-type=\"journal\"> <object-id>90</object-id> <person-group person-group-type=\"author\"> <string-name>J.\u2009D. Hunter</string-name> </person-group>, \t\t\t\t\t<source>Comput. Sci. Eng.</source> <volume>9</volume>, \t\t\t\t\t<page-range>90</page-range> ( \t\t\t\t\t<year>2007</year>). \t\t\t\t\t<pub-id pub-id-type=\"coden\">CSENFA</pub-id> <issn>1521-9615</issn> <pub-id pub-id-type=\"doi\" specific-use=\"suppress-display\">10.1109/MCSE.2007.55</pub-id> </mixed-citation> </ref>",
     "<ref id=\"c91\"> <label>[91]</label> <mixed-citation publication-type=\"book\"> <object-id>91</object-id> <person-group person-group-type=\"editor\"> <string-name>M. Abramowitz</string-name> and \t\t\t\t\t\t<string-name>I.\u2009A. Stegun</string-name>, eds. \t\t\t\t\t</person-group>, \t\t\t\t\t<source>Handbook of Mathematical Functions With Formulas, Graphs, and Mathematical Tables</source>, \t\t\t\t\t<series>Applied Mathematics Series</series> No. 55 ( \t\t\t\t\t<publisher-name>National Bureau of Standards</publisher-name>, Washington, D.C., \t\t\t\t\t<year>1964</year>). \t\t\t\t</mixed-citation> </ref>"
   ],
-  "title": {
-    "textEnglish": "Inferring spin tilts at formation from gravitational wave observations of binary black holes: Interfacing precession-averaged and orbit-averaged spin evolution"
-  }
+  "title": [
+    {
+      "atext": "Inferring spin tilts at formation from gravitational wave observations of binary black holes: Interfacing precession-averaged and orbit-averaged spin evolution"
+    },
+    {
+      "atext": "INFERRING SPIN TILTS AT FORMATION FROM \u2026"
+    },
+    {
+      "atext": "JOHNSON-MCDANIEL, KULKARNI, AND GUPTA"
+    }
+  ]
 }

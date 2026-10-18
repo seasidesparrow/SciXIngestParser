@@ -1,7 +1,9 @@
 {
-  "abstract": {
-    "textEnglish": "We obtained the first maps of Jupiter at 13 mm wavelength with the Atacama Large Millimeter/Submillimeter Array (ALMA) on 2017 January 35, just days after an energetic eruption at 165S jovigraphic latitude had been reported by the amateur community, and about two to three months after the detection of similarly energetic eruptions in the northern hemisphere, at 222230N. Our observations, probing below the ammonia cloud deck, show that the erupting plumes in the South Equatorial Belt bring up ammonia gas from the deep atmosphere. While models of plume eruptions that are triggered at the water condensation level explain data taken at uvvisible and mid-infrared wavelengths, our ALMA observations provide a crucial, hitherto missing, link in the moist convection theory by showing that ammonia gas from the deep atmosphere is indeed brought up in these plumes. Contemporaneous Hubble Space Telescope data show that the plumes reach altitudes as high as the tropopause. We suggest that the plumes at 222230N also rise up well above the ammonia cloud deck and that descending air may dry the neighboring belts even more than in quiescent times, which would explain our observations in the north."
-  },
+  "abstract": [
+    {
+      "atext": "We obtained the first maps of Jupiter at 13 mm wavelength with the Atacama Large Millimeter/Submillimeter Array (ALMA) on 2017 January 35, just days after an energetic eruption at 165S jovigraphic latitude had been reported by the amateur community, and about two to three months after the detection of similarly energetic eruptions in the northern hemisphere, at 222230N. Our observations, probing below the ammonia cloud deck, show that the erupting plumes in the South Equatorial Belt bring up ammonia gas from the deep atmosphere. While models of plume eruptions that are triggered at the water condensation level explain data taken at uvvisible and mid-infrared wavelengths, our ALMA observations provide a crucial, hitherto missing, link in the moist convection theory by showing that ammonia gas from the deep atmosphere is indeed brought up in these plumes. Contemporaneous Hubble Space Telescope data show that the plumes reach altitudes as high as the tropopause. We suggest that the plumes at 222230N also rise up well above the ammonia cloud deck and that descending air may dry the neighboring belts even more than in quiescent times, which would explain our observations in the north."
+    }
+  ],
   "authors": [
     {
       "affiliation": [
@@ -338,10 +340,13 @@
     }
   ],
   "recordData": {
+    "UUID": "",
     "createdTime": "",
+    "dataType": "",
     "loadFormat": "JATS",
     "loadLocation": "",
     "loadType": "fromFile",
+    "masterRecord": "",
     "parsedTime": "",
     "recordOrigin": ""
   },
@@ -403,7 +408,15 @@
     "<ref id=\"ajab3643bib55\"> <element-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Wong</surname> <given-names>M. H.</given-names> </name> <name> <surname>Atreya</surname> <given-names>S. K.</given-names> </name> <name> <surname>Kuhn</surname> <given-names>W. R.</given-names> </name> <name> <surname>Romani</surname> <given-names>P. N.</given-names> </name> <name> <surname>Mihalka</surname> <given-names>K. M.</given-names> </name> </person-group> <year>2015</year> <source>Icar</source> <volume>245</volume> <fpage>273</fpage> <ext-link ext-link-type=\"bibcode\">2015Icar..245..273W</ext-link> <pub-id pub-id-type=\"doi\">10.1016/j.icarus.2014.09.042</pub-id> </element-citation> </ref>",
     "<ref id=\"ajab3643bib56\"> <element-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Wong</surname> <given-names>M. H.</given-names> </name> <name> <surname>Mahaffy</surname> <given-names>P. R.</given-names> </name> <name> <surname>Atreya</surname> <given-names>S. K.</given-names> </name> <name> <surname>Niemann</surname> <given-names>H. B.</given-names> </name> <name> <surname>Owen</surname> <given-names>T. C.</given-names> </name> </person-group> <year>2004</year> <source>Icar</source> <volume>171</volume> <fpage>153</fpage> <ext-link ext-link-type=\"bibcode\">2004Icar..171..153W</ext-link> <pub-id pub-id-type=\"doi\">10.1016/j.icarus.2004.04.010</pub-id> </element-citation> </ref>"
   ],
-  "title": {
-    "textEnglish": "First ALMA Millimeter-wavelength Maps of Jupiter, with a Multiwavelength Study of Convection"
-  }
+  "title": [
+    {
+      "atext": "First ALMA Millimeter-wavelength Maps of Jupiter, with a Multiwavelength Study of Convection"
+    },
+    {
+      "atext": "First ALMA Millimeter-wavelength Maps of Jupiter, with a Multiwavelength Study of Convection"
+    },
+    {
+      "atext": "Imke de Pater, R.J. Sault, Chris Moeckel, Arielle Moullet, Michael H. Wong, Charles Goullaud, David DeBoer, Bryan Butler, Gordon Bjoraker, Mt dmkovics, Richard Cosentino, Padraig T. Donnelly, Leigh N. Fletcher, Yasumasa Kasaba, Glenn Orton, John Rogers, James Sinclair, and Eric Villard"
+    }
+  ]
 }

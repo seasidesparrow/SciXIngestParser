@@ -1,7 +1,14 @@
 {
-  "abstract": {
-    "textEnglish": "Drones or unoccupied aerial vehicles are rapidly being used for a spectrum of applications, including replacing traditional occupied aircraft as a means of approaching wildlife from the air. Though less intrusive to wildlife than occupied aircraft, drones can still cause varying levels of disturbance. Policies and protocols to guide lowest-impact drone flights are most likely to succeed if considerations are derived from knowledge from scientific literature. This study examines trends in the scientific literature on using drones to approach wildlife between 2000 and 2020, specifically in relation to the publication types, scientific journals that works are published in, purposes of drone flights reported, taxa studied, and locations of studies. From 223 publications, we observed a large increase in relevant scientific literature, the majority of which were peer-reviewed articles published across 86 scientific journals. The largest proportion of peer-reviewed research articles related to aquatic mammals or aquatic birds and the use or trial of drone flights for conducting population surveys, animal detection, or investigations of animal responses to drone flights. The largest proportion of articles were studies conducted in North America and Australia. Since animal responses to drone flights vary among taxa, populations, and geographic locations, we encourage further growth in the volume of relevant scientific literature needed to inform policies and protocols for specific taxa and (or) locations, particularly where knowledge gaps exist."
-  },
+  "abstract": [
+    {
+      "atext": "Drones or unoccupied aerial vehicles are rapidly being used for a spectrum of applications, including replacing traditional occupied aircraft as a means of approaching wildlife from the air. Though less intrusive to wildlife than occupied aircraft, drones can still cause varying levels of disturbance. Policies and protocols to guide lowest-impact drone flights are most likely to succeed if considerations are derived from knowledge from scientific literature. This study examines trends in the scientific literature on using drones to approach wildlife between 2000 and 2020, specifically in relation to the publication types, scientific journals that works are published in, purposes of drone flights reported, taxa studied, and locations of studies. From 223 publications, we observed a large increase in relevant scientific literature, the majority of which were peer-reviewed articles published across 86 scientific journals. The largest proportion of peer-reviewed research articles related to aquatic mammals or aquatic birds and the use or trial of drone flights for conducting population surveys, animal detection, or investigations of animal responses to drone flights. The largest proportion of articles were studies conducted in North America and Australia. Since animal responses to drone flights vary among taxa, populations, and geographic locations, we encourage further growth in the volume of relevant scientific literature needed to inform policies and protocols for specific taxa and (or) locations, particularly where knowledge gaps exist.",
+      "language": "en"
+    },
+    {
+      "atext": "Les drones ou les v\u00e9hicules a\u00e9riens sans pilote (UAV) sont de plus en plus utilis\u00e9s pour un \u00e9ventail d\u2019applications, y compris en remplacement des avions pilot\u00e9s traditionnels comme moyen d\u2019approcher la faune depuis les airs. Bien qu\u2019ils soient moins intrusifs pour la faune que les avions pilot\u00e9s, les drones peuvent tout de m\u00eame causer divers niveaux de perturbation. Les politiques et les protocoles visant \u00e0 guider les vols de drones afin d\u2019avoir le moins d\u2019impact sont les plus susceptibles de r\u00e9ussir si des consid\u00e9rations sont tir\u00e9es des connaissances puis\u00e9es de la litt\u00e9rature scientifique. Cette \u00e9tude examine les tendances dans la litt\u00e9rature scientifique sur l\u2019utilisation de drones pour approcher la faune entre 2000 et 2020, en particulier en ce qui concerne le type de publications et de revues scientifiques dans lesquels les travaux sont publi\u00e9s, les objectifs de vols de drones signal\u00e9s, les taxons \u00e9tudi\u00e9s et les lieux d\u2019\u00e9tudes. De 223 publications, les auteurs ont observ\u00e9 une forte augmentation de la litt\u00e9rature scientifique pertinente, dont la majorit\u00e9 \u00e9taient des articles \u00e9valu\u00e9s par des pairs et publi\u00e9s dans 86 revues scientifiques. La plus grande proportion d\u2019articles de recherche examin\u00e9s par des pairs portait sur les mammif\u00e8res aquatiques ou les oiseaux aquatiques, et l\u2019utilisation ou l\u2019essai de vols de drones pour effectuer des relev\u00e9s de population, la d\u00e9tection d\u2019animaux ou des \u00e9tudes sur les r\u00e9ponses des animaux aux vols de drones. La plus grande partie des articles \u00e9taient des \u00e9tudes men\u00e9es en Am\u00e9rique du Nord et en Australie. \u00c9tant donn\u00e9 que les r\u00e9actions des animaux aux vols de drones varient selon les taxons, les populations et les emplacements g\u00e9ographiques, les auteurs pr\u00f4nent la croissance du volume de documentation scientifique pertinente n\u00e9cessaire pour \u00e9clairer les politiques et les protocoles pour des taxons ou des emplacements pr\u00e9cis, en particulier lorsqu\u2019il existe des lacunes dans les connaissances. [Traduit par la R\u00e9daction]",
+      "language": "fr"
+    }
+  ],
   "authors": [
     {
       "affiliation": [
@@ -98,6 +105,7 @@
       "keySystem": "misc"
     }
   ],
+  "language": "en",
   "openAccess": {
     "license": "This work is licensed under a Creative Commons Attribution 4.0 International License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author(s) and source are credited.",
     "licenseURL": "http://creativecommons.org/licenses/by/4.0/deed.en_GB",
@@ -140,10 +148,13 @@
     }
   ],
   "recordData": {
+    "UUID": "",
     "createdTime": "",
+    "dataType": "",
     "loadFormat": "JATS",
     "loadLocation": "",
     "loadType": "fromFile",
+    "masterRecord": "",
     "parsedTime": "",
     "recordOrigin": ""
   },
@@ -303,7 +314,9 @@
     "<ref id=\"refg151\"><mixed-citation id=\"ref151\" publication-type=\"journal\"><person-group person-group-type=\"author\"><string-name name-style=\"western\"><surname>Yang</surname><given-names>F.</given-names></string-name><string-name name-style=\"western\"><surname>Shao</surname><given-names>Q.</given-names></string-name><string-name name-style=\"western\"><surname>Jiang</surname><given-names>Z.</given-names></string-name></person-group> <year>2019</year>. <article-title>A population census of large herbivores based on UAV and its effects on grazing pressure in the Yellow-River-Source National Park, China</article-title>. <source>Int. J. Environ. Res. Public Health,</source> <volume>16</volume>: <fpage>4402</fpage>. doi: <pub-id pub-id-type=\"doi\">10.3390/ijerph16224402</pub-id>.</mixed-citation></ref>",
     "<ref id=\"refg152\"><mixed-citation id=\"ref152\" publication-type=\"journal\"><person-group person-group-type=\"author\"><string-name name-style=\"western\"><surname>Zmarz</surname><given-names>A.</given-names></string-name><string-name name-style=\"western\"><surname>Rodzewicz</surname><given-names>M.</given-names></string-name><string-name name-style=\"western\"><surname>D\u0105bski</surname><given-names>M.</given-names></string-name><string-name name-style=\"western\"><surname>Karsznia</surname><given-names>I.</given-names></string-name><string-name name-style=\"western\"><surname>Korczak-Abshire</surname><given-names>M.</given-names></string-name><string-name name-style=\"western\"><surname>Chwedorzewska</surname><given-names>K.J.</given-names></string-name></person-group> <year>2018</year>. <article-title>Application of UAV BVLOS remote sensing data for multi-faceted analysis of Antarctic ecosystem</article-title>. <source>Remote Sens. Environ.</source> <volume>217</volume>: <fpage>375</fpage>\u2013<lpage>388</lpage>. doi: <pub-id pub-id-type=\"doi\">10.1016/j.rse.2018.08.031</pub-id>.</mixed-citation></ref>"
   ],
-  "title": {
-    "textEnglish": "An examination of trends in the growing scientific literature on approaching wildlife with drones"
-  }
+  "title": [
+    {
+      "atext": "An examination of trends in the growing scientific literature on approaching wildlife with drones"
+    }
+  ]
 }

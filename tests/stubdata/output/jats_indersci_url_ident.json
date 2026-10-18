@@ -1,7 +1,10 @@
 {
-  "abstract": {
-    "textEnglish": "Flexible sand control screens play a crucial role in the operation and economic benefits of ultra-short radius wells. We established a calculation model for the motion friction resistance of flexible screens and a criterion for contact between screen units and wellbore walls. Case analysis clarified the correlation between several key factors (e.g., maximum allowed swing angle, friction coefficient, insertion speed, and total length of screen units) and the frictional resistance of flexible screens. We utilised the overall distribution of contact point positions and the compressed distance between adjacent screen unit centroids to analyse the conversion mechanism of screen friction resistance from linear to nonlinear rapid accumulation. We also explored measures to improve the extension capacity of flexible screens. Our findings provide a basis for the optimisation design of flexible screen structures and the assessment of their maximum extension capacity. [Received: June 2, 2023; Accepted: February 13, 2024]"
-  },
+  "abstract": [
+    {
+      "atext": "Flexible sand control screens play a crucial role in the operation and economic benefits of ultra-short radius wells. We established a calculation model for the motion friction resistance of flexible screens and a criterion for contact between screen units and wellbore walls. Case analysis clarified the correlation between several key factors (e.g., maximum allowed swing angle, friction coefficient, insertion speed, and total length of screen units) and the frictional resistance of flexible screens. We utilised the overall distribution of contact point positions and the compressed distance between adjacent screen unit centroids to analyse the conversion mechanism of screen friction resistance from linear to nonlinear rapid accumulation. We also explored measures to improve the extension capacity of flexible screens. Our findings provide a basis for the optimisation design of flexible screen structures and the assessment of their maximum extension capacity. [Received: June 2, 2023; Accepted: February 13, 2024]",
+      "language": "en"
+    }
+  ],
   "authors": [
     {
       "affiliation": [
@@ -92,6 +95,7 @@
       "keySystem": "misc"
     }
   ],
+  "language": "en",
   "pagination": {
     "firstPage": "55",
     "lastPage": "76",
@@ -126,14 +130,19 @@
     }
   ],
   "recordData": {
+    "UUID": "",
     "createdTime": "",
+    "dataType": "",
     "loadFormat": "JATS",
     "loadLocation": "",
     "loadType": "fromFile",
+    "masterRecord": "",
     "parsedTime": "",
     "recordOrigin": ""
   },
-  "title": {
-    "textEnglish": "Simulation study on frictional resistance and influencing factors of flexible screen pipe tripping into horizontal wellbore"
-  }
+  "title": [
+    {
+      "atext": "Simulation study on frictional resistance and influencing factors of flexible screen pipe tripping into horizontal wellbore"
+    }
+  ]
 }

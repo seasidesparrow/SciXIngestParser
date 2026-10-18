@@ -1,7 +1,10 @@
 {
-  "abstract": {
-    "textEnglish": "Interest is rising in exploiting the full shape information of the galaxy power spectrum, and in pushing analyses to smaller non-linear scales. Here I use the halo model to quantify the information content in the tomographic angular power spectrum of galaxies C<sub>\u2113</sub><sup>gal</sup>(i<sub>z</sub>) for the future high-resolution surveys Euclid and SKA2. I study how this information varies as a function of the scale cut applied, either with angular cut \u2113<sub>max</sub> or physical cut k<sub>max</sub>. For this, I use analytical covariances with the most complete census of non-Gaussian terms, which proves to be critical. I find that the Fisher information on most cosmological and astrophysical parameters shows a striking behaviour. Beyond the perturbative regime, we first get decreasing returns: the information continues to rise but the slope slows down until reaching saturation. The location of this plateau, at k \u223c 2 Mpc<sup>\u22121</sup>, is slightly beyond the reach of current modelling methods and depends to some extent on the parameter and redshift bin considered. I explain the origin of this plateau, which is due to non-linear effects both on the power spectrum, and more importantly on non-Gaussian covariance terms. Then, pushing further, we see the information rising again in the highly non-linear regime, with a steep slope. This is the small-scale miracle, for which I give my interpretation and discuss the properties. There are suggestions that it may be possible to disentangle this information from the astrophysical content, and improve dark energy constraints. Finally, more hints are shown that high-order statistics may yield significant improvements over the power spectrum in this regime, with the improvements increasing with k<sub>max</sub>.  \u22c6 Data and notebooks reproducing all plots and results are available at https://github.com/fabienlacasa/SmallScaleMiracle"
-  },
+  "abstract": [
+    {
+      "atext": "Interest is rising in exploiting the full shape information of the galaxy power spectrum, and in pushing analyses to smaller non-linear scales. Here I use the halo model to quantify the information content in the tomographic angular power spectrum of galaxies C<sub>\u2113</sub><sup>gal</sup>(i<sub>z</sub>) for the future high-resolution surveys Euclid and SKA2. I study how this information varies as a function of the scale cut applied, either with angular cut \u2113<sub>max</sub> or physical cut k<sub>max</sub>. For this, I use analytical covariances with the most complete census of non-Gaussian terms, which proves to be critical. I find that the Fisher information on most cosmological and astrophysical parameters shows a striking behaviour. Beyond the perturbative regime, we first get decreasing returns: the information continues to rise but the slope slows down until reaching saturation. The location of this plateau, at k \u223c 2 Mpc<sup>\u22121</sup>, is slightly beyond the reach of current modelling methods and depends to some extent on the parameter and redshift bin considered. I explain the origin of this plateau, which is due to non-linear effects both on the power spectrum, and more importantly on non-Gaussian covariance terms. Then, pushing further, we see the information rising again in the highly non-linear regime, with a steep slope. This is the small-scale miracle, for which I give my interpretation and discuss the properties. There are suggestions that it may be possible to disentangle this information from the astrophysical content, and improve dark energy constraints. Finally, more hints are shown that high-order statistics may yield significant improvements over the power spectrum in this regime, with the improvements increasing with k<sub>max</sub>.",
+      "language": "en"
+    }
+  ],
   "authors": [
     {
       "affiliation": [
@@ -63,6 +66,7 @@
       "keySystem": "misc"
     }
   ],
+  "language": "en",
   "openAccess": {
     "license": "Open Access article, published by EDP Sciences, under the terms of the Creative Commons Attribution License (https://creativecommons.org/licenses/by/4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.",
     "licenseURL": "https://www.edpsciences.org",
@@ -108,10 +112,13 @@
     }
   ],
   "recordData": {
+    "UUID": "",
     "createdTime": "",
+    "dataType": "",
     "loadFormat": "JATS",
     "loadLocation": "",
     "loadType": "fromFile",
+    "masterRecord": "",
     "parsedTime": "",
     "recordOrigin": ""
   },
@@ -181,10 +188,17 @@
     "<ref id=\"R63\"> <mixed-citation publication-type=\"journal\"> <string-name><surname>Yang</surname>, <given-names>X.</given-names></string-name>, <string-name><surname>Mo</surname>, <given-names>H. J.</given-names></string-name>, &amp; <string-name><surname>van den Bosch</surname>, <given-names>F. C.</given-names></string-name> <year>2008</year>, <source>ApJ</source>, <volume>676</volume>, <fpage>248</fpage> </mixed-citation> </ref>",
     "<ref id=\"R64\"> <mixed-citation publication-type=\"journal\"> <string-name><surname>Zehavi</surname>, <given-names>I.</given-names></string-name>, <string-name><surname>Zheng</surname>, <given-names>Z.</given-names></string-name>, <string-name><surname>Weinberg</surname>, <given-names>D. H.</given-names></string-name>, et al. <year>2011</year>, <source>ApJ</source>, <volume>736</volume>, <fpage>59</fpage> </mixed-citation> </ref>"
   ],
-  "title": {
-    "textEnglish": "Cosmology in the non-linear regime: the small scale miracle",
-    "textNotes": [
-      "\u22c6 Data and notebooks reproducing all plots and results are available at https://github.com/fabienlacasa/SmallScaleMiracle"
-    ]
-  }
+  "title": [
+    {
+      "atext": "Cosmology in the non-linear regime: the small scale miracle\u22c6",
+      "footnotes": [
+        {
+          "id": "FN1",
+          "label": "\u22c6",
+          "text": "Data and notebooks reproducing all plots and results are available at https://github.com/fabienlacasa/SmallScaleMiracle"
+        }
+      ],
+      "language": "en"
+    }
+  ]
 }

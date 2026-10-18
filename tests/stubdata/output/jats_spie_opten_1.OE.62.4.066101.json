@@ -1,7 +1,9 @@
 {
-  "abstract": {
-    "textEnglish": "High power fiber-coupled diode lasers are widely applied in laser material processing. Based on the commercial diode laser stacks, a comprehensive study of fiber-coupled diode lasers was presented using visualized beam shaping simulations. And then in experiment, refraction optical beam shaping, polarization multiplexing, wavelength multiplexing, and fiber coupling were used to produce a 4.08 kW output from an optical fiber with core diameter of 800 \u03bcm and NA of 0.2. An average fiber coupling efficiency about 95% was obtained, which was in good agreement with the simulation."
-  },
+  "abstract": [
+    {
+      "atext": "High power fiber-coupled diode lasers are widely applied in laser material processing. Based on the commercial diode laser stacks, a comprehensive study of fiber-coupled diode lasers was presented using visualized beam shaping simulations. And then in experiment, refraction optical beam shaping, polarization multiplexing, wavelength multiplexing, and fiber coupling were used to produce a 4.08 kW output from an optical fiber with core diameter of 800 \u03bcm and NA of 0.2. An average fiber coupling efficiency about 95% was obtained, which was in good agreement with the simulation."
+    }
+  ],
   "authors": [
     {
       "affiliation": [
@@ -124,10 +126,13 @@
     }
   ],
   "recordData": {
+    "UUID": "",
     "createdTime": "",
+    "dataType": "",
     "loadFormat": "JATS",
     "loadLocation": "",
     "loadType": "fromFile",
+    "masterRecord": "",
     "parsedTime": "",
     "recordOrigin": ""
   },
@@ -144,7 +149,9 @@
     "<ref id=\"r10\"> <label>10.</label> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <string-name> <given-names>Z.</given-names> <surname>Dong</surname> </string-name> <etal>et al.</etal> </person-group>, \u201c<article-title>Simulation for fiber-coupled diode lasers by considering discreteness in propagation angles of individual emitters</article-title>,\u201d <source>Opt. Laser Technol.</source><volume>132</volume>, <fpage>106500</fpage> (<year>2020</year>).<pub-id pub-id-type=\"coden\">OLTCAS</pub-id><issn>0030-3992</issn><ext-link ext-link-type=\"doi\" specific-use=\"online\" xlink:href=\"https://doi.org/10.1016/j.optlastec.2020.106500\">https://doi.org/10.1016/j.optlastec.2020.106500</ext-link></mixed-citation> </ref>",
     "<ref id=\"r11\"> <label>11.</label> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <string-name> <given-names>Z.</given-names> <surname>Wang</surname> </string-name> <etal>et al.</etal> </person-group>, \u201c<article-title>Fiber coupled diode laser beam parameter product calculation and rules for optimized design</article-title>,\u201d <source>Proc. SPIE</source><volume>7918</volume>, <fpage>791809</fpage> (<year>2011</year>).<pub-id pub-id-type=\"coden\">PSISDG</pub-id><issn>0277-786X</issn><ext-link ext-link-type=\"doi\" specific-use=\"online\" xlink:href=\"https://doi.org/10.1117/12.875386\">https://doi.org/10.1117/12.875386</ext-link></mixed-citation> </ref>"
   ],
-  "title": {
-    "textEnglish": "High power fiber-coupled diode laser based on beam shaping simulation"
-  }
+  "title": [
+    {
+      "atext": "High power fiber-coupled diode laser based on beam shaping simulation"
+    }
+  ]
 }

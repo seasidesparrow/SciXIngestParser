@@ -1,7 +1,9 @@
 {
-  "abstract": {
-    "textEnglish": "After a check dam is filled with sediment, the debris flow will flow out from the spillway. Insufficient discharge capacity of the spillway can lead to debris flow scouring the dam's shoulder and foundation. Therefore, it is necessary to study the discharge capacity of the spillway. It is of great importance for further optimizing the structural design of the check dam. This article analyzes discharge characteristics of debris flow of a spillway through a series of flume experiments. According to the motion states, it can be divided into five stages: contact stage of the spillway, flushing and climbing stage, increasing and reflux stage, stable discharge stage, and final discharge stage. We analyzed the influencing factors of the discharge capacity, including the type of spillway, bulk density of debris flow, scale of debris flow, flume gradient, and effective opening width of the spillway. Furthermore, we derived a calculation formula of discharge for the spillway based on Bernoulli's principle. Finally, we considered the influence of the ratio of flow area and Froude number to the discharge coefficient and established a calculation method of discharge. Consequently, we compared the calculated results with the measured results and found them to be in good agreement. Our research results provide a quantitative calculation method for the design of spillways and energy dissipation and erosion prevention projects under check dams, which is beneficial for improving engineering value and for better serving disaster prevention and reduction efforts."
-  },
+  "abstract": [
+    {
+      "atext": "After a check dam is filled with sediment, the debris flow will flow out from the spillway. Insufficient discharge capacity of the spillway can lead to debris flow scouring the dam's shoulder and foundation. Therefore, it is necessary to study the discharge capacity of the spillway. It is of great importance for further optimizing the structural design of the check dam. This article analyzes discharge characteristics of debris flow of a spillway through a series of flume experiments. According to the motion states, it can be divided into five stages: contact stage of the spillway, flushing and climbing stage, increasing and reflux stage, stable discharge stage, and final discharge stage. We analyzed the influencing factors of the discharge capacity, including the type of spillway, bulk density of debris flow, scale of debris flow, flume gradient, and effective opening width of the spillway. Furthermore, we derived a calculation formula of discharge for the spillway based on Bernoulli's principle. Finally, we considered the influence of the ratio of flow area and Froude number to the discharge coefficient and established a calculation method of discharge. Consequently, we compared the calculated results with the measured results and found them to be in good agreement. Our research results provide a quantitative calculation method for the design of spillways and energy dissipation and erosion prevention projects under check dams, which is beneficial for improving engineering value and for better serving disaster prevention and reduction efforts."
+    }
+  ],
   "authors": [
     {
       "affiliation": [
@@ -188,10 +190,13 @@
     }
   ],
   "recordData": {
+    "UUID": "",
     "createdTime": "",
+    "dataType": "",
     "loadFormat": "JATS",
     "loadLocation": "",
     "loadType": "fromFile",
+    "masterRecord": "",
     "parsedTime": "",
     "recordOrigin": ""
   },
@@ -255,7 +260,14 @@
     "<ref id=\"c74\"> <label>57.</label> <mixed-citation publication-type=\"thesis\"> <string-name> <surname>Zheng</surname>,  \t\t\t\t\t\t<given-names>Z.-s.</given-names> </string-name>, \u201c  \t\t\t\t\t<article-title>Study on the morphology and change characteristics of debris flow jet through Sabo dam</article-title>,\u201d M.S. thesis (  \t\t\t\t\t<publisher-name>Institute of Mountain Hazards and Environment, Chinese Academy of Sciences</publisher-name>, \t\t\t\t\t<year>2019</year>) (in Chinese). \t\t\t\t</mixed-citation> </ref>",
     "<ref id=\"c57\"> <label>58.</label> <mixed-citation publication-type=\"journal\"> <string-name> <surname>Zhang</surname>,  \t\t\t\t\t\t<given-names>W.</given-names> </string-name>,  \t\t\t\t\t<string-name> <surname>Liu</surname>,  \t\t\t\t\t\t<given-names>J.</given-names> </string-name>,  \t\t\t\t\t<string-name> <surname>Li</surname>,  \t\t\t\t\t\t<given-names>D.</given-names> </string-name> <etal> <italic>et al.</italic> </etal>, \u201c  \t\t\t\t\t<article-title>Evaluation of comprehensive treatment effect of geotechnical and ecological engineering for debris flow: Case of Wenchuan County, Sichuan Province</article-title>,\u201d \t\t\t\t\t<source>Nat. Hazards</source> <volume> <bold>116</bold> </volume>( \t\t\t\t\t<issue>1</issue>), \t\t\t\t\t<fpage>769</fpage>\u2013 \t\t\t\t\t<lpage>794</lpage> ( \t\t\t\t\t<year>2023</year>). \t\t\t\t\t<pub-id pub-id-type=\"doi\" specific-use=\"metadata\">10.1007/s11069-022-05698-w</pub-id> </mixed-citation> </ref>"
   ],
-  "title": {
-    "textEnglish": "Study on debris flow discharge characteristics of check dam spillway"
-  }
+  "title": [
+    {
+      "atext": "Study on debris flow discharge characteristics of check dam spillway",
+      "footnotes": [
+        {
+          "text": "Note: This paper is part of the special topic, Flow and Civil Structures."
+        }
+      ]
+    }
+  ]
 }

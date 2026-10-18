@@ -33,6 +33,7 @@
       "keySystem": "misc"
     }
   ],
+  "language": "EN",
   "openAccess": {
     "license": "Prior permission is not required to reproduce short quotations, tables and figures from this article, provided the original authors and source are cited. For more information, see https://journals.iucr.org/services/copyrightpolicy.html."
   },
@@ -70,14 +71,19 @@
     }
   ],
   "recordData": {
+    "UUID": "",
     "createdTime": "",
+    "dataType": "",
     "loadFormat": "JATS",
     "loadLocation": "",
     "loadType": "fromFile",
+    "masterRecord": "",
     "parsedTime": "",
     "recordOrigin": ""
   },
-  "title": {
-    "textEnglish": "Phospho\u00adrus Chemistry. The Role of Phospho\u00adrus in Prebiotic Chemistry"
-  }
+  "title": [
+    {
+      "atext": "Phospho\u00adrus Chemistry. The Role of Phospho\u00adrus in Prebiotic Chemistry"
+    }
+  ]
 }

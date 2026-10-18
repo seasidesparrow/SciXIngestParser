@@ -1,7 +1,9 @@
 {
-  "abstract": {
-    "textEnglish": "A general mechanism is presented by which topological physics arises in strongly correlated systems without flat bands. Starting from a charge transfer insulator, topology emerges when the charge transfer energy between the cation and anion is reduced to invert the lower Hubbard band and the spin-degenerate charge transfer band. A universal low-energy theory is developed for the inversion of the charge transfer gap in a quantum antiferromagnet. The inverted state is found to be a quantum anomalous Hall (QAH) insulator with noncoplanar magnetism. Interactions play two essential roles in this mechanism: producing the insulating gap and quasiparticle bands prior to the band inversion, and causing the change of magnetic order necessary for the QAH effect after inversion. Our theory explains the electric-field-induced transition from a correlated insulator to a QAH state in <inline-formula><mml:math><mml:mrow><mml:mi>A</mml:mi><mml:mi>B</mml:mi></mml:mrow></mml:math></inline-formula>-stacked transition-metal-dichalcogenides bilayer <inline-formula><mml:math><mml:mrow><mml:mrow><mml:msub><mml:mrow><mml:mi>MoTe</mml:mi></mml:mrow><mml:mrow><mml:mn>2</mml:mn></mml:mrow></mml:msub></mml:mrow><mml:mo>/</mml:mo><mml:msub><mml:mrow><mml:mi>WSe</mml:mi></mml:mrow><mml:mrow><mml:mn>2</mml:mn></mml:mrow></mml:msub></mml:mrow></mml:math></inline-formula>."
-  },
+  "abstract": [
+    {
+      "atext": "A general mechanism is presented by which topological physics arises in strongly correlated systems without flat bands. Starting from a charge transfer insulator, topology emerges when the charge transfer energy between the cation and anion is reduced to invert the lower Hubbard band and the spin-degenerate charge transfer band. A universal low-energy theory is developed for the inversion of the charge transfer gap in a quantum antiferromagnet. The inverted state is found to be a quantum anomalous Hall (QAH) insulator with noncoplanar magnetism. Interactions play two essential roles in this mechanism: producing the insulating gap and quasiparticle bands prior to the band inversion, and causing the change of magnetic order necessary for the QAH effect after inversion. Our theory explains the electric-field-induced transition from a correlated insulator to a QAH state in <inline-formula><mml:math><mml:mrow><mml:mi>A</mml:mi><mml:mi>B</mml:mi></mml:mrow></mml:math></inline-formula>-stacked transition-metal-dichalcogenides bilayer <inline-formula><mml:math><mml:mrow><mml:mrow><mml:msub><mml:mrow><mml:mi>MoTe</mml:mi></mml:mrow><mml:mrow><mml:mn>2</mml:mn></mml:mrow></mml:msub></mml:mrow><mml:mo>/</mml:mo><mml:msub><mml:mrow><mml:mi>WSe</mml:mi></mml:mrow><mml:mrow><mml:mn>2</mml:mn></mml:mrow></mml:msub></mml:mrow></mml:math></inline-formula>."
+    }
+  ],
   "authors": [
     {
       "affiliation": [
@@ -88,10 +90,13 @@
     "volumeNum": "12"
   },
   "recordData": {
+    "UUID": "",
     "createdTime": "",
+    "dataType": "",
     "loadFormat": "JATS",
     "loadLocation": "",
     "loadType": "fromFile",
+    "masterRecord": "",
     "parsedTime": "",
     "recordOrigin": ""
   },
@@ -158,7 +163,15 @@
     "<ref id=\"c60\"><label>[60]</label><mixed-citation publication-type=\"journal\"><object-id>60</object-id><person-group person-group-type=\"author\"><string-name>S.\u2009J. Magorrian</string-name>, <string-name>V.\u2009V. Enaldiev</string-name>, <string-name>V. Zlyomi</string-name>, <string-name>F. Ferreira</string-name>, <string-name>V.\u2009I. Fal\u2019ko</string-name>, and <string-name>D.\u2009A. Ruiz-Tijerina</string-name></person-group>, <article-title>Multifaceted Moir\u00e9 Superlattice Physics in Twisted <inline-formula><mml:math display=\"inline\"><mml:mrow><mml:msub><mml:mrow><mml:mi>WSe</mml:mi></mml:mrow><mml:mrow><mml:mn>2</mml:mn></mml:mrow></mml:msub></mml:mrow></mml:math></inline-formula> Bilayers</article-title>, <source>Phys. Rev. B</source> <volume>104</volume>, <page-range>125440</page-range> (<year>2021</year>).<pub-id pub-id-type=\"coden\">PRBMDO</pub-id><issn>0163-1829</issn><pub-id pub-id-type=\"doi\" specific-use=\"suppress-display\">10.1103/PhysRevB.104.125440</pub-id></mixed-citation></ref>",
     "<ref id=\"c61\"><label>[61]</label><mixed-citation publication-type=\"journal\"><object-id>61</object-id><person-group person-group-type=\"author\"><string-name>Hao Tang</string-name>, <string-name>Stephen Carr</string-name>, and <string-name>Efthimios Kaxiras</string-name></person-group>, <article-title>Geometric Origins of Topological Insulation in Twisted Layered Semiconductors</article-title>, <source>Phys. Rev. B</source> <volume>104</volume>, <page-range>155415</page-range> (<year>2021</year>).<pub-id pub-id-type=\"coden\">PRBMDO</pub-id><issn>0163-1829</issn><pub-id pub-id-type=\"doi\" specific-use=\"suppress-display\">10.1103/PhysRevB.104.155415</pub-id></mixed-citation></ref>"
   ],
-  "title": {
-    "textEnglish": "Quantum Anomalous Hall Effect from Inverted Charge Transfer Gap"
-  }
+  "title": [
+    {
+      "atext": "Quantum Anomalous Hall Effect from Inverted Charge Transfer Gap"
+    },
+    {
+      "atext": "QUANTUM ANOMALOUS HALL EFFECT FROM INVERTED \u2026"
+    },
+    {
+      "atext": "DEVAKUL TRITHEP AND FU LIANG"
+    }
+  ]
 }

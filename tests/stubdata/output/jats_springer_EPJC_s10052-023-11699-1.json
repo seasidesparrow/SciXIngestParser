@@ -1,7 +1,10 @@
 {
-  "abstract": {
-    "textEnglish": "The flavour-tagging algorithms developed by the ATLAS Collaboration and used to analyse its dataset of <inline-formula> <mml:math> <mml:mrow> <mml:msqrt> <mml:mi>s</mml:mi> </mml:msqrt> <mml:mo>=</mml:mo> <mml:mn>13</mml:mn> </mml:mrow> </mml:math> </inline-formula> TeV pp collisions from Run 2 of the Large Hadron Collider are presented. These new tagging algorithms are based on recurrent and deep neural networks, and their performance is evaluated in simulated collision events. These developments yield considerable improvements over previous jet-flavour identification strategies. At the 77% b-jet identification efficiency operating point, light-jet (charm-jet) rejection factors of 170 (5) are achieved in a sample of simulated Standard Model <inline-formula> <mml:math> <mml:mrow> <mml:mi>t</mml:mi> <mml:mover> <mml:mrow> <mml:mi>t</mml:mi> </mml:mrow> <mml:mrow> <mml:mo>\u00af</mml:mo> </mml:mrow> </mml:mover> </mml:mrow> </mml:math> </inline-formula> events; similarly, at a c-jet identification efficiency of 30%, a light-jet ( b-jet) rejection factor of 70 (9) is obtained."
-  },
+  "abstract": [
+    {
+      "atext": "The flavour-tagging algorithms developed by the ATLAS Collaboration and used to analyse its dataset of <inline-formula> <mml:math> <mml:mrow> <mml:msqrt> <mml:mi>s</mml:mi> </mml:msqrt> <mml:mo>=</mml:mo> <mml:mn>13</mml:mn> </mml:mrow> </mml:math> </inline-formula> TeV pp collisions from Run 2 of the Large Hadron Collider are presented. These new tagging algorithms are based on recurrent and deep neural networks, and their performance is evaluated in simulated collision events. These developments yield considerable improvements over previous jet-flavour identification strategies. At the 77% b-jet identification efficiency operating point, light-jet (charm-jet) rejection factors of 170 (5) are achieved in a sample of simulated Standard Model <inline-formula> <mml:math> <mml:mrow> <mml:mi>t</mml:mi> <mml:mover> <mml:mrow> <mml:mi>t</mml:mi> </mml:mrow> <mml:mrow> <mml:mo>\u00af</mml:mo> </mml:mrow> </mml:mover> </mml:mrow> </mml:math> </inline-formula> events; similarly, at a c-jet identification efficiency of 30%, a light-jet ( b-jet) rejection factor of 70 (9) is obtained.",
+      "language": "en"
+    }
+  ],
   "authors": [
     {
       "affiliation": [
@@ -73085,6 +73088,7 @@
       "2022-11-30"
     ]
   },
+  "language": "en",
   "openAccess": {
     "license": "Open Access This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article\u2019s Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article\u2019s Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit http://creativecommons.org/licenses/by/4.0/.",
     "licenseURL": "http://creativecommons.org/licenses/by/4.0/",
@@ -73131,10 +73135,13 @@
     }
   ],
   "recordData": {
+    "UUID": "",
     "createdTime": "",
+    "dataType": "",
     "loadFormat": "JATS",
     "loadLocation": "",
     "loadType": "fromFile",
+    "masterRecord": "",
     "parsedTime": "",
     "recordOrigin": ""
   },
@@ -73197,7 +73204,10 @@
     "<ref id=\"CR56\"> <label>56.</label> <mixed-citation publication-type=\"other\">ATLAS Collaboration, Calibration of light-flavour b-jet mistagging rates using ATLAS proton\u2013proton collision data at \t\t\t\t\t\t<inline-formula id=\"IEq444\"> <alternatives> <mml:math> <mml:mrow> <mml:msqrt> <mml:mi>s</mml:mi> </mml:msqrt> <mml:mo>=</mml:mo> <mml:mn>13</mml:mn> <mml:mspace width=\"3.33333pt\"/> <mml:mspace width=\"0.333333em\"/> <mml:mtext>TeV</mml:mtext> <mml:mspace width=\"0.333333em\"/> </mml:mrow> </mml:math> <tex-math id=\"IEq444_TeX\">\\documentclass[12pt]{minimal} \t\t\t\t\\usepackage{amsmath} \t\t\t\t\\usepackage{wasysym} \t\t\t\t\\usepackage{amsfonts} \t\t\t\t\\usepackage{amssymb} \t\t\t\t\\usepackage{amsbsy} \t\t\t\t\\usepackage{mathrsfs} \t\t\t\t\\usepackage{upgreek} \t\t\t\t\\setlength{\\oddsidemargin}{-69pt} \t\t\t\t\\begin{document}$$\\sqrt{s} = 13~\\text{ TeV }$$\\end{document}</tex-math> <inline-graphic xlink:href=\"10052_2023_11699_Article_IEq444.gif\"/> </alternatives> </inline-formula>. ATLAS-CONF-2018-006 (2018). \t\t\t\t\t\t<ext-link ext-link-type=\"url\" xlink:href=\"https://cds.cern.ch/record/2314418\">https://cds.cern.ch/record/2314418</ext-link> </mixed-citation> </ref>",
     "<ref id=\"CR57\"> <label>57.</label> <mixed-citation publication-type=\"other\">ATLAS Collaboration, ATLAS computing acknowledgements. ATL-SOFT-PUB-2021-003 (2021). \t\t\t\t\t\t<ext-link ext-link-type=\"url\" xlink:href=\"https://cds.cern.ch/record/2776662\">https://cds.cern.ch/record/2776662</ext-link> </mixed-citation> </ref>"
   ],
-  "title": {
-    "textEnglish": "ATLAS flavour-tagging algorithms for the LHC Run 2 pp collision dataset"
-  }
+  "title": [
+    {
+      "atext": "ATLAS flavour-tagging algorithms for the LHC Run 2 pp collision dataset",
+      "language": "en"
+    }
+  ]
 }

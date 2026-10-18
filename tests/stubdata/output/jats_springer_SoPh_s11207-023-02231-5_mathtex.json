@@ -1,7 +1,10 @@
 {
-  "abstract": {
-    "textEnglish": "A new instrument was designed to take visible-light (VL) polarized brightness ( <inline-formula> <mml:math> <mml:mi>pB</mml:mi> </mml:math> </inline-formula>) observations of the solar corona during the 14 December 2020 total solar eclipse. The instrument, called the Coronal Imaging Polarizer (CIP), consisted of a 16 MP CMOS detector, a linear polarizer housed within a piezoelectric rotation mount, and an f-5.6, 200 mm DSLR lens. Observations were successfully obtained, despite poor weather conditions, for five different exposure times (0.001 s, 0.01 s, 0.1 s, 1 s, and 3 s) at six different orientation angles of the linear polarizer ( <inline-formula> <mml:math> <mml:msup> <mml:mn>0</mml:mn> <mml:mo>\u2218</mml:mo> </mml:msup> </mml:math> </inline-formula>, <inline-formula> <mml:math> <mml:msup> <mml:mn>30</mml:mn> <mml:mo>\u2218</mml:mo> </mml:msup> </mml:math> </inline-formula>, <inline-formula> <mml:math> <mml:msup> <mml:mn>60</mml:mn> <mml:mo>\u2218</mml:mo> </mml:msup> </mml:math> </inline-formula>, <inline-formula> <mml:math> <mml:msup> <mml:mn>90</mml:mn> <mml:mo>\u2218</mml:mo> </mml:msup> </mml:math> </inline-formula>, <inline-formula> <mml:math> <mml:msup> <mml:mn>120</mml:mn> <mml:mo>\u2218</mml:mo> </mml:msup> </mml:math> </inline-formula>, and <inline-formula> <mml:math> <mml:msup> <mml:mn>150</mml:mn> <mml:mo>\u2218</mml:mo> </mml:msup> </mml:math> </inline-formula>). The images were manually aligned using the drift of background stars in the sky and images of different exposure times were combined using a simple signal-to-noise ratio cut. The polarization and brightness of the local sky were also estimated and the observations were subsequently corrected. The <inline-formula> <mml:math> <mml:mi>pB</mml:mi> </mml:math> </inline-formula> of the K-corona was determined using least-squares fitting and radiometric calibration was done relative to the Mauna Loa Solar Observatory (MLSO) K-Cor <inline-formula> <mml:math> <mml:mi>pB</mml:mi> </mml:math> </inline-formula> observations from the day of the eclipse. The <inline-formula> <mml:math> <mml:mi>pB</mml:mi> </mml:math> </inline-formula> data was then inverted to acquire the coronal electron density, <inline-formula> <mml:math> <mml:msub> <mml:mi>n</mml:mi> <mml:mi>e</mml:mi> </mml:msub> </mml:math> </inline-formula>, for an equatorial streamer and a polar coronal hole, which agreed very well with previous studies. The effect of changing the number of polarizer angles used to compute the <inline-formula> <mml:math> <mml:mi>pB</mml:mi> </mml:math> </inline-formula> is also discussed and it is found that the results vary by up to <inline-formula> <mml:math> <mml:mo>\u2248</mml:mo> <mml:mn>13</mml:mn> <mml:mi>%</mml:mi> </mml:math> </inline-formula> when using all six polarizer angles versus only a select of three angles."
-  },
+  "abstract": [
+    {
+      "atext": "A new instrument was designed to take visible-light (VL) polarized brightness ( <inline-formula> <mml:math> <mml:mi>pB</mml:mi> </mml:math> </inline-formula>) observations of the solar corona during the 14 December 2020 total solar eclipse. The instrument, called the Coronal Imaging Polarizer (CIP), consisted of a 16 MP CMOS detector, a linear polarizer housed within a piezoelectric rotation mount, and an f-5.6, 200 mm DSLR lens. Observations were successfully obtained, despite poor weather conditions, for five different exposure times (0.001 s, 0.01 s, 0.1 s, 1 s, and 3 s) at six different orientation angles of the linear polarizer ( <inline-formula> <mml:math> <mml:msup> <mml:mn>0</mml:mn> <mml:mo>\u2218</mml:mo> </mml:msup> </mml:math> </inline-formula>, <inline-formula> <mml:math> <mml:msup> <mml:mn>30</mml:mn> <mml:mo>\u2218</mml:mo> </mml:msup> </mml:math> </inline-formula>, <inline-formula> <mml:math> <mml:msup> <mml:mn>60</mml:mn> <mml:mo>\u2218</mml:mo> </mml:msup> </mml:math> </inline-formula>, <inline-formula> <mml:math> <mml:msup> <mml:mn>90</mml:mn> <mml:mo>\u2218</mml:mo> </mml:msup> </mml:math> </inline-formula>, <inline-formula> <mml:math> <mml:msup> <mml:mn>120</mml:mn> <mml:mo>\u2218</mml:mo> </mml:msup> </mml:math> </inline-formula>, and <inline-formula> <mml:math> <mml:msup> <mml:mn>150</mml:mn> <mml:mo>\u2218</mml:mo> </mml:msup> </mml:math> </inline-formula>). The images were manually aligned using the drift of background stars in the sky and images of different exposure times were combined using a simple signal-to-noise ratio cut. The polarization and brightness of the local sky were also estimated and the observations were subsequently corrected. The <inline-formula> <mml:math> <mml:mi>pB</mml:mi> </mml:math> </inline-formula> of the K-corona was determined using least-squares fitting and radiometric calibration was done relative to the Mauna Loa Solar Observatory (MLSO) K-Cor <inline-formula> <mml:math> <mml:mi>pB</mml:mi> </mml:math> </inline-formula> observations from the day of the eclipse. The <inline-formula> <mml:math> <mml:mi>pB</mml:mi> </mml:math> </inline-formula> data was then inverted to acquire the coronal electron density, <inline-formula> <mml:math> <mml:msub> <mml:mi>n</mml:mi> <mml:mi>e</mml:mi> </mml:msub> </mml:math> </inline-formula>, for an equatorial streamer and a polar coronal hole, which agreed very well with previous studies. The effect of changing the number of polarizer angles used to compute the <inline-formula> <mml:math> <mml:mi>pB</mml:mi> </mml:math> </inline-formula> is also discussed and it is found that the results vary by up to <inline-formula> <mml:math> <mml:mo>\u2248</mml:mo> <mml:mn>13</mml:mn> <mml:mi>%</mml:mi> </mml:math> </inline-formula> when using all six polarizer angles versus only a select of three angles.",
+      "language": "en"
+    }
+  ],
   "authors": [
     {
       "affiliation": [
@@ -294,6 +297,7 @@
       "keySystem": "misc"
     }
   ],
+  "language": "en",
   "openAccess": {
     "license": "Open Access This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article\u2019s Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article\u2019s Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit http://creativecommons.org/licenses/by/4.0/.",
     "licenseURL": "http://creativecommons.org/licenses/by/4.0/",
@@ -339,10 +343,13 @@
     }
   ],
   "recordData": {
+    "UUID": "",
     "createdTime": "",
+    "dataType": "",
     "loadFormat": "JATS",
     "loadLocation": "",
     "loadType": "fromFile",
+    "masterRecord": "",
     "parsedTime": "",
     "recordOrigin": ""
   },
@@ -409,7 +416,10 @@
     "<ref id=\"CR60\"> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Wang</surname> <given-names>F.</given-names> </name> <name> <surname>Theuwissen</surname> <given-names>A.</given-names> </name> </person-group> <article-title xml:lang=\"en\">Linearity analysis of a CMOS image sensor</article-title> <source>Electron. Imaging</source> <year>2017</year> <volume>29</volume> <fpage>84</fpage> <pub-id pub-id-type=\"doi\">10.2352/ISSN.2470-1173.2017.11.IMSE-191</pub-id> </mixed-citation> </ref>",
     "<ref id=\"CR61\"> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Zotti</surname> <given-names>G.</given-names> </name> <name> <surname>Hoffmann</surname> <given-names>S.M.</given-names> </name> <name> <surname>Wolf</surname> <given-names>A.</given-names> </name> <name> <surname>Ch\u00e9reau</surname> <given-names>F.</given-names> </name> <name> <surname>Ch\u00e9reau</surname> <given-names>G.</given-names> </name> </person-group> <article-title xml:lang=\"en\">The simulated sky: stellarium for cultural astronomy research</article-title> <source>J. Skyscape Archaeol.</source> <year>2021</year> <volume>6</volume> <issue>2</issue> <fpage>221</fpage> <pub-id pub-id-type=\"doi\">10.1558/jsa.17822</pub-id> <comment>https://journal.equinoxpub.com/JSA/article/view/17822</comment> </mixed-citation> </ref>"
   ],
-  "title": {
-    "textEnglish": "Derived Electron Densities from Linear Polarization Observations of the Visible-Light Corona During the 14 December 2020 Total Solar Eclipse"
-  }
+  "title": [
+    {
+      "atext": "Derived Electron Densities from Linear Polarization Observations of the Visible-Light Corona During the 14 December 2020 Total Solar Eclipse",
+      "language": "en"
+    }
+  ]
 }

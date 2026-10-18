@@ -16,6 +16,7 @@
     "statement": "\u00a9 2024 American Nuclear Society",
     "status": true
   },
+  "language": "en",
   "pagination": {
     "firstPage": "iii",
     "lastPage": "iii",
@@ -54,14 +55,25 @@
     }
   ],
   "recordData": {
+    "UUID": "",
     "createdTime": "",
+    "dataType": "",
     "loadFormat": "JATS",
     "loadLocation": "",
     "loadType": "fromFile",
+    "masterRecord": "",
     "parsedTime": "",
     "recordOrigin": ""
   },
-  "title": {
-    "textEnglish": "Foreword: Special issue on the Nuclear Energy Advanced Modeling and Simulation Thermal Hydraulics Integrated Research Project"
-  }
+  "title": [
+    {
+      "atext": "Foreword: Special issue on the Nuclear Energy Advanced Modeling and Simulation Thermal Hydraulics Integrated Research Project"
+    },
+    {
+      "atext": "MERZARI \u2022 FOREWORD"
+    },
+    {
+      "atext": "FOREWORD \u2022 MERZARI"
+    }
+  ]
 }

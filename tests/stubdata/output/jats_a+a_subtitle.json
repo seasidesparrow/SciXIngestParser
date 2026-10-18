@@ -1,7 +1,10 @@
 {
-  "abstract": {
-    "textEnglish": "The study of the properties of galaxies in the first billion years after the Big Bang is one of the major topics of current astrophysics. Optical and near-infrared spectroscopy of the afterglows of long gamma-ray bursts (GRBs) provides a powerful diagnostic tool to probe the interstellar medium (ISM) of their host galaxies and foreground absorbers, even up to the highest redshifts. We analyze the VLT/X-shooter afterglow spectrum of GRB 210905A, triggered by the Neil Gehrels Swift Observatory, and detect neutral hydrogen, low-ionization, high-ionization, and fine-structure absorption lines from a complex system at z = 6.3118, which we associate with the GRB host galaxy. We use them to study the ISM properties of the host system, revealing the metallicity, kinematics, and chemical abundance pattern of its gas along the GRB line of sight. We also detect absorption lines from at least two foreground absorbers at z = 5.7390 and z = 2.8296. The total metallicity of the z \u223c 6.3 system is [M/H]<sub>tot</sub> = \u22121.72 \u00b1 0.13, after correcting for dust depletion and taking \u03b1-element enhancement into account, as suggested by our analysis. This is consistent with the values found for the other two GRBs at z \u223c 6 with spectroscopic data showing metal absorption lines (GRB 050904 and GRB 130606A), and it is at the higher end of the metallicity distribution of quasar damped Lyman-\u03b1 systems (QSO-DLAs) extrapolated to such a high redshift. In addition, we determine the overall amount of dust and dust-to-metal mass ratio (DTM) ([Zn/Fe]<sub>fit</sub> = 0.33 \u00b1 0.09 and DTM = 0.18 \u00b1 0.03). We find indications of nucleosynthesis due to massive stars and, for some of the components of the gas clouds, we find evidence of peculiar nucleosynthesis, with an overabundance of aluminum (as also found for GRB 130606A). From the analysis of fine-structure lines, we determine distances of several kiloparsecs for the low-ionization gas clouds closest to the GRB. Those are farther distances than usually found for GRB host absorption systems, possibly due to the very high number of ionizing photons produced by the GRB that could ionize the line of sight up to several hundreds of parsecs. Using the HST/F140W image of the GRB field, we show the GRB host galaxy (with a possible afterglow contamination) as well as multiple objects within 2\u2033 from the GRB position. We discuss the galaxy structure and kinematics that could explain our observations, also taking into account a tentative detection of Lyman-\u03b1 emission at z = 6.3449 (\u223c1200 km s<sup>\u22121</sup> from the GRB redshift in velocity space), and the observational properties of Lyman-\u03b1 emitters at very high redshift. This study shows the amazing potential of GRBs to access detailed information on the properties (metal enrichment, gas kinematic, dust content, nucleosynthesis...) of very high-redshift galaxies, independently of the galaxy luminosity. Deep spectroscopic observations with VLT/MUSE and JWST will offer the unique possibility of combining the information presented in this paper with the properties of the ionized gas, with the goal of better understanding how galaxies in the reionization era form and evolve."
-  },
+  "abstract": [
+    {
+      "atext": "The study of the properties of galaxies in the first billion years after the Big Bang is one of the major topics of current astrophysics. Optical and near-infrared spectroscopy of the afterglows of long gamma-ray bursts (GRBs) provides a powerful diagnostic tool to probe the interstellar medium (ISM) of their host galaxies and foreground absorbers, even up to the highest redshifts. We analyze the VLT/X-shooter afterglow spectrum of GRB 210905A, triggered by the Neil Gehrels Swift Observatory, and detect neutral hydrogen, low-ionization, high-ionization, and fine-structure absorption lines from a complex system at z = 6.3118, which we associate with the GRB host galaxy. We use them to study the ISM properties of the host system, revealing the metallicity, kinematics, and chemical abundance pattern of its gas along the GRB line of sight. We also detect absorption lines from at least two foreground absorbers at z = 5.7390 and z = 2.8296. The total metallicity of the z \u223c 6.3 system is [M/H]<sub>tot</sub> = \u22121.72 \u00b1 0.13, after correcting for dust depletion and taking \u03b1-element enhancement into account, as suggested by our analysis. This is consistent with the values found for the other two GRBs at z \u223c 6 with spectroscopic data showing metal absorption lines (GRB 050904 and GRB 130606A), and it is at the higher end of the metallicity distribution of quasar damped Lyman-\u03b1 systems (QSO-DLAs) extrapolated to such a high redshift. In addition, we determine the overall amount of dust and dust-to-metal mass ratio (DTM) ([Zn/Fe]<sub>fit</sub> = 0.33 \u00b1 0.09 and DTM = 0.18 \u00b1 0.03). We find indications of nucleosynthesis due to massive stars and, for some of the components of the gas clouds, we find evidence of peculiar nucleosynthesis, with an overabundance of aluminum (as also found for GRB 130606A). From the analysis of fine-structure lines, we determine distances of several kiloparsecs for the low-ionization gas clouds closest to the GRB. Those are farther distances than usually found for GRB host absorption systems, possibly due to the very high number of ionizing photons produced by the GRB that could ionize the line of sight up to several hundreds of parsecs. Using the HST/F140W image of the GRB field, we show the GRB host galaxy (with a possible afterglow contamination) as well as multiple objects within 2\u2033 from the GRB position. We discuss the galaxy structure and kinematics that could explain our observations, also taking into account a tentative detection of Lyman-\u03b1 emission at z = 6.3449 (\u223c1200 km s<sup>\u22121</sup> from the GRB redshift in velocity space), and the observational properties of Lyman-\u03b1 emitters at very high redshift. This study shows the amazing potential of GRBs to access detailed information on the properties (metal enrichment, gas kinematic, dust content, nucleosynthesis...) of very high-redshift galaxies, independently of the galaxy luminosity. Deep spectroscopic observations with VLT/MUSE and JWST will offer the unique possibility of combining the information presented in this paper with the properties of the ionized gas, with the goal of better understanding how galaxies in the reionization era form and evolve.",
+      "language": "en"
+    }
+  ],
   "authors": [
     {
       "affiliation": [
@@ -599,6 +602,7 @@
       "keySystem": "misc"
     }
   ],
+  "language": "en",
   "openAccess": {
     "license": "Open Access article, published by EDP Sciences, under the terms of the Creative Commons Attribution License (https://creativecommons.org/licenses/by/4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.",
     "licenseURL": "https://www.edpsciences.org",
@@ -645,10 +649,13 @@
     }
   ],
   "recordData": {
+    "UUID": "",
     "createdTime": "",
+    "dataType": "",
     "loadFormat": "JATS",
     "loadLocation": "",
     "loadType": "fromFile",
+    "masterRecord": "",
     "parsedTime": "",
     "recordOrigin": ""
   },
@@ -786,13 +793,23 @@
     "<ref id=\"R131\"> <mixed-citation publication-type=\"journal\"> <string-name><surname>Zafar</surname>, <given-names>T.</given-names></string-name>, &amp; <string-name><surname>M\u00f8ller</surname>, <given-names>P.</given-names></string-name> <year>2019</year>, <source>MNRAS</source>, <volume>482</volume>, <fpage>2731</fpage> </mixed-citation> </ref>",
     "<ref id=\"R132\"> <mixed-citation publication-type=\"journal\"> <string-name><surname>Zafar</surname>, <given-names>T.</given-names></string-name>, <string-name><surname>P\u00e9roux</surname>, <given-names>C.</given-names></string-name>, <string-name><surname>Popping</surname>, <given-names>A.</given-names></string-name>, et al. <year>2013</year>, <source>A&amp;A</source>, <volume>556</volume>, <fpage>A141</fpage> </mixed-citation> </ref>"
   ],
-  "subtitle": {
-    "textEnglish": "X-shooter spectroscopy and HST imaging of the afterglow and environment of the Swift GRB 210905A",
-    "textNotes": [
-      "\u22c6 Based on observations carried out under ESO prog. ID 106.21T6.010 and ID 106.21T6.015 (PI: N. Tanvir) with the X-shooter spectrograph installed at the Cassegrain focus of the Very Large Telescope (VLT), Unit 3 \u2013 Melipal, operated by the European Southern Observatory (ESO) on Cerro Paranal, Chile. Partly based on observations with the NASA/ESA Hubble Space Telescope, obtained at the Space Telescope Science Institute, which is operated by the Association of Universities for Research in Astronomy (AURA). This observation is primarily associated with proposal GO 16918, PI: N. Tanvir."
-    ]
-  },
-  "title": {
-    "textEnglish": "Dissecting the interstellar medium of a z = 6.3 galaxy"
-  }
+  "subtitle": [
+    {
+      "atext": "X-shooter spectroscopy and HST imaging of the afterglow and environment of the Swift GRB 210905A\u22c6",
+      "language": "en"
+    }
+  ],
+  "title": [
+    {
+      "atext": "Dissecting the interstellar medium of a z = 6.3 galaxy",
+      "footnotes": [
+        {
+          "id": "FN1",
+          "label": "\u22c6",
+          "text": "Based on observations carried out under ESO prog. ID 106.21T6.010 and ID 106.21T6.015 (PI: N. Tanvir) with the X-shooter spectrograph installed at the Cassegrain focus of the Very Large Telescope (VLT), Unit 3 \u2013 Melipal, operated by the European Southern Observatory (ESO) on Cerro Paranal, Chile. Partly based on observations with the NASA/ESA Hubble Space Telescope, obtained at the Space Telescope Science Institute, which is operated by the Association of Universities for Research in Astronomy (AURA). This observation is primarily associated with proposal GO 16918, PI: N. Tanvir."
+        }
+      ],
+      "language": "en"
+    }
+  ]
 }

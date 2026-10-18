@@ -1,7 +1,9 @@
 {
-  "abstract": {
-    "textEnglish": "We answer the question of whether long-period comet C/1961 T1 (Seki) is the parent body of a meteor shower observed in Earth\u2019s atmosphere. We model discrete parts of a meteoroid stream associated with this comet and follow the orbital evolution of its particles via a numerical integration of their orbits. The gravitational perturbations of major planets and the Poynting\u2013Robertson effect, which influences the motion of the particles, are taken into account. We predict two showers which are related to C/1961 T1. One of these showers was identified with the December &rgr;-Virginids, #502. This identification confirms an earlier suggested relationship between the shower and the comet. The second predicted shower was identified with the \u03b3-Sagittariids, #657. The radiant areas of both showers are symmetrical in respect to the apex of Earth\u2019s heliocentric motion."
-  },
+  "abstract": [
+    {
+      "atext": "We answer the question of whether long-period comet C/1961 T1 (Seki) is the parent body of a meteor shower observed in Earth\u2019s atmosphere. We model discrete parts of a meteoroid stream associated with this comet and follow the orbital evolution of its particles via a numerical integration of their orbits. The gravitational perturbations of major planets and the Poynting\u2013Robertson effect, which influences the motion of the particles, are taken into account. We predict two showers which are related to C/1961 T1. One of these showers was identified with the December &rgr;-Virginids, #502. This identification confirms an earlier suggested relationship between the shower and the comet. The second predicted shower was identified with the \u03b3-Sagittariids, #657. The radiant areas of both showers are symmetrical in respect to the apex of Earth\u2019s heliocentric motion."
+    }
+  ],
   "authors": [
     {
       "affiliation": [
@@ -49,11 +51,11 @@
   },
   "funding": [
     {
-      "agencyname": "EC \u2223 European Regional Development Fund (ERDF)\n",
       "agencyid": {
         "idschema": "doi",
         "idvalue": "https://doi.org/10.13039/501100008530"
       },
+      "agencyname": "EC \u2223 European Regional Development Fund (ERDF)\n",
       "awardnumber": "ITMS 26230120002"
     },
     {
@@ -139,10 +141,13 @@
     }
   ],
   "recordData": {
+    "UUID": "",
     "createdTime": "",
+    "dataType": "",
     "loadFormat": "JATS",
     "loadLocation": "",
     "loadType": "fromFile",
+    "masterRecord": "",
     "parsedTime": "",
     "recordOrigin": ""
   },
@@ -218,7 +223,15 @@
     "<ref id=\"ajabfdc9bib68\"> <element-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Younger</surname> <given-names>J. P.</given-names> </name> <name> <surname>Reid</surname> <given-names>I. M.</given-names> </name> <name> <surname>Vincent</surname> <given-names>R. A.</given-names> </name> <name> <surname>Holdsworth</surname> <given-names>D. A.</given-names> </name> <name> <surname>Murphy</surname> <given-names>D. J.</given-names> </name> </person-group> <year>2009</year> <source>MNRAS</source> <volume>398</volume> <fpage>350</fpage> <ext-link ext-link-type=\"bibcode\">2009MNRAS.398..350Y</ext-link> <pub-id pub-id-type=\"doi\">10.1111/j.1365-2966.2009.15142.x</pub-id> </element-citation> </ref>",
     "<ref id=\"ajabfdc9bib69\"> <element-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Younger</surname> <given-names>J. P.</given-names> </name> <name> <surname>Reid</surname> <given-names>I. M.</given-names> </name> <name> <surname>Vincent</surname> <given-names>R. A.</given-names> </name> <name> <surname>Murphy</surname> <given-names>D. J.</given-names> </name> </person-group> <year>2012</year> <source>MNRAS</source> <volume>425</volume> <fpage>1473</fpage> <ext-link ext-link-type=\"bibcode\">2012MNRAS.425.1473Y</ext-link> <pub-id pub-id-type=\"doi\">10.1111/j.1365-2966.2012.21632.x</pub-id> </element-citation> </ref>"
   ],
-  "title": {
-    "textEnglish": "Meteoroid Stream of Comet C/1961 T1 (Seki) and Its Relation to the December &rgr;-Virginids and \u03b3-Sagittariids"
-  }
+  "title": [
+    {
+      "atext": "Meteoroid Stream of Comet C/1961 T1 (Seki) and Its Relation to the December &rgr;-Virginids and \u03b3-Sagittariids"
+    },
+    {
+      "atext": "Meteoroid Stream of Comet C/1961 T1 (Seki) and Its Relation to the December &rgr;-Virginids and \u03b3-Sagittariids"
+    },
+    {
+      "atext": "Lubo\u0161 Neslu\u0161an, and M\u00e1ria Hajdukov\u00e1"
+    }
+  ]
 }

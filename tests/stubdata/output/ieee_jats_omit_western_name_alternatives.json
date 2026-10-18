@@ -1,7 +1,9 @@
 {
-  "abstract": {
-    "textEnglish": "[REDACTED]"
-  },
+  "abstract": [
+    {
+      "atext": "[REDACTED]"
+    }
+  ],
   "authors": [
     {
       "affiliation": [
@@ -92,6 +94,7 @@
       "keySystem": "misc"
     }
   ],
+  "language": "eng",
   "pagination": {
     "firstPage": "1",
     "lastPage": "8",
@@ -132,14 +135,19 @@
     }
   ],
   "recordData": {
+    "UUID": "",
     "createdTime": "",
+    "dataType": "",
     "loadFormat": "JATS",
     "loadLocation": "",
     "loadType": "fromFile",
+    "masterRecord": "",
     "parsedTime": "",
     "recordOrigin": ""
   },
-  "title": {
-    "textEnglish": "A Portable Single-Sided Magnetic Resonance Elastography System for Biological Tissues"
-  }
+  "title": [
+    {
+      "atext": "A Portable Single-Sided Magnetic Resonance Elastography System for Biological Tissues"
+    }
+  ]
 }

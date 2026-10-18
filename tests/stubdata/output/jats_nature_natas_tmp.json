@@ -1,7 +1,10 @@
 {
-  "abstract": {
-    "textEnglish": "It is commonly accepted that exoplanets with orbital periods shorter than one day, also known as ultra-short-period (USP) planets, formed further out within their natal protoplanetary disks before migrating to their current-day orbits via dynamical interactions. One of the most accepted theories suggests a violent scenario involving high-eccentricity migration followed by tidal circularization. Here we present the discovery of a four-planet system orbiting the bright (V = 10.5) K6 dwarf star TOI-500. The innermost planet is a transiting, Earth-sized USP planet with an orbital period of ~13 hours, a mass of 1.42 \u00b1 0.18 M<sub>\u2295</sub>, a radius of <inline-formula><mml:math><mml:mrow><mml:mn>1.16</mml:mn><mml:msubsup><mml:mrow><mml:mn>6</mml:mn></mml:mrow><mml:mrow><mml:mo>\u2212</mml:mo><mml:mn>0.058</mml:mn></mml:mrow><mml:mrow><mml:mo>+</mml:mo><mml:mn>0.061</mml:mn></mml:mrow></mml:msubsup><mml:mspace></mml:mspace><mml:msub><mml:mrow><mml:mi>R</mml:mi></mml:mrow><mml:mrow><mml:mo>\u2295</mml:mo></mml:mrow></mml:msub></mml:mrow></mml:math></inline-formula> and a mean density of <inline-formula><mml:math><mml:mrow><mml:mn>4.8</mml:mn><mml:msubsup><mml:mrow><mml:mn>9</mml:mn></mml:mrow><mml:mrow><mml:mo>\u2212</mml:mo><mml:mn>0.88</mml:mn></mml:mrow><mml:mrow><mml:mo>+</mml:mo><mml:mn>1.03</mml:mn></mml:mrow></mml:msubsup><mml:mspace></mml:mspace><mml:mi>g</mml:mi><mml:mspace></mml:mspace><mml:msup><mml:mrow><mml:mi>cm</mml:mi></mml:mrow><mml:mrow><mml:mo>\u2212</mml:mo><mml:mn>3</mml:mn></mml:mrow></mml:msup></mml:mrow></mml:math></inline-formula>. Via Doppler spectroscopy, we discovered that the system hosts 3 outer planets on nearly circular orbits with periods of 6.6, 26.2 and 61.3 days and minimum masses of 5.03 \u00b1 0.41 M<sub>\u2295</sub>, 33.12 \u00b1 0.88 M<sub>\u2295</sub> and <inline-formula><mml:math><mml:mrow><mml:mn>15.0</mml:mn><mml:msubsup><mml:mrow><mml:mn>5</mml:mn></mml:mrow><mml:mrow><mml:mo>\u2212</mml:mo><mml:mn>1.11</mml:mn></mml:mrow><mml:mrow><mml:mo>+</mml:mo><mml:mn>1.12</mml:mn></mml:mrow></mml:msubsup><mml:mspace></mml:mspace><mml:msub><mml:mrow><mml:mi>M</mml:mi></mml:mrow><mml:mrow><mml:mo>\u2295</mml:mo></mml:mrow></mml:msub></mml:mrow></mml:math></inline-formula>, respectively. The presence of both a USP planet and a low-mass object on a 6.6-day orbit indicates that the architecture of this system can be explained via a scenario in which the planets started on low-eccentricity orbits then moved inwards through a quasi-static secular migration. Our numerical simulations show that this migration channel can bring TOI-500 b to its current location in 2 Gyr, starting from an initial orbit of 0.02 au. TOI-500 is the first four-planet system known to host a USP Earth analogue whose current architecture can be explained via a non-violent migration scenario."
-  },
+  "abstract": [
+    {
+      "atext": "It is commonly accepted that exoplanets with orbital periods shorter than one day, also known as ultra-short-period (USP) planets, formed further out within their natal protoplanetary disks before migrating to their current-day orbits via dynamical interactions. One of the most accepted theories suggests a violent scenario involving high-eccentricity migration followed by tidal circularization. Here we present the discovery of a four-planet system orbiting the bright (V = 10.5) K6 dwarf star TOI-500. The innermost planet is a transiting, Earth-sized USP planet with an orbital period of ~13 hours, a mass of 1.42 \u00b1 0.18 M<sub>\u2295</sub>, a radius of <inline-formula><mml:math><mml:mrow><mml:mn>1.16</mml:mn><mml:msubsup><mml:mrow><mml:mn>6</mml:mn></mml:mrow><mml:mrow><mml:mo>\u2212</mml:mo><mml:mn>0.058</mml:mn></mml:mrow><mml:mrow><mml:mo>+</mml:mo><mml:mn>0.061</mml:mn></mml:mrow></mml:msubsup><mml:mspace></mml:mspace><mml:msub><mml:mrow><mml:mi>R</mml:mi></mml:mrow><mml:mrow><mml:mo>\u2295</mml:mo></mml:mrow></mml:msub></mml:mrow></mml:math></inline-formula> and a mean density of <inline-formula><mml:math><mml:mrow><mml:mn>4.8</mml:mn><mml:msubsup><mml:mrow><mml:mn>9</mml:mn></mml:mrow><mml:mrow><mml:mo>\u2212</mml:mo><mml:mn>0.88</mml:mn></mml:mrow><mml:mrow><mml:mo>+</mml:mo><mml:mn>1.03</mml:mn></mml:mrow></mml:msubsup><mml:mspace></mml:mspace><mml:mi>g</mml:mi><mml:mspace></mml:mspace><mml:msup><mml:mrow><mml:mi>cm</mml:mi></mml:mrow><mml:mrow><mml:mo>\u2212</mml:mo><mml:mn>3</mml:mn></mml:mrow></mml:msup></mml:mrow></mml:math></inline-formula>. Via Doppler spectroscopy, we discovered that the system hosts 3 outer planets on nearly circular orbits with periods of 6.6, 26.2 and 61.3 days and minimum masses of 5.03 \u00b1 0.41 M<sub>\u2295</sub>, 33.12 \u00b1 0.88 M<sub>\u2295</sub> and <inline-formula><mml:math><mml:mrow><mml:mn>15.0</mml:mn><mml:msubsup><mml:mrow><mml:mn>5</mml:mn></mml:mrow><mml:mrow><mml:mo>\u2212</mml:mo><mml:mn>1.11</mml:mn></mml:mrow><mml:mrow><mml:mo>+</mml:mo><mml:mn>1.12</mml:mn></mml:mrow></mml:msubsup><mml:mspace></mml:mspace><mml:msub><mml:mrow><mml:mi>M</mml:mi></mml:mrow><mml:mrow><mml:mo>\u2295</mml:mo></mml:mrow></mml:msub></mml:mrow></mml:math></inline-formula>, respectively. The presence of both a USP planet and a low-mass object on a 6.6-day orbit indicates that the architecture of this system can be explained via a scenario in which the planets started on low-eccentricity orbits then moved inwards through a quasi-static secular migration. Our numerical simulations show that this migration channel can bring TOI-500 b to its current location in 2 Gyr, starting from an initial orbit of 0.02 au. TOI-500 is the first four-planet system known to host a USP Earth analogue whose current architecture can be explained via a non-violent migration scenario.",
+      "language": "en"
+    }
+  ],
   "authors": [
     {
       "affiliation": [
@@ -1321,6 +1324,7 @@
       "agencyname": "Th\u00fcringer Ministerium f\u00fcr Wirtschaft, Wissenschaft und Digitale Gesellschaft"
     }
   ],
+  "language": "en",
   "pagination": {
     "firstPage": "1",
     "lastPage": "15",
@@ -1356,10 +1360,13 @@
     }
   ],
   "recordData": {
+    "UUID": "",
     "createdTime": "",
+    "dataType": "",
     "loadFormat": "JATS",
     "loadLocation": "",
     "loadType": "fromFile",
+    "masterRecord": "",
     "parsedTime": "",
     "recordOrigin": ""
   },
@@ -1521,7 +1528,10 @@
     "<ref id=\"CR155\"><label>155.</label><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><name><surname>Stassun</surname><given-names>KG</given-names></name><etal/></person-group><article-title xml:lang=\"en\">The TESS input catalog and candidate target list</article-title><source>Astron. J.</source><year>2018</year><volume>156</volume><fpage>102</fpage><pub-id pub-id-type=\"bibcode\">2018AJ....156..102S</pub-id><pub-id pub-id-type=\"doi\">10.3847/1538-3881/aad050</pub-id></mixed-citation></ref>",
     "<ref id=\"CR156\"><label>156.</label><mixed-citation publication-type=\"journal\"><person-group person-group-type=\"author\"><name><surname>Espinoza</surname><given-names>N</given-names></name><etal/></person-group><article-title xml:lang=\"en\">HD 213885b: a transiting 1-d-period super-Earth with an Earth-like composition around a bright (V\u2009=\u20097.9) star unveiled by TESS</article-title><source>Mon. Not. R. Astron. Soc.</source><year>2020</year><volume>491</volume><fpage>2982</fpage><lpage>2999</lpage><pub-id pub-id-type=\"bibcode\">2020MNRAS.491.2982E</pub-id><pub-id pub-id-type=\"doi\">10.1093/mnras/stz3150</pub-id></mixed-citation></ref>"
   ],
-  "title": {
-    "textEnglish": "A low-eccentricity migration pathway for a 13-h-period Earth analogue in a four-planet system"
-  }
+  "title": [
+    {
+      "atext": "A low-eccentricity migration pathway for a 13-h-period Earth analogue in a four-planet system",
+      "language": "en"
+    }
+  ]
 }

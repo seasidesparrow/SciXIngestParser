@@ -1,7 +1,9 @@
 {
-  "abstract": {
-    "textEnglish": "While most commodity plastics were not designed to easily depolymerize, some common plastics can be broken down into their parent monomers in the presence of heat, pressure, catalysts, and/or solvent. Here, we provide a high-level overview of the depolymerization technologies that have been studied and/or scaled as promising monomer-loop recycling processes for selective plastic waste streams. Namely, commodity plastics that are considered unzippable/depolymerizable include polyethylene terephthalate, polyamides, polymethyl methacrylate, and polystyrene. Monomer-loop recycling technologies are one of several pathways toward a circular economy for plastics."
-  },
+  "abstract": [
+    {
+      "atext": "While most commodity plastics were not designed to easily depolymerize, some common plastics can be broken down into their parent monomers in the presence of heat, pressure, catalysts, and/or solvent. Here, we provide a high-level overview of the depolymerization technologies that have been studied and/or scaled as promising monomer-loop recycling processes for selective plastic waste streams. Namely, commodity plastics that are considered unzippable/depolymerizable include polyethylene terephthalate, polyamides, polymethyl methacrylate, and polystyrene. Monomer-loop recycling technologies are one of several pathways toward a circular economy for plastics."
+    }
+  ],
   "authors": [
     {
       "affiliation": [
@@ -92,6 +94,7 @@
       "keySystem": "misc"
     }
   ],
+  "language": "en",
   "pagination": {
     "firstPage": "2499",
     "lastPage": "2524",
@@ -126,10 +129,13 @@
     }
   ],
   "recordData": {
+    "UUID": "",
     "createdTime": "",
+    "dataType": "",
     "loadFormat": "JATS",
     "loadLocation": "",
     "loadType": "fromFile",
+    "masterRecord": "",
     "parsedTime": "",
     "recordOrigin": ""
   },
@@ -257,7 +263,9 @@
     "<ref id=\"j_psr-2023-0014_ref_121\"> <label>121.</label> <mixed-citation>Uekert, T, Singh, A, DesVeaux, JS, Ghosh, T, Bhatt, A, Yadav, G, et al.. Technical, economic, and environmental Comparison of closed-loop recycling technologies for common plastics. \t\t\t\t\t<italic>ACS Sustainable Chem Eng</italic> 2023;11:965\u201378. \t\t\t\t\t<ext-link ext-link-type=\"doi\" xlink:href=\"https://doi.org/10.1021/acssuschemeng.2c05497\">https://doi.org/10.1021/acssuschemeng.2c05497</ext-link>. \t\t\t\t</mixed-citation> <element-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Uekert</surname> <given-names>T</given-names> </name> <name> <surname>Singh</surname> <given-names>A</given-names> </name> <name> <surname>DesVeaux</surname> <given-names>JS</given-names> </name> <name> <surname>Ghosh</surname> <given-names>T</given-names> </name> <name> <surname>Bhatt</surname> <given-names>A</given-names> </name> <name> <surname>Yadav</surname> <given-names>G</given-names> </name> <etal/> </person-group> <article-title>Technical, economic, and environmental Comparison of closed-loop recycling technologies for common plastics</article-title> <source>ACS Sustainable Chem Eng</source> <year>2023</year> <volume>11</volume> <fpage>965</fpage> <lpage>78</lpage> <ext-link ext-link-type=\"doi\" xlink:href=\"https://doi.org/10.1021/acssuschemeng.2c05497\">https://doi.org/10.1021/acssuschemeng.2c05497</ext-link> </element-citation> </ref>",
     "<ref id=\"j_psr-2023-0014_ref_122\"> <label>122.</label> <mixed-citation> <italic>Depart of Energy: Strategy for Plastics Innovation</italic>. Available from: \t\t\t\t\t<ext-link ext-link-type=\"uri\" xlink:href=\"https://www.energy.gov/entity%3Anode/4394292/strategy-plastics-innovation\">https://www.energy.gov/entity%3Anode/4394292/strategy-plastics-innovation</ext-link>. \t\t\t\t</mixed-citation> <element-citation publication-type=\"book\"> <source>Depart of Energy: Strategy for Plastics Innovation</source> <comment>Available from:</comment> <ext-link ext-link-type=\"uri\" xlink:href=\"https://www.energy.gov/entity%3Anode/4394292/strategy-plastics-innovation\">https://www.energy.gov/entity%3Anode/4394292/strategy-plastics-innovation</ext-link> </element-citation> </ref>"
   ],
-  "title": {
-    "textEnglish": "Circular plastics technologies: depolymerization of polymers into parent monomers"
-  }
+  "title": [
+    {
+      "atext": "Circular plastics technologies: depolymerization of polymers into parent monomers"
+    }
+  ]
 }
