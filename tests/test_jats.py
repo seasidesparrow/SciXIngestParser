@@ -71,7 +71,7 @@ class TestJATS(unittest.TestCase):
             "mdpi_universe-08-00651",
         ]
         self._base_test(filenames, "lxml-xml")
- 
+
     def test_springer_jats(self):
         filenames = [
             "jats_springer_AcMSn_s10409-023-23061-x",

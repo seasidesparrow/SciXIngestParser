@@ -30,7 +30,7 @@ dependencies = [
     'nameparser==2.4.2',
     'ordered-set==4.1.0',
     'python-dateutil==2.8.1',
-    'json_schema @ git+https://github.com/seasidesparrow/ingest_data_model@v2.0.0',
+    'json_schema @ git+https://github.com/seasidesparrow/ingest_data_model@v2.0.1',
     'validators==0.36.0',
 ]
 
