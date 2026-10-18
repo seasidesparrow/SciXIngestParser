@@ -853,11 +853,28 @@ class JATSParser(BaseBeautifulSoupParser):
                     article_title_dict["footnotes"] = article_title_footnotes
                     article_title_footnotes = None
                 self.base_metadata["title"].append(article_title_dict)
+            running = [
+                "short",
+                "short-title",
+                "running-title",
+                "running-author",
+                "running-authors",
+                "left-running",
+                "left-running-head",
+                "right-running",
+                "right-running-head",
+                "toc-author",
+                "ascii",
+            ]
             if title_group.find_all("alt-title"):
                 for alt in title_group.find_all("alt-title"):
-                    alt_title_dict = {}
-                    alt_title_dict["atext"] = alt.get_text()
-                    self.base_metadata["title"].append(alt_title_dict)
+                    alt_title_type = alt.get("alt-title-type", "")
+                    # Exclude short-, running-title and running-author; we
+                    # won't index these because they're for typesetting
+                    if alt_title_type not in running:
+                        alt_title_dict = {}
+                        alt_title_dict["atext"] = alt.get_text()
+                        self.base_metadata["title"].append(alt_title_dict)
 
             # is there a translated title in title group?
             if title_group.find("trans-title-group"):
