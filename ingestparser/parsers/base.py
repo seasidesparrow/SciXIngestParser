@@ -30,6 +30,7 @@ class IngestBase(object):
 
     def __init__(self, xml_ref=True):
         warnings.filterwarnings("ignore", category=MarkupResemblesLocatorWarning, module="bs4")
+        warnings.filterwarnings("ignore", category=XMLParsedAsHTMLWarning, module="bs4")
         self.xml_ref = xml_ref
 
     def _clean_empty(self, input_to_clean, keys_to_keep=required_keys):
